@@ -1,18 +1,27 @@
-import { DarkTheme, DefaultTheme, ThemeProvider } from 'expo-router';
-import * as SplashScreen from 'expo-splash-screen';
-import { useColorScheme } from 'react-native';
+import { Stack } from 'expo-router';
+import { StatusBar } from 'expo-status-bar';
 
-import { AnimatedSplashOverlay } from '@/components/animated-icon';
-import AppTabs from '@/components/app-tabs';
+import { C } from '@/constants/theme';
+import { ProgressProvider } from '@/state/progress';
 
-SplashScreen.preventAutoHideAsync();
-
-export default function TabLayout() {
-  const colorScheme = useColorScheme();
+export default function RootLayout() {
   return (
-    <ThemeProvider value={colorScheme === 'dark' ? DarkTheme : DefaultTheme}>
-      <AnimatedSplashOverlay />
-      <AppTabs />
-    </ThemeProvider>
+    <ProgressProvider>
+      <StatusBar style="light" />
+      <Stack
+        screenOptions={{
+          headerStyle: { backgroundColor: C.bg },
+          headerTintColor: C.text,
+          headerTitleStyle: { fontWeight: '700' },
+          contentStyle: { backgroundColor: C.bg },
+        }}>
+        <Stack.Screen name="index" options={{ title: 'Library' }} />
+        <Stack.Screen name="settings" options={{ title: 'Settings', presentation: 'modal' }} />
+        <Stack.Screen name="game/[gameId]/index" options={{ title: '' }} />
+        <Stack.Screen name="game/[gameId]/chapter/[chapterId]" options={{ title: '' }} />
+        <Stack.Screen name="game/[gameId]/checklist" options={{ title: 'Checklist' }} />
+        <Stack.Screen name="game/[gameId]/play" options={{ title: 'Play mode' }} />
+      </Stack>
+    </ProgressProvider>
   );
 }
