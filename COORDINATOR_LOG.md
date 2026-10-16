@@ -5,6 +5,34 @@ Tracks the 20-game research queue in `research/state.json` and files landing in 
 
 ---
 
+## 2026-10-16 23:10 UTC
+
+**Year / queue:** currentYear = 2026. On `main`, state.json still shows 20 queued, 0 in progress, 0 done, 0 errors. On the PR #1 branch, `forza-horizon-6` is `done` (19 queued remain). No change since the 22:10 run.
+
+**Progress:** 1/20 games researched (awaiting merge). 0/20 merged to main.
+
+**Latest commits (origin/main):**
+- `63bc6d7` Coordinator log: PR #1 (Forza Horizon 6) open, 1/20 researched, researcher schedule still off (coordinator, 22:10 UTC)
+- `b296baa` Add coordinator log: first hourly status (coordinator, 21:10 UTC)
+- `febffc9` Redesign game researcher agent: one game per run, state.json, API keys as secrets (Tim, 20:38 UTC)
+- `adc2be6` Initial research queue: 20 games in priority order (Tim, 20:37 UTC)
+- `163d425` Plan: 20 games, content strategy, automation design (Tim, 20:35 UTC)
+
+No new commits from the game-researcher routine since `abf057d` (21:35 UTC, PR #1). The routine has not fired since; its schedule is still disabled.
+
+**Research files:** `research/` on `main` contains only `state.json`. The only research file in the repo is `research/forza-horizon-6.json` on the PR #1 branch. Naming matches the slug. No stray or misnamed files. No new branches on origin beyond `claude/research-forza-horizon-6`.
+
+**Quality check:** skipped, no new research files since the 22:10 check (forza-horizon-6.json passed then).
+
+**Blockers / errors / stale PRs:**
+- **PR #1 is still open, 1 h 35 min old, waiting for Tim to review and merge.** A local test merge against the current `main` is clean (the branch predates COORDINATOR_LOG.md but does not touch it). GitHub reports mergeable state as "unknown" only because it has not recomputed since main moved; there is no conflict.
+- The `game-researcher-routine` scheduled task is **still disabled**. Nothing new will be researched until Tim merges PR #1 and re-enables it (in that order, otherwise the next run re-picks forza-horizon-6 from main's stale state.json).
+- Still outstanding from PR #1's notes: `.claude/agents/game-researcher.md` names two dead Steam endpoints (`ISteamApps/GetAppList/v2`, `GetSchemaForApp`). Working replacements are `IStoreService/GetAppList/v1` and `ISteamUserStats/GetSchemaForGame/v2`.
+
+**Next game in queue:** `crimson-desert` — Crimson Desert (2026, evidence 3, route original), once PR #1 merges. Remaining 2026 titles after it: `007-first-light`, `pragmata`.
+
+---
+
 ## 2026-10-16 22:10 UTC
 
 **Year / queue:** currentYear = 2026. On `main`, state.json still shows 20 queued, 0 in progress, 0 done, 0 errors. On the open PR #1 branch, `forza-horizon-6` is marked `done` (19 queued remain). Main will catch up when PR #1 merges.
