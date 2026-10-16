@@ -5,6 +5,37 @@ Tracks the 20-game research queue in `research/state.json` and files landing in 
 
 ---
 
+## 2026-10-16 22:10 UTC
+
+**Year / queue:** currentYear = 2026. On `main`, state.json still shows 20 queued, 0 in progress, 0 done, 0 errors. On the open PR #1 branch, `forza-horizon-6` is marked `done` (19 queued remain). Main will catch up when PR #1 merges.
+
+**Progress:** 1/20 games researched (awaiting merge). 0/20 merged to main.
+
+**Latest commits:**
+- `abf057d` Research: Forza Horizon 6 metadata, achievements, wiki structure (Claude, 21:35 UTC, branch `claude/research-forza-horizon-6`, PR #1)
+- `b296baa` Add coordinator log: first hourly status (coordinator, 21:10 UTC)
+- `febffc9` Redesign game researcher agent: one game per run, state.json, API keys as secrets (Tim, 20:38 UTC)
+- `adc2be6` Initial research queue: 20 games in priority order (Tim, 20:37 UTC)
+- `163d425` Plan: 20 games, content strategy, automation design (Tim, 20:35 UTC)
+
+**Research files:** On `main`, `research/` still contains only `state.json`. PR #1 adds `research/forza-horizon-6.json` (520 lines) and updates `research/state.json`. Filename matches the slug. The `packPath: packs/forza-horizon-6.json` entry in state.json is a placeholder the agent spec asks for; no `packs/` directory exists yet, which is expected.
+
+**Quality check (research/forza-horizon-6.json, from PR #1):** PASS.
+- `id` = forza-horizon-6, `title` = Forza Horizon 6, `platforms` = Xbox Series X|S, PC.
+- `game` object present with 5 chapters (id, title, summary, steps) and 57 collectibles (id, name, kind, chapterId, where).
+- RAWG id and cover, Steam app 2483190 with 57 achievements, attribution list and route (`original`) all filled in.
+- Caveat from the researcher: no wiki structure was found (StrategyWiki has no page, Fandom returned empty), so the chapters are an estimate grouped from achievements and will need original guide writing.
+
+**Blockers / errors / stale PRs:**
+- **PR #1 is open and waiting for Tim to review and merge.** Mergeable state is clean, 2 files changed, no conflicts. Opened 21:35 UTC. Not stale yet.
+- The `game-researcher-routine` scheduled task is **still disabled**. Its one manual run at 21:33 UTC succeeded in about 2 minutes and produced PR #1, so the pipeline works end to end. Re-enabling the hourly schedule is Tim's call.
+- The researcher reported that two Steam endpoints named in `.claude/agents/game-researcher.md` return 404 (`ISteamApps/GetAppList/v2`, `GetSchemaForApp`). It used `IStoreService/GetAppList/v1` and `ISteamUserStats/GetSchemaForGame/v2` instead. The agent file should be updated so future runs do not waste a retry on the dead endpoints.
+- The researcher also noted `store.steampowered.com` is blocked by the environment network policy, and that state.json was re-saved with different formatting (larger diff than the real change).
+
+**Next game in queue:** once PR #1 merges, `crimson-desert` — Crimson Desert (2026, evidence 3, route original). If the researcher runs before the merge, it will re-pick `forza-horizon-6` from main's stale state.json, so merge PR #1 before re-enabling the schedule.
+
+---
+
 ## 2026-10-16 21:10 UTC
 
 **Year / queue:** currentYear = 2026. 20 games queued, 0 in progress, 0 done, 0 errors in state.json.
