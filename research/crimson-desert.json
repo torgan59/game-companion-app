@@ -75,7 +75,22 @@
       "available": true,
       "linkedPages": 3,
       "licence": "CC BY-SA (per site rightsinfo)",
-      "url": "https://crimsondesert.fandom.com/wiki/Crimson_Desert"
+      "url": "https://crimsondesert.fandom.com/wiki/Crimson_Desert",
+      "siteStats": {
+        "pages": 1004,
+        "articles": 355
+      },
+      "regions": [
+        "Akapen",
+        "Calphade",
+        "Delesyia",
+        "Demeniss",
+        "Hernand",
+        "Pailune",
+        "Senia",
+        "Tashkalp"
+      ],
+      "regionsSource": "Category:Regions via the MediaWiki API (names only); also contains \"Crimson Desert (region)\" for the wider area"
     }
   },
   "game": {
@@ -370,5 +385,5 @@
     "Fandom (crimsondesert.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://crimsondesert.fandom.com/wiki/Crimson_Desert"
   ],
   "route": "original",
-  "notes": "No StrategyWiki page. crimsondesert.fandom.com answers the MediaWiki API but the game page only links to DLC and soundtrack pages, so it gives no usable structure. Steam app 3321460 is listed as \"Crimson Desert Enhanced\" in IStoreService/GetAppList; GetSchemaForGame names it \"Crimson Desert\", so it is the right app. RAWG also lists a \"Charting the Unknown\" add-on due 2026-10-29. Chapter skeleton is an estimate grouped from the 34 Steam achievements and needs original guide writing."
+  "notes": "No StrategyWiki page. crimsondesert.fandom.com answers the MediaWiki API but the game page only links to DLC and soundtrack pages, so it gives no usable structure. Steam app 3321460 is listed as \"Crimson Desert Enhanced\" in IStoreService/GetAppList; GetSchemaForGame names it \"Crimson Desert\", so it is the right app. RAWG also lists a \"Charting the Unknown\" add-on due 2026-10-29. Chapter skeleton is an estimate grouped from the 34 Steam achievements and needs original guide writing. Fandom Category:Regions lists 8 regions (Akapen, Calphade, Delesyia, Demeniss, Hernand, Pailune, Senia, Tashkalp). Their story order is unknown; they could become chapter titles once confirmed by play. This replaces the duplicate research in PR #2."
 }

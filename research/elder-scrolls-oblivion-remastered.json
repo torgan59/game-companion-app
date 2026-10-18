@@ -1,0 +1,609 @@
+{
+  "id": "elder-scrolls-oblivion-remastered",
+  "title": "Elder Scrolls IV: Oblivion Remastered",
+  "year": 2025,
+  "platforms": [
+    "PC",
+    "PlayStation 5",
+    "Xbox Series X|S"
+  ],
+  "rawgId": 1001843,
+  "rawgSlug": "the-elder-scrolls-iv-oblivion-remastered",
+  "released": "2025-04-22",
+  "developers": [
+    "Bethesda Game Studios",
+    "Virtuos"
+  ],
+  "playtime": 10,
+  "genres": [
+    "Action",
+    "RPG"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Steam Cloud",
+    "Atmospheric",
+    "Great Soundtrack",
+    "RPG",
+    "Story Rich",
+    "Open World",
+    "First-Person",
+    "Third Person",
+    "Partial Controller Support",
+    "Fantasy"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/e56/e56b78444369c6b3ae92ae7f669bf8cd.jpg",
+  "steamAppId": 2623190,
+  "achievements": {
+    "total": 60,
+    "hidden": 0,
+    "examples": [
+      {
+        "name": "Escaped the Imperial Sewers",
+        "percent": 90.2
+      },
+      {
+        "name": "Closed an Oblivion Gate",
+        "percent": 56.1
+      },
+      {
+        "name": "Associate, Mages Guild",
+        "percent": 41.4
+      },
+      {
+        "name": "Regent, Shivering Isles",
+        "percent": 5.4
+      },
+      {
+        "name": "Defender, Shivering Isles",
+        "percent": 5.3
+      },
+      {
+        "name": "Madgod, Shivering Isles",
+        "percent": 5.1
+      },
+      {
+        "name": "Duke Mania, Shivering Isles",
+        "percent": 4.4
+      },
+      {
+        "name": "Duke Dementia, Shivering Isles",
+        "percent": 4.0
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": false,
+      "pages": 0,
+      "reason": "No page for Elder Scrolls IV: Oblivion Remastered (MediaWiki API returned missing; search empty)"
+    },
+    "uesp": {
+      "available": true,
+      "licence": "CC BY-SA 2.5",
+      "url": "https://en.uesp.net/wiki/Oblivion:Oblivion_Remastered",
+      "pages": {
+        "Oblivion:Main Quest": 55,
+        "Oblivion:Quests": 36,
+        "Oblivion:Oblivion Remastered": 28
+      },
+      "questlines": [
+        "Main Quest",
+        "Fighters Guild",
+        "Mages Guild",
+        "Thieves Guild",
+        "Dark Brotherhood",
+        "Arena",
+        "Daedric Quests",
+        "Side Quests",
+        "Knights of the Nine",
+        "Shivering Isles"
+      ]
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 153,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_IV:_Oblivion_Remastered"
+    }
+  },
+  "game": {
+    "id": "elder-scrolls-oblivion-remastered",
+    "title": "Elder Scrolls IV: Oblivion Remastered",
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "Xbox Series X|S"
+    ],
+    "blurb": "Remake of the 2006 open-world RPG from Bethesda Game Studios and Virtuos, released 2025-04-22. RAWG average playtime: 10 hours (undercounts a full playthrough). Genres: Action, RPG. Chapters follow the questline structure listed on UESP.",
+    "accent": "#4B6A88",
+    "chapters": [
+      {
+        "id": "main-quest",
+        "title": "The Main Quest",
+        "summary": "From the Imperial Prison sewers to the end of the Oblivion Crisis.",
+        "steps": []
+      },
+      {
+        "id": "fighters-guild",
+        "title": "Fighters Guild",
+        "summary": "Join the guild and climb its ranks.",
+        "steps": []
+      },
+      {
+        "id": "mages-guild",
+        "title": "Mages Guild",
+        "summary": "Earn recommendations from each city, then rise to Arch-Mage.",
+        "steps": []
+      },
+      {
+        "id": "thieves-guild",
+        "title": "Thieves Guild",
+        "summary": "Find the guild and work up to Guildmaster.",
+        "steps": []
+      },
+      {
+        "id": "dark-brotherhood",
+        "title": "Dark Brotherhood",
+        "summary": "The assassins' questline, rank by rank.",
+        "steps": []
+      },
+      {
+        "id": "arena",
+        "title": "The Arena",
+        "summary": "Fight your way from Pit Dog to Grand Champion in the Imperial City.",
+        "steps": []
+      },
+      {
+        "id": "daedric-and-side-quests",
+        "title": "Daedric Shrines and Side Quests",
+        "summary": "Daedric Princes' quests and the many town and wilderness side quests.",
+        "steps": []
+      },
+      {
+        "id": "knights-of-the-nine",
+        "title": "Knights of the Nine",
+        "summary": "The holy crusader add-on questline.",
+        "steps": []
+      },
+      {
+        "id": "shivering-isles",
+        "title": "Shivering Isles",
+        "summary": "The realm of madness expansion and the Court of Madness ranks.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Escaped the Imperial Sewers",
+        "kind": "trophy",
+        "chapterId": "main-quest",
+        "where": "Escaped the Imperial Sewers, Main Quest Beginning"
+      },
+      {
+        "id": "achievement-2",
+        "name": "Closed an Oblivion Gate",
+        "kind": "trophy",
+        "chapterId": "main-quest",
+        "where": "Closed an Oblivion Gate, Main Quest"
+      },
+      {
+        "id": "achievement-3",
+        "name": "Located the Shrine of Dagon",
+        "kind": "trophy",
+        "chapterId": "main-quest",
+        "where": "Located the Shrine of Dagon, Main Quest"
+      },
+      {
+        "id": "achievement-4",
+        "name": "Delivered Daedric Artifact",
+        "kind": "trophy",
+        "chapterId": "main-quest",
+        "where": "Delivered Daedric Artifact, Main Quest"
+      },
+      {
+        "id": "achievement-5",
+        "name": "Destroyed the Great Gate",
+        "kind": "trophy",
+        "chapterId": "main-quest",
+        "where": "Destroyed the Great Gate, Main Quest"
+      },
+      {
+        "id": "achievement-6",
+        "name": "Champion of Cyrodiil",
+        "kind": "trophy",
+        "chapterId": "main-quest",
+        "where": "Completed the Main Questline"
+      },
+      {
+        "id": "achievement-7",
+        "name": "Murderer, Dark Brotherhood",
+        "kind": "trophy",
+        "chapterId": "dark-brotherhood",
+        "where": "Join the Dark Brotherhood"
+      },
+      {
+        "id": "achievement-8",
+        "name": "Slayer, Dark Brotherhood",
+        "kind": "trophy",
+        "chapterId": "dark-brotherhood",
+        "where": "Reached Slayer rank in the Dark Brotherhood"
+      },
+      {
+        "id": "achievement-9",
+        "name": "Eliminator, Dark Brotherhood",
+        "kind": "trophy",
+        "chapterId": "dark-brotherhood",
+        "where": "Reached Eliminator rank in the Dark Brotherhood"
+      },
+      {
+        "id": "achievement-10",
+        "name": "Assassin, Dark Brotherhood",
+        "kind": "trophy",
+        "chapterId": "dark-brotherhood",
+        "where": "Reached Assassin rank in the Dark Brotherhood"
+      },
+      {
+        "id": "achievement-11",
+        "name": "Silencer, Dark Brotherhood",
+        "kind": "trophy",
+        "chapterId": "dark-brotherhood",
+        "where": "Reached Silencer rank in the Dark Brotherhood"
+      },
+      {
+        "id": "achievement-12",
+        "name": "Speaker, Dark Brotherhood",
+        "kind": "trophy",
+        "chapterId": "dark-brotherhood",
+        "where": "Reached Speaker rank in the Dark Brotherhood"
+      },
+      {
+        "id": "achievement-13",
+        "name": "Listener, Dark Brotherhood",
+        "kind": "trophy",
+        "chapterId": "dark-brotherhood",
+        "where": "Completed the Dark Brotherhood Questline"
+      },
+      {
+        "id": "achievement-14",
+        "name": "Pit Dog, Arena",
+        "kind": "trophy",
+        "chapterId": "arena",
+        "where": "Joined the Arena in the Imperial City"
+      },
+      {
+        "id": "achievement-15",
+        "name": "Brawler, Arena",
+        "kind": "trophy",
+        "chapterId": "arena",
+        "where": "Reached Brawler rank in the Arena"
+      },
+      {
+        "id": "achievement-16",
+        "name": "Bloodletter, Arena",
+        "kind": "trophy",
+        "chapterId": "arena",
+        "where": "Reached Bloodletter rank in the Arena"
+      },
+      {
+        "id": "achievement-17",
+        "name": "Myrmidon, Arena",
+        "kind": "trophy",
+        "chapterId": "arena",
+        "where": "Reached Myrmidon rank in the Arena"
+      },
+      {
+        "id": "achievement-18",
+        "name": "Warrior, Arena",
+        "kind": "trophy",
+        "chapterId": "arena",
+        "where": "Reached Warrior rank in the Arena"
+      },
+      {
+        "id": "achievement-19",
+        "name": "Gladiator, Arena",
+        "kind": "trophy",
+        "chapterId": "arena",
+        "where": "Reached Gladiator rank in the Arena"
+      },
+      {
+        "id": "achievement-20",
+        "name": "Hero, Arena",
+        "kind": "trophy",
+        "chapterId": "arena",
+        "where": "Reached Hero rank in the Arena"
+      },
+      {
+        "id": "achievement-21",
+        "name": "Champion, Arena",
+        "kind": "trophy",
+        "chapterId": "arena",
+        "where": "Reached Champion rank in the Arena"
+      },
+      {
+        "id": "achievement-22",
+        "name": "Grand Champion, Arena",
+        "kind": "trophy",
+        "chapterId": "arena",
+        "where": "Completed the Arena Questline"
+      },
+      {
+        "id": "achievement-23",
+        "name": "Pickpocket, Thieves Guild",
+        "kind": "trophy",
+        "chapterId": "thieves-guild",
+        "where": "Joined the Thieves Guild"
+      },
+      {
+        "id": "achievement-24",
+        "name": "Footpad, Thieves Guild",
+        "kind": "trophy",
+        "chapterId": "thieves-guild",
+        "where": "Reached Footpad rank in the Thieves Guild"
+      },
+      {
+        "id": "achievement-25",
+        "name": "Bandit, Thieves Guild",
+        "kind": "trophy",
+        "chapterId": "thieves-guild",
+        "where": "Reached Bandit rank in the Thieves Guild"
+      },
+      {
+        "id": "achievement-26",
+        "name": "Prowler, Thieves Guild",
+        "kind": "trophy",
+        "chapterId": "thieves-guild",
+        "where": "Reached Prowler rank in the Thieves Guild"
+      },
+      {
+        "id": "achievement-27",
+        "name": "Cat Burglar, Thieves Guild",
+        "kind": "trophy",
+        "chapterId": "thieves-guild",
+        "where": "Reached Cat Burglar rank in the Thieves Guild"
+      },
+      {
+        "id": "achievement-28",
+        "name": "Shadowfoot, Thieves Guild",
+        "kind": "trophy",
+        "chapterId": "thieves-guild",
+        "where": "Reached Shadowfoot rank in the Thieves Guild"
+      },
+      {
+        "id": "achievement-29",
+        "name": "Master Thief, Thieves Guild",
+        "kind": "trophy",
+        "chapterId": "thieves-guild",
+        "where": "Reached Master Thief rank in the Thieves Guild"
+      },
+      {
+        "id": "achievement-30",
+        "name": "Guildmaster, Thieves Guild",
+        "kind": "trophy",
+        "chapterId": "thieves-guild",
+        "where": "Completed the Thieves Guild Questline"
+      },
+      {
+        "id": "achievement-31",
+        "name": "Associate, Mages Guild",
+        "kind": "trophy",
+        "chapterId": "mages-guild",
+        "where": "Joined the Mages Guild"
+      },
+      {
+        "id": "achievement-32",
+        "name": "Apprentice, Mages Guild",
+        "kind": "trophy",
+        "chapterId": "mages-guild",
+        "where": "Reached Apprentice rank in the Mages Guild"
+      },
+      {
+        "id": "achievement-33",
+        "name": "Journeyman, Mages Guild",
+        "kind": "trophy",
+        "chapterId": "mages-guild",
+        "where": "Reached Journeyman rank in the Mages Guild"
+      },
+      {
+        "id": "achievement-34",
+        "name": "Evoker, Mages Guild",
+        "kind": "trophy",
+        "chapterId": "mages-guild",
+        "where": "Reached Evoker rank in the Mages Guild"
+      },
+      {
+        "id": "achievement-35",
+        "name": "Conjurer, Mages Guild",
+        "kind": "trophy",
+        "chapterId": "mages-guild",
+        "where": "Reached Conjurer rank in the Mages Guild"
+      },
+      {
+        "id": "achievement-36",
+        "name": "Magician, Mages Guild",
+        "kind": "trophy",
+        "chapterId": "mages-guild",
+        "where": "Reached Magician rank in the Mages Guild"
+      },
+      {
+        "id": "achievement-37",
+        "name": "Warlock, Mages Guild",
+        "kind": "trophy",
+        "chapterId": "mages-guild",
+        "where": "Reached Warlock rank in the Mages Guild"
+      },
+      {
+        "id": "achievement-38",
+        "name": "Wizard, Mages Guild",
+        "kind": "trophy",
+        "chapterId": "mages-guild",
+        "where": "Reached Wizard rank in the Mages Guild"
+      },
+      {
+        "id": "achievement-39",
+        "name": "Master-Wizard, Mages Guild",
+        "kind": "trophy",
+        "chapterId": "mages-guild",
+        "where": "Reached Master-Wizard rank in the Mages Guild"
+      },
+      {
+        "id": "achievement-40",
+        "name": "Arch-Mage, Mages Guild",
+        "kind": "trophy",
+        "chapterId": "mages-guild",
+        "where": "Completed the Mages Guild Questline"
+      },
+      {
+        "id": "achievement-41",
+        "name": "Associate, Fighters Guild",
+        "kind": "trophy",
+        "chapterId": "fighters-guild",
+        "where": "Joined the Fighters Guild"
+      },
+      {
+        "id": "achievement-42",
+        "name": "Apprentice, Fighters Guild",
+        "kind": "trophy",
+        "chapterId": "fighters-guild",
+        "where": "Reached Apprentice rank in the Fighters Guild"
+      },
+      {
+        "id": "achievement-43",
+        "name": "Journeyman, Fighters Guild",
+        "kind": "trophy",
+        "chapterId": "fighters-guild",
+        "where": "Reached Journeyman rank in the Fighters Guild"
+      },
+      {
+        "id": "achievement-44",
+        "name": "Swordsman, Fighters Guild",
+        "kind": "trophy",
+        "chapterId": "fighters-guild",
+        "where": "Reached Swordsman rank in the Fighters Guild"
+      },
+      {
+        "id": "achievement-45",
+        "name": "Protector, Fighters Guild",
+        "kind": "trophy",
+        "chapterId": "fighters-guild",
+        "where": "Reached Protector rank in the Fighters Guild"
+      },
+      {
+        "id": "achievement-46",
+        "name": "Defender, Fighters Guild",
+        "kind": "trophy",
+        "chapterId": "fighters-guild",
+        "where": "Reached Defender rank in the Fighters Guild"
+      },
+      {
+        "id": "achievement-47",
+        "name": "Warder, Fighters Guild",
+        "kind": "trophy",
+        "chapterId": "fighters-guild",
+        "where": "Reached Warder rank in the Fighters Guild"
+      },
+      {
+        "id": "achievement-48",
+        "name": "Guardian, Fighters Guild",
+        "kind": "trophy",
+        "chapterId": "fighters-guild",
+        "where": "Reached Guardian rank in the Fighters Guild"
+      },
+      {
+        "id": "achievement-49",
+        "name": "Champion, Fighters Guild",
+        "kind": "trophy",
+        "chapterId": "fighters-guild",
+        "where": "Reached Champion rank in the Fighters Guild"
+      },
+      {
+        "id": "achievement-50",
+        "name": "Master, Fighters Guild",
+        "kind": "trophy",
+        "chapterId": "fighters-guild",
+        "where": "Completed the Fighters Guild Questline"
+      },
+      {
+        "id": "achievement-51",
+        "name": "Tourist, Shivering Isles",
+        "kind": "trophy",
+        "chapterId": "shivering-isles",
+        "where": "Entered the Shivering Isles"
+      },
+      {
+        "id": "achievement-52",
+        "name": "Aspirant, Shivering Isles",
+        "kind": "trophy",
+        "chapterId": "shivering-isles",
+        "where": "Reached Aspirant Rank in the Court of Madness"
+      },
+      {
+        "id": "achievement-53",
+        "name": "Citizen, Shivering Isles",
+        "kind": "trophy",
+        "chapterId": "shivering-isles",
+        "where": "Reached Citizen Rank in the Court of Madness"
+      },
+      {
+        "id": "achievement-54",
+        "name": "Madman, Shivering Isles",
+        "kind": "trophy",
+        "chapterId": "shivering-isles",
+        "where": "Reached Madman Rank in the Court of Madness"
+      },
+      {
+        "id": "achievement-55",
+        "name": "Honored Madman, Shivering Isles",
+        "kind": "trophy",
+        "chapterId": "shivering-isles",
+        "where": "Reached Honored Madman Rank in the Court of Madness"
+      },
+      {
+        "id": "achievement-56",
+        "name": "Duke Dementia, Shivering Isles",
+        "kind": "trophy",
+        "chapterId": "shivering-isles",
+        "where": "Reached Duke of Dementia Rank in the Court of Madness"
+      },
+      {
+        "id": "achievement-57",
+        "name": "Duke Mania, Shivering Isles",
+        "kind": "trophy",
+        "chapterId": "shivering-isles",
+        "where": "Reached Duke of Mania Rank in the Court of Madness"
+      },
+      {
+        "id": "achievement-58",
+        "name": "Regent, Shivering Isles",
+        "kind": "trophy",
+        "chapterId": "shivering-isles",
+        "where": "Reached Regent Rank in the Court of Madness"
+      },
+      {
+        "id": "achievement-59",
+        "name": "Defender, Shivering Isles",
+        "kind": "trophy",
+        "chapterId": "shivering-isles",
+        "where": "Reached Defender of the Realm Rank in the Court of Madness"
+      },
+      {
+        "id": "achievement-60",
+        "name": "Madgod, Shivering Isles",
+        "kind": "trophy",
+        "chapterId": "shivering-isles",
+        "where": "Stopped the Greymarch"
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/the-elder-scrolls-iv-oblivion-remastered",
+    "Achievement data from Steam (Steam Web API, app 2623190)",
+    "Wiki structure and facts from UESP under CC BY-SA 2.5 — https://en.uesp.net/wiki/Oblivion:Quests",
+    "StrategyWiki: no page for this game, nothing used",
+    "Fandom (elderscrolls.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_IV:_Oblivion_Remastered"
+  ],
+  "route": "cc-by-sa",
+  "notes": "Route cc-by-sa: UESP (en.uesp.net, CC BY-SA 2.5) has full pages for Oblivion, including Oblivion:Oblivion Remastered, Oblivion:Quests (links to the Main Quest, the four guilds, the Arena, Daedric quests, side quests, Knights of the Nine) and Oblivion:Main Quest (about 55 linked quest and place pages). Chapter structure follows those questlines; only page names were used, no text copied. Adapting UESP text later is allowed under CC BY-SA 2.5 with attribution and share-alike. No StrategyWiki page. elderscrolls.fandom.com also answers the API. The Steam schema calls the app \"Jaws\" (an internal codename); the store list confirms app 2623190 is Oblivion Remastered. Steam has no achievements for Daedric quests or Knights of the Nine, so those chapters have no collectibles yet."
+}
