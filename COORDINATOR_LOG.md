@@ -5,6 +5,53 @@ Tracks the 20-game research queue in `research/state.json` and files landing in 
 
 ---
 
+## 2026-10-18 04:10 UTC
+
+**Year / queue:** currentYear = 2023 on `main`. state.json (updated 04:05 UTC by PR #4): 9 queued, 0 in progress, 11 done, 0 errors. All 2026, 2025 and 2024 titles are done, so the researcher has moved down to 2023. `yearsCompleted` is still an empty list even though three years are finished; cosmetic, nothing reads it yet.
+
+**Progress:** 11/20 games done and merged to `main`. Up from 1/20 an hour ago: Tim merged PR #3 (04:07 UTC) and PR #4 (04:09 UTC), ten games in total.
+
+**Latest commits (origin/main):**
+- `0473887` Merge pull request #4 from torgan59/claude/festive-turing-ek24ds (Tim, 04:09 UTC)
+- `13d9ba2` Research: add Fandom region list to Crimson Desert (Claude, 04:09 UTC)
+- `e044dd2` Research: Ghost of Yotei, AC Shadows, Oblivion Remastered, Death Stranding 2, Black Myth: Wukong (Claude, 04:05 UTC)
+- `7392f1b` Merge pull request #3 from torgan59/claude/festive-turing-ek24ds (Tim, 04:07 UTC)
+- `cb9c846` Coordinator log: 03:10 check (coordinator, 03:11 UTC)
+
+Both research commits came from the `claude/festive-turing-ek24ds` session, not the scheduled `game-researcher-routine`. The routine's 03:07 UTC daily run succeeded but pushed nothing (it worked on the stale `claude/research-crimson-desert` branch). Its next run is 2026-10-19 03:07 UTC.
+
+**Research files:** `research/` on `main` now holds `state.json` plus 11 game files: `007-first-light`, `assassins-creed-shadows`, `black-myth-wukong`, `crimson-desert`, `death-stranding-2`, `elder-scrolls-oblivion-remastered`, `forza-horizon-6`, `ghost-of-yotei`, `kingdom-come-deliverance-2`, `monster-hunter-wilds`, `pragmata`. Every filename matches its slug and every `done` entry in state.json has a file. No stray files. `packs/` still does not exist, so the eleven `packPath` values are placeholders (expected).
+
+Field drift noted last hour is now settled on `main`: the ten PR #3/#4 files share one field set (`released`, `developers`, `tags` on top of the common keys). Only `forza-horizon-6.json` (PR #1) lacks those three keys. Worth a small backfill later so the app loader has one shape.
+
+**Quality check:** all 11 files on `main` PASS the required-field check (`id` matches slug, `title`, `platforms`, `game` object with `chapters` and `collectibles` arrays, plus rawgId, route, attribution).
+
+| File | Chapters | Collectibles |
+|---|---|---|
+| 007-first-light.json | 4 | 37 |
+| assassins-creed-shadows.json | 6 | 75 |
+| black-myth-wukong.json | 7 | 81 |
+| crimson-desert.json | 5 | 34 |
+| death-stranding-2.json | 5 | 55 |
+| elder-scrolls-oblivion-remastered.json | 9 | 60 |
+| forza-horizon-6.json | 5 | 57 |
+| ghost-of-yotei.json | 5 | **0** |
+| kingdom-come-deliverance-2.json | 6 | 83 |
+| monster-hunter-wilds.json | 6 | 50 |
+| pragmata.json | 5 | 35 |
+
+One content gap: **`ghost-of-yotei.json` has zero collectibles.** The game is PS5 only, so there is no Steam achievement list, and RAWG returned none. The file says so in `achievements.reason` and `notes`, and asks for the PlayStation trophy list to be written up in our own words. It passes the structural check but is not usable in the checklist screen until that is filled.
+
+**Blockers / errors / stale PRs:**
+- **PR #2 (Crimson Desert, opened 02:40 UTC) is now stale and conflicts with `main`.** A local `git merge-tree` shows an add/add conflict on `research/crimson-desert.json` and a content conflict on `research/state.json`, because PR #3 already landed a newer Crimson Desert file. Recommended: **close PR #2 without merging** and delete `claude/research-crimson-desert`. Nothing in it is missing from `main` except an older 8-chapter skeleton.
+- Merged branches still on origin and safe to delete: `claude/research-forza-horizon-6`, `claude/festive-turing-ek24ds`.
+- The scheduled researcher runs once a day but the manual batch sessions did ten games in one hour. At the daily cadence the remaining 9 games take until about 27 October; batch sessions could finish this weekend. Tim's call which to rely on.
+- Still outstanding: `store.steampowered.com` is blocked by the environment network policy (Web API unaffected).
+
+**Next game in queue:** `baldurs-gate-3` — Baldur's Gate 3 (2023, evidence 3, route original). It is the first queued title matching currentYear 2023; `zelda-tears-of-the-kingdom` (cc-by-sa route) and `hogwarts-legacy` follow, then 2022 (`elden-ring`).
+
+---
+
 ## 2026-10-18 03:10 UTC
 
 **Year / queue:** currentYear = 2026 on `main`. state.json on `main` is unchanged since the PR #1 merge: 19 queued, 0 in progress, 1 done (`forza-horizon-6`), 0 errors. Two open PRs carry newer state: PR #2 marks `crimson-desert` done (18 queued), and PR #3 marks five games done (14 queued) and advances currentYear to 2025 because no queued 2026 title is left after it.
