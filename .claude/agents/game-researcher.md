@@ -20,6 +20,24 @@ Read `research/state.json` at the start. Pick the next game using this rule:
 3. Items are pre-sorted by evidence count (descending) and title (alphabetical).
 4. If no queued items remain for `currentYear`, move `currentYear` down by 1 and continue.
 5. Never pick a game already marked `done`, `skipped`, or `needs-evidence` in the queue.
+6. **Never pick a game another run has already claimed** (see below).
+
+### Avoiding duplicates
+
+`state.json` on `main` only shows merged work. A game being researched in an open PR still looks `queued` there, so two runs (the daily routine and a manual batch, say) can pick the same game. Before picking, check every remote branch:
+
+```bash
+git fetch --prune origin
+# Slugs that already have a research file on main or on any unmerged branch
+for b in $(git branch -r --no-merged origin/main | grep -v HEAD) origin/main; do
+  git ls-tree --name-only "$b" research/ | sed -n 's#^research/\(.*\)\.json$#\1#p'
+done | grep -v '^state$' | sort -u
+```
+
+- Treat every slug in that list as claimed, and skip it even if `state.json` on `main` says `queued`. Also skip a slug marked `in-progress` or `done` in `research/state.json` on any unmerged branch.
+- Exception: rule 1 (resume `in-progress`) applies only to a game that is in progress on your own branch.
+- **Claim early.** Straight after picking, create the branch, mark the game `in-progress` in `state.json`, commit and push. That way a run starting a minute later sees the claim.
+- If a duplicate still lands, keep the version already on `main`. Fold any genuinely new facts into it, then close the duplicate PR without merging.
 
 The 20 games in `docs/PLAN.md` section 1 are pre-loaded in `research/state.json` at project start. The backlog from section 2 (2026 down to 2010) is appended by the `year-backfill` routine as years empty.
 
@@ -97,9 +115,10 @@ Rules:
 
 ### 1. Load state and pick the next game
 - Read `research/state.json`.
-- Apply the selection rule above.
+- Run the duplicate check under "Avoiding duplicates", then apply the selection rule above.
 - Log the chosen game: `Researching [title] ([year], [evidence] sources, route: [route])`.
 - Write state.json: set this item's `status` to `in-progress`, `step` to `rawg-fetch`.
+- Commit and push the branch `claude/research-[slug]` now, before any API calls, so the claim is visible to other runs.
 
 ### 2. Fetch RAWG metadata
 - **API:** `https://api.rawg.io/api/games` with filter `search=[exact-title]&key=[RAWG_API_KEY]`.
