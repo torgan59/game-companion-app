@@ -1,0 +1,445 @@
+{
+  "id": "elden-ring",
+  "title": "Elden Ring",
+  "year": 2022,
+  "platforms": [
+    "PC",
+    "Xbox One",
+    "PlayStation 4",
+    "Xbox Series X|S",
+    "PlayStation 5"
+  ],
+  "rawgId": 326243,
+  "rawgSlug": "elden-ring",
+  "released": "2022-02-25",
+  "developers": [
+    "FromSoftware"
+  ],
+  "playtime": 62,
+  "genres": [
+    "Action",
+    "RPG"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Multiplayer",
+    "Full controller support",
+    "Atmospheric",
+    "Great Soundtrack",
+    "RPG",
+    "Co-op",
+    "Open World",
+    "cooperative",
+    "Third Person",
+    "Online Co-Op"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/b29/b294fdd866dcdb643e7bab370a552855.jpg",
+  "steamAppId": 1245620,
+  "achievements": {
+    "total": 42,
+    "hidden": 36,
+    "examples": [
+      {
+        "name": "God-Slaying Armament",
+        "percent": 45.6
+      },
+      {
+        "name": "Legendary Armaments",
+        "percent": 18.3
+      },
+      {
+        "name": "Legendary Ashen Remains",
+        "percent": 17.7
+      },
+      {
+        "name": "Legendary Armaments",
+        "percent": 18.3
+      },
+      {
+        "name": "Legendary Ashen Remains",
+        "percent": 17.7
+      },
+      {
+        "name": "Legendary Talismans",
+        "percent": 17.7
+      },
+      {
+        "name": "Legendary Sorceries and Incantations",
+        "percent": 17.2
+      },
+      {
+        "name": "Elden Ring",
+        "percent": 10.5
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Elden_Ring",
+      "reason": "Stub page only (Guides at completion stage 0); subpages linked but not written, no usable structure"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 16,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://eldenring.fandom.com/wiki/Elden_Ring"
+    }
+  },
+  "game": {
+    "id": "elden-ring",
+    "title": "Elden Ring",
+    "platforms": [
+      "PC",
+      "Xbox One",
+      "PlayStation 4",
+      "Xbox Series X|S",
+      "PlayStation 5"
+    ],
+    "blurb": "Open-world soulslike action RPG from FromSoftware, released 2022-02-25. RAWG average playtime: 62 hours. Genres: Action, RPG. Chapters are an estimate drawn from Steam achievement themes; the Shadow of the Erdtree expansion (2024) is listed separately on RAWG.",
+    "accent": "#C5A253",
+    "chapters": [
+      {
+        "id": "shardbearers",
+        "title": "The Shardbearers",
+        "summary": "The demigods who hold the Great Runes: the main path through the Lands Between.",
+        "steps": []
+      },
+      {
+        "id": "main-bosses",
+        "title": "Main Path Bosses and Milestones",
+        "summary": "Other bosses and places that mark progress along the main path.",
+        "steps": []
+      },
+      {
+        "id": "optional-bosses",
+        "title": "Optional Bosses",
+        "summary": "Tough optional fights off the main path.",
+        "steps": []
+      },
+      {
+        "id": "legendary-collections",
+        "title": "Legendary Collections",
+        "summary": "Legendary armaments, ashen remains, sorceries, incantations and talismans.",
+        "steps": []
+      },
+      {
+        "id": "endings",
+        "title": "Endings",
+        "summary": "The different ways the story can end. Spoiler-guarded.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Elden Ring",
+        "kind": "trophy",
+        "chapterId": "legendary-collections",
+        "where": "Obtained all achievements"
+      },
+      {
+        "id": "achievement-2",
+        "name": "Elden Lord",
+        "kind": "trophy",
+        "chapterId": "endings",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-3",
+        "name": "Age of the Stars",
+        "kind": "trophy",
+        "chapterId": "endings",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-4",
+        "name": "Lord of Frenzied Flame",
+        "kind": "trophy",
+        "chapterId": "endings",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-5",
+        "name": "Shardbearer Godrick",
+        "kind": "trophy",
+        "chapterId": "shardbearers",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-6",
+        "name": "Shardbearer Radahn",
+        "kind": "trophy",
+        "chapterId": "shardbearers",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-7",
+        "name": "Shardbearer Morgott",
+        "kind": "trophy",
+        "chapterId": "shardbearers",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-8",
+        "name": "Shardbearer Rykard",
+        "kind": "trophy",
+        "chapterId": "shardbearers",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-9",
+        "name": "Shardbearer Malenia",
+        "kind": "trophy",
+        "chapterId": "shardbearers",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-10",
+        "name": "Shardbearer Mohg",
+        "kind": "trophy",
+        "chapterId": "shardbearers",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-11",
+        "name": "Maliketh the Black Blade",
+        "kind": "trophy",
+        "chapterId": "main-bosses",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-12",
+        "name": "Hoarah Loux, Warrior",
+        "kind": "trophy",
+        "chapterId": "main-bosses",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-13",
+        "name": "Dragonlord Placidusax",
+        "kind": "trophy",
+        "chapterId": "optional-bosses",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-14",
+        "name": "God-Slaying Armament",
+        "kind": "trophy",
+        "chapterId": "legendary-collections",
+        "where": "Upgraded any armament to its highest stage"
+      },
+      {
+        "id": "achievement-15",
+        "name": "Legendary Armaments",
+        "kind": "trophy",
+        "chapterId": "legendary-collections",
+        "where": "Acquired all legendary armaments"
+      },
+      {
+        "id": "achievement-16",
+        "name": "Legendary Ashen Remains",
+        "kind": "trophy",
+        "chapterId": "legendary-collections",
+        "where": "Acquired all legendary ashen remains"
+      },
+      {
+        "id": "achievement-17",
+        "name": "Legendary Sorceries and Incantations",
+        "kind": "trophy",
+        "chapterId": "legendary-collections",
+        "where": "Acquired all legendary sorceries and incantations"
+      },
+      {
+        "id": "achievement-18",
+        "name": "Legendary Talismans",
+        "kind": "trophy",
+        "chapterId": "legendary-collections",
+        "where": "Acquired all legendary talismans"
+      },
+      {
+        "id": "achievement-19",
+        "name": "Rennala, Queen of the Full Moon",
+        "kind": "trophy",
+        "chapterId": "main-bosses",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-20",
+        "name": "Lichdragon Fortissax",
+        "kind": "trophy",
+        "chapterId": "optional-bosses",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-21",
+        "name": "Godskin Duo",
+        "kind": "trophy",
+        "chapterId": "main-bosses",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-22",
+        "name": "Fire Giant",
+        "kind": "trophy",
+        "chapterId": "main-bosses",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-23",
+        "name": "Dragonkin Soldier of Nokstella",
+        "kind": "trophy",
+        "chapterId": "optional-bosses",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-24",
+        "name": "Regal Ancestor Spirit",
+        "kind": "trophy",
+        "chapterId": "optional-bosses",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-25",
+        "name": "Valiant Gargoyles",
+        "kind": "trophy",
+        "chapterId": "optional-bosses",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-26",
+        "name": "Margit, the Fell Omen",
+        "kind": "trophy",
+        "chapterId": "main-bosses",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-27",
+        "name": "Red Wolf of Radagon",
+        "kind": "trophy",
+        "chapterId": "main-bosses",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-28",
+        "name": "Godskin Noble",
+        "kind": "trophy",
+        "chapterId": "optional-bosses",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-29",
+        "name": "Magma Wyrm Makar",
+        "kind": "trophy",
+        "chapterId": "optional-bosses",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-30",
+        "name": "Godfrey, First Elden Lord",
+        "kind": "trophy",
+        "chapterId": "main-bosses",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-31",
+        "name": "Mohg, the Omen",
+        "kind": "trophy",
+        "chapterId": "main-bosses",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-32",
+        "name": "Mimic Tear",
+        "kind": "trophy",
+        "chapterId": "optional-bosses",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-33",
+        "name": "Loretta, Knight of the Haligtree",
+        "kind": "trophy",
+        "chapterId": "optional-bosses",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-34",
+        "name": "Astel, Naturalborn of the Void",
+        "kind": "trophy",
+        "chapterId": "optional-bosses",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-35",
+        "name": "Leonine Misbegotten",
+        "kind": "trophy",
+        "chapterId": "main-bosses",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-36",
+        "name": "Royal Knight Loretta",
+        "kind": "trophy",
+        "chapterId": "main-bosses",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-37",
+        "name": "Elemer of the Briar",
+        "kind": "trophy",
+        "chapterId": "main-bosses",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-38",
+        "name": "Ancestor Spirit",
+        "kind": "trophy",
+        "chapterId": "optional-bosses",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-39",
+        "name": "Commander Niall",
+        "kind": "trophy",
+        "chapterId": "main-bosses",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-40",
+        "name": "Roundtable Hold",
+        "kind": "trophy",
+        "chapterId": "main-bosses",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-41",
+        "name": "Great Rune",
+        "kind": "trophy",
+        "chapterId": "main-bosses",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-42",
+        "name": "Erdtree Aflame",
+        "kind": "trophy",
+        "chapterId": "main-bosses",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/elden-ring",
+    "Achievement data from Steam (Steam Web API, app 1245620)",
+    "StrategyWiki: stub page only, nothing used — https://strategywiki.org/wiki/Elden_Ring",
+    "Fandom (eldenring.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://eldenring.fandom.com/wiki/Elden_Ring"
+  ],
+  "route": "original",
+  "notes": "StrategyWiki has a stub page (completion stage 0); its Walkthrough and Achievements subpages are linked but not written. eldenring.fandom.com answers the API, but its game page links to only about 17 pages. 36 of 42 Steam achievements are hidden; most are named after bosses, so they were sorted by achievement name into Shardbearers, main-path bosses, optional bosses and endings. That split is an estimate and needs checking in play. Their \"where\" text stays spoiler-guarded."
+}

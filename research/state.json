@@ -1,23 +1,25 @@
 {
   "version": 1,
-  "updated": "2026-10-18T04:05:12Z",
-  "currentYear": 2023,
+  "updated": "2026-10-18T22:11:12Z",
+  "currentYear": 2020,
   "queue": [
     {
       "slug": "elden-ring",
       "title": "Elden Ring",
       "year": 2022,
-      "status": "queued",
+      "status": "done",
       "evidence": 3,
-      "route": "original"
+      "route": "original",
+      "packPath": "packs/elden-ring.json"
     },
     {
       "slug": "baldurs-gate-3",
       "title": "Baldur's Gate 3",
       "year": 2023,
-      "status": "queued",
+      "status": "done",
       "evidence": 3,
-      "route": "original"
+      "route": "original",
+      "packPath": "packs/baldurs-gate-3.json"
     },
     {
       "slug": "forza-horizon-6",
@@ -75,9 +77,10 @@
       "slug": "zelda-tears-of-the-kingdom",
       "title": "Zelda: Tears of the Kingdom",
       "year": 2023,
-      "status": "queued",
+      "status": "done",
       "evidence": 3,
-      "route": "cc-by-sa"
+      "route": "cc-by-sa",
+      "packPath": "packs/zelda-tears-of-the-kingdom.json"
     },
     {
       "slug": "ghost-of-yotei",
@@ -92,9 +95,10 @@
       "slug": "hogwarts-legacy",
       "title": "Hogwarts Legacy",
       "year": 2023,
-      "status": "queued",
+      "status": "done",
       "evidence": 3,
-      "route": "original"
+      "route": "original",
+      "packPath": "packs/hogwarts-legacy.json"
     },
     {
       "slug": "assassins-creed-shadows",
@@ -170,9 +174,10 @@
       "slug": "forza-horizon-5",
       "title": "Forza Horizon 5",
       "year": 2021,
-      "status": "queued",
+      "status": "done",
       "evidence": 2,
-      "route": "original"
+      "route": "original",
+      "packPath": "packs/forza-horizon-5.json"
     }
   ],
   "yearsCompleted": [],
