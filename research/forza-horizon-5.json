@@ -1,0 +1,1323 @@
+{
+  "id": "forza-horizon-5",
+  "title": "Forza Horizon 5",
+  "year": 2021,
+  "platforms": [
+    "PC",
+    "iOS",
+    "Xbox One",
+    "PlayStation 5",
+    "Xbox Series X|S"
+  ],
+  "rawgId": 622492,
+  "rawgSlug": "forza-horizon-5",
+  "released": "2021-11-08",
+  "developers": [
+    "Playground Games"
+  ],
+  "playtime": 15,
+  "genres": [
+    "Racing",
+    "Arcade"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Multiplayer",
+    "Full controller support",
+    "Steam Cloud",
+    "Atmospheric",
+    "Co-op",
+    "Open World",
+    "cooperative",
+    "First-Person",
+    "Third Person",
+    "Online Co-Op"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/082/082365507ff04d456c700157072d35db.jpg",
+  "steamAppId": 1551360,
+  "achievements": {
+    "total": 164,
+    "hidden": 0,
+    "examples": [
+      {
+        "name": "Welcome to México",
+        "percent": 93.7
+      },
+      {
+        "name": "Adaptable",
+        "percent": 90.3
+      },
+      {
+        "name": "Race into Action",
+        "percent": 79.4
+      },
+      {
+        "name": "You Might Need a Map",
+        "percent": 0.3
+      },
+      {
+        "name": "Free Bird",
+        "percent": 0.3
+      },
+      {
+        "name": "Keep That Camera Rolling",
+        "percent": 0.3
+      },
+      {
+        "name": "Spanning Generations",
+        "percent": 0.3
+      },
+      {
+        "name": "Demolisher",
+        "percent": 0.3
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Forza_Horizon_5",
+      "reason": "Stub page only (Guides at completion stage 0); subpages linked but not written, no usable structure"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 27,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://forza.fandom.com/wiki/Forza_Horizon_5"
+    }
+  },
+  "game": {
+    "id": "forza-horizon-5",
+    "title": "Forza Horizon 5",
+    "platforms": [
+      "PC",
+      "iOS",
+      "Xbox One",
+      "PlayStation 5",
+      "Xbox Series X|S"
+    ],
+    "blurb": "Open-world racing set in Mexico, from Playground Games, released 2021-11-08. RAWG average playtime: 15 hours. Genres: Racing, Arcade. Chapters are an estimate drawn from Steam achievement themes, including the Hot Wheels and Rally Adventure expansions.",
+    "accent": "#E94F37",
+    "chapters": [
+      {
+        "id": "festival-progress",
+        "title": "Festival Progress",
+        "summary": "Arrive in Mexico, buy cars, build the Outposts and reach the Hall of Fame.",
+        "steps": []
+      },
+      {
+        "id": "races-and-events",
+        "title": "Races and Events",
+        "summary": "Race events, Showcases, Rivals, Tours and the Goliath.",
+        "steps": []
+      },
+      {
+        "id": "stories",
+        "title": "Horizon Stories",
+        "summary": "The Horizon Story chapters and their three-star goals.",
+        "steps": []
+      },
+      {
+        "id": "exploration",
+        "title": "Exploring Mexico",
+        "summary": "Roads, Bonus Boards, Barn Finds, PR Stunts, treasure and smashables.",
+        "steps": []
+      },
+      {
+        "id": "photography",
+        "title": "Photography",
+        "summary": "Photo challenges for Horizon Promo and special shots.",
+        "steps": []
+      },
+      {
+        "id": "online-and-playlist",
+        "title": "Festival Playlist and Online",
+        "summary": "Seasons, Horizon Open, The Eliminator, EventLab, Arcade and gifting.",
+        "steps": []
+      },
+      {
+        "id": "realms-and-modes",
+        "title": "Realms, Hide and Seek and the Test Track",
+        "summary": "Horizon Realms, Hide and Seek and the Horizon Test Track.",
+        "steps": []
+      },
+      {
+        "id": "hot-wheels",
+        "title": "Hot Wheels Expansion",
+        "summary": "Hot Wheels Park: qualifiers, track types and the Hot Wheels Goliath.",
+        "steps": []
+      },
+      {
+        "id": "rally-adventure",
+        "title": "Rally Adventure Expansion",
+        "summary": "Sierra Nueva: rally teams, reputation and the Badlands championship.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Welcome to México",
+        "kind": "trophy",
+        "chapterId": "festival-progress",
+        "where": "Arrive at Horizon Festival México"
+      },
+      {
+        "id": "achievement-2",
+        "name": "Race into Action",
+        "kind": "trophy",
+        "chapterId": "races-and-events",
+        "where": "Complete any Horizon Race Event"
+      },
+      {
+        "id": "achievement-3",
+        "name": "Adaptable",
+        "kind": "trophy",
+        "chapterId": "races-and-events",
+        "where": "Complete the On a Wing and a Prayer Showcase Event"
+      },
+      {
+        "id": "achievement-4",
+        "name": "Icebreaker",
+        "kind": "trophy",
+        "chapterId": "online-and-playlist",
+        "where": "Participate in a Horizon Arcade Event"
+      },
+      {
+        "id": "achievement-5",
+        "name": "Mi Casa",
+        "kind": "trophy",
+        "chapterId": "festival-progress",
+        "where": "Unlock the first Player House"
+      },
+      {
+        "id": "achievement-6",
+        "name": "First Love",
+        "kind": "trophy",
+        "chapterId": "festival-progress",
+        "where": "Purchase your first car from the Autoshow"
+      },
+      {
+        "id": "achievement-7",
+        "name": "This Is The Way",
+        "kind": "trophy",
+        "chapterId": "festival-progress",
+        "where": "Start a new chapter of the Horizon Adventure"
+      },
+      {
+        "id": "achievement-8",
+        "name": "Viva Horizon!",
+        "kind": "trophy",
+        "chapterId": "festival-progress",
+        "where": "Unlock your first Horizon Finale Event"
+      },
+      {
+        "id": "achievement-9",
+        "name": "Putting on a Show",
+        "kind": "trophy",
+        "chapterId": "races-and-events",
+        "where": "Win every Showcase Event"
+      },
+      {
+        "id": "achievement-10",
+        "name": "AWDyssey",
+        "kind": "trophy",
+        "chapterId": "festival-progress",
+        "where": "Build the Horizon Wilds Outpost"
+      },
+      {
+        "id": "achievement-11",
+        "name": "Ask Any Racer, Any Real Racer",
+        "kind": "trophy",
+        "chapterId": "festival-progress",
+        "where": "Build the Horizon Street Scene Outpost"
+      },
+      {
+        "id": "achievement-12",
+        "name": "Far from the Mudding Crowd",
+        "kind": "trophy",
+        "chapterId": "festival-progress",
+        "where": "Build the Horizon Apex Outpost"
+      },
+      {
+        "id": "achievement-13",
+        "name": "There’s Always Money in the Baja Stand",
+        "kind": "trophy",
+        "chapterId": "festival-progress",
+        "where": "Build the Horizon Baja Outpost"
+      },
+      {
+        "id": "achievement-14",
+        "name": "Adrenaline Rush",
+        "kind": "trophy",
+        "chapterId": "festival-progress",
+        "where": "Build the Horizon Rush Outpost"
+      },
+      {
+        "id": "achievement-15",
+        "name": "Hall of Famer",
+        "kind": "trophy",
+        "chapterId": "festival-progress",
+        "where": "Reach the Horizon Hall of Fame"
+      },
+      {
+        "id": "achievement-16",
+        "name": "How to Race Friends and Influence People",
+        "kind": "trophy",
+        "chapterId": "stories",
+        "where": "Earn 3 stars in the 'Tristan' Chapter of the 'Born Fast' Horizon Story"
+      },
+      {
+        "id": "achievement-17",
+        "name": "Cover to Cover",
+        "kind": "trophy",
+        "chapterId": "stories",
+        "where": "Earn 3 stars on all chapters in a single Horizon Story"
+      },
+      {
+        "id": "achievement-18",
+        "name": "Tourist Attraction",
+        "kind": "trophy",
+        "chapterId": "races-and-events",
+        "where": "Complete your first Horizon Tour Race Event"
+      },
+      {
+        "id": "achievement-19",
+        "name": "Show Me Your Moves!",
+        "kind": "trophy",
+        "chapterId": "online-and-playlist",
+        "where": "Play any EventLab Event created by another player"
+      },
+      {
+        "id": "achievement-20",
+        "name": "Good Carma",
+        "kind": "trophy",
+        "chapterId": "online-and-playlist",
+        "where": "Give another player some Kudos to show your appreciation"
+      },
+      {
+        "id": "achievement-21",
+        "name": "Album Cover",
+        "kind": "trophy",
+        "chapterId": "photography",
+        "where": "Take a photo of the 2021 Mercedes-AMG ONE for Horizon Promo"
+      },
+      {
+        "id": "achievement-22",
+        "name": "Fit to Print",
+        "kind": "trophy",
+        "chapterId": "photography",
+        "where": "Take 50 photos of Legendary cars for Horizon Promo"
+      },
+      {
+        "id": "achievement-23",
+        "name": "A Forza Edition to my Collection",
+        "kind": "trophy",
+        "chapterId": "festival-progress",
+        "where": "Earn a Forza Edition car from a Wheelspin or Super Wheelspin"
+      },
+      {
+        "id": "achievement-24",
+        "name": "Manufacturer Affinity",
+        "kind": "trophy",
+        "chapterId": "festival-progress",
+        "where": "Earn a Manufacturer Bonus"
+      },
+      {
+        "id": "achievement-25",
+        "name": "You Could Say I'm a Fan",
+        "kind": "trophy",
+        "chapterId": "festival-progress",
+        "where": "Earn a Manufacturer Bonus for a collection of 25 or more cars"
+      },
+      {
+        "id": "achievement-26",
+        "name": "An Item Of Extreme Value",
+        "kind": "trophy",
+        "chapterId": "photography",
+        "where": "Discover and photograph the Golden Tlaloc Totem"
+      },
+      {
+        "id": "achievement-27",
+        "name": "No Stone Unturned",
+        "kind": "trophy",
+        "chapterId": "festival-progress",
+        "where": "Complete your first Expedition"
+      },
+      {
+        "id": "achievement-28",
+        "name": "Chicken Dinner",
+        "kind": "trophy",
+        "chapterId": "online-and-playlist",
+        "where": "Win your first game of The Eliminator"
+      },
+      {
+        "id": "achievement-29",
+        "name": "Jackpot",
+        "kind": "trophy",
+        "chapterId": "online-and-playlist",
+        "where": "Fully complete a run of Super7"
+      },
+      {
+        "id": "achievement-30",
+        "name": "Seasoned Veteran",
+        "kind": "trophy",
+        "chapterId": "online-and-playlist",
+        "where": "Complete a Festival Playlist activity in every season"
+      },
+      {
+        "id": "achievement-31",
+        "name": "Racing and Pacing and Plotting the Course",
+        "kind": "trophy",
+        "chapterId": "races-and-events",
+        "where": "Win 80 different Race Events in México"
+      },
+      {
+        "id": "achievement-32",
+        "name": "Unbeatable Triumph",
+        "kind": "trophy",
+        "chapterId": "races-and-events",
+        "where": "Win 6 different Race Events against Unbeatable Drivatars"
+      },
+      {
+        "id": "achievement-33",
+        "name": "Living Legend",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Earn 294 stars from PR Stunts in México"
+      },
+      {
+        "id": "achievement-34",
+        "name": "I Have the High Ground",
+        "kind": "trophy",
+        "chapterId": "races-and-events",
+        "where": "Win 3 Rivals Events in 3 different PI Classes while driving the same car"
+      },
+      {
+        "id": "achievement-35",
+        "name": "Unlimited Prowess!",
+        "kind": "trophy",
+        "chapterId": "online-and-playlist",
+        "where": "Complete Round Three in all 5 Themes of Horizon Arcade"
+      },
+      {
+        "id": "achievement-36",
+        "name": "Ride and Seek",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Discover and drive every road in México"
+      },
+      {
+        "id": "achievement-37",
+        "name": "Min, Meet Max",
+        "kind": "trophy",
+        "chapterId": "online-and-playlist",
+        "where": "Complete all Events in a Festival Playlist Series"
+      },
+      {
+        "id": "achievement-38",
+        "name": "Better Than New",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Restore 14 Barn Finds in México"
+      },
+      {
+        "id": "achievement-39",
+        "name": "Complete Collection",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Find and smash all 250 Bonus Boards in México"
+      },
+      {
+        "id": "achievement-40",
+        "name": "Ford of the Wings",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Earn 3 Stars at the Eagle's Perch Danger Sign in a Ford Supervan 3"
+      },
+      {
+        "id": "achievement-41",
+        "name": "Mogul",
+        "kind": "trophy",
+        "chapterId": "festival-progress",
+        "where": "Purchase all 7 Player Houses"
+      },
+      {
+        "id": "achievement-42",
+        "name": "Long Gone",
+        "kind": "trophy",
+        "chapterId": "races-and-events",
+        "where": "Win the Goliath Race Event"
+      },
+      {
+        "id": "achievement-43",
+        "name": "Gotta Smash 'Em All",
+        "kind": "trophy",
+        "chapterId": "online-and-playlist",
+        "where": "Complete 5 Seasonal Smashable Challenges"
+      },
+      {
+        "id": "achievement-44",
+        "name": "Cactus Makes Perfect",
+        "kind": "trophy",
+        "chapterId": "online-and-playlist",
+        "where": "Smash 500 cacti during México's Wet Season"
+      },
+      {
+        "id": "achievement-45",
+        "name": "A Royal Affair",
+        "kind": "trophy",
+        "chapterId": "photography",
+        "where": "At sunrise, take a photo of your car with some monarch butterflies at Hotel Mirador Balderrama"
+      },
+      {
+        "id": "achievement-46",
+        "name": "Dust in the Lens",
+        "kind": "trophy",
+        "chapterId": "photography",
+        "where": "Take a photo featuring the Gran Telescopio and a dust storm"
+      },
+      {
+        "id": "achievement-47",
+        "name": "Stunning Photography",
+        "kind": "trophy",
+        "chapterId": "photography",
+        "where": "Take a photo during a tropical storm"
+      },
+      {
+        "id": "achievement-48",
+        "name": "A Heart of Gold",
+        "kind": "trophy",
+        "chapterId": "online-and-playlist",
+        "where": "Send another player a Gift Drop"
+      },
+      {
+        "id": "achievement-49",
+        "name": "Water Performance",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Earn 3 stars at the Puerta Pétrea and La Marisma Trailblazers within 3 minutes and 30 seconds"
+      },
+      {
+        "id": "achievement-50",
+        "name": "You're the Champion",
+        "kind": "trophy",
+        "chapterId": "online-and-playlist",
+        "where": "Win any Event in Horizon Open"
+      },
+      {
+        "id": "achievement-51",
+        "name": "Treasure Hunter",
+        "kind": "trophy",
+        "chapterId": "online-and-playlist",
+        "where": "Find all Treasure Chests in a Festival Playlist Series"
+      },
+      {
+        "id": "achievement-52",
+        "name": "Front Runner",
+        "kind": "trophy",
+        "chapterId": "races-and-events",
+        "where": "Finish 5 Horizon Tour Race Events ahead of all Drivatars"
+      },
+      {
+        "id": "achievement-53",
+        "name": "New Tune",
+        "kind": "trophy",
+        "chapterId": "festival-progress",
+        "where": "Find a place to install the Horizon Pulse Radio Beacon"
+      },
+      {
+        "id": "achievement-54",
+        "name": "No One Expects the Hot Wheels Expedition",
+        "kind": "trophy",
+        "chapterId": "hot-wheels",
+        "where": "Arrive at the Horizon Hot Wheels Outpost"
+      },
+      {
+        "id": "achievement-55",
+        "name": "The Rookie",
+        "kind": "trophy",
+        "chapterId": "hot-wheels",
+        "where": "Complete the Rookie Qualifier Event"
+      },
+      {
+        "id": "achievement-56",
+        "name": "Pros, No Cons",
+        "kind": "trophy",
+        "chapterId": "hot-wheels",
+        "where": "Complete the Pro Qualifier Event"
+      },
+      {
+        "id": "achievement-57",
+        "name": "I'm an Expert Now",
+        "kind": "trophy",
+        "chapterId": "hot-wheels",
+        "where": "Complete the Expert Qualifier Event"
+      },
+      {
+        "id": "achievement-58",
+        "name": "WORT, WORT, WORT!",
+        "kind": "trophy",
+        "chapterId": "hot-wheels",
+        "where": "Complete the Elite Qualifier Event"
+      },
+      {
+        "id": "achievement-59",
+        "name": "Hot Wheels Legend",
+        "kind": "trophy",
+        "chapterId": "hot-wheels",
+        "where": "Win the Hot Wheels Goliath event and become the Hot Wheels Legend"
+      },
+      {
+        "id": "achievement-60",
+        "name": "Missions!",
+        "kind": "trophy",
+        "chapterId": "festival-progress",
+        "where": "Complete 5 Missions"
+      },
+      {
+        "id": "achievement-61",
+        "name": "More Missions!",
+        "kind": "trophy",
+        "chapterId": "festival-progress",
+        "where": "Complete 25 Missions"
+      },
+      {
+        "id": "achievement-62",
+        "name": "Missions Complete!",
+        "kind": "trophy",
+        "chapterId": "festival-progress",
+        "where": "Complete All Missions"
+      },
+      {
+        "id": "achievement-63",
+        "name": "Over-Qualified",
+        "kind": "trophy",
+        "chapterId": "hot-wheels",
+        "where": "Earn 3 Stars from each of the Hot Wheels Qualifier events"
+      },
+      {
+        "id": "achievement-64",
+        "name": "Altitude Quickness",
+        "kind": "trophy",
+        "chapterId": "races-and-events",
+        "where": "Win all Race Events"
+      },
+      {
+        "id": "achievement-65",
+        "name": "Soared and Board",
+        "kind": "trophy",
+        "chapterId": "hot-wheels",
+        "where": "Smash all Bonus Boards in Hot Wheels Park"
+      },
+      {
+        "id": "achievement-66",
+        "name": "Gotta Pop 'Em All",
+        "kind": "trophy",
+        "chapterId": "hot-wheels",
+        "where": "Smash all of the Floating Tanks in Hot Wheels Park"
+      },
+      {
+        "id": "achievement-67",
+        "name": "Fresh Pressed Orange Routes",
+        "kind": "trophy",
+        "chapterId": "hot-wheels",
+        "where": "Discover every road in Hot Wheels Park"
+      },
+      {
+        "id": "achievement-68",
+        "name": "Lessons in Hot Wheels History",
+        "kind": "trophy",
+        "chapterId": "hot-wheels",
+        "where": "Complete the first Chapter of the Hot Wheels Horizon Story"
+      },
+      {
+        "id": "achievement-69",
+        "name": "Major in Hot Wheels History",
+        "kind": "trophy",
+        "chapterId": "hot-wheels",
+        "where": "Complete all Chapters in the Hot Wheels Horizon Story"
+      },
+      {
+        "id": "achievement-70",
+        "name": "Professor of Hot Wheels History",
+        "kind": "trophy",
+        "chapterId": "hot-wheels",
+        "where": "Earn 3 Stars from every Chapter in the Hot Wheels Horizon Story"
+      },
+      {
+        "id": "achievement-71",
+        "name": "Competition, Experimentation, and Creativity",
+        "kind": "trophy",
+        "chapterId": "hot-wheels",
+        "where": "Play another player's EventLab creation utilizing Hot Wheels track pieces"
+      },
+      {
+        "id": "achievement-72",
+        "name": "Beach Bomb",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Earn 3 stars at the Canyon Jump Danger Sign in a 1963 Volkswagen Type 2 De Luxe"
+      },
+      {
+        "id": "achievement-73",
+        "name": "Aquanaut",
+        "kind": "trophy",
+        "chapterId": "hot-wheels",
+        "where": "Win any race that includes sections of Hot Wheels Water Flume Track"
+      },
+      {
+        "id": "achievement-74",
+        "name": "Icy Roads Ahead",
+        "kind": "trophy",
+        "chapterId": "hot-wheels",
+        "where": "Win any race that includes sections of Hot Wheels Ice Track"
+      },
+      {
+        "id": "achievement-75",
+        "name": "Shaken Not Third",
+        "kind": "trophy",
+        "chapterId": "hot-wheels",
+        "where": "Win any race that includes sections of Hot Wheels Rumble Track"
+      },
+      {
+        "id": "achievement-76",
+        "name": "Attracted to Victory",
+        "kind": "trophy",
+        "chapterId": "hot-wheels",
+        "where": "Win any race that includes sections of Hot Wheels Magnet Track"
+      },
+      {
+        "id": "achievement-77",
+        "name": "Supersonic",
+        "kind": "trophy",
+        "chapterId": "hot-wheels",
+        "where": "Finish a lap of the Hot Wheels Goliath event in under 6 minutes"
+      },
+      {
+        "id": "achievement-78",
+        "name": "Points Mean Prizes",
+        "kind": "trophy",
+        "chapterId": "hot-wheels",
+        "where": "Complete any Seasonal Activity in Hot Wheels Park"
+      },
+      {
+        "id": "achievement-79",
+        "name": "Hot Wheels, Hot Laps",
+        "kind": "trophy",
+        "chapterId": "hot-wheels",
+        "where": "Post a clean time for every Rivals route in Hot Wheels Park"
+      },
+      {
+        "id": "achievement-80",
+        "name": "High Roller",
+        "kind": "trophy",
+        "chapterId": "hot-wheels",
+        "where": "Spin 25 Wheelspins while in Hot Wheels Park"
+      },
+      {
+        "id": "achievement-81",
+        "name": "Hot Wheels All Star",
+        "kind": "trophy",
+        "chapterId": "hot-wheels",
+        "where": "Earn 3 Stars from every PR Stunt in Hot Wheels Park"
+      },
+      {
+        "id": "achievement-82",
+        "name": "Badge of Honour",
+        "kind": "trophy",
+        "chapterId": "online-and-playlist",
+        "where": "Earn a Badge"
+      },
+      {
+        "id": "achievement-83",
+        "name": "Hoonigan Impressionist",
+        "kind": "trophy",
+        "chapterId": "stories",
+        "where": "Smash a Pinata in the 'Drift Club Mexico' Chapter of the 'Drift Club' Horizon Story"
+      },
+      {
+        "id": "achievement-84",
+        "name": "The Grand Opening",
+        "kind": "trophy",
+        "chapterId": "online-and-playlist",
+        "where": "Earn 10 Levels in Horizon Open"
+      },
+      {
+        "id": "achievement-85",
+        "name": "Another One Bites the Dust",
+        "kind": "trophy",
+        "chapterId": "online-and-playlist",
+        "where": "Earn 100 Levels in Horizon Open"
+      },
+      {
+        "id": "achievement-86",
+        "name": "One for All",
+        "kind": "trophy",
+        "chapterId": "online-and-playlist",
+        "where": "Complete a Horizon Open Custom Race in the 2021 Mercedes-AMG One"
+      },
+      {
+        "id": "achievement-87",
+        "name": "Back in the Saddle",
+        "kind": "trophy",
+        "chapterId": "online-and-playlist",
+        "where": "Complete a Horizon Open Custom Race in the 2021 Ford Bronco"
+      },
+      {
+        "id": "achievement-88",
+        "name": "Join the Club",
+        "kind": "trophy",
+        "chapterId": "stories",
+        "where": "Complete all chapters of the 'Drift Club' Horizon Story"
+      },
+      {
+        "id": "achievement-89",
+        "name": "Drift Club Mexico",
+        "kind": "trophy",
+        "chapterId": "stories",
+        "where": "Earn 3 stars in all chapters of the 'Drift Club' Horizon Story"
+      },
+      {
+        "id": "achievement-90",
+        "name": "Welcome to Mexico 2.0",
+        "kind": "trophy",
+        "chapterId": "stories",
+        "where": "Complete the 'Welcome to Mexico' chapter of the 'Horizon Origins' Story"
+      },
+      {
+        "id": "achievement-91",
+        "name": "Smash Happy",
+        "kind": "trophy",
+        "chapterId": "stories",
+        "where": "Smash all 4 Bonus Boards in the 'Horizon Origins' Story"
+      },
+      {
+        "id": "achievement-92",
+        "name": "Blast From the Past",
+        "kind": "trophy",
+        "chapterId": "stories",
+        "where": "Complete all chapters of the 'Horizon Origins' Story"
+      },
+      {
+        "id": "achievement-93",
+        "name": "Memory Lane",
+        "kind": "trophy",
+        "chapterId": "stories",
+        "where": "Earn 3 stars in all chapters of the 'Horizon Origins' Story"
+      },
+      {
+        "id": "achievement-94",
+        "name": "I'll Just Take This Now",
+        "kind": "trophy",
+        "chapterId": "races-and-events",
+        "where": "Win your first Midnight Battle"
+      },
+      {
+        "id": "achievement-95",
+        "name": "Nighthawk",
+        "kind": "trophy",
+        "chapterId": "races-and-events",
+        "where": "Win every Midnight Battle"
+      },
+      {
+        "id": "achievement-96",
+        "name": "Made in Mexico",
+        "kind": "trophy",
+        "chapterId": "stories",
+        "where": "Complete all chapters of the 'Made in Mexico' Horizon Story"
+      },
+      {
+        "id": "achievement-97",
+        "name": "V.U.H.L",
+        "kind": "trophy",
+        "chapterId": "stories",
+        "where": "Earn 3 stars in all chapters of the 'Made in Mexico' Horizon Story"
+      },
+      {
+        "id": "achievement-98",
+        "name": "Welcome to Sierra Nueva",
+        "kind": "trophy",
+        "chapterId": "rally-adventure",
+        "where": "Arrive at the Horizon Badlands Outpost"
+      },
+      {
+        "id": "achievement-99",
+        "name": "Rouen",
+        "kind": "trophy",
+        "chapterId": "rally-adventure",
+        "where": "Win your first Horizon Rally event"
+      },
+      {
+        "id": "achievement-100",
+        "name": "Better Together",
+        "kind": "trophy",
+        "chapterId": "races-and-events",
+        "where": "Win your first Horizon Race event"
+      },
+      {
+        "id": "achievement-101",
+        "name": "It's Rally Time!",
+        "kind": "trophy",
+        "chapterId": "rally-adventure",
+        "where": "Join the Horizon Raptors Team"
+      },
+      {
+        "id": "achievement-102",
+        "name": "Road Rally",
+        "kind": "trophy",
+        "chapterId": "rally-adventure",
+        "where": "Join the Apex Predators Team"
+      },
+      {
+        "id": "achievement-103",
+        "name": "In The Still Of The Night",
+        "kind": "trophy",
+        "chapterId": "rally-adventure",
+        "where": "Join the Grit Reapers Team"
+      },
+      {
+        "id": "achievement-104",
+        "name": "Pink Slip",
+        "kind": "trophy",
+        "chapterId": "rally-adventure",
+        "where": "Win your first Team Champion Race"
+      },
+      {
+        "id": "achievement-105",
+        "name": "Picking Up The Tab",
+        "kind": "trophy",
+        "chapterId": "rally-adventure",
+        "where": "Win all three Team Champion Races"
+      },
+      {
+        "id": "achievement-106",
+        "name": "Horizon Badlands Champion",
+        "kind": "trophy",
+        "chapterId": "rally-adventure",
+        "where": "Become the Horizon Badlands Rally Champion"
+      },
+      {
+        "id": "achievement-107",
+        "name": "Keep Calm And Rally On",
+        "kind": "trophy",
+        "chapterId": "rally-adventure",
+        "where": "Win all Horizon Rally events"
+      },
+      {
+        "id": "achievement-108",
+        "name": "Course Connoisseur",
+        "kind": "trophy",
+        "chapterId": "races-and-events",
+        "where": "Win all Horizon Race events"
+      },
+      {
+        "id": "achievement-109",
+        "name": "Backwards, At Night, In The Rain",
+        "kind": "trophy",
+        "chapterId": "rally-adventure",
+        "where": "Complete all of Ramiro's Reputation Challenges"
+      },
+      {
+        "id": "achievement-110",
+        "name": "Follow My Lead",
+        "kind": "trophy",
+        "chapterId": "rally-adventure",
+        "where": "Complete all of Alejandra's Reputation Challenges"
+      },
+      {
+        "id": "achievement-111",
+        "name": "I Ain't Gonna Change",
+        "kind": "trophy",
+        "chapterId": "rally-adventure",
+        "where": "Complete all of Alex's Reputation Challenges"
+      },
+      {
+        "id": "achievement-112",
+        "name": "Completed It Mate",
+        "kind": "trophy",
+        "chapterId": "rally-adventure",
+        "where": "Complete all the Reputation Challenges"
+      },
+      {
+        "id": "achievement-113",
+        "name": "Smashlicious",
+        "kind": "trophy",
+        "chapterId": "rally-adventure",
+        "where": "Smash 15 Apex Predators Boards"
+      },
+      {
+        "id": "achievement-114",
+        "name": "Generating Alternate Smash Flows",
+        "kind": "trophy",
+        "chapterId": "rally-adventure",
+        "where": "Smash all 30 Apex Predators Boards"
+      },
+      {
+        "id": "achievement-115",
+        "name": "Smashtastic",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Smash 150 Piñata Trucks!"
+      },
+      {
+        "id": "achievement-116",
+        "name": "Put it on my Smash Drive",
+        "kind": "trophy",
+        "chapterId": "rally-adventure",
+        "where": "Smash 150 Grit Reapers Crates"
+      },
+      {
+        "id": "achievement-117",
+        "name": "Road Book",
+        "kind": "trophy",
+        "chapterId": "rally-adventure",
+        "where": "Discover every road in Sierra Nueva"
+      },
+      {
+        "id": "achievement-118",
+        "name": "Canyon Master",
+        "kind": "trophy",
+        "chapterId": "rally-adventure",
+        "where": "Earn 3 Stars from every freeroam PR Stunt in Sierra Nueva"
+      },
+      {
+        "id": "achievement-119",
+        "name": "That Time of Year",
+        "kind": "trophy",
+        "chapterId": "rally-adventure",
+        "where": "Complete any Seasonal Activity in Sierra Nueva"
+      },
+      {
+        "id": "achievement-120",
+        "name": "Unlimited Rally",
+        "kind": "trophy",
+        "chapterId": "rally-adventure",
+        "where": "Cross your first Split-Gate in a Horizon Rally event"
+      },
+      {
+        "id": "achievement-121",
+        "name": "Living up to the Rep",
+        "kind": "trophy",
+        "chapterId": "rally-adventure",
+        "where": "Make your way up to the 7th Tier of Horizon Raptors Reputation Challenges"
+      },
+      {
+        "id": "achievement-122",
+        "name": "Just Reppin'",
+        "kind": "trophy",
+        "chapterId": "rally-adventure",
+        "where": "Make your way up to the 7th Tier of Apex Predators Reputation Challenges"
+      },
+      {
+        "id": "achievement-123",
+        "name": "Cash and Rally",
+        "kind": "trophy",
+        "chapterId": "rally-adventure",
+        "where": "Make your way up to the 7th Tier of Grit Reapers Reputation Challenges"
+      },
+      {
+        "id": "achievement-124",
+        "name": "Life Skills",
+        "kind": "trophy",
+        "chapterId": "rally-adventure",
+        "where": "Bank 1 Million Skill Points in Sierra Nueva"
+      },
+      {
+        "id": "achievement-125",
+        "name": "On the Road Again",
+        "kind": "trophy",
+        "chapterId": "stories",
+        "where": "Complete the first chapter of the Donut Media HiLow Story"
+      },
+      {
+        "id": "achievement-126",
+        "name": "Hi Five",
+        "kind": "trophy",
+        "chapterId": "stories",
+        "where": "Complete all chapters of the Donut Media Hi Story"
+      },
+      {
+        "id": "achievement-127",
+        "name": "Low Five",
+        "kind": "trophy",
+        "chapterId": "stories",
+        "where": "Complete all chapters of the Donut Media Low Story"
+      },
+      {
+        "id": "achievement-128",
+        "name": "Give it the Beans!",
+        "kind": "trophy",
+        "chapterId": "stories",
+        "where": "Earn 3 Stars on all chapters of both Hi and Low stories"
+      },
+      {
+        "id": "achievement-129",
+        "name": "Get My Good Side",
+        "kind": "trophy",
+        "chapterId": "photography",
+        "where": "Take a photo of your character outside a car"
+      },
+      {
+        "id": "achievement-130",
+        "name": "Juuuuust Right",
+        "kind": "trophy",
+        "chapterId": "photography",
+        "where": "Take a photo using any guidelines 3 times"
+      },
+      {
+        "id": "achievement-131",
+        "name": "Timeless",
+        "kind": "trophy",
+        "chapterId": "photography",
+        "where": "Take a photo at every time setting"
+      },
+      {
+        "id": "achievement-132",
+        "name": "Give Me Five!",
+        "kind": "trophy",
+        "chapterId": "realms-and-modes",
+        "where": "Apply and purchase an upgrade to 5 cars at the Horizon Test Track"
+      },
+      {
+        "id": "achievement-133",
+        "name": "Leaving Tracks",
+        "kind": "trophy",
+        "chapterId": "realms-and-modes",
+        "where": "Drive 50 miles (80.5km) at the Horizon Test Track"
+      },
+      {
+        "id": "achievement-134",
+        "name": "Maxing Out",
+        "kind": "trophy",
+        "chapterId": "realms-and-modes",
+        "where": "Maintain a speed of 200mph (321.8km/h) for 10 seconds at the Horizon Test Track"
+      },
+      {
+        "id": "achievement-135",
+        "name": "Back To School",
+        "kind": "trophy",
+        "chapterId": "stories",
+        "where": "Complete the first chapter in the Icons of Speed Story"
+      },
+      {
+        "id": "achievement-136",
+        "name": "A New Era",
+        "kind": "trophy",
+        "chapterId": "stories",
+        "where": "Complete all chapters in the Icons of Speed Story"
+      },
+      {
+        "id": "achievement-137",
+        "name": "A True Icon",
+        "kind": "trophy",
+        "chapterId": "stories",
+        "where": "Earn 3 Stars in all chapters of the Icons of Speed Story"
+      },
+      {
+        "id": "achievement-138",
+        "name": "Hider and Seeker",
+        "kind": "trophy",
+        "chapterId": "realms-and-modes",
+        "where": "Complete a match of Hide and Seek as both the Hider and the Seeker"
+      },
+      {
+        "id": "achievement-139",
+        "name": "Bounty Hunter",
+        "kind": "trophy",
+        "chapterId": "realms-and-modes",
+        "where": "Complete 25 matches of Hide and Seek as a Seeker"
+      },
+      {
+        "id": "achievement-140",
+        "name": "The Hidden",
+        "kind": "trophy",
+        "chapterId": "realms-and-modes",
+        "where": "Complete 5 matches of Hide and Seek as a Hider"
+      },
+      {
+        "id": "achievement-141",
+        "name": "Dedicated to the Cause",
+        "kind": "trophy",
+        "chapterId": "realms-and-modes",
+        "where": "Reach a Streak of 20 in Hide and Seek"
+      },
+      {
+        "id": "achievement-142",
+        "name": "Never Back Down",
+        "kind": "trophy",
+        "chapterId": "realms-and-modes",
+        "where": "Reach a Streak of 50 in Hide and Seek"
+      },
+      {
+        "id": "achievement-143",
+        "name": "Lay of The Land",
+        "kind": "trophy",
+        "chapterId": "realms-and-modes",
+        "where": "Complete a match in every arena in Hide and Seek"
+      },
+      {
+        "id": "achievement-144",
+        "name": "Blending In",
+        "kind": "trophy",
+        "chapterId": "realms-and-modes",
+        "where": "Win as a Hider in Hide and Seek"
+      },
+      {
+        "id": "achievement-145",
+        "name": "The Big Reveal",
+        "kind": "trophy",
+        "chapterId": "realms-and-modes",
+        "where": "Win as a Seeker in Hide and Seek"
+      },
+      {
+        "id": "achievement-146",
+        "name": "Covering Ground",
+        "kind": "trophy",
+        "chapterId": "realms-and-modes",
+        "where": "Drive 50 miles in Hide and Seek"
+      },
+      {
+        "id": "achievement-147",
+        "name": "Catching a Break",
+        "kind": "trophy",
+        "chapterId": "realms-and-modes",
+        "where": "Successfully hit a total of 20 Seekers with Chase Breaker in a game of Hide and Seek"
+      },
+      {
+        "id": "achievement-148",
+        "name": "Enter the Realm",
+        "kind": "trophy",
+        "chapterId": "realms-and-modes",
+        "where": "Enter any Realm in either Free Mode or Skill Mode"
+      },
+      {
+        "id": "achievement-149",
+        "name": "Master of Realms",
+        "kind": "trophy",
+        "chapterId": "realms-and-modes",
+        "where": "Complete Skill Mode in every Realm"
+      },
+      {
+        "id": "achievement-150",
+        "name": "Stunt-tacular",
+        "kind": "trophy",
+        "chapterId": "realms-and-modes",
+        "where": "Complete Skill Mode in the Stunt Park whilst driving any Hoonigan"
+      },
+      {
+        "id": "achievement-151",
+        "name": "You're On Thin Ice",
+        "kind": "trophy",
+        "chapterId": "realms-and-modes",
+        "where": "Complete Skill Mode in the Ice Rink whilst driving the 2015 Volvo V60 Polestar"
+      },
+      {
+        "id": "achievement-152",
+        "name": "Tidy Little Bow",
+        "kind": "trophy",
+        "chapterId": "realms-and-modes",
+        "where": "Complete Skill Mode in the Oval Track whilst driving the 2013 KTM X-Bow R"
+      },
+      {
+        "id": "achievement-153",
+        "name": "Party Like It's 1987",
+        "kind": "trophy",
+        "chapterId": "realms-and-modes",
+        "where": "Complete Skill Mode at the Summer Party whilst driving the 1987 Pontiac Firebird"
+      },
+      {
+        "id": "achievement-154",
+        "name": "Right At Home",
+        "kind": "trophy",
+        "chapterId": "realms-and-modes",
+        "where": "Complete Skill Mode at Día de Muertos whilst driving any Nissan"
+      },
+      {
+        "id": "achievement-155",
+        "name": "Driving in a...",
+        "kind": "trophy",
+        "chapterId": "realms-and-modes",
+        "where": "Complete Skill Mode in the Winter Wonderland whilst driving any Lotus"
+      },
+      {
+        "id": "achievement-156",
+        "name": "Winging It",
+        "kind": "trophy",
+        "chapterId": "realms-and-modes",
+        "where": "Complete Skill Mode in the Lunar Drift Arena whilst driving any Aston Martin"
+      },
+      {
+        "id": "achievement-157",
+        "name": "As The Clock Strikes Midnight",
+        "kind": "trophy",
+        "chapterId": "realms-and-modes",
+        "where": "Complete Skill Mode at the Neon Airstrip whilst driving any Aventador"
+      },
+      {
+        "id": "achievement-158",
+        "name": "You Might Need a Map",
+        "kind": "trophy",
+        "chapterId": "realms-and-modes",
+        "where": "Drive a total of 20 miles at the Stadium Maze in Horizon Realms"
+      },
+      {
+        "id": "achievement-159",
+        "name": "Time-Wyrm",
+        "kind": "trophy",
+        "chapterId": "realms-and-modes",
+        "where": "Maintain a speed of 88mph or above for 1 minute at the Lunar Drift Arena in Horizon Realms"
+      },
+      {
+        "id": "achievement-160",
+        "name": "Free Bird",
+        "kind": "trophy",
+        "chapterId": "realms-and-modes",
+        "where": "Earn 100 Speed Skills in Free Mode"
+      },
+      {
+        "id": "achievement-161",
+        "name": "Keep That Camera Rolling",
+        "kind": "trophy",
+        "chapterId": "realms-and-modes",
+        "where": "Take a photo of 25 different cars in Free Mode"
+      },
+      {
+        "id": "achievement-162",
+        "name": "Drifting, Drifting, Drifting",
+        "kind": "trophy",
+        "chapterId": "realms-and-modes",
+        "where": "Earn 150 Drift or E-Drift Skills in Free Mode"
+      },
+      {
+        "id": "achievement-163",
+        "name": "Spanning Generations",
+        "kind": "trophy",
+        "chapterId": "realms-and-modes",
+        "where": "Drive a car from every decade around Free Mode"
+      },
+      {
+        "id": "achievement-164",
+        "name": "Demolisher",
+        "kind": "trophy",
+        "chapterId": "realms-and-modes",
+        "where": "Earn 200 Wreckage Skills in Free Mode"
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/forza-horizon-5",
+    "Achievement data from Steam (Steam Web API, app 1551360)",
+    "StrategyWiki: stub page only, nothing used — https://strategywiki.org/wiki/Forza_Horizon_5",
+    "Fandom (forza.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://forza.fandom.com/wiki/Forza_Horizon_5"
+  ],
+  "route": "original",
+  "notes": "StrategyWiki has a stub page (completion stage 0); its Walkthrough and Achievements subpages are linked but not written. forza.fandom.com answers the API with about 27 linked pages. All 164 Steam achievements have visible conditions, including the Hot Wheels and Rally Adventure expansions, so the checklist can be mostly complete; group placement is still an estimate."
+}

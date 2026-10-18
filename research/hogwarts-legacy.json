@@ -1,0 +1,475 @@
+{
+  "id": "hogwarts-legacy",
+  "title": "Hogwarts Legacy",
+  "year": 2023,
+  "platforms": [
+    "PC",
+    "PlayStation 5",
+    "Xbox Series X|S",
+    "PlayStation 4",
+    "Nintendo Switch",
+    "Xbox One"
+  ],
+  "rawgId": 906547,
+  "rawgSlug": "hogwarts-legacy",
+  "released": "2023-02-10",
+  "developers": [
+    "Avalanche Software",
+    "Portkey Games"
+  ],
+  "playtime": 30,
+  "genres": [
+    "Action",
+    "RPG"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Cloud",
+    "Atmospheric",
+    "Great Soundtrack",
+    "RPG",
+    "Story Rich",
+    "Open World",
+    "Third Person",
+    "Fantasy",
+    "Exploration",
+    "Action-Adventure",
+    "Action RPG"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/044/044b2ee023930ca138deda151f40c18c.jpg",
+  "steamAppId": 990080,
+  "achievements": {
+    "total": 45,
+    "hidden": 21,
+    "examples": [
+      {
+        "name": "A Talent for Spending",
+        "percent": 60.8
+      },
+      {
+        "name": "Loom for Improvement",
+        "percent": 46.4
+      },
+      {
+        "name": "Followed the Butterflies",
+        "percent": 45.4
+      },
+      {
+        "name": "The Good Samaritan",
+        "percent": 5.8
+      },
+      {
+        "name": "Finishing Touches",
+        "percent": 4.9
+      },
+      {
+        "name": "Merlin's Beard!",
+        "percent": 4.0
+      },
+      {
+        "name": "The Nature of the Beast",
+        "percent": 3.6
+      },
+      {
+        "name": "Collector's Edition",
+        "percent": 2.3
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Hogwarts_Legacy",
+      "reason": "Stub page only (Guides at completion stage 0); subpages linked but not written, no usable structure"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 2,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://hogwartslegacy.fandom.com/wiki/Hogwarts_Legacy"
+    }
+  },
+  "game": {
+    "id": "hogwarts-legacy",
+    "title": "Hogwarts Legacy",
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "Xbox Series X|S",
+      "PlayStation 4",
+      "Nintendo Switch",
+      "Xbox One"
+    ],
+    "blurb": "Open-world action RPG set at Hogwarts in the 1800s, from Avalanche Software, released 2023-02-10. RAWG average playtime: 30 hours. Genres: Action, RPG. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#8B6914",
+    "chapters": [
+      {
+        "id": "main-story",
+        "title": "The Main Story",
+        "summary": "Your fifth-year journey through Hogwarts and the mystery of ancient magic.",
+        "steps": []
+      },
+      {
+        "id": "classes-and-spells",
+        "title": "Classes, Spells and Talents",
+        "summary": "Learn every spell, spend Talent Points and level up.",
+        "steps": []
+      },
+      {
+        "id": "combat",
+        "title": "Duelling and Combat",
+        "summary": "Combos, Petrificus Totalus, Mandrakes and Ancient Magic in battle.",
+        "steps": []
+      },
+      {
+        "id": "side-quests-and-challenges",
+        "title": "Side Quests and Challenges",
+        "summary": "Side quests, challenge tiers and battle arenas.",
+        "steps": []
+      },
+      {
+        "id": "exploration",
+        "title": "Exploring the Castle and Highlands",
+        "summary": "Floo Flames, Merlin Trials, Demiguise statues, cairn dungeons and collections.",
+        "steps": []
+      },
+      {
+        "id": "room-of-requirement",
+        "title": "Room of Requirement",
+        "summary": "Gear upgrades, potions, plants and beast breeding.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "The Sort Who Makes an Entrance",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-2",
+        "name": "The Toast of the Town",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-3",
+        "name": "The Auror's Apprentice",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-4",
+        "name": "The Gryffindor in the Graveyard",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-5",
+        "name": "The Wise Owl",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-6",
+        "name": "First Class Student",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-7",
+        "name": "Troll with the Punches",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-8",
+        "name": "That's a Keeper",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-9",
+        "name": "Rising From the Ashes",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-10",
+        "name": "Grappling with a Graphorn",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-11",
+        "name": "The One Who Mastered Memories",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-12",
+        "name": "The Hallowed Hero",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-13",
+        "name": "The Hero of Hogwarts",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-14",
+        "name": "The Seeker of Knowledge",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-15",
+        "name": "The Avenging Gazelle",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-16",
+        "name": "The Defender of Dragons",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-17",
+        "name": "Beast Friends",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-18",
+        "name": "A Sallow Grave",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-19",
+        "name": "Flight the Good Flight",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-20",
+        "name": "The Good Samaritan",
+        "kind": "trophy",
+        "chapterId": "side-quests-and-challenges",
+        "where": "Complete all side quests"
+      },
+      {
+        "id": "achievement-21",
+        "name": "Challenge Accepted",
+        "kind": "trophy",
+        "chapterId": "side-quests-and-challenges",
+        "where": "Complete all tiers of a challenge"
+      },
+      {
+        "id": "achievement-22",
+        "name": "Collector's Edition",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Complete all collections"
+      },
+      {
+        "id": "achievement-23",
+        "name": "A Keen Sense of Spell",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-24",
+        "name": "Loom for Improvement",
+        "kind": "trophy",
+        "chapterId": "room-of-requirement",
+        "where": "Upgrade a piece of gear"
+      },
+      {
+        "id": "achievement-25",
+        "name": "The Root of the Problem",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Stun 10 different enemies using a Mandrake"
+      },
+      {
+        "id": "achievement-26",
+        "name": "The Nature of the Beast",
+        "kind": "trophy",
+        "chapterId": "room-of-requirement",
+        "where": "Breed every type of beast"
+      },
+      {
+        "id": "achievement-27",
+        "name": "Going Through the Potions",
+        "kind": "trophy",
+        "chapterId": "room-of-requirement",
+        "where": "Brew every type of potion"
+      },
+      {
+        "id": "achievement-28",
+        "name": "Put Down Roots",
+        "kind": "trophy",
+        "chapterId": "room-of-requirement",
+        "where": "Grow every type of plant"
+      },
+      {
+        "id": "achievement-29",
+        "name": "Third Time's a Charm",
+        "kind": "trophy",
+        "chapterId": "room-of-requirement",
+        "where": "Upgrade a piece of gear 3 times"
+      },
+      {
+        "id": "achievement-30",
+        "name": "A Talent for Spending",
+        "kind": "trophy",
+        "chapterId": "classes-and-spells",
+        "where": "Spend 5 Talent Points"
+      },
+      {
+        "id": "achievement-31",
+        "name": "Savvy Spender",
+        "kind": "trophy",
+        "chapterId": "classes-and-spells",
+        "where": "Spend all Talent Points"
+      },
+      {
+        "id": "achievement-32",
+        "name": "Room with a View",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Reach the highest point in the castle, the Headmaster's upper study"
+      },
+      {
+        "id": "achievement-33",
+        "name": "Spilled Milk",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Use Flipendo ten times – to tip one cow or several"
+      },
+      {
+        "id": "achievement-34",
+        "name": "Floo Around the World",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Unlock all Floo Flames"
+      },
+      {
+        "id": "achievement-35",
+        "name": "Followed the Butterflies",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Follow butterflies to a treasure"
+      },
+      {
+        "id": "achievement-36",
+        "name": "Rise to the Challenges",
+        "kind": "trophy",
+        "chapterId": "side-quests-and-challenges",
+        "where": "Defeat enemies in all battle arenas"
+      },
+      {
+        "id": "achievement-37",
+        "name": "Merlin's Beard!",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Complete all Merlin Trials"
+      },
+      {
+        "id": "achievement-38",
+        "name": "The Intrepid Explorer",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Discover all cairn dungeons"
+      },
+      {
+        "id": "achievement-39",
+        "name": "Coasting Along",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-40",
+        "name": "Demiguise Dread",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Find all Demiguise statues"
+      },
+      {
+        "id": "achievement-41",
+        "name": "The Ends Petrify the Means",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Defeat a total of fifty enemies using Petrificus Totalus"
+      },
+      {
+        "id": "achievement-42",
+        "name": "Raising Expectations",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Reach a combo of 100"
+      },
+      {
+        "id": "achievement-43",
+        "name": "Finishing Touches",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Use Ancient Magic on every enemy in the game"
+      },
+      {
+        "id": "achievement-44",
+        "name": "The Spell Master",
+        "kind": "trophy",
+        "chapterId": "classes-and-spells",
+        "where": "Learn all spells"
+      },
+      {
+        "id": "achievement-45",
+        "name": "A Forte for Achievement",
+        "kind": "trophy",
+        "chapterId": "classes-and-spells",
+        "where": "Reach Level 40"
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/hogwarts-legacy",
+    "Achievement data from Steam (Steam Web API, app 990080)",
+    "StrategyWiki: stub page only, nothing used — https://strategywiki.org/wiki/Hogwarts_Legacy",
+    "Fandom (hogwartslegacy.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://hogwartslegacy.fandom.com/wiki/Hogwarts_Legacy"
+  ],
+  "route": "original",
+  "notes": "StrategyWiki has a stub page (completion stage 0); Walkthrough, Gameplay and Controls subpages are linked but not written. hogwartslegacy.fandom.com answers the API, but its game page links to only 2 pages. The Steam schema calls the app \"PHX\" (an internal codename); the store list confirms app 990080. 21 of 45 Steam achievements are hidden; they sit in the main story chapter as a placeholder."
+}
