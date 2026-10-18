@@ -5,6 +5,36 @@ Tracks the 20-game research queue in `research/state.json` and files landing in 
 
 ---
 
+## 2026-10-18 09:10 UTC
+
+**Year / queue:** currentYear = 2023 on `main`. state.json (last updated 04:05 UTC) is unchanged for the fifth hour running: 9 queued, 0 in progress, 11 done, 0 errors. `yearsCompleted` still empty (cosmetic).
+
+**Progress:** 11/20 games done and merged to `main`. No change in the last hour.
+
+**Latest commits (origin/main):**
+- `9adbfac` Coordinator log: 08:10 check (coordinator, 08:11 UTC)
+- `262f3f5` Coordinator log: 07:10 check (coordinator, 07:10 UTC)
+- `288d5dc` Coordinator log: 06:10 check (coordinator, 06:12 UTC)
+- `5c51e6e` Coordinator log: 05:10 check (coordinator, 05:11 UTC)
+- `d285c2f` Coordinator log: 04:10 check (coordinator, 04:12 UTC)
+
+No new research commits, branches, or PRs in the last hour. The `game-researcher-routine` scheduled task is enabled on a daily cadence (last fired 03:07 UTC today, succeeded in about 2 minutes; next run 2026-10-19 03:07 UTC), so nothing is expected to land before then. Branch tips on origin are unchanged: `claude/festive-turing-ek24ds` at `fbd867d`, `claude/research-crimson-desert` at `d030330`, `claude/research-forza-horizon-6` at `abf057d`.
+
+**Research files:** `research/` on `main` holds `state.json` plus the same 11 game files. Every `done` slug has a matching file and every file has a `done` entry. Filenames match slugs. No stray files. `packs/` still does not exist (placeholder paths, expected).
+
+**Quality check:** no new files; confirmation re-check of all 11 PASS (`id`, `title`, `platforms`, `game.chapters`, `game.collectibles` all present). Known gaps unchanged: `ghost-of-yotei.json` has 0 collectibles, `forza-horizon-6.json` lacks `released`, `developers`, `tags`.
+
+**Blockers / errors / stale PRs:**
+- **No open PRs.** PR #1, #3, #4 merged; PR #2 closed unmerged. Nothing stale.
+- The researcher spec fix `fbd867d` ("skip games already claimed on any branch") is still only on `claude/festive-turing-ek24ds` with no PR. Tomorrow's 03:07 UTC run will use the old spec on `main` unless it is merged first. Low risk at one run per day.
+- Stale branches safe to delete on origin: `claude/research-forza-horizon-6` (merged), `claude/research-crimson-desert` (closed).
+- Research pace unchanged: at one game per day the remaining 9 games finish around 27 October. A manual batch session would finish in one sitting.
+- Still outstanding: `store.steampowered.com` is blocked by the environment network policy (Steam Web API unaffected).
+
+**Next game in queue:** `baldurs-gate-3` — Baldur's Gate 3 (2023, evidence 3, route original). Then `zelda-tears-of-the-kingdom` (cc-by-sa) and `hogwarts-legacy`, then 2022 (`elden-ring`).
+
+---
+
 ## 2026-10-18 08:10 UTC
 
 **Year / queue:** currentYear = 2023 on `main`. state.json (last updated 04:05 UTC) is unchanged for the fourth hour running: 9 queued, 0 in progress, 11 done, 0 errors. `yearsCompleted` still empty (cosmetic).
