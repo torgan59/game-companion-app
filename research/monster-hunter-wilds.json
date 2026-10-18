@@ -1,0 +1,504 @@
+{
+  "id": "monster-hunter-wilds",
+  "title": "Monster Hunter Wilds",
+  "year": 2025,
+  "platforms": [
+    "PC",
+    "PlayStation 5",
+    "Xbox Series X|S"
+  ],
+  "rawgId": 973391,
+  "rawgSlug": "monster-hunter-wilds",
+  "released": "2025-02-27",
+  "developers": [
+    "Capcom"
+  ],
+  "playtime": 11,
+  "genres": [
+    "Action",
+    "Adventure",
+    "RPG"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Multiplayer",
+    "Full controller support",
+    "Steam Cloud",
+    "Atmospheric",
+    "Great Soundtrack",
+    "RPG",
+    "Co-op",
+    "Open World",
+    "cooperative",
+    "Third Person"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/91b/91b4edd8fecf88b2b5ca0752321382ee.jpg",
+  "steamAppId": 2246340,
+  "achievements": {
+    "total": 50,
+    "hidden": 13,
+    "examples": [
+      {
+        "name": "Giant Crown",
+        "percent": 84.9
+      },
+      {
+        "name": "The Bigger They Are...",
+        "percent": 84.8
+      },
+      {
+        "name": "The Hunt Is On!",
+        "percent": 82.1
+      },
+      {
+        "name": "Gossip Hunter",
+        "percent": 7.4
+      },
+      {
+        "name": "A-fish-ionado",
+        "percent": 5.5
+      },
+      {
+        "name": "Giant Crown Master",
+        "percent": 4.8
+      },
+      {
+        "name": "Miniature Crown Master",
+        "percent": 4.6
+      },
+      {
+        "name": "Eastward Wings",
+        "percent": 3.9
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Monster_Hunter_Wilds",
+      "reason": "Stub page only (Guides at completion stage 0); Walkthrough subpage missing, no usable structure"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 158,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://monsterhunter.fandom.com/wiki/Monster_Hunter_Wilds"
+    }
+  },
+  "game": {
+    "id": "monster-hunter-wilds",
+    "title": "Monster Hunter Wilds",
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "Xbox Series X|S"
+    ],
+    "blurb": "Open-world monster-hunting action RPG from Capcom, released 2025-02-27. RAWG average playtime: 11 hours (this undercounts a full playthrough). Genres: Action, Adventure, RPG. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#D9822B",
+    "chapters": [
+      {
+        "id": "main-story",
+        "title": "The Main Story",
+        "summary": "Follow the story chapters across the Forbidden Lands.",
+        "steps": []
+      },
+      {
+        "id": "hunting-basics",
+        "title": "Hunting Basics",
+        "summary": "First field survey, mounts, sneak attacks, Focus Mode and captures.",
+        "steps": []
+      },
+      {
+        "id": "quests-and-investigations",
+        "title": "Quests and Investigations",
+        "summary": "Side missions, investigations and quest milestones.",
+        "steps": []
+      },
+      {
+        "id": "camp-and-life",
+        "title": "Camp, Cooking and Fishing",
+        "summary": "Pop-up camps, cooking, fishing, your Seikret and Palico.",
+        "steps": []
+      },
+      {
+        "id": "gear-and-crowns",
+        "title": "Gear, Ranks and Crowns",
+        "summary": "High-rarity forging, Hunter Rank, zenny and crown sizes in the Hunting Log.",
+        "steps": []
+      },
+      {
+        "id": "multiplayer",
+        "title": "Multiplayer",
+        "summary": "Hunting with others and Hunter Profiles.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Eastward Wings",
+        "kind": "trophy",
+        "chapterId": "gear-and-crowns",
+        "where": "Obtained all other awards."
+      },
+      {
+        "id": "achievement-2",
+        "name": "Windward Lands",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-3",
+        "name": "Shadow in the Downpour",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-4",
+        "name": "Guardians of the Forge",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-5",
+        "name": "Bringer of Harmony",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-6",
+        "name": "New Ecosystems",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-7",
+        "name": "A Bitter Environment",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-8",
+        "name": "Beyond the Black Wings",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-9",
+        "name": "One Corner of the World",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-10",
+        "name": "A True Hunter Is Never Satisfied",
+        "kind": "trophy",
+        "chapterId": "quests-and-investigations",
+        "where": "Completed 50 quests."
+      },
+      {
+        "id": "achievement-11",
+        "name": "Let the Investigations Begin!",
+        "kind": "trophy",
+        "chapterId": "quests-and-investigations",
+        "where": "Completed your first investigation."
+      },
+      {
+        "id": "achievement-12",
+        "name": "The Hunt Is On!",
+        "kind": "trophy",
+        "chapterId": "hunting-basics",
+        "where": "Completed your first Field Survey."
+      },
+      {
+        "id": "achievement-13",
+        "name": "A Step Toward Mutual Understanding",
+        "kind": "trophy",
+        "chapterId": "quests-and-investigations",
+        "where": "Completed your first side mission."
+      },
+      {
+        "id": "achievement-14",
+        "name": "East to West, A Hunter Never Rests",
+        "kind": "trophy",
+        "chapterId": "quests-and-investigations",
+        "where": "Completed 30 different side missions."
+      },
+      {
+        "id": "achievement-15",
+        "name": "Angling for a Bite",
+        "kind": "trophy",
+        "chapterId": "camp-and-life",
+        "where": "Successfully fished for the first time."
+      },
+      {
+        "id": "achievement-16",
+        "name": "Mmm, So Tasty!",
+        "kind": "trophy",
+        "chapterId": "camp-and-life",
+        "where": "Successfully cooked a well-done steak for the first time."
+      },
+      {
+        "id": "achievement-17",
+        "name": "Was It a Meal to Remember?",
+        "kind": "trophy",
+        "chapterId": "camp-and-life",
+        "where": "Cooked over the BBQ Grill for the first time."
+      },
+      {
+        "id": "achievement-18",
+        "name": "The Bigger They Are...",
+        "kind": "trophy",
+        "chapterId": "hunting-basics",
+        "where": "Successfully mounted a monster for the first time."
+      },
+      {
+        "id": "achievement-19",
+        "name": "Hunter-Assassin",
+        "kind": "trophy",
+        "chapterId": "hunting-basics",
+        "where": "Performed your first successful Sneak Attack."
+      },
+      {
+        "id": "achievement-20",
+        "name": "Hit 'Em Where It Hurts!",
+        "kind": "trophy",
+        "chapterId": "hunting-basics",
+        "where": "Landed 50 successful attacks on weak points or wounds in Focus Mode."
+      },
+      {
+        "id": "achievement-21",
+        "name": "A Prize Held High",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-22",
+        "name": "I Caught a Shooting Star!",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-23",
+        "name": "Monster (Squid) Hunter",
+        "kind": "trophy",
+        "chapterId": "camp-and-life",
+        "where": "Caught a giant squid while fishing."
+      },
+      {
+        "id": "achievement-24",
+        "name": "A-fish-ionado",
+        "kind": "trophy",
+        "chapterId": "camp-and-life",
+        "where": "Reeled in 30 whoppers while fishing."
+      },
+      {
+        "id": "achievement-25",
+        "name": "Campmaster",
+        "kind": "trophy",
+        "chapterId": "camp-and-life",
+        "where": "Established Pop-up Camps in 10 places."
+      },
+      {
+        "id": "achievement-26",
+        "name": "Glamper",
+        "kind": "trophy",
+        "chapterId": "camp-and-life",
+        "where": "Customized a Pop-up Camp for the first time."
+      },
+      {
+        "id": "achievement-27",
+        "name": "A Keen-eyed Observation",
+        "kind": "trophy",
+        "chapterId": "gear-and-crowns",
+        "where": "Used the binoculars to spot a gold-crown large monster."
+      },
+      {
+        "id": "achievement-28",
+        "name": "Ride-or-die Companion",
+        "kind": "trophy",
+        "chapterId": "camp-and-life",
+        "where": "Customized your Seikret or changed its decorations for the first time."
+      },
+      {
+        "id": "achievement-29",
+        "name": "Established Hunter",
+        "kind": "trophy",
+        "chapterId": "gear-and-crowns",
+        "where": "Reached Hunter Rank 100."
+      },
+      {
+        "id": "achievement-30",
+        "name": "Impregnable Defense",
+        "kind": "trophy",
+        "chapterId": "gear-and-crowns",
+        "where": "Forged five different pieces of armor with Rarity 7 or higher."
+      },
+      {
+        "id": "achievement-31",
+        "name": "Power Is Everything",
+        "kind": "trophy",
+        "chapterId": "gear-and-crowns",
+        "where": "Forged five different weapons with Rarity 7 or higher."
+      },
+      {
+        "id": "achievement-32",
+        "name": "Someone Worth Following",
+        "kind": "trophy",
+        "chapterId": "camp-and-life",
+        "where": "Completed 100 quests with your Palico deployed."
+      },
+      {
+        "id": "achievement-33",
+        "name": "A Legacy Restored",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-34",
+        "name": "Bourgeois Hunter",
+        "kind": "trophy",
+        "chapterId": "gear-and-crowns",
+        "where": "Possessed 1,000,000 zenny."
+      },
+      {
+        "id": "achievement-35",
+        "name": "Explorer of the Eastlands",
+        "kind": "trophy",
+        "chapterId": "gear-and-crowns",
+        "where": "Obtained 10 different special items of Rarity 6."
+      },
+      {
+        "id": "achievement-36",
+        "name": "Monster Ph.D.",
+        "kind": "trophy",
+        "chapterId": "hunting-basics",
+        "where": "Hunted many different large monsters."
+      },
+      {
+        "id": "achievement-37",
+        "name": "Seasoned Hunter",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-38",
+        "name": "Miniature Crown",
+        "kind": "trophy",
+        "chapterId": "gear-and-crowns",
+        "where": "Obtained your first miniature crown in the Hunting Log."
+      },
+      {
+        "id": "achievement-39",
+        "name": "Miniature Crown Collector",
+        "kind": "trophy",
+        "chapterId": "gear-and-crowns",
+        "where": "Obtained a miniature crown for 10 or more monsters in the Hunting Log."
+      },
+      {
+        "id": "achievement-40",
+        "name": "Miniature Crown Master",
+        "kind": "trophy",
+        "chapterId": "gear-and-crowns",
+        "where": "Obtained a miniature crown for many monsters in the Hunting Log."
+      },
+      {
+        "id": "achievement-41",
+        "name": "Giant Crown",
+        "kind": "trophy",
+        "chapterId": "gear-and-crowns",
+        "where": "Obtained your first silver crown or higher in the Hunting Log."
+      },
+      {
+        "id": "achievement-42",
+        "name": "Giant Crown Collector",
+        "kind": "trophy",
+        "chapterId": "gear-and-crowns",
+        "where": "Obtained a gold crown for 10 or more monsters in the Hunting Log."
+      },
+      {
+        "id": "achievement-43",
+        "name": "Giant Crown Master",
+        "kind": "trophy",
+        "chapterId": "gear-and-crowns",
+        "where": "Obtained a gold crown for many monsters in the Hunting Log."
+      },
+      {
+        "id": "achievement-44",
+        "name": "Capture Pro",
+        "kind": "trophy",
+        "chapterId": "hunting-basics",
+        "where": "Captured 50 monsters."
+      },
+      {
+        "id": "achievement-45",
+        "name": "Monster Slayer",
+        "kind": "trophy",
+        "chapterId": "hunting-basics",
+        "where": "Hunted 100 large monsters."
+      },
+      {
+        "id": "achievement-46",
+        "name": "Top of the Food Chain",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-47",
+        "name": "Hunters United",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "Completed a quest via multiplayer."
+      },
+      {
+        "id": "achievement-48",
+        "name": "Hunters United Forever",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "Completed 100 quests via multiplayer."
+      },
+      {
+        "id": "achievement-49",
+        "name": "Gossip Hunter",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "Viewed 30 different Hunter Profiles."
+      },
+      {
+        "id": "achievement-50",
+        "name": "Newly Forged Bonds",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "Followed someone for the first time."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/monster-hunter-wilds",
+    "Achievement data from Steam (Steam Web API, app 2246340)",
+    "StrategyWiki: stub page only, nothing used — https://strategywiki.org/wiki/Monster_Hunter_Wilds",
+    "Fandom (monsterhunter.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://monsterhunter.fandom.com/wiki/Monster_Hunter_Wilds"
+  ],
+  "route": "original",
+  "notes": "StrategyWiki has a stub page (completion stage 0); the Walkthrough subpage does not exist yet. monsterhunter.fandom.com answers the API with about 160 linked pages, including region names (Windward Plains, Scarlet Forest, Oilwell Basin, Iceshard Cliffs, Ruins of Wyveria) and list pages for monsters, quests, weapons and armour. Those are facts we can confirm and rewrite later; no text was copied. Region names could seed chapter titles once checked in game."
+}
