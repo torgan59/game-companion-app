@@ -1,0 +1,401 @@
+{
+  "id": "crimson-desert",
+  "title": "Crimson Desert",
+  "year": 2026,
+  "platforms": [
+    "PC",
+    "PS5",
+    "Xbox Series X|S"
+  ],
+  "rawgId": 529829,
+  "rawgSlug": "crimson-desert",
+  "playtime": null,
+  "genres": [
+    "action",
+    "rpg",
+    "open-world"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/dac/dacfcdeaef957a36416f4e6d5ec76229.jpg",
+  "releaseDate": "2026-03-19",
+  "steamAppId": 3321460,
+  "steamAppName": "Crimson Desert Enhanced (Steam store listing; schema gameName: Crimson Desert)",
+  "achievements": {
+    "total": 34,
+    "examples": [
+      {
+        "name": "Novice Adventurer",
+        "percent": 76.9
+      },
+      {
+        "name": "Master Camper",
+        "percent": 58.4
+      },
+      {
+        "name": "Protector of Pailune",
+        "percent": 28.7
+      },
+      {
+        "name": "Expert Storyteller",
+        "percent": 10.6
+      },
+      {
+        "name": "Lightbringer",
+        "percent": 9.8
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": false,
+      "reason": "No Crimson Desert page found via MediaWiki API",
+      "licence": "CC BY-SA 4.0"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not an Elder Scrolls game"
+    },
+    "fandom": {
+      "available": true,
+      "wiki": "crimsondesert.fandom.com",
+      "pages": 1004,
+      "articles": 355,
+      "licence": "CC-BY-SA (per MediaWiki rightsinfo; version not stated by API)",
+      "url": "https://crimsondesert.fandom.com/wiki/Crimson_Desert",
+      "structure": {
+        "regions": [
+          "Akapen",
+          "Calphade",
+          "Delesyia",
+          "Demeniss",
+          "Hernand",
+          "Pailune",
+          "Senia",
+          "Tashkalp"
+        ],
+        "categories": {
+          "Locations": 214,
+          "Characters": 48,
+          "Factions": 44,
+          "Bosses": 13,
+          "Regions": 9
+        },
+        "gameplayPages": [
+          "Activities",
+          "Combat",
+          "Fishing",
+          "Quests",
+          "Weapons"
+        ],
+        "note": "No chapter or main-quest list found; chapters below are inferred from regions."
+      }
+    }
+  },
+  "game": {
+    "id": "crimson-desert",
+    "title": "Crimson Desert",
+    "platforms": [
+      "PC",
+      "PS5",
+      "Xbox Series X|S"
+    ],
+    "blurb": "Open-world action-adventure RPG set on the continent of Pywel, following Kliff, leader of the Greymanes. RAWG has no average playtime yet.",
+    "accent": "#B3202A",
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "Hernand",
+        "summary": "Region of Pywel listed on the Crimson Desert wiki. Chapter order is an estimate, to be confirmed by play-through.",
+        "steps": []
+      },
+      {
+        "id": "chapter-2",
+        "title": "Pailune",
+        "summary": "Region of Pywel listed on the Crimson Desert wiki. Chapter order is an estimate, to be confirmed by play-through.",
+        "steps": []
+      },
+      {
+        "id": "chapter-3",
+        "title": "Delesyia",
+        "summary": "Region of Pywel listed on the Crimson Desert wiki. Chapter order is an estimate, to be confirmed by play-through.",
+        "steps": []
+      },
+      {
+        "id": "chapter-4",
+        "title": "Demeniss",
+        "summary": "Region of Pywel listed on the Crimson Desert wiki. Chapter order is an estimate, to be confirmed by play-through.",
+        "steps": []
+      },
+      {
+        "id": "chapter-5",
+        "title": "Akapen",
+        "summary": "Region of Pywel listed on the Crimson Desert wiki. Chapter order is an estimate, to be confirmed by play-through.",
+        "steps": []
+      },
+      {
+        "id": "chapter-6",
+        "title": "Calphade",
+        "summary": "Region of Pywel listed on the Crimson Desert wiki. Chapter order is an estimate, to be confirmed by play-through.",
+        "steps": []
+      },
+      {
+        "id": "chapter-7",
+        "title": "Senia",
+        "summary": "Region of Pywel listed on the Crimson Desert wiki. Chapter order is an estimate, to be confirmed by play-through.",
+        "steps": []
+      },
+      {
+        "id": "chapter-8",
+        "title": "Tashkalp",
+        "summary": "Region of Pywel listed on the Crimson Desert wiki. Chapter order is an estimate, to be confirmed by play-through.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Battlefield Conqueror",
+        "kind": "trophy",
+        "chapterId": "TBD",
+        "where": "Complete all battle challenges."
+      },
+      {
+        "id": "achievement-2",
+        "name": "Beast Slayer",
+        "kind": "trophy",
+        "chapterId": "TBD",
+        "where": "Complete all New Power challenges."
+      },
+      {
+        "id": "achievement-3",
+        "name": "Brilliant Tactician",
+        "kind": "trophy",
+        "chapterId": "TBD",
+        "where": "Complete all operation challenges."
+      },
+      {
+        "id": "achievement-4",
+        "name": "Conqueror of Spires",
+        "kind": "trophy",
+        "chapterId": "TBD",
+        "where": "Complete all spire challenges."
+      },
+      {
+        "id": "achievement-5",
+        "name": "Conqueror of the Abysses",
+        "kind": "trophy",
+        "chapterId": "TBD",
+        "where": "Complete all Abyss challenges."
+      },
+      {
+        "id": "achievement-6",
+        "name": "Expert Explorer",
+        "kind": "trophy",
+        "chapterId": "TBD",
+        "where": "Complete all exploration challenges."
+      },
+      {
+        "id": "achievement-7",
+        "name": "Expert Storyteller",
+        "kind": "trophy",
+        "chapterId": "TBD",
+        "where": "Complete all main quests."
+      },
+      {
+        "id": "achievement-8",
+        "name": "Grand Collector of Arms",
+        "kind": "trophy",
+        "chapterId": "TBD",
+        "where": "Complete all special equipment challenges."
+      },
+      {
+        "id": "achievement-9",
+        "name": "Lightbringer",
+        "kind": "trophy",
+        "chapterId": "TBD",
+        "where": "Complete all sanctum challenges."
+      },
+      {
+        "id": "achievement-10",
+        "name": "Lord of Honor",
+        "kind": "trophy",
+        "chapterId": "TBD",
+        "where": "Complete all Challenges and Changes challenges."
+      },
+      {
+        "id": "achievement-11",
+        "name": "Master Camper",
+        "kind": "trophy",
+        "chapterId": "TBD",
+        "where": "Complete the activation of the camp at Howling Hill."
+      },
+      {
+        "id": "achievement-12",
+        "name": "Master of Artillery",
+        "kind": "trophy",
+        "chapterId": "TBD",
+        "where": "Complete all cannon challenges."
+      },
+      {
+        "id": "achievement-13",
+        "name": "Master of Bows",
+        "kind": "trophy",
+        "chapterId": "TBD",
+        "where": "Complete all bow challenges."
+      },
+      {
+        "id": "achievement-14",
+        "name": "Master of Firearms",
+        "kind": "trophy",
+        "chapterId": "TBD",
+        "where": "Complete all gun challenges."
+      },
+      {
+        "id": "achievement-15",
+        "name": "Master of Rapiers",
+        "kind": "trophy",
+        "chapterId": "TBD",
+        "where": "Complete all rapier and shield challenges."
+      },
+      {
+        "id": "achievement-16",
+        "name": "Master of Shields",
+        "kind": "trophy",
+        "chapterId": "TBD",
+        "where": "Complete all shield challenges."
+      },
+      {
+        "id": "achievement-17",
+        "name": "Master of Spears",
+        "kind": "trophy",
+        "chapterId": "TBD",
+        "where": "Complete all spear challenges."
+      },
+      {
+        "id": "achievement-18",
+        "name": "Master of Swords",
+        "kind": "trophy",
+        "chapterId": "TBD",
+        "where": "Complete all sword challenges."
+      },
+      {
+        "id": "achievement-19",
+        "name": "Master of Two-Handed Weapons",
+        "kind": "trophy",
+        "chapterId": "TBD",
+        "where": "Complete all two-handed weapon challenges."
+      },
+      {
+        "id": "achievement-20",
+        "name": "Maze Pathfinder",
+        "kind": "trophy",
+        "chapterId": "TBD",
+        "where": "Complete all maze challenges."
+      },
+      {
+        "id": "achievement-21",
+        "name": "Natural Collector",
+        "kind": "trophy",
+        "chapterId": "TBD",
+        "where": "Complete all life challenges."
+      },
+      {
+        "id": "achievement-22",
+        "name": "Navigator of the Stars",
+        "kind": "trophy",
+        "chapterId": "TBD",
+        "where": "Complete all constellation challenges."
+      },
+      {
+        "id": "achievement-23",
+        "name": "Novice Adventurer",
+        "kind": "trophy",
+        "chapterId": "TBD",
+        "where": "Complete chapter 1 of main quests."
+      },
+      {
+        "id": "achievement-24",
+        "name": "Pilgrim of Wonders",
+        "kind": "trophy",
+        "chapterId": "TBD",
+        "where": "Complete all secret place challenges."
+      },
+      {
+        "id": "achievement-25",
+        "name": "Protector of Pailune",
+        "kind": "trophy",
+        "chapterId": "TBD",
+        "where": "Complete chapter 7 of main quests."
+      },
+      {
+        "id": "achievement-26",
+        "name": "Proud Returnee",
+        "kind": "trophy",
+        "chapterId": "TBD",
+        "where": "Complete the camp relocation to Pailune."
+      },
+      {
+        "id": "achievement-27",
+        "name": "Puzzle Solver",
+        "kind": "trophy",
+        "chapterId": "TBD",
+        "where": "Complete all ancient ruins challenges."
+      },
+      {
+        "id": "achievement-28",
+        "name": "Relentless Warrior",
+        "kind": "trophy",
+        "chapterId": "TBD",
+        "where": "Complete all training challenges."
+      },
+      {
+        "id": "achievement-29",
+        "name": "Shadowlord",
+        "kind": "trophy",
+        "chapterId": "TBD",
+        "where": "Complete all Above the Law challenges."
+      },
+      {
+        "id": "achievement-30",
+        "name": "Tamer of Legends",
+        "kind": "trophy",
+        "chapterId": "TBD",
+        "where": "Complete all horse challenges."
+      },
+      {
+        "id": "achievement-31",
+        "name": "The Golden Merchant",
+        "kind": "trophy",
+        "chapterId": "TBD",
+        "where": "Complete all trade challenges."
+      },
+      {
+        "id": "achievement-32",
+        "name": "True Gamer",
+        "kind": "trophy",
+        "chapterId": "TBD",
+        "where": "Complete all minigame challenges."
+      },
+      {
+        "id": "achievement-33",
+        "name": "Ultimate Hunter",
+        "kind": "trophy",
+        "chapterId": "TBD",
+        "where": "Complete all hunting challenges."
+      },
+      {
+        "id": "achievement-34",
+        "name": "Unvanquished Strategist",
+        "kind": "trophy",
+        "chapterId": "TBD",
+        "where": "Complete all mastery challenges."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from RAWG (https://rawg.io) — https://rawg.io/games/crimson-desert",
+    "Achievement data from Steam Web API (app 3321460)",
+    "Wiki structure and facts from Crimson Desert Wiki (Fandom) under CC BY-SA — https://crimsondesert.fandom.com/wiki/Crimson_Desert"
+  ],
+  "route": "original",
+  "notes": "StrategyWiki has no page. Fandom reachable via /api.php (not /w/api.php); only structure and facts used, no prose copied. RAWG playtime is 0 and tags are empty. Steam listing is named 'Crimson Desert Enhanced' but schema gameName is 'Crimson Desert'. Chapters are region-based estimates. Licence version on Fandom should be confirmed before adapting text."
+}
