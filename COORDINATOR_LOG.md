@@ -5,6 +5,35 @@ Tracks the 20-game research queue in `research/state.json` and files landing in 
 
 ---
 
+## 2026-10-18 02:10 UTC
+
+**Year / queue:** currentYear = 2026. state.json on `main` now reflects the merge: 19 queued, 0 in progress, 1 done (`forza-horizon-6`), 0 errors (last updated 2026-10-16 21:35 UTC). yearsCompleted is still empty; three 2026 titles remain (`crimson-desert`, `007-first-light`, `pragmata`).
+
+**Progress:** 1/20 games done and merged to `main`.
+
+**Latest commits (origin/main):**
+- `17f7da6` Merge pull request #1 from torgan59/claude/research-forza-horizon-6 (Tim, 01:50 UTC)
+- `b5fdb12` Fix Steam endpoints in game-researcher agent (Tim, 01:40 UTC)
+- `367ea9c` Coordinator log: 01:10 check (coordinator, 01:10 UTC)
+- `c187864` Coordinator log: 00:10 check (coordinator, 00:10 UTC)
+- `b3fe788` Coordinator log: 23:10 check (coordinator, 23:10 UTC)
+
+No new commits from the game-researcher routine since its 2026-10-16 21:33 UTC run. The merge brought that run's `research/forza-horizon-6.json` and state.json update onto `main`.
+
+**Research files:** `research/` on `main` now contains `state.json` and `forza-horizon-6.json`. Filename matches the slug. No stray or misnamed files. `packPath: packs/forza-horizon-6.json` is still a placeholder; no `packs/` directory exists (expected until roadmap item 2.1). The merged branch `claude/research-forza-horizon-6` still exists on origin and can be deleted.
+
+**Quality check (research/forza-horizon-6.json on main):** PASS. `id`, `title`, `platforms` (Xbox Series X|S, PC) present. `game` object has 5 chapters and 57 collectibles. Also carries rawgId, steamAppId, achievements, wikiStructure, attribution and route.
+
+**Blockers / errors / stale PRs:**
+- **None open.** PR #1 merged at 01:50 UTC. No open PRs, no merge conflicts.
+- Resolved: the two dead Steam endpoints in `.claude/agents/game-researcher.md` are fixed in `b5fdb12` (now `IStoreService/GetAppList/v1` and `ISteamUserStats/GetSchemaForGame/v2`, with the dead ones noted as 404).
+- Resolved: the `game-researcher-routine` scheduled task is **enabled again** (changed 01:52 UTC). Its schedule is now **daily at 03:07 UTC**, not hourly. First run under the new schedule is 2026-10-18 03:07 UTC, about an hour from this check. At one game per day the remaining 19 games take until about 6 November.
+- Still outstanding: `store.steampowered.com` is blocked by the environment network policy (only affects store-page lookups, not the Web API).
+
+**Next game in queue:** `crimson-desert` — Crimson Desert (2026, evidence 3, route original). The selection rule takes the first queued title matching currentYear 2026, so Elden Ring and Baldur's Gate 3 wait until 2026 is exhausted.
+
+---
+
 ## 2026-10-18 01:10 UTC
 
 **Year / queue:** currentYear = 2026. On `main`, state.json unchanged: 20 queued, 0 in progress, 0 done, 0 errors (last updated 2026-10-16 20:30 UTC). On the PR #1 branch, `forza-horizon-6` is `done` (19 queued remain). No change since the 00:10 run.
