@@ -1,0 +1,374 @@
+{
+  "id": "crimson-desert",
+  "title": "Crimson Desert",
+  "year": 2026,
+  "platforms": [
+    "PlayStation 5",
+    "Xbox Series X|S",
+    "PC",
+    "Xbox One",
+    "PlayStation 4"
+  ],
+  "rawgId": 529829,
+  "rawgSlug": "crimson-desert",
+  "released": "2026-03-19",
+  "developers": [
+    "Pearl Abyss"
+  ],
+  "playtime": null,
+  "genres": [
+    "Action",
+    "RPG"
+  ],
+  "tags": [],
+  "coverUrl": "https://media.rawg.io/media/games/dac/dacfcdeaef957a36416f4e6d5ec76229.jpg",
+  "steamAppId": 3321460,
+  "achievements": {
+    "total": 34,
+    "hidden": 0,
+    "examples": [
+      {
+        "name": "Novice Adventurer",
+        "percent": 77.0
+      },
+      {
+        "name": "Master Camper",
+        "percent": 58.4
+      },
+      {
+        "name": "Protector of Pailune",
+        "percent": 28.7
+      },
+      {
+        "name": "The Golden Merchant",
+        "percent": 0.5
+      },
+      {
+        "name": "Lord of Honor",
+        "percent": 0.5
+      },
+      {
+        "name": "True Gamer",
+        "percent": 0.5
+      },
+      {
+        "name": "Unvanquished Strategist",
+        "percent": 0.5
+      },
+      {
+        "name": "Natural Collector",
+        "percent": 0.4
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": false,
+      "pages": 0,
+      "reason": "No page for Crimson Desert (MediaWiki API returned missing; search empty)"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 3,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://crimsondesert.fandom.com/wiki/Crimson_Desert"
+    }
+  },
+  "game": {
+    "id": "crimson-desert",
+    "title": "Crimson Desert",
+    "platforms": [
+      "PlayStation 5",
+      "Xbox Series X|S",
+      "PC",
+      "Xbox One",
+      "PlayStation 4"
+    ],
+    "blurb": "Open-world action RPG from Pearl Abyss, released 2026-03-19. RAWG has no average playtime yet. Genres: Action, RPG. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#B22222",
+    "chapters": [
+      {
+        "id": "main-story",
+        "title": "The Main Story",
+        "summary": "Follow the main quest chapters from the opening through to the finale.",
+        "steps": []
+      },
+      {
+        "id": "camp-and-allies",
+        "title": "Camp and Allies",
+        "summary": "Set up your camp, move it as the story opens up, and grow your band.",
+        "steps": []
+      },
+      {
+        "id": "weapon-mastery",
+        "title": "Weapon Mastery",
+        "summary": "Work through the challenge sets for each weapon type and combat style.",
+        "steps": []
+      },
+      {
+        "id": "exploration-and-puzzles",
+        "title": "Exploration and Puzzles",
+        "summary": "Mazes, spires, star patterns, ruins, sanctums, secret places and the Abyss.",
+        "steps": []
+      },
+      {
+        "id": "life-and-trade",
+        "title": "Life, Trade and Pastimes",
+        "summary": "Hunting, gathering, trading, horses and minigames.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Novice Adventurer",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Complete chapter 1 of main quests."
+      },
+      {
+        "id": "achievement-2",
+        "name": "Master Camper",
+        "kind": "trophy",
+        "chapterId": "camp-and-allies",
+        "where": "Complete the activation of the camp at Howling Hill."
+      },
+      {
+        "id": "achievement-3",
+        "name": "Maze Pathfinder",
+        "kind": "trophy",
+        "chapterId": "exploration-and-puzzles",
+        "where": "Complete all maze challenges."
+      },
+      {
+        "id": "achievement-4",
+        "name": "Conqueror of Spires",
+        "kind": "trophy",
+        "chapterId": "exploration-and-puzzles",
+        "where": "Complete all spire challenges."
+      },
+      {
+        "id": "achievement-5",
+        "name": "Navigator of the Stars",
+        "kind": "trophy",
+        "chapterId": "exploration-and-puzzles",
+        "where": "Complete all constellation challenges."
+      },
+      {
+        "id": "achievement-6",
+        "name": "Master of Swords",
+        "kind": "trophy",
+        "chapterId": "weapon-mastery",
+        "where": "Complete all sword challenges."
+      },
+      {
+        "id": "achievement-7",
+        "name": "Master of Shields",
+        "kind": "trophy",
+        "chapterId": "weapon-mastery",
+        "where": "Complete all shield challenges."
+      },
+      {
+        "id": "achievement-8",
+        "name": "Master of Bows",
+        "kind": "trophy",
+        "chapterId": "weapon-mastery",
+        "where": "Complete all bow challenges."
+      },
+      {
+        "id": "achievement-9",
+        "name": "Master of Spears",
+        "kind": "trophy",
+        "chapterId": "weapon-mastery",
+        "where": "Complete all spear challenges."
+      },
+      {
+        "id": "achievement-10",
+        "name": "Master of Two-Handed Weapons",
+        "kind": "trophy",
+        "chapterId": "weapon-mastery",
+        "where": "Complete all two-handed weapon challenges."
+      },
+      {
+        "id": "achievement-11",
+        "name": "Master of Artillery",
+        "kind": "trophy",
+        "chapterId": "weapon-mastery",
+        "where": "Complete all cannon challenges."
+      },
+      {
+        "id": "achievement-12",
+        "name": "Master of Rapiers",
+        "kind": "trophy",
+        "chapterId": "weapon-mastery",
+        "where": "Complete all rapier and shield challenges."
+      },
+      {
+        "id": "achievement-13",
+        "name": "Master of Firearms",
+        "kind": "trophy",
+        "chapterId": "weapon-mastery",
+        "where": "Complete all gun challenges."
+      },
+      {
+        "id": "achievement-14",
+        "name": "Relentless Warrior",
+        "kind": "trophy",
+        "chapterId": "weapon-mastery",
+        "where": "Complete all training challenges."
+      },
+      {
+        "id": "achievement-15",
+        "name": "Battlefield Conqueror",
+        "kind": "trophy",
+        "chapterId": "weapon-mastery",
+        "where": "Complete all battle challenges."
+      },
+      {
+        "id": "achievement-16",
+        "name": "Brilliant Tactician",
+        "kind": "trophy",
+        "chapterId": "weapon-mastery",
+        "where": "Complete all operation challenges."
+      },
+      {
+        "id": "achievement-17",
+        "name": "The Golden Merchant",
+        "kind": "trophy",
+        "chapterId": "life-and-trade",
+        "where": "Complete all trade challenges."
+      },
+      {
+        "id": "achievement-18",
+        "name": "Beast Slayer",
+        "kind": "trophy",
+        "chapterId": "weapon-mastery",
+        "where": "Complete all New Power challenges."
+      },
+      {
+        "id": "achievement-19",
+        "name": "Shadowlord",
+        "kind": "trophy",
+        "chapterId": "weapon-mastery",
+        "where": "Complete all Above the Law challenges."
+      },
+      {
+        "id": "achievement-20",
+        "name": "Lord of Honor",
+        "kind": "trophy",
+        "chapterId": "weapon-mastery",
+        "where": "Complete all Challenges and Changes challenges."
+      },
+      {
+        "id": "achievement-21",
+        "name": "Proud Returnee",
+        "kind": "trophy",
+        "chapterId": "camp-and-allies",
+        "where": "Complete the camp relocation to Pailune."
+      },
+      {
+        "id": "achievement-22",
+        "name": "Pilgrim of Wonders",
+        "kind": "trophy",
+        "chapterId": "exploration-and-puzzles",
+        "where": "Complete all secret place challenges."
+      },
+      {
+        "id": "achievement-23",
+        "name": "Puzzle Solver",
+        "kind": "trophy",
+        "chapterId": "exploration-and-puzzles",
+        "where": "Complete all ancient ruins challenges."
+      },
+      {
+        "id": "achievement-24",
+        "name": "Lightbringer",
+        "kind": "trophy",
+        "chapterId": "exploration-and-puzzles",
+        "where": "Complete all sanctum challenges."
+      },
+      {
+        "id": "achievement-25",
+        "name": "Grand Collector of Arms",
+        "kind": "trophy",
+        "chapterId": "weapon-mastery",
+        "where": "Complete all special equipment challenges."
+      },
+      {
+        "id": "achievement-26",
+        "name": "Tamer of Legends",
+        "kind": "trophy",
+        "chapterId": "life-and-trade",
+        "where": "Complete all horse challenges."
+      },
+      {
+        "id": "achievement-27",
+        "name": "True Gamer",
+        "kind": "trophy",
+        "chapterId": "life-and-trade",
+        "where": "Complete all minigame challenges."
+      },
+      {
+        "id": "achievement-28",
+        "name": "Protector of Pailune",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Complete chapter 7 of main quests."
+      },
+      {
+        "id": "achievement-29",
+        "name": "Ultimate Hunter",
+        "kind": "trophy",
+        "chapterId": "life-and-trade",
+        "where": "Complete all hunting challenges."
+      },
+      {
+        "id": "achievement-30",
+        "name": "Natural Collector",
+        "kind": "trophy",
+        "chapterId": "life-and-trade",
+        "where": "Complete all life challenges."
+      },
+      {
+        "id": "achievement-31",
+        "name": "Expert Storyteller",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Complete all main quests."
+      },
+      {
+        "id": "achievement-32",
+        "name": "Conqueror of the Abysses",
+        "kind": "trophy",
+        "chapterId": "exploration-and-puzzles",
+        "where": "Complete all Abyss challenges."
+      },
+      {
+        "id": "achievement-33",
+        "name": "Expert Explorer",
+        "kind": "trophy",
+        "chapterId": "exploration-and-puzzles",
+        "where": "Complete all exploration challenges."
+      },
+      {
+        "id": "achievement-34",
+        "name": "Unvanquished Strategist",
+        "kind": "trophy",
+        "chapterId": "weapon-mastery",
+        "where": "Complete all mastery challenges."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/crimson-desert",
+    "Achievement data from Steam (Steam Web API, app 3321460)",
+    "StrategyWiki: no page for this game, nothing used",
+    "Fandom (crimsondesert.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://crimsondesert.fandom.com/wiki/Crimson_Desert"
+  ],
+  "route": "original",
+  "notes": "No StrategyWiki page. crimsondesert.fandom.com answers the MediaWiki API but the game page only links to DLC and soundtrack pages, so it gives no usable structure. Steam app 3321460 is listed as \"Crimson Desert Enhanced\" in IStoreService/GetAppList; GetSchemaForGame names it \"Crimson Desert\", so it is the right app. RAWG also lists a \"Charting the Unknown\" add-on due 2026-10-29. Chapter skeleton is an estimate grouped from the 34 Steam achievements and needs original guide writing."
+}
