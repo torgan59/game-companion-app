@@ -5,6 +5,50 @@ Tracks the 20-game research queue in `research/state.json` and files landing in 
 
 ---
 
+## 2026-10-18 03:10 UTC
+
+**Year / queue:** currentYear = 2026 on `main`. state.json on `main` is unchanged since the PR #1 merge: 19 queued, 0 in progress, 1 done (`forza-horizon-6`), 0 errors. Two open PRs carry newer state: PR #2 marks `crimson-desert` done (18 queued), and PR #3 marks five games done (14 queued) and advances currentYear to 2025 because no queued 2026 title is left after it.
+
+**Progress:** 1/20 merged to `main`. 6/20 researched if both open PRs are counted (five new games: `crimson-desert`, `007-first-light`, `pragmata`, `monster-hunter-wilds`, `kingdom-come-deliverance-2`).
+
+**Latest commits (origin/main):**
+- `2223033` Coordinator log: 02:10 check (coordinator, 02:11 UTC)
+- `17f7da6` Merge pull request #1 from torgan59/claude/research-forza-horizon-6 (Tim, 01:50 UTC)
+- `b5fdb12` Fix Steam endpoints in game-researcher agent (Tim, 01:40 UTC)
+- `367ea9c` Coordinator log: 01:10 check (coordinator, 01:10 UTC)
+- `c187864` Coordinator log: 00:10 check (coordinator, 00:10 UTC)
+
+New research commits are on branches, not yet on `main`:
+- `d030330` Research: Crimson Desert metadata, achievements, wiki structure (02:40 UTC) on `claude/research-crimson-desert`, opened as **PR #2** at 02:40 UTC.
+- `1d050d6` Research: Crimson Desert, 007 First Light, Pragmata, Monster Hunter Wilds, Kingdom Come: Deliverance II (03:01 UTC) on `claude/festive-turing-ek24ds`, opened as **PR #3** at 03:01 UTC.
+
+The `game-researcher-routine` scheduled task fired for the first time on its daily schedule at 03:07 UTC and finished at 03:09 UTC with status succeeded. It worked on `claude/research-crimson-desert` but pushed nothing new (branch head is still `d030330` from 02:40). Both PRs came from other sessions before the schedule fired, so they look like manual runs.
+
+**Research files:** `research/` on `main` still holds `state.json` and `forza-horizon-6.json`. Across the two branches, five new files: `crimson-desert.json` (in both PRs), `007-first-light.json`, `pragmata.json`, `monster-hunter-wilds.json`, `kingdom-come-deliverance-2.json`. Every filename matches its slug. No stray files. `packs/` still does not exist (expected). The merged branch `claude/research-forza-horizon-6` is still on origin and can be deleted.
+
+**Quality check:** all six files PASS. Each has `id` (matching the slug), `title`, `platforms`, and a `game` object with chapters and collectibles, plus rawgId, steamAppId, route and attribution.
+
+| File | PR | Chapters | Collectibles |
+|---|---|---|---|
+| crimson-desert.json | #2 | 8 | 34 |
+| crimson-desert.json | #3 | 5 | 34 |
+| 007-first-light.json | #3 | 4 | 37 |
+| pragmata.json | #3 | 5 | 35 |
+| monster-hunter-wilds.json | #3 | 6 | 50 |
+| kingdom-come-deliverance-2.json | #3 | 6 | 83 |
+
+Field drift between the two Crimson Desert versions: PR #2 uses `releaseDate` and `steamAppName`; PR #3 uses `released`, `developers`, `tags` and a longer platform list. Later runs should settle on one field set so the app loader does not have to handle both.
+
+**Blockers / errors / stale PRs:**
+- **PR #2 and PR #3 overlap and cannot both merge as they stand.** Each is clean against `main` today, but both add `research/crimson-desert.json` and both edit `research/state.json`. A local merge test (`git merge-tree`) confirms that merging either one makes the other conflict (add/add on crimson-desert.json, content conflict on state.json). Tim needs to choose. Recommended: merge **PR #3** (it contains everything PR #2 has, plus four more games) and close PR #2 without merging. Merging PR #2 first would require rebasing PR #3 by hand.
+- PR #3 is a five-game batch, which departs from the one-game-per-run rule in `.claude/agents/game-researcher.md`. The files pass the quality check, so this is a note, not a problem. Its chapters have empty `steps` and still need original guide writing, as the PR body says.
+- Until one of the PRs merges, `main`'s state.json still lists `crimson-desert` as queued, so the next scheduled researcher run (2026-10-19 03:07 UTC) will pick Crimson Desert a third time. Merge before then.
+- Still outstanding: `store.steampowered.com` is blocked by the environment network policy (Web API unaffected).
+
+**Next game in queue:** on `main` as it stands, `crimson-desert` (already researched twice). If PR #3 merges, currentYear becomes 2025 and the next queued title is `ghost-of-yotei` — Ghost of Yōtei (2025, evidence 3, route original). If only PR #2 merges, the next 2026 title is `007-first-light` — 007 First Light.
+
+---
+
 ## 2026-10-18 02:10 UTC
 
 **Year / queue:** currentYear = 2026. state.json on `main` now reflects the merge: 19 queued, 0 in progress, 1 done (`forza-horizon-6`), 0 errors (last updated 2026-10-16 21:35 UTC). yearsCompleted is still empty; three 2026 titles remain (`crimson-desert`, `007-first-light`, `pragmata`).
