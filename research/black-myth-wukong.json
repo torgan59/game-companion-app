@@ -1,0 +1,712 @@
+{
+  "id": "black-myth-wukong",
+  "title": "Black Myth: Wukong",
+  "year": 2024,
+  "platforms": [
+    "PC",
+    "Xbox Series X|S",
+    "PlayStation 5"
+  ],
+  "rawgId": 481913,
+  "rawgSlug": "black-myth-wu-kong",
+  "released": "2024-08-20",
+  "developers": [
+    "Game Science"
+  ],
+  "playtime": null,
+  "genres": [
+    "Action",
+    "Adventure",
+    "RPG"
+  ],
+  "tags": [],
+  "coverUrl": "https://media.rawg.io/media/games/779/77988e89f7862afeede524420aa251b0.jpg",
+  "steamAppId": 2358720,
+  "achievements": {
+    "total": 81,
+    "hidden": 62,
+    "examples": [
+      {
+        "name": "Home is Behind",
+        "percent": 97.7
+      },
+      {
+        "name": "Hammer and Hew",
+        "percent": 84.6
+      },
+      {
+        "name": "Brew of Bravery",
+        "percent": 81.2
+      },
+      {
+        "name": "Seeds to Sow",
+        "percent": 16.2
+      },
+      {
+        "name": "A Curious Collection",
+        "percent": 15.4
+      },
+      {
+        "name": "Brewer's Bounty",
+        "percent": 14.1
+      },
+      {
+        "name": "Mantled with Might",
+        "percent": 14.0
+      },
+      {
+        "name": "Final Fulfillment",
+        "percent": 12.6
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": false,
+      "pages": 0,
+      "reason": "No page for Black Myth: Wukong (MediaWiki API returned missing; search empty)"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 28,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://blackmythwukong.fandom.com/wiki/Black_Myth:_Wukong"
+    }
+  },
+  "game": {
+    "id": "black-myth-wukong",
+    "title": "Black Myth: Wukong",
+    "platforms": [
+      "PC",
+      "Xbox Series X|S",
+      "PlayStation 5"
+    ],
+    "blurb": "Soulslike action RPG based on Journey to the West from Game Science, released 2024-08-20. RAWG has no average playtime. Genres: Action, Adventure, RPG. Chapters follow the game's six chapters; collectibles come from Steam achievements.",
+    "accent": "#B8860B",
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "Chapter 1",
+        "summary": "The opening chapter and the first big fights.",
+        "steps": []
+      },
+      {
+        "id": "chapter-2",
+        "title": "Chapter 2",
+        "summary": "A new region and its yaoguai.",
+        "steps": []
+      },
+      {
+        "id": "chapter-3",
+        "title": "Chapter 3",
+        "summary": "A colder land and a temple full of trouble.",
+        "steps": []
+      },
+      {
+        "id": "chapter-4",
+        "title": "Chapter 4",
+        "summary": "Webs, silk and a family of spiders.",
+        "steps": []
+      },
+      {
+        "id": "chapter-5",
+        "title": "Chapter 5",
+        "summary": "Fire, a mountain and a well-known family.",
+        "steps": []
+      },
+      {
+        "id": "chapter-6",
+        "title": "Chapter 6",
+        "summary": "The final chapter.",
+        "steps": []
+      },
+      {
+        "id": "collections",
+        "title": "Collections and Crafting",
+        "summary": "Gear, spells, transformations, gourds, brews, seeds, journal entries and other full sets.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Home is Behind",
+        "kind": "trophy",
+        "chapterId": "chapter-1",
+        "where": "The old monkey has told his tale. Onward you must go."
+      },
+      {
+        "id": "achievement-2",
+        "name": "Hammer and Hew",
+        "kind": "trophy",
+        "chapterId": "collections",
+        "where": "Armed head to toe, dread not the foe."
+      },
+      {
+        "id": "achievement-3",
+        "name": "Warring with Wolves",
+        "kind": "trophy",
+        "chapterId": "chapter-1",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-4",
+        "name": "Absorb and Cultivate",
+        "kind": "trophy",
+        "chapterId": "chapter-1",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-5",
+        "name": "Brew of Bravery",
+        "kind": "trophy",
+        "chapterId": "collections",
+        "where": "Fresh brew in an old cask. May it stir a great task!"
+      },
+      {
+        "id": "achievement-6",
+        "name": "Slithering Snake",
+        "kind": "trophy",
+        "chapterId": "chapter-1",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-7",
+        "name": "Handy and Hardy",
+        "kind": "trophy",
+        "chapterId": "collections",
+        "where": "A good match calls for a good weapon."
+      },
+      {
+        "id": "achievement-8",
+        "name": "Enduring Echoes",
+        "kind": "trophy",
+        "chapterId": "chapter-1",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-9",
+        "name": "Temple of Taint",
+        "kind": "trophy",
+        "chapterId": "chapter-1",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-10",
+        "name": "Blazing Black Wind",
+        "kind": "trophy",
+        "chapterId": "chapter-1",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-11",
+        "name": "Creative Concoction",
+        "kind": "trophy",
+        "chapterId": "collections",
+        "where": "Tonics are well and good, but not to be wolfed like food!"
+      },
+      {
+        "id": "achievement-12",
+        "name": "Cursed Clan",
+        "kind": "trophy",
+        "chapterId": "chapter-1",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-13",
+        "name": "Cage of Claws",
+        "kind": "trophy",
+        "chapterId": "chapter-1",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-14",
+        "name": "Sound in Stone",
+        "kind": "trophy",
+        "chapterId": "chapter-1",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-15",
+        "name": "Death in Despair",
+        "kind": "trophy",
+        "chapterId": "chapter-1",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-16",
+        "name": "The Stone's Secret",
+        "kind": "trophy",
+        "chapterId": "chapter-1",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-17",
+        "name": "Oṃ Maṇi Padme Hūm",
+        "kind": "trophy",
+        "chapterId": "chapter-1",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-18",
+        "name": "Buried in the Sand",
+        "kind": "trophy",
+        "chapterId": "chapter-1",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-19",
+        "name": "Gleams of Gold",
+        "kind": "trophy",
+        "chapterId": "chapter-1",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-20",
+        "name": "The Tiger Family",
+        "kind": "trophy",
+        "chapterId": "chapter-1",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-21",
+        "name": "Shifting Sands",
+        "kind": "trophy",
+        "chapterId": "chapter-1",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-22",
+        "name": "Precious Pills",
+        "kind": "trophy",
+        "chapterId": "chapter-1",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-23",
+        "name": "A Great Gust",
+        "kind": "trophy",
+        "chapterId": "chapter-1",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-24",
+        "name": "Thousand-Mile Quest",
+        "kind": "trophy",
+        "chapterId": "chapter-1",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-25",
+        "name": "Voice Vanquished",
+        "kind": "trophy",
+        "chapterId": "chapter-1",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-26",
+        "name": "Karma of Kang-Jin",
+        "kind": "trophy",
+        "chapterId": "chapter-1",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-27",
+        "name": "Boundless Bitterness",
+        "kind": "trophy",
+        "chapterId": "chapter-1",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-28",
+        "name": "Shell and Scales",
+        "kind": "trophy",
+        "chapterId": "chapter-1",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-29",
+        "name": "Secret in the Scroll",
+        "kind": "trophy",
+        "chapterId": "chapter-1",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-30",
+        "name": "Pound and Perfect",
+        "kind": "trophy",
+        "chapterId": "chapter-1",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-31",
+        "name": "The Soaring Slash",
+        "kind": "trophy",
+        "chapterId": "chapter-1",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-32",
+        "name": "Happy Harvest",
+        "kind": "trophy",
+        "chapterId": "chapter-1",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-33",
+        "name": "Marvelous Melon",
+        "kind": "trophy",
+        "chapterId": "chapter-1",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-34",
+        "name": "Lust and Dust",
+        "kind": "trophy",
+        "chapterId": "chapter-1",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-35",
+        "name": "Corrupted Captains",
+        "kind": "trophy",
+        "chapterId": "chapter-1",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-36",
+        "name": "Devoted Disciples",
+        "kind": "trophy",
+        "chapterId": "chapter-1",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-37",
+        "name": "Matches with the Macaque",
+        "kind": "trophy",
+        "chapterId": "chapter-1",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-38",
+        "name": "Nifty Nonsense",
+        "kind": "trophy",
+        "chapterId": "chapter-1",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-39",
+        "name": "Mud on His Face",
+        "kind": "trophy",
+        "chapterId": "chapter-1",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-40",
+        "name": "Gnashing Grudge",
+        "kind": "trophy",
+        "chapterId": "chapter-1",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-41",
+        "name": "Passion Passes",
+        "kind": "trophy",
+        "chapterId": "chapter-1",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-42",
+        "name": "The Loong Pattern",
+        "kind": "trophy",
+        "chapterId": "chapter-1",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-43",
+        "name": "Secret in Purple Cloud",
+        "kind": "trophy",
+        "chapterId": "chapter-1",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-44",
+        "name": "The Wayward Ways",
+        "kind": "trophy",
+        "chapterId": "chapter-1",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-45",
+        "name": "A Family Finished",
+        "kind": "trophy",
+        "chapterId": "chapter-1",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-46",
+        "name": "The Cockerel Crowed",
+        "kind": "trophy",
+        "chapterId": "chapter-1",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-47",
+        "name": "Misfit with Merit",
+        "kind": "trophy",
+        "chapterId": "chapter-1",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-48",
+        "name": "Behold the Betrayal",
+        "kind": "trophy",
+        "chapterId": "chapter-1",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-49",
+        "name": "Always Accompanied",
+        "kind": "trophy",
+        "chapterId": "chapter-1",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-50",
+        "name": "The Furnace Boy",
+        "kind": "trophy",
+        "chapterId": "chapter-1",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-51",
+        "name": "Urge Unfulfilled",
+        "kind": "trophy",
+        "chapterId": "chapter-1",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-52",
+        "name": "Seeds to Sow",
+        "kind": "trophy",
+        "chapterId": "collections",
+        "where": "Take more as fruit as your plants take root."
+      },
+      {
+        "id": "achievement-53",
+        "name": "Souls in the Stalks",
+        "kind": "trophy",
+        "chapterId": "chapter-1",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-54",
+        "name": "A Willing Warrior",
+        "kind": "trophy",
+        "chapterId": "chapter-1",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-55",
+        "name": "Scenic Seeker",
+        "kind": "trophy",
+        "chapterId": "collections",
+        "where": "The most marvelous places for meditation have all met your gaze."
+      },
+      {
+        "id": "achievement-56",
+        "name": "Three Teams of Two",
+        "kind": "trophy",
+        "chapterId": "chapter-1",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-57",
+        "name": "With Full Spirit",
+        "kind": "trophy",
+        "chapterId": "chapter-1",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-58",
+        "name": "Frost and Flame",
+        "kind": "trophy",
+        "chapterId": "chapter-1",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-59",
+        "name": "Flaming Fury",
+        "kind": "trophy",
+        "chapterId": "chapter-1",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-60",
+        "name": "Treasure Trove",
+        "kind": "trophy",
+        "chapterId": "chapter-1",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-61",
+        "name": "Mei of Memory",
+        "kind": "trophy",
+        "chapterId": "chapter-1",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-62",
+        "name": "Meet the Match",
+        "kind": "trophy",
+        "chapterId": "chapter-1",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-63",
+        "name": "Full of Forms",
+        "kind": "trophy",
+        "chapterId": "collections",
+        "where": "Each guise grants a new horizon."
+      },
+      {
+        "id": "achievement-64",
+        "name": "Brews and Barrels",
+        "kind": "trophy",
+        "chapterId": "collections",
+        "where": "Now you can sate yourself with all the drinks."
+      },
+      {
+        "id": "achievement-65",
+        "name": "The Cloud Claimed",
+        "kind": "trophy",
+        "chapterId": "chapter-1",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-66",
+        "name": "The Clamor of Frogs",
+        "kind": "trophy",
+        "chapterId": "chapter-1",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-67",
+        "name": "A Curious Collection",
+        "kind": "trophy",
+        "chapterId": "collections",
+        "where": "Every rare wonder the world can offer, collected and kept."
+      },
+      {
+        "id": "achievement-68",
+        "name": "The Five Skandhas",
+        "kind": "trophy",
+        "chapterId": "chapter-1",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-69",
+        "name": "Medicine Meal",
+        "kind": "trophy",
+        "chapterId": "collections",
+        "where": "\"Here, have it, have it all.\""
+      },
+      {
+        "id": "achievement-70",
+        "name": "Treaded Tracks",
+        "kind": "trophy",
+        "chapterId": "chapter-1",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-71",
+        "name": "Guardian of Gear",
+        "kind": "trophy",
+        "chapterId": "chapter-1",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-72",
+        "name": "A Duel of Destiny",
+        "kind": "trophy",
+        "chapterId": "chapter-1",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-73",
+        "name": "Portraits Perfected",
+        "kind": "trophy",
+        "chapterId": "collections",
+        "where": "Humans, beasts, yaoguais, and the Bodhisattvas. All recorded and noted."
+      },
+      {
+        "id": "achievement-74",
+        "name": "Six Senses Secured",
+        "kind": "trophy",
+        "chapterId": "chapter-1",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-75",
+        "name": "Master of Magic",
+        "kind": "trophy",
+        "chapterId": "collections",
+        "where": "All spells we know are derived from the same source."
+      },
+      {
+        "id": "achievement-76",
+        "name": "Gourds Gathered",
+        "kind": "trophy",
+        "chapterId": "collections",
+        "where": "Rare is not the gourd but a friend to drink with."
+      },
+      {
+        "id": "achievement-77",
+        "name": "Page Preserver",
+        "kind": "trophy",
+        "chapterId": "collections",
+        "where": "\"All the tattered pages can now be compiled in full.\""
+      },
+      {
+        "id": "achievement-78",
+        "name": "Brewer's Bounty",
+        "kind": "trophy",
+        "chapterId": "collections",
+        "where": "A blend for every brew to bring out its best."
+      },
+      {
+        "id": "achievement-79",
+        "name": "Mantled with Might",
+        "kind": "trophy",
+        "chapterId": "collections",
+        "where": "Shoes on feet, hat on head, embroidered shirt, Daoist robe—free as can be, doing as you please!"
+      },
+      {
+        "id": "achievement-80",
+        "name": "Staffs and Spears",
+        "kind": "trophy",
+        "chapterId": "collections",
+        "where": "A walking vault of arms you have become!"
+      },
+      {
+        "id": "achievement-81",
+        "name": "Final Fulfillment",
+        "kind": "trophy",
+        "chapterId": "collections",
+        "where": "Each ordeal paves your path to what you are meant to be."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/black-myth-wu-kong",
+    "Achievement data from Steam (Steam Web API, app 2358720)",
+    "StrategyWiki: no page for this game, nothing used",
+    "Fandom (blackmythwukong.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://blackmythwukong.fandom.com/wiki/Black_Myth:_Wukong"
+  ],
+  "route": "original",
+  "notes": "No StrategyWiki page. blackmythwukong.fandom.com answers the API, but its game page is marked as a stub and links only to about 28 character and boss pages; names only were looked at, nothing copied. The game is split into six chapters, but most achievements (62 of 81) are hidden boss and story ones, so they are all placed in Chapter 1 as a placeholder and need sorting into the right chapter. The Steam schema calls the app \"testtest\"; the store list confirms app 2358720. RAWG lists two entries; used 481913 (black-myth-wu-kong), the main one with the right release date."
+}

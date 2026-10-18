@@ -1,0 +1,94 @@
+{
+  "id": "ghost-of-yotei",
+  "title": "Ghost of Yōtei",
+  "year": 2025,
+  "platforms": [
+    "PlayStation 5"
+  ],
+  "rawgId": 989329,
+  "rawgSlug": "ghost-of-yotei",
+  "released": "2025-10-02",
+  "developers": [
+    "Sucker Punch Productions"
+  ],
+  "playtime": null,
+  "genres": [
+    "Action",
+    "RPG"
+  ],
+  "tags": [],
+  "coverUrl": "https://media.rawg.io/media/games/30b/30b195c2321d763f807366967ffad793.jpg",
+  "steamAppId": null,
+  "achievements": {
+    "total": 0,
+    "examples": [],
+    "reason": "No Steam or RAWG achievement list (PS5 only), so collectibles are empty. Fill them from the PlayStation trophy list, written in our own words."
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": false,
+      "pages": 0,
+      "reason": "No page for Ghost of Yōtei (MediaWiki API returned missing; search empty)"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 47,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://ghostoftsushima.fandom.com/wiki/Ghost_of_Yōtei"
+    }
+  },
+  "game": {
+    "id": "ghost-of-yotei",
+    "title": "Ghost of Yōtei",
+    "platforms": [
+      "PlayStation 5"
+    ],
+    "blurb": "Open-world samurai action-adventure from Sucker Punch, released 2025-10-02 on PlayStation 5. RAWG has no average playtime yet. Genres: Action, RPG. No Steam release, so chapters are a broad estimate.",
+    "accent": "#C0392B",
+    "chapters": [
+      {
+        "id": "main-story",
+        "title": "The Main Story",
+        "summary": "Atsu's journey across Ezo, told in acts.",
+        "steps": []
+      },
+      {
+        "id": "side-tales",
+        "title": "Side Tales and Bounties",
+        "summary": "Optional stories from the people of Ezo, plus bounty hunting.",
+        "steps": []
+      },
+      {
+        "id": "weapons-and-skills",
+        "title": "Weapons and Teachings",
+        "summary": "Learning new weapons and fighting styles from teachers across the land.",
+        "steps": []
+      },
+      {
+        "id": "exploration",
+        "title": "Exploring Ezo",
+        "summary": "Landmarks, shrines and other places to find on the map.",
+        "steps": []
+      },
+      {
+        "id": "post-game",
+        "title": "After the Credits",
+        "summary": "New Game+ and anything left to finish.",
+        "steps": []
+      }
+    ],
+    "collectibles": []
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/ghost-of-yotei",
+    "Steam: no PC release, no achievement data",
+    "StrategyWiki: no page for this game, nothing used",
+    "Fandom (ghostoftsushima.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://ghostoftsushima.fandom.com/wiki/Ghost_of_Yōtei"
+  ],
+  "route": "original",
+  "notes": "PlayStation 5 only: no Steam app, and the RAWG achievements endpoint returns 0. No StrategyWiki page. ghostoftsushima.fandom.com answers the API and its game page links to about 47 pages: quest names, weapon teachings, bounties, a trophies page, New Game+, and the \"Legends\" mode. Only page names were looked at to choose chapter themes; nothing was copied. RAWG also lists the \"Echoes of Sekigahara\" add-on (2026-10-01). Collectibles need a trophy source."
+}
