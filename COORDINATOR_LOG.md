@@ -5,6 +5,40 @@ Tracks the 20-game research queue in `research/state.json` and files landing in 
 
 ---
 
+## 2026-10-18 23:10 UTC
+
+**Year / queue:** currentYear = 2020 on `main` (was 2023). state.json updated 22:11 UTC: 4 queued, 0 in progress, 16 done, 0 errors. `yearsCompleted` still empty (cosmetic).
+
+**Progress:** 16/20 games done and merged to `main`. **Up 5 in the last hour**, the first new research since 04:09 UTC.
+
+**Latest commits (origin/main):**
+- `2062ed5` Merge pull request #5 from `claude/festive-turing-ek24ds` (Tim, 22:17 UTC)
+- `c8496b4` Coordinator log: 22:10 check (coordinator, 22:11 UTC)
+- `824a966` Research: Baldur's Gate 3, Zelda: TotK, Hogwarts Legacy, Elden Ring, Forza Horizon 5 (Claude, 22:11 UTC, on the PR #5 branch)
+- `4750791` Coordinator log: 21:10 check (coordinator, 21:11 UTC)
+- `03bde9a` Coordinator log: 20:10 check (coordinator, 20:13 UTC)
+
+The research commit `824a966` was pushed onto the PR #5 branch (on top of the duplicate-skip spec fix `fbd867d`) and reached `main` when Tim merged PR #5. It did not come from the daily `game-researcher-routine` (last run 03:07 UTC, next run 2026-10-19 03:07 UTC); it was a manual or interactive run that did 5 games in one commit instead of one game per run with its own `claude/research-[slug]` branch and PR. Outcome is fine, but it bypassed the per-game PR review step the agent spec describes.
+
+**Research files:** `research/` on `main` holds `state.json` plus 16 game files. New this hour: `baldurs-gate-3.json`, `zelda-tears-of-the-kingdom.json`, `hogwarts-legacy.json`, `elden-ring.json`, `forza-horizon-5.json`. Every `done` slug has a matching file and every file has a `done` entry. Filenames match slugs and each file's `id` matches its filename. No stray files. `packs/` still does not exist (placeholder `packPath` values, expected).
+
+**Quality check (5 new files):** all PASS on `id`, `title`, `platforms`, `game.chapters`, `game.collectibles`; all also carry `released`, `developers`, `tags`, `rawgId`, `steamAppId`, `attribution`, `route`, `notes`.
+- `baldurs-gate-3`: 8 chapters, 54 collectibles, route original. StrategyWiki has only a table of contents; chapter structure follows that outline.
+- `zelda-tears-of-the-kingdom`: 13 chapters, **0 collectibles**, route cc-by-sa (StrategyWiki CC BY-SA 4.0, titles reworded, no text copied). Switch only, no achievement data, so shrines, Korok seeds and memories need an original or CC BY-SA list later. Same gap as `ghost-of-yotei`.
+- `hogwarts-legacy`: 6 chapters, 45 collectibles. 21 of 45 Steam achievements hidden and parked in the main story chapter.
+- `elden-ring`: 5 chapters, 42 collectibles. 36 of 42 achievements hidden; boss grouping is an estimate.
+- `forza-horizon-5`: 9 chapters, 164 collectibles, all with visible conditions (includes both expansions).
+Known gaps carried forward: `ghost-of-yotei.json` has 0 collectibles, `forza-horizon-6.json` lacks `released`, `developers`, `tags`.
+
+**Blockers / errors / stale PRs:**
+- **No open PRs.** PR #5 (researcher duplicate-skip fix) merged at 22:17 UTC, so the 03:07 UTC researcher run will use the updated spec. Nothing stale.
+- Stale branches safe to delete on origin: `claude/festive-turing-ek24ds` (merged), `claude/research-forza-horizon-6` (merged), `claude/research-crimson-desert` (closed).
+- No errors in state.json.
+
+**Next game in queue:** `cyberpunk-2077` — Cyberpunk 2077 (2020, evidence 3, route original). Then `red-dead-redemption-2` (2018), `grand-theft-auto-v` (2013), `elder-scrolls-skyrim` (2011, cc-by-sa). At one game per daily run, the 20-game queue finishes 2026-10-22 unless more manual batches land.
+
+---
+
 ## 2026-10-18 22:10 UTC
 
 **Year / queue:** currentYear = 2023 on `main`. state.json (last updated 04:05 UTC) is unchanged for the eighteenth hour running: 9 queued, 0 in progress, 11 done, 0 errors. `yearsCompleted` still empty (cosmetic).
