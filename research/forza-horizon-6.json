@@ -1,0 +1,520 @@
+{
+  "id": "forza-horizon-6",
+  "title": "Forza Horizon 6",
+  "year": 2026,
+  "platforms": [
+    "Xbox Series X|S",
+    "PC"
+  ],
+  "rawgId": 1010949,
+  "rawgSlug": "forza-horizon-6",
+  "playtime": null,
+  "genres": [
+    "Racing"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/d74/d744a3b0f6f0f0bc63f5ceb9b5e63230.jpeg",
+  "steamAppId": 2483190,
+  "achievements": {
+    "total": 57,
+    "examples": [
+      {
+        "name": "Welcome to Japan",
+        "percent": 94.6
+      },
+      {
+        "name": "Four Swords",
+        "percent": 90.4
+      },
+      {
+        "name": "First of Many",
+        "percent": 90.1
+      },
+      {
+        "name": "Crowd Pleaser",
+        "percent": 10.6
+      },
+      {
+        "name": "Historic Effort",
+        "percent": 7.4
+      },
+      {
+        "name": "All Eyes On You",
+        "percent": 7.3
+      },
+      {
+        "name": "The Boss",
+        "percent": 3.5
+      },
+      {
+        "name": "Maxed Out",
+        "percent": 1.8
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": false,
+      "pages": 0,
+      "reason": "No page for Forza Horizon 6 (MediaWiki API returned missing; prefix search empty)"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": false,
+      "reason": "forza.fandom.com API returned an empty response; marked unverified, not retried"
+    }
+  },
+  "game": {
+    "id": "forza-horizon-6",
+    "title": "Forza Horizon 6",
+    "platforms": [
+      "Xbox Series X|S",
+      "PC"
+    ],
+    "blurb": "Open-world racing set in Japan, released 2026-05-19. RAWG has no average playtime yet. Genre: Racing. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#E4572E",
+    "chapters": [
+      {
+        "id": "opening-act",
+        "title": "The Opening Act",
+        "summary": "Arrive in Japan, join the Horizon Festival and learn the basics.",
+        "steps": []
+      },
+      {
+        "id": "festival-wristbands",
+        "title": "Festival Wristbands",
+        "summary": "Climb the wristband tiers from Yellow through Gold by entering Festival events.",
+        "steps": []
+      },
+      {
+        "id": "exploring-japan",
+        "title": "Exploring Japan",
+        "summary": "Discover regions, landmarks, activities and the Collection Journal stamps.",
+        "steps": []
+      },
+      {
+        "id": "cars-and-garage",
+        "title": "Cars and Garage",
+        "summary": "Buy, find and show off cars, and set up the Yashiki player house.",
+        "steps": []
+      },
+      {
+        "id": "mastery",
+        "title": "Mastery and Completion",
+        "summary": "Long-term goals: full map, mascots, race wins, Horizon Play levels.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Welcome to Horizon",
+        "kind": "trophy",
+        "chapterId": "opening-act",
+        "where": "Earn the Yellow Wristband and join the Horizon Festival."
+      },
+      {
+        "id": "achievement-2",
+        "name": "Stamping Ground",
+        "kind": "trophy",
+        "chapterId": "exploring-japan",
+        "where": "Earn the Yellow Stamp for your Collection Journal."
+      },
+      {
+        "id": "achievement-3",
+        "name": "Just Getting Started",
+        "kind": "trophy",
+        "chapterId": "opening-act",
+        "where": "Complete your first Touge event."
+      },
+      {
+        "id": "achievement-4",
+        "name": "Working 9 to 5",
+        "kind": "trophy",
+        "chapterId": "opening-act",
+        "where": "Complete your first Job."
+      },
+      {
+        "id": "achievement-5",
+        "name": "Festival Fan",
+        "kind": "trophy",
+        "chapterId": "festival-wristbands",
+        "where": "Earn the Green Horizon Festival Wristband."
+      },
+      {
+        "id": "achievement-6",
+        "name": "Making Waves",
+        "kind": "trophy",
+        "chapterId": "festival-wristbands",
+        "where": "Earn the Blue Horizon Festival Wristband."
+      },
+      {
+        "id": "achievement-7",
+        "name": "Seeing the Sights",
+        "kind": "trophy",
+        "chapterId": "exploring-japan",
+        "where": "Earn the Green Stamp in your Collection Journal."
+      },
+      {
+        "id": "achievement-8",
+        "name": "Travelling All Around",
+        "kind": "trophy",
+        "chapterId": "exploring-japan",
+        "where": "Earn the Blue Stamp in your Collection Journal."
+      },
+      {
+        "id": "achievement-9",
+        "name": "A Fine Addition To My Collection",
+        "kind": "trophy",
+        "chapterId": "cars-and-garage",
+        "where": "Discover and claim a Treasure Car."
+      },
+      {
+        "id": "achievement-10",
+        "name": "Bargain Hunt",
+        "kind": "trophy",
+        "chapterId": "cars-and-garage",
+        "where": "Purchase an Aftermarket Car."
+      },
+      {
+        "id": "achievement-11",
+        "name": "Another Lap Won't Hurt",
+        "kind": "trophy",
+        "chapterId": "opening-act",
+        "where": "Set a lap time at a Time Attack Circuit."
+      },
+      {
+        "id": "achievement-12",
+        "name": "Fresh Tire Smoke",
+        "kind": "trophy",
+        "chapterId": "opening-act",
+        "where": "Complete a Drag Meet."
+      },
+      {
+        "id": "achievement-13",
+        "name": "Four Swords",
+        "kind": "trophy",
+        "chapterId": "opening-act",
+        "where": "Complete a LINK Skill."
+      },
+      {
+        "id": "achievement-14",
+        "name": "Carkour!",
+        "kind": "trophy",
+        "chapterId": "opening-act",
+        "where": "Complete a Horizon Rush course."
+      },
+      {
+        "id": "achievement-15",
+        "name": "Blank Slate",
+        "kind": "trophy",
+        "chapterId": "cars-and-garage",
+        "where": "Purchase the Yashiki Player House."
+      },
+      {
+        "id": "achievement-16",
+        "name": "Dedicated Tourist",
+        "kind": "trophy",
+        "chapterId": "exploring-japan",
+        "where": "Earn 3 Stars on any Day Trip Story Chapter."
+      },
+      {
+        "id": "achievement-17",
+        "name": "First Love",
+        "kind": "trophy",
+        "chapterId": "cars-and-garage",
+        "where": "Purchase a car from the Autoshow."
+      },
+      {
+        "id": "achievement-18",
+        "name": "Meching My Way Downtown",
+        "kind": "trophy",
+        "chapterId": "opening-act",
+        "where": "Complete the Mech My Day Showcase Event."
+      },
+      {
+        "id": "achievement-19",
+        "name": "Ready to Rumble",
+        "kind": "trophy",
+        "chapterId": "cars-and-garage",
+        "where": "Earn 10 levels in Horizon Play."
+      },
+      {
+        "id": "achievement-20",
+        "name": "Smashcot",
+        "kind": "trophy",
+        "chapterId": "opening-act",
+        "where": "Smash your first Regional Mascot."
+      },
+      {
+        "id": "achievement-21",
+        "name": "On the Board",
+        "kind": "trophy",
+        "chapterId": "opening-act",
+        "where": "Win your first Horizon Festival Race event."
+      },
+      {
+        "id": "achievement-22",
+        "name": "What, Like It's Hard?",
+        "kind": "trophy",
+        "chapterId": "festival-wristbands",
+        "where": "Earn the Pink Horizon Festival Wristband."
+      },
+      {
+        "id": "achievement-23",
+        "name": "Orange You Glad You Made It?",
+        "kind": "trophy",
+        "chapterId": "festival-wristbands",
+        "where": "Earn the Orange Horizon Festival Wristband."
+      },
+      {
+        "id": "achievement-24",
+        "name": "Making Your Own Path",
+        "kind": "trophy",
+        "chapterId": "exploring-japan",
+        "where": "Earn the Pink Stamp in your Collection Journal."
+      },
+      {
+        "id": "achievement-25",
+        "name": "Hey! Listen!",
+        "kind": "trophy",
+        "chapterId": "exploring-japan",
+        "where": "Earn the Orange Stamp in your Collection Journal."
+      },
+      {
+        "id": "achievement-26",
+        "name": "Racking Up The Miles",
+        "kind": "trophy",
+        "chapterId": "exploring-japan",
+        "where": "Discover all 10 Regions."
+      },
+      {
+        "id": "achievement-27",
+        "name": "Tokyo Resident",
+        "kind": "trophy",
+        "chapterId": "exploring-japan",
+        "where": "Complete 33 activities in the Tokyo City Region."
+      },
+      {
+        "id": "achievement-28",
+        "name": "Crowd Pleaser",
+        "kind": "trophy",
+        "chapterId": "exploring-japan",
+        "where": "Earn 36 Stars from PR Stunts in the Ohtani Region."
+      },
+      {
+        "id": "achievement-29",
+        "name": "White Ghost",
+        "kind": "trophy",
+        "chapterId": "festival-wristbands",
+        "where": "Complete 5 Touge Races."
+      },
+      {
+        "id": "achievement-30",
+        "name": "What Are You Doing In My Estate?",
+        "kind": "trophy",
+        "chapterId": "cars-and-garage",
+        "where": "Visit another player's Estate."
+      },
+      {
+        "id": "achievement-31",
+        "name": "Show Me What You've Got!",
+        "kind": "trophy",
+        "chapterId": "cars-and-garage",
+        "where": "Display 3 different cars in your Garage at the same time."
+      },
+      {
+        "id": "achievement-32",
+        "name": "Collector",
+        "kind": "trophy",
+        "chapterId": "cars-and-garage",
+        "where": "Collect 100 different cars."
+      },
+      {
+        "id": "achievement-33",
+        "name": "Ascending New Heights",
+        "kind": "trophy",
+        "chapterId": "exploring-japan",
+        "where": "Complete the Flight Club Showcase Event."
+      },
+      {
+        "id": "achievement-34",
+        "name": "Parking All Over The World",
+        "kind": "trophy",
+        "chapterId": "exploring-japan",
+        "where": "Park at 3 different Car Meets."
+      },
+      {
+        "id": "achievement-35",
+        "name": "A Whole New World",
+        "kind": "trophy",
+        "chapterId": "cars-and-garage",
+        "where": "Drive any R Class Car."
+      },
+      {
+        "id": "achievement-36",
+        "name": "Even Playing Field",
+        "kind": "trophy",
+        "chapterId": "festival-wristbands",
+        "where": "Complete a Race Event within a Spec Racing Championship."
+      },
+      {
+        "id": "achievement-37",
+        "name": "To The Moon",
+        "kind": "trophy",
+        "chapterId": "exploring-japan",
+        "where": "Earn at least 1 Star at the Irokawa Launch Danger Sign."
+      },
+      {
+        "id": "achievement-38",
+        "name": "All Eyes On You",
+        "kind": "trophy",
+        "chapterId": "cars-and-garage",
+        "where": "Park the 2025 GR GT Prototype at a Car Meet."
+      },
+      {
+        "id": "achievement-39",
+        "name": "Track Day",
+        "kind": "trophy",
+        "chapterId": "cars-and-garage",
+        "where": "Set a lap time at a Time Attack Circuit while driving any Track Toy."
+      },
+      {
+        "id": "achievement-40",
+        "name": "Played-List",
+        "kind": "trophy",
+        "chapterId": "festival-wristbands",
+        "where": "Earn all Playlist points for a Season."
+      },
+      {
+        "id": "achievement-41",
+        "name": "Pin It!",
+        "kind": "trophy",
+        "chapterId": "exploring-japan",
+        "where": "Discover 10 Landmarks."
+      },
+      {
+        "id": "achievement-42",
+        "name": "In The Spotlight",
+        "kind": "trophy",
+        "chapterId": "festival-wristbands",
+        "where": "Earn the Purple Horizon Festival Wristband."
+      },
+      {
+        "id": "achievement-43",
+        "name": "Horizon Legend",
+        "kind": "trophy",
+        "chapterId": "festival-wristbands",
+        "where": "Earn the Gold Horizon Festival Wristband and become a Horizon Legend."
+      },
+      {
+        "id": "achievement-44",
+        "name": "What an Adventure!",
+        "kind": "trophy",
+        "chapterId": "exploring-japan",
+        "where": "Earn the Purple Stamp in your Collection Journal."
+      },
+      {
+        "id": "achievement-45",
+        "name": "Master Explorer",
+        "kind": "trophy",
+        "chapterId": "exploring-japan",
+        "where": "Earn the Gold Stamp and become a Master Explorer."
+      },
+      {
+        "id": "achievement-46",
+        "name": "The Boss",
+        "kind": "trophy",
+        "chapterId": "mastery",
+        "where": "Earn the maximum Promotion in a Job."
+      },
+      {
+        "id": "achievement-47",
+        "name": "Treasure Hunter",
+        "kind": "trophy",
+        "chapterId": "cars-and-garage",
+        "where": "Discover and claim 9 Treasure Cars."
+      },
+      {
+        "id": "achievement-48",
+        "name": "The Horizon Cartographer",
+        "kind": "trophy",
+        "chapterId": "mastery",
+        "where": "Reveal the entire Map."
+      },
+      {
+        "id": "achievement-49",
+        "name": "Feel the Rush",
+        "kind": "trophy",
+        "chapterId": "exploring-japan",
+        "where": "Complete 3 Horizon Rush events."
+      },
+      {
+        "id": "achievement-50",
+        "name": "Maxed Out",
+        "kind": "trophy",
+        "chapterId": "mastery",
+        "where": "Earn 100 levels in Horizon Play."
+      },
+      {
+        "id": "achievement-51",
+        "name": "Historic Effort",
+        "kind": "trophy",
+        "chapterId": "mastery",
+        "where": "Earn a Series History Reward."
+      },
+      {
+        "id": "achievement-52",
+        "name": "Gotta Smash 'Em All",
+        "kind": "trophy",
+        "chapterId": "mastery",
+        "where": "Smash 200 Regional Mascots."
+      },
+      {
+        "id": "achievement-53",
+        "name": "A Few Splinters Is Nothing!",
+        "kind": "trophy",
+        "chapterId": "exploring-japan",
+        "where": "Smash 200 Bonus Boards."
+      },
+      {
+        "id": "achievement-54",
+        "name": "Racing Aficionado",
+        "kind": "trophy",
+        "chapterId": "festival-wristbands",
+        "where": "Win 57 Horizon Festival Race Events."
+      },
+      {
+        "id": "achievement-55",
+        "name": "Storyteller",
+        "kind": "trophy",
+        "chapterId": "exploring-japan",
+        "where": "Earn 81 Stars from Stories."
+      },
+      {
+        "id": "achievement-56",
+        "name": "Welcome to Japan",
+        "kind": "trophy",
+        "chapterId": "opening-act",
+        "where": "Complete The Opening Act."
+      },
+      {
+        "id": "achievement-57",
+        "name": "First of Many",
+        "kind": "trophy",
+        "chapterId": "opening-act",
+        "where": "Complete your first Qualifier event."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/forza-horizon-6",
+    "Achievement data from Steam (Steam Web API, app 2483190)",
+    "StrategyWiki: no page for this game, nothing used",
+    "Fandom unavailable (blocked by site / empty response), marked unverified"
+  ],
+  "route": "original",
+  "notes": "No wiki structure available (StrategyWiki has no page; Fandom unverified), so the chapter skeleton is an estimate grouped from the 57 Steam achievements and needs original guide writing. Steam: GetAppList/v2 and GetSchemaForApp no longer exist; used IStoreService/GetAppList/v1 and GetSchemaForGame/v2 instead. store.steampowered.com is blocked by the network policy. RAWG playtime is 0 and tags are empty (new game)."
+}
