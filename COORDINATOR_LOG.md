@@ -5,6 +5,37 @@ Tracks the 20-game research queue in `research/state.json` and files landing in 
 
 ---
 
+## 2026-10-18 05:10 UTC
+
+**Year / queue:** currentYear = 2023 on `main`. state.json (last updated 04:05 UTC) is unchanged since the last check: 9 queued, 0 in progress, 11 done, 0 errors. `yearsCompleted` still empty (cosmetic).
+
+**Progress:** 11/20 games done and merged to `main`. No change in the last hour.
+
+**Latest commits (origin/main):**
+- `d285c2f` Coordinator log: 04:10 check (coordinator, 04:12 UTC)
+- `0473887` Merge pull request #4 from torgan59/claude/festive-turing-ek24ds (Tim, 04:09 UTC)
+- `13d9ba2` Research: add Fandom region list to Crimson Desert (Claude, 04:09 UTC)
+- `e044dd2` Research: Ghost of Yotei, AC Shadows, Oblivion Remastered, Death Stranding 2, Black Myth: Wukong (Claude, 04:05 UTC)
+- `7392f1b` Merge pull request #3 from torgan59/claude/festive-turing-ek24ds (Tim, 04:07 UTC)
+
+No new research commits in the last hour. The `game-researcher-routine` scheduled task did not fire (daily, next run 2026-10-19 03:07 UTC). No research branches were pushed.
+
+One new commit sits on a branch without a PR: `fbd867d` "Researcher: skip games already claimed on any branch" (Claude, 04:13 UTC, on `claude/festive-turing-ek24ds`). It edits only `.claude/agents/game-researcher.md` (20 lines added): before picking a game, the researcher now lists research files on `main` and every unmerged remote branch and skips those slugs, then pushes its in-progress claim right away. This fixes the PR #2 / PR #3 double-pick of Crimson Desert. It is not on `main`, so the 2026-10-19 daily run will still use the old spec unless Tim opens and merges a PR for it (or cherry-picks it onto `main`).
+
+**Research files:** `research/` on `main` holds `state.json` plus the same 11 game files as last hour. Every filename matches its slug, every `done` entry has a file, no stray files. `packs/` still does not exist (expected placeholders).
+
+**Quality check:** no new files, so the full re-check is a confirmation only: all 11 files still PASS (`id` matches slug, `title`, `platforms`, `game.chapters`, `game.collectibles`). Known gaps unchanged: `ghost-of-yotei.json` has 0 collectibles (needs PlayStation trophy list written in our own words), and `forza-horizon-6.json` lacks `released`, `developers`, `tags` that the other ten files share.
+
+**Blockers / errors / stale PRs:**
+- **No open PRs.** Tim closed PR #2 (Crimson Desert duplicate) without merging at 04:15 UTC, as recommended last hour. PR #1, #3, #4 are merged.
+- Branches still on origin, all safe to delete: `claude/research-forza-horizon-6` (merged), `claude/research-crimson-desert` (closed, superseded), and `claude/festive-turing-ek24ds` once `fbd867d` is merged or discarded.
+- Research pace: nothing landed this hour. At the daily researcher cadence the remaining 9 games take until about 27 October; a manual batch session would finish sooner.
+- Still outstanding: `store.steampowered.com` is blocked by the environment network policy (Steam Web API unaffected).
+
+**Next game in queue:** `baldurs-gate-3` — Baldur's Gate 3 (2023, evidence 3, route original). Then `zelda-tears-of-the-kingdom` (cc-by-sa) and `hogwarts-legacy`, then 2022 (`elden-ring`).
+
+---
+
 ## 2026-10-18 04:10 UTC
 
 **Year / queue:** currentYear = 2023 on `main`. state.json (updated 04:05 UTC by PR #4): 9 queued, 0 in progress, 11 done, 0 errors. All 2026, 2025 and 2024 titles are done, so the researcher has moved down to 2023. `yearsCompleted` is still an empty list even though three years are finished; cosmetic, nothing reads it yet.
