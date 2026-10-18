@@ -111,8 +111,8 @@ Rules:
 
 ### 3. Fetch Steam achievements (PC only)
 - **Skip if this game has no Steam presence** (Tears of the Kingdom, Ghost of Yōtei, Death Stranding 2 PS5-only are N/A).
-- **API:** Use Steam Web API: first call `ISteamApps/GetAppList/v2/` to find the app ID by matching against the game title.
-  - Then call `ISteamUserStats/GetSchemaForApp?appid=[ID]&key=[STEAM_API_KEY]` to fetch achievements.
+- **API:** Use Steam Web API: first call `IStoreService/GetAppList/v1/?key=[STEAM_API_KEY]&max_results=50000&include_games=true&last_appid=[N]` (paginated; repeat with the last appid until done) to find the app ID by matching against the game title. `ISteamApps/GetAppList/v2` is dead (404).
+  - Then call `ISteamUserStats/GetSchemaForGame/v2/?appid=[ID]&key=[STEAM_API_KEY]` to fetch achievements. `GetSchemaForApp` is dead (404).
   - Then call `ISteamUserStats/GetGlobalAchievementPercentagesForApp?appid=[ID]` (key not required for this call).
 - **Fail loudly if `STEAM_API_KEY` is missing.** Do not continue.
 - Extract: achievement names, descriptions, unlock percentages (global %); count total achievements.
