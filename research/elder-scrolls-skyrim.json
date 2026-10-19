@@ -1,0 +1,779 @@
+{
+  "id": "elder-scrolls-skyrim",
+  "title": "Elder Scrolls V: Skyrim",
+  "year": 2011,
+  "platforms": [
+    "PlayStation 5",
+    "PlayStation 4",
+    "PC",
+    "Xbox One",
+    "Xbox Series X|S",
+    "Nintendo Switch",
+    "Xbox 360",
+    "PlayStation 3"
+  ],
+  "rawgId": 5679,
+  "rawgSlug": "the-elder-scrolls-v-skyrim",
+  "released": "2011-11-11",
+  "developers": [
+    "Bethesda Game Studios"
+  ],
+  "playtime": 46,
+  "genres": [
+    "Action",
+    "RPG"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Steam Cloud",
+    "Atmospheric",
+    "steam-trading-cards",
+    "Great Soundtrack",
+    "RPG",
+    "Story Rich",
+    "Open World",
+    "First-Person",
+    "Third Person",
+    "Partial Controller Support"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/7cf/7cfc9220b401b7a300e409e539c9afd5.jpg",
+  "steamAppId": 489830,
+  "achievements": {
+    "total": 75,
+    "hidden": 0,
+    "examples": [
+      {
+        "name": "Unbound",
+        "percent": 72.0
+      },
+      {
+        "name": "Blessed",
+        "percent": 62.0
+      },
+      {
+        "name": "Apprentice",
+        "percent": 52.1
+      },
+      {
+        "name": "Oblivion Walker",
+        "percent": 3.4
+      },
+      {
+        "name": "Vampire Mastered",
+        "percent": 3.3
+      },
+      {
+        "name": "Master Architect",
+        "percent": 3.2
+      },
+      {
+        "name": "Master Criminal",
+        "percent": 2.8
+      },
+      {
+        "name": "Dragonrider",
+        "percent": 2.8
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 26,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/The_Elder_Scrolls_V:_Skyrim",
+      "completionStage": 1,
+      "writtenSubpages": [
+        "A Daedra's Best Friend",
+        "Achievements and trophies",
+        "Before the Storm",
+        "Bleak Falls Barrow",
+        "Companions",
+        "Controls",
+        "Delayed Burial",
+        "Dragon Rising",
+        "Escaped Criminal",
+        "First Lessons",
+        "Gameplay",
+        "Innocence Lost",
+        "Magic",
+        "Proving Honor",
+        "Season Unending",
+        "Shouts",
+        "Table of Contents",
+        "Take Up Arms",
+        "Taking Care of Business",
+        "The Black Star",
+        "The Forsworn Conspiracy",
+        "The Silver Hand",
+        "The Way of the Voice",
+        "Trouble in Skyrim",
+        "Unbound",
+        "Under Saarthal"
+      ],
+      "reason": "Real walkthrough structure; chapter order taken from its Table of Contents"
+    },
+    "uesp": {
+      "available": true,
+      "licence": "CC BY-SA 2.5",
+      "url": "https://en.uesp.net/wiki/Skyrim:Quests",
+      "pages": {
+        "Skyrim:Main Quest": 46,
+        "Skyrim:Quests": 69,
+        "Skyrim:Skyrim": 78
+      },
+      "questlines": [
+        "Main Quest",
+        "Companions",
+        "College of Winterhold",
+        "Thieves Guild",
+        "Dark Brotherhood",
+        "Civil War",
+        "Daedric Quests",
+        "Side Quests",
+        "Dawnguard",
+        "Dragonborn",
+        "Hearthfire"
+      ]
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 306,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_V:_Skyrim"
+    }
+  },
+  "game": {
+    "id": "elder-scrolls-skyrim",
+    "title": "Elder Scrolls V: Skyrim",
+    "platforms": [
+      "PlayStation 5",
+      "PlayStation 4",
+      "PC",
+      "Xbox One",
+      "Xbox Series X|S",
+      "Nintendo Switch",
+      "Xbox 360",
+      "PlayStation 3"
+    ],
+    "blurb": "Open-world fantasy RPG from Bethesda Game Studios, released 2011-11-11 and re-released many times. RAWG average playtime: 46 hours. Genres: Action, RPG. Chapters follow the questline structure on StrategyWiki and UESP. Achievements come from Skyrim Special Edition.",
+    "accent": "#5B7FA6",
+    "chapters": [
+      {
+        "id": "main-quest-1",
+        "title": "Main Quest: The Dragonborn",
+        "summary": "From the escape at Helgen to learning the Way of the Voice.",
+        "steps": []
+      },
+      {
+        "id": "main-quest-2",
+        "title": "Main Quest: The Blades",
+        "summary": "Uncovering who is behind the dragons and how to fight back.",
+        "steps": []
+      },
+      {
+        "id": "main-quest-3",
+        "title": "Main Quest: The World-Eater",
+        "summary": "The final steps of the main quest.",
+        "steps": []
+      },
+      {
+        "id": "companions",
+        "title": "The Companions",
+        "summary": "Whiterun's warrior guild, and the secret at its heart.",
+        "steps": []
+      },
+      {
+        "id": "college-of-winterhold",
+        "title": "College of Winterhold",
+        "summary": "The mages' college and the Eye of Magnus.",
+        "steps": []
+      },
+      {
+        "id": "thieves-guild",
+        "title": "Thieves Guild",
+        "summary": "Riften's thieves and their fall from grace.",
+        "steps": []
+      },
+      {
+        "id": "dark-brotherhood",
+        "title": "Dark Brotherhood",
+        "summary": "The assassins' guild, contract by contract.",
+        "steps": []
+      },
+      {
+        "id": "civil-war",
+        "title": "The Civil War",
+        "summary": "Choose the Stormcloaks or the Imperial Legion and take the forts.",
+        "steps": []
+      },
+      {
+        "id": "daedric-and-side",
+        "title": "Daedric Quests, Side Quests and Skills",
+        "summary": "Daedric artifacts, side quests, dungeons, skills and life in Skyrim.",
+        "steps": []
+      },
+      {
+        "id": "dragons-and-shouts",
+        "title": "Dragons and Shouts",
+        "summary": "Dragon souls, shouts and legendary dragons.",
+        "steps": []
+      },
+      {
+        "id": "dawnguard",
+        "title": "Dawnguard",
+        "summary": "The vampire-hunter add-on: Dawnguard or the Volkihar clan.",
+        "steps": []
+      },
+      {
+        "id": "dragonborn",
+        "title": "Dragonborn",
+        "summary": "The Solstheim add-on and the first Dragonborn.",
+        "steps": []
+      },
+      {
+        "id": "hearthfire",
+        "title": "Hearthfire",
+        "summary": "Buying land, building houses and adopting children.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Unbound",
+        "kind": "trophy",
+        "chapterId": "main-quest-1",
+        "where": "Complete \"Unbound\""
+      },
+      {
+        "id": "achievement-2",
+        "name": "Bleak Falls Barrow",
+        "kind": "trophy",
+        "chapterId": "main-quest-1",
+        "where": "Complete \"Bleak Falls Barrow\""
+      },
+      {
+        "id": "achievement-3",
+        "name": "The Way of the Voice",
+        "kind": "trophy",
+        "chapterId": "main-quest-1",
+        "where": "Complete \"The Way of the Voice\""
+      },
+      {
+        "id": "achievement-4",
+        "name": "Diplomatic Immunity",
+        "kind": "trophy",
+        "chapterId": "main-quest-2",
+        "where": "Complete \"Diplomatic Immunity\""
+      },
+      {
+        "id": "achievement-5",
+        "name": "Alduin's Wall",
+        "kind": "trophy",
+        "chapterId": "main-quest-2",
+        "where": "Complete \"Alduin's Wall\""
+      },
+      {
+        "id": "achievement-6",
+        "name": "Elder Knowledge",
+        "kind": "trophy",
+        "chapterId": "main-quest-2",
+        "where": "Complete \"Elder Knowledge\""
+      },
+      {
+        "id": "achievement-7",
+        "name": "The Fallen",
+        "kind": "trophy",
+        "chapterId": "main-quest-3",
+        "where": "Complete \"The Fallen\""
+      },
+      {
+        "id": "achievement-8",
+        "name": "Dragonslayer",
+        "kind": "trophy",
+        "chapterId": "main-quest-3",
+        "where": "Complete \"Dragonslayer\""
+      },
+      {
+        "id": "achievement-9",
+        "name": "Take Up Arms",
+        "kind": "trophy",
+        "chapterId": "companions",
+        "where": "Join the Companions"
+      },
+      {
+        "id": "achievement-10",
+        "name": "Blood Oath",
+        "kind": "trophy",
+        "chapterId": "companions",
+        "where": "Become a member of the Circle"
+      },
+      {
+        "id": "achievement-11",
+        "name": "Glory of the Dead",
+        "kind": "trophy",
+        "chapterId": "companions",
+        "where": "Complete \"Glory of the Dead\""
+      },
+      {
+        "id": "achievement-12",
+        "name": "Gatekeeper",
+        "kind": "trophy",
+        "chapterId": "college-of-winterhold",
+        "where": "Join the College of Winterhold"
+      },
+      {
+        "id": "achievement-13",
+        "name": "Revealing the Unseen",
+        "kind": "trophy",
+        "chapterId": "college-of-winterhold",
+        "where": "Complete \"Revealing the Unseen\""
+      },
+      {
+        "id": "achievement-14",
+        "name": "The Eye of Magnus",
+        "kind": "trophy",
+        "chapterId": "college-of-winterhold",
+        "where": "Complete \"The Eye of Magnus\""
+      },
+      {
+        "id": "achievement-15",
+        "name": "Taking Care of Business",
+        "kind": "trophy",
+        "chapterId": "thieves-guild",
+        "where": "Join the Thieves Guild"
+      },
+      {
+        "id": "achievement-16",
+        "name": "Darkness Returns",
+        "kind": "trophy",
+        "chapterId": "thieves-guild",
+        "where": "Complete \"Darkness Returns\""
+      },
+      {
+        "id": "achievement-17",
+        "name": "One with the Shadows",
+        "kind": "trophy",
+        "chapterId": "thieves-guild",
+        "where": "Returned the Thieves Guild to its former glory"
+      },
+      {
+        "id": "achievement-18",
+        "name": "With Friends Like These…",
+        "kind": "trophy",
+        "chapterId": "dark-brotherhood",
+        "where": "Join the Dark Brotherhood"
+      },
+      {
+        "id": "achievement-19",
+        "name": "Bound Until Death",
+        "kind": "trophy",
+        "chapterId": "dark-brotherhood",
+        "where": "Complete \"Bound Until Death\""
+      },
+      {
+        "id": "achievement-20",
+        "name": "Hail Sithis!",
+        "kind": "trophy",
+        "chapterId": "dark-brotherhood",
+        "where": "Complete \"Hail Sithis!\""
+      },
+      {
+        "id": "achievement-21",
+        "name": "Taking Sides",
+        "kind": "trophy",
+        "chapterId": "civil-war",
+        "where": "Join the Stormcloaks or the Imperial Army"
+      },
+      {
+        "id": "achievement-22",
+        "name": "War Hero",
+        "kind": "trophy",
+        "chapterId": "civil-war",
+        "where": "Capture Fort Sungard or Fort Greenwall"
+      },
+      {
+        "id": "achievement-23",
+        "name": "Hero of Skyrim",
+        "kind": "trophy",
+        "chapterId": "civil-war",
+        "where": "Capture Solitude or Windhelm"
+      },
+      {
+        "id": "achievement-24",
+        "name": "Sideways",
+        "kind": "trophy",
+        "chapterId": "daedric-and-side",
+        "where": "Complete 10 side quests"
+      },
+      {
+        "id": "achievement-25",
+        "name": "Hero of the People",
+        "kind": "trophy",
+        "chapterId": "daedric-and-side",
+        "where": "Complete 50 Misc Objectives"
+      },
+      {
+        "id": "achievement-26",
+        "name": "Hard Worker",
+        "kind": "trophy",
+        "chapterId": "daedric-and-side",
+        "where": "Chop wood, mine ore, and cook food"
+      },
+      {
+        "id": "achievement-27",
+        "name": "Thief",
+        "kind": "trophy",
+        "chapterId": "daedric-and-side",
+        "where": "Pick 50 locks and 50 pockets"
+      },
+      {
+        "id": "achievement-28",
+        "name": "Snake Tongue",
+        "kind": "trophy",
+        "chapterId": "daedric-and-side",
+        "where": "Successfully persuade, bribe, and intimidate"
+      },
+      {
+        "id": "achievement-29",
+        "name": "Blessed",
+        "kind": "trophy",
+        "chapterId": "daedric-and-side",
+        "where": "Select a Standing Stone blessing"
+      },
+      {
+        "id": "achievement-30",
+        "name": "Standing Stones",
+        "kind": "trophy",
+        "chapterId": "daedric-and-side",
+        "where": "Find 13 Standing Stones"
+      },
+      {
+        "id": "achievement-31",
+        "name": "Citizen",
+        "kind": "trophy",
+        "chapterId": "daedric-and-side",
+        "where": "Buy a house"
+      },
+      {
+        "id": "achievement-32",
+        "name": "Wanted",
+        "kind": "trophy",
+        "chapterId": "daedric-and-side",
+        "where": "Escape from jail"
+      },
+      {
+        "id": "achievement-33",
+        "name": "Married",
+        "kind": "trophy",
+        "chapterId": "daedric-and-side",
+        "where": "Get married"
+      },
+      {
+        "id": "achievement-34",
+        "name": "Artificer",
+        "kind": "trophy",
+        "chapterId": "daedric-and-side",
+        "where": "Make a smithed item, an enchanted item, and a potion"
+      },
+      {
+        "id": "achievement-35",
+        "name": "Master Criminal",
+        "kind": "trophy",
+        "chapterId": "daedric-and-side",
+        "where": "Bounty of 1000 gold in all nine holds"
+      },
+      {
+        "id": "achievement-36",
+        "name": "Golden Touch",
+        "kind": "trophy",
+        "chapterId": "daedric-and-side",
+        "where": "Have 100,000 gold"
+      },
+      {
+        "id": "achievement-37",
+        "name": "Delver",
+        "kind": "trophy",
+        "chapterId": "daedric-and-side",
+        "where": "Clear 50 dungeons"
+      },
+      {
+        "id": "achievement-38",
+        "name": "Skill Master",
+        "kind": "trophy",
+        "chapterId": "daedric-and-side",
+        "where": "Get a skill to 100"
+      },
+      {
+        "id": "achievement-39",
+        "name": "Explorer",
+        "kind": "trophy",
+        "chapterId": "daedric-and-side",
+        "where": "Discover 100 Locations"
+      },
+      {
+        "id": "achievement-40",
+        "name": "Reader",
+        "kind": "trophy",
+        "chapterId": "daedric-and-side",
+        "where": "Read 50 Skill Books"
+      },
+      {
+        "id": "achievement-41",
+        "name": "Daedric Influence",
+        "kind": "trophy",
+        "chapterId": "daedric-and-side",
+        "where": "Acquire a Daedric Artifact"
+      },
+      {
+        "id": "achievement-42",
+        "name": "Oblivion Walker",
+        "kind": "trophy",
+        "chapterId": "daedric-and-side",
+        "where": "Collect 15 Daedric Artifacts"
+      },
+      {
+        "id": "achievement-43",
+        "name": "Dragon Soul",
+        "kind": "trophy",
+        "chapterId": "dragons-and-shouts",
+        "where": "Absorb a dragon soul"
+      },
+      {
+        "id": "achievement-44",
+        "name": "Dragon Hunter",
+        "kind": "trophy",
+        "chapterId": "dragons-and-shouts",
+        "where": "Absorb 20 dragon souls"
+      },
+      {
+        "id": "achievement-45",
+        "name": "Words of Power",
+        "kind": "trophy",
+        "chapterId": "dragons-and-shouts",
+        "where": "Learn all three words of a shout"
+      },
+      {
+        "id": "achievement-46",
+        "name": "Thu'um Master",
+        "kind": "trophy",
+        "chapterId": "dragons-and-shouts",
+        "where": "Learn 20 shouts"
+      },
+      {
+        "id": "achievement-47",
+        "name": "Apprentice",
+        "kind": "trophy",
+        "chapterId": "daedric-and-side",
+        "where": "Reach Level 5"
+      },
+      {
+        "id": "achievement-48",
+        "name": "Adept",
+        "kind": "trophy",
+        "chapterId": "daedric-and-side",
+        "where": "Reach Level 10"
+      },
+      {
+        "id": "achievement-49",
+        "name": "Expert",
+        "kind": "trophy",
+        "chapterId": "daedric-and-side",
+        "where": "Reach Level 25"
+      },
+      {
+        "id": "achievement-50",
+        "name": "Master",
+        "kind": "trophy",
+        "chapterId": "daedric-and-side",
+        "where": "Reach Level 50"
+      },
+      {
+        "id": "achievement-51",
+        "name": "Awakening",
+        "kind": "trophy",
+        "chapterId": "dawnguard",
+        "where": "Complete \"Awakening\""
+      },
+      {
+        "id": "achievement-52",
+        "name": "Beyond Death",
+        "kind": "trophy",
+        "chapterId": "dawnguard",
+        "where": "Complete \"Beyond Death\""
+      },
+      {
+        "id": "achievement-53",
+        "name": "Kindred Judgement",
+        "kind": "trophy",
+        "chapterId": "dawnguard",
+        "where": "Complete \"Kindred Judgment\""
+      },
+      {
+        "id": "achievement-54",
+        "name": "Lost to the Ages",
+        "kind": "trophy",
+        "chapterId": "dawnguard",
+        "where": "Complete \"Lost to the Ages\""
+      },
+      {
+        "id": "achievement-55",
+        "name": "Soul Tear",
+        "kind": "trophy",
+        "chapterId": "dawnguard",
+        "where": "Learn all three words of Soul Tear"
+      },
+      {
+        "id": "achievement-56",
+        "name": "Auriel's Bow",
+        "kind": "trophy",
+        "chapterId": "dawnguard",
+        "where": "Use the special power of Auriel's Bow"
+      },
+      {
+        "id": "achievement-57",
+        "name": "Werewolf Mastered",
+        "kind": "trophy",
+        "chapterId": "companions",
+        "where": "Acquire 11 werewolf perks"
+      },
+      {
+        "id": "achievement-58",
+        "name": "Vampire Mastered",
+        "kind": "trophy",
+        "chapterId": "dawnguard",
+        "where": "Acquire 11 vampire perks"
+      },
+      {
+        "id": "achievement-59",
+        "name": "A New You",
+        "kind": "trophy",
+        "chapterId": "daedric-and-side",
+        "where": "Change your face"
+      },
+      {
+        "id": "achievement-60",
+        "name": "Legend",
+        "kind": "trophy",
+        "chapterId": "dragons-and-shouts",
+        "where": "Defeat a Legendary Dragon"
+      },
+      {
+        "id": "achievement-61",
+        "name": "Proud Parent",
+        "kind": "trophy",
+        "chapterId": "hearthfire",
+        "where": "Adopt a child"
+      },
+      {
+        "id": "achievement-62",
+        "name": "Landowner",
+        "kind": "trophy",
+        "chapterId": "hearthfire",
+        "where": "Buy a plot of land"
+      },
+      {
+        "id": "achievement-63",
+        "name": "Architect",
+        "kind": "trophy",
+        "chapterId": "hearthfire",
+        "where": "Build three wings on a house"
+      },
+      {
+        "id": "achievement-64",
+        "name": "Land Baron",
+        "kind": "trophy",
+        "chapterId": "hearthfire",
+        "where": "Buy three plots of land"
+      },
+      {
+        "id": "achievement-65",
+        "name": "Master Architect",
+        "kind": "trophy",
+        "chapterId": "hearthfire",
+        "where": "Build three houses"
+      },
+      {
+        "id": "achievement-66",
+        "name": "Outlander",
+        "kind": "trophy",
+        "chapterId": "dragonborn",
+        "where": "Arrive on Solstheim"
+      },
+      {
+        "id": "achievement-67",
+        "name": "The Temple of Miraak",
+        "kind": "trophy",
+        "chapterId": "dragonborn",
+        "where": "Complete \"The Temple of Miraak\""
+      },
+      {
+        "id": "achievement-68",
+        "name": "The Path of Knowledge",
+        "kind": "trophy",
+        "chapterId": "dragonborn",
+        "where": "Complete \"The Path of Knowledge\""
+      },
+      {
+        "id": "achievement-69",
+        "name": "At the Summit of Apocrypha",
+        "kind": "trophy",
+        "chapterId": "dragonborn",
+        "where": "Complete \"At the Summit of Apocrypha\""
+      },
+      {
+        "id": "achievement-70",
+        "name": "Dragon Aspect",
+        "kind": "trophy",
+        "chapterId": "dragonborn",
+        "where": "Learn all 3 words of Dragon Aspect"
+      },
+      {
+        "id": "achievement-71",
+        "name": "Hidden Knowledge",
+        "kind": "trophy",
+        "chapterId": "dragonborn",
+        "where": "Learn the secrets of 5 Black Books"
+      },
+      {
+        "id": "achievement-72",
+        "name": "Stalhrim Crafter",
+        "kind": "trophy",
+        "chapterId": "dragonborn",
+        "where": "Craft an item out of Stalhrim"
+      },
+      {
+        "id": "achievement-73",
+        "name": "Dragonrider",
+        "kind": "trophy",
+        "chapterId": "dragonborn",
+        "where": "Tame and ride 5 dragons"
+      },
+      {
+        "id": "achievement-74",
+        "name": "Raven Rock Owner",
+        "kind": "trophy",
+        "chapterId": "dragonborn",
+        "where": "Own a house in Raven Rock"
+      },
+      {
+        "id": "achievement-75",
+        "name": "Solstheim Explorer",
+        "kind": "trophy",
+        "chapterId": "dragonborn",
+        "where": "Discover 30 locations on the island of Solstheim"
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/the-elder-scrolls-v-skyrim",
+    "Achievement data from Steam (Steam Web API, app 489830)",
+    "Wiki structure and facts from UESP under CC BY-SA 2.5 — https://en.uesp.net/wiki/Skyrim:Quests",
+    "Wiki structure from StrategyWiki under CC BY-SA 4.0 (chapter order from its walkthrough contents; titles reworded, no text copied) — https://strategywiki.org/wiki/The_Elder_Scrolls_V:_Skyrim",
+    "Fandom (elderscrolls.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_V:_Skyrim"
+  ],
+  "route": "cc-by-sa",
+  "notes": "Route cc-by-sa. StrategyWiki (CC BY-SA 4.0) is at completion stage 1, with 26 written subpages (about 99,000 characters). Its contents page lists the full main quest in order, plus the Companions, College of Winterhold and other questlines. UESP (CC BY-SA 2.5) has complete quest pages; Skyrim:Quests links to every questline, including Civil War, Daedric quests, Dawnguard, Dragonborn and Hearthfire. Chapters follow those questlines; only page and quest names were used, no text copied. Steam app 489830 (Special Edition) has the same 75 achievements as the original release (app 72850, no longer in the store list), all with visible conditions. Quest-named achievements were sorted by quest name."
+}

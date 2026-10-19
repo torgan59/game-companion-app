@@ -1,0 +1,456 @@
+{
+  "id": "blood-of-dawnwalker",
+  "title": "The Blood of Dawnwalker",
+  "year": 2026,
+  "platforms": [
+    "PlayStation 5",
+    "Xbox Series X|S",
+    "PC"
+  ],
+  "rawgId": 996046,
+  "rawgSlug": "the-blood-of-dawnwalker",
+  "released": "2026-09-03",
+  "developers": [
+    "Rebel Wolves"
+  ],
+  "playtime": null,
+  "genres": [
+    "Action",
+    "RPG"
+  ],
+  "tags": [
+    "Jeu de rôle"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/319/319d18680fd0233e0ff724f234c97d17.jpg",
+  "steamAppId": 3751260,
+  "achievements": {
+    "total": 46,
+    "hidden": 23,
+    "examples": [
+      {
+        "name": "Dead Man Talkin'",
+        "percent": 84.9
+      },
+      {
+        "name": "Balanced Diet",
+        "percent": 84.6
+      },
+      {
+        "name": "Untouchable",
+        "percent": 79.7
+      },
+      {
+        "name": "Bird's-Eye View",
+        "percent": 17.6
+      },
+      {
+        "name": "Capture the Flag",
+        "percent": 10.8
+      },
+      {
+        "name": "Glass Ceiling",
+        "percent": 6.9
+      },
+      {
+        "name": "Arch Warlock",
+        "percent": 5.8
+      },
+      {
+        "name": "Uphill Battle",
+        "percent": 3.2
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": false,
+      "pages": 0,
+      "reason": "No page for The Blood of Dawnwalker (MediaWiki API returned missing; search empty)"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 41,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://thebloodofdawnwalker.fandom.com/wiki/The_Blood_of_Dawnwalker"
+    }
+  },
+  "game": {
+    "id": "blood-of-dawnwalker",
+    "title": "The Blood of Dawnwalker",
+    "platforms": [
+      "PlayStation 5",
+      "Xbox Series X|S",
+      "PC"
+    ],
+    "blurb": "Open-world dark fantasy action RPG from Rebel Wolves, released 2026-09-03. RAWG has no playtime yet. Genres: Action, RPG. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#8C1C13",
+    "chapters": [
+      {
+        "id": "main-story",
+        "title": "The Main Story",
+        "summary": "The story of the Dawnwalker, from the beginning to the end.",
+        "steps": []
+      },
+      {
+        "id": "exploring-vale-sangora",
+        "title": "Exploring Vale Sangora",
+        "summary": "Villages, towers, the city, Infamy and enemy flags and transports.",
+        "steps": []
+      },
+      {
+        "id": "powers-and-skills",
+        "title": "Powers and Skills",
+        "summary": "Swordmastery, Witchcraft and Vampirism: abilities, perks and levels.",
+        "steps": []
+      },
+      {
+        "id": "gear-and-coin",
+        "title": "Gear and Coin",
+        "summary": "Legendary gear sets, silver and denarii.",
+        "steps": []
+      },
+      {
+        "id": "hardest-difficulty",
+        "title": "Duelist Difficulty",
+        "summary": "Finishing the game on the hardest preset.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Selfish",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-2",
+        "name": "Throne of Thorns",
+        "kind": "trophy",
+        "chapterId": "exploring-vale-sangora",
+        "where": "Reach peak Infamy in Vale Sangora."
+      },
+      {
+        "id": "achievement-3",
+        "name": "Uphill Battle",
+        "kind": "trophy",
+        "chapterId": "hardest-difficulty",
+        "where": "Complete the entire game by saving people of Laslea on Duelist Difficulty preset."
+      },
+      {
+        "id": "achievement-4",
+        "name": "A Dawnwalker is Born",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-5",
+        "name": "A Hero They Deserve",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-6",
+        "name": "The Right Fist of the Knyaz",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-7",
+        "name": "The Mad Khan",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-8",
+        "name": "The Dark Mistress",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-9",
+        "name": "Sins of the Past",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-10",
+        "name": "Misery Loves Company",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-11",
+        "name": "The Manumit",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-12",
+        "name": "The Turncoat",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-13",
+        "name": "The Patricide",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-14",
+        "name": "The Knyazmaker",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-15",
+        "name": "The Folk Hero",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-16",
+        "name": "In the Nick of Time",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-17",
+        "name": "The Blood of Dawnwalker",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Finish the story."
+      },
+      {
+        "id": "achievement-18",
+        "name": "Untouchable",
+        "kind": "trophy",
+        "chapterId": "powers-and-skills",
+        "where": "Perform 5 Perfect Blocks in a row."
+      },
+      {
+        "id": "achievement-19",
+        "name": "Delivery Delay",
+        "kind": "trophy",
+        "chapterId": "exploring-vale-sangora",
+        "where": "Destroy 8 vrakhiri transports."
+      },
+      {
+        "id": "achievement-20",
+        "name": "Better Safe than Sorry",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-21",
+        "name": "Make It Rain",
+        "kind": "trophy",
+        "chapterId": "powers-and-skills",
+        "where": "Cause an enemy to explode using an Active Ability."
+      },
+      {
+        "id": "achievement-22",
+        "name": "Absolutely Insatiable",
+        "kind": "trophy",
+        "chapterId": "powers-and-skills",
+        "where": "Have 3 Passive Abilities equipped at the same time."
+      },
+      {
+        "id": "achievement-23",
+        "name": "Arbiter's Blade",
+        "kind": "trophy",
+        "chapterId": "powers-and-skills",
+        "where": "Restore St Mihai's sword to its former glory."
+      },
+      {
+        "id": "achievement-24",
+        "name": "Arbiter's Regalia",
+        "kind": "trophy",
+        "chapterId": "gear-and-coin",
+        "where": "Gather all the parts of the Arbiter's set of armour and unlock their full potential."
+      },
+      {
+        "id": "achievement-25",
+        "name": "Gear of the Gods",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-26",
+        "name": "Capture the Flag",
+        "kind": "trophy",
+        "chapterId": "exploring-vale-sangora",
+        "where": "Tear down all of Brencis's flags."
+      },
+      {
+        "id": "achievement-27",
+        "name": "Bird's-Eye View",
+        "kind": "trophy",
+        "chapterId": "exploring-vale-sangora",
+        "where": "Climb all the towers and scout the surrounding areas."
+      },
+      {
+        "id": "achievement-28",
+        "name": "Feral Hunger",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-29",
+        "name": "Shadow Roamer",
+        "kind": "trophy",
+        "chapterId": "powers-and-skills",
+        "where": "Travel 1000 metres using Vampiric Abilities."
+      },
+      {
+        "id": "achievement-30",
+        "name": "Dead Man Talkin'",
+        "kind": "trophy",
+        "chapterId": "powers-and-skills",
+        "where": "Speak with a dead person using the Compel Soul Witchcraft Ability."
+      },
+      {
+        "id": "achievement-31",
+        "name": "Master of Arms",
+        "kind": "trophy",
+        "chapterId": "powers-and-skills",
+        "where": "Unlock an Ultimate Perk in the Swordmastery tree."
+      },
+      {
+        "id": "achievement-32",
+        "name": "Arch Warlock",
+        "kind": "trophy",
+        "chapterId": "powers-and-skills",
+        "where": "Unlock an Ultimate Perk in the Witchcraft tree."
+      },
+      {
+        "id": "achievement-33",
+        "name": "Creature of the Night",
+        "kind": "trophy",
+        "chapterId": "powers-and-skills",
+        "where": "Unlock an Ultimate Perk in the Vampirism tree."
+      },
+      {
+        "id": "achievement-34",
+        "name": "Glass Ceiling",
+        "kind": "trophy",
+        "chapterId": "powers-and-skills",
+        "where": "Reach Level 50."
+      },
+      {
+        "id": "achievement-35",
+        "name": "Miser",
+        "kind": "trophy",
+        "chapterId": "gear-and-coin",
+        "where": "Accumulate 5000 denarii. What are you planning to buy, mate?"
+      },
+      {
+        "id": "achievement-36",
+        "name": "Balanced Diet",
+        "kind": "trophy",
+        "chapterId": "powers-and-skills",
+        "where": "Quench your thirst by drinking 10 animals, humans, or monsters."
+      },
+      {
+        "id": "achievement-37",
+        "name": "Mastery",
+        "kind": "trophy",
+        "chapterId": "powers-and-skills",
+        "where": "Level up one Swordmastery, Witchcraft, or Vampiric Ability to its full potential."
+      },
+      {
+        "id": "achievement-38",
+        "name": "The Unquenchable Thirst",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-39",
+        "name": "The Outcast",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-40",
+        "name": "Together Forever",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-41",
+        "name": "The Tsarina's Favourite Human",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-42",
+        "name": "Realmwalker",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-43",
+        "name": "Antique Aficionado",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-44",
+        "name": "Big-City Living",
+        "kind": "trophy",
+        "chapterId": "exploring-vale-sangora",
+        "where": "Visit the City of Svartrau."
+      },
+      {
+        "id": "achievement-45",
+        "name": "Tour Guide Training",
+        "kind": "trophy",
+        "chapterId": "exploring-vale-sangora",
+        "where": "Visit all of Vale Sangora's villages."
+      },
+      {
+        "id": "achievement-46",
+        "name": "Smuggler",
+        "kind": "trophy",
+        "chapterId": "gear-and-coin",
+        "where": "Earn 1000 denarii selling silver."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/the-blood-of-dawnwalker",
+    "Achievement data from Steam (Steam Web API, app 3751260)",
+    "StrategyWiki: no page for this game, nothing used",
+    "Fandom (thebloodofdawnwalker.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://thebloodofdawnwalker.fandom.com/wiki/The_Blood_of_Dawnwalker"
+  ],
+  "route": "original",
+  "notes": "Backlog game (2026), added from the docs/PLAN.md candidate list. No StrategyWiki page. thebloodofdawnwalker.fandom.com answers the API, with about 43 linked pages; names only were looked at, nothing copied. 23 of 46 Steam achievements are hidden; they sit in the main story chapter."
+}
