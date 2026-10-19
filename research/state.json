@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-18T22:11:12Z",
+  "updated": "2026-10-19T03:00:00Z",
   "currentYear": 2020,
   "queue": [
     {
@@ -52,9 +52,10 @@
       "slug": "cyberpunk-2077",
       "title": "Cyberpunk 2077",
       "year": 2020,
-      "status": "queued",
+      "status": "in-progress",
       "evidence": 3,
-      "route": "original"
+      "route": "original",
+      "step": "rawg-fetch"
     },
     {
       "slug": "kingdom-come-deliverance-2",
@@ -84,7 +85,7 @@
     },
     {
       "slug": "ghost-of-yotei",
-      "title": "Ghost of Yōtei",
+      "title": "Ghost of Y\u014dtei",
       "year": 2025,
       "status": "done",
       "evidence": 3,
