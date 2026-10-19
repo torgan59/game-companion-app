@@ -5,6 +5,35 @@ Tracks the 20-game research queue in `research/state.json` and files landing in 
 
 ---
 
+## 2026-10-19 02:10 UTC
+
+**Year / queue:** currentYear = 2020 on `main`. state.json (last updated 2026-10-18 22:11 UTC) unchanged: 4 queued, 0 in progress, 16 done, 0 errors. `yearsCompleted` still empty (cosmetic).
+
+**Progress:** 16/20 games done and merged to `main`. No change in the last hour.
+
+**Latest commits (origin/main):**
+- `217555f` Coordinator log: 01:10 check (coordinator, 01:11 UTC)
+- `029ca2e` Coordinator log: 00:10 check (coordinator, 00:11 UTC)
+- `cc753c6` Coordinator log: 23:10 check (coordinator, 23:12 UTC)
+- `2062ed5` Merge pull request #5 from `claude/festive-turing-ek24ds` (Tim, 22:17 UTC)
+- `c8496b4` Coordinator log: 22:10 check (coordinator, 22:11 UTC)
+
+No new research commits in the last hour. The `game-researcher-routine` scheduled task is enabled, runs daily at 03:07 UTC, last ran 2026-10-18 03:07 UTC (succeeded in about 2 minutes), next run 2026-10-19 03:07 UTC (about an hour from this check). Nothing is expected to land before then.
+
+**Research files:** `research/` on `main` holds `state.json` plus the same 16 game files. Every `done` slug has a matching file and every file has a `done` entry. Filenames match slugs and each file's `id` matches its filename. No stray files. `packs/` still does not exist (placeholder `packPath` values, expected). Remote branches unchanged: `main` plus the three stale `claude/*` branches.
+
+**Quality check:** no new files; confirmation re-check of all 16 PASS (`id`, `title`, `platforms`, `game.chapters`, `game.collectibles` all present, `id` equals filename). Known gaps unchanged: `ghost-of-yotei.json` and `zelda-tears-of-the-kingdom.json` have 0 collectibles (Switch/PS-only, no achievement data).
+
+**Blockers / errors / stale PRs:**
+- **No open PRs.** Nothing stale.
+- Stale branches safe to delete on origin: `claude/festive-turing-ek24ds` (merged), `claude/research-forza-horizon-6` (merged), `claude/research-crimson-desert` (closed).
+- No errors in state.json.
+- Note: the coordinator's own schedule is `9 * * * *` while the researcher fires at `7 3 * * *`, so the 03:09 UTC coordinator check will run about two minutes after the researcher starts and may catch it mid-run. The 04:09 UTC check should see the finished PR.
+
+**Next game in queue:** `cyberpunk-2077` — Cyberpunk 2077 (2020, evidence 3, route original), expected from the 03:07 UTC researcher run as a PR from `claude/research-cyberpunk-2077`. Then `red-dead-redemption-2` (2018), `grand-theft-auto-v` (2013), `elder-scrolls-skyrim` (2011, cc-by-sa). At one game per daily run, the queue finishes 2026-10-22 unless more manual batches land.
+
+---
+
 ## 2026-10-19 01:10 UTC
 
 **Year / queue:** currentYear = 2020 on `main`. state.json (last updated 2026-10-18 22:11 UTC) unchanged: 4 queued, 0 in progress, 16 done, 0 errors. `yearsCompleted` still empty (cosmetic).
