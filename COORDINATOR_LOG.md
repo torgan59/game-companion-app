@@ -5,6 +5,43 @@ Tracks the 20-game research queue in `research/state.json` and files landing in 
 
 ---
 
+## 2026-10-19 15:10 UTC
+
+**Year / queue:** currentYear = 2020 on `main`. state.json on `main` (last updated 2026-10-18 22:11 UTC) unchanged: 4 queued, 0 in progress, 16 done, 0 errors. Two open PRs now carry newer state.json files: PR #6 (17 done / 3 queued, `cyberpunk-2077` done) and **new PR #7** (21 done / 15 queued / 4 skipped out of a 40-game queue, currentYear reset to 2026). `yearsCompleted` still empty on all three (cosmetic).
+
+**Progress:** 16/20 games merged to `main`. Counting the two open PRs, all 20 original games are researched (17 in #6, plus RDR2, GTA V and Skyrim in #7). PR #7 also adds 2 extra games (Marvel's Wolverine, Blood of Dawnwalker) and grows the queue to 40, so the target becomes 21/40 once both PRs merge.
+
+**Latest commits (origin/main):**
+- `9a54323` Coordinator log: 14:10 check (coordinator, 14:12 UTC)
+- `00616ce` Coordinator log: 13:10 check (coordinator, 13:12 UTC)
+- `e06decd` Coordinator log: 12:10 check (coordinator, 12:15 UTC)
+- `8e530da` Coordinator log: 11:10 check (coordinator, 11:13 UTC)
+- `33bec86` Coordinator log: 10:10 check (coordinator, 10:11 UTC)
+
+No new research commits on `main`. **New this hour:** PR #7 "Research batch 4: RDR2, GTA V, Skyrim, Wolverine, Blood of Dawnwalker + 2024–2026 backlog" opened 14:22 UTC by Tim's account from a Claude session, on branch `claude/festive-turing-ek24ds` (one commit `e690754`, 6 files, +2767/-8, mergeable state clean). The 14:10 entry listed that branch as merged and safe to delete; it has since been reused for PR #7, so **do not delete it**. The `claude/research-cyberpunk-2077` branch (PR #6) is unchanged at `54998d3`.
+
+**Research files:** `research/` on `main` holds `state.json` plus the same 16 game files. No stray files, filenames match slugs. PR #7 adds `red-dead-redemption-2.json`, `grand-theft-auto-v.json`, `elder-scrolls-skyrim.json`, `marvels-wolverine.json`, `blood-of-dawnwalker.json`, all named by slug. After both PRs merge every `done` slug would have a file and every file a `done` entry; no duplicate slugs in PR #7's queue. `packs/` still does not exist (placeholder `packPath` values, expected).
+
+**Quality check:** all 16 files on `main` re-checked, PASS. PR #7's five new files checked from the branch, all PASS (`id`, `title`, `platforms`, `game.chapters`, `game.collectibles` present, `id` equals filename):
+- `red-dead-redemption-2`: 7 chapters, 51 collectibles, 3 platforms, route original.
+- `grand-theft-auto-v`: 7 chapters, 77 collectibles, 7 platforms, route original.
+- `elder-scrolls-skyrim`: 13 chapters, 75 collectibles, 8 platforms, route cc-by-sa (StrategyWiki / UESP page and quest names only, per the PR).
+- `marvels-wolverine`: 4 placeholder chapters, 0 collectibles, PS5 only (no achievement list). Same known gap as `ghost-of-yotei` and `zelda-tears-of-the-kingdom`.
+- `blood-of-dawnwalker`: 5 chapters, 46 collectibles, 3 platforms, route original.
+PR #6's `cyberpunk-2077.json` unchanged, still PASS.
+
+**Blockers / errors / stale PRs:**
+- **PR #6 and PR #7 both change `research/state.json` and will conflict with each other.** PR #7's description says to merge #6 first; its author will then merge `main` into #7 and resolve. Recommended order for Tim: merge #6, then ask the #7 session to update, then merge #7.
+- **PR #7 needs Tim's review on three points it flags itself:** (1) 14 backlog games were added with `evidence: 1` (RAWG player counts only, below the evidence rule in `docs/PLAN.md`); (2) 4 games were marked `skipped` with reasons (Saros, Elden Ring Nightreign, Dying Light: The Beast, Clair Obscur: Expedition 33), two of which PLAN.md leaves to Tim; (3) `currentYear` is reset to 2026, so after merge the daily researcher starts on the 2026 backlog (`control-resonant` first) rather than finishing older years.
+- PR #6 is still open, 12 hours old, no comments. Not stale. No check runs are configured on the repo, so there is no CI to wait on for either PR.
+- Merge PR #6 before the 2026-10-20 03:07 UTC researcher run, or the researcher re-picks `cyberpunk-2077` from main's stale state.json. If PR #7 also merges before then, the researcher instead picks the first queued 2026 game.
+- Stale branches still safe to delete on origin: `claude/research-forza-horizon-6` (merged), `claude/research-crimson-desert` (closed). `claude/festive-turing-ek24ds` is now live (PR #7).
+- No errors in state.json on `main` or either PR branch.
+
+**Next game in queue:** on `main` today, `red-dead-redemption-2` (now covered by PR #7). After both PRs merge: `control-resonant` — Control Resonant (2026, evidence 1, route original), then `assassins-creed-black-flag-resynced`, `onimusha-way-of-the-sword`, `nioh-3`, `grand-theft-auto-vi` (held until its 2026-11-19 release). 15 queued games at one per daily run is about 15 days.
+
+---
+
 ## 2026-10-19 14:10 UTC
 
 **Year / queue:** currentYear = 2020 on `main`. state.json on `main` (last updated 2026-10-18 22:11 UTC) unchanged: 4 queued, 0 in progress, 16 done, 0 errors. PR #6 branch still carries the updated state.json with `cyberpunk-2077` marked `done` (3 queued, 17 done, 0 errors). `yearsCompleted` still empty (cosmetic).
