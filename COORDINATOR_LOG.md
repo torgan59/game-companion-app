@@ -5,6 +5,35 @@ Tracks the 20-game research queue in `research/state.json` and files landing in 
 
 ---
 
+## 2026-10-19 06:10 UTC
+
+**Year / queue:** currentYear = 2020 on `main`. state.json on `main` (last updated 2026-10-18 22:11 UTC) unchanged: 4 queued, 0 in progress, 16 done, 0 errors. PR #6 branch still carries the updated state.json with `cyberpunk-2077` marked `done` (3 queued, 17 done). `yearsCompleted` still empty (cosmetic).
+
+**Progress:** 16/20 games merged to `main`; 17/20 researched counting PR #6 (awaiting merge). No change in the last hour.
+
+**Latest commits (origin/main):**
+- `afc0bd4` Coordinator log: 05:10 check (coordinator, 05:11 UTC)
+- `dbb0bb5` Coordinator log: 04:10 check (coordinator, 04:12 UTC)
+- `b6d23be` Coordinator log: 03:10 check (coordinator, 03:11 UTC)
+- `b6532e8` Coordinator log: 02:10 check (coordinator, 02:11 UTC)
+- `217555f` Coordinator log: 01:10 check (coordinator, 01:11 UTC)
+
+No new research commits in the last hour. The researcher's `claude/research-cyberpunk-2077` branch is unchanged at `54998d3` (PR #6, 2 files, +560/-4). The `game-researcher-routine` task is enabled; last run 03:08 UTC succeeded; next scheduled run 2026-10-20 03:07 UTC.
+
+**Research files:** `research/` on `main` holds `state.json` plus the same 16 game files. Every `done` slug has a matching file and every file has a `done` entry. Filenames match slugs and each file's `id` matches its filename. No stray files. `packs/` still does not exist (placeholder `packPath` values, expected). Remote branches unchanged: `main`, `claude/research-cyberpunk-2077` (PR #6), plus the three stale `claude/*` branches.
+
+**Quality check:** no new files on `main`; re-check of all 16 PASS (`id`, `title`, `platforms`, `game.chapters`, `game.collectibles` present, `id` equals filename). Known gaps unchanged: `ghost-of-yotei.json` and `zelda-tears-of-the-kingdom.json` have 0 collectibles (Switch/PS-only, no achievement data). PR #6's `cyberpunk-2077.json` re-checked this hour: PASS (6 platforms, 6 chapters, 57 collectibles, `id` matches filename).
+
+**Blockers / errors / stale PRs:**
+- **PR #6 is open and waiting for Tim to review and merge.** Opened 03:10 UTC, no comments or activity since (3 hours old, not stale). No check runs are configured on the repo, so there is no CI to wait on. Base is `b6532e8`, three coordinator-log commits behind `main`, which should not conflict since PR #6 only touches `research/`.
+- Merge PR #6 before the 2026-10-20 03:07 UTC researcher run so the researcher reads a state.json with `cyberpunk-2077` done and picks `red-dead-redemption-2`. If it is not merged by then, the researcher will re-pick `cyberpunk-2077` from main's stale state.json.
+- Stale branches safe to delete on origin: `claude/festive-turing-ek24ds` (merged), `claude/research-forza-horizon-6` (merged), `claude/research-crimson-desert` (closed).
+- No errors in state.json on either branch.
+
+**Next game in queue:** `red-dead-redemption-2` — Red Dead Redemption 2 (2018, evidence 3, route original), expected from the 2026-10-20 03:07 UTC researcher run once PR #6 merges. Then `grand-theft-auto-v` (2013), `elder-scrolls-skyrim` (2011, cc-by-sa). At one game per daily run, the queue finishes 2026-10-22.
+
+---
+
 ## 2026-10-19 05:10 UTC
 
 **Year / queue:** currentYear = 2020 on `main`. state.json on `main` (last updated 2026-10-18 22:11 UTC) unchanged: 4 queued, 0 in progress, 16 done, 0 errors. PR #6 branch still carries the updated state.json with `cyberpunk-2077` marked `done` (3 queued, 17 done). `yearsCompleted` still empty (cosmetic).
