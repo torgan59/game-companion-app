@@ -5,6 +5,39 @@ Tracks the 20-game research queue in `research/state.json` and files landing in 
 
 ---
 
+## 2026-10-19 03:10 UTC
+
+**Year / queue:** currentYear = 2020 on `main`. On `main`, state.json (last updated 2026-10-18 22:11 UTC) is unchanged: 4 queued, 0 in progress, 16 done, 0 errors. On the open PR #6 branch, state.json is updated (2026-10-19 03:10 UTC) with `cyberpunk-2077` marked `done`: 3 queued, 0 in progress, 17 done, 0 errors. Main catches up when PR #6 merges. `yearsCompleted` still empty (cosmetic).
+
+**Progress:** 16/20 games merged to `main`; 17/20 researched counting PR #6 (awaiting merge).
+
+**Latest commits:**
+- `54998d3` Research: Cyberpunk 2077 metadata, achievements, wiki structure (Claude, 03:10 UTC, branch `claude/research-cyberpunk-2077`, PR #6)
+- `fb971a1` Claim: Cyberpunk 2077 research in progress (Claude, 03:08 UTC, same branch)
+- `b6532e8` Coordinator log: 02:10 check (coordinator, 02:11 UTC, `main`)
+- `217555f` Coordinator log: 01:10 check (coordinator, 01:11 UTC, `main`)
+- `029ca2e` Coordinator log: 00:10 check (coordinator, 00:11 UTC, `main`)
+
+**The daily researcher run worked.** `game-researcher-routine` fired 03:08 UTC, finished 03:10 UTC (about 2 minutes, status succeeded), pushed branch `claude/research-cyberpunk-2077` and opened **PR #6** (2 files, +560/-4, mergeable state clean, no conflicts). Next scheduled researcher run: 2026-10-20 03:07 UTC.
+
+**Research files:** `research/` on `main` holds `state.json` plus the same 16 game files, no change. PR #6 adds `research/cyberpunk-2077.json` (555 lines) and updates `research/state.json`. Filename matches the slug and the file's `id` matches its filename. No stray files. `packs/` still does not exist (placeholder `packPath`, expected). Remote branches: `main`, the new `claude/research-cyberpunk-2077`, plus the three stale `claude/*` branches.
+
+**Quality check (research/cyberpunk-2077.json, from PR #6):** PASS.
+- `id` = cyberpunk-2077, `title` = Cyberpunk 2077, `platforms` = PC, PS4, PS5, Xbox One, Xbox Series S/X, Switch. `released`, `developers`, `tags`, `year`, `route` (original) all present.
+- `game` object present with 6 chapters (Prologue and Life Path; Act 1; Act 2; Act 3 and Endings; Phantom Liberty DLC; Side Jobs, Gigs and Collections), each with id, title, summary, steps; 57 collectibles (kind `trophy`, each with id, name, kind, chapterId, where).
+- RAWG id 41494, Steam app 1091500, achievements summary total 57 / hidden 21 with 8 examples. Wiki structure recorded for StrategyWiki, UESP and Fandom. Attribution lists RAWG, Steam, StrategyWiki (CC BY-SA 4.0) and Fandom (CC BY-SA), structure only.
+- Caveat from the researcher: StrategyWiki has only stubs, so the chapter skeleton is estimated from the game's acts; 21 of 57 achievements are hidden or undescribed, so some collectible entries will need original text.
+
+**Blockers / errors / stale PRs:**
+- **PR #6 is open and waiting for Tim to review and merge.** Opened 03:10 UTC, clean, not stale.
+- Merge PR #6 before the 2026-10-20 03:07 UTC researcher run. If it is still open then, the researcher reads main's stale state.json and re-picks `cyberpunk-2077` (the duplicate-skip fix from PR #5 should catch the existing branch, but merging first avoids relying on it).
+- Stale branches safe to delete on origin: `claude/festive-turing-ek24ds` (merged), `claude/research-forza-horizon-6` (merged), `claude/research-crimson-desert` (closed).
+- No errors in state.json on either branch.
+
+**Next game in queue:** `red-dead-redemption-2` — Red Dead Redemption 2 (2018, evidence 3, route original), expected from the 2026-10-20 03:07 UTC researcher run once PR #6 merges. Then `grand-theft-auto-v` (2013), `elder-scrolls-skyrim` (2011, cc-by-sa). At one game per daily run, the queue finishes 2026-10-22.
+
+---
+
 ## 2026-10-19 02:10 UTC
 
 **Year / queue:** currentYear = 2020 on `main`. state.json (last updated 2026-10-18 22:11 UTC) unchanged: 4 queued, 0 in progress, 16 done, 0 errors. `yearsCompleted` still empty (cosmetic).
