@@ -1,0 +1,606 @@
+{
+  "id": "yakuza-like-a-dragon",
+  "title": "Yakuza: Like a Dragon",
+  "year": 2020,
+  "platforms": [
+    "PC",
+    "PlayStation 4",
+    "Xbox One",
+    "Xbox Series X|S",
+    "PlayStation 5"
+  ],
+  "rawgId": 369157,
+  "rawgSlug": "yakuza-7",
+  "released": "2020-01-16",
+  "developers": [
+    "SEGA",
+    "Ryu ga Gotoku Studio"
+  ],
+  "playtime": 17,
+  "genres": [
+    "Action",
+    "Adventure",
+    "RPG"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Full controller support",
+    "Great Soundtrack",
+    "RPG",
+    "Story Rich",
+    "Open World",
+    "Third Person",
+    "Funny",
+    "Comedy",
+    "Violent",
+    "Anime"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/a59/a5993b9f84944570a31cb6ad08bfe502.jpg",
+  "steamAppId": 1235140,
+  "achievements": {
+    "total": 63,
+    "hidden": 0,
+    "examples": [
+      {
+        "name": "For the Family",
+        "percent": 78.2
+      },
+      {
+        "name": "Rock Bottom",
+        "percent": 73.7
+      },
+      {
+        "name": "Heroes and Villains",
+        "percent": 69.7
+      },
+      {
+        "name": "Fulfiller of Dreams",
+        "percent": 9.1
+      },
+      {
+        "name": "Food for Thought",
+        "percent": 7.2
+      },
+      {
+        "name": "Honk-Honk Hero",
+        "percent": 5.9
+      },
+      {
+        "name": "Victory of the Millennium",
+        "percent": 4.4
+      },
+      {
+        "name": "The New Dragon",
+        "percent": 3.6
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Yakuza:_Like_a_Dragon",
+      "reason": "Page exists but has no written walkthrough subpages; no usable structure (completion stage not checked here, see notes)"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 78,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://yakuza.fandom.com/wiki/Yakuza:_Like_a_Dragon"
+    }
+  },
+  "game": {
+    "id": "yakuza-like-a-dragon",
+    "title": "Yakuza: Like a Dragon",
+    "platforms": [
+      "PC",
+      "PlayStation 4",
+      "Xbox One",
+      "Xbox Series X|S",
+      "PlayStation 5"
+    ],
+    "blurb": "Turn-based crime RPG starring Ichiban Kasuga, from Ryu ga Gotoku Studio (SEGA), released 2020-01-16. RAWG average playtime: 17 hours. Genres: Action, Adventure, RPG. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#B8860B",
+    "chapters": [
+      {
+        "id": "main-story",
+        "title": "The Main Story",
+        "summary": "Kasuga's story, chapter by chapter, to the final chapter. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "substories-and-bonds",
+        "title": "Substories, Bonds and Part-time Hero",
+        "summary": "Substories, party Bond Levels, Table Talk, Part-time Hero ranks, Poundmates and relationships.",
+        "steps": []
+      },
+      {
+        "id": "jobs-and-growth",
+        "title": "Levels, Jobs and Personality",
+        "summary": "Kasuga's level, personality stats, job changes and job ranks.",
+        "steps": []
+      },
+      {
+        "id": "gear-and-sujimon",
+        "title": "Gear and the Sujidex",
+        "summary": "Romance Workshop crafting, collecting gear and registering Sujimon.",
+        "steps": []
+      },
+      {
+        "id": "company",
+        "title": "Company Management",
+        "summary": "Growing Kasuga's company: capital, a new office, buyouts and the top spot in Yokohama.",
+        "steps": []
+      },
+      {
+        "id": "minigames",
+        "title": "Minigames and Pastimes",
+        "summary": "Dragon Kart, can collecting, the movie theater, vocational school certificates and other minigames.",
+        "steps": []
+      },
+      {
+        "id": "battles-and-dungeons",
+        "title": "Battles, the Arena and Dungeons",
+        "summary": "The Sotenbori Battle Arena, Premium Adventure, the Millennium Tower and odd battle moments.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "The New Dragon",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Obtained all achievements."
+      },
+      {
+        "id": "achievement-2",
+        "name": "For the Family",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Completed Chapter 1."
+      },
+      {
+        "id": "achievement-3",
+        "name": "Rock Bottom",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Completed Chapter 2."
+      },
+      {
+        "id": "achievement-4",
+        "name": "Heroes and Villains",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Completed Chapter 3."
+      },
+      {
+        "id": "achievement-5",
+        "name": "Soap on a Rope",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Completed Chapter 4."
+      },
+      {
+        "id": "achievement-6",
+        "name": "Smoked",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Completed Chapter 5."
+      },
+      {
+        "id": "achievement-7",
+        "name": "Ignition",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Completed Chapter 6."
+      },
+      {
+        "id": "achievement-8",
+        "name": "Three Spiders",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Completed Chapter 7."
+      },
+      {
+        "id": "achievement-9",
+        "name": "The Statesman",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Completed Chapter 8."
+      },
+      {
+        "id": "achievement-10",
+        "name": "Time to Talk",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Completed Chapter 9."
+      },
+      {
+        "id": "achievement-11",
+        "name": "Illuminations",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Completed Chapter 10."
+      },
+      {
+        "id": "achievement-12",
+        "name": "The Dragon Stirs",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Completed Chapter 11."
+      },
+      {
+        "id": "achievement-13",
+        "name": "End of an Era",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Completed Chapter 12."
+      },
+      {
+        "id": "achievement-14",
+        "name": "Fate of Our Fathers",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Completed Chapter 13."
+      },
+      {
+        "id": "achievement-15",
+        "name": "The Torch is Passed",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Completed Chapter 14."
+      },
+      {
+        "id": "achievement-16",
+        "name": "Thank You",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Completed the final chapter."
+      },
+      {
+        "id": "achievement-17",
+        "name": "Stories to Tell",
+        "kind": "trophy",
+        "chapterId": "substories-and-bonds",
+        "where": "Completed 10 substories."
+      },
+      {
+        "id": "achievement-18",
+        "name": "Stories to Live",
+        "kind": "trophy",
+        "chapterId": "substories-and-bonds",
+        "where": "Completed 20 substories."
+      },
+      {
+        "id": "achievement-19",
+        "name": "Stories of the Streets",
+        "kind": "trophy",
+        "chapterId": "substories-and-bonds",
+        "where": "Completed 40 substories."
+      },
+      {
+        "id": "achievement-20",
+        "name": "Friends in Low Places",
+        "kind": "trophy",
+        "chapterId": "substories-and-bonds",
+        "where": "Maxed Nanba's Bond Level."
+      },
+      {
+        "id": "achievement-21",
+        "name": "Friends on the Force",
+        "kind": "trophy",
+        "chapterId": "substories-and-bonds",
+        "where": "Maxed Adachi's Bond Level."
+      },
+      {
+        "id": "achievement-22",
+        "name": "Friends Like Sisters",
+        "kind": "trophy",
+        "chapterId": "substories-and-bonds",
+        "where": "Maxed Saeko's Bond Level."
+      },
+      {
+        "id": "achievement-23",
+        "name": "Friends With Familiar Faces",
+        "kind": "trophy",
+        "chapterId": "substories-and-bonds",
+        "where": "Maxed Joon-gi Han's Bond Level."
+      },
+      {
+        "id": "achievement-24",
+        "name": "Friends in the Gang",
+        "kind": "trophy",
+        "chapterId": "substories-and-bonds",
+        "where": "Maxed Zhao's Bond Level."
+      },
+      {
+        "id": "achievement-25",
+        "name": "Friends From Work",
+        "kind": "trophy",
+        "chapterId": "substories-and-bonds",
+        "where": "Maxed Eri's Bond Level."
+      },
+      {
+        "id": "achievement-26",
+        "name": "Food for Thought",
+        "kind": "trophy",
+        "chapterId": "substories-and-bonds",
+        "where": "Viewed more than 20 Table Talk scenes."
+      },
+      {
+        "id": "achievement-27",
+        "name": "A New Legend",
+        "kind": "trophy",
+        "chapterId": "substories-and-bonds",
+        "where": "Raised Part-time Hero Member Rank to Senior Hero."
+      },
+      {
+        "id": "achievement-28",
+        "name": "A New Hero",
+        "kind": "trophy",
+        "chapterId": "substories-and-bonds",
+        "where": "Raised Part-time Hero Member Rank to Executive Hero."
+      },
+      {
+        "id": "achievement-29",
+        "name": "Awakening Dragon",
+        "kind": "trophy",
+        "chapterId": "jobs-and-growth",
+        "where": "Reached level 10 with Kasuga."
+      },
+      {
+        "id": "achievement-30",
+        "name": "Rising Dragon",
+        "kind": "trophy",
+        "chapterId": "jobs-and-growth",
+        "where": "Reached level 30 with Kasuga."
+      },
+      {
+        "id": "achievement-31",
+        "name": "Like a Dragon",
+        "kind": "trophy",
+        "chapterId": "jobs-and-growth",
+        "where": "Reached level 50 with Kasuga."
+      },
+      {
+        "id": "achievement-32",
+        "name": "Ryu Ga Gotoku",
+        "kind": "trophy",
+        "chapterId": "jobs-and-growth",
+        "where": "Reached level 70 with Kasuga."
+      },
+      {
+        "id": "achievement-33",
+        "name": "Sound Character",
+        "kind": "trophy",
+        "chapterId": "jobs-and-growth",
+        "where": "Raised one of Kasuga's personality stats to max."
+      },
+      {
+        "id": "achievement-34",
+        "name": "Super Human",
+        "kind": "trophy",
+        "chapterId": "jobs-and-growth",
+        "where": "Raised all of Kasuga's personality stats to max."
+      },
+      {
+        "id": "achievement-35",
+        "name": "Job Hopper",
+        "kind": "trophy",
+        "chapterId": "jobs-and-growth",
+        "where": "Changed Kasuga to three different jobs other than his starting job."
+      },
+      {
+        "id": "achievement-36",
+        "name": "Life Experiences",
+        "kind": "trophy",
+        "chapterId": "jobs-and-growth",
+        "where": "Changed Kasuga to eight different jobs other than his starting job."
+      },
+      {
+        "id": "achievement-37",
+        "name": "Career Counseling",
+        "kind": "trophy",
+        "chapterId": "jobs-and-growth",
+        "where": "Changed all four party members to jobs different from their default jobs and won a battle."
+      },
+      {
+        "id": "achievement-38",
+        "name": "Professional",
+        "kind": "trophy",
+        "chapterId": "jobs-and-growth",
+        "where": "Raised 1 job's rank to max."
+      },
+      {
+        "id": "achievement-39",
+        "name": "Master of Trades",
+        "kind": "trophy",
+        "chapterId": "jobs-and-growth",
+        "where": "Raised 3 jobs' ranks to max."
+      },
+      {
+        "id": "achievement-40",
+        "name": "Jack of All Trades",
+        "kind": "trophy",
+        "chapterId": "jobs-and-growth",
+        "where": "Raised 7 jobs' ranks to max."
+      },
+      {
+        "id": "achievement-41",
+        "name": "Romance of the 10 Pieces",
+        "kind": "trophy",
+        "chapterId": "gear-and-sujimon",
+        "where": "Made 10 pieces of gear at Romance Workshop."
+      },
+      {
+        "id": "achievement-42",
+        "name": "Romancing the Forge",
+        "kind": "trophy",
+        "chapterId": "gear-and-sujimon",
+        "where": "Fully upgraded Romance Workshop's equipment."
+      },
+      {
+        "id": "achievement-43",
+        "name": "Gear Fanatic",
+        "kind": "trophy",
+        "chapterId": "gear-and-sujimon",
+        "where": "Collected over 100 pieces of gear."
+      },
+      {
+        "id": "achievement-44",
+        "name": "Gear Hoarder",
+        "kind": "trophy",
+        "chapterId": "gear-and-sujimon",
+        "where": "Collected over 200 pieces of gear."
+      },
+      {
+        "id": "achievement-45",
+        "name": "I Wanna Be the Very Best",
+        "kind": "trophy",
+        "chapterId": "gear-and-sujimon",
+        "where": "Registered over 100 Sujimon to the Sujidex."
+      },
+      {
+        "id": "achievement-46",
+        "name": "Gotta Catch 'Em All",
+        "kind": "trophy",
+        "chapterId": "gear-and-sujimon",
+        "where": "Registered over 200 Sujimon to the Sujidex."
+      },
+      {
+        "id": "achievement-47",
+        "name": "Pound It",
+        "kind": "trophy",
+        "chapterId": "substories-and-bonds",
+        "where": "Called for Poundmates 30 times."
+      },
+      {
+        "id": "achievement-48",
+        "name": "Heir to the Legend",
+        "kind": "trophy",
+        "chapterId": "battles-and-dungeons",
+        "where": "Beat the Sotenbori Battle Arena."
+      },
+      {
+        "id": "achievement-49",
+        "name": "Fulfiller of Dreams",
+        "kind": "trophy",
+        "chapterId": "battles-and-dungeons",
+        "where": "Completed the last dungeon in Premium Adventure."
+      },
+      {
+        "id": "achievement-50",
+        "name": "Make That Money",
+        "kind": "trophy",
+        "chapterId": "company",
+        "where": "Exceed 10 billion yen in capital for Kasuga's company."
+      },
+      {
+        "id": "achievement-51",
+        "name": "New Digs!",
+        "kind": "trophy",
+        "chapterId": "company",
+        "where": "Moved Kasuga's company into a new office."
+      },
+      {
+        "id": "achievement-52",
+        "name": "Presidential Power",
+        "kind": "trophy",
+        "chapterId": "company",
+        "where": "Raised Kasuga's company into the top company in Yokohama."
+      },
+      {
+        "id": "achievement-53",
+        "name": "Aggressive Executive",
+        "kind": "trophy",
+        "chapterId": "company",
+        "where": "Bought up over 10 companies."
+      },
+      {
+        "id": "achievement-54",
+        "name": "Man About Town",
+        "kind": "trophy",
+        "chapterId": "minigames",
+        "where": "Played over 10 minigames."
+      },
+      {
+        "id": "achievement-55",
+        "name": "Certified Genius",
+        "kind": "trophy",
+        "chapterId": "minigames",
+        "where": "Obtained over 10 certificates from the vocational school."
+      },
+      {
+        "id": "achievement-56",
+        "name": "Pop the Cork",
+        "kind": "trophy",
+        "chapterId": "minigames",
+        "where": "Beat all Dragon Kart cups and rival races."
+      },
+      {
+        "id": "achievement-57",
+        "name": "Can Quest Hero",
+        "kind": "trophy",
+        "chapterId": "minigames",
+        "where": "Beat all the can-collecting courses."
+      },
+      {
+        "id": "achievement-58",
+        "name": "Sleep Sheep Slapper",
+        "kind": "trophy",
+        "chapterId": "minigames",
+        "where": "Watched all the movies at the theater without falling asleep."
+      },
+      {
+        "id": "achievement-59",
+        "name": "Playing With Fire",
+        "kind": "trophy",
+        "chapterId": "substories-and-bonds",
+        "where": "Entered into intimate relationships with over two female characters."
+      },
+      {
+        "id": "achievement-60",
+        "name": "Honk-Honk Hero",
+        "kind": "trophy",
+        "chapterId": "substories-and-bonds",
+        "where": "Found all the people who will give you a honk-honk."
+      },
+      {
+        "id": "achievement-61",
+        "name": "Fight on the Sidewalk!",
+        "kind": "trophy",
+        "chapterId": "battles-and-dungeons",
+        "where": "Someone got run over by a car in battle."
+      },
+      {
+        "id": "achievement-62",
+        "name": "Treasure Displeasure",
+        "kind": "trophy",
+        "chapterId": "battles-and-dungeons",
+        "where": "A creep crawled out of a safe for the first time."
+      },
+      {
+        "id": "achievement-63",
+        "name": "Victory of the Millennium",
+        "kind": "trophy",
+        "chapterId": "battles-and-dungeons",
+        "where": "Beat the True Final Millennium Tower."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/yakuza-7",
+    "Achievement data from Steam (Steam Web API, app 1235140)",
+    "StrategyWiki: stub page only, nothing used — https://strategywiki.org/wiki/Yakuza:_Like_a_Dragon",
+    "Fandom (yakuza.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://yakuza.fandom.com/wiki/Yakuza:_Like_a_Dragon"
+  ],
+  "route": "original",
+  "notes": "Backlog game, picked from RAWG's most-added list for its year (docs/PLAN.md section 2 ordering). StrategyWiki has a stub page (completion stage 0, also tagged Stubs); its Chapter 1 to 14 and Finale walkthrough pages are linked but not written. Item, Sujimon and Challenges subpages exist, and its Table of Contents is written, but it was not added to sw-structure.json because the brief keeps that for stage 1 or higher. yakuza.fandom.com answers the API, with about 78 linked pages; names only were looked at, nothing copied. None of the 63 Steam achievements are hidden, and 15 name each story chapter plus the final chapter, so the story chapter is clean. The Steam schema has no game name."
+}

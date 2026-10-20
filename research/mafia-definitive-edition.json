@@ -1,0 +1,454 @@
+{
+  "id": "mafia-definitive-edition",
+  "title": "Mafia: Definitive Edition",
+  "year": 2020,
+  "platforms": [
+    "PC",
+    "Xbox Series X|S",
+    "Xbox One",
+    "PlayStation 4"
+  ],
+  "rawgId": 442854,
+  "rawgSlug": "mafia",
+  "released": "2020-09-25",
+  "developers": [
+    "Hangar 13"
+  ],
+  "playtime": 10,
+  "genres": [
+    "Action",
+    "Shooter"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Full controller support",
+    "Atmospheric",
+    "Story Rich",
+    "Open World",
+    "Third Person",
+    "Gore",
+    "Classic",
+    "Violent",
+    "Third-Person Shooter",
+    "Sexual Content"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/345/3452d9d4483686c602372e0e6b3bb4cc.jpg",
+  "steamAppId": 1030840,
+  "achievements": {
+    "total": 43,
+    "hidden": 1,
+    "examples": [
+      {
+        "name": "A Chase through the Night",
+        "percent": 92.4
+      },
+      {
+        "name": "The Back Streets of Little Italy",
+        "percent": 87.5
+      },
+      {
+        "name": "Family History",
+        "percent": 83.7
+      },
+      {
+        "name": "Full Set",
+        "percent": 3.2
+      },
+      {
+        "name": "Lending Library",
+        "percent": 3.0
+      },
+      {
+        "name": "Picture Book Connoisseur",
+        "percent": 3.0
+      },
+      {
+        "name": "The Whole Story",
+        "percent": 3.0
+      },
+      {
+        "name": "Mystery Fox Domination",
+        "percent": 2.9
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": false,
+      "pages": 0,
+      "reason": "No page for Mafia: Definitive Edition (MediaWiki API returned missing; search empty)"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 45,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://mafiagame.fandom.com/wiki/Mafia:_Definitive_Edition"
+    }
+  },
+  "game": {
+    "id": "mafia-definitive-edition",
+    "title": "Mafia: Definitive Edition",
+    "platforms": [
+      "PC",
+      "Xbox Series X|S",
+      "Xbox One",
+      "PlayStation 4"
+    ],
+    "blurb": "Remake of the 2002 crime action game Mafia, set in 1930s Lost Heaven, from Hangar 13, released 2020-09-25. RAWG average playtime: 10 hours. Genres: Action, Shooter. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#7A2E22",
+    "chapters": [
+      {
+        "id": "story-part-1",
+        "title": "The Story, Part 1",
+        "summary": "The first seven missions, from \"An Offer You Can't Refuse\" to \"Better Get Used to It\": a cab driver's run-in with the mob.",
+        "steps": []
+      },
+      {
+        "id": "story-part-2",
+        "title": "The Story, Part 2",
+        "summary": "Missions eight to fourteen, from \"The Saint and the Sinner\" to \"Happy Birthday\". Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "story-part-3",
+        "title": "The Story, Part 3",
+        "summary": "The last six missions, from \"You Lucky ...\" to \"The Death of Art\", and finishing the game. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "classic",
+        "title": "Classic Difficulty",
+        "summary": "Finishing the story on Classic difficulty.",
+        "steps": []
+      },
+      {
+        "id": "driving-and-police",
+        "title": "Driving, Police and Cars",
+        "summary": "Races, police fines and chases, lockpicking, stunts and filling the garage.",
+        "steps": []
+      },
+      {
+        "id": "collectibles",
+        "title": "Collectibles",
+        "summary": "Pulp magazines, Gangsters Monthly, cigarette cards, hidden cars, Mystery Foxes and the full Collection.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "A Chase through the Night",
+        "kind": "trophy",
+        "chapterId": "story-part-1",
+        "where": "Completed \"An Offer You Can't Refuse\""
+      },
+      {
+        "id": "achievement-2",
+        "name": "The Back Streets of Little Italy",
+        "kind": "trophy",
+        "chapterId": "story-part-1",
+        "where": "Completed \"Running Man\""
+      },
+      {
+        "id": "achievement-3",
+        "name": "The Way this City Works",
+        "kind": "trophy",
+        "chapterId": "story-part-1",
+        "where": "Completed \"Molotov Party\""
+      },
+      {
+        "id": "achievement-4",
+        "name": "Gangs of Lost Heaven",
+        "kind": "trophy",
+        "chapterId": "story-part-1",
+        "where": "Completed \"Ordinary Routine\""
+      },
+      {
+        "id": "achievement-5",
+        "name": "Neighborhood Hero",
+        "kind": "trophy",
+        "chapterId": "story-part-1",
+        "where": "Completed \"Fair Play\""
+      },
+      {
+        "id": "achievement-6",
+        "name": "Good Night for a Walk Anyways",
+        "kind": "trophy",
+        "chapterId": "story-part-1",
+        "where": "Completed \"Sarah\""
+      },
+      {
+        "id": "achievement-7",
+        "name": "Storm Cloud over Chinatown",
+        "kind": "trophy",
+        "chapterId": "story-part-1",
+        "where": "Completed \"Better Get Used to It\""
+      },
+      {
+        "id": "achievement-8",
+        "name": "Murder in the House of God",
+        "kind": "trophy",
+        "chapterId": "story-part-2",
+        "where": "Completed \"The Saint and the Sinner\""
+      },
+      {
+        "id": "achievement-9",
+        "name": "Your Canuck Cousins",
+        "kind": "trophy",
+        "chapterId": "story-part-2",
+        "where": "Completed \"A Trip to the Country\""
+      },
+      {
+        "id": "achievement-10",
+        "name": "Rat in the House",
+        "kind": "trophy",
+        "chapterId": "story-part-2",
+        "where": "Completed \"Omerta\""
+      },
+      {
+        "id": "achievement-11",
+        "name": "Blood on Beech Hill",
+        "kind": "trophy",
+        "chapterId": "story-part-2",
+        "where": "Completed \"Visiting Rich People\""
+      },
+      {
+        "id": "achievement-12",
+        "name": "Best Laid Plans",
+        "kind": "trophy",
+        "chapterId": "story-part-2",
+        "where": "Completed \"Great Deal\""
+      },
+      {
+        "id": "achievement-13",
+        "name": "The Day the War Began",
+        "kind": "trophy",
+        "chapterId": "story-part-2",
+        "where": "Completed \"Bon Appétit\""
+      },
+      {
+        "id": "achievement-14",
+        "name": "Death on the Water",
+        "kind": "trophy",
+        "chapterId": "story-part-2",
+        "where": "Completed \"Happy Birthday\""
+      },
+      {
+        "id": "achievement-15",
+        "name": "When God Stops Smiling",
+        "kind": "trophy",
+        "chapterId": "story-part-3",
+        "where": "Completed \"You Lucky ...\""
+      },
+      {
+        "id": "achievement-16",
+        "name": "The Day the War Ended",
+        "kind": "trophy",
+        "chapterId": "story-part-3",
+        "where": "Completed \"Crème de la Crème\""
+      },
+      {
+        "id": "achievement-17",
+        "name": "A View from the Top",
+        "kind": "trophy",
+        "chapterId": "story-part-3",
+        "where": "Completed \"Election Campaign\""
+      },
+      {
+        "id": "achievement-18",
+        "name": "Into the Lion's Den",
+        "kind": "trophy",
+        "chapterId": "story-part-3",
+        "where": "Completed \"Just For Relaxation\""
+      },
+      {
+        "id": "achievement-19",
+        "name": "That Last Big Score",
+        "kind": "trophy",
+        "chapterId": "story-part-3",
+        "where": "Completed \"Moonlighting\""
+      },
+      {
+        "id": "achievement-20",
+        "name": "Friends and Family",
+        "kind": "trophy",
+        "chapterId": "story-part-3",
+        "where": "Completed \"The Death of Art\""
+      },
+      {
+        "id": "achievement-21",
+        "name": "A Life of Crime",
+        "kind": "trophy",
+        "chapterId": "story-part-3",
+        "where": "Completed the game on Easy, Medium, or Hard difficulty"
+      },
+      {
+        "id": "achievement-22",
+        "name": "Supercharged",
+        "kind": "trophy",
+        "chapterId": "driving-and-police",
+        "where": "Won the race"
+      },
+      {
+        "id": "achievement-23",
+        "name": "Lined Pockets",
+        "kind": "trophy",
+        "chapterId": "driving-and-police",
+        "where": "Paid a fine to the Lost Heaven Police Department"
+      },
+      {
+        "id": "achievement-24",
+        "name": "Not Taken In",
+        "kind": "trophy",
+        "chapterId": "driving-and-police",
+        "where": "Resisted arrest by the Lost Heaven Police Department"
+      },
+      {
+        "id": "achievement-25",
+        "name": "Heat from the Cops",
+        "kind": "trophy",
+        "chapterId": "driving-and-police",
+        "where": "Lost the cops after accruing a five star police chase"
+      },
+      {
+        "id": "achievement-26",
+        "name": "Car Enthusiast",
+        "kind": "trophy",
+        "chapterId": "driving-and-police",
+        "where": "Lockpicked 5 cars on the streets of Lost Heaven and environs"
+      },
+      {
+        "id": "achievement-27",
+        "name": "That Motor can Move",
+        "kind": "trophy",
+        "chapterId": "driving-and-police",
+        "where": "Reached 50mph while driving the Bolt Ace"
+      },
+      {
+        "id": "achievement-28",
+        "name": "Stunt Rider",
+        "kind": "trophy",
+        "chapterId": "driving-and-police",
+        "where": "Performed a wheelie for 3 seconds"
+      },
+      {
+        "id": "achievement-29",
+        "name": "Quite the Collection",
+        "kind": "trophy",
+        "chapterId": "driving-and-police",
+        "where": "Collected 15 vehicles in the Garage"
+      },
+      {
+        "id": "achievement-30",
+        "name": "Motor Museum",
+        "kind": "trophy",
+        "chapterId": "driving-and-police",
+        "where": "Collected 30 vehicles in the Garage"
+      },
+      {
+        "id": "achievement-31",
+        "name": "Pulp Fiction",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Found a Pulp Magazine"
+      },
+      {
+        "id": "achievement-32",
+        "name": "Lending Library",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Found all Pulp Magazines"
+      },
+      {
+        "id": "achievement-33",
+        "name": "Comic Violence",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Found a copy of Gangsters Monthly"
+      },
+      {
+        "id": "achievement-34",
+        "name": "Picture Book Connoisseur",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Found all copies of Gangsters Monthly"
+      },
+      {
+        "id": "achievement-35",
+        "name": "Family History",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Found a 'Gangsters of the United States' cigarette card"
+      },
+      {
+        "id": "achievement-36",
+        "name": "Full Set",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Found all 'Gangsters of the United States' cigarette cards"
+      },
+      {
+        "id": "achievement-37",
+        "name": "On the Trail",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Found a hidden car"
+      },
+      {
+        "id": "achievement-38",
+        "name": "Car Thief Number One",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Found all of the hidden cars"
+      },
+      {
+        "id": "achievement-39",
+        "name": "Mystery Fox Discovered",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Found a Mystery Fox"
+      },
+      {
+        "id": "achievement-40",
+        "name": "Mystery Fox Domination",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Found all Mystery Foxes"
+      },
+      {
+        "id": "achievement-41",
+        "name": "The Whole Story",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Completed the Collection"
+      },
+      {
+        "id": "achievement-42",
+        "name": "Not Classy",
+        "kind": "trophy",
+        "chapterId": "driving-and-police",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-43",
+        "name": "Made Man",
+        "kind": "trophy",
+        "chapterId": "classic",
+        "where": "Completed the game on Classic difficulty"
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/mafia",
+    "Achievement data from Steam (Steam Web API, app 1030840)",
+    "StrategyWiki: no page for this game, nothing used",
+    "Fandom (mafiagame.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://mafiagame.fandom.com/wiki/Mafia:_Definitive_Edition"
+  ],
+  "route": "original",
+  "notes": "Backlog game, picked from RAWG's most-added list for its year (docs/PLAN.md section 2 ordering). No StrategyWiki page under \"Mafia: Definitive Edition\" or \"Mafia (2020)\". mafiagame.fandom.com answers the API, with about 45 linked pages; names only were looked at, nothing copied. 1 of 43 Steam achievements is hidden (\"Not Classy\", 5.9 percent); since every story mission has its own visible achievement, it is unlikely to be a story beat and was put in the driving chapter as a placeholder, which needs checking. The 20 mission achievements name each mission in their descriptions, so the story was split into three parts by mission order (7, 7 and 6 missions); the split points are an arbitrary choice, not act breaks from any source."
+}

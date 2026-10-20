@@ -1,0 +1,551 @@
+{
+  "id": "devil-may-cry-5",
+  "title": "Devil May Cry 5",
+  "year": 2019,
+  "platforms": [
+    "PlayStation 5",
+    "Xbox One",
+    "PC",
+    "PlayStation 4"
+  ],
+  "rawgId": 58755,
+  "rawgSlug": "devil-may-cry-5",
+  "released": "2019-03-08",
+  "developers": [
+    "Capcom"
+  ],
+  "playtime": 9,
+  "genres": [
+    "Action"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Full controller support",
+    "Atmospheric",
+    "Great Soundtrack",
+    "Online Co-Op",
+    "Violent",
+    "Online multiplayer",
+    "Action-Adventure",
+    "Anime",
+    "Nudity",
+    "Hack and Slash"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/9fb/9fbf956a16249def7625ab5dc3d09515.jpg",
+  "steamAppId": 601150,
+  "achievements": {
+    "total": 55,
+    "hidden": 0,
+    "examples": [
+      {
+        "name": "Fall from Grace",
+        "percent": 86.5
+      },
+      {
+        "name": "Not Too Shabby",
+        "percent": 69.7
+      },
+      {
+        "name": "Steppin' up the Style",
+        "percent": 57.8
+      },
+      {
+        "name": "Who Needs Weapons Anyway?",
+        "percent": 1.9
+      },
+      {
+        "name": "Rest in Peace",
+        "percent": 1.7
+      },
+      {
+        "name": "Stairway to Heaven",
+        "percent": 1.6
+      },
+      {
+        "name": "Highway to Hell",
+        "percent": 1.2
+      },
+      {
+        "name": "Worthy of Legend",
+        "percent": 1.1
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Devil_May_Cry_5",
+      "reason": "Page exists but has no written walkthrough subpages; no usable structure (completion stage not checked here, see notes)"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 284,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://devilmaycry.fandom.com/wiki/Devil_May_Cry_5"
+    }
+  },
+  "game": {
+    "id": "devil-may-cry-5",
+    "title": "Devil May Cry 5",
+    "platforms": [
+      "PlayStation 5",
+      "Xbox One",
+      "PC",
+      "PlayStation 4"
+    ],
+    "blurb": "Stylish action game from Capcom, released 2019-03-08. RAWG average playtime: 9 hours. Genre: Action. Chapters are an estimate drawn from Steam achievement themes, which name each mission.",
+    "accent": "#6A1B9A",
+    "chapters": [
+      {
+        "id": "missions-01-07",
+        "title": "Prologue and Missions 1 to 7",
+        "summary": "The opening missions in Red Grave City.",
+        "steps": []
+      },
+      {
+        "id": "missions-08-13",
+        "title": "Missions 8 to 13",
+        "summary": "The middle missions, as the three hunters close in.",
+        "steps": []
+      },
+      {
+        "id": "missions-14-20",
+        "title": "Missions 14 to 20 and After",
+        "summary": "The final missions and the job that follows. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "difficulty",
+        "title": "Difficulty Modes",
+        "summary": "Finishing the game on Human through Hell and Hell.",
+        "steps": []
+      },
+      {
+        "id": "ranks-and-secrets",
+        "title": "S Ranks and Secret Missions",
+        "summary": "S rank on every mission and every secret mission.",
+        "steps": []
+      },
+      {
+        "id": "style-and-skills",
+        "title": "Style, Skills and Upgrades",
+        "summary": "Stylish combos, skills for each hunter, gauges, Red Orbs and Devil Breakers.",
+        "steps": []
+      },
+      {
+        "id": "bloody-palace",
+        "title": "Bloody Palace",
+        "summary": "Clearing the Bloody Palace with each playable hunter.",
+        "steps": []
+      },
+      {
+        "id": "vergil",
+        "title": "Playing as Vergil",
+        "summary": "Clearing the missions as Vergil and learning his skills.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Let's Rock!",
+        "kind": "trophy",
+        "chapterId": "difficulty",
+        "where": "Complete the game on Human mode."
+      },
+      {
+        "id": "achievement-2",
+        "name": "Showtime!",
+        "kind": "trophy",
+        "chapterId": "difficulty",
+        "where": "Complete the game on Devil Hunter mode."
+      },
+      {
+        "id": "achievement-3",
+        "name": "Doing Daddy Proud",
+        "kind": "trophy",
+        "chapterId": "difficulty",
+        "where": "Complete the game on Son of Sparda mode."
+      },
+      {
+        "id": "achievement-4",
+        "name": "Dance with the Devil",
+        "kind": "trophy",
+        "chapterId": "difficulty",
+        "where": "Complete the game on Dante Must Die mode."
+      },
+      {
+        "id": "achievement-5",
+        "name": "Stairway to Heaven",
+        "kind": "trophy",
+        "chapterId": "difficulty",
+        "where": "Complete the game on Heaven or Hell mode."
+      },
+      {
+        "id": "achievement-6",
+        "name": "Highway to Hell",
+        "kind": "trophy",
+        "chapterId": "difficulty",
+        "where": "Complete the game on Hell and Hell mode."
+      },
+      {
+        "id": "achievement-7",
+        "name": "Fall from Grace",
+        "kind": "trophy",
+        "chapterId": "missions-01-07",
+        "where": "Clear the Prologue Mission."
+      },
+      {
+        "id": "achievement-8",
+        "name": "Protect the People",
+        "kind": "trophy",
+        "chapterId": "missions-01-07",
+        "where": "Defeat all enemies in Mission 01."
+      },
+      {
+        "id": "achievement-9",
+        "name": "Where the Red Orbs Grow",
+        "kind": "trophy",
+        "chapterId": "missions-01-07",
+        "where": "Collected Red Orbs from an unexpected spot in Mission 02."
+      },
+      {
+        "id": "achievement-10",
+        "name": "Reunion",
+        "kind": "trophy",
+        "chapterId": "missions-01-07",
+        "where": "Clear Mission 03."
+      },
+      {
+        "id": "achievement-11",
+        "name": "Backroad",
+        "kind": "trophy",
+        "chapterId": "missions-01-07",
+        "where": "Destroy a certain wall in Mission 04."
+      },
+      {
+        "id": "achievement-12",
+        "name": "Break a Leg",
+        "kind": "trophy",
+        "chapterId": "missions-01-07",
+        "where": "Fend off a menace from above in Mission 05."
+      },
+      {
+        "id": "achievement-13",
+        "name": "End of the Line",
+        "kind": "trophy",
+        "chapterId": "missions-01-07",
+        "where": "Clear Mission 06."
+      },
+      {
+        "id": "achievement-14",
+        "name": "Share the Pain",
+        "kind": "trophy",
+        "chapterId": "missions-01-07",
+        "where": "Clear Mission 07 with both Nero and V."
+      },
+      {
+        "id": "achievement-15",
+        "name": "Light in the Darkness",
+        "kind": "trophy",
+        "chapterId": "missions-08-13",
+        "where": "Clear Mission 08."
+      },
+      {
+        "id": "achievement-16",
+        "name": "Eagle-Eyed",
+        "kind": "trophy",
+        "chapterId": "missions-08-13",
+        "where": "Destroy a certain wall in Mission 09."
+      },
+      {
+        "id": "achievement-17",
+        "name": "This Ain't Over",
+        "kind": "trophy",
+        "chapterId": "missions-08-13",
+        "where": "Clear Mission 10."
+      },
+      {
+        "id": "achievement-18",
+        "name": "Don't Mess with the Best",
+        "kind": "trophy",
+        "chapterId": "missions-08-13",
+        "where": "Use proper timing to get a leg up in a close-quarters battle against the boss in Mission 11."
+      },
+      {
+        "id": "achievement-19",
+        "name": "The Qliphoth",
+        "kind": "trophy",
+        "chapterId": "missions-08-13",
+        "where": "Clear Mission 12."
+      },
+      {
+        "id": "achievement-20",
+        "name": "Each In His Own Way",
+        "kind": "trophy",
+        "chapterId": "missions-08-13",
+        "where": "Clear Mission 13 with Nero, V, and Dante."
+      },
+      {
+        "id": "achievement-21",
+        "name": "Gotta Hurry",
+        "kind": "trophy",
+        "chapterId": "missions-14-20",
+        "where": "Clear Mission 14."
+      },
+      {
+        "id": "achievement-22",
+        "name": "Slick Moves",
+        "kind": "trophy",
+        "chapterId": "missions-14-20",
+        "where": "Proceed with caution and avoid unneeded damage in Mission 15."
+      },
+      {
+        "id": "achievement-23",
+        "name": "Obedience Training",
+        "kind": "trophy",
+        "chapterId": "missions-14-20",
+        "where": "Go on the offensive without relying on brute force in the Mission 16 boss battle."
+      },
+      {
+        "id": "achievement-24",
+        "name": "Back to Life",
+        "kind": "trophy",
+        "chapterId": "missions-14-20",
+        "where": "Clear Mission 17."
+      },
+      {
+        "id": "achievement-25",
+        "name": "Man on a Mission",
+        "kind": "trophy",
+        "chapterId": "missions-14-20",
+        "where": "Clear Mission 18."
+      },
+      {
+        "id": "achievement-26",
+        "name": "Battle for the Ages",
+        "kind": "trophy",
+        "chapterId": "missions-14-20",
+        "where": "Clear Missions 19 and 20 without using continues (any difficulty except Heaven or Hell)."
+      },
+      {
+        "id": "achievement-27",
+        "name": "Not Too Shabby",
+        "kind": "trophy",
+        "chapterId": "style-and-skills",
+        "where": "Perform a Stylish Rank S combo."
+      },
+      {
+        "id": "achievement-28",
+        "name": "Steppin' up the Style",
+        "kind": "trophy",
+        "chapterId": "style-and-skills",
+        "where": "Perform a Stylish Rank SS combo."
+      },
+      {
+        "id": "achievement-29",
+        "name": "Seriously Stylish Slaying!",
+        "kind": "trophy",
+        "chapterId": "style-and-skills",
+        "where": "Perform a Stylish Rank SSS combo."
+      },
+      {
+        "id": "achievement-30",
+        "name": "Secrets Exposed",
+        "kind": "trophy",
+        "chapterId": "ranks-and-secrets",
+        "where": "Clear all secret missions."
+      },
+      {
+        "id": "achievement-31",
+        "name": "The Quick and the Dead",
+        "kind": "trophy",
+        "chapterId": "style-and-skills",
+        "where": "Defeat 5 enemies in 1 second."
+      },
+      {
+        "id": "achievement-32",
+        "name": "Well I'll Be Damned",
+        "kind": "trophy",
+        "chapterId": "style-and-skills",
+        "where": "Wield overwhelming power to exact an unexpected conclusion."
+      },
+      {
+        "id": "achievement-33",
+        "name": "Hell of a Hunter",
+        "kind": "trophy",
+        "chapterId": "ranks-and-secrets",
+        "where": "Clear all missions with S rank."
+      },
+      {
+        "id": "achievement-34",
+        "name": "Worthy of Legend",
+        "kind": "trophy",
+        "chapterId": "ranks-and-secrets",
+        "where": "Clear all missions with S rank on all difficulties except Heaven or Hell."
+      },
+      {
+        "id": "achievement-35",
+        "name": "I Believe I Can Fly",
+        "kind": "trophy",
+        "chapterId": "style-and-skills",
+        "where": "Rack up a total of 60 minutes in the air by jumping or other means."
+      },
+      {
+        "id": "achievement-36",
+        "name": "Nothing's Impossible",
+        "kind": "trophy",
+        "chapterId": "style-and-skills",
+        "where": "Acquire all of Nero's skills."
+      },
+      {
+        "id": "achievement-37",
+        "name": "Be the Legend",
+        "kind": "trophy",
+        "chapterId": "style-and-skills",
+        "where": "Acquire all of Dante's skills."
+      },
+      {
+        "id": "achievement-38",
+        "name": "Demon Breeder",
+        "kind": "trophy",
+        "chapterId": "style-and-skills",
+        "where": "Acquire all of V's skills."
+      },
+      {
+        "id": "achievement-39",
+        "name": "Physical Perfection",
+        "kind": "trophy",
+        "chapterId": "style-and-skills",
+        "where": "Upgrade your vitality gauge to max."
+      },
+      {
+        "id": "achievement-40",
+        "name": "The Devil's Own",
+        "kind": "trophy",
+        "chapterId": "style-and-skills",
+        "where": "Upgrade your Devil Trigger Gauge to max."
+      },
+      {
+        "id": "achievement-41",
+        "name": "A New Job",
+        "kind": "trophy",
+        "chapterId": "missions-14-20",
+        "where": "Accept a new job from Morrison after the Red Grave incident."
+      },
+      {
+        "id": "achievement-42",
+        "name": "Jackpot!",
+        "kind": "trophy",
+        "chapterId": "style-and-skills",
+        "where": "Collect more than 1,000,000 Red Orbs total."
+      },
+      {
+        "id": "achievement-43",
+        "name": "Demon Destroyer",
+        "kind": "trophy",
+        "chapterId": "style-and-skills",
+        "where": "Defeat 1,000 enemies total."
+      },
+      {
+        "id": "achievement-44",
+        "name": "Rearm and Repeat",
+        "kind": "trophy",
+        "chapterId": "style-and-skills",
+        "where": "Collect more than 100 Devil Breakers during missions."
+      },
+      {
+        "id": "achievement-45",
+        "name": "Dante The Gambler",
+        "kind": "trophy",
+        "chapterId": "style-and-skills",
+        "where": "Use more than 500,000 Red Orbs total with Dr. Faust."
+      },
+      {
+        "id": "achievement-46",
+        "name": "Who Needs Weapons Anyway?",
+        "kind": "trophy",
+        "chapterId": "missions-08-13",
+        "where": "Clear Mission 11 without equipping a weapon set for Dante (any difficulty except Heaven or Hell)."
+      },
+      {
+        "id": "achievement-47",
+        "name": "Unarmed and Dangerous",
+        "kind": "trophy",
+        "chapterId": "missions-01-07",
+        "where": "Beat Mission 07 without any starting Devil Breakers equipped (any difficulty except Heaven or Hell)."
+      },
+      {
+        "id": "achievement-48",
+        "name": "Pet Protection",
+        "kind": "trophy",
+        "chapterId": "missions-01-07",
+        "where": "Clear Mission 05 without V's demons getting stalemated (any difficulty except Heaven or Hell)."
+      },
+      {
+        "id": "achievement-49",
+        "name": "Slam Dunk",
+        "kind": "trophy",
+        "chapterId": "bloody-palace",
+        "where": "Clear the Bloody Palace with Nero."
+      },
+      {
+        "id": "achievement-50",
+        "name": "Too Easy",
+        "kind": "trophy",
+        "chapterId": "bloody-palace",
+        "where": "Clear the Bloody Palace with Dante."
+      },
+      {
+        "id": "achievement-51",
+        "name": "Rest in Peace",
+        "kind": "trophy",
+        "chapterId": "bloody-palace",
+        "where": "Clear the Bloody Palace with V."
+      },
+      {
+        "id": "achievement-52",
+        "name": "Sibling Rivalry",
+        "kind": "trophy",
+        "chapterId": "vergil",
+        "where": "Clear all missions as Vergil."
+      },
+      {
+        "id": "achievement-53",
+        "name": "Concentrated Strength",
+        "kind": "trophy",
+        "chapterId": "vergil",
+        "where": "Acquire all of Vergil's skills."
+      },
+      {
+        "id": "achievement-54",
+        "name": "Heart of a Swordsman",
+        "kind": "trophy",
+        "chapterId": "vergil",
+        "where": "Clear Mission 19 as Vergil without using any weapons other than Yamato. (Heaven or Hell excluded)"
+      },
+      {
+        "id": "achievement-55",
+        "name": "This is Power",
+        "kind": "trophy",
+        "chapterId": "vergil",
+        "where": "Clear the Bloody Palace as Vergil."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/devil-may-cry-5",
+    "Achievement data from Steam (Steam Web API, app 601150)",
+    "StrategyWiki: stub page only, nothing used — https://strategywiki.org/wiki/Devil_May_Cry_5",
+    "Fandom (devilmaycry.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://devilmaycry.fandom.com/wiki/Devil_May_Cry_5"
+  ],
+  "route": "original",
+  "notes": "Backlog game, picked from RAWG's most-added list for its year (docs/PLAN.md section 2 ordering). StrategyWiki has a page (no completion stage in its page data); the Walkthrough is linked but not written, and only Controls, Hidden features and Table of Contents subpages exist, so no structure was taken. It also links a separate \"Devil May Cry 5: Special Edition\" page. devilmaycry.fandom.com answers the API, with about 284 linked pages; names only were looked at, nothing copied. None of the 55 Steam achievements are hidden, and most name a mission number, so the story chapters follow mission ranges (the split into three ranges is our own). Mission-specific challenges such as \"Who Needs Weapons Anyway?\" (Mission 11) sit with their mission. The Steam list includes Vergil achievements; whether Vergil is paid DLC on this app was not checked."
+}

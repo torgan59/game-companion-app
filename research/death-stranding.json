@@ -1,0 +1,580 @@
+{
+  "id": "death-stranding",
+  "title": "Death Stranding",
+  "year": 2019,
+  "platforms": [
+    "PC",
+    "PlayStation 4"
+  ],
+  "rawgId": 50738,
+  "rawgSlug": "death-stranding",
+  "released": "2019-11-08",
+  "developers": [
+    "Kojima Productions"
+  ],
+  "playtime": 11,
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Atmospheric",
+    "Great Soundtrack",
+    "Story Rich",
+    "Open World",
+    "Third Person",
+    "Sci-fi",
+    "Partial Controller Support",
+    "Horror",
+    "Exploration",
+    "Survival",
+    "Stealth"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/2ad/2ad87a4a69b1104f02435c14c5196095.jpg",
+  "steamAppId": 1850570,
+  "achievements": {
+    "total": 63,
+    "hidden": 31,
+    "examples": [
+      {
+        "name": "Good Samaritan",
+        "percent": 91.5
+      },
+      {
+        "name": "Apprentice Builder",
+        "percent": 74.5
+      },
+      {
+        "name": "Prominent Porter",
+        "percent": 67.9
+      },
+      {
+        "name": "Master Builder",
+        "percent": 3.3
+      },
+      {
+        "name": "Growth of a Legend",
+        "percent": 3.0
+      },
+      {
+        "name": "Trail-Blazer",
+        "percent": 2.9
+      },
+      {
+        "name": "Homo Faber",
+        "percent": 2.6
+      },
+      {
+        "name": "Greatest of Great Deliverers",
+        "percent": 2.4
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Death_Stranding",
+      "reason": "Page exists but has no written walkthrough subpages; no usable structure (completion stage not checked here, see notes)"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 53,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://deathstranding.fandom.com/wiki/Death_Stranding"
+    }
+  },
+  "game": {
+    "id": "death-stranding",
+    "title": "Death Stranding",
+    "platforms": [
+      "PC",
+      "PlayStation 4"
+    ],
+    "blurb": "Open-world delivery action-adventure from Kojima Productions, released 2019-11-08 (the Steam app is the Director's Cut). RAWG average playtime: 11 hours. Genres: Action, Adventure. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#5B7083",
+    "chapters": [
+      {
+        "id": "main-story",
+        "title": "The Main Story",
+        "summary": "Sam's journey east to west, reconnecting America episode by episode. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "deliveries",
+        "title": "Deliveries and Porter Grades",
+        "summary": "Standard and premium orders, lost cargo, cargo weight and distance, and porter grades.",
+        "steps": []
+      },
+      {
+        "id": "building-and-network",
+        "title": "Building and the Network",
+        "summary": "Structures, roads, upgrades, facility connections, Bridge Links, supply requests, bots, shout-outs and fabrication.",
+        "steps": []
+      },
+      {
+        "id": "life-on-the-road",
+        "title": "BB, BTs and Life on the Road",
+        "summary": "Caring for BB, sneaking past BTs, Catchers, resting, footwear, mail and interviews.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Greatest of Great Deliverers",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Obtained all Death Stranding achievements."
+      },
+      {
+        "id": "achievement-2",
+        "name": "Delivering Is What I Do",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-3",
+        "name": "Rebuilding America",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-4",
+        "name": "We Need You",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-5",
+        "name": "I Won't Break",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-6",
+        "name": "BB...",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-7",
+        "name": "We're Whole Again",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-8",
+        "name": "BBs: A Bridge Between This World and the One Beyond",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-9",
+        "name": "\"BB\"",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-10",
+        "name": "Sixty Deaths and Sixty Births in a Day",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-11",
+        "name": "The Particle of God",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-12",
+        "name": "I'm Your Die-Hardman",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-13",
+        "name": "Bring Back My Baby",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-14",
+        "name": "She's waiting for you on the Beach.",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-15",
+        "name": "Thank You, Sam",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-16",
+        "name": "Thanks for Everything",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-17",
+        "name": "Everyday Delivery",
+        "kind": "trophy",
+        "chapterId": "deliveries",
+        "where": "Complete a standard order."
+      },
+      {
+        "id": "achievement-18",
+        "name": "Deliveries Done",
+        "kind": "trophy",
+        "chapterId": "deliveries",
+        "where": "Complete 36 standard orders."
+      },
+      {
+        "id": "achievement-19",
+        "name": "Birth of a Legend",
+        "kind": "trophy",
+        "chapterId": "deliveries",
+        "where": "Complete at least 10 unique premium deliveries in each order category with an evaluation of \"Legend,\" \"Legend of Legends,\" or \"Legend of Legends of Legends.\""
+      },
+      {
+        "id": "achievement-20",
+        "name": "Growth of a Legend",
+        "kind": "trophy",
+        "chapterId": "deliveries",
+        "where": "Complete at least 20 unique premium deliveries in each order category with an evaluation of \"Legend of Legends\" or \"Legend of Legends of Legends.\""
+      },
+      {
+        "id": "achievement-21",
+        "name": "A Helping Hand",
+        "kind": "trophy",
+        "chapterId": "building-and-network",
+        "where": "Issue your first supply request."
+      },
+      {
+        "id": "achievement-22",
+        "name": "The Automation Revolution",
+        "kind": "trophy",
+        "chapterId": "building-and-network",
+        "where": "Complete a standard order with a delivery bot."
+      },
+      {
+        "id": "achievement-23",
+        "name": "Apprentice Builder",
+        "kind": "trophy",
+        "chapterId": "building-and-network",
+        "where": "Complete your first structure (signs, ladders, and climbing anchors also count.)"
+      },
+      {
+        "id": "achievement-24",
+        "name": "Master Builder",
+        "kind": "trophy",
+        "chapterId": "building-and-network",
+        "where": "Complete at least one of every type of structure (including signs, ladders, and climbing anchors.)"
+      },
+      {
+        "id": "achievement-25",
+        "name": "A New Day for the UCA",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-26",
+        "name": "In Sam We Trust",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-27",
+        "name": "Well Connected",
+        "kind": "trophy",
+        "chapterId": "building-and-network",
+        "where": "Reach connection level three with a facility."
+      },
+      {
+        "id": "achievement-28",
+        "name": "Best Beloved",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-29",
+        "name": "Like and Be Liked",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-30",
+        "name": "The People's Porter",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-31",
+        "name": "The World's Most Popular Porter",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-32",
+        "name": "Good Samaritan",
+        "kind": "trophy",
+        "chapterId": "deliveries",
+        "where": "Deliver your first piece of lost cargo."
+      },
+      {
+        "id": "achievement-33",
+        "name": "Giver of Gifts",
+        "kind": "trophy",
+        "chapterId": "building-and-network",
+        "where": "Make your first donation of weapons, equipment, etc."
+      },
+      {
+        "id": "achievement-34",
+        "name": "Chiral Crafter",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-35",
+        "name": "A Thirst for Knowledge",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-36",
+        "name": "Fount of Knowledge",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-37",
+        "name": "The Custom Kid",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-38",
+        "name": "Soak and Sigh",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-39",
+        "name": "The Post Guides the Present",
+        "kind": "trophy",
+        "chapterId": "life-on-the-road",
+        "where": "Read 100 mails."
+      },
+      {
+        "id": "achievement-40",
+        "name": "The Past Guides the Present",
+        "kind": "trophy",
+        "chapterId": "life-on-the-road",
+        "where": "Read 100 interviews."
+      },
+      {
+        "id": "achievement-41",
+        "name": "Pathfinder",
+        "kind": "trophy",
+        "chapterId": "deliveries",
+        "where": "Help porters through a MULE or terrorist area for the first time."
+      },
+      {
+        "id": "achievement-42",
+        "name": "Childminder",
+        "kind": "trophy",
+        "chapterId": "life-on-the-road",
+        "where": "Reach maximum connection level with BB."
+      },
+      {
+        "id": "achievement-43",
+        "name": "A Baby Blessing",
+        "kind": "trophy",
+        "chapterId": "life-on-the-road",
+        "where": "Get a Like from BB."
+      },
+      {
+        "id": "achievement-44",
+        "name": "Prominent Porter",
+        "kind": "trophy",
+        "chapterId": "deliveries",
+        "where": "Reach Grade 10 in any delivery evaluation category."
+      },
+      {
+        "id": "achievement-45",
+        "name": "Great Deliverer",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-46",
+        "name": "Catcher Crusher",
+        "kind": "trophy",
+        "chapterId": "life-on-the-road",
+        "where": "Defeat a Catcher."
+      },
+      {
+        "id": "achievement-47",
+        "name": "Snooze 'n' Soothe",
+        "kind": "trophy",
+        "chapterId": "life-on-the-road",
+        "where": "Heal by sleeping for the first time."
+      },
+      {
+        "id": "achievement-48",
+        "name": "Boots Are a Porter's Best Friend",
+        "kind": "trophy",
+        "chapterId": "life-on-the-road",
+        "where": "Change footwear for the first time."
+      },
+      {
+        "id": "achievement-49",
+        "name": "Hooked on Delivering!?",
+        "kind": "trophy",
+        "chapterId": "deliveries",
+        "where": "Deliver 700 items of cargo."
+      },
+      {
+        "id": "achievement-50",
+        "name": "Pumped Porter",
+        "kind": "trophy",
+        "chapterId": "deliveries",
+        "where": "Deliver 3,000 kg of cargo."
+      },
+      {
+        "id": "achievement-51",
+        "name": "Well-Traveled",
+        "kind": "trophy",
+        "chapterId": "deliveries",
+        "where": "Travel 80 km and complete an order."
+      },
+      {
+        "id": "achievement-52",
+        "name": "God Particle Go-Getter",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-53",
+        "name": "Rest In Pieces",
+        "kind": "trophy",
+        "chapterId": "life-on-the-road",
+        "where": "In a BT area, cut an umbilical cord for the first time without the BT noticing."
+      },
+      {
+        "id": "achievement-54",
+        "name": "Any Porter in a Storm",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-55",
+        "name": "Sleep Tight, Little BB",
+        "kind": "trophy",
+        "chapterId": "life-on-the-road",
+        "where": "Soothe a crying BB and stop the crying for the first time."
+      },
+      {
+        "id": "achievement-56",
+        "name": "A Shout in the Dark",
+        "kind": "trophy",
+        "chapterId": "building-and-network",
+        "where": "Send a shout out and have it returned for the first time."
+      },
+      {
+        "id": "achievement-57",
+        "name": "Public Service Porter",
+        "kind": "trophy",
+        "chapterId": "life-on-the-road",
+        "where": "Dispose of chiralium-contaminated cargo in the crater lake for the first time."
+      },
+      {
+        "id": "achievement-58",
+        "name": "Trail-Blazer",
+        "kind": "trophy",
+        "chapterId": "building-and-network",
+        "where": "Upgrade all types of structure to the maximum level."
+      },
+      {
+        "id": "achievement-59",
+        "name": "I Couldn't Hold it In!",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-60",
+        "name": "All Roads Lead to the UCA",
+        "kind": "trophy",
+        "chapterId": "building-and-network",
+        "where": "Complete your first road."
+      },
+      {
+        "id": "achievement-61",
+        "name": "Soothing Sounds",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-62",
+        "name": "Building Bridges",
+        "kind": "trophy",
+        "chapterId": "building-and-network",
+        "where": "Reach Bridge Link Grade 1."
+      },
+      {
+        "id": "achievement-63",
+        "name": "Homo Faber",
+        "kind": "trophy",
+        "chapterId": "building-and-network",
+        "where": "Fabricate all available weapons and equipment."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/death-stranding",
+    "Achievement data from Steam (Steam Web API, app 1850570)",
+    "StrategyWiki: stub page only, nothing used — https://strategywiki.org/wiki/Death_Stranding",
+    "Fandom (deathstranding.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://deathstranding.fandom.com/wiki/Death_Stranding"
+  ],
+  "route": "original",
+  "notes": "Backlog game, picked from RAWG's most-added list for its year (docs/PLAN.md section 2 ordering). The Steam app used is the Director's Cut (1850570), the only Death Stranding 1 entry in the Steam store list; its schema calls the app \"Project Lake\" (an internal codename). RAWG's first hit matched the expected entry death-stranding (id 50738, the 2019 release); RAWG also lists a separate Director's Cut entry. StrategyWiki has a page (no completion stage in its page data); the Walkthrough and its Prologue and Episode 1 to 15 subpages are linked but not written (only Controls, Skills and Table of Contents exist), so no structure was taken beyond noting the game is split into a prologue and 15 episodes. deathstranding.fandom.com answers the API, with about 53 linked pages; names only were looked at, nothing copied. 31 of 63 Steam achievements are hidden and sit in the main story chapter. About 15 have unlock rates of 20 to 93 percent and read as story beats; the rest (such as \"Like and Be Liked\", \"Chiral Crafter\", \"Soak and Sigh\", \"Fount of Knowledge\" at 2.9%) are probably optional and need sorting."
+}

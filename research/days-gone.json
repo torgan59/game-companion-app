@@ -1,0 +1,626 @@
+{
+  "id": "days-gone",
+  "title": "Days Gone",
+  "year": 2019,
+  "platforms": [
+    "PC",
+    "PlayStation 4"
+  ],
+  "rawgId": 29338,
+  "rawgSlug": "days-gone",
+  "released": "2019-04-26",
+  "developers": [
+    "Bend Studio",
+    "SIE Bend Studio"
+  ],
+  "playtime": 10,
+  "genres": [
+    "Action"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Multiplayer",
+    "Full controller support",
+    "Steam Cloud",
+    "Atmospheric",
+    "RPG",
+    "Story Rich",
+    "Open World",
+    "Third Person",
+    "Horror",
+    "Gore"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/a79/a79d2fc90c4dbf07a8580b19600fd61d.jpg",
+  "steamAppId": 1259420,
+  "achievements": {
+    "total": 67,
+    "hidden": 18,
+    "examples": [
+      {
+        "name": "Finders Keepers",
+        "percent": 95.9
+      },
+      {
+        "name": "Better Living through Chemistry",
+        "percent": 81.2
+      },
+      {
+        "name": "Don't Stop Me Now",
+        "percent": 76.4
+      },
+      {
+        "name": "Dolla Dolla Bills, Y'all",
+        "percent": 2.5
+      },
+      {
+        "name": "2 Days 2 Done",
+        "percent": 2.5
+      },
+      {
+        "name": "Gold Team Rules",
+        "percent": 2.3
+      },
+      {
+        "name": "You Done Good, Kid",
+        "percent": 2.1
+      },
+      {
+        "name": "One Percenter",
+        "percent": 1.7
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Days_Gone",
+      "reason": "Page exists but has no written walkthrough subpages; no usable structure (completion stage not checked here, see notes)"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 44,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://daysgone.fandom.com/wiki/Days_Gone"
+    }
+  },
+  "game": {
+    "id": "days-gone",
+    "title": "Days Gone",
+    "platforms": [
+      "PC",
+      "PlayStation 4"
+    ],
+    "blurb": "Action game of motorbikes, survivors and Freaker hordes, from Bend Studio, released 2019-04-26. RAWG average playtime: 10 hours. Genre: Action. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#B5651D",
+    "chapters": [
+      {
+        "id": "main-story",
+        "title": "The Main Story",
+        "summary": "The story from start to finish, beat by beat. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "storylines-and-camps",
+        "title": "Storylines, Hordes and Encampments",
+        "summary": "Side storylines, hordes, ambush camps, infestations, NERO checkpoints, survivors, cairns and encampment trust.",
+        "steps": []
+      },
+      {
+        "id": "bike",
+        "title": "The Bike",
+        "summary": "Upgrades, repairs, drifting and nitro.",
+        "steps": []
+      },
+      {
+        "id": "collectibles",
+        "title": "Collectibles and Loot",
+        "summary": "Collectibles, Freaker ears and items looted from bodies.",
+        "steps": []
+      },
+      {
+        "id": "skills-and-combat",
+        "title": "Skills, Crafting and Combat",
+        "summary": "Skills, health, stamina and focus upgrades, crafting, stealth kills and crossbow bolts.",
+        "steps": []
+      },
+      {
+        "id": "challenges",
+        "title": "Challenges",
+        "summary": "Challenge medals, rings, loadouts, ranks and patches.",
+        "steps": []
+      },
+      {
+        "id": "survival-and-ngplus",
+        "title": "Survival Mode and New Game+",
+        "summary": "Finishing the story again in Survival Mode and New Game+, and the extra weapon rewards.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "One Percenter",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Go above and BEYOND, unlocking every trophy in Days Gone"
+      },
+      {
+        "id": "achievement-2",
+        "name": "Just a Flesh Wound",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-3",
+        "name": "Special Delivery",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-4",
+        "name": "The Ends and the Means",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-5",
+        "name": "Lost and Found",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-6",
+        "name": "Brothers in Arm",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-7",
+        "name": "Take Back Your Name",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-8",
+        "name": "Riding NOMAD",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-9",
+        "name": "Hold on Tight",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-10",
+        "name": "It's Getting Cold Outside",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-11",
+        "name": "Morior Invictus",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-12",
+        "name": "I've Been Waiting for This",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-13",
+        "name": "Days Done",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Complete the story of Days Gone"
+      },
+      {
+        "id": "achievement-14",
+        "name": "Ambush Camp Hunter",
+        "kind": "trophy",
+        "chapterId": "storylines-and-camps",
+        "where": "Complete the Ambush Camp Hunter storyline"
+      },
+      {
+        "id": "achievement-15",
+        "name": "Infestation Exterminator",
+        "kind": "trophy",
+        "chapterId": "storylines-and-camps",
+        "where": "Complete the Infestation Exterminator storyline"
+      },
+      {
+        "id": "achievement-16",
+        "name": "Marauder Camp Hunter",
+        "kind": "trophy",
+        "chapterId": "storylines-and-camps",
+        "where": "Complete the Marauder Camp Hunter storyline"
+      },
+      {
+        "id": "achievement-17",
+        "name": "World's End",
+        "kind": "trophy",
+        "chapterId": "storylines-and-camps",
+        "where": "Complete the World's End storyline"
+      },
+      {
+        "id": "achievement-18",
+        "name": "One Down",
+        "kind": "trophy",
+        "chapterId": "storylines-and-camps",
+        "where": "Defeat your first Horde"
+      },
+      {
+        "id": "achievement-19",
+        "name": "Farewell Drift",
+        "kind": "trophy",
+        "chapterId": "bike",
+        "where": "Accumulate 10 minutes of drifting while on your bike"
+      },
+      {
+        "id": "achievement-20",
+        "name": "This is a Knife",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-21",
+        "name": "Ghost of Farewell",
+        "kind": "trophy",
+        "chapterId": "skills-and-combat",
+        "where": "Get 100 stealth kills"
+      },
+      {
+        "id": "achievement-22",
+        "name": "Old Reliable",
+        "kind": "trophy",
+        "chapterId": "skills-and-combat",
+        "where": "Kill 200 Enemies with a Crafted Weapon"
+      },
+      {
+        "id": "achievement-23",
+        "name": "Variety is the Spice of Life",
+        "kind": "trophy",
+        "chapterId": "skills-and-combat",
+        "where": "Kill an enemy with every type of crossbow bolt"
+      },
+      {
+        "id": "achievement-24",
+        "name": "Farewell Original",
+        "kind": "trophy",
+        "chapterId": "bike",
+        "where": "Purchase an upgrade under the Performance, Visual, and Paint Categories for your bike"
+      },
+      {
+        "id": "achievement-25",
+        "name": "First Time Buyer",
+        "kind": "trophy",
+        "chapterId": "bike",
+        "where": "Upgrade your bike for the first time"
+      },
+      {
+        "id": "achievement-26",
+        "name": "Burnout Apocalypse",
+        "kind": "trophy",
+        "chapterId": "bike",
+        "where": "Use nitro and drift at the same time on your bike for at least 5 seconds"
+      },
+      {
+        "id": "achievement-27",
+        "name": "The Art of Bike Repair",
+        "kind": "trophy",
+        "chapterId": "bike",
+        "where": "Apply 100 scrap to your bike"
+      },
+      {
+        "id": "achievement-28",
+        "name": "You've Got Red on You",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Collect 541 Items from corpses"
+      },
+      {
+        "id": "achievement-29",
+        "name": "Lend Me Your Ears",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Collect 989 Freaker Ears"
+      },
+      {
+        "id": "achievement-30",
+        "name": "Finders Keepers",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Unlock your first collectible"
+      },
+      {
+        "id": "achievement-31",
+        "name": "Wannabe Fortune Hunter",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Unlock over 50% of the collectibles"
+      },
+      {
+        "id": "achievement-32",
+        "name": "The Broken Roadshow",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Unlock over 75% of collectibles"
+      },
+      {
+        "id": "achievement-33",
+        "name": "Surviving isn't Living",
+        "kind": "trophy",
+        "chapterId": "storylines-and-camps",
+        "where": "Rescue 10 survivors"
+      },
+      {
+        "id": "achievement-34",
+        "name": "Better Living through Chemistry",
+        "kind": "trophy",
+        "chapterId": "skills-and-combat",
+        "where": "Upgrade either your Health, Stamina, or Focus for the first time"
+      },
+      {
+        "id": "achievement-35",
+        "name": "Performance Enhanced",
+        "kind": "trophy",
+        "chapterId": "skills-and-combat",
+        "where": "Max out either your Health, Stamina, or Focus"
+      },
+      {
+        "id": "achievement-36",
+        "name": "Best Friends Forever",
+        "kind": "trophy",
+        "chapterId": "storylines-and-camps",
+        "where": "Receive the Allied Trust status with an Encampment"
+      },
+      {
+        "id": "achievement-37",
+        "name": "Best Friends Forever (For Life)",
+        "kind": "trophy",
+        "chapterId": "storylines-and-camps",
+        "where": "Gain the Allied Trust status with three different Encampments"
+      },
+      {
+        "id": "achievement-38",
+        "name": "Make it Rain",
+        "kind": "trophy",
+        "chapterId": "storylines-and-camps",
+        "where": "Spend 20,000 credits at one Encampment"
+      },
+      {
+        "id": "achievement-39",
+        "name": "Welcome to the Party, Pal",
+        "kind": "trophy",
+        "chapterId": "storylines-and-camps",
+        "where": "Clear all Ambush Camps, Infestations, and NERO Checkpoints in a single region"
+      },
+      {
+        "id": "achievement-40",
+        "name": "Kitchen Courier",
+        "kind": "trophy",
+        "chapterId": "storylines-and-camps",
+        "where": "Sell Animal Meat or Plants to any Encampment"
+      },
+      {
+        "id": "achievement-41",
+        "name": "Don't Stop Me Now",
+        "kind": "trophy",
+        "chapterId": "skills-and-combat",
+        "where": "Unlock your first skill"
+      },
+      {
+        "id": "achievement-42",
+        "name": "I'm Out of Control",
+        "kind": "trophy",
+        "chapterId": "skills-and-combat",
+        "where": "Unlock 15 skills"
+      },
+      {
+        "id": "achievement-43",
+        "name": "There's No Stopping Me",
+        "kind": "trophy",
+        "chapterId": "skills-and-combat",
+        "where": "Unlock 30 skills"
+      },
+      {
+        "id": "achievement-44",
+        "name": "Mr. Fahrenheit",
+        "kind": "trophy",
+        "chapterId": "skills-and-combat",
+        "where": "Unlock 45 skills"
+      },
+      {
+        "id": "achievement-45",
+        "name": "Go Kick Rocks",
+        "kind": "trophy",
+        "chapterId": "storylines-and-camps",
+        "where": "Knock down 12 Anarchist Cairns"
+      },
+      {
+        "id": "achievement-46",
+        "name": "D.I.Y. Oregonian",
+        "kind": "trophy",
+        "chapterId": "skills-and-combat",
+        "where": "Craft 50 items"
+      },
+      {
+        "id": "achievement-47",
+        "name": "Surviving is Living",
+        "kind": "trophy",
+        "chapterId": "survival-and-ngplus",
+        "where": "Complete the story of Days Gone in Survival Mode"
+      },
+      {
+        "id": "achievement-48",
+        "name": "Days Gone in 60 Seconds",
+        "kind": "trophy",
+        "chapterId": "survival-and-ngplus",
+        "where": "Defeat a Horde in under 1 minute in Survival Mode"
+      },
+      {
+        "id": "achievement-49",
+        "name": "Participation Award",
+        "kind": "trophy",
+        "chapterId": "challenges",
+        "where": "Earn your first Bronze Medal in a Challenge"
+      },
+      {
+        "id": "achievement-50",
+        "name": "Second (the) Best",
+        "kind": "trophy",
+        "chapterId": "challenges",
+        "where": "Earn your first Silver Medal in a Challenge"
+      },
+      {
+        "id": "achievement-51",
+        "name": "Golden Boy",
+        "kind": "trophy",
+        "chapterId": "challenges",
+        "where": "Earn your first Gold Medal in a Challenge"
+      },
+      {
+        "id": "achievement-52",
+        "name": "I Make This Look Good",
+        "kind": "trophy",
+        "chapterId": "challenges",
+        "where": "Earn a Gold Medal in a Challenge with a Character Skin and Custom Accent equipped"
+      },
+      {
+        "id": "achievement-53",
+        "name": "Worthy",
+        "kind": "trophy",
+        "chapterId": "challenges",
+        "where": "Fully upgrade any Ring"
+      },
+      {
+        "id": "achievement-54",
+        "name": "Gold Team Rules",
+        "kind": "trophy",
+        "chapterId": "challenges",
+        "where": "Earn a Gold Medal in all Challenges"
+      },
+      {
+        "id": "achievement-55",
+        "name": "You Done Good, Kid",
+        "kind": "trophy",
+        "chapterId": "challenges",
+        "where": "Earn a Medal in all Sub-Challenges"
+      },
+      {
+        "id": "achievement-56",
+        "name": "Dolla Dolla Bills, Y'all",
+        "kind": "trophy",
+        "chapterId": "challenges",
+        "where": "Spend 3000 credits on your Loadout"
+      },
+      {
+        "id": "achievement-57",
+        "name": "Lost & Damned",
+        "kind": "trophy",
+        "chapterId": "challenges",
+        "where": "Reach the Founder Rank"
+      },
+      {
+        "id": "achievement-58",
+        "name": "Gotta Patch 'Em All",
+        "kind": "trophy",
+        "chapterId": "challenges",
+        "where": "Unlock all Patches"
+      },
+      {
+        "id": "achievement-59",
+        "name": "One More Ride",
+        "kind": "trophy",
+        "chapterId": "survival-and-ngplus",
+        "where": "Complete the story of Days Gone in New Game+"
+      },
+      {
+        "id": "achievement-60",
+        "name": "2 Days 2 Done",
+        "kind": "trophy",
+        "chapterId": "survival-and-ngplus",
+        "where": "Complete the story of Days Gone on Hard II or Survival II in New Game+"
+      },
+      {
+        "id": "achievement-61",
+        "name": "Logan's Shadow",
+        "kind": "trophy",
+        "chapterId": "survival-and-ngplus",
+        "where": "Kill an enemy with every type of ammo from a mysterious weapon earned in New Game+"
+      },
+      {
+        "id": "achievement-62",
+        "name": "More Freakers, More Problems",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-63",
+        "name": "I'm On Top of the World",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-64",
+        "name": "Freakshow",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-65",
+        "name": "Survivor",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-66",
+        "name": "Dead Don’t Ride",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-67",
+        "name": "Sarah's Gift",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/days-gone",
+    "Achievement data from Steam (Steam Web API, app 1259420)",
+    "StrategyWiki: stub page only, nothing used — https://strategywiki.org/wiki/Days_Gone",
+    "Fandom (daysgone.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://daysgone.fandom.com/wiki/Days_Gone"
+  ],
+  "route": "original",
+  "notes": "Backlog game, picked from RAWG's most-added list for its year (docs/PLAN.md section 2 ordering). StrategyWiki has a stub page (completion stage 0); Walkthrough and Gameplay are linked but not written, and only Controls and a short Table of Contents subpage exist. daysgone.fandom.com answers the API, with about 45 linked pages; names only were looked at, nothing copied. 18 of 67 Steam achievements are hidden; they sit in the main story chapter as a placeholder. Six hidden ones listed at the end of the schema (from \"More Freakers, More Problems\" to \"Sarah's Gift\") have very low unlock rates (0.6 to 1.3 percent), and \"This is a Knife\" (21.6 percent) sits among combat ones, so these are probably not story beats and need checking."
+}

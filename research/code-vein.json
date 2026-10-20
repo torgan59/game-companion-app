@@ -1,0 +1,447 @@
+{
+  "id": "code-vein",
+  "title": "Code Vein",
+  "year": 2019,
+  "platforms": [
+    "Xbox One",
+    "PC",
+    "PlayStation 4"
+  ],
+  "rawgId": 58637,
+  "rawgSlug": "code-vein",
+  "released": "2019-09-26",
+  "developers": [
+    "BANDAI NAMCO Entertainment America",
+    "Bandai Namco Entertainment"
+  ],
+  "playtime": 7,
+  "genres": [
+    "Action",
+    "RPG"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Multiplayer",
+    "RPG",
+    "Co-op",
+    "cooperative",
+    "Third Person",
+    "Partial Controller Support",
+    "Online Co-Op",
+    "Gore",
+    "Difficult",
+    "Violent"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/16a/16a81cc458b0acb6ed2bcfd2a10f1527.jpg",
+  "steamAppId": 678960,
+  "achievements": {
+    "total": 43,
+    "hidden": 0,
+    "examples": [
+      {
+        "name": "Drink Deep",
+        "percent": 85.1
+      },
+      {
+        "name": "Oliver Collins",
+        "percent": 77.4
+      },
+      {
+        "name": "Together Until Oblivion",
+        "percent": 75.7
+      },
+      {
+        "name": "Heirs",
+        "percent": 4.8
+      },
+      {
+        "name": "Weaver of Wills",
+        "percent": 3.5
+      },
+      {
+        "name": "Exalted Reputation",
+        "percent": 3.0
+      },
+      {
+        "name": "Determiner of Fate",
+        "percent": 2.5
+      },
+      {
+        "name": "Revenant Preeminent",
+        "percent": 2.0
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": false,
+      "pages": 0,
+      "reason": "No page for Code Vein (MediaWiki API returned missing; search empty)"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 41,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://codevein.fandom.com/wiki/Code_Vein"
+    }
+  },
+  "game": {
+    "id": "code-vein",
+    "title": "Code Vein",
+    "platforms": [
+      "Xbox One",
+      "PC",
+      "PlayStation 4"
+    ],
+    "blurb": "Action RPG of revenants, blood codes and Gifts, from Bandai Namco Entertainment, released 2019-09-26. RAWG average playtime: 7 hours. Genres: Action, RPG. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#8E1B2C",
+    "chapters": [
+      {
+        "id": "main-story",
+        "title": "The Main Story",
+        "summary": "The bosses in order of the places they guard, from the ruined city to the Gaol of the Stagnant Blood.",
+        "steps": []
+      },
+      {
+        "id": "companions-and-memories",
+        "title": "Companions and Memories",
+        "summary": "Memory echoes, restoring Vestiges, partner conversations, presents and companion reputation.",
+        "steps": []
+      },
+      {
+        "id": "exploration",
+        "title": "Exploration",
+        "summary": "Mistles and exploring every part of the depths.",
+        "steps": []
+      },
+      {
+        "id": "gifts-and-gear",
+        "title": "Gifts, Blood Codes and Gear",
+        "summary": "Learning Gifts, blood codes, weapons, Blood Veils, upgrades and drain attacks.",
+        "steps": []
+      },
+      {
+        "id": "endings",
+        "title": "Endings and Completion",
+        "summary": "The three endings, seeing them all, and every achievement. Spoiler-guarded.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Revenant Preeminent",
+        "kind": "trophy",
+        "chapterId": "endings",
+        "where": "Unlocked all other achievements"
+      },
+      {
+        "id": "achievement-2",
+        "name": "Gift Gatherer",
+        "kind": "trophy",
+        "chapterId": "gifts-and-gear",
+        "where": "Learn 150 Gifts (excluding those learned when acquiring a blood code)"
+      },
+      {
+        "id": "achievement-3",
+        "name": "Determiner of Fate",
+        "kind": "trophy",
+        "chapterId": "endings",
+        "where": "View every ending"
+      },
+      {
+        "id": "achievement-4",
+        "name": "Mender of Minds",
+        "kind": "trophy",
+        "chapterId": "companions-and-memories",
+        "where": "Restore all Vestiges"
+      },
+      {
+        "id": "achievement-5",
+        "name": "Deep Trailblazer",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Explore every part of the depths"
+      },
+      {
+        "id": "achievement-6",
+        "name": "Miasma Manager",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Activate all mistles"
+      },
+      {
+        "id": "achievement-7",
+        "name": "Together Until Oblivion",
+        "kind": "trophy",
+        "chapterId": "companions-and-memories",
+        "where": "Listen to partner conversations 50 times while exploring"
+      },
+      {
+        "id": "achievement-8",
+        "name": "Proven Devotion",
+        "kind": "trophy",
+        "chapterId": "companions-and-memories",
+        "where": "Receive 30 presents from friends"
+      },
+      {
+        "id": "achievement-9",
+        "name": "Exalted Reputation",
+        "kind": "trophy",
+        "chapterId": "companions-and-memories",
+        "where": "Raise your reputation as a companion to rank 30"
+      },
+      {
+        "id": "achievement-10",
+        "name": "Burning Spirit",
+        "kind": "trophy",
+        "chapterId": "gifts-and-gear",
+        "where": "Unlock the ability to inherit 50 Gifts"
+      },
+      {
+        "id": "achievement-11",
+        "name": "A Weapon for Every Season",
+        "kind": "trophy",
+        "chapterId": "gifts-and-gear",
+        "where": "Equip every weapon type"
+      },
+      {
+        "id": "achievement-12",
+        "name": "Revenant Requisites",
+        "kind": "trophy",
+        "chapterId": "gifts-and-gear",
+        "where": "Equip every Blood Veil type"
+      },
+      {
+        "id": "achievement-13",
+        "name": "Weaver of Wills",
+        "kind": "trophy",
+        "chapterId": "gifts-and-gear",
+        "where": "Collect every blood code"
+      },
+      {
+        "id": "achievement-14",
+        "name": "Gifted",
+        "kind": "trophy",
+        "chapterId": "gifts-and-gear",
+        "where": "Learn 50 Gifts (excluding those learned when acquiring a blood code)"
+      },
+      {
+        "id": "achievement-15",
+        "name": "Ultimate Armament",
+        "kind": "trophy",
+        "chapterId": "gifts-and-gear",
+        "where": "Upgrade a weapon to its maximum level"
+      },
+      {
+        "id": "achievement-16",
+        "name": "Unbreakable Veil",
+        "kind": "trophy",
+        "chapterId": "gifts-and-gear",
+        "where": "Upgrade a Blood Veil to its maximum level"
+      },
+      {
+        "id": "achievement-17",
+        "name": "Io's Memories",
+        "kind": "trophy",
+        "chapterId": "companions-and-memories",
+        "where": "View Io's memory echoes"
+      },
+      {
+        "id": "achievement-18",
+        "name": "Building Trust",
+        "kind": "trophy",
+        "chapterId": "companions-and-memories",
+        "where": "Give a desired valuable to a friend"
+      },
+      {
+        "id": "achievement-19",
+        "name": "Queen's Knight",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Defeat the Queen's Knight within your memory"
+      },
+      {
+        "id": "achievement-20",
+        "name": "Queen's Knight Reborn",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Defeat the Queen's Knight Reborn in the provisional government outskirts"
+      },
+      {
+        "id": "achievement-21",
+        "name": "Oliver Collins",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Defeat Oliver Collins in the ruined city underground"
+      },
+      {
+        "id": "achievement-22",
+        "name": "Insatiable Despot",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Defeat the Insatiable Despot in the dried-up trenches"
+      },
+      {
+        "id": "achievement-23",
+        "name": "Butterfly of Delirium",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Defeat the Butterfly of Delirium in the ruined city center"
+      },
+      {
+        "id": "achievement-24",
+        "name": "Invading Executioner",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Defeat the Invading Executioner in the Howling Pit"
+      },
+      {
+        "id": "achievement-25",
+        "name": "Successor of the Ribcage",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Defeat the Successor of the Ribcage in the Cathedral of the Sacred Blood"
+      },
+      {
+        "id": "achievement-26",
+        "name": "Successor of the Breath",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Defeat the Successor of the Breath in the Ridge of Frozen Souls"
+      },
+      {
+        "id": "achievement-27",
+        "name": "Gilded Hunter",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Defeat the Gilded Hunter in the Ashen Cavern"
+      },
+      {
+        "id": "achievement-28",
+        "name": "Successor of the Claw",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Defeat the Successor of the Claw in the City of Falling Flame"
+      },
+      {
+        "id": "achievement-29",
+        "name": "Successor of the Throat",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Defeat the Successor of the Throat in the Crown of Sand"
+      },
+      {
+        "id": "achievement-30",
+        "name": "Blade Bearer and Cannoneer",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Defeat the Blade Bearer and Cannoneer in the Crypt Spire"
+      },
+      {
+        "id": "achievement-31",
+        "name": "Juzo Mido",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Defeat the boss of the Crypt Spire, Juzo Mido"
+      },
+      {
+        "id": "achievement-32",
+        "name": "Skull King",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Defeat the Skull King in the Gaol of the Stagnant Blood"
+      },
+      {
+        "id": "achievement-33",
+        "name": "Louis's Memories",
+        "kind": "trophy",
+        "chapterId": "companions-and-memories",
+        "where": "View Louis's memory echoes"
+      },
+      {
+        "id": "achievement-34",
+        "name": "Yakumo's Memories",
+        "kind": "trophy",
+        "chapterId": "companions-and-memories",
+        "where": "View Yakumo's memory echoes"
+      },
+      {
+        "id": "achievement-35",
+        "name": "Murasame's Memories",
+        "kind": "trophy",
+        "chapterId": "companions-and-memories",
+        "where": "View Murasame's memory echoes"
+      },
+      {
+        "id": "achievement-36",
+        "name": "Coco's Memories",
+        "kind": "trophy",
+        "chapterId": "companions-and-memories",
+        "where": "View Coco's memory echoes"
+      },
+      {
+        "id": "achievement-37",
+        "name": "Davis's Memories",
+        "kind": "trophy",
+        "chapterId": "companions-and-memories",
+        "where": "View Davis's memory echoes"
+      },
+      {
+        "id": "achievement-38",
+        "name": "Mia's Memories",
+        "kind": "trophy",
+        "chapterId": "companions-and-memories",
+        "where": "View Mia's memory echoes"
+      },
+      {
+        "id": "achievement-39",
+        "name": "Drink Deep",
+        "kind": "trophy",
+        "chapterId": "gifts-and-gear",
+        "where": "Successfully use a special drain from a parry, back attack, or launch attack"
+      },
+      {
+        "id": "achievement-40",
+        "name": "Heirs",
+        "kind": "trophy",
+        "chapterId": "endings",
+        "where": "View the \"Heirs\" ending"
+      },
+      {
+        "id": "achievement-41",
+        "name": "To Eternity",
+        "kind": "trophy",
+        "chapterId": "endings",
+        "where": "View the \"To Eternity\" ending"
+      },
+      {
+        "id": "achievement-42",
+        "name": "Dweller in the Dark",
+        "kind": "trophy",
+        "chapterId": "endings",
+        "where": "View the \"Dweller in the Dark\" ending"
+      },
+      {
+        "id": "achievement-43",
+        "name": "Resonant Power",
+        "kind": "trophy",
+        "chapterId": "gifts-and-gear",
+        "where": "Execute a Communal Gift"
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/code-vein",
+    "Achievement data from Steam (Steam Web API, app 678960)",
+    "StrategyWiki: no page for this game, nothing used",
+    "Fandom (codevein.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://codevein.fandom.com/wiki/Code_Vein"
+  ],
+  "route": "original",
+  "notes": "Backlog game, picked from RAWG's most-added list for its year (docs/PLAN.md section 2 ordering). No StrategyWiki page under \"Code Vein\" or \"CODE VEIN\". codevein.fandom.com answers the API, with about 46 linked pages; names only were looked at, nothing copied. The Steam schema calls the app \"Vena Cava\" (an internal codename); the store list confirms app 678960. None of the 43 Steam achievements are hidden. The boss achievements name the place of each fight, so the main story chapter lists them in schema order; the ending names are visible in the Steam list, so the endings chapter should stay spoiler-guarded."
+}

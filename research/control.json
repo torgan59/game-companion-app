@@ -1,0 +1,622 @@
+{
+  "id": "control",
+  "title": "Control",
+  "year": 2019,
+  "platforms": [
+    "Xbox Series X|S",
+    "PlayStation 5",
+    "Xbox One",
+    "PlayStation 4",
+    "PC"
+  ],
+  "rawgId": 58812,
+  "rawgSlug": "control",
+  "released": "2019-08-27",
+  "developers": [
+    "505 Games",
+    "Remedy Entertainment"
+  ],
+  "playtime": 6,
+  "genres": [
+    "Action",
+    "Shooter",
+    "Adventure"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Full controller support",
+    "Atmospheric",
+    "Third Person",
+    "Sci-fi",
+    "Exploration",
+    "Female Protagonist",
+    "Action-Adventure",
+    "Cinematic",
+    "Metroidvania",
+    "Detective",
+    "3rd-Person Perspective"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/253/2534a46f3da7fa7c315f1387515ca393.jpg",
+  "steamAppId": 870780,
+  "achievements": {
+    "total": 67,
+    "hidden": 23,
+    "examples": [
+      {
+        "name": "Choose to be Chosen",
+        "percent": 89.5
+      },
+      {
+        "name": "Paranatural Powerhouse",
+        "percent": 71.9
+      },
+      {
+        "name": "Strange Collection",
+        "percent": 64.3
+      },
+      {
+        "name": "Chief Investigator",
+        "percent": 5.2
+      },
+      {
+        "name": "Niche Position",
+        "percent": 4.1
+      },
+      {
+        "name": "Subterranean Research",
+        "percent": 4.1
+      },
+      {
+        "name": "Supportive Staff",
+        "percent": 4.1
+      },
+      {
+        "name": "Rush Job",
+        "percent": 3.8
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Control",
+      "reason": "Page exists but has no written walkthrough subpages; no usable structure (completion stage not checked here, see notes)"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 105,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://control.fandom.com/wiki/Control"
+    }
+  },
+  "game": {
+    "id": "control",
+    "title": "Control",
+    "platforms": [
+      "Xbox Series X|S",
+      "PlayStation 5",
+      "Xbox One",
+      "PlayStation 4",
+      "PC"
+    ],
+    "blurb": "Third-person action-adventure from Remedy Entertainment (published by 505 Games), released 2019-08-27. RAWG average playtime: 6 hours. Genres: Action, Shooter, Adventure. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#C0392B",
+    "chapters": [
+      {
+        "id": "main-story",
+        "title": "The Main Story",
+        "summary": "Jesse's arrival at the Oldest House and the missions that follow. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "abilities-and-combat",
+        "title": "Abilities, Weapons and Combat",
+        "summary": "Gaining each ability, Service Weapon forms and mods, ability points and Hiss kills.",
+        "steps": []
+      },
+      {
+        "id": "side-missions",
+        "title": "Side Missions and Bureau Work",
+        "summary": "Side missions, Control Points, Board Countermeasures, Bureau Alerts and the arcade.",
+        "steps": []
+      },
+      {
+        "id": "collectibles",
+        "title": "Collectibles and Source",
+        "summary": "Collecting documents and other items around the Oldest House, and gathering Source.",
+        "steps": []
+      },
+      {
+        "id": "expansions",
+        "title": "Expansions (DLC)",
+        "summary": "The late block of the Steam list: the Foundation, the Investigations Sector, Rangers, Surge and new ability moves.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Choose to be Chosen",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Obtain the Service Weapon"
+      },
+      {
+        "id": "achievement-2",
+        "name": "Altered Manifestations May Occur",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-3",
+        "name": "Aggressive Growth",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-4",
+        "name": "Head of Communications",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-5",
+        "name": "Living Archetypes",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-6",
+        "name": "Astral Phenomena",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-7",
+        "name": "Welcome to the Oldest House",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-8",
+        "name": "Unknown Caller",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-9",
+        "name": "Directorial Override",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-10",
+        "name": "Old Boys' Club",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-11",
+        "name": "Threshold",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-12",
+        "name": "My Brother's Keeper",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-13",
+        "name": "The Face of the Enemy",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-14",
+        "name": "Finnish Tango",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-15",
+        "name": "Polaris",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-16",
+        "name": "Take Control",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-17",
+        "name": "Paranatural Powerhouse",
+        "kind": "trophy",
+        "chapterId": "abilities-and-combat",
+        "where": "Obtain the Launch Ability"
+      },
+      {
+        "id": "achievement-18",
+        "name": "Insular Telekinesis",
+        "kind": "trophy",
+        "chapterId": "abilities-and-combat",
+        "where": "Obtain the Shield Ability"
+      },
+      {
+        "id": "achievement-19",
+        "name": "Shifting Positions",
+        "kind": "trophy",
+        "chapterId": "abilities-and-combat",
+        "where": "Obtain the Evade Ability"
+      },
+      {
+        "id": "achievement-20",
+        "name": "Psychic Occupation",
+        "kind": "trophy",
+        "chapterId": "abilities-and-combat",
+        "where": "Obtain the Seize Ability"
+      },
+      {
+        "id": "achievement-21",
+        "name": "Rising Thought",
+        "kind": "trophy",
+        "chapterId": "abilities-and-combat",
+        "where": "Obtain the Levitate Ability"
+      },
+      {
+        "id": "achievement-22",
+        "name": "Niche Position",
+        "kind": "trophy",
+        "chapterId": "expansions",
+        "where": "Find all hidden locations in the Foundation"
+      },
+      {
+        "id": "achievement-23",
+        "name": "One of Us",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-24",
+        "name": "Star Performance",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-25",
+        "name": "Astral Plumbing",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-26",
+        "name": "Familiar Methodologies",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-27",
+        "name": "Chief Investigator",
+        "kind": "trophy",
+        "chapterId": "expansions",
+        "where": "Find 80% of the hidden locations in the Investigations Sector"
+      },
+      {
+        "id": "achievement-28",
+        "name": "Vending Spree",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-29",
+        "name": "The Third Thing",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-30",
+        "name": "Workplace Recreation",
+        "kind": "trophy",
+        "chapterId": "side-missions",
+        "where": "Play a single game in Arcade Mode"
+      },
+      {
+        "id": "achievement-31",
+        "name": "Astral Construction",
+        "kind": "trophy",
+        "chapterId": "abilities-and-combat",
+        "where": "Construct a Weapon Form or Mod"
+      },
+      {
+        "id": "achievement-32",
+        "name": "Non-Standard Issue",
+        "kind": "trophy",
+        "chapterId": "abilities-and-combat",
+        "where": "Upgrade any Weapon Form to Level 3"
+      },
+      {
+        "id": "achievement-33",
+        "name": "Career Development",
+        "kind": "trophy",
+        "chapterId": "abilities-and-combat",
+        "where": "Unlock all 3 Personal Mod slots"
+      },
+      {
+        "id": "achievement-34",
+        "name": "The Importance of Synergy",
+        "kind": "trophy",
+        "chapterId": "side-missions",
+        "where": "Complete 5 Side Missions"
+      },
+      {
+        "id": "achievement-35",
+        "name": "Inter-Departmental Cooperation",
+        "kind": "trophy",
+        "chapterId": "side-missions",
+        "where": "Complete 10 Side Missions"
+      },
+      {
+        "id": "achievement-36",
+        "name": "FBC Crisis Solution Task Force",
+        "kind": "trophy",
+        "chapterId": "side-missions",
+        "where": "Complete 15 Side Missions"
+      },
+      {
+        "id": "achievement-37",
+        "name": "Paranatural Collection",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Collect more than 100,000 Source"
+      },
+      {
+        "id": "achievement-38",
+        "name": "Interdimensional Defender",
+        "kind": "trophy",
+        "chapterId": "abilities-and-combat",
+        "where": "Killed 1000 Hiss"
+      },
+      {
+        "id": "achievement-39",
+        "name": "Parautilitarian",
+        "kind": "trophy",
+        "chapterId": "abilities-and-combat",
+        "where": "Unlock 1 Ability Upgrade"
+      },
+      {
+        "id": "achievement-40",
+        "name": "Expert Parautilitarian",
+        "kind": "trophy",
+        "chapterId": "abilities-and-combat",
+        "where": "Spend 50 Ability Points"
+      },
+      {
+        "id": "achievement-41",
+        "name": "Master Parautilitarian",
+        "kind": "trophy",
+        "chapterId": "abilities-and-combat",
+        "where": "Spend 100 Ability Points"
+      },
+      {
+        "id": "achievement-42",
+        "name": "Ritualistic Thinking",
+        "kind": "trophy",
+        "chapterId": "side-missions",
+        "where": "Cleanse 5 Control Points"
+      },
+      {
+        "id": "achievement-43",
+        "name": "Ritual Intuition",
+        "kind": "trophy",
+        "chapterId": "side-missions",
+        "where": "Cleanse 10 Control Points"
+      },
+      {
+        "id": "achievement-44",
+        "name": "Discerning the Pattern",
+        "kind": "trophy",
+        "chapterId": "side-missions",
+        "where": "Cleanse 25 Control Points"
+      },
+      {
+        "id": "achievement-45",
+        "name": "Strange Collection",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Collect 40 Collectibles"
+      },
+      {
+        "id": "achievement-46",
+        "name": "Record Keeper",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Collect 80 Collectibles"
+      },
+      {
+        "id": "achievement-47",
+        "name": "Bureau Archivist",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Collect 120 Collectibles"
+      },
+      {
+        "id": "achievement-48",
+        "name": "Cognitive Intruder",
+        "kind": "trophy",
+        "chapterId": "abilities-and-combat",
+        "where": "Compel 10 enemies with the Seize Ability"
+      },
+      {
+        "id": "achievement-49",
+        "name": "Unstable Matter",
+        "kind": "trophy",
+        "chapterId": "abilities-and-combat",
+        "where": "Kill 50 enemies with the Launch Ability"
+      },
+      {
+        "id": "achievement-50",
+        "name": "Volatile Debris",
+        "kind": "trophy",
+        "chapterId": "abilities-and-combat",
+        "where": "Kill 10 enemies with the Shield Burst Ability"
+      },
+      {
+        "id": "achievement-51",
+        "name": "Proper Handling Procedures",
+        "kind": "trophy",
+        "chapterId": "abilities-and-combat",
+        "where": "Use Launch to throw a grenade or rocket"
+      },
+      {
+        "id": "achievement-52",
+        "name": "War Games",
+        "kind": "trophy",
+        "chapterId": "side-missions",
+        "where": "Complete 5 Board Countermeasures"
+      },
+      {
+        "id": "achievement-53",
+        "name": "Astral Tactician",
+        "kind": "trophy",
+        "chapterId": "side-missions",
+        "where": "Complete 25 Board Countermeasures"
+      },
+      {
+        "id": "achievement-54",
+        "name": "First On the Scene",
+        "kind": "trophy",
+        "chapterId": "side-missions",
+        "where": "Complete 1 Bureau Alert"
+      },
+      {
+        "id": "achievement-55",
+        "name": "Crisis Management",
+        "kind": "trophy",
+        "chapterId": "side-missions",
+        "where": "Complete 5 Bureau Alerts"
+      },
+      {
+        "id": "achievement-56",
+        "name": "< Make/Unmake >",
+        "kind": "trophy",
+        "chapterId": "expansions",
+        "where": "Use Shape and Fracture a combined total of 100 times"
+      },
+      {
+        "id": "achievement-57",
+        "name": "Hostile Work Environment",
+        "kind": "trophy",
+        "chapterId": "expansions",
+        "where": "Kill 50 Hiss Sharpened"
+      },
+      {
+        "id": "achievement-58",
+        "name": "Rush Job",
+        "kind": "trophy",
+        "chapterId": "expansions",
+        "where": "Kill 100 enemies with Shield Rush"
+      },
+      {
+        "id": "achievement-59",
+        "name": "Subterranean Research",
+        "kind": "trophy",
+        "chapterId": "expansions",
+        "where": "Collect all Collectibles in the Foundation"
+      },
+      {
+        "id": "achievement-60",
+        "name": "Supportive Staff",
+        "kind": "trophy",
+        "chapterId": "expansions",
+        "where": "Have a Deployed Ranger kill 5 enemies"
+      },
+      {
+        "id": "achievement-61",
+        "name": "A Strong Foundation",
+        "kind": "trophy",
+        "chapterId": "expansions",
+        "where": "Complete all Missions in the Foundation"
+      },
+      {
+        "id": "achievement-62",
+        "name": "Surge Protector",
+        "kind": "trophy",
+        "chapterId": "expansions",
+        "where": "Kill 50 enemies with Surge"
+      },
+      {
+        "id": "achievement-63",
+        "name": "Elevated Mind",
+        "kind": "trophy",
+        "chapterId": "expansions",
+        "where": "Kill 25 Airborne Rangers"
+      },
+      {
+        "id": "achievement-64",
+        "name": "Multiple Applications",
+        "kind": "trophy",
+        "chapterId": "expansions",
+        "where": "Use Multi-Launch to hit 3 targets"
+      },
+      {
+        "id": "achievement-65",
+        "name": "In-depth Investigations",
+        "kind": "trophy",
+        "chapterId": "expansions",
+        "where": "Find 80% of the Collectibles in the Investigations Sector"
+      },
+      {
+        "id": "achievement-66",
+        "name": "Work Smarter, Not Harder",
+        "kind": "trophy",
+        "chapterId": "expansions",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-67",
+        "name": "Surge of Power",
+        "kind": "trophy",
+        "chapterId": "expansions",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/control",
+    "Achievement data from Steam (Steam Web API, app 870780)",
+    "StrategyWiki: stub page only, nothing used — https://strategywiki.org/wiki/Control",
+    "Fandom (control.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://control.fandom.com/wiki/Control"
+  ],
+  "route": "original",
+  "notes": "Backlog game, picked from RAWG's most-added list for its year (docs/PLAN.md section 2 ordering). StrategyWiki has a page (no completion stage in its page data) whose Walkthrough and mission subpages are linked but not written; only Assets, Collectibles, Controls, Gameplay, Personal Mods, Service Weapon, Table of Contents and Weapon Mods exist, so no structure was taken. control.fandom.com answers the API, with about 105 linked pages; names only were looked at, nothing copied. The Steam app is 870780, listed in the store list as \"CONTROL Ultimate Edition\" (its schema calls it \"Control\"). RAWG lists two add-ons, \"Control: The Foundation\" and \"Control: AWE\". 23 of 67 Steam achievements are hidden. 11 hidden ones share names with StrategyWiki mission page links and are clearly story. The achievements from \"< Make/Unmake >\" onward in the schema (plus \"Niche Position\" and \"Chief Investigator\") mention the Foundation, the Investigations Sector, Rangers or Surge, so they were grouped as expansion content; that grouping, and putting the last two hidden ones (\"Work Smarter, Not Harder\", \"Surge of Power\") there by schema position, is an inference. The other hidden ones (such as \"Altered Manifestations May Occur\", \"Vending Spree\") sit in the main story chapter as a placeholder; several have low unlock rates and are probably optional."
+}

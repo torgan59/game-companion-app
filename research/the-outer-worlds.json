@@ -1,0 +1,639 @@
+{
+  "id": "the-outer-worlds",
+  "title": "The Outer Worlds",
+  "year": 2019,
+  "platforms": [
+    "PlayStation 4",
+    "PC",
+    "Nintendo Switch",
+    "Xbox One"
+  ],
+  "rawgId": 274762,
+  "rawgSlug": "the-outer-worlds",
+  "released": "2019-10-25",
+  "developers": [
+    "Obsidian Entertainment"
+  ],
+  "playtime": 8,
+  "genres": [
+    "Action",
+    "Shooter",
+    "Adventure",
+    "RPG"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Full controller support",
+    "RPG",
+    "Story Rich",
+    "Open World",
+    "First-Person",
+    "Sci-fi",
+    "FPS",
+    "Action RPG",
+    "Space",
+    "role-playing",
+    "Choices Matter"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/704/704f831d2d132e9614931f1c4eab9e86.jpg",
+  "steamAppId": 1920490,
+  "achievements": {
+    "total": 68,
+    "hidden": 31,
+    "examples": [
+      {
+        "name": "Best Friend",
+        "percent": 73.7
+      },
+      {
+        "name": "The Harder They Fall",
+        "percent": 49.3
+      },
+      {
+        "name": "Everybody Likes Me",
+        "percent": 36.4
+      },
+      {
+        "name": "Got Your Back",
+        "percent": 3.3
+      },
+      {
+        "name": "Tossball All Star",
+        "percent": 3.0
+      },
+      {
+        "name": "Supernova",
+        "percent": 2.1
+      },
+      {
+        "name": "Jack of All Trades",
+        "percent": 2.1
+      },
+      {
+        "name": "Mad Scientist",
+        "percent": 1.9
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/The_Outer_Worlds",
+      "reason": "Page exists but has no written walkthrough subpages; no usable structure (completion stage not checked here, see notes)"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 36,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://theouterworlds.fandom.com/wiki/The_Outer_Worlds"
+    }
+  },
+  "game": {
+    "id": "the-outer-worlds",
+    "title": "The Outer Worlds",
+    "platforms": [
+      "PlayStation 4",
+      "PC",
+      "Nintendo Switch",
+      "Xbox One"
+    ],
+    "blurb": "Sci-fi action RPG set around the Halcyon colony, from Obsidian Entertainment, released 2019-10-25. RAWG average playtime: 8 hours. Genres: Action, Shooter, Adventure, RPG. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#2E8B7A",
+    "chapters": [
+      {
+        "id": "main-story",
+        "title": "The Main Story",
+        "summary": "Arriving in Halcyon and the main quest to the end. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "companions",
+        "title": "Companions",
+        "summary": "Recruiting every companion, their quest lines and fighting alongside them.",
+        "steps": []
+      },
+      {
+        "id": "character-and-factions",
+        "title": "Character, Factions and Style",
+        "summary": "Levels, skills, flaws, dialog checks, disguises, faction reputation, vendors, food and outfits.",
+        "steps": []
+      },
+      {
+        "id": "combat",
+        "title": "Combat and Science Weapons",
+        "summary": "Sneak attacks, time dilation, damage types, science weapons and mega creatures.",
+        "steps": []
+      },
+      {
+        "id": "peril-on-gorgon",
+        "title": "Peril on Gorgon (DLC)",
+        "summary": "The Peril on Gorgon expansion: its story, phonographs and special weapons.",
+        "steps": []
+      },
+      {
+        "id": "murder-on-eridanos",
+        "title": "Murder on Eridanos (DLC)",
+        "summary": "The Murder on Eridanos expansion: the invitation, the mystery and its special weapons.",
+        "steps": []
+      },
+      {
+        "id": "difficulty",
+        "title": "Hard and Supernova Difficulty",
+        "summary": "Finishing the game on the harder settings.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "The Outer Worlds",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Completed The Outer Worlds on any difficulty."
+      },
+      {
+        "id": "achievement-2",
+        "name": "Hard",
+        "kind": "trophy",
+        "chapterId": "difficulty",
+        "where": "Completed The Outer Worlds on hard difficulty."
+      },
+      {
+        "id": "achievement-3",
+        "name": "Supernova",
+        "kind": "trophy",
+        "chapterId": "difficulty",
+        "where": "Completed The Outer Worlds on supernova difficulty."
+      },
+      {
+        "id": "achievement-4",
+        "name": "Best Friend",
+        "kind": "trophy",
+        "chapterId": "companions",
+        "where": "Recruited a companion."
+      },
+      {
+        "id": "achievement-5",
+        "name": "The Harder They Fall",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Killed a mega creature."
+      },
+      {
+        "id": "achievement-6",
+        "name": "Got Your Back",
+        "kind": "trophy",
+        "chapterId": "companions",
+        "where": "Killed 50 enemies with companion abilities."
+      },
+      {
+        "id": "achievement-7",
+        "name": "Silver Tongue",
+        "kind": "trophy",
+        "chapterId": "character-and-factions",
+        "where": "Used dialog skills 30 times in conversations."
+      },
+      {
+        "id": "achievement-8",
+        "name": "Poor Sportsmanship",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Hit 30 enemies in the groin during tactical time dilation."
+      },
+      {
+        "id": "achievement-9",
+        "name": "Upgrades Available",
+        "kind": "trophy",
+        "chapterId": "character-and-factions",
+        "where": "Improved your gear 30 times through tinkering and mods."
+      },
+      {
+        "id": "achievement-10",
+        "name": "Never Seen",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Killed 50 enemies with sneak attacks."
+      },
+      {
+        "id": "achievement-11",
+        "name": "Short Circuit",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Killed 30 automechanicals with shock damage."
+      },
+      {
+        "id": "achievement-12",
+        "name": "Health Insurance",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Used the medical inhaler 300 times."
+      },
+      {
+        "id": "achievement-13",
+        "name": "We All Fall Down",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Turned 100 enemies to ash with plasma damage."
+      },
+      {
+        "id": "achievement-14",
+        "name": "Tossball All Star",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Killed 50 enemies with a tossball stick or tossball blocker."
+      },
+      {
+        "id": "achievement-15",
+        "name": "Everything Must Go",
+        "kind": "trophy",
+        "chapterId": "character-and-factions",
+        "where": "Sold 10,000 bits worth of items to vendors."
+      },
+      {
+        "id": "achievement-16",
+        "name": "Everybody Likes Me",
+        "kind": "trophy",
+        "chapterId": "character-and-factions",
+        "where": "Had 75% or higher positive reputation with 3 factions."
+      },
+      {
+        "id": "achievement-17",
+        "name": "Destroyer of Worlds",
+        "kind": "trophy",
+        "chapterId": "character-and-factions",
+        "where": "Had 75% or higher negative reputation with 3 factions."
+      },
+      {
+        "id": "achievement-18",
+        "name": "Flawed Hero",
+        "kind": "trophy",
+        "chapterId": "character-and-factions",
+        "where": "Acquired 3 flaws."
+      },
+      {
+        "id": "achievement-19",
+        "name": "Not the Best Choice",
+        "kind": "trophy",
+        "chapterId": "character-and-factions",
+        "where": "Simultaneously equipped Spacer's Choice brand clothing, headgear, and 4 weapons."
+      },
+      {
+        "id": "achievement-20",
+        "name": "Well Dressed",
+        "kind": "trophy",
+        "chapterId": "character-and-factions",
+        "where": "Wore 'A Nice Hat' and 'Chimaera' at the same time."
+      },
+      {
+        "id": "achievement-21",
+        "name": "Level 30",
+        "kind": "trophy",
+        "chapterId": "character-and-factions",
+        "where": "Character level 30 reached."
+      },
+      {
+        "id": "achievement-22",
+        "name": "Anything for a Friend",
+        "kind": "trophy",
+        "chapterId": "companions",
+        "where": "Finished a companion's quest line."
+      },
+      {
+        "id": "achievement-23",
+        "name": "Elemental Maelstrom",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Killed an enemy that was hit with all 5 damage types."
+      },
+      {
+        "id": "achievement-24",
+        "name": "Patient N",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Killed 20 enemies that were infected by spreading N-rays."
+      },
+      {
+        "id": "achievement-25",
+        "name": "Skilled",
+        "kind": "trophy",
+        "chapterId": "character-and-factions",
+        "where": "Raised a skill to 100."
+      },
+      {
+        "id": "achievement-26",
+        "name": "Jack of All Trades",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Killed an enemy with a science weapon sneak attack during TTD, with a weakspot critical hit."
+      },
+      {
+        "id": "achievement-27",
+        "name": "Well Balanced Breakfast",
+        "kind": "trophy",
+        "chapterId": "character-and-factions",
+        "where": "Simultaneously had bonuses for meat, carbohydrates, sugary drink, caffeine, and alcohol."
+      },
+      {
+        "id": "achievement-28",
+        "name": "Mad Scientist",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Killed an enemy under the effects of 4 science weapons."
+      },
+      {
+        "id": "achievement-29",
+        "name": "Impossible Mission",
+        "kind": "trophy",
+        "chapterId": "character-and-factions",
+        "where": "Succeeded at 3 dialog conversation checks with a single disguise."
+      },
+      {
+        "id": "achievement-30",
+        "name": "All for One",
+        "kind": "trophy",
+        "chapterId": "companions",
+        "where": "Completed all companion quests."
+      },
+      {
+        "id": "achievement-31",
+        "name": "One for All",
+        "kind": "trophy",
+        "chapterId": "companions",
+        "where": "Recruited all of the companions."
+      },
+      {
+        "id": "achievement-32",
+        "name": "Welcome to Halcyon!",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-33",
+        "name": "Ticket to Anywhere",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-34",
+        "name": "Something's Fishy",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-35",
+        "name": "Paradise Found",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-36",
+        "name": "Hard Time",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-37",
+        "name": "Lost and Found",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-38",
+        "name": "Pirate Radio",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-39",
+        "name": "The Audience Gasps",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-40",
+        "name": "SubLight to the End",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-41",
+        "name": "Peace in Our Time",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-42",
+        "name": "Monarch Abides",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-43",
+        "name": "Dentastic",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-44",
+        "name": "Mightier than the Sword",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-45",
+        "name": "Ludwig was Right",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-46",
+        "name": "A Star is Born",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-47",
+        "name": "The Cartographer",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-48",
+        "name": "Sunburn",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-49",
+        "name": "Peril on Gorgon",
+        "kind": "trophy",
+        "chapterId": "peril-on-gorgon",
+        "where": "Completed Peril on Gorgon on any difficulty."
+      },
+      {
+        "id": "achievement-50",
+        "name": "Greenlight Protocol",
+        "kind": "trophy",
+        "chapterId": "peril-on-gorgon",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-51",
+        "name": "NDA Protocol",
+        "kind": "trophy",
+        "chapterId": "peril-on-gorgon",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-52",
+        "name": "Peril at Hand",
+        "kind": "trophy",
+        "chapterId": "peril-on-gorgon",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-53",
+        "name": "Synthesize This",
+        "kind": "trophy",
+        "chapterId": "peril-on-gorgon",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-54",
+        "name": "Lucky Stiff",
+        "kind": "trophy",
+        "chapterId": "peril-on-gorgon",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-55",
+        "name": "The Postman",
+        "kind": "trophy",
+        "chapterId": "peril-on-gorgon",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-56",
+        "name": "Good Listener",
+        "kind": "trophy",
+        "chapterId": "peril-on-gorgon",
+        "where": "Found 20 Portable Phonographs."
+      },
+      {
+        "id": "achievement-57",
+        "name": "Family Reunion",
+        "kind": "trophy",
+        "chapterId": "peril-on-gorgon",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-58",
+        "name": "Special P.E.T. Benefits",
+        "kind": "trophy",
+        "chapterId": "peril-on-gorgon",
+        "where": "Acquired Special Delivery, P.E.T., and Employee Benefits."
+      },
+      {
+        "id": "achievement-59",
+        "name": "Murder on Eridanos",
+        "kind": "trophy",
+        "chapterId": "murder-on-eridanos",
+        "where": "Completed Murder on Eridanos on any difficulty."
+      },
+      {
+        "id": "achievement-60",
+        "name": "You Have Selected Regicide!",
+        "kind": "trophy",
+        "chapterId": "murder-on-eridanos",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-61",
+        "name": "The Rock Or The Hard Place",
+        "kind": "trophy",
+        "chapterId": "murder-on-eridanos",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-62",
+        "name": "The Mystery's Afoot",
+        "kind": "trophy",
+        "chapterId": "murder-on-eridanos",
+        "where": "Received an invitation to Eridanos."
+      },
+      {
+        "id": "achievement-63",
+        "name": "No Longer Clueless",
+        "kind": "trophy",
+        "chapterId": "murder-on-eridanos",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-64",
+        "name": "Interrogo Totus",
+        "kind": "trophy",
+        "chapterId": "murder-on-eridanos",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-65",
+        "name": "Alive And Kicking (And Shooting Too!)",
+        "kind": "trophy",
+        "chapterId": "murder-on-eridanos",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-66",
+        "name": "Spectrum Needler Buddy",
+        "kind": "trophy",
+        "chapterId": "murder-on-eridanos",
+        "where": "Acquired Spectrum Gatling, The Needler, and Udder Buddy."
+      },
+      {
+        "id": "achievement-67",
+        "name": "Put Out of Their Happiness",
+        "kind": "trophy",
+        "chapterId": "murder-on-eridanos",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-68",
+        "name": "Mutt And Jeff",
+        "kind": "trophy",
+        "chapterId": "murder-on-eridanos",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/the-outer-worlds",
+    "Achievement data from Steam (Steam Web API, app 1920490)",
+    "StrategyWiki: stub page only, nothing used — https://strategywiki.org/wiki/The_Outer_Worlds",
+    "Fandom (theouterworlds.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://theouterworlds.fandom.com/wiki/The_Outer_Worlds"
+  ],
+  "route": "original",
+  "notes": "Backlog game, picked from RAWG's most-added list for its year (docs/PLAN.md section 2 ordering). StrategyWiki has a stub page (completion stage 0); its Walkthrough subpage exists but is short (about 1,800 characters), with only Gameplay and a Table of Contents beside it. theouterworlds.fandom.com answers the API, with about 36 linked pages; names only were looked at, nothing copied. The original Steam release is not in the Steam store list, so the Steam data comes from The Outer Worlds: Spacer's Choice Edition (app 1920490; the schema calls it \"TOW SCE\"). RAWG lists that edition separately (2023), but the 2019 RAWG entry was kept. 31 of 68 Steam achievements are hidden. The expansions are named in the data (Peril on Gorgon, Murder on Eridanos); hidden ones listed after each expansion's completion achievement were put in that expansion by schema position, as were \"Good Listener\" (phonographs) and \"Special P.E.T. Benefits\". That split is an inference and needs checking. The other hidden ones sit in the main story chapter; some with low unlock rates (such as \"Mightier than the Sword\", \"Ludwig was Right\" and \"Sunburn\") may be optional."
+}

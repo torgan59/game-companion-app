@@ -1,0 +1,590 @@
+{
+  "id": "final-fantasy-vii-remake",
+  "title": "Final Fantasy VII Remake",
+  "year": 2020,
+  "platforms": [
+    "PC",
+    "PlayStation 5",
+    "PlayStation 4"
+  ],
+  "rawgId": 259801,
+  "rawgSlug": "final-fantasy-vii-remake",
+  "released": "2020-04-10",
+  "developers": [
+    "Square Enix",
+    "FINE Co."
+  ],
+  "playtime": null,
+  "genres": [
+    "Action",
+    "Adventure",
+    "RPG"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Atmospheric",
+    "RPG",
+    "Story Rich",
+    "Sci-fi",
+    "Fantasy",
+    "Exploration",
+    "Action-Adventure",
+    "exclusive",
+    "Cinematic",
+    "Magic",
+    "JRPG"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/d89/d89bd0cf4fcdc10820892980cbba0f49.jpg",
+  "steamAppId": 1462040,
+  "achievements": {
+    "total": 63,
+    "hidden": 32,
+    "examples": [
+      {
+        "name": "Warming Up",
+        "percent": 96.9
+      },
+      {
+        "name": "Staggering Start",
+        "percent": 93.3
+      },
+      {
+        "name": "Weakened Resolve",
+        "percent": 85.5
+      },
+      {
+        "name": "Hardened Veteran",
+        "percent": 3.1
+      },
+      {
+        "name": "Master of Mimicry",
+        "percent": 2.9
+      },
+      {
+        "name": "Dressed to the Nines",
+        "percent": 2.7
+      },
+      {
+        "name": "The Road to Revenge",
+        "percent": 2.6
+      },
+      {
+        "name": "Master of Fate",
+        "percent": 2.1
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Final_Fantasy_VII_Remake",
+      "reason": "Page exists but has no written walkthrough subpages; no usable structure (completion stage not checked here, see notes)"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 500,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://finalfantasy.fandom.com/wiki/Final_Fantasy_VII_Remake"
+    }
+  },
+  "game": {
+    "id": "final-fantasy-vii-remake",
+    "title": "Final Fantasy VII Remake",
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "PlayStation 4"
+    ],
+    "blurb": "Action RPG reimagining of Final Fantasy VII, set in the city of Midgar, from Square Enix, released 2020-04-10. RAWG has no playtime yet. Genres: Action, Adventure, RPG. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#2E7D5B",
+    "chapters": [
+      {
+        "id": "main-story",
+        "title": "The Main Story",
+        "summary": "Cloud and Avalanche in Midgar, chapter by chapter. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "combat-and-growth",
+        "title": "Combat, Materia and Growth",
+        "summary": "Weaknesses, staggers, summons, materia, weapon abilities, enemy skills, battle intel and levels.",
+        "steps": []
+      },
+      {
+        "id": "quests-and-minigames",
+        "title": "Quests and Minigames",
+        "summary": "Side quests, darts, the motorcycle, Whack-a-Box, squats, pull-ups, the colosseum, music discs and outfits.",
+        "steps": []
+      },
+      {
+        "id": "hard-mode",
+        "title": "Hard Difficulty",
+        "summary": "Clearing every story chapter on Hard.",
+        "steps": []
+      },
+      {
+        "id": "intermission",
+        "title": "INTERmission (expansion)",
+        "summary": "The two-chapter INTERmission episode, its side activities and its Hard run.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Master of Fate",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Earn all FINAL FANTASY VII REMAKE achievements."
+      },
+      {
+        "id": "achievement-2",
+        "name": "Onetime Gig",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-3",
+        "name": "Escape Artist",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-4",
+        "name": "Mercenary Endeavors",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-5",
+        "name": "Night on the Town",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-6",
+        "name": "Plan E",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-7",
+        "name": "Lights Out",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-8",
+        "name": "Trapped like Sewer Rats",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-9",
+        "name": "Reunited",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-10",
+        "name": "Never the Bride",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-11",
+        "name": "Sewer Survivor",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-12",
+        "name": "Paranormal Investigator",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-13",
+        "name": "The Collapse",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-14",
+        "name": "Broken Dreams",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-15",
+        "name": "Picking Up the Pieces",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-16",
+        "name": "The Pizza in the Sky",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-17",
+        "name": "No Appointment Needed",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-18",
+        "name": "Emerging from Chaos",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-19",
+        "name": "Destiny's Crossroads",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-20",
+        "name": "Warming Up",
+        "kind": "trophy",
+        "chapterId": "combat-and-growth",
+        "where": "Win a battle."
+      },
+      {
+        "id": "achievement-21",
+        "name": "Weakened Resolve",
+        "kind": "trophy",
+        "chapterId": "combat-and-growth",
+        "where": "Exploit an enemy's weakness."
+      },
+      {
+        "id": "achievement-22",
+        "name": "Bonds of Friendship",
+        "kind": "trophy",
+        "chapterId": "combat-and-growth",
+        "where": "Free a bound ally."
+      },
+      {
+        "id": "achievement-23",
+        "name": "Staggering Start",
+        "kind": "trophy",
+        "chapterId": "combat-and-growth",
+        "where": "Stagger an enemy."
+      },
+      {
+        "id": "achievement-24",
+        "name": "Music Collector",
+        "kind": "trophy",
+        "chapterId": "quests-and-minigames",
+        "where": "Collect 3 music discs."
+      },
+      {
+        "id": "achievement-25",
+        "name": "Gotta Start Somewhere",
+        "kind": "trophy",
+        "chapterId": "quests-and-minigames",
+        "where": "Complete a quest."
+      },
+      {
+        "id": "achievement-26",
+        "name": "My First Ability",
+        "kind": "trophy",
+        "chapterId": "combat-and-growth",
+        "where": "Max out a weapon's proficiency."
+      },
+      {
+        "id": "achievement-27",
+        "name": "Materia for Beginners",
+        "kind": "trophy",
+        "chapterId": "combat-and-growth",
+        "where": "Level up an orb of materia."
+      },
+      {
+        "id": "achievement-28",
+        "name": "My First Summon",
+        "kind": "trophy",
+        "chapterId": "combat-and-growth",
+        "where": "Invoke a summon."
+      },
+      {
+        "id": "achievement-29",
+        "name": "Biker Boy",
+        "kind": "trophy",
+        "chapterId": "quests-and-minigames",
+        "where": "Get praised by Jessie at the end of the motorcycle mini-game."
+      },
+      {
+        "id": "achievement-30",
+        "name": "Heavenly Dart Player",
+        "kind": "trophy",
+        "chapterId": "quests-and-minigames",
+        "where": "Rise to the top of the Seventh Heaven darts leaderboard."
+      },
+      {
+        "id": "achievement-31",
+        "name": "Cleanup Crew",
+        "kind": "trophy",
+        "chapterId": "quests-and-minigames",
+        "where": "Obtain the Chocobo & Moogle materia."
+      },
+      {
+        "id": "achievement-32",
+        "name": "In Lockstep",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Bypass the delta-level security lock in Mako Reactor 5."
+      },
+      {
+        "id": "achievement-33",
+        "name": "Crate Annihilator",
+        "kind": "trophy",
+        "chapterId": "quests-and-minigames",
+        "where": "Complete all Normal difficulty Whack-a-Box challenges."
+      },
+      {
+        "id": "achievement-34",
+        "name": "Say It with Flowers",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-35",
+        "name": "Summon Slayer",
+        "kind": "trophy",
+        "chapterId": "combat-and-growth",
+        "where": "Defeat a summon in battle."
+      },
+      {
+        "id": "achievement-36",
+        "name": "Sultan of Squat",
+        "kind": "trophy",
+        "chapterId": "quests-and-minigames",
+        "where": "Complete all squat challenges."
+      },
+      {
+        "id": "achievement-37",
+        "name": "Dancing Queen",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-38",
+        "name": "Returning Champion",
+        "kind": "trophy",
+        "chapterId": "quests-and-minigames",
+        "where": "Emerge victorious from a colosseum sparring session."
+      },
+      {
+        "id": "achievement-39",
+        "name": "Snappy Dresser",
+        "kind": "trophy",
+        "chapterId": "quests-and-minigames",
+        "where": "Obtain three bridal candidate outfits."
+      },
+      {
+        "id": "achievement-40",
+        "name": "Dressed to the Nines",
+        "kind": "trophy",
+        "chapterId": "quests-and-minigames",
+        "where": "Obtain all nine bridal candidate outfits."
+      },
+      {
+        "id": "achievement-41",
+        "name": "Whack-a-Box Wunderkind",
+        "kind": "trophy",
+        "chapterId": "quests-and-minigames",
+        "where": "Complete all Hard difficulty Whack-a-Box challenges."
+      },
+      {
+        "id": "achievement-42",
+        "name": "Peeress of Pull-Ups",
+        "kind": "trophy",
+        "chapterId": "quests-and-minigames",
+        "where": "Complete all pull-up challenges."
+      },
+      {
+        "id": "achievement-43",
+        "name": "Divine Gratitude",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-44",
+        "name": "The Johnny Experience",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-45",
+        "name": "Best in the Business",
+        "kind": "trophy",
+        "chapterId": "quests-and-minigames",
+        "where": "Complete all quests."
+      },
+      {
+        "id": "achievement-46",
+        "name": "Disc Jockey",
+        "kind": "trophy",
+        "chapterId": "quests-and-minigames",
+        "where": "Collect all music discs."
+      },
+      {
+        "id": "achievement-47",
+        "name": "Building Character",
+        "kind": "trophy",
+        "chapterId": "combat-and-growth",
+        "where": "Attain level 50 with a character."
+      },
+      {
+        "id": "achievement-48",
+        "name": "Staggering Feat",
+        "kind": "trophy",
+        "chapterId": "combat-and-growth",
+        "where": "Deal 300% damage to a staggered enemy."
+      },
+      {
+        "id": "achievement-49",
+        "name": "Intelligence Agent",
+        "kind": "trophy",
+        "chapterId": "combat-and-growth",
+        "where": "Complete all battle intel reports."
+      },
+      {
+        "id": "achievement-50",
+        "name": "Weapons Expert",
+        "kind": "trophy",
+        "chapterId": "combat-and-growth",
+        "where": "Learn all weapon abilities for Cloud, Barret, Tifa, and Aerith."
+      },
+      {
+        "id": "achievement-51",
+        "name": "Master of Mimicry",
+        "kind": "trophy",
+        "chapterId": "combat-and-growth",
+        "where": "Learn all enemy skills."
+      },
+      {
+        "id": "achievement-52",
+        "name": "That's the Smell",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-53",
+        "name": "Ultimate Weapon",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-54",
+        "name": "Hardened Veteran",
+        "kind": "trophy",
+        "chapterId": "hard-mode",
+        "where": "Complete all chapters of the main story on Hard difficulty."
+      },
+      {
+        "id": "achievement-55",
+        "name": "Takes Two IDs to Tango",
+        "kind": "trophy",
+        "chapterId": "intermission",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-56",
+        "name": "Out of Darkness's Clutches",
+        "kind": "trophy",
+        "chapterId": "intermission",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-57",
+        "name": "The Road to Revenge",
+        "kind": "trophy",
+        "chapterId": "intermission",
+        "where": "Complete both chapters of INTERmission on Hard difficulty."
+      },
+      {
+        "id": "achievement-58",
+        "name": "Turtle-tastic",
+        "kind": "trophy",
+        "chapterId": "intermission",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-59",
+        "name": "Game, Set, Master",
+        "kind": "trophy",
+        "chapterId": "intermission",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-60",
+        "name": "Condor Queen",
+        "kind": "trophy",
+        "chapterId": "intermission",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-61",
+        "name": "Materia Maven",
+        "kind": "trophy",
+        "chapterId": "intermission",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-62",
+        "name": "Ultimate Weapon 2.0",
+        "kind": "trophy",
+        "chapterId": "intermission",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-63",
+        "name": "Corrupter of the Immaculate",
+        "kind": "trophy",
+        "chapterId": "intermission",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/final-fantasy-vii-remake",
+    "Achievement data from Steam (Steam Web API, app 1462040)",
+    "StrategyWiki: stub page only, nothing used — https://strategywiki.org/wiki/Final_Fantasy_VII_Remake",
+    "Fandom (finalfantasy.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://finalfantasy.fandom.com/wiki/Final_Fantasy_VII_Remake"
+  ],
+  "route": "original",
+  "notes": "Backlog game, picked from RAWG's most-added list for its year (docs/PLAN.md section 2 ordering). StrategyWiki has a page at completion stage 2, but only two walkthrough subpages exist (\"The Destruction of Mako Reactor 1\", about 1,200 characters, and \"Fateful Encounters\", about 340); the Walkthrough page itself is missing, so it is not a real guide and no structure was taken. finalfantasy.fandom.com answers the API, with 500 or more linked pages (the link list was cut off at 500); names only were looked at, nothing copied. The Steam app is FINAL FANTASY VII REMAKE INTERGRADE (1462040), which includes the INTERmission episode; the Steam schema calls it \"ENDplusP\" (an internal codename). 32 of 63 Steam achievements are hidden. The 8 hidden ones listed after \"Hardened Veteran\", around the visible INTERmission achievement, were put in the INTERmission chapter by schema position. The rest sit in the main story chapter; \"Say It with Flowers\", \"Dancing Queen\", \"Divine Gratitude\", \"The Johnny Experience\", \"That's the Smell\" and \"Ultimate Weapon\" are probably optional content and need checking. \"In Lockstep\" (Mako Reactor 5) was put in the main story."
+}

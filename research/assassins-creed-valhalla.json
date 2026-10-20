@@ -1,0 +1,818 @@
+{
+  "id": "assassins-creed-valhalla",
+  "title": "Assassin's Creed Valhalla",
+  "year": 2020,
+  "platforms": [
+    "PC",
+    "Xbox One",
+    "PlayStation 5",
+    "PlayStation 4",
+    "Xbox Series X|S"
+  ],
+  "rawgId": 437059,
+  "rawgSlug": "assassins-creed-valhalla",
+  "released": "2020-11-10",
+  "developers": [
+    "Ubisoft Montreal"
+  ],
+  "playtime": 5,
+  "genres": [
+    "Action",
+    "Adventure",
+    "RPG"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Multiplayer",
+    "Atmospheric",
+    "RPG",
+    "Story Rich",
+    "Open World",
+    "Third Person",
+    "Partial Controller Support",
+    "Fantasy",
+    "Gore",
+    "Female Protagonist",
+    "Violent"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/934/9346092ae11bf7582c883869468171cc.jpg",
+  "steamAppId": 2208920,
+  "achievements": {
+    "total": 92,
+    "hidden": 31,
+    "examples": [
+      {
+        "name": "Builder",
+        "percent": 31.6
+      },
+      {
+        "name": "Face My Might!",
+        "percent": 26.6
+      },
+      {
+        "name": "Tranquility",
+        "percent": 24.2
+      },
+      {
+        "name": "Overdesign II",
+        "percent": 0.9
+      },
+      {
+        "name": "A True Master",
+        "percent": 0.9
+      },
+      {
+        "name": "See No Evil",
+        "percent": 0.8
+      },
+      {
+        "name": "Full Master",
+        "percent": 0.8
+      },
+      {
+        "name": "High Kick",
+        "percent": 0.8
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": false,
+      "pages": 0,
+      "reason": "No page for Assassin's Creed Valhalla (MediaWiki API returned missing; search empty)"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 500,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://assassinscreed.fandom.com/wiki/Assassin's_Creed:_Valhalla"
+    }
+  },
+  "game": {
+    "id": "assassins-creed-valhalla",
+    "title": "Assassin's Creed Valhalla",
+    "platforms": [
+      "PC",
+      "Xbox One",
+      "PlayStation 5",
+      "PlayStation 4",
+      "Xbox Series X|S"
+    ],
+    "blurb": "Open-world Viking action RPG set in ninth-century England, from Ubisoft Montreal, released 2020-11-10. RAWG average playtime: 5 hours (well under a full run). Genres: Action, Adventure, RPG. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#2F5D7C",
+    "chapters": [
+      {
+        "id": "main-story",
+        "title": "The Main Story",
+        "summary": "Eivor's clan leaves Norway to make a new home in England. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "england-world",
+        "title": "Exploring England",
+        "summary": "Standing Stones, Cairns, World Events, treasure hoards, Roman artifacts, Orlog, flytings, fishing, Alpha animals, Tombs of the Fallen and completing territories.",
+        "steps": []
+      },
+      {
+        "id": "settlement-and-growth",
+        "title": "Settlement, Gear and Abilities",
+        "summary": "Growing the settlement, abilities, mastery points, gear upgrades and Power.",
+        "steps": []
+      },
+      {
+        "id": "combat-and-stealth",
+        "title": "Combat and Stealth",
+        "summary": "Assassinations, blending in, raiding on the longship and tough fights.",
+        "steps": []
+      },
+      {
+        "id": "wrath-of-the-druids",
+        "title": "Wrath of the Druids (DLC)",
+        "summary": "Ireland: its territories, Dublin Renown, Royal Demands and the Morrigan.",
+        "steps": []
+      },
+      {
+        "id": "siege-of-paris",
+        "title": "The Siege of Paris (DLC)",
+        "summary": "Francia: the campaign, Rebel Missions, the Frankish nobles and the Ghost Auroch.",
+        "steps": []
+      },
+      {
+        "id": "dawn-of-ragnarok",
+        "title": "Dawn of Ragnarök (DLC)",
+        "summary": "Svartalfheim: the campaign, the Shelters, Muspelheim Monoliths and new powers.",
+        "steps": []
+      },
+      {
+        "id": "forgotten-saga",
+        "title": "The Forgotten Saga (mode)",
+        "summary": "Odin's Camp, Niflheim, Nar's Favors and Hel.",
+        "steps": []
+      },
+      {
+        "id": "mastery-challenge",
+        "title": "Mastery Challenge",
+        "summary": "Earning gold medals in the Mastery Challenge.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "The Saga Begins",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-2",
+        "name": "To England!",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-3",
+        "name": "Hard Choices",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-4",
+        "name": "The Order Is Revealed",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-5",
+        "name": "The Good Saxon",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-6",
+        "name": "Take My Hand",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-7",
+        "name": "Calling in a Favor",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-8",
+        "name": "The Enemy of My Enemy",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-9",
+        "name": "In the Footsteps of the Gods",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-10",
+        "name": "As It Was Foretold",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-11",
+        "name": "England Subdued",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-12",
+        "name": "Disorder of the Ancients",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-13",
+        "name": "Rampage",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-14",
+        "name": "It's Alive!",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-15",
+        "name": "Tranquility",
+        "kind": "trophy",
+        "chapterId": "england-world",
+        "where": "Complete a Standing Stone puzzle"
+      },
+      {
+        "id": "achievement-16",
+        "name": "Equilibrium",
+        "kind": "trophy",
+        "chapterId": "england-world",
+        "where": "Complete 3 Cairn challenges"
+      },
+      {
+        "id": "achievement-17",
+        "name": "Old School Treasure Hunt",
+        "kind": "trophy",
+        "chapterId": "england-world",
+        "where": "Collect 5 Treasure Hoard rewards (Base game only)"
+      },
+      {
+        "id": "achievement-18",
+        "name": "Skadi's Hobby",
+        "kind": "trophy",
+        "chapterId": "england-world",
+        "where": "Perform a 150m slide in the snow"
+      },
+      {
+        "id": "achievement-19",
+        "name": "Witch Hunter",
+        "kind": "trophy",
+        "chapterId": "england-world",
+        "where": "Defeat one Daughter of Lerion"
+      },
+      {
+        "id": "achievement-20",
+        "name": "Equine Attack",
+        "kind": "trophy",
+        "chapterId": "combat-and-stealth",
+        "where": "Assassinate an enemy from your horse"
+      },
+      {
+        "id": "achievement-21",
+        "name": "Silent Viking",
+        "kind": "trophy",
+        "chapterId": "combat-and-stealth",
+        "where": "Assassinate 10 enemies in a row without triggering a conflict"
+      },
+      {
+        "id": "achievement-22",
+        "name": "Everyday Life",
+        "kind": "trophy",
+        "chapterId": "england-world",
+        "where": "Complete 10 World Events"
+      },
+      {
+        "id": "achievement-23",
+        "name": "Overdesign II",
+        "kind": "trophy",
+        "chapterId": "combat-and-stealth",
+        "where": "While on fire during a fight, kill 3 hard difficulty soldiers without breaking their shields"
+      },
+      {
+        "id": "achievement-24",
+        "name": "Completionist All the Way!",
+        "kind": "trophy",
+        "chapterId": "england-world",
+        "where": "Complete all territories"
+      },
+      {
+        "id": "achievement-25",
+        "name": "Row Rage",
+        "kind": "trophy",
+        "chapterId": "combat-and-stealth",
+        "where": "Ram and destroy 5 boats in under 2 minutes with your longship (Base game only)"
+      },
+      {
+        "id": "achievement-26",
+        "name": "We're in the End Game Now",
+        "kind": "trophy",
+        "chapterId": "settlement-and-growth",
+        "where": "Reach Power 280"
+      },
+      {
+        "id": "achievement-27",
+        "name": "A Picture of Grace",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-28",
+        "name": "Builder",
+        "kind": "trophy",
+        "chapterId": "settlement-and-growth",
+        "where": "Reach settlement level 3"
+      },
+      {
+        "id": "achievement-29",
+        "name": "Home Sweet Home",
+        "kind": "trophy",
+        "chapterId": "settlement-and-growth",
+        "where": "Reach settlement level 6"
+      },
+      {
+        "id": "achievement-30",
+        "name": "Pioneer",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-31",
+        "name": "Home Decor",
+        "kind": "trophy",
+        "chapterId": "settlement-and-growth",
+        "where": "Place an item on each settlement cosmetic spot (Base game only)"
+      },
+      {
+        "id": "achievement-32",
+        "name": "Not the Norse You're Looking For",
+        "kind": "trophy",
+        "chapterId": "combat-and-stealth",
+        "where": "Successfully pass close to a guard in a distrust area by blending with a group of monks"
+      },
+      {
+        "id": "achievement-33",
+        "name": "Face My Might!",
+        "kind": "trophy",
+        "chapterId": "settlement-and-growth",
+        "where": "Equip 8 abilities"
+      },
+      {
+        "id": "achievement-34",
+        "name": "Ultimate Refinement",
+        "kind": "trophy",
+        "chapterId": "settlement-and-growth",
+        "where": "Fully upgrade and enhance a piece of gear"
+      },
+      {
+        "id": "achievement-35",
+        "name": "Flying Eivor",
+        "kind": "trophy",
+        "chapterId": "combat-and-stealth",
+        "where": "Get thrown 30 meters away by a destroyer or a housecarl"
+      },
+      {
+        "id": "achievement-36",
+        "name": "Twinkle Twinkle",
+        "kind": "trophy",
+        "chapterId": "settlement-and-growth",
+        "where": "Release a firefly in your settlement"
+      },
+      {
+        "id": "achievement-37",
+        "name": "Archaeologist",
+        "kind": "trophy",
+        "chapterId": "england-world",
+        "where": "Complete all Roman collector challenges"
+      },
+      {
+        "id": "achievement-38",
+        "name": "Orlog Champion",
+        "kind": "trophy",
+        "chapterId": "england-world",
+        "where": "Beat all the Orlog players"
+      },
+      {
+        "id": "achievement-39",
+        "name": "Good Catch!",
+        "kind": "trophy",
+        "chapterId": "england-world",
+        "where": "Catch a fish of each type using the fishing line"
+      },
+      {
+        "id": "achievement-40",
+        "name": "Full Mastery",
+        "kind": "trophy",
+        "chapterId": "settlement-and-growth",
+        "where": "Spend your first Mastery point"
+      },
+      {
+        "id": "achievement-41",
+        "name": "Is There Anybody Out There?",
+        "kind": "trophy",
+        "chapterId": "england-world",
+        "where": "Light the unlit braziers on Hadrian's Wall"
+      },
+      {
+        "id": "achievement-42",
+        "name": "Slam Master",
+        "kind": "trophy",
+        "chapterId": "england-world",
+        "where": "Complete all the flytings"
+      },
+      {
+        "id": "achievement-43",
+        "name": "Caladfwlch",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-44",
+        "name": "It's Not a Bug, It's a Feature!",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-45",
+        "name": "Seahorse",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-46",
+        "name": "The Hidden Truth",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-47",
+        "name": "Master Hunter",
+        "kind": "trophy",
+        "chapterId": "england-world",
+        "where": "Defeat all Alpha animals (Base game only)"
+      },
+      {
+        "id": "achievement-48",
+        "name": "Dreamcatcher",
+        "kind": "trophy",
+        "chapterId": "england-world",
+        "where": "Destroy 10 Curse Symbols (Base game only)"
+      },
+      {
+        "id": "achievement-49",
+        "name": "Godly Reward",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-50",
+        "name": "Worthy",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-51",
+        "name": "Irish Legend",
+        "kind": "trophy",
+        "chapterId": "wrath-of-the-druids",
+        "where": "Complete all territories of Ireland (Wrath of the Druids)."
+      },
+      {
+        "id": "achievement-52",
+        "name": "Ireland's Deliverance",
+        "kind": "trophy",
+        "chapterId": "wrath-of-the-druids",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-53",
+        "name": "Dawn of the Druids",
+        "kind": "trophy",
+        "chapterId": "wrath-of-the-druids",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-54",
+        "name": "Like a Druid",
+        "kind": "trophy",
+        "chapterId": "wrath-of-the-druids",
+        "where": "Complete a Trial of the Morrigan (Wrath of the Druids)."
+      },
+      {
+        "id": "achievement-55",
+        "name": "All Roads Lead to Dublin",
+        "kind": "trophy",
+        "chapterId": "wrath-of-the-druids",
+        "where": "Reach the max level of Dublin Renown (Wrath of the Druids)."
+      },
+      {
+        "id": "achievement-56",
+        "name": "The Legend of St. Patrick",
+        "kind": "trophy",
+        "chapterId": "wrath-of-the-druids",
+        "where": "Kill the only snake in Ireland (Wrath of the Druids)."
+      },
+      {
+        "id": "achievement-57",
+        "name": "King’s Maker",
+        "kind": "trophy",
+        "chapterId": "wrath-of-the-druids",
+        "where": "Complete 10 Royal Demands (Wrath of the Druids)."
+      },
+      {
+        "id": "achievement-58",
+        "name": "Double Trouble",
+        "kind": "trophy",
+        "chapterId": "wrath-of-the-druids",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-59",
+        "name": "Decked Out",
+        "kind": "trophy",
+        "chapterId": "wrath-of-the-druids",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-60",
+        "name": "All That Glitters",
+        "kind": "trophy",
+        "chapterId": "mastery-challenge",
+        "where": "Get your first Gold Medal in Mastery Challenge (Part 1)"
+      },
+      {
+        "id": "achievement-61",
+        "name": "A True Master",
+        "kind": "trophy",
+        "chapterId": "mastery-challenge",
+        "where": "Earn all Gold Medals available in Mastery Challenge (Part 1)"
+      },
+      {
+        "id": "achievement-62",
+        "name": "Do What Is Right",
+        "kind": "trophy",
+        "chapterId": "siege-of-paris",
+        "where": "Complete the Siege of Paris campaign (The Siege of Paris)."
+      },
+      {
+        "id": "achievement-63",
+        "name": "Know What Is Right",
+        "kind": "trophy",
+        "chapterId": "siege-of-paris",
+        "where": "Complete all territories of Francia (The Siege of Paris)."
+      },
+      {
+        "id": "achievement-64",
+        "name": "We Nobles Three",
+        "kind": "trophy",
+        "chapterId": "siege-of-paris",
+        "where": "Defeat all three Frankish Nobles (The Siege of Paris)."
+      },
+      {
+        "id": "achievement-65",
+        "name": "Vive la Résistance",
+        "kind": "trophy",
+        "chapterId": "siege-of-paris",
+        "where": "Reach maximum Infamy in the Rebel Missions (The Siege of Paris)."
+      },
+      {
+        "id": "achievement-66",
+        "name": "Future Past",
+        "kind": "trophy",
+        "chapterId": "siege-of-paris",
+        "where": "Enter the Assassin Bureau in Francia (The Siege of Paris)."
+      },
+      {
+        "id": "achievement-67",
+        "name": "Bad Bull",
+        "kind": "trophy",
+        "chapterId": "siege-of-paris",
+        "where": "Defeat the Ghost Auroch Boss (The Siege of Paris)."
+      },
+      {
+        "id": "achievement-68",
+        "name": "Vendange",
+        "kind": "trophy",
+        "chapterId": "siege-of-paris",
+        "where": "Kill an enemy with a scythe while wearing the full Reaper armor set (The Siege of Paris)."
+      },
+      {
+        "id": "achievement-69",
+        "name": "Pat the Cats",
+        "kind": "trophy",
+        "chapterId": "siege-of-paris",
+        "where": "Pat all the cats in Evreux (The Siege of Paris)."
+      },
+      {
+        "id": "achievement-70",
+        "name": "Lèse-majesté",
+        "kind": "trophy",
+        "chapterId": "siege-of-paris",
+        "where": "Complete 10 Rebel Missions (The Siege of Paris)."
+      },
+      {
+        "id": "achievement-71",
+        "name": "Spelunker",
+        "kind": "trophy",
+        "chapterId": "england-world",
+        "where": "Complete one Tomb of the Fallen"
+      },
+      {
+        "id": "achievement-72",
+        "name": "Crypt-ologist",
+        "kind": "trophy",
+        "chapterId": "england-world",
+        "where": "Complete three Tombs of the Fallen"
+      },
+      {
+        "id": "achievement-73",
+        "name": "Over the Hills…",
+        "kind": "trophy",
+        "chapterId": "dawn-of-ragnarok",
+        "where": "Complete all territories of Svartalfheim (Dawn of Ragnarök)"
+      },
+      {
+        "id": "achievement-74",
+        "name": "Ashes of Svartalfheim",
+        "kind": "trophy",
+        "chapterId": "dawn-of-ragnarok",
+        "where": "Complete the Dawn of Ragnarök campaign (Dawn of Ragnarök)"
+      },
+      {
+        "id": "achievement-75",
+        "name": "Hugr Incarnate",
+        "kind": "trophy",
+        "chapterId": "dawn-of-ragnarok",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-76",
+        "name": "Expert Storyteller",
+        "kind": "trophy",
+        "chapterId": "dawn-of-ragnarok",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-77",
+        "name": "It's All in the Wrist",
+        "kind": "trophy",
+        "chapterId": "dawn-of-ragnarok",
+        "where": "Kill 30 enemies with an Atgeir (Dawn of Ragnarök)"
+      },
+      {
+        "id": "achievement-78",
+        "name": "Aesir Spelunker",
+        "kind": "trophy",
+        "chapterId": "dawn-of-ragnarok",
+        "where": "Discover all Shelters (Dawn of Ragnarök)"
+      },
+      {
+        "id": "achievement-79",
+        "name": "Motsognir's Blessing",
+        "kind": "trophy",
+        "chapterId": "dawn-of-ragnarok",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-80",
+        "name": "See No Evil",
+        "kind": "trophy",
+        "chapterId": "dawn-of-ragnarok",
+        "where": "Teleport-Assassinate two enemies and fly away without being detected (Dawn of Ragnarök)"
+      },
+      {
+        "id": "achievement-81",
+        "name": "Flying Fortress",
+        "kind": "trophy",
+        "chapterId": "dawn-of-ragnarok",
+        "where": "Reach a Muspelheim Monolith (Dawn of Ragnarök)"
+      },
+      {
+        "id": "achievement-82",
+        "name": "Full Master",
+        "kind": "trophy",
+        "chapterId": "mastery-challenge",
+        "where": "Earn all Gold Medals available in Mastery Challenge"
+      },
+      {
+        "id": "achievement-83",
+        "name": "Sacrificial Victory",
+        "kind": "trophy",
+        "chapterId": "forgotten-saga",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-84",
+        "name": "Freedom Fighter",
+        "kind": "trophy",
+        "chapterId": "forgotten-saga",
+        "where": "Reunite the dead within Kaldstad, Døkkerland and Nidheim (The Forgotten Saga)"
+      },
+      {
+        "id": "achievement-85",
+        "name": "Pure of Heart",
+        "kind": "trophy",
+        "chapterId": "forgotten-saga",
+        "where": "Defeat Nidhogg without using an Elk Shrine (The Forgotten Saga)"
+      },
+      {
+        "id": "achievement-86",
+        "name": "Crossing Dókkerland",
+        "kind": "trophy",
+        "chapterId": "forgotten-saga",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-87",
+        "name": "High Kick",
+        "kind": "trophy",
+        "chapterId": "forgotten-saga",
+        "where": "Knock 10 enemies off of ledges using the Kick of Tyr Ability (The Forgotten Saga)"
+      },
+      {
+        "id": "achievement-88",
+        "name": "Royal Treatment",
+        "kind": "trophy",
+        "chapterId": "forgotten-saga",
+        "where": "Find Hel's Majordomo (The Forgotten Saga)"
+      },
+      {
+        "id": "achievement-89",
+        "name": "A Favored Customer",
+        "kind": "trophy",
+        "chapterId": "forgotten-saga",
+        "where": "Buy all of Nar's Favors at least once (The Forgotten Saga)"
+      },
+      {
+        "id": "achievement-90",
+        "name": "The Queen's Fall",
+        "kind": "trophy",
+        "chapterId": "forgotten-saga",
+        "where": "Defeat Hel, ruler of Niflheim (The Forgotten Saga)"
+      },
+      {
+        "id": "achievement-91",
+        "name": "Returning to the Roots",
+        "kind": "trophy",
+        "chapterId": "forgotten-saga",
+        "where": "Return to Odin's Camp for the first time (The Forgotten Saga)"
+      },
+      {
+        "id": "achievement-92",
+        "name": "Heroes of Ancient Britain",
+        "kind": "trophy",
+        "chapterId": "england-world",
+        "where": "Complete all Tombs of the Fallen"
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/assassins-creed-valhalla",
+    "Achievement data from Steam (Steam Web API, app 2208920)",
+    "StrategyWiki: no page for this game, nothing used",
+    "Fandom (assassinscreed.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://assassinscreed.fandom.com/wiki/Assassin's_Creed:_Valhalla"
+  ],
+  "route": "original",
+  "notes": "Backlog game, picked from RAWG's most-added list for its year (docs/PLAN.md section 2 ordering). No StrategyWiki page under \"Assassin's Creed Valhalla\" or \"Assassin's Creed: Valhalla\". assassinscreed.fandom.com answers the API under \"Assassin's Creed: Valhalla\", with 500 or more linked pages (the link list was cut off at 500); names only were looked at, nothing copied. 31 of 92 Steam achievements are hidden. Most DLC achievements name their DLC in brackets; 9 hidden ones listed inside those DLC blocks were placed by schema position (\"Ireland's Deliverance\" and three others to Wrath of the Druids, three to Dawn of Ragnarök, two to The Forgotten Saga), which needs checking. The other 22 hidden ones sit in the main story chapter; several with low unlock rates (such as \"Caladfwlch\", \"Seahorse\", \"The Hidden Truth\", \"Godly Reward\", \"Worthy\", \"A Picture of Grace\") are probably optional content. The Forgotten Saga is labelled a mode only because its achievements sit together; the data does not say whether it is paid DLC. Tombs of the Fallen carry no DLC tag and were put with exploring England."
+}
