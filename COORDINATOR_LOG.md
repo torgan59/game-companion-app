@@ -5,6 +5,39 @@ Tracks the 20-game research queue in `research/state.json` and files landing in 
 
 ---
 
+## 2026-10-20 22:10 UTC
+
+**Year / queue:** currentYear = 2026 on `main` (state.json unchanged since PR #7, 19:46 UTC). Queue on `main`: 40 games, 27 done, 5 in-progress, 4 queued, 4 skipped, 0 errors. PR #8 grew again and now carries: 233 games, 212 done, 0 in-progress, 4 queued (all unreleased), 17 skipped, 0 errors, currentYear back to 2026 (it read 2013 at the 21:10 check). `yearsCompleted` still empty on both (cosmetic).
+
+**Progress:** 27/40 games merged to `main`. Counting PR #8, 212/233 games are researched, and every released game in the queue is done. The original 20-game target was met at 19:47 UTC.
+
+**Latest commits (origin/main):**
+- `97bb879` Coordinator log: 21:10 check (coordinator, 21:12 UTC)
+- `7736582` Coordinator log: 20:10 check (coordinator, 20:12 UTC)
+- `b48fd41` Merge pull request #7 (Tim, 19:47 UTC)
+- `9e3af4d` Claim: batch 6 research in progress (batch session, 19:46 UTC)
+- `1abbde2` Research: Control Resonant, AC Black Flag Resynced, Onimusha, Nioh 3, Avowed (batch session, 19:46 UTC)
+
+No new research on `main` this hour. The batch session was not finished after all: PR #8's branch gained 4 more commits between 21:12 and 21:33 UTC, a second backlog pass of 79 games (RAWG most-added positions 41-80 per year, 2010-2026) researched newest-first in batches 12, 13 and 14. The last push was at 21:33 UTC, about 40 minutes before this check, and the title and description were rewritten again.
+
+**PR #8 (open, clean, ready for review):** retitled "Research batches 6–14: 185 games + two backlog passes for 2010–2026". Head `b72f263`, 18 commits, 196 files changed, about 103,700 lines added, touches only `research/`. Mergeable state is **clean**. No comments or reviews yet. State.json on the branch has nothing in-progress and the 4 remaining queued entries all carry future release dates, so this version looks finished: Phantom Blade Zero (2026-10-29), GTA VI (2026-11-19), Path of Exile 2 (2026-12-11), Prince of Persia: Sands of Time Remake (2026-12-31). It now lists 13 `cc-by-sa` route games (page names and order only) and 17 skips, the 8 new ones being DLC or editions covered by another entry (Black Flag original, The Last of Us, Persona 5, Shadow of the Erdtree, Phantom Liberty, Lies of P Overture, God of War III, Divinity Original Sin).
+
+**Researcher:** `game-researcher-routine` runs daily at 03:07 UTC and is enabled. Next run is 2026-10-21 03:07 UTC (about 5 hours away). Its last run (today 03:07 UTC) succeeded in 28 seconds.
+
+**Research files:** `research/` on `main` is unchanged: `state.json` plus 27 game files, every `done` slug matched, no stray files, no naming issues. On PR #8's branch: `state.json` plus 212 game files. Every `done` entry has a matching file and every file has a `done` entry, no duplicate slugs, filenames are clean lowercase-hyphen slugs and each file's `id` matches its filename. `packs/` still does not exist (placeholder `packPath` values, expected). Remote branches unchanged: `main`, `claude/festive-turing-ek24ds` (PR #8), plus three fully merged branches safe to delete: `claude/research-cyberpunk-2077`, `claude/research-forza-horizon-6`, `claude/research-crimson-desert`.
+
+**Quality check:** all 212 files on PR #8's branch PASS (`id`, `title`, `platforms` non-empty, `game.chapters` and `game.collectibles` present, `id` equals filename, valid JSON). Every file has at least 3 chapters and every collectible points at an existing chapter. 21 files have 0 collectibles, up from 12, all console-only games or Steam apps with no achievement list, which the PR description explains; the 9 new ones are alice-madness-returns, alpha-protocol, assassins-creed-2-deluxe-edition, divinity-ii-developers-cut, dragon-age-origins-ultimate-edition, god-of-war-iii-remastered, prince-of-persia-the-forgotten-sands, ratchet-clank-2016, shadow-of-the-colossus-2011. Chapters in every file still have empty `steps`; the guide text needs original writing.
+
+**Blockers / errors / stale PRs:**
+- **PR #8 is waiting on Tim.** It is clean against `main` and the field check passes. It is now 2 h 20 min old and has been rewritten three times, so Tim should check the head is still `b72f263` when he reviews. Things to review before merging: the two backlog picks (185 games chosen by RAWG rank, filtered by hand to docs/PLAN.md), the 17 skips, and whether a 233-game queue is what he wants for the app.
+- **The daily researcher has nothing eligible to pick, whichever way PR #8 goes.** On `main` the first queued game is GTA VI (unreleased). On PR #8's branch all 4 queued games are unreleased, the earliest on 2026-10-29. `.claude/agents/game-researcher.md` still has no rule for a future `releaseDate` (it only appears in the example state). Fix: add one line saying to skip any game whose `releaseDate` is in the future and stop cleanly when nothing is eligible. Until then the 03:07 UTC run will try to research an unreleased game or fail loudly.
+- No errors in state.json on `main` or on PR #8. No CI configured, nothing to wait on.
+- Notification sent this run: PR #8 grew to 212 games and is ready for review; researcher has nothing eligible.
+
+**Next game in queue:** on `main`, `grand-theft-auto-vi` — Grand Theft Auto VI (2026, releases 2026-11-19). After it: `final-fantasy-vii-rebirth`, `metaphor-refantazio`, `star-wars-outlaws` (2024), all already researched in PR #8. After PR #8 merges, the first eligible game is `phantom-blade-zero` — Phantom Blade Zero, on or after 2026-10-29.
+
+---
+
 ## 2026-10-20 21:10 UTC
 
 **Year / queue:** currentYear = 2026 on `main` (state.json unchanged since PR #7, 19:46 UTC). Queue on `main`: 40 games, 27 done, 5 in-progress, 4 queued, 4 skipped, 0 errors. PR #8 now carries the finished version: 146 games, 136 done, 0 in-progress, 1 queued (GTA VI), 9 skipped, 0 errors, currentYear 2013. `yearsCompleted` still empty on both (cosmetic).
