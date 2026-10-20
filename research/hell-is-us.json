@@ -1,0 +1,421 @@
+{
+  "id": "hell-is-us",
+  "title": "Hell is Us",
+  "year": 2025,
+  "platforms": [
+    "PC",
+    "Xbox Series X|S",
+    "PlayStation 5"
+  ],
+  "rawgId": 782261,
+  "rawgSlug": "hell-is-us",
+  "released": "2025-09-04",
+  "developers": [
+    "Rogue Factor"
+  ],
+  "playtime": 5,
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Cloud",
+    "Atmospheric",
+    "RPG",
+    "Story Rich",
+    "Open World",
+    "Third Person",
+    "Sci-fi",
+    "Exploration",
+    "Violent",
+    "Action-Adventure",
+    "Action RPG"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/60b/60b7561ab47a7c0853ae983d419b47cb.jpg",
+  "steamAppId": 1620730,
+  "achievements": {
+    "total": 40,
+    "hidden": 16,
+    "examples": [
+      {
+        "name": "Amateur Detective",
+        "percent": 77.1
+      },
+      {
+        "name": "Good Samaritan",
+        "percent": 58.0
+      },
+      {
+        "name": "Emotional Damage",
+        "percent": 46.8
+      },
+      {
+        "name": "Good Vibrations",
+        "percent": 8.4
+      },
+      {
+        "name": "Super-Sleuth",
+        "percent": 6.1
+      },
+      {
+        "name": "Man of the People",
+        "percent": 5.3
+      },
+      {
+        "name": "Antiquarian",
+        "percent": 4.3
+      },
+      {
+        "name": "Legend of the Phol",
+        "percent": 3.1
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Hell_is_Us",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 0,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://hell-is-us.fandom.com/wiki/Hell_is_Us"
+    }
+  },
+  "game": {
+    "id": "hell-is-us",
+    "title": "Hell is Us",
+    "platforms": [
+      "PC",
+      "Xbox Series X|S",
+      "PlayStation 5"
+    ],
+    "blurb": "Action-adventure from Rogue Factor, released 2025-09-04. RAWG average playtime: 5 hours. Genres: Action, Adventure. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#7A3B2E",
+    "chapters": [
+      {
+        "id": "main-story",
+        "title": "The Main Story",
+        "summary": "The three acts of the story. Spoiler-guarded; most hidden achievements sit here.",
+        "steps": []
+      },
+      {
+        "id": "deeds-mysteries-timeloops",
+        "title": "Good Deeds, Mysteries and Timeloops",
+        "summary": "Helping people, solving mysteries and closing timeloops.",
+        "steps": []
+      },
+      {
+        "id": "fighting-hazes",
+        "title": "Fighting Hazes and Hollow Walkers",
+        "summary": "The Haze variants of Rage, Ecstasy, Terror and Grief, the Hollow Walkers and tiered Haze kills.",
+        "steps": []
+      },
+      {
+        "id": "gear-and-relics",
+        "title": "Gear, Glyphs and Relics",
+        "summary": "Weapon grades, defensive gear, drone modules, Lymbic Sphere glyphs and relics.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "So It Begins",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Completed Act 1"
+      },
+      {
+        "id": "achievement-2",
+        "name": "Emotional Baggage",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Complete Act 2"
+      },
+      {
+        "id": "achievement-3",
+        "name": "Redemption",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Complete Act 3"
+      },
+      {
+        "id": "achievement-4",
+        "name": "Good Samaritan",
+        "kind": "trophy",
+        "chapterId": "deeds-mysteries-timeloops",
+        "where": "Accomplish a Good Deed"
+      },
+      {
+        "id": "achievement-5",
+        "name": "Man of the People",
+        "kind": "trophy",
+        "chapterId": "deeds-mysteries-timeloops",
+        "where": "Accomplish all Good Deeds"
+      },
+      {
+        "id": "achievement-6",
+        "name": "End the Suffering",
+        "kind": "trophy",
+        "chapterId": "deeds-mysteries-timeloops",
+        "where": "Close a Timeloop"
+      },
+      {
+        "id": "achievement-7",
+        "name": "Amateur Detective",
+        "kind": "trophy",
+        "chapterId": "deeds-mysteries-timeloops",
+        "where": "Resolve a Mystery"
+      },
+      {
+        "id": "achievement-8",
+        "name": "Super-Sleuth",
+        "kind": "trophy",
+        "chapterId": "deeds-mysteries-timeloops",
+        "where": "Resolve all Mysteries"
+      },
+      {
+        "id": "achievement-9",
+        "name": "All the Rage",
+        "kind": "trophy",
+        "chapterId": "fighting-hazes",
+        "where": "Defeat all 3 Haze of Rage variants"
+      },
+      {
+        "id": "achievement-10",
+        "name": "Buzz Killer",
+        "kind": "trophy",
+        "chapterId": "fighting-hazes",
+        "where": "Defeat all 3 Haze of Ecstasy variants"
+      },
+      {
+        "id": "achievement-11",
+        "name": "Fear No Evil",
+        "kind": "trophy",
+        "chapterId": "fighting-hazes",
+        "where": "Defeat all 3 Haze of Terror variants"
+      },
+      {
+        "id": "achievement-12",
+        "name": "Good Grief",
+        "kind": "trophy",
+        "chapterId": "fighting-hazes",
+        "where": "Defeat all 3 Haze of Grief variants"
+      },
+      {
+        "id": "achievement-13",
+        "name": "Big Game Hunter",
+        "kind": "trophy",
+        "chapterId": "fighting-hazes",
+        "where": "Defeat all 5 Hollow Walker variants"
+      },
+      {
+        "id": "achievement-14",
+        "name": "Rise and Phol",
+        "kind": "trophy",
+        "chapterId": "fighting-hazes",
+        "where": "Defeat 40 Hazes of tier 1"
+      },
+      {
+        "id": "achievement-15",
+        "name": "Phol Guy",
+        "kind": "trophy",
+        "chapterId": "fighting-hazes",
+        "where": "Defeat 40 Hazes of tier 2"
+      },
+      {
+        "id": "achievement-16",
+        "name": "The Harder They Phol",
+        "kind": "trophy",
+        "chapterId": "fighting-hazes",
+        "where": "Defeat 40 Hazes of tier 3"
+      },
+      {
+        "id": "achievement-17",
+        "name": "Legend of the Phol",
+        "kind": "trophy",
+        "chapterId": "deeds-mysteries-timeloops",
+        "where": "Close all Timeloops and defeat all remaining entities"
+      },
+      {
+        "id": "achievement-18",
+        "name": "Good Vibrations",
+        "kind": "trophy",
+        "chapterId": "gear-and-relics",
+        "where": "Upgrade one of each Weapon type to Grade 5"
+      },
+      {
+        "id": "achievement-19",
+        "name": "Accessorizing",
+        "kind": "trophy",
+        "chapterId": "gear-and-relics",
+        "where": "Imbue a Defensive Gear to Grade 4"
+      },
+      {
+        "id": "achievement-20",
+        "name": "To the Teeth",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-21",
+        "name": "War Correspondent",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-22",
+        "name": "Historian",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-23",
+        "name": "Conspiracy Theorist",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-24",
+        "name": "Gentleman Scholar",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-25",
+        "name": "Demonologist",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-26",
+        "name": "Sworn to Secrecy",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-27",
+        "name": "Well-Read",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-28",
+        "name": "Vault Raider",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-29",
+        "name": "Tech-Savvy",
+        "kind": "trophy",
+        "chapterId": "gear-and-relics",
+        "where": "Acquire all Drone Modules"
+      },
+      {
+        "id": "achievement-30",
+        "name": "Emotional Damage",
+        "kind": "trophy",
+        "chapterId": "gear-and-relics",
+        "where": "Acquire at least one Glyph of each Lymbic Sphere"
+      },
+      {
+        "id": "achievement-31",
+        "name": "Emotional Warfare",
+        "kind": "trophy",
+        "chapterId": "gear-and-relics",
+        "where": "Acquire all Glyphs of each Lymbic Sphere"
+      },
+      {
+        "id": "achievement-32",
+        "name": "Curator",
+        "kind": "trophy",
+        "chapterId": "gear-and-relics",
+        "where": "Acquire 10 Relics"
+      },
+      {
+        "id": "achievement-33",
+        "name": "Antiquarian",
+        "kind": "trophy",
+        "chapterId": "gear-and-relics",
+        "where": "Acquire all Relics"
+      },
+      {
+        "id": "achievement-34",
+        "name": "Well-Travelled",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-35",
+        "name": "Lend an Ear",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-36",
+        "name": "Keymaster",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-37",
+        "name": "Long and (not so) Winding Road",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-38",
+        "name": "It's Mine Now",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-39",
+        "name": "Ever After",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-40",
+        "name": "Passion for Fashion",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/hell-is-us",
+    "Achievement data from Steam (Steam Web API, app 1620730)",
+    "StrategyWiki: no usable walkthrough, nothing used — https://strategywiki.org/wiki/Hell_is_Us",
+    "Fandom (hell-is-us.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://hell-is-us.fandom.com/wiki/Hell_is_Us"
+  ],
+  "route": "original",
+  "notes": "Backlog game, picked from RAWG's most-added list for its year (docs/PLAN.md section 2 ordering). StrategyWiki has a stub page (completion stage 0, marked as a perfect stub). Its Walkthrough, Gameplay, Controls, Enemies and \"Achievements and trophies\" pages are linked but not written; the only written subpage is \"Table of Contents\". hellisus.fandom.com returned HTTP 404; hell-is-us.fandom.com has a \"Hell is Us\" page with no linked pages; nothing copied. The Steam schema names the game \"Hell is Us\" (app 1620730). 16 of 40 Steam achievements are hidden; their names (for example \"War Correspondent\", \"Historian\", \"Demonologist\", \"Well-Read\", \"Keymaster\") suggest collections and side goals, but with no descriptions they sit in the main story chapter as a placeholder. \"Legend of the Phol\" (close all timeloops and defeat all remaining entities) went with the timeloops. Only 4 chapters, because the visible achievements cover few themes. RAWG lists a playtime of only 5 hours, which looks low."
+}

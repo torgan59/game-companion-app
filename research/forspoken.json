@@ -1,0 +1,514 @@
+{
+  "id": "forspoken",
+  "title": "Forspoken",
+  "year": 2023,
+  "platforms": [
+    "PC",
+    "PlayStation 5"
+  ],
+  "rawgId": 452636,
+  "rawgSlug": "project-athia",
+  "released": "2023-01-24",
+  "developers": [
+    "Luminous Productions"
+  ],
+  "playtime": 12,
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Full controller support",
+    "Steam Cloud",
+    "Atmospheric",
+    "RPG",
+    "Story Rich",
+    "Open World",
+    "Fantasy",
+    "Exploration",
+    "Female Protagonist",
+    "Violent"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/3a0/3a074a80d9a45e82aff7532f0162628e.jpg",
+  "steamAppId": 1680880,
+  "achievements": {
+    "total": 53,
+    "hidden": 29,
+    "examples": [
+      {
+        "name": "Unlocked Potential",
+        "percent": 87.3
+      },
+      {
+        "name": "Call of the Fount: Baptized",
+        "percent": 72.8
+      },
+      {
+        "name": "Tinkerer",
+        "percent": 72.4
+      },
+      {
+        "name": "Cat Person",
+        "percent": 4.1
+      },
+      {
+        "name": "Remembrance",
+        "percent": 3.8
+      },
+      {
+        "name": "Happy Snapper",
+        "percent": 3.8
+      },
+      {
+        "name": "Moves",
+        "percent": 3.3
+      },
+      {
+        "name": "Above and Beyond",
+        "percent": 2.7
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": false,
+      "pages": 0,
+      "reason": "No page for Forspoken (MediaWiki API returned missing; search empty)"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 102,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://forspoken.fandom.com/wiki/Forspoken"
+    }
+  },
+  "game": {
+    "id": "forspoken",
+    "title": "Forspoken",
+    "platforms": [
+      "PC",
+      "PlayStation 5"
+    ],
+    "blurb": "Open-world action game of magic and parkour set in the land of Athia, from Luminous Productions, released 2023-01-24. RAWG average playtime: 12 hours. Genres: Action, Adventure. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#C2562B",
+    "chapters": [
+      {
+        "id": "main-story",
+        "title": "The Main Story",
+        "summary": "The journey through Athia, chapter by chapter. Spoiler-guarded; these achievements are hidden.",
+        "steps": []
+      },
+      {
+        "id": "exploration",
+        "title": "Monuments, Founts and Exploration",
+        "summary": "Monuments, points of interest, Founts of Blessing, flashback challenges at Monuments to Wisdom, and camps.",
+        "steps": []
+      },
+      {
+        "id": "magic-parkour",
+        "title": "Magic Parkour",
+        "summary": "Shimmies, long parkour runs, distance travelled and staying airborne with Float.",
+        "steps": []
+      },
+      {
+        "id": "combat-and-spells",
+        "title": "Combat and Spells",
+        "summary": "Learning and upgrading spells, precision counters, Killer Blows, Surge Magic, Disperse and status effects.",
+        "steps": []
+      },
+      {
+        "id": "side-activities",
+        "title": "Side Activities and Crafting",
+        "summary": "Dancing for Pilo, remembrances, trading poppets, the Tantas' familiars, photo spots and crafting.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Attachments",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-2",
+        "name": "Stuck",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-3",
+        "name": "The Interloper",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-4",
+        "name": "What Must Be Done",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-5",
+        "name": "Might and Main",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-6",
+        "name": "Damned If You Do...",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-7",
+        "name": "The Hue of Blue",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-8",
+        "name": "The Truth Will Out",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-9",
+        "name": "Breaking Point",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-10",
+        "name": "None the Wiser",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-11",
+        "name": "Forspoken",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-12",
+        "name": "Awakening",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-13",
+        "name": "Rebirth",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-14",
+        "name": "Promises",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-15",
+        "name": "Moves",
+        "kind": "trophy",
+        "chapterId": "side-activities",
+        "where": "Earn the praise of the mighty Pilo with your dancing."
+      },
+      {
+        "id": "achievement-16",
+        "name": "Remembrance",
+        "kind": "trophy",
+        "chapterId": "side-activities",
+        "where": "Say a complete set of remembrances to the departed."
+      },
+      {
+        "id": "achievement-17",
+        "name": "A Roaring Trade",
+        "kind": "trophy",
+        "chapterId": "side-activities",
+        "where": "Trade poppets for all available items."
+      },
+      {
+        "id": "achievement-18",
+        "name": "Outdoorsperson",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Set up camp."
+      },
+      {
+        "id": "achievement-19",
+        "name": "Pilgrimage: Initiate",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Visit your first monument."
+      },
+      {
+        "id": "achievement-20",
+        "name": "Pilgrimage: Novice",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-21",
+        "name": "Pilgrimage: Adept",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-22",
+        "name": "Explorer: Seeker",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Visit ten points of interest."
+      },
+      {
+        "id": "achievement-23",
+        "name": "Explorer: Pathfinder",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-24",
+        "name": "Explorer: Trailblazer",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-25",
+        "name": "Unlocked Potential",
+        "kind": "trophy",
+        "chapterId": "combat-and-spells",
+        "where": "Spend mana to learn a spell for the first time."
+      },
+      {
+        "id": "achievement-26",
+        "name": "Realized Potential",
+        "kind": "trophy",
+        "chapterId": "combat-and-spells",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-27",
+        "name": "Call of the Fount: Baptized",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Acquire magical powers for the first time at a Fount of Blessing."
+      },
+      {
+        "id": "achievement-28",
+        "name": "Call of the Fount: Beatified",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-29",
+        "name": "Paragon",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-30",
+        "name": "Tinkerer",
+        "kind": "trophy",
+        "chapterId": "side-activities",
+        "where": "Craft an item for the first time."
+      },
+      {
+        "id": "achievement-31",
+        "name": "Craftsperson",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-32",
+        "name": "Kit and Caboodle",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-33",
+        "name": "Hop, Step, Jump",
+        "kind": "trophy",
+        "chapterId": "magic-parkour",
+        "where": "Perform five Shimmies in a row."
+      },
+      {
+        "id": "achievement-34",
+        "name": "Hell of a Run",
+        "kind": "trophy",
+        "chapterId": "magic-parkour",
+        "where": "Perform magic parkour for twenty seconds continuously."
+      },
+      {
+        "id": "achievement-35",
+        "name": "Endless Runner",
+        "kind": "trophy",
+        "chapterId": "magic-parkour",
+        "where": "Travel a total of 100 km (62 mi) using magic parkour."
+      },
+      {
+        "id": "achievement-36",
+        "name": "I Can Fly!",
+        "kind": "trophy",
+        "chapterId": "magic-parkour",
+        "where": "Use Float to stay airborne for ten seconds."
+      },
+      {
+        "id": "achievement-37",
+        "name": "Leapfrogger",
+        "kind": "trophy",
+        "chapterId": "combat-and-spells",
+        "where": "Jump over enemies a total of ten times."
+      },
+      {
+        "id": "achievement-38",
+        "name": "Tit for Tat",
+        "kind": "trophy",
+        "chapterId": "combat-and-spells",
+        "where": "Perform ten precision counters."
+      },
+      {
+        "id": "achievement-39",
+        "name": "No Mercy",
+        "kind": "trophy",
+        "chapterId": "combat-and-spells",
+        "where": "Perform thirty Killer Blows."
+      },
+      {
+        "id": "achievement-40",
+        "name": "Knock 'Em Dead",
+        "kind": "trophy",
+        "chapterId": "combat-and-spells",
+        "where": "Finish three or more enemies with a single blast of Surge Magic."
+      },
+      {
+        "id": "achievement-41",
+        "name": "Help Me Out Here",
+        "kind": "trophy",
+        "chapterId": "combat-and-spells",
+        "where": "Use the Disperse spell three times in a single battle."
+      },
+      {
+        "id": "achievement-42",
+        "name": "Wildfire",
+        "kind": "trophy",
+        "chapterId": "combat-and-spells",
+        "where": "Defeat an enemy bound by the Tangled status effect with Sila's magic."
+      },
+      {
+        "id": "achievement-43",
+        "name": "Shocker",
+        "kind": "trophy",
+        "chapterId": "combat-and-spells",
+        "where": "Electrocute three enemies at once."
+      },
+      {
+        "id": "achievement-44",
+        "name": "From Every Angle",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-45",
+        "name": "Through the Eyes of Another: Empath",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Complete your first flashback challenge at a Monument to Wisdom."
+      },
+      {
+        "id": "achievement-46",
+        "name": "Through the Eyes of Another: Seer",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-47",
+        "name": "Through the Eyes of Another: Visionary",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-48",
+        "name": "Cat Person",
+        "kind": "trophy",
+        "chapterId": "side-activities",
+        "where": "Befriend all the Tantas' familiars."
+      },
+      {
+        "id": "achievement-49",
+        "name": "Happy Snapper",
+        "kind": "trophy",
+        "chapterId": "side-activities",
+        "where": "Show pictures taken at all the photo spots to the children."
+      },
+      {
+        "id": "achievement-50",
+        "name": "Above and Beyond",
+        "kind": "trophy",
+        "chapterId": "combat-and-spells",
+        "where": "Upgrade all your spells."
+      },
+      {
+        "id": "achievement-51",
+        "name": "Abominizer",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-52",
+        "name": "Archivist",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-53",
+        "name": "Barely There",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/project-athia",
+    "Achievement data from Steam (Steam Web API, app 1680880)",
+    "StrategyWiki: no page for this game, nothing used",
+    "Fandom (forspoken.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://forspoken.fandom.com/wiki/Forspoken"
+  ],
+  "route": "original",
+  "notes": "Backlog game, picked from RAWG's most-added list for its year (docs/PLAN.md section 2 ordering). StrategyWiki has no page for Forspoken (API returned missing), and no obvious alternative title was found. forspoken.fandom.com answers the API, with about 102 linked pages, including \"Forspoken: In Tanta We Trust\" and \"Downloadable Content\", but no Steam achievement names that add-on, so it has no chapter; names only were looked at, nothing copied. 29 of 53 Steam achievements are hidden. Hidden higher tiers of visible series (\"Pilgrimage: Novice\", \"Explorer: Pathfinder\", \"Call of the Fount: Beatified\", \"Through the Eyes of Another: Seer\" and \"Visionary\", \"Realized Potential\") were placed with their visible first tier by name. The other hidden ones, including \"Paragon\", \"Craftsperson\", \"Kit and Caboodle\", \"From Every Angle\", \"Abominizer\", \"Archivist\" and \"Barely There\", sit in the main story chapter as a placeholder, though some may be side goals."
+}

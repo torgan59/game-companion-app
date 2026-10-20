@@ -1,0 +1,489 @@
+{
+  "id": "shin-megami-tensei-v-vengeance",
+  "title": "Shin Megami Tensei V: Vengeance",
+  "year": 2024,
+  "platforms": [
+    "PlayStation 5",
+    "Xbox Series X|S",
+    "PlayStation 4",
+    "PC",
+    "Xbox One",
+    "Nintendo Switch"
+  ],
+  "rawgId": 257242,
+  "rawgSlug": "shin-megami-tensei-v",
+  "released": "2024-06-14",
+  "developers": [
+    "Atlus"
+  ],
+  "playtime": null,
+  "genres": [
+    "Action",
+    "Adventure",
+    "RPG"
+  ],
+  "tags": [
+    "Action-Adventure",
+    "exclusive",
+    "true exclusive",
+    "JRPG",
+    "japanese"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/1b6/1b6673b646af55f834938bedebee2a0f.jpg",
+  "steamAppId": 1875830,
+  "achievements": {
+    "total": 48,
+    "hidden": 16,
+    "examples": [
+      {
+        "name": "Defier of the Condemnation",
+        "percent": 91.8
+      },
+      {
+        "name": "Conductor of Divine Providence",
+        "percent": 74.8
+      },
+      {
+        "name": "Sharp Eyes and Sharper Blade",
+        "percent": 74.6
+      },
+      {
+        "name": "Battle-Hardened God",
+        "percent": 12.5
+      },
+      {
+        "name": "Architect of Divine Providence",
+        "percent": 11.9
+      },
+      {
+        "name": "Compendium Loremaster",
+        "percent": 3.6
+      },
+      {
+        "name": "Purger of Memories",
+        "percent": 2.1
+      },
+      {
+        "name": "King Eternal, Immortal, Unbroken",
+        "percent": 2.0
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Shin_Megami_Tensei_V:_Vengeance",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 386,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://megamitensei.fandom.com/wiki/Shin_Megami_Tensei_V:_Vengeance"
+    }
+  },
+  "game": {
+    "id": "shin-megami-tensei-v-vengeance",
+    "title": "Shin Megami Tensei V: Vengeance",
+    "platforms": [
+      "PlayStation 5",
+      "Xbox Series X|S",
+      "PlayStation 4",
+      "PC",
+      "Xbox One",
+      "Nintendo Switch"
+    ],
+    "blurb": "Demon-recruiting RPG in which the Nahobino and his friends decide the fate of a dying world, from Atlus, released 2024-06-14. RAWG has no playtime yet. Genres: Action, Adventure, RPG. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#2F5DA8",
+    "chapters": [
+      {
+        "id": "main-story",
+        "title": "The Main Story",
+        "summary": "The Nahobino's journey and its endings. Spoiler-guarded; most achievements here are hidden.",
+        "steps": []
+      },
+      {
+        "id": "battles",
+        "title": "Battles and Press Turns",
+        "summary": "Weaknesses, evasions, Magatsuhi skills, huge hits, reinforcements and special demons.",
+        "steps": []
+      },
+      {
+        "id": "demons-and-fusion",
+        "title": "Negotiation, Fusion and the Compendium",
+        "summary": "Recruiting and paying demons, fusion accidents, Essence Fusion, demon haunts and filling the Demon Compendium.",
+        "steps": []
+      },
+      {
+        "id": "exploration",
+        "title": "Exploration and Collectibles",
+        "summary": "Miman, talismans, periapts, relics, demon statues, Abscesses, Amalgams, Aogami husks and search points.",
+        "steps": []
+      },
+      {
+        "id": "subquests",
+        "title": "Subquests and Training",
+        "summary": "Subquests and the virtual trainer battles.",
+        "steps": []
+      },
+      {
+        "id": "miracles-and-completion",
+        "title": "Miracles and Full Completion",
+        "summary": "Learning Miracles and unlocking every achievement.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "King Eternal, Immortal, Unbroken",
+        "kind": "trophy",
+        "chapterId": "miracles-and-completion",
+        "where": "Obtained all achievements."
+      },
+      {
+        "id": "achievement-2",
+        "name": "Defier of the Condemnation",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Fused with the Proto-fiend Aogami."
+      },
+      {
+        "id": "achievement-3",
+        "name": "Defender of Law, Ever and Always",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-4",
+        "name": "The World of the Myriad Gods",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-5",
+        "name": "Man Is a Thinking Reed",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-6",
+        "name": "Farewell, My Friend",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-7",
+        "name": "Genesis from Apocalypse",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-8",
+        "name": "Primordial Chaos",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-9",
+        "name": "The Will of the Godborn",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-10",
+        "name": "Dig Two Graves",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-11",
+        "name": "Mortal Hubris in Seven Agonies",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-12",
+        "name": "The Makings of a King",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-13",
+        "name": "The Sun Will Rise Again",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-14",
+        "name": "The Pralaya That Follows Re-Creation",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-15",
+        "name": "Demi-fiend Overcome",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-16",
+        "name": "We Shall Protect Our Tokyo",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-17",
+        "name": "Right of the Godborn",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-18",
+        "name": "Battle-Hardened God",
+        "kind": "trophy",
+        "chapterId": "battles",
+        "where": "Won a battle after triggering reinforcements four times."
+      },
+      {
+        "id": "achievement-19",
+        "name": "Silver-Tongued God",
+        "kind": "trophy",
+        "chapterId": "demons-and-fusion",
+        "where": "Recruited 30 demons through negotiation during battles."
+      },
+      {
+        "id": "achievement-20",
+        "name": "Macca Beam",
+        "kind": "trophy",
+        "chapterId": "demons-and-fusion",
+        "where": "Paid a total of 100,000 Macca through negotiation during battles."
+      },
+      {
+        "id": "achievement-21",
+        "name": "Omnipotent Strike",
+        "kind": "trophy",
+        "chapterId": "battles",
+        "where": "Dealt over 9999 damage in a single blow."
+      },
+      {
+        "id": "achievement-22",
+        "name": "Press Turn King",
+        "kind": "trophy",
+        "chapterId": "battles",
+        "where": "Struck enemy weaknesses during battle 100 times."
+      },
+      {
+        "id": "achievement-23",
+        "name": "Press Turn Usurper",
+        "kind": "trophy",
+        "chapterId": "battles",
+        "where": "Managed to Evade, Null, Repel, or Drain enemy attacks 50 times."
+      },
+      {
+        "id": "achievement-24",
+        "name": "You Ready?",
+        "kind": "trophy",
+        "chapterId": "battles",
+        "where": "Used Magatsuhi Skills during battle 20 times."
+      },
+      {
+        "id": "achievement-25",
+        "name": "Talisman Collector",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Collected 36 different talismans."
+      },
+      {
+        "id": "achievement-26",
+        "name": "Periapt Collector",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Collected 21 different periapts."
+      },
+      {
+        "id": "achievement-27",
+        "name": "Eat Or Be Eaten",
+        "kind": "trophy",
+        "chapterId": "battles",
+        "where": "Defeated a Magatsuhi Demon."
+      },
+      {
+        "id": "achievement-28",
+        "name": "Sharp Eyes and Sharper Blade",
+        "kind": "trophy",
+        "chapterId": "battles",
+        "where": "Defeated a Mitama demon."
+      },
+      {
+        "id": "achievement-29",
+        "name": "Compendium Scholar",
+        "kind": "trophy",
+        "chapterId": "demons-and-fusion",
+        "where": "Filled the Demon Compendium to over 75% completion."
+      },
+      {
+        "id": "achievement-30",
+        "name": "Compendium Loremaster",
+        "kind": "trophy",
+        "chapterId": "demons-and-fusion",
+        "where": "Filled the Demon Compendium to 100% completion."
+      },
+      {
+        "id": "achievement-31",
+        "name": "The Whims of Fate",
+        "kind": "trophy",
+        "chapterId": "demons-and-fusion",
+        "where": "Triggered a fusion accident."
+      },
+      {
+        "id": "achievement-32",
+        "name": "Ever-Changing Essence",
+        "kind": "trophy",
+        "chapterId": "demons-and-fusion",
+        "where": "Performed Essence Fusion 20 times."
+      },
+      {
+        "id": "achievement-33",
+        "name": "Conductor of Divine Providence",
+        "kind": "trophy",
+        "chapterId": "miracles-and-completion",
+        "where": "Learned 5 Miracles."
+      },
+      {
+        "id": "achievement-34",
+        "name": "Architect of Divine Providence",
+        "kind": "trophy",
+        "chapterId": "miracles-and-completion",
+        "where": "Learned 120 Miracles."
+      },
+      {
+        "id": "achievement-35",
+        "name": "Seeker of Lost Children",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Found 100 Miman."
+      },
+      {
+        "id": "achievement-36",
+        "name": "Savior of Lost Children",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Found 200 Miman."
+      },
+      {
+        "id": "achievement-37",
+        "name": "Aogami Extraction Squad",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Examined Aogami husks 20 times."
+      },
+      {
+        "id": "achievement-38",
+        "name": "Archaeophile",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Acquired relics from relic spots 400 times."
+      },
+      {
+        "id": "achievement-39",
+        "name": "Scholar of Idolatry",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Examined 19 different demon statues."
+      },
+      {
+        "id": "achievement-40",
+        "name": "Abscess Absolution",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Destroyed 24 Abscesses."
+      },
+      {
+        "id": "achievement-41",
+        "name": "Guardian of Glory",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Obtained 50 Amalgams."
+      },
+      {
+        "id": "achievement-42",
+        "name": "Scavenger God",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Examined Search Points 100 times."
+      },
+      {
+        "id": "achievement-43",
+        "name": "A Humble Offering",
+        "kind": "trophy",
+        "chapterId": "demons-and-fusion",
+        "where": "Given gifts to demons in a demon haunt 20 times."
+      },
+      {
+        "id": "achievement-44",
+        "name": "True Blue Buddy",
+        "kind": "trophy",
+        "chapterId": "demons-and-fusion",
+        "where": "Earned recognition from demons in a demon haunt 10 or more times."
+      },
+      {
+        "id": "achievement-45",
+        "name": "Netherworld Handyman",
+        "kind": "trophy",
+        "chapterId": "subquests",
+        "where": "Completed 5 subquests."
+      },
+      {
+        "id": "achievement-46",
+        "name": "Almighty Fixer",
+        "kind": "trophy",
+        "chapterId": "subquests",
+        "where": "Completed 90 or more subquests."
+      },
+      {
+        "id": "achievement-47",
+        "name": "Purger of Memories",
+        "kind": "trophy",
+        "chapterId": "subquests",
+        "where": "Experienced all virtual trainer battle sequences in Original Mode."
+      },
+      {
+        "id": "achievement-48",
+        "name": "He Who Revels in Carnage",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/shin-megami-tensei-v",
+    "Achievement data from Steam (Steam Web API, app 1875830)",
+    "StrategyWiki: no usable walkthrough, nothing used — https://strategywiki.org/wiki/Shin_Megami_Tensei_V:_Vengeance",
+    "Fandom (megamitensei.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://megamitensei.fandom.com/wiki/Shin_Megami_Tensei_V:_Vengeance"
+  ],
+  "route": "original",
+  "notes": "Backlog game, picked from RAWG's most-added list for its year (docs/PLAN.md section 2 ordering). RAWG's entry at the expected slug \"shin-megami-tensei-v\" (id 257242) is titled \"Shin Megami Tensei V: Vengeance\" and dated 2024-06-14, so it is the Vengeance entry; RAWG also has a separate \"Shin Megami Tensei V: Vengeance Digital Deluxe Edition\" entry (983580), and a RAWG search showed no separate entry for the earlier Shin Megami Tensei V. StrategyWiki has a page for Vengeance at completion stage 0 (a stub); only a short Table of Contents subpage (117 characters) exists, and its Walkthrough, Gameplay, New features and Achievements and trophies pages are linked but not written. It also links the separate \"Shin Megami Tensei V\" guide, whose Walkthrough is likewise not written. megamitensei.fandom.com answers the API, with about 386 linked pages, including \"List of Shin Megami Tensei V: Vengeance Trophies\", \"Da'at (Shin Megami Tensei V)\" and \"Qadištu\"; names only were looked at, nothing copied. The Steam schema calls the app \"Pleiades\" (an internal codename); the store list confirms app 1875830. 16 of 48 Steam achievements are hidden, with no descriptions; they sit in the main story chapter as a placeholder. Several of them (3 to 17) look like story or ending markers, and \"He Who Revels in Carnage\" (48, 2.0 percent) may be a post-game goal. \"Purger of Memories\" mentions an \"Original Mode\", which suggests a second story mode, but no achievement names one."
+}

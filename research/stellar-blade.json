@@ -1,0 +1,459 @@
+{
+  "id": "stellar-blade",
+  "title": "Stellar Blade",
+  "year": 2024,
+  "platforms": [
+    "PC",
+    "PlayStation 5"
+  ],
+  "rawgId": 476122,
+  "rawgSlug": "project-eve-tba",
+  "released": "2024-04-26",
+  "developers": [
+    "SHIFT UP"
+  ],
+  "playtime": 22,
+  "genres": [
+    "Action",
+    "Adventure",
+    "RPG"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Full controller support",
+    "Steam Cloud",
+    "Story Rich",
+    "Third Person",
+    "Sci-fi",
+    "Female Protagonist",
+    "Action-Adventure",
+    "Action RPG",
+    "stats",
+    "Hack and Slash"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/fbd/fbdef5455da4c4033bed896e1540f6a1.jpg",
+  "steamAppId": 3489700,
+  "achievements": {
+    "total": 45,
+    "hidden": 21,
+    "examples": [
+      {
+        "name": "Camp Preparation",
+        "percent": 94.2
+      },
+      {
+        "name": "Naytiba Hunter",
+        "percent": 53.4
+      },
+      {
+        "name": "Cold-blooded Sniper",
+        "percent": 47.7
+      },
+      {
+        "name": "Naytiba Researcher",
+        "percent": 18.3
+      },
+      {
+        "name": "Meticulous Explorer",
+        "percent": 15.8
+      },
+      {
+        "name": "Infinite Blade",
+        "percent": 14.2
+      },
+      {
+        "name": "Repeating Protocols",
+        "percent": 12.1
+      },
+      {
+        "name": "EVE Protocol",
+        "percent": 8.3
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": false,
+      "pages": 0,
+      "reason": "No page for Stellar Blade (MediaWiki API returned missing; search empty)"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 88,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://stellarblade.fandom.com/wiki/Stellar_Blade"
+    }
+  },
+  "game": {
+    "id": "stellar-blade",
+    "title": "Stellar Blade",
+    "platforms": [
+      "PC",
+      "PlayStation 5"
+    ],
+    "blurb": "Action-adventure game in which the heroine Eve fights unknown enemies on a ruined future Earth, from SHIFT UP, released 2024-04-26. RAWG average playtime: 22 hours. Genres: Action, Adventure, RPG. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#3A7CA5",
+    "chapters": [
+      {
+        "id": "main-story",
+        "title": "The Main Story",
+        "summary": "Eve's mission on the ruined Earth and the foes she meets. Spoiler-guarded; most achievements here are hidden.",
+        "steps": []
+      },
+      {
+        "id": "exploration-and-collectibles",
+        "title": "Exploration and Collectibles",
+        "summary": "Camps, cans, Nano Suits, Data Bank entries, fishing, boxes and Naytiba research.",
+        "steps": []
+      },
+      {
+        "id": "upgrades-and-skills",
+        "title": "Upgrades and Skills",
+        "summary": "Maxing Exospines, the Blood Edge, the Rechargeable Tumbler, HP and Beta Energy, and learning every skill.",
+        "steps": []
+      },
+      {
+        "id": "combat",
+        "title": "Combat",
+        "summary": "Perfect dodges and parries, executions, Beta, Burst and ranged kills.",
+        "steps": []
+      },
+      {
+        "id": "new-game-plus",
+        "title": "New Game + and Full Completion",
+        "summary": "Finishing New Game +, learning every skill there, and every main-game achievement.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "EVE Protocol",
+        "kind": "trophy",
+        "chapterId": "new-game-plus",
+        "where": "You have unlocked all achievements in the main game."
+      },
+      {
+        "id": "achievement-2",
+        "name": "Camp Preparation",
+        "kind": "trophy",
+        "chapterId": "exploration-and-collectibles",
+        "where": "Activated the first Camp."
+      },
+      {
+        "id": "achievement-3",
+        "name": "Abaddon",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-4",
+        "name": "Corrupter",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-5",
+        "name": "Gigas",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-6",
+        "name": "Brute",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-7",
+        "name": "Altess Levoire",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-8",
+        "name": "Stalker",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-9",
+        "name": "Juggernaut",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-10",
+        "name": "Tachy",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-11",
+        "name": "Behemoth",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-12",
+        "name": "Abyss Levoire",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-13",
+        "name": "Belial",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-14",
+        "name": "Karakuri",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-15",
+        "name": "Demogorgon",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-16",
+        "name": "Raven",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-17",
+        "name": "Return to the Colony",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-18",
+        "name": "Cost of Lost Memories",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-19",
+        "name": "Making New Memories",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-20",
+        "name": "Can Collector",
+        "kind": "trophy",
+        "chapterId": "exploration-and-collectibles",
+        "where": "Collected all cans."
+      },
+      {
+        "id": "achievement-21",
+        "name": "Nano Suit Collector",
+        "kind": "trophy",
+        "chapterId": "exploration-and-collectibles",
+        "where": "Acquired 30 Nano Suits."
+      },
+      {
+        "id": "achievement-22",
+        "name": "Records Collector",
+        "kind": "trophy",
+        "chapterId": "exploration-and-collectibles",
+        "where": "Collected 200 Data Bank entries (Memorysticks, Documents, or Passcodes)."
+      },
+      {
+        "id": "achievement-23",
+        "name": "Lonely Fisherman",
+        "kind": "trophy",
+        "chapterId": "exploration-and-collectibles",
+        "where": "Caught 20 different fish."
+      },
+      {
+        "id": "achievement-24",
+        "name": "Box Hunter",
+        "kind": "trophy",
+        "chapterId": "exploration-and-collectibles",
+        "where": "Opened 200 boxes."
+      },
+      {
+        "id": "achievement-25",
+        "name": "Naytiba Researcher",
+        "kind": "trophy",
+        "chapterId": "exploration-and-collectibles",
+        "where": "Got information on all Naytibas."
+      },
+      {
+        "id": "achievement-26",
+        "name": "Meticulous Explorer",
+        "kind": "trophy",
+        "chapterId": "exploration-and-collectibles",
+        "where": "Activated all Camps."
+      },
+      {
+        "id": "achievement-27",
+        "name": "Perfect Exospine",
+        "kind": "trophy",
+        "chapterId": "upgrades-and-skills",
+        "where": "Enhanced 10 Exospines to their max."
+      },
+      {
+        "id": "achievement-28",
+        "name": "Perfect Blood Edge",
+        "kind": "trophy",
+        "chapterId": "upgrades-and-skills",
+        "where": "Enhanced Blood Edge to its max."
+      },
+      {
+        "id": "achievement-29",
+        "name": "Perfect Rechargeable Tumbler",
+        "kind": "trophy",
+        "chapterId": "upgrades-and-skills",
+        "where": "Enhanced the Rechargeable Tumbler to its max."
+      },
+      {
+        "id": "achievement-30",
+        "name": "Perfect Physical Enhancement",
+        "kind": "trophy",
+        "chapterId": "upgrades-and-skills",
+        "where": "Enhanced HP to its max."
+      },
+      {
+        "id": "achievement-31",
+        "name": "Perfect Beta Energy Enhancement",
+        "kind": "trophy",
+        "chapterId": "upgrades-and-skills",
+        "where": "Enhanced Beta Energy to its max."
+      },
+      {
+        "id": "achievement-32",
+        "name": "Thorough Technician",
+        "kind": "trophy",
+        "chapterId": "upgrades-and-skills",
+        "where": "Learned all skills."
+      },
+      {
+        "id": "achievement-33",
+        "name": "Beyond Fate",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-34",
+        "name": "Sisterly Love",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-35",
+        "name": "Beep!",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-36",
+        "name": "Battlefield Martial Artist",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Perfect Dodged 200 enemy attacks."
+      },
+      {
+        "id": "achievement-37",
+        "name": "Agile Gladiator",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Perfect Parried 300 enemy attacks."
+      },
+      {
+        "id": "achievement-38",
+        "name": "Silent Executioner",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Defeated 50 enemies by execution."
+      },
+      {
+        "id": "achievement-39",
+        "name": "Naytiba Hunter",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Defeated 100 enemies with Beta Skills."
+      },
+      {
+        "id": "achievement-40",
+        "name": "Relentless Destroyer",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Defeated 50 enemies with Burst Skills."
+      },
+      {
+        "id": "achievement-41",
+        "name": "Revenging Agent",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-42",
+        "name": "Cold-blooded Sniper",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Defeated 150 enemies with ranged attacks."
+      },
+      {
+        "id": "achievement-43",
+        "name": "Cruel Liberator",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Defeated 1,500 enemies."
+      },
+      {
+        "id": "achievement-44",
+        "name": "Repeating Protocols",
+        "kind": "trophy",
+        "chapterId": "new-game-plus",
+        "where": "Completed New Game +."
+      },
+      {
+        "id": "achievement-45",
+        "name": "Infinite Blade",
+        "kind": "trophy",
+        "chapterId": "new-game-plus",
+        "where": "Learned all skills in New Game +."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/project-eve-tba",
+    "Achievement data from Steam (Steam Web API, app 3489700)",
+    "StrategyWiki: no page for this game, nothing used",
+    "Fandom (stellarblade.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://stellarblade.fandom.com/wiki/Stellar_Blade"
+  ],
+  "route": "original",
+  "notes": "Backlog game, picked from RAWG's most-added list for its year (docs/PLAN.md section 2 ordering). RAWG's entry for this game uses the slug \"project-eve-tba\" (id 476122, matching the expected slug); its description still calls it Project Eve. StrategyWiki has no page under \"Stellar Blade\". stellarblade.fandom.com answers the API, with about 88 linked pages, including one page per achievement (for example \"Abaddon (trophy)\" and \"Raven (trophy)\"), \"New Game +\", \"Endings\", \"Stellar Blade x NieR:Automata\" and \"Stellar Blade x Goddess of Victory: NIKKE\"; names only were looked at, nothing copied. The Steam app used is 3489700 (\"Stellar Blade™\"). 21 of 45 Steam achievements are hidden, with no descriptions; they sit in the main story chapter as a placeholder. Fandom gives many of them a \"(trophy)\" page next to a page of the same name without it (for example \"Abaddon\"), which suggests they are named after foes, but the data does not say so. \"EVE Protocol\" covers \"all achievements in the main game\", which suggests other content exists, but no achievement names it."
+}

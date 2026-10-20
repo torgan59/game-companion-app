@@ -1,0 +1,594 @@
+{
+  "id": "lego-batman-legacy-of-the-dark-knight",
+  "title": "Lego Batman: Legacy of the Dark Knight",
+  "year": 2026,
+  "platforms": [
+    "Nintendo Switch",
+    "Xbox Series X|S",
+    "PC",
+    "PlayStation 5"
+  ],
+  "rawgId": 1009245,
+  "rawgSlug": "lego-batman-legacy-of-the-dark-knight",
+  "released": "2026-05-22",
+  "developers": [
+    "TT Games"
+  ],
+  "playtime": null,
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "tags": [],
+  "coverUrl": "https://media.rawg.io/media/games/69a/69a6a1097f82210dbf8583f8e0d09123.jpg",
+  "steamAppId": 2215200,
+  "achievements": {
+    "total": 64,
+    "hidden": 0,
+    "examples": [
+      {
+        "name": "Beware the Gray Ghost!",
+        "percent": 95.6
+      },
+      {
+        "name": "\"A legend, Mr. Wayne.\"",
+        "percent": 87.8
+      },
+      {
+        "name": "A Friend",
+        "percent": 83.5
+      },
+      {
+        "name": "All Pipes Lead to Home",
+        "percent": 6.6
+      },
+      {
+        "name": "Part of the Plan",
+        "percent": 6.5
+      },
+      {
+        "name": "\"I am Batman.\"",
+        "percent": 5.8
+      },
+      {
+        "name": "Lost a Wheel",
+        "percent": 3.1
+      },
+      {
+        "name": "Lacking Agency",
+        "percent": 3.0
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": false,
+      "pages": 0,
+      "reason": "No page for Lego Batman: Legacy of the Dark Knight (MediaWiki API returned missing; search empty)"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 156,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://lego.fandom.com/wiki/LEGO_Batman:_Legacy_of_the_Dark_Knight"
+    }
+  },
+  "game": {
+    "id": "lego-batman-legacy-of-the-dark-knight",
+    "title": "Lego Batman: Legacy of the Dark Knight",
+    "platforms": [
+      "Nintendo Switch",
+      "Xbox Series X|S",
+      "PC",
+      "PlayStation 5"
+    ],
+    "blurb": "Open-world LEGO action-adventure set in Gotham City, from TT Games, released 2026-05-22. RAWG has no playtime yet. Genres: Action, Adventure. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#E0B100",
+    "chapters": [
+      {
+        "id": "main-story",
+        "title": "The Main Story",
+        "summary": "The prologue and the story chapters of Story Mode.",
+        "steps": []
+      },
+      {
+        "id": "heroes-and-suits",
+        "title": "Heroes and Suits",
+        "summary": "Unlocking the playable allies and every suit.",
+        "steps": []
+      },
+      {
+        "id": "gotham-open-world",
+        "title": "Gotham Side Activities",
+        "summary": "Districts, fast travel, side activities, crimes, open world events, puzzle rooms, challenges and AR Trials.",
+        "steps": []
+      },
+      {
+        "id": "collectibles",
+        "title": "Collectibles and Studs",
+        "summary": "Red Bricks, WayneTech Caches, Bat-Symbols, Batcave trophies and studs.",
+        "steps": []
+      },
+      {
+        "id": "batcave-and-upgrades",
+        "title": "The Batcave and Upgrades",
+        "summary": "Skill and gadget upgrades, vehicles, shops and expanding the Batcave.",
+        "steps": []
+      },
+      {
+        "id": "combat",
+        "title": "Combat and Stealth",
+        "summary": "Counters, combos, stealth takedowns and enemy types.",
+        "steps": []
+      },
+      {
+        "id": "mayhem-mode",
+        "title": "Mayhem Mode",
+        "summary": "The villain-side mode: breaking out of Arkham, Mayhem Runs, recruiting a crew and building a hideout.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "\"I am Batman.\"",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Collect all Achievements"
+      },
+      {
+        "id": "achievement-2",
+        "name": "\"A hero can be anyone.\"",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Complete Story Mode"
+      },
+      {
+        "id": "achievement-3",
+        "name": "\"Hopefully, because he's busy.\"",
+        "kind": "trophy",
+        "chapterId": "gotham-open-world",
+        "where": "Complete every side activity in Gotham"
+      },
+      {
+        "id": "achievement-4",
+        "name": "A Watchful Collector",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Collect all Collectibles"
+      },
+      {
+        "id": "achievement-5",
+        "name": "\"I'm not wearing hockey pads.\"",
+        "kind": "trophy",
+        "chapterId": "heroes-and-suits",
+        "where": "Unlock All Suits"
+      },
+      {
+        "id": "achievement-6",
+        "name": "\"Wanna know how I got these cars?\"",
+        "kind": "trophy",
+        "chapterId": "batcave-and-upgrades",
+        "where": "Unlock All Vehicles"
+      },
+      {
+        "id": "achievement-7",
+        "name": "\"Holy Skill Upgrades, Batman!\"",
+        "kind": "trophy",
+        "chapterId": "batcave-and-upgrades",
+        "where": "Unlock All Skill Upgrades"
+      },
+      {
+        "id": "achievement-8",
+        "name": "\"This is too much power for one person.\"",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Collect all Red Bricks"
+      },
+      {
+        "id": "achievement-9",
+        "name": "Up for the Challenge",
+        "kind": "trophy",
+        "chapterId": "gotham-open-world",
+        "where": "Complete 20 Challenges"
+      },
+      {
+        "id": "achievement-10",
+        "name": "\"It's a big city. I can't be everywhere.\"",
+        "kind": "trophy",
+        "chapterId": "gotham-open-world",
+        "where": "Unlock all fast travel points"
+      },
+      {
+        "id": "achievement-11",
+        "name": "A Friend",
+        "kind": "trophy",
+        "chapterId": "heroes-and-suits",
+        "where": "Unlock Jim Gordon"
+      },
+      {
+        "id": "achievement-12",
+        "name": "\"Hear me roar.\"",
+        "kind": "trophy",
+        "chapterId": "heroes-and-suits",
+        "where": "Unlock Catwoman"
+      },
+      {
+        "id": "achievement-13",
+        "name": "The Boy Wonder",
+        "kind": "trophy",
+        "chapterId": "heroes-and-suits",
+        "where": "Unlock Robin"
+      },
+      {
+        "id": "achievement-14",
+        "name": "\"Let's see what Batgirl can do!\"",
+        "kind": "trophy",
+        "chapterId": "heroes-and-suits",
+        "where": "Unlock Batgirl"
+      },
+      {
+        "id": "achievement-15",
+        "name": "A Grayson Graduation",
+        "kind": "trophy",
+        "chapterId": "heroes-and-suits",
+        "where": "Unlock Nightwing"
+      },
+      {
+        "id": "achievement-16",
+        "name": "Out of the Shadows",
+        "kind": "trophy",
+        "chapterId": "heroes-and-suits",
+        "where": "Unlock Talia"
+      },
+      {
+        "id": "achievement-17",
+        "name": "\"It's not exactly a normal world.\"",
+        "kind": "trophy",
+        "chapterId": "gotham-open-world",
+        "where": "Visit every District"
+      },
+      {
+        "id": "achievement-18",
+        "name": "Wonderful Toys",
+        "kind": "trophy",
+        "chapterId": "batcave-and-upgrades",
+        "where": "Purchase all Gadget Upgrades for any single character"
+      },
+      {
+        "id": "achievement-19",
+        "name": "Beware the Gray Ghost!",
+        "kind": "trophy",
+        "chapterId": "heroes-and-suits",
+        "where": "Complete Bruce's Gray Ghost costume"
+      },
+      {
+        "id": "achievement-20",
+        "name": "\"A legend, Mr. Wayne.\"",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Complete the Prologue"
+      },
+      {
+        "id": "achievement-21",
+        "name": "One Bad Day",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Complete Chapter One"
+      },
+      {
+        "id": "achievement-22",
+        "name": "\"Do I look like I'm joking?\"",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Complete Chapter Two"
+      },
+      {
+        "id": "achievement-23",
+        "name": "The Dynamic Duo",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Complete Chapter Three"
+      },
+      {
+        "id": "achievement-24",
+        "name": "An Endless Winter",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Complete Chapter Four"
+      },
+      {
+        "id": "achievement-25",
+        "name": "Knightfall",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Complete Chapter Five"
+      },
+      {
+        "id": "achievement-26",
+        "name": "\"You have a name to maintain.\"",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Open every WayneTech Cache"
+      },
+      {
+        "id": "achievement-27",
+        "name": "\"The idea was to be a symbol.\"",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Collect 25 Bat-Symbols"
+      },
+      {
+        "id": "achievement-28",
+        "name": "\"Quite the collection, Master Bruce.\"",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Collect all Batcave Trophies"
+      },
+      {
+        "id": "achievement-29",
+        "name": "Too Many Questions",
+        "kind": "trophy",
+        "chapterId": "gotham-open-world",
+        "where": "Complete every Puzzle Room"
+      },
+      {
+        "id": "achievement-30",
+        "name": "\"Lighter, faster, more agile.\"",
+        "kind": "trophy",
+        "chapterId": "batcave-and-upgrades",
+        "where": "Purchase a Skill Upgrade from each category"
+      },
+      {
+        "id": "achievement-31",
+        "name": "Theatricality and Deception",
+        "kind": "trophy",
+        "chapterId": "batcave-and-upgrades",
+        "where": "Purchase 3 Gadget Upgrades"
+      },
+      {
+        "id": "achievement-32",
+        "name": "\"I own the place.\"",
+        "kind": "trophy",
+        "chapterId": "batcave-and-upgrades",
+        "where": "Purchase all Batcave Expansions"
+      },
+      {
+        "id": "achievement-33",
+        "name": "Not Just a Cave",
+        "kind": "trophy",
+        "chapterId": "batcave-and-upgrades",
+        "where": "Place 5 Props or Trophies in the Batcave"
+      },
+      {
+        "id": "achievement-34",
+        "name": "\"No, sir. The OTHER car.\"",
+        "kind": "trophy",
+        "chapterId": "batcave-and-upgrades",
+        "where": "Purchase 3 Vehicles from the Batcave"
+      },
+      {
+        "id": "achievement-35",
+        "name": "\"You either buy a hero…\"",
+        "kind": "trophy",
+        "chapterId": "batcave-and-upgrades",
+        "where": "Purchase 5 Items from Shops"
+      },
+      {
+        "id": "achievement-36",
+        "name": "\"Does it come in black?\"",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Equip a Red Brick"
+      },
+      {
+        "id": "achievement-37",
+        "name": "\"Wouldn't wanna make things too easy.\"",
+        "kind": "trophy",
+        "chapterId": "gotham-open-world",
+        "where": "Get 5 Gold Medals in AR Trials"
+      },
+      {
+        "id": "achievement-38",
+        "name": "Rebuilding Gotham",
+        "kind": "trophy",
+        "chapterId": "gotham-open-world",
+        "where": "Cash in a Challenge in the Batcave"
+      },
+      {
+        "id": "achievement-39",
+        "name": "Collecting Evidence",
+        "kind": "trophy",
+        "chapterId": "batcave-and-upgrades",
+        "where": "Roll the camera over 20 degrees in Photo Mode"
+      },
+      {
+        "id": "achievement-40",
+        "name": "Computer Privileges",
+        "kind": "trophy",
+        "chapterId": "batcave-and-upgrades",
+        "where": "Change the screensaver on the Batcomputer"
+      },
+      {
+        "id": "achievement-41",
+        "name": "\"Life's been good to me.\"",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Collect 1,000,000 Studs"
+      },
+      {
+        "id": "achievement-42",
+        "name": "Caped Defender",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Perform 100 Successful Counters"
+      },
+      {
+        "id": "achievement-43",
+        "name": "\"Never do it for free.\"",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Collect 30,000 Studs within a single stud combo"
+      },
+      {
+        "id": "achievement-44",
+        "name": "\"I'm good with calculation.\"",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Maintain Max Stud Combo for 60 Seconds"
+      },
+      {
+        "id": "achievement-45",
+        "name": "The Strength to Fight",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Reach Combat Combo of 99 hits"
+      },
+      {
+        "id": "achievement-46",
+        "name": "\"I am the shadows.\"",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Perform 100 Stealth Takedowns"
+      },
+      {
+        "id": "achievement-47",
+        "name": "\"This is my city.\"",
+        "kind": "trophy",
+        "chapterId": "gotham-open-world",
+        "where": "Place a Pin on the Map"
+      },
+      {
+        "id": "achievement-48",
+        "name": "\"You're becoming quite a celebrity.\"",
+        "kind": "trophy",
+        "chapterId": "gotham-open-world",
+        "where": "Discover 100 open world events"
+      },
+      {
+        "id": "achievement-49",
+        "name": "Cowardly and Superstitious Lot",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Defeat every type of enemy once"
+      },
+      {
+        "id": "achievement-50",
+        "name": "\"Gotham can feel a little safer.\"",
+        "kind": "trophy",
+        "chapterId": "gotham-open-world",
+        "where": "Prevent 30 Crimes"
+      },
+      {
+        "id": "achievement-51",
+        "name": "\"Things have improved.\"",
+        "kind": "trophy",
+        "chapterId": "gotham-open-world",
+        "where": "Prevent each type of Crime in Gotham once"
+      },
+      {
+        "id": "achievement-52",
+        "name": "\"Is that like parachuting?\"",
+        "kind": "trophy",
+        "chapterId": "gotham-open-world",
+        "where": "Glide in 10 different wind tunnels"
+      },
+      {
+        "id": "achievement-53",
+        "name": "Maximum Security",
+        "kind": "trophy",
+        "chapterId": "mayhem-mode",
+        "where": "Break out of Arkham"
+      },
+      {
+        "id": "achievement-54",
+        "name": "Absolute Mayhem",
+        "kind": "trophy",
+        "chapterId": "mayhem-mode",
+        "where": "Complete 5 Mayhem Runs"
+      },
+      {
+        "id": "achievement-55",
+        "name": "Welcome to the Crew",
+        "kind": "trophy",
+        "chapterId": "mayhem-mode",
+        "where": "Recruit 3 henchpeople to your crew"
+      },
+      {
+        "id": "achievement-56",
+        "name": "Bargain",
+        "kind": "trophy",
+        "chapterId": "mayhem-mode",
+        "where": "Purchase every power up once from the pop-up shop"
+      },
+      {
+        "id": "achievement-57",
+        "name": "Lost a Wheel",
+        "kind": "trophy",
+        "chapterId": "mayhem-mode",
+        "where": "Steal each hero vehicle once"
+      },
+      {
+        "id": "achievement-58",
+        "name": "Lacking Agency",
+        "kind": "trophy",
+        "chapterId": "mayhem-mode",
+        "where": "Defeat 300 A.R.G.U.S. Agents"
+      },
+      {
+        "id": "achievement-59",
+        "name": "Full House",
+        "kind": "trophy",
+        "chapterId": "mayhem-mode",
+        "where": "Have 10 crew members summoned at once"
+      },
+      {
+        "id": "achievement-60",
+        "name": "Well Equipped",
+        "kind": "trophy",
+        "chapterId": "mayhem-mode",
+        "where": "Purchase every piece of equipment from the Joker-Mite shop"
+      },
+      {
+        "id": "achievement-61",
+        "name": "Base of Operations",
+        "kind": "trophy",
+        "chapterId": "mayhem-mode",
+        "where": "Fully expand the hideout"
+      },
+      {
+        "id": "achievement-62",
+        "name": "Villified",
+        "kind": "trophy",
+        "chapterId": "mayhem-mode",
+        "where": "Attend the Villy Awards"
+      },
+      {
+        "id": "achievement-63",
+        "name": "All Pipes Lead to Home",
+        "kind": "trophy",
+        "chapterId": "mayhem-mode",
+        "where": "Use each extraction point"
+      },
+      {
+        "id": "achievement-64",
+        "name": "Part of the Plan",
+        "kind": "trophy",
+        "chapterId": "mayhem-mode",
+        "where": "Reroll 5 Bonus Activities at the Planning Table"
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/lego-batman-legacy-of-the-dark-knight",
+    "Achievement data from Steam (Steam Web API, app 2215200)",
+    "StrategyWiki: no page for this game, nothing used",
+    "Fandom (lego.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://lego.fandom.com/wiki/LEGO_Batman:_Legacy_of_the_Dark_Knight"
+  ],
+  "route": "original",
+  "notes": "Backlog game, picked from RAWG's most-added list for its year (docs/PLAN.md section 2 ordering). StrategyWiki has no page under \"LEGO Batman: Legacy of the Dark Knight\" or \"Lego Batman: Legacy of the Dark Knight\". lego.fandom.com (Brickipedia) has a page \"LEGO Batman: Legacy of the Dark Knight\" with about 157 links, including subpages Prologue and Chapter 1 to 6, \"Mayhem Mode\", \"Escape Arkham\", \"Crew Hire\" and \"Mayhem Prep\"; names only were looked at, nothing copied. Steam has achievements for the Prologue and Chapters One to Five plus \"Complete Story Mode\", while Fandom lists a Chapter 6, so the last chapter may have no achievement of its own. None of the 64 Steam achievements is hidden. Achievements 53 to 64 (Arkham breakout, Mayhem Runs, crew, hideout, Joker-Mite shop, Villy Awards) form one block; they were put in a Mayhem Mode chapter, named after the Fandom subpage. \"Rebuilding Gotham\" (cash in a Challenge in the Batcave) sits with side activities. The \"Complete Bruce's Gray Ghost costume\" achievement (95.6%) sits in heroes and suits."
+}
