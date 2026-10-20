@@ -1,0 +1,731 @@
+{
+  "id": "starfield",
+  "title": "Starfield",
+  "year": 2023,
+  "platforms": [
+    "PC",
+    "Xbox Series X|S"
+  ],
+  "rawgId": 58779,
+  "rawgSlug": "starfield",
+  "released": "2023-09-06",
+  "developers": [
+    "Bethesda Game Studios"
+  ],
+  "playtime": 29,
+  "genres": [
+    "Adventure",
+    "RPG"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Multiplayer",
+    "Steam Cloud",
+    "Atmospheric",
+    "RPG",
+    "Story Rich",
+    "Open World",
+    "First-Person",
+    "Third Person",
+    "Sci-fi",
+    "Partial Controller Support"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/ba8/ba82c971336adfd290e4c0eab6504fcf.jpg",
+  "steamAppId": 1716740,
+  "achievements": {
+    "total": 82,
+    "hidden": 0,
+    "examples": [
+      {
+        "name": "For All, Into the Starfield",
+        "percent": 88.7
+      },
+      {
+        "name": "One Small Step",
+        "percent": 78.9
+      },
+      {
+        "name": "Dust Off",
+        "percent": 73.9
+      },
+      {
+        "name": "Incursion Eliminator",
+        "percent": 0.2
+      },
+      {
+        "name": "Stay of Execution",
+        "percent": 0.2
+      },
+      {
+        "name": "Riddle Management",
+        "percent": 0.2
+      },
+      {
+        "name": "They’re Not Toys!",
+        "percent": 0.1
+      },
+      {
+        "name": "Contract Killer",
+        "percent": 0.1
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Starfield",
+      "reason": "Stub page only (Guides at completion stage 0); subpages linked but not written, no usable structure"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 30,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://starfield.fandom.com/wiki/Starfield"
+    }
+  },
+  "game": {
+    "id": "starfield",
+    "title": "Starfield",
+    "platforms": [
+      "PC",
+      "Xbox Series X|S"
+    ],
+    "blurb": "Space-faring open-world RPG from Bethesda Game Studios, released 2023-09-06. RAWG average playtime: 29 hours. Genres: Adventure, RPG. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#2B4C7E",
+    "chapters": [
+      {
+        "id": "main-story",
+        "title": "The Main Story",
+        "summary": "Joining Constellation and chasing the mystery of the artifacts.",
+        "steps": []
+      },
+      {
+        "id": "factions",
+        "title": "Faction Questlines",
+        "summary": "The UC Vanguard, the Freestar Rangers, Ryujin Industries and the Crimson Fleet.",
+        "steps": []
+      },
+      {
+        "id": "shattered-space",
+        "title": "The Va'ruun'kai Expansion",
+        "summary": "The expansion set on Va'ruun'kai, with its own missions, Vortex enemies and locations.",
+        "steps": []
+      },
+      {
+        "id": "later-content",
+        "title": "Later Missions and Add-ons",
+        "summary": "Missions and features added after launch: Delta, Incursions, action figures, legendary upgrades and more.",
+        "steps": []
+      },
+      {
+        "id": "outposts-and-ships",
+        "title": "Outposts and Ships",
+        "summary": "Building outposts and cargo links, modifying and collecting ships.",
+        "steps": []
+      },
+      {
+        "id": "exploration",
+        "title": "Exploring the Settled Systems",
+        "summary": "Visiting star systems, landing on planets and gathering resources.",
+        "steps": []
+      },
+      {
+        "id": "character",
+        "title": "Character, Crafting and Combat",
+        "summary": "Levels, companions, skill magazines, crafting, mods, hacking, smuggling and fights.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "For All, Into the Starfield",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Enter Space for the First Time"
+      },
+      {
+        "id": "achievement-2",
+        "name": "One Small Step",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Join Constellation"
+      },
+      {
+        "id": "achievement-3",
+        "name": "Into the Unknown",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Complete \"Into the Unknown\""
+      },
+      {
+        "id": "achievement-4",
+        "name": "All That Money Can Buy",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Complete \"All That Money Can Buy\""
+      },
+      {
+        "id": "achievement-5",
+        "name": "Further Into the Unknown",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Complete \"Further Into the Unknown\""
+      },
+      {
+        "id": "achievement-6",
+        "name": "High Price to Pay",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Complete \"High Price to Pay\""
+      },
+      {
+        "id": "achievement-7",
+        "name": "In Their Footsteps",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Complete \"In Their Footsteps\""
+      },
+      {
+        "id": "achievement-8",
+        "name": "Entangled",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Complete \"Entangled\""
+      },
+      {
+        "id": "achievement-9",
+        "name": "Unearthed",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Complete \"Unearthed\""
+      },
+      {
+        "id": "achievement-10",
+        "name": "One Giant Leap",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Complete \"One Giant Leap\""
+      },
+      {
+        "id": "achievement-11",
+        "name": "Supra et Ultra",
+        "kind": "trophy",
+        "chapterId": "factions",
+        "where": "Join the UC Vanguard"
+      },
+      {
+        "id": "achievement-12",
+        "name": "The Devils You Know",
+        "kind": "trophy",
+        "chapterId": "factions",
+        "where": "Complete \"The Devils You Know\""
+      },
+      {
+        "id": "achievement-13",
+        "name": "A Legacy Forged",
+        "kind": "trophy",
+        "chapterId": "factions",
+        "where": "Complete \"A Legacy Forged\""
+      },
+      {
+        "id": "achievement-14",
+        "name": "Deputized",
+        "kind": "trophy",
+        "chapterId": "factions",
+        "where": "Join the Freestar Rangers"
+      },
+      {
+        "id": "achievement-15",
+        "name": "Surgical Strike",
+        "kind": "trophy",
+        "chapterId": "factions",
+        "where": "Complete \"Surgical Strike\""
+      },
+      {
+        "id": "achievement-16",
+        "name": "The Hammer Falls",
+        "kind": "trophy",
+        "chapterId": "factions",
+        "where": "Complete \"The Hammer Falls\""
+      },
+      {
+        "id": "achievement-17",
+        "name": "Back to the Grind",
+        "kind": "trophy",
+        "chapterId": "factions",
+        "where": "Join Ryujin Industries"
+      },
+      {
+        "id": "achievement-18",
+        "name": "Guilty Parties",
+        "kind": "trophy",
+        "chapterId": "factions",
+        "where": "Complete \"Guilty Parties\""
+      },
+      {
+        "id": "achievement-19",
+        "name": "Executive Level",
+        "kind": "trophy",
+        "chapterId": "factions",
+        "where": "Complete \"Executive Level\""
+      },
+      {
+        "id": "achievement-20",
+        "name": "Rook Meets King",
+        "kind": "trophy",
+        "chapterId": "factions",
+        "where": "Join the Crimson Fleet"
+      },
+      {
+        "id": "achievement-21",
+        "name": "The Best There Is",
+        "kind": "trophy",
+        "chapterId": "factions",
+        "where": "Complete \"The Best There Is\""
+      },
+      {
+        "id": "achievement-22",
+        "name": "Legacy's End",
+        "kind": "trophy",
+        "chapterId": "factions",
+        "where": "Complete \"Legacy's End\""
+      },
+      {
+        "id": "achievement-23",
+        "name": "Home Sweet Home",
+        "kind": "trophy",
+        "chapterId": "outposts-and-ships",
+        "where": "Build an Outpost"
+      },
+      {
+        "id": "achievement-24",
+        "name": "Shipping Magnate",
+        "kind": "trophy",
+        "chapterId": "outposts-and-ships",
+        "where": "Connect 5 Outposts with Cargo Links"
+      },
+      {
+        "id": "achievement-25",
+        "name": "Industrialist",
+        "kind": "trophy",
+        "chapterId": "outposts-and-ships",
+        "where": "Produce 500 Total Resources from Outposts"
+      },
+      {
+        "id": "achievement-26",
+        "name": "Chief Engineer",
+        "kind": "trophy",
+        "chapterId": "outposts-and-ships",
+        "where": "Modify a Ship"
+      },
+      {
+        "id": "achievement-27",
+        "name": "Stellar Cartography",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Visit 20 Star Systems"
+      },
+      {
+        "id": "achievement-28",
+        "name": "The Stars My Destination",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Visit all Star Systems"
+      },
+      {
+        "id": "achievement-29",
+        "name": "Boots on the Ground",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Land on 100 Planets"
+      },
+      {
+        "id": "achievement-30",
+        "name": "Fixer",
+        "kind": "trophy",
+        "chapterId": "character",
+        "where": "Complete 30 Activities"
+      },
+      {
+        "id": "achievement-31",
+        "name": "Privateer",
+        "kind": "trophy",
+        "chapterId": "character",
+        "where": "Complete 30 Terminal or Misc. Missions"
+      },
+      {
+        "id": "achievement-32",
+        "name": "Life Begets Life",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Gather 500 Organic Resources"
+      },
+      {
+        "id": "achievement-33",
+        "name": "Rock Collection",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Gather 500 Inorganic Resources"
+      },
+      {
+        "id": "achievement-34",
+        "name": "Cyber Jockey",
+        "kind": "trophy",
+        "chapterId": "character",
+        "where": "Bypass 50 Digital Locks"
+      },
+      {
+        "id": "achievement-35",
+        "name": "Jacked In",
+        "kind": "trophy",
+        "chapterId": "character",
+        "where": "Access 50 Computers"
+      },
+      {
+        "id": "achievement-36",
+        "name": "Soldier of Fortune",
+        "kind": "trophy",
+        "chapterId": "character",
+        "where": "Mod 50 Weapons"
+      },
+      {
+        "id": "achievement-37",
+        "name": "Replicator",
+        "kind": "trophy",
+        "chapterId": "character",
+        "where": "Craft 100 Items"
+      },
+      {
+        "id": "achievement-38",
+        "name": "The Family You Choose",
+        "kind": "trophy",
+        "chapterId": "character",
+        "where": "Recruit 10 Separate Companions"
+      },
+      {
+        "id": "achievement-39",
+        "name": "Starcrossed",
+        "kind": "trophy",
+        "chapterId": "character",
+        "where": "Reach Maximum Relationship Level with a Companion"
+      },
+      {
+        "id": "achievement-40",
+        "name": "War of Angels",
+        "kind": "trophy",
+        "chapterId": "character",
+        "where": "Collect 20 Quantum Essence"
+      },
+      {
+        "id": "achievement-41",
+        "name": "Fleet Commander",
+        "kind": "trophy",
+        "chapterId": "outposts-and-ships",
+        "where": "Collect 10 Ships"
+      },
+      {
+        "id": "achievement-42",
+        "name": "Thirst for Knowledge",
+        "kind": "trophy",
+        "chapterId": "character",
+        "where": "Read 20 Skill Magazines"
+      },
+      {
+        "id": "achievement-43",
+        "name": "Dark Matter",
+        "kind": "trophy",
+        "chapterId": "character",
+        "where": "Eliminate 300 Human Enemies"
+      },
+      {
+        "id": "achievement-44",
+        "name": "Another Bug Hunt",
+        "kind": "trophy",
+        "chapterId": "character",
+        "where": "Eliminate 300 Creatures"
+      },
+      {
+        "id": "achievement-45",
+        "name": "I Use Them For Smuggling",
+        "kind": "trophy",
+        "chapterId": "character",
+        "where": "Successfully Smuggle Contraband"
+      },
+      {
+        "id": "achievement-46",
+        "name": "Dust Off",
+        "kind": "trophy",
+        "chapterId": "character",
+        "where": "Reach Level 5"
+      },
+      {
+        "id": "achievement-47",
+        "name": "Traveler",
+        "kind": "trophy",
+        "chapterId": "character",
+        "where": "Reach Level 10"
+      },
+      {
+        "id": "achievement-48",
+        "name": "Elite",
+        "kind": "trophy",
+        "chapterId": "character",
+        "where": "Reach Level 25"
+      },
+      {
+        "id": "achievement-49",
+        "name": "Space Opera",
+        "kind": "trophy",
+        "chapterId": "character",
+        "where": "Reach Level 50"
+      },
+      {
+        "id": "achievement-50",
+        "name": "Reach for the Stars",
+        "kind": "trophy",
+        "chapterId": "character",
+        "where": "Reach Level 100"
+      },
+      {
+        "id": "achievement-51",
+        "name": "What Remains",
+        "kind": "trophy",
+        "chapterId": "shattered-space",
+        "where": "Complete “What Remains”"
+      },
+      {
+        "id": "achievement-52",
+        "name": "The Promised, Broken",
+        "kind": "trophy",
+        "chapterId": "shattered-space",
+        "where": "Complete “The Promised, Broken”"
+      },
+      {
+        "id": "achievement-53",
+        "name": "Zealous Overreach",
+        "kind": "trophy",
+        "chapterId": "shattered-space",
+        "where": "Complete \"Zealous Overreach\""
+      },
+      {
+        "id": "achievement-54",
+        "name": "Conflict in Conviction",
+        "kind": "trophy",
+        "chapterId": "shattered-space",
+        "where": "Complete \"Conflict in Conviction\""
+      },
+      {
+        "id": "achievement-55",
+        "name": "Exhuming the Past",
+        "kind": "trophy",
+        "chapterId": "shattered-space",
+        "where": "Complete \"Exhuming the Past\""
+      },
+      {
+        "id": "achievement-56",
+        "name": "The Other Side",
+        "kind": "trophy",
+        "chapterId": "shattered-space",
+        "where": "Complete “The Other Side”"
+      },
+      {
+        "id": "achievement-57",
+        "name": "The Scaled Citadel",
+        "kind": "trophy",
+        "chapterId": "shattered-space",
+        "where": "Complete \"The Scaled Citadel\""
+      },
+      {
+        "id": "achievement-58",
+        "name": "The Great Unknown",
+        "kind": "trophy",
+        "chapterId": "shattered-space",
+        "where": "Discover 50 Locations on Va’ruun’kai"
+      },
+      {
+        "id": "achievement-59",
+        "name": "Facing Your Fears",
+        "kind": "trophy",
+        "chapterId": "shattered-space",
+        "where": "Defeat 25 Vortex Horrors"
+      },
+      {
+        "id": "achievement-60",
+        "name": "Redemption Arc",
+        "kind": "trophy",
+        "chapterId": "shattered-space",
+        "where": "Defeat 10 Redeemed"
+      },
+      {
+        "id": "achievement-61",
+        "name": "Five of a Kind",
+        "kind": "trophy",
+        "chapterId": "shattered-space",
+        "where": "Craft one of each type of Vortex Grenade"
+      },
+      {
+        "id": "achievement-62",
+        "name": "Savior of the Promised",
+        "kind": "trophy",
+        "chapterId": "shattered-space",
+        "where": "Aid the People of Va’ruun’kai"
+      },
+      {
+        "id": "achievement-63",
+        "name": "Lost Luxury",
+        "kind": "trophy",
+        "chapterId": "later-content",
+        "where": "Complete “Lost Luxury”"
+      },
+      {
+        "id": "achievement-64",
+        "name": "Into the VOID",
+        "kind": "trophy",
+        "chapterId": "later-content",
+        "where": "Complete “Into the VOID”"
+      },
+      {
+        "id": "achievement-65",
+        "name": "Battle of the Unifier",
+        "kind": "trophy",
+        "chapterId": "later-content",
+        "where": "Complete “Battle of the Unifier”"
+      },
+      {
+        "id": "achievement-66",
+        "name": "This for That",
+        "kind": "trophy",
+        "chapterId": "later-content",
+        "where": "Build out and hand over an outpost to a faction"
+      },
+      {
+        "id": "achievement-67",
+        "name": "Greater Than",
+        "kind": "trophy",
+        "chapterId": "later-content",
+        "where": "Convince Delta that you are worthy of the title Captain"
+      },
+      {
+        "id": "achievement-68",
+        "name": "Less Than",
+        "kind": "trophy",
+        "chapterId": "later-content",
+        "where": "Prove the superiority of artificial life"
+      },
+      {
+        "id": "achievement-69",
+        "name": "Incursion Fighter",
+        "kind": "trophy",
+        "chapterId": "later-content",
+        "where": "Clear out 5 Incursions"
+      },
+      {
+        "id": "achievement-70",
+        "name": "Incursion Exterminator",
+        "kind": "trophy",
+        "chapterId": "later-content",
+        "where": "Clear out 15 Incursions"
+      },
+      {
+        "id": "achievement-71",
+        "name": "Incursion Eliminator",
+        "kind": "trophy",
+        "chapterId": "later-content",
+        "where": "Clear out 30 Incursions"
+      },
+      {
+        "id": "achievement-72",
+        "name": "Overclocked",
+        "kind": "trophy",
+        "chapterId": "later-content",
+        "where": "Fully upgrade Delta"
+      },
+      {
+        "id": "achievement-73",
+        "name": "Half the Battle",
+        "kind": "trophy",
+        "chapterId": "later-content",
+        "where": "Let Sarah Morgan know about her action figure"
+      },
+      {
+        "id": "achievement-74",
+        "name": "Fully Equipped",
+        "kind": "trophy",
+        "chapterId": "later-content",
+        "where": "Find a spaceship equipment module schematic and install an equipment module on your ship"
+      },
+      {
+        "id": "achievement-75",
+        "name": "Top Tier",
+        "kind": "trophy",
+        "chapterId": "later-content",
+        "where": "Apply a Rank 4 Legendary Effect to a piece of your equipment"
+      },
+      {
+        "id": "achievement-76",
+        "name": "Just Like Grandma Used to Make",
+        "kind": "trophy",
+        "chapterId": "later-content",
+        "where": "Eat the questionable food offered by a spacefaring Old Woman"
+      },
+      {
+        "id": "achievement-77",
+        "name": "They’re Not Toys!",
+        "kind": "trophy",
+        "chapterId": "later-content",
+        "where": "Collect all Action Figures"
+      },
+      {
+        "id": "achievement-78",
+        "name": "Contract Killer",
+        "kind": "trophy",
+        "chapterId": "later-content",
+        "where": "Kill 10 targets for the Arbitrator"
+      },
+      {
+        "id": "achievement-79",
+        "name": "Stay of Execution",
+        "kind": "trophy",
+        "chapterId": "later-content",
+        "where": "Stop Bernhard from killing Caruso"
+      },
+      {
+        "id": "achievement-80",
+        "name": "Master of Magnetism",
+        "kind": "trophy",
+        "chapterId": "later-content",
+        "where": "Use a magnet to destroy the robot for Ivica in New Babylon"
+      },
+      {
+        "id": "achievement-81",
+        "name": "Riddle Management",
+        "kind": "trophy",
+        "chapterId": "later-content",
+        "where": "Prevent any deaths by answering riddles"
+      },
+      {
+        "id": "achievement-82",
+        "name": "Quantum Hoarder",
+        "kind": "trophy",
+        "chapterId": "later-content",
+        "where": "Retrieve your inventory from another universe"
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/starfield",
+    "Achievement data from Steam (Steam Web API, app 1716740)",
+    "StrategyWiki: stub page only, nothing used — https://strategywiki.org/wiki/Starfield",
+    "Fandom (starfield.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://starfield.fandom.com/wiki/Starfield"
+  ],
+  "route": "original",
+  "notes": "Backlog game, picked from RAWG's most-added list for its year (docs/PLAN.md section 2 ordering). StrategyWiki has a stub page (completion stage 0); Walkthrough, Gameplay and Table of Contents are linked but no subpages exist. starfield.fandom.com answers the API, but its game page has only about 30 linked pages (starfield-game.fandom.com was also tried and returned 404). None of the 82 Steam achievements are hidden. The Va'ruun'kai achievements are grouped as one expansion chapter; its official name is not in the allowed sources, so the chapter is named after the place. Another group added later (Delta, Incursions, Into the VOID, Battle of the Unifier, action figures and others) sits in its own chapter; which update or add-on each comes from was not checked. Fandom lists a 2026 PlayStation 5 release; RAWG still gives 2023-09-06."
+}

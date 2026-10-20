@@ -1,0 +1,860 @@
+{
+  "id": "far-cry-6",
+  "title": "Far Cry 6",
+  "year": 2021,
+  "platforms": [
+    "PC",
+    "Xbox One",
+    "PlayStation 4",
+    "Xbox Series X|S",
+    "PlayStation 5"
+  ],
+  "rawgId": 463723,
+  "rawgSlug": "far-cry-6",
+  "released": "2021-10-07",
+  "developers": [
+    "Ubisoft",
+    "Ubisoft Montreal",
+    "Ubisoft Toronto",
+    "Ubisoft Shanghai",
+    "Ubisoft Kyiv",
+    "Ubisoft Berlin"
+  ],
+  "playtime": 8,
+  "genres": [
+    "Action",
+    "Shooter",
+    "Adventure"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Multiplayer",
+    "Atmospheric",
+    "Co-op",
+    "Story Rich",
+    "Open World",
+    "First-Person",
+    "Partial Controller Support",
+    "FPS",
+    "Online Co-Op",
+    "Exploration",
+    "Sandbox"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/5dd/5dd4d2dd986d2826800bc37fff64aa4f.jpg",
+  "steamAppId": 2369390,
+  "achievements": {
+    "total": 99,
+    "hidden": 0,
+    "examples": [
+      {
+        "name": "Yo Soy Dani Rojas",
+        "percent": 61.9
+      },
+      {
+        "name": "@CanYouPetTheCroc",
+        "percent": 51.2
+      },
+      {
+        "name": "Heated Conflict",
+        "percent": 35.9
+      },
+      {
+        "name": "Parables",
+        "percent": 0.3
+      },
+      {
+        "name": "Walking the Path",
+        "percent": 0.3
+      },
+      {
+        "name": "Flawless Clarity",
+        "percent": 0.3
+      },
+      {
+        "name": "Into the Void",
+        "percent": 0.3
+      },
+      {
+        "name": "Mighty Minotaur",
+        "percent": 0.3
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": false,
+      "pages": 0,
+      "reason": "No page for Far Cry 6 (MediaWiki API returned missing; search empty)"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 206,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://farcry.fandom.com/wiki/Far_Cry_6"
+    }
+  },
+  "game": {
+    "id": "far-cry-6",
+    "title": "Far Cry 6",
+    "platforms": [
+      "PC",
+      "Xbox One",
+      "PlayStation 4",
+      "Xbox Series X|S",
+      "PlayStation 5"
+    ],
+    "blurb": "Open-world first-person shooter set on the island of Yara, from Ubisoft Toronto with other Ubisoft studios, released 2021-10-07. RAWG average playtime: 8 hours (well under a full run). Genres: Action, Shooter, Adventure. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#C8102E",
+    "chapters": [
+      {
+        "id": "main-story",
+        "title": "The Main Story",
+        "summary": "Dani Rojas joins Libertad, wins over Yara's regions and takes the island back.",
+        "steps": []
+      },
+      {
+        "id": "guerrilla-war",
+        "title": "The Guerrilla War",
+        "summary": "FND bases, checkpoints, anti-aircraft guns, supply drops, Bandido operations and camps.",
+        "steps": []
+      },
+      {
+        "id": "life-in-yara",
+        "title": "Life in Yara",
+        "summary": "Yaran Stories, cockfights, races, dominoes, fishing, hunting, treasure and collectibles.",
+        "steps": []
+      },
+      {
+        "id": "special-operations",
+        "title": "Special Operations",
+        "summary": "The Special Operations missions, including the Mastery 3 runs.",
+        "steps": []
+      },
+      {
+        "id": "combat-and-amigos",
+        "title": "Combat, Gear and Amigos",
+        "summary": "Fighting tricks, weapon mods, gear sets, rides and your animal Amigos.",
+        "steps": []
+      },
+      {
+        "id": "insanity",
+        "title": "Insanity DLC: Vaas, Pagan and Joseph",
+        "summary": "The three villain DLC episodes, each a run through a mind.",
+        "steps": []
+      },
+      {
+        "id": "lost-between-worlds",
+        "title": "Lost Between Worlds",
+        "summary": "The Lost Between Worlds expansion with Fai and the rifts.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Yo Soy Dani Rojas",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Select Dani's look (Solo Campaign only)"
+      },
+      {
+        "id": "achievement-2",
+        "name": "Hidden In Plain Sight",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Find your way to Miami"
+      },
+      {
+        "id": "achievement-3",
+        "name": "Cutting Foreign Ties",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Recruit the Legends of '67 and La Moral"
+      },
+      {
+        "id": "achievement-4",
+        "name": "Montero Justicia",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Recruit the Monteros"
+      },
+      {
+        "id": "achievement-5",
+        "name": "Voz del Pueblo",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Recruit Máximas Matanzas"
+      },
+      {
+        "id": "achievement-6",
+        "name": "Viva La Revolución",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Take back Yara"
+      },
+      {
+        "id": "achievement-7",
+        "name": "Ninjerilla",
+        "kind": "trophy",
+        "chapterId": "guerrilla-war",
+        "where": "Capture an FND Base without being detected (Solo Campaign only)"
+      },
+      {
+        "id": "achievement-8",
+        "name": "Co-Dependent",
+        "kind": "trophy",
+        "chapterId": "guerrilla-war",
+        "where": "Capture an FND base with a Co-op partner"
+      },
+      {
+        "id": "achievement-9",
+        "name": "Liberty",
+        "kind": "trophy",
+        "chapterId": "guerrilla-war",
+        "where": "Capture all FND Bases (Solo Campaign only)"
+      },
+      {
+        "id": "achievement-10",
+        "name": "Finders Keepers!",
+        "kind": "trophy",
+        "chapterId": "guerrilla-war",
+        "where": "Return 3 FND Resource vehicles in mint condition"
+      },
+      {
+        "id": "achievement-11",
+        "name": "Check It Out",
+        "kind": "trophy",
+        "chapterId": "guerrilla-war",
+        "where": "Capture 10 Checkpoints (Solo Campaign only)"
+      },
+      {
+        "id": "achievement-12",
+        "name": "Friendly Skies",
+        "kind": "trophy",
+        "chapterId": "guerrilla-war",
+        "where": "Blow up 16 Anti-Aircraft Cannons (Solo Campaign only)"
+      },
+      {
+        "id": "achievement-13",
+        "name": "It's Raining Treasure!",
+        "kind": "trophy",
+        "chapterId": "guerrilla-war",
+        "where": "Intercept 10 Military Supply Drops (Solo Campaign Only)"
+      },
+      {
+        "id": "achievement-14",
+        "name": "Undying Tradition",
+        "kind": "trophy",
+        "chapterId": "life-in-yara",
+        "where": "Complete the Yaran Story \"Triada Blessings\""
+      },
+      {
+        "id": "achievement-15",
+        "name": "Top of the Pecking Order",
+        "kind": "trophy",
+        "chapterId": "life-in-yara",
+        "where": "Win a Cockfighting match"
+      },
+      {
+        "id": "achievement-16",
+        "name": "Speed Racer",
+        "kind": "trophy",
+        "chapterId": "life-in-yara",
+        "where": "Complete 3 Gran Premios"
+      },
+      {
+        "id": "achievement-17",
+        "name": "Beginner's Luck",
+        "kind": "trophy",
+        "chapterId": "life-in-yara",
+        "where": "Win a Dominoes game"
+      },
+      {
+        "id": "achievement-18",
+        "name": "Overheated",
+        "kind": "trophy",
+        "chapterId": "special-operations",
+        "where": "Complete a Special Operation"
+      },
+      {
+        "id": "achievement-19",
+        "name": "Alpha Guerrilla",
+        "kind": "trophy",
+        "chapterId": "guerrilla-war",
+        "where": "Successfully complete 5 Bandido Operations"
+      },
+      {
+        "id": "achievement-20",
+        "name": "Road Rage",
+        "kind": "trophy",
+        "chapterId": "combat-and-amigos",
+        "where": "Perform a Vehicle Machete Kill from a horse"
+      },
+      {
+        "id": "achievement-21",
+        "name": "Armed to the Teeth",
+        "kind": "trophy",
+        "chapterId": "life-in-yara",
+        "where": "Collect 49 Unique Weapons"
+      },
+      {
+        "id": "achievement-22",
+        "name": "Hogar Dulce Hogar",
+        "kind": "trophy",
+        "chapterId": "guerrilla-war",
+        "where": "Fully upgrade one Camp Facility at any Guerrilla Camp (Solo Campaign only)"
+      },
+      {
+        "id": "achievement-23",
+        "name": "Backpacking",
+        "kind": "trophy",
+        "chapterId": "life-in-yara",
+        "where": "Acquire every Supremo in Yara"
+      },
+      {
+        "id": "achievement-24",
+        "name": "Fry Cry",
+        "kind": "trophy",
+        "chapterId": "life-in-yara",
+        "where": "Purchase 15 Meals"
+      },
+      {
+        "id": "achievement-25",
+        "name": "That's My Jam",
+        "kind": "trophy",
+        "chapterId": "life-in-yara",
+        "where": "Find 15 USB Sticks"
+      },
+      {
+        "id": "achievement-26",
+        "name": "That's Puzzling",
+        "kind": "trophy",
+        "chapterId": "life-in-yara",
+        "where": "Unlock 15 Criptograma Chests"
+      },
+      {
+        "id": "achievement-27",
+        "name": "Car Cry",
+        "kind": "trophy",
+        "chapterId": "life-in-yara",
+        "where": "Collect all 4 Rides"
+      },
+      {
+        "id": "achievement-28",
+        "name": "Recrooster",
+        "kind": "trophy",
+        "chapterId": "life-in-yara",
+        "where": "Find all Roosters"
+      },
+      {
+        "id": "achievement-29",
+        "name": "Loyal Army",
+        "kind": "trophy",
+        "chapterId": "combat-and-amigos",
+        "where": "Recruit 5 Amigos"
+      },
+      {
+        "id": "achievement-30",
+        "name": "@CanYouPetTheCroc",
+        "kind": "trophy",
+        "chapterId": "combat-and-amigos",
+        "where": "Pet Guapo"
+      },
+      {
+        "id": "achievement-31",
+        "name": "Strutting His Stuff",
+        "kind": "trophy",
+        "chapterId": "combat-and-amigos",
+        "where": "Equip Chicharrón with the Motherclucker Outfit"
+      },
+      {
+        "id": "achievement-32",
+        "name": "Secret Weapon",
+        "kind": "trophy",
+        "chapterId": "combat-and-amigos",
+        "where": "Distract 10 soldiers with Chorizo"
+      },
+      {
+        "id": "achievement-33",
+        "name": "Heated Conflict",
+        "kind": "trophy",
+        "chapterId": "combat-and-amigos",
+        "where": "Take out 10 soldiers with active Heat"
+      },
+      {
+        "id": "achievement-34",
+        "name": "Jawson Brody",
+        "kind": "trophy",
+        "chapterId": "combat-and-amigos",
+        "where": "Take out a shark with an explosion"
+      },
+      {
+        "id": "achievement-35",
+        "name": "Sophishticated",
+        "kind": "trophy",
+        "chapterId": "life-in-yara",
+        "where": "Catch 10 fish"
+      },
+      {
+        "id": "achievement-36",
+        "name": "Outdated Tech",
+        "kind": "trophy",
+        "chapterId": "combat-and-amigos",
+        "where": "Take out a soldier by sabotaging an alarm"
+      },
+      {
+        "id": "achievement-37",
+        "name": "Oh No You Don't!",
+        "kind": "trophy",
+        "chapterId": "guerrilla-war",
+        "where": "Take out 3 Insurgent Leaders"
+      },
+      {
+        "id": "achievement-38",
+        "name": "Not So Special",
+        "kind": "trophy",
+        "chapterId": "combat-and-amigos",
+        "where": "Take out 10 Special Forces soldiers"
+      },
+      {
+        "id": "achievement-39",
+        "name": "Not So Tough",
+        "kind": "trophy",
+        "chapterId": "combat-and-amigos",
+        "where": "Disable and hijack a tank using an EMP device"
+      },
+      {
+        "id": "achievement-40",
+        "name": "Ultimate Predator",
+        "kind": "trophy",
+        "chapterId": "life-in-yara",
+        "where": "Hunt all Mythical Animals (Solo Campaign only)"
+      },
+      {
+        "id": "achievement-41",
+        "name": "Slip Sliding Away",
+        "kind": "trophy",
+        "chapterId": "combat-and-amigos",
+        "where": "Slide 200m at once"
+      },
+      {
+        "id": "achievement-42",
+        "name": "Hit 'n Run",
+        "kind": "trophy",
+        "chapterId": "combat-and-amigos",
+        "where": "Run over 10 soldiers in a vehicle"
+      },
+      {
+        "id": "achievement-43",
+        "name": "Didn't See That Coming!",
+        "kind": "trophy",
+        "chapterId": "combat-and-amigos",
+        "where": "Use a Security Control Center to disable all cameras and alarms"
+      },
+      {
+        "id": "achievement-44",
+        "name": "Death From Above",
+        "kind": "trophy",
+        "chapterId": "combat-and-amigos",
+        "where": "Take out a soldier from 50m above them"
+      },
+      {
+        "id": "achievement-45",
+        "name": "Toxic Influence",
+        "kind": "trophy",
+        "chapterId": "combat-and-amigos",
+        "where": "Have poisoned soldiers kill 5 other enemies"
+      },
+      {
+        "id": "achievement-46",
+        "name": "Fashionista",
+        "kind": "trophy",
+        "chapterId": "combat-and-amigos",
+        "where": "Equip a full matching Gear Set"
+      },
+      {
+        "id": "achievement-47",
+        "name": "Do It Yourself",
+        "kind": "trophy",
+        "chapterId": "combat-and-amigos",
+        "where": "Install every Mod on a single Resolver Weapon"
+      },
+      {
+        "id": "achievement-48",
+        "name": "Glamping",
+        "kind": "trophy",
+        "chapterId": "guerrilla-war",
+        "where": "Build one of each Camp Facility (Solo Campaign only)"
+      },
+      {
+        "id": "achievement-49",
+        "name": "Furiously Fast",
+        "kind": "trophy",
+        "chapterId": "combat-and-amigos",
+        "where": "Have 10 parts installed on a Ride"
+      },
+      {
+        "id": "achievement-50",
+        "name": "Glorious Leader",
+        "kind": "trophy",
+        "chapterId": "guerrilla-war",
+        "where": "Reach the Rank of Comandante"
+      },
+      {
+        "id": "achievement-51",
+        "name": "Stay Cool",
+        "kind": "trophy",
+        "chapterId": "special-operations",
+        "where": "Complete any Special Operation without exceeding 50% on the PG-240X's temperature meter"
+      },
+      {
+        "id": "achievement-52",
+        "name": "Hidden Cash",
+        "kind": "trophy",
+        "chapterId": "special-operations",
+        "where": "Locate a stash of hidden Moneda in any Special Operation"
+      },
+      {
+        "id": "achievement-53",
+        "name": "Termination Phase",
+        "kind": "trophy",
+        "chapterId": "special-operations",
+        "where": "Free 30 hostages during a Lola's Informants challenge in any Special Operation"
+      },
+      {
+        "id": "achievement-54",
+        "name": "Crocodile Tears",
+        "kind": "trophy",
+        "chapterId": "special-operations",
+        "where": "Complete Special Operation: Cocodrilo on Mastery 3 difficulty"
+      },
+      {
+        "id": "achievement-55",
+        "name": "Extinction Level Event",
+        "kind": "trophy",
+        "chapterId": "special-operations",
+        "where": "Complete Special Operation: Mesozoico on Mastery 3 difficulty"
+      },
+      {
+        "id": "achievement-56",
+        "name": "Everything Must Go",
+        "kind": "trophy",
+        "chapterId": "special-operations",
+        "where": "Complete Special Operation: Los Tres Santos on Mastery 3 difficulty"
+      },
+      {
+        "id": "achievement-57",
+        "name": "Queenslayer",
+        "kind": "trophy",
+        "chapterId": "special-operations",
+        "where": "Complete Special Operation: Puerta del Edén on Mastery 3 difficulty"
+      },
+      {
+        "id": "achievement-58",
+        "name": "Agua Mala",
+        "kind": "trophy",
+        "chapterId": "special-operations",
+        "where": "Complete Special Operation: Maceo on Mastery 3 difficulty"
+      },
+      {
+        "id": "achievement-59",
+        "name": "No, I Won",
+        "kind": "trophy",
+        "chapterId": "insanity",
+        "where": "Escape Vaas' mind"
+      },
+      {
+        "id": "achievement-60",
+        "name": "I Rule This Kingdom",
+        "kind": "trophy",
+        "chapterId": "insanity",
+        "where": "Escape Vaas’ mind with a score of at least 25,000"
+      },
+      {
+        "id": "achievement-61",
+        "name": "The 1%",
+        "kind": "trophy",
+        "chapterId": "insanity",
+        "where": "Carry at least 8,000 Cash at one time"
+      },
+      {
+        "id": "achievement-62",
+        "name": "This Is Your Brain",
+        "kind": "trophy",
+        "chapterId": "insanity",
+        "where": "Discover every location in Vaas' mind"
+      },
+      {
+        "id": "achievement-63",
+        "name": "Freudian Field Day",
+        "kind": "trophy",
+        "chapterId": "insanity",
+        "where": "Unlock all weapons in Vaas' Armory (Solo Game only)"
+      },
+      {
+        "id": "achievement-64",
+        "name": "Dear Diary",
+        "kind": "trophy",
+        "chapterId": "insanity",
+        "where": "Collect all of Vaas' Diary Pages"
+      },
+      {
+        "id": "achievement-65",
+        "name": "Puff, Puff, Vaas",
+        "kind": "trophy",
+        "chapterId": "insanity",
+        "where": "Collect all of the Vaas Chibis"
+      },
+      {
+        "id": "achievement-66",
+        "name": "So Much For Poetics",
+        "kind": "trophy",
+        "chapterId": "insanity",
+        "where": "Collect all of the Visions in Vaas' mind"
+      },
+      {
+        "id": "achievement-67",
+        "name": "Self-Help",
+        "kind": "trophy",
+        "chapterId": "insanity",
+        "where": "Fully upgrade all Weapon Cases in Vaas' Armory (Solo Game only)"
+      },
+      {
+        "id": "achievement-68",
+        "name": "Definition of Insanity",
+        "kind": "trophy",
+        "chapterId": "insanity",
+        "where": "Escape Vaas' mind at Mind Level 5"
+      },
+      {
+        "id": "achievement-69",
+        "name": "True End(ing)",
+        "kind": "trophy",
+        "chapterId": "insanity",
+        "where": "Escape Pagan's mind"
+      },
+      {
+        "id": "achievement-70",
+        "name": "Mind Monarch",
+        "kind": "trophy",
+        "chapterId": "insanity",
+        "where": "Escape Pagan's mind with a score of at least 25,000"
+      },
+      {
+        "id": "achievement-71",
+        "name": "Pocket Money",
+        "kind": "trophy",
+        "chapterId": "insanity",
+        "where": "Carry at least 8,000 Respect at once"
+      },
+      {
+        "id": "achievement-72",
+        "name": "Enlightened Monarch",
+        "kind": "trophy",
+        "chapterId": "insanity",
+        "where": "Discover every location in Pagan's mind"
+      },
+      {
+        "id": "achievement-73",
+        "name": "Accessorizing",
+        "kind": "trophy",
+        "chapterId": "insanity",
+        "where": "Unlock all weapons in Pagan's Armory (Solo Game only)"
+      },
+      {
+        "id": "achievement-74",
+        "name": "Early Drafts",
+        "kind": "trophy",
+        "chapterId": "insanity",
+        "where": "Collect all of Pagan's Diary Pages"
+      },
+      {
+        "id": "achievement-75",
+        "name": "Vanity Project",
+        "kind": "trophy",
+        "chapterId": "insanity",
+        "where": "Collect all of the Pagan Chibis"
+      },
+      {
+        "id": "achievement-76",
+        "name": "Radio is More My Thing",
+        "kind": "trophy",
+        "chapterId": "insanity",
+        "where": "Collect all of the Visions in Pagan's mind"
+      },
+      {
+        "id": "achievement-77",
+        "name": "Min-Maxed",
+        "kind": "trophy",
+        "chapterId": "insanity",
+        "where": "Have 8 Power equipped at one time"
+      },
+      {
+        "id": "achievement-78",
+        "name": "What's a King to a God?",
+        "kind": "trophy",
+        "chapterId": "insanity",
+        "where": "Escape Pagan's mind at Mind Level 5"
+      },
+      {
+        "id": "achievement-79",
+        "name": "A New Dawn",
+        "kind": "trophy",
+        "chapterId": "insanity",
+        "where": "Successfully escape Joseph's mind"
+      },
+      {
+        "id": "achievement-80",
+        "name": "Crusader",
+        "kind": "trophy",
+        "chapterId": "insanity",
+        "where": "Escape Joseph's mind with a score of at least 25,000"
+      },
+      {
+        "id": "achievement-81",
+        "name": "Non-Profit",
+        "kind": "trophy",
+        "chapterId": "insanity",
+        "where": "Carry at least 8,000 Penance at one time"
+      },
+      {
+        "id": "achievement-82",
+        "name": "Pilgrimage",
+        "kind": "trophy",
+        "chapterId": "insanity",
+        "where": "Discover every location in Joseph's mind"
+      },
+      {
+        "id": "achievement-83",
+        "name": "Prepper",
+        "kind": "trophy",
+        "chapterId": "insanity",
+        "where": "Unlock all weapons in Joseph's Armory (Solo Game only)"
+      },
+      {
+        "id": "achievement-84",
+        "name": "Family History",
+        "kind": "trophy",
+        "chapterId": "insanity",
+        "where": "Collect all of Joseph's Diary Pages"
+      },
+      {
+        "id": "achievement-85",
+        "name": "False Idols",
+        "kind": "trophy",
+        "chapterId": "insanity",
+        "where": "Collect all of the Joseph Chibis"
+      },
+      {
+        "id": "achievement-86",
+        "name": "Parables",
+        "kind": "trophy",
+        "chapterId": "insanity",
+        "where": "Collect all of the Visions in Joseph's mind"
+      },
+      {
+        "id": "achievement-87",
+        "name": "Heavenly Father",
+        "kind": "trophy",
+        "chapterId": "insanity",
+        "where": "Unlock all of Joseph's traits in the Mirror"
+      },
+      {
+        "id": "achievement-88",
+        "name": "Walking the Path",
+        "kind": "trophy",
+        "chapterId": "insanity",
+        "where": "Escape Joseph's mind at Mind Level 5"
+      },
+      {
+        "id": "achievement-89",
+        "name": "Back Home",
+        "kind": "trophy",
+        "chapterId": "lost-between-worlds",
+        "where": "Escape the Encasement with Fai's help"
+      },
+      {
+        "id": "achievement-90",
+        "name": "Intergalactic Mechanic",
+        "kind": "trophy",
+        "chapterId": "lost-between-worlds",
+        "where": "Collect all 5 Vessel Shards"
+      },
+      {
+        "id": "achievement-91",
+        "name": "Refracted Yara",
+        "kind": "trophy",
+        "chapterId": "lost-between-worlds",
+        "where": "Enter the portal and complete Fractured Fortress"
+      },
+      {
+        "id": "achievement-92",
+        "name": "Now You're Riftin'",
+        "kind": "trophy",
+        "chapterId": "lost-between-worlds",
+        "where": "Complete 5 consecutive rifts without using glints to respawn"
+      },
+      {
+        "id": "achievement-93",
+        "name": "Flawless Clarity",
+        "kind": "trophy",
+        "chapterId": "lost-between-worlds",
+        "where": "Complete a run in Lost Between Worlds in 15 minutes"
+      },
+      {
+        "id": "achievement-94",
+        "name": "Into the Void",
+        "kind": "trophy",
+        "chapterId": "lost-between-worlds",
+        "where": "Take out 25 Defense Units with gadgets"
+      },
+      {
+        "id": "achievement-95",
+        "name": "Mighty Minotaur",
+        "kind": "trophy",
+        "chapterId": "lost-between-worlds",
+        "where": "Take out 10 Defense Units with melee attacks in one run of The Maze"
+      },
+      {
+        "id": "achievement-96",
+        "name": "Yaran National Scuba Team",
+        "kind": "trophy",
+        "chapterId": "lost-between-worlds",
+        "where": "Swim to a depth of 185 meters in Sunken Esperanza"
+      },
+      {
+        "id": "achievement-97",
+        "name": "Sun Striker",
+        "kind": "trophy",
+        "chapterId": "lost-between-worlds",
+        "where": "Take out 20 Defense Units in one run of Death by Darkness"
+      },
+      {
+        "id": "achievement-98",
+        "name": "Demolitions Expert",
+        "kind": "trophy",
+        "chapterId": "lost-between-worlds",
+        "where": "Blow up 30 Defense Units as Fai in Comandante Fai"
+      },
+      {
+        "id": "achievement-99",
+        "name": "Crystal Crusader",
+        "kind": "trophy",
+        "chapterId": "lost-between-worlds",
+        "where": "Complete Color Combat without Dani's health falling to a critical level"
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/far-cry-6",
+    "Achievement data from Steam (Steam Web API, app 2369390)",
+    "StrategyWiki: no page for this game, nothing used",
+    "Fandom (farcry.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://farcry.fandom.com/wiki/Far_Cry_6"
+  ],
+  "route": "original",
+  "notes": "No StrategyWiki page. farcry.fandom.com answers the API, with about 213 linked pages; names only were looked at, nothing copied. The Steam store app is 2369390 (the Steam release of the game). All 99 Steam achievements are visible (none hidden). 41 of them belong to the Vaas, Pagan and Joseph Insanity DLC and the Lost Between Worlds expansion, so those get their own chapters. Recruiting the regional groups is used as the main story outline."
+}

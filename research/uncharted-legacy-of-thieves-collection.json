@@ -1,0 +1,859 @@
+{
+  "id": "uncharted-legacy-of-thieves-collection",
+  "title": "Uncharted: Legacy of Thieves Collection",
+  "year": 2022,
+  "platforms": [
+    "PC",
+    "PlayStation 5"
+  ],
+  "rawgId": 704634,
+  "rawgSlug": "uncharted-legacy-of-thieves-collection",
+  "released": "2022-01-28",
+  "developers": [
+    "Naughty Dog",
+    "Iron Galaxy Studios"
+  ],
+  "playtime": 7,
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Full controller support",
+    "Steam Cloud",
+    "Atmospheric",
+    "Great Soundtrack",
+    "Story Rich",
+    "Third Person",
+    "Funny",
+    "Exploration",
+    "Female Protagonist",
+    "Violent"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/de6/de66bc4c72b45c3bb906c85d0628112d.jpg",
+  "steamAppId": 1659420,
+  "achievements": {
+    "total": 101,
+    "hidden": 35,
+    "examples": [
+      {
+        "name": "First Treasure",
+        "percent": 80.1
+      },
+      {
+        "name": "Head of the Class!",
+        "percent": 68.8
+      },
+      {
+        "name": "Stealth First Ask Questions Later",
+        "percent": 66.3
+      },
+      {
+        "name": "The Sampler",
+        "percent": 1.4
+      },
+      {
+        "name": "Make an Entrance",
+        "percent": 1.4
+      },
+      {
+        "name": "Best Driver in the Business",
+        "percent": 1.4
+      },
+      {
+        "name": "A Thief's Legacy",
+        "percent": 1.3
+      },
+      {
+        "name": "Don't Ruin The Moment",
+        "percent": 1.2
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Uncharted:_Legacy_of_Thieves_Collection",
+      "reason": "Stub page only (Guides at completion stage 0); subpages linked but not written, no usable structure"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 2,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://uncharted.fandom.com/wiki/Uncharted:_Legacy_of_Thieves_Collection"
+    }
+  },
+  "game": {
+    "id": "uncharted-legacy-of-thieves-collection",
+    "title": "Uncharted: Legacy of Thieves Collection",
+    "platforms": [
+      "PC",
+      "PlayStation 5"
+    ],
+    "blurb": "Collection of two action-adventure games, Uncharted 4: A Thief's End and Uncharted: The Lost Legacy, from Naughty Dog and Iron Galaxy, released 2022-01-28. RAWG average playtime: 7 hours (well under a full run of both games). Genres: Action, Adventure. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#B8862E",
+    "chapters": [
+      {
+        "id": "uc4-story",
+        "title": "Uncharted 4: The Story",
+        "summary": "Nathan Drake's last treasure hunt, on every difficulty. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "uc4-treasures",
+        "title": "Uncharted 4: Treasures and Journal",
+        "summary": "Treasures, relics, journal entries and notes.",
+        "steps": []
+      },
+      {
+        "id": "uc4-combat",
+        "title": "Uncharted 4: Combat and Stealth",
+        "summary": "Headshots, stealth takedowns, rope fights, explosives and combo challenges.",
+        "steps": []
+      },
+      {
+        "id": "tll-story",
+        "title": "The Lost Legacy: The Story",
+        "summary": "Chloe and Nadine's search in India, on every difficulty. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "tll-exploration",
+        "title": "The Lost Legacy: Exploring the Western Ghats",
+        "summary": "Treasures, lockboxes, photo spots, forts, driving and climbing challenges.",
+        "steps": []
+      },
+      {
+        "id": "tll-combat",
+        "title": "The Lost Legacy: Combat and Stealth",
+        "summary": "Headshots, silent takedowns, C4, vehicles and combo challenges.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Charted! - Explorer",
+        "kind": "trophy",
+        "chapterId": "uc4-story",
+        "where": "Complete the game in explorer mode"
+      },
+      {
+        "id": "achievement-2",
+        "name": "Charted! - Light",
+        "kind": "trophy",
+        "chapterId": "uc4-story",
+        "where": "Complete the game in light mode"
+      },
+      {
+        "id": "achievement-3",
+        "name": "Charted! - Moderate",
+        "kind": "trophy",
+        "chapterId": "uc4-story",
+        "where": "Complete the game in moderate mode"
+      },
+      {
+        "id": "achievement-4",
+        "name": "Charted! - Hard",
+        "kind": "trophy",
+        "chapterId": "uc4-story",
+        "where": "Complete the game in hard mode"
+      },
+      {
+        "id": "achievement-5",
+        "name": "Charted! - Crushing",
+        "kind": "trophy",
+        "chapterId": "uc4-story",
+        "where": "Complete the game in crushing mode"
+      },
+      {
+        "id": "achievement-6",
+        "name": "Charted! - Speedrun",
+        "kind": "trophy",
+        "chapterId": "uc4-story",
+        "where": "Complete the game in 6 hours or less"
+      },
+      {
+        "id": "achievement-7",
+        "name": "First Treasure",
+        "kind": "trophy",
+        "chapterId": "uc4-treasures",
+        "where": "Find a Treasure"
+      },
+      {
+        "id": "achievement-8",
+        "name": "Treasure Hunter",
+        "kind": "trophy",
+        "chapterId": "uc4-treasures",
+        "where": "Find 50 treasures"
+      },
+      {
+        "id": "achievement-9",
+        "name": "Treasure Master",
+        "kind": "trophy",
+        "chapterId": "uc4-treasures",
+        "where": "Find all Treasures"
+      },
+      {
+        "id": "achievement-10",
+        "name": "Relic Finder",
+        "kind": "trophy",
+        "chapterId": "uc4-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-11",
+        "name": "Jot This Down",
+        "kind": "trophy",
+        "chapterId": "uc4-treasures",
+        "where": "Find a Journal Entry"
+      },
+      {
+        "id": "achievement-12",
+        "name": "Lost Art of Journaling",
+        "kind": "trophy",
+        "chapterId": "uc4-treasures",
+        "where": "Find all Journal Entries"
+      },
+      {
+        "id": "achievement-13",
+        "name": "Take a Note",
+        "kind": "trophy",
+        "chapterId": "uc4-treasures",
+        "where": "Find a Journal Note"
+      },
+      {
+        "id": "achievement-14",
+        "name": "Lost History",
+        "kind": "trophy",
+        "chapterId": "uc4-treasures",
+        "where": "Find All Journal Notes"
+      },
+      {
+        "id": "achievement-15",
+        "name": "Head of the Class!",
+        "kind": "trophy",
+        "chapterId": "uc4-combat",
+        "where": "Defeat 20 enemies with headshots"
+      },
+      {
+        "id": "achievement-16",
+        "name": "You Have a Head for this Business",
+        "kind": "trophy",
+        "chapterId": "uc4-combat",
+        "where": "Defeat 50 enemies with headshots"
+      },
+      {
+        "id": "achievement-17",
+        "name": "Hangman's Bullet",
+        "kind": "trophy",
+        "chapterId": "uc4-combat",
+        "where": "Perform 20 headshots from the rope"
+      },
+      {
+        "id": "achievement-18",
+        "name": "Stealth First Ask Questions Later",
+        "kind": "trophy",
+        "chapterId": "uc4-combat",
+        "where": "Stealth take-down 5 enemies"
+      },
+      {
+        "id": "achievement-19",
+        "name": "Shh Sleep Now",
+        "kind": "trophy",
+        "chapterId": "uc4-combat",
+        "where": "Stealth take-down 30 enemies"
+      },
+      {
+        "id": "achievement-20",
+        "name": "I Thought I Heard Something",
+        "kind": "trophy",
+        "chapterId": "uc4-combat",
+        "where": "Perform 30 vertical stealth takedowns"
+      },
+      {
+        "id": "achievement-21",
+        "name": "Run-and-Gunner",
+        "kind": "trophy",
+        "chapterId": "uc4-combat",
+        "where": "Defeat 50 enemies from-the-hip or blind-firing"
+      },
+      {
+        "id": "achievement-22",
+        "name": "Leapfrog",
+        "kind": "trophy",
+        "chapterId": "uc4-combat",
+        "where": "Defeat 10 enemies in a row, alternating gunplay and hand-to-hand"
+      },
+      {
+        "id": "achievement-23",
+        "name": "Unstoppable!",
+        "kind": "trophy",
+        "chapterId": "uc4-combat",
+        "where": "Defeat 100 enemies in a row without dying in combat"
+      },
+      {
+        "id": "achievement-24",
+        "name": "Sharpshooter",
+        "kind": "trophy",
+        "chapterId": "uc4-combat",
+        "where": "Complete game with 70% or higher shot accuracy"
+      },
+      {
+        "id": "achievement-25",
+        "name": "Rushing Roulette",
+        "kind": "trophy",
+        "chapterId": "uc4-combat",
+        "where": "Defeat enemies with a pistol, machine gun, and grenade, in that order, in 15 seconds"
+      },
+      {
+        "id": "achievement-26",
+        "name": "Ghost in the Cemetery",
+        "kind": "trophy",
+        "chapterId": "uc4-combat",
+        "where": "Get through Scotland cemetery combat encounter without killing or being seen"
+      },
+      {
+        "id": "achievement-27",
+        "name": "Butterfingers",
+        "kind": "trophy",
+        "chapterId": "uc4-combat",
+        "where": "Make 10 enemies drop their grenades"
+      },
+      {
+        "id": "achievement-28",
+        "name": "Boom County",
+        "kind": "trophy",
+        "chapterId": "uc4-combat",
+        "where": "Defeat 4 enemies with the same explosion (all explosive items and weapons apply)"
+      },
+      {
+        "id": "achievement-29",
+        "name": "Defeat 10 in 60 -- China Lake GL",
+        "kind": "trophy",
+        "chapterId": "uc4-combat",
+        "where": "Defeat 10 enemies in 60 seconds with the China Lake Grenade Launcher"
+      },
+      {
+        "id": "achievement-30",
+        "name": "Hang Tough!",
+        "kind": "trophy",
+        "chapterId": "uc4-combat",
+        "where": "Destroy 10 vehicles while being dragged from the rope"
+      },
+      {
+        "id": "achievement-31",
+        "name": "Run the Table",
+        "kind": "trophy",
+        "chapterId": "uc4-combat",
+        "where": "Defeat enemies with a stealth attack, melee attack, headshot, and explosives, in that order, in 15 seconds"
+      },
+      {
+        "id": "achievement-32",
+        "name": "Hitting a Brick Wall",
+        "kind": "trophy",
+        "chapterId": "uc4-combat",
+        "where": "Defeat 5 armored enemies with melee only"
+      },
+      {
+        "id": "achievement-33",
+        "name": "Peaceful Resolution",
+        "kind": "trophy",
+        "chapterId": "uc4-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-34",
+        "name": "Wingman",
+        "kind": "trophy",
+        "chapterId": "uc4-combat",
+        "where": "Perform 10 combo buddy takedowns"
+      },
+      {
+        "id": "achievement-35",
+        "name": "Cliffhanger",
+        "kind": "trophy",
+        "chapterId": "uc4-combat",
+        "where": "Pull 20 enemies over when hanging from a ledge"
+      },
+      {
+        "id": "achievement-36",
+        "name": "Ludonarrative Dissonance",
+        "kind": "trophy",
+        "chapterId": "uc4-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-37",
+        "name": "Don't Feed the Animals",
+        "kind": "trophy",
+        "chapterId": "uc4-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-38",
+        "name": "I Accidentally All the Guns",
+        "kind": "trophy",
+        "chapterId": "uc4-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-39",
+        "name": "Not a Cairn in the World",
+        "kind": "trophy",
+        "chapterId": "uc4-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-40",
+        "name": "I Can See My House From Here!",
+        "kind": "trophy",
+        "chapterId": "uc4-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-41",
+        "name": "Trials and Tribulations",
+        "kind": "trophy",
+        "chapterId": "uc4-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-42",
+        "name": "Best Score!",
+        "kind": "trophy",
+        "chapterId": "uc4-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-43",
+        "name": "Gift of Gab",
+        "kind": "trophy",
+        "chapterId": "uc4-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-44",
+        "name": "Marco Polo Returns!",
+        "kind": "trophy",
+        "chapterId": "uc4-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-45",
+        "name": "Stage Fright",
+        "kind": "trophy",
+        "chapterId": "uc4-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-46",
+        "name": "Just Floor It!",
+        "kind": "trophy",
+        "chapterId": "uc4-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-47",
+        "name": "On Porpoise",
+        "kind": "trophy",
+        "chapterId": "uc4-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-48",
+        "name": "Still Got It!",
+        "kind": "trophy",
+        "chapterId": "uc4-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-49",
+        "name": "Glamour Shot",
+        "kind": "trophy",
+        "chapterId": "uc4-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-50",
+        "name": "Swordmaster",
+        "kind": "trophy",
+        "chapterId": "uc4-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-51",
+        "name": "Legacy Found!",
+        "kind": "trophy",
+        "chapterId": "tll-story",
+        "where": "Complete the Game"
+      },
+      {
+        "id": "achievement-52",
+        "name": "Progress Demands Sacrifice",
+        "kind": "trophy",
+        "chapterId": "tll-story",
+        "where": "Complete the Game in Crushing mode"
+      },
+      {
+        "id": "achievement-53",
+        "name": "Casual Treasure Hunter",
+        "kind": "trophy",
+        "chapterId": "tll-exploration",
+        "where": "Find 5 treasures"
+      },
+      {
+        "id": "achievement-54",
+        "name": "Hardcore Treasure Hunter",
+        "kind": "trophy",
+        "chapterId": "tll-exploration",
+        "where": "Find 35 treasures"
+      },
+      {
+        "id": "achievement-55",
+        "name": "Collector of Antiquities",
+        "kind": "trophy",
+        "chapterId": "tll-exploration",
+        "where": "Find all the treasures"
+      },
+      {
+        "id": "achievement-56",
+        "name": "Shake For Your Fortune",
+        "kind": "trophy",
+        "chapterId": "tll-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-57",
+        "name": "Token For Granted",
+        "kind": "trophy",
+        "chapterId": "tll-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-58",
+        "name": "Yas Queen",
+        "kind": "trophy",
+        "chapterId": "tll-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-59",
+        "name": "Five Finger Discount",
+        "kind": "trophy",
+        "chapterId": "tll-exploration",
+        "where": "Open 5 lockboxes"
+      },
+      {
+        "id": "achievement-60",
+        "name": "Picks or It Didn't Happen",
+        "kind": "trophy",
+        "chapterId": "tll-exploration",
+        "where": "Open every lockbox"
+      },
+      {
+        "id": "achievement-61",
+        "name": "#nofilter",
+        "kind": "trophy",
+        "chapterId": "tll-exploration",
+        "where": "Take a photo at 5 photo opportunities"
+      },
+      {
+        "id": "achievement-62",
+        "name": "Pics or It Didn't Happen",
+        "kind": "trophy",
+        "chapterId": "tll-exploration",
+        "where": "Take a photo at all the photo opportunities"
+      },
+      {
+        "id": "achievement-63",
+        "name": "Getting to Know You",
+        "kind": "trophy",
+        "chapterId": "tll-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-64",
+        "name": "Si Vis Pacem Para Bellum",
+        "kind": "trophy",
+        "chapterId": "tll-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-65",
+        "name": "Were You Counting?",
+        "kind": "trophy",
+        "chapterId": "tll-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-66",
+        "name": "10 Up, 10 Down",
+        "kind": "trophy",
+        "chapterId": "tll-combat",
+        "where": "Defeat 10 enemies with headshots in a row"
+      },
+      {
+        "id": "achievement-67",
+        "name": "Frazer. Chloe Frazer.",
+        "kind": "trophy",
+        "chapterId": "tll-combat",
+        "where": "Defeat 5 consecutive enemies with the silenced pistol without being detected"
+      },
+      {
+        "id": "achievement-68",
+        "name": "Itchy Trigger Finger",
+        "kind": "trophy",
+        "chapterId": "tll-combat",
+        "where": "Defeat 20 enemies firing from-the-hip"
+      },
+      {
+        "id": "achievement-69",
+        "name": "Stay and Pray",
+        "kind": "trophy",
+        "chapterId": "tll-combat",
+        "where": "Defeat 20 enemies blind-firing from cover"
+      },
+      {
+        "id": "achievement-70",
+        "name": "Tip of the Hat",
+        "kind": "trophy",
+        "chapterId": "tll-combat",
+        "where": "Stealth take-down 10 armored enemies with melee by first removing their helmets without being detected"
+      },
+      {
+        "id": "achievement-71",
+        "name": "Royal Demolitionist",
+        "kind": "trophy",
+        "chapterId": "tll-combat",
+        "where": "Defeat 20 enemies with C4"
+      },
+      {
+        "id": "achievement-72",
+        "name": "On the Grid",
+        "kind": "trophy",
+        "chapterId": "tll-combat",
+        "where": "Mark 30 enemies"
+      },
+      {
+        "id": "achievement-73",
+        "name": "I Was Never Here",
+        "kind": "trophy",
+        "chapterId": "tll-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-74",
+        "name": "C-Phoria",
+        "kind": "trophy",
+        "chapterId": "tll-combat",
+        "where": "Defeat 4 enemies with one C4 detonation"
+      },
+      {
+        "id": "achievement-75",
+        "name": "Just the Wind",
+        "kind": "trophy",
+        "chapterId": "tll-combat",
+        "where": "Stealth take-down 15 enemies in a row"
+      },
+      {
+        "id": "achievement-76",
+        "name": "Now You See Me...",
+        "kind": "trophy",
+        "chapterId": "tll-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-77",
+        "name": "Wingwoman",
+        "kind": "trophy",
+        "chapterId": "tll-combat",
+        "where": "Perform 10 combo partner takedowns"
+      },
+      {
+        "id": "achievement-78",
+        "name": "The Way of the Warrior",
+        "kind": "trophy",
+        "chapterId": "tll-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-79",
+        "name": "The Sampler",
+        "kind": "trophy",
+        "chapterId": "tll-combat",
+        "where": "Defeat 5 enemies, each one taking damage from a handgun, long-gun, and melee"
+      },
+      {
+        "id": "achievement-80",
+        "name": "Make an Entrance",
+        "kind": "trophy",
+        "chapterId": "tll-combat",
+        "where": "Defeat enemies with the vehicle, long-gun, melee, and grenade, in that order, in 20 seconds"
+      },
+      {
+        "id": "achievement-81",
+        "name": "Bring in the Big Guns",
+        "kind": "trophy",
+        "chapterId": "tll-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-82",
+        "name": "4x4x4",
+        "kind": "trophy",
+        "chapterId": "tll-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-83",
+        "name": "Drop Me a Line",
+        "kind": "trophy",
+        "chapterId": "tll-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-84",
+        "name": "Your Prize",
+        "kind": "trophy",
+        "chapterId": "tll-exploration",
+        "where": "Appreciate the view at the top of the Hoysala Empire"
+      },
+      {
+        "id": "achievement-85",
+        "name": "Best Driver in the Business",
+        "kind": "trophy",
+        "chapterId": "tll-exploration",
+        "where": "Drive from the Ganesh mountain carving to the top of the waterfall at the Trident Fort and back in under 3 minutes"
+      },
+      {
+        "id": "achievement-86",
+        "name": "Flawless Gauntlet",
+        "kind": "trophy",
+        "chapterId": "tll-exploration",
+        "where": "Get through all 3 Axe Fort trials without resetting any boards"
+      },
+      {
+        "id": "achievement-87",
+        "name": "Quiet as a Mouse",
+        "kind": "trophy",
+        "chapterId": "tll-exploration",
+        "where": "After entering the Trident Fort, reach the door without being seen"
+      },
+      {
+        "id": "achievement-88",
+        "name": "Jungle Gym",
+        "kind": "trophy",
+        "chapterId": "tll-exploration",
+        "where": "Perform 5 grapple swings in a row without touching the ground"
+      },
+      {
+        "id": "achievement-89",
+        "name": "Stunt It!",
+        "kind": "trophy",
+        "chapterId": "tll-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-90",
+        "name": "Shadow Theater",
+        "kind": "trophy",
+        "chapterId": "tll-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-91",
+        "name": "Marco Po-No",
+        "kind": "trophy",
+        "chapterId": "tll-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-92",
+        "name": "Fingersmith",
+        "kind": "trophy",
+        "chapterId": "tll-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-93",
+        "name": "Overkill",
+        "kind": "trophy",
+        "chapterId": "tll-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-94",
+        "name": "Cannonball!",
+        "kind": "trophy",
+        "chapterId": "tll-exploration",
+        "where": "Perform an impressive dive from the cliff near the old railroad tracks"
+      },
+      {
+        "id": "achievement-95",
+        "name": "Right Under Your Nose",
+        "kind": "trophy",
+        "chapterId": "tll-combat",
+        "where": "Destroy the helicopter without defeating any other enemies"
+      },
+      {
+        "id": "achievement-96",
+        "name": "Combat Racing",
+        "kind": "trophy",
+        "chapterId": "tll-combat",
+        "where": "Ram 10 motorcycles"
+      },
+      {
+        "id": "achievement-97",
+        "name": "Backseat Driver",
+        "kind": "trophy",
+        "chapterId": "tll-combat",
+        "where": "Commandeer 6 vehicles by jumping on them and kicking out the driver"
+      },
+      {
+        "id": "achievement-98",
+        "name": "Here, Catch!",
+        "kind": "trophy",
+        "chapterId": "tll-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-99",
+        "name": "Let's Not Get Caught",
+        "kind": "trophy",
+        "chapterId": "tll-exploration",
+        "where": "Drive over the edge in the Western Ghats"
+      },
+      {
+        "id": "achievement-100",
+        "name": "A Thief's Legacy",
+        "kind": "trophy",
+        "chapterId": "uc4-story",
+        "where": "Collect all the achievements"
+      },
+      {
+        "id": "achievement-101",
+        "name": "Don't Ruin The Moment",
+        "kind": "trophy",
+        "chapterId": "tll-story",
+        "where": "Collect all the achievements in Uncharted™: The Lost Legacy"
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/uncharted-legacy-of-thieves-collection",
+    "Achievement data from Steam (Steam Web API, app 1659420)",
+    "StrategyWiki: stub page only, nothing used — https://strategywiki.org/wiki/Uncharted:_Legacy_of_Thieves_Collection",
+    "Fandom (uncharted.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://uncharted.fandom.com/wiki/Uncharted:_Legacy_of_Thieves_Collection"
+  ],
+  "route": "original",
+  "notes": "Backlog game, picked from RAWG's most-added list for its year (docs/PLAN.md section 2 ordering). StrategyWiki has a page at completion stage 1, but it is a compilation page with no subpages of its own; the written guides live under the separate Uncharted 4 and The Lost Legacy pages, so no structure was taken from it. uncharted.fandom.com answers the API, but its page has only 2 links. The Steam schema calls the app \"Olympic\" (an internal codename); the store list confirms app 1659420. 35 of 101 Steam achievements are hidden. The Steam list mixes both games: everything from \"Legacy Found!\" onward was treated as The Lost Legacy by its schema position and named content, and hidden ones sit in each game's story chapter as a placeholder. Many hidden ones are probably optional moments rather than story beats."
+}

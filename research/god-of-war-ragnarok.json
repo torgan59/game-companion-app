@@ -1,0 +1,469 @@
+{
+  "id": "god-of-war-ragnarok",
+  "title": "God of War Ragnarök",
+  "year": 2022,
+  "platforms": [
+    "PC",
+    "PlayStation 4",
+    "PlayStation 5"
+  ],
+  "rawgId": 494384,
+  "rawgSlug": "god-of-war-ragnarok",
+  "released": "2022-11-09",
+  "developers": [
+    "SCE Santa Monica Studio"
+  ],
+  "playtime": null,
+  "genres": [
+    "Action"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Story Rich",
+    "exclusive",
+    "true exclusive",
+    "Single player only"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/1c3/1c305096502c475c00276c827f0fd697.jpg",
+  "steamAppId": 2322010,
+  "achievements": {
+    "total": 48,
+    "hidden": 29,
+    "examples": [
+      {
+        "name": "Knock off the Rust",
+        "percent": 86.3
+      },
+      {
+        "name": "Spit Shine",
+        "percent": 82.8
+      },
+      {
+        "name": "How it Started",
+        "percent": 67.6
+      },
+      {
+        "name": "Easy Come, Easy Go",
+        "percent": 14.2
+      },
+      {
+        "name": "Collector",
+        "percent": 13.2
+      },
+      {
+        "name": "Understood the Assignment",
+        "percent": 12.4
+      },
+      {
+        "name": "The Bear and the Wolf",
+        "percent": 10.8
+      },
+      {
+        "name": "Fight at the Forum",
+        "percent": 10.6
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/God_of_War_Ragnarök",
+      "reason": "Stub page only (Guides at completion stage 0); subpages linked but not written, no usable structure"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 217,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://godofwar.fandom.com/wiki/God_of_War_Ragnarök"
+    }
+  },
+  "game": {
+    "id": "god-of-war-ragnarok",
+    "title": "God of War Ragnarök",
+    "platforms": [
+      "PC",
+      "PlayStation 4",
+      "PlayStation 5"
+    ],
+    "blurb": "Norse mythology action-adventure from Santa Monica Studio, released 2022-11-09. RAWG has no playtime yet. Genre: Action. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#4E7CA8",
+    "chapters": [
+      {
+        "id": "main-story",
+        "title": "The Main Story",
+        "summary": "Kratos and Atreus across the Nine Realms as Fimbulwinter ends. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "collectibles",
+        "title": "Collectibles and Exploration",
+        "summary": "Books, artifacts, Apples of Iðunn, Horns of Blood Mead, shields, relics and the Amulet of Yggdrasil.",
+        "steps": []
+      },
+      {
+        "id": "gear-and-skills",
+        "title": "Gear and Skills",
+        "summary": "Skills, enchantments, armour upgrades and crafting sets.",
+        "steps": []
+      },
+      {
+        "id": "valhalla",
+        "title": "Valhalla (free DLC)",
+        "summary": "The roguelite Valhalla mode: its realms, the Forum arena and mastery quests.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "The Bear and the Wolf",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Collect all Trophies"
+      },
+      {
+        "id": "achievement-2",
+        "name": "The Florist",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-3",
+        "name": "The Librarian",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Collect all of the Books"
+      },
+      {
+        "id": "achievement-4",
+        "name": "The Curator",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Collect all of the Artifacts"
+      },
+      {
+        "id": "achievement-5",
+        "name": "How it Started",
+        "kind": "trophy",
+        "chapterId": "gear-and-skills",
+        "where": "Equip an Enchantment"
+      },
+      {
+        "id": "achievement-6",
+        "name": "Spit Shine",
+        "kind": "trophy",
+        "chapterId": "gear-and-skills",
+        "where": "Upgrade one piece of armor"
+      },
+      {
+        "id": "achievement-7",
+        "name": "Spartan Ways",
+        "kind": "trophy",
+        "chapterId": "gear-and-skills",
+        "where": "Remember the Spartan teachings"
+      },
+      {
+        "id": "achievement-8",
+        "name": "Full Belly",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Obtain all of the Apples of Iðunn and Horns of Blood Mead"
+      },
+      {
+        "id": "achievement-9",
+        "name": "Knock off the Rust",
+        "kind": "trophy",
+        "chapterId": "gear-and-skills",
+        "where": "Purchase a Skill"
+      },
+      {
+        "id": "achievement-10",
+        "name": "A Grizzly Encounter",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-11",
+        "name": "Blood Debt",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-12",
+        "name": "Backyard Brawl",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-13",
+        "name": "Root of the Problem",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-14",
+        "name": "The Cauldron",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-15",
+        "name": "Off the Leash",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-16",
+        "name": "Comeuppance",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-17",
+        "name": "Better Together",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-18",
+        "name": "Phalanx",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Obtain all Shields"
+      },
+      {
+        "id": "achievement-19",
+        "name": "Collector",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Obtain all Relics and Sword Hilts"
+      },
+      {
+        "id": "achievement-20",
+        "name": "Dragon Slayer",
+        "kind": "trophy",
+        "chapterId": "gear-and-skills",
+        "where": "Craft the Dragon Scaled Armor Set"
+      },
+      {
+        "id": "achievement-21",
+        "name": "How it's Going",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Fully repair the Amulet of Yggdrasil"
+      },
+      {
+        "id": "achievement-22",
+        "name": "Funeral for a Friend",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-23",
+        "name": "Rebel Leader",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-24",
+        "name": "New Friends",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-25",
+        "name": "Full Gufa",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-26",
+        "name": "Making Amends",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-27",
+        "name": "It Was a Good Day",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-28",
+        "name": "Invasive Species",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-29",
+        "name": "Besties",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-30",
+        "name": "Rightful Place",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-31",
+        "name": "Pure of Hart",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-32",
+        "name": "Trials by Fire",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-33",
+        "name": "Ready for Commitment",
+        "kind": "trophy",
+        "chapterId": "gear-and-skills",
+        "where": "Fully upgrade one armor set"
+      },
+      {
+        "id": "achievement-34",
+        "name": "Ragnarök",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-35",
+        "name": "Grave Mistake",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-36",
+        "name": "The True Queen",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-37",
+        "name": "God of Hope",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-38",
+        "name": "Invitation Accepted",
+        "kind": "trophy",
+        "chapterId": "valhalla",
+        "where": "Discover the secret of Valhalla"
+      },
+      {
+        "id": "achievement-39",
+        "name": "Dark Odyssey",
+        "kind": "trophy",
+        "chapterId": "valhalla",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-40",
+        "name": "Blood, Sweat, and Týr",
+        "kind": "trophy",
+        "chapterId": "valhalla",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-41",
+        "name": "Scry Me a River",
+        "kind": "trophy",
+        "chapterId": "valhalla",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-42",
+        "name": "Wayfarer",
+        "kind": "trophy",
+        "chapterId": "valhalla",
+        "where": "Visit all 9 Realms in Valhalla"
+      },
+      {
+        "id": "achievement-43",
+        "name": "No Kratos, No Scry",
+        "kind": "trophy",
+        "chapterId": "valhalla",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-44",
+        "name": "Fight at the Forum",
+        "kind": "trophy",
+        "chapterId": "valhalla",
+        "where": "Participate in a fight at The Forum arena"
+      },
+      {
+        "id": "achievement-45",
+        "name": "Easy Come, Easy Go",
+        "kind": "trophy",
+        "chapterId": "valhalla",
+        "where": "Acquire more than 15,000 Fleeting Echoes on a single attempt"
+      },
+      {
+        "id": "achievement-46",
+        "name": "Understood the Assignment",
+        "kind": "trophy",
+        "chapterId": "valhalla",
+        "where": "Complete 9 Mastery Quests"
+      },
+      {
+        "id": "achievement-47",
+        "name": "Style Points",
+        "kind": "trophy",
+        "chapterId": "valhalla",
+        "where": "Equip a Cosmetic Armor"
+      },
+      {
+        "id": "achievement-48",
+        "name": "You Again?",
+        "kind": "trophy",
+        "chapterId": "valhalla",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/god-of-war-ragnarok",
+    "Achievement data from Steam (Steam Web API, app 2322010)",
+    "StrategyWiki: stub page only, nothing used — https://strategywiki.org/wiki/God_of_War_Ragnarök",
+    "Fandom (godofwar.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://godofwar.fandom.com/wiki/God_of_War_Ragnarök"
+  ],
+  "route": "original",
+  "notes": "Backlog game, picked from RAWG's most-added list for its year (docs/PLAN.md section 2 ordering). StrategyWiki has a stub page (completion stage 0); Walkthrough is linked but not written, and only Controls, Table of Contents and Trophies subpages exist. godofwar.fandom.com answers the API, with about 218 linked pages; names only were looked at, nothing copied. RAWG's first search hit was a separate PC entry (god-of-war-ragnarok-2, no release date); the detail was replaced with the main entry god-of-war-ragnarok (id 494384). The Steam schema calls the app \"Steel Magnolia\" (an internal codename); the store list confirms app 2322010. 29 of 48 Steam achievements are hidden. The 5 hidden ones listed after \"Invitation Accepted\" were put in Valhalla by schema position. The rest sit in the main story chapter, but several with low unlock rates (about 20 to 31 percent, such as \"The True Queen\" and \"Trials by Fire\") are probably optional content and need checking."
+}

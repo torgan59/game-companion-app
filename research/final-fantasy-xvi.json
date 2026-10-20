@@ -1,0 +1,624 @@
+{
+  "id": "final-fantasy-xvi",
+  "title": "Final Fantasy XVI",
+  "year": 2023,
+  "platforms": [
+    "PC",
+    "Xbox Series X|S",
+    "PlayStation 5"
+  ],
+  "rawgId": 494382,
+  "rawgSlug": "final-fantasy-xvi",
+  "released": "2023-06-22",
+  "developers": [
+    "Square Enix"
+  ],
+  "playtime": 16,
+  "genres": [
+    "Action",
+    "RPG"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Full controller support",
+    "Steam Cloud",
+    "Atmospheric",
+    "Great Soundtrack",
+    "RPG",
+    "Story Rich",
+    "Third Person",
+    "Fantasy",
+    "Gore",
+    "Violent"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/22e/22e68bb62b3013283972cecf98ed51dc.jpg",
+  "steamAppId": 2515020,
+  "achievements": {
+    "total": 69,
+    "hidden": 54,
+    "examples": [
+      {
+        "name": "Sheeeeeeeeeeeeeeeift",
+        "percent": 87.1
+      },
+      {
+        "name": "Punisher",
+        "percent": 78.3
+      },
+      {
+        "name": "Dressed to the Fives",
+        "percent": 67.5
+      },
+      {
+        "name": "Fatal Attraction",
+        "percent": 19.3
+      },
+      {
+        "name": "Rod to Redemption",
+        "percent": 19.0
+      },
+      {
+        "name": "Here Be Rosfields",
+        "percent": 19.0
+      },
+      {
+        "name": "Packing Heat",
+        "percent": 13.9
+      },
+      {
+        "name": "Never Coming Down",
+        "percent": 5.0
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Final_Fantasy_XVI",
+      "reason": "Stub page only (Guides at completion stage 0); subpages linked but not written, no usable structure"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 448,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://finalfantasy.fandom.com/wiki/Final_Fantasy_XVI"
+    }
+  },
+  "game": {
+    "id": "final-fantasy-xvi",
+    "title": "Final Fantasy XVI",
+    "platforms": [
+      "PC",
+      "Xbox Series X|S",
+      "PlayStation 5"
+    ],
+    "blurb": "Story-driven fantasy action RPG from Square Enix, released 2023-06-22. RAWG average playtime: 16 hours. Genres: Action, RPG. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#8C1C13",
+    "chapters": [
+      {
+        "id": "main-story",
+        "title": "The Main Story",
+        "summary": "Clive's journey across Valisthea, from Rosaria to the end. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "eikon-combat",
+        "title": "Eikon Abilities and Combat",
+        "summary": "Shift strikes, staggers, counters and the special moves of each Eikon.",
+        "steps": []
+      },
+      {
+        "id": "gear-and-crafting",
+        "title": "Gear and Crafting",
+        "summary": "Crafting and upgrading gear, potions and inventory space.",
+        "steps": []
+      },
+      {
+        "id": "world-and-companions",
+        "title": "The World, Patrons and Torgal",
+        "summary": "Visiting every area, patron rewards and time with Torgal.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "The Chronicler",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-2",
+        "name": "Awoken",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-3",
+        "name": "With Great Power",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-4",
+        "name": "Acceptance",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-5",
+        "name": "Lawless",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-6",
+        "name": "Legacy",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-7",
+        "name": "Twilight Rose",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-8",
+        "name": "From Stone to Sand",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-9",
+        "name": "Twin Flames",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-10",
+        "name": "The Promise",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-11",
+        "name": "A Vessel Complete",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-12",
+        "name": "Ashes to Ashes",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-13",
+        "name": "Falling Star",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-14",
+        "name": "Punisher",
+        "kind": "trophy",
+        "chapterId": "eikon-combat",
+        "where": "Punish 10 enemies (excluding battles in the Hall of Virtue)."
+      },
+      {
+        "id": "achievement-15",
+        "name": "You're Not the Boss of Me",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-16",
+        "name": "Made to Be Broken",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-17",
+        "name": "It's Over 50,000",
+        "kind": "trophy",
+        "chapterId": "eikon-combat",
+        "where": "Deal an enemy 50,000 damage while it is staggered (excluding battles in the Hall of Virtue and while fully primed as Ifrit)."
+      },
+      {
+        "id": "achievement-18",
+        "name": "Sheeeeeeeeeeeeeeeift",
+        "kind": "trophy",
+        "chapterId": "eikon-combat",
+        "where": "Land 15 Shift Strikes or Shift Shots combined (excluding battles in the Hall of Virtue)."
+      },
+      {
+        "id": "achievement-19",
+        "name": "Packing Heat",
+        "kind": "trophy",
+        "chapterId": "eikon-combat",
+        "where": "Execute and land 2 Heatwave Counters in a single battle (excluding those in the Hall of Virtue)."
+      },
+      {
+        "id": "achievement-20",
+        "name": "Fatal Attraction",
+        "kind": "trophy",
+        "chapterId": "eikon-combat",
+        "where": "Defeat 5 enemies in the air after using Deadly Embrace (excluding battles in the Hall of Virtue)."
+      },
+      {
+        "id": "achievement-21",
+        "name": "Never Coming Down",
+        "kind": "trophy",
+        "chapterId": "eikon-combat",
+        "where": "Land Gouge, Wicked Wheel, and Rook's Gambit in midair before landing (excluding battles in the Hall of Virtue)."
+      },
+      {
+        "id": "achievement-22",
+        "name": "I Am the Thunder",
+        "kind": "trophy",
+        "chapterId": "eikon-combat",
+        "where": "Discharge 50 Blind Justice lightning balls (excluding battles in the Hall of Virtue)."
+      },
+      {
+        "id": "achievement-23",
+        "name": "Rod to Redemption",
+        "kind": "trophy",
+        "chapterId": "eikon-combat",
+        "where": "Lure an enemy into striking a Lightning Rod 3 times before it dissipates (excluding battles in the Hall of Virtue)."
+      },
+      {
+        "id": "achievement-24",
+        "name": "Untouchable",
+        "kind": "trophy",
+        "chapterId": "eikon-combat",
+        "where": "Use Titanic Block to fend off 10 enemy attacks (excluding battles in the Hall of Virtue)."
+      },
+      {
+        "id": "achievement-25",
+        "name": "Beat Rocking Blocks",
+        "kind": "trophy",
+        "chapterId": "eikon-combat",
+        "where": "Land the third punch of a Titanic Counter twice in a single battle (excluding those in the Hall of Virtue)."
+      },
+      {
+        "id": "achievement-26",
+        "name": "100 Mfps",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-27",
+        "name": "Such Dodge, So Mega",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-28",
+        "name": "Oh, Snap!",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-29",
+        "name": "Cold-blooded",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-30",
+        "name": "Every Damn Sinew",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-31",
+        "name": "Fistful of Steel",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-32",
+        "name": "Yes, Eikon",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-33",
+        "name": "Masterclass",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-34",
+        "name": "With Two Ds",
+        "kind": "trophy",
+        "chapterId": "gear-and-crafting",
+        "where": "Upgrade consumable potency and inventory slots to their maximum."
+      },
+      {
+        "id": "achievement-35",
+        "name": "And They Opened Up My Mind",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-36",
+        "name": "Think, Mark!",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-37",
+        "name": "Hunter, Hunted",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-38",
+        "name": "Trial Run",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-39",
+        "name": "For the Hoard",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-40",
+        "name": "Dressed to the Fives",
+        "kind": "trophy",
+        "chapterId": "gear-and-crafting",
+        "where": "Craft or upgrade 5 pieces of gear."
+      },
+      {
+        "id": "achievement-41",
+        "name": "Half Past Twilight",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-42",
+        "name": "The Pen Is Mightier",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-43",
+        "name": "The More You Know",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-44",
+        "name": "Careful Whisper",
+        "kind": "trophy",
+        "chapterId": "world-and-companions",
+        "where": "Obtain all available items from your patrons."
+      },
+      {
+        "id": "achievement-45",
+        "name": "You Can Pet the Dog",
+        "kind": "trophy",
+        "chapterId": "world-and-companions",
+        "where": "Pet Torgal 5 times."
+      },
+      {
+        "id": "achievement-46",
+        "name": "A Fine Hound",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-47",
+        "name": "When You Ride Alone",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-48",
+        "name": "Here Be Rosfields",
+        "kind": "trophy",
+        "chapterId": "world-and-companions",
+        "where": "Visit all areas on the world and local maps."
+      },
+      {
+        "id": "achievement-49",
+        "name": "Eureka",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-50",
+        "name": "Fantasy, Finally",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-51",
+        "name": "Repercussion",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-52",
+        "name": "A Crystal Darkly",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-53",
+        "name": "The Only Way Is Up",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-54",
+        "name": "OMG",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-55",
+        "name": "Bit Fit",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-56",
+        "name": "My Reward Is with Me",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-57",
+        "name": "The Calm",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-58",
+        "name": "Homecoming",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-59",
+        "name": "Flow",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-60",
+        "name": "Flood",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-61",
+        "name": "Explain That",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-62",
+        "name": "Thou Brakest the Head",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-63",
+        "name": "Tideslinger",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-64",
+        "name": "Supersoaker",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-65",
+        "name": "Deus Ex",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-66",
+        "name": "A Most Worthy Vessel",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-67",
+        "name": "The End Can Wait",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-68",
+        "name": "Still Breathing",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-69",
+        "name": "Occasio Calva",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/final-fantasy-xvi",
+    "Achievement data from Steam (Steam Web API, app 2515020)",
+    "StrategyWiki: stub page only, nothing used — https://strategywiki.org/wiki/Final_Fantasy_XVI",
+    "Fandom (finalfantasy.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://finalfantasy.fandom.com/wiki/Final_Fantasy_XVI"
+  ],
+  "route": "original",
+  "notes": "StrategyWiki has a stub page (completion stage 0); Walkthrough, Gameplay and Achievements subpages are linked but not written (only a Table of Contents subpage exists). finalfantasy.fandom.com answers the API, with about 448 linked pages; names only were looked at, nothing copied. The Steam schema calls the app \"FAITH\" (an internal codename); the store list confirms app 2515020. 54 of 69 Steam achievements are hidden, so only 15 visible ones shape the side chapters; all hidden ones sit in the main story chapter. A group of about 14 hidden achievements near the end of the list share a similar unlock rate (roughly 15 to 20 percent) and may belong to the paid expansions, but the data does not say so; they were not split out and need checking."
+}

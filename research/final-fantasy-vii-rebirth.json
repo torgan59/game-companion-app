@@ -1,0 +1,579 @@
+{
+  "id": "final-fantasy-vii-rebirth",
+  "title": "Final Fantasy VII Rebirth",
+  "year": 2024,
+  "platforms": [
+    "PC",
+    "PlayStation 5"
+  ],
+  "rawgId": 802435,
+  "rawgSlug": "final-fantasy-vii-rebirth",
+  "released": "2024-02-29",
+  "developers": [
+    "Square Enix"
+  ],
+  "playtime": 71,
+  "genres": [
+    "Action",
+    "Adventure",
+    "RPG"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Full controller support",
+    "Steam Cloud",
+    "Atmospheric",
+    "RPG",
+    "Story Rich",
+    "Open World",
+    "Third Person",
+    "Fantasy",
+    "Action-Adventure",
+    "Action RPG"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/511/511995d5dfcf18965dbb354d2ba9e176.jpg",
+  "steamAppId": 2909400,
+  "achievements": {
+    "total": 61,
+    "hidden": 33,
+    "examples": [
+      {
+        "name": "I Got This",
+        "percent": 82.9
+      },
+      {
+        "name": "Staggered Learning",
+        "percent": 82.8
+      },
+      {
+        "name": "No \"I\" in \"Synergy\"",
+        "percent": 77.1
+      },
+      {
+        "name": "Staggering Success",
+        "percent": 6.1
+      },
+      {
+        "name": "Well-Rounded",
+        "percent": 3.5
+      },
+      {
+        "name": "Virtually Renowned",
+        "percent": 3.2
+      },
+      {
+        "name": "Of Hardy Stock",
+        "percent": 2.9
+      },
+      {
+        "name": "The Planet's Hope",
+        "percent": 2.3
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Final_Fantasy_VII_Rebirth",
+      "reason": "Stub page only (Guides at completion stage 0); subpages linked but not written, no usable structure"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 500,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://finalfantasy.fandom.com/wiki/Final_Fantasy_VII_Rebirth"
+    }
+  },
+  "game": {
+    "id": "final-fantasy-vii-rebirth",
+    "title": "Final Fantasy VII Rebirth",
+    "platforms": [
+      "PC",
+      "PlayStation 5"
+    ],
+    "blurb": "Action RPG from Square Enix, the second part of the Final Fantasy VII remake project, released 2024-02-29 (PC 2024-12-12). RAWG average playtime: 71 hours. Genres: Action, Adventure, RPG. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#3A7CA5",
+    "chapters": [
+      {
+        "id": "main-story",
+        "title": "The Main Story",
+        "summary": "Cloud and friends leave Midgar behind and follow Sephiroth's trail across the world.",
+        "steps": []
+      },
+      {
+        "id": "combat-and-growth",
+        "title": "Combat and Growth",
+        "summary": "Weaknesses, staggers, synergy skills, limit breaks, summons, weapon abilities and materia.",
+        "steps": []
+      },
+      {
+        "id": "open-world",
+        "title": "Exploring the Regions",
+        "summary": "World intel, chocobo stops, caches, buried treasure, side quests and the moogle emporium.",
+        "steps": []
+      },
+      {
+        "id": "minigames",
+        "title": "Minigames and Queen's Blood",
+        "summary": "Queen's Blood, the piano and the many minigames along the way.",
+        "steps": []
+      },
+      {
+        "id": "chadley-and-endgame",
+        "title": "Chadley, Summons and Endgame",
+        "summary": "Chadley's materia research, summon battles, combat simulations, level 70 and mastering every skill.",
+        "steps": []
+      },
+      {
+        "id": "hard-mode",
+        "title": "Hard Difficulty",
+        "summary": "Finishing every chapter on Hard.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "The Planet's Hope",
+        "kind": "trophy",
+        "chapterId": "chadley-and-endgame",
+        "where": "Earn all FINAL FANTASY VII REBIRTH achievements."
+      },
+      {
+        "id": "achievement-2",
+        "name": "Never Meet Your Heroes",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-3",
+        "name": "Swampy Situation",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-4",
+        "name": "Make Mine Black",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-5",
+        "name": "The President's Commendation",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-6",
+        "name": "Cryptic Cameo",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-7",
+        "name": "Fun in the Sun",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-8",
+        "name": "The Price of Progress",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-9",
+        "name": "Worth the Weight?",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-10",
+        "name": "Crying Out",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-11",
+        "name": "Stars Fell from My Eyes",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-12",
+        "name": "You're Not Murasaki",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-13",
+        "name": "Hearts Out, Dukes Up",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-14",
+        "name": "I'm Here for You",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-15",
+        "name": "Confluence of Worlds",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-16",
+        "name": "I Got This",
+        "kind": "trophy",
+        "chapterId": "combat-and-growth",
+        "where": "Win a battle."
+      },
+      {
+        "id": "achievement-17",
+        "name": "Exploitative Practices",
+        "kind": "trophy",
+        "chapterId": "combat-and-growth",
+        "where": "Exploit an enemy's weakness."
+      },
+      {
+        "id": "achievement-18",
+        "name": "Unfettered Friendship",
+        "kind": "trophy",
+        "chapterId": "combat-and-growth",
+        "where": "Free a bound ally."
+      },
+      {
+        "id": "achievement-19",
+        "name": "Staggered Learning",
+        "kind": "trophy",
+        "chapterId": "combat-and-growth",
+        "where": "Stagger an enemy."
+      },
+      {
+        "id": "achievement-20",
+        "name": "Break It Down",
+        "kind": "trophy",
+        "chapterId": "combat-and-growth",
+        "where": "Use a limit break."
+      },
+      {
+        "id": "achievement-21",
+        "name": "Fledgling Summoner",
+        "kind": "trophy",
+        "chapterId": "combat-and-growth",
+        "where": "Invoke a summon."
+      },
+      {
+        "id": "achievement-22",
+        "name": "Team Player",
+        "kind": "trophy",
+        "chapterId": "combat-and-growth",
+        "where": "Use a synergy skill."
+      },
+      {
+        "id": "achievement-23",
+        "name": "No \"I\" in \"Synergy\"",
+        "kind": "trophy",
+        "chapterId": "combat-and-growth",
+        "where": "Use a synergy ability."
+      },
+      {
+        "id": "achievement-24",
+        "name": "Entering New Markets",
+        "kind": "trophy",
+        "chapterId": "open-world",
+        "where": "Complete a quest."
+      },
+      {
+        "id": "achievement-25",
+        "name": "Weapons 101",
+        "kind": "trophy",
+        "chapterId": "combat-and-growth",
+        "where": "Max out a weapon ability's proficiency."
+      },
+      {
+        "id": "achievement-26",
+        "name": "A Materia World",
+        "kind": "trophy",
+        "chapterId": "combat-and-growth",
+        "where": "Level up an orb of materia."
+      },
+      {
+        "id": "achievement-27",
+        "name": "New Blood",
+        "kind": "trophy",
+        "chapterId": "minigames",
+        "where": "Raise your Queen's Blood rank."
+      },
+      {
+        "id": "achievement-28",
+        "name": "Caching In",
+        "kind": "trophy",
+        "chapterId": "open-world",
+        "where": "Complete your search of a cache location."
+      },
+      {
+        "id": "achievement-29",
+        "name": "I Brake for Chocobos",
+        "kind": "trophy",
+        "chapterId": "open-world",
+        "where": "Repair three chocobo stops."
+      },
+      {
+        "id": "achievement-30",
+        "name": "Expert Ex-kweh-vator",
+        "kind": "trophy",
+        "chapterId": "open-world",
+        "where": "Use a chocobo to find two treasures buried by rabbits."
+      },
+      {
+        "id": "achievement-31",
+        "name": "You Work for Me Now",
+        "kind": "trophy",
+        "chapterId": "chadley-and-endgame",
+        "where": "Defeat a summon in battle and obtain its materia."
+      },
+      {
+        "id": "achievement-32",
+        "name": "Intelligence Aide",
+        "kind": "trophy",
+        "chapterId": "open-world",
+        "where": "Gather world intel at five separate locations."
+      },
+      {
+        "id": "achievement-33",
+        "name": "Intelligence Specialist",
+        "kind": "trophy",
+        "chapterId": "open-world",
+        "where": "Gather world intel at fifty separate locations."
+      },
+      {
+        "id": "achievement-34",
+        "name": "Director of Regional Intelligence",
+        "kind": "trophy",
+        "chapterId": "open-world",
+        "where": "Gather all pieces of world intel in a region."
+      },
+      {
+        "id": "achievement-35",
+        "name": "Founder's Bonus",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-36",
+        "name": "Fort Condor Commander",
+        "kind": "trophy",
+        "chapterId": "minigames",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-37",
+        "name": "Cactuar Crusher",
+        "kind": "trophy",
+        "chapterId": "minigames",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-38",
+        "name": "Honorary Turk",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-39",
+        "name": "The Gambit Paid Off",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-40",
+        "name": "Professional Handler",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-41",
+        "name": "Bladesman of Legend",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-42",
+        "name": "Moogle Lover",
+        "kind": "trophy",
+        "chapterId": "open-world",
+        "where": "Max out your moogle emporium merchant rank."
+      },
+      {
+        "id": "achievement-43",
+        "name": "Materia Completionist",
+        "kind": "trophy",
+        "chapterId": "chadley-and-endgame",
+        "where": "Develop all possible materia together with Chadley."
+      },
+      {
+        "id": "achievement-44",
+        "name": "7th, Assemble!",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-45",
+        "name": "Stealing the Show",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-46",
+        "name": "Card Royalty",
+        "kind": "trophy",
+        "chapterId": "minigames",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-47",
+        "name": "Critically Acclaimed",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-48",
+        "name": "1-Star Startup",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-49",
+        "name": "3-Star Hotel",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-50",
+        "name": "5-Star Hotel",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-51",
+        "name": "7-Star Hotel",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-52",
+        "name": "Polygonal Prizefighter",
+        "kind": "trophy",
+        "chapterId": "minigames",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-53",
+        "name": "Piano Virtuoso",
+        "kind": "trophy",
+        "chapterId": "minigames",
+        "where": "Play all six Piano Outreach Association songs well enough to receive remuneration."
+      },
+      {
+        "id": "achievement-54",
+        "name": "Are You Not Entertained?",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-55",
+        "name": "Hall of Famer",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-56",
+        "name": "My Job Here Is Done",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-57",
+        "name": "Grind It Out",
+        "kind": "trophy",
+        "chapterId": "chadley-and-endgame",
+        "where": "Attain level 70 with a character."
+      },
+      {
+        "id": "achievement-58",
+        "name": "Staggering Success",
+        "kind": "trophy",
+        "chapterId": "combat-and-growth",
+        "where": "Deal 300% or more damage to a staggered enemy."
+      },
+      {
+        "id": "achievement-59",
+        "name": "Well-Rounded",
+        "kind": "trophy",
+        "chapterId": "chadley-and-endgame",
+        "where": "Master all weapon abilities and limit breaks, including those found in folios."
+      },
+      {
+        "id": "achievement-60",
+        "name": "Of Hardy Stock",
+        "kind": "trophy",
+        "chapterId": "hard-mode",
+        "where": "Complete all chapters on Hard difficulty."
+      },
+      {
+        "id": "achievement-61",
+        "name": "Virtually Renowned",
+        "kind": "trophy",
+        "chapterId": "chadley-and-endgame",
+        "where": "Complete all of Chadley's combat simulations."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/final-fantasy-vii-rebirth",
+    "Achievement data from Steam (Steam Web API, app 2909400)",
+    "StrategyWiki: stub page only, nothing used — https://strategywiki.org/wiki/Final_Fantasy_VII_Rebirth",
+    "Fandom (finalfantasy.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://finalfantasy.fandom.com/wiki/Final_Fantasy_VII_Rebirth"
+  ],
+  "route": "original",
+  "notes": "Backlog game, picked from RAWG's most-added list for its year (docs/PLAN.md section 2 ordering). StrategyWiki has a stub page (completion stage 0); Walkthrough, Gameplay, Controls and Trophies subpages are linked but not written, and only a Table of Contents subpage exists. finalfantasy.fandom.com answers the API, with 500 linked pages (the API limit, so likely more); names only were looked at, nothing copied. The Steam schema calls the app \"EP2P\" (an internal codename); the store list confirms app 2909400. 33 of 61 Steam achievements are hidden. Four hidden ones whose names clearly point at minigames (Fort Condor Commander, Cactuar Crusher, Card Royalty, Polygonal Prizefighter) are sorted into the minigames chapter by name; the rest sit in the main story chapter, although several (for example the star-rating set, Are You Not Entertained?, Hall of Famer) are probably minigames or side content too and need checking."
+}
