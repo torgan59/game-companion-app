@@ -1,0 +1,572 @@
+{
+  "id": "dragons-dogma-2",
+  "title": "Dragon's Dogma 2",
+  "year": 2024,
+  "platforms": [
+    "PC",
+    "PlayStation 5",
+    "Xbox Series X|S"
+  ],
+  "rawgId": 804753,
+  "rawgSlug": "dragons-dogma-2",
+  "released": "2024-03-21",
+  "developers": [
+    "Capcom"
+  ],
+  "playtime": 22,
+  "genres": [
+    "Action",
+    "Adventure",
+    "RPG"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Steam Cloud",
+    "RPG",
+    "Open World",
+    "Third Person",
+    "Partial Controller Support",
+    "Fantasy",
+    "Exploration",
+    "Action-Adventure",
+    "Action RPG",
+    "Character Customization"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/679/679d7a18e220025bdd83dff484d6ea64.jpg",
+  "steamAppId": 2054970,
+  "achievements": {
+    "total": 60,
+    "hidden": 7,
+    "examples": [
+      {
+        "name": "First Taste of Freedom",
+        "percent": 94.6
+      },
+      {
+        "name": "Arisen",
+        "percent": 84.0
+      },
+      {
+        "name": "Seat of the Proxy",
+        "percent": 76.5
+      },
+      {
+        "name": "Reunited",
+        "percent": 2.2
+      },
+      {
+        "name": "Dogma Defended",
+        "percent": 2.0
+      },
+      {
+        "name": "Abominable Snowstash",
+        "percent": 1.2
+      },
+      {
+        "name": "Dogma Defied",
+        "percent": 0.2
+      },
+      {
+        "name": "Strike!",
+        "percent": 0.1
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": false,
+      "pages": 0,
+      "reason": "No page for Dragon's Dogma 2 (MediaWiki API returned missing; search empty)"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 26,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://dragonsdogma.fandom.com/wiki/Dragon's_Dogma_II"
+    }
+  },
+  "game": {
+    "id": "dragons-dogma-2",
+    "title": "Dragon's Dogma 2",
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "Xbox Series X|S"
+    ],
+    "blurb": "Open-world fantasy action RPG from Capcom, released 2024-03-21. RAWG average playtime: 22 hours. Genres: Action, Adventure, RPG. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#9B2335",
+    "chapters": [
+      {
+        "id": "main-story",
+        "title": "The Main Story",
+        "summary": "From escaping your chains to reaching Vernworth, crossing the border and taking the throne.",
+        "steps": []
+      },
+      {
+        "id": "true-ending",
+        "title": "The Unmoored World and the True Ending",
+        "summary": "The late-game turn, Norgan and the end of the cycle. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "vocations-and-pawns",
+        "title": "Vocations and Pawns",
+        "summary": "Every vocation, maister teachings and training your pawn.",
+        "steps": []
+      },
+      {
+        "id": "exploration",
+        "title": "Exploration and Travel",
+        "summary": "Dungeons, landmarks, oxcarts, Ferrystones, griffins and Seeker's Tokens.",
+        "steps": []
+      },
+      {
+        "id": "monsters",
+        "title": "Monster Feats",
+        "summary": "Special ways to beat giants, medusas, the headless horseman and more.",
+        "steps": []
+      },
+      {
+        "id": "people-and-life",
+        "title": "People and Everyday Life",
+        "summary": "Affinity, housing, camping, cooking, hot springs and bringing people back.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "First Taste of Freedom",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Escaped the bonds of slavery."
+      },
+      {
+        "id": "achievement-2",
+        "name": "Arisen",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Regained your memories of receiving the Arisen's charge."
+      },
+      {
+        "id": "achievement-3",
+        "name": "Seat of the Proxy",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Arrived in Vernworth."
+      },
+      {
+        "id": "achievement-4",
+        "name": "Across the Border",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Passed through the gate at the border."
+      },
+      {
+        "id": "achievement-5",
+        "name": "Dragon's Dogma 2",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-6",
+        "name": "Peace",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Became Sovran of Vernworth."
+      },
+      {
+        "id": "achievement-7",
+        "name": "I, Talos",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-8",
+        "name": "Closure",
+        "kind": "trophy",
+        "chapterId": "true-ending",
+        "where": "Experienced the end of the cycle. (Not available in Casual Mode)"
+      },
+      {
+        "id": "achievement-9",
+        "name": "Versatile",
+        "kind": "trophy",
+        "chapterId": "vocations-and-pawns",
+        "where": "Changed your vocation."
+      },
+      {
+        "id": "achievement-10",
+        "name": "Duo Destinies",
+        "kind": "trophy",
+        "chapterId": "vocations-and-pawns",
+        "where": "Changed your vocation to mystic spearhand."
+      },
+      {
+        "id": "achievement-11",
+        "name": "Trickster of the Trade",
+        "kind": "trophy",
+        "chapterId": "vocations-and-pawns",
+        "where": "Changed your vocation to trickster."
+      },
+      {
+        "id": "achievement-12",
+        "name": "Arrows and Incantations",
+        "kind": "trophy",
+        "chapterId": "vocations-and-pawns",
+        "where": "Changed your vocation to magick archer."
+      },
+      {
+        "id": "achievement-13",
+        "name": "Jack of All Trades, Master of...All Trades",
+        "kind": "trophy",
+        "chapterId": "vocations-and-pawns",
+        "where": "Changed your vocation to warfarer."
+      },
+      {
+        "id": "achievement-14",
+        "name": "An In-Tents Adventure",
+        "kind": "trophy",
+        "chapterId": "people-and-life",
+        "where": "Went camping."
+      },
+      {
+        "id": "achievement-15",
+        "name": "A House? In This Economy?",
+        "kind": "trophy",
+        "chapterId": "people-and-life",
+        "where": "Purchased a dwelling of your own."
+      },
+      {
+        "id": "achievement-16",
+        "name": "One Speed Only",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Boarded an oxcart."
+      },
+      {
+        "id": "achievement-17",
+        "name": "The Savior",
+        "kind": "trophy",
+        "chapterId": "people-and-life",
+        "where": "Used a Wakestone to restore the dead to life."
+      },
+      {
+        "id": "achievement-18",
+        "name": "Just a Stone's Throw Away",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Used a Ferrystone."
+      },
+      {
+        "id": "achievement-19",
+        "name": "A Badge of Honor",
+        "kind": "trophy",
+        "chapterId": "vocations-and-pawns",
+        "where": "Acquired a pawn badge."
+      },
+      {
+        "id": "achievement-20",
+        "name": "Gigantus, I Hardly Knew Ye",
+        "kind": "trophy",
+        "chapterId": "monsters",
+        "where": "Defeated the gigantus in a short span of time."
+      },
+      {
+        "id": "achievement-21",
+        "name": "Full Marks",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Found a solution to every conundrum posed by the goddess of riddles."
+      },
+      {
+        "id": "achievement-22",
+        "name": "Off with Its Head!",
+        "kind": "trophy",
+        "chapterId": "monsters",
+        "where": "Decapitated a medusa."
+      },
+      {
+        "id": "achievement-23",
+        "name": "Master of the Maisters",
+        "kind": "trophy",
+        "chapterId": "vocations-and-pawns",
+        "where": "Acquired every maister's teaching."
+      },
+      {
+        "id": "achievement-24",
+        "name": "The Specialist",
+        "kind": "trophy",
+        "chapterId": "vocations-and-pawns",
+        "where": "Reached the maximum rank in a vocation."
+      },
+      {
+        "id": "achievement-25",
+        "name": "A Pawn of Many Talents",
+        "kind": "trophy",
+        "chapterId": "vocations-and-pawns",
+        "where": "Taught your pawn a specialization."
+      },
+      {
+        "id": "achievement-26",
+        "name": "Wish upon the Rift",
+        "kind": "trophy",
+        "chapterId": "vocations-and-pawns",
+        "where": "Set a pawn quest."
+      },
+      {
+        "id": "achievement-27",
+        "name": "Myrmecoleon Delights",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Entered the rose chateau."
+      },
+      {
+        "id": "achievement-28",
+        "name": "The Collector",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Collected 80 Seeker's Tokens."
+      },
+      {
+        "id": "achievement-29",
+        "name": "The Philanthropist",
+        "kind": "trophy",
+        "chapterId": "people-and-life",
+        "where": "Earned the affections of 50 people."
+      },
+      {
+        "id": "achievement-30",
+        "name": "Affinity and Beyond",
+        "kind": "trophy",
+        "chapterId": "people-and-life",
+        "where": "Raised a person's affinity to the maximum."
+      },
+      {
+        "id": "achievement-31",
+        "name": "Dragon Forged",
+        "kind": "trophy",
+        "chapterId": "people-and-life",
+        "where": "Strengthened a weapon in wyrmfire."
+      },
+      {
+        "id": "achievement-32",
+        "name": "The Guardian",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-33",
+        "name": "The Hero",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-34",
+        "name": "This'll Cure What Ails Ye",
+        "kind": "trophy",
+        "chapterId": "people-and-life",
+        "where": "Soaked in the hot spring."
+      },
+      {
+        "id": "achievement-35",
+        "name": "Cyclops Abridged",
+        "kind": "trophy",
+        "chapterId": "monsters",
+        "where": "Crossed a cyclopean bridge."
+      },
+      {
+        "id": "achievement-36",
+        "name": "Harpy Joyride",
+        "kind": "trophy",
+        "chapterId": "monsters",
+        "where": "Summoned a harpy, grabbed hold, and took flight."
+      },
+      {
+        "id": "achievement-37",
+        "name": "Quit Playing Dead",
+        "kind": "trophy",
+        "chapterId": "vocations-and-pawns",
+        "where": "Revived two pawns simultaneously."
+      },
+      {
+        "id": "achievement-38",
+        "name": "Dragon's Dogma",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Obtained Dragon's Dogma."
+      },
+      {
+        "id": "achievement-39",
+        "name": "An Eye for an Eye",
+        "kind": "trophy",
+        "chapterId": "monsters",
+        "where": "Petrified a medusa."
+      },
+      {
+        "id": "achievement-40",
+        "name": "Getting a Head",
+        "kind": "trophy",
+        "chapterId": "monsters",
+        "where": "Acquired a preserved medusa head."
+      },
+      {
+        "id": "achievement-41",
+        "name": "The Barbecue-Maister",
+        "kind": "trophy",
+        "chapterId": "people-and-life",
+        "where": "Grilled every type of meat during the night and day."
+      },
+      {
+        "id": "achievement-42",
+        "name": "Nobles' Night Out",
+        "kind": "trophy",
+        "chapterId": "people-and-life",
+        "where": "Attended a palace masquerade in formal raiment."
+      },
+      {
+        "id": "achievement-43",
+        "name": "Thought I'd Lost You",
+        "kind": "trophy",
+        "chapterId": "people-and-life",
+        "where": "Restored the dead to life at a morgue or charnel house."
+      },
+      {
+        "id": "achievement-44",
+        "name": "Reaper's Scorn",
+        "kind": "trophy",
+        "chapterId": "people-and-life",
+        "where": "Accomplished a miracle for several people all at once."
+      },
+      {
+        "id": "achievement-45",
+        "name": "Before Dawn Breaks",
+        "kind": "trophy",
+        "chapterId": "monsters",
+        "where": "Defeated the headless horseman."
+      },
+      {
+        "id": "achievement-46",
+        "name": "The Tourist",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Discovered 50 dungeons."
+      },
+      {
+        "id": "achievement-47",
+        "name": "Are We There Yet?",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-48",
+        "name": "The Regriffining",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Took flight on griffin wing a second time."
+      },
+      {
+        "id": "achievement-49",
+        "name": "Back Where It All Began",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Returned to Agamen Volcanic Island."
+      },
+      {
+        "id": "achievement-50",
+        "name": "Plenty Arisen to Go Round",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-51",
+        "name": "Roost of the Dragon",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Reached Dragonsbreath Tower."
+      },
+      {
+        "id": "achievement-52",
+        "name": "Hope You Brought a Lantern",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Reached Drabnir's Grotto."
+      },
+      {
+        "id": "achievement-53",
+        "name": "To the Victor Go the Spoils",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Reclaimed your items from the scavenger who stole them from you."
+      },
+      {
+        "id": "achievement-54",
+        "name": "I'm In",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-55",
+        "name": "The Forgotten North",
+        "kind": "trophy",
+        "chapterId": "true-ending",
+        "where": "Arrived in Norgan."
+      },
+      {
+        "id": "achievement-56",
+        "name": "Dogma Defied",
+        "kind": "trophy",
+        "chapterId": "true-ending",
+        "where": "Reached the end of the Final Proving Ground without recovering your loss gauge."
+      },
+      {
+        "id": "achievement-57",
+        "name": "Dogma Defended",
+        "kind": "trophy",
+        "chapterId": "true-ending",
+        "where": "Heeded the request of Norgan's guardian."
+      },
+      {
+        "id": "achievement-58",
+        "name": "Strike!",
+        "kind": "trophy",
+        "chapterId": "true-ending",
+        "where": "Broke through five vile eye barriers at once."
+      },
+      {
+        "id": "achievement-59",
+        "name": "Reunited",
+        "kind": "trophy",
+        "chapterId": "true-ending",
+        "where": "Granted Eir's wish."
+      },
+      {
+        "id": "achievement-60",
+        "name": "Abominable Snowstash",
+        "kind": "trophy",
+        "chapterId": "true-ending",
+        "where": "Reclaimed stolen items from the snowfoot's den."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/dragons-dogma-2",
+    "Achievement data from Steam (Steam Web API, app 2054970)",
+    "StrategyWiki: no page for this game, nothing used",
+    "Fandom (dragonsdogma.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://dragonsdogma.fandom.com/wiki/Dragon's_Dogma_II"
+  ],
+  "route": "original",
+  "notes": "Backlog game, added from the docs/PLAN.md candidate list. No StrategyWiki page under this title. dragonsdogma.fandom.com answers the API under \"Dragon's Dogma II\", with about 26 linked pages; names only were looked at, nothing copied. 7 of 60 Steam achievements are hidden. Most are visible and tell the story beats, so the chapters follow them."
+}
