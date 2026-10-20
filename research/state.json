@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-20T20:03:45Z",
+  "updated": "2026-10-20T20:04:03Z",
   "currentYear": 2018,
   "queue": [
     {
@@ -957,12 +957,12 @@
       "slug": "uncharted-the-lost-legacy",
       "title": "Uncharted: The Lost Legacy",
       "year": 2017,
-      "status": "in-progress",
+      "status": "skipped",
       "evidence": 2,
       "evidenceSource": "RAWG players: 4167 (added count); Metacritic 85 (via RAWG). Sales and best-of lists not checked (outside allowed sources).",
       "route": "original",
       "rawgSlug": "uncharted-the-lost-legacy",
-      "step": "rawg-fetch"
+      "reason": "Covered by uncharted-legacy-of-thieves-collection (same game in a later edition), so not researched separately."
     },
     {
       "slug": "mass-effect-andromeda",
@@ -1012,32 +1012,34 @@
       "slug": "uncharted-4-a-thiefs-end",
       "title": "Uncharted 4: A Thief's End",
       "year": 2016,
-      "status": "in-progress",
+      "status": "skipped",
       "evidence": 2,
       "evidenceSource": "RAWG players: 9702 (added count); Metacritic 93 (via RAWG). Sales and best-of lists not checked (outside allowed sources).",
       "route": "original",
       "rawgSlug": "uncharted-4-a-thiefs-end",
-      "step": "rawg-fetch"
+      "reason": "Covered by uncharted-legacy-of-thieves-collection (same game in a later edition), so not researched separately."
     },
     {
       "slug": "watch-dogs-2",
       "title": "Watch Dogs 2",
       "year": 2016,
-      "status": "queued",
+      "status": "in-progress",
       "evidence": 2,
       "evidenceSource": "RAWG players: 7415 (added count); Metacritic 79 (via RAWG). Sales and best-of lists not checked (outside allowed sources).",
       "route": "original",
-      "rawgSlug": "watch_dogs-2"
+      "rawgSlug": "watch_dogs-2",
+      "step": "rawg-fetch"
     },
     {
       "slug": "mafia-iii",
       "title": "Mafia III",
       "year": 2016,
-      "status": "queued",
+      "status": "in-progress",
       "evidence": 2,
       "evidenceSource": "RAWG players: 6591 (added count); Metacritic 62 (via RAWG). Sales and best-of lists not checked (outside allowed sources).",
       "route": "original",
-      "rawgSlug": "mafia-iii"
+      "rawgSlug": "mafia-iii",
+      "step": "rawg-fetch"
     },
     {
       "slug": "final-fantasy-xv",
@@ -1343,11 +1345,12 @@
       "slug": "mass-effect-3",
       "title": "Mass Effect 3",
       "year": 2012,
-      "status": "queued",
+      "status": "skipped",
       "evidence": 2,
       "evidenceSource": "RAWG players: 4731 (added count); Metacritic 90 (via RAWG). Sales and best-of lists not checked (outside allowed sources).",
       "route": "original",
-      "rawgSlug": "mass-effect-3"
+      "rawgSlug": "mass-effect-3",
+      "reason": "Covered by mass-effect-legendary-edition (same game in a later edition), so not researched separately."
     },
     {
       "slug": "saints-row-the-third",
@@ -1413,11 +1416,12 @@
       "slug": "dark-souls",
       "title": "Dark Souls",
       "year": 2011,
-      "status": "queued",
+      "status": "skipped",
       "evidence": 2,
       "evidenceSource": "RAWG players: 3344 (added count); Metacritic 89 (via RAWG). Sales and best-of lists not checked (outside allowed sources).",
       "route": "original",
-      "rawgSlug": "dark-souls"
+      "rawgSlug": "dark-souls",
+      "reason": "Covered by dark-souls-remastered (same game in a later edition), so not researched separately."
     },
     {
       "slug": "dragon-age-2",
@@ -1443,11 +1447,12 @@
       "slug": "mass-effect-2",
       "title": "Mass Effect 2",
       "year": 2010,
-      "status": "queued",
+      "status": "skipped",
       "evidence": 2,
       "evidenceSource": "RAWG players: 9568 (added count); Metacritic 94 (via RAWG). Sales and best-of lists not checked (outside allowed sources).",
       "route": "original",
-      "rawgSlug": "mass-effect-2"
+      "rawgSlug": "mass-effect-2",
+      "reason": "Covered by mass-effect-legendary-edition (same game in a later edition), so not researched separately."
     },
     {
       "slug": "just-cause-2",
