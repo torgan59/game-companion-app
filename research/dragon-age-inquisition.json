@@ -1,0 +1,660 @@
+{
+  "id": "dragon-age-inquisition",
+  "title": "Dragon Age: Inquisition",
+  "year": 2014,
+  "platforms": [
+    "Xbox 360",
+    "PlayStation 3",
+    "PlayStation 4",
+    "Xbox One",
+    "PC"
+  ],
+  "rawgId": 28559,
+  "rawgSlug": "dragon-age-inquisition",
+  "released": "2014-11-18",
+  "developers": [
+    "BioWare",
+    "BioWare Edmonton"
+  ],
+  "playtime": 4,
+  "genres": [
+    "Action",
+    "RPG",
+    "Strategy"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Multiplayer",
+    "Full controller support",
+    "Atmospheric",
+    "Great Soundtrack",
+    "RPG",
+    "Co-op",
+    "Story Rich",
+    "Open World",
+    "Third Person",
+    "Online Co-Op"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/260/26023c855f1769a93411d6a7ea084632.jpeg",
+  "steamAppId": 1222690,
+  "achievements": {
+    "total": 69,
+    "hidden": 0,
+    "examples": [
+      {
+        "name": "The Wrath of Heaven",
+        "percent": 66.2
+      },
+      {
+        "name": "Synergized",
+        "percent": 61.4
+      },
+      {
+        "name": "Skilled",
+        "percent": 55.5
+      },
+      {
+        "name": "Trial of the Magician",
+        "percent": 1.8
+      },
+      {
+        "name": "Trial of the Tower",
+        "percent": 1.5
+      },
+      {
+        "name": "Trial of the Hermit",
+        "percent": 1.4
+      },
+      {
+        "name": "Trial of the Fool",
+        "percent": 1.4
+      },
+      {
+        "name": "Trial of the Lovers",
+        "percent": 1.4
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Dragon_Age:_Inquisition",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 241,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://dragonage.fandom.com/wiki/Dragon_Age:_Inquisition"
+    }
+  },
+  "game": {
+    "id": "dragon-age-inquisition",
+    "title": "Dragon Age: Inquisition",
+    "platforms": [
+      "Xbox 360",
+      "PlayStation 3",
+      "PlayStation 4",
+      "Xbox One",
+      "PC"
+    ],
+    "blurb": "Open-world fantasy role-playing game from BioWare (with BioWare Edmonton), released 2014-11-18. RAWG average playtime: 4 hours. Genres: Action, RPG, Strategy. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#7A1F1F",
+    "chapters": [
+      {
+        "id": "main-story",
+        "title": "The Main Story",
+        "summary": "From the prologue and the Breach to ending the threat for good. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "companions-and-court",
+        "title": "Companions, Romance and the Orlesian Court",
+        "summary": "Recruiting companions, friendships, romance and winning over the court.",
+        "steps": []
+      },
+      {
+        "id": "the-inquisition",
+        "title": "Running the Inquisition",
+        "summary": "The war table, agents, keeps, requisitions, Skyhold decorations, thrones and Inquisition rank.",
+        "steps": []
+      },
+      {
+        "id": "exploration",
+        "title": "Exploration and Collecting",
+        "summary": "Camps, shards, veilfire runes, astrariums, rifts, codex entries, herbs, mounts and the Solasan temple.",
+        "steps": []
+      },
+      {
+        "id": "combat-and-crafting",
+        "title": "Combat, Abilities and Crafting",
+        "summary": "Abilities, specializations, combos, dragons, crafting, alchemy, levels and gold.",
+        "steps": []
+      },
+      {
+        "id": "stone-bear-hold",
+        "title": "Stone-Bear Hold and the Old Temple (DLC block)",
+        "summary": "The Avvar of Stone-Bear Hold, the Old Temple, a legendary figure and an ancient myth.",
+        "steps": []
+      },
+      {
+        "id": "deep-roads",
+        "title": "The Deep Roads (DLC block)",
+        "summary": "The Legion of the Dead camp, Shaper Valta, an ogre alpha and the earthquakes.",
+        "steps": []
+      },
+      {
+        "id": "difficulty-and-trials",
+        "title": "Hard, Nightmare and the Trials",
+        "summary": "Finishing on Hard or Nightmare, and the eight Trial achievements played with game modifiers turned on.",
+        "steps": []
+      },
+      {
+        "id": "final-block",
+        "title": "Statues, the Taken Shape and a Last Story Step",
+        "summary": "Three achievements at the end of the list: a story step, the ancient statue caches and the Taken Shape items.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "The Wrath of Heaven",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Finish the prologue."
+      },
+      {
+        "id": "achievement-2",
+        "name": "Opposition in All Things",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Close the Breach."
+      },
+      {
+        "id": "achievement-3",
+        "name": "In Your Heart Shall Burn",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Survive an attack on the Inquisition."
+      },
+      {
+        "id": "achievement-4",
+        "name": "Wicked Eyes and Wicked Hearts",
+        "kind": "trophy",
+        "chapterId": "companions-and-court",
+        "where": "Make an impression on the Orlesian court."
+      },
+      {
+        "id": "achievement-5",
+        "name": "Here Lies the Abyss",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Face your fears in the Fade."
+      },
+      {
+        "id": "achievement-6",
+        "name": "What Pride Had Wrought",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Reach an ancient ruin before your enemies."
+      },
+      {
+        "id": "achievement-7",
+        "name": "On Burning Wings",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Recruit a powerful ally to even the score."
+      },
+      {
+        "id": "achievement-8",
+        "name": "Doom upon All the World",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "End the threat once and for all."
+      },
+      {
+        "id": "achievement-9",
+        "name": "The Brightest of Their Age",
+        "kind": "trophy",
+        "chapterId": "companions-and-court",
+        "where": "Recruit all possible companions in a single playthrough."
+      },
+      {
+        "id": "achievement-10",
+        "name": "Beloved and Precious",
+        "kind": "trophy",
+        "chapterId": "companions-and-court",
+        "where": "Commit to a romantic relationship."
+      },
+      {
+        "id": "achievement-11",
+        "name": "They Who Stand",
+        "kind": "trophy",
+        "chapterId": "companions-and-court",
+        "where": "Recruit a new companion."
+      },
+      {
+        "id": "achievement-12",
+        "name": "Speak Only the Word",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Gain access to a major city for the Inquisition."
+      },
+      {
+        "id": "achievement-13",
+        "name": "Saddled Up",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Purchase or secure five different mounts of any kind."
+      },
+      {
+        "id": "achievement-14",
+        "name": "Well-Prepared",
+        "kind": "trophy",
+        "chapterId": "combat-and-crafting",
+        "where": "Craft a weapon or piece of armor in single-player mode."
+      },
+      {
+        "id": "achievement-15",
+        "name": "Customized",
+        "kind": "trophy",
+        "chapterId": "combat-and-crafting",
+        "where": "Enchant or upgrade a piece of equipment in single-player mode."
+      },
+      {
+        "id": "achievement-16",
+        "name": "Commander",
+        "kind": "trophy",
+        "chapterId": "the-inquisition",
+        "where": "Complete a timed mission on the war table."
+      },
+      {
+        "id": "achievement-17",
+        "name": "Trailblazer",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Discover a campsite and establish an Inquisition camp in any wilderness area."
+      },
+      {
+        "id": "achievement-18",
+        "name": "Sharp-Eyed",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Find and recover a shard identified by an ocularum."
+      },
+      {
+        "id": "achievement-19",
+        "name": "Well-Read",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Discover a veilfire rune."
+      },
+      {
+        "id": "achievement-20",
+        "name": "Skilled",
+        "kind": "trophy",
+        "chapterId": "combat-and-crafting",
+        "where": "Upgrade any ability once in single-player mode."
+      },
+      {
+        "id": "achievement-21",
+        "name": "Specialized",
+        "kind": "trophy",
+        "chapterId": "combat-and-crafting",
+        "where": "Choose a specialization class."
+      },
+      {
+        "id": "achievement-22",
+        "name": "Cavalier",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Secure a mount."
+      },
+      {
+        "id": "achievement-23",
+        "name": "Synergized",
+        "kind": "trophy",
+        "chapterId": "combat-and-crafting",
+        "where": "Trigger a cross-class combo with a character you control in single-player mode."
+      },
+      {
+        "id": "achievement-24",
+        "name": "Botanist",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Harvest 50 herbs from Skyhold's garden in a single playthrough."
+      },
+      {
+        "id": "achievement-25",
+        "name": "Wyrmslayer",
+        "kind": "trophy",
+        "chapterId": "combat-and-crafting",
+        "where": "Kill a high dragon in single-player mode."
+      },
+      {
+        "id": "achievement-26",
+        "name": "Decorator",
+        "kind": "trophy",
+        "chapterId": "the-inquisition",
+        "where": "Purchase any new decoration element for Skyhold."
+      },
+      {
+        "id": "achievement-27",
+        "name": "Belle of the Ball",
+        "kind": "trophy",
+        "chapterId": "companions-and-court",
+        "where": "Gain the full approval of the Orlesian court."
+      },
+      {
+        "id": "achievement-28",
+        "name": "Hard Hitter",
+        "kind": "trophy",
+        "chapterId": "combat-and-crafting",
+        "where": "Land a single blow in excess of 1,000 damage in single-player mode."
+      },
+      {
+        "id": "achievement-29",
+        "name": "Master Builder",
+        "kind": "trophy",
+        "chapterId": "combat-and-crafting",
+        "where": "Craft an item from Tier 4 materials in all non-masterwork slots in single-player mode."
+      },
+      {
+        "id": "achievement-30",
+        "name": "Master Alchemist",
+        "kind": "trophy",
+        "chapterId": "combat-and-crafting",
+        "where": "Upgrade your alchemic potions, grenades, or tonics 30 times in a single playthrough."
+      },
+      {
+        "id": "achievement-31",
+        "name": "Dragons' Bane",
+        "kind": "trophy",
+        "chapterId": "combat-and-crafting",
+        "where": "Slay 10 high dragons in single-player mode."
+      },
+      {
+        "id": "achievement-32",
+        "name": "Herald",
+        "kind": "trophy",
+        "chapterId": "difficulty-and-trials",
+        "where": "Finish the single-player campaign on at least Hard without lowering the difficulty."
+      },
+      {
+        "id": "achievement-33",
+        "name": "Inquisitor",
+        "kind": "trophy",
+        "chapterId": "difficulty-and-trials",
+        "where": "Finish the single-player campaign on Nightmare without lowering the difficulty."
+      },
+      {
+        "id": "achievement-34",
+        "name": "Stargazer",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Unlock 15 astrariums in a single playthrough."
+      },
+      {
+        "id": "achievement-35",
+        "name": "Focused",
+        "kind": "trophy",
+        "chapterId": "combat-and-crafting",
+        "where": "Spend 10 points in a single ability tree with any one single-player character."
+      },
+      {
+        "id": "achievement-36",
+        "name": "Well-Funded",
+        "kind": "trophy",
+        "chapterId": "combat-and-crafting",
+        "where": "Earn 50,000 or more gold across all single-player playthroughs."
+      },
+      {
+        "id": "achievement-37",
+        "name": "Keymaster",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Enter the heart of the Solasan temple."
+      },
+      {
+        "id": "achievement-38",
+        "name": "Pathfinder",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Discover a campsite and establish at least one Inquisition camp in 10 wilderness areas."
+      },
+      {
+        "id": "achievement-39",
+        "name": "Liberator",
+        "kind": "trophy",
+        "chapterId": "the-inquisition",
+        "where": "Liberate three keeps in a single playthrough."
+      },
+      {
+        "id": "achievement-40",
+        "name": "High Commander",
+        "kind": "trophy",
+        "chapterId": "the-inquisition",
+        "where": "Complete 50 missions or operations in a single playthrough."
+      },
+      {
+        "id": "achievement-41",
+        "name": "Regal",
+        "kind": "trophy",
+        "chapterId": "the-inquisition",
+        "where": "Completely upgrade one throne."
+      },
+      {
+        "id": "achievement-42",
+        "name": "Persuasive",
+        "kind": "trophy",
+        "chapterId": "the-inquisition",
+        "where": "Acquire 10 Inquisition agents in a single playthrough."
+      },
+      {
+        "id": "achievement-43",
+        "name": "Veteran",
+        "kind": "trophy",
+        "chapterId": "combat-and-crafting",
+        "where": "Reach level 20 in single-player mode."
+      },
+      {
+        "id": "achievement-44",
+        "name": "Peerless",
+        "kind": "trophy",
+        "chapterId": "the-inquisition",
+        "where": "Level up the Inquisition to rank 10."
+      },
+      {
+        "id": "achievement-45",
+        "name": "People Person",
+        "kind": "trophy",
+        "chapterId": "companions-and-court",
+        "where": "Become friends with at least three of your inner circle in one playthrough."
+      },
+      {
+        "id": "achievement-46",
+        "name": "Loremaster",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Collect 250 codex entries in a single playthrough."
+      },
+      {
+        "id": "achievement-47",
+        "name": "Demonslayer",
+        "kind": "trophy",
+        "chapterId": "combat-and-crafting",
+        "where": "Defeat 1,000 demons in single-player mode."
+      },
+      {
+        "id": "achievement-48",
+        "name": "Invincible",
+        "kind": "trophy",
+        "chapterId": "combat-and-crafting",
+        "where": "Defeat 2,500 enemies in single-player mode."
+      },
+      {
+        "id": "achievement-49",
+        "name": "Quartermaster",
+        "kind": "trophy",
+        "chapterId": "the-inquisition",
+        "where": "Complete 20 requisition requests in a single playthrough."
+      },
+      {
+        "id": "achievement-50",
+        "name": "Marked for Greatness",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Seal 75 rifts in a single playthrough."
+      },
+      {
+        "id": "achievement-51",
+        "name": "Firestarter",
+        "kind": "trophy",
+        "chapterId": "stone-bear-hold",
+        "where": "Destroy all the Winter Shards and light all the fires in the Old Temple."
+      },
+      {
+        "id": "achievement-52",
+        "name": "Legend-Marked",
+        "kind": "trophy",
+        "chapterId": "stone-bear-hold",
+        "where": "Impress the Avvar of Stone-Bear Hold and gain their friendship."
+      },
+      {
+        "id": "achievement-53",
+        "name": "Historian",
+        "kind": "trophy",
+        "chapterId": "stone-bear-hold",
+        "where": "Uncover the secrets of a legendary figure."
+      },
+      {
+        "id": "achievement-54",
+        "name": "Winter's End",
+        "kind": "trophy",
+        "chapterId": "stone-bear-hold",
+        "where": "Dispel a myth of ancient days."
+      },
+      {
+        "id": "achievement-55",
+        "name": "Deep Roads Commander",
+        "kind": "trophy",
+        "chapterId": "deep-roads",
+        "where": "Complete a mission at the expedition table in the Legion of the Dead camp."
+      },
+      {
+        "id": "achievement-56",
+        "name": "Giant Slayer",
+        "kind": "trophy",
+        "chapterId": "deep-roads",
+        "where": "Defeat an ogre alpha."
+      },
+      {
+        "id": "achievement-57",
+        "name": "Fact Finder",
+        "kind": "trophy",
+        "chapterId": "deep-roads",
+        "where": "Help Shaper Valta discover secret dwarven history."
+      },
+      {
+        "id": "achievement-58",
+        "name": "Shaper of Stone",
+        "kind": "trophy",
+        "chapterId": "deep-roads",
+        "where": "End the earthquakes threatening the surface."
+      },
+      {
+        "id": "achievement-59",
+        "name": "Trial of the Hermit",
+        "kind": "trophy",
+        "chapterId": "difficulty-and-trials",
+        "where": "Slay 10 great bears promoted by Grizzly End."
+      },
+      {
+        "id": "achievement-60",
+        "name": "Trial of Temperance",
+        "kind": "trophy",
+        "chapterId": "difficulty-and-trials",
+        "where": "Rest Easy trial always on in Emprise du Lion: claim Suledin Keep."
+      },
+      {
+        "id": "achievement-61",
+        "name": "Trial of the Magician",
+        "kind": "trophy",
+        "chapterId": "difficulty-and-trials",
+        "where": "Travel Light on for \"In Hushed Whispers\": finish the quest."
+      },
+      {
+        "id": "achievement-62",
+        "name": "Trial of the Tower",
+        "kind": "trophy",
+        "chapterId": "difficulty-and-trials",
+        "where": "Rub Some Dirt on It on: slay the Hivernal high dragon."
+      },
+      {
+        "id": "achievement-63",
+        "name": "Trial of the Emperor",
+        "kind": "trophy",
+        "chapterId": "difficulty-and-trials",
+        "where": "Defeat 20 foes promoted by Walk Softly."
+      },
+      {
+        "id": "achievement-64",
+        "name": "Trial of the Empress",
+        "kind": "trophy",
+        "chapterId": "difficulty-and-trials",
+        "where": "Even Ground on: slay a level 16 or higher Fereldan Frostback."
+      },
+      {
+        "id": "achievement-65",
+        "name": "Trial of the Fool",
+        "kind": "trophy",
+        "chapterId": "difficulty-and-trials",
+        "where": "Take It Slow on: reach Skyhold at level 5 or less."
+      },
+      {
+        "id": "achievement-66",
+        "name": "Trial of the Lovers",
+        "kind": "trophy",
+        "chapterId": "difficulty-and-trials",
+        "where": "Fair-Weather Friends always on: enter Halamshiral with all followers."
+      },
+      {
+        "id": "achievement-67",
+        "name": "Forever Marked",
+        "kind": "trophy",
+        "chapterId": "final-block",
+        "where": "Progress the story to unlock."
+      },
+      {
+        "id": "achievement-68",
+        "name": "Lateral Thinker",
+        "kind": "trophy",
+        "chapterId": "final-block",
+        "where": "Unlock all caches watched over by ancient statues."
+      },
+      {
+        "id": "achievement-69",
+        "name": "Coroner",
+        "kind": "trophy",
+        "chapterId": "final-block",
+        "where": "Find all of the wearable items that make up the Taken Shape."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/dragon-age-inquisition",
+    "Achievement data from Steam (Steam Web API, app 1222690)",
+    "StrategyWiki: stub page only, nothing used — https://strategywiki.org/wiki/Dragon_Age:_Inquisition",
+    "Fandom (dragonage.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://dragonage.fandom.com/wiki/Dragon_Age:_Inquisition"
+  ],
+  "route": "original",
+  "notes": "Backlog game, picked from RAWG's most-added list for its year (docs/PLAN.md section 2 ordering). StrategyWiki has a page at completion stage 0; only Controls and a short Table of Contents (Gameplay, Controls, Walkthrough) exist, and the walkthrough is not written. dragonage.fandom.com answers the API, with about 241 linked pages; names only were looked at, nothing copied. The Steam app is 1222690 (\"Dragon Age Inquisition\"); RAWG lists PC, PS3, PS4, Xbox 360 and Xbox One. None of the 69 Steam achievements is hidden. Achievements 51 to 54 (Stone-Bear Hold, the Old Temple) and 55 to 58 (the Deep Roads, Shaper Valta) look like two DLC blocks; RAWG's search results list DLC entries called \"Jaws of Hakkon\", \"The Descent\", \"Trespasser\" and \"Dragonslayer\", but the achievement data does not say which block is which, so the chapters are named after the places the achievements mention. \"Historian\", \"Winter's End\" and \"Giant Slayer\" were placed by schema position. Achievements 59 to 66 are \"Trial of ...\" goals played with named modifiers on. The last three (\"Forever Marked\", \"Lateral Thinker\", \"Coroner\") are grouped by position and may belong to a third DLC; this needs checking. RAWG's 4-hour average playtime looks low for this game but is what RAWG reports."
+}

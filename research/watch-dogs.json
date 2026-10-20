@@ -1,0 +1,503 @@
+{
+  "id": "watch-dogs",
+  "title": "Watch Dogs",
+  "year": 2014,
+  "platforms": [
+    "Xbox One",
+    "Wii U",
+    "Xbox 360",
+    "PlayStation 3",
+    "PlayStation 4",
+    "PC"
+  ],
+  "rawgId": 3687,
+  "rawgSlug": "watch-dogs",
+  "released": "2014-05-27",
+  "developers": [
+    "Ubisoft",
+    "Ubisoft Montreal"
+  ],
+  "playtime": 16,
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Multiplayer",
+    "Atmospheric",
+    "RPG",
+    "Co-op",
+    "Open World",
+    "cooperative",
+    "Third Person",
+    "Partial Controller Support",
+    "FPS",
+    "Sandbox",
+    "Stealth"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/879/879c930f9c6787c920153fa2df452eb3.jpg",
+  "steamAppId": 243470,
+  "achievements": {
+    "total": 49,
+    "hidden": 0,
+    "examples": [
+      {
+        "name": "Hello World",
+        "percent": 29.5
+      },
+      {
+        "name": "Bookmarked",
+        "percent": 15.3
+      },
+      {
+        "name": "Hard Crash",
+        "percent": 14.0
+      },
+      {
+        "name": "T-Bone: Second Amendment",
+        "percent": 0.4
+      },
+      {
+        "name": "T-Bone: Unfixable",
+        "percent": 0.4
+      },
+      {
+        "name": "T-Bone: Full Circuit",
+        "percent": 0.4
+      },
+      {
+        "name": "T-Bone: Negative Eugenics",
+        "percent": 0.3
+      },
+      {
+        "name": "T-Bone: Tag Team",
+        "percent": 0.2
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Watch_Dogs",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 138,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://watchdogs.fandom.com/wiki/Watch_Dogs"
+    }
+  },
+  "game": {
+    "id": "watch-dogs",
+    "title": "Watch Dogs",
+    "platforms": [
+      "Xbox One",
+      "Wii U",
+      "Xbox 360",
+      "PlayStation 3",
+      "PlayStation 4",
+      "PC"
+    ],
+    "blurb": "Open-world action-adventure in which hacker Aiden Pearce turns the ctOS network of Chicago against his enemies, from Ubisoft Montreal, released 2014-05-27. RAWG average playtime: 16 hours. Genres: Action, Adventure. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#2A7F8F",
+    "chapters": [
+      {
+        "id": "main-story",
+        "title": "The Main Story",
+        "summary": "Five acts of Aiden's hunt through Chicago. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "crime-and-investigations",
+        "title": "Fixer Contracts, Crime and Investigations",
+        "summary": "Fixer contracts, gang hideouts, criminal convoys, the Crime Detection System and the four investigations.",
+        "steps": []
+      },
+      {
+        "id": "chicago-extras",
+        "title": "ctOS, City Games and Chicago Extras",
+        "summary": "ctOS Towers and Breaches, Privacy Invasions, City Games, hotspots, burner phones, SongSneak and the drinking game.",
+        "steps": []
+      },
+      {
+        "id": "combat-and-hacking",
+        "title": "Combat, Driving and Hacking Skills",
+        "summary": "Takedowns, Focus, IEDs, police chases and scans, shooting tyres, tagging enemies and the skill tree.",
+        "steps": []
+      },
+      {
+        "id": "online",
+        "title": "Online Hacking, Tailing and Races",
+        "summary": "Invading and observing other players, online races and being tailed yourself.",
+        "steps": []
+      },
+      {
+        "id": "bad-blood",
+        "title": "Bad Blood (DLC, played as T-Bone)",
+        "summary": "The T-Bone campaign: three acts, contracts, driving and co-op missions, and side investigations.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Hello World",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Take down Maurice"
+      },
+      {
+        "id": "achievement-2",
+        "name": "End of Line",
+        "kind": "trophy",
+        "chapterId": "crime-and-investigations",
+        "where": "Complete 40 Fixer Contracts"
+      },
+      {
+        "id": "achievement-3",
+        "name": "Basest Base",
+        "kind": "trophy",
+        "chapterId": "crime-and-investigations",
+        "where": "Complete every Gang Hideout"
+      },
+      {
+        "id": "achievement-4",
+        "name": "They Call Him The Vigilante",
+        "kind": "trophy",
+        "chapterId": "crime-and-investigations",
+        "where": "Complete every Investigation"
+      },
+      {
+        "id": "achievement-5",
+        "name": "Peephole",
+        "kind": "trophy",
+        "chapterId": "chicago-extras",
+        "where": "Complete every Privacy Invasion"
+      },
+      {
+        "id": "achievement-6",
+        "name": "Road Rage",
+        "kind": "trophy",
+        "chapterId": "crime-and-investigations",
+        "where": "Complete every Criminal Convoy"
+      },
+      {
+        "id": "achievement-7",
+        "name": "Enforcer",
+        "kind": "trophy",
+        "chapterId": "crime-and-investigations",
+        "where": "Use the Crime Detection System to take down 20 confirmed criminals"
+      },
+      {
+        "id": "achievement-8",
+        "name": "Family Man",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Complete Act 1"
+      },
+      {
+        "id": "achievement-9",
+        "name": "Who Is Raymond Kenney?",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Complete Act 2"
+      },
+      {
+        "id": "achievement-10",
+        "name": "One Down, One to Go",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Complete Act 3"
+      },
+      {
+        "id": "achievement-11",
+        "name": "Vengeance",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Complete Act 4"
+      },
+      {
+        "id": "achievement-12",
+        "name": "Log Off",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Complete Act 5"
+      },
+      {
+        "id": "achievement-13",
+        "name": "Hard Crash",
+        "kind": "trophy",
+        "chapterId": "combat-and-hacking",
+        "where": "Perform 10 vehicle take downs"
+      },
+      {
+        "id": "achievement-14",
+        "name": "Communication Fail",
+        "kind": "trophy",
+        "chapterId": "combat-and-hacking",
+        "where": "Using non-lethal takedown, stop 10 civilians from calling to report you"
+      },
+      {
+        "id": "achievement-15",
+        "name": "Bookmarked",
+        "kind": "trophy",
+        "chapterId": "combat-and-hacking",
+        "where": "Tag 100 enemies"
+      },
+      {
+        "id": "achievement-16",
+        "name": "Power Cycle",
+        "kind": "trophy",
+        "chapterId": "chicago-extras",
+        "where": "Participate in 5 different City Games"
+      },
+      {
+        "id": "achievement-17",
+        "name": "Magic Smoke",
+        "kind": "trophy",
+        "chapterId": "combat-and-hacking",
+        "where": "Kill 4 enemies within a single instance of Focus"
+      },
+      {
+        "id": "achievement-18",
+        "name": "Escape Loop",
+        "kind": "trophy",
+        "chapterId": "combat-and-hacking",
+        "where": "Escape 15 police chases"
+      },
+      {
+        "id": "achievement-19",
+        "name": "Free Radical",
+        "kind": "trophy",
+        "chapterId": "combat-and-hacking",
+        "where": "Escape a level 5 police chase"
+      },
+      {
+        "id": "achievement-20",
+        "name": "White Rabbit Object",
+        "kind": "trophy",
+        "chapterId": "combat-and-hacking",
+        "where": "Escape 15 police scans"
+      },
+      {
+        "id": "achievement-21",
+        "name": "Scanproof",
+        "kind": "trophy",
+        "chapterId": "combat-and-hacking",
+        "where": "Escape a level 5 police scan"
+      },
+      {
+        "id": "achievement-22",
+        "name": "Hardware Fail",
+        "kind": "trophy",
+        "chapterId": "combat-and-hacking",
+        "where": "Shoot out a tire on 15 different vehicles"
+      },
+      {
+        "id": "achievement-23",
+        "name": "Black Hat Trick",
+        "kind": "trophy",
+        "chapterId": "combat-and-hacking",
+        "where": "Kill 3 enemies with a single IED"
+      },
+      {
+        "id": "achievement-24",
+        "name": "Revoking Client Privileges",
+        "kind": "trophy",
+        "chapterId": "crime-and-investigations",
+        "where": "Complete the final mission in the Human Traffic Investigation"
+      },
+      {
+        "id": "achievement-25",
+        "name": "Saturday Night Special",
+        "kind": "trophy",
+        "chapterId": "crime-and-investigations",
+        "where": "Complete the final mission in the Weapons Trade Investigation"
+      },
+      {
+        "id": "achievement-26",
+        "name": "Sanity Check",
+        "kind": "trophy",
+        "chapterId": "chicago-extras",
+        "where": "Collect all 8 Burner Phones"
+      },
+      {
+        "id": "achievement-27",
+        "name": "Read-only",
+        "kind": "trophy",
+        "chapterId": "crime-and-investigations",
+        "where": "Complete the final mission in the QR Code Investigation"
+      },
+      {
+        "id": "achievement-28",
+        "name": "Darkness Looms",
+        "kind": "trophy",
+        "chapterId": "crime-and-investigations",
+        "where": "Complete the final mission of the Missing Persons Investigation"
+      },
+      {
+        "id": "achievement-29",
+        "name": "Geolocated",
+        "kind": "trophy",
+        "chapterId": "chicago-extras",
+        "where": "Check in at every Hotspot"
+      },
+      {
+        "id": "achievement-30",
+        "name": "Disk Space Full",
+        "kind": "trophy",
+        "chapterId": "chicago-extras",
+        "where": "Unlock every song with the SongSneak app"
+      },
+      {
+        "id": "achievement-31",
+        "name": "Social Lubricant",
+        "kind": "trophy",
+        "chapterId": "chicago-extras",
+        "where": "Complete level 10 against all 3 Drinking Game opponents"
+      },
+      {
+        "id": "achievement-32",
+        "name": "Hackification",
+        "kind": "trophy",
+        "chapterId": "online",
+        "where": "Invade and successfully hack 10 enemy Fixers in Online Hacking"
+      },
+      {
+        "id": "achievement-33",
+        "name": "Piggyback",
+        "kind": "trophy",
+        "chapterId": "online",
+        "where": "Invade and successfully observe 10 enemy Fixers in Online Tailing"
+      },
+      {
+        "id": "achievement-34",
+        "name": "Superhighway",
+        "kind": "trophy",
+        "chapterId": "online",
+        "where": "Complete 10 Public Online Races"
+      },
+      {
+        "id": "achievement-35",
+        "name": "System Mangler",
+        "kind": "trophy",
+        "chapterId": "chicago-extras",
+        "where": "Complete every ctOS Breach"
+      },
+      {
+        "id": "achievement-36",
+        "name": "Stealth Cookie",
+        "kind": "trophy",
+        "chapterId": "online",
+        "where": "Complete an Online Tailing without being detected"
+      },
+      {
+        "id": "achievement-37",
+        "name": "Freeware",
+        "kind": "trophy",
+        "chapterId": "combat-and-hacking",
+        "where": "Unlock every Skill in the Skills Tree"
+      },
+      {
+        "id": "achievement-38",
+        "name": "Traced",
+        "kind": "trophy",
+        "chapterId": "online",
+        "where": "Get tailed 5 times"
+      },
+      {
+        "id": "achievement-39",
+        "name": "Clear Signals",
+        "kind": "trophy",
+        "chapterId": "chicago-extras",
+        "where": "Unlock every ctOS Tower"
+      },
+      {
+        "id": "achievement-40",
+        "name": "T-Bone: Friends in Need",
+        "kind": "trophy",
+        "chapterId": "bad-blood",
+        "where": "Complete Act 1"
+      },
+      {
+        "id": "achievement-41",
+        "name": "T-Bone: No Easy Fix",
+        "kind": "trophy",
+        "chapterId": "bad-blood",
+        "where": "Complete Act 2"
+      },
+      {
+        "id": "achievement-42",
+        "name": "T-Bone: Pest Control",
+        "kind": "trophy",
+        "chapterId": "bad-blood",
+        "where": "Complete Act 3"
+      },
+      {
+        "id": "achievement-43",
+        "name": "T-Bone: Mob Ruled",
+        "kind": "trophy",
+        "chapterId": "bad-blood",
+        "where": "Complete 20 Chicago South Club contracts"
+      },
+      {
+        "id": "achievement-44",
+        "name": "T-Bone: Second Amendment",
+        "kind": "trophy",
+        "chapterId": "bad-blood",
+        "where": "Complete 20 Militia contracts"
+      },
+      {
+        "id": "achievement-45",
+        "name": "T-Bone: Unfixable",
+        "kind": "trophy",
+        "chapterId": "bad-blood",
+        "where": "Complete 20 Fixer contracts"
+      },
+      {
+        "id": "achievement-46",
+        "name": "T-Bone: Full Circuit",
+        "kind": "trophy",
+        "chapterId": "bad-blood",
+        "where": "Complete 29 driving missions"
+      },
+      {
+        "id": "achievement-47",
+        "name": "T-Bone: Tag Team",
+        "kind": "trophy",
+        "chapterId": "bad-blood",
+        "where": "Complete 10 coop missions"
+      },
+      {
+        "id": "achievement-48",
+        "name": "T-Bone: Looking For Trouble",
+        "kind": "trophy",
+        "chapterId": "bad-blood",
+        "where": "Complete all side investigations"
+      },
+      {
+        "id": "achievement-49",
+        "name": "T-Bone: Negative Eugenics",
+        "kind": "trophy",
+        "chapterId": "bad-blood",
+        "where": "Kill 4 enemies at once by blowing up the RC Car"
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/watch-dogs",
+    "Achievement data from Steam (Steam Web API, app 243470)",
+    "StrategyWiki: stub page only, nothing used — https://strategywiki.org/wiki/Watch_Dogs",
+    "Fandom (watchdogs.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://watchdogs.fandom.com/wiki/Watch_Dogs"
+  ],
+  "route": "original",
+  "notes": "Backlog game, picked from RAWG's most-added list for its year (docs/PLAN.md section 2 ordering). StrategyWiki has the guide at completion stage 2, but the only written walkthrough subpage is \"Prologue and Intro\" (about 3,200 characters); the Walkthrough page itself (about 1,700 characters) links to no act pages, and Side Missions and Collectables is linked from the contents but not written. Gameplay, Downloadable Content (about 470 characters) and Table of Contents also exist. That is not a real guide, so it was not recorded in sw-structure.json and the route stays original. watchdogs.fandom.com answers the API, with about 138 linked pages; names only were looked at, nothing copied. None of the 49 Steam achievements is hidden. The Steam schema name is \"Watch_Dogs\". The 10 achievements whose names start with \"T-Bone:\" were placed in the Bad Blood chapter; the DLC name comes from RAWG's search results (\"Watch Dogs: Bad Blood\") and the Fandom page of that name, which links to \"Raymond \"T-Bone\" Kenney\". Their \"Complete Act 1\" to \"Act 3\" descriptions repeat the base game's wording, so they were sorted by name, not description."
+}

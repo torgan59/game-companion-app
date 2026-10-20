@@ -1,0 +1,722 @@
+{
+  "id": "fallout-4",
+  "title": "Fallout 4",
+  "year": 2015,
+  "platforms": [
+    "PlayStation 4",
+    "PC",
+    "PlayStation 5",
+    "Xbox One"
+  ],
+  "rawgId": 3070,
+  "rawgSlug": "fallout-4",
+  "released": "2015-11-09",
+  "developers": [
+    "Bethesda Game Studios"
+  ],
+  "playtime": 38,
+  "genres": [
+    "Action",
+    "RPG"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Full controller support",
+    "Steam Cloud",
+    "Atmospheric",
+    "Great Soundtrack",
+    "RPG",
+    "Story Rich",
+    "Open World",
+    "First-Person",
+    "Third Person",
+    "Sci-fi"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/d82/d82990b9c67ba0d2d09d4e6fa88885a7.jpg",
+  "steamAppId": 377160,
+  "achievements": {
+    "total": 84,
+    "hidden": 84,
+    "examples": []
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Fallout_4",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 236,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://fallout.fandom.com/wiki/Fallout_4"
+    }
+  },
+  "game": {
+    "id": "fallout-4",
+    "title": "Fallout 4",
+    "platforms": [
+      "PlayStation 4",
+      "PC",
+      "PlayStation 5",
+      "Xbox One"
+    ],
+    "blurb": "Open-world post-apocalyptic action RPG set in the Commonwealth around Boston, from Bethesda Game Studios, released 2015-11-09. RAWG average playtime: 38 hours. Genres: Action, RPG. Chapters are an estimate drawn from Steam achievement names, since every achievement is hidden.",
+    "accent": "#2F6B3A",
+    "chapters": [
+      {
+        "id": "main-story",
+        "title": "The Main Story",
+        "summary": "The Sole Survivor leaves Vault 111 to search the Commonwealth. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "factions",
+        "title": "The Factions",
+        "summary": "Quest lines for the Minutemen, the Brotherhood of Steel and the Railroad. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "settlements-and-companions",
+        "title": "Settlements and Companions",
+        "summary": "Achievements whose names point to Sanctuary, settlement communities and travelling with others. Grouped by name only.",
+        "steps": []
+      },
+      {
+        "id": "wasteland-life",
+        "title": "Life in the Wasteland",
+        "summary": "General feats across the Commonwealth. Steam hides every condition, so this chapter is grouped by name only.",
+        "steps": []
+      },
+      {
+        "id": "automatron",
+        "title": "Robots (likely Automatron)",
+        "summary": "A block of robot-themed achievements after the base game. Placed by list position.",
+        "steps": []
+      },
+      {
+        "id": "workshops",
+        "title": "Workshop Add-ons (likely)",
+        "summary": "Small blocks of building and settlement achievements between the story add-ons. Placed by list position.",
+        "steps": []
+      },
+      {
+        "id": "far-harbor",
+        "title": "The Island (likely Far Harbor)",
+        "summary": "A block about an island and its fog. Placed by list position.",
+        "steps": []
+      },
+      {
+        "id": "nuka-world",
+        "title": "Nuka-World (likely)",
+        "summary": "The last block, about raiders and a sugary theme park. Placed by list position.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "War Never Changes",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-2",
+        "name": "When Freedom Calls",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-3",
+        "name": "Unlikely Valentine",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-4",
+        "name": "Reunions",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-5",
+        "name": "Dangerous Minds",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-6",
+        "name": "Hunter/Hunted",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-7",
+        "name": "The Molecular Level",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-8",
+        "name": "The Nuclear Option",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-9",
+        "name": "Institutionalized",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-10",
+        "name": "Mankind-Redefined",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-11",
+        "name": "Powering Up",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-12",
+        "name": "Nuclear Family",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-13",
+        "name": "The First Step",
+        "kind": "trophy",
+        "chapterId": "factions",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-14",
+        "name": "Taking Independence",
+        "kind": "trophy",
+        "chapterId": "factions",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-15",
+        "name": "Old Guns",
+        "kind": "trophy",
+        "chapterId": "factions",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-16",
+        "name": "Semper Invicta",
+        "kind": "trophy",
+        "chapterId": "factions",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-17",
+        "name": "Blind Betrayal",
+        "kind": "trophy",
+        "chapterId": "factions",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-18",
+        "name": "Ad Victoriam",
+        "kind": "trophy",
+        "chapterId": "factions",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-19",
+        "name": "Tradecraft",
+        "kind": "trophy",
+        "chapterId": "factions",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-20",
+        "name": "Underground Undercover",
+        "kind": "trophy",
+        "chapterId": "factions",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-21",
+        "name": "Rockets' Red Glare",
+        "kind": "trophy",
+        "chapterId": "factions",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-22",
+        "name": "Sanctuary",
+        "kind": "trophy",
+        "chapterId": "settlements-and-companions",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-23",
+        "name": "Community Organizer",
+        "kind": "trophy",
+        "chapterId": "settlements-and-companions",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-24",
+        "name": "Benevolent Leader",
+        "kind": "trophy",
+        "chapterId": "settlements-and-companions",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-25",
+        "name": "Gun-For-Hire",
+        "kind": "trophy",
+        "chapterId": "wasteland-life",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-26",
+        "name": "Mercenary",
+        "kind": "trophy",
+        "chapterId": "wasteland-life",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-27",
+        "name": "Scavver",
+        "kind": "trophy",
+        "chapterId": "wasteland-life",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-28",
+        "name": "What's Yours Is Mine",
+        "kind": "trophy",
+        "chapterId": "wasteland-life",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-29",
+        "name": "RobCo's Worst Nightmare",
+        "kind": "trophy",
+        "chapterId": "wasteland-life",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-30",
+        "name": "Armed and Dangerous",
+        "kind": "trophy",
+        "chapterId": "wasteland-life",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-31",
+        "name": "Wasteland D.I.Y.",
+        "kind": "trophy",
+        "chapterId": "wasteland-life",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-32",
+        "name": "Never Go It Alone",
+        "kind": "trophy",
+        "chapterId": "settlements-and-companions",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-33",
+        "name": "Lovable",
+        "kind": "trophy",
+        "chapterId": "settlements-and-companions",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-34",
+        "name": "Fix-Er-Upper",
+        "kind": "trophy",
+        "chapterId": "wasteland-life",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-35",
+        "name": "Future Retro",
+        "kind": "trophy",
+        "chapterId": "wasteland-life",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-36",
+        "name": "…The Harder They Fall",
+        "kind": "trophy",
+        "chapterId": "wasteland-life",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-37",
+        "name": "Ranger Corps",
+        "kind": "trophy",
+        "chapterId": "wasteland-life",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-38",
+        "name": "Print's Not Dead",
+        "kind": "trophy",
+        "chapterId": "wasteland-life",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-39",
+        "name": "Prankster's Return",
+        "kind": "trophy",
+        "chapterId": "wasteland-life",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-40",
+        "name": "Masshole",
+        "kind": "trophy",
+        "chapterId": "wasteland-life",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-41",
+        "name": "Animal Control",
+        "kind": "trophy",
+        "chapterId": "wasteland-life",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-42",
+        "name": "Homerun!",
+        "kind": "trophy",
+        "chapterId": "wasteland-life",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-43",
+        "name": "Touchdown!",
+        "kind": "trophy",
+        "chapterId": "wasteland-life",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-44",
+        "name": "They're Not Dolls…",
+        "kind": "trophy",
+        "chapterId": "wasteland-life",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-45",
+        "name": "…They're Action Figures",
+        "kind": "trophy",
+        "chapterId": "wasteland-life",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-46",
+        "name": "Born Survivor",
+        "kind": "trophy",
+        "chapterId": "wasteland-life",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-47",
+        "name": "Commonwealth Citizen",
+        "kind": "trophy",
+        "chapterId": "wasteland-life",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-48",
+        "name": "Unstoppable Wanderer",
+        "kind": "trophy",
+        "chapterId": "wasteland-life",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-49",
+        "name": "Legend Of The Wastes",
+        "kind": "trophy",
+        "chapterId": "wasteland-life",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-50",
+        "name": "Prepared for the Future",
+        "kind": "trophy",
+        "chapterId": "wasteland-life",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-51",
+        "name": "Mechanical Menace",
+        "kind": "trophy",
+        "chapterId": "automatron",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-52",
+        "name": "Headhunting",
+        "kind": "trophy",
+        "chapterId": "automatron",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-53",
+        "name": "Restoring Order",
+        "kind": "trophy",
+        "chapterId": "automatron",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-54",
+        "name": "Robot Hunter",
+        "kind": "trophy",
+        "chapterId": "automatron",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-55",
+        "name": "The Most Toys",
+        "kind": "trophy",
+        "chapterId": "automatron",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-56",
+        "name": "Docile",
+        "kind": "trophy",
+        "chapterId": "workshops",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-57",
+        "name": "Instigator",
+        "kind": "trophy",
+        "chapterId": "workshops",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-58",
+        "name": "Trapper",
+        "kind": "trophy",
+        "chapterId": "workshops",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-59",
+        "name": "Far From Home",
+        "kind": "trophy",
+        "chapterId": "far-harbor",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-60",
+        "name": "Where You Belong",
+        "kind": "trophy",
+        "chapterId": "far-harbor",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-61",
+        "name": "The Way Life Should Be",
+        "kind": "trophy",
+        "chapterId": "far-harbor",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-62",
+        "name": "Cleansing The Land",
+        "kind": "trophy",
+        "chapterId": "far-harbor",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-63",
+        "name": "Close To Home",
+        "kind": "trophy",
+        "chapterId": "far-harbor",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-64",
+        "name": "The Islander's Almanac",
+        "kind": "trophy",
+        "chapterId": "far-harbor",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-65",
+        "name": "Hooked",
+        "kind": "trophy",
+        "chapterId": "far-harbor",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-66",
+        "name": "New England Vacationer",
+        "kind": "trophy",
+        "chapterId": "far-harbor",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-67",
+        "name": "Push Back The Fog",
+        "kind": "trophy",
+        "chapterId": "far-harbor",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-68",
+        "name": "Just Add Saltwater",
+        "kind": "trophy",
+        "chapterId": "far-harbor",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-69",
+        "name": "Show Off",
+        "kind": "trophy",
+        "chapterId": "workshops",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-70",
+        "name": "Time Out",
+        "kind": "trophy",
+        "chapterId": "workshops",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-71",
+        "name": "Mass Production",
+        "kind": "trophy",
+        "chapterId": "workshops",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-72",
+        "name": "Oversight",
+        "kind": "trophy",
+        "chapterId": "workshops",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-73",
+        "name": "Better Living Underground",
+        "kind": "trophy",
+        "chapterId": "workshops",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-74",
+        "name": "Vault Dweller",
+        "kind": "trophy",
+        "chapterId": "workshops",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-75",
+        "name": "Raiding for a Living",
+        "kind": "trophy",
+        "chapterId": "nuka-world",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-76",
+        "name": "Diebrarian",
+        "kind": "trophy",
+        "chapterId": "nuka-world",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-77",
+        "name": "Beverageer",
+        "kind": "trophy",
+        "chapterId": "nuka-world",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-78",
+        "name": "Hostile Takeover",
+        "kind": "trophy",
+        "chapterId": "nuka-world",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-79",
+        "name": "All Sugared Up",
+        "kind": "trophy",
+        "chapterId": "nuka-world",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-80",
+        "name": "Eyes on the Prize",
+        "kind": "trophy",
+        "chapterId": "nuka-world",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-81",
+        "name": "Taken for a Ride",
+        "kind": "trophy",
+        "chapterId": "nuka-world",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-82",
+        "name": "The Grand Tour",
+        "kind": "trophy",
+        "chapterId": "nuka-world",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-83",
+        "name": "Home Sweet Home",
+        "kind": "trophy",
+        "chapterId": "nuka-world",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-84",
+        "name": "Power Play",
+        "kind": "trophy",
+        "chapterId": "nuka-world",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/fallout-4",
+    "Achievement data from Steam (Steam Web API, app 377160)",
+    "StrategyWiki: stub page only, nothing used — https://strategywiki.org/wiki/Fallout_4",
+    "Fandom (fallout.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://fallout.fandom.com/wiki/Fallout_4"
+  ],
+  "route": "original",
+  "notes": "Backlog game, picked from RAWG's most-added list for its year (docs/PLAN.md section 2 ordering). StrategyWiki has a guide at completion stage 1, but it is thin: its Table of Contents lists about 100 quests (main quest, Minutemen, Brotherhood, Railroad, Institute, side quests and the add-ons), and only four quest pages are written (\"The First Step\", about 2,000 characters; \"When Freedom Calls\", about 2,600; \"Out of Time\", about 4,100; \"Jewel of the Commonwealth\", about 1,400), plus Companions, Controls, a short Walkthrough page and a near-empty Achievements and trophies page. That is too little for a real guide, so it was not recorded in sw-structure.json and swUsed is off; the generic StrategyWiki reason in the output does not reflect this. fallout.fandom.com answers the API, with about 240 linked pages, including \"Automatron (add-on)\", \"Far Harbor (add-on)\", \"Nuka-World (add-on)\", \"Wasteland Workshop\", \"Contraptions Workshop\" and \"Vault-Tec Workshop\"; names only were looked at, nothing copied. All 84 Steam achievements are hidden and none has a description, so every placement is by name and schema position. Many story and faction achievements share their names with quests on the StrategyWiki contents page, which grouped them. Achievements 51 to 84 were grouped into add-on chapters by position; the add-on names are inferences from RAWG and Fandom, not stated in the achievement data, and the workshop block mixes what are probably three separate add-ons. The main and faction chapters may spoil quest names, since Steam hides all of them."
+}

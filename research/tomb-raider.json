@@ -1,0 +1,530 @@
+{
+  "id": "tomb-raider",
+  "title": "Tomb Raider",
+  "year": 2013,
+  "platforms": [
+    "PlayStation 3",
+    "Xbox 360",
+    "macOS",
+    "PC"
+  ],
+  "rawgId": 5286,
+  "rawgSlug": "tomb-raider",
+  "released": "2013-03-05",
+  "developers": [
+    "Crystal Dynamics"
+  ],
+  "playtime": 10,
+  "genres": [
+    "Action"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Multiplayer",
+    "Full controller support",
+    "Atmospheric",
+    "RPG",
+    "Third Person",
+    "Exploration",
+    "Classic",
+    "Female Protagonist",
+    "Stealth",
+    "Action-Adventure",
+    "Third-Person Shooter"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/021/021c4e21a1824d2526f925eff6324653.jpg",
+  "steamAppId": 203160,
+  "achievements": {
+    "total": 50,
+    "hidden": 3,
+    "examples": [
+      {
+        "name": "One Smart Cookie",
+        "percent": 56.7
+      },
+      {
+        "name": "Predator",
+        "percent": 54.7
+      },
+      {
+        "name": "Bookworm",
+        "percent": 54.5
+      },
+      {
+        "name": "Artilleryman",
+        "percent": 1.8
+      },
+      {
+        "name": "I'm all that!",
+        "percent": 1.8
+      },
+      {
+        "name": "Monkey Around",
+        "percent": 1.8
+      },
+      {
+        "name": "Shopaholic",
+        "percent": 1.8
+      },
+      {
+        "name": "True Commitment",
+        "percent": 1.8
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 11,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Tomb_Raider_(2013)",
+      "completionStage": 2,
+      "writtenSubpages": [
+        "Achievements and trophies",
+        "At an Impasse",
+        "Controls",
+        "Force of Will",
+        "Just Keep Moving",
+        "Mountain Rendezvous",
+        "Signs of Life",
+        "Skills",
+        "Survive",
+        "Table of Contents",
+        "Woman Versus Wild"
+      ],
+      "reason": "Real walkthrough structure; chapter order taken from its Table of Contents"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 192,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://tombraider.fandom.com/wiki/Tomb_Raider_(2013_Game)"
+    }
+  },
+  "game": {
+    "id": "tomb-raider",
+    "title": "Tomb Raider",
+    "platforms": [
+      "PlayStation 3",
+      "Xbox 360",
+      "macOS",
+      "PC"
+    ],
+    "blurb": "Action-adventure reboot in which a young Lara Croft is stranded on a hostile island, from Crystal Dynamics, released 2013-03-05. RAWG average playtime: 10 hours. Genre: Action. Chapters are an estimate drawn from Steam achievement themes, with the story order taken from StrategyWiki's walkthrough contents.",
+    "accent": "#6B4F2A",
+    "chapters": [
+      {
+        "id": "story-opening",
+        "title": "The Story: Opening Sections",
+        "summary": "The first seven walkthrough sections, from \"Survive\" to \"Mountain Rendezvous\". These are the ones StrategyWiki has written.",
+        "steps": []
+      },
+      {
+        "id": "story-middle",
+        "title": "The Story: Middle Sections",
+        "summary": "From \"Cry for Help\" to \"Into the Fire\". Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "story-final",
+        "title": "The Story: Final Sections",
+        "summary": "From \"Get to the Chopper\" to \"Going Back In\", and finishing the game. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "tombs-and-challenges",
+        "title": "Optional Tombs and Challenges",
+        "summary": "The seven optional tombs and the challenges spread around the island.",
+        "steps": []
+      },
+      {
+        "id": "collectibles",
+        "title": "Documents, Relics and GPS Caches",
+        "summary": "Finding documents, relics and GPS caches, up to all of them.",
+        "steps": []
+      },
+      {
+        "id": "survival-and-gear",
+        "title": "Salvage, Skills, Weapons and Hunting",
+        "summary": "Salvage and looting, buying skills, upgrading weapons and hunting animals.",
+        "steps": []
+      },
+      {
+        "id": "combat",
+        "title": "Combat",
+        "summary": "Headshots, the bow, rifle, shotgun and pistol, finishers, dodge counters and other combat tricks.",
+        "steps": []
+      },
+      {
+        "id": "multiplayer",
+        "title": "Multiplayer",
+        "summary": "Multiplayer modes, ranked matches, levels and upgrades.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Bookworm",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Find 25% of all documents."
+      },
+      {
+        "id": "achievement-2",
+        "name": "Historian",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Find 75% of all documents."
+      },
+      {
+        "id": "achievement-3",
+        "name": "Relic Hunter",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Collect 25% of all relics."
+      },
+      {
+        "id": "achievement-4",
+        "name": "Archaeologist",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Collect 75% of all relics."
+      },
+      {
+        "id": "achievement-5",
+        "name": "Looking for Trouble",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Find 25% of GPS caches."
+      },
+      {
+        "id": "achievement-6",
+        "name": "Bag Full O' Cache",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Find 75% of GPS caches."
+      },
+      {
+        "id": "achievement-7",
+        "name": "No Stone Left Unturned",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Find all documents, relics and GPS caches."
+      },
+      {
+        "id": "achievement-8",
+        "name": "Scrounger",
+        "kind": "trophy",
+        "chapterId": "survival-and-gear",
+        "where": "Collect 5000 pieces of salvage."
+      },
+      {
+        "id": "achievement-9",
+        "name": "Picky",
+        "kind": "trophy",
+        "chapterId": "survival-and-gear",
+        "where": "Loot 200 enemies."
+      },
+      {
+        "id": "achievement-10",
+        "name": "Clever Girl",
+        "kind": "trophy",
+        "chapterId": "survival-and-gear",
+        "where": "Purchase all skills in one category."
+      },
+      {
+        "id": "achievement-11",
+        "name": "Lethal",
+        "kind": "trophy",
+        "chapterId": "survival-and-gear",
+        "where": "Purchase all skills in all categories."
+      },
+      {
+        "id": "achievement-12",
+        "name": "Now We're Getting Serious",
+        "kind": "trophy",
+        "chapterId": "survival-and-gear",
+        "where": "Fully mod and completely upgrade any weapon."
+      },
+      {
+        "id": "achievement-13",
+        "name": "The Professional",
+        "kind": "trophy",
+        "chapterId": "survival-and-gear",
+        "where": "Fully mod and completely upgrade all weapons."
+      },
+      {
+        "id": "achievement-14",
+        "name": "Big Game Hunter",
+        "kind": "trophy",
+        "chapterId": "survival-and-gear",
+        "where": "Kill and loot 10 large animals (deer, boar, wolves)."
+      },
+      {
+        "id": "achievement-15",
+        "name": "Tastes Like Chicken!",
+        "kind": "trophy",
+        "chapterId": "survival-and-gear",
+        "where": "Kill and loot 10 small animals (rabbits, chickens, rats)."
+      },
+      {
+        "id": "achievement-16",
+        "name": "Feather Duster",
+        "kind": "trophy",
+        "chapterId": "survival-and-gear",
+        "where": "Kill and loot 10 flying animals (crows and gulls)."
+      },
+      {
+        "id": "achievement-17",
+        "name": "Sharp Shooter",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Perform 50 headshot kills in the single player campaign."
+      },
+      {
+        "id": "achievement-18",
+        "name": "Predator",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Kill 50 enemies with the bow."
+      },
+      {
+        "id": "achievement-19",
+        "name": "Equalizer",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Kill 75 enemies with the rifle."
+      },
+      {
+        "id": "achievement-20",
+        "name": "Widowmaker",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Kill 40 enemies with the shotgun."
+      },
+      {
+        "id": "achievement-21",
+        "name": "Gunslinger",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Kill 35 enemies with the pistol."
+      },
+      {
+        "id": "achievement-22",
+        "name": "Epic Fumble",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Force an enemy to drop dynamite that kills two people when exploding."
+      },
+      {
+        "id": "achievement-23",
+        "name": "Get Over Here!",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Rope pull 5 enemies off edges."
+      },
+      {
+        "id": "achievement-24",
+        "name": "Opportunist",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Kill 25 unaware enemies."
+      },
+      {
+        "id": "achievement-25",
+        "name": "Down and Dirty",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Perform 15 finishers."
+      },
+      {
+        "id": "achievement-26",
+        "name": "Deadeye",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Shoot 10 enemies off zip lines."
+      },
+      {
+        "id": "achievement-27",
+        "name": "Former Adventurer",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Incapacitate 25 enemies with dodge counter."
+      },
+      {
+        "id": "achievement-28",
+        "name": "One Smart Cookie",
+        "kind": "trophy",
+        "chapterId": "tombs-and-challenges",
+        "where": "Complete one optional tomb."
+      },
+      {
+        "id": "achievement-29",
+        "name": "Intellectually Superior",
+        "kind": "trophy",
+        "chapterId": "tombs-and-challenges",
+        "where": "Complete all optional tombs."
+      },
+      {
+        "id": "achievement-30",
+        "name": "Unfinished Business",
+        "kind": "trophy",
+        "chapterId": "tombs-and-challenges",
+        "where": "Complete one challenge."
+      },
+      {
+        "id": "achievement-31",
+        "name": "Inconceivable!",
+        "kind": "trophy",
+        "chapterId": "tombs-and-challenges",
+        "where": "Complete all challenges."
+      },
+      {
+        "id": "achievement-32",
+        "name": "A Survivor Is Born",
+        "kind": "trophy",
+        "chapterId": "story-final",
+        "where": "Complete the game."
+      },
+      {
+        "id": "achievement-33",
+        "name": "Boom Goes the Dynamite",
+        "kind": "trophy",
+        "chapterId": "story-final",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-34",
+        "name": "Crab Cakes",
+        "kind": "trophy",
+        "chapterId": "story-final",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-35",
+        "name": "Chatterbox",
+        "kind": "trophy",
+        "chapterId": "story-final",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-36",
+        "name": "Adventurer",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "Complete a match in all multiplayer modes."
+      },
+      {
+        "id": "achievement-37",
+        "name": "Artilleryman",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "Kill 20 enemy players in multiplayer using a turret."
+      },
+      {
+        "id": "achievement-38",
+        "name": "Down Boy!",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "Kill a zip-lining enemy player in multiplayer."
+      },
+      {
+        "id": "achievement-39",
+        "name": "Entrapment",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "Catch a player in a snare trap in multiplayer."
+      },
+      {
+        "id": "achievement-40",
+        "name": "Escapist",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "Survive 10 explosions in multiplayer."
+      },
+      {
+        "id": "achievement-41",
+        "name": "Good Samaritan",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "Revive a teammate in a multiplayer match."
+      },
+      {
+        "id": "achievement-42",
+        "name": "I'm all that!",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "Win a ranked match in every multiplayer mode."
+      },
+      {
+        "id": "achievement-43",
+        "name": "Sole Survivor",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "In multiplayer, be the only player on your team that isn't dead or downed."
+      },
+      {
+        "id": "achievement-44",
+        "name": "Lights Out",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "Kill 10 multiplayer enemies using your melee attack."
+      },
+      {
+        "id": "achievement-45",
+        "name": "Master Blaster",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "Kill 2 multiplayer enemies with a single explosive."
+      },
+      {
+        "id": "achievement-46",
+        "name": "Monkey Around",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "In multiplayer, escape death 3 times by using the rope ascender."
+      },
+      {
+        "id": "achievement-47",
+        "name": "Narcissistic",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "Purchase a new multiplayer character."
+      },
+      {
+        "id": "achievement-48",
+        "name": "On My Way Up",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "Reach level 10 in multiplayer."
+      },
+      {
+        "id": "achievement-49",
+        "name": "Shopaholic",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "Buy every upgrade and character in multiplayer."
+      },
+      {
+        "id": "achievement-50",
+        "name": "True Commitment",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "Reach level 60 in multiplayer."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/tomb-raider",
+    "Achievement data from Steam (Steam Web API, app 203160)",
+    "Wiki structure from StrategyWiki under CC BY-SA 4.0 (chapter order from its walkthrough contents; titles reworded, no text copied) — https://strategywiki.org/wiki/Tomb_Raider_(2013)",
+    "Fandom (tombraider.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://tombraider.fandom.com/wiki/Tomb_Raider_(2013_Game)"
+  ],
+  "route": "cc-by-sa",
+  "notes": "Backlog game, picked from RAWG's most-added list for its year (docs/PLAN.md section 2 ordering). Route cc-by-sa: StrategyWiki (CC BY-SA 4.0) has the guide under \"Tomb Raider (2013)\" at completion stage 2. Its Table of Contents lists 24 walkthrough sections and 7 optional tombs; only the first seven walkthrough sections (\"Survive\", \"Force of Will\", \"Signs of Life\", \"Woman Versus Wild\", \"Just Keep Moving\", \"At an Impasse\", \"Mountain Rendezvous\", about 1,100 to 3,000 characters each) are written, plus Achievements and trophies, Controls and Skills. The tomb pages and the later 17 walkthrough sections are not written, so coverage is partial. Its structure was recorded in sw-structure.json; section names only, no text copied. The three story chapters split the section list into thirds, which is a guess. tombraider.fandom.com redirects \"Tomb Raider (2013)\" to \"Tomb Raider (2013 Game)\", with about 192 linked pages; names only were looked at, nothing copied. RAWG's first result is the 2013 game (id 5286). The Steam app list calls 203160 \"Tomb Raider Game of the Year\", and its schema calls it \"ValveTestApp203160\"; it is the only Steam app matching the 2013 game. 3 of 50 Steam achievements are hidden (\"Boom Goes the Dynamite\", \"Crab Cakes\", \"Chatterbox\"); they sit in the final story chapter as a placeholder, and \"Chatterbox\" (2.2 percent) may be optional. 15 achievements are for multiplayer."
+}

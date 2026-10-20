@@ -1,0 +1,540 @@
+{
+  "id": "assassins-creed-syndicate",
+  "title": "Assassin's Creed Syndicate",
+  "year": 2015,
+  "platforms": [
+    "PC",
+    "Xbox One",
+    "PlayStation 4"
+  ],
+  "rawgId": 42895,
+  "rawgSlug": "assassins-creed-syndicate-2",
+  "released": "2015-10-23",
+  "developers": [
+    "Ubisoft Montreal",
+    "Ubisoft Quebec",
+    "Ubisoft Singapore"
+  ],
+  "playtime": 22,
+  "genres": [
+    "Action"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Multiplayer",
+    "Atmospheric",
+    "Great Soundtrack",
+    "Co-op",
+    "Story Rich",
+    "Open World",
+    "cooperative",
+    "Third Person",
+    "Partial Controller Support",
+    "Funny",
+    "Gore"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/9f1/9f189c639f70f91166df415811a8b525.jpg",
+  "steamAppId": 368500,
+  "achievements": {
+    "total": 56,
+    "hidden": 0,
+    "examples": [
+      {
+        "name": "A Spanner in the Works",
+        "percent": 23.2
+      },
+      {
+        "name": "A Simple Plan",
+        "percent": 21.2
+      },
+      {
+        "name": "Blade in the Crowd",
+        "percent": 18.1
+      },
+      {
+        "name": "Are you scared yet?",
+        "percent": 1.0
+      },
+      {
+        "name": "You Wouldn't Steal a Policeman's Helmet",
+        "percent": 0.8
+      },
+      {
+        "name": "Ripperologist",
+        "percent": 0.8
+      },
+      {
+        "name": "No Ticket",
+        "percent": 0.7
+      },
+      {
+        "name": "Without a Grudge",
+        "percent": 0.7
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Assassin's_Creed:_Syndicate",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 475,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://assassinscreed.fandom.com/wiki/Assassin's_Creed:_Syndicate"
+    }
+  },
+  "game": {
+    "id": "assassins-creed-syndicate",
+    "title": "Assassin's Creed Syndicate",
+    "platforms": [
+      "PC",
+      "Xbox One",
+      "PlayStation 4"
+    ],
+    "blurb": "Open-world action-adventure set in Victorian London, played as the twins Jacob and Evie, from Ubisoft Quebec (RAWG also lists Ubisoft Montreal and Ubisoft Singapore), released 2015-10-23. RAWG average playtime: 22 hours. Genre: Action. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#7A2E3A",
+    "chapters": [
+      {
+        "id": "main-story",
+        "title": "The Main Story",
+        "summary": "Nine Memory Sequences as Jacob and Evie take London back, and full sync in the main memories. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "london-activities",
+        "title": "Boroughs, Gangs and Side Activities",
+        "summary": "Gang strongholds, fight clubs, street races, raids, bounties, Templar hunts, child liberation, cargo escorts, crowd events, associates and the World War I simulation.",
+        "steps": []
+      },
+      {
+        "id": "collectibles",
+        "title": "Collectibles and Viewpoints",
+        "summary": "Pressed flowers, historical posters, royal letters, the Secrets of London, beer brands and every viewpoint.",
+        "steps": []
+      },
+      {
+        "id": "combat-and-gear",
+        "title": "Combat, Skills, Gear and Vehicles",
+        "summary": "Skills for Jacob and Evie, perks, gang upgrades, crafting, carriages, trains and combat feats.",
+        "steps": []
+      },
+      {
+        "id": "jack-the-ripper",
+        "title": "Jack the Ripper (DLC)",
+        "summary": "The Jack the Ripper expansion: fear tactics, Brutal Takedowns, its skills and full sync.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "A Spanner in the Works",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Complete Memory Sequence 1."
+      },
+      {
+        "id": "achievement-2",
+        "name": "A Simple Plan",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Complete Memory Sequence 2."
+      },
+      {
+        "id": "achievement-3",
+        "name": "A Modern Babylon",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Complete Memory Sequence 3."
+      },
+      {
+        "id": "achievement-4",
+        "name": "A Quick and Reliable Remedy",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Complete Memory Sequence 4."
+      },
+      {
+        "id": "achievement-5",
+        "name": "The Perils of Business",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Complete Memory Sequence 5."
+      },
+      {
+        "id": "achievement-6",
+        "name": "A Run on the Bank",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Complete Memory Sequence 6."
+      },
+      {
+        "id": "achievement-7",
+        "name": "All Is Fair in Politics",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Complete Memory Sequence 7."
+      },
+      {
+        "id": "achievement-8",
+        "name": "The Joys of Freedom",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Complete Memory Sequence 8."
+      },
+      {
+        "id": "achievement-9",
+        "name": "Shall We Dance?",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Complete Memory Sequence 9."
+      },
+      {
+        "id": "achievement-10",
+        "name": "Friends at My Back",
+        "kind": "trophy",
+        "chapterId": "london-activities",
+        "where": "Recruit a gang of 5 allies."
+      },
+      {
+        "id": "achievement-11",
+        "name": "The War at Home",
+        "kind": "trophy",
+        "chapterId": "london-activities",
+        "where": "Complete the World War I simulation."
+      },
+      {
+        "id": "achievement-12",
+        "name": "Cerevisaphile",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Sample every beer brand in London."
+      },
+      {
+        "id": "achievement-13",
+        "name": "No Ticket",
+        "kind": "trophy",
+        "chapterId": "combat-and-gear",
+        "where": "Kick fifty enemies off of trains."
+      },
+      {
+        "id": "achievement-14",
+        "name": "Flawless Conqueror",
+        "kind": "trophy",
+        "chapterId": "london-activities",
+        "where": "Secure three Gang Strongholds and complete their optional constraints."
+      },
+      {
+        "id": "achievement-15",
+        "name": "Bare-Knuckle Champion",
+        "kind": "trophy",
+        "chapterId": "london-activities",
+        "where": "Win three different Fight Clubs."
+      },
+      {
+        "id": "achievement-16",
+        "name": "A Quarter-Furlong at a Time",
+        "kind": "trophy",
+        "chapterId": "london-activities",
+        "where": "Finish first in 3 different Street Races."
+      },
+      {
+        "id": "achievement-17",
+        "name": "Treasure Hunter",
+        "kind": "trophy",
+        "chapterId": "london-activities",
+        "where": "Complete ten Raids of any type with Jacob or Evie."
+      },
+      {
+        "id": "achievement-18",
+        "name": "Thieftaker",
+        "kind": "trophy",
+        "chapterId": "london-activities",
+        "where": "Bring three Bounty targets back alive."
+      },
+      {
+        "id": "achievement-19",
+        "name": "Unqualified Success",
+        "kind": "trophy",
+        "chapterId": "london-activities",
+        "where": "Complete three Templar Hunts and their challenges."
+      },
+      {
+        "id": "achievement-20",
+        "name": "Children's Aid Society",
+        "kind": "trophy",
+        "chapterId": "london-activities",
+        "where": "Complete five Child Liberation memories."
+      },
+      {
+        "id": "achievement-21",
+        "name": "Guardian Angel",
+        "kind": "trophy",
+        "chapterId": "london-activities",
+        "where": "Successfully escort ten friendly cargo shipments."
+      },
+      {
+        "id": "achievement-22",
+        "name": "Godlike",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Unlock all of the Secrets of London."
+      },
+      {
+        "id": "achievement-23",
+        "name": "A Broad Base",
+        "kind": "trophy",
+        "chapterId": "london-activities",
+        "where": "Reach Loyalty level 1 with all Associates."
+      },
+      {
+        "id": "achievement-24",
+        "name": "Bedfellows, Strange or Otherwise",
+        "kind": "trophy",
+        "chapterId": "london-activities",
+        "where": "Reach maximum Loyalty with any Associate."
+      },
+      {
+        "id": "achievement-25",
+        "name": "Needle in a Haystack",
+        "kind": "trophy",
+        "chapterId": "combat-and-gear",
+        "where": "Kill five enemies from within the same haystack."
+      },
+      {
+        "id": "achievement-26",
+        "name": "Street Sweeping",
+        "kind": "trophy",
+        "chapterId": "london-activities",
+        "where": "Conquer all the boroughs in London"
+      },
+      {
+        "id": "achievement-27",
+        "name": "Multitalented",
+        "kind": "trophy",
+        "chapterId": "combat-and-gear",
+        "where": "Acquire ten Perks."
+      },
+      {
+        "id": "achievement-28",
+        "name": "Keys to the City",
+        "kind": "trophy",
+        "chapterId": "combat-and-gear",
+        "where": "Acquire all of the Gang Upgrades."
+      },
+      {
+        "id": "achievement-29",
+        "name": "Artisan",
+        "kind": "trophy",
+        "chapterId": "combat-and-gear",
+        "where": "Craft a Level 10 Item."
+      },
+      {
+        "id": "achievement-30",
+        "name": "Bartitsu",
+        "kind": "trophy",
+        "chapterId": "combat-and-gear",
+        "where": "Learn every Fight Skill as Jacob."
+      },
+      {
+        "id": "achievement-31",
+        "name": "Phantom",
+        "kind": "trophy",
+        "chapterId": "combat-and-gear",
+        "where": "Learn every Stealth Skill as Evie."
+      },
+      {
+        "id": "achievement-32",
+        "name": "Wonder of the Age",
+        "kind": "trophy",
+        "chapterId": "combat-and-gear",
+        "where": "Reach Level 10."
+      },
+      {
+        "id": "achievement-33",
+        "name": "Ordinary Criminal",
+        "kind": "trophy",
+        "chapterId": "london-activities",
+        "where": "Complete twenty Crowd Events."
+      },
+      {
+        "id": "achievement-34",
+        "name": "Language of Flowers",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Collect all of the Pressed Flowers."
+      },
+      {
+        "id": "achievement-35",
+        "name": "Student of History",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Collect all of the Historical Posters."
+      },
+      {
+        "id": "achievement-36",
+        "name": "A Life in Letters",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Collect all of the Royal Letters."
+      },
+      {
+        "id": "achievement-37",
+        "name": "Chimney Sweep",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Synchronize every Viewpoint in London."
+      },
+      {
+        "id": "achievement-38",
+        "name": "Mentor",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Reach 100% Sync in the Main Memories"
+      },
+      {
+        "id": "achievement-39",
+        "name": "Furious",
+        "kind": "trophy",
+        "chapterId": "combat-and-gear",
+        "where": "Destroy twenty vehicles by ramming them."
+      },
+      {
+        "id": "achievement-40",
+        "name": "WHAT IS WRONG WITH YOU",
+        "kind": "trophy",
+        "chapterId": "combat-and-gear",
+        "where": "Flip five vehicles by shooting their horses."
+      },
+      {
+        "id": "achievement-41",
+        "name": "Look Out Below",
+        "kind": "trophy",
+        "chapterId": "combat-and-gear",
+        "where": "Kill three enemies with a single stack of hanging barrels."
+      },
+      {
+        "id": "achievement-42",
+        "name": "You Wouldn't Steal a Policeman's Helmet",
+        "kind": "trophy",
+        "chapterId": "combat-and-gear",
+        "where": "Hijack twenty police vehicles."
+      },
+      {
+        "id": "achievement-43",
+        "name": "Queensbury Rules",
+        "kind": "trophy",
+        "chapterId": "combat-and-gear",
+        "where": "Reach combo level 40."
+      },
+      {
+        "id": "achievement-44",
+        "name": "Whirlwind of Death",
+        "kind": "trophy",
+        "chapterId": "combat-and-gear",
+        "where": "Perform fifty Multi-Finishers."
+      },
+      {
+        "id": "achievement-45",
+        "name": "Blade in the Crowd",
+        "kind": "trophy",
+        "chapterId": "combat-and-gear",
+        "where": "Assassinate fifty enemies."
+      },
+      {
+        "id": "achievement-46",
+        "name": "Opium Scourge",
+        "kind": "trophy",
+        "chapterId": "combat-and-gear",
+        "where": "Affect at least four enemies simultaneously with the Hallucinogenic Dart."
+      },
+      {
+        "id": "achievement-47",
+        "name": "Blade from Above",
+        "kind": "trophy",
+        "chapterId": "combat-and-gear",
+        "where": "Air Assassinate twenty enemies from a zipline."
+      },
+      {
+        "id": "achievement-48",
+        "name": "Most Unsporting",
+        "kind": "trophy",
+        "chapterId": "combat-and-gear",
+        "where": "Shoot fifty enemies before they shoot at you."
+      },
+      {
+        "id": "achievement-49",
+        "name": "Without a Grudge",
+        "kind": "trophy",
+        "chapterId": "combat-and-gear",
+        "where": "Destroy 5000 destructibles with your carriage."
+      },
+      {
+        "id": "achievement-50",
+        "name": "A well-kept secret",
+        "kind": "trophy",
+        "chapterId": "jack-the-ripper",
+        "where": "Jack is dead and his identity will remain hidden forever."
+      },
+      {
+        "id": "achievement-51",
+        "name": "Brutal",
+        "kind": "trophy",
+        "chapterId": "jack-the-ripper",
+        "where": "Perform 30 complete Brutal Takedowns."
+      },
+      {
+        "id": "achievement-52",
+        "name": "Keep calm and carry on",
+        "kind": "trophy",
+        "chapterId": "jack-the-ripper",
+        "where": "Kill a Brute while he calms down his panicked allies."
+      },
+      {
+        "id": "achievement-53",
+        "name": "Put the fear of you into them",
+        "kind": "trophy",
+        "chapterId": "jack-the-ripper",
+        "where": "Scare an enemy and make him kill someone else by mistake."
+      },
+      {
+        "id": "achievement-54",
+        "name": "Are you scared yet?",
+        "kind": "trophy",
+        "chapterId": "jack-the-ripper",
+        "where": "Frighten 200 enemies."
+      },
+      {
+        "id": "achievement-55",
+        "name": "The new terror of Whitechapel",
+        "kind": "trophy",
+        "chapterId": "jack-the-ripper",
+        "where": "Unlock 50% of the skills."
+      },
+      {
+        "id": "achievement-56",
+        "name": "Ripperologist",
+        "kind": "trophy",
+        "chapterId": "jack-the-ripper",
+        "where": "Achieve 100% synchronization in Jack the Ripper."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/assassins-creed-syndicate-2",
+    "Achievement data from Steam (Steam Web API, app 368500)",
+    "StrategyWiki: stub page only, nothing used — https://strategywiki.org/wiki/Assassin's_Creed:_Syndicate",
+    "Fandom (assassinscreed.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://assassinscreed.fandom.com/wiki/Assassin's_Creed:_Syndicate"
+  ],
+  "route": "original",
+  "notes": "Backlog game, picked from RAWG's most-added list for its year (docs/PLAN.md section 2 ordering). StrategyWiki has the guide under \"Assassin's Creed: Syndicate\" (the unpunctuated title redirects there), at completion stage 0 and marked a stub; only a Table of Contents subpage exists, and Controls, Gameplay and Walkthrough are linked but not written. assassinscreed.fandom.com has no page under \"Assassin's Creed Syndicate\" but answers under \"Assassin's Creed: Syndicate\", with about 475 linked pages, including \"Jack the Ripper (DLC)\", \"The Last Maharaja\" and \"The Dreadful Crimes\"; names only were looked at, nothing copied. The DLC name \"Jack the Ripper\" also appears in RAWG's search results and in the \"Ripperologist\" achievement. None of the 56 Steam achievements is hidden. The seven achievements listed last (\"A well-kept secret\" to \"Ripperologist\") were placed in the Jack the Ripper chapter by schema position and by their descriptions (Whitechapel, fear, Brutal Takedowns, \"100% synchronization in Jack the Ripper\"). \"The War at Home\" (the World War I simulation) was put with side activities. The Steam descriptions use non-breaking spaces, so the sorting rules match any space."
+}

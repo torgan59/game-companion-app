@@ -1,0 +1,554 @@
+{
+  "id": "assassins-creed-unity",
+  "title": "Assassin's Creed Unity",
+  "year": 2014,
+  "platforms": [
+    "PlayStation 4",
+    "PC",
+    "Xbox One"
+  ],
+  "rawgId": 8146,
+  "rawgSlug": "assassins-creed-unity-2",
+  "released": "2014-11-11",
+  "developers": [
+    "Ubisoft",
+    "Ubisoft Montreal",
+    "Ubisoft Toronto",
+    "Ubisoft Montpellier"
+  ],
+  "playtime": 14,
+  "genres": [
+    "Action"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Multiplayer",
+    "Atmospheric",
+    "Great Soundtrack",
+    "RPG",
+    "Co-op",
+    "Story Rich",
+    "Open World",
+    "cooperative",
+    "Third Person",
+    "Partial Controller Support",
+    "Online Co-Op"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/59f/59fc1c5de1d29cb9234741c97d250150.jpg",
+  "steamAppId": 289650,
+  "achievements": {
+    "total": 57,
+    "hidden": 0,
+    "examples": [
+      {
+        "name": "A Long Time Ago",
+        "percent": 30.6
+      },
+      {
+        "name": "Youth In Versailles",
+        "percent": 25.7
+      },
+      {
+        "name": "Rebirth",
+        "percent": 23.3
+      },
+      {
+        "name": "Tricolore",
+        "percent": 0.8
+      },
+      {
+        "name": "Curiosity",
+        "percent": 0.7
+      },
+      {
+        "name": "Merciful Killer",
+        "percent": 0.7
+      },
+      {
+        "name": "Hydrogen Bonded",
+        "percent": 0.7
+      },
+      {
+        "name": "Know-It-All",
+        "percent": 0.6
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Assassin's_Creed:_Unity",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 474,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://assassinscreed.fandom.com/wiki/Assassin's_Creed:_Unity"
+    }
+  },
+  "game": {
+    "id": "assassins-creed-unity",
+    "title": "Assassin's Creed Unity",
+    "platforms": [
+      "PlayStation 4",
+      "PC",
+      "Xbox One"
+    ],
+    "blurb": "Open-world stealth action game set in Paris during the French Revolution, from Ubisoft (RAWG lists Ubisoft Montreal, Toronto and Montpellier), released 2014-11-11. RAWG average playtime: 14 hours. Genre: Action. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#2B4C7E",
+    "chapters": [
+      {
+        "id": "main-story",
+        "title": "The Main Story",
+        "summary": "The Prologue and Memory Sequences 1 to 12, from Versailles to the end of the story. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "paris",
+        "title": "Exploring Paris",
+        "summary": "Viewpoints, chests, cockades, crowd events, murder mysteries, Nostradamus Enigmas, Rift missions and 100 percent of Versailles.",
+        "steps": []
+      },
+      {
+        "id": "cafe-and-clubs",
+        "title": "The Café Théâtre and Social Clubs",
+        "summary": "Renovating the Café Théâtre and the Social Clubs, and their missions and rewards.",
+        "steps": []
+      },
+      {
+        "id": "co-op",
+        "title": "Co-op and Heists",
+        "summary": "Co-op and Heist missions, reviving partners and sync kills.",
+        "steps": []
+      },
+      {
+        "id": "combat-and-skills",
+        "title": "Combat, Stealth and Skills",
+        "summary": "Assassinations, weapons, lockpicking, alarm bells, training and unlocking skills.",
+        "steps": []
+      },
+      {
+        "id": "dead-kings",
+        "title": "Dead Kings",
+        "summary": "The Dead Kings content in Franciade: Memory Sequence 13, outposts, Raider leaders and the Guillotine Gun.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "A Long Time Ago",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Complete the Prologue."
+      },
+      {
+        "id": "achievement-2",
+        "name": "Youth In Versailles",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Complete Memory Sequence 1."
+      },
+      {
+        "id": "achievement-3",
+        "name": "Rebirth",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Complete Memory Sequence 2."
+      },
+      {
+        "id": "achievement-4",
+        "name": "First Blood",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Complete Memory Sequence 3."
+      },
+      {
+        "id": "achievement-5",
+        "name": "La Cour des Miracles",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Complete Memory Sequence 4."
+      },
+      {
+        "id": "achievement-6",
+        "name": "The Root Of Evil",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Complete Memory Sequence 5."
+      },
+      {
+        "id": "achievement-7",
+        "name": "Secret Meeting",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Complete Memory Sequence 6."
+      },
+      {
+        "id": "achievement-8",
+        "name": "Mystery Solved",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Complete Memory Sequence 7."
+      },
+      {
+        "id": "achievement-9",
+        "name": "Bloody Trail",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Complete Memory Sequence 8."
+      },
+      {
+        "id": "achievement-10",
+        "name": "Road To Starvation",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Complete Memory Sequence 9."
+      },
+      {
+        "id": "achievement-11",
+        "name": "Love And Duty",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Complete Memory Sequence 10."
+      },
+      {
+        "id": "achievement-12",
+        "name": "Down But Not Out",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Complete Memory Sequence 11."
+      },
+      {
+        "id": "achievement-13",
+        "name": "Curtain Call",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Complete Memory Sequence 12."
+      },
+      {
+        "id": "achievement-14",
+        "name": "No Man's Land",
+        "kind": "trophy",
+        "chapterId": "paris",
+        "where": "Complete all Rift missions."
+      },
+      {
+        "id": "achievement-15",
+        "name": "Needs More Data",
+        "kind": "trophy",
+        "chapterId": "paris",
+        "where": "Earn 3 Data Bonuses"
+      },
+      {
+        "id": "achievement-16",
+        "name": "Thawed",
+        "kind": "trophy",
+        "chapterId": "paris",
+        "where": "Free a total of 10 trapped Assassins."
+      },
+      {
+        "id": "achievement-17",
+        "name": "Blade In The Crowd",
+        "kind": "trophy",
+        "chapterId": "combat-and-skills",
+        "where": "Assassinate 100 enemies."
+      },
+      {
+        "id": "achievement-18",
+        "name": "I Want It All",
+        "kind": "trophy",
+        "chapterId": "paris",
+        "where": "Complete all Single Player mission challenges."
+      },
+      {
+        "id": "achievement-19",
+        "name": "Networking",
+        "kind": "trophy",
+        "chapterId": "cafe-and-clubs",
+        "where": "Renovate your first Social Club."
+      },
+      {
+        "id": "achievement-20",
+        "name": "An Old Internet Meme",
+        "kind": "trophy",
+        "chapterId": "cafe-and-clubs",
+        "where": "Renovate all the Social Clubs and complete all the Social Club missions."
+      },
+      {
+        "id": "achievement-21",
+        "name": "Falling From The Sky",
+        "kind": "trophy",
+        "chapterId": "combat-and-skills",
+        "where": "Perform 10 air assassinations."
+      },
+      {
+        "id": "achievement-22",
+        "name": "From the Past",
+        "kind": "trophy",
+        "chapterId": "cafe-and-clubs",
+        "where": "Unlock the Medieval Armor in the Café Théâtre."
+      },
+      {
+        "id": "achievement-23",
+        "name": "The Baguette Boyband",
+        "kind": "trophy",
+        "chapterId": "co-op",
+        "where": "Complete a Co-op mission."
+      },
+      {
+        "id": "achievement-24",
+        "name": "Know-It-All",
+        "kind": "trophy",
+        "chapterId": "combat-and-skills",
+        "where": "Complete all training missions."
+      },
+      {
+        "id": "achievement-25",
+        "name": "Gentleman Cambrioleur",
+        "kind": "trophy",
+        "chapterId": "combat-and-skills",
+        "where": "Lockpick 20 chests."
+      },
+      {
+        "id": "achievement-26",
+        "name": "Curiosity",
+        "kind": "trophy",
+        "chapterId": "paris",
+        "where": "Open every chest in the game."
+      },
+      {
+        "id": "achievement-27",
+        "name": "Visited Once",
+        "kind": "trophy",
+        "chapterId": "co-op",
+        "where": "Complete all Co-op and Heist missions at least once."
+      },
+      {
+        "id": "achievement-28",
+        "name": "Business and Pleasure",
+        "kind": "trophy",
+        "chapterId": "paris",
+        "where": "Earn a total of 50,000 livres."
+      },
+      {
+        "id": "achievement-29",
+        "name": "And Stay Down!",
+        "kind": "trophy",
+        "chapterId": "combat-and-skills",
+        "where": "Perform a ground execution."
+      },
+      {
+        "id": "achievement-30",
+        "name": "Panoramic View",
+        "kind": "trophy",
+        "chapterId": "paris",
+        "where": "Synchronize all Viewpoints."
+      },
+      {
+        "id": "achievement-31",
+        "name": "Help Me!",
+        "kind": "trophy",
+        "chapterId": "paris",
+        "where": "Complete 10 Crowd Events."
+      },
+      {
+        "id": "achievement-32",
+        "name": "Hand of Justice",
+        "kind": "trophy",
+        "chapterId": "paris",
+        "where": "Solve a Murder Mystery."
+      },
+      {
+        "id": "achievement-33",
+        "name": "Ransacking Versailles",
+        "kind": "trophy",
+        "chapterId": "paris",
+        "where": "Earn 100% completion of Versailles."
+      },
+      {
+        "id": "achievement-34",
+        "name": "Accurate Prediction",
+        "kind": "trophy",
+        "chapterId": "paris",
+        "where": "Complete a Nostradamus Enigma."
+      },
+      {
+        "id": "achievement-35",
+        "name": "Tricolore",
+        "kind": "trophy",
+        "chapterId": "paris",
+        "where": "Collect all Cockades"
+      },
+      {
+        "id": "achievement-36",
+        "name": "Don't Need It",
+        "kind": "trophy",
+        "chapterId": "paris",
+        "where": "Drop 20 Money Pouches in the streets."
+      },
+      {
+        "id": "achievement-37",
+        "name": "Patron of the Arts",
+        "kind": "trophy",
+        "chapterId": "cafe-and-clubs",
+        "where": "Watch a play in the Café Théâtre."
+      },
+      {
+        "id": "achievement-38",
+        "name": "Share the Wealth",
+        "kind": "trophy",
+        "chapterId": "co-op",
+        "where": "Get all the rewards in a Co-op mission."
+      },
+      {
+        "id": "achievement-39",
+        "name": "Safe and Secure",
+        "kind": "trophy",
+        "chapterId": "cafe-and-clubs",
+        "where": "Perform all Social Club missions in a district."
+      },
+      {
+        "id": "achievement-40",
+        "name": "Room With A View",
+        "kind": "trophy",
+        "chapterId": "paris",
+        "where": "Enjoy the view of Paris from Arno's balcony."
+      },
+      {
+        "id": "achievement-41",
+        "name": "Poked!",
+        "kind": "trophy",
+        "chapterId": "combat-and-skills",
+        "where": "Kill 20 enemies with a Long Weapon."
+      },
+      {
+        "id": "achievement-42",
+        "name": "Chopped!",
+        "kind": "trophy",
+        "chapterId": "combat-and-skills",
+        "where": "Kill 20 enemies with a heavy weapon."
+      },
+      {
+        "id": "achievement-43",
+        "name": "Master Architect",
+        "kind": "trophy",
+        "chapterId": "cafe-and-clubs",
+        "where": "Complete all the renovations of the Café Théâtre."
+      },
+      {
+        "id": "achievement-44",
+        "name": "Guillotined",
+        "kind": "trophy",
+        "chapterId": "combat-and-skills",
+        "where": "Kill an enemy with a lift counterweight."
+      },
+      {
+        "id": "achievement-45",
+        "name": "Never Say Die",
+        "kind": "trophy",
+        "chapterId": "co-op",
+        "where": "Revive a partner in Co-op."
+      },
+      {
+        "id": "achievement-46",
+        "name": "Merciful Killer",
+        "kind": "trophy",
+        "chapterId": "co-op",
+        "where": "Perform 10 non-lethal takedowns in a Co-op mission."
+      },
+      {
+        "id": "achievement-47",
+        "name": "Choreography",
+        "kind": "trophy",
+        "chapterId": "co-op",
+        "where": "Perform 10 Co-op sync kills."
+      },
+      {
+        "id": "achievement-48",
+        "name": "The Bells! The Bells!",
+        "kind": "trophy",
+        "chapterId": "combat-and-skills",
+        "where": "Sabotage 5 alarm bells."
+      },
+      {
+        "id": "achievement-49",
+        "name": "Must've Left it Open",
+        "kind": "trophy",
+        "chapterId": "combat-and-skills",
+        "where": "Lockpick 5 doors."
+      },
+      {
+        "id": "achievement-50",
+        "name": "I Got Skills",
+        "kind": "trophy",
+        "chapterId": "combat-and-skills",
+        "where": "Unlock all Skills."
+      },
+      {
+        "id": "achievement-51",
+        "name": "Hydrogen Bonded",
+        "kind": "trophy",
+        "chapterId": "dead-kings",
+        "where": "Achieve 100% synchronization in Dead Kings."
+      },
+      {
+        "id": "achievement-52",
+        "name": "Piece of Eden",
+        "kind": "trophy",
+        "chapterId": "dead-kings",
+        "where": "Complete Memory Sequence 13."
+      },
+      {
+        "id": "achievement-53",
+        "name": "Defender of Franciade",
+        "kind": "trophy",
+        "chapterId": "dead-kings",
+        "where": "Complete Suger's Legacy and recover the Eagle of Suger."
+      },
+      {
+        "id": "achievement-54",
+        "name": "Liberator",
+        "kind": "trophy",
+        "chapterId": "dead-kings",
+        "where": "Free every outpost in Franciade."
+      },
+      {
+        "id": "achievement-55",
+        "name": "Fraternité!",
+        "kind": "trophy",
+        "chapterId": "dead-kings",
+        "where": "Complete the Heist and the Co-op mission in Dead Kings at least once."
+      },
+      {
+        "id": "achievement-56",
+        "name": "Reign of Terror",
+        "kind": "trophy",
+        "chapterId": "dead-kings",
+        "where": "Kill 5 enemies at the same time with a Guillotine Gun."
+      },
+      {
+        "id": "achievement-57",
+        "name": "Freedom Fighter",
+        "kind": "trophy",
+        "chapterId": "dead-kings",
+        "where": "Kill 15 Raider leaders."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/assassins-creed-unity-2",
+    "Achievement data from Steam (Steam Web API, app 289650)",
+    "StrategyWiki: stub page only, nothing used — https://strategywiki.org/wiki/Assassin's_Creed:_Unity",
+    "Fandom (assassinscreed.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://assassinscreed.fandom.com/wiki/Assassin's_Creed:_Unity"
+  ],
+  "route": "original",
+  "notes": "Backlog game, picked from RAWG's most-added list for its year (docs/PLAN.md section 2 ordering). StrategyWiki redirects \"Assassin's Creed Unity\" to \"Assassin's Creed: Unity\", a stub (completion stage 0, marked as a stub) with only a short Table of Contents subpage; nothing used. assassinscreed.fandom.com redirects to \"Assassin's Creed: Unity\" and answers the API, with about 474 linked pages; names only were looked at, nothing copied. None of the 57 Steam achievements is hidden. The last seven (51 to 57) form a Dead Kings block, which RAWG also lists as a separate entry (\"Assassin's Creed: Unity - Dead Kings\"); \"Piece of Eden\" (Memory Sequence 13), \"Reign of Terror\" (Guillotine Gun) and \"Freedom Fighter\" (Raider leaders) do not name Dead Kings and were placed there by schema position. \"No Man's Land\" (Rift missions), \"Needs More Data\" and \"Thawed\" (trapped Assassins) were put with Paris activities; what kind of missions these are is not stated in the data."
+}
