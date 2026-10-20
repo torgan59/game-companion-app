@@ -5,6 +5,39 @@ Tracks the 20-game research queue in `research/state.json` and files landing in 
 
 ---
 
+## 2026-10-20 21:10 UTC
+
+**Year / queue:** currentYear = 2026 on `main` (state.json unchanged since PR #7, 19:46 UTC). Queue on `main`: 40 games, 27 done, 5 in-progress, 4 queued, 4 skipped, 0 errors. PR #8 now carries the finished version: 146 games, 136 done, 0 in-progress, 1 queued (GTA VI), 9 skipped, 0 errors, currentYear 2013. `yearsCompleted` still empty on both (cosmetic).
+
+**Progress:** 27/40 games merged to `main`. Counting PR #8, 136/146 games are researched, and every game that can be researched today is done. The original 20-game target was met at 19:47 UTC. Only GTA VI (releases 2026-11-19) remains queued.
+
+**Latest commits (origin/main):**
+- `7736582` Coordinator log: 20:10 check (coordinator, 20:12 UTC)
+- `b48fd41` Merge pull request #7 (Tim, 19:47 UTC)
+- `9e3af4d` Claim: batch 6 research in progress (batch session, 19:46 UTC)
+- `1abbde2` Research: Control Resonant, AC Black Flag Resynced, Onimusha, Nioh 3, Avowed (batch session, 19:46 UTC)
+- `498fed8` Merge `origin/claude/research-cyberpunk-2077` into the #7 branch (batch session, 19:46 UTC)
+
+No new research on `main` this hour. All new work is on PR #8's branch, which gained 4 commits since the 20:10 check: batch 10 (20 games, 2013-2016, 20:17 UTC), a fix to attribution lines across 71 files (20:23 UTC), and batch 11 (last 24 games, 2010-2013, 20:26 UTC). The last push was at 20:26 UTC, about 45 minutes before this check, and the PR title and description were rewritten to match.
+
+**PR #8 (open, finished, ready for review):** retitled "Research batches 6–11: 109 games + 2010–2023 backlog (queue complete except GTA VI)". Head `a68a85c`, 14 commits, 120 files changed, about 63,900 lines added. Mergeable state is **clean** (no conflicts with `main`). No comments or reviews yet. The batch session appears to be done: state.json on the branch has nothing in-progress, every done entry has a file, and the description says four helper agents did batches 7-11 and every file was reviewed. It adds 7 more `cc-by-sa` route games (page names and order only, no text copied) and notes 9 games without any achievement list.
+
+**Researcher:** `game-researcher-routine` runs daily at 03:07 UTC and is enabled. Next run is 2026-10-21 03:07 UTC (about 6 hours away).
+
+**Research files:** `research/` on `main` is unchanged: `state.json` plus 27 game files, every `done` slug matched, no stray files, no naming issues. On PR #8's branch: `state.json` plus 136 game files. Every one of the 136 `done` entries has a matching file and every file has a `done` entry. Filenames match slugs and each file's `id` matches its filename. `packs/` still does not exist (placeholder `packPath` values, expected). Remote branches unchanged: `main`, `claude/festive-turing-ek24ds` (PR #8, 14 commits ahead), plus three fully merged branches safe to delete: `claude/research-cyberpunk-2077`, `claude/research-forza-horizon-6`, `claude/research-crimson-desert`.
+
+**Quality check:** all 136 files on PR #8's branch PASS (`id`, `title`, `platforms`, `game.chapters`, `game.collectibles` present, `id` equals filename, no bad JSON). Every file has at least 3 chapters. 12 files have 0 collectibles, all explained in the PR description as console-only games or Steam apps with no achievement list: assassins-creed-brotherhood, bloodborne, dragon-age-2, fable-iii, genshin-impact, infamous-second-son, uncharted-3-drakes-deception, the-legend-of-zelda-breath-of-the-wild, pokemon-legends-z-a, plus the three already known on `main` (ghost-of-yotei, marvels-wolverine, zelda-tears-of-the-kingdom). Chapters in every file have empty `steps`; the guide text still needs original writing, which the PR says plainly.
+
+**Blockers / errors / stale PRs:**
+- **PR #8 is waiting on Tim.** It is no longer growing, it is clean against `main`, and the field check passes. Things to review before merging: the 106-game backlog pick (RAWG most-added plus Metacritic, filtered by hand to the docs/PLAN.md rules), the 9 skipped games (4 genre skips from PR #7 plus 5 covered by later editions: Uncharted 4, Lost Legacy, Mass Effect 2 and 3, Dark Souls), and the reset of currentYear to 2013.
+- **GTA VI is now a sure problem for the daily researcher, whichever way PR #8 goes.** On `main` it is the first queued 2026 game. On PR #8's branch it is the **only** queued game, so after the merge the 03:07 UTC run has nothing else to pick. The agent spec has no rule for unreleased titles. Fix: add one line to `.claude/agents/game-researcher.md` saying to skip any game whose `releaseDate` is in the future and stop cleanly when nothing is eligible. Until then the daily run will either try to research an unreleased game or fail loudly.
+- No errors in state.json on `main` or on PR #8. No CI configured, nothing to wait on.
+- Notification sent this run: PR #8 is finished and ready for review; GTA VI warning.
+
+**Next game in queue:** on `main`, `grand-theft-auto-vi` — Grand Theft Auto VI (2026, releases 2026-11-19). After it: `final-fantasy-vii-rebirth`, `metaphor-refantazio`, `star-wars-outlaws` (2024), all already researched in PR #8. After PR #8 merges, GTA VI is the only queued game and nothing else is eligible until it releases, so the queue needs new titles or a pause of the daily researcher.
+
+---
+
 ## 2026-10-20 20:10 UTC
 
 **Year / queue:** currentYear = 2026 on `main` (state.json updated 2026-10-20 19:46 UTC by PR #7). Queue is now 40 games: 27 done, 5 in-progress, 4 queued, 4 skipped, 0 errors. `yearsCompleted` still empty (cosmetic). The open PR #8 carries a much newer state.json: 146 games, 92 done, 20 in-progress, 25 queued, 9 skipped, currentYear 2016.
