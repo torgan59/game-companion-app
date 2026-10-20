@@ -1,0 +1,505 @@
+{
+  "id": "marvels-avengers",
+  "title": "Marvel's Avengers",
+  "year": 2020,
+  "platforms": [
+    "PlayStation 5",
+    "PlayStation 4",
+    "PC",
+    "Xbox One",
+    "Xbox Series X|S"
+  ],
+  "rawgId": 58859,
+  "rawgSlug": "marvels-avengers",
+  "released": "2020-09-04",
+  "developers": [
+    "Crystal Dynamics",
+    "Eidos Montreal",
+    "Nixxes",
+    "Eidos Interactive"
+  ],
+  "playtime": 12,
+  "genres": [
+    "Action",
+    "Adventure",
+    "RPG"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Multiplayer",
+    "Full controller support",
+    "RPG",
+    "Co-op",
+    "Open World",
+    "cooperative",
+    "Third Person",
+    "Online Co-Op",
+    "Fantasy",
+    "Story"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/1eb/1ebef06e55f756974654c35b9aedb127.jpg",
+  "steamAppId": 997070,
+  "achievements": {
+    "total": 50,
+    "hidden": 16,
+    "examples": [
+      {
+        "name": "Prized Collection",
+        "percent": 69.5
+      },
+      {
+        "name": "And That's How It's Done",
+        "percent": 68.4
+      },
+      {
+        "name": "Rough and Tumble",
+        "percent": 56.5
+      },
+      {
+        "name": "Tentative Peace",
+        "percent": 3.1
+      },
+      {
+        "name": "Savior of the People",
+        "percent": 2.8
+      },
+      {
+        "name": "Holding It Down",
+        "percent": 1.9
+      },
+      {
+        "name": "To the Dark and Back Again",
+        "percent": 1.3
+      },
+      {
+        "name": "Treasure Trove",
+        "percent": 1.2
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Marvel's_Avengers",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 198,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://marvels-avengers.fandom.com/wiki/Marvel's_Avengers"
+    }
+  },
+  "game": {
+    "id": "marvels-avengers",
+    "title": "Marvel's Avengers",
+    "platforms": [
+      "PlayStation 5",
+      "PlayStation 4",
+      "PC",
+      "Xbox One",
+      "Xbox Series X|S"
+    ],
+    "blurb": "Action brawler with a story campaign and co-op missions starring the Avengers, from Crystal Dynamics and Eidos Montreal, released 2020-09-04. RAWG average playtime: 12 hours. Genres: Action, Adventure, RPG. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#1F5FA8",
+    "chapters": [
+      {
+        "id": "main-story",
+        "title": "The Main Story",
+        "summary": "The story campaign. Spoiler-guarded; these achievements are hidden on Steam.",
+        "steps": []
+      },
+      {
+        "id": "missions",
+        "title": "Missions, Hives and War Zones",
+        "summary": "Assignments, Villain Sectors, Hive missions, mission chains, War Zones, Depots and rescuing AIM prisoners.",
+        "steps": []
+      },
+      {
+        "id": "heroes-and-gear",
+        "title": "Heroes, Factions and Gear",
+        "summary": "Hero Levels, Power Level, skills, faction ranks and vendors, Legendary gear and upgrading gear and artifacts.",
+        "steps": []
+      },
+      {
+        "id": "collectibles",
+        "title": "Collectibles and Strongboxes",
+        "summary": "Comic sets, codex and intelligence files, gear items, Artifacts, strongboxes and Caches.",
+        "steps": []
+      },
+      {
+        "id": "combat",
+        "title": "Combat Feats",
+        "summary": "Combos, Heroic abilities, flawless ratings, speed runs and the HARM Challenges.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "On the Mountaintop",
+        "kind": "trophy",
+        "chapterId": "heroes-and-gear",
+        "where": "Reach Power Level 150 with any Hero"
+      },
+      {
+        "id": "achievement-2",
+        "name": "Back in Business",
+        "kind": "trophy",
+        "chapterId": "heroes-and-gear",
+        "where": "Earn a total of 250 Hero Levels across the entire Hero Roster"
+      },
+      {
+        "id": "achievement-3",
+        "name": "Group Effort",
+        "kind": "trophy",
+        "chapterId": "heroes-and-gear",
+        "where": "Reach rank 25 in any faction"
+      },
+      {
+        "id": "achievement-4",
+        "name": "Super Hero Business",
+        "kind": "trophy",
+        "chapterId": "missions",
+        "where": "Complete 10 assignments"
+      },
+      {
+        "id": "achievement-5",
+        "name": "Team Player",
+        "kind": "trophy",
+        "chapterId": "heroes-and-gear",
+        "where": "Reach Hero Level 5 with five different Heroes"
+      },
+      {
+        "id": "achievement-6",
+        "name": "Time to Shine",
+        "kind": "trophy",
+        "chapterId": "heroes-and-gear",
+        "where": "Reach Hero Level 50 and purchase all skills for any Hero"
+      },
+      {
+        "id": "achievement-7",
+        "name": "Tentative Peace",
+        "kind": "trophy",
+        "chapterId": "missions",
+        "where": "Complete 15 Villain Sectors"
+      },
+      {
+        "id": "achievement-8",
+        "name": "Gold Star Success",
+        "kind": "trophy",
+        "chapterId": "missions",
+        "where": "Complete 100 assignments"
+      },
+      {
+        "id": "achievement-9",
+        "name": "Treasure Trove",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Open 50 Caches strongboxes"
+      },
+      {
+        "id": "achievement-10",
+        "name": "Honeycomb Hideout",
+        "kind": "trophy",
+        "chapterId": "missions",
+        "where": "Complete five Hive missions"
+      },
+      {
+        "id": "achievement-11",
+        "name": "Former Glory",
+        "kind": "trophy",
+        "chapterId": "missions",
+        "where": "Complete the \"Iconic Avengers\" mission chain"
+      },
+      {
+        "id": "achievement-12",
+        "name": "Clear Skies",
+        "kind": "trophy",
+        "chapterId": "missions",
+        "where": "Complete the \"A Global Offensive\" mission chain"
+      },
+      {
+        "id": "achievement-13",
+        "name": "To the Dark and Back Again",
+        "kind": "trophy",
+        "chapterId": "missions",
+        "where": "Complete 50 Hive missions"
+      },
+      {
+        "id": "achievement-14",
+        "name": "Rough and Tumble",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Reach a combo of 20 hits or higher"
+      },
+      {
+        "id": "achievement-15",
+        "name": "And That's How It's Done",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Defeat 10 or more enemies with a single Heroic ability activation"
+      },
+      {
+        "id": "achievement-16",
+        "name": "Trying on Perfection",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Earn a 100% rating on a mission without any team member being downed"
+      },
+      {
+        "id": "achievement-17",
+        "name": "Seeing Stars",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Earn a five star rating on an objective without any team member taking damage"
+      },
+      {
+        "id": "achievement-18",
+        "name": "Holding It Down",
+        "kind": "trophy",
+        "chapterId": "missions",
+        "where": "Complete 30 War Zones at Challenge III or higher rating"
+      },
+      {
+        "id": "achievement-19",
+        "name": "The Best Around",
+        "kind": "trophy",
+        "chapterId": "missions",
+        "where": "Earn a 100% rating for any War Zone at Challenge IV rating"
+      },
+      {
+        "id": "achievement-20",
+        "name": "More Important Things To Do",
+        "kind": "trophy",
+        "chapterId": "missions",
+        "where": "Complete any mission in under three minutes"
+      },
+      {
+        "id": "achievement-21",
+        "name": "The Best Defense",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Collect 20 different enemy codex files"
+      },
+      {
+        "id": "achievement-22",
+        "name": "Old Fashioned Beat Down",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Complete HARM Challenges I to V"
+      },
+      {
+        "id": "achievement-23",
+        "name": "Prized Collection",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Collect a full comic set"
+      },
+      {
+        "id": "achievement-24",
+        "name": "Information Overload",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Collect 50 intelligence files"
+      },
+      {
+        "id": "achievement-25",
+        "name": "Wanting for Nothing",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Collect 500 gear items"
+      },
+      {
+        "id": "achievement-26",
+        "name": "Odds and Ends",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Collect three Artifacts"
+      },
+      {
+        "id": "achievement-27",
+        "name": "Savior of the People",
+        "kind": "trophy",
+        "chapterId": "missions",
+        "where": "Rescue 100 AIM prisoners"
+      },
+      {
+        "id": "achievement-28",
+        "name": "Become Legend",
+        "kind": "trophy",
+        "chapterId": "heroes-and-gear",
+        "where": "Equip all Legendary or better gear with any hero"
+      },
+      {
+        "id": "achievement-29",
+        "name": "Fundamentally Flawless",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Defeat 50 enemies with Assault Heroic or Ultimate Heroic abilities"
+      },
+      {
+        "id": "achievement-30",
+        "name": "Muahahahahaha!",
+        "kind": "trophy",
+        "chapterId": "heroes-and-gear",
+        "where": "Fully upgrade a major artifact"
+      },
+      {
+        "id": "achievement-31",
+        "name": "Investing in the Future",
+        "kind": "trophy",
+        "chapterId": "heroes-and-gear",
+        "where": "Fully upgrade any gear item"
+      },
+      {
+        "id": "achievement-32",
+        "name": "Shopping Spree",
+        "kind": "trophy",
+        "chapterId": "heroes-and-gear",
+        "where": "Purchase an item from two different faction vendors"
+      },
+      {
+        "id": "achievement-33",
+        "name": "Breaking and Entering",
+        "kind": "trophy",
+        "chapterId": "missions",
+        "where": "Break into 30 Depots"
+      },
+      {
+        "id": "achievement-34",
+        "name": "A Surprise Every Time",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Open 100 strongboxes"
+      },
+      {
+        "id": "achievement-35",
+        "name": "Truly Elite",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-36",
+        "name": "Golden Ticket",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-37",
+        "name": "The Adventure Begins",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-38",
+        "name": "Lost But Not Forgotten",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-39",
+        "name": "A Little Bit Broken",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-40",
+        "name": "From the Ashes",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-41",
+        "name": "No Suit, No Problem",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-42",
+        "name": "Patent Violation",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-43",
+        "name": "Gone To Ground",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-44",
+        "name": "Itsy Bitsy",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-45",
+        "name": "A Novel Way to Travel",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-46",
+        "name": "Thunderous Applause",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-47",
+        "name": "Unparalleled View",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-48",
+        "name": "Welcome Back, Old Friend",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-49",
+        "name": "Avengers Assemble!",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-50",
+        "name": "New Girl Makes Good",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/marvels-avengers",
+    "Achievement data from Steam (Steam Web API, app 997070)",
+    "StrategyWiki: no usable walkthrough, nothing used — https://strategywiki.org/wiki/Marvel's_Avengers",
+    "Fandom (marvels-avengers.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://marvels-avengers.fandom.com/wiki/Marvel's_Avengers"
+  ],
+  "route": "original",
+  "notes": "Backlog game, picked from RAWG's most-added list for its year (docs/PLAN.md section 2 ordering). The game is no longer sold on Steam: app 997070 is not in the current Steam app list, but the Steam Web API still returns its achievement schema (named \"Marvel's Avengers\", 50 achievements) and global percentages, so it was used. Fandom's summary says online service ended on September 30, 2023 and the game was removed from digital storefronts that day. StrategyWiki has a stub page (completion stage 0); its Walkthrough, Gameplay and Table of Contents subpages are linked but none exists, so nothing was used. marvels-avengers.fandom.com answers the API, with about 198 linked pages, including hero pages such as \"Kate Bishop\", \"Hawkeye\", \"Spider-Man\" and \"Black Panther\"; names only were looked at, nothing copied. 16 of 50 Steam achievements are hidden, with no descriptions; they sit in the main story chapter as a placeholder. Some of them (for example \"Truly Elite\", 3%, and \"Golden Ticket\", 69%) may not be story beats, but nothing in the data says what they are. The many online-only goals (War Zones, Hives, factions) may be hard or impossible to finish now the servers are off; this was not checked."
+}

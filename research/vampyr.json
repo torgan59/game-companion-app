@@ -1,0 +1,338 @@
+{
+  "id": "vampyr",
+  "title": "Vampyr",
+  "year": 2018,
+  "platforms": [
+    "PlayStation 4",
+    "PC",
+    "Xbox One",
+    "Nintendo Switch"
+  ],
+  "rawgId": 28110,
+  "rawgSlug": "vampyr",
+  "released": "2018-06-04",
+  "developers": [
+    "DONTNOD Entertainment"
+  ],
+  "playtime": 6,
+  "genres": [
+    "Action",
+    "Adventure",
+    "RPG"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Full controller support",
+    "Atmospheric",
+    "RPG",
+    "Story Rich",
+    "Open World",
+    "Third Person",
+    "Horror",
+    "Gore",
+    "Violent",
+    "role-playing",
+    "Choices Matter"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/23b/23b42b7a896140f4ce1d0df8c42fa012.jpg",
+  "steamAppId": 427290,
+  "achievements": {
+    "total": 28,
+    "hidden": 17,
+    "examples": [
+      {
+        "name": "Work in progress",
+        "percent": 63.7
+      },
+      {
+        "name": "That's better",
+        "percent": 52.3
+      },
+      {
+        "name": "Pest control",
+        "percent": 43.7
+      },
+      {
+        "name": "Unlife is strange",
+        "percent": 5.6
+      },
+      {
+        "name": "Lore keeper",
+        "percent": 2.9
+      },
+      {
+        "name": "Weapons of choice",
+        "percent": 2.4
+      },
+      {
+        "name": "Keep your distance",
+        "percent": 2.2
+      },
+      {
+        "name": "The tools of the profession",
+        "percent": 2.0
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": false,
+      "pages": 0,
+      "reason": "No page for Vampyr (MediaWiki API returned missing; search empty)"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 18,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://vampyr.fandom.com/wiki/Vampyr"
+    }
+  },
+  "game": {
+    "id": "vampyr",
+    "title": "Vampyr",
+    "platforms": [
+      "PlayStation 4",
+      "PC",
+      "Xbox One",
+      "Nintendo Switch"
+    ],
+    "blurb": "Action RPG in which a doctor turned vampire treats, feeds on and protects the citizens of London, from DONTNOD Entertainment, released 2018-06-04. RAWG average playtime: 6 hours. Genres: Action, Adventure, RPG. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#7A1F2B",
+    "chapters": [
+      {
+        "id": "main-story",
+        "title": "The Main Story",
+        "summary": "The story through London, from first awakening to the last choices. Spoiler-guarded; most achievements here are hidden.",
+        "steps": []
+      },
+      {
+        "id": "citizens-and-districts",
+        "title": "Citizens and Districts",
+        "summary": "Healing citizens and the state of each district.",
+        "steps": []
+      },
+      {
+        "id": "weapons-and-upgrades",
+        "title": "Weapons and Upgrades",
+        "summary": "Finding every melee, ranged and off-hand weapon, and upgrading weapons with modules up to level 5.",
+        "steps": []
+      },
+      {
+        "id": "curiosities",
+        "title": "Curiosities and Collectibles",
+        "summary": "Gathering every collectible, eating rats and saving a thirsty plant.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "From here to eternity",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-2",
+        "name": "At dawn we row",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-3",
+        "name": "Just take a bite",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-4",
+        "name": "Merciful release",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-5",
+        "name": "Pest control",
+        "kind": "trophy",
+        "chapterId": "curiosities",
+        "where": "Eat 10 rats"
+      },
+      {
+        "id": "achievement-6",
+        "name": "Unlife is strange",
+        "kind": "trophy",
+        "chapterId": "curiosities",
+        "where": "Save this poor plant with water"
+      },
+      {
+        "id": "achievement-7",
+        "name": "The tools of the profession",
+        "kind": "trophy",
+        "chapterId": "weapons-and-upgrades",
+        "where": "Find all melee weapons"
+      },
+      {
+        "id": "achievement-8",
+        "name": "Keep your distance",
+        "kind": "trophy",
+        "chapterId": "weapons-and-upgrades",
+        "where": "Find all ranged weapons"
+      },
+      {
+        "id": "achievement-9",
+        "name": "Weapons of choice",
+        "kind": "trophy",
+        "chapterId": "weapons-and-upgrades",
+        "where": "Find all off-hand weapons"
+      },
+      {
+        "id": "achievement-10",
+        "name": "Bloody roots",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-11",
+        "name": "Lore keeper",
+        "kind": "trophy",
+        "chapterId": "curiosities",
+        "where": "Gather all collectibles"
+      },
+      {
+        "id": "achievement-12",
+        "name": "Hippocratic oath",
+        "kind": "trophy",
+        "chapterId": "citizens-and-districts",
+        "where": "Heal 10 citizens"
+      },
+      {
+        "id": "achievement-13",
+        "name": "That's better",
+        "kind": "trophy",
+        "chapterId": "weapons-and-upgrades",
+        "where": "Upgrade a weapon with a module"
+      },
+      {
+        "id": "achievement-14",
+        "name": "Work in progress",
+        "kind": "trophy",
+        "chapterId": "weapons-and-upgrades",
+        "where": "Upgrade a weapon"
+      },
+      {
+        "id": "achievement-15",
+        "name": "Solid metal gear",
+        "kind": "trophy",
+        "chapterId": "weapons-and-upgrades",
+        "where": "Upgrade a weapon to level 5"
+      },
+      {
+        "id": "achievement-16",
+        "name": "Interview with the vampire",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-17",
+        "name": "Sacrificial lamb",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-18",
+        "name": "Prepare to die",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-19",
+        "name": "The Dying Swansea",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-20",
+        "name": "Anarchy in the UK",
+        "kind": "trophy",
+        "chapterId": "citizens-and-districts",
+        "where": "Turn a district to hostile status"
+      },
+      {
+        "id": "achievement-21",
+        "name": "A taste for blood",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-22",
+        "name": "Not even once",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-23",
+        "name": "Defeat the beast",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-24",
+        "name": "Hail Mary",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-25",
+        "name": "Death on stage",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-26",
+        "name": "Bury the hatchet",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-27",
+        "name": "Unnatural Disaster",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-28",
+        "name": "London's burning",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/vampyr",
+    "Achievement data from Steam (Steam Web API, app 427290)",
+    "StrategyWiki: no page for this game, nothing used",
+    "Fandom (vampyr.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://vampyr.fandom.com/wiki/Vampyr"
+  ],
+  "route": "original",
+  "notes": "Backlog game, picked from RAWG's most-added list for its year (docs/PLAN.md section 2 ordering). StrategyWiki has no page for Vampyr (API returned missing), and there is no obvious alternative title. vampyr.fandom.com answers the API, with 18 linked pages, including \"Prologue\", seven \"Chapter\" pages (from \"Chapter 1: Quarantine\" to \"Chapter 7: Healthy Carrier\"), \"Quests\" and \"Sidequests\"; names only were looked at, nothing copied. 17 of 28 Steam achievements are hidden; they all sit in the main story chapter as a placeholder. Two hidden ones are rare (\"Bloody roots\" at 5.5% and \"Not even once\" at 6.8%), so they may be optional or playstyle goals rather than story beats, but nothing in the data says so. The game chapters listed on Fandom could later give the main story a finer split. RAWG lists a playtime of only 6 hours, which looks low."
+}

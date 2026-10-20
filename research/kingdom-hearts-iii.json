@@ -1,0 +1,522 @@
+{
+  "id": "kingdom-hearts-iii",
+  "title": "Kingdom Hearts III",
+  "year": 2019,
+  "platforms": [
+    "Xbox One",
+    "PlayStation 4",
+    "PC"
+  ],
+  "rawgId": 51324,
+  "rawgSlug": "kingdom-hearts-iii",
+  "released": "2019-01-25",
+  "developers": [
+    "Square Enix"
+  ],
+  "playtime": null,
+  "genres": [
+    "Action",
+    "RPG"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Atmospheric",
+    "Fantasy",
+    "Funny",
+    "Exploration",
+    "Action-Adventure",
+    "Anime",
+    "JRPG",
+    "3rd-Person Perspective",
+    "Cartoon",
+    "3rd-person",
+    "disney"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/968/968e6210715fd61237139e3caa193be0.jpg",
+  "steamAppId": 2552450,
+  "achievements": {
+    "total": 51,
+    "hidden": 6,
+    "examples": [
+      {
+        "name": "A New Journey",
+        "percent": 88.1
+      },
+      {
+        "name": "Tall Enough to Ride",
+        "percent": 71.9
+      },
+      {
+        "name": "Clash of the Gods",
+        "percent": 68.9
+      },
+      {
+        "name": "True Captain",
+        "percent": 5.9
+      },
+      {
+        "name": "Synthesist",
+        "percent": 5.7
+      },
+      {
+        "name": "One for the Books",
+        "percent": 4.9
+      },
+      {
+        "name": "All-rounder",
+        "percent": 3.2
+      },
+      {
+        "name": "Risk-taker",
+        "percent": 3.0
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Kingdom_Hearts_III",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 219,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://kingdomhearts.fandom.com/wiki/Kingdom_Hearts_III"
+    }
+  },
+  "game": {
+    "id": "kingdom-hearts-iii",
+    "title": "Kingdom Hearts III",
+    "platforms": [
+      "Xbox One",
+      "PlayStation 4",
+      "PC"
+    ],
+    "blurb": "Action RPG in which Sora travels through many worlds, from Square Enix, released 2019-01-25 (the PC edition includes Re Mind). RAWG has no playtime figure. Genres: Action, RPG. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#2B59C3",
+    "chapters": [
+      {
+        "id": "early-worlds",
+        "title": "Olympus, Twilight Town and Toy Box",
+        "summary": "The start of the journey and the first three worlds.",
+        "steps": []
+      },
+      {
+        "id": "middle-worlds",
+        "title": "Kingdom of Corona, Monstropolis and Arendelle",
+        "summary": "The next three worlds of the adventure.",
+        "steps": []
+      },
+      {
+        "id": "late-worlds",
+        "title": "The Caribbean, San Fransokyo and the Hundred Acre Wood",
+        "summary": "Three more worlds before the end.",
+        "steps": []
+      },
+      {
+        "id": "finale",
+        "title": "The Finale",
+        "summary": "The last battles and the ending. Spoiler-guarded; most achievements here are hidden.",
+        "steps": []
+      },
+      {
+        "id": "re-mind",
+        "title": "Re Mind",
+        "summary": "The Re Mind add-on and its datascape fights against the Darknesses.",
+        "steps": []
+      },
+      {
+        "id": "gummiphone",
+        "title": "Gummiphone, Photos and Cooking",
+        "summary": "Lucky Emblems, Adversaries, Treasures, Synthesis and Game Records, the gummi ship, photos and cooking.",
+        "steps": []
+      },
+      {
+        "id": "minigames",
+        "title": "Minigames",
+        "summary": "Verum Rex, the Festival Dance, Frozen Slider, Flash Tracer, the Leviathan, ship battles and Classic Kingdom games.",
+        "steps": []
+      },
+      {
+        "id": "combat-and-growth",
+        "title": "Combat and Growth",
+        "summary": "Attractions, links and grand magic, enemy counts, Keyblades, the Ultima Weapon, LV 99 and Code merits.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "A New Journey",
+        "kind": "trophy",
+        "chapterId": "early-worlds",
+        "where": "Begin your brand new adventure."
+      },
+      {
+        "id": "achievement-2",
+        "name": "Clash of the Gods",
+        "kind": "trophy",
+        "chapterId": "early-worlds",
+        "where": "Adventure through Olympus and complete the story."
+      },
+      {
+        "id": "achievement-3",
+        "name": "A Wish at Twilight",
+        "kind": "trophy",
+        "chapterId": "early-worlds",
+        "where": "Adventure through Twilight Town and complete the story."
+      },
+      {
+        "id": "achievement-4",
+        "name": "Inseparable Friends",
+        "kind": "trophy",
+        "chapterId": "early-worlds",
+        "where": "Adventure through Toy Box and complete the story."
+      },
+      {
+        "id": "achievement-5",
+        "name": "Happily Ever After",
+        "kind": "trophy",
+        "chapterId": "middle-worlds",
+        "where": "Adventure through the Kingdom of Corona and complete the story."
+      },
+      {
+        "id": "achievement-6",
+        "name": "The Power of Laughter",
+        "kind": "trophy",
+        "chapterId": "middle-worlds",
+        "where": "Adventure through Monstropolis and complete the story."
+      },
+      {
+        "id": "achievement-7",
+        "name": "An Act of True Love",
+        "kind": "trophy",
+        "chapterId": "middle-worlds",
+        "where": "Adventure through Arendelle and complete the story."
+      },
+      {
+        "id": "achievement-8",
+        "name": "Way of the Pirate",
+        "kind": "trophy",
+        "chapterId": "late-worlds",
+        "where": "Adventure through The Caribbean and complete the story."
+      },
+      {
+        "id": "achievement-9",
+        "name": "Making a Difference",
+        "kind": "trophy",
+        "chapterId": "late-worlds",
+        "where": "Adventure through San Fransokyo and complete the story."
+      },
+      {
+        "id": "achievement-10",
+        "name": "Home Again",
+        "kind": "trophy",
+        "chapterId": "late-worlds",
+        "where": "Adventure through the Hundred Acre Wood and complete the story."
+      },
+      {
+        "id": "achievement-11",
+        "name": "The Hearts Joined to His",
+        "kind": "trophy",
+        "chapterId": "finale",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-12",
+        "name": "No Matter What",
+        "kind": "trophy",
+        "chapterId": "finale",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-13",
+        "name": "The Battle to End All",
+        "kind": "trophy",
+        "chapterId": "finale",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-14",
+        "name": "Another Chapter Closed",
+        "kind": "trophy",
+        "chapterId": "finale",
+        "where": "Finish the game and view the ending."
+      },
+      {
+        "id": "achievement-15",
+        "name": "Hidden Kings",
+        "kind": "trophy",
+        "chapterId": "gummiphone",
+        "where": "Complete the Lucky Emblems section of the Gummiphone."
+      },
+      {
+        "id": "achievement-16",
+        "name": "Know Thine Enemy",
+        "kind": "trophy",
+        "chapterId": "gummiphone",
+        "where": "Complete the Adversaries section of the Gummiphone."
+      },
+      {
+        "id": "achievement-17",
+        "name": "No Stone Unturned",
+        "kind": "trophy",
+        "chapterId": "gummiphone",
+        "where": "Complete the Treasures section of the Gummiphone."
+      },
+      {
+        "id": "achievement-18",
+        "name": "Synthesist",
+        "kind": "trophy",
+        "chapterId": "gummiphone",
+        "where": "Complete the Synthesis section of the Gummiphone."
+      },
+      {
+        "id": "achievement-19",
+        "name": "One for the Books",
+        "kind": "trophy",
+        "chapterId": "gummiphone",
+        "where": "Complete the Game Records section of the Gummiphone."
+      },
+      {
+        "id": "achievement-20",
+        "name": "Tall Enough to Ride",
+        "kind": "trophy",
+        "chapterId": "combat-and-growth",
+        "where": "Use an attraction to defeat enemies for the first time."
+      },
+      {
+        "id": "achievement-21",
+        "name": "Heartbound",
+        "kind": "trophy",
+        "chapterId": "combat-and-growth",
+        "where": "Use a link to defeat enemies for the first time."
+      },
+      {
+        "id": "achievement-22",
+        "name": "Grand Mage",
+        "kind": "trophy",
+        "chapterId": "combat-and-growth",
+        "where": "Cast grand magic for the first time."
+      },
+      {
+        "id": "achievement-23",
+        "name": "Knight",
+        "kind": "trophy",
+        "chapterId": "combat-and-growth",
+        "where": "Defeat 1,000 enemies."
+      },
+      {
+        "id": "achievement-24",
+        "name": "Bishop",
+        "kind": "trophy",
+        "chapterId": "combat-and-growth",
+        "where": "Defeat 3,000 enemies."
+      },
+      {
+        "id": "achievement-25",
+        "name": "Rook",
+        "kind": "trophy",
+        "chapterId": "combat-and-growth",
+        "where": "Defeat 5,000 enemies."
+      },
+      {
+        "id": "achievement-26",
+        "name": "Flanmeister",
+        "kind": "trophy",
+        "chapterId": "finale",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-27",
+        "name": "Salvager",
+        "kind": "trophy",
+        "chapterId": "gummiphone",
+        "where": "Use the gummi ship to obtain 20 unique treasures."
+      },
+      {
+        "id": "achievement-28",
+        "name": "Stargazer",
+        "kind": "trophy",
+        "chapterId": "gummiphone",
+        "where": "Use the gummi ship to find and photograph all the constellations."
+      },
+      {
+        "id": "achievement-29",
+        "name": "Thermosphere",
+        "kind": "trophy",
+        "chapterId": "finale",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-30",
+        "name": "Centurion",
+        "kind": "trophy",
+        "chapterId": "minigames",
+        "where": "Score at least 12,000,000 pts. in Verum Rex: Beat of Lead."
+      },
+      {
+        "id": "achievement-31",
+        "name": "Festive Dancer",
+        "kind": "trophy",
+        "chapterId": "minigames",
+        "where": "Score at least 70,000 pts. in the Festival Dance."
+      },
+      {
+        "id": "achievement-32",
+        "name": "Shield Shredder",
+        "kind": "trophy",
+        "chapterId": "minigames",
+        "where": "Score at least 600,000 pts. in Frozen Slider."
+      },
+      {
+        "id": "achievement-33",
+        "name": "Datascraper",
+        "kind": "trophy",
+        "chapterId": "minigames",
+        "where": "Get an A rank on both Flash Tracer courses."
+      },
+      {
+        "id": "achievement-34",
+        "name": "Dreadnought",
+        "kind": "trophy",
+        "chapterId": "minigames",
+        "where": "Fully power up the Leviathan."
+      },
+      {
+        "id": "achievement-35",
+        "name": "True Captain",
+        "kind": "trophy",
+        "chapterId": "minigames",
+        "where": "Sink 200 enemy ships in The Caribbean."
+      },
+      {
+        "id": "achievement-36",
+        "name": "Say Cheese!",
+        "kind": "trophy",
+        "chapterId": "gummiphone",
+        "where": "Snap your first photo."
+      },
+      {
+        "id": "achievement-37",
+        "name": "Lasting Memories",
+        "kind": "trophy",
+        "chapterId": "gummiphone",
+        "where": "Hold on to 50 photos."
+      },
+      {
+        "id": "achievement-38",
+        "name": "Cornucopia",
+        "kind": "trophy",
+        "chapterId": "gummiphone",
+        "where": "Collect every type of ingredient."
+      },
+      {
+        "id": "achievement-39",
+        "name": "Full Course",
+        "kind": "trophy",
+        "chapterId": "gummiphone",
+        "where": "Earn your first \"Excellent\" while preparing cuisine."
+      },
+      {
+        "id": "achievement-40",
+        "name": "Master Chef",
+        "kind": "trophy",
+        "chapterId": "gummiphone",
+        "where": "Earn an \"Excellent\" while preparing every type of cuisine."
+      },
+      {
+        "id": "achievement-41",
+        "name": "Muscle Memory",
+        "kind": "trophy",
+        "chapterId": "minigames",
+        "where": "Get a new high score in one of the Classic Kingdom games."
+      },
+      {
+        "id": "achievement-42",
+        "name": "Classically Trained",
+        "kind": "trophy",
+        "chapterId": "minigames",
+        "where": "Get a new high score in every Classic Kingdom game."
+      },
+      {
+        "id": "achievement-43",
+        "name": "Blademaster",
+        "kind": "trophy",
+        "chapterId": "combat-and-growth",
+        "where": "Obtain a Keyblade that is fully powered up."
+      },
+      {
+        "id": "achievement-44",
+        "name": "Ultima Weapon",
+        "kind": "trophy",
+        "chapterId": "combat-and-growth",
+        "where": "Synthesize the Ultima Weapon."
+      },
+      {
+        "id": "achievement-45",
+        "name": "Leveled Out",
+        "kind": "trophy",
+        "chapterId": "combat-and-growth",
+        "where": "Raise Sora to LV 99."
+      },
+      {
+        "id": "achievement-46",
+        "name": "All-rounder",
+        "kind": "trophy",
+        "chapterId": "combat-and-growth",
+        "where": "Earn all EZ Code merits."
+      },
+      {
+        "id": "achievement-47",
+        "name": "Risk-taker",
+        "kind": "trophy",
+        "chapterId": "combat-and-growth",
+        "where": "Reach the highest PRO Code merit rank."
+      },
+      {
+        "id": "achievement-48",
+        "name": "Behind the Curtain",
+        "kind": "trophy",
+        "chapterId": "re-mind",
+        "where": "Clear KINGDOM HEARTS Ⅲ Re Mind."
+      },
+      {
+        "id": "achievement-49",
+        "name": "Start Analysis",
+        "kind": "trophy",
+        "chapterId": "re-mind",
+        "where": "Eliminate One Darkness in the datascape."
+      },
+      {
+        "id": "achievement-50",
+        "name": "Analysis Complete",
+        "kind": "trophy",
+        "chapterId": "re-mind",
+        "where": "Eliminate Thirteen Darknesses in the datascape."
+      },
+      {
+        "id": "achievement-51",
+        "name": "Beyond the Curtain",
+        "kind": "trophy",
+        "chapterId": "re-mind",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/kingdom-hearts-iii",
+    "Achievement data from Steam (Steam Web API, app 2552450)",
+    "StrategyWiki: no usable walkthrough, nothing used — https://strategywiki.org/wiki/Kingdom_Hearts_III",
+    "Fandom (kingdomhearts.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://kingdomhearts.fandom.com/wiki/Kingdom_Hearts_III"
+  ],
+  "route": "original",
+  "notes": "Backlog game, picked from RAWG's most-added list for its year (docs/PLAN.md section 2 ordering). Steam app 2552450 is \"KINGDOM HEARTS III + Re Mind (DLC)\"; its schema calls the app \"Tres\" (an internal codename). StrategyWiki has a page at completion stage 0. Of its many linked subpages, 13 exist: \"Olympus\" (about 25,000 characters) and \"Twilight Town\" (about 6,000) are written, as are \"Walkthrough\" (about 5,100) and \"Achievements and trophies\" (about 7,600); \"Toy Box\", \"Monstropolis\", \"Arendelle\" and \"Hundred Acre Wood\" are near-empty (under 600 characters each); the other world pages, such as \"Kingdom of Corona\", \"The Caribbean\", \"San Fransokyo\" and \"Keyblade Graveyard\", are linked but not created. Too little is written to use, so nothing was taken. kingdomhearts.fandom.com answers the API, with about 219 linked pages, including \"Kingdom Hearts III Re Mind\"; names only were looked at, nothing copied. 6 of 51 Steam achievements are hidden. The world chapters group the nine world achievements in their Steam order, which matches falling unlock rates (69% down to 31%); the real play order may differ. \"Beyond the Curtain\" (hidden, 5%) was placed in Re Mind by its name, next to \"Behind the Curtain\"; \"Flanmeister\" and \"Thermosphere\" are hidden too and sit in The Finale as placeholders, though they are probably side goals. RAWG has no playtime figure for this game."
+}

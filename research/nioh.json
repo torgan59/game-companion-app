@@ -1,0 +1,702 @@
+{
+  "id": "nioh",
+  "title": "Nioh",
+  "year": 2017,
+  "platforms": [
+    "PC",
+    "PlayStation 4"
+  ],
+  "rawgId": 401,
+  "rawgSlug": "nioh",
+  "released": "2017-02-07",
+  "developers": [
+    "Team NINJA"
+  ],
+  "playtime": null,
+  "genres": [
+    "Action",
+    "RPG"
+  ],
+  "tags": [
+    "Atmospheric",
+    "RPG",
+    "Action RPG",
+    "JRPG"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/f84/f84c7c45e074117fb81fecf427f8b41f.jpg",
+  "steamAppId": 485510,
+  "achievements": {
+    "total": 79,
+    "hidden": 0,
+    "examples": [
+      {
+        "name": "A Long Journey Begins",
+        "percent": 74.2
+      },
+      {
+        "name": "The Beginning of a Samurai",
+        "percent": 58.8
+      },
+      {
+        "name": "Spa Healer",
+        "percent": 52.4
+      },
+      {
+        "name": "Tonfa Triumph",
+        "percent": 3.4
+      },
+      {
+        "name": "Cannon Fodder",
+        "percent": 3.4
+      },
+      {
+        "name": "Master of the Twin Sticks",
+        "percent": 3.1
+      },
+      {
+        "name": "Holy Trinity",
+        "percent": 3.1
+      },
+      {
+        "name": "You Are Nioh",
+        "percent": 2.6
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Nioh",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 2,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://nioh.fandom.com/wiki/Nioh"
+    }
+  },
+  "game": {
+    "id": "nioh",
+    "title": "Nioh",
+    "platforms": [
+      "PC",
+      "PlayStation 4"
+    ],
+    "blurb": "Samurai action RPG of yokai battles across a war-torn Japan, from Team NINJA, released 2017-02-07. RAWG has no playtime yet. Genres: Action, RPG. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#8E1B1B",
+    "chapters": [
+      {
+        "id": "main-story",
+        "title": "The Main Story",
+        "summary": "The main missions from the Kyushu region to the Omi region, and the second circuit around Japan.",
+        "steps": []
+      },
+      {
+        "id": "tohoku",
+        "title": "The Tohoku Region",
+        "summary": "Missions in the Tohoku region, Aoba Castle, and its Kodama and hot springs.",
+        "steps": []
+      },
+      {
+        "id": "siege-of-osaka",
+        "title": "The Sieges of Osaka",
+        "summary": "Missions of the Siege of Osaka (Winter and Summer), the Sanada and their Ten Braves, and their Kodama and hot springs.",
+        "steps": []
+      },
+      {
+        "id": "exploration",
+        "title": "Kodama, Hot Springs and Side Goals",
+        "summary": "Kodama, hot springs, Guardian Spirits, gestures, yokai, side bosses and mission secrets in the main regions.",
+        "steps": []
+      },
+      {
+        "id": "weapons-and-skills",
+        "title": "Levels, Weapons and Mystic Arts",
+        "summary": "Levels, weapon proficiency, mystic arts for every weapon and magic, and weapon-only boss fights.",
+        "steps": []
+      },
+      {
+        "id": "forge-and-gear",
+        "title": "Forge, Gear and Looks",
+        "summary": "Forging, the blacksmith, Muramasa, best materials, divine gear, appearance and disguises.",
+        "steps": []
+      },
+      {
+        "id": "endgame",
+        "title": "Twilight, Co-op, Way of the Strong and The Abyss",
+        "summary": "Twilight missions, co-op with other players, harder Way of the Strong missions, The Abyss and the all-achievements goal.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "You Are Nioh",
+        "kind": "trophy",
+        "chapterId": "endgame",
+        "where": "You have unlocked all achievements!"
+      },
+      {
+        "id": "achievement-2",
+        "name": "A Long Journey Begins",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Completed \"The Man with the Guardian Spirit\"."
+      },
+      {
+        "id": "achievement-3",
+        "name": "They Call Him Anjin",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Completed \"Deep in the Shadows.\""
+      },
+      {
+        "id": "achievement-4",
+        "name": "An Agreement Forged",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Completed \"The Ocean Roars Again.\""
+      },
+      {
+        "id": "achievement-5",
+        "name": "Wandering Spirit",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Completed \"The Demon of Mount Hiei.\""
+      },
+      {
+        "id": "achievement-6",
+        "name": "A Question of Intentions",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Met with Tokugawa Ieyasu."
+      },
+      {
+        "id": "achievement-7",
+        "name": "Onward to a Decisive Battle",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Witnessed Tokugawa's forces head toward a decisive battle."
+      },
+      {
+        "id": "achievement-8",
+        "name": "The Battle Ends",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Completed \"The Source of Evil.\""
+      },
+      {
+        "id": "achievement-9",
+        "name": "A True Samurai",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Completed \"The Samurai from Sawayama.\""
+      },
+      {
+        "id": "achievement-10",
+        "name": "Freedom Restored",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Completed \"The Demon King Revealed.\""
+      },
+      {
+        "id": "achievement-11",
+        "name": "Battle's End",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Completed \"The Queen's Eyes.\""
+      },
+      {
+        "id": "achievement-12",
+        "name": "Making Rounds",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Made two circuits around Japan."
+      },
+      {
+        "id": "achievement-13",
+        "name": "The Beginning of a Samurai",
+        "kind": "trophy",
+        "chapterId": "weapons-and-skills",
+        "where": "Reached level 10."
+      },
+      {
+        "id": "achievement-14",
+        "name": "Full-fledged Samurai",
+        "kind": "trophy",
+        "chapterId": "weapons-and-skills",
+        "where": "Reached level 100."
+      },
+      {
+        "id": "achievement-15",
+        "name": "Ultimate Pro",
+        "kind": "trophy",
+        "chapterId": "weapons-and-skills",
+        "where": "Reached maximum proficiency with your first weapon."
+      },
+      {
+        "id": "achievement-16",
+        "name": "Sword Master",
+        "kind": "trophy",
+        "chapterId": "weapons-and-skills",
+        "where": "Acquired mystic art for the sword."
+      },
+      {
+        "id": "achievement-17",
+        "name": "Dual Sword Master",
+        "kind": "trophy",
+        "chapterId": "weapons-and-skills",
+        "where": "Acquired mystic art for the dual swords."
+      },
+      {
+        "id": "achievement-18",
+        "name": "Spear Master",
+        "kind": "trophy",
+        "chapterId": "weapons-and-skills",
+        "where": "Acquired mystic art for the spear."
+      },
+      {
+        "id": "achievement-19",
+        "name": "Axe Master",
+        "kind": "trophy",
+        "chapterId": "weapons-and-skills",
+        "where": "Acquired mystic art for the axe."
+      },
+      {
+        "id": "achievement-20",
+        "name": "Kusarigama Master",
+        "kind": "trophy",
+        "chapterId": "weapons-and-skills",
+        "where": "Acquired mystic art for the kusarigama."
+      },
+      {
+        "id": "achievement-21",
+        "name": "Ninjutsu Master",
+        "kind": "trophy",
+        "chapterId": "weapons-and-skills",
+        "where": "Acquired mystic art for Ninjutsu."
+      },
+      {
+        "id": "achievement-22",
+        "name": "Onmyo Magic Master",
+        "kind": "trophy",
+        "chapterId": "weapons-and-skills",
+        "where": "Acquired mystic art for Onmyo Magic."
+      },
+      {
+        "id": "achievement-23",
+        "name": "Disguiser",
+        "kind": "trophy",
+        "chapterId": "forge-and-gear",
+        "where": "Used a disguise."
+      },
+      {
+        "id": "achievement-24",
+        "name": "Fashionista",
+        "kind": "trophy",
+        "chapterId": "forge-and-gear",
+        "where": "Changed your hair style or beard."
+      },
+      {
+        "id": "achievement-25",
+        "name": "Refashion",
+        "kind": "trophy",
+        "chapterId": "forge-and-gear",
+        "where": "Changed the appearance of an item."
+      },
+      {
+        "id": "achievement-26",
+        "name": "Latest Masterpiece",
+        "kind": "trophy",
+        "chapterId": "forge-and-gear",
+        "where": "Forged an item."
+      },
+      {
+        "id": "achievement-27",
+        "name": "Legendary Swordsmith",
+        "kind": "trophy",
+        "chapterId": "forge-and-gear",
+        "where": "Found Muramasa and brought him in."
+      },
+      {
+        "id": "achievement-28",
+        "name": "Regular Smith Customer",
+        "kind": "trophy",
+        "chapterId": "forge-and-gear",
+        "where": "Made a total of 60 requests at the blacksmith."
+      },
+      {
+        "id": "achievement-29",
+        "name": "Master of Quality",
+        "kind": "trophy",
+        "chapterId": "forge-and-gear",
+        "where": "Collected all the best materials."
+      },
+      {
+        "id": "achievement-30",
+        "name": "Teamwork",
+        "kind": "trophy",
+        "chapterId": "endgame",
+        "where": "Completed 10 missions with NPC or in the “Yokai Realm with a companion” with other users."
+      },
+      {
+        "id": "achievement-31",
+        "name": "Yokai Telepathy",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Communicated with a yokai 10 times."
+      },
+      {
+        "id": "achievement-32",
+        "name": "Master of Chaos",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Confused an enemy for the first time."
+      },
+      {
+        "id": "achievement-33",
+        "name": "Twilight Walker",
+        "kind": "trophy",
+        "chapterId": "endgame",
+        "where": "Completed your first Twilight mission."
+      },
+      {
+        "id": "achievement-34",
+        "name": "Spa Healer",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Bathed in first hot spring."
+      },
+      {
+        "id": "achievement-35",
+        "name": "Divine Obtainer",
+        "kind": "trophy",
+        "chapterId": "forge-and-gear",
+        "where": "Obtained first divine item."
+      },
+      {
+        "id": "achievement-36",
+        "name": "Yokai Quelling Master",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Defeated all types of yokai."
+      },
+      {
+        "id": "achievement-37",
+        "name": "Spa Lover",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Bathed in every hot spring from the Kyushu Region to the Omi Region."
+      },
+      {
+        "id": "achievement-38",
+        "name": "Gesture Master",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Acquired 40 gestures."
+      },
+      {
+        "id": "achievement-39",
+        "name": "Kodama Leader",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Collected all Kodama from the Kyushu Region to the Omi Region."
+      },
+      {
+        "id": "achievement-40",
+        "name": "Friend of Guardians",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Collected all Guardian Spirits."
+      },
+      {
+        "id": "achievement-41",
+        "name": "Dungball Roller",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Became Ryunoshin the dung lover's best friend."
+      },
+      {
+        "id": "achievement-42",
+        "name": "Ugly Fellow",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Used the mask of an ugly fellow to defeat an enemy."
+      },
+      {
+        "id": "achievement-43",
+        "name": "Keeper of the Flame",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Lit all three evil-warding bonfires in Itsukushima."
+      },
+      {
+        "id": "achievement-44",
+        "name": "Ressurector of the Hiragumo",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Collected all fragments of the Hiragumo teakettle from Shigisan."
+      },
+      {
+        "id": "achievement-45",
+        "name": "Nue Slayer",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Defeated the Nue of Mount Hiei."
+      },
+      {
+        "id": "achievement-46",
+        "name": "End Times",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Defeated Derrick the Executioner."
+      },
+      {
+        "id": "achievement-47",
+        "name": "A Reunion with Hanzo",
+        "kind": "trophy",
+        "chapterId": "tohoku",
+        "where": "Completed \"Yokai Country.\""
+      },
+      {
+        "id": "achievement-48",
+        "name": "Awakened Ambition",
+        "kind": "trophy",
+        "chapterId": "tohoku",
+        "where": "Completed \"The One-Eyed Dragon's Castle.\""
+      },
+      {
+        "id": "achievement-49",
+        "name": "The Smoldering Flames of War",
+        "kind": "trophy",
+        "chapterId": "tohoku",
+        "where": "Completed \"Spirit Stone Huntress.\""
+      },
+      {
+        "id": "achievement-50",
+        "name": "Oshu Guide",
+        "kind": "trophy",
+        "chapterId": "tohoku",
+        "where": "Collected all Kodama in the Tohoku region."
+      },
+      {
+        "id": "achievement-51",
+        "name": "Odachi Master",
+        "kind": "trophy",
+        "chapterId": "weapons-and-skills",
+        "where": "Acquired mystic art for the odachi."
+      },
+      {
+        "id": "achievement-52",
+        "name": "The Chosen One",
+        "kind": "trophy",
+        "chapterId": "forge-and-gear",
+        "where": "Equipped +15 divine equipment in all slots. (Excludes accessories.)"
+      },
+      {
+        "id": "achievement-53",
+        "name": "Hot Spring Enthusiast",
+        "kind": "trophy",
+        "chapterId": "tohoku",
+        "where": "Bathed in every hot spring in the Tohoku region."
+      },
+      {
+        "id": "achievement-54",
+        "name": "Female Impersonator",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Completed any mission while transformed into a woman."
+      },
+      {
+        "id": "achievement-55",
+        "name": "Eluding the Dragon",
+        "kind": "trophy",
+        "chapterId": "tohoku",
+        "where": "Completed \"Hands of the Dragon.\""
+      },
+      {
+        "id": "achievement-56",
+        "name": "Conqueror of Aoba Castle",
+        "kind": "trophy",
+        "chapterId": "tohoku",
+        "where": "Seized all of Aoba Castle's three-storied keeps in \"The One-Eyed Dragon's Castle.\""
+      },
+      {
+        "id": "achievement-57",
+        "name": "Good Listener",
+        "kind": "trophy",
+        "chapterId": "tohoku",
+        "where": "Listened to Katakura Shigenaga's entire introduction in \"The One-Eyed Dragon's Castle.\""
+      },
+      {
+        "id": "achievement-58",
+        "name": "Infiltrating Sanada Maru",
+        "kind": "trophy",
+        "chapterId": "siege-of-osaka",
+        "where": "Completed the mission \"The Siege of Osaka (Winter).\""
+      },
+      {
+        "id": "achievement-59",
+        "name": "Gesture of Reconciliation",
+        "kind": "trophy",
+        "chapterId": "siege-of-osaka",
+        "where": "Completed \"Scion of Virtue.\""
+      },
+      {
+        "id": "achievement-60",
+        "name": "Battlefield Guide",
+        "kind": "trophy",
+        "chapterId": "siege-of-osaka",
+        "where": "Collected all Kodama in the \"Siege of Osaka (Winter)\" chapter."
+      },
+      {
+        "id": "achievement-61",
+        "name": "Tonfa Master",
+        "kind": "trophy",
+        "chapterId": "weapons-and-skills",
+        "where": "Acquired mystic art for the tonfa."
+      },
+      {
+        "id": "achievement-62",
+        "name": "Cleanliness is Next to Godliness",
+        "kind": "trophy",
+        "chapterId": "siege-of-osaka",
+        "where": "Bathed in every hot spring in the \"Siege of Osaka (Winter)\" chapter."
+      },
+      {
+        "id": "achievement-63",
+        "name": "Tonfa Triumph",
+        "kind": "trophy",
+        "chapterId": "siege-of-osaka",
+        "where": "Defeated Sarutobi Sasuke in the mission \"The Siege of Osaka (Winter)\" using only tonfa. (Cannot use a Visitor/Companion.)"
+      },
+      {
+        "id": "achievement-64",
+        "name": "Master of the Twin Sticks",
+        "kind": "trophy",
+        "chapterId": "weapons-and-skills",
+        "where": "Defeated Ganryu's Sasaki Kojiro using only Dual Wooden Swords. (Cannot use a Visitor/Companion.)"
+      },
+      {
+        "id": "achievement-65",
+        "name": "British Militarism",
+        "kind": "trophy",
+        "chapterId": "siege-of-osaka",
+        "where": "Used all the culverins in the mission \"The Siege of Osaka (Winter).\""
+      },
+      {
+        "id": "achievement-66",
+        "name": "Will of the Sanada",
+        "kind": "trophy",
+        "chapterId": "siege-of-osaka",
+        "where": "Defeated all of Sanada's Ten Braves in \"Scion of Virtue.\""
+      },
+      {
+        "id": "achievement-67",
+        "name": "From Heaven on High",
+        "kind": "trophy",
+        "chapterId": "siege-of-osaka",
+        "where": "Completed \"The Sparrow Flies Again.\""
+      },
+      {
+        "id": "achievement-68",
+        "name": "Holy Trinity",
+        "kind": "trophy",
+        "chapterId": "forge-and-gear",
+        "where": "Equipped the Kusanagi Tsurugi, Yasakani Magatama, and Yata Mirror."
+      },
+      {
+        "id": "achievement-69",
+        "name": "Spirit Stones Run Amok",
+        "kind": "trophy",
+        "chapterId": "siege-of-osaka",
+        "where": "Completed \"The Sanada's Resolve.\""
+      },
+      {
+        "id": "achievement-70",
+        "name": "To Yodogimi's Side",
+        "kind": "trophy",
+        "chapterId": "siege-of-osaka",
+        "where": "Completed \"Resentment Unleashed.\""
+      },
+      {
+        "id": "achievement-71",
+        "name": "Turmoil's End",
+        "kind": "trophy",
+        "chapterId": "siege-of-osaka",
+        "where": "Completed \"The Last Samurai.\""
+      },
+      {
+        "id": "achievement-72",
+        "name": "Wrinkly Soaker",
+        "kind": "trophy",
+        "chapterId": "siege-of-osaka",
+        "where": "Bathed in every hot spring in the \"Siege of Osaka (Summer)\" chapter."
+      },
+      {
+        "id": "achievement-73",
+        "name": "The Ultimate Guide",
+        "kind": "trophy",
+        "chapterId": "siege-of-osaka",
+        "where": "Collected all Kodama in the \"Siege of Osaka (Summer)\" chapter."
+      },
+      {
+        "id": "achievement-74",
+        "name": "Battle-Hardened Veteran",
+        "kind": "trophy",
+        "chapterId": "endgame",
+        "where": "Completed \"The Grand Tournament\" on Way of the Strong or higher."
+      },
+      {
+        "id": "achievement-75",
+        "name": "The Master's Master",
+        "kind": "trophy",
+        "chapterId": "endgame",
+        "where": "Completed \"The Master Ninja\" on Way of the Strong or higher."
+      },
+      {
+        "id": "achievement-76",
+        "name": "Journey into The Abyss",
+        "kind": "trophy",
+        "chapterId": "endgame",
+        "where": "Completed the 20th plane in The Abyss."
+      },
+      {
+        "id": "achievement-77",
+        "name": "Cannon Fodder",
+        "kind": "trophy",
+        "chapterId": "siege-of-osaka",
+        "where": "Destroyed all the destructible cannons in \"The Sanada's Resolve.\""
+      },
+      {
+        "id": "achievement-78",
+        "name": "Ornithicide",
+        "kind": "trophy",
+        "chapterId": "siege-of-osaka",
+        "where": "Defeated the Onmoraki during \"Resentment Unleashed.\""
+      },
+      {
+        "id": "achievement-79",
+        "name": "The Sinister Arts",
+        "kind": "trophy",
+        "chapterId": "siege-of-osaka",
+        "where": "Destroyed all the Revenant contraptions on \"The Last Samurai.\""
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/nioh",
+    "Achievement data from Steam (Steam Web API, app 485510)",
+    "StrategyWiki: no usable walkthrough, nothing used — https://strategywiki.org/wiki/Nioh",
+    "Fandom (nioh.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://nioh.fandom.com/wiki/Nioh"
+  ],
+  "route": "original",
+  "notes": "Backlog game, picked from RAWG's most-added list for its year (docs/PLAN.md section 2 ordering). StrategyWiki has a stub page (completion stage 0); its Walkthrough, Gameplay, Controls and \"Achievements and trophies\" subpages are linked but not written, and the only written subpage is a 320-character Table of Contents, so nothing was used. nioh.fandom.com answers the API, but its \"Nioh\" page has only 2 linked pages (\"Team Ninja\" and \"William\"); names only were looked at, nothing copied. The Steam app is \"Nioh: Complete Edition\" (485510); its schema calls it \"Nioh\". None of the 79 Steam achievements is hidden. Achievements 47 to 79 name the Tohoku region and the Siege of Osaka (Winter and Summer), so they likely come from add-on content, but no add-on names appear in the data, so the chapters are named after those places. \"The Sparrow Flies Again\", \"Resentment Unleashed\" and \"The Last Samurai\" were put in the Osaka chapter because they sit among the Osaka and Sanada achievements in the schema, which is a guess. RAWG has no playtime for this game."
+}

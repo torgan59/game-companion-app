@@ -1,0 +1,615 @@
+{
+  "id": "the-surge",
+  "title": "The Surge",
+  "year": 2017,
+  "platforms": [
+    "PC",
+    "PlayStation 4",
+    "Xbox One"
+  ],
+  "rawgId": 9741,
+  "rawgSlug": "the-surge",
+  "released": "2017-05-15",
+  "developers": [
+    "Focus Home Interactive",
+    "Deck13"
+  ],
+  "playtime": 4,
+  "genres": [
+    "Action",
+    "RPG"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Multiplayer",
+    "Full controller support",
+    "Steam Cloud",
+    "steam-trading-cards",
+    "RPG",
+    "Open World",
+    "Third Person",
+    "Sci-fi",
+    "Horror",
+    "Gore"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/396/3963e0df75c22d5995368ec43dacc19e.jpg",
+  "steamAppId": 378540,
+  "achievements": {
+    "total": 67,
+    "hidden": 41,
+    "examples": [
+      {
+        "name": "I'll Be Back",
+        "percent": 85.3
+      },
+      {
+        "name": "Sorry, I Dropped This",
+        "percent": 79.9
+      },
+      {
+        "name": "OPERATOR",
+        "percent": 44.8
+      },
+      {
+        "name": "Episodic",
+        "percent": 3.3
+      },
+      {
+        "name": "Gramophone Enthusiast",
+        "percent": 3.1
+      },
+      {
+        "name": "The Surge",
+        "percent": 2.3
+      },
+      {
+        "name": "Suited and Booted",
+        "percent": 2.3
+      },
+      {
+        "name": "Tools of War",
+        "percent": 2.2
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": false,
+      "pages": 0,
+      "reason": "No page for The Surge (MediaWiki API returned missing; search empty)"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 20,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://thesurge.fandom.com/wiki/The_Surge"
+    }
+  },
+  "game": {
+    "id": "the-surge",
+    "title": "The Surge",
+    "platforms": [
+      "PC",
+      "PlayStation 4",
+      "Xbox One"
+    ],
+    "blurb": "Sci-fi action RPG in which a worker in an exo-suit fights through a broken factory complex, from Deck13 and Focus Home Interactive, released 2017-05-15. RAWG average playtime: 4 hours. Genres: Action, RPG. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#D98B1C",
+    "chapters": [
+      {
+        "id": "main-story",
+        "title": "The Main Story",
+        "summary": "The journey through the CREO complex, boss by boss. Spoiler-guarded; most achievements here are hidden.",
+        "steps": []
+      },
+      {
+        "id": "survival",
+        "title": "Dying, Tech Scrap and Levels",
+        "summary": "Dying and recovering your Tech Scrap, carrying large amounts, Core Power, weapon proficiency, the S&R Squad Chief Helvig fight and the all-achievements goal.",
+        "steps": []
+      },
+      {
+        "id": "gear-and-crafting",
+        "title": "Gear and Crafting",
+        "summary": "Full GOLIATH, OPERATOR and SENTINEL sets and Nano Core upgrades.",
+        "steps": []
+      },
+      {
+        "id": "park",
+        "title": "The Popcorn Parade and Rusty Spring Tower",
+        "summary": "Achievements naming Carbon Cat, Iron Maus, the mascot heads, the Popcorn Parade, Rusty Rat and the Rusty Spring Tower.",
+        "steps": []
+      },
+      {
+        "id": "episodes",
+        "title": "Project Resolve Episodes and Frontier Gear",
+        "summary": "Achievements naming the Project Resolve Center, episodes and modifiers, Frontier gear and weapons and the Testing Chamber audiologs.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "The Surge",
+        "kind": "trophy",
+        "chapterId": "survival",
+        "where": "Unlocked all achievements in the base game"
+      },
+      {
+        "id": "achievement-2",
+        "name": "P.A.X",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-3",
+        "name": "Firebug",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-4",
+        "name": "Big Sister",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-5",
+        "name": "The Black Cerberus",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-6",
+        "name": "Brave New World",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-7",
+        "name": "For the Good of Mankind",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-8",
+        "name": "I'll Be Back",
+        "kind": "trophy",
+        "chapterId": "survival",
+        "where": "Died for the first time"
+      },
+      {
+        "id": "achievement-9",
+        "name": "On My Own Two Feet",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-10",
+        "name": "Sorry, I Dropped This",
+        "kind": "trophy",
+        "chapterId": "survival",
+        "where": "Found your lost Tech Scrap after dying"
+      },
+      {
+        "id": "achievement-11",
+        "name": "Hey Listen",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-12",
+        "name": "CREO Killed the Video Star",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-13",
+        "name": "Gear Up",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-14",
+        "name": "Watchman",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-15",
+        "name": "Who's in Charge Here?",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-16",
+        "name": "Turing Test",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-17",
+        "name": "It Lives! It Sniffs! It Conquers!",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-18",
+        "name": "Sunglasses at Night",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-19",
+        "name": "Pusher Man",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-20",
+        "name": "Melting Down",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Defeated all five smelting machines"
+      },
+      {
+        "id": "achievement-21",
+        "name": "Repeat Customer",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-22",
+        "name": "Shall Not Pass",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-23",
+        "name": "Right Tool for the Job",
+        "kind": "trophy",
+        "chapterId": "gear-and-crafting",
+        "where": "Upgraded a weapon using the Nano Core crafting component"
+      },
+      {
+        "id": "achievement-24",
+        "name": "Man of Steel",
+        "kind": "trophy",
+        "chapterId": "gear-and-crafting",
+        "where": "Upgraded a full gear set using the Nano Core crafting component"
+      },
+      {
+        "id": "achievement-25",
+        "name": "Core Power",
+        "kind": "trophy",
+        "chapterId": "survival",
+        "where": "Reached a Core Power of 80"
+      },
+      {
+        "id": "achievement-26",
+        "name": "Duty-Bound",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-27",
+        "name": "Ghost in the Machine",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-28",
+        "name": "Follow the White Rabbit",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-29",
+        "name": "First Day on the Job",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-30",
+        "name": "Liberation",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-31",
+        "name": "Raging Drones",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-32",
+        "name": "Evolution Theory",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-33",
+        "name": "Butcher's Bill",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-34",
+        "name": "Jack of All Trades",
+        "kind": "trophy",
+        "chapterId": "survival",
+        "where": "Reached level 5 weapon proficiency in each of the weapon types"
+      },
+      {
+        "id": "achievement-35",
+        "name": "Most Wanted",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-36",
+        "name": "Infidel",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-37",
+        "name": "It's Blue Light",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-38",
+        "name": "I Choose You",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-39",
+        "name": "Homo Machinalis",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-40",
+        "name": "Was That Yours?",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-41",
+        "name": "Guard Dog",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-42",
+        "name": "Nothing to Lose",
+        "kind": "trophy",
+        "chapterId": "survival",
+        "where": "Carried more than 50,000 Tech Scrap"
+      },
+      {
+        "id": "achievement-43",
+        "name": "Overconfident",
+        "kind": "trophy",
+        "chapterId": "survival",
+        "where": "Defeated a boss while carrying at least 20,000 Tech Scrap"
+      },
+      {
+        "id": "achievement-44",
+        "name": "GOLIATH",
+        "kind": "trophy",
+        "chapterId": "gear-and-crafting",
+        "where": "Acquired a full set of GOLIATH gear"
+      },
+      {
+        "id": "achievement-45",
+        "name": "OPERATOR",
+        "kind": "trophy",
+        "chapterId": "gear-and-crafting",
+        "where": "Acquired a full set of OPERATOR gear"
+      },
+      {
+        "id": "achievement-46",
+        "name": "SENTINEL",
+        "kind": "trophy",
+        "chapterId": "gear-and-crafting",
+        "where": "Acquired a full set of SENTINEL gear"
+      },
+      {
+        "id": "achievement-47",
+        "name": "Sniffing Around",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-48",
+        "name": "Squad Chief Helvig",
+        "kind": "trophy",
+        "chapterId": "survival",
+        "where": "Defeated S&R Squad Chief Helvig"
+      },
+      {
+        "id": "achievement-49",
+        "name": "Carbon Cat",
+        "kind": "trophy",
+        "chapterId": "park",
+        "where": "Defeated Carbon Cat"
+      },
+      {
+        "id": "achievement-50",
+        "name": "Carbon Cat vs Iron Maus",
+        "kind": "trophy",
+        "chapterId": "park",
+        "where": "Defeated Carbon Cat as Iron Maus"
+      },
+      {
+        "id": "achievement-51",
+        "name": "Dress Up",
+        "kind": "trophy",
+        "chapterId": "park",
+        "where": "Collected and crafted all 4 mascot heads"
+      },
+      {
+        "id": "achievement-52",
+        "name": "New Gear",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-53",
+        "name": "No More Marching",
+        "kind": "trophy",
+        "chapterId": "park",
+        "where": "Killed all the mascots of the Popcorn Parade"
+      },
+      {
+        "id": "achievement-54",
+        "name": "Good Listener",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-55",
+        "name": "Rusty Rat",
+        "kind": "trophy",
+        "chapterId": "park",
+        "where": "Saved Rusty Rat"
+      },
+      {
+        "id": "achievement-56",
+        "name": "3-2-1",
+        "kind": "trophy",
+        "chapterId": "park",
+        "where": "Unlocked the Rusty Spring Tower"
+      },
+      {
+        "id": "achievement-57",
+        "name": "Is This Real Life?",
+        "kind": "trophy",
+        "chapterId": "episodes",
+        "where": "Survived rebooting the network in the Project Resolve Center"
+      },
+      {
+        "id": "achievement-58",
+        "name": "One-Armed Bandit",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-59",
+        "name": "Modus Operandi",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-60",
+        "name": "Episodic",
+        "kind": "trophy",
+        "chapterId": "episodes",
+        "where": "Finished every episode"
+      },
+      {
+        "id": "achievement-61",
+        "name": "Suited and Booted",
+        "kind": "trophy",
+        "chapterId": "episodes",
+        "where": "Crafted all Frontier Gear sets"
+      },
+      {
+        "id": "achievement-62",
+        "name": "Tools of War",
+        "kind": "trophy",
+        "chapterId": "episodes",
+        "where": "Collected all Frontier Weapons"
+      },
+      {
+        "id": "achievement-63",
+        "name": "Bling-Bling",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-64",
+        "name": "End of Transmission",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-65",
+        "name": "Gramophone Enthusiast",
+        "kind": "trophy",
+        "chapterId": "episodes",
+        "where": "Collected all 7 audiologs found in the Testing Chamber"
+      },
+      {
+        "id": "achievement-66",
+        "name": "Desecration",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-67",
+        "name": "Risk Assessment",
+        "kind": "trophy",
+        "chapterId": "episodes",
+        "where": "Finished an episode with at least 1 modifier turned on"
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/the-surge",
+    "Achievement data from Steam (Steam Web API, app 378540)",
+    "StrategyWiki: no page for this game, nothing used",
+    "Fandom (thesurge.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://thesurge.fandom.com/wiki/The_Surge"
+  ],
+  "route": "original",
+  "notes": "Backlog game, picked from RAWG's most-added list for its year (docs/PLAN.md section 2 ordering). StrategyWiki has no page for The Surge (API returned missing for \"The Surge\" and for \"The Surge (2017)\"). thesurge.fandom.com answers the API, with about 20 linked pages, including \"Missions\", \"Locations\" and \"Implants\"; names only were looked at, nothing copied. 41 of 67 Steam achievements are hidden, with no descriptions; they sit in the main story chapter as a placeholder. The first achievement says \"all achievements in the base game\", so the later ones (about 48 to 67, naming Carbon Cat, the Popcorn Parade, Rusty Spring Tower, the Project Resolve Center and episodes) are probably add-on content; no add-on names appear in the data, so the two add-on chapters are named after places and things in the achievement text. Hidden ones in that range (for example \"Sniffing Around\", \"New Gear\", \"Good Listener\", \"One-Armed Bandit\", \"Bling-Bling\", \"End of Transmission\", \"Desecration\") may belong to those add-on chapters but still sit in the main story. \"Melting Down\" (all five smelting machines) was put in the main story; \"Squad Chief Helvig\" was left in the general chapter because nothing in the data places it. RAWG lists a playtime of only 4 hours, which looks low."
+}
