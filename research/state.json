@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updated": "2026-10-20T19:48:43Z",
-  "currentYear": 2026,
+  "updated": "2026-10-20T19:50:45Z",
+  "currentYear": 2024,
   "queue": [
     {
       "slug": "elden-ring",
@@ -331,31 +331,34 @@
       "slug": "final-fantasy-vii-rebirth",
       "title": "Final Fantasy VII Rebirth",
       "year": 2024,
-      "status": "queued",
+      "status": "in-progress",
       "evidence": 1,
       "evidenceSource": "RAWG players: 579 (added count); named in docs/PLAN.md section 2. Metacritic not available via RAWG; sales and best-of lists not checked (outside allowed sources).",
       "route": "original",
-      "rawgSlug": "final-fantasy-vii-rebirth"
+      "rawgSlug": "final-fantasy-vii-rebirth",
+      "step": "rawg-fetch"
     },
     {
       "slug": "metaphor-refantazio",
       "title": "Metaphor: ReFantazio",
       "year": 2024,
-      "status": "queued",
+      "status": "in-progress",
       "evidence": 1,
       "evidenceSource": "RAWG players: 470 (added count); named in docs/PLAN.md section 2. Metacritic not available via RAWG; sales and best-of lists not checked (outside allowed sources).",
       "route": "original",
-      "rawgSlug": "metaphor-refantazio"
+      "rawgSlug": "metaphor-refantazio",
+      "step": "rawg-fetch"
     },
     {
       "slug": "star-wars-outlaws",
       "title": "Star Wars Outlaws",
       "year": 2024,
-      "status": "queued",
+      "status": "in-progress",
       "evidence": 1,
       "evidenceSource": "RAWG players: 389 (added count); named in docs/PLAN.md section 2. Metacritic not available via RAWG; sales and best-of lists not checked (outside allowed sources).",
       "route": "original",
-      "rawgSlug": "star-wars-outlaws"
+      "rawgSlug": "star-wars-outlaws",
+      "step": "rawg-fetch"
     },
     {
       "slug": "saros",
@@ -388,6 +391,1083 @@
       "status": "skipped",
       "reason": "Small studio, excluded in docs/PLAN.md; Tim may override. Not researched.",
       "route": "original"
+    },
+    {
+      "slug": "starfield",
+      "title": "Starfield",
+      "year": 2023,
+      "status": "in-progress",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 1972 (added count); Metacritic 88 (via RAWG). Sales and best-of lists not checked (outside allowed sources).",
+      "route": "original",
+      "rawgSlug": "starfield",
+      "step": "rawg-fetch"
+    },
+    {
+      "slug": "diablo-iv",
+      "title": "Diablo IV",
+      "year": 2023,
+      "status": "in-progress",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 1509 (added count); Metacritic 90 (via RAWG). Sales and best-of lists not checked (outside allowed sources).",
+      "route": "original",
+      "rawgSlug": "diablo-iv",
+      "step": "rawg-fetch"
+    },
+    {
+      "slug": "final-fantasy-xvi",
+      "title": "Final Fantasy XVI",
+      "year": 2023,
+      "status": "in-progress",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 1068 (added count); Metacritic 88 (via RAWG). Sales and best-of lists not checked (outside allowed sources).",
+      "route": "original",
+      "rawgSlug": "final-fantasy-xvi",
+      "step": "rawg-fetch"
+    },
+    {
+      "slug": "marvels-spider-man-2",
+      "title": "Marvel's Spider-Man 2",
+      "year": 2023,
+      "status": "in-progress",
+      "evidence": 1,
+      "evidenceSource": "RAWG players: 1580 (added count); Metacritic not listed on RAWG. Sales and best-of lists not checked (outside allowed sources).",
+      "route": "original",
+      "rawgSlug": "marvels-spider-man-2",
+      "step": "rawg-fetch"
+    },
+    {
+      "slug": "star-wars-jedi-survivor",
+      "title": "Star Wars Jedi: Survivor",
+      "year": 2023,
+      "status": "in-progress",
+      "evidence": 1,
+      "evidenceSource": "RAWG players: 1540 (added count); Metacritic not listed on RAWG. Sales and best-of lists not checked (outside allowed sources).",
+      "route": "original",
+      "rawgSlug": "star-wars-jedi-survivor",
+      "step": "rawg-fetch"
+    },
+    {
+      "slug": "lies-of-p",
+      "title": "Lies Of P",
+      "year": 2023,
+      "status": "in-progress",
+      "evidence": 1,
+      "evidenceSource": "RAWG players: 1461 (added count); Metacritic not listed on RAWG. Sales and best-of lists not checked (outside allowed sources).",
+      "route": "original",
+      "rawgSlug": "lies-of-p",
+      "step": "rawg-fetch"
+    },
+    {
+      "slug": "assassins-creed-mirage",
+      "title": "Assassin's Creed Mirage",
+      "year": 2023,
+      "status": "in-progress",
+      "evidence": 1,
+      "evidenceSource": "RAWG players: 1022 (added count); Metacritic not listed on RAWG. Sales and best-of lists not checked (outside allowed sources).",
+      "route": "original",
+      "rawgSlug": "assassins-creed-mirage",
+      "step": "rawg-fetch"
+    },
+    {
+      "slug": "wo-long-fallen-dynasty",
+      "title": "Wo Long: Fallen Dynasty",
+      "year": 2023,
+      "status": "in-progress",
+      "evidence": 1,
+      "evidenceSource": "RAWG players: 640 (added count); Metacritic not listed on RAWG. Sales and best-of lists not checked (outside allowed sources).",
+      "route": "original",
+      "rawgSlug": "wo-long-fallen-dynasty",
+      "step": "rawg-fetch"
+    },
+    {
+      "slug": "horizon-forbidden-west",
+      "title": "Horizon Forbidden West",
+      "year": 2022,
+      "status": "in-progress",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 2786 (added count); Metacritic 86 (via RAWG). Sales and best-of lists not checked (outside allowed sources).",
+      "route": "original",
+      "rawgSlug": "horizon-zero-dawn-2",
+      "step": "rawg-fetch"
+    },
+    {
+      "slug": "uncharted-legacy-of-thieves-collection",
+      "title": "Uncharted: Legacy of Thieves Collection",
+      "year": 2022,
+      "status": "in-progress",
+      "evidence": 1,
+      "evidenceSource": "RAWG players: 4985 (added count); Metacritic not listed on RAWG. Sales and best-of lists not checked (outside allowed sources).",
+      "route": "original",
+      "rawgSlug": "uncharted-legacy-of-thieves-collection",
+      "step": "rawg-fetch"
+    },
+    {
+      "slug": "god-of-war-ragnarok",
+      "title": "God of War: Ragnarök",
+      "year": 2022,
+      "status": "in-progress",
+      "evidence": 1,
+      "evidenceSource": "RAWG players: 2682 (added count); Metacritic not listed on RAWG. Sales and best-of lists not checked (outside allowed sources).",
+      "route": "original",
+      "rawgSlug": "god-of-war-ragnarok",
+      "step": "rawg-fetch"
+    },
+    {
+      "slug": "mass-effect-legendary-edition",
+      "title": "Mass Effect: Legendary Edition",
+      "year": 2021,
+      "status": "in-progress",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 4123 (added count); Metacritic 88 (via RAWG). Sales and best-of lists not checked (outside allowed sources).",
+      "route": "original",
+      "rawgSlug": "mass-effect-legendary-edition",
+      "step": "rawg-fetch"
+    },
+    {
+      "slug": "far-cry-6",
+      "title": "Far Cry 6",
+      "year": 2021,
+      "status": "in-progress",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 2766 (added count); Metacritic 75 (via RAWG). Sales and best-of lists not checked (outside allowed sources).",
+      "route": "original",
+      "rawgSlug": "far-cry-6",
+      "step": "rawg-fetch"
+    },
+    {
+      "slug": "ratchet-clank-rift-apart",
+      "title": "Ratchet & Clank: Rift Apart",
+      "year": 2021,
+      "status": "in-progress",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 2100 (added count); Metacritic 88 (via RAWG). Sales and best-of lists not checked (outside allowed sources).",
+      "route": "original",
+      "rawgSlug": "ratchet-clank-rift-apart",
+      "step": "rawg-fetch"
+    },
+    {
+      "slug": "tales-of-arise",
+      "title": "Tales of Arise",
+      "year": 2021,
+      "status": "in-progress",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 1677 (added count); Metacritic 85 (via RAWG). Sales and best-of lists not checked (outside allowed sources).",
+      "route": "original",
+      "rawgSlug": "tales-of-arise",
+      "step": "rawg-fetch"
+    },
+    {
+      "slug": "marvels-guardians-of-the-galaxy",
+      "title": "Marvel's Guardians of the Galaxy",
+      "year": 2021,
+      "status": "in-progress",
+      "evidence": 1,
+      "evidenceSource": "RAWG players: 4746 (added count); Metacritic not listed on RAWG. Sales and best-of lists not checked (outside allowed sources).",
+      "route": "original",
+      "rawgSlug": "guardians-of-the-galaxy",
+      "step": "rawg-fetch"
+    },
+    {
+      "slug": "the-last-of-us-part-ii",
+      "title": "The Last of Us Part II",
+      "year": 2020,
+      "status": "in-progress",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 7516 (added count); Metacritic 93 (via RAWG). Sales and best-of lists not checked (outside allowed sources).",
+      "route": "original",
+      "rawgSlug": "the-last-of-us-part-2",
+      "step": "rawg-fetch"
+    },
+    {
+      "slug": "ghost-of-tsushima",
+      "title": "Ghost of Tsushima",
+      "year": 2020,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 6146 (added count); Metacritic 83 (via RAWG). Sales and best-of lists not checked (outside allowed sources).",
+      "route": "original",
+      "rawgSlug": "ghost-of-tsushima"
+    },
+    {
+      "slug": "mafia-definitive-edition",
+      "title": "Mafia: Definitive Edition",
+      "year": 2020,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 5406 (added count); Metacritic 78 (via RAWG). Sales and best-of lists not checked (outside allowed sources).",
+      "route": "original",
+      "rawgSlug": "mafia"
+    },
+    {
+      "slug": "final-fantasy-vii-remake",
+      "title": "Final Fantasy VII Remake",
+      "year": 2020,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 5282 (added count); Metacritic 87 (via RAWG). Sales and best-of lists not checked (outside allowed sources).",
+      "route": "original",
+      "rawgSlug": "final-fantasy-vii-remake"
+    },
+    {
+      "slug": "assassins-creed-valhalla",
+      "title": "Assassin's Creed Valhalla",
+      "year": 2020,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 4557 (added count); Metacritic 82 (via RAWG). Sales and best-of lists not checked (outside allowed sources).",
+      "route": "original",
+      "rawgSlug": "assassins-creed-valhalla"
+    },
+    {
+      "slug": "marvels-spider-man-miles-morales",
+      "title": "Marvel's Spider-Man: Miles Morales",
+      "year": 2020,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 4424 (added count); Metacritic 86 (via RAWG). Sales and best-of lists not checked (outside allowed sources).",
+      "route": "original",
+      "rawgSlug": "marvels-spider-man-miles-morales"
+    },
+    {
+      "slug": "genshin-impact",
+      "title": "Genshin Impact",
+      "year": 2020,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 4056 (added count); Metacritic 83 (via RAWG). Sales and best-of lists not checked (outside allowed sources).",
+      "route": "original",
+      "rawgSlug": "genshin-impact"
+    },
+    {
+      "slug": "persona-5-royal",
+      "title": "Persona 5 Royal",
+      "year": 2020,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 3213 (added count); Metacritic 94 (via RAWG). Sales and best-of lists not checked (outside allowed sources).",
+      "route": "original",
+      "rawgSlug": "persona-5-royal"
+    },
+    {
+      "slug": "yakuza-like-a-dragon",
+      "title": "Yakuza: Like a Dragon",
+      "year": 2020,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 2829 (added count); Metacritic 85 (via RAWG). Sales and best-of lists not checked (outside allowed sources).",
+      "route": "original",
+      "rawgSlug": "yakuza-7"
+    },
+    {
+      "slug": "watch-dogs-legion",
+      "title": "Watch Dogs: Legion",
+      "year": 2020,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 2634 (added count); Metacritic 72 (via RAWG). Sales and best-of lists not checked (outside allowed sources).",
+      "route": "original",
+      "rawgSlug": "watch-dogs-legion"
+    },
+    {
+      "slug": "immortals-fenyx-rising",
+      "title": "Immortals: Fenyx Rising",
+      "year": 2020,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 2349 (added count); Metacritic 78 (via RAWG). Sales and best-of lists not checked (outside allowed sources).",
+      "route": "original",
+      "rawgSlug": "gods-monsters"
+    },
+    {
+      "slug": "control",
+      "title": "Control",
+      "year": 2019,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 9791 (added count); Metacritic 84 (via RAWG). Sales and best-of lists not checked (outside allowed sources).",
+      "route": "original",
+      "rawgSlug": "control"
+    },
+    {
+      "slug": "star-wars-jedi-fallen-order",
+      "title": "Star Wars Jedi: Fallen Order",
+      "year": 2019,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 9713 (added count); Metacritic 80 (via RAWG). Sales and best-of lists not checked (outside allowed sources).",
+      "route": "original",
+      "rawgSlug": "jedi-the-fallen-order"
+    },
+    {
+      "slug": "death-stranding",
+      "title": "Death Stranding",
+      "year": 2019,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 9437 (added count); Metacritic 84 (via RAWG). Sales and best-of lists not checked (outside allowed sources).",
+      "route": "original",
+      "rawgSlug": "death-stranding"
+    },
+    {
+      "slug": "sekiro-shadows-die-twice",
+      "title": "Sekiro: Shadows Die Twice",
+      "year": 2019,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 8452 (added count); Metacritic 90 (via RAWG). Sales and best-of lists not checked (outside allowed sources).",
+      "route": "original",
+      "rawgSlug": "shadows-die-twice"
+    },
+    {
+      "slug": "devil-may-cry-5",
+      "title": "Devil May Cry 5",
+      "year": 2019,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 6736 (added count); Metacritic 88 (via RAWG). Sales and best-of lists not checked (outside allowed sources).",
+      "route": "original",
+      "rawgSlug": "devil-may-cry-5"
+    },
+    {
+      "slug": "days-gone",
+      "title": "Days Gone",
+      "year": 2019,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 6680 (added count); Metacritic 74 (via RAWG). Sales and best-of lists not checked (outside allowed sources).",
+      "route": "original",
+      "rawgSlug": "days-gone"
+    },
+    {
+      "slug": "the-outer-worlds",
+      "title": "The Outer Worlds",
+      "year": 2019,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 6423 (added count); Metacritic 80 (via RAWG). Sales and best-of lists not checked (outside allowed sources).",
+      "route": "original",
+      "rawgSlug": "the-outer-worlds"
+    },
+    {
+      "slug": "need-for-speed-heat",
+      "title": "Need for Speed Heat",
+      "year": 2019,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 3920 (added count); Metacritic 73 (via RAWG). Sales and best-of lists not checked (outside allowed sources).",
+      "route": "original",
+      "rawgSlug": "need-for-speed-heat"
+    },
+    {
+      "slug": "code-vein",
+      "title": "Code Vein",
+      "year": 2019,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 3003 (added count); Metacritic 72 (via RAWG). Sales and best-of lists not checked (outside allowed sources).",
+      "route": "original",
+      "rawgSlug": "code-vein"
+    },
+    {
+      "slug": "god-of-war-2018",
+      "title": "God of War (2018)",
+      "year": 2018,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 14699 (added count); Metacritic 94 (via RAWG). Sales and best-of lists not checked (outside allowed sources).",
+      "route": "original",
+      "rawgSlug": "god-of-war-2"
+    },
+    {
+      "slug": "marvels-spider-man",
+      "title": "Marvel's Spider-Man",
+      "year": 2018,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 10586 (added count); Metacritic 87 (via RAWG). Sales and best-of lists not checked (outside allowed sources).",
+      "route": "original",
+      "rawgSlug": "marvels-spider-man"
+    },
+    {
+      "slug": "monster-hunter-world",
+      "title": "Monster Hunter: World",
+      "year": 2018,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 8867 (added count); Metacritic 89 (via RAWG). Sales and best-of lists not checked (outside allowed sources).",
+      "route": "original",
+      "rawgSlug": "monster-hunter-world-2"
+    },
+    {
+      "slug": "far-cry-5",
+      "title": "Far Cry 5",
+      "year": 2018,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 8551 (added count); Metacritic 80 (via RAWG). Sales and best-of lists not checked (outside allowed sources).",
+      "route": "original",
+      "rawgSlug": "far-cry-5"
+    },
+    {
+      "slug": "shadow-of-the-tomb-raider",
+      "title": "Shadow of the Tomb Raider",
+      "year": 2018,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 8446 (added count); Metacritic 78 (via RAWG). Sales and best-of lists not checked (outside allowed sources).",
+      "route": "original",
+      "rawgSlug": "shadow-of-the-tomb-raider"
+    },
+    {
+      "slug": "assassins-creed-odyssey",
+      "title": "Assassin's Creed Odyssey",
+      "year": 2018,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 8292 (added count); Metacritic 85 (via RAWG). Sales and best-of lists not checked (outside allowed sources).",
+      "route": "original",
+      "rawgSlug": "assassins-creed-odyssey"
+    },
+    {
+      "slug": "kingdom-come-deliverance",
+      "title": "Kingdom Come: Deliverance",
+      "year": 2018,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 7551 (added count); Metacritic 71 (via RAWG). Sales and best-of lists not checked (outside allowed sources).",
+      "route": "original",
+      "rawgSlug": "kingdom-come-deliverance"
+    },
+    {
+      "slug": "forza-horizon-4",
+      "title": "Forza Horizon 4",
+      "year": 2018,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 6345 (added count); Metacritic 90 (via RAWG). Sales and best-of lists not checked (outside allowed sources).",
+      "route": "original",
+      "rawgSlug": "forza-horizon-4"
+    },
+    {
+      "slug": "dark-souls-remastered",
+      "title": "Dark Souls: Remastered",
+      "year": 2018,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 5726 (added count); Metacritic 84 (via RAWG). Sales and best-of lists not checked (outside allowed sources).",
+      "route": "original",
+      "rawgSlug": "dark-souls8482-remastered"
+    },
+    {
+      "slug": "horizon-zero-dawn",
+      "title": "Horizon Zero Dawn",
+      "year": 2017,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 12866 (added count); Metacritic 89 (via RAWG). Sales and best-of lists not checked (outside allowed sources).",
+      "route": "original",
+      "rawgSlug": "horizon-zero-dawn"
+    },
+    {
+      "slug": "nier-automata",
+      "title": "NieR:Automata",
+      "year": 2017,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 9132 (added count); Metacritic 86 (via RAWG). Sales and best-of lists not checked (outside allowed sources).",
+      "route": "original",
+      "rawgSlug": "nierautomata"
+    },
+    {
+      "slug": "middle-earth-shadow-of-war",
+      "title": "Middle-earth: Shadow of War",
+      "year": 2017,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 8794 (added count); Metacritic 82 (via RAWG). Sales and best-of lists not checked (outside allowed sources).",
+      "route": "original",
+      "rawgSlug": "middle-earth-shadow-of-war"
+    },
+    {
+      "slug": "assassins-creed-origins",
+      "title": "Assassin's Creed Origins",
+      "year": 2017,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 8043 (added count); Metacritic 81 (via RAWG). Sales and best-of lists not checked (outside allowed sources).",
+      "route": "original",
+      "rawgSlug": "assassins-creed-origins"
+    },
+    {
+      "slug": "divinity-original-sin-2",
+      "title": "Divinity: Original Sin 2",
+      "year": 2017,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 7274 (added count); Metacritic 95 (via RAWG). Sales and best-of lists not checked (outside allowed sources).",
+      "route": "original",
+      "rawgSlug": "divinity-original-sin-2"
+    },
+    {
+      "slug": "the-legend-of-zelda-breath-of-the-wild",
+      "title": "The Legend of Zelda: Breath of the Wild",
+      "year": 2017,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 6456 (added count); Metacritic 97 (via RAWG). Sales and best-of lists not checked (outside allowed sources).",
+      "route": "original",
+      "rawgSlug": "the-legend-of-zelda-breath-of-the-wild"
+    },
+    {
+      "slug": "uncharted-the-lost-legacy",
+      "title": "Uncharted: The Lost Legacy",
+      "year": 2017,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 4167 (added count); Metacritic 85 (via RAWG). Sales and best-of lists not checked (outside allowed sources).",
+      "route": "original",
+      "rawgSlug": "uncharted-the-lost-legacy"
+    },
+    {
+      "slug": "mass-effect-andromeda",
+      "title": "Mass Effect: Andromeda",
+      "year": 2017,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 4026 (added count); Metacritic 73 (via RAWG). Sales and best-of lists not checked (outside allowed sources).",
+      "route": "original",
+      "rawgSlug": "mass-effect-andromeda"
+    },
+    {
+      "slug": "dark-souls-iii",
+      "title": "Dark Souls III",
+      "year": 2016,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 11296 (added count); Metacritic 89 (via RAWG). Sales and best-of lists not checked (outside allowed sources).",
+      "route": "original",
+      "rawgSlug": "dark-souls-iii"
+    },
+    {
+      "slug": "deus-ex-mankind-divided",
+      "title": "Deus Ex: Mankind Divided",
+      "year": 2016,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 10828 (added count); Metacritic 83 (via RAWG). Sales and best-of lists not checked (outside allowed sources).",
+      "route": "original",
+      "rawgSlug": "deus-ex-mankind-divided"
+    },
+    {
+      "slug": "dishonored-2",
+      "title": "Dishonored 2",
+      "year": 2016,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 10078 (added count); Metacritic 86 (via RAWG). Sales and best-of lists not checked (outside allowed sources).",
+      "route": "original",
+      "rawgSlug": "dishonored-2"
+    },
+    {
+      "slug": "uncharted-4-a-thiefs-end",
+      "title": "Uncharted 4: A Thief's End",
+      "year": 2016,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 9702 (added count); Metacritic 93 (via RAWG). Sales and best-of lists not checked (outside allowed sources).",
+      "route": "original",
+      "rawgSlug": "uncharted-4-a-thiefs-end"
+    },
+    {
+      "slug": "watch-dogs-2",
+      "title": "Watch Dogs 2",
+      "year": 2016,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 7415 (added count); Metacritic 79 (via RAWG). Sales and best-of lists not checked (outside allowed sources).",
+      "route": "original",
+      "rawgSlug": "watch_dogs-2"
+    },
+    {
+      "slug": "mafia-iii",
+      "title": "Mafia III",
+      "year": 2016,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 6591 (added count); Metacritic 62 (via RAWG). Sales and best-of lists not checked (outside allowed sources).",
+      "route": "original",
+      "rawgSlug": "mafia-iii"
+    },
+    {
+      "slug": "final-fantasy-xv",
+      "title": "FINAL FANTASY XV",
+      "year": 2016,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 5854 (added count); Metacritic 82 (via RAWG). Sales and best-of lists not checked (outside allowed sources).",
+      "route": "original",
+      "rawgSlug": "final-fantasy-xv"
+    },
+    {
+      "slug": "the-witcher-3-wild-hunt",
+      "title": "The Witcher 3: Wild Hunt",
+      "year": 2015,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 22386 (added count); Metacritic 92 (via RAWG). Sales and best-of lists not checked (outside allowed sources).",
+      "route": "original",
+      "rawgSlug": "the-witcher-3-wild-hunt"
+    },
+    {
+      "slug": "fallout-4",
+      "title": "Fallout 4",
+      "year": 2015,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 14353 (added count); Metacritic 84 (via RAWG). Sales and best-of lists not checked (outside allowed sources).",
+      "route": "original",
+      "rawgSlug": "fallout-4"
+    },
+    {
+      "slug": "rise-of-the-tomb-raider",
+      "title": "Rise of the Tomb Raider",
+      "year": 2015,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 12458 (added count); Metacritic 86 (via RAWG). Sales and best-of lists not checked (outside allowed sources).",
+      "route": "original",
+      "rawgSlug": "rise-of-the-tomb-raider"
+    },
+    {
+      "slug": "batman-arkham-knight",
+      "title": "Batman: Arkham Knight",
+      "year": 2015,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 12327 (added count); Metacritic 81 (via RAWG). Sales and best-of lists not checked (outside allowed sources).",
+      "route": "original",
+      "rawgSlug": "batman-arkham-knight"
+    },
+    {
+      "slug": "metal-gear-solid-v-the-phantom-pain",
+      "title": "Metal Gear Solid V: The Phantom Pain",
+      "year": 2015,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 12230 (added count); Metacritic 91 (via RAWG). Sales and best-of lists not checked (outside allowed sources).",
+      "route": "original",
+      "rawgSlug": "metal-gear-solid-v-the-phantom-pain"
+    },
+    {
+      "slug": "just-cause-3",
+      "title": "Just Cause 3",
+      "year": 2015,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 9402 (added count); Metacritic 74 (via RAWG). Sales and best-of lists not checked (outside allowed sources).",
+      "route": "original",
+      "rawgSlug": "just-cause-3"
+    },
+    {
+      "slug": "mad-max",
+      "title": "Mad Max",
+      "year": 2015,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 8861 (added count); Metacritic 73 (via RAWG). Sales and best-of lists not checked (outside allowed sources).",
+      "route": "original",
+      "rawgSlug": "mad-max"
+    },
+    {
+      "slug": "bloodborne",
+      "title": "Bloodborne",
+      "year": 2015,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 8698 (added count); Metacritic 92 (via RAWG). Sales and best-of lists not checked (outside allowed sources).",
+      "route": "original",
+      "rawgSlug": "bloodborne"
+    },
+    {
+      "slug": "yakuza-0",
+      "title": "Yakuza 0",
+      "year": 2015,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 6704 (added count); Metacritic 85 (via RAWG). Sales and best-of lists not checked (outside allowed sources).",
+      "route": "original",
+      "rawgSlug": "yakuza-0"
+    },
+    {
+      "slug": "dark-souls-ii-scholar-of-the-first-sin",
+      "title": "Dark Souls II: Scholar of the First Sin",
+      "year": 2015,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 6235 (added count); Metacritic 79 (via RAWG). Sales and best-of lists not checked (outside allowed sources).",
+      "route": "original",
+      "rawgSlug": "dark-souls-ii-scholar-of-the-first-sin"
+    },
+    {
+      "slug": "assassins-creed-syndicate",
+      "title": "Assassin's Creed Syndicate",
+      "year": 2015,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 6074 (added count); Metacritic 74 (via RAWG). Sales and best-of lists not checked (outside allowed sources).",
+      "route": "original",
+      "rawgSlug": "assassins-creed-syndicate-2"
+    },
+    {
+      "slug": "middle-earth-shadow-of-mordor",
+      "title": "Middle-earth: Shadow of Mordor",
+      "year": 2014,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 11828 (added count); Metacritic 85 (via RAWG). Sales and best-of lists not checked (outside allowed sources).",
+      "route": "original",
+      "rawgSlug": "shadow-of-mordor"
+    },
+    {
+      "slug": "the-last-of-us-remastered",
+      "title": "The Last Of Us Remastered",
+      "year": 2014,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 9004 (added count); Metacritic 95 (via RAWG). Sales and best-of lists not checked (outside allowed sources).",
+      "route": "original",
+      "rawgSlug": "the-last-of-us-remastered"
+    },
+    {
+      "slug": "watch-dogs",
+      "title": "Watch Dogs",
+      "year": 2014,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 8472 (added count); Metacritic 77 (via RAWG). Sales and best-of lists not checked (outside allowed sources).",
+      "route": "original",
+      "rawgSlug": "watch-dogs"
+    },
+    {
+      "slug": "south-park-the-stick-of-truth",
+      "title": "South Park: The Stick of Truth",
+      "year": 2014,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 7143 (added count); Metacritic 84 (via RAWG). Sales and best-of lists not checked (outside allowed sources).",
+      "route": "original",
+      "rawgSlug": "south-park-the-stick-of-truth"
+    },
+    {
+      "slug": "assassins-creed-unity",
+      "title": "Assassin's Creed Unity",
+      "year": 2014,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 7085 (added count); Metacritic 71 (via RAWG). Sales and best-of lists not checked (outside allowed sources).",
+      "route": "original",
+      "rawgSlug": "assassins-creed-unity-2"
+    },
+    {
+      "slug": "dragon-age-inquisition",
+      "title": "Dragon Age: Inquisition",
+      "year": 2014,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 6420 (added count); Metacritic 86 (via RAWG). Sales and best-of lists not checked (outside allowed sources).",
+      "route": "original",
+      "rawgSlug": "dragon-age-inquisition"
+    },
+    {
+      "slug": "infamous-second-son",
+      "title": "inFAMOUS Second Son",
+      "year": 2014,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 6039 (added count); Metacritic 80 (via RAWG). Sales and best-of lists not checked (outside allowed sources).",
+      "route": "original",
+      "rawgSlug": "infamous-second-son"
+    },
+    {
+      "slug": "tomb-raider",
+      "title": "Tomb Raider",
+      "year": 2013,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 17886 (added count); Metacritic 86 (via RAWG). Sales and best-of lists not checked (outside allowed sources).",
+      "route": "original",
+      "rawgSlug": "tomb-raider"
+    },
+    {
+      "slug": "saints-row-iv",
+      "title": "Saints Row IV",
+      "year": 2013,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 8266 (added count); Metacritic 86 (via RAWG). Sales and best-of lists not checked (outside allowed sources).",
+      "route": "original",
+      "rawgSlug": "saints-row-iv"
+    },
+    {
+      "slug": "batman-arkham-origins",
+      "title": "Batman: Arkham Origins",
+      "year": 2013,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 8090 (added count); Metacritic 74 (via RAWG). Sales and best-of lists not checked (outside allowed sources).",
+      "route": "original",
+      "rawgSlug": "batman-arkham-origins"
+    },
+    {
+      "slug": "metal-gear-rising-revengeance",
+      "title": "Metal Gear Rising: Revengeance",
+      "year": 2013,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 6115 (added count); Metacritic 83 (via RAWG). Sales and best-of lists not checked (outside allowed sources).",
+      "route": "original",
+      "rawgSlug": "metal-gear-rising-revengeance"
+    },
+    {
+      "slug": "dragons-dogma-dark-arisen",
+      "title": "Dragon's Dogma: Dark Arisen",
+      "year": 2013,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 5205 (added count); Metacritic 81 (via RAWG). Sales and best-of lists not checked (outside allowed sources).",
+      "route": "original",
+      "rawgSlug": "dragons-dogma-dark-arisen"
+    },
+    {
+      "slug": "the-witcher-2-assassins-of-kings-enhanced-edition",
+      "title": "The Witcher 2: Assassins of Kings Enhanced Edition",
+      "year": 2012,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 12061 (added count); Metacritic 88 (via RAWG). Sales and best-of lists not checked (outside allowed sources).",
+      "route": "original",
+      "rawgSlug": "the-witcher-2-assassins-of-kings-enhanced-edition"
+    },
+    {
+      "slug": "far-cry-3",
+      "title": "Far Cry 3",
+      "year": 2012,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 10902 (added count); Metacritic 88 (via RAWG). Sales and best-of lists not checked (outside allowed sources).",
+      "route": "original",
+      "rawgSlug": "far-cry-3"
+    },
+    {
+      "slug": "dishonored",
+      "title": "Dishonored",
+      "year": 2012,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 10053 (added count); Metacritic 91 (via RAWG). Sales and best-of lists not checked (outside allowed sources).",
+      "route": "original",
+      "rawgSlug": "dishonored"
+    },
+    {
+      "slug": "assassins-creed-iii",
+      "title": "Assassin's Creed III",
+      "year": 2012,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 7529 (added count); Metacritic 80 (via RAWG). Sales and best-of lists not checked (outside allowed sources).",
+      "route": "original",
+      "rawgSlug": "assassins-creed-iii-2"
+    },
+    {
+      "slug": "sleeping-dogs",
+      "title": "Sleeping Dogs",
+      "year": 2012,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 6205 (added count); Metacritic 81 (via RAWG). Sales and best-of lists not checked (outside allowed sources).",
+      "route": "original",
+      "rawgSlug": "sleeping-dogs"
+    },
+    {
+      "slug": "darksiders-ii",
+      "title": "Darksiders II",
+      "year": 2012,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 5346 (added count); Metacritic 83 (via RAWG). Sales and best-of lists not checked (outside allowed sources).",
+      "route": "original",
+      "rawgSlug": "darksiders-ii"
+    },
+    {
+      "slug": "mass-effect-3",
+      "title": "Mass Effect 3",
+      "year": 2012,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 4731 (added count); Metacritic 90 (via RAWG). Sales and best-of lists not checked (outside allowed sources).",
+      "route": "original",
+      "rawgSlug": "mass-effect-3"
+    },
+    {
+      "slug": "saints-row-the-third",
+      "title": "Saints Row: The Third",
+      "year": 2011,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 10374 (added count); Metacritic 84 (via RAWG). Sales and best-of lists not checked (outside allowed sources).",
+      "route": "original",
+      "rawgSlug": "saints-row-the-third"
+    },
+    {
+      "slug": "l-a-noire",
+      "title": "L.A. Noire",
+      "year": 2011,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 9772 (added count); Metacritic 83 (via RAWG). Sales and best-of lists not checked (outside allowed sources).",
+      "route": "original",
+      "rawgSlug": "la-noire"
+    },
+    {
+      "slug": "batman-arkham-city",
+      "title": "Batman: Arkham City",
+      "year": 2011,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 6804 (added count); Metacritic 94 (via RAWG). Sales and best-of lists not checked (outside allowed sources).",
+      "route": "original",
+      "rawgSlug": "batman-arkham-city-2"
+    },
+    {
+      "slug": "uncharted-3-drakes-deception",
+      "title": "Uncharted 3: Drake's Deception",
+      "year": 2011,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 6524 (added count); Metacritic 92 (via RAWG). Sales and best-of lists not checked (outside allowed sources).",
+      "route": "original",
+      "rawgSlug": "uncharted-3-drakes-deception"
+    },
+    {
+      "slug": "deus-ex-human-revolution",
+      "title": "Deus Ex: Human Revolution",
+      "year": 2011,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 6221 (added count); Metacritic 89 (via RAWG). Sales and best-of lists not checked (outside allowed sources).",
+      "route": "original",
+      "rawgSlug": "deus-ex-human-revolution"
+    },
+    {
+      "slug": "assassins-creed-revelations",
+      "title": "Assassin's Creed Revelations",
+      "year": 2011,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 4975 (added count); Metacritic 80 (via RAWG). Sales and best-of lists not checked (outside allowed sources).",
+      "route": "original",
+      "rawgSlug": "assassins-creed-revelations"
+    },
+    {
+      "slug": "dark-souls",
+      "title": "Dark Souls",
+      "year": 2011,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 3344 (added count); Metacritic 89 (via RAWG). Sales and best-of lists not checked (outside allowed sources).",
+      "route": "original",
+      "rawgSlug": "dark-souls"
+    },
+    {
+      "slug": "dragon-age-2",
+      "title": "Dragon Age 2",
+      "year": 2011,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 3029 (added count); Metacritic 81 (via RAWG). Sales and best-of lists not checked (outside allowed sources).",
+      "route": "original",
+      "rawgSlug": "dragon-age-2"
+    },
+    {
+      "slug": "fallout-new-vegas",
+      "title": "Fallout: New Vegas",
+      "year": 2010,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 10315 (added count); Metacritic 84 (via RAWG). Sales and best-of lists not checked (outside allowed sources).",
+      "route": "original",
+      "rawgSlug": "fallout-new-vegas"
+    },
+    {
+      "slug": "mass-effect-2",
+      "title": "Mass Effect 2",
+      "year": 2010,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 9568 (added count); Metacritic 94 (via RAWG). Sales and best-of lists not checked (outside allowed sources).",
+      "route": "original",
+      "rawgSlug": "mass-effect-2"
+    },
+    {
+      "slug": "just-cause-2",
+      "title": "Just Cause 2",
+      "year": 2010,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 8954 (added count); Metacritic 84 (via RAWG). Sales and best-of lists not checked (outside allowed sources).",
+      "route": "original",
+      "rawgSlug": "just-cause-2"
+    },
+    {
+      "slug": "mafia-ii",
+      "title": "Mafia II",
+      "year": 2010,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 8514 (added count); Metacritic 77 (via RAWG). Sales and best-of lists not checked (outside allowed sources).",
+      "route": "original",
+      "rawgSlug": "mafia-ii"
+    },
+    {
+      "slug": "darksiders",
+      "title": "Darksiders",
+      "year": 2010,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 8084 (added count); Metacritic 83 (via RAWG). Sales and best-of lists not checked (outside allowed sources).",
+      "route": "original",
+      "rawgSlug": "darksiders"
+    },
+    {
+      "slug": "red-dead-redemption",
+      "title": "Red Dead Redemption",
+      "year": 2010,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 7525 (added count); Metacritic 95 (via RAWG). Sales and best-of lists not checked (outside allowed sources).",
+      "route": "original",
+      "rawgSlug": "red-dead-redemption"
+    },
+    {
+      "slug": "assassins-creed-brotherhood",
+      "title": "Assassin's Creed Brotherhood",
+      "year": 2010,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 5501 (added count); Metacritic 88 (via RAWG). Sales and best-of lists not checked (outside allowed sources).",
+      "route": "original",
+      "rawgSlug": "assassins-creed-brotherhood-2"
+    },
+    {
+      "slug": "fable-iii",
+      "title": "Fable III",
+      "year": 2010,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 3326 (added count); Metacritic 78 (via RAWG). Sales and best-of lists not checked (outside allowed sources).",
+      "route": "original",
+      "rawgSlug": "fable-3"
     }
   ],
   "yearsCompleted": [],
