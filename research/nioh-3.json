@@ -1,0 +1,575 @@
+{
+  "id": "nioh-3",
+  "title": "Nioh 3",
+  "year": 2026,
+  "platforms": [
+    "PlayStation 5",
+    "PC"
+  ],
+  "rawgId": 1010940,
+  "rawgSlug": "nioh-3",
+  "released": "2026-02-06",
+  "developers": [],
+  "playtime": null,
+  "genres": [
+    "Action"
+  ],
+  "tags": [],
+  "coverUrl": "https://media.rawg.io/media/games/18f/18f1e09f98c9a0e822b616d68d73c956.jpg",
+  "steamAppId": 3681010,
+  "achievements": {
+    "total": 64,
+    "hidden": 25,
+    "examples": [
+      {
+        "name": "Soul Core Owner",
+        "percent": 87.1
+      },
+      {
+        "name": "Base Captured",
+        "percent": 86.6
+      },
+      {
+        "name": "Lesser Crucible Cleanser",
+        "percent": 86.3
+      },
+      {
+        "name": "You Are Nioh",
+        "percent": 12.7
+      },
+      {
+        "name": "Savior of Keian",
+        "percent": 11.2
+      },
+      {
+        "name": "Paranormal Purifier",
+        "percent": 11.2
+      },
+      {
+        "name": "Aid Offered",
+        "percent": 8.8
+      },
+      {
+        "name": "The Best Defense...",
+        "percent": 4.4
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": false,
+      "pages": 0,
+      "reason": "No page for Nioh 3 (MediaWiki API returned missing; search empty)"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 2,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://nioh.fandom.com/wiki/Nioh_3"
+    }
+  },
+  "game": {
+    "id": "nioh-3",
+    "title": "Nioh 3",
+    "platforms": [
+      "PlayStation 5",
+      "PC"
+    ],
+    "blurb": "Soulslike samurai action RPG from Team Ninja, released 2026-02-06. RAWG has no playtime yet. Genre: Action. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#4A3B7A",
+    "chapters": [
+      {
+        "id": "main-story",
+        "title": "The Main Story",
+        "summary": "The main missions across eras, to the final battle.",
+        "steps": []
+      },
+      {
+        "id": "exploration",
+        "title": "Exploration and Regions",
+        "summary": "Shrines, enemy bases, Crucibles, Kodama, Jizo, hot springs and Spirit Veins.",
+        "steps": []
+      },
+      {
+        "id": "masters-and-myths",
+        "title": "Masters and Myths",
+        "summary": "Defeat every master and complete every Myth.",
+        "steps": []
+      },
+      {
+        "id": "combat-and-gear",
+        "title": "Combat, Martial Arts and Gear",
+        "summary": "Martial arts, ninjutsu, Burst Breaks, forging and set bonuses.",
+        "steps": []
+      },
+      {
+        "id": "hell-rising",
+        "title": "Hell Rising and Endgame",
+        "summary": "The harder Hell Rising mode, picture scrolls and late-game challenges.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "You Are Nioh",
+        "kind": "trophy",
+        "chapterId": "combat-and-gear",
+        "where": "Unlocked all achievements."
+      },
+      {
+        "id": "achievement-2",
+        "name": "Answering to the People",
+        "kind": "trophy",
+        "chapterId": "masters-and-myths",
+        "where": "Completed all Myths."
+      },
+      {
+        "id": "achievement-3",
+        "name": "Budding Talent",
+        "kind": "trophy",
+        "chapterId": "combat-and-gear",
+        "where": "Reached level 10."
+      },
+      {
+        "id": "achievement-4",
+        "name": "Grizzled Veteran",
+        "kind": "trophy",
+        "chapterId": "combat-and-gear",
+        "where": "Reached level 100."
+      },
+      {
+        "id": "achievement-5",
+        "name": "Wanderer in Time",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-6",
+        "name": "Guiding Mirror",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-7",
+        "name": "The Old Tiger Departs",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-8",
+        "name": "Unbreakable Cause",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-9",
+        "name": "The Queen's Eyes Open",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-10",
+        "name": "What Must Be Done",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-11",
+        "name": "Delusion Destroyed",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-12",
+        "name": "As Shogun",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-13",
+        "name": "Crucible Arts Adopter",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Learned a Martial Art from a Crucible weapon for the first time."
+      },
+      {
+        "id": "achievement-14",
+        "name": "Arts Proficiency",
+        "kind": "trophy",
+        "chapterId": "combat-and-gear",
+        "where": "Defeated 10 enemies with a Strong Attack or a Martial Art enhanced via Arts Proficiency."
+      },
+      {
+        "id": "achievement-15",
+        "name": "Ninjutsu",
+        "kind": "trophy",
+        "chapterId": "combat-and-gear",
+        "where": "Defeated 10 enemies with Ninjutsu."
+      },
+      {
+        "id": "achievement-16",
+        "name": "Burst Break",
+        "kind": "trophy",
+        "chapterId": "combat-and-gear",
+        "where": "Successfully activated Burst Break 10 times."
+      },
+      {
+        "id": "achievement-17",
+        "name": "Guardian Spirit's Aid",
+        "kind": "trophy",
+        "chapterId": "combat-and-gear",
+        "where": "Successfully activated a Guardian Spirit Skill Burst Break for the first time."
+      },
+      {
+        "id": "achievement-18",
+        "name": "Yokai Manipulator",
+        "kind": "trophy",
+        "chapterId": "combat-and-gear",
+        "where": "Used a Summoning Seal to summon a yokai for the first time."
+      },
+      {
+        "id": "achievement-19",
+        "name": "Devotee",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Unlocked all named shrines and Bodhisattva Statues."
+      },
+      {
+        "id": "achievement-20",
+        "name": "Explorer",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Raised your Exploration Level to 4 in any area."
+      },
+      {
+        "id": "achievement-21",
+        "name": "Masterful Pupil",
+        "kind": "trophy",
+        "chapterId": "masters-and-myths",
+        "where": "Defeated a master for the first time."
+      },
+      {
+        "id": "achievement-22",
+        "name": "A God Among Men",
+        "kind": "trophy",
+        "chapterId": "masters-and-myths",
+        "where": "Defeated all masters."
+      },
+      {
+        "id": "achievement-23",
+        "name": "Armor's Real Value",
+        "kind": "trophy",
+        "chapterId": "combat-and-gear",
+        "where": "Activated all set bonus effects for an equipment set."
+      },
+      {
+        "id": "achievement-24",
+        "name": "Latest Masterpiece",
+        "kind": "trophy",
+        "chapterId": "combat-and-gear",
+        "where": "Forged an item for the first time."
+      },
+      {
+        "id": "achievement-25",
+        "name": "Match Made in Heaven",
+        "kind": "trophy",
+        "chapterId": "combat-and-gear",
+        "where": "Performed a Soul Match for the first time."
+      },
+      {
+        "id": "achievement-26",
+        "name": "Remodeler",
+        "kind": "trophy",
+        "chapterId": "combat-and-gear",
+        "where": "Remodeled a piece of equipment for the first time."
+      },
+      {
+        "id": "achievement-27",
+        "name": "Keen-Eyed",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Pet a Chijiko for the first time."
+      },
+      {
+        "id": "achievement-28",
+        "name": "Eagle-Eyed",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Pet all Chijiko."
+      },
+      {
+        "id": "achievement-29",
+        "name": "Unimpeded",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Used all methods to traverse Spirit Veins."
+      },
+      {
+        "id": "achievement-30",
+        "name": "Teamwork",
+        "kind": "trophy",
+        "chapterId": "combat-and-gear",
+        "where": "Completed three missions during Expeditions or with NPCs. (Includes Acolytes.)"
+      },
+      {
+        "id": "achievement-31",
+        "name": "A Scampuss's Best Friend",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Traded a furball with a Scampuss in the Eternal Rift for the first time."
+      },
+      {
+        "id": "achievement-32",
+        "name": "Spa Healer",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Bathed in first hot spring."
+      },
+      {
+        "id": "achievement-33",
+        "name": "Spa Lover",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-34",
+        "name": "Kodama Leader",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Guided all Kodama home."
+      },
+      {
+        "id": "achievement-35",
+        "name": "Visiting the Six Jizo",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Prayed at all of the Six Jizo."
+      },
+      {
+        "id": "achievement-36",
+        "name": "Scampuss Enthusiast",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Pet all Scampusses."
+      },
+      {
+        "id": "achievement-37",
+        "name": "Soul Core Owner",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Purified a Soul Core for the first time."
+      },
+      {
+        "id": "achievement-38",
+        "name": "Base Captured",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Captured an enemy base for the first time."
+      },
+      {
+        "id": "achievement-39",
+        "name": "Total Control",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Captured all enemy bases."
+      },
+      {
+        "id": "achievement-40",
+        "name": "Lesser Crucible Cleanser",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Purified a Lesser Crucible for the first time."
+      },
+      {
+        "id": "achievement-41",
+        "name": "Lesser Crucible Eradicator",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Purified all Lesser Crucibles."
+      },
+      {
+        "id": "achievement-42",
+        "name": "Kunimatsu's Pride",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-43",
+        "name": "Kunimatsu's Envy",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-44",
+        "name": "Kunimatsu's Obsession",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-45",
+        "name": "Senji Toyo",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-46",
+        "name": "Ruckus in the Sanctuary",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-47",
+        "name": "Pain, Pain, Go Away",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-48",
+        "name": "Distant Memories",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-49",
+        "name": "Like-Minded Friends",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-50",
+        "name": "Dung Ball Roller",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-51",
+        "name": "Nothing Left to Learn",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-52",
+        "name": "The One-Eyed Master",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-53",
+        "name": "Devoted to Treason",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-54",
+        "name": "Regrets Unsettled",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-55",
+        "name": "Yagyu Shinkage Style Virtuoso",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-56",
+        "name": "Noble Bout",
+        "kind": "trophy",
+        "chapterId": "hell-rising",
+        "where": "Defeated all masters in Hell Rising."
+      },
+      {
+        "id": "achievement-57",
+        "name": "Savior of Keian",
+        "kind": "trophy",
+        "chapterId": "hell-rising",
+        "where": "Completed all Myths in Hell Rising."
+      },
+      {
+        "id": "achievement-58",
+        "name": "Friend of the Keian Nigitama",
+        "kind": "trophy",
+        "chapterId": "hell-rising",
+        "where": "Guided all Kodama home and pet all Chijiko and Scampusses in Hell Rising."
+      },
+      {
+        "id": "achievement-59",
+        "name": "The Best Defense...",
+        "kind": "trophy",
+        "chapterId": "hell-rising",
+        "where": "Learned all learnable Martial Arts for hoko & shields and ninja hoko & shields in Hell Rising."
+      },
+      {
+        "id": "achievement-60",
+        "name": "Paranormal Purifier",
+        "kind": "trophy",
+        "chapterId": "hell-rising",
+        "where": "Purified Hundred Demon Realms Picture Scrolls five times."
+      },
+      {
+        "id": "achievement-61",
+        "name": "One Thing After Another",
+        "kind": "trophy",
+        "chapterId": "hell-rising",
+        "where": "Nullified an enemy's Curse for the first time."
+      },
+      {
+        "id": "achievement-62",
+        "name": "Aid Offered",
+        "kind": "trophy",
+        "chapterId": "hell-rising",
+        "where": "Completed Mountain Keep in the Storm's Eye with three or more different NPC companions (excluding Acolytes)."
+      },
+      {
+        "id": "achievement-63",
+        "name": "Taken in Stride",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-64",
+        "name": "Keian's Enlightenment",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/nioh-3",
+    "Achievement data from Steam (Steam Web API, app 3681010)",
+    "StrategyWiki: no page for this game, nothing used",
+    "Fandom (nioh.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://nioh.fandom.com/wiki/Nioh_3"
+  ],
+  "route": "original",
+  "notes": "Backlog game, added from the docs/PLAN.md candidate list. No StrategyWiki page. nioh.fandom.com answers the API, but its game page has only 2 links. RAWG lists no developer. 25 of 64 Steam achievements are hidden; they sit in the main story chapter."
+}

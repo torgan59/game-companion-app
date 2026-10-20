@@ -1,0 +1,87 @@
+{
+  "id": "marvels-wolverine",
+  "title": "Marvel's Wolverine",
+  "year": 2026,
+  "platforms": [
+    "PlayStation 5"
+  ],
+  "rawgId": 662318,
+  "rawgSlug": "wolverine-2022",
+  "released": "2026-09-15",
+  "developers": [
+    "Insomniac Games"
+  ],
+  "playtime": null,
+  "genres": [
+    "Action"
+  ],
+  "tags": [],
+  "coverUrl": "https://media.rawg.io/media/games/28d/28d61be51ec0411e24c28f71122dcaaf.jpeg",
+  "steamAppId": null,
+  "achievements": {
+    "total": 0,
+    "examples": [],
+    "reason": "PlayStation 5 only: no Steam achievement list, and RAWG has none either. Collectibles need the PlayStation trophy list, written in our own words."
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": false,
+      "pages": 0,
+      "reason": "No page for Marvel's Wolverine (MediaWiki API returned missing; search empty)"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 16,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://marvelswolverine.fandom.com/wiki/Marvel's_Wolverine"
+    }
+  },
+  "game": {
+    "id": "marvels-wolverine",
+    "title": "Marvel's Wolverine",
+    "platforms": [
+      "PlayStation 5"
+    ],
+    "blurb": "Action-adventure from Insomniac Games starring Logan, released 2026-09-15 on PlayStation 5. RAWG has no playtime yet. Genre: Action. No Steam release, so chapters are a broad placeholder.",
+    "accent": "#F2C14E",
+    "chapters": [
+      {
+        "id": "main-story",
+        "title": "The Main Story",
+        "summary": "Logan's story, from the opening to the credits.",
+        "steps": []
+      },
+      {
+        "id": "side-content",
+        "title": "Side Missions",
+        "summary": "Optional missions and characters.",
+        "steps": []
+      },
+      {
+        "id": "exploration",
+        "title": "Exploration and Collectibles",
+        "summary": "Places to find and things to collect.",
+        "steps": []
+      },
+      {
+        "id": "skills-and-upgrades",
+        "title": "Skills and Upgrades",
+        "summary": "Growing Logan's abilities and gear.",
+        "steps": []
+      }
+    ],
+    "collectibles": []
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/wolverine-2022",
+    "Steam: no PC release, no achievement data",
+    "StrategyWiki: no page for this game, nothing used",
+    "Fandom (marvelswolverine.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://marvelswolverine.fandom.com/wiki/Marvel's_Wolverine"
+  ],
+  "route": "original",
+  "notes": "Backlog game (2026), added from the docs/PLAN.md candidate list. RAWG slug is wolverine-2022, from when it was announced. No StrategyWiki page. marvelswolverine.fandom.com answers the API, with about 16 linked pages. Chapters are a generic placeholder until there is a trophy list or wiki structure to work from."
+}

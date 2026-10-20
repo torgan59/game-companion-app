@@ -1,0 +1,488 @@
+{
+  "id": "assassins-creed-black-flag-resynced",
+  "title": "Assassin's Creed Black Flag Resynced",
+  "year": 2026,
+  "platforms": [
+    "Xbox Series X|S",
+    "PlayStation 5",
+    "PC"
+  ],
+  "rawgId": 1017360,
+  "rawgSlug": "assassins-creed-back-flag-resynced",
+  "released": "2026-07-09",
+  "developers": [
+    "Ubisoft Montpellier",
+    "Ubisoft Shanghai",
+    "Ubisoft Quebec",
+    "Ubisoft Singapore",
+    "Ubisoft Kyiv",
+    "Ubisoft Chengdu",
+    "Ubisoft Bordeaux",
+    "Ubisoft Belgrade",
+    "Ubisoft Philippines",
+    "Ubisoft Barcelona"
+  ],
+  "playtime": null,
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "tags": [],
+  "coverUrl": "https://media.rawg.io/media/screenshots/990/99088f6f170459244defd7afd9fce096.jpg",
+  "steamAppId": 3751950,
+  "achievements": {
+    "total": 49,
+    "hidden": 7,
+    "examples": [
+      {
+        "name": "Lively Havana",
+        "percent": 94.4
+      },
+      {
+        "name": "Yo Ho…",
+        "percent": 86.1
+      },
+      {
+        "name": "Backs To The Wall",
+        "percent": 85.5
+      },
+      {
+        "name": "Grandmaster",
+        "percent": 6.2
+      },
+      {
+        "name": "Edward Catway",
+        "percent": 6.2
+      },
+      {
+        "name": "Overdesign IV",
+        "percent": 5.9
+      },
+      {
+        "name": "Blow The Man Down",
+        "percent": 5.9
+      },
+      {
+        "name": "Dilettante",
+        "percent": 3.2
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": false,
+      "pages": 0,
+      "reason": "No page for Assassin's Creed Black Flag Resynced (MediaWiki API returned missing; search empty)"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": false,
+      "reason": "No page under this title on assassinscreed.fandom.com; marked unverified, not retried"
+    }
+  },
+  "game": {
+    "id": "assassins-creed-black-flag-resynced",
+    "title": "Assassin's Creed Black Flag Resynced",
+    "platforms": [
+      "Xbox Series X|S",
+      "PlayStation 5",
+      "PC"
+    ],
+    "blurb": "Remake of the 2013 pirate action-adventure from Ubisoft, released 2026-07-09. RAWG has no playtime yet. Genres: Action, Adventure. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#1F4E79",
+    "chapters": [
+      {
+        "id": "main-story",
+        "title": "The Main Story",
+        "summary": "Edward Kenway's story, sequence by sequence.",
+        "steps": []
+      },
+      {
+        "id": "naval",
+        "title": "The Jackdaw and Naval Combat",
+        "summary": "Ship upgrades, fleet, convoys, forts, legendary ships and shanties.",
+        "steps": []
+      },
+      {
+        "id": "land-combat",
+        "title": "Combat and Stealth on Land",
+        "summary": "Parries, takedowns, rope darts, smoke bombs and pistols.",
+        "steps": []
+      },
+      {
+        "id": "great-inagua",
+        "title": "Great Inagua Manor and Village",
+        "summary": "Restore the village and fill the manor.",
+        "steps": []
+      },
+      {
+        "id": "exploration",
+        "title": "Exploration and Collectibles",
+        "summary": "Treasure maps, shipwrecks, smuggler chests, locations and animals.",
+        "steps": []
+      },
+      {
+        "id": "activities",
+        "title": "Activities and Templar Hunts",
+        "summary": "Tavern games, Templar Hunts and completing locations.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Last To Leave",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-2",
+        "name": "King of the Castle",
+        "kind": "trophy",
+        "chapterId": "naval",
+        "where": "Capture all forts"
+      },
+      {
+        "id": "achievement-3",
+        "name": "The Memory of My Enemy",
+        "kind": "trophy",
+        "chapterId": "great-inagua",
+        "where": "Display all character portraits in the Great Inagua manor"
+      },
+      {
+        "id": "achievement-4",
+        "name": "Dilettante",
+        "kind": "trophy",
+        "chapterId": "great-inagua",
+        "where": "Fill all Art Collection and Equipment slots in the Great Inagua manor"
+      },
+      {
+        "id": "achievement-5",
+        "name": "Governor",
+        "kind": "trophy",
+        "chapterId": "great-inagua",
+        "where": "Restore all buildings in the Great Inagua village"
+      },
+      {
+        "id": "achievement-6",
+        "name": "Zero Waste",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Restore a map from map pieces"
+      },
+      {
+        "id": "achievement-7",
+        "name": "Grandmaster",
+        "kind": "trophy",
+        "chapterId": "activities",
+        "where": "Win at each of the different tavern games"
+      },
+      {
+        "id": "achievement-8",
+        "name": "Articles Of Agreement",
+        "kind": "trophy",
+        "chapterId": "land-combat",
+        "where": "Ensure the survival of all pirates in a street fight"
+      },
+      {
+        "id": "achievement-9",
+        "name": "Among Thieves",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Unlock a smuggler's chest"
+      },
+      {
+        "id": "achievement-10",
+        "name": "Help A Brother Out",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Complete a Templar Hunt sequence"
+      },
+      {
+        "id": "achievement-11",
+        "name": "Seven Deadly Seas",
+        "kind": "trophy",
+        "chapterId": "naval",
+        "where": "Find all treasure chests in underwater shipwrecks"
+      },
+      {
+        "id": "achievement-12",
+        "name": "Silence, Fool!",
+        "kind": "trophy",
+        "chapterId": "land-combat",
+        "where": "Kill a guard ringing a bell"
+      },
+      {
+        "id": "achievement-13",
+        "name": "Matador",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Dodge a total of three charge attacks by a Wild Pig"
+      },
+      {
+        "id": "achievement-14",
+        "name": "Perfect Predator",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Get a perfect harpoon shot on a Great White Shark"
+      },
+      {
+        "id": "achievement-15",
+        "name": "Double Tap",
+        "kind": "trophy",
+        "chapterId": "land-combat",
+        "where": "Parry two Ocelot attacks in rapid succession"
+      },
+      {
+        "id": "achievement-16",
+        "name": "Owned",
+        "kind": "trophy",
+        "chapterId": "activities",
+        "where": "Complete every activity in a single location"
+      },
+      {
+        "id": "achievement-17",
+        "name": "The Hangman",
+        "kind": "trophy",
+        "chapterId": "land-combat",
+        "where": "Kill 10 enemies by hanging them with the rope dart"
+      },
+      {
+        "id": "achievement-18",
+        "name": "Caught 'Em All",
+        "kind": "trophy",
+        "chapterId": "land-combat",
+        "where": "Catch at least five enemies within a single smoke bomb"
+      },
+      {
+        "id": "achievement-19",
+        "name": "Gun-kata",
+        "kind": "trophy",
+        "chapterId": "land-combat",
+        "where": "Use pistols to kill four enemies in a row within five seconds"
+      },
+      {
+        "id": "achievement-20",
+        "name": "Backs To The Wall",
+        "kind": "trophy",
+        "chapterId": "land-combat",
+        "where": "Kill an enemy with a wall takedown"
+      },
+      {
+        "id": "achievement-21",
+        "name": "Let Me Explain",
+        "kind": "trophy",
+        "chapterId": "land-combat",
+        "where": "After a perfect parry, perform a total of four takedowns"
+      },
+      {
+        "id": "achievement-22",
+        "name": "Overdesign IV",
+        "kind": "trophy",
+        "chapterId": "naval",
+        "where": "Kick a berserk enemy caught in smoke off a ship"
+      },
+      {
+        "id": "achievement-23",
+        "name": "Lively Havana",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Get a tour of Havana (complete Sequence 2, Memory 1)"
+      },
+      {
+        "id": "achievement-24",
+        "name": "A Poxy Bird",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-25",
+        "name": "Walls That Hold Back The Wind",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-26",
+        "name": "In A World Without Gold",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-27",
+        "name": "Ever A Splinter",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-28",
+        "name": "All Hands On Deck",
+        "kind": "trophy",
+        "chapterId": "naval",
+        "where": "Recruit all Officers"
+      },
+      {
+        "id": "achievement-29",
+        "name": "Hungover",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-30",
+        "name": "Collective Madness",
+        "kind": "trophy",
+        "chapterId": "naval",
+        "where": "Add one of each ship class to Kenway's fleet"
+      },
+      {
+        "id": "achievement-31",
+        "name": "Strike The Colors",
+        "kind": "trophy",
+        "chapterId": "naval",
+        "where": "Board a Lead Convoy ship"
+      },
+      {
+        "id": "achievement-32",
+        "name": "Unsinkable",
+        "kind": "trophy",
+        "chapterId": "naval",
+        "where": "Survive a rogue wave taken from the side"
+      },
+      {
+        "id": "achievement-33",
+        "name": "Yo Ho…",
+        "kind": "trophy",
+        "chapterId": "naval",
+        "where": "Learn a new shanty"
+      },
+      {
+        "id": "achievement-34",
+        "name": "Return The Favor",
+        "kind": "trophy",
+        "chapterId": "naval",
+        "where": "Dash ram a ramming Brig"
+      },
+      {
+        "id": "achievement-35",
+        "name": "Hunter Hunted",
+        "kind": "trophy",
+        "chapterId": "naval",
+        "where": "Defeat a Pirate Hunter while at maximum Wanted Level"
+      },
+      {
+        "id": "achievement-36",
+        "name": "Devil of the Caribbean",
+        "kind": "trophy",
+        "chapterId": "naval",
+        "where": "Defeat all legendary ships"
+      },
+      {
+        "id": "achievement-37",
+        "name": "Old Ironsides",
+        "kind": "trophy",
+        "chapterId": "naval",
+        "where": "Perform 3 perfect braces"
+      },
+      {
+        "id": "achievement-38",
+        "name": "Not So Little Friend",
+        "kind": "trophy",
+        "chapterId": "naval",
+        "where": "Unlock the secondary firing mode on a Jackdaw weapon"
+      },
+      {
+        "id": "achievement-39",
+        "name": "Dressing Overall",
+        "kind": "trophy",
+        "chapterId": "naval",
+        "where": "Equip new cosmetics in each of the Jackdaw's vanity slots"
+      },
+      {
+        "id": "achievement-40",
+        "name": "Smooth Operator",
+        "kind": "trophy",
+        "chapterId": "land-combat",
+        "where": "Craft an item"
+      },
+      {
+        "id": "achievement-41",
+        "name": "Business And Pleasure",
+        "kind": "trophy",
+        "chapterId": "land-combat",
+        "where": "Spend 50,000 Reales"
+      },
+      {
+        "id": "achievement-42",
+        "name": "Ship This",
+        "kind": "trophy",
+        "chapterId": "naval",
+        "where": "Fully upgrade the Jackdaw"
+      },
+      {
+        "id": "achievement-43",
+        "name": "Glutton for Nourishment",
+        "kind": "trophy",
+        "chapterId": "land-combat",
+        "where": "Consume 20 food items"
+      },
+      {
+        "id": "achievement-44",
+        "name": "Friend To All",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Interact with all seven friendly animals"
+      },
+      {
+        "id": "achievement-45",
+        "name": "Blow The Man Down",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Shoot down all the hanging bodies in Long Bay"
+      },
+      {
+        "id": "achievement-46",
+        "name": "Davy Jones' Locker",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-47",
+        "name": "Cartographer",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Visit every location in the game"
+      },
+      {
+        "id": "achievement-48",
+        "name": "Edward Catway",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Break 50 potted plants"
+      },
+      {
+        "id": "achievement-49",
+        "name": "Ed the Diver",
+        "kind": "trophy",
+        "chapterId": "naval",
+        "where": "Swim a total of 1000m underwater, excluding underwater shipwrecks"
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/assassins-creed-back-flag-resynced",
+    "Achievement data from Steam (Steam Web API, app 3751950)",
+    "StrategyWiki: no page for this game, nothing used",
+    "Fandom unavailable (no page under this title), marked unverified"
+  ],
+  "route": "original",
+  "notes": "Backlog game, added from the docs/PLAN.md candidate list. RAWG lists it with a typo as \"Assassin's Creed Back Flag Resynced\" (slug assassins-creed-back-flag-resynced). No StrategyWiki page, and no page under this title on assassinscreed.fandom.com; marked unverified, not retried. The Steam schema calls the app \"OBSIDIAN\" (an internal codename); the store list confirms app 3751950. 7 of 49 Steam achievements are hidden."
+}

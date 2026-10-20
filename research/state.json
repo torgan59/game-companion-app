@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updated": "2026-10-18T22:11:12Z",
-  "currentYear": 2020,
+  "updated": "2026-10-20T19:46:28Z",
+  "currentYear": 2026,
   "queue": [
     {
       "slug": "elden-ring",
@@ -52,9 +52,10 @@
       "slug": "cyberpunk-2077",
       "title": "Cyberpunk 2077",
       "year": 2020,
-      "status": "queued",
+      "status": "done",
       "evidence": 3,
-      "route": "original"
+      "route": "original",
+      "packPath": "packs/cyberpunk-2077.json"
     },
     {
       "slug": "kingdom-come-deliverance-2",
@@ -69,9 +70,10 @@
       "slug": "red-dead-redemption-2",
       "title": "Red Dead Redemption 2",
       "year": 2018,
-      "status": "queued",
+      "status": "done",
       "evidence": 3,
-      "route": "original"
+      "route": "original",
+      "packPath": "packs/red-dead-redemption-2.json"
     },
     {
       "slug": "zelda-tears-of-the-kingdom",
@@ -149,17 +151,19 @@
       "slug": "elder-scrolls-skyrim",
       "title": "Elder Scrolls V: Skyrim",
       "year": 2011,
-      "status": "queued",
+      "status": "done",
       "evidence": 3,
-      "route": "cc-by-sa"
+      "route": "cc-by-sa",
+      "packPath": "packs/elder-scrolls-skyrim.json"
     },
     {
       "slug": "grand-theft-auto-v",
       "title": "Grand Theft Auto V",
       "year": 2013,
-      "status": "queued",
+      "status": "done",
       "evidence": 2,
-      "route": "original"
+      "route": "original",
+      "packPath": "packs/grand-theft-auto-v.json"
     },
     {
       "slug": "death-stranding-2",
@@ -178,6 +182,212 @@
       "evidence": 2,
       "route": "original",
       "packPath": "packs/forza-horizon-5.json"
+    },
+    {
+      "slug": "marvels-wolverine",
+      "title": "Marvel's Wolverine",
+      "year": 2026,
+      "status": "done",
+      "evidence": 1,
+      "evidenceSource": "RAWG players: 308 (added count); named in docs/PLAN.md section 2. Metacritic not available via RAWG; sales and best-of lists not checked (outside allowed sources).",
+      "route": "original",
+      "rawgSlug": "wolverine-2022",
+      "packPath": "packs/marvels-wolverine.json"
+    },
+    {
+      "slug": "blood-of-dawnwalker",
+      "title": "The Blood of Dawnwalker",
+      "year": 2026,
+      "status": "done",
+      "evidence": 1,
+      "evidenceSource": "RAWG players: 232 (added count); named in docs/PLAN.md section 2. Metacritic not available via RAWG; sales and best-of lists not checked (outside allowed sources).",
+      "route": "original",
+      "rawgSlug": "the-blood-of-dawnwalker",
+      "packPath": "packs/blood-of-dawnwalker.json"
+    },
+    {
+      "slug": "control-resonant",
+      "title": "Control Resonant",
+      "year": 2026,
+      "status": "done",
+      "evidence": 1,
+      "evidenceSource": "RAWG players: 169 (added count); named in docs/PLAN.md section 2. Metacritic not available via RAWG; sales and best-of lists not checked (outside allowed sources).",
+      "route": "original",
+      "rawgSlug": "control-resonant",
+      "packPath": "packs/control-resonant.json"
+    },
+    {
+      "slug": "assassins-creed-black-flag-resynced",
+      "title": "Assassin's Creed Black Flag Resynced",
+      "year": 2026,
+      "status": "done",
+      "evidence": 1,
+      "evidenceSource": "RAWG players: 161 (added count); named in docs/PLAN.md section 2. Metacritic not available via RAWG; sales and best-of lists not checked (outside allowed sources).",
+      "route": "original",
+      "rawgSlug": "assassins-creed-back-flag-resynced",
+      "packPath": "packs/assassins-creed-black-flag-resynced.json"
+    },
+    {
+      "slug": "onimusha-way-of-the-sword",
+      "title": "Onimusha: Way of the Sword",
+      "year": 2026,
+      "status": "done",
+      "evidence": 1,
+      "evidenceSource": "RAWG players: 136 (added count); named in docs/PLAN.md section 2. Metacritic not available via RAWG; sales and best-of lists not checked (outside allowed sources).",
+      "route": "original",
+      "rawgSlug": "onimusha-way-of-the-sword",
+      "packPath": "packs/onimusha-way-of-the-sword.json"
+    },
+    {
+      "slug": "nioh-3",
+      "title": "Nioh 3",
+      "year": 2026,
+      "status": "done",
+      "evidence": 1,
+      "evidenceSource": "RAWG players: 86 (added count); named in docs/PLAN.md section 2. Metacritic not available via RAWG; sales and best-of lists not checked (outside allowed sources).",
+      "route": "original",
+      "rawgSlug": "nioh-3",
+      "packPath": "packs/nioh-3.json"
+    },
+    {
+      "slug": "grand-theft-auto-vi",
+      "title": "Grand Theft Auto VI",
+      "year": 2026,
+      "status": "queued",
+      "evidence": 1,
+      "evidenceSource": "RAWG players: 938 (added count); named in docs/PLAN.md section 2. Metacritic not available via RAWG; sales and best-of lists not checked (outside allowed sources).",
+      "route": "original",
+      "rawgSlug": "grand-theft-aito-vi",
+      "releaseDate": "2026-11-19",
+      "note": "Not released yet; eligible only after release."
+    },
+    {
+      "slug": "avowed",
+      "title": "Avowed",
+      "year": 2025,
+      "status": "done",
+      "evidence": 1,
+      "evidenceSource": "RAWG players: 582 (added count); named in docs/PLAN.md section 2. Metacritic not available via RAWG; sales and best-of lists not checked (outside allowed sources).",
+      "route": "original",
+      "rawgSlug": "avowed",
+      "packPath": "packs/avowed.json"
+    },
+    {
+      "slug": "mafia-the-old-country",
+      "title": "Mafia: The Old Country",
+      "year": 2025,
+      "status": "in-progress",
+      "evidence": 1,
+      "evidenceSource": "RAWG players: 517 (added count); named in docs/PLAN.md section 2. Metacritic not available via RAWG; sales and best-of lists not checked (outside allowed sources).",
+      "route": "original",
+      "rawgSlug": "mafia-the-old-country",
+      "step": "rawg-fetch"
+    },
+    {
+      "slug": "metal-gear-solid-delta",
+      "title": "Metal Gear Solid Delta: Snake Eater",
+      "year": 2025,
+      "status": "in-progress",
+      "evidence": 1,
+      "evidenceSource": "RAWG players: 363 (added count); named in docs/PLAN.md section 2. Metacritic not available via RAWG; sales and best-of lists not checked (outside allowed sources).",
+      "route": "original",
+      "rawgSlug": "metal-gear-solid-delta-snake-eater",
+      "step": "rawg-fetch"
+    },
+    {
+      "slug": "pokemon-legends-z-a",
+      "title": "Pokémon Legends: Z-A",
+      "year": 2025,
+      "status": "in-progress",
+      "evidence": 1,
+      "evidenceSource": "RAWG players: 84 (added count); named in docs/PLAN.md section 2. Metacritic not available via RAWG; sales and best-of lists not checked (outside allowed sources).",
+      "route": "original",
+      "rawgSlug": "pokemon-legends-z-a",
+      "step": "rawg-fetch"
+    },
+    {
+      "slug": "dragons-dogma-2",
+      "title": "Dragon's Dogma 2",
+      "year": 2024,
+      "status": "in-progress",
+      "evidence": 1,
+      "evidenceSource": "RAWG players: 812 (added count); named in docs/PLAN.md section 2. Metacritic not available via RAWG; sales and best-of lists not checked (outside allowed sources).",
+      "route": "original",
+      "rawgSlug": "dragons-dogma-2",
+      "step": "rawg-fetch"
+    },
+    {
+      "slug": "indiana-jones-great-circle",
+      "title": "Indiana Jones and the Great Circle",
+      "year": 2024,
+      "status": "in-progress",
+      "evidence": 1,
+      "evidenceSource": "RAWG players: 792 (added count); named in docs/PLAN.md section 2. Metacritic not available via RAWG; sales and best-of lists not checked (outside allowed sources).",
+      "route": "original",
+      "rawgSlug": "indiana-jones-and-the-great-circle",
+      "step": "rawg-fetch"
+    },
+    {
+      "slug": "final-fantasy-vii-rebirth",
+      "title": "Final Fantasy VII Rebirth",
+      "year": 2024,
+      "status": "queued",
+      "evidence": 1,
+      "evidenceSource": "RAWG players: 579 (added count); named in docs/PLAN.md section 2. Metacritic not available via RAWG; sales and best-of lists not checked (outside allowed sources).",
+      "route": "original",
+      "rawgSlug": "final-fantasy-vii-rebirth"
+    },
+    {
+      "slug": "metaphor-refantazio",
+      "title": "Metaphor: ReFantazio",
+      "year": 2024,
+      "status": "queued",
+      "evidence": 1,
+      "evidenceSource": "RAWG players: 470 (added count); named in docs/PLAN.md section 2. Metacritic not available via RAWG; sales and best-of lists not checked (outside allowed sources).",
+      "route": "original",
+      "rawgSlug": "metaphor-refantazio"
+    },
+    {
+      "slug": "star-wars-outlaws",
+      "title": "Star Wars Outlaws",
+      "year": 2024,
+      "status": "queued",
+      "evidence": 1,
+      "evidenceSource": "RAWG players: 389 (added count); named in docs/PLAN.md section 2. Metacritic not available via RAWG; sales and best-of lists not checked (outside allowed sources).",
+      "route": "original",
+      "rawgSlug": "star-wars-outlaws"
+    },
+    {
+      "slug": "saros",
+      "title": "Saros",
+      "year": 2026,
+      "status": "skipped",
+      "reason": "Roguelike action; docs/PLAN.md says Tim decides. Not researched.",
+      "route": "original"
+    },
+    {
+      "slug": "elden-ring-nightreign",
+      "title": "Elden Ring Nightreign",
+      "year": 2025,
+      "status": "skipped",
+      "reason": "Co-op roguelike, weak walkthrough fit (docs/PLAN.md). Not researched.",
+      "route": "original"
+    },
+    {
+      "slug": "dying-light-the-beast",
+      "title": "Dying Light: The Beast",
+      "year": 2025,
+      "status": "skipped",
+      "reason": "Survival horror, outside the genre filter. Not researched.",
+      "route": "original"
+    },
+    {
+      "slug": "clair-obscur-expedition-33",
+      "title": "Clair Obscur: Expedition 33",
+      "year": 2025,
+      "status": "skipped",
+      "reason": "Small studio, excluded in docs/PLAN.md; Tim may override. Not researched.",
+      "route": "original"
     }
   ],
   "yearsCompleted": [],

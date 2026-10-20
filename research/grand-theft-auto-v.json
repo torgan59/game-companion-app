@@ -1,0 +1,718 @@
+{
+  "id": "grand-theft-auto-v",
+  "title": "Grand Theft Auto V",
+  "year": 2013,
+  "platforms": [
+    "PlayStation 5",
+    "Xbox Series X|S",
+    "PlayStation 3",
+    "PC",
+    "PlayStation 4",
+    "Xbox 360",
+    "Xbox One"
+  ],
+  "rawgId": 3498,
+  "rawgSlug": "grand-theft-auto-v",
+  "released": "2013-09-17",
+  "developers": [
+    "Rockstar North",
+    "Rockstar Games"
+  ],
+  "playtime": 74,
+  "genres": [
+    "Action"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Multiplayer",
+    "Full controller support",
+    "Atmospheric",
+    "Great Soundtrack",
+    "RPG",
+    "Co-op",
+    "Open World",
+    "cooperative",
+    "First-Person",
+    "Third Person"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/20a/20aa03a10cda45239fe22d035c0ebe64.jpg",
+  "steamAppId": 271590,
+  "achievements": {
+    "total": 77,
+    "hidden": 20,
+    "examples": [
+      {
+        "name": "Off the Plane",
+        "percent": 74.5
+      },
+      {
+        "name": "American Dream",
+        "percent": 52.5
+      },
+      {
+        "name": "Pimp My Sidearm",
+        "percent": 42.8
+      },
+      {
+        "name": "Cult Movie",
+        "percent": 4.5
+      },
+      {
+        "name": "Location Scout",
+        "percent": 4.5
+      },
+      {
+        "name": "Humans of Los Santos",
+        "percent": 4.4
+      },
+      {
+        "name": "Elitist",
+        "percent": 4.2
+      },
+      {
+        "name": "Masterminds",
+        "percent": 4.1
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 5,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Grand_Theft_Auto_V",
+      "tocOutline": [
+        "Gameplay",
+        "Controls",
+        "Walkthrough",
+        "Vehicles",
+        "Weapons",
+        "Radio stations",
+        "Secrets",
+        "Special abilities",
+        "Achievements and trophies",
+        "Characters"
+      ],
+      "reason": "Only the Table of Contents is written (completion stage 0); its outline was used for chapter structure"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 418,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://gta.fandom.com/wiki/Grand_Theft_Auto_V"
+    }
+  },
+  "game": {
+    "id": "grand-theft-auto-v",
+    "title": "Grand Theft Auto V",
+    "platforms": [
+      "PlayStation 5",
+      "Xbox Series X|S",
+      "PlayStation 3",
+      "PC",
+      "PlayStation 4",
+      "Xbox 360",
+      "Xbox One"
+    ],
+    "blurb": "Open-world crime action game from Rockstar North, released 2013-09-17 (PC 2015, re-released on PS5 and Xbox Series 2022). RAWG average playtime: 74 hours. Genre: Action. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#3E8E41",
+    "chapters": [
+      {
+        "id": "main-story",
+        "title": "The Main Story",
+        "summary": "Michael, Franklin and Trevor's story, from the opening job to the ending you choose.",
+        "steps": []
+      },
+      {
+        "id": "strangers-and-side",
+        "title": "Strangers, Freaks and Side Activities",
+        "summary": "Strangers and Freaks, hidden mysteries, collectibles, rampages, stunt jumps and businesses.",
+        "steps": []
+      },
+      {
+        "id": "money-and-mods",
+        "title": "Money and Mods",
+        "summary": "Stock market profits, big spending and fully modded cars and guns.",
+        "steps": []
+      },
+      {
+        "id": "exploration",
+        "title": "Exploring San Andreas",
+        "summary": "Every part of Los Santos and Blaine County.",
+        "steps": []
+      },
+      {
+        "id": "director-mode",
+        "title": "Rockstar Editor and Director Mode",
+        "summary": "Making videos and playing as unlocked actors.",
+        "steps": []
+      },
+      {
+        "id": "gta-online",
+        "title": "GTA Online",
+        "summary": "The online mode: ranks, races, jobs, crews and properties.",
+        "steps": []
+      },
+      {
+        "id": "online-heists",
+        "title": "GTA Online Heists",
+        "summary": "Online heists, including The Doomsday Heist.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Welcome to Los Santos",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-2",
+        "name": "A Friendship Resurrected",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-3",
+        "name": "A Fair Day's Pay",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-4",
+        "name": "The Moment of Truth",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-5",
+        "name": "To Live or Die in Los Santos",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-6",
+        "name": "Diamond Hard",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-7",
+        "name": "Subversive",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-8",
+        "name": "Blitzed",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-9",
+        "name": "Small Town, Big Job",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-10",
+        "name": "The Government Gimps",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-11",
+        "name": "The Big One!",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-12",
+        "name": "Solid Gold, Baby!",
+        "kind": "trophy",
+        "chapterId": "strangers-and-side",
+        "where": "Earn 70 Gold Medals on Missions and Strangers and Freaks."
+      },
+      {
+        "id": "achievement-13",
+        "name": "Career Criminal",
+        "kind": "trophy",
+        "chapterId": "strangers-and-side",
+        "where": "Attain 100% Game Completion."
+      },
+      {
+        "id": "achievement-14",
+        "name": "San Andreas Sightseer",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Explore all of Los Santos and Blaine County."
+      },
+      {
+        "id": "achievement-15",
+        "name": "All's Fare in Love and War",
+        "kind": "trophy",
+        "chapterId": "strangers-and-side",
+        "where": "Purchase Downtown Cab Co. and complete a private fare."
+      },
+      {
+        "id": "achievement-16",
+        "name": "TP Industries Arms Race",
+        "kind": "trophy",
+        "chapterId": "strangers-and-side",
+        "where": "Purchase McKenzie Field Hangar and win the arms race."
+      },
+      {
+        "id": "achievement-17",
+        "name": "Multi-Disciplined",
+        "kind": "trophy",
+        "chapterId": "strangers-and-side",
+        "where": "Attain a gold medal in all applicable hobbies and pastimes."
+      },
+      {
+        "id": "achievement-18",
+        "name": "From Beyond the Stars",
+        "kind": "trophy",
+        "chapterId": "strangers-and-side",
+        "where": "Collect and return all spaceship parts."
+      },
+      {
+        "id": "achievement-19",
+        "name": "A Mystery, Solved",
+        "kind": "trophy",
+        "chapterId": "strangers-and-side",
+        "where": "Solve the mystery of Leonora Johnson."
+      },
+      {
+        "id": "achievement-20",
+        "name": "Waste Management",
+        "kind": "trophy",
+        "chapterId": "strangers-and-side",
+        "where": "Purchase the old dock and collect all nuclear waste."
+      },
+      {
+        "id": "achievement-21",
+        "name": "Red Mist",
+        "kind": "trophy",
+        "chapterId": "strangers-and-side",
+        "where": "Complete all Rampages."
+      },
+      {
+        "id": "achievement-22",
+        "name": "Show Off",
+        "kind": "trophy",
+        "chapterId": "strangers-and-side",
+        "where": "Complete all Stunt Jumps."
+      },
+      {
+        "id": "achievement-23",
+        "name": "Kifflom!",
+        "kind": "trophy",
+        "chapterId": "strangers-and-side",
+        "where": "You completed the Epsilon program and achieved inner peace."
+      },
+      {
+        "id": "achievement-24",
+        "name": "Three Man Army",
+        "kind": "trophy",
+        "chapterId": "strangers-and-side",
+        "where": "Survive 3 minutes on at least a 3 star Wanted Level with all three characters together off mission."
+      },
+      {
+        "id": "achievement-25",
+        "name": "Out of Your Depth",
+        "kind": "trophy",
+        "chapterId": "strangers-and-side",
+        "where": "You're gonna need a bigger boat..."
+      },
+      {
+        "id": "achievement-26",
+        "name": "Altruist Acolyte",
+        "kind": "trophy",
+        "chapterId": "strangers-and-side",
+        "where": "Deliver an unsuspecting victim to the Altruist Cult."
+      },
+      {
+        "id": "achievement-27",
+        "name": "A Lot of Cheddar",
+        "kind": "trophy",
+        "chapterId": "money-and-mods",
+        "where": "Spend a total of $200 million across all three characters."
+      },
+      {
+        "id": "achievement-28",
+        "name": "Trading Pure Alpha",
+        "kind": "trophy",
+        "chapterId": "money-and-mods",
+        "where": "Make a profit over your total investments in the stock market."
+      },
+      {
+        "id": "achievement-29",
+        "name": "Pimp My Sidearm",
+        "kind": "trophy",
+        "chapterId": "money-and-mods",
+        "where": "Fully mod a weapon."
+      },
+      {
+        "id": "achievement-30",
+        "name": "Wanted: Alive Or Alive",
+        "kind": "trophy",
+        "chapterId": "strangers-and-side",
+        "where": "Deliver a bail bond target alive."
+      },
+      {
+        "id": "achievement-31",
+        "name": "Los Santos Customs",
+        "kind": "trophy",
+        "chapterId": "money-and-mods",
+        "where": "Fully mod a vehicle."
+      },
+      {
+        "id": "achievement-32",
+        "name": "Close Shave",
+        "kind": "trophy",
+        "chapterId": "strangers-and-side",
+        "where": "Complete all Under the Bridge and Knife Flight challenges."
+      },
+      {
+        "id": "achievement-33",
+        "name": "Off the Plane",
+        "kind": "trophy",
+        "chapterId": "gta-online",
+        "where": "GTA Online: Complete the Introduction."
+      },
+      {
+        "id": "achievement-34",
+        "name": "Three-Bit Gangster",
+        "kind": "trophy",
+        "chapterId": "gta-online",
+        "where": "GTA Online: Reach Rank 25."
+      },
+      {
+        "id": "achievement-35",
+        "name": "Making Moves",
+        "kind": "trophy",
+        "chapterId": "gta-online",
+        "where": "GTA Online: Reach Rank 50."
+      },
+      {
+        "id": "achievement-36",
+        "name": "Above the Law",
+        "kind": "trophy",
+        "chapterId": "gta-online",
+        "where": "GTA Online: Reach Rank 100."
+      },
+      {
+        "id": "achievement-37",
+        "name": "Numero Uno",
+        "kind": "trophy",
+        "chapterId": "gta-online",
+        "where": "GTA Online: Obtain first place in all competitive game types."
+      },
+      {
+        "id": "achievement-38",
+        "name": "The Midnight Club",
+        "kind": "trophy",
+        "chapterId": "gta-online",
+        "where": "GTA Online: Use custom vehicles to win 5 Races."
+      },
+      {
+        "id": "achievement-39",
+        "name": "Unnatural Selection",
+        "kind": "trophy",
+        "chapterId": "gta-online",
+        "where": "GTA Online: Complete all 10 waves of a Survival."
+      },
+      {
+        "id": "achievement-40",
+        "name": "Backseat Driver",
+        "kind": "trophy",
+        "chapterId": "gta-online",
+        "where": "GTA Online: Direct a driver to 1st place as co-driver in Rally Mode."
+      },
+      {
+        "id": "achievement-41",
+        "name": "Run Like The Wind",
+        "kind": "trophy",
+        "chapterId": "gta-online",
+        "where": "GTA Online: Survive for a day with a Bounty on your head."
+      },
+      {
+        "id": "achievement-42",
+        "name": "Clean Sweep",
+        "kind": "trophy",
+        "chapterId": "gta-online",
+        "where": "GTA Online: Finish a Gang Attack without dying and kill at least 10 enemies."
+      },
+      {
+        "id": "achievement-43",
+        "name": "Decorated",
+        "kind": "trophy",
+        "chapterId": "gta-online",
+        "where": "GTA Online: Earn 30 Platinum Awards."
+      },
+      {
+        "id": "achievement-44",
+        "name": "Stick Up Kid",
+        "kind": "trophy",
+        "chapterId": "gta-online",
+        "where": "GTA Online: Hold up all 20 Stores."
+      },
+      {
+        "id": "achievement-45",
+        "name": "Enjoy Your Stay",
+        "kind": "trophy",
+        "chapterId": "gta-online",
+        "where": "GTA Online: Participate in everything Los Santos has to offer."
+      },
+      {
+        "id": "achievement-46",
+        "name": "Crew Cut",
+        "kind": "trophy",
+        "chapterId": "gta-online",
+        "where": "GTA Online: Complete a Job as a member of a Crew."
+      },
+      {
+        "id": "achievement-47",
+        "name": "Full Refund",
+        "kind": "trophy",
+        "chapterId": "gta-online",
+        "where": "GTA Online: Kill the thief that mugged you."
+      },
+      {
+        "id": "achievement-48",
+        "name": "Dialling Digits",
+        "kind": "trophy",
+        "chapterId": "gta-online",
+        "where": "GTA Online: Call for a Backup Helicopter for the first time."
+      },
+      {
+        "id": "achievement-49",
+        "name": "American Dream",
+        "kind": "trophy",
+        "chapterId": "gta-online",
+        "where": "GTA Online: Own an Apartment, Garage and an Insured Vehicle."
+      },
+      {
+        "id": "achievement-50",
+        "name": "A New Perspective",
+        "kind": "trophy",
+        "chapterId": "strangers-and-side",
+        "where": "Play GTA V for 15 hours in first person mode."
+      },
+      {
+        "id": "achievement-51",
+        "name": "Be Prepared",
+        "kind": "trophy",
+        "chapterId": "online-heists",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-52",
+        "name": "In the Name of Science",
+        "kind": "trophy",
+        "chapterId": "online-heists",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-53",
+        "name": "Dead Presidents",
+        "kind": "trophy",
+        "chapterId": "online-heists",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-54",
+        "name": "Parole Day",
+        "kind": "trophy",
+        "chapterId": "online-heists",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-55",
+        "name": "Shot Caller",
+        "kind": "trophy",
+        "chapterId": "online-heists",
+        "where": "GTA Online: Invest your hard earned cash to set up a Heist."
+      },
+      {
+        "id": "achievement-56",
+        "name": "Four Way",
+        "kind": "trophy",
+        "chapterId": "online-heists",
+        "where": "GTA Online: As Heist Leader set the Finale cut as 25% across all players."
+      },
+      {
+        "id": "achievement-57",
+        "name": "Live a Little",
+        "kind": "trophy",
+        "chapterId": "online-heists",
+        "where": "GTA Online: Spend a total of $8,000,000 purchasing vehicles included as part of The Heists Update."
+      },
+      {
+        "id": "achievement-58",
+        "name": "Can't Touch This",
+        "kind": "trophy",
+        "chapterId": "online-heists",
+        "where": "GTA Online: Complete a Heist Finale without taking any damage."
+      },
+      {
+        "id": "achievement-59",
+        "name": "Mastermind",
+        "kind": "trophy",
+        "chapterId": "online-heists",
+        "where": "GTA Online: Earn 25 platinum medals across Heist Setups and Finales."
+      },
+      {
+        "id": "achievement-60",
+        "name": "Vinewood Visionary",
+        "kind": "trophy",
+        "chapterId": "director-mode",
+        "where": "Create and export a video using the Rockstar Editor or enter Director Mode 5 times."
+      },
+      {
+        "id": "achievement-61",
+        "name": "Majestic",
+        "kind": "trophy",
+        "chapterId": "director-mode",
+        "where": "Create and export 10 videos using the Rockstar Editor or enter Director Mode 10 times."
+      },
+      {
+        "id": "achievement-62",
+        "name": "Humans of Los Santos",
+        "kind": "trophy",
+        "chapterId": "director-mode",
+        "where": "Unlock all Special Characters and entered Director Mode as an actor from this category."
+      },
+      {
+        "id": "achievement-63",
+        "name": "First Time Director",
+        "kind": "trophy",
+        "chapterId": "director-mode",
+        "where": "Enter Director Mode for the first time as an unlocked actor."
+      },
+      {
+        "id": "achievement-64",
+        "name": "Animal Lover",
+        "kind": "trophy",
+        "chapterId": "director-mode",
+        "where": "Enter Director Mode as an unlocked animal actor for the first time."
+      },
+      {
+        "id": "achievement-65",
+        "name": "Ensemble Piece",
+        "kind": "trophy",
+        "chapterId": "director-mode",
+        "where": "Unlock all Story Characters and enter Director Mode as an actor from this category."
+      },
+      {
+        "id": "achievement-66",
+        "name": "Cult Movie",
+        "kind": "trophy",
+        "chapterId": "director-mode",
+        "where": "Enter Director Mode as Cris Formage."
+      },
+      {
+        "id": "achievement-67",
+        "name": "Location Scout",
+        "kind": "trophy",
+        "chapterId": "director-mode",
+        "where": "Visit all Locations in Director Mode."
+      },
+      {
+        "id": "achievement-68",
+        "name": "Method Actor",
+        "kind": "trophy",
+        "chapterId": "gta-online",
+        "where": "Enter Director Mode using any of your own GTA Online characters."
+      },
+      {
+        "id": "achievement-69",
+        "name": "Cryptozoologist",
+        "kind": "trophy",
+        "chapterId": "strangers-and-side",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-70",
+        "name": "Getting Started",
+        "kind": "trophy",
+        "chapterId": "online-heists",
+        "where": "GTA Online: You set up the Doomsday Heist."
+      },
+      {
+        "id": "achievement-71",
+        "name": "The Data Breaches",
+        "kind": "trophy",
+        "chapterId": "online-heists",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-72",
+        "name": "The Bogdan Problem",
+        "kind": "trophy",
+        "chapterId": "online-heists",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-73",
+        "name": "The Doomsday Scenario",
+        "kind": "trophy",
+        "chapterId": "online-heists",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-74",
+        "name": "A World Worth Saving",
+        "kind": "trophy",
+        "chapterId": "online-heists",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-75",
+        "name": "Orbital Obliteration",
+        "kind": "trophy",
+        "chapterId": "gta-online",
+        "where": "GTA Online: You killed another player with the Orbital Cannon."
+      },
+      {
+        "id": "achievement-76",
+        "name": "Elitist",
+        "kind": "trophy",
+        "chapterId": "online-heists",
+        "where": "GTA Online: You completed all 3 Elite Challenges in The Doomsday Heist."
+      },
+      {
+        "id": "achievement-77",
+        "name": "Masterminds",
+        "kind": "trophy",
+        "chapterId": "online-heists",
+        "where": "GTA Online: You completed all 3 Criminal Mastermind Challenges in The Doomsday Heist."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/grand-theft-auto-v",
+    "Achievement data from Steam (Steam Web API, app 271590)",
+    "StrategyWiki: outline of chapter names only, from its contents page (CC BY-SA 4.0) — https://strategywiki.org/wiki/Grand_Theft_Auto_V",
+    "Fandom (gta.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://gta.fandom.com/wiki/Grand_Theft_Auto_V"
+  ],
+  "route": "original",
+  "notes": "Steam app 271590 (the original 2015 PC release, now listed as Legacy; it is no longer in the store app list). The Enhanced edition (app 3240220, schema name \"Charm\") has the same 77 achievements. StrategyWiki has a stub page (completion stage 0) with 5 short subpages, no usable structure. gta.fandom.com answers the API with about 418 linked pages; names only were looked at, nothing copied. 20 of 77 achievements are hidden; 8 of those are online heists, sorted by name."
+}

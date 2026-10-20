@@ -1,0 +1,491 @@
+{
+  "id": "onimusha-way-of-the-sword",
+  "title": "Onimusha: Way of the Sword",
+  "year": 2026,
+  "platforms": [
+    "Xbox Series X|S",
+    "PlayStation 5",
+    "PC"
+  ],
+  "rawgId": 994600,
+  "rawgSlug": "onimusha-way-of-the-sword",
+  "released": "2026-09-04",
+  "developers": [
+    "Capcom"
+  ],
+  "playtime": null,
+  "genres": [
+    "Action",
+    "Adventure",
+    "RPG"
+  ],
+  "tags": [],
+  "coverUrl": "https://media.rawg.io/media/games/48e/48ea2f7adb60615d658887899ffe4d1f.jpg",
+  "steamAppId": 2638890,
+  "achievements": {
+    "total": 52,
+    "hidden": 16,
+    "examples": [
+      {
+        "name": "Get This Thing Off Me",
+        "percent": 90.2
+      },
+      {
+        "name": "Looking Sharp",
+        "percent": 86.2
+      },
+      {
+        "name": "Berserker",
+        "percent": 79.7
+      },
+      {
+        "name": "Medical Marvel",
+        "percent": 16.4
+      },
+      {
+        "name": "Charmed Life",
+        "percent": 13.0
+      },
+      {
+        "name": "Genma Griller",
+        "percent": 13.0
+      },
+      {
+        "name": "Genma-ologist",
+        "percent": 11.9
+      },
+      {
+        "name": "Peerless",
+        "percent": 7.5
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": false,
+      "pages": 0,
+      "reason": "No page for Onimusha: Way of the Sword (MediaWiki API returned missing; search empty)"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 33,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://onimusha.fandom.com/wiki/Onimusha:_Way_of_the_Sword"
+    }
+  },
+  "game": {
+    "id": "onimusha-way-of-the-sword",
+    "title": "Onimusha: Way of the Sword",
+    "platforms": [
+      "Xbox Series X|S",
+      "PlayStation 5",
+      "PC"
+    ],
+    "blurb": "Samurai action game from Capcom set in Kyoto, released 2026-09-04. RAWG has no playtime yet. Genres: Action, Adventure, RPG. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#7D1D3F",
+    "chapters": [
+      {
+        "id": "main-story",
+        "title": "The Main Story",
+        "summary": "The story through Kyoto, boss by boss.",
+        "steps": []
+      },
+      {
+        "id": "kyoto-side",
+        "title": "Mysteries and Encounters in Kyoto",
+        "summary": "Mysteries of Kyoto, Chance Encounters, townspeople rescues, Lion Dogs and Genma notes.",
+        "steps": []
+      },
+      {
+        "id": "skills-and-gear",
+        "title": "Skills and Gear",
+        "summary": "Skills, equipment, Oni Armaments, Hozuki Pouches and charms.",
+        "steps": []
+      },
+      {
+        "id": "combat-mastery",
+        "title": "Combat Mastery",
+        "summary": "Issen attacks, Reflex Combos, Blazing and Oni Awakened states, and other feats.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Peerless",
+        "kind": "trophy",
+        "chapterId": "combat-mastery",
+        "where": "Unlock all achievements."
+      },
+      {
+        "id": "achievement-2",
+        "name": "Onimusha Showdown",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-3",
+        "name": "Get Stuffed",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-4",
+        "name": "Twisted Fates",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-5",
+        "name": "Howling Wind",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-6",
+        "name": "Dokyo's Fixation",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-7",
+        "name": "Benkei: Out, but Not Down",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-8",
+        "name": "Crashing Lightning",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-9",
+        "name": "Wide Awake",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-10",
+        "name": "The Perfect Storm",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-11",
+        "name": "We Done Here?",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-12",
+        "name": "End This Madness",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-13",
+        "name": "Baited by Benkei",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-14",
+        "name": "Truly, Thank You",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-15",
+        "name": "Mystery Solved",
+        "kind": "trophy",
+        "chapterId": "kyoto-side",
+        "where": "Complete your first Mystery of Kyoto."
+      },
+      {
+        "id": "achievement-16",
+        "name": "Demystified",
+        "kind": "trophy",
+        "chapterId": "kyoto-side",
+        "where": "Complete all Mysteries of Kyoto."
+      },
+      {
+        "id": "achievement-17",
+        "name": "Life-Saver",
+        "kind": "trophy",
+        "chapterId": "kyoto-side",
+        "where": "Complete your first Chance Encounter."
+      },
+      {
+        "id": "achievement-18",
+        "name": "No Job Too Small",
+        "kind": "trophy",
+        "chapterId": "kyoto-side",
+        "where": "Complete all Chance Encounters."
+      },
+      {
+        "id": "achievement-19",
+        "name": "Serves You Right",
+        "kind": "trophy",
+        "chapterId": "kyoto-side",
+        "where": "Defeat the Byakue at Kiyomizu-dera Temple."
+      },
+      {
+        "id": "achievement-20",
+        "name": "Citizen Savior",
+        "kind": "trophy",
+        "chapterId": "kyoto-side",
+        "where": "Rescue 30 townspeople from marauding Genma."
+      },
+      {
+        "id": "achievement-21",
+        "name": "Selfish Selflessness",
+        "kind": "trophy",
+        "chapterId": "kyoto-side",
+        "where": "Rescue a merchant that's being attacked by Genma."
+      },
+      {
+        "id": "achievement-22",
+        "name": "No Dog Left Behind",
+        "kind": "trophy",
+        "chapterId": "kyoto-side",
+        "where": "Rescue your first Lion Dog."
+      },
+      {
+        "id": "achievement-23",
+        "name": "For the Love of Dog",
+        "kind": "trophy",
+        "chapterId": "kyoto-side",
+        "where": "Rescue all the Lion Dogs."
+      },
+      {
+        "id": "achievement-24",
+        "name": "Genma-ologist",
+        "kind": "trophy",
+        "chapterId": "kyoto-side",
+        "where": "Collect all the Genma notes."
+      },
+      {
+        "id": "achievement-25",
+        "name": "True Onimusha",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-26",
+        "name": "Second Helping",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-27",
+        "name": "Glutton for Punishment",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-28",
+        "name": "The Winding Way of the Sword",
+        "kind": "trophy",
+        "chapterId": "skills-and-gear",
+        "where": "Learn and upgrade all basic or special skills."
+      },
+      {
+        "id": "achievement-29",
+        "name": "Well-Rounded",
+        "kind": "trophy",
+        "chapterId": "skills-and-gear",
+        "where": "Learn and upgrade all basic and special skills."
+      },
+      {
+        "id": "achievement-30",
+        "name": "Looking Sharp",
+        "kind": "trophy",
+        "chapterId": "skills-and-gear",
+        "where": "Enhance a piece of equipment for the first time."
+      },
+      {
+        "id": "achievement-31",
+        "name": "Dressed to Kill",
+        "kind": "trophy",
+        "chapterId": "skills-and-gear",
+        "where": "Enhance all equipment to the maximum level."
+      },
+      {
+        "id": "achievement-32",
+        "name": "Oni Armory",
+        "kind": "trophy",
+        "chapterId": "combat-mastery",
+        "where": "Acquire all Oni Armaments."
+      },
+      {
+        "id": "achievement-33",
+        "name": "Health Is Wealth",
+        "kind": "trophy",
+        "chapterId": "skills-and-gear",
+        "where": "Enhance a Hozuki Pouch to the maximum level."
+      },
+      {
+        "id": "achievement-34",
+        "name": "Medical Marvel",
+        "kind": "trophy",
+        "chapterId": "skills-and-gear",
+        "where": "Enhance all Hozuki Pouches to the maximum level."
+      },
+      {
+        "id": "achievement-35",
+        "name": "A Real Charmer",
+        "kind": "trophy",
+        "chapterId": "skills-and-gear",
+        "where": "Enhance a charm to the maximum level."
+      },
+      {
+        "id": "achievement-36",
+        "name": "Charmed Life",
+        "kind": "trophy",
+        "chapterId": "skills-and-gear",
+        "where": "Enhance all charms to the maximum level."
+      },
+      {
+        "id": "achievement-37",
+        "name": "Burning Blade",
+        "kind": "trophy",
+        "chapterId": "combat-mastery",
+        "where": "Defeat 50 foes while in the Blazing State."
+      },
+      {
+        "id": "achievement-38",
+        "name": "Stop Motion",
+        "kind": "trophy",
+        "chapterId": "combat-mastery",
+        "where": "Perform 50 Reflex Combos."
+      },
+      {
+        "id": "achievement-39",
+        "name": "Wielder of Oni Armaments",
+        "kind": "trophy",
+        "chapterId": "combat-mastery",
+        "where": "Defeat 100 enemies with Oni Armaments."
+      },
+      {
+        "id": "achievement-40",
+        "name": "Oni's Oni",
+        "kind": "trophy",
+        "chapterId": "combat-mastery",
+        "where": "Defeat 50 enemies in the Oni Awakened state."
+      },
+      {
+        "id": "achievement-41",
+        "name": "Brutalist",
+        "kind": "trophy",
+        "chapterId": "combat-mastery",
+        "where": "Land 50 Issen attacks."
+      },
+      {
+        "id": "achievement-42",
+        "name": "Flow State",
+        "kind": "trophy",
+        "chapterId": "combat-mastery",
+        "where": "Defeat 50 enemies with Chain Issen attacks."
+      },
+      {
+        "id": "achievement-43",
+        "name": "Silent Violence",
+        "kind": "trophy",
+        "chapterId": "combat-mastery",
+        "where": "Assassinate 20 enemies."
+      },
+      {
+        "id": "achievement-44",
+        "name": "Pinch Hitter",
+        "kind": "trophy",
+        "chapterId": "combat-mastery",
+        "where": "Deflect 50 projectiles."
+      },
+      {
+        "id": "achievement-45",
+        "name": "Deadeye",
+        "kind": "trophy",
+        "chapterId": "combat-mastery",
+        "where": "Score 100 headshots with your bow."
+      },
+      {
+        "id": "achievement-46",
+        "name": "Winning Is What Matters",
+        "kind": "trophy",
+        "chapterId": "combat-mastery",
+        "where": "Carry out 50 attacks with environmental objects."
+      },
+      {
+        "id": "achievement-47",
+        "name": "Untouchable",
+        "kind": "trophy",
+        "chapterId": "combat-mastery",
+        "where": "Perform 50 Grab Reversals."
+      },
+      {
+        "id": "achievement-48",
+        "name": "Coming Through!",
+        "kind": "trophy",
+        "chapterId": "combat-mastery",
+        "where": "Break an enemy's guard 50 times."
+      },
+      {
+        "id": "achievement-49",
+        "name": "Helm Splitter",
+        "kind": "trophy",
+        "chapterId": "combat-mastery",
+        "where": "Break 100 shields or pieces of enemy armor."
+      },
+      {
+        "id": "achievement-50",
+        "name": "Get This Thing Off Me",
+        "kind": "trophy",
+        "chapterId": "combat-mastery",
+        "where": "Absorb 30 or more souls at once."
+      },
+      {
+        "id": "achievement-51",
+        "name": "Berserker",
+        "kind": "trophy",
+        "chapterId": "combat-mastery",
+        "where": "Defeat 3 enemies with continuous Break Issen attacks."
+      },
+      {
+        "id": "achievement-52",
+        "name": "Genma Griller",
+        "kind": "trophy",
+        "chapterId": "combat-mastery",
+        "where": "Set three enemies ablaze at once."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/onimusha-way-of-the-sword",
+    "Achievement data from Steam (Steam Web API, app 2638890)",
+    "StrategyWiki: no page for this game, nothing used",
+    "Fandom (onimusha.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://onimusha.fandom.com/wiki/Onimusha:_Way_of_the_Sword"
+  ],
+  "route": "original",
+  "notes": "Backlog game, added from the docs/PLAN.md candidate list. No StrategyWiki page. onimusha.fandom.com answers the API, with about 33 linked pages; names only were looked at, nothing copied. 16 of 52 Steam achievements are hidden; they sit in the main story chapter."
+}

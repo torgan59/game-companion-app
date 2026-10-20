@@ -1,0 +1,498 @@
+{
+  "id": "avowed",
+  "title": "Avowed",
+  "year": 2025,
+  "platforms": [
+    "PC",
+    "Xbox Series X|S"
+  ],
+  "rawgId": 471025,
+  "rawgSlug": "avowed",
+  "released": "2025-02-18",
+  "developers": [
+    "Obsidian Entertainment"
+  ],
+  "playtime": 9,
+  "genres": [
+    "RPG"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Full controller support",
+    "Steam Cloud",
+    "Atmospheric",
+    "RPG",
+    "Story Rich",
+    "Open World",
+    "First-Person",
+    "Third Person",
+    "Fantasy",
+    "Violent"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/3d3/3d33abf32d9fb92b9f242917abe276ba.jpg",
+  "steamAppId": 2457220,
+  "achievements": {
+    "total": 50,
+    "hidden": 19,
+    "examples": [
+      {
+        "name": "Grounded",
+        "percent": 56.2
+      },
+      {
+        "name": "Can't We All Get Along?",
+        "percent": 52.8
+      },
+      {
+        "name": "Alpha Strike Protocol",
+        "percent": 47.7
+      },
+      {
+        "name": "Tired Of Being Nice",
+        "percent": 3.8
+      },
+      {
+        "name": "Pants on Fire",
+        "percent": 2.2
+      },
+      {
+        "name": "A Test of Your Reflexes",
+        "percent": 1.9
+      },
+      {
+        "name": "Historian",
+        "percent": 1.4
+      },
+      {
+        "name": "Cooking By The Book",
+        "percent": 1.3
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": false,
+      "pages": 0,
+      "reason": "No page for Avowed (MediaWiki API returned missing; search empty)"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 80,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://avowed.fandom.com/wiki/Avowed"
+    }
+  },
+  "game": {
+    "id": "avowed",
+    "title": "Avowed",
+    "platforms": [
+      "PC",
+      "Xbox Series X|S"
+    ],
+    "blurb": "First-person fantasy RPG from Obsidian Entertainment, set in the Living Lands, released 2025-02-18. RAWG average playtime: 9 hours (well under a full run). Genre: RPG. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#2E7D6B",
+    "chapters": [
+      {
+        "id": "main-story",
+        "title": "The Main Story",
+        "summary": "The Envoy's journey through the Living Lands.",
+        "steps": []
+      },
+      {
+        "id": "companions",
+        "title": "Companions",
+        "summary": "Kai, Giatta, Marius and Yatzli: their abilities and training.",
+        "steps": []
+      },
+      {
+        "id": "exploration",
+        "title": "Exploring the Living Lands",
+        "summary": "Shrines, caches, dungeons, camps, treasure maps, beacons and the map.",
+        "steps": []
+      },
+      {
+        "id": "side-quests",
+        "title": "Side Quests and Bounties",
+        "summary": "Side quests, bounties, ancient memories and Strangled Adra.",
+        "steps": []
+      },
+      {
+        "id": "choices-and-combat",
+        "title": "Choices and Combat",
+        "summary": "Persuasion, lies, violence, stealth, parries and gear.",
+        "steps": []
+      },
+      {
+        "id": "difficulty",
+        "title": "Path of the Damned",
+        "summary": "Finishing on the hardest difficulty.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Avowed",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Complete Avowed on any difficulty."
+      },
+      {
+        "id": "achievement-2",
+        "name": "A Cistern Warning",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-3",
+        "name": "A Proper Introduction",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-4",
+        "name": "You've Got It From Here",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-5",
+        "name": "Fior Extinguisher",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-6",
+        "name": "Spectral Evidence",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-7",
+        "name": "It'll Cost Ya",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-8",
+        "name": "Allochory",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-9",
+        "name": "Parasitoid",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-10",
+        "name": "Two Bears High-Fiving",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-11",
+        "name": "Everyone Disliked That",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-12",
+        "name": "Luckier Than They Know",
+        "kind": "trophy",
+        "chapterId": "companions",
+        "where": "Unlock all of Kai's abilities."
+      },
+      {
+        "id": "achievement-13",
+        "name": "A Little Power Goes a Long Way",
+        "kind": "trophy",
+        "chapterId": "companions",
+        "where": "Unlock all of Giatta's abilities."
+      },
+      {
+        "id": "achievement-14",
+        "name": "Bullseye",
+        "kind": "trophy",
+        "chapterId": "companions",
+        "where": "Unlock all of Marius's abilities."
+      },
+      {
+        "id": "achievement-15",
+        "name": "Slay!",
+        "kind": "trophy",
+        "chapterId": "companions",
+        "where": "Unlock all of Yatzli's abilities."
+      },
+      {
+        "id": "achievement-16",
+        "name": "Pantheon Purist",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Collect and place all of the God Shrine Totems & Fragments."
+      },
+      {
+        "id": "achievement-17",
+        "name": "Peak Performance",
+        "kind": "trophy",
+        "chapterId": "choices-and-combat",
+        "where": "Reach max level."
+      },
+      {
+        "id": "achievement-18",
+        "name": "Pathfinder",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Find all items from Treasure Maps."
+      },
+      {
+        "id": "achievement-19",
+        "name": "Pillars of Eternity",
+        "kind": "trophy",
+        "chapterId": "side-quests",
+        "where": "Cleanse all the Strangled Adra across all regions."
+      },
+      {
+        "id": "achievement-20",
+        "name": "We Remember",
+        "kind": "trophy",
+        "chapterId": "side-quests",
+        "where": "Complete all Ancient Memories."
+      },
+      {
+        "id": "achievement-21",
+        "name": "Gotta Cache 'Em All",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Find and open all Pargrunen Caches across the Living Lands."
+      },
+      {
+        "id": "achievement-22",
+        "name": "Bounty Hunter",
+        "kind": "trophy",
+        "chapterId": "side-quests",
+        "where": "Complete all Bounties from all regions."
+      },
+      {
+        "id": "achievement-23",
+        "name": "Kith Lord",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Discover all Party Camps across the Living Lands."
+      },
+      {
+        "id": "achievement-24",
+        "name": "Dungeon Siege",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Enter every dungeon across all regions."
+      },
+      {
+        "id": "achievement-25",
+        "name": "Alpha Strike Protocol",
+        "kind": "trophy",
+        "chapterId": "choices-and-combat",
+        "where": "Kill 15 enemies using stealth attacks."
+      },
+      {
+        "id": "achievement-26",
+        "name": "Jingle, Jangle, Jingle",
+        "kind": "trophy",
+        "chapterId": "choices-and-combat",
+        "where": "Equip a fully upgraded set of armor."
+      },
+      {
+        "id": "achievement-27",
+        "name": "Tyranny",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-28",
+        "name": "Pentiment",
+        "kind": "trophy",
+        "chapterId": "side-quests",
+        "where": "Complete every side quest."
+      },
+      {
+        "id": "achievement-29",
+        "name": "Big Iron On Your Hip",
+        "kind": "trophy",
+        "chapterId": "choices-and-combat",
+        "where": "Equip a fully upgraded weapon."
+      },
+      {
+        "id": "achievement-30",
+        "name": "Grounded",
+        "kind": "trophy",
+        "chapterId": "choices-and-combat",
+        "where": "Slay 10 Spiders and 10 Beetles."
+      },
+      {
+        "id": "achievement-31",
+        "name": "The Outer Worlds",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Unlock all Fast Travel beacons."
+      },
+      {
+        "id": "achievement-32",
+        "name": "A Test of Your Reflexes",
+        "kind": "trophy",
+        "chapterId": "difficulty",
+        "where": "Complete Avowed on the difficulty Path of the Damned."
+      },
+      {
+        "id": "achievement-33",
+        "name": "Get in the Statue, Envoy",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-34",
+        "name": "We're All In This Together",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-35",
+        "name": "Dream Fungi Rotation",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-36",
+        "name": "Skeyt Digger",
+        "kind": "trophy",
+        "chapterId": "choices-and-combat",
+        "where": "Demand payment for your services 5 times."
+      },
+      {
+        "id": "achievement-37",
+        "name": "Reverse Card",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-38",
+        "name": "Retirement Plan",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-39",
+        "name": "Hawkeye",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-40",
+        "name": "That Sign Can't Stop Me Because I Can't Read",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-41",
+        "name": "Tired Of Being Nice",
+        "kind": "trophy",
+        "chapterId": "choices-and-combat",
+        "where": "Resort to violence in a conversation 10 times."
+      },
+      {
+        "id": "achievement-42",
+        "name": "Can't We All Get Along?",
+        "kind": "trophy",
+        "chapterId": "choices-and-combat",
+        "where": "Resolve a potential conflict peacefully 5 times."
+      },
+      {
+        "id": "achievement-43",
+        "name": "A Well Overflowing",
+        "kind": "trophy",
+        "chapterId": "choices-and-combat",
+        "where": "Max out an attribute."
+      },
+      {
+        "id": "achievement-44",
+        "name": "Pants on Fire",
+        "kind": "trophy",
+        "chapterId": "choices-and-combat",
+        "where": "Lie 15 times."
+      },
+      {
+        "id": "achievement-45",
+        "name": "Training Arc",
+        "kind": "trophy",
+        "chapterId": "companions",
+        "where": "Complete all training sessions with companions."
+      },
+      {
+        "id": "achievement-46",
+        "name": "Now Riposte!",
+        "kind": "trophy",
+        "chapterId": "choices-and-combat",
+        "where": "Parry an enemy's attacks 25 times."
+      },
+      {
+        "id": "achievement-47",
+        "name": "Cooking By The Book",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Cook every recipe at your Party Camp."
+      },
+      {
+        "id": "achievement-48",
+        "name": "Historian",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Collect all volumes of the History of the Living Lands in the Eothasian Temple."
+      },
+      {
+        "id": "achievement-49",
+        "name": "Explorer",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Complete Sanza's map of the Living Lands."
+      },
+      {
+        "id": "achievement-50",
+        "name": "Play Dead",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/avowed",
+    "Achievement data from Steam (Steam Web API, app 2457220)",
+    "StrategyWiki: no page for this game, nothing used",
+    "Fandom (avowed.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://avowed.fandom.com/wiki/Avowed"
+  ],
+  "route": "original",
+  "notes": "Backlog game, added from the docs/PLAN.md candidate list. No StrategyWiki page. avowed.fandom.com answers the API, with about 81 linked pages; names only were looked at, nothing copied. The Steam schema calls the app \"Alabama\" (an internal codename); the store list confirms app 2457220. 19 of 50 Steam achievements are hidden; they sit in the main story chapter."
+}
