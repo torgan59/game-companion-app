@@ -1,0 +1,636 @@
+{
+  "id": "mafia-ii",
+  "title": "Mafia II",
+  "year": 2010,
+  "platforms": [
+    "PC",
+    "PlayStation 3",
+    "Xbox 360",
+    "Xbox One"
+  ],
+  "rawgId": 1416,
+  "rawgSlug": "mafia-ii",
+  "released": "2010-08-24",
+  "developers": [
+    "2K Czech"
+  ],
+  "playtime": 13,
+  "genres": [
+    "Action",
+    "Shooter"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Multiplayer",
+    "Atmospheric",
+    "Great Soundtrack",
+    "RPG",
+    "Story Rich",
+    "Open World",
+    "Third Person",
+    "Partial Controller Support",
+    "Classic",
+    "Sandbox"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/9e5/9e5b274c7e3aa5e30beba31b834b0e7e.jpg",
+  "steamAppId": 1030830,
+  "achievements": {
+    "total": 67,
+    "hidden": 0,
+    "examples": [
+      {
+        "name": "Viva La Resistenza!",
+        "percent": 83.3
+      },
+      {
+        "name": "Big Brother",
+        "percent": 77.6
+      },
+      {
+        "name": "Back In Business",
+        "percent": 69.7
+      },
+      {
+        "name": "Fireworker",
+        "percent": 2.4
+      },
+      {
+        "name": "Millionaire",
+        "percent": 2.4
+      },
+      {
+        "name": "Jack of all Trades",
+        "percent": 2.3
+      },
+      {
+        "name": "Massacre",
+        "percent": 2.3
+      },
+      {
+        "name": "Explorer",
+        "percent": 2.1
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Mafia_II",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 70,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://mafiagame.fandom.com/wiki/Mafia_II"
+    }
+  },
+  "game": {
+    "id": "mafia-ii",
+    "title": "Mafia II",
+    "platforms": [
+      "PC",
+      "PlayStation 3",
+      "Xbox 360",
+      "Xbox One"
+    ],
+    "blurb": "Story-driven crime action game in which Vito Scaletta comes home from the war and joins the mob in Empire Bay, from 2K Czech, released 2010-08-24. RAWG average playtime: 13 hours. Genres: Action, Shooter. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#7A2E2E",
+    "chapters": [
+      {
+        "id": "main-story",
+        "title": "The Main Story",
+        "summary": "Vito rises through the family, chapter by chapter. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "mission-feats",
+        "title": "Optional Mission Feats",
+        "summary": "Extra goals inside story chapters: helping strangers, stealth and beating the clock.",
+        "steps": []
+      },
+      {
+        "id": "difficulty",
+        "title": "Difficulty",
+        "summary": "Finishing the story on Medium or Hard.",
+        "steps": []
+      },
+      {
+        "id": "driving",
+        "title": "Cars and Driving",
+        "summary": "Speed, jumps, distance, fuel economy, upgrades and selling cars at the scrapyard and the docks.",
+        "steps": []
+      },
+      {
+        "id": "combat-and-crime",
+        "title": "Combat and Crime",
+        "summary": "Headshots, melee, robbing stores and surviving the police.",
+        "steps": []
+      },
+      {
+        "id": "collectibles-and-style",
+        "title": "Collectibles and Style",
+        "summary": "Playboy magazines, wanted posters, other collectibles and luxury suits.",
+        "steps": []
+      },
+      {
+        "id": "joes-adventures",
+        "title": "Joe's Adventures (DLC)",
+        "summary": "Joe's own levels, score actions, jumps and drifts.",
+        "steps": []
+      },
+      {
+        "id": "jimmys-vendetta",
+        "title": "Jimmy's Vendetta (DLC)",
+        "summary": "Jimmy's missions, point multipliers, car dealer jobs and big totals.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Viva La Resistenza!",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Complete Chapter 1"
+      },
+      {
+        "id": "achievement-2",
+        "name": "Home Sweet Home",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Complete Chapter 2"
+      },
+      {
+        "id": "achievement-3",
+        "name": "Back In Business",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Do your first job for Mike Bruski"
+      },
+      {
+        "id": "achievement-4",
+        "name": "Big Brother",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Protect Francesca"
+      },
+      {
+        "id": "achievement-5",
+        "name": "A Real Gentleman",
+        "kind": "trophy",
+        "chapterId": "mission-feats",
+        "where": "Help the woman fix her car in Home Sweet Home"
+      },
+      {
+        "id": "achievement-6",
+        "name": "The Price of Oil",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Complete Chapter 3"
+      },
+      {
+        "id": "achievement-7",
+        "name": "The Professional",
+        "kind": "trophy",
+        "chapterId": "mission-feats",
+        "where": "Obtain the ration stamps without raising the alarm"
+      },
+      {
+        "id": "achievement-8",
+        "name": "Mail Man",
+        "kind": "trophy",
+        "chapterId": "mission-feats",
+        "where": "Sell all the gas stamps before the time runs out"
+      },
+      {
+        "id": "achievement-9",
+        "name": "Night Shift",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Complete Chapter 4"
+      },
+      {
+        "id": "achievement-10",
+        "name": "Good Spirits",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Complete Chapter 5"
+      },
+      {
+        "id": "achievement-11",
+        "name": "Time Well Spent",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Complete Chapter 6"
+      },
+      {
+        "id": "achievement-12",
+        "name": "Last Respects",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Complete Chapter 7"
+      },
+      {
+        "id": "achievement-13",
+        "name": "The Wild Ones",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Complete Chapter 8"
+      },
+      {
+        "id": "achievement-14",
+        "name": "Man of Honor",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Complete Chapter 9"
+      },
+      {
+        "id": "achievement-15",
+        "name": "Checking Out",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Complete Chapter 10"
+      },
+      {
+        "id": "achievement-16",
+        "name": "Our Good Friend",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Complete Chapter 11"
+      },
+      {
+        "id": "achievement-17",
+        "name": "Wake Up Call",
+        "kind": "trophy",
+        "chapterId": "mission-feats",
+        "where": "Help Leo out of a tricky situation without getting caught"
+      },
+      {
+        "id": "achievement-18",
+        "name": "Chasing the Dragon",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Complete Chapter 12"
+      },
+      {
+        "id": "achievement-19",
+        "name": "Chop Chop!",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Complete Chapter 13"
+      },
+      {
+        "id": "achievement-20",
+        "name": "Men at Work",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Complete Chapter 14"
+      },
+      {
+        "id": "achievement-21",
+        "name": "Finish Him",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Finish what you started"
+      },
+      {
+        "id": "achievement-22",
+        "name": "Made Man",
+        "kind": "trophy",
+        "chapterId": "difficulty",
+        "where": "Finish the story on Medium difficulty level or higher"
+      },
+      {
+        "id": "achievement-23",
+        "name": "Tough Nut",
+        "kind": "trophy",
+        "chapterId": "difficulty",
+        "where": "Finish the story on Hard difficulty level"
+      },
+      {
+        "id": "achievement-24",
+        "name": "Get Rich or Die Flyin'",
+        "kind": "trophy",
+        "chapterId": "driving",
+        "where": "Get all wheels of your car in the air for atleast 20 meters and then touch the ground again"
+      },
+      {
+        "id": "achievement-25",
+        "name": "Pedal to the Metal",
+        "kind": "trophy",
+        "chapterId": "driving",
+        "where": "Travel at 125mph"
+      },
+      {
+        "id": "achievement-26",
+        "name": "One Careful Owner",
+        "kind": "trophy",
+        "chapterId": "driving",
+        "where": "Travel a total of 50 miles in one vehicle"
+      },
+      {
+        "id": "achievement-27",
+        "name": "Proper Scrapper",
+        "kind": "trophy",
+        "chapterId": "driving",
+        "where": "Sell 5 vehicles to Mike Bruski at the scrapyard"
+      },
+      {
+        "id": "achievement-28",
+        "name": "Exporter",
+        "kind": "trophy",
+        "chapterId": "driving",
+        "where": "Sell 5 vehicles to Derek at the dock"
+      },
+      {
+        "id": "achievement-29",
+        "name": "Cruise Control",
+        "kind": "trophy",
+        "chapterId": "driving",
+        "where": "Keep any vehicle at 30mpg or over for 5 or more minutes"
+      },
+      {
+        "id": "achievement-30",
+        "name": "Hairdresser",
+        "kind": "trophy",
+        "chapterId": "combat-and-crime",
+        "where": "Kill 5 enemies in rapid succession with a headshot"
+      },
+      {
+        "id": "achievement-31",
+        "name": "Knucklehead",
+        "kind": "trophy",
+        "chapterId": "combat-and-crime",
+        "where": "Kill a total of 30 enemies using melee attacks"
+      },
+      {
+        "id": "achievement-32",
+        "name": "Stuck Up",
+        "kind": "trophy",
+        "chapterId": "combat-and-crime",
+        "where": "Rob 5 stores in under 5 minutes"
+      },
+      {
+        "id": "achievement-33",
+        "name": "The Enforcer",
+        "kind": "trophy",
+        "chapterId": "combat-and-crime",
+        "where": "Kill 50 enemies"
+      },
+      {
+        "id": "achievement-34",
+        "name": "Sharp Suiter",
+        "kind": "trophy",
+        "chapterId": "collectibles-and-style",
+        "where": "Buy your first luxury suit"
+      },
+      {
+        "id": "achievement-35",
+        "name": "Tuned Ride",
+        "kind": "trophy",
+        "chapterId": "driving",
+        "where": "Upgrade one of your cars one level"
+      },
+      {
+        "id": "achievement-36",
+        "name": "Dream Handling",
+        "kind": "trophy",
+        "chapterId": "driving",
+        "where": "Upgrade one your cars to the maximum level"
+      },
+      {
+        "id": "achievement-37",
+        "name": "Hard to Kill",
+        "kind": "trophy",
+        "chapterId": "combat-and-crime",
+        "where": "The police want you dead. Survive for 10 minutes."
+      },
+      {
+        "id": "achievement-38",
+        "name": "Collector's Item",
+        "kind": "trophy",
+        "chapterId": "collectibles-and-style",
+        "where": "Find at least one collectible in the game"
+      },
+      {
+        "id": "achievement-39",
+        "name": "Petrol Head",
+        "kind": "trophy",
+        "chapterId": "driving",
+        "where": "Drive at least 30 different vehicles"
+      },
+      {
+        "id": "achievement-40",
+        "name": "Ladies' Man",
+        "kind": "trophy",
+        "chapterId": "collectibles-and-style",
+        "where": "Find all of the Playboy magazines"
+      },
+      {
+        "id": "achievement-41",
+        "name": "Card Sharp",
+        "kind": "trophy",
+        "chapterId": "collectibles-and-style",
+        "where": "Find all of the wanted posters"
+      },
+      {
+        "id": "achievement-42",
+        "name": "He Who Pays The Barber",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Improve the dockworkers' haircuts"
+      },
+      {
+        "id": "achievement-43",
+        "name": "A Lesson In Manners",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Show that you know how to treat a lady"
+      },
+      {
+        "id": "achievement-44",
+        "name": "Hey Joe",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Clean up after Joe"
+      },
+      {
+        "id": "achievement-45",
+        "name": "End of the Rainbow",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Settle the score with the Irish once and for all"
+      },
+      {
+        "id": "achievement-46",
+        "name": "The Mafia Never Forgets",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Pay a visit to an old friend"
+      },
+      {
+        "id": "achievement-47",
+        "name": "Out for Justice",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Learn what it means to be a Scaletta"
+      },
+      {
+        "id": "achievement-48",
+        "name": "What Witness?",
+        "kind": "trophy",
+        "chapterId": "joes-adventures",
+        "where": "Finish the Witness level in \"Joe's Adventures.\""
+      },
+      {
+        "id": "achievement-49",
+        "name": "Arctic Grave",
+        "kind": "trophy",
+        "chapterId": "joes-adventures",
+        "where": "Push the chief witness into the ice lake in \"Joe's Adventures.\""
+      },
+      {
+        "id": "achievement-50",
+        "name": "Dockyard Discord",
+        "kind": "trophy",
+        "chapterId": "joes-adventures",
+        "where": "Finish the Connection level in \"Joe's Adventures.\""
+      },
+      {
+        "id": "achievement-51",
+        "name": "Five Finger Discount",
+        "kind": "trophy",
+        "chapterId": "joes-adventures",
+        "where": "Finish the Supermarket level in \"Joe's Adventures.\""
+      },
+      {
+        "id": "achievement-52",
+        "name": "Mind the Goods",
+        "kind": "trophy",
+        "chapterId": "joes-adventures",
+        "where": "Finish the Cathouse level in \"Joe's Adventures.\""
+      },
+      {
+        "id": "achievement-53",
+        "name": "Same Shirt Different Day",
+        "kind": "trophy",
+        "chapterId": "joes-adventures",
+        "where": "Finish Joe's Adventures on any difficulty."
+      },
+      {
+        "id": "achievement-54",
+        "name": "Hypersonic",
+        "kind": "trophy",
+        "chapterId": "joes-adventures",
+        "where": "Reach 2000 points for one velocity run in \"Joe's Adventures.\""
+      },
+      {
+        "id": "achievement-55",
+        "name": "Jacked Jumper",
+        "kind": "trophy",
+        "chapterId": "joes-adventures",
+        "where": "Reach 200 points for one Jump in \"Joe's Adventures.\""
+      },
+      {
+        "id": "achievement-56",
+        "name": "Driftin' Daddy-O",
+        "kind": "trophy",
+        "chapterId": "joes-adventures",
+        "where": "Reach 200 points for one Drift in \"Joe's Adventures.\""
+      },
+      {
+        "id": "achievement-57",
+        "name": "Jack of all Trades",
+        "kind": "trophy",
+        "chapterId": "joes-adventures",
+        "where": "Reach 10 different score actions in one mission in \"Joe's Adventures.\""
+      },
+      {
+        "id": "achievement-58",
+        "name": "First Step",
+        "kind": "trophy",
+        "chapterId": "jimmys-vendetta",
+        "where": "Complete your first mission in \"Jimmy's Vendetta.\""
+      },
+      {
+        "id": "achievement-59",
+        "name": "Faster than Light",
+        "kind": "trophy",
+        "chapterId": "jimmys-vendetta",
+        "where": "Achieve a 10x point multiplier in \"Jimmy's Vendetta.\""
+      },
+      {
+        "id": "achievement-60",
+        "name": "Explorer",
+        "kind": "trophy",
+        "chapterId": "jimmys-vendetta",
+        "where": "Drive a total of 1,000 miles in vehicles in \"Jimmy's Vendetta.\""
+      },
+      {
+        "id": "achievement-61",
+        "name": "Armament King",
+        "kind": "trophy",
+        "chapterId": "jimmys-vendetta",
+        "where": "Kill your enemies in \"Jimmy's Vendetta\" with every weapon available in the game."
+      },
+      {
+        "id": "achievement-62",
+        "name": "Fireworker",
+        "kind": "trophy",
+        "chapterId": "jimmys-vendetta",
+        "where": "Destroy 100 vehicles in \"Jimmy’s Vendetta.\""
+      },
+      {
+        "id": "achievement-63",
+        "name": "Sharpshooter",
+        "kind": "trophy",
+        "chapterId": "jimmys-vendetta",
+        "where": "Kill 100 enemies by headshots in \"Jimmy's Vendetta.\""
+      },
+      {
+        "id": "achievement-64",
+        "name": "Carnapper",
+        "kind": "trophy",
+        "chapterId": "jimmys-vendetta",
+        "where": "Finish all Car Dealer missions in \"Jimmy's Vendetta.\""
+      },
+      {
+        "id": "achievement-65",
+        "name": "Revenged",
+        "kind": "trophy",
+        "chapterId": "jimmys-vendetta",
+        "where": "Finish \"Jimmy's Vendetta\" on any difficulty level."
+      },
+      {
+        "id": "achievement-66",
+        "name": "Millionaire",
+        "kind": "trophy",
+        "chapterId": "jimmys-vendetta",
+        "where": "Earn 1,000,000 points in \"Jimmy's Vendetta.\""
+      },
+      {
+        "id": "achievement-67",
+        "name": "Massacre",
+        "kind": "trophy",
+        "chapterId": "jimmys-vendetta",
+        "where": "Kill 1,000 enemies in \"Jimmy's Vendetta.\""
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/mafia-ii",
+    "Achievement data from Steam (Steam Web API, app 1030830)",
+    "StrategyWiki: no usable walkthrough, nothing used — https://strategywiki.org/wiki/Mafia_II",
+    "Fandom (mafiagame.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://mafiagame.fandom.com/wiki/Mafia_II"
+  ],
+  "route": "original",
+  "notes": "Backlog game, picked from RAWG's most-added list for its year (docs/PLAN.md section 2 ordering). This entry uses the Steam app for Mafia II: Definitive Edition (1030830), the edition on sale; the original is still listed as \"Mafia II (Classic)\" (50130). Both schemas have the same 67 achievements. The Definitive Edition schema calls the app \"RYE\" (an internal codename). RAWG's entry is the original 2010 game (id 1416); RAWG also has a separate Definitive Edition entry (id 442855). StrategyWiki has a page at completion stage 0: its Table of Contents lists 15 story chapters plus Characters, Vehicles, Extras and Gameplay, but only \"Chapter 6: Time Well Spent\" (about 3,500 characters), Controls (about 2,500) and the Table of Contents (about 1,500) are written. So it was not recorded in sw-structure.json and swUsed is off. mafiagame.fandom.com answers the API, with about 70 linked pages, including \"Joe's Adventures\", \"Jimmy's Vendetta\", \"The Betrayal of Jimmy\" and several outfit packs; names only were looked at, nothing copied. None of the 67 Steam achievements is hidden. Achievements with story-style descriptions (\"Finish what you started\", \"Pay a visit to an old friend\", \"Learn what it means to be a Scaletta\" and others) were put in the main story chapter, which may spoil a little."
+}

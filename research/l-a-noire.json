@@ -1,0 +1,627 @@
+{
+  "id": "l-a-noire",
+  "title": "L.A. Noire",
+  "year": 2011,
+  "platforms": [
+    "PlayStation 4",
+    "PlayStation 3",
+    "Xbox 360",
+    "PC",
+    "Xbox One",
+    "Nintendo Switch"
+  ],
+  "rawgId": 4514,
+  "rawgSlug": "la-noire",
+  "released": "2011-05-17",
+  "developers": [
+    "Team Bondi"
+  ],
+  "playtime": 7,
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Atmospheric",
+    "RPG",
+    "Story Rich",
+    "Open World",
+    "Third Person",
+    "Partial Controller Support",
+    "Third-Person Shooter",
+    "Nudity",
+    "Mystery",
+    "Mature",
+    "Cinematic"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/e2d/e2d3f396b16dded0f841c17c9799a882.jpg",
+  "steamAppId": 110800,
+  "achievements": {
+    "total": 60,
+    "hidden": 25,
+    "examples": [
+      {
+        "name": "One For The File",
+        "percent": 65.2
+      },
+      {
+        "name": "The Plot Thickens",
+        "percent": 62.1
+      },
+      {
+        "name": "A Cop On Every Corner",
+        "percent": 61.0
+      },
+      {
+        "name": "Star Map",
+        "percent": 2.0
+      },
+      {
+        "name": "Public Menace",
+        "percent": 1.7
+      },
+      {
+        "name": "The City Of The Angels",
+        "percent": 1.6
+      },
+      {
+        "name": "Hollywoodland",
+        "percent": 1.6
+      },
+      {
+        "name": "Auto Fanatic",
+        "percent": 1.5
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 33,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/L.A._Noire",
+      "completionStage": 3,
+      "writtenSubpages": [
+        "A Different Kind of War",
+        "A Marriage Made in Heaven",
+        "A Polite Invitation",
+        "A Slip of the Tongue",
+        "A Walk in Elysian Fields",
+        "Achievements and trophies",
+        "Armed and Dangerous",
+        "Buyer Beware",
+        "Controls",
+        "House of Sticks",
+        "Landmarks",
+        "Manifest Destiny",
+        "Nicholson Electroplating",
+        "Outfits",
+        "Reefer Madness",
+        "Street Crimes",
+        "Table of Contents",
+        "The Black Caesar",
+        "The Consul's Car",
+        "The Driver's Seat",
+        "The Fallen Idol",
+        "The Gas Man",
+        "The Golden Butterfly",
+        "The Naked City",
+        "The Quarter Moon Murders",
+        "The Red Lipstick Murder",
+        "The Set Up",
+        "The Silk Stocking Murder",
+        "The Studio Secretary Murder",
+        "The White Shoe Slaying",
+        "Upon Reflection",
+        "Vehicles",
+        "Warrants Outstanding"
+      ],
+      "reason": "Real walkthrough structure; chapter order taken from its Table of Contents"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 63,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://lanoire.fandom.com/wiki/L.A._Noire"
+    }
+  },
+  "game": {
+    "id": "l-a-noire",
+    "title": "L.A. Noire",
+    "platforms": [
+      "PlayStation 4",
+      "PlayStation 3",
+      "Xbox 360",
+      "PC",
+      "Xbox One",
+      "Nintendo Switch"
+    ],
+    "blurb": "Detective action-adventure set in Los Angeles after the Second World War, in which Cole Phelps joins the LAPD and solves cases through clues, witness statements and interrogation, from Team Bondi, released 2011-05-17. RAWG average playtime: 7 hours. Genres: Action, Adventure. Chapter order follows the StrategyWiki walkthrough (CC BY-SA 4.0), grouped into runs of cases.",
+    "accent": "#8C6A3C",
+    "chapters": [
+      {
+        "id": "first-cases",
+        "title": "The First Cases",
+        "summary": "The opening cases in the guide's order: Upon Reflection, Armed and Dangerous and Warrants Outstanding.",
+        "steps": []
+      },
+      {
+        "id": "cases-buyer-beware-to-slip",
+        "title": "Buyer Beware to A Slip of the Tongue",
+        "summary": "Five cases from Buyer Beware through A Slip of the Tongue.",
+        "steps": []
+      },
+      {
+        "id": "cases-fallen-idol-to-quarter-moon",
+        "title": "The Fallen Idol to The Quarter Moon Murders",
+        "summary": "Six cases from The Fallen Idol through The Quarter Moon Murders. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "cases-black-caesar-to-naked-city",
+        "title": "The Black Caesar to The Naked City",
+        "summary": "Four cases: The Black Caesar, Reefer Madness, The Set Up and The Naked City. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "cases-manifest-destiny-to-nicholson",
+        "title": "Manifest Destiny to Nicholson Electroplating",
+        "summary": "Six cases from Manifest Destiny through Nicholson Electroplating. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "finale",
+        "title": "A Different Kind of War and Story Milestones",
+        "summary": "The last case, plus the hidden story achievements. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "detective-work",
+        "title": "Detective Work",
+        "summary": "Clues, inspection puzzles, interviews, tailing, five-star ratings and rank.",
+        "steps": []
+      },
+      {
+        "id": "streets-of-la",
+        "title": "Street Crimes, Driving and Collectibles",
+        "summary": "Street crime cases, landmarks, vehicles, gold film reels, gunplay and 100% completion.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Police Academy",
+        "kind": "trophy",
+        "chapterId": "finale",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-2",
+        "name": "Paved With Good Intentions",
+        "kind": "trophy",
+        "chapterId": "finale",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-3",
+        "name": "The Simple Art of Murder",
+        "kind": "trophy",
+        "chapterId": "finale",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-4",
+        "name": "No Rest For The Wicked",
+        "kind": "trophy",
+        "chapterId": "finale",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-5",
+        "name": "Moth To A Flame",
+        "kind": "trophy",
+        "chapterId": "finale",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-6",
+        "name": "A Cop On Every Corner",
+        "kind": "trophy",
+        "chapterId": "streets-of-la",
+        "where": "Complete a single street crime case."
+      },
+      {
+        "id": "achievement-7",
+        "name": "Johnny On The Spot",
+        "kind": "trophy",
+        "chapterId": "streets-of-la",
+        "where": "Respond to 20 street crime cases."
+      },
+      {
+        "id": "achievement-8",
+        "name": "The Long Arm Of The Law",
+        "kind": "trophy",
+        "chapterId": "streets-of-la",
+        "where": "Complete all street crime cases."
+      },
+      {
+        "id": "achievement-9",
+        "name": "The City Of The Angels",
+        "kind": "trophy",
+        "chapterId": "streets-of-la",
+        "where": "Reach 100% Game Complete."
+      },
+      {
+        "id": "achievement-10",
+        "name": "The Up And Up",
+        "kind": "trophy",
+        "chapterId": "detective-work",
+        "where": "Complete a story case with a five star rating."
+      },
+      {
+        "id": "achievement-11",
+        "name": "Shamus To The Stars",
+        "kind": "trophy",
+        "chapterId": "detective-work",
+        "where": "Complete all story cases with a five star rating."
+      },
+      {
+        "id": "achievement-12",
+        "name": "The Brass",
+        "kind": "trophy",
+        "chapterId": "detective-work",
+        "where": "Achieve maximum rank."
+      },
+      {
+        "id": "achievement-13",
+        "name": "Not So Hasty",
+        "kind": "trophy",
+        "chapterId": "detective-work",
+        "where": "Stop a fleeing suspect with a warning shot as an LAPD Detective."
+      },
+      {
+        "id": "achievement-14",
+        "name": "Asphalt Jungle",
+        "kind": "trophy",
+        "chapterId": "detective-work",
+        "where": "Chase down and tackle a fleeing suspect on foot as an LAPD Detective."
+      },
+      {
+        "id": "achievement-15",
+        "name": "Traffic Stop",
+        "kind": "trophy",
+        "chapterId": "streets-of-la",
+        "where": "Disable a suspect vehicle with help from your partner."
+      },
+      {
+        "id": "achievement-16",
+        "name": "The Straight Dope",
+        "kind": "trophy",
+        "chapterId": "detective-work",
+        "where": "Use evidence to prove a lie as an LAPD Detective or Investigator."
+      },
+      {
+        "id": "achievement-17",
+        "name": "One For The File",
+        "kind": "trophy",
+        "chapterId": "detective-work",
+        "where": "Find and inspect a clue as an LAPD Detective or Investigator."
+      },
+      {
+        "id": "achievement-18",
+        "name": "Golden Boy",
+        "kind": "trophy",
+        "chapterId": "detective-work",
+        "where": "Clear a case finding every clue as an LAPD Detective or Investigator."
+      },
+      {
+        "id": "achievement-19",
+        "name": "The Plot Thickens",
+        "kind": "trophy",
+        "chapterId": "detective-work",
+        "where": "Find and solve an inspection puzzle."
+      },
+      {
+        "id": "achievement-20",
+        "name": "Stab-Rite",
+        "kind": "trophy",
+        "chapterId": "finale",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-21",
+        "name": "Round Heels",
+        "kind": "trophy",
+        "chapterId": "finale",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-22",
+        "name": "The Fighting Sixth",
+        "kind": "trophy",
+        "chapterId": "finale",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-23",
+        "name": "Huckster",
+        "kind": "trophy",
+        "chapterId": "finale",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-24",
+        "name": "Lead Foot",
+        "kind": "trophy",
+        "chapterId": "streets-of-la",
+        "where": "Keep the needle above 80mph for more than ten seconds while driving."
+      },
+      {
+        "id": "achievement-25",
+        "name": "Miles On The Clock",
+        "kind": "trophy",
+        "chapterId": "streets-of-la",
+        "where": "Drive more than 194.7 miles."
+      },
+      {
+        "id": "achievement-26",
+        "name": "Wooden Overcoats",
+        "kind": "trophy",
+        "chapterId": "streets-of-la",
+        "where": "Bring down a total of 30 bad guys with head shots."
+      },
+      {
+        "id": "achievement-27",
+        "name": "Dead Men Are Heavier",
+        "kind": "trophy",
+        "chapterId": "streets-of-la",
+        "where": "Shoot and kill a total of 100 bad guys."
+      },
+      {
+        "id": "achievement-28",
+        "name": "Roscoe And Friends",
+        "kind": "trophy",
+        "chapterId": "streets-of-la",
+        "where": "Kill at least one bad guy with every gun."
+      },
+      {
+        "id": "achievement-29",
+        "name": "Magpie",
+        "kind": "trophy",
+        "chapterId": "detective-work",
+        "where": "Find and inspect 95% of all clues."
+      },
+      {
+        "id": "achievement-30",
+        "name": "The Shadow",
+        "kind": "trophy",
+        "chapterId": "detective-work",
+        "where": "Tail a suspect without being spotted, in a single case."
+      },
+      {
+        "id": "achievement-31",
+        "name": "The Third Degree",
+        "kind": "trophy",
+        "chapterId": "detective-work",
+        "where": "Correctly branch every question in every interview in a single story case."
+      },
+      {
+        "id": "achievement-32",
+        "name": "The Hunch",
+        "kind": "trophy",
+        "chapterId": "detective-work",
+        "where": "Use four intuition points in a single interview session, correctly branching each question."
+      },
+      {
+        "id": "achievement-33",
+        "name": "Star Map",
+        "kind": "trophy",
+        "chapterId": "streets-of-la",
+        "where": "Discover all landmark locations around the city."
+      },
+      {
+        "id": "achievement-34",
+        "name": "Public Menace",
+        "kind": "trophy",
+        "chapterId": "streets-of-la",
+        "where": "Rack up $47,000 in penalties during a single story case."
+      },
+      {
+        "id": "achievement-35",
+        "name": "The Moose",
+        "kind": "trophy",
+        "chapterId": "detective-work",
+        "where": "Follow Candy Edwards without using cover or incognito, except when starting or picking up the tail."
+      },
+      {
+        "id": "achievement-36",
+        "name": "Keep A Lid On",
+        "kind": "trophy",
+        "chapterId": "detective-work",
+        "where": "Complete a brawl without losing your hat as an LAPD Detective or Investigator."
+      },
+      {
+        "id": "achievement-37",
+        "name": "Auto Enthusiast",
+        "kind": "trophy",
+        "chapterId": "streets-of-la",
+        "where": "Drive 5 different vehicles."
+      },
+      {
+        "id": "achievement-38",
+        "name": "Auto Collector",
+        "kind": "trophy",
+        "chapterId": "streets-of-la",
+        "where": "Drive 40 different vehicles."
+      },
+      {
+        "id": "achievement-39",
+        "name": "Auto Fanatic",
+        "kind": "trophy",
+        "chapterId": "streets-of-la",
+        "where": "Drive every vehicle in the city."
+      },
+      {
+        "id": "achievement-40",
+        "name": "Hollywoodland",
+        "kind": "trophy",
+        "chapterId": "streets-of-la",
+        "where": "Find and inspect all gold film reels."
+      },
+      {
+        "id": "achievement-41",
+        "name": "The Printer's Devil",
+        "kind": "trophy",
+        "chapterId": "cases-buyer-beware-to-slip",
+        "where": "Complete 'A Slip of the Tongue'."
+      },
+      {
+        "id": "achievement-42",
+        "name": "Racing For Pinks",
+        "kind": "trophy",
+        "chapterId": "cases-buyer-beware-to-slip",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-43",
+        "name": "Femme Imbécile",
+        "kind": "trophy",
+        "chapterId": "cases-buyer-beware-to-slip",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-44",
+        "name": "Chop Shop",
+        "kind": "trophy",
+        "chapterId": "cases-buyer-beware-to-slip",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-45",
+        "name": "Nowhere In A Hurry",
+        "kind": "trophy",
+        "chapterId": "cases-buyer-beware-to-slip",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-46",
+        "name": "Eight Million Stories",
+        "kind": "trophy",
+        "chapterId": "cases-black-caesar-to-naked-city",
+        "where": "Complete 'The Naked City'."
+      },
+      {
+        "id": "achievement-47",
+        "name": "A Good-Looking Corpse",
+        "kind": "trophy",
+        "chapterId": "cases-black-caesar-to-naked-city",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-48",
+        "name": "Fakeloo",
+        "kind": "trophy",
+        "chapterId": "cases-black-caesar-to-naked-city",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-49",
+        "name": "Chauffeur Service",
+        "kind": "trophy",
+        "chapterId": "cases-black-caesar-to-naked-city",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-50",
+        "name": "Give My Regards",
+        "kind": "trophy",
+        "chapterId": "cases-black-caesar-to-naked-city",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-51",
+        "name": "The Big Unfriendly",
+        "kind": "trophy",
+        "chapterId": "cases-manifest-destiny-to-nicholson",
+        "where": "Complete 'Nicholson Electroplating'."
+      },
+      {
+        "id": "achievement-52",
+        "name": "The Nose Knows",
+        "kind": "trophy",
+        "chapterId": "cases-manifest-destiny-to-nicholson",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-53",
+        "name": "Skeletons In The Icebox",
+        "kind": "trophy",
+        "chapterId": "cases-manifest-destiny-to-nicholson",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-54",
+        "name": "Bulletproof Windshield",
+        "kind": "trophy",
+        "chapterId": "cases-manifest-destiny-to-nicholson",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-55",
+        "name": "Out Of The Frying Pan",
+        "kind": "trophy",
+        "chapterId": "cases-manifest-destiny-to-nicholson",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-56",
+        "name": "Every Herb Bearing Seed",
+        "kind": "trophy",
+        "chapterId": "cases-black-caesar-to-naked-city",
+        "where": "Complete 'Reefer Madness'."
+      },
+      {
+        "id": "achievement-57",
+        "name": "Spare A Dime",
+        "kind": "trophy",
+        "chapterId": "cases-black-caesar-to-naked-city",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-58",
+        "name": "Soup In The Pot",
+        "kind": "trophy",
+        "chapterId": "cases-black-caesar-to-naked-city",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-59",
+        "name": "High Flyer",
+        "kind": "trophy",
+        "chapterId": "cases-black-caesar-to-naked-city",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-60",
+        "name": "Forcible Rear Entry",
+        "kind": "trophy",
+        "chapterId": "cases-black-caesar-to-naked-city",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/la-noire",
+    "Achievement data from Steam (Steam Web API, app 110800)",
+    "Wiki structure from StrategyWiki under CC BY-SA 4.0 (chapter order from its walkthrough contents; titles reworded, no text copied) — https://strategywiki.org/wiki/L.A._Noire",
+    "Fandom (lanoire.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://lanoire.fandom.com/wiki/L.A._Noire"
+  ],
+  "route": "cc-by-sa",
+  "notes": "Backlog game, picked from RAWG's most-added list for its year (docs/PLAN.md section 2 ordering). Route cc-by-sa: StrategyWiki (CC BY-SA 4.0) is at completion stage 3, with 33 written subpages. Every case page in its Table of Contents is written (22 cases, from \"Upon Reflection\" to \"A Different Kind of War\", about 3,500 to 10,300 characters each), plus Controls, Outfits, Street Crimes, Landmarks, Vehicles and \"Achievements and trophies\". Its Gameplay, Walkthrough, Newspapers, Gold Film Reels, Badge Pursuit Challenge, Golden Records and Novels pages are linked but not written. Chapters follow its contents order; the split into runs of cases is my own grouping, not the guide's. Fandom lists desk pages named \"Patrol\", \"Traffic\", \"Homicide\", \"Vice\" and \"Arson\", but the data does not say which case belongs to which desk, so chapters are named after their cases. lanoire.fandom.com answers the API, with about 63 linked pages; names only were looked at, nothing copied. 25 of 60 Steam achievements are hidden. Four visible ones name a case (\"A Slip of the Tongue\", \"The Naked City\", \"Nicholson Electroplating\", \"Reefer Madness\"), each followed by a run of hidden ones (42 to 45, 47 to 50, 52 to 55, 57 to 60); those hidden ones were placed with the named case by position, which needs checking. The other 9 hidden ones (1 to 5 and 20 to 23) sit in the finale chapter as a placeholder. RAWG lists a playtime of only 7 hours, which looks low."
+}

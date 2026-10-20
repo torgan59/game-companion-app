@@ -1,0 +1,458 @@
+{
+  "id": "darksiders",
+  "title": "Darksiders",
+  "year": 2010,
+  "platforms": [
+    "PC",
+    "PlayStation 3",
+    "Xbox One",
+    "Xbox 360",
+    "Nintendo Switch"
+  ],
+  "rawgId": 4502,
+  "rawgSlug": "darksiders",
+  "released": "2010-01-05",
+  "developers": [
+    "THQ",
+    "Vigil Games"
+  ],
+  "playtime": 3,
+  "genres": [
+    "Action"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Steam Cloud",
+    "RPG",
+    "Open World",
+    "Third Person",
+    "Partial Controller Support",
+    "Fantasy",
+    "Gore",
+    "Action-Adventure",
+    "Action RPG",
+    "Controller"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/8d4/8d46786ca86b1d95f3dc7e700e2dc4dd.jpg",
+  "steamAppId": 462780,
+  "achievements": {
+    "total": 43,
+    "hidden": 2,
+    "examples": [
+      {
+        "name": "Death Dealer",
+        "percent": 63.0
+      },
+      {
+        "name": "To Move A Mountain",
+        "percent": 60.4
+      },
+      {
+        "name": "Prison Break",
+        "percent": 55.3
+      },
+      {
+        "name": "Horseman",
+        "percent": 5.7
+      },
+      {
+        "name": "Battle Hardened",
+        "percent": 5.5
+      },
+      {
+        "name": "Improvised Kills",
+        "percent": 4.5
+      },
+      {
+        "name": "BFA",
+        "percent": 4.3
+      },
+      {
+        "name": "Dark Rider",
+        "percent": 4.3
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Darksiders",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 53,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://darksiders.fandom.com/wiki/Darksiders"
+    }
+  },
+  "game": {
+    "id": "darksiders",
+    "title": "Darksiders",
+    "platforms": [
+      "PC",
+      "PlayStation 3",
+      "Xbox One",
+      "Xbox 360",
+      "Nintendo Switch"
+    ],
+    "blurb": "Action-adventure hack and slash in which War, one of the Four Horsemen of the Apocalypse, fights across a ruined Earth, from Vigil Games and THQ, released 2010-01-05. RAWG average playtime: 3 hours. Genre: Action. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#8C1C13",
+    "chapters": [
+      {
+        "id": "main-story",
+        "title": "The Main Story",
+        "summary": "War meets allies and faces a string of bosses on the ruined Earth. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "difficulty",
+        "title": "Difficulty Runs",
+        "summary": "Finishing the game on Easy, Normal and Apocalyptic.",
+        "steps": []
+      },
+      {
+        "id": "weapons-and-abilities",
+        "title": "Weapons, Gear and Abilities",
+        "summary": "Collecting each weapon and tool, the armour set, and new abilities.",
+        "steps": []
+      },
+      {
+        "id": "collectibles-and-upgrades",
+        "title": "Collectibles and Upgrades",
+        "summary": "Lifestones, wrath cores, wrath powers, artifacts and maxing out every weapon.",
+        "steps": []
+      },
+      {
+        "id": "riding-and-flying",
+        "title": "Riding and Flying",
+        "summary": "Riding your horse and fighting from the angelic beast.",
+        "steps": []
+      },
+      {
+        "id": "combat",
+        "title": "Combat",
+        "summary": "Slaying demons and angels, wrath attacks and using the environment.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "BFA",
+        "kind": "trophy",
+        "chapterId": "collectibles-and-upgrades",
+        "where": "Unlocked EVERYTHING!"
+      },
+      {
+        "id": "achievement-2",
+        "name": "Prison Break",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Free Samael from his prison"
+      },
+      {
+        "id": "achievement-3",
+        "name": "Death Dealer",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Meet Vulgrim"
+      },
+      {
+        "id": "achievement-4",
+        "name": "One Tough Cookie",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Meet Ulthane"
+      },
+      {
+        "id": "achievement-5",
+        "name": "Rocked Your Face Off",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Defeat The Griever"
+      },
+      {
+        "id": "achievement-6",
+        "name": "Ashes to Ashes",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Defeat The Stygian"
+      },
+      {
+        "id": "achievement-7",
+        "name": "One Mean Mother",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Defeat Silitha"
+      },
+      {
+        "id": "achievement-8",
+        "name": "Payback's A B****",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Defeat Straga"
+      },
+      {
+        "id": "achievement-9",
+        "name": "The Final Challenger?",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Defeat The Destroyer"
+      },
+      {
+        "id": "achievement-10",
+        "name": "Balance Restored",
+        "kind": "trophy",
+        "chapterId": "difficulty",
+        "where": "COMPLETE the game on NORMAL difficulty"
+      },
+      {
+        "id": "achievement-11",
+        "name": "The True Horseman",
+        "kind": "trophy",
+        "chapterId": "difficulty",
+        "where": "COMPLETE the game on APOCALYPTIC difficulty"
+      },
+      {
+        "id": "achievement-12",
+        "name": "To Move A Mountain",
+        "kind": "trophy",
+        "chapterId": "weapons-and-abilities",
+        "where": "Collect the Earthcaller"
+      },
+      {
+        "id": "achievement-13",
+        "name": "Who's Counting?",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Defeat more angels than Ulthane"
+      },
+      {
+        "id": "achievement-14",
+        "name": "Reach Out And Touch Somebody",
+        "kind": "trophy",
+        "chapterId": "weapons-and-abilities",
+        "where": "Collect the Abyssal Chain"
+      },
+      {
+        "id": "achievement-15",
+        "name": "Into the Void",
+        "kind": "trophy",
+        "chapterId": "weapons-and-abilities",
+        "where": "Collect the Voidwalker"
+      },
+      {
+        "id": "achievement-16",
+        "name": "Elemental Thief",
+        "kind": "trophy",
+        "chapterId": "weapons-and-abilities",
+        "where": "Collect the Crossblade"
+      },
+      {
+        "id": "achievement-17",
+        "name": "Sight Beyond Sight",
+        "kind": "trophy",
+        "chapterId": "weapons-and-abilities",
+        "where": "Collect the Mask of Shadows"
+      },
+      {
+        "id": "achievement-18",
+        "name": "Devastator",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Kill 10 enemies with one Blade Geyser wrath attack"
+      },
+      {
+        "id": "achievement-19",
+        "name": "Treasure Hunter",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-20",
+        "name": "Tremor Bringer",
+        "kind": "trophy",
+        "chapterId": "weapons-and-abilities",
+        "where": "Collect the Tremor Gauntlet"
+      },
+      {
+        "id": "achievement-21",
+        "name": "An Old Friend",
+        "kind": "trophy",
+        "chapterId": "weapons-and-abilities",
+        "where": "Collect Mercy"
+      },
+      {
+        "id": "achievement-22",
+        "name": "Reaper",
+        "kind": "trophy",
+        "chapterId": "weapons-and-abilities",
+        "where": "Collect the Scythe"
+      },
+      {
+        "id": "achievement-23",
+        "name": "Aerial Predator",
+        "kind": "trophy",
+        "chapterId": "riding-and-flying",
+        "where": "Kill 160 enemies while on the angelic beast"
+      },
+      {
+        "id": "achievement-24",
+        "name": "Full Power",
+        "kind": "trophy",
+        "chapterId": "collectibles-and-upgrades",
+        "where": "Collect the maximum amount of lifestones"
+      },
+      {
+        "id": "achievement-25",
+        "name": "Wrath of War",
+        "kind": "trophy",
+        "chapterId": "collectibles-and-upgrades",
+        "where": "Collect the maximum amount of wrath cores"
+      },
+      {
+        "id": "achievement-26",
+        "name": "Ultimate Blade",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-27",
+        "name": "Wrath Machine",
+        "kind": "trophy",
+        "chapterId": "collectibles-and-upgrades",
+        "where": "Collect all the Wrath Powers"
+      },
+      {
+        "id": "achievement-28",
+        "name": "Reunited",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Obtain Ruin"
+      },
+      {
+        "id": "achievement-29",
+        "name": "Slayer",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Kill 666 Demons"
+      },
+      {
+        "id": "achievement-30",
+        "name": "Don't Make Me Angry",
+        "kind": "trophy",
+        "chapterId": "weapons-and-abilities",
+        "where": "Collect the Chaos Form Ability"
+      },
+      {
+        "id": "achievement-31",
+        "name": "Chasm Jumper",
+        "kind": "trophy",
+        "chapterId": "weapons-and-abilities",
+        "where": "Gain the Shadowflight Ability"
+      },
+      {
+        "id": "achievement-32",
+        "name": "World Raider",
+        "kind": "trophy",
+        "chapterId": "collectibles-and-upgrades",
+        "where": "Collect all 27 Artifacts"
+      },
+      {
+        "id": "achievement-33",
+        "name": "Legendary Form",
+        "kind": "trophy",
+        "chapterId": "weapons-and-abilities",
+        "where": "Collect the Abyssal Armor Set"
+      },
+      {
+        "id": "achievement-34",
+        "name": "River of Blood",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Shed 3000 gallons of demon blood"
+      },
+      {
+        "id": "achievement-35",
+        "name": "Dark Rider",
+        "kind": "trophy",
+        "chapterId": "riding-and-flying",
+        "where": "Ride for 100 miles"
+      },
+      {
+        "id": "achievement-36",
+        "name": "Horseman",
+        "kind": "trophy",
+        "chapterId": "riding-and-flying",
+        "where": "Kill 150 demons from horseback"
+      },
+      {
+        "id": "achievement-37",
+        "name": "Time Lapse",
+        "kind": "trophy",
+        "chapterId": "weapons-and-abilities",
+        "where": "Gain the Chronomancer Ability"
+      },
+      {
+        "id": "achievement-38",
+        "name": "Battle Hardened",
+        "kind": "trophy",
+        "chapterId": "collectibles-and-upgrades",
+        "where": "Max out all weapons and unlock all combat moves"
+      },
+      {
+        "id": "achievement-39",
+        "name": "High Flier",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Kill 5 duskbats without touching the ground"
+      },
+      {
+        "id": "achievement-40",
+        "name": "Improvised Kills",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Kill 150 enemies with items from the environment"
+      },
+      {
+        "id": "achievement-41",
+        "name": "You Call This Easy?",
+        "kind": "trophy",
+        "chapterId": "difficulty",
+        "where": "COMPLETE the game on EASY difficulty"
+      },
+      {
+        "id": "achievement-42",
+        "name": "Open Air Parking",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Destroy a helicopter during the apocalypse with a vehicle"
+      },
+      {
+        "id": "achievement-43",
+        "name": "Like A Bat Outta Hell",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Defeat Tiamat"
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/darksiders",
+    "Achievement data from Steam (Steam Web API, app 462780)",
+    "StrategyWiki: no usable walkthrough, nothing used — https://strategywiki.org/wiki/Darksiders",
+    "Fandom (darksiders.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://darksiders.fandom.com/wiki/Darksiders"
+  ],
+  "route": "original",
+  "notes": "Backlog game, picked from RAWG's most-added list for its year (docs/PLAN.md section 2 ordering). This entry uses the Steam app for Darksiders Warmastered Edition (462780), the edition on sale; the original \"Darksiders™\" app (50620) is still listed with the same 43 achievements, but its schema name is a placeholder (\"ValveTestApp50620\") and it shows no price history. The Warmastered schema calls the app \"Darksiders Definitive Edition\". RAWG's entry is the original 2010 game (id 4502). StrategyWiki has a page at completion stage 1, but no walkthrough is written: the only subpages are Achievements and trophies (about 6,500 characters), Characters (about 900), Enemies (about 430), Table of Contents (about 410) and Bosses (about 230). So it was not recorded in sw-structure.json and swUsed is off. darksiders.fandom.com answers the API, with about 53 linked pages, including the bosses and weapons the achievements name; names only were looked at, nothing copied. 2 of 43 Steam achievements are hidden (\"Treasure Hunter\" and \"Ultimate Blade\"); their names suggest collectibles rather than story, but they sit in the main story chapter as a placeholder. RAWG lists a playtime of only 3 hours, which looks low. \"BFA\" (\"Unlocked EVERYTHING!\") was put in Collectibles and Upgrades."
+}

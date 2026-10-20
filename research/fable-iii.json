@@ -1,0 +1,117 @@
+{
+  "id": "fable-iii",
+  "title": "Fable III",
+  "year": 2010,
+  "platforms": [
+    "PC",
+    "Xbox 360",
+    "Xbox One"
+  ],
+  "rawgId": 28631,
+  "rawgSlug": "fable-3",
+  "released": "2010-10-25",
+  "developers": [
+    "Lionhead Studios"
+  ],
+  "playtime": 8,
+  "genres": [
+    "Action",
+    "RPG"
+  ],
+  "tags": [
+    "Steampunk",
+    "character",
+    "love",
+    "fall"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/827/8276bc29cdc27752e27802b94aea255e.jpg",
+  "steamAppId": null,
+  "achievements": {
+    "total": 0,
+    "examples": [],
+    "reason": "No Steam achievement list: the Steam app list has no Fable III entry (only Fable - The Lost Chapters and Fable Anniversary from the series). RAWG lists PC, Xbox 360 and Xbox One. Xbox achievements are not in our data sources. StrategyWiki has a written Achievements subpage (about 8,900 characters, guide at completion stage 0), and Fandom links \"Gnomes\", \"Demon Doors\", \"Silver Key\", \"Gold Key\" and \"Books\", which could guide an original checklist."
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Fable_III",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 72,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://fable.fandom.com/wiki/Fable_III"
+    }
+  },
+  "game": {
+    "id": "fable-iii",
+    "title": "Fable III",
+    "platforms": [
+      "PC",
+      "Xbox 360",
+      "Xbox One"
+    ],
+    "blurb": "Fantasy action RPG set in Albion half a century after Fable II, in which the ruler's sibling leads a revolution, from Lionhead Studios, released 2010-10-25. RAWG average playtime: 8 hours. Genres: Action, RPG. Chapters are an estimate drawn from Fandom and StrategyWiki page names, since there is no Steam achievement list.",
+    "accent": "#5B3E8C",
+    "chapters": [
+      {
+        "id": "main-story",
+        "title": "The Main Story",
+        "summary": "Gathering allies across Albion for the revolution, then ruling. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "road-to-rule",
+        "title": "The Road to Rule and Guild Seals",
+        "summary": "Spending Guild Seals to unlock skills, magic and weapon upgrades.",
+        "steps": []
+      },
+      {
+        "id": "quests-and-relationships",
+        "title": "Quests, Villagers and Family",
+        "summary": "Side quests, expressions, friendships, marriage, children and adoption.",
+        "steps": []
+      },
+      {
+        "id": "property",
+        "title": "Property and Money",
+        "summary": "Buying, renting and furnishing real estate around the kingdom.",
+        "steps": []
+      },
+      {
+        "id": "collectibles",
+        "title": "Collectibles and Secrets",
+        "summary": "Gnomes, Demon Doors, silver and gold keys, books and Flit Switches.",
+        "steps": []
+      },
+      {
+        "id": "traitors-keep",
+        "title": "Traitor's Keep (DLC)",
+        "summary": "The Traitor's Keep add-on.",
+        "steps": []
+      },
+      {
+        "id": "understone",
+        "title": "Understone Quest Pack (DLC)",
+        "summary": "The Understone add-on quests.",
+        "steps": []
+      }
+    ],
+    "collectibles": []
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/fable-3",
+    "Steam: no achievement list available for this game (see notes)",
+    "StrategyWiki: no usable walkthrough, nothing used — https://strategywiki.org/wiki/Fable_III",
+    "Fandom (fable.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://fable.fandom.com/wiki/Fable_III"
+  ],
+  "route": "original",
+  "notes": "Backlog game, picked from RAWG's most-added list for its year (docs/PLAN.md section 2 ordering). StrategyWiki has a page at completion stage 0; only Achievements (about 8,900 characters), Controls (about 1,900) and a very short Table of Contents (about 280) are written, and Walkthrough and Gameplay are linked but not written. So nothing was recorded in sw-structure.json and swUsed is off. fable.fandom.com answers the API, with about 72 linked pages, including \"Road to Rule\", \"Guild Seals\", \"Real Estate\", \"Gnomes\", \"Demon Doors\", \"Traitor's Keep\", \"Understone Quest Pack\" and \"Fable III Storyline\"; names only were looked at, nothing copied. RAWG's entry is the 2010 game (id 28631, slug fable-3) and RAWG lists Traitor's Keep and the Understone Quest Pack as separate DLC entries. Chapters are grouped from Fandom page names only (the StrategyWiki contents page is nearly empty) and need checking against play."
+}

@@ -1,0 +1,466 @@
+{
+  "id": "far-cry-3",
+  "title": "Far Cry 3",
+  "year": 2012,
+  "platforms": [
+    "Xbox One",
+    "Xbox 360",
+    "PlayStation 3",
+    "PC",
+    "PlayStation 4"
+  ],
+  "rawgId": 4161,
+  "rawgSlug": "far-cry-3",
+  "released": "2012-11-28",
+  "developers": [
+    "Ubisoft",
+    "Ubisoft Montreal"
+  ],
+  "playtime": 16,
+  "genres": [
+    "Action",
+    "Shooter"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Multiplayer",
+    "Atmospheric",
+    "RPG",
+    "Co-op",
+    "Story Rich",
+    "Open World",
+    "cooperative",
+    "First-Person",
+    "Partial Controller Support",
+    "FPS",
+    "Online Co-Op"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/15c/15c95a4915f88a3e89c821526afe05fc.jpg",
+  "steamAppId": 220240,
+  "achievements": {
+    "total": 44,
+    "hidden": 0,
+    "examples": [
+      {
+        "name": "First Blood",
+        "percent": 20.3
+      },
+      {
+        "name": "Hunter Hunted",
+        "percent": 16.3
+      },
+      {
+        "name": "Magic Mushroom",
+        "percent": 15.5
+      },
+      {
+        "name": "The Good Stuff",
+        "percent": 2.5
+      },
+      {
+        "name": "Rock Always Wins",
+        "percent": 2.5
+      },
+      {
+        "name": "Dead Letters",
+        "percent": 2.3
+      },
+      {
+        "name": "Say Hi to the Internet",
+        "percent": 2.3
+      },
+      {
+        "name": "Heartless Pyro",
+        "percent": 2.0
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Far_Cry_3",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 237,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://farcry.fandom.com/wiki/Far_Cry_3"
+    }
+  },
+  "game": {
+    "id": "far-cry-3",
+    "title": "Far Cry 3",
+    "platforms": [
+      "Xbox One",
+      "Xbox 360",
+      "PlayStation 3",
+      "PC",
+      "PlayStation 4"
+    ],
+    "blurb": "Open-world first-person shooter in which Jason Brody fights pirates across a tropical island chain, from Ubisoft Montreal, released 2012-11-28. RAWG average playtime: 16 hours. Genres: Action, Shooter. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#2E7D32",
+    "chapters": [
+      {
+        "id": "main-story",
+        "title": "The Main Story",
+        "summary": "Escaping the pirates, joining the Rakyat, rescuing friends and reaching the South Island. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "outposts-and-towers",
+        "title": "Outposts and Radio Towers",
+        "summary": "Liberating outposts, quietly or not, and activating radio towers.",
+        "steps": []
+      },
+      {
+        "id": "side-quests",
+        "title": "Side Quests and Poker",
+        "summary": "Path of the Hunter, Supply Drop, WANTED Dead, Trials of the Rakyat, poker winnings and the lost Hollywood star.",
+        "steps": []
+      },
+      {
+        "id": "hunting-and-crafting",
+        "title": "Hunting, Crafting and Skills",
+        "summary": "Hunting predators and rare animals, crafting upgrades and syringes, tattoos and the shop.",
+        "steps": []
+      },
+      {
+        "id": "collectibles",
+        "title": "Collectibles",
+        "summary": "Relics, Letters of the Lost, memory cards and Survival Guide entries.",
+        "steps": []
+      },
+      {
+        "id": "combat-and-stunts",
+        "title": "Combat and Stunts",
+        "summary": "Explosions, takedowns from above, the bow, the camera, rocks, and long falls and dives.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "First Blood",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Escape the pirates and survive in the wilderness."
+      },
+      {
+        "id": "achievement-2",
+        "name": "Magic Mushroom",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Return to the doctor with the cave mushrooms."
+      },
+      {
+        "id": "achievement-3",
+        "name": "Worst Date Ever",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Escape the burning hotel."
+      },
+      {
+        "id": "achievement-4",
+        "name": "One of Us",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Complete the Rakyat initiation."
+      },
+      {
+        "id": "achievement-5",
+        "name": "Hands Off My Stoner",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Rescue your friend before he is sold as a slave."
+      },
+      {
+        "id": "achievement-6",
+        "name": "Retake Wall Street",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Rescue your friend from torture."
+      },
+      {
+        "id": "achievement-7",
+        "name": "Have I Told You?",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Discover the definition of insanity."
+      },
+      {
+        "id": "achievement-8",
+        "name": "Taken for Granted",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Survive Vaas’s attack in the compound."
+      },
+      {
+        "id": "achievement-9",
+        "name": "Higher Than a Kite",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Reach the South Island alive."
+      },
+      {
+        "id": "achievement-10",
+        "name": "Deep Cover",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Don’t blow cover during the interrogation."
+      },
+      {
+        "id": "achievement-11",
+        "name": "Poker Night",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Win the poker game."
+      },
+      {
+        "id": "achievement-12",
+        "name": "What a Trip",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Attend the final ceremony."
+      },
+      {
+        "id": "achievement-13",
+        "name": "Free Fall",
+        "kind": "trophy",
+        "chapterId": "combat-and-stunts",
+        "where": "Freefall more than 100m and live (Single Player only)."
+      },
+      {
+        "id": "achievement-14",
+        "name": "Inked Up",
+        "kind": "trophy",
+        "chapterId": "hunting-and-crafting",
+        "where": "Earn 5 skill tattoos."
+      },
+      {
+        "id": "achievement-15",
+        "name": "Fully Inked",
+        "kind": "trophy",
+        "chapterId": "hunting-and-crafting",
+        "where": "Earn every tattoo by learning all the skills."
+      },
+      {
+        "id": "achievement-16",
+        "name": "Money to Burn",
+        "kind": "trophy",
+        "chapterId": "hunting-and-crafting",
+        "where": "Spend $5000 at the shop."
+      },
+      {
+        "id": "achievement-17",
+        "name": "Aftermarket Junkie",
+        "kind": "trophy",
+        "chapterId": "hunting-and-crafting",
+        "where": "Buy all attachments and paint jobs for one weapon."
+      },
+      {
+        "id": "achievement-18",
+        "name": "Rebel With a Cause",
+        "kind": "trophy",
+        "chapterId": "outposts-and-towers",
+        "where": "Liberate 3 outposts."
+      },
+      {
+        "id": "achievement-19",
+        "name": "Island Liberator",
+        "kind": "trophy",
+        "chapterId": "outposts-and-towers",
+        "where": "Liberate all outposts."
+      },
+      {
+        "id": "achievement-20",
+        "name": "Unheard",
+        "kind": "trophy",
+        "chapterId": "outposts-and-towers",
+        "where": "Liberate an outpost without triggering an alarm."
+      },
+      {
+        "id": "achievement-21",
+        "name": "Full Bars",
+        "kind": "trophy",
+        "chapterId": "outposts-and-towers",
+        "where": "Activate 9 radio towers."
+      },
+      {
+        "id": "achievement-22",
+        "name": "Archeology 101",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Gather a total of 60 relics."
+      },
+      {
+        "id": "achievement-23",
+        "name": "Dead Letters",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Gather all \"Letters of the Lost\"."
+      },
+      {
+        "id": "achievement-24",
+        "name": "Memory to Spare",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Gather all the memory cards."
+      },
+      {
+        "id": "achievement-25",
+        "name": "Jungle Journal",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Unlock 50 entries in the Survival Guide."
+      },
+      {
+        "id": "achievement-26",
+        "name": "Bagged and Tagged",
+        "kind": "trophy",
+        "chapterId": "side-quests",
+        "where": "Complete a Path of the Hunter quest."
+      },
+      {
+        "id": "achievement-27",
+        "name": "Road Trip",
+        "kind": "trophy",
+        "chapterId": "side-quests",
+        "where": "Complete a Supply Drop quest."
+      },
+      {
+        "id": "achievement-28",
+        "name": "In Cold Blood",
+        "kind": "trophy",
+        "chapterId": "side-quests",
+        "where": "Complete a WANTED Dead quest."
+      },
+      {
+        "id": "achievement-29",
+        "name": "Let the Trials Begin",
+        "kind": "trophy",
+        "chapterId": "side-quests",
+        "where": "Beat any Trials of the Rakyat score."
+      },
+      {
+        "id": "achievement-30",
+        "name": "Poker Bully",
+        "kind": "trophy",
+        "chapterId": "side-quests",
+        "where": "Win $1500 playing poker."
+      },
+      {
+        "id": "achievement-31",
+        "name": "Hunter Hunted",
+        "kind": "trophy",
+        "chapterId": "hunting-and-crafting",
+        "where": "Lure and kill a predator."
+      },
+      {
+        "id": "achievement-32",
+        "name": "Poacher",
+        "kind": "trophy",
+        "chapterId": "hunting-and-crafting",
+        "where": "Hunt and skin a rare animal."
+      },
+      {
+        "id": "achievement-33",
+        "name": "Artsy Craftsy",
+        "kind": "trophy",
+        "chapterId": "hunting-and-crafting",
+        "where": "Craft 5 upgrades for your equipment."
+      },
+      {
+        "id": "achievement-34",
+        "name": "Needle Exchange",
+        "kind": "trophy",
+        "chapterId": "hunting-and-crafting",
+        "where": "Craft 25 syringes."
+      },
+      {
+        "id": "achievement-35",
+        "name": "The Good Stuff",
+        "kind": "trophy",
+        "chapterId": "hunting-and-crafting",
+        "where": "Craft a Special syringe."
+      },
+      {
+        "id": "achievement-36",
+        "name": "Say Hi to the Internet",
+        "kind": "trophy",
+        "chapterId": "side-quests",
+        "where": "Find the lost Hollywood star."
+      },
+      {
+        "id": "achievement-37",
+        "name": "Heartless Pyro",
+        "kind": "trophy",
+        "chapterId": "combat-and-stunts",
+        "where": "Kill 50 enemies with the flamethrower (Single Player only)."
+      },
+      {
+        "id": "achievement-38",
+        "name": "Love the Boom",
+        "kind": "trophy",
+        "chapterId": "combat-and-stunts",
+        "where": "Kill 4 enemies simultaneously with one explosion (Single Player only)."
+      },
+      {
+        "id": "achievement-39",
+        "name": "Rock Always Wins",
+        "kind": "trophy",
+        "chapterId": "combat-and-stunts",
+        "where": "Fully distract 25 enemies with rocks (Single Player only)."
+      },
+      {
+        "id": "achievement-40",
+        "name": "Never Saw it Coming",
+        "kind": "trophy",
+        "chapterId": "combat-and-stunts",
+        "where": "Kill an enemy with a takedown from above from a glider, zipline or parachute (Single Player only)."
+      },
+      {
+        "id": "achievement-41",
+        "name": "Improper Use",
+        "kind": "trophy",
+        "chapterId": "combat-and-stunts",
+        "where": "Kill an enemy with the Repair Tool (Single Player only)."
+      },
+      {
+        "id": "achievement-42",
+        "name": "Toxophilite",
+        "kind": "trophy",
+        "chapterId": "combat-and-stunts",
+        "where": "Kill a target from 70m or more with the bow (Single Player only)."
+      },
+      {
+        "id": "achievement-43",
+        "name": "Island Paparazzi",
+        "kind": "trophy",
+        "chapterId": "combat-and-stunts",
+        "where": "Tag 25 enemies using the camera (Single Player only)."
+      },
+      {
+        "id": "achievement-44",
+        "name": "Fearless or Stupid",
+        "kind": "trophy",
+        "chapterId": "combat-and-stunts",
+        "where": "Dive more than 60m (Single Player only)."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/far-cry-3",
+    "Achievement data from Steam (Steam Web API, app 220240)",
+    "StrategyWiki: no usable walkthrough, nothing used — https://strategywiki.org/wiki/Far_Cry_3",
+    "Fandom (farcry.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://farcry.fandom.com/wiki/Far_Cry_3"
+  ],
+  "route": "original",
+  "notes": "Backlog game, picked from RAWG's most-added list for its year (docs/PLAN.md section 2 ordering). StrategyWiki has a page at completion stage 0; it links Gameplay, Table of Contents and Walkthrough subpages, but none exist (a prefix search found no subpages). farcry.fandom.com answers the API, with about 237 linked pages, including \"Far Cry 3: Blood Dragon\" and several DLC pack pages; names only were looked at, nothing copied. The Steam schema calls the app \"Far Cry® 3\". None of the 44 Steam achievements are hidden; the 12 story ones were placed in the main story chapter by name, since their descriptions are visible but spoilery. No multiplayer or co-op achievements are in the Steam list, although StrategyWiki and RAWG mention multiplayer. Steam unlock rates look low (only 20% have \"First Blood\"), possibly because many owners never launch the game through Steam; that is a guess."
+}

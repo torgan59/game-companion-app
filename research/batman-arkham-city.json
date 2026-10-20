@@ -1,0 +1,609 @@
+{
+  "id": "batman-arkham-city",
+  "title": "Batman: Arkham City",
+  "year": 2011,
+  "platforms": [
+    "PC",
+    "PlayStation 3",
+    "Nintendo Switch",
+    "macOS",
+    "PlayStation 4",
+    "Xbox One",
+    "Xbox 360"
+  ],
+  "rawgId": 28623,
+  "rawgSlug": "batman-arkham-city-2",
+  "released": "2011-10-18",
+  "developers": [
+    "Rocksteady Studios"
+  ],
+  "playtime": 20,
+  "genres": [
+    "Action"
+  ],
+  "tags": [
+    "Horror",
+    "Story",
+    "city",
+    "Soundtrack",
+    "Flight",
+    "prison",
+    "Skeletons"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/b5a/b5a1226bfd971284a735a4a0969086b3.jpg",
+  "steamAppId": 200260,
+  "achievements": {
+    "total": 64,
+    "hidden": 0,
+    "examples": [
+      {
+        "name": "I'm Batman",
+        "percent": 82.9
+      },
+      {
+        "name": "Acid Bath",
+        "percent": 80.0
+      },
+      {
+        "name": "Savior",
+        "percent": 74.5
+      },
+      {
+        "name": "Campaign Kitty",
+        "percent": 2.5
+      },
+      {
+        "name": "Robin Revenge",
+        "percent": 2.5
+      },
+      {
+        "name": "Nightwing Revenge",
+        "percent": 2.5
+      },
+      {
+        "name": "Campaign Wonder",
+        "percent": 2.4
+      },
+      {
+        "name": "Campaign Nightwing",
+        "percent": 2.4
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Batman:_Arkham_City",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 228,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://arkhamcity.fandom.com/wiki/Batman:_Arkham_City"
+    }
+  },
+  "game": {
+    "id": "batman-arkham-city",
+    "title": "Batman: Arkham City",
+    "platforms": [
+      "PC",
+      "PlayStation 3",
+      "Nintendo Switch",
+      "macOS",
+      "PlayStation 4",
+      "Xbox One",
+      "Xbox 360"
+    ],
+    "blurb": "Open-world action-adventure in which Batman takes on the villains of Arkham City, from Rocksteady Studios, released 2011-10-18. RAWG average playtime: 20 hours. Genre: Action. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#2E3B55",
+    "chapters": [
+      {
+        "id": "main-story",
+        "title": "The Main Story",
+        "summary": "Batman inside the walls of Arkham City, from becoming the Bat to the final act. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "side-missions",
+        "title": "Side Missions",
+        "summary": "Assaults, a serial killer, a phone booth killer, a contract operative, a mystery watcher, Calendar Man and other optional cases.",
+        "steps": []
+      },
+      {
+        "id": "riddler",
+        "title": "The Riddler's Challenges",
+        "summary": "Solving riddles and rescuing the Riddler's hostages one by one.",
+        "steps": []
+      },
+      {
+        "id": "catwoman",
+        "title": "Catwoman (likely)",
+        "summary": "A short block of achievements about stealing a score and getting stolen goods back, plus the Catwoman riddle grid and medals. Placed partly by position in the list.",
+        "steps": []
+      },
+      {
+        "id": "challenges-and-combat",
+        "title": "Challenge Maps, AR Training and Combat",
+        "summary": "Augmented reality training, medals on the challenge maps and campaigns (Batman, Robin and Nightwing), and freeflow combat tricks.",
+        "steps": []
+      },
+      {
+        "id": "harley-quinns-revenge",
+        "title": "Harley Quinn's Revenge",
+        "summary": "The add-on story named in the achievement list: the Dry Docks, a secret base, bombs and balloons. Placed partly by position in the list.",
+        "steps": []
+      },
+      {
+        "id": "completion",
+        "title": "New Game Plus and 100 Percent",
+        "summary": "All gadgets and upgrades, New Game Plus and completing every challenge.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "I'm Batman",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Become the Bat"
+      },
+      {
+        "id": "achievement-2",
+        "name": "Acid Bath",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Save the damsel, but is she in distress?"
+      },
+      {
+        "id": "achievement-3",
+        "name": "Savior",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Save the medical volunteers"
+      },
+      {
+        "id": "achievement-4",
+        "name": "Chimney Sweep",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "There is only one way in"
+      },
+      {
+        "id": "achievement-5",
+        "name": "One-Armed Bandit",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hammer the point home"
+      },
+      {
+        "id": "achievement-6",
+        "name": "Communication Breakdown",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Clear the airwaves"
+      },
+      {
+        "id": "achievement-7",
+        "name": "Gladiator",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Last man standing"
+      },
+      {
+        "id": "achievement-8",
+        "name": "Wrecking Ball",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Stop the unstoppable"
+      },
+      {
+        "id": "achievement-9",
+        "name": "Lost And Found",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Uncover the secret of Arkham City"
+      },
+      {
+        "id": "achievement-10",
+        "name": "Sandstorm",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "We are legion"
+      },
+      {
+        "id": "achievement-11",
+        "name": "Hide And Seek",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "A deadly game of hide and seek"
+      },
+      {
+        "id": "achievement-12",
+        "name": "Ghost Train",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Fight for survival"
+      },
+      {
+        "id": "achievement-13",
+        "name": "Freefall",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Don't look down"
+      },
+      {
+        "id": "achievement-14",
+        "name": "Exit Stage Right",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "All the world is a stage"
+      },
+      {
+        "id": "achievement-15",
+        "name": "Contract Terminated",
+        "kind": "trophy",
+        "chapterId": "side-missions",
+        "where": "Stop the contract operative"
+      },
+      {
+        "id": "achievement-16",
+        "name": "Serial Killer",
+        "kind": "trophy",
+        "chapterId": "side-missions",
+        "where": "Track down the serial killer"
+      },
+      {
+        "id": "achievement-17",
+        "name": "Mystery Stalker",
+        "kind": "trophy",
+        "chapterId": "side-missions",
+        "where": "Reveal the mystery watcher"
+      },
+      {
+        "id": "achievement-18",
+        "name": "Broken Toys",
+        "kind": "trophy",
+        "chapterId": "side-missions",
+        "where": "Destroy it all"
+      },
+      {
+        "id": "achievement-19",
+        "name": "Dial Z For Murder",
+        "kind": "trophy",
+        "chapterId": "side-missions",
+        "where": "Stop the phone booth killer"
+      },
+      {
+        "id": "achievement-20",
+        "name": "Stop the Clock",
+        "kind": "trophy",
+        "chapterId": "side-missions",
+        "where": "Time is running out"
+      },
+      {
+        "id": "achievement-21",
+        "name": "Bargaining Chip",
+        "kind": "trophy",
+        "chapterId": "side-missions",
+        "where": "Reunite the separated couple"
+      },
+      {
+        "id": "achievement-22",
+        "name": "AR Knight",
+        "kind": "trophy",
+        "chapterId": "challenges-and-combat",
+        "where": "Complete all augmented reality training exercises"
+      },
+      {
+        "id": "achievement-23",
+        "name": "Fully Loaded",
+        "kind": "trophy",
+        "chapterId": "completion",
+        "where": "Collect all of Batman's gadgets and upgrades"
+      },
+      {
+        "id": "achievement-24",
+        "name": "Aggravated Assault",
+        "kind": "trophy",
+        "chapterId": "side-missions",
+        "where": "Stop all assaults in Arkham City"
+      },
+      {
+        "id": "achievement-25",
+        "name": "IQ Test",
+        "kind": "trophy",
+        "chapterId": "riddler",
+        "where": "Solve the first riddle"
+      },
+      {
+        "id": "achievement-26",
+        "name": "Conundrum",
+        "kind": "trophy",
+        "chapterId": "riddler",
+        "where": "Rescue the first hostage from Riddler"
+      },
+      {
+        "id": "achievement-27",
+        "name": "Mastermind",
+        "kind": "trophy",
+        "chapterId": "riddler",
+        "where": "Rescue the second hostage from Riddler"
+      },
+      {
+        "id": "achievement-28",
+        "name": "Puzzler",
+        "kind": "trophy",
+        "chapterId": "riddler",
+        "where": "Rescue the third hostage from Riddler"
+      },
+      {
+        "id": "achievement-29",
+        "name": "Intellectual",
+        "kind": "trophy",
+        "chapterId": "riddler",
+        "where": "Rescue the fourth hostage from Riddler"
+      },
+      {
+        "id": "achievement-30",
+        "name": "Brainteaser",
+        "kind": "trophy",
+        "chapterId": "riddler",
+        "where": "Rescue the fifth hostage from Riddler"
+      },
+      {
+        "id": "achievement-31",
+        "name": "Genius",
+        "kind": "trophy",
+        "chapterId": "riddler",
+        "where": "Rescue all the hostages from Riddler"
+      },
+      {
+        "id": "achievement-32",
+        "name": "Bronze Revenge",
+        "kind": "trophy",
+        "chapterId": "challenges-and-combat",
+        "where": "Obtain 24 medals on the original Arkham City maps (as Batman)"
+      },
+      {
+        "id": "achievement-33",
+        "name": "Silver Revenge",
+        "kind": "trophy",
+        "chapterId": "challenges-and-combat",
+        "where": "Obtain 48 medals on the original Arkham City maps (as Batman)"
+      },
+      {
+        "id": "achievement-34",
+        "name": "Gold Revenge",
+        "kind": "trophy",
+        "chapterId": "challenges-and-combat",
+        "where": "Obtain all 72 medals on the original Arkham City maps (as Batman)"
+      },
+      {
+        "id": "achievement-35",
+        "name": "Campaign Bronze",
+        "kind": "trophy",
+        "chapterId": "challenges-and-combat",
+        "where": "Obtain 36 medals on the original Arkham City campaigns (as Batman)"
+      },
+      {
+        "id": "achievement-36",
+        "name": "Campaign Silver",
+        "kind": "trophy",
+        "chapterId": "challenges-and-combat",
+        "where": "Obtain 72 medals on the original Arkham City campaigns (as Batman)"
+      },
+      {
+        "id": "achievement-37",
+        "name": "Campaign Gold",
+        "kind": "trophy",
+        "chapterId": "challenges-and-combat",
+        "where": "Obtain all 108 medals on the original Arkham City campaigns (as Batman)"
+      },
+      {
+        "id": "achievement-38",
+        "name": "Flawless Freeflow Fighter 2.0",
+        "kind": "trophy",
+        "chapterId": "challenges-and-combat",
+        "where": "Complete one combat challenge without taking damage (any character)"
+      },
+      {
+        "id": "achievement-39",
+        "name": "Twice Nightly",
+        "kind": "trophy",
+        "chapterId": "completion",
+        "where": "Complete New Game Plus"
+      },
+      {
+        "id": "achievement-40",
+        "name": "Pay Your Respects",
+        "kind": "trophy",
+        "chapterId": "side-missions",
+        "where": "A moment of remembrance"
+      },
+      {
+        "id": "achievement-41",
+        "name": "Storyteller",
+        "kind": "trophy",
+        "chapterId": "side-missions",
+        "where": "Have 12 murderous dates with Calendar Man"
+      },
+      {
+        "id": "achievement-42",
+        "name": "Perfect Freeflow 2.0",
+        "kind": "trophy",
+        "chapterId": "challenges-and-combat",
+        "where": "Perform a perfect combo including all of Batman's combat moves (any play mode)"
+      },
+      {
+        "id": "achievement-43",
+        "name": "Gadget Attack",
+        "kind": "trophy",
+        "chapterId": "challenges-and-combat",
+        "where": "Use 5 different Quickfire gadgets in one fight (any play mode)"
+      },
+      {
+        "id": "achievement-44",
+        "name": "Perfect Knight - Day 2",
+        "kind": "trophy",
+        "chapterId": "completion",
+        "where": "Complete every challenge in Arkham City - Main Story, Side Missions, Upgrades, Collectables, New Game Plus and Riddlers Revenge (as Batman)"
+      },
+      {
+        "id": "achievement-45",
+        "name": "Sphinx' Riddle",
+        "kind": "trophy",
+        "chapterId": "catwoman",
+        "where": "Complete all 40 of the Catwoman Riddler grid items"
+      },
+      {
+        "id": "achievement-46",
+        "name": "Arkham City Sirens",
+        "kind": "trophy",
+        "chapterId": "catwoman",
+        "where": "Drop in on an old friend"
+      },
+      {
+        "id": "achievement-47",
+        "name": "Pick Pocket",
+        "kind": "trophy",
+        "chapterId": "catwoman",
+        "where": "Steal the score of a lifetime"
+      },
+      {
+        "id": "achievement-48",
+        "name": "Family Jewels",
+        "kind": "trophy",
+        "chapterId": "catwoman",
+        "where": "Retrieve your stolen goods"
+      },
+      {
+        "id": "achievement-49",
+        "name": "Feline Revenge",
+        "kind": "trophy",
+        "chapterId": "catwoman",
+        "where": "Obtain all 72 medals on the original Arkham City maps (as Catwoman)"
+      },
+      {
+        "id": "achievement-50",
+        "name": "Campaign Kitty",
+        "kind": "trophy",
+        "chapterId": "catwoman",
+        "where": "Obtain all 108 medals on the original Arkham City campaigns (as Catwoman)"
+      },
+      {
+        "id": "achievement-51",
+        "name": "Robin Revenge",
+        "kind": "trophy",
+        "chapterId": "challenges-and-combat",
+        "where": "Obtain 78 medals on the original Arkham City and Robin Bundle Pack maps (as Robin)"
+      },
+      {
+        "id": "achievement-52",
+        "name": "Campaign Wonder",
+        "kind": "trophy",
+        "chapterId": "challenges-and-combat",
+        "where": "Obtain 114 medals on the original Arkham City and Robin Bundle Pack campaigns (as Robin)"
+      },
+      {
+        "id": "achievement-53",
+        "name": "Nightwing Revenge",
+        "kind": "trophy",
+        "chapterId": "challenges-and-combat",
+        "where": "Obtain 78 medals on the original Arkham City and Nightwing Bundle Pack maps (as Nightwing)"
+      },
+      {
+        "id": "achievement-54",
+        "name": "Campaign Nightwing",
+        "kind": "trophy",
+        "chapterId": "challenges-and-combat",
+        "where": "Obtain 114 medals on the original Arkham City and Nightwing Bundle Pack campaigns (as Nightwing)"
+      },
+      {
+        "id": "achievement-55",
+        "name": "Lost Property",
+        "kind": "trophy",
+        "chapterId": "harley-quinns-revenge",
+        "where": "No crimefighter should be without this"
+      },
+      {
+        "id": "achievement-56",
+        "name": "Breaking and Entering",
+        "kind": "trophy",
+        "chapterId": "harley-quinns-revenge",
+        "where": "Find a way into the secret base"
+      },
+      {
+        "id": "achievement-57",
+        "name": "How's It Hanging?",
+        "kind": "trophy",
+        "chapterId": "harley-quinns-revenge",
+        "where": "Clean up the Dry Docks"
+      },
+      {
+        "id": "achievement-58",
+        "name": "The Last Laugh",
+        "kind": "trophy",
+        "chapterId": "harley-quinns-revenge",
+        "where": "The joke's on who?"
+      },
+      {
+        "id": "achievement-59",
+        "name": "Frequent Flyer",
+        "kind": "trophy",
+        "chapterId": "harley-quinns-revenge",
+        "where": "Zip Kick 5 different thugs"
+      },
+      {
+        "id": "achievement-60",
+        "name": "Battering Ram",
+        "kind": "trophy",
+        "chapterId": "harley-quinns-revenge",
+        "where": "Shield Bash 5 different thugs"
+      },
+      {
+        "id": "achievement-61",
+        "name": "Snap To It",
+        "kind": "trophy",
+        "chapterId": "harley-quinns-revenge",
+        "where": "Snap Flash an unarmed thug, an armed thug, an environmental object and a Titan"
+      },
+      {
+        "id": "achievement-62",
+        "name": "Bomb Squad",
+        "kind": "trophy",
+        "chapterId": "harley-quinns-revenge",
+        "where": "Defuse all bombs in 3 minutes or less"
+      },
+      {
+        "id": "achievement-63",
+        "name": "A Few New Tricks",
+        "kind": "trophy",
+        "chapterId": "harley-quinns-revenge",
+        "where": "Use 5 different Quickfire gadgets in one fight as Robin in Harley Quinn's Revenge"
+      },
+      {
+        "id": "achievement-64",
+        "name": "Party's Over",
+        "kind": "trophy",
+        "chapterId": "harley-quinns-revenge",
+        "where": "Destroy all Harley Balloons"
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/batman-arkham-city-2",
+    "Achievement data from Steam (Steam Web API, app 200260)",
+    "StrategyWiki: no usable walkthrough, nothing used — https://strategywiki.org/wiki/Batman:_Arkham_City",
+    "Fandom (arkhamcity.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://arkhamcity.fandom.com/wiki/Batman:_Arkham_City"
+  ],
+  "route": "original",
+  "notes": "Backlog game, picked from RAWG's most-added list for its year (docs/PLAN.md section 2 ordering). StrategyWiki has a page at completion stage 1. Its walkthrough lists a Prologue, \"Becoming the Bat\" and 12 side missions, but only the Prologue and \"Becoming the Bat\" are written (plus Achievements and trophies, Controls, Gadgets and Batsuit, and Gameplay), so it was not used. arkhamcity.fandom.com answers the API, with about 228 linked pages (including \"Harley Quinn's Revenge\", \"Catwoman Bundle\", \"Challenge Maps\" and \"Batman: Arkham City Riddler Challenges\"); names only were looked at, nothing copied. The only Steam app in the store list is the Game of the Year Edition (200260); its schema gives no game name. RAWG's first result is the base game (28623, batman-arkham-city-2), as expected; RAWG also has a separate GOTY entry (17576). None of the 64 Steam achievements is hidden, but most story ones have cryptic one-line descriptions, so the main story, side mission, Catwoman and Harley Quinn's Revenge chapters are placed by name lists, using list position and unlock rates (14 story-looking achievements at the top, unlocked by 41 to 83 percent of players). Only \"A Few New Tricks\" names Harley Quinn's Revenge, and none of the three Catwoman story achievements names Catwoman; both blocks are inferred from position and need checking. \"Broken Toys\", \"Stop the Clock\", \"Bargaining Chip\" and \"Pay Your Respects\" are guessed to be side content."
+}

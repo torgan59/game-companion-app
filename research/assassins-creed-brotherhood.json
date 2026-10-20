@@ -1,0 +1,142 @@
+{
+  "id": "assassins-creed-brotherhood",
+  "title": "Assassin's Creed Brotherhood",
+  "year": 2010,
+  "platforms": [
+    "PlayStation 3",
+    "macOS",
+    "PC",
+    "Xbox 360",
+    "Xbox One",
+    "PlayStation 4"
+  ],
+  "rawgId": 10064,
+  "rawgSlug": "assassins-creed-brotherhood-2",
+  "released": "2010-11-16",
+  "developers": [
+    "Ubisoft Montreal"
+  ],
+  "playtime": 16,
+  "genres": [
+    "Action"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Multiplayer",
+    "Atmospheric",
+    "Great Soundtrack",
+    "Story Rich",
+    "Open World",
+    "Third Person",
+    "Partial Controller Support",
+    "Sandbox",
+    "Stealth",
+    "Action-Adventure",
+    "Controller"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/116/116b93c6876a361a96b2eee3ee58ab13.jpg",
+  "steamAppId": null,
+  "achievements": {
+    "total": 0,
+    "examples": [],
+    "reason": "No Steam achievement list. Steam app 48190 (\"Assassin's Creed® Brotherhood\") exists, but the Steam Web API returned an empty achievement schema for it and the global percentages call returned HTTP 403. StrategyWiki has a written Achievements and trophies subpage (about 9,900 characters) and links a Collectibles page (not written), which could guide an original checklist."
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Assassin's_Creed:_Brotherhood",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 500,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://assassinscreed.fandom.com/wiki/Assassin's_Creed:_Brotherhood"
+    }
+  },
+  "game": {
+    "id": "assassins-creed-brotherhood",
+    "title": "Assassin's Creed Brotherhood",
+    "platforms": [
+      "PlayStation 3",
+      "macOS",
+      "PC",
+      "Xbox 360",
+      "Xbox One",
+      "PlayStation 4"
+    ],
+    "blurb": "Open-world stealth action-adventure starring Ezio, from Ubisoft Montreal, released 2010-11-16. RAWG average playtime: 16 hours. Genre: Action. Chapters are an estimate drawn from the page names on StrategyWiki's contents page, since there is no Steam achievement list.",
+    "accent": "#9E1B1B",
+    "chapters": [
+      {
+        "id": "main-story",
+        "title": "The Main Story",
+        "summary": "Ezio's memories, sequence by sequence, from the first to the ninth. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "desmond",
+        "title": "Desmond's Sections",
+        "summary": "The present-day parts of the story, in Monteriggioni and at the Colosseum. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "towers-and-renovation",
+        "title": "Borgia Towers and Renovation",
+        "summary": "Taking down the Borgia towers and rebuilding shops and landmarks.",
+        "steps": []
+      },
+      {
+        "id": "brotherhood",
+        "title": "Assassin Recruits and Contracts",
+        "summary": "Recruiting assassins, sending them on contracts and levelling them up.",
+        "steps": []
+      },
+      {
+        "id": "side-missions",
+        "title": "Side Missions and Guilds",
+        "summary": "Leonardo, courtesan, thief and Copernico missions, Cristina memories, Templar agents and guild challenges.",
+        "steps": []
+      },
+      {
+        "id": "collectibles-and-secrets",
+        "title": "Collectibles and Secrets",
+        "summary": "Collectibles, secret locations and the hidden puzzle trail.",
+        "steps": []
+      },
+      {
+        "id": "virtual-training",
+        "title": "Virtual Training",
+        "summary": "Training challenges in the simulated rooms.",
+        "steps": []
+      },
+      {
+        "id": "multiplayer",
+        "title": "Multiplayer",
+        "summary": "Online modes, scoring and levelling.",
+        "steps": []
+      },
+      {
+        "id": "da-vinci-disappearance",
+        "title": "The Da Vinci Disappearance (DLC)",
+        "summary": "The add-on story about Leonardo. Spoiler-guarded.",
+        "steps": []
+      }
+    ],
+    "collectibles": []
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/assassins-creed-brotherhood-2",
+    "Steam: no achievement list available for this game (see notes)",
+    "StrategyWiki: mission and page names used to group chapters, CC BY-SA 4.0; no text copied — https://strategywiki.org/wiki/Assassin's_Creed:_Brotherhood",
+    "Fandom (assassinscreed.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://assassinscreed.fandom.com/wiki/Assassin's_Creed:_Brotherhood"
+  ],
+  "route": "original",
+  "notes": "Backlog game, picked from RAWG's most-added list for its year (docs/PLAN.md section 2 ordering). StrategyWiki has the guide under \"Assassin's Creed: Brotherhood\" at completion stage 1, but none of its walkthrough pages are written: the contents page links Sequence 01 to Sequence 09, two Desmond sections, The Truth, Collectibles, many side-mission pages and The Da Vinci Disappearance, yet the only written subpages are Weapons (about 10,900 characters), Achievements and trophies (about 9,900), Mechanics (about 9,500), Abilities, perks, bonuses (about 8,900), Maps (about 7,500), Scoring and leveling (about 5,900), Controls (about 4,700), Table of Contents (about 3,300), Characters (about 1,700) and Multiplayer (about 1,000). So it was not recorded in sw-structure.json and swUsed is off. Chapters here are grouped from those StrategyWiki page names (CC BY-SA 4.0), reworded in our own words; the attribution credits this. assassinscreed.fandom.com answers the API under \"Assassin's Creed: Brotherhood\", with 500 or more linked pages (the link list was cut off at 500); names only were looked at, nothing copied. RAWG's entry is the 2010 game (id 10064, slug assassins-creed-brotherhood-2); its description text is a Digital Deluxe Edition store blurb. RAWG also lists the Copernicus Conspiracy and The Da Vinci Disappearance as separate entries. Steam: app 48190 exists, but its achievement schema is empty, so steam is set to None; RAWG lists PC and Steam sells the game, but no achievement list could be fetched."
+}

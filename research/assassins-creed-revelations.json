@@ -1,0 +1,492 @@
+{
+  "id": "assassins-creed-revelations",
+  "title": "Assassin's Creed Revelations",
+  "year": 2011,
+  "platforms": [
+    "PlayStation 3",
+    "PC",
+    "Xbox 360",
+    "PlayStation 4",
+    "Xbox One"
+  ],
+  "rawgId": 4358,
+  "rawgSlug": "assassins-creed-revelations",
+  "released": "2011-11-15",
+  "developers": [
+    "Ubisoft"
+  ],
+  "playtime": 14,
+  "genres": [
+    "Action"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Multiplayer",
+    "Atmospheric",
+    "Great Soundtrack",
+    "RPG",
+    "Story Rich",
+    "Open World",
+    "Third Person",
+    "Sci-fi",
+    "Sandbox",
+    "Stealth",
+    "Action-Adventure"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/193/19390fa5e75e9048b22c9a736cf9992f.jpg",
+  "steamAppId": 201870,
+  "achievements": {
+    "total": 48,
+    "hidden": 0,
+    "examples": [
+      {
+        "name": "Best Served Cold",
+        "percent": 15.6
+      },
+      {
+        "name": "Istanbul and Constantinople",
+        "percent": 13.6
+      },
+      {
+        "name": "Overkiller",
+        "percent": 11.4
+      },
+      {
+        "name": "The Loop",
+        "percent": 1.1
+      },
+      {
+        "name": "Find all Pieces",
+        "percent": 1.0
+      },
+      {
+        "name": "Breaking the Loop",
+        "percent": 0.9
+      },
+      {
+        "name": "Cross Styx without dying",
+        "percent": 0.9
+      },
+      {
+        "name": "Impress Warren Vidic",
+        "percent": 0.8
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Assassin's_Creed:_Revelations",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 486,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://assassinscreed.fandom.com/wiki/Assassin's_Creed:_Revelations"
+    }
+  },
+  "game": {
+    "id": "assassins-creed-revelations",
+    "title": "Assassin's Creed Revelations",
+    "platforms": [
+      "PlayStation 3",
+      "PC",
+      "Xbox 360",
+      "PlayStation 4",
+      "Xbox One"
+    ],
+    "blurb": "Open-world historical action-adventure set in Constantinople, with Ezio Auditore and Desmond Miles, from Ubisoft, released 2011-11-15. RAWG average playtime: 14 hours. Genre: Action. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#9E2B25",
+    "chapters": [
+      {
+        "id": "dna-sequences",
+        "title": "Ezio's Memories: DNA Sequences 1 to 9",
+        "summary": "The main story, sequence by sequence. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "desmond-sequences",
+        "title": "Desmond Sequences",
+        "summary": "Five Desmond Sequences, separate from Ezio's memories.",
+        "steps": []
+      },
+      {
+        "id": "brotherhood",
+        "title": "Dens, Recruits and the Mediterranean",
+        "summary": "Training recruits to Master Assassin, den defense, faction challenges, tax collectors and the Mediterranean Defense game.",
+        "steps": []
+      },
+      {
+        "id": "collectibles-and-challenges",
+        "title": "Collectibles, Full Sync and Challenges",
+        "summary": "Animus data fragments, books, bomb missions, the Hagia Sofia challenges, Duccio and 100% synchronization.",
+        "steps": []
+      },
+      {
+        "id": "combat-and-bombs",
+        "title": "Combat, Bombs and Stunts",
+        "summary": "Hidden blade kills, throwing knives, poison, smoke screens, crafting bombs and parachute stunts, including from the Galata Tower.",
+        "steps": []
+      },
+      {
+        "id": "lost-archive",
+        "title": "The Lost Archive (add-on, likely)",
+        "summary": "A final block of ten achievements about an Animus test, an induction leap, a loop and the river Styx. The add-on name is inferred, not stated.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "The Early Years",
+        "kind": "trophy",
+        "chapterId": "desmond-sequences",
+        "where": "Complete Desmond Sequence 1."
+      },
+      {
+        "id": "achievement-2",
+        "name": "Best Served Cold",
+        "kind": "trophy",
+        "chapterId": "dna-sequences",
+        "where": "Complete DNA Sequence 1."
+      },
+      {
+        "id": "achievement-3",
+        "name": "The Reluctant Assassin",
+        "kind": "trophy",
+        "chapterId": "desmond-sequences",
+        "where": "Complete Desmond Sequence 2."
+      },
+      {
+        "id": "achievement-4",
+        "name": "Istanbul and Constantinople",
+        "kind": "trophy",
+        "chapterId": "dna-sequences",
+        "where": "Complete DNA Sequence 2."
+      },
+      {
+        "id": "achievement-5",
+        "name": "Escape To New York",
+        "kind": "trophy",
+        "chapterId": "desmond-sequences",
+        "where": "Complete Desmond Sequence 3."
+      },
+      {
+        "id": "achievement-6",
+        "name": "Seal the Deal",
+        "kind": "trophy",
+        "chapterId": "dna-sequences",
+        "where": "Complete DNA Sequence 3."
+      },
+      {
+        "id": "achievement-7",
+        "name": "The Prince",
+        "kind": "trophy",
+        "chapterId": "dna-sequences",
+        "where": "Complete DNA Sequence 4."
+      },
+      {
+        "id": "achievement-8",
+        "name": "The Plot Thickens",
+        "kind": "trophy",
+        "chapterId": "dna-sequences",
+        "where": "Complete DNA Sequence 5."
+      },
+      {
+        "id": "achievement-9",
+        "name": "Successes and Failures",
+        "kind": "trophy",
+        "chapterId": "dna-sequences",
+        "where": "Complete DNA Sequence 6."
+      },
+      {
+        "id": "achievement-10",
+        "name": "The Rotten Apple",
+        "kind": "trophy",
+        "chapterId": "desmond-sequences",
+        "where": "Complete Desmond Sequence 4."
+      },
+      {
+        "id": "achievement-11",
+        "name": "Old Boss, New Boss",
+        "kind": "trophy",
+        "chapterId": "dna-sequences",
+        "where": "Complete DNA Sequence 7."
+      },
+      {
+        "id": "achievement-12",
+        "name": "Priorities",
+        "kind": "trophy",
+        "chapterId": "dna-sequences",
+        "where": "Complete DNA Sequence 8."
+      },
+      {
+        "id": "achievement-13",
+        "name": "Are You Desmond Miles?",
+        "kind": "trophy",
+        "chapterId": "desmond-sequences",
+        "where": "Complete Desmond Sequence 5."
+      },
+      {
+        "id": "achievement-14",
+        "name": "Revelations",
+        "kind": "trophy",
+        "chapterId": "dna-sequences",
+        "where": "Complete DNA Sequence 9."
+      },
+      {
+        "id": "achievement-15",
+        "name": "Fond Memories",
+        "kind": "trophy",
+        "chapterId": "collectibles-and-challenges",
+        "where": "Achieve 100% Synchronization in all Sequences."
+      },
+      {
+        "id": "achievement-16",
+        "name": "Holy Wisdom",
+        "kind": "trophy",
+        "chapterId": "collectibles-and-challenges",
+        "where": "Complete the Hagia Sofia challenge level."
+      },
+      {
+        "id": "achievement-17",
+        "name": "Capped",
+        "kind": "trophy",
+        "chapterId": "collectibles-and-challenges",
+        "where": "Collect all animus data fragments."
+      },
+      {
+        "id": "achievement-18",
+        "name": "Pyromaniac",
+        "kind": "trophy",
+        "chapterId": "collectibles-and-challenges",
+        "where": "Complete all Bomb Missions."
+      },
+      {
+        "id": "achievement-19",
+        "name": "Armchair General",
+        "kind": "trophy",
+        "chapterId": "brotherhood",
+        "where": "Control all cities (except Rhodes) simultaneously in the Mediterranian Defense game."
+      },
+      {
+        "id": "achievement-20",
+        "name": "Iron Curtain",
+        "kind": "trophy",
+        "chapterId": "brotherhood",
+        "where": "Perform a perfect den defense without using the cannon."
+      },
+      {
+        "id": "achievement-21",
+        "name": "Spider Assassin",
+        "kind": "trophy",
+        "chapterId": "collectibles-and-challenges",
+        "where": "Climb Hagia Sofia, from the ground to the pinnacle, in under 25 seconds."
+      },
+      {
+        "id": "achievement-22",
+        "name": "A Friend Indeed",
+        "kind": "trophy",
+        "chapterId": "brotherhood",
+        "where": "Complete all Faction Creed Challenges from a single faction."
+      },
+      {
+        "id": "achievement-23",
+        "name": "Tax Evasion",
+        "kind": "trophy",
+        "chapterId": "brotherhood",
+        "where": "Get your money back from a Templar tax collector."
+      },
+      {
+        "id": "achievement-24",
+        "name": "The Mentor",
+        "kind": "trophy",
+        "chapterId": "brotherhood",
+        "where": "Have seven trainees reach the rank of Master Assassin."
+      },
+      {
+        "id": "achievement-25",
+        "name": "Lightning Strikes",
+        "kind": "trophy",
+        "chapterId": "combat-and-bombs",
+        "where": "Kill 5 guards in 5 seconds using only your hidden blades."
+      },
+      {
+        "id": "achievement-26",
+        "name": "Overkiller",
+        "kind": "trophy",
+        "chapterId": "combat-and-bombs",
+        "where": "Assassinate 50 guards with the hidden blade."
+      },
+      {
+        "id": "achievement-27",
+        "name": "Show-Off",
+        "kind": "trophy",
+        "chapterId": "combat-and-bombs",
+        "where": "Parachute onto a zipline."
+      },
+      {
+        "id": "achievement-28",
+        "name": "Sage",
+        "kind": "trophy",
+        "chapterId": "collectibles-and-challenges",
+        "where": "Collect all available books."
+      },
+      {
+        "id": "achievement-29",
+        "name": "Fast Fingers",
+        "kind": "trophy",
+        "chapterId": "combat-and-bombs",
+        "where": "Loot 50 dead guards with thief looting."
+      },
+      {
+        "id": "achievement-30",
+        "name": "Mosh Pit",
+        "kind": "trophy",
+        "chapterId": "combat-and-bombs",
+        "where": "Have 10 guards poisoned at the same time."
+      },
+      {
+        "id": "achievement-31",
+        "name": "Mouse Trap",
+        "kind": "trophy",
+        "chapterId": "combat-and-bombs",
+        "where": "Kill 5 guards with a scaffold after they have been stunned by caltrops."
+      },
+      {
+        "id": "achievement-32",
+        "name": "Craft Maniac",
+        "kind": "trophy",
+        "chapterId": "combat-and-bombs",
+        "where": "Craft 30 bombs."
+      },
+      {
+        "id": "achievement-33",
+        "name": "My Protégé",
+        "kind": "trophy",
+        "chapterId": "brotherhood",
+        "where": "Have one trainee reach the rank of Master Assassin."
+      },
+      {
+        "id": "achievement-34",
+        "name": "Almost flying",
+        "kind": "trophy",
+        "chapterId": "combat-and-bombs",
+        "where": "Parachute directly from the top of the Galata Tower to the golden horn."
+      },
+      {
+        "id": "achievement-35",
+        "name": "Silent but deadly",
+        "kind": "trophy",
+        "chapterId": "combat-and-bombs",
+        "where": "Kill three guards simultaneously with only throwing knives."
+      },
+      {
+        "id": "achievement-36",
+        "name": "I can see you",
+        "kind": "trophy",
+        "chapterId": "combat-and-bombs",
+        "where": "Kill 5 guards while under the cover of a smoke screen bomb."
+      },
+      {
+        "id": "achievement-37",
+        "name": "Monster's dance",
+        "kind": "trophy",
+        "chapterId": "combat-and-bombs",
+        "where": "Have a guard incapacitate 3 civilians while he's poisoned."
+      },
+      {
+        "id": "achievement-38",
+        "name": "Bully",
+        "kind": "trophy",
+        "chapterId": "collectibles-and-challenges",
+        "where": "Find and beat up Duccio."
+      },
+      {
+        "id": "achievement-39",
+        "name": "Part of the Creed",
+        "kind": "trophy",
+        "chapterId": "lost-archive",
+        "where": "Take the induction leap of faith"
+      },
+      {
+        "id": "achievement-40",
+        "name": "Jump they say",
+        "kind": "trophy",
+        "chapterId": "lost-archive",
+        "where": "Reach the Animus memo"
+      },
+      {
+        "id": "achievement-41",
+        "name": "Enter the Animus",
+        "kind": "trophy",
+        "chapterId": "lost-archive",
+        "where": "Enter the Animus simulation"
+      },
+      {
+        "id": "achievement-42",
+        "name": "Meet your maker",
+        "kind": "trophy",
+        "chapterId": "lost-archive",
+        "where": "Finish memory five"
+      },
+      {
+        "id": "achievement-43",
+        "name": "The Loop",
+        "kind": "trophy",
+        "chapterId": "lost-archive",
+        "where": "Experience the loop"
+      },
+      {
+        "id": "achievement-44",
+        "name": "Find all Pieces",
+        "kind": "trophy",
+        "chapterId": "lost-archive",
+        "where": "Find all of the decipher fragments"
+      },
+      {
+        "id": "achievement-45",
+        "name": "Breaking the Loop",
+        "kind": "trophy",
+        "chapterId": "lost-archive",
+        "where": "Break the loop, escape the cycle"
+      },
+      {
+        "id": "achievement-46",
+        "name": "Save yourself",
+        "kind": "trophy",
+        "chapterId": "lost-archive",
+        "where": "Land on a block after falling more than 25 meters"
+      },
+      {
+        "id": "achievement-47",
+        "name": "Impress Warren Vidic",
+        "kind": "trophy",
+        "chapterId": "lost-archive",
+        "where": "Complete the Animus testing sequence without failing"
+      },
+      {
+        "id": "achievement-48",
+        "name": "Cross Styx without dying",
+        "kind": "trophy",
+        "chapterId": "lost-archive",
+        "where": "Make it across the river Styx without failing"
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/assassins-creed-revelations",
+    "Achievement data from Steam (Steam Web API, app 201870)",
+    "StrategyWiki: no usable walkthrough, nothing used — https://strategywiki.org/wiki/Assassin's_Creed:_Revelations",
+    "Fandom (assassinscreed.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://assassinscreed.fandom.com/wiki/Assassin's_Creed:_Revelations"
+  ],
+  "route": "original",
+  "notes": "Backlog game, picked from RAWG's most-added list for its year (docs/PLAN.md section 2 ordering). StrategyWiki has the page under \"Assassin's Creed: Revelations\" (with a colon), at completion stage 0: only its contents page and Achievements and trophies are written, and the Walkthrough is linked but not written, so nothing was used. assassinscreed.fandom.com answers the API under the same colon title, with about 486 linked pages (much of it series navigation; it includes \"The Lost Archive\", \"Den Defense\", \"Mediterranean Defense\" and \"Templar Tax Collector\"); names only were looked at, nothing copied. Steam app 201870; RAWG's first result is the expected entry (4358). None of the 48 Steam achievements is hidden. The last ten achievements (Animus test, induction leap, the loop, the river Styx) form a separate block that is probably The Lost Archive add-on named on Fandom; that link is inferred from list position, not stated. \"Bully\" (find and beat up Duccio) sits with the collectibles and challenges as a guess. One achievement description spells \"Mediterranian\"; the rule matches both spellings."
+}

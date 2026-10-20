@@ -1,0 +1,682 @@
+{
+  "id": "saints-row-iv",
+  "title": "Saints Row IV",
+  "year": 2013,
+  "platforms": [
+    "PlayStation 3",
+    "PC",
+    "Xbox One",
+    "PlayStation 4",
+    "Xbox 360",
+    "Linux"
+  ],
+  "rawgId": 3931,
+  "rawgSlug": "saints-row-iv",
+  "released": "2013-08-20",
+  "developers": [
+    "Volition"
+  ],
+  "playtime": 13,
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Multiplayer",
+    "Full controller support",
+    "Steam Cloud",
+    "Great Soundtrack",
+    "Co-op",
+    "Open World",
+    "cooperative",
+    "Third Person",
+    "Sci-fi",
+    "Online Co-Op",
+    "Funny"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/e3d/e3ddc524c6292a435d01d97cc5f42ea7.jpg",
+  "steamAppId": 206420,
+  "achievements": {
+    "total": 73,
+    "hidden": 8,
+    "examples": [
+      {
+        "name": "Destroyer-In-Chief",
+        "percent": 85.7
+      },
+      {
+        "name": "There Is No Pancakes",
+        "percent": 84.0
+      },
+      {
+        "name": "First of Many",
+        "percent": 72.8
+      },
+      {
+        "name": "Get that Kid to a Psychologist",
+        "percent": 3.1
+      },
+      {
+        "name": "I Am Become Death",
+        "percent": 3.0
+      },
+      {
+        "name": "Hello Little Friend",
+        "percent": 2.9
+      },
+      {
+        "name": "Ultimate Hot Potato",
+        "percent": 2.9
+      },
+      {
+        "name": "OMGWTFBBQ",
+        "percent": 2.8
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Saints_Row_IV",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 143,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://saintsrow.fandom.com/wiki/Saints_Row_IV"
+    }
+  },
+  "game": {
+    "id": "saints-row-iv",
+    "title": "Saints Row IV",
+    "platforms": [
+      "PlayStation 3",
+      "PC",
+      "Xbox One",
+      "PlayStation 4",
+      "Xbox 360",
+      "Linux"
+    ],
+    "blurb": "Open-world action-adventure in which the Saints gain super powers inside a simulated Steelport, from Volition, released 2013-08-20. RAWG average playtime: 13 hours. Genres: Action, Adventure. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#6A1B9A",
+    "chapters": [
+      {
+        "id": "main-story",
+        "title": "The Main Story",
+        "summary": "Story missions from \"The Saints Wing\" to \"Grand Finale\". Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "homies-and-loyalty",
+        "title": "Homies and Loyalty Missions",
+        "summary": "Doing everything for each crew member, and finishing the story after all Homie missions.",
+        "steps": []
+      },
+      {
+        "id": "open-world",
+        "title": "Open World, Challenges and Collectibles",
+        "summary": "Clearing districts of the simulated Steelport, Challenges, Audio Logs, Data Clusters and long jumps.",
+        "steps": []
+      },
+      {
+        "id": "powers-and-weapons",
+        "title": "Super Powers and Weapons",
+        "summary": "Super Powers, elements and upgrades, alien kills and weapon upgrades and styles.",
+        "steps": []
+      },
+      {
+        "id": "co-op-and-online",
+        "title": "Co-op and Online",
+        "summary": "Co-op time, quests and missions together, and sharing a character online.",
+        "steps": []
+      },
+      {
+        "id": "enter-the-dominatrix",
+        "title": "Enter the Dominatrix (DLC, likely)",
+        "summary": "A block of achievements for missions such as \"Meet the Dominatrix\", \"At the Races\" and \"Escape the Dominatrix\".",
+        "steps": []
+      },
+      {
+        "id": "raptor-missions",
+        "title": "Five-Mission Add-on with Raptors",
+        "summary": "A block of five missions, raptors, and heavy-weapon kill counts. The add-on name is not in the data.",
+        "steps": []
+      },
+      {
+        "id": "holiday-missions",
+        "title": "Holiday Missions",
+        "summary": "Christmas-themed missions at the North Pole, Santa letters, snowmen and holiday activities.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Zero Saints Thirty",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-2",
+        "name": "Destroyer-In-Chief",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Complete 'The Saints Wing'."
+      },
+      {
+        "id": "achievement-3",
+        "name": "There Is No Pancakes",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Complete 'A Pleasant Day'."
+      },
+      {
+        "id": "achievement-4",
+        "name": "Woah.",
+        "kind": "trophy",
+        "chapterId": "powers-and-weapons",
+        "where": "Get your first Super Powers."
+      },
+      {
+        "id": "achievement-5",
+        "name": "Don't Panic",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Complete 'The Real World'."
+      },
+      {
+        "id": "achievement-6",
+        "name": "Ghost in the Machine",
+        "kind": "trophy",
+        "chapterId": "powers-and-weapons",
+        "where": "Download a new ally into a robotic body."
+      },
+      {
+        "id": "achievement-7",
+        "name": "Didn't Need to See Him Naked",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Complete 'Matt's Back'."
+      },
+      {
+        "id": "achievement-8",
+        "name": "Blast from the Past",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Complete 'A Game of Clones'."
+      },
+      {
+        "id": "achievement-9",
+        "name": "About Time!",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Complete 'Welcome Back'."
+      },
+      {
+        "id": "achievement-10",
+        "name": "Betrayed",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Complete 'All Hands On Deck'."
+      },
+      {
+        "id": "achievement-11",
+        "name": "Poodle Skirt",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Complete 'Hello Teacup'."
+      },
+      {
+        "id": "achievement-12",
+        "name": "Keymaster",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Complete 'Batteries Not Included'."
+      },
+      {
+        "id": "achievement-13",
+        "name": "Imperator",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Complete 'Grand Finale'."
+      },
+      {
+        "id": "achievement-14",
+        "name": "Saints & Sensibility",
+        "kind": "trophy",
+        "chapterId": "homies-and-loyalty",
+        "where": "Complete 'Grand Finale' after completing all Homie missions."
+      },
+      {
+        "id": "achievement-15",
+        "name": "Half Way Home",
+        "kind": "trophy",
+        "chapterId": "open-world",
+        "where": "Complete all open world gameplay in two districts of the Simulated city of Steelport."
+      },
+      {
+        "id": "achievement-16",
+        "name": "How It Should Be",
+        "kind": "trophy",
+        "chapterId": "open-world",
+        "where": "Complete all open world gameplay in the entire Simulated city of Steelport."
+      },
+      {
+        "id": "achievement-17",
+        "name": "The Full Kinzie",
+        "kind": "trophy",
+        "chapterId": "homies-and-loyalty",
+        "where": "Do everything you can for Kinzie -- Quests, Loyalty Missions... everything."
+      },
+      {
+        "id": "achievement-18",
+        "name": "Paranormal Bromance",
+        "kind": "trophy",
+        "chapterId": "homies-and-loyalty",
+        "where": "Do everything you can for Matt -- Quests, Loyalty Missions... everything."
+      },
+      {
+        "id": "achievement-19",
+        "name": "The Face of the Saints",
+        "kind": "trophy",
+        "chapterId": "homies-and-loyalty",
+        "where": "Do everything you can for Pierce -- Quests, Loyalty Missions... everything."
+      },
+      {
+        "id": "achievement-20",
+        "name": "The Two Shaundis",
+        "kind": "trophy",
+        "chapterId": "homies-and-loyalty",
+        "where": "Do everything you can for Shaundi -- Quests, Loyalty Missions... everything."
+      },
+      {
+        "id": "achievement-21",
+        "name": "Machine Man",
+        "kind": "trophy",
+        "chapterId": "homies-and-loyalty",
+        "where": "Do everything you can for CID -- Quests and... everything."
+      },
+      {
+        "id": "achievement-22",
+        "name": "On Her Saint's Secret Service",
+        "kind": "trophy",
+        "chapterId": "homies-and-loyalty",
+        "where": "Do everything you can for Asha -- Quests, Loyalty Missions... everything."
+      },
+      {
+        "id": "achievement-23",
+        "name": "Benjamin [CENSORED] King",
+        "kind": "trophy",
+        "chapterId": "homies-and-loyalty",
+        "where": "Do everything you can for Ben -- Quests, Loyalty Missions... everything."
+      },
+      {
+        "id": "achievement-24",
+        "name": "Actor-Turned-Politician",
+        "kind": "trophy",
+        "chapterId": "homies-and-loyalty",
+        "where": "Do everything you can for your Veep -- Quests, Loyalty Missions... everything."
+      },
+      {
+        "id": "achievement-25",
+        "name": "Bouncin' with an Old Friend",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-26",
+        "name": "And I Ran...",
+        "kind": "trophy",
+        "chapterId": "powers-and-weapons",
+        "where": "Super Sprint for 250,000 meters."
+      },
+      {
+        "id": "achievement-27",
+        "name": "Don't Look Down",
+        "kind": "trophy",
+        "chapterId": "powers-and-weapons",
+        "where": "Be airborne during Super Jumps for a combined 10 minutes of gameplay."
+      },
+      {
+        "id": "achievement-28",
+        "name": "Chill Out",
+        "kind": "trophy",
+        "chapterId": "powers-and-weapons",
+        "where": "Freeze and Shatter Kill 100 Aliens with the Freeze Blast Super Power."
+      },
+      {
+        "id": "achievement-29",
+        "name": "Pounding the Pavement",
+        "kind": "trophy",
+        "chapterId": "powers-and-weapons",
+        "where": "Kill 150 Aliens with the Stomp Super Power."
+      },
+      {
+        "id": "achievement-30",
+        "name": "Here! Catch!",
+        "kind": "trophy",
+        "chapterId": "powers-and-weapons",
+        "where": "Kill 100 Aliens with the Telekinesis Super Power."
+      },
+      {
+        "id": "achievement-31",
+        "name": "Bringin' the Heat",
+        "kind": "trophy",
+        "chapterId": "powers-and-weapons",
+        "where": "Kill 100 Aliens using the Fire Buff Super Power."
+      },
+      {
+        "id": "achievement-32",
+        "name": "Fist Meet Ground",
+        "kind": "trophy",
+        "chapterId": "powers-and-weapons",
+        "where": "Kill 100 Aliens with the Death From Above Super Power."
+      },
+      {
+        "id": "achievement-33",
+        "name": "Experimental Tech",
+        "kind": "trophy",
+        "chapterId": "powers-and-weapons",
+        "where": "Kill 25 Aliens with each: Dubstep, InflatoRay, Bounce Gun, Disintegrator, Abduction, and Black Hole."
+      },
+      {
+        "id": "achievement-34",
+        "name": "Maximum Stopping Power",
+        "kind": "trophy",
+        "chapterId": "powers-and-weapons",
+        "where": "Upgrade one weapon to the max."
+      },
+      {
+        "id": "achievement-35",
+        "name": "Where's My Cape?",
+        "kind": "trophy",
+        "chapterId": "powers-and-weapons",
+        "where": "Purchase all Super Power upgrades."
+      },
+      {
+        "id": "achievement-36",
+        "name": "I Am Become Death",
+        "kind": "trophy",
+        "chapterId": "powers-and-weapons",
+        "where": "Kill 1000 Aliens with any combination of Super Powers."
+      },
+      {
+        "id": "achievement-37",
+        "name": "The Challenge King",
+        "kind": "trophy",
+        "chapterId": "open-world",
+        "where": "Complete ALL of the Challenges."
+      },
+      {
+        "id": "achievement-38",
+        "name": "The Whole Story",
+        "kind": "trophy",
+        "chapterId": "open-world",
+        "where": "Find ALL Audio Logs."
+      },
+      {
+        "id": "achievement-39",
+        "name": "Better This Way",
+        "kind": "trophy",
+        "chapterId": "powers-and-weapons",
+        "where": "Customize the style of all the weapons on your radial."
+      },
+      {
+        "id": "achievement-40",
+        "name": "Back in the Day",
+        "kind": "trophy",
+        "chapterId": "open-world",
+        "where": "Spend 2 hours outside of missions with past Saints Row characters as your homies"
+      },
+      {
+        "id": "achievement-41",
+        "name": "Switch Hitter",
+        "kind": "trophy",
+        "chapterId": "open-world",
+        "where": "Play for at least 2 hours as a male character AND 2 hours as a female character."
+      },
+      {
+        "id": "achievement-42",
+        "name": "First of Many",
+        "kind": "trophy",
+        "chapterId": "powers-and-weapons",
+        "where": "Buy your first Upgrade from the Upgrade Store."
+      },
+      {
+        "id": "achievement-43",
+        "name": "Zoo Keeper",
+        "kind": "trophy",
+        "chapterId": "powers-and-weapons",
+        "where": "Kill 25 Wardens."
+      },
+      {
+        "id": "achievement-44",
+        "name": "You Chose... Poorly",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-45",
+        "name": "Ooo A Piece of Candy!",
+        "kind": "trophy",
+        "chapterId": "open-world",
+        "where": "Find 100 Data Clusters."
+      },
+      {
+        "id": "achievement-46",
+        "name": "A Real Cluster....",
+        "kind": "trophy",
+        "chapterId": "open-world",
+        "where": "Find 100% of all Data Clusters."
+      },
+      {
+        "id": "achievement-47",
+        "name": "Elementary",
+        "kind": "trophy",
+        "chapterId": "powers-and-weapons",
+        "where": "Choose a new element for all of your superpowers."
+      },
+      {
+        "id": "achievement-48",
+        "name": "Epic Jump Quest",
+        "kind": "trophy",
+        "chapterId": "open-world",
+        "where": "Jump from the roof of 3 Count to the Nuke Plant, without touching the ground or other rooftops."
+      },
+      {
+        "id": "achievement-49",
+        "name": "Fourth and Forty",
+        "kind": "trophy",
+        "chapterId": "open-world",
+        "where": "Spend over 40 hours in the Simulation."
+      },
+      {
+        "id": "achievement-50",
+        "name": "Saintified",
+        "kind": "trophy",
+        "chapterId": "co-op-and-online",
+        "where": "Create and share a character online."
+      },
+      {
+        "id": "achievement-51",
+        "name": "Double Team",
+        "kind": "trophy",
+        "chapterId": "co-op-and-online",
+        "where": "Play Saints Row IV Co-op for 5 hours."
+      },
+      {
+        "id": "achievement-52",
+        "name": "The Twin Saints",
+        "kind": "trophy",
+        "chapterId": "co-op-and-online",
+        "where": "Complete ten Quests together in Co-op."
+      },
+      {
+        "id": "achievement-53",
+        "name": "Super Power Team Up!",
+        "kind": "trophy",
+        "chapterId": "co-op-and-online",
+        "where": "Beat all Missions and Loyalty Missions in Co-op."
+      },
+      {
+        "id": "achievement-54",
+        "name": "All Too Easy",
+        "kind": "trophy",
+        "chapterId": "enter-the-dominatrix",
+        "where": "Kill Zinyak in less than 5 minutes in 'Save the Planet'."
+      },
+      {
+        "id": "achievement-55",
+        "name": "Indomitable",
+        "kind": "trophy",
+        "chapterId": "enter-the-dominatrix",
+        "where": "Complete 'Meet the Dominatrix' without dying."
+      },
+      {
+        "id": "achievement-56",
+        "name": "Rigging the Race",
+        "kind": "trophy",
+        "chapterId": "enter-the-dominatrix",
+        "where": "Destroy all the rival pony carts in 'At the Races'."
+      },
+      {
+        "id": "achievement-57",
+        "name": "Health Inspector",
+        "kind": "trophy",
+        "chapterId": "enter-the-dominatrix",
+        "where": "Destroy all the green polyps inside Paul in 'Pop His Top'."
+      },
+      {
+        "id": "achievement-58",
+        "name": "Bow to the Boss!",
+        "kind": "trophy",
+        "chapterId": "enter-the-dominatrix",
+        "where": "Kill the Dominatrix in 'Escape the Dominatrix'."
+      },
+      {
+        "id": "achievement-59",
+        "name": "Friend of the Raptors",
+        "kind": "trophy",
+        "chapterId": "raptor-missions",
+        "where": "Complete all five missions."
+      },
+      {
+        "id": "achievement-60",
+        "name": "Hello Little Friend",
+        "kind": "trophy",
+        "chapterId": "raptor-missions",
+        "where": "Get 250 kills with the Minigun."
+      },
+      {
+        "id": "achievement-61",
+        "name": "OMGWTFBBQ",
+        "kind": "trophy",
+        "chapterId": "raptor-missions",
+        "where": "Get 100 kills with the Flamethrower."
+      },
+      {
+        "id": "achievement-62",
+        "name": "Ultimate Hot Potato",
+        "kind": "trophy",
+        "chapterId": "raptor-missions",
+        "where": "Get 100 kills with the Grenade Launcher."
+      },
+      {
+        "id": "achievement-63",
+        "name": "Walking the Dinosaur",
+        "kind": "trophy",
+        "chapterId": "raptor-missions",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-64",
+        "name": "...A Saint Gets a Gun",
+        "kind": "trophy",
+        "chapterId": "holiday-missions",
+        "where": "Ring all the bells in town in 'Miracle on 3rd Street'."
+      },
+      {
+        "id": "achievement-65",
+        "name": "Minty Fresh!",
+        "kind": "trophy",
+        "chapterId": "holiday-missions",
+        "where": "Lick the candy cane barricade all the way through in 'The Fight Before Christmas'."
+      },
+      {
+        "id": "achievement-66",
+        "name": "Get that Kid to a Psychologist",
+        "kind": "trophy",
+        "chapterId": "holiday-missions",
+        "where": "Find all the snowmen vignettes in the North Pole."
+      },
+      {
+        "id": "achievement-67",
+        "name": "He's Still on the Naughty List",
+        "kind": "trophy",
+        "chapterId": "holiday-missions",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-68",
+        "name": "*BEEP* YOU, CLAWZ!",
+        "kind": "trophy",
+        "chapterId": "holiday-missions",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-69",
+        "name": "Our Gift to You",
+        "kind": "trophy",
+        "chapterId": "holiday-missions",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-70",
+        "name": "Dear Santa",
+        "kind": "trophy",
+        "chapterId": "holiday-missions",
+        "where": "Find all the letters to Santa in the holiday missions."
+      },
+      {
+        "id": "achievement-71",
+        "name": "A World Without Christmas",
+        "kind": "trophy",
+        "chapterId": "holiday-missions",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-72",
+        "name": "A Very Genki Holiday",
+        "kind": "trophy",
+        "chapterId": "holiday-missions",
+        "where": "Complete all instances of Genki Holiday."
+      },
+      {
+        "id": "achievement-73",
+        "name": "Make a List, Check it Twice",
+        "kind": "trophy",
+        "chapterId": "holiday-missions",
+        "where": "Complete all instances of Naughty and Nice."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/saints-row-iv",
+    "Achievement data from Steam (Steam Web API, app 206420)",
+    "StrategyWiki: no usable walkthrough, nothing used — https://strategywiki.org/wiki/Saints_Row_IV",
+    "Fandom (saintsrow.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://saintsrow.fandom.com/wiki/Saints_Row_IV"
+  ],
+  "route": "original",
+  "notes": "Backlog game, picked from RAWG's most-added list for its year (docs/PLAN.md section 2 ordering). StrategyWiki has a stub page (completion stage 0, tagged Stubs); it links Gameplay, Table of Contents and Walkthrough subpages but none of them exist (a prefix search found no subpages). saintsrow.fandom.com answers the API, with about 143 linked pages, including \"Saints Row IV: Enter the Dominatrix\", \"How the Saints Save Christmas\" and many DLC pack pages; names only were looked at, nothing copied. The Steam app list names app 206420 \"Saints Row IV: Re-Elected\"; its schema gives only the placeholder name \"ValveTestApp206420\". 8 of 73 Steam achievements are hidden; 3 (Zero Saints Thirty, Bouncin' with an Old Friend, You Chose... Poorly) sit in the main story chapter as a placeholder, and the rest were placed in the DLC blocks by schema position. The Dominatrix chapter is inferred from mission names in achievement text plus the Fandom page name; \"All Too Easy\" (Zinyak in 'Save the Planet') was put there by schema position and may belong to the base game. Achievements 59 to 63 form a five-mission block with raptors whose add-on name is not in the data. The holiday chapter is probably the Fandom page \"How the Saints Save Christmas\", but the achievements do not name it."
+}
