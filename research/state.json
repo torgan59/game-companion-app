@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-20T19:46:01Z",
+  "updated": "2026-10-20T19:46:13Z",
   "currentYear": 2026,
   "queue": [
     {
@@ -209,41 +209,45 @@
       "slug": "control-resonant",
       "title": "Control Resonant",
       "year": 2026,
-      "status": "queued",
+      "status": "done",
       "evidence": 1,
       "evidenceSource": "RAWG players: 169 (added count); named in docs/PLAN.md section 2. Metacritic not available via RAWG; sales and best-of lists not checked (outside allowed sources).",
       "route": "original",
-      "rawgSlug": "control-resonant"
+      "rawgSlug": "control-resonant",
+      "packPath": "packs/control-resonant.json"
     },
     {
       "slug": "assassins-creed-black-flag-resynced",
       "title": "Assassin's Creed Black Flag Resynced",
       "year": 2026,
-      "status": "queued",
+      "status": "done",
       "evidence": 1,
       "evidenceSource": "RAWG players: 161 (added count); named in docs/PLAN.md section 2. Metacritic not available via RAWG; sales and best-of lists not checked (outside allowed sources).",
       "route": "original",
-      "rawgSlug": "assassins-creed-back-flag-resynced"
+      "rawgSlug": "assassins-creed-back-flag-resynced",
+      "packPath": "packs/assassins-creed-black-flag-resynced.json"
     },
     {
       "slug": "onimusha-way-of-the-sword",
       "title": "Onimusha: Way of the Sword",
       "year": 2026,
-      "status": "queued",
+      "status": "done",
       "evidence": 1,
       "evidenceSource": "RAWG players: 136 (added count); named in docs/PLAN.md section 2. Metacritic not available via RAWG; sales and best-of lists not checked (outside allowed sources).",
       "route": "original",
-      "rawgSlug": "onimusha-way-of-the-sword"
+      "rawgSlug": "onimusha-way-of-the-sword",
+      "packPath": "packs/onimusha-way-of-the-sword.json"
     },
     {
       "slug": "nioh-3",
       "title": "Nioh 3",
       "year": 2026,
-      "status": "queued",
+      "status": "done",
       "evidence": 1,
       "evidenceSource": "RAWG players: 86 (added count); named in docs/PLAN.md section 2. Metacritic not available via RAWG; sales and best-of lists not checked (outside allowed sources).",
       "route": "original",
-      "rawgSlug": "nioh-3"
+      "rawgSlug": "nioh-3",
+      "packPath": "packs/nioh-3.json"
     },
     {
       "slug": "grand-theft-auto-vi",
@@ -261,11 +265,12 @@
       "slug": "avowed",
       "title": "Avowed",
       "year": 2025,
-      "status": "queued",
+      "status": "done",
       "evidence": 1,
       "evidenceSource": "RAWG players: 582 (added count); named in docs/PLAN.md section 2. Metacritic not available via RAWG; sales and best-of lists not checked (outside allowed sources).",
       "route": "original",
-      "rawgSlug": "avowed"
+      "rawgSlug": "avowed",
+      "packPath": "packs/avowed.json"
     },
     {
       "slug": "mafia-the-old-country",
