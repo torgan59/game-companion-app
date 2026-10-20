@@ -5,6 +5,916 @@ Tracks the 20-game research queue in `research/state.json` and files landing in 
 
 ---
 
+## 2026-10-20 19:10 UTC
+
+**Year / queue:** currentYear = 2020 on `main`. state.json on `main` (last updated 2026-10-18 22:11 UTC) unchanged: 4 queued, 0 in progress, 16 done, 0 errors. Two open PRs still carry newer state.json files: PR #6 (`cyberpunk-2077` done, 17/20) and PR #7 (40-game queue, 21 done / 15 queued / 4 skipped, currentYear reset to 2026). `yearsCompleted` still empty (cosmetic).
+
+**Progress:** 16/20 games merged to `main`. All 20 original games are researched counting the two open PRs (17 in #6, plus RDR2, GTA V and Skyrim in #7). Target becomes 21/40 once both merge. No new research landed; this is the twenty-ninth consecutive hourly check with no change on `main` or on the PRs.
+
+**Latest commits (origin/main):**
+- `b17f489` Coordinator log: 18:10 check (coordinator, 18:12 UTC)
+- `f0ed3f1` Coordinator log: 17:10 check (coordinator, 17:11 UTC)
+- `69b1932` Coordinator log: 16:10 check (coordinator, 16:13 UTC)
+- `0f2587d` Coordinator log: 15:10 check (coordinator, 15:12 UTC)
+- `61dc049` Coordinator log: 14:10 check (coordinator, 14:16 UTC)
+
+No new research commits on `main` (last one `824a966`, 2026-10-18 22:11 UTC). PR #6 head unchanged at `54998d3` (opened 2026-10-19 03:10 UTC, 40 hours, no comments or pushes). PR #7 head unchanged at `e690754` (opened 2026-10-19 14:22 UTC, 29 hours, no comments or pushes). No new PRs. Remote branches unchanged: `main`, `claude/research-cyberpunk-2077` (#6), `claude/festive-turing-ek24ds` (#7), plus the stale `claude/research-forza-horizon-6` and `claude/research-crimson-desert` (merged long ago, safe to delete).
+
+**Researcher:** `game-researcher-routine` runs daily at 03:07 UTC and is enabled. Today's run (SUCCEEDED, 28 seconds, no output) was covered in the 03:10 entry. Next run is 2026-10-21 03:07 UTC (about 8 hours away) and will skip again unless at least PR #7 is merged before then.
+
+**Research files:** `research/` on `main` holds `state.json` plus the same 16 game files. Every `done` slug has a matching file and every file has a `done` entry. Filenames match slugs and each file's `id` matches its filename. No stray files. `packs/` still does not exist (placeholder `packPath` values, expected).
+
+**Quality check:** no new files on `main`; re-check of all 16 PASS (`id`, `title`, `platforms`, `game.chapters`, `game.collectibles` present, `id` equals filename). Known gaps unchanged: `ghost-of-yotei.json` and `zelda-tears-of-the-kingdom.json` have 0 collectibles.
+
+**Blockers / errors / stale PRs:**
+- **Research pipeline is fully blocked on Tim merging the two open PRs.** PR #6 is now 40 hours old, PR #7 is 29 hours old. No check runs are configured, so there is no CI to wait on.
+- **PR #6 and PR #7 both change `research/state.json` and will conflict.** Recommended order: merge #6, have the #7 session merge `main` into its branch, then merge #7.
+- PR #7 still needs Tim's call on three points it flags itself: 14 backlog games with `evidence: 1`, 4 games marked `skipped`, and `currentYear` reset to 2026.
+- No notification sent this run: nothing changed since the 03:10 notification.
+- No errors in state.json.
+
+**Next game in queue:** on `main`, `cyberpunk-2077` — Cyberpunk 2077 (2020, evidence 3, route original), already researched in PR #6. After #6 merges: `red-dead-redemption-2` — Red Dead Redemption 2 (2018), already researched in PR #7. After #7 merges, the researcher continues with the first of PR #7's 15 queued backlog games at the next 03:07 UTC run.
+
+---
+
+## 2026-10-20 18:10 UTC
+
+**Year / queue:** currentYear = 2020 on `main`. state.json on `main` (last updated 2026-10-18 22:11 UTC) unchanged: 4 queued, 0 in progress, 16 done, 0 errors. Two open PRs still carry newer state.json files: PR #6 (`cyberpunk-2077` done, 17/20) and PR #7 (40-game queue, 21 done / 15 queued / 4 skipped, currentYear reset to 2026). `yearsCompleted` still empty (cosmetic).
+
+**Progress:** 16/20 games merged to `main`. All 20 original games are researched counting the two open PRs (17 in #6, plus RDR2, GTA V and Skyrim in #7). Target becomes 21/40 once both merge. No new research landed; this is the twenty-eighth consecutive hourly check with no change on `main` or on the PRs.
+
+**Latest commits (origin/main):**
+- `f0ed3f1` Coordinator log: 17:10 check (coordinator, 17:11 UTC)
+- `69b1932` Coordinator log: 16:10 check (coordinator, 16:13 UTC)
+- `0f2587d` Coordinator log: 15:10 check (coordinator, 15:12 UTC)
+- `61dc049` Coordinator log: 14:10 check (coordinator, 14:16 UTC)
+- `b6264ed` Coordinator log: 13:10 check (coordinator, 13:15 UTC)
+
+No new research commits on `main` (last one `824a966`, 2026-10-18 22:11 UTC). PR #6 head unchanged at `54998d3` (opened 2026-10-19 03:10 UTC, 39 hours, no comments or pushes). PR #7 head unchanged at `e690754` (opened 2026-10-19 14:22 UTC, 28 hours, no comments or pushes). No new PRs. Remote branches unchanged: `main`, `claude/research-cyberpunk-2077` (#6), `claude/festive-turing-ek24ds` (#7), plus the stale `claude/research-forza-horizon-6` and `claude/research-crimson-desert` (merged long ago, safe to delete).
+
+**Researcher:** `game-researcher-routine` runs daily at 03:07 UTC and is enabled. Today's run (SUCCEEDED, 28 seconds, no output) was covered in the 03:10 entry. Next run is 2026-10-21 03:07 UTC (about 9 hours away) and will skip again unless at least PR #7 is merged before then.
+
+**Research files:** `research/` on `main` holds `state.json` plus the same 16 game files. Every `done` slug has a matching file and every file has a `done` entry. Filenames match slugs and each file's `id` matches its filename. No stray files. `packs/` still does not exist (placeholder `packPath` values, expected).
+
+**Quality check:** no new files on `main`; re-check of all 16 PASS (`id`, `title`, `platforms`, `game.chapters`, `game.collectibles` present, `id` equals filename). Known gaps unchanged: `ghost-of-yotei.json` and `zelda-tears-of-the-kingdom.json` have 0 collectibles.
+
+**Blockers / errors / stale PRs:**
+- **Research pipeline is fully blocked on Tim merging the two open PRs.** PR #6 is now 39 hours old, PR #7 is 28 hours old. No check runs are configured, so there is no CI to wait on.
+- **PR #6 and PR #7 both change `research/state.json` and will conflict.** Recommended order: merge #6, have the #7 session merge `main` into its branch, then merge #7.
+- PR #7 still needs Tim's call on three points it flags itself: 14 backlog games with `evidence: 1`, 4 games marked `skipped`, and `currentYear` reset to 2026.
+- No notification sent this run: nothing changed since the 03:10 notification.
+- No errors in state.json.
+
+**Next game in queue:** on `main`, `cyberpunk-2077` — Cyberpunk 2077 (2020, evidence 3, route original), already researched in PR #6. After #6 merges: `red-dead-redemption-2` — Red Dead Redemption 2 (2018), already researched in PR #7. After #7 merges, the researcher continues with the first of PR #7's 15 queued backlog games at the next 03:07 UTC run.
+
+---
+
+## 2026-10-20 17:10 UTC
+
+**Year / queue:** currentYear = 2020 on `main`. state.json on `main` (last updated 2026-10-18 22:11 UTC) unchanged: 4 queued, 0 in progress, 16 done, 0 errors. Two open PRs still carry newer state.json files: PR #6 (`cyberpunk-2077` done, 17/20) and PR #7 (40-game queue, 21 done / 15 queued / 4 skipped, currentYear reset to 2026). `yearsCompleted` still empty (cosmetic).
+
+**Progress:** 16/20 games merged to `main`. All 20 original games are researched counting the two open PRs (17 in #6, plus RDR2, GTA V and Skyrim in #7). Target becomes 21/40 once both merge. No new research landed; this is the twenty-seventh consecutive hourly check with no change on `main` or on the PRs.
+
+**Latest commits (origin/main):**
+- `69b1932` Coordinator log: 16:10 check (coordinator, 16:13 UTC)
+- `0f2587d` Coordinator log: 15:10 check (coordinator, 15:12 UTC)
+- `61dc049` Coordinator log: 14:10 check (coordinator, 14:16 UTC)
+- `b6264ed` Coordinator log: 13:10 check (coordinator, 13:15 UTC)
+- `fab7f62` Coordinator log: 12:10 check (coordinator, 12:14 UTC)
+
+No new research commits on `main` (last one `824a966`, 2026-10-18 22:11 UTC). PR #6 head unchanged at `54998d3` (opened 2026-10-19 03:10 UTC, 38 hours, no comments or pushes). PR #7 head unchanged at `e690754` (opened 2026-10-19 14:22 UTC, 27 hours, no comments or pushes). No new PRs. Remote branches unchanged: `main`, `claude/research-cyberpunk-2077` (#6), `claude/festive-turing-ek24ds` (#7), plus the stale `claude/research-forza-horizon-6` and `claude/research-crimson-desert` (merged long ago, safe to delete).
+
+**Researcher:** `game-researcher-routine` runs daily at 03:07 UTC and is enabled. Today's run (SUCCEEDED, 28 seconds, no output) was covered in the 03:10 entry. Next run is 2026-10-21 03:07 UTC (about 10 hours away) and will skip again unless at least PR #7 is merged before then.
+
+**Research files:** `research/` on `main` holds `state.json` plus the same 16 game files. Every `done` slug has a matching file and every file has a `done` entry. Filenames match slugs and each file's `id` matches its filename. No stray files. `packs/` still does not exist (placeholder `packPath` values, expected).
+
+**Quality check:** no new files on `main`; re-check of all 16 PASS (`id`, `title`, `platforms`, `game.chapters`, `game.collectibles` present, `id` equals filename). Known gaps unchanged: `ghost-of-yotei.json` and `zelda-tears-of-the-kingdom.json` have 0 collectibles.
+
+**Blockers / errors / stale PRs:**
+- **Research pipeline is fully blocked on Tim merging the two open PRs.** PR #6 is now 38 hours old, PR #7 is 27 hours old. No check runs are configured, so there is no CI to wait on.
+- **PR #6 and PR #7 both change `research/state.json` and will conflict.** Recommended order: merge #6, have the #7 session merge `main` into its branch, then merge #7.
+- PR #7 still needs Tim's call on three points it flags itself: 14 backlog games with `evidence: 1`, 4 games marked `skipped`, and `currentYear` reset to 2026.
+- No notification sent this run: nothing changed since the 03:10 notification.
+- No errors in state.json.
+
+**Next game in queue:** on `main`, `cyberpunk-2077` — Cyberpunk 2077 (2020, evidence 3, route original), already researched in PR #6. After #6 merges: `red-dead-redemption-2` — Red Dead Redemption 2 (2018), already researched in PR #7. After #7 merges, the researcher continues with the first of PR #7's 15 queued backlog games at the next 03:07 UTC run.
+
+---
+
+## 2026-10-20 16:10 UTC
+
+**Year / queue:** currentYear = 2020 on `main`. state.json on `main` (last updated 2026-10-18 22:11 UTC) unchanged: 4 queued, 0 in progress, 16 done, 0 errors. Two open PRs still carry newer state.json files: PR #6 (`cyberpunk-2077` done, 17/20) and PR #7 (40-game queue, 21 done / 15 queued / 4 skipped, currentYear reset to 2026). `yearsCompleted` still empty (cosmetic).
+
+**Progress:** 16/20 games merged to `main`. All 20 original games are researched counting the two open PRs (17 in #6, plus RDR2, GTA V and Skyrim in #7). Target becomes 21/40 once both merge. No new research landed; this is the twenty-sixth consecutive hourly check with no change on `main` or on the PRs.
+
+**Latest commits (origin/main):**
+- `0f2587d` Coordinator log: 15:10 check (coordinator, 15:16 UTC)
+- `61dc049` Coordinator log: 14:10 check (coordinator, 14:16 UTC)
+- `b6264ed` Coordinator log: 13:10 check (coordinator, 13:15 UTC)
+- `fab7f62` Coordinator log: 12:10 check (coordinator, 12:14 UTC)
+- `05b7061` Coordinator log: 11:10 check (coordinator, 11:11 UTC)
+
+No new research commits on `main` (last one `824a966`, 2026-10-18 22:11 UTC). PR #6 head unchanged at `54998d3` (opened 2026-10-19 03:10 UTC, 37 hours, no comments or pushes). PR #7 head unchanged at `e690754` (opened 2026-10-19 14:22 UTC, 26 hours, no comments or pushes). No new PRs. Remote branches unchanged: `main`, `claude/research-cyberpunk-2077` (#6), `claude/festive-turing-ek24ds` (#7), plus the stale `claude/research-forza-horizon-6` and `claude/research-crimson-desert` (merged long ago, safe to delete).
+
+**Researcher:** `game-researcher-routine` runs daily at 03:07 UTC. Today's run (SUCCEEDED, 28 seconds, no output) was covered in the 03:10 entry. Next run is 2026-10-21 03:07 UTC (about 11 hours away) and will skip again unless at least PR #7 is merged before then.
+
+**Research files:** `research/` on `main` holds `state.json` plus the same 16 game files. Every `done` slug has a matching file and every file has a `done` entry. Filenames match slugs and each file's `id` matches its filename. No stray files. `packs/` still does not exist (placeholder `packPath` values, expected).
+
+**Quality check:** no new files on `main`; re-check of all 16 PASS (`id`, `title`, `platforms`, `game.chapters`, `game.collectibles` present, `id` equals filename). Known gaps unchanged: `ghost-of-yotei.json` and `zelda-tears-of-the-kingdom.json` have 0 collectibles.
+
+**Blockers / errors / stale PRs:**
+- **Research pipeline is fully blocked on Tim merging the two open PRs.** PR #6 is now 37 hours old, PR #7 is 26 hours old. No check runs are configured, so there is no CI to wait on.
+- **PR #6 and PR #7 both change `research/state.json` and will conflict.** Recommended order: merge #6, have the #7 session merge `main` into its branch, then merge #7.
+- PR #7 still needs Tim's call on three points it flags itself: 14 backlog games with `evidence: 1`, 4 games marked `skipped`, and `currentYear` reset to 2026.
+- No notification sent this run: nothing changed since the 03:10 notification.
+- No errors in state.json.
+
+**Next game in queue:** on `main`, `cyberpunk-2077` — Cyberpunk 2077 (2020, evidence 3, route original), already researched in PR #6. After #6 merges: `red-dead-redemption-2` — Red Dead Redemption 2 (2018), already researched in PR #7. After #7 merges, the researcher continues with the first of PR #7's 15 queued backlog games at the next 03:07 UTC run.
+
+---
+
+## 2026-10-20 15:10 UTC
+
+**Year / queue:** currentYear = 2020 on `main`. state.json on `main` (last updated 2026-10-18 22:11 UTC) unchanged: 4 queued, 0 in progress, 16 done, 0 errors. Two open PRs still carry newer state.json files: PR #6 (`cyberpunk-2077` done, 17/20) and PR #7 (40-game queue, 21 done / 15 queued / 4 skipped, currentYear reset to 2026). `yearsCompleted` still empty (cosmetic).
+
+**Progress:** 16/20 games merged to `main`. All 20 original games are researched counting the two open PRs (17 in #6, plus RDR2, GTA V and Skyrim in #7). Target becomes 21/40 once both merge. No new research landed; this is the twenty-fifth consecutive hourly check with no change on `main` or on the PRs.
+
+**Latest commits (origin/main):**
+- `61dc049` Coordinator log: 14:10 check (coordinator, 14:16 UTC)
+- `b6264ed` Coordinator log: 13:10 check (coordinator, 13:15 UTC)
+- `fab7f62` Coordinator log: 12:10 check (coordinator, 12:14 UTC)
+- `05b7061` Coordinator log: 11:10 check (coordinator, 11:11 UTC)
+- `9e48836` Coordinator log: 10:10 check (coordinator, 10:11 UTC)
+
+No new research commits on `main` (last one `824a966`, 2026-10-18 22:11 UTC). PR #6 head unchanged at `54998d3` (opened 2026-10-19 03:10 UTC, 36 hours, no comments or pushes). PR #7 head unchanged at `e690754` (opened 2026-10-19 14:22 UTC, 25 hours, no comments or pushes). No new PRs. Remote branches unchanged: `main`, `claude/research-cyberpunk-2077` (#6), `claude/festive-turing-ek24ds` (#7), plus the stale `claude/research-forza-horizon-6` and `claude/research-crimson-desert` (merged long ago, safe to delete).
+
+**Researcher:** `game-researcher-routine` runs daily at 03:07 UTC. Today's run was covered in the 03:10 entry. Next run is 2026-10-21 03:07 UTC (about 12 hours away) and will skip again unless at least PR #7 is merged before then.
+
+**Research files:** `research/` on `main` holds `state.json` plus the same 16 game files. Every `done` slug has a matching file and every file has a `done` entry. Filenames match slugs and each file's `id` matches its filename. No stray files. `packs/` still does not exist (placeholder `packPath` values, expected).
+
+**Quality check:** no new files on `main`; re-check of all 16 PASS (`id`, `title`, `platforms`, `game.chapters`, `game.collectibles` present, `id` equals filename). Known gaps unchanged: `ghost-of-yotei.json` and `zelda-tears-of-the-kingdom.json` have 0 collectibles.
+
+**Blockers / errors / stale PRs:**
+- **Research pipeline is fully blocked on Tim merging the two open PRs.** PR #6 is now 36 hours old, PR #7 is 25 hours old. No check runs are configured, so there is no CI to wait on.
+- **PR #6 and PR #7 both change `research/state.json` and will conflict.** Recommended order: merge #6, have the #7 session merge `main` into its branch, then merge #7.
+- PR #7 still needs Tim's call on three points it flags itself: 14 backlog games with `evidence: 1`, 4 games marked `skipped`, and `currentYear` reset to 2026.
+- No notification sent this run: nothing changed since the 03:10 notification.
+- No errors in state.json.
+
+**Next game in queue:** on `main`, `cyberpunk-2077` — Cyberpunk 2077 (2020, evidence 3, route original), already researched in PR #6. After #6 merges: `red-dead-redemption-2` — Red Dead Redemption 2 (2018), already researched in PR #7. After #7 merges, the researcher continues with the first of PR #7's 15 queued backlog games at the next 03:07 UTC run.
+
+---
+
+## 2026-10-20 14:10 UTC
+
+**Year / queue:** currentYear = 2020 on `main`. state.json on `main` (last updated 2026-10-18 22:11 UTC) unchanged: 4 queued, 0 in progress, 16 done, 0 errors. Two open PRs still carry newer state.json files: PR #6 (`cyberpunk-2077` done, 17/20) and PR #7 (40-game queue, 21 done / 15 queued / 4 skipped, currentYear reset to 2026). `yearsCompleted` still empty (cosmetic).
+
+**Progress:** 16/20 games merged to `main`. All 20 original games are researched counting the two open PRs (17 in #6, plus RDR2, GTA V and Skyrim in #7). Target becomes 21/40 once both merge. No new research landed; this is the twenty-fourth consecutive hourly check with no change on `main` or on the PRs.
+
+**Latest commits (origin/main):**
+- `b6264ed` Coordinator log: 13:10 check (coordinator, 13:15 UTC)
+- `fab7f62` Coordinator log: 12:10 check (coordinator, 12:14 UTC)
+- `05b7061` Coordinator log: 11:10 check (coordinator, 11:11 UTC)
+- `9e48836` Coordinator log: 10:10 check (coordinator, 10:11 UTC)
+- `ce9f1b1` Coordinator log: 09:10 check (coordinator, 09:12 UTC)
+
+No new research commits on `main` (last one `824a966`, 2026-10-18 22:11 UTC). PR #6 head unchanged at `54998d3` (opened 2026-10-19 03:10 UTC, 35 hours, no comments or pushes). PR #7 head unchanged at `e690754` (opened 2026-10-19 14:22 UTC, 24 hours, no comments or pushes). No new PRs. Remote branches unchanged: `main`, `claude/research-cyberpunk-2077` (#6), `claude/festive-turing-ek24ds` (#7), plus the stale `claude/research-forza-horizon-6` and `claude/research-crimson-desert` (merged long ago, safe to delete).
+
+**Researcher:** `game-researcher-routine` runs daily at 03:07 UTC. Today's run (SUCCEEDED, 28 seconds, no output) was covered in the 03:10 entry. Next run is 2026-10-21 03:07 UTC and will skip again unless at least PR #7 is merged before then.
+
+**Research files:** `research/` on `main` holds `state.json` plus the same 16 game files. Every `done` slug has a matching file and every file has a `done` entry. Filenames match slugs and each file's `id` matches its filename. No stray files. `packs/` still does not exist (placeholder `packPath` values, expected).
+
+**Quality check:** no new files on `main`; re-check of all 16 PASS (`id`, `title`, `platforms`, `game.chapters`, `game.collectibles` present, `id` equals filename). Known gaps unchanged: `ghost-of-yotei.json` and `zelda-tears-of-the-kingdom.json` have 0 collectibles.
+
+**Blockers / errors / stale PRs:**
+- **Research pipeline is fully blocked on Tim merging the two open PRs.** PR #6 is now 35 hours old, PR #7 is 24 hours old. No check runs are configured, so there is no CI to wait on.
+- **PR #6 and PR #7 both change `research/state.json` and will conflict.** Recommended order: merge #6, have the #7 session merge `main` into its branch, then merge #7.
+- PR #7 still needs Tim's call on three points it flags itself: 14 backlog games with `evidence: 1`, 4 games marked `skipped`, and `currentYear` reset to 2026.
+- No notification sent this run: nothing changed since the 03:10 notification.
+- No errors in state.json.
+
+**Next game in queue:** on `main`, `cyberpunk-2077` — Cyberpunk 2077 (2020, evidence 3, route original), already researched in PR #6. After #6 merges: `red-dead-redemption-2` — Red Dead Redemption 2 (2018), already researched in PR #7. After #7 merges, the researcher continues with the first of PR #7's 15 queued backlog games at the next 03:07 UTC run.
+
+---
+
+## 2026-10-20 13:10 UTC
+
+**Year / queue:** currentYear = 2020 on `main`. state.json on `main` (last updated 2026-10-18 22:11 UTC) unchanged: 4 queued, 0 in progress, 16 done, 0 errors. Two open PRs still carry newer state.json files: PR #6 (`cyberpunk-2077` done, 17/20) and PR #7 (40-game queue, 21 done / 15 queued / 4 skipped, currentYear reset to 2026). `yearsCompleted` still empty (cosmetic).
+
+**Progress:** 16/20 games merged to `main`. All 20 original games are researched counting the two open PRs (17 in #6, plus RDR2, GTA V and Skyrim in #7). Target becomes 21/40 once both merge. No new research landed; this is the twenty-third consecutive hourly check with no change on `main` or on the PRs.
+
+**Latest commits (origin/main):**
+- `fab7f62` Coordinator log: 12:10 check (coordinator, 12:14 UTC)
+- `05b7061` Coordinator log: 11:10 check (coordinator, 11:11 UTC)
+- `9e48836` Coordinator log: 10:10 check (coordinator, 10:11 UTC)
+- `ce9f1b1` Coordinator log: 09:10 check (coordinator, 09:11 UTC)
+- `999c207` Coordinator log: 08:10 check (coordinator, 08:15 UTC)
+
+No new research commits on `main` (last one `824a966`, 2026-10-18 22:11 UTC). PR #6 head unchanged at `54998d3` (opened 2026-10-19 03:10 UTC, 34 hours, no comments or pushes). PR #7 head unchanged at `e690754` (opened 2026-10-19 14:22 UTC, 23 hours, no comments or pushes). No new PRs. Remote branches unchanged: `main`, `claude/research-cyberpunk-2077` (#6), `claude/festive-turing-ek24ds` (#7), plus the stale `claude/research-forza-horizon-6` and `claude/research-crimson-desert` (merged long ago, safe to delete).
+
+**Researcher:** `game-researcher-routine` runs daily at 03:07 UTC. Today's run (SUCCEEDED, 28 seconds, no output) was covered in the 03:10 entry. Next run is 2026-10-21 03:07 UTC and will skip again unless at least PR #7 is merged before then.
+
+**Research files:** `research/` on `main` holds `state.json` plus the same 16 game files. Every `done` slug has a matching file and every file has a `done` entry. Filenames match slugs and each file's `id` matches its filename. No stray files. `packs/` still does not exist (placeholder `packPath` values, expected).
+
+**Quality check:** no new files on `main`; re-check of all 16 PASS (`id`, `title`, `platforms`, `game.chapters`, `game.collectibles` present, `id` equals filename). Known gaps unchanged: `ghost-of-yotei.json` and `zelda-tears-of-the-kingdom.json` have 0 collectibles.
+
+**Blockers / errors / stale PRs:**
+- **Research pipeline is fully blocked on Tim merging the two open PRs.** PR #6 is now 34 hours old, PR #7 is 23 hours old. No check runs are configured, so there is no CI to wait on.
+- **PR #6 and PR #7 both change `research/state.json` and will conflict.** Recommended order: merge #6, have the #7 session merge `main` into its branch, then merge #7.
+- PR #7 still needs Tim's call on three points it flags itself: 14 backlog games with `evidence: 1`, 4 games marked `skipped`, and `currentYear` reset to 2026.
+- No notification sent this run: nothing changed since the 03:10 notification.
+- No errors in state.json.
+
+**Next game in queue:** on `main`, `cyberpunk-2077` — Cyberpunk 2077 (2020, evidence 3, route original), already researched in PR #6. After #6 merges: `red-dead-redemption-2` — Red Dead Redemption 2 (2018), already researched in PR #7. After #7 merges, the researcher continues with the first of PR #7's 15 queued backlog games at the next 03:07 UTC run.
+
+---
+
+## 2026-10-20 12:10 UTC
+
+**Year / queue:** currentYear = 2020 on `main`. state.json on `main` (last updated 2026-10-18 22:11 UTC) unchanged: 4 queued, 0 in progress, 16 done, 0 errors. Two open PRs still carry newer state.json files: PR #6 (`cyberpunk-2077` done, 17/20) and PR #7 (40-game queue, 21 done / 15 queued / 4 skipped, currentYear reset to 2026). `yearsCompleted` still empty (cosmetic).
+
+**Progress:** 16/20 games merged to `main`. All 20 original games are researched counting the two open PRs (17 in #6, plus RDR2, GTA V and Skyrim in #7). Target becomes 21/40 once both merge. No new research landed; this is the twenty-second consecutive hourly check with no change on `main` or on the PRs.
+
+**Latest commits (origin/main):**
+- `05b7061` Coordinator log: 11:10 check (coordinator, 11:11 UTC)
+- `9e48836` Coordinator log: 10:10 check (coordinator, 10:11 UTC)
+- `ce9f1b1` Coordinator log: 09:10 check (coordinator, 09:11 UTC)
+- `999c207` Coordinator log: 08:10 check (coordinator, 08:15 UTC)
+- `0ccf9ab` Coordinator log: 07:10 check (coordinator, 07:15 UTC)
+
+No new research commits on `main` (last one `824a966`, 2026-10-18 22:11 UTC). PR #6 head unchanged at `54998d3` (opened 2026-10-19 03:10 UTC, 33 hours, no comments or pushes). PR #7 head unchanged at `e690754` (opened 2026-10-19 14:22 UTC, 22 hours, no comments or pushes). No new PRs. Remote branches unchanged: `main`, `claude/research-cyberpunk-2077` (#6), `claude/festive-turing-ek24ds` (#7), plus the stale `claude/research-forza-horizon-6` and `claude/research-crimson-desert` (merged long ago, safe to delete).
+
+**Researcher:** `game-researcher-routine` runs daily at 03:07 UTC. Today's run (SUCCEEDED, 28 seconds, no output) was covered in the 03:10 entry. Next run is 2026-10-21 03:07 UTC and will skip again unless at least PR #7 is merged before then.
+
+**Research files:** `research/` on `main` holds `state.json` plus the same 16 game files. Every `done` slug has a matching file and every file has a `done` entry. Filenames match slugs and each file's `id` matches its filename. No stray files. `packs/` still does not exist (placeholder `packPath` values, expected).
+
+**Quality check:** no new files on `main`; re-check of all 16 PASS (`id`, `title`, `platforms`, `game.chapters`, `game.collectibles` present, `id` equals filename). Known gaps unchanged: `ghost-of-yotei.json` and `zelda-tears-of-the-kingdom.json` have 0 collectibles.
+
+**Blockers / errors / stale PRs:**
+- **Research pipeline is fully blocked on Tim merging the two open PRs.** PR #6 is now 33 hours old, PR #7 is 22 hours old. No check runs are configured, so there is no CI to wait on.
+- **PR #6 and PR #7 both change `research/state.json` and will conflict.** Recommended order: merge #6, have the #7 session merge `main` into its branch, then merge #7.
+- PR #7 still needs Tim's call on three points it flags itself: 14 backlog games with `evidence: 1`, 4 games marked `skipped`, and `currentYear` reset to 2026.
+- No notification sent this run: nothing changed since the 03:10 notification.
+- No errors in state.json.
+
+**Next game in queue:** on `main`, `cyberpunk-2077` — Cyberpunk 2077 (2020, evidence 3, route original), already researched in PR #6. After #6 merges: `red-dead-redemption-2` — Red Dead Redemption 2 (2018), already researched in PR #7. After #7 merges, the researcher continues with the first of PR #7's 15 queued backlog games at the next 03:07 UTC run.
+
+---
+
+## 2026-10-20 11:10 UTC
+
+**Year / queue:** currentYear = 2020 on `main`. state.json on `main` (last updated 2026-10-18 22:11 UTC) unchanged: 4 queued, 0 in progress, 16 done, 0 errors. Two open PRs still carry newer state.json files: PR #6 (`cyberpunk-2077` done, 17/20) and PR #7 (40-game queue, 21 done / 15 queued / 4 skipped, currentYear reset to 2026). `yearsCompleted` still empty (cosmetic).
+
+**Progress:** 16/20 games merged to `main`. All 20 original games are researched counting the two open PRs (17 in #6, plus RDR2, GTA V and Skyrim in #7). Target becomes 21/40 once both merge. No new research landed; this is the twenty-first consecutive hourly check with no change on `main` or on the PRs.
+
+**Latest commits (origin/main):**
+- `9e48836` Coordinator log: 10:10 check (coordinator, 10:11 UTC)
+- `ce9f1b1` Coordinator log: 09:10 check (coordinator, 09:11 UTC)
+- `999c207` Coordinator log: 08:10 check (coordinator, 08:15 UTC)
+- `0ccf9ab` Coordinator log: 07:10 check (coordinator, 07:15 UTC)
+- `0b44d07` Coordinator log: 06:10 check (coordinator, 06:15 UTC)
+
+No new research commits on `main` (last one `824a966`, 2026-10-18 22:11 UTC). PR #6 head unchanged at `54998d3` (opened 2026-10-19 03:10 UTC, 32 hours, no comments or pushes). PR #7 head unchanged at `e690754` (opened 2026-10-19 14:22 UTC, 21 hours, no comments or pushes). No new PRs. Remote branches unchanged: `main`, `claude/research-cyberpunk-2077` (#6), `claude/festive-turing-ek24ds` (#7), plus the stale `claude/research-forza-horizon-6` and `claude/research-crimson-desert` (merged long ago, safe to delete).
+
+**Researcher:** `game-researcher-routine` runs daily at 03:07 UTC. Today's run (SUCCEEDED, 28 seconds, no output) was covered in the 03:10 entry. Next run is 2026-10-21 03:07 UTC and will skip again unless at least PR #7 is merged before then.
+
+**Research files:** `research/` on `main` holds `state.json` plus the same 16 game files. Every `done` slug has a matching file and every file has a `done` entry. Filenames match slugs and each file's `id` matches its filename. No stray files. `packs/` still does not exist (placeholder `packPath` values, expected).
+
+**Quality check:** no new files on `main`; re-check of all 16 PASS (`id`, `title`, `platforms`, `game.chapters`, `game.collectibles` present, `id` equals filename). Known gaps unchanged: `ghost-of-yotei.json` and `zelda-tears-of-the-kingdom.json` have 0 collectibles.
+
+**Blockers / errors / stale PRs:**
+- **Research pipeline is fully blocked on Tim merging the two open PRs.** PR #6 is now 32 hours old, PR #7 is 21 hours old. No check runs are configured, so there is no CI to wait on.
+- **PR #6 and PR #7 both change `research/state.json` and will conflict.** Recommended order: merge #6, have the #7 session merge `main` into its branch, then merge #7.
+- PR #7 still needs Tim's call on three points it flags itself: 14 backlog games with `evidence: 1`, 4 games marked `skipped`, and `currentYear` reset to 2026.
+- No notification sent this run: nothing changed since the 03:10 notification.
+- No errors in state.json.
+
+**Next game in queue:** on `main`, `cyberpunk-2077` — Cyberpunk 2077 (2020, evidence 3, route original), already researched in PR #6. After #6 merges: `red-dead-redemption-2` — Red Dead Redemption 2 (2018), already researched in PR #7. After #7 merges, the researcher continues with the first of PR #7's 15 queued backlog games at the next 03:07 UTC run.
+
+---
+
+## 2026-10-20 10:10 UTC
+
+**Year / queue:** currentYear = 2020 on `main`. state.json on `main` (last updated 2026-10-18 22:11 UTC) unchanged: 4 queued, 0 in progress, 16 done, 0 errors. Two open PRs still carry newer state.json files: PR #6 (`cyberpunk-2077` done, 17/20) and PR #7 (40-game queue, 21 done / 15 queued / 4 skipped, currentYear reset to 2026). `yearsCompleted` still empty (cosmetic).
+
+**Progress:** 16/20 games merged to `main`. All 20 original games are researched counting the two open PRs (17 in #6, plus RDR2, GTA V and Skyrim in #7). Target becomes 21/40 once both merge. No new research landed; this is the twentieth consecutive hourly check with no change on `main` or on the PRs.
+
+**Latest commits (origin/main):**
+- `ce9f1b1` Coordinator log: 09:10 check (coordinator, 09:11 UTC)
+- `999c207` Coordinator log: 08:10 check (coordinator, 08:11 UTC)
+- `0ccf9ab` Coordinator log: 07:10 check (coordinator, 07:11 UTC)
+- `0b44d07` Coordinator log: 06:10 check (coordinator, 06:11 UTC)
+- `a8e5cff` Coordinator log: 05:10 check (coordinator, 05:11 UTC)
+
+No new research commits on `main` (last one `824a966`, 2026-10-18 22:11 UTC). PR #6 head unchanged at `54998d3` (opened 2026-10-19 03:10 UTC, 31 hours, no comments or pushes). PR #7 head unchanged at `e690754` (opened 2026-10-19 14:22 UTC, 20 hours, no comments or pushes). No new PRs. Remote branches unchanged: `main`, `claude/research-cyberpunk-2077` (#6), `claude/festive-turing-ek24ds` (#7), plus the stale `claude/research-forza-horizon-6` and `claude/research-crimson-desert` (merged long ago, safe to delete).
+
+**Researcher:** `game-researcher-routine` runs daily at 03:07 UTC. Today's run (SUCCEEDED, 28 seconds, no output) was covered in the 03:10 entry. Next run is 2026-10-21 03:07 UTC and will skip again unless at least PR #7 is merged before then.
+
+**Research files:** `research/` on `main` holds `state.json` plus the same 16 game files. Every `done` slug has a matching file and every file has a `done` entry. Filenames match slugs and each file's `id` matches its filename. No stray files. `packs/` still does not exist (placeholder `packPath` values, expected).
+
+**Quality check:** no new files on `main`; re-check of all 16 PASS (`id`, `title`, `platforms`, `game.chapters`, `game.collectibles` present, `id` equals filename). Known gaps unchanged: `ghost-of-yotei.json` and `zelda-tears-of-the-kingdom.json` have 0 collectibles.
+
+**Blockers / errors / stale PRs:**
+- **Research pipeline is fully blocked on Tim merging the two open PRs.** PR #6 is now 31 hours old, PR #7 is 20 hours old. No check runs are configured, so there is no CI to wait on.
+- **PR #6 and PR #7 both change `research/state.json` and will conflict.** Recommended order: merge #6, have the #7 session merge `main` into its branch, then merge #7.
+- PR #7 still needs Tim's call on three points it flags itself: 14 backlog games with `evidence: 1`, 4 games marked `skipped`, and `currentYear` reset to 2026.
+- No notification sent this run: nothing changed since the 03:10 notification.
+- No errors in state.json.
+
+**Next game in queue:** on `main`, `cyberpunk-2077` — Cyberpunk 2077 (2020, evidence 3, route original), already researched in PR #6. After #6 merges: `red-dead-redemption-2` — Red Dead Redemption 2 (2018), already researched in PR #7. After #7 merges, the researcher continues with the first of PR #7's 15 queued backlog games at the next 03:07 UTC run.
+
+---
+
+## 2026-10-20 09:10 UTC
+
+**Year / queue:** currentYear = 2020 on `main`. state.json on `main` (last updated 2026-10-18 22:11 UTC) unchanged: 4 queued, 0 in progress, 16 done, 0 errors. Two open PRs still carry newer state.json files: PR #6 (`cyberpunk-2077` done, 17/20) and PR #7 (40-game queue, 21 done / 15 queued / 4 skipped, currentYear reset to 2026). `yearsCompleted` still empty (cosmetic).
+
+**Progress:** 16/20 games merged to `main`. All 20 original games are researched counting the two open PRs (17 in #6, plus RDR2, GTA V and Skyrim in #7). Target becomes 21/40 once both merge. No new research landed; this is the nineteenth consecutive hourly check with no change on `main` or on the PRs.
+
+**Latest commits (origin/main):**
+- `999c207` Coordinator log: 08:10 check (coordinator, 08:11 UTC)
+- `0ccf9ab` Coordinator log: 07:10 check (coordinator, 07:11 UTC)
+- `0b44d07` Coordinator log: 06:10 check (coordinator, 06:11 UTC)
+- `a8e5cff` Coordinator log: 05:10 check (coordinator, 05:11 UTC)
+- `7ef77dc` Coordinator log: 04:10 check (coordinator, 04:10 UTC)
+
+No new research commits on `main` (last one `824a966`, 2026-10-18 22:11 UTC). PR #6 head unchanged at `54998d3` (opened 2026-10-19 03:10 UTC, 30 hours, no comments or pushes). PR #7 head unchanged at `e690754` (opened 2026-10-19 14:22 UTC, 19 hours, no comments or pushes). No new PRs. Remote branches unchanged: `main`, `claude/research-cyberpunk-2077` (#6), `claude/festive-turing-ek24ds` (#7), plus the stale `claude/research-forza-horizon-6` and `claude/research-crimson-desert` (merged long ago, safe to delete).
+
+**Researcher:** `game-researcher-routine` runs daily at 03:07 UTC. Today's run (SUCCEEDED, 28 seconds, no output) was covered in the 03:10 entry. Next run is 2026-10-21 03:07 UTC and will skip again unless at least PR #7 is merged before then.
+
+**Research files:** `research/` on `main` holds `state.json` plus the same 16 game files. Every `done` slug has a matching file and every file has a `done` entry. Filenames match slugs and each file's `id` matches its filename. No stray files. `packs/` still does not exist (placeholder `packPath` values, expected).
+
+**Quality check:** no new files on `main`; re-check of all 16 PASS (`id`, `title`, `platforms`, `game.chapters`, `game.collectibles` present, `id` equals filename). Known gaps unchanged: `ghost-of-yotei.json` and `zelda-tears-of-the-kingdom.json` have 0 collectibles.
+
+**Blockers / errors / stale PRs:**
+- **Research pipeline is fully blocked on Tim merging the two open PRs.** PR #6 is now 30 hours old, PR #7 is 19 hours old. No check runs are configured, so there is no CI to wait on.
+- **PR #6 and PR #7 both change `research/state.json` and will conflict.** Recommended order: merge #6, have the #7 session merge `main` into its branch, then merge #7.
+- PR #7 still needs Tim's call on three points it flags itself: 14 backlog games with `evidence: 1`, 4 games marked `skipped`, and `currentYear` reset to 2026.
+- No notification sent this run: nothing changed since the 03:10 notification.
+- No errors in state.json.
+
+**Next game in queue:** on `main`, `cyberpunk-2077` — Cyberpunk 2077 (2020, evidence 3, route original), already researched in PR #6. After #6 merges: `red-dead-redemption-2` — Red Dead Redemption 2 (2018), already researched in PR #7. After #7 merges, the researcher continues with the first of PR #7's 15 queued backlog games at the next 03:07 UTC run.
+
+---
+
+## 2026-10-20 08:10 UTC
+
+**Year / queue:** currentYear = 2020 on `main`. state.json on `main` (last updated 2026-10-18 22:11 UTC) unchanged: 4 queued, 0 in progress, 16 done, 0 errors. Two open PRs still carry newer state.json files: PR #6 (`cyberpunk-2077` done, 17/20) and PR #7 (40-game queue, 21 done / 15 queued / 4 skipped, currentYear reset to 2026). `yearsCompleted` still empty (cosmetic).
+
+**Progress:** 16/20 games merged to `main`. All 20 original games are researched counting the two open PRs (17 in #6, plus RDR2, GTA V and Skyrim in #7). Target becomes 21/40 once both merge. No new research landed; this is the eighteenth consecutive hourly check with no change on `main` or on the PRs.
+
+**Latest commits (origin/main):**
+- `0ccf9ab` Coordinator log: 07:10 check (coordinator, 07:11 UTC)
+- `0b44d07` Coordinator log: 06:10 check (coordinator, 06:11 UTC)
+- `a8e5cff` Coordinator log: 05:10 check (coordinator, 05:11 UTC)
+- `7ef77dc` Coordinator log: 04:10 check (coordinator, 04:10 UTC)
+- `aa0a183` Coordinator log: 03:10 check (coordinator, 03:11 UTC)
+
+No new research commits on `main` (last one `824a966`, 2026-10-18 22:11 UTC). PR #6 head unchanged at `54998d3` (opened 2026-10-19 03:10 UTC, 29 hours, no comments or pushes). PR #7 head unchanged at `e690754` (opened 2026-10-19 14:22 UTC, 18 hours, no comments or pushes). No new PRs. Remote branches unchanged: `main`, `claude/research-cyberpunk-2077` (#6), `claude/festive-turing-ek24ds` (#7), plus the stale `claude/research-forza-horizon-6` and `claude/research-crimson-desert` (merged long ago, safe to delete).
+
+**Researcher:** `game-researcher-routine` runs daily at 03:07 UTC. Today's run (SUCCEEDED, 28 seconds, no output) was covered in the 03:10 entry. Next run is 2026-10-21 03:07 UTC and will skip again unless at least PR #7 is merged before then.
+
+**Research files:** `research/` on `main` holds `state.json` plus the same 16 game files. Every `done` slug has a matching file and every file has a `done` entry. Filenames match slugs and each file's `id` matches its filename. No stray files. `packs/` still does not exist (placeholder `packPath` values, expected).
+
+**Quality check:** no new files on `main`; re-check of all 16 PASS (`id`, `title`, `platforms`, `game.chapters`, `game.collectibles` present, `id` equals filename). Known gaps unchanged: `ghost-of-yotei.json` and `zelda-tears-of-the-kingdom.json` have 0 collectibles.
+
+**Blockers / errors / stale PRs:**
+- **Research pipeline is fully blocked on Tim merging the two open PRs.** PR #6 is now 29 hours old, PR #7 is 18 hours old. No check runs are configured, so there is no CI to wait on.
+- **PR #6 and PR #7 both change `research/state.json` and will conflict.** Recommended order: merge #6, have the #7 session merge `main` into its branch, then merge #7.
+- PR #7 still needs Tim's call on three points it flags itself: 14 backlog games with `evidence: 1`, 4 games marked `skipped`, and `currentYear` reset to 2026.
+- No notification sent this run: nothing changed since the 03:10 notification.
+- No errors in state.json.
+
+**Next game in queue:** on `main`, `cyberpunk-2077` — Cyberpunk 2077 (2020, evidence 3, route original), already researched in PR #6. After #6 merges: `red-dead-redemption-2` — Red Dead Redemption 2 (2018), already researched in PR #7. After #7 merges, the researcher continues with the first of PR #7's 15 queued backlog games at the next 03:07 UTC run.
+
+---
+
+## 2026-10-20 07:10 UTC
+
+**Year / queue:** currentYear = 2020 on `main`. state.json on `main` (last updated 2026-10-18 22:11 UTC) unchanged: 4 queued, 0 in progress, 16 done, 0 errors. Two open PRs still carry newer state.json files: PR #6 (`cyberpunk-2077` done, 17/20) and PR #7 (40-game queue, 21 done / 15 queued / 4 skipped, currentYear reset to 2026). `yearsCompleted` still empty (cosmetic).
+
+**Progress:** 16/20 games merged to `main`. All 20 original games are researched counting the two open PRs (17 in #6, plus RDR2, GTA V and Skyrim in #7). Target becomes 21/40 once both merge. No new research landed; this is the seventeenth consecutive hourly check with no change on `main` or on the PRs.
+
+**Latest commits (origin/main):**
+- `0b44d07` Coordinator log: 06:10 check (coordinator, 06:11 UTC)
+- `a8e5cff` Coordinator log: 05:10 check (coordinator, 05:11 UTC)
+- `7ef77dc` Coordinator log: 04:10 check (coordinator, 04:10 UTC)
+- `aa0a183` Coordinator log: 03:10 check (coordinator, 03:11 UTC)
+- `563367a` Coordinator log: 02:10 check (coordinator, 02:10 UTC)
+
+No new research commits on `main` (last one `824a966`, 2026-10-18 22:11 UTC). PR #6 head unchanged at `54998d3` (opened 2026-10-19 03:10 UTC, 28 hours, no comments or pushes). PR #7 head unchanged at `e690754` (opened 2026-10-19 14:22 UTC, 17 hours, no comments or pushes). No new PRs. Remote branches unchanged: `main`, `claude/research-cyberpunk-2077` (#6), `claude/festive-turing-ek24ds` (#7), plus the stale `claude/research-forza-horizon-6` and `claude/research-crimson-desert` (merged long ago, safe to delete).
+
+**Researcher:** `game-researcher-routine` runs daily at 03:07 UTC. Today's run (SUCCEEDED, 28 seconds, no output) was covered in the 03:10 entry. Next run is 2026-10-21 03:07 UTC and will skip again unless at least PR #7 is merged before then.
+
+**Research files:** `research/` on `main` holds `state.json` plus the same 16 game files. Every `done` slug has a matching file and every file has a `done` entry. Filenames match slugs and each file's `id` matches its filename. No stray files. `packs/` still does not exist (placeholder `packPath` values, expected).
+
+**Quality check:** no new files on `main`; re-check of all 16 PASS (`id`, `title`, `platforms`, `game.chapters`, `game.collectibles` present, `id` equals filename). Known gaps unchanged: `ghost-of-yotei.json` and `zelda-tears-of-the-kingdom.json` have 0 collectibles.
+
+**Blockers / errors / stale PRs:**
+- **Research pipeline is fully blocked on Tim merging the two open PRs.** PR #6 is now 28 hours old, PR #7 is 17 hours old. No check runs are configured, so there is no CI to wait on.
+- **PR #6 and PR #7 both change `research/state.json` and will conflict.** Recommended order: merge #6, have the #7 session merge `main` into its branch, then merge #7.
+- PR #7 still needs Tim's call on three points it flags itself: 14 backlog games with `evidence: 1`, 4 games marked `skipped`, and `currentYear` reset to 2026.
+- No notification sent this run: nothing changed since the 03:10 notification.
+- No errors in state.json.
+
+**Next game in queue:** on `main`, `cyberpunk-2077` — Cyberpunk 2077 (2020, evidence 3, route original), already researched in PR #6. After #6 merges: `red-dead-redemption-2` — Red Dead Redemption 2 (2018), already researched in PR #7. After #7 merges, the researcher continues with the first of PR #7's 15 queued backlog games at the next 03:07 UTC run.
+
+---
+
+## 2026-10-20 06:10 UTC
+
+**Year / queue:** currentYear = 2020 on `main`. state.json on `main` (last updated 2026-10-18 22:11 UTC) unchanged: 4 queued, 0 in progress, 16 done, 0 errors. Two open PRs still carry newer state.json files: PR #6 (`cyberpunk-2077` done, 17/20) and PR #7 (40-game queue, 21 done / 15 queued / 4 skipped, currentYear reset to 2026). `yearsCompleted` still empty (cosmetic).
+
+**Progress:** 16/20 games merged to `main`. All 20 original games are researched counting the two open PRs (17 in #6, plus RDR2, GTA V and Skyrim in #7). Target becomes 21/40 once both merge. No new research landed; this is the sixteenth consecutive hourly check with no change on `main` or on the PRs.
+
+**Latest commits (origin/main):**
+- `a8e5cff` Coordinator log: 05:10 check (coordinator, 05:11 UTC)
+- `7ef77dc` Coordinator log: 04:10 check (coordinator, 04:10 UTC)
+- `aa0a183` Coordinator log: 03:10 check (coordinator, 03:11 UTC)
+- `563367a` Coordinator log: 02:10 check (coordinator, 02:10 UTC)
+- `1148699` Coordinator log: 01:10 check (coordinator, 01:11 UTC)
+
+No new research commits on `main` (last one `824a966`, 2026-10-18 22:11 UTC). PR #6 head unchanged at `54998d3` (opened 2026-10-19 03:10 UTC, 27 hours, no comments or pushes). PR #7 head unchanged at `e690754` (opened 2026-10-19 14:22 UTC, 16 hours, no comments or pushes). No new PRs. Remote branches unchanged: `main`, `claude/research-cyberpunk-2077` (#6), `claude/festive-turing-ek24ds` (#7), plus the stale `claude/research-forza-horizon-6` and `claude/research-crimson-desert` (merged long ago, safe to delete).
+
+**Researcher:** `game-researcher-routine` runs daily at 03:07 UTC. Today's run (SUCCEEDED, 28 seconds, no output) was covered in the 03:10 entry. Next run is 2026-10-21 03:07 UTC and will skip again unless at least PR #7 is merged before then.
+
+**Research files:** `research/` on `main` holds `state.json` plus the same 16 game files. Every `done` slug has a matching file and every file has a `done` entry. Filenames match slugs and each file's `id` matches its filename. No stray files. `packs/` still does not exist (placeholder `packPath` values, expected).
+
+**Quality check:** no new files on `main`; re-check of all 16 PASS (`id`, `title`, `platforms`, `game.chapters`, `game.collectibles` present, `id` equals filename). Known gaps unchanged: `ghost-of-yotei.json` and `zelda-tears-of-the-kingdom.json` have 0 collectibles.
+
+**Blockers / errors / stale PRs:**
+- **Research pipeline is fully blocked on Tim merging the two open PRs.** PR #6 is now 27 hours old, PR #7 is 16 hours old. No check runs are configured, so there is no CI to wait on.
+- **PR #6 and PR #7 both change `research/state.json` and will conflict.** Recommended order: merge #6, have the #7 session merge `main` into its branch, then merge #7.
+- PR #7 still needs Tim's call on three points it flags itself: 14 backlog games with `evidence: 1`, 4 games marked `skipped`, and `currentYear` reset to 2026.
+- No notification sent this run: nothing changed since the 03:10 notification.
+- No errors in state.json.
+
+**Next game in queue:** on `main`, `cyberpunk-2077` — Cyberpunk 2077 (2020, evidence 3, route original), already researched in PR #6. After #6 merges: `red-dead-redemption-2` — Red Dead Redemption 2 (2018), already researched in PR #7. After #7 merges, the researcher continues with the first of PR #7's 15 queued backlog games at the next 03:07 UTC run.
+
+---
+
+## 2026-10-20 05:10 UTC
+
+**Year / queue:** currentYear = 2020 on `main`. state.json on `main` (last updated 2026-10-18 22:11 UTC) unchanged: 4 queued, 0 in progress, 16 done, 0 errors. Two open PRs still carry newer state.json files: PR #6 (`cyberpunk-2077` done, 17/20) and PR #7 (40-game queue, 21 done / 15 queued / 4 skipped, currentYear reset to 2026). `yearsCompleted` still empty (cosmetic).
+
+**Progress:** 16/20 games merged to `main`. All 20 original games are researched counting the two open PRs (17 in #6, plus RDR2, GTA V and Skyrim in #7). Target becomes 21/40 once both merge. No new research landed; this is the fifteenth consecutive hourly check with no change on `main` or on the PRs.
+
+**Latest commits (origin/main):**
+- `7ef77dc` Coordinator log: 04:10 check (coordinator, 04:10 UTC)
+- `aa0a183` Coordinator log: 03:10 check (coordinator, 03:11 UTC)
+- `563367a` Coordinator log: 02:10 check (coordinator, 02:10 UTC)
+- `1148699` Coordinator log: 01:10 check (coordinator, 01:11 UTC)
+- `cfacec0` Coordinator log: 00:10 check (coordinator, 00:11 UTC)
+
+No new research commits on `main` (last one `824a966`, 2026-10-18 22:11 UTC). PR #6 head unchanged at `54998d3` (opened 2026-10-19 03:10 UTC, 26 hours, no comments or pushes). PR #7 head unchanged at `e690754` (opened 2026-10-19 14:22 UTC, 15 hours, no comments or pushes). No new PRs. Remote branches unchanged: `main`, `claude/research-cyberpunk-2077` (#6), `claude/festive-turing-ek24ds` (#7), plus the stale `claude/research-forza-horizon-6` and `claude/research-crimson-desert` (merged long ago, safe to delete).
+
+**Researcher:** `game-researcher-routine` runs daily at 03:07 UTC. Today's run (SUCCEEDED, 28 seconds, no output) was covered in the 03:10 entry. Next run is 2026-10-21 03:07 UTC and will skip again unless at least PR #7 is merged before then.
+
+**Research files:** `research/` on `main` holds `state.json` plus the same 16 game files. Every `done` slug has a matching file and every file has a `done` entry. Filenames match slugs and each file's `id` matches its filename. No stray files. `packs/` still does not exist (placeholder `packPath` values, expected).
+
+**Quality check:** no new files on `main`; re-check of all 16 PASS (`id`, `title`, `platforms`, `game.chapters`, `game.collectibles` present, `id` equals filename). Known gaps unchanged: `ghost-of-yotei.json` and `zelda-tears-of-the-kingdom.json` have 0 collectibles.
+
+**Blockers / errors / stale PRs:**
+- **Research pipeline is fully blocked on Tim merging the two open PRs.** PR #6 is now 26 hours old, PR #7 is 15 hours old. No check runs are configured, so there is no CI to wait on.
+- **PR #6 and PR #7 both change `research/state.json` and will conflict.** Recommended order: merge #6, have the #7 session merge `main` into its branch, then merge #7.
+- PR #7 still needs Tim's call on three points it flags itself: 14 backlog games with `evidence: 1`, 4 games marked `skipped`, and `currentYear` reset to 2026.
+- No notification sent this run: nothing changed since the 03:10 notification.
+- No errors in state.json.
+
+**Next game in queue:** on `main`, `cyberpunk-2077` — Cyberpunk 2077 (2020, evidence 3, route original), already researched in PR #6. After #6 merges: `red-dead-redemption-2` — Red Dead Redemption 2 (2018), already researched in PR #7. After #7 merges, the researcher continues with the first of PR #7's 15 queued backlog games at the next 03:07 UTC run.
+
+---
+
+## 2026-10-20 04:10 UTC
+
+**Year / queue:** currentYear = 2020 on `main`. state.json on `main` (last updated 2026-10-18 22:11 UTC) unchanged: 4 queued, 0 in progress, 16 done, 0 errors. Two open PRs still carry newer state.json files: PR #6 (`cyberpunk-2077` done, 17/20) and PR #7 (40-game queue, 21 done / 15 queued / 4 skipped, currentYear reset to 2026). `yearsCompleted` still empty (cosmetic).
+
+**Progress:** 16/20 games merged to `main`. All 20 original games are researched counting the two open PRs (17 in #6, plus RDR2, GTA V and Skyrim in #7). Target becomes 21/40 once both merge. No new research landed; this is the fourteenth consecutive hourly check with no change on `main` or on the PRs.
+
+**Latest commits (origin/main):**
+- `aa0a183` Coordinator log: 03:10 check (coordinator, 03:11 UTC)
+- `563367a` Coordinator log: 02:10 check (coordinator, 02:10 UTC)
+- `1148699` Coordinator log: 01:10 check (coordinator, 01:11 UTC)
+- `cfacec0` Coordinator log: 00:10 check (coordinator, 00:11 UTC)
+- `5b36b9f` Coordinator log: 23:10 check (coordinator, 23:11 UTC)
+
+No new research commits on `main` (last one `824a966`, 2026-10-18 22:11 UTC). PR #6 head unchanged at `54998d3` (opened 2026-10-19 03:10 UTC, 25 hours, no comments or pushes). PR #7 head unchanged at `e690754` (opened 2026-10-19 14:22 UTC, 14 hours, no comments or pushes). No new PRs. Remote branches unchanged: `main`, `claude/research-cyberpunk-2077` (#6), `claude/festive-turing-ek24ds` (#7), plus the stale `claude/research-forza-horizon-6` and `claude/research-crimson-desert` (merged long ago, safe to delete).
+
+**Researcher:** `game-researcher-routine` is enabled, daily at 03:07 UTC. Its 2026-10-20 03:07 run (SUCCEEDED, 28 seconds, no output) was covered in the 03:10 entry. Next run is 2026-10-21 03:07 UTC and will skip again unless at least PR #7 is merged before then.
+
+**Research files:** `research/` on `main` holds `state.json` plus the same 16 game files. Every `done` slug has a matching file and every file has a `done` entry. Filenames match slugs and each file's `id` matches its filename. No stray files. `packs/` still does not exist (placeholder `packPath` values, expected).
+
+**Quality check:** no new files on `main`; re-check of all 16 PASS (`id`, `title`, `platforms`, `game.chapters`, `game.collectibles` present, `id` equals filename). Known gaps unchanged: `ghost-of-yotei.json` and `zelda-tears-of-the-kingdom.json` have 0 collectibles.
+
+**Blockers / errors / stale PRs:**
+- **Research pipeline is fully blocked on Tim merging the two open PRs.** PR #6 is now 25 hours old, PR #7 is 14 hours old. No check runs are configured, so there is no CI to wait on.
+- **PR #6 and PR #7 both change `research/state.json` and will conflict.** Recommended order: merge #6, have the #7 session merge `main` into its branch, then merge #7.
+- PR #7 still needs Tim's call on three points it flags itself: 14 backlog games with `evidence: 1`, 4 games marked `skipped`, and `currentYear` reset to 2026.
+- No notification sent this run: nothing changed since the 03:10 notification.
+- No errors in state.json.
+
+**Next game in queue:** on `main`, `cyberpunk-2077` — Cyberpunk 2077 (2020, evidence 3, route original), already researched in PR #6. After #6 merges: `red-dead-redemption-2` — Red Dead Redemption 2 (2018), already researched in PR #7. After #7 merges, the researcher continues with the first of PR #7's 15 queued backlog games at the next 03:07 UTC run.
+
+---
+
+## 2026-10-20 03:10 UTC
+
+**Year / queue:** currentYear = 2020 on `main`. state.json on `main` (last updated 2026-10-18 22:11 UTC) unchanged: 4 queued, 0 in progress, 16 done, 0 errors. Two open PRs still carry newer state.json files: PR #6 (`cyberpunk-2077` done, 17/20) and PR #7 (40-game queue, 21 done / 15 queued / 4 skipped, currentYear reset to 2026). `yearsCompleted` still empty (cosmetic).
+
+**Progress:** 16/20 games merged to `main`. All 20 original games are researched counting the two open PRs (17 in #6, plus RDR2, GTA V and Skyrim in #7). Target becomes 21/40 once both merge. No new research landed; this is the thirteenth consecutive hourly check with no change on `main` or on the PRs.
+
+**Latest commits (origin/main):**
+- `563367a` Coordinator log: 02:10 check (coordinator, 02:10 UTC)
+- `1148699` Coordinator log: 01:10 check (coordinator, 01:11 UTC)
+- `cfacec0` Coordinator log: 00:10 check (coordinator, 00:11 UTC)
+- `5b36b9f` Coordinator log: 23:10 check (coordinator, 23:11 UTC)
+- `fdae4f5` Coordinator log: 22:10 check (coordinator, 22:11 UTC)
+
+No new research commits on `main` (last one `824a966`, 2026-10-18 22:11 UTC). PR #6 head unchanged at `54998d3` (opened 2026-10-19 03:10 UTC, 24 hours, no comments or pushes). PR #7 head unchanged at `e690754` (opened 2026-10-19 14:22 UTC, 13 hours, no comments or pushes). No new PRs. Remote branches unchanged: `main`, `claude/research-cyberpunk-2077` (#6), `claude/festive-turing-ek24ds` (#7), plus the stale `claude/research-forza-horizon-6` and `claude/research-crimson-desert` (merged long ago, safe to delete).
+
+**Researcher run observed:** the `game-researcher-routine` scheduled task is **enabled and runs daily at 03:07 UTC** (not hourly, as earlier entries assumed). It fired today at 03:07:53 UTC, finished at 03:08:21 UTC (28 seconds) with status SUCCEEDED, and pushed no branch, PR, or file. That is the expected result of the duplicate-skip rule from PR #5: every slug still `queued` on `main` (`cyberpunk-2077`, `red-dead-redemption-2`, `elder-scrolls-skyrim`, `grand-theft-auto-v`) already has a research file on an unmerged branch, so the run correctly found nothing to claim and stopped. Good news: it did not re-pick Cyberpunk and open a duplicate PR, which the 01:10 and 02:10 entries worried about. Bad news: today's one daily research slot produced nothing, and tomorrow's run (2026-10-21 03:07 UTC) will do the same unless at least PR #7 (which carries the 15-game backlog) is merged first.
+
+**Research files:** `research/` on `main` holds `state.json` plus the same 16 game files. Every `done` slug has a matching file and every file has a `done` entry. Filenames match slugs and each file's `id` matches its filename. No stray files. `packs/` still does not exist (placeholder `packPath` values, expected).
+
+**Quality check:** no new files on `main`; re-check of all 16 PASS (`id`, `title`, `platforms`, `game.chapters`, `game.collectibles` present, `id` equals filename). Known gaps unchanged: `ghost-of-yotei.json` and `zelda-tears-of-the-kingdom.json` have 0 collectibles.
+
+**Blockers / errors / stale PRs:**
+- **Research pipeline is fully blocked on Tim merging the two open PRs.** PR #6 is now 24 hours old, PR #7 is 13 hours old. No check runs are configured, so there is no CI to wait on.
+- **PR #6 and PR #7 both change `research/state.json` and will conflict.** Recommended order: merge #6, have the #7 session merge `main` into its branch, then merge #7.
+- PR #7 still needs Tim's call on three points it flags itself: 14 backlog games with `evidence: 1`, 4 games marked `skipped`, and `currentYear` reset to 2026.
+- A phone/email notification was sent at this 03:10 run: the daily researcher ran and did nothing because the remaining games are stuck in the open PRs. Later runs need not repeat it unless something changes.
+- No errors in state.json.
+
+**Next game in queue:** on `main`, `cyberpunk-2077` — Cyberpunk 2077 (2020, evidence 3, route original), already researched in PR #6. After #6 merges: `red-dead-redemption-2` — Red Dead Redemption 2 (2018), already researched in PR #7. After #7 merges, the researcher continues with the first of PR #7's 15 queued backlog games at the next 03:07 UTC run.
+
+---
+
+## 2026-10-20 02:10 UTC
+
+**Year / queue:** currentYear = 2020 on `main`. state.json on `main` (last updated 2026-10-18 22:11 UTC) unchanged: 4 queued, 0 in progress, 16 done, 0 errors. Two open PRs still carry newer state.json files: PR #6 (`cyberpunk-2077` done, 17/20) and PR #7 (40-game queue, 21 done / 15 queued / 4 skipped, currentYear reset to 2026). `yearsCompleted` still empty (cosmetic).
+
+**Progress:** 16/20 games merged to `main`. All 20 original games are researched counting the two open PRs (17 in #6, plus RDR2, GTA V and Skyrim in #7). Target becomes 21/40 once both merge. No change in the last hour; this is the twelfth consecutive hourly check with no activity.
+
+**Latest commits (origin/main):**
+- `1148699` Coordinator log: 01:10 check (coordinator, 01:11 UTC)
+- `cfacec0` Coordinator log: 00:10 check (coordinator, 00:11 UTC)
+- `5b36b9f` Coordinator log: 23:10 check (coordinator, 23:11 UTC)
+- `fdae4f5` Coordinator log: 22:10 check (coordinator, 22:11 UTC)
+- `7c567a4` Coordinator log: 21:10 check (coordinator, 21:11 UTC)
+
+No new research commits on `main` (last one `824a966`, 2026-10-18 22:11 UTC). PR #6 head unchanged at `54998d3` (opened 2026-10-19 03:10 UTC, 23 hours, no comments or pushes since). PR #7 head unchanged at `e690754` (opened 2026-10-19 14:22 UTC, 12 hours, no comments or pushes since). No new PRs. Remote branches unchanged (`claude/research-forza-horizon-6` and `claude/research-crimson-desert` still stale, safe to delete).
+
+**Research files:** `research/` on `main` holds `state.json` plus the same 16 game files. Every `done` slug has a matching file and every file has a `done` entry. Filenames match slugs and each file's `id` matches its filename. No stray files. `packs/` still does not exist (placeholder `packPath` values, expected).
+
+**Quality check:** no new files on `main`; re-check of all 16 PASS (`id`, `title`, `platforms`, `game.chapters`, `game.collectibles` present, `id` equals filename). Known gaps unchanged: `ghost-of-yotei.json` and `zelda-tears-of-the-kingdom.json` have 0 collectibles.
+
+**Blockers / errors / stale PRs:**
+- **Both PRs are waiting on Tim.** PR #6 is 23 hours old, PR #7 is 12 hours old. No check runs are configured, so there is no CI to wait on.
+- **PR #6 and PR #7 both change `research/state.json` and will conflict.** Recommended order: merge #6, have the #7 session merge `main` into its branch, then merge #7.
+- PR #7 still needs Tim's call on three points it flags itself: 14 backlog games with `evidence: 1`, 4 games marked `skipped`, and `currentYear` reset to 2026.
+- The `game-researcher-routine` scheduled task has produced nothing since PR #6 (2026-10-19 03:10 UTC). If it is still enabled it will keep re-picking `cyberpunk-2077` from main's stale state.json until #6 merges.
+
+**Next game in queue:** on `main`, `cyberpunk-2077` — Cyberpunk 2077 (2020, evidence 3, route original), already researched in PR #6. After #6 merges: `red-dead-redemption-2` — Red Dead Redemption 2 (2018), already researched in PR #7.
+
+---
+
+## 2026-10-20 01:10 UTC
+
+**Year / queue:** currentYear = 2020 on `main`. state.json on `main` (last updated 2026-10-18 22:11 UTC) unchanged: 4 queued, 0 in progress, 16 done, 0 errors. Two open PRs still carry newer state.json files: PR #6 (`cyberpunk-2077` done, 17/20) and PR #7 (40-game queue, 21 done / 15 queued / 4 skipped, currentYear reset to 2026). `yearsCompleted` still empty (cosmetic).
+
+**Progress:** 16/20 games merged to `main`. All 20 original games are researched counting the two open PRs (17 in #6, plus RDR2, GTA V and Skyrim in #7). Target becomes 21/40 once both merge. No change in the last hour; this is the eleventh consecutive hourly check with no activity.
+
+**Latest commits (origin/main):**
+- `cfacec0` Coordinator log: 00:10 check (coordinator, 00:11 UTC)
+- `5b36b9f` Coordinator log: 23:10 check (coordinator, 23:11 UTC)
+- `fdae4f5` Coordinator log: 22:10 check (coordinator, 22:11 UTC)
+- `7c567a4` Coordinator log: 21:10 check (coordinator, 21:11 UTC)
+- `860ed52` Coordinator log: 20:10 check (coordinator, 20:11 UTC)
+
+No new research commits on `main` (last one `824a966`, 2026-10-18 22:11 UTC). PR #6 head unchanged at `54998d3` (opened 2026-10-19 03:10 UTC, 22 hours, no comments or pushes since). PR #7 head unchanged at `e690754` (opened 2026-10-19 14:22 UTC, 11 hours, no comments or pushes since). No new PRs. Remote branches unchanged (`claude/research-forza-horizon-6` and `claude/research-crimson-desert` still stale, safe to delete).
+
+**Research files:** `research/` on `main` holds `state.json` plus the same 16 game files. Every `done` slug has a matching file and every file has a `done` entry. Filenames match slugs and each file's `id` matches its filename. No stray files. `packs/` still does not exist (placeholder `packPath` values, expected).
+
+**Quality check:** no new files on `main`; re-check of all 16 PASS (`id`, `title`, `platforms`, `game.chapters`, `game.collectibles` present, `id` equals filename). Known gaps unchanged: `ghost-of-yotei.json` and `zelda-tears-of-the-kingdom.json` have 0 collectibles.
+
+**Blockers / errors / stale PRs:**
+- **Both PRs are waiting on Tim.** PR #6 is 22 hours old, PR #7 is 11 hours old. No check runs are configured, so there is no CI to wait on.
+- **PR #6 and PR #7 both change `research/state.json` and will conflict.** Recommended order: merge #6, have the #7 session merge `main` into its branch, then merge #7.
+- PR #7 still needs Tim's call on three points it flags itself: 14 backlog games with `evidence: 1`, 4 games marked `skipped`, and `currentYear` reset to 2026.
+- **Merge PR #6 before the 2026-10-20 03:07 UTC researcher run (about 2 hours from now)**, or the researcher re-picks `cyberpunk-2077` from main's stale state.json and wastes a run. If it is not merged by then, the 03:10 and 04:10 coordinator checks should look for a duplicate Cyberpunk PR or branch.
+- No errors in state.json. No researcher runs observed since PR #7 was opened.
+- A phone/email notification was sent to Tim at this 01:10 run about the two waiting PRs and the 03:07 UTC researcher deadline. Later runs need not repeat it unless something changes.
+
+**Next game in queue:** on `main`, `cyberpunk-2077` — Cyberpunk 2077 (2020, evidence 3, route original), already researched in PR #6. After #6 merges, `red-dead-redemption-2` — Red Dead Redemption 2 (2018), already researched in PR #7. After #7 merges, the queue continues from PR #7's 15 queued backlog games.
+
+---
+
+## 2026-10-20 00:10 UTC
+
+**Year / queue:** currentYear = 2020 on `main`. state.json on `main` (last updated 2026-10-18 22:11 UTC) unchanged: 4 queued, 0 in progress, 16 done, 0 errors. Two open PRs still carry newer state.json files: PR #6 (`cyberpunk-2077` done, 17/20) and PR #7 (40-game queue, 21 done / 15 queued / 4 skipped, currentYear reset to 2026). `yearsCompleted` still empty (cosmetic).
+
+**Progress:** 16/20 games merged to `main`. All 20 original games are researched counting the two open PRs (17 in #6, plus RDR2, GTA V and Skyrim in #7). Target becomes 21/40 once both merge. No change in the last hour; this is the tenth consecutive hourly check with no activity.
+
+**Latest commits (origin/main):**
+- `5b36b9f` Coordinator log: 23:10 check (coordinator, 23:11 UTC)
+- `fdae4f5` Coordinator log: 22:10 check (coordinator, 22:11 UTC)
+- `7c567a4` Coordinator log: 21:10 check (coordinator, 21:11 UTC)
+- `860ed52` Coordinator log: 20:10 check (coordinator, 20:11 UTC)
+- `53ca1cf` Coordinator log: 19:10 check (coordinator, 19:10 UTC)
+
+No new research commits on `main` (last one `824a966`, 2026-10-18 22:11 UTC). PR #6 head unchanged at `54998d3` (opened 2026-10-19 03:10 UTC, 21 hours, no comments or pushes since). PR #7 head unchanged at `e690754` (opened 2026-10-19 14:22 UTC, 10 hours, no comments or pushes since). No new PRs. Remote branches unchanged (`claude/research-forza-horizon-6` and `claude/research-crimson-desert` still stale, safe to delete).
+
+**Research files:** `research/` on `main` holds `state.json` plus the same 16 game files. Every `done` slug has a matching file and every file has a `done` entry. Filenames match slugs and each file's `id` matches its filename. No stray files. `packs/` still does not exist (placeholder `packPath` values, expected).
+
+**Quality check:** no new files on `main`; re-check of all 16 PASS (`id`, `title`, `platforms`, `game.chapters`, `game.collectibles` present, `id` equals filename). Known gaps unchanged: `ghost-of-yotei.json` and `zelda-tears-of-the-kingdom.json` have 0 collectibles.
+
+**Blockers / errors / stale PRs:**
+- **Both PRs are waiting on Tim.** PR #6 is 21 hours old, PR #7 is 10 hours old. No check runs are configured, so there is no CI to wait on.
+- **PR #6 and PR #7 both change `research/state.json` and will conflict.** Recommended order: merge #6, have the #7 session merge `main` into its branch, then merge #7.
+- PR #7 still needs Tim's call on three points it flags itself: 14 backlog games with `evidence: 1`, 4 games marked `skipped`, and `currentYear` reset to 2026.
+- **Merge PR #6 before the 2026-10-20 03:07 UTC researcher run (about 3 hours from now)**, or the researcher re-picks `cyberpunk-2077` from main's stale state.json and wastes a run. The `game-researcher-routine` scheduled task is enabled and its last run (2026-10-19 03:08 UTC) succeeded, so it will fire on schedule.
+- No errors in state.json. No researcher runs observed since PR #7 was opened.
+
+**Next game in queue:** on `main`, `cyberpunk-2077` — Cyberpunk 2077 (2020, evidence 3, route original), already researched in PR #6. After #6 merges, `red-dead-redemption-2` — Red Dead Redemption 2 (2018), already researched in PR #7. After #7 merges, the queue continues from PR #7's 15 queued backlog games.
+
+---
+
+## 2026-10-19 23:10 UTC
+
+**Year / queue:** currentYear = 2020 on `main`. state.json on `main` (last updated 2026-10-18 22:11 UTC) unchanged: 4 queued, 0 in progress, 16 done, 0 errors. Two open PRs still carry newer state.json files: PR #6 (`cyberpunk-2077` done, 17/20) and PR #7 (40-game queue, 21 done / 15 queued / 4 skipped, currentYear reset to 2026). `yearsCompleted` still empty (cosmetic).
+
+**Progress:** 16/20 games merged to `main`. All 20 original games are researched counting the two open PRs (17 in #6, plus RDR2, GTA V and Skyrim in #7). Target becomes 21/40 once both merge. No change in the last hour; this is the ninth consecutive hourly check with no activity.
+
+**Latest commits (origin/main):**
+- `fdae4f5` Coordinator log: 22:10 check (coordinator, 22:10 UTC)
+- `7c567a4` Coordinator log: 21:10 check (coordinator, 21:10 UTC)
+- `860ed52` Coordinator log: 20:10 check (coordinator, 20:10 UTC)
+- `53ca1cf` Coordinator log: 19:10 check (coordinator, 19:10 UTC)
+- `a13d786` Coordinator log: 18:10 check (coordinator, 18:11 UTC)
+
+No new research commits on `main` (last one `824a966`, 2026-10-18 22:11 UTC). PR #6 head unchanged at `54998d3` (opened 03:10 UTC, 20 hours, no comments or pushes since). PR #7 head unchanged at `e690754` (opened 14:22 UTC, 9 hours, no comments or pushes since). No new PRs. Remote branches unchanged (`claude/research-forza-horizon-6` and `claude/research-crimson-desert` still stale, safe to delete).
+
+**Research files:** `research/` on `main` holds `state.json` plus the same 16 game files. Every `done` slug has a matching file and every file has a `done` entry. Filenames match slugs and each file's `id` matches its filename. No stray files. `packs/` still does not exist (placeholder `packPath` values, expected).
+
+**Quality check:** no new files on `main`; re-check of all 16 PASS (`id`, `title`, `platforms`, `game.chapters`, `game.collectibles` present, `id` equals filename). Known gaps unchanged: `ghost-of-yotei.json` and `zelda-tears-of-the-kingdom.json` have 0 collectibles.
+
+**Blockers / errors / stale PRs:**
+- **Both PRs are waiting on Tim.** PR #6 is 20 hours old, PR #7 is 9 hours old. No check runs are configured, so there is no CI to wait on.
+- **PR #6 and PR #7 both change `research/state.json` and will conflict.** Recommended order: merge #6, have the #7 session merge `main` into its branch, then merge #7.
+- PR #7 still needs Tim's call on three points it flags itself: 14 backlog games with `evidence: 1`, 4 games marked `skipped`, and `currentYear` reset to 2026.
+- **Merge PR #6 before the 2026-10-20 03:07 UTC researcher run (about 4 hours from now)**, or the researcher re-picks `cyberpunk-2077` from main's stale state.json and wastes a run.
+- No errors in state.json. No researcher runs observed since PR #7 was opened.
+
+**Next game in queue:** on `main`, `cyberpunk-2077` — Cyberpunk 2077 (2020, evidence 3, route original), already researched in PR #6. After #6 merges, `red-dead-redemption-2` — Red Dead Redemption 2 (2018), already researched in PR #7. After #7 merges, the queue continues from PR #7's 15 queued backlog games.
+
+---
+
+## 2026-10-19 22:10 UTC
+
+**Year / queue:** currentYear = 2020 on `main`. state.json on `main` (last updated 2026-10-18 22:11 UTC) unchanged: 4 queued, 0 in progress, 16 done, 0 errors. Two open PRs still carry newer state.json files: PR #6 (`cyberpunk-2077` done, 17/20) and PR #7 (40-game queue, 21 done / 15 queued / 4 skipped, currentYear reset to 2026). `yearsCompleted` still empty (cosmetic).
+
+**Progress:** 16/20 games merged to `main`. All 20 original games are researched counting the two open PRs (17 in #6, plus RDR2, GTA V and Skyrim in #7). Target becomes 21/40 once both merge. No change in the last hour; this is the eighth consecutive hourly check with no activity.
+
+**Latest commits (origin/main):**
+- `7c567a4` Coordinator log: 21:10 check (coordinator, 21:10 UTC)
+- `860ed52` Coordinator log: 20:10 check (coordinator, 20:10 UTC)
+- `53ca1cf` Coordinator log: 19:10 check (coordinator, 19:10 UTC)
+- `a13d786` Coordinator log: 18:10 check (coordinator, 18:11 UTC)
+- `4754363` Coordinator log: 17:10 check (coordinator, 17:11 UTC)
+
+No new research commits on `main` (last one `824a966`, 2026-10-18 22:11 UTC). PR #6 head unchanged at `54998d3` (opened 03:10 UTC, 19 hours, no comments or pushes since). PR #7 head unchanged at `e690754` (opened 14:22 UTC, 8 hours, no comments or pushes since). No new PRs. Remote branches unchanged (`claude/research-forza-horizon-6` and `claude/research-crimson-desert` still stale, safe to delete).
+
+**Research files:** `research/` on `main` holds `state.json` plus the same 16 game files. Every `done` slug has a matching file and every file has a `done` entry. Filenames match slugs and each file's `id` matches its filename. No stray files. `packs/` still does not exist (placeholder `packPath` values, expected).
+
+**Quality check:** no new files on `main`; re-check of all 16 PASS (`id`, `title`, `platforms`, `game.chapters`, `game.collectibles` present, `id` equals filename). Known gaps unchanged: `ghost-of-yotei.json` and `zelda-tears-of-the-kingdom.json` have 0 collectibles.
+
+**Blockers / errors / stale PRs:**
+- **Both PRs are waiting on Tim.** PR #6 is 19 hours old, PR #7 is 8 hours old. No check runs are configured, so there is no CI to wait on.
+- **PR #6 and PR #7 both change `research/state.json` and will conflict.** Recommended order: merge #6, have the #7 session merge `main` into its branch, then merge #7.
+- PR #7 still needs Tim's call on three points it flags itself: 14 backlog games with `evidence: 1`, 4 games marked `skipped`, and `currentYear` reset to 2026.
+- **Merge PR #6 before the 2026-10-20 03:07 UTC researcher run (about 5 hours from now)**, or the researcher re-picks `cyberpunk-2077` from main's stale state.json and wastes a run.
+- No errors in state.json. No researcher runs observed since PR #7 was opened.
+
+**Next game in queue:** on `main`, `cyberpunk-2077` — Cyberpunk 2077 (2020, evidence 3, route original), already researched in PR #6. After #6 merges, `red-dead-redemption-2` — Red Dead Redemption 2 (2018), already researched in PR #7. After #7 merges, the queue continues from PR #7's 15 queued backlog games.
+
+---
+
+## 2026-10-19 21:10 UTC
+
+**Year / queue:** currentYear = 2020 on `main`. state.json on `main` (last updated 2026-10-18 22:11 UTC) unchanged: 4 queued, 0 in progress, 16 done, 0 errors. Two open PRs still carry newer state.json files: PR #6 (`cyberpunk-2077` done, 17/20) and PR #7 (40-game queue, 21 done / 15 queued / 4 skipped, currentYear reset to 2026). `yearsCompleted` still empty (cosmetic).
+
+**Progress:** 16/20 games merged to `main`. All 20 original games are researched counting the two open PRs (17 in #6, plus RDR2, GTA V and Skyrim in #7). Target becomes 21/40 once both merge. No change in the last hour; this is the seventh consecutive hourly check with no activity.
+
+**Latest commits (origin/main):**
+- `860ed52` Coordinator log: 20:10 check (coordinator, 20:10 UTC)
+- `53ca1cf` Coordinator log: 19:10 check (coordinator, 19:10 UTC)
+- `a13d786` Coordinator log: 18:10 check (coordinator, 18:11 UTC)
+- `4754363` Coordinator log: 17:10 check (coordinator, 17:11 UTC)
+- `499e28f` Coordinator log: 16:10 check (coordinator, 16:10 UTC)
+
+No new research commits on `main` (last one `824a966`, 2026-10-18 22:11 UTC). PR #6 head unchanged at `54998d3` (opened 03:10 UTC, 18 hours, no comments or pushes since). PR #7 head unchanged at `e690754` (opened 14:22 UTC, 7 hours, no comments or pushes since). No new PRs. Remote branches unchanged (`claude/research-forza-horizon-6` and `claude/research-crimson-desert` still stale, safe to delete).
+
+**Research files:** `research/` on `main` holds `state.json` plus the same 16 game files. Every `done` slug has a matching file and every file has a `done` entry. Filenames match slugs and each file's `id` matches its filename. No stray files. `packs/` still does not exist (placeholder `packPath` values, expected).
+
+**Quality check:** no new files on `main`; re-check of all 16 PASS (`id`, `title`, `platforms`, `game.chapters`, `game.collectibles` present, `id` equals filename). Known gaps unchanged: `ghost-of-yotei.json` and `zelda-tears-of-the-kingdom.json` have 0 collectibles.
+
+**Blockers / errors / stale PRs:**
+- **Both PRs are waiting on Tim.** PR #6 is 18 hours old, PR #7 is 7 hours old. No check runs are configured, so there is no CI to wait on.
+- **PR #6 and PR #7 both change `research/state.json` and will conflict.** Recommended order: merge #6, have the #7 session merge `main` into its branch, then merge #7.
+- PR #7 still needs Tim's call on three points it flags itself: 14 backlog games with `evidence: 1`, 4 games marked `skipped`, and `currentYear` reset to 2026.
+- Merge PR #6 before the 2026-10-20 03:07 UTC researcher run (about 6 hours from now), or the researcher re-picks `cyberpunk-2077` from main's stale state.json.
+- No errors in state.json. No researcher runs observed since PR #7 was opened.
+
+**Next game in queue:** on `main`, `cyberpunk-2077` — Cyberpunk 2077 (2020, evidence 3, route original), already researched in PR #6. After #6 merges, `red-dead-redemption-2` — Red Dead Redemption 2 (2018), already researched in PR #7. After #7 merges, the queue continues from PR #7's 15 queued backlog games.
+
+---
+
+## 2026-10-19 20:10 UTC
+
+**Year / queue:** currentYear = 2020 on `main`. state.json on `main` (last updated 2026-10-18 22:11 UTC) unchanged: 4 queued, 0 in progress, 16 done, 0 errors. Two open PRs still carry newer state.json files: PR #6 (`cyberpunk-2077` done, 17/20) and PR #7 (40-game queue, 21 done / 15 queued / 4 skipped, currentYear reset to 2026). `yearsCompleted` still empty (cosmetic).
+
+**Progress:** 16/20 games merged to `main`. All 20 original games are researched counting the two open PRs (17 in #6, plus RDR2, GTA V and Skyrim in #7). Target becomes 21/40 once both merge. No change in the last hour; this is the sixth consecutive hourly check with no activity.
+
+**Latest commits (origin/main):**
+- `53ca1cf` Coordinator log: 19:10 check (coordinator, 19:10 UTC)
+- `a13d786` Coordinator log: 18:10 check (coordinator, 18:11 UTC)
+- `4754363` Coordinator log: 17:10 check (coordinator, 17:11 UTC)
+- `499e28f` Coordinator log: 16:10 check (coordinator, 16:10 UTC)
+- `513aed3` Coordinator log: 15:10 check, new PR #7 (coordinator, 15:16 UTC)
+
+No new research commits on `main` (last one `824a966`, 2026-10-18 22:11 UTC). PR #6 head unchanged at `54998d3` (opened 03:10 UTC, 17 hours, no comments or pushes since). PR #7 head unchanged at `e690754` (opened 14:22 UTC, 6 hours, no comments or pushes since). No new PRs. Remote branches unchanged (`claude/research-forza-horizon-6` and `claude/research-crimson-desert` still stale, safe to delete).
+
+**Research files:** `research/` on `main` holds `state.json` plus the same 16 game files. Every `done` slug has a matching file and every file has a `done` entry. Filenames match slugs and each file's `id` matches its filename. No stray files. `packs/` still does not exist (placeholder `packPath` values, expected).
+
+**Quality check:** no new files on `main`; re-check of all 16 PASS (`id`, `title`, `platforms`, `game.chapters`, `game.collectibles` present, `id` equals filename). Known gaps unchanged: `ghost-of-yotei.json` and `zelda-tears-of-the-kingdom.json` have 0 collectibles.
+
+**Blockers / errors / stale PRs:**
+- **Both PRs are waiting on Tim.** PR #6 is 17 hours old, PR #7 is 6 hours old. No check runs are configured, so there is no CI to wait on.
+- **PR #6 and PR #7 both change `research/state.json` and will conflict.** Recommended order: merge #6, have the #7 session merge `main` into its branch, then merge #7.
+- PR #7 still needs Tim's call on three points it flags itself: 14 backlog games with `evidence: 1`, 4 games marked `skipped`, and `currentYear` reset to 2026.
+- Merge PR #6 before the 2026-10-20 03:07 UTC researcher run (about 7 hours from now), or the researcher re-picks `cyberpunk-2077` from main's stale state.json.
+- No errors in state.json. No researcher runs observed since PR #7 was opened.
+
+**Next game in queue:** on `main`, `cyberpunk-2077` — Cyberpunk 2077 (2020, evidence 3, route original), already researched in PR #6. After #6 merges, `red-dead-redemption-2` — Red Dead Redemption 2 (2018), already researched in PR #7. After #7 merges, the queue continues from PR #7's 15 queued backlog games.
+
+---
+
+## 2026-10-19 19:10 UTC
+
+**Year / queue:** currentYear = 2020 on `main`. state.json on `main` (last updated 2026-10-18 22:11 UTC) unchanged: 4 queued, 0 in progress, 16 done, 0 errors. Two open PRs still carry newer state.json files: PR #6 (`cyberpunk-2077` done, 17/20) and PR #7 (40-game queue, 21 done / 15 queued / 4 skipped, currentYear reset to 2026). `yearsCompleted` still empty (cosmetic).
+
+**Progress:** 16/20 games merged to `main`. All 20 original games are researched counting the two open PRs (17 in #6, plus RDR2, GTA V and Skyrim in #7). Target becomes 21/40 once both merge. No change in the last hour; this is the fifth consecutive hourly check with no activity.
+
+**Latest commits (origin/main):**
+- `a13d786` Coordinator log: 18:10 check (coordinator, 18:11 UTC)
+- `4754363` Coordinator log: 17:10 check (coordinator, 17:11 UTC)
+- `499e28f` Coordinator log: 16:10 check (coordinator, 16:10 UTC)
+- `513aed3` Coordinator log: 15:10 check, new PR #7 (coordinator, 15:16 UTC)
+- `9a54323` Coordinator log: 14:10 check (coordinator, 14:12 UTC)
+
+No new research commits on `main` (last one `824a966`, 2026-10-18 22:11 UTC). PR #6 head unchanged at `54998d3` (opened 03:10 UTC, 16 hours, no activity since). PR #7 head unchanged at `e690754` (opened 14:22 UTC, 5 hours, no activity since). No new pushes, comments or new PRs. Remote branches unchanged (`claude/research-forza-horizon-6` and `claude/research-crimson-desert` still stale, safe to delete).
+
+**Research files:** `research/` on `main` holds `state.json` plus the same 16 game files. Every `done` slug has a matching file and every file has a `done` entry. Filenames match slugs and each file's `id` matches its filename. No stray files. `packs/` still does not exist (placeholder `packPath` values, expected).
+
+**Quality check:** no new files on `main`; re-check of all 16 PASS (`id`, `title`, `platforms`, `game.chapters`, `game.collectibles` present, `id` equals filename). Known gaps unchanged: `ghost-of-yotei.json` and `zelda-tears-of-the-kingdom.json` have 0 collectibles.
+
+**Blockers / errors / stale PRs:**
+- **Both PRs are waiting on Tim.** PR #6 is 16 hours old, PR #7 is 5 hours old. No check runs are configured, so there is no CI to wait on.
+- **PR #6 and PR #7 both change `research/state.json` and will conflict.** Recommended order: merge #6, have the #7 session merge `main` into its branch, then merge #7.
+- PR #7 still needs Tim's call on three points it flags itself: 14 backlog games with `evidence: 1`, 4 games marked `skipped`, and `currentYear` reset to 2026.
+- No errors in state.json. No researcher runs observed since PR #7 was opened.
+
+**Next game in queue:** on `main`, `cyberpunk-2077` — Cyberpunk 2077 (2020, evidence 3, route original), already researched in PR #6. After #6 merges, `red-dead-redemption-2` — Red Dead Redemption 2 (2018), already researched in PR #7. After #7 merges, the queue continues from PR #7's 15 queued backlog games.
+
+---
+
+## 2026-10-19 18:10 UTC
+
+**Year / queue:** currentYear = 2020 on `main`. state.json on `main` (last updated 2026-10-18 22:11 UTC) unchanged: 4 queued, 0 in progress, 16 done, 0 errors. Two open PRs still carry newer state.json files: PR #6 (`cyberpunk-2077` done, 17/20) and PR #7 (40-game queue, 21 done / 15 queued / 4 skipped, currentYear reset to 2026). `yearsCompleted` still empty (cosmetic).
+
+**Progress:** 16/20 games merged to `main`. All 20 original games are researched counting the two open PRs (17 in #6, plus RDR2, GTA V and Skyrim in #7). Target becomes 21/40 once both merge. No change in the last hour.
+
+**Latest commits (origin/main):**
+- `4754363` Coordinator log: 17:10 check (coordinator, 17:11 UTC)
+- `499e28f` Coordinator log: 16:10 check (coordinator, 16:10 UTC)
+- `513aed3` Coordinator log: 15:10 check, new PR #7 (coordinator, 15:16 UTC)
+- `9a54323` Coordinator log: 14:10 check (coordinator, 14:12 UTC)
+- `00616ce` Coordinator log: 13:10 check (coordinator, 13:23 UTC)
+
+No new research commits on `main` (last one `824a966`, 2026-10-18 22:11 UTC). PR #6 head unchanged at `54998d3` (opened 03:10 UTC, no activity since). PR #7 head unchanged at `e690754` (opened 14:22 UTC, no activity since). No new pushes, comments or new PRs. Remote branches unchanged (`claude/research-forza-horizon-6` and `claude/research-crimson-desert` still stale, safe to delete).
+
+**Research files:** `research/` on `main` holds `state.json` plus the same 16 game files. Every `done` slug has a matching file and every file has a `done` entry. Filenames match slugs and each file's `id` matches its filename. No stray files. `packs/` still does not exist (placeholder `packPath` values, expected).
+
+**Quality check:** no new files on `main`; re-check of all 16 PASS (`id`, `title`, `platforms`, `game.chapters`, `game.collectibles` present, `id` equals filename). Known gaps unchanged: `ghost-of-yotei.json` and `zelda-tears-of-the-kingdom.json` have 0 collectibles.
+
+**Blockers / errors / stale PRs:**
+- **Both PRs are waiting on Tim.** PR #6 is 15 hours old, PR #7 is 4 hours old; neither is stale. No check runs are configured, so there is no CI to wait on.
+- **PR #6 and PR #7 both change `research/state.json` and will conflict.** Recommended order: merge #6, have the #7 session merge `main` into its branch, then merge #7.
+- PR #7 still needs Tim's call on three points it flags itself: 14 backlog games with `evidence: 1`, 4 games marked `skipped`, and `currentYear` reset to 2026.
+- Merge PR #6 before the 2026-10-20 03:07 UTC researcher run (about 9 hours from now), or the researcher re-picks `cyberpunk-2077` from main's stale state.json.
+- No errors in state.json on `main` or either PR branch.
+
+**Next game in queue:** on `main` today, `red-dead-redemption-2` (already covered by PR #7). After both PRs merge: `control-resonant` — Control Resonant (2026, evidence 1, route original), then `assassins-creed-black-flag-resynced`, `onimusha-way-of-the-sword`, `nioh-3`.
+
+---
+
+## 2026-10-19 17:10 UTC
+
+**Year / queue:** currentYear = 2020 on `main`. state.json on `main` (last updated 2026-10-18 22:11 UTC) unchanged: 4 queued, 0 in progress, 16 done, 0 errors. Two open PRs still carry newer state.json files: PR #6 (`cyberpunk-2077` done, 17/20) and PR #7 (40-game queue, 21 done / 15 queued / 4 skipped, currentYear reset to 2026). `yearsCompleted` still empty (cosmetic).
+
+**Progress:** 16/20 games merged to `main`. All 20 original games are researched counting the two open PRs (17 in #6, plus RDR2, GTA V and Skyrim in #7). Target becomes 21/40 once both merge. No change in the last hour.
+
+**Latest commits (origin/main):**
+- `499e28f` Coordinator log: 16:10 check (coordinator, 16:10 UTC)
+- `513aed3` Coordinator log: 15:10 check, new PR #7 (coordinator, 15:16 UTC)
+- `9a54323` Coordinator log: 14:10 check (coordinator, 14:12 UTC)
+- `00616ce` Coordinator log: 13:10 check (coordinator, 13:23 UTC)
+- `e06decd` Coordinator log: 12:10 check (coordinator, 12:15 UTC)
+
+No new research commits on `main` (last one `824a966`, 2026-10-18 22:11 UTC). PR #6 head unchanged at `54998d3` (opened 03:10 UTC, no activity since). PR #7 head unchanged at `e690754` (opened 14:22 UTC, no activity since). No new pushes, comments or new PRs.
+
+**Research files:** `research/` on `main` holds `state.json` plus the same 16 game files. Every `done` slug has a matching file and every file has a `done` entry. Filenames match slugs and each file's `id` matches its filename. No stray files. `packs/` still does not exist (placeholder `packPath` values, expected).
+
+**Quality check:** no new files on `main`; re-check of all 16 PASS (`id`, `title`, `platforms`, `game.chapters`, `game.collectibles` present, `id` equals filename). Known gaps unchanged: `ghost-of-yotei.json` and `zelda-tears-of-the-kingdom.json` have 0 collectibles.
+
+**Blockers / errors / stale PRs:**
+- **Both PRs are waiting on Tim.** PR #6 is 14 hours old, PR #7 is 3 hours old; neither is stale. No check runs are configured, so there is no CI to wait on.
+- **PR #6 and PR #7 both change `research/state.json` and will conflict.** Recommended order: merge #6, have the #7 session merge `main` into its branch, then merge #7.
+- PR #7 still needs Tim's call on three points it flags itself: 14 backlog games with `evidence: 1`, 4 games marked `skipped`, and `currentYear` reset to 2026.
+- Merge PR #6 before the 2026-10-20 03:07 UTC researcher run (about 10 hours from now), or the researcher re-picks `cyberpunk-2077` from main's stale state.json.
+- No errors in state.json on `main` or either PR branch.
+
+**Next game in queue:** on `main` today, `red-dead-redemption-2` (already covered by PR #7). After both PRs merge: `control-resonant` — Control Resonant (2026, evidence 1, route original), then `assassins-creed-black-flag-resynced`, `onimusha-way-of-the-sword`, `nioh-3`.
+
+---
+
+## 2026-10-19 16:10 UTC
+
+**Year / queue:** currentYear = 2020 on `main`. state.json on `main` (last updated 2026-10-18 22:11 UTC) unchanged: 4 queued, 0 in progress, 16 done, 0 errors. Two open PRs still carry newer state.json files: PR #6 (`cyberpunk-2077` done, 17/20) and PR #7 (40-game queue, 21 done / 15 queued / 4 skipped, currentYear reset to 2026). `yearsCompleted` still empty (cosmetic).
+
+**Progress:** 16/20 games merged to `main`. All 20 original games are researched counting the two open PRs (17 in #6, plus RDR2, GTA V and Skyrim in #7). PR #7 also adds 2 extra games and grows the queue to 40, so the target becomes 21/40 once both merge. No change in the last hour.
+
+**Latest commits (origin/main):**
+- `513aed3` Coordinator log: 15:10 check, new PR #7 (coordinator, 15:16 UTC)
+- `9a54323` Coordinator log: 14:10 check (coordinator, 14:12 UTC)
+- `00616ce` Coordinator log: 13:10 check (coordinator, 13:12 UTC)
+- `e06decd` Coordinator log: 12:10 check (coordinator, 12:15 UTC)
+- `8e530da` Coordinator log: 11:10 check (coordinator, 11:13 UTC)
+
+No new research commits on `main`. PR #6 head unchanged at `54998d3` (opened 03:10 UTC, no comments). PR #7 head unchanged at `e690754` (opened 14:22 UTC, no comments, no new pushes). Remote branches unchanged: `claude/festive-turing-ek24ds` (PR #7, live), `claude/research-cyberpunk-2077` (PR #6, live), `claude/research-forza-horizon-6` and `claude/research-crimson-desert` (stale, safe to delete).
+
+**Research files:** `research/` on `main` holds `state.json` plus the same 16 game files. Every `done` slug has a matching file and every file has a `done` entry. Filenames match slugs and each file's `id` matches its filename. No stray files. `packs/` still does not exist (placeholder `packPath` values, expected).
+
+**Quality check:** no new files on `main`; re-check of all 16 PASS (`id`, `title`, `platforms`, `game.chapters`, `game.collectibles` present, `id` equals filename). Known gaps unchanged: `ghost-of-yotei.json` and `zelda-tears-of-the-kingdom.json` have 0 collectibles. PR #6 and PR #7 files unchanged since the 15:10 check (all PASS then).
+
+**Blockers / errors / stale PRs:**
+- **Both PRs are waiting on Tim.** PR #6 is 13 hours old, PR #7 is 2 hours old; neither is stale. No check runs are configured, so there is no CI to wait on.
+- **PR #6 and PR #7 both change `research/state.json` and will conflict.** Recommended order: merge #6, have the #7 session merge `main` into its branch, then merge #7.
+- PR #7 still needs Tim's call on three points it flags itself: 14 backlog games with `evidence: 1`, 4 games marked `skipped`, and `currentYear` reset to 2026.
+- Merge PR #6 before the 2026-10-20 03:07 UTC researcher run (about 11 hours from now), or the researcher re-picks `cyberpunk-2077` from main's stale state.json.
+- No errors in state.json on `main` or either PR branch.
+
+**Next game in queue:** on `main` today, `red-dead-redemption-2` (already covered by PR #7). After both PRs merge: `control-resonant` — Control Resonant (2026, evidence 1, route original), then `assassins-creed-black-flag-resynced`, `onimusha-way-of-the-sword`, `nioh-3`.
+
+---
+
+## 2026-10-19 15:10 UTC
+
+**Year / queue:** currentYear = 2020 on `main`. state.json on `main` (last updated 2026-10-18 22:11 UTC) unchanged: 4 queued, 0 in progress, 16 done, 0 errors. Two open PRs now carry newer state.json files: PR #6 (17 done / 3 queued, `cyberpunk-2077` done) and **new PR #7** (21 done / 15 queued / 4 skipped out of a 40-game queue, currentYear reset to 2026). `yearsCompleted` still empty on all three (cosmetic).
+
+**Progress:** 16/20 games merged to `main`. Counting the two open PRs, all 20 original games are researched (17 in #6, plus RDR2, GTA V and Skyrim in #7). PR #7 also adds 2 extra games (Marvel's Wolverine, Blood of Dawnwalker) and grows the queue to 40, so the target becomes 21/40 once both PRs merge.
+
+**Latest commits (origin/main):**
+- `9a54323` Coordinator log: 14:10 check (coordinator, 14:12 UTC)
+- `00616ce` Coordinator log: 13:10 check (coordinator, 13:12 UTC)
+- `e06decd` Coordinator log: 12:10 check (coordinator, 12:15 UTC)
+- `8e530da` Coordinator log: 11:10 check (coordinator, 11:13 UTC)
+- `33bec86` Coordinator log: 10:10 check (coordinator, 10:11 UTC)
+
+No new research commits on `main`. **New this hour:** PR #7 "Research batch 4: RDR2, GTA V, Skyrim, Wolverine, Blood of Dawnwalker + 2024–2026 backlog" opened 14:22 UTC by Tim's account from a Claude session, on branch `claude/festive-turing-ek24ds` (one commit `e690754`, 6 files, +2767/-8, mergeable state clean). The 14:10 entry listed that branch as merged and safe to delete; it has since been reused for PR #7, so **do not delete it**. The `claude/research-cyberpunk-2077` branch (PR #6) is unchanged at `54998d3`.
+
+**Research files:** `research/` on `main` holds `state.json` plus the same 16 game files. No stray files, filenames match slugs. PR #7 adds `red-dead-redemption-2.json`, `grand-theft-auto-v.json`, `elder-scrolls-skyrim.json`, `marvels-wolverine.json`, `blood-of-dawnwalker.json`, all named by slug. After both PRs merge every `done` slug would have a file and every file a `done` entry; no duplicate slugs in PR #7's queue. `packs/` still does not exist (placeholder `packPath` values, expected).
+
+**Quality check:** all 16 files on `main` re-checked, PASS. PR #7's five new files checked from the branch, all PASS (`id`, `title`, `platforms`, `game.chapters`, `game.collectibles` present, `id` equals filename):
+- `red-dead-redemption-2`: 7 chapters, 51 collectibles, 3 platforms, route original.
+- `grand-theft-auto-v`: 7 chapters, 77 collectibles, 7 platforms, route original.
+- `elder-scrolls-skyrim`: 13 chapters, 75 collectibles, 8 platforms, route cc-by-sa (StrategyWiki / UESP page and quest names only, per the PR).
+- `marvels-wolverine`: 4 placeholder chapters, 0 collectibles, PS5 only (no achievement list). Same known gap as `ghost-of-yotei` and `zelda-tears-of-the-kingdom`.
+- `blood-of-dawnwalker`: 5 chapters, 46 collectibles, 3 platforms, route original.
+PR #6's `cyberpunk-2077.json` unchanged, still PASS.
+
+**Blockers / errors / stale PRs:**
+- **PR #6 and PR #7 both change `research/state.json` and will conflict with each other.** PR #7's description says to merge #6 first; its author will then merge `main` into #7 and resolve. Recommended order for Tim: merge #6, then ask the #7 session to update, then merge #7.
+- **PR #7 needs Tim's review on three points it flags itself:** (1) 14 backlog games were added with `evidence: 1` (RAWG player counts only, below the evidence rule in `docs/PLAN.md`); (2) 4 games were marked `skipped` with reasons (Saros, Elden Ring Nightreign, Dying Light: The Beast, Clair Obscur: Expedition 33), two of which PLAN.md leaves to Tim; (3) `currentYear` is reset to 2026, so after merge the daily researcher starts on the 2026 backlog (`control-resonant` first) rather than finishing older years.
+- PR #6 is still open, 12 hours old, no comments. Not stale. No check runs are configured on the repo, so there is no CI to wait on for either PR.
+- Merge PR #6 before the 2026-10-20 03:07 UTC researcher run, or the researcher re-picks `cyberpunk-2077` from main's stale state.json. If PR #7 also merges before then, the researcher instead picks the first queued 2026 game.
+- Stale branches still safe to delete on origin: `claude/research-forza-horizon-6` (merged), `claude/research-crimson-desert` (closed). `claude/festive-turing-ek24ds` is now live (PR #7).
+- No errors in state.json on `main` or either PR branch.
+
+**Next game in queue:** on `main` today, `red-dead-redemption-2` (now covered by PR #7). After both PRs merge: `control-resonant` — Control Resonant (2026, evidence 1, route original), then `assassins-creed-black-flag-resynced`, `onimusha-way-of-the-sword`, `nioh-3`, `grand-theft-auto-vi` (held until its 2026-11-19 release). 15 queued games at one per daily run is about 15 days.
+
+---
+
 ## 2026-10-19 14:10 UTC
 
 **Year / queue:** currentYear = 2020 on `main`. state.json on `main` (last updated 2026-10-18 22:11 UTC) unchanged: 4 queued, 0 in progress, 16 done, 0 errors. PR #6 branch still carries the updated state.json with `cyberpunk-2077` marked `done` (3 queued, 17 done, 0 errors). `yearsCompleted` still empty (cosmetic).
