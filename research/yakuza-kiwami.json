@@ -1,0 +1,544 @@
+{
+  "id": "yakuza-kiwami",
+  "title": "Yakuza Kiwami",
+  "year": 2016,
+  "platforms": [
+    "PlayStation 4",
+    "PC",
+    "Nintendo Switch",
+    "Xbox One",
+    "PlayStation 3"
+  ],
+  "rawgId": 44525,
+  "rawgSlug": "yakuza-kiwami",
+  "released": "2016-01-21",
+  "developers": [
+    "Ryu ga Gotoku Studio"
+  ],
+  "playtime": 10,
+  "genres": [
+    "Action",
+    "Adventure",
+    "RPG",
+    "Fighting"
+  ],
+  "tags": [
+    "Steam Achievements",
+    "Full controller support",
+    "Steam Cloud",
+    "Great Soundtrack",
+    "RPG",
+    "Story Rich",
+    "Open World",
+    "Beat 'em up",
+    "Crime",
+    "Steam Trading Cards",
+    "Minigames",
+    "Single player only"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/fbb/fbbd9fe21317bde9134114e2b1306069.jpg",
+  "steamAppId": 3717330,
+  "achievements": {
+    "total": 55,
+    "hidden": 30,
+    "examples": [
+      {
+        "name": "Kiryu-chan!",
+        "percent": 65.6
+      },
+      {
+        "name": "Take Back Those Ten Years!",
+        "percent": 63.4
+      },
+      {
+        "name": "Tell Me a Story",
+        "percent": 48.5
+      },
+      {
+        "name": "Sexy Ron",
+        "percent": 5.3
+      },
+      {
+        "name": "Hand In Hand",
+        "percent": 4.3
+      },
+      {
+        "name": "What a Player",
+        "percent": 3.6
+      },
+      {
+        "name": "Perfectionist",
+        "percent": 3.0
+      },
+      {
+        "name": "Kiwami",
+        "percent": 2.5
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Yakuza_Kiwami",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 57,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://yakuza.fandom.com/wiki/Yakuza_Kiwami"
+    }
+  },
+  "game": {
+    "id": "yakuza-kiwami",
+    "title": "Yakuza Kiwami",
+    "platforms": [
+      "PlayStation 4",
+      "PC",
+      "Nintendo Switch",
+      "Xbox One",
+      "PlayStation 3"
+    ],
+    "blurb": "Action-adventure brawler with RPG growth, set in Kamurocho, from Ryu ga Gotoku Studio, released 2016-01-21. RAWG average playtime: 10 hours. Genres: Action, Adventure, RPG, Fighting. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#8C1C13",
+    "chapters": [
+      {
+        "id": "main-story",
+        "title": "The Main Story",
+        "summary": "Kiryu's return and the story, chapter by chapter. Spoiler-guarded; these achievements are hidden on Steam.",
+        "steps": []
+      },
+      {
+        "id": "majima-everywhere",
+        "title": "Majima Everywhere",
+        "summary": "Being chased and ambushed by Majima in his many forms, ranking up and the Majima-themed hidden goals.",
+        "steps": []
+      },
+      {
+        "id": "city-life",
+        "title": "Substories and City Life",
+        "summary": "Substories, the Completion List, hostesses, dates and walking with Haruka in Premium Adventure.",
+        "steps": []
+      },
+      {
+        "id": "minigames-and-coliseum",
+        "title": "Minigames and the Coliseum",
+        "summary": "Pocket Circuit, MesuKing, mahjong, every minigame and the underground coliseum tournaments.",
+        "steps": []
+      },
+      {
+        "id": "fighting-styles",
+        "title": "Fighting Styles and Abilities",
+        "summary": "Soul, Technique and Body abilities and the Komaki Style training.",
+        "steps": []
+      },
+      {
+        "id": "legend-and-amon",
+        "title": "Legend and Final Challenges",
+        "summary": "The overall completion goal and the hidden Amon and Dragon of Legend goals.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Kiwami",
+        "kind": "trophy",
+        "chapterId": "legend-and-amon",
+        "where": "Obtain all other achievements."
+      },
+      {
+        "id": "achievement-2",
+        "name": "Half the Battle",
+        "kind": "trophy",
+        "chapterId": "city-life",
+        "where": "Completed 50% of the Completion List."
+      },
+      {
+        "id": "achievement-3",
+        "name": "Perfectionist",
+        "kind": "trophy",
+        "chapterId": "city-life",
+        "where": "Completed 100% of the Completion List."
+      },
+      {
+        "id": "achievement-4",
+        "name": "Kiryu-chan!",
+        "kind": "trophy",
+        "chapterId": "majima-everywhere",
+        "where": "Got chased by Majima."
+      },
+      {
+        "id": "achievement-5",
+        "name": "Let's Fight!",
+        "kind": "trophy",
+        "chapterId": "majima-everywhere",
+        "where": "Thug Majima forced his way into a fight."
+      },
+      {
+        "id": "achievement-6",
+        "name": "Swing For the Fences!",
+        "kind": "trophy",
+        "chapterId": "majima-everywhere",
+        "where": "Slugger Majima forced his way into a fight."
+      },
+      {
+        "id": "achievement-7",
+        "name": "Break it Down!",
+        "kind": "trophy",
+        "chapterId": "majima-everywhere",
+        "where": "Breaker Majima forced his way into a fight."
+      },
+      {
+        "id": "achievement-8",
+        "name": "Are Ya Havin' Fun Yet?",
+        "kind": "trophy",
+        "chapterId": "majima-everywhere",
+        "where": "The Mad Dog of Shimano forced his way into a fight."
+      },
+      {
+        "id": "achievement-9",
+        "name": "It's Not Over Yet!",
+        "kind": "trophy",
+        "chapterId": "majima-everywhere",
+        "where": "Reached Rank B in Majima Everywhere."
+      },
+      {
+        "id": "achievement-10",
+        "name": "The Dragon of Dojima Returns!",
+        "kind": "trophy",
+        "chapterId": "majima-everywhere",
+        "where": "Upgraded all Majima Everywhere abilities."
+      },
+      {
+        "id": "achievement-11",
+        "name": "Yui the Hostess",
+        "kind": "trophy",
+        "chapterId": "city-life",
+        "where": "Spent a steamy moment with Yui."
+      },
+      {
+        "id": "achievement-12",
+        "name": "Rina the Hostess",
+        "kind": "trophy",
+        "chapterId": "city-life",
+        "where": "Spent a steamy moment with Rina."
+      },
+      {
+        "id": "achievement-13",
+        "name": "Tell Me a Story",
+        "kind": "trophy",
+        "chapterId": "city-life",
+        "where": "Completed 10 substories."
+      },
+      {
+        "id": "achievement-14",
+        "name": "Hero of the Story",
+        "kind": "trophy",
+        "chapterId": "city-life",
+        "where": "Completed 30 substories."
+      },
+      {
+        "id": "achievement-15",
+        "name": "Story of My Life",
+        "kind": "trophy",
+        "chapterId": "city-life",
+        "where": "Completed all substories."
+      },
+      {
+        "id": "achievement-16",
+        "name": "Komaki Style Master",
+        "kind": "trophy",
+        "chapterId": "fighting-styles",
+        "where": "Completed all training for Komaki Style."
+      },
+      {
+        "id": "achievement-17",
+        "name": "Take Back Those Ten Years!",
+        "kind": "trophy",
+        "chapterId": "fighting-styles",
+        "where": "Obtained at least 10 Soul, Technique, and Body abilities."
+      },
+      {
+        "id": "achievement-18",
+        "name": "Master of Body and Soul",
+        "kind": "trophy",
+        "chapterId": "fighting-styles",
+        "where": "Obtained all Soul, Technique, and Body abilities."
+      },
+      {
+        "id": "achievement-19",
+        "name": "The Strongest Fighter",
+        "kind": "trophy",
+        "chapterId": "minigames-and-coliseum",
+        "where": "Won all tournaments in the underground coliseum."
+      },
+      {
+        "id": "achievement-20",
+        "name": "Can I Call You?",
+        "kind": "trophy",
+        "chapterId": "city-life",
+        "where": "Successfully asked a hostess out on a date."
+      },
+      {
+        "id": "achievement-21",
+        "name": "Sexy Ron",
+        "kind": "trophy",
+        "chapterId": "minigames-and-coliseum",
+        "where": "Enjoyed mahjong with a hostess."
+      },
+      {
+        "id": "achievement-22",
+        "name": "The Dragon of Pocket Circuit Reborn!",
+        "kind": "trophy",
+        "chapterId": "minigames-and-coliseum",
+        "where": "Won all Pocket Circuit races."
+      },
+      {
+        "id": "achievement-23",
+        "name": "Throne of the MesuKing!",
+        "kind": "trophy",
+        "chapterId": "minigames-and-coliseum",
+        "where": "Won against all rivals in MesuKing."
+      },
+      {
+        "id": "achievement-24",
+        "name": "What a Player",
+        "kind": "trophy",
+        "chapterId": "minigames-and-coliseum",
+        "where": "Played all minigames."
+      },
+      {
+        "id": "achievement-25",
+        "name": "Hand In Hand",
+        "kind": "trophy",
+        "chapterId": "city-life",
+        "where": "Walked 1km during Premium Adventure while holding Haruka's hand."
+      },
+      {
+        "id": "achievement-26",
+        "name": "When You Don't Pay Your Debts...",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-27",
+        "name": "Things Will Never Be the Same",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-28",
+        "name": "Turmoil In the Tojo Clan",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-29",
+        "name": "Funeral For the Old Ways",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-30",
+        "name": "Mother and Child",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-31",
+        "name": "The Price of Life",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-32",
+        "name": "Sins of the Father",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-33",
+        "name": "The Dragon and the Koi",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-34",
+        "name": "Puppet Masters",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-35",
+        "name": "A Man's Conviction",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-36",
+        "name": "The Dragon Roars",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-37",
+        "name": "Ashes to Ashes",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-38",
+        "name": "Legends Never Die",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-39",
+        "name": "Thank You!",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-40",
+        "name": "Dragon of Legend",
+        "kind": "trophy",
+        "chapterId": "legend-and-amon",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-41",
+        "name": "Majima From Above",
+        "kind": "trophy",
+        "chapterId": "majima-everywhere",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-42",
+        "name": "Majima From Below",
+        "kind": "trophy",
+        "chapterId": "majima-everywhere",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-43",
+        "name": "Goromi the Hostess",
+        "kind": "trophy",
+        "chapterId": "majima-everywhere",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-44",
+        "name": "Majima On the Beat",
+        "kind": "trophy",
+        "chapterId": "majima-everywhere",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-45",
+        "name": "Majima of the End",
+        "kind": "trophy",
+        "chapterId": "majima-everywhere",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-46",
+        "name": "You'll Only Get Burned",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-47",
+        "name": "That's a Man!",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-48",
+        "name": "Sonic Right Hook",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-49",
+        "name": "An Answer Owed",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-50",
+        "name": "Kidney Stones",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-51",
+        "name": "A Bad Business",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-52",
+        "name": "She's Worth It?",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-53",
+        "name": "Amon Defeated",
+        "kind": "trophy",
+        "chapterId": "legend-and-amon",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-54",
+        "name": "Death By Climax",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-55",
+        "name": "Mister Master",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/yakuza-kiwami",
+    "Achievement data from Steam (Steam Web API, app 3717330)",
+    "StrategyWiki: no usable walkthrough, nothing used — https://strategywiki.org/wiki/Yakuza_Kiwami",
+    "Fandom (yakuza.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://yakuza.fandom.com/wiki/Yakuza_Kiwami"
+  ],
+  "route": "original",
+  "notes": "Backlog game, picked from RAWG's most-added list for its year (docs/PLAN.md section 2 ordering). Steam app 3717330 is listed in the Steam store list as \"Yakuza Kiwami\"; its schema calls the app \"NEXUS2_K1\" (an internal codename). It is the only Yakuza Kiwami entry in the Steam app list that was fetched. StrategyWiki has a page at completion stage 1, with 15 subpages. Of its chapter pages only \"Chapter 1\" (about 2,900 characters), \"Chapter 3\" (about 2,900) and \"Finale\" (about 2,500) exist; Chapters 2 and 4 to 12 are linked but not created. Reference pages are better: \"Abilities\" (about 22,800), \"Achievements and trophies\" (about 10,100), \"Completion List\" (about 6,500), \"Eateries\" (about 6,500), \"Stores\" (about 5,800), \"Goro Majima Everywhere\" (about 1,900), \"Substories\" (about 1,400) and \"Minigames\" (about 1,200). The walkthrough is too thin to use, so nothing was taken. yakuza.fandom.com answers the API, with about 57 linked pages, including \"Yakuza Kiwami/Chapter 1\" to \"Chapter 13\", \"Majima Everywhere\" and \"Pocket Circuit Racing\"; names only were looked at, nothing copied. 30 of 55 Steam achievements are hidden, with no descriptions. Hidden 26 to 39 are named like story beats and sit in the main story chapter. Five hidden ones named after Majima or \"Goromi\" were placed in Majima Everywhere by name. \"Dragon of Legend\" (hidden, 2.9%) was placed with the end-game goals by name; in the Kiwami 2 schema an achievement with the same name means finishing on Legend mode, but this schema gives no description. \"Amon Defeated\" also sits there. The other hidden ones (\"You'll Only Get Burned\", \"That's a Man!\", \"Sonic Right Hook\", \"An Answer Owed\", \"Kidney Stones\", \"A Bad Business\", \"She's Worth It?\", \"Death By Climax\", \"Mister Master\") have low unlock rates and are probably side goals, but nothing says what they are, so they sit in the main story chapter as placeholders."
+}

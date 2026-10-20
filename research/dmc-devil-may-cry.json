@@ -1,0 +1,567 @@
+{
+  "id": "dmc-devil-may-cry",
+  "title": "DmC: Devil May Cry",
+  "year": 2013,
+  "platforms": [
+    "PlayStation 3",
+    "PC",
+    "Xbox One",
+    "PlayStation 4",
+    "Xbox 360"
+  ],
+  "rawgId": 18241,
+  "rawgSlug": "dmc",
+  "released": "2013-01-15",
+  "developers": [
+    "Ninja Theory"
+  ],
+  "playtime": 6,
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Full controller support",
+    "Steam Cloud",
+    "Atmospheric",
+    "steam-trading-cards",
+    "Great Soundtrack",
+    "Story Rich",
+    "Third Person",
+    "Fantasy",
+    "Gore",
+    "Steam Leaderboards"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/295/295eb868c241e6ad32ac033b8e6a2ede.jpg",
+  "steamAppId": 220440,
+  "achievements": {
+    "total": 58,
+    "hidden": 0,
+    "examples": [
+      {
+        "name": "Time to go to work guys!",
+        "percent": 84.0
+      },
+      {
+        "name": "Come on Puppy. Let's go!",
+        "percent": 81.6
+      },
+      {
+        "name": "It's got to stay in the family",
+        "percent": 74.1
+      },
+      {
+        "name": "And welcome to Hell!",
+        "percent": 2.5
+      },
+      {
+        "name": "Jackpot!",
+        "percent": 2.5
+      },
+      {
+        "name": "This is the power of Sparda!",
+        "percent": 2.5
+      },
+      {
+        "name": "I'll try it your way for once",
+        "percent": 2.4
+      },
+      {
+        "name": "You're not worthy as my opponent",
+        "percent": 2.2
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": false,
+      "pages": 0,
+      "reason": "No page for DmC: Devil May Cry (MediaWiki API returned missing; search empty)"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 241,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://devilmaycry.fandom.com/wiki/DmC:_Devil_May_Cry"
+    }
+  },
+  "game": {
+    "id": "dmc-devil-may-cry",
+    "title": "DmC: Devil May Cry",
+    "platforms": [
+      "PlayStation 3",
+      "PC",
+      "Xbox One",
+      "PlayStation 4",
+      "Xbox 360"
+    ],
+    "blurb": "Hack-and-slash action game that reboots the Devil May Cry series, from Ninja Theory, released 2013-01-15. RAWG average playtime: 6 hours. Genres: Action, Adventure. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#C8102E",
+    "chapters": [
+      {
+        "id": "main-story",
+        "title": "The Main Story",
+        "summary": "Dante's missions, from shaking off your pursuer to the Tyrant, Phineas, the Vault and the final showdown with Mundus.",
+        "steps": []
+      },
+      {
+        "id": "weapons-and-upgrades",
+        "title": "Weapons, Abilities and Upgrades",
+        "summary": "Picking up Arbiter, Osiris, Eryx, Aquila, Revenant and Kablooey, Angel Boost and Devil Trigger, and spending Red Orbs on upgrades.",
+        "steps": []
+      },
+      {
+        "id": "secrets",
+        "title": "Keys, Secret Doors, Lost Souls and Secret Missions",
+        "summary": "Finding every Key and Secret Door, freeing the Lost Souls, the Secret Missions and 100% completion of every mission.",
+        "steps": []
+      },
+      {
+        "id": "mission-challenges",
+        "title": "Mission Challenges",
+        "summary": "No-damage and against-the-clock runs, the Furnace of Souls, and the special goals on Missions 1, 6 and 16.",
+        "steps": []
+      },
+      {
+        "id": "difficulty",
+        "title": "Harder Difficulties",
+        "summary": "Finishing every mission on Son of Sparda, Dante Must Die, Heaven or Hell, Hell and Hell, and Nephilim with an SSS rank.",
+        "steps": []
+      },
+      {
+        "id": "vergils-downfall",
+        "title": "Vergil's Downfall",
+        "summary": "The Vergil's Downfall campaign, its upgrades, 100% completion and its own difficulty runs.",
+        "steps": []
+      },
+      {
+        "id": "combat",
+        "title": "Combat and Style",
+        "summary": "Demon kill counts, weapon-only kills, SSS style ranks, Style Bonuses and special enemies such as Wisps and Imprisoners.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Time to go to work guys!",
+        "kind": "trophy",
+        "chapterId": "weapons-and-upgrades",
+        "where": "Purchase your first upgrade"
+      },
+      {
+        "id": "achievement-2",
+        "name": "Come on Puppy. Let's go!",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Defeat your pursuer"
+      },
+      {
+        "id": "achievement-3",
+        "name": "It's got to stay in the family",
+        "kind": "trophy",
+        "chapterId": "weapons-and-upgrades",
+        "where": "Acquire Arbiter"
+      },
+      {
+        "id": "achievement-4",
+        "name": "Thing drives me crazy",
+        "kind": "trophy",
+        "chapterId": "weapons-and-upgrades",
+        "where": "Acquire Osiris"
+      },
+      {
+        "id": "achievement-5",
+        "name": "Only kind of gift worth giving",
+        "kind": "trophy",
+        "chapterId": "weapons-and-upgrades",
+        "where": "Acquire the Angel Boost ability"
+      },
+      {
+        "id": "achievement-6",
+        "name": "Flock off, feather-face!",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Survive the encounter with the Tyrant"
+      },
+      {
+        "id": "achievement-7",
+        "name": "This baby sure can pack a punch",
+        "kind": "trophy",
+        "chapterId": "weapons-and-upgrades",
+        "where": "Acquire Eryx"
+      },
+      {
+        "id": "achievement-8",
+        "name": "He's a demon too",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Help Phineas retrieve his eye"
+      },
+      {
+        "id": "achievement-9",
+        "name": "You are not a Human, are you?",
+        "kind": "trophy",
+        "chapterId": "weapons-and-upgrades",
+        "where": "Acquire the Devil Trigger ability"
+      },
+      {
+        "id": "achievement-10",
+        "name": "No talking!",
+        "kind": "trophy",
+        "chapterId": "weapons-and-upgrades",
+        "where": "Acquire Aquila"
+      },
+      {
+        "id": "achievement-11",
+        "name": "More than just a few sparks",
+        "kind": "trophy",
+        "chapterId": "weapons-and-upgrades",
+        "where": "Acquire Revenant"
+      },
+      {
+        "id": "achievement-12",
+        "name": "Whatever, Lady",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Defeat Mundus' spawn"
+      },
+      {
+        "id": "achievement-13",
+        "name": "You're not going to shoot me",
+        "kind": "trophy",
+        "chapterId": "weapons-and-upgrades",
+        "where": "Acquire Kablooey"
+      },
+      {
+        "id": "achievement-14",
+        "name": "It's time to finish this!",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Help Vergil open the Vault"
+      },
+      {
+        "id": "achievement-15",
+        "name": "Cleaning up his Dad's mess",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Defeat Mundus"
+      },
+      {
+        "id": "achievement-16",
+        "name": "The end? Don't bet on it",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Complete the final mission on Human, Devil Hunter or Nephilim difficulty"
+      },
+      {
+        "id": "achievement-17",
+        "name": "Looks like it's your lucky day",
+        "kind": "trophy",
+        "chapterId": "mission-challenges",
+        "where": "Complete a level without taking any damage"
+      },
+      {
+        "id": "achievement-18",
+        "name": "Every hero has a weakness",
+        "kind": "trophy",
+        "chapterId": "mission-challenges",
+        "where": "Complete Furnace of Souls without taking damage from the furnace"
+      },
+      {
+        "id": "achievement-19",
+        "name": "It's only the rain",
+        "kind": "trophy",
+        "chapterId": "mission-challenges",
+        "where": "Kill 10 enemies by pushing them into the Hurricane ride on Mission 1"
+      },
+      {
+        "id": "achievement-20",
+        "name": "A man with guts and honor",
+        "kind": "trophy",
+        "chapterId": "mission-challenges",
+        "where": "Reach the end of the descent on Mission 6 having killed all of the enemies"
+      },
+      {
+        "id": "achievement-21",
+        "name": "Now my coat's all charred",
+        "kind": "trophy",
+        "chapterId": "mission-challenges",
+        "where": "Navigate the Sky Bridge on Mission 16 without hitting the lasers"
+      },
+      {
+        "id": "achievement-22",
+        "name": "Where does the time go?",
+        "kind": "trophy",
+        "chapterId": "mission-challenges",
+        "where": "Complete a level with 2 minutes or less on the clock"
+      },
+      {
+        "id": "achievement-23",
+        "name": "For Tony Redgrave",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Kill 50 enemies using nothing but firearms"
+      },
+      {
+        "id": "achievement-24",
+        "name": "In the name of my father",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Kill 100 enemies using nothing but Demon weapons"
+      },
+      {
+        "id": "achievement-25",
+        "name": "You'll never have her fire",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Kill 100 enemies using nothing but Angel weapons"
+      },
+      {
+        "id": "achievement-26",
+        "name": "Impressive",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Slay 100 Demons"
+      },
+      {
+        "id": "achievement-27",
+        "name": "Bring it on!",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Slay 1,000 Demons"
+      },
+      {
+        "id": "achievement-28",
+        "name": "Looks like we have a winner",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Slay 5,000 Demons"
+      },
+      {
+        "id": "achievement-29",
+        "name": "Sensational!",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Gain a SSS Style Rank during combat"
+      },
+      {
+        "id": "achievement-30",
+        "name": "It's showtime. Come on!",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Earn 1,500 Style Bonuses"
+      },
+      {
+        "id": "achievement-31",
+        "name": "This is my kind of rain",
+        "kind": "trophy",
+        "chapterId": "weapons-and-upgrades",
+        "where": "Spend 10,000 Red Orbs"
+      },
+      {
+        "id": "achievement-32",
+        "name": "Absolutely crazy about it",
+        "kind": "trophy",
+        "chapterId": "weapons-and-upgrades",
+        "where": "Spend 50,000 Red Orbs"
+      },
+      {
+        "id": "achievement-33",
+        "name": "Let's rock, baby!",
+        "kind": "trophy",
+        "chapterId": "weapons-and-upgrades",
+        "where": "Upgrade Dante's health to maximum"
+      },
+      {
+        "id": "achievement-34",
+        "name": "You can't handle it",
+        "kind": "trophy",
+        "chapterId": "weapons-and-upgrades",
+        "where": "Upgrade Dante's Devil Trigger to maximum"
+      },
+      {
+        "id": "achievement-35",
+        "name": "Power... Give me more power!",
+        "kind": "trophy",
+        "chapterId": "weapons-and-upgrades",
+        "where": "Purchase all of Dante's combat upgrades"
+      },
+      {
+        "id": "achievement-36",
+        "name": "Dude, the show's over!",
+        "kind": "trophy",
+        "chapterId": "secrets",
+        "where": "Find all of the Keys"
+      },
+      {
+        "id": "achievement-37",
+        "name": "Let's welcome chaos!",
+        "kind": "trophy",
+        "chapterId": "secrets",
+        "where": "Open all of the Secret Doors"
+      },
+      {
+        "id": "achievement-38",
+        "name": "And you are set free",
+        "kind": "trophy",
+        "chapterId": "secrets",
+        "where": "Free half of the Lost Souls"
+      },
+      {
+        "id": "achievement-39",
+        "name": "Fill your dark soul with light",
+        "kind": "trophy",
+        "chapterId": "secrets",
+        "where": "Free all of the Lost Souls"
+      },
+      {
+        "id": "achievement-40",
+        "name": "Keeps getting better and better",
+        "kind": "trophy",
+        "chapterId": "secrets",
+        "where": "Gain a 100% completion rank on all missions (difficulty doesn't matter)"
+      },
+      {
+        "id": "achievement-41",
+        "name": "Stylish!",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Complete a mission with a SSS rank"
+      },
+      {
+        "id": "achievement-42",
+        "name": "Too easy!",
+        "kind": "trophy",
+        "chapterId": "difficulty",
+        "where": "Complete all missions on the Son of Sparda difficulty"
+      },
+      {
+        "id": "achievement-43",
+        "name": "Devils never cry",
+        "kind": "trophy",
+        "chapterId": "difficulty",
+        "where": "Complete all missions on the Dante Must Die difficulty"
+      },
+      {
+        "id": "achievement-44",
+        "name": "This is what I live for!",
+        "kind": "trophy",
+        "chapterId": "difficulty",
+        "where": "Complete all missions on the Heaven or Hell difficulty"
+      },
+      {
+        "id": "achievement-45",
+        "name": "And welcome to Hell!",
+        "kind": "trophy",
+        "chapterId": "difficulty",
+        "where": "Complete all missions on the Hell and Hell difficulty"
+      },
+      {
+        "id": "achievement-46",
+        "name": "Jackpot!",
+        "kind": "trophy",
+        "chapterId": "difficulty",
+        "where": "Complete all missions on the Nephilim difficulty with a SSS rank"
+      },
+      {
+        "id": "achievement-47",
+        "name": "This party's just getting crazy!",
+        "kind": "trophy",
+        "chapterId": "secrets",
+        "where": "Complete 10 Secret Missions"
+      },
+      {
+        "id": "achievement-48",
+        "name": "One hell of a party!",
+        "kind": "trophy",
+        "chapterId": "secrets",
+        "where": "Complete all of the Secret Missions"
+      },
+      {
+        "id": "achievement-49",
+        "name": "We have an uninvited guest",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Defeat a Wisp"
+      },
+      {
+        "id": "achievement-50",
+        "name": "You don't belong here",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Defeat an Imprisoner"
+      },
+      {
+        "id": "achievement-51",
+        "name": "Our souls are at odds brother",
+        "kind": "trophy",
+        "chapterId": "vergils-downfall",
+        "where": "Complete Vergil's downfall"
+      },
+      {
+        "id": "achievement-52",
+        "name": "I've come to retrieve my power",
+        "kind": "trophy",
+        "chapterId": "vergils-downfall",
+        "where": "Acquire all of Vergil's health, Devil trigger and combat upgrades"
+      },
+      {
+        "id": "achievement-53",
+        "name": "Might controls everything",
+        "kind": "trophy",
+        "chapterId": "vergils-downfall",
+        "where": "Gain a 100% completion rank on all missions in Vergil's downfall (difficulty doesn't matter)"
+      },
+      {
+        "id": "achievement-54",
+        "name": "I'll try it your way for once",
+        "kind": "trophy",
+        "chapterId": "vergils-downfall",
+        "where": "Complete all missions in Vergil's downfall on the Nephilim difficulty with a SSS rank"
+      },
+      {
+        "id": "achievement-55",
+        "name": "I need more power!",
+        "kind": "trophy",
+        "chapterId": "vergils-downfall",
+        "where": "Complete Vergil's downfall on Son of Sparda difficulty"
+      },
+      {
+        "id": "achievement-56",
+        "name": "This is the power of Sparda!",
+        "kind": "trophy",
+        "chapterId": "vergils-downfall",
+        "where": "Complete Vergil's downfall on Vergil Must Die difficulty"
+      },
+      {
+        "id": "achievement-57",
+        "name": "Now I'm a little motivated!",
+        "kind": "trophy",
+        "chapterId": "vergils-downfall",
+        "where": "Complete Vergil's downfall on Heaven or Hell difficulty"
+      },
+      {
+        "id": "achievement-58",
+        "name": "You're not worthy as my opponent",
+        "kind": "trophy",
+        "chapterId": "vergils-downfall",
+        "where": "Complete Vergil's downfall on Hell and Hell difficulty"
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/dmc",
+    "Achievement data from Steam (Steam Web API, app 220440)",
+    "StrategyWiki: no page for this game, nothing used",
+    "Fandom (devilmaycry.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://devilmaycry.fandom.com/wiki/DmC:_Devil_May_Cry"
+  ],
+  "route": "original",
+  "notes": "Backlog game, picked from RAWG's most-added list for its year (docs/PLAN.md section 2 ordering). No StrategyWiki page under \"DmC: Devil May Cry\" or \"DmC Devil May Cry\". devilmaycry.fandom.com answers the API, with about 241 linked pages, including \"Dante (DmC)\", \"Arbiter\", \"Aquila\" and \"Bloody Palace\"; names only were looked at, nothing copied. The Steam schema calls the app \"ValveTestApp220440\" (a placeholder name); the store list confirms app 220440 as \"DmC: Devil May Cry\". The Steam app list has no separate Definitive Edition app; RAWG lists \"DmC: Devil May Cry: Definitive Edition\" (2015) as its own entry, and the base entry \"dmc\" was used. None of the 58 Steam achievements is hidden. Achievements 51 to 58 are for \"Vergil's downfall\", which RAWG also lists as its own entry (\"DmC: Devil May Cry - Vergil's Downfall\"), so they have their own chapter. RAWG's description names the developer as \"Team Ninja\", but its developer field says Ninja Theory; the developer field was used. RAWG lists a playtime of only 6 hours."
+}

@@ -1,0 +1,660 @@
+{
+  "id": "ryse-son-of-rome",
+  "title": "Ryse: Son of Rome",
+  "year": 2013,
+  "platforms": [
+    "Xbox One",
+    "PC"
+  ],
+  "rawgId": 17803,
+  "rawgSlug": "ryse-son-of-rome",
+  "released": "2013-11-22",
+  "developers": [
+    "Crytek"
+  ],
+  "playtime": 6,
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Multiplayer",
+    "Full controller support",
+    "Atmospheric",
+    "RPG",
+    "Co-op",
+    "Open World",
+    "cooperative",
+    "Third Person",
+    "Fantasy",
+    "Gore",
+    "stats"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/736/736c0eaec96d848d7824b33298a182f2.jpg",
+  "steamAppId": 302510,
+  "achievements": {
+    "total": 73,
+    "hidden": 11,
+    "examples": [
+      {
+        "name": "First Blood",
+        "percent": 94.7
+      },
+      {
+        "name": "Give Caesar What Is His",
+        "percent": 84.1
+      },
+      {
+        "name": "I Have A Story To Tell",
+        "percent": 81.9
+      },
+      {
+        "name": "Photo Album",
+        "percent": 2.0
+      },
+      {
+        "name": "Finders Keepers",
+        "percent": 2.0
+      },
+      {
+        "name": "Colosseum Warrior",
+        "percent": 1.8
+      },
+      {
+        "name": "This Is My Island",
+        "percent": 1.7
+      },
+      {
+        "name": "A Walk In The Park",
+        "percent": 1.5
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": false,
+      "pages": 0,
+      "reason": "No page for Ryse: Son of Rome (MediaWiki API returned missing; search empty)"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 27,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://rysesonofrome.fandom.com/wiki/Ryse:_Son_of_Rome"
+    }
+  },
+  "game": {
+    "id": "ryse-son-of-rome",
+    "title": "Ryse: Son of Rome",
+    "platforms": [
+      "Xbox One",
+      "PC"
+    ],
+    "blurb": "Third-person melee action game set in Rome and Britannia, from Crytek, released 2013-11-22. RAWG average playtime: 6 hours. Genres: Action, Adventure. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#A8322D",
+    "chapters": [
+      {
+        "id": "campaign",
+        "title": "The Campaign",
+        "summary": "Marius Titus's story across eight levels, from The Beginning and S.P.Q.R. to The Son Of Rome. Spoiler-guarded where hidden.",
+        "steps": []
+      },
+      {
+        "id": "legendary",
+        "title": "Legendary and Harder Difficulties",
+        "summary": "Every level on Legendary, and finishing the game on Soldier and Centurion difficulty.",
+        "steps": []
+      },
+      {
+        "id": "collectibles",
+        "title": "Vistas, Scrolls and Chronicles",
+        "summary": "Finding every Vista, Scroll and Chronicle, and completing a comic book in a level.",
+        "steps": []
+      },
+      {
+        "id": "colosseum",
+        "title": "Colosseum Multiplayer",
+        "summary": "Co-op Colosseum campaigns, ranks, Rewards of the Gods, item tiers and the arena maps.",
+        "steps": []
+      },
+      {
+        "id": "survival",
+        "title": "Survival Mode",
+        "summary": "Surviving seven minutes in Courtyard, Firestorm and Dockyard, and a round on Island.",
+        "steps": []
+      },
+      {
+        "id": "executions-and-combat",
+        "title": "Executions, Combos and Upgrades",
+        "summary": "Execution counts, environmental executions, damage-free combo streaks and buying upgrades.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "First Blood",
+        "kind": "trophy",
+        "chapterId": "executions-and-combat",
+        "where": "Perform Your First Combat Execution."
+      },
+      {
+        "id": "achievement-2",
+        "name": "Head Executioner",
+        "kind": "trophy",
+        "chapterId": "executions-and-combat",
+        "where": "Perform 100 Executions In Any Game Mode."
+      },
+      {
+        "id": "achievement-3",
+        "name": "Double-Down",
+        "kind": "trophy",
+        "chapterId": "executions-and-combat",
+        "where": "Perform 50 Double Executions In Any Game Mode."
+      },
+      {
+        "id": "achievement-4",
+        "name": "Time To Fly",
+        "kind": "trophy",
+        "chapterId": "executions-and-combat",
+        "where": "Perform Your First Environmental Execution."
+      },
+      {
+        "id": "achievement-5",
+        "name": "Medium Rare",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-6",
+        "name": "Brothers In Arms",
+        "kind": "trophy",
+        "chapterId": "colosseum",
+        "where": "Perform A Co-op Execution."
+      },
+      {
+        "id": "achievement-7",
+        "name": "Comboing My Way Through",
+        "kind": "trophy",
+        "chapterId": "executions-and-combat",
+        "where": "Defeat 10 Enemies In A Row Without Sustaining Any Damage."
+      },
+      {
+        "id": "achievement-8",
+        "name": "Monstrum Combo",
+        "kind": "trophy",
+        "chapterId": "executions-and-combat",
+        "where": "Defeat 25 Enemies In A Row Without Sustaining Damage."
+      },
+      {
+        "id": "achievement-9",
+        "name": "There's No Such Thing As Luck",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-10",
+        "name": "Step Right This Way!",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-11",
+        "name": "To Protect And To Serve",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-12",
+        "name": "Forever Lost",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-13",
+        "name": "Who's That Girl",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-14",
+        "name": "The Bigger They Are ...",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-15",
+        "name": "Inner Demons",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-16",
+        "name": "From The Dead",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-17",
+        "name": "Never Give Up, Never Surrender",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-18",
+        "name": "Not My Type After All",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-19",
+        "name": "I Have A Story To Tell",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Complete The Beginning On Any Difficulty."
+      },
+      {
+        "id": "achievement-20",
+        "name": "I Will Avenge You, Father",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Complete S.P.Q.R. On Any Difficulty."
+      },
+      {
+        "id": "achievement-21",
+        "name": "Saving Private Marius",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Complete Trial By Fire On Any Difficulty."
+      },
+      {
+        "id": "achievement-22",
+        "name": "Trouble In Sherwood Forest",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Complete The King On Any Difficulty."
+      },
+      {
+        "id": "achievement-23",
+        "name": "Heart Of Darkness",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Complete Edge Of The World On Any Difficulty."
+      },
+      {
+        "id": "achievement-24",
+        "name": "Siege Me If You Can",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Complete Pax Romanum On Any Difficulty."
+      },
+      {
+        "id": "achievement-25",
+        "name": "Ave, Caesar",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Complete The Wrath Of Nemesis On Any Difficulty."
+      },
+      {
+        "id": "achievement-26",
+        "name": "Settling Old Debts",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Complete The Son Of Rome On Any Difficulty."
+      },
+      {
+        "id": "achievement-27",
+        "name": "I Have A Story To Tell (Legendary)",
+        "kind": "trophy",
+        "chapterId": "legendary",
+        "where": "Complete The Beginning On Legendary Difficulty."
+      },
+      {
+        "id": "achievement-28",
+        "name": "I Will Avenge You, Father (Legendary)",
+        "kind": "trophy",
+        "chapterId": "legendary",
+        "where": "Complete S.P.Q.R. On Legendary Difficulty."
+      },
+      {
+        "id": "achievement-29",
+        "name": "Saving Private Marius (Legendary)",
+        "kind": "trophy",
+        "chapterId": "legendary",
+        "where": "Complete Trial By Fire On Legendary Difficulty."
+      },
+      {
+        "id": "achievement-30",
+        "name": "Trouble In Sherwood Forest (Legendary)",
+        "kind": "trophy",
+        "chapterId": "legendary",
+        "where": "Complete The King On Legendary Difficulty."
+      },
+      {
+        "id": "achievement-31",
+        "name": "Heart Of Darkness (Legendary)",
+        "kind": "trophy",
+        "chapterId": "legendary",
+        "where": "Complete Edge Of The World Legendary Any Difficulty."
+      },
+      {
+        "id": "achievement-32",
+        "name": "Siege Me If You Can (Legendary)",
+        "kind": "trophy",
+        "chapterId": "legendary",
+        "where": "Complete Pax Romanum On Legendary Difficulty."
+      },
+      {
+        "id": "achievement-33",
+        "name": "Ave, Caesar (Legendary)",
+        "kind": "trophy",
+        "chapterId": "legendary",
+        "where": "Complete The Wrath of Nemesis On Legendary Difficulty."
+      },
+      {
+        "id": "achievement-34",
+        "name": "Settling Old Debts (Legendary)",
+        "kind": "trophy",
+        "chapterId": "legendary",
+        "where": "Complete The Son Of Rome On Legendary Difficulty."
+      },
+      {
+        "id": "achievement-35",
+        "name": "Veni, Vidi, Vici",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Complete The Game on Any Difficulty."
+      },
+      {
+        "id": "achievement-36",
+        "name": "My Empire Of Dirt",
+        "kind": "trophy",
+        "chapterId": "legendary",
+        "where": "Complete The Game On Soldier Difficulty."
+      },
+      {
+        "id": "achievement-37",
+        "name": "Bad To The Bone",
+        "kind": "trophy",
+        "chapterId": "legendary",
+        "where": "Complete The Game On Centurion Difficulty."
+      },
+      {
+        "id": "achievement-38",
+        "name": "Been There, Done That",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Replay Any Single Player Level."
+      },
+      {
+        "id": "achievement-39",
+        "name": "Roman Tourist",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Collect Your First Vista."
+      },
+      {
+        "id": "achievement-40",
+        "name": "Photo Album",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Collect All The Vistas."
+      },
+      {
+        "id": "achievement-41",
+        "name": "Letters From The Front",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Collect One Scroll."
+      },
+      {
+        "id": "achievement-42",
+        "name": "Ancient Scholar",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Collect All The Scrolls."
+      },
+      {
+        "id": "achievement-43",
+        "name": "Something I Found On The Way To The Forum",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Collect One Chronicle."
+      },
+      {
+        "id": "achievement-44",
+        "name": "Finders Keepers",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Collect All The Chronicles."
+      },
+      {
+        "id": "achievement-45",
+        "name": "Avid Reader",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Complete A Comic Book By Collecting 6 Chronicles In A Level."
+      },
+      {
+        "id": "achievement-46",
+        "name": "Give Caesar What Is His",
+        "kind": "trophy",
+        "chapterId": "executions-and-combat",
+        "where": "Purchase And Use An Upgrade In Combat."
+      },
+      {
+        "id": "achievement-47",
+        "name": "Marketer",
+        "kind": "trophy",
+        "chapterId": "executions-and-combat",
+        "where": "Get In Combat With All Executions And Upgrades Purchased."
+      },
+      {
+        "id": "achievement-48",
+        "name": "Colosseum Recruit",
+        "kind": "trophy",
+        "chapterId": "colosseum",
+        "where": "Complete Your First Multiplayer Campaign."
+      },
+      {
+        "id": "achievement-49",
+        "name": "Colosseum Veteran",
+        "kind": "trophy",
+        "chapterId": "colosseum",
+        "where": "Complete 20 Multiplayer Campaigns."
+      },
+      {
+        "id": "achievement-50",
+        "name": "Colosseum Warrior",
+        "kind": "trophy",
+        "chapterId": "colosseum",
+        "where": "Fight On Each Multiplayer Arena Environment."
+      },
+      {
+        "id": "achievement-51",
+        "name": "It's Just A Flesh Wound",
+        "kind": "trophy",
+        "chapterId": "colosseum",
+        "where": "Revive Another Player 3 Times."
+      },
+      {
+        "id": "achievement-52",
+        "name": "Bloody Centurion",
+        "kind": "trophy",
+        "chapterId": "colosseum",
+        "where": "Defeat 100 Enemies In Multiplayer."
+      },
+      {
+        "id": "achievement-53",
+        "name": "Simply The Best",
+        "kind": "trophy",
+        "chapterId": "colosseum",
+        "where": "Achieve Rank 100 In Multiplayer."
+      },
+      {
+        "id": "achievement-54",
+        "name": "Grace Of The Gods",
+        "kind": "trophy",
+        "chapterId": "colosseum",
+        "where": "Unlock The First Reward Of The Gods."
+      },
+      {
+        "id": "achievement-55",
+        "name": "Champion Of The Gods",
+        "kind": "trophy",
+        "chapterId": "colosseum",
+        "where": "Unlock All The Rewards Of The Gods."
+      },
+      {
+        "id": "achievement-56",
+        "name": "Only The Finest",
+        "kind": "trophy",
+        "chapterId": "colosseum",
+        "where": "Equip Your First Rare Item In Multiplayer."
+      },
+      {
+        "id": "achievement-57",
+        "name": "Say Hello To My Little Friend!",
+        "kind": "trophy",
+        "chapterId": "colosseum",
+        "where": "Equip Your First Tier 2 Item In Multiplayer."
+      },
+      {
+        "id": "achievement-58",
+        "name": "Son Of Vulcan",
+        "kind": "trophy",
+        "chapterId": "colosseum",
+        "where": "Equip Your First Tier 5 Item In Multiplayer."
+      },
+      {
+        "id": "achievement-59",
+        "name": "We'll Never Survive",
+        "kind": "trophy",
+        "chapterId": "survival",
+        "where": "Play A Round Of Survival Mode."
+      },
+      {
+        "id": "achievement-60",
+        "name": "Big Bling",
+        "kind": "trophy",
+        "chapterId": "colosseum",
+        "where": "Equip Your First Tier 6 Item In Multiplayer."
+      },
+      {
+        "id": "achievement-61",
+        "name": "You Were In Terrible Peril",
+        "kind": "trophy",
+        "chapterId": "survival",
+        "where": "Survive For 7 Minutes In Courtyard (Survival Mode)."
+      },
+      {
+        "id": "achievement-62",
+        "name": "No, It's Too Perilous",
+        "kind": "trophy",
+        "chapterId": "survival",
+        "where": "Survive For 7 Minutes In Firestorm (Survival Mode)."
+      },
+      {
+        "id": "achievement-63",
+        "name": "Oh, Let Me Have A Little Bit Of Peril?",
+        "kind": "trophy",
+        "chapterId": "survival",
+        "where": "Survive For 7 Minutes In Dockyard (Survival Mode)."
+      },
+      {
+        "id": "achievement-64",
+        "name": "Best Of The Best",
+        "kind": "trophy",
+        "chapterId": "colosseum",
+        "where": "Achieve Rank 150 In Multiplayer."
+      },
+      {
+        "id": "achievement-65",
+        "name": "This Is My Island",
+        "kind": "trophy",
+        "chapterId": "colosseum",
+        "where": "Perform 30 Environmental Executions On Island."
+      },
+      {
+        "id": "achievement-66",
+        "name": "Build A Bridge Out Of Her",
+        "kind": "trophy",
+        "chapterId": "colosseum",
+        "where": "Complete Invictus."
+      },
+      {
+        "id": "achievement-67",
+        "name": "Uh, He's Already Got One, You See",
+        "kind": "trophy",
+        "chapterId": "colosseum",
+        "where": "Complete Barbarous."
+      },
+      {
+        "id": "achievement-68",
+        "name": "Survivor",
+        "kind": "trophy",
+        "chapterId": "survival",
+        "where": "Play A Round Of Survival On Island."
+      },
+      {
+        "id": "achievement-69",
+        "name": "You Shall Put No Other Gods Before Me!",
+        "kind": "trophy",
+        "chapterId": "colosseum",
+        "where": "Complete False Gods."
+      },
+      {
+        "id": "achievement-70",
+        "name": "Mmmm, Beacon",
+        "kind": "trophy",
+        "chapterId": "colosseum",
+        "where": "Complete Beacon."
+      },
+      {
+        "id": "achievement-71",
+        "name": "A Walk In The Park",
+        "kind": "trophy",
+        "chapterId": "colosseum",
+        "where": "Perform 30 Environmental Executions In Forbidden Forest."
+      },
+      {
+        "id": "achievement-72",
+        "name": "Master Of The Colosseum",
+        "kind": "trophy",
+        "chapterId": "colosseum",
+        "where": "Achieve Rank 200 In Multiplayer."
+      },
+      {
+        "id": "achievement-73",
+        "name": "Trueblood",
+        "kind": "trophy",
+        "chapterId": "colosseum",
+        "where": "Perform 1000 Executions In Multiplayer."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/ryse-son-of-rome",
+    "Achievement data from Steam (Steam Web API, app 302510)",
+    "StrategyWiki: no page for this game, nothing used",
+    "Fandom (rysesonofrome.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://rysesonofrome.fandom.com/wiki/Ryse:_Son_of_Rome"
+  ],
+  "route": "original",
+  "notes": "Backlog game, picked from RAWG's most-added list for its year (docs/PLAN.md section 2 ordering). No StrategyWiki page under \"Ryse: Son of Rome\" or \"Ryse\". ryse.fandom.com does not exist (HTTP 404); rysesonofrome.fandom.com answers the API with a \"Ryse: Son of Rome\" page of about 27 linked pages, including \"Marius Titus\", \"Nero\", \"Boudica\", \"Britannia\" and \"XIV Legion\"; names only were looked at, nothing copied. 11 of 73 Steam achievements are hidden, with no descriptions; they sit in the campaign chapter as a placeholder, though some (for example \"Medium Rare\", \"There's No Such Thing As Luck\" and \"Step Right This Way!\") may be combat feats. \"Complete Invictus\", \"Complete Barbarous\", \"Complete False Gods\" and \"Complete Beacon\" do not say what they are; they sit among the multiplayer achievements in the schema and have low unlock rates (5 to 6%), so they were put in the Colosseum chapter, which is a judgement call. The summary's hero name comes from the Fandom page \"Marius Titus\" and the achievement \"Saving Private Marius\". RAWG lists a playtime of only 6 hours."
+}

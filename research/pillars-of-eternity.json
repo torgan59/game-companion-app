@@ -1,0 +1,492 @@
+{
+  "id": "pillars-of-eternity",
+  "title": "Pillars of Eternity",
+  "year": 2015,
+  "platforms": [
+    "PlayStation 4",
+    "Xbox One",
+    "macOS",
+    "PC",
+    "Linux"
+  ],
+  "rawgId": 15829,
+  "rawgSlug": "pillars-of-eternity",
+  "released": "2015-03-26",
+  "developers": [
+    "Obsidian Entertainment"
+  ],
+  "playtime": 9,
+  "genres": [
+    "RPG"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Steam Cloud",
+    "Atmospheric",
+    "steam-trading-cards",
+    "Great Soundtrack",
+    "RPG",
+    "Story Rich",
+    "Open World",
+    "Fantasy",
+    "Exploration",
+    "Classic"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/789/7896837ec22a83e4007018ddd55e8c9a.jpg",
+  "steamAppId": 291650,
+  "achievements": {
+    "total": 48,
+    "hidden": 0,
+    "examples": [
+      {
+        "name": "Completed Act I",
+        "percent": 46.5
+      },
+      {
+        "name": "Make an Adventurer",
+        "percent": 41.5
+      },
+      {
+        "name": "5 Upgrades in Stronghold",
+        "percent": 41.4
+      },
+      {
+        "name": "No Rest for the Pro",
+        "percent": 0.4
+      },
+      {
+        "name": "Frozen Crown",
+        "percent": 0.4
+      },
+      {
+        "name": "Relative Pacifism",
+        "percent": 0.3
+      },
+      {
+        "name": "Frozen Crown Solo",
+        "percent": 0.3
+      },
+      {
+        "name": "The Ultimate",
+        "percent": 0.3
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Pillars_of_Eternity",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 46,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://pillarsofeternity.fandom.com/wiki/Pillars_of_Eternity"
+    }
+  },
+  "game": {
+    "id": "pillars-of-eternity",
+    "title": "Pillars of Eternity",
+    "platforms": [
+      "PlayStation 4",
+      "Xbox One",
+      "macOS",
+      "PC",
+      "Linux"
+    ],
+    "blurb": "Party-based, real-time-with-pause fantasy RPG set in the Dyrwood, from Obsidian Entertainment, released 2015-03-26. RAWG average playtime: 9 hours. Genre: RPG. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#2E6E6A",
+    "chapters": [
+      {
+        "id": "main-story",
+        "title": "The Main Story",
+        "summary": "Acts I, II and III and the end of the game.",
+        "steps": []
+      },
+      {
+        "id": "companions-and-world",
+        "title": "Companions, Gods and the World",
+        "summary": "Recruiting companions, the god appeasement quests, visiting every map, dispositions, soulbound weapons and the dragons.",
+        "steps": []
+      },
+      {
+        "id": "stronghold",
+        "title": "Stronghold, Endless Paths and Bounties",
+        "summary": "Stronghold upgrades and adventures, the Adventurer's Hall, the Endless Paths of Od Nua, bounties and defending Caed Nua.",
+        "steps": []
+      },
+      {
+        "id": "crafting",
+        "title": "Crafting and Enchanting",
+        "summary": "Enchantments, food, scrolls, potions and traps.",
+        "steps": []
+      },
+      {
+        "id": "white-march",
+        "title": "The White March",
+        "summary": "The White March content: Durgan's Battery, the White Forge, Crägholdt, new companions and the dragon of the White March.",
+        "steps": []
+      },
+      {
+        "id": "challenge-runs",
+        "title": "Difficulty and Challenge Runs",
+        "summary": "Expert, Trial of Iron and Path of the Damned, solo runs, no knockouts, few rests, low or high kill counts and the Crown goals.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Completed Act I",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "You have completed Act I."
+      },
+      {
+        "id": "achievement-2",
+        "name": "Completed Act II",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "You have completed Act II."
+      },
+      {
+        "id": "achievement-3",
+        "name": "Completed Act III",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "You have completed Act III."
+      },
+      {
+        "id": "achievement-4",
+        "name": "Won the Game!!!",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Congratulations! You have completed the game."
+      },
+      {
+        "id": "achievement-5",
+        "name": "Solo",
+        "kind": "trophy",
+        "chapterId": "challenge-runs",
+        "where": "Complete the game without taking any companions after Cilant Lis."
+      },
+      {
+        "id": "achievement-6",
+        "name": "The Watcher With Eight Friends",
+        "kind": "trophy",
+        "chapterId": "companions-and-world",
+        "where": "Recruit all companions (excluding those in The White March)."
+      },
+      {
+        "id": "achievement-7",
+        "name": "Zero Knockouts",
+        "kind": "trophy",
+        "chapterId": "challenge-runs",
+        "where": "Complete the game without any party members hitting 0 Endurance."
+      },
+      {
+        "id": "achievement-8",
+        "name": "Expert",
+        "kind": "trophy",
+        "chapterId": "challenge-runs",
+        "where": "Complete the game on Expert mode."
+      },
+      {
+        "id": "achievement-9",
+        "name": "Trial of Iron",
+        "kind": "trophy",
+        "chapterId": "challenge-runs",
+        "where": "Complete the game on Trial of Iron mode."
+      },
+      {
+        "id": "achievement-10",
+        "name": "Path of the Damned",
+        "kind": "trophy",
+        "chapterId": "challenge-runs",
+        "where": "Complete the game on Path of the Damned mode."
+      },
+      {
+        "id": "achievement-11",
+        "name": "Triple Crown",
+        "kind": "trophy",
+        "chapterId": "challenge-runs",
+        "where": "Complete the game on Expert, Trial of Iron, and Path of the Damned modes."
+      },
+      {
+        "id": "achievement-12",
+        "name": "Triple Crown SOLO",
+        "kind": "trophy",
+        "chapterId": "challenge-runs",
+        "where": "Complete the game on Expert, Trial of Iron, and Path of the Damned modes without taking any companions after Cilant Lis."
+      },
+      {
+        "id": "achievement-13",
+        "name": "Enchanter",
+        "kind": "trophy",
+        "chapterId": "crafting",
+        "where": "Apply 5 or more different enchantments."
+      },
+      {
+        "id": "achievement-14",
+        "name": "Chef",
+        "kind": "trophy",
+        "chapterId": "crafting",
+        "where": "Create 5 or more different food items."
+      },
+      {
+        "id": "achievement-15",
+        "name": "Scribe",
+        "kind": "trophy",
+        "chapterId": "crafting",
+        "where": "Create 3 or more different scrolls."
+      },
+      {
+        "id": "achievement-16",
+        "name": "Alchemist",
+        "kind": "trophy",
+        "chapterId": "crafting",
+        "where": "Create 3 or more different potions."
+      },
+      {
+        "id": "achievement-17",
+        "name": "Trappy",
+        "kind": "trophy",
+        "chapterId": "crafting",
+        "where": "Place 5 or more trap items."
+      },
+      {
+        "id": "achievement-18",
+        "name": "No Rest for the Pro",
+        "kind": "trophy",
+        "chapterId": "challenge-runs",
+        "where": "Complete the game with fewer than 10 rests."
+      },
+      {
+        "id": "achievement-19",
+        "name": "Relative Pacifism",
+        "kind": "trophy",
+        "chapterId": "challenge-runs",
+        "where": "Complete the game killing fewer than 175 creatures and NPCs."
+      },
+      {
+        "id": "achievement-20",
+        "name": "Super Murderer",
+        "kind": "trophy",
+        "chapterId": "challenge-runs",
+        "where": "Complete the game killing 1200 or more creatures and NPCs."
+      },
+      {
+        "id": "achievement-21",
+        "name": "5 Upgrades in Stronghold",
+        "kind": "trophy",
+        "chapterId": "stronghold",
+        "where": "Complete at least 5 upgrades in the stronghold."
+      },
+      {
+        "id": "achievement-22",
+        "name": "All Upgrades in Stronghold",
+        "kind": "trophy",
+        "chapterId": "stronghold",
+        "where": "Complete all of the upgrades in the stronghold."
+      },
+      {
+        "id": "achievement-23",
+        "name": "Make an Adventurer",
+        "kind": "trophy",
+        "chapterId": "stronghold",
+        "where": "Create and hire an adventurer from the Adventurer's Hall."
+      },
+      {
+        "id": "achievement-24",
+        "name": "From the Clouds to the Depths",
+        "kind": "trophy",
+        "chapterId": "companions-and-world",
+        "where": "Kill the sky dragon and adra dragon."
+      },
+      {
+        "id": "achievement-25",
+        "name": "First 5 Levels of Od Nua",
+        "kind": "trophy",
+        "chapterId": "stronghold",
+        "where": "Complete the first 5 levels of the Endless Paths of Od Nua."
+      },
+      {
+        "id": "achievement-26",
+        "name": "Middle 5 Levels of Od Nua",
+        "kind": "trophy",
+        "chapterId": "stronghold",
+        "where": "Complete the middle 5 levels of the Endless Paths of Od Nua."
+      },
+      {
+        "id": "achievement-27",
+        "name": "Last 5 Levels of Od Nua",
+        "kind": "trophy",
+        "chapterId": "stronghold",
+        "where": "Complete the last 5 levels of the Endless Paths of Od Nua."
+      },
+      {
+        "id": "achievement-28",
+        "name": "Appease All of the Gods",
+        "kind": "trophy",
+        "chapterId": "companions-and-world",
+        "where": "Complete all of the god appeasement quests."
+      },
+      {
+        "id": "achievement-29",
+        "name": "Explorer",
+        "kind": "trophy",
+        "chapterId": "companions-and-world",
+        "where": "Visit every map (excluding those in The White March)."
+      },
+      {
+        "id": "achievement-30",
+        "name": "Disposition",
+        "kind": "trophy",
+        "chapterId": "companions-and-world",
+        "where": "Attain rank 3 in at least three Dispositions."
+      },
+      {
+        "id": "achievement-31",
+        "name": "Kickstarter Backer",
+        "kind": "trophy",
+        "chapterId": "companions-and-world",
+        "where": "Thanks for all of your support!"
+      },
+      {
+        "id": "achievement-32",
+        "name": "Soulbinder",
+        "kind": "trophy",
+        "chapterId": "companions-and-world",
+        "where": "Unlock all the powers of a soulbound weapon."
+      },
+      {
+        "id": "achievement-33",
+        "name": "Bounty Hunter",
+        "kind": "trophy",
+        "chapterId": "stronghold",
+        "where": "Complete at least four bounties offered at the Warden's Lodge or Stalwart."
+      },
+      {
+        "id": "achievement-34",
+        "name": "Fish Guts and Murder",
+        "kind": "trophy",
+        "chapterId": "white-march",
+        "where": "Recruit Zahua and the Devil of Caroc as companions."
+      },
+      {
+        "id": "achievement-35",
+        "name": "Watcher at the Breach",
+        "kind": "trophy",
+        "chapterId": "white-march",
+        "where": "Open the sealed doors of Durgan's Battery."
+      },
+      {
+        "id": "achievement-36",
+        "name": "Herald of the Old Flame",
+        "kind": "trophy",
+        "chapterId": "white-march",
+        "where": "Restart the fabled White Forge."
+      },
+      {
+        "id": "achievement-37",
+        "name": "Terror of the White March",
+        "kind": "trophy",
+        "chapterId": "white-march",
+        "where": "Defeat the dragon that dwells in the White March."
+      },
+      {
+        "id": "achievement-38",
+        "name": "The Siege of Crägholdt",
+        "kind": "trophy",
+        "chapterId": "white-march",
+        "where": "Complete the Siege of Crägholdt quest."
+      },
+      {
+        "id": "achievement-39",
+        "name": "The Storied Adventurer",
+        "kind": "trophy",
+        "chapterId": "stronghold",
+        "where": "Complete a Minor, Average, Major, Grand, and Legendary stronghold adventure."
+      },
+      {
+        "id": "achievement-40",
+        "name": "The Heir of Caed Nua",
+        "kind": "trophy",
+        "chapterId": "stronghold",
+        "where": "Defend your position as the master of Caed Nua."
+      },
+      {
+        "id": "achievement-41",
+        "name": "The Giftbearer",
+        "kind": "trophy",
+        "chapterId": "white-march",
+        "where": "Recruit Maneha as a companion."
+      },
+      {
+        "id": "achievement-42",
+        "name": "Legendary Enchanter",
+        "kind": "trophy",
+        "chapterId": "crafting",
+        "where": "Place the Legendary enchantment on one weapon or shield and one armor."
+      },
+      {
+        "id": "achievement-43",
+        "name": "Among the Moss and Peat",
+        "kind": "trophy",
+        "chapterId": "white-march",
+        "where": "Defeat the menace of Mowrghek Îen."
+      },
+      {
+        "id": "achievement-44",
+        "name": "A Voice from the Deep",
+        "kind": "trophy",
+        "chapterId": "white-march",
+        "where": "Reach the reliquary in the Abbey of the Fallen Moon."
+      },
+      {
+        "id": "achievement-45",
+        "name": "Called to their Labor",
+        "kind": "trophy",
+        "chapterId": "white-march",
+        "where": "Stop the threat you saw in your dreams."
+      },
+      {
+        "id": "achievement-46",
+        "name": "Frozen Crown",
+        "kind": "trophy",
+        "chapterId": "challenge-runs",
+        "where": "Complete the White March and Pillars of Eternity on Expert, Trial of Iron, and Path of the Damned modes."
+      },
+      {
+        "id": "achievement-47",
+        "name": "Frozen Crown Solo",
+        "kind": "trophy",
+        "chapterId": "challenge-runs",
+        "where": "Complete the White March and Pillars of Eternity on Expert, Trial of Iron, and Path of the Damned modes without taking any companions after Cilant Lîs."
+      },
+      {
+        "id": "achievement-48",
+        "name": "The Ultimate",
+        "kind": "trophy",
+        "chapterId": "challenge-runs",
+        "where": "Complete the White March and Pillars of Eternity, defeat all dragons, all bounties, and both archmages on Expert, Trial of Iron, and Path of the Damned modes without taking any companions after Cilant Lîs."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/pillars-of-eternity",
+    "Achievement data from Steam (Steam Web API, app 291650)",
+    "StrategyWiki: no usable walkthrough, nothing used — https://strategywiki.org/wiki/Pillars_of_Eternity",
+    "Fandom (pillarsofeternity.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://pillarsofeternity.fandom.com/wiki/Pillars_of_Eternity"
+  ],
+  "route": "original",
+  "notes": "Backlog game, picked from RAWG's most-added list for its year (docs/PLAN.md section 2 ordering). StrategyWiki has a stub page (completion stage 0); only its \"Table of Contents\" (about 280 characters) exists, linking Gameplay, Controls and Walkthrough, none created, so nothing was used. pillarsofeternity.fandom.com answers the API, with about 46 linked pages, including \"Pillars of Eternity: The White March - Part I\", \"Part II\", \"The Dyrwood\" and \"Eir Glanfath\"; names only were looked at, nothing copied. None of the 48 Steam achievements is hidden. Achievements 34 to 48 come after the base game ones in the schema; those whose text names White March places or people sit in the White March chapter. \"The Storied Adventurer\", \"The Heir of Caed Nua\" and \"Legendary Enchanter\" sit in the same block, so they may belong to The White March too, but their text does not say so; they were placed by theme (stronghold and crafting). The \"Frozen Crown\" and \"The Ultimate\" goals, which need The White March, sit in the challenge runs chapter. Many challenge runs are earned by under 1% of players."
+}

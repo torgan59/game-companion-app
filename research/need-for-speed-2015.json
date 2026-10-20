@@ -1,0 +1,472 @@
+{
+  "id": "need-for-speed-2015",
+  "title": "Need for Speed",
+  "year": 2015,
+  "platforms": [
+    "PlayStation 4",
+    "PC",
+    "Xbox One"
+  ],
+  "rawgId": 3090,
+  "rawgSlug": "need-for-speed",
+  "released": "2015-11-03",
+  "developers": [
+    "Ghost Games"
+  ],
+  "playtime": 4,
+  "genres": [
+    "Racing",
+    "Arcade"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Multiplayer",
+    "Full controller support",
+    "Co-op",
+    "Open World",
+    "cooperative",
+    "First-Person",
+    "Third Person",
+    "Online Co-Op",
+    "PvP",
+    "Online PvP"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/19a/19a512a8c1293c22894b7364e1405ec1.jpg",
+  "steamAppId": 1262540,
+  "achievements": {
+    "total": 45,
+    "hidden": 0,
+    "examples": [
+      {
+        "name": "Home Is Where Your Car Is",
+        "percent": 66.7
+      },
+      {
+        "name": "Building Your stable",
+        "percent": 50.3
+      },
+      {
+        "name": "No Filter",
+        "percent": 46.7
+      },
+      {
+        "name": "Hit The Ceiling",
+        "percent": 2.5
+      },
+      {
+        "name": "Mental Unblock",
+        "percent": 2.1
+      },
+      {
+        "name": "Speed Master",
+        "percent": 1.8
+      },
+      {
+        "name": "Basic Bronze",
+        "percent": 1.6
+      },
+      {
+        "name": "Gold Plated",
+        "percent": 1.3
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": false,
+      "pages": 0,
+      "reason": "No page for Need for Speed (MediaWiki API returned missing; search empty)"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 178,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://nfs.fandom.com/wiki/Need_for_Speed_(2015)"
+    }
+  },
+  "game": {
+    "id": "need-for-speed-2015",
+    "title": "Need for Speed",
+    "platforms": [
+      "PlayStation 4",
+      "PC",
+      "Xbox One"
+    ],
+    "blurb": "Open-world street racing game from Ghost Games, released 2015-11-03. RAWG average playtime: 4 hours. Genres: Racing, Arcade. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#D9531E",
+    "chapters": [
+      {
+        "id": "getting-started",
+        "title": "Getting Started",
+        "summary": "Your garage spot, learning to drive with style, Amy's contacts and buying a second car.",
+        "steps": []
+      },
+      {
+        "id": "speed-and-build",
+        "title": "Speed and Build",
+        "summary": "Meeting Nakai-San and Magnus, and becoming the Build and Speed Icons.",
+        "steps": []
+      },
+      {
+        "id": "style-and-crew",
+        "title": "Style and Crew",
+        "summary": "Ken's Gymkhana, the Style Icon, finding a crew and the Risky Devil drift train.",
+        "steps": []
+      },
+      {
+        "id": "outlaw",
+        "title": "The Outlaw and the Ultimate Icon",
+        "summary": "Chasing the Outlaw, the roadblock challenge, the Outlaw Icon and the Ultimate Icon.",
+        "steps": []
+      },
+      {
+        "id": "icon-cars",
+        "title": "Icon Cars, Eddie and Prestige Events",
+        "summary": "Ken's and Morohoshi's cars, Eddie's Challenge, Hot Rods, Drag Races, Prestige events and Speedlists.",
+        "steps": []
+      },
+      {
+        "id": "garage-and-tuning",
+        "title": "Garage, Tuning, Wraps and Snapshots",
+        "summary": "Filling the garage, tuning and performance parts, sharing wraps and taking snapshots.",
+        "steps": []
+      },
+      {
+        "id": "events-and-rep",
+        "title": "Events, REP and Daily Challenges",
+        "summary": "REP levels, winning streaks, call-outs, scoring moments and daily challenges.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Home Is Where Your Car Is",
+        "kind": "trophy",
+        "chapterId": "getting-started",
+        "where": "Acquire your spot in the garage"
+      },
+      {
+        "id": "achievement-2",
+        "name": "Early Days",
+        "kind": "trophy",
+        "chapterId": "events-and-rep",
+        "where": "Reach REP Level 10"
+      },
+      {
+        "id": "achievement-3",
+        "name": "Getting Noticed",
+        "kind": "trophy",
+        "chapterId": "events-and-rep",
+        "where": "Reach REP Level 25"
+      },
+      {
+        "id": "achievement-4",
+        "name": "Can I Get Your Autograph?",
+        "kind": "trophy",
+        "chapterId": "events-and-rep",
+        "where": "Reach REP Level 50"
+      },
+      {
+        "id": "achievement-5",
+        "name": "Guidance From Amy",
+        "kind": "trophy",
+        "chapterId": "getting-started",
+        "where": "Compete against Amy's high horsepower contacts"
+      },
+      {
+        "id": "achievement-6",
+        "name": "RWB",
+        "kind": "trophy",
+        "chapterId": "speed-and-build",
+        "where": "Meet the legendary builder Nakai-San"
+      },
+      {
+        "id": "achievement-7",
+        "name": "Iconic Builder",
+        "kind": "trophy",
+        "chapterId": "speed-and-build",
+        "where": "Become a Build Icon"
+      },
+      {
+        "id": "achievement-8",
+        "name": "I Am Speed",
+        "kind": "trophy",
+        "chapterId": "speed-and-build",
+        "where": "Beat Magnus' record time"
+      },
+      {
+        "id": "achievement-9",
+        "name": "Urban Outlaw",
+        "kind": "trophy",
+        "chapterId": "speed-and-build",
+        "where": "Beat Magnus' personal challenge"
+      },
+      {
+        "id": "achievement-10",
+        "name": "Fulfilling The Need",
+        "kind": "trophy",
+        "chapterId": "speed-and-build",
+        "where": "Become a Speed Icon"
+      },
+      {
+        "id": "achievement-11",
+        "name": "The Hoonigan",
+        "kind": "trophy",
+        "chapterId": "style-and-crew",
+        "where": "Become a Style Icon"
+      },
+      {
+        "id": "achievement-12",
+        "name": "Single Take Star",
+        "kind": "trophy",
+        "chapterId": "style-and-crew",
+        "where": "Complete a single-take of Ken's Gymkhana"
+      },
+      {
+        "id": "achievement-13",
+        "name": "Unstoppable",
+        "kind": "trophy",
+        "chapterId": "outlaw",
+        "where": "Beat the Outlaw's \"2 roadblocks in a pursuit\" challenge"
+      },
+      {
+        "id": "achievement-14",
+        "name": "Surprised? Me Neither",
+        "kind": "trophy",
+        "chapterId": "outlaw",
+        "where": "Uncover the truth about the Outlaw"
+      },
+      {
+        "id": "achievement-15",
+        "name": "Above The Law",
+        "kind": "trophy",
+        "chapterId": "outlaw",
+        "where": "Become an Outlaw Icon"
+      },
+      {
+        "id": "achievement-16",
+        "name": "One For All...",
+        "kind": "trophy",
+        "chapterId": "style-and-crew",
+        "where": "Find yourself a crew"
+      },
+      {
+        "id": "achievement-17",
+        "name": "Choo Choo!",
+        "kind": "trophy",
+        "chapterId": "style-and-crew",
+        "where": "Complete the drift train mission with the Risky Devil crew"
+      },
+      {
+        "id": "achievement-18",
+        "name": "... And All For One",
+        "kind": "trophy",
+        "chapterId": "style-and-crew",
+        "where": "Reach the top with your crew"
+      },
+      {
+        "id": "achievement-19",
+        "name": "The Ultimate Icon",
+        "kind": "trophy",
+        "chapterId": "outlaw",
+        "where": "Become the Ultimate Icon"
+      },
+      {
+        "id": "achievement-20",
+        "name": "Tuned For Excellence",
+        "kind": "trophy",
+        "chapterId": "garage-and-tuning",
+        "where": "Win any event with a tuned car"
+      },
+      {
+        "id": "achievement-21",
+        "name": "Beyond Extreme",
+        "kind": "trophy",
+        "chapterId": "garage-and-tuning",
+        "where": "Tune a car to max drift or grip settings"
+      },
+      {
+        "id": "achievement-22",
+        "name": "Triple Crown",
+        "kind": "trophy",
+        "chapterId": "events-and-rep",
+        "where": "Win three events in a row"
+      },
+      {
+        "id": "achievement-23",
+        "name": "Social Scene",
+        "kind": "trophy",
+        "chapterId": "events-and-rep",
+        "where": "Get called out by other racers 50 times for your skills"
+      },
+      {
+        "id": "achievement-24",
+        "name": "Full House",
+        "kind": "trophy",
+        "chapterId": "garage-and-tuning",
+        "where": "Fill each spot in your garage"
+      },
+      {
+        "id": "achievement-25",
+        "name": "Building Your stable",
+        "kind": "trophy",
+        "chapterId": "getting-started",
+        "where": "Purchase another car for your garage"
+      },
+      {
+        "id": "achievement-26",
+        "name": "Serious Fun",
+        "kind": "trophy",
+        "chapterId": "events-and-rep",
+        "where": "Complete 15 daily challenges"
+      },
+      {
+        "id": "achievement-27",
+        "name": "No Filter",
+        "kind": "trophy",
+        "chapterId": "garage-and-tuning",
+        "where": "Take your first snapshot"
+      },
+      {
+        "id": "achievement-28",
+        "name": "That Perfect Moment",
+        "kind": "trophy",
+        "chapterId": "events-and-rep",
+        "where": "Max out all 5 scoring styles in a single moment"
+      },
+      {
+        "id": "achievement-29",
+        "name": "Full Power",
+        "kind": "trophy",
+        "chapterId": "garage-and-tuning",
+        "where": "Equip top end performance parts to each category of a car"
+      },
+      {
+        "id": "achievement-30",
+        "name": "Training Wheels Off",
+        "kind": "trophy",
+        "chapterId": "getting-started",
+        "where": "Learn to drive with style"
+      },
+      {
+        "id": "achievement-31",
+        "name": "Fanboi",
+        "kind": "trophy",
+        "chapterId": "icon-cars",
+        "where": "Put Ken's or Morohoshi's car in your garage"
+      },
+      {
+        "id": "achievement-32",
+        "name": "Iconoclast",
+        "kind": "trophy",
+        "chapterId": "icon-cars",
+        "where": "Win events driving Ken's and Morohoshi's cars"
+      },
+      {
+        "id": "achievement-33",
+        "name": "Mental Unblock",
+        "kind": "trophy",
+        "chapterId": "icon-cars",
+        "where": "Get a 350000 Drift Score in Mental Block with Ken's car"
+      },
+      {
+        "id": "achievement-34",
+        "name": "Hit The Ceiling",
+        "kind": "trophy",
+        "chapterId": "events-and-rep",
+        "where": "Reach REP Level 70"
+      },
+      {
+        "id": "achievement-35",
+        "name": "Eddie Is Back",
+        "kind": "trophy",
+        "chapterId": "icon-cars",
+        "where": "Complete Eddie's Challenge"
+      },
+      {
+        "id": "achievement-36",
+        "name": "Zero To Hero",
+        "kind": "trophy",
+        "chapterId": "icon-cars",
+        "where": "Win an event in Eddie's Car"
+      },
+      {
+        "id": "achievement-37",
+        "name": "Wrap Artist",
+        "kind": "trophy",
+        "chapterId": "garage-and-tuning",
+        "where": "Share a Wrap with the Need for Speed™ Community"
+      },
+      {
+        "id": "achievement-38",
+        "name": "Climbing the Ranks",
+        "kind": "trophy",
+        "chapterId": "events-and-rep",
+        "where": "Reach Monthly Rank 10 by Completing Daily Challenges"
+      },
+      {
+        "id": "achievement-39",
+        "name": "Filter Addict",
+        "kind": "trophy",
+        "chapterId": "garage-and-tuning",
+        "where": "Take a Snapshot with a Filter in Snapshot Pro Mode"
+      },
+      {
+        "id": "achievement-40",
+        "name": "Kustom Kar",
+        "kind": "trophy",
+        "chapterId": "icon-cars",
+        "where": "Buy your first Hot Rod"
+      },
+      {
+        "id": "achievement-41",
+        "name": "Wrap It Up",
+        "kind": "trophy",
+        "chapterId": "garage-and-tuning",
+        "where": "Download a shared wrap"
+      },
+      {
+        "id": "achievement-42",
+        "name": "Drag Queen",
+        "kind": "trophy",
+        "chapterId": "icon-cars",
+        "where": "Win five Drag Race events"
+      },
+      {
+        "id": "achievement-43",
+        "name": "Basic Bronze",
+        "kind": "trophy",
+        "chapterId": "icon-cars",
+        "where": "Win all the Prestige events"
+      },
+      {
+        "id": "achievement-44",
+        "name": "Gold Plated",
+        "kind": "trophy",
+        "chapterId": "icon-cars",
+        "where": "Win Gold on all Prestige events"
+      },
+      {
+        "id": "achievement-45",
+        "name": "Speed Master",
+        "kind": "trophy",
+        "chapterId": "icon-cars",
+        "where": "Win all the events in a Speedlist"
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/need-for-speed",
+    "Achievement data from Steam (Steam Web API, app 1262540)",
+    "StrategyWiki: no page for this game, nothing used",
+    "Fandom (nfs.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://nfs.fandom.com/wiki/Need_for_Speed_(2015)"
+  ],
+  "route": "original",
+  "notes": "Backlog game, picked from RAWG's most-added list for its year (docs/PLAN.md section 2 ordering). RAWG's first result, \"need-for-speed\" (id 3090, released 2015-11-03, Ghost Games), is the 2015 game. No StrategyWiki page under \"Need for Speed (2015)\": that title is only a red link from StrategyWiki's \"The Need for Speed\" page, and \"Need for Speed\" there is the 1994 original, so nothing was used. nfs.fandom.com answers the API under \"Need for Speed (2015)\", with about 178 linked pages, including \"Amy\", \"Magnus Walker\", \"Ken Block\", \"Nakai-san\", \"Morohoshi-san\" and \"Manu\"; names only were looked at, nothing copied. Steam app 1262540 is \"Need for Speed™\". None of the 45 Steam achievements is hidden. Which story line each Icon belongs to is taken only from achievements that sit next to each other (for example \"Beat Magnus' record time\" then \"Become a Speed Icon\"); \"Amy\" is placed in Getting Started as an early, high-unlock (33%) story step. The Eddie, Hot Rod, Drag Race, Prestige and Speedlist goals have low unlock rates (1 to 10%) and may come from later free updates, but nothing in the data says so. Some goals (\"Share a Wrap\", \"Download a shared wrap\", daily challenges) need online play."
+}

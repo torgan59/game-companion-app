@@ -1,0 +1,1054 @@
+{
+  "id": "path-of-exile",
+  "title": "Path of Exile",
+  "year": 2013,
+  "platforms": [
+    "Xbox One",
+    "PlayStation 4",
+    "PC"
+  ],
+  "rawgId": 10533,
+  "rawgSlug": "path-of-exile",
+  "released": "2013-10-23",
+  "developers": [
+    "Grinding Gear Games"
+  ],
+  "playtime": 6,
+  "genres": [
+    "Action",
+    "RPG",
+    "Massively Multiplayer",
+    "Indie"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Multiplayer",
+    "steam-trading-cards",
+    "RPG",
+    "Co-op",
+    "cooperative",
+    "Online Co-Op",
+    "Fantasy",
+    "Free to Play",
+    "Online multiplayer",
+    "Action RPG"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/d0f/d0f91fe1d92332147e5db74e207cfc7a.jpg",
+  "steamAppId": 238960,
+  "achievements": {
+    "total": 127,
+    "hidden": 0,
+    "examples": [
+      {
+        "name": "Mercy Killing",
+        "percent": 48.4
+      },
+      {
+        "name": "The Star of Wraeclast",
+        "percent": 43.7
+      },
+      {
+        "name": "One of a Kind",
+        "percent": 37.6
+      },
+      {
+        "name": "Omnipotent",
+        "percent": 1.3
+      },
+      {
+        "name": "All Ears",
+        "percent": 1.1
+      },
+      {
+        "name": "No Stone Unturned",
+        "percent": 1.1
+      },
+      {
+        "name": "Capture the Flag",
+        "percent": 1.1
+      },
+      {
+        "name": "Maraketh Steel",
+        "percent": 1.0
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": false,
+      "pages": 0,
+      "reason": "No page for Path of Exile (MediaWiki API returned missing; search empty)"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 13,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://pathofexile.fandom.com/wiki/Path_of_Exile"
+    }
+  },
+  "game": {
+    "id": "path-of-exile",
+    "title": "Path of Exile",
+    "platforms": [
+      "Xbox One",
+      "PlayStation 4",
+      "PC"
+    ],
+    "blurb": "Online action RPG of loot, skill gems and a huge passive tree, set in Wraeclast, from Grinding Gear Games, released 2013-10-23. RAWG average playtime: 6 hours. Genres: Action, RPG, Massively Multiplayer, Indie. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#9A6A1F",
+    "chapters": [
+      {
+        "id": "campaign-part-1",
+        "title": "The Campaign, Part 1",
+        "summary": "From the Twilight Strand to Dominus, the Scion, Malachai and the end of Part 1.",
+        "steps": []
+      },
+      {
+        "id": "campaign-part-2",
+        "title": "The Campaign, Part 2 and Completion",
+        "summary": "The Part 2 gods and the Depraved Trinity, plus every waypoint, side quest, dialogue and lore find.",
+        "steps": []
+      },
+      {
+        "id": "labyrinth-and-ascendancy",
+        "title": "The Labyrinth and Ascendancy",
+        "summary": "The Labyrinth on every difficulty, Izaro and choosing an Ascendancy class.",
+        "steps": []
+      },
+      {
+        "id": "maps-and-atlas",
+        "title": "Maps and the Atlas",
+        "summary": "Opening and corrupting maps, Voidstones, Scarabs and completing the Atlas.",
+        "steps": []
+      },
+      {
+        "id": "endgame-bosses",
+        "title": "End-game Bosses",
+        "summary": "Atziri, the Elder, the Shaper, Sirus, the Maven, the Breachlords and the four last bosses.",
+        "steps": []
+      },
+      {
+        "id": "side-content",
+        "title": "Masters, Leagues, Races and PvP",
+        "summary": "Master missions, Essences, Warbands, Strongboxes, special areas, races, parties and PvP.",
+        "steps": []
+      },
+      {
+        "id": "hardcore",
+        "title": "Hardcore Leagues",
+        "summary": "Levelling and the Labyrinth on a Hardcore character.",
+        "steps": []
+      },
+      {
+        "id": "character-and-items",
+        "title": "Character, Gems and Items",
+        "summary": "Levels, skill gems, sockets, uniques, crafting, corruption, the passive tree and the Pantheon.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Challenger",
+        "kind": "trophy",
+        "chapterId": "labyrinth-and-ascendancy",
+        "where": "Complete the Labyrinth in a non-Hardcore league."
+      },
+      {
+        "id": "achievement-2",
+        "name": "Leader",
+        "kind": "trophy",
+        "chapterId": "labyrinth-and-ascendancy",
+        "where": "Complete the Cruel Labyrinth in a non-Hardcore league."
+      },
+      {
+        "id": "achievement-3",
+        "name": "Lord",
+        "kind": "trophy",
+        "chapterId": "labyrinth-and-ascendancy",
+        "where": "Complete the Merciless Labyrinth in a non-Hardcore league."
+      },
+      {
+        "id": "achievement-4",
+        "name": "Fearless",
+        "kind": "trophy",
+        "chapterId": "hardcore",
+        "where": "Complete the Labyrinth in a Hardcore League."
+      },
+      {
+        "id": "achievement-5",
+        "name": "Dauntless",
+        "kind": "trophy",
+        "chapterId": "hardcore",
+        "where": "Complete the Cruel Labyrinth in a Hardcore League."
+      },
+      {
+        "id": "achievement-6",
+        "name": "Indomitable",
+        "kind": "trophy",
+        "chapterId": "hardcore",
+        "where": "Complete the Merciless Labyrinth in a Hardcore League."
+      },
+      {
+        "id": "achievement-7",
+        "name": "Mercy Killing",
+        "kind": "trophy",
+        "chapterId": "campaign-part-1",
+        "where": "Kill Brutus, Warden of Axiom Prison."
+      },
+      {
+        "id": "achievement-8",
+        "name": "The Star of Wraeclast",
+        "kind": "trophy",
+        "chapterId": "campaign-part-1",
+        "where": "Kill Merveil, the Siren."
+      },
+      {
+        "id": "achievement-9",
+        "name": "A New Dawn",
+        "kind": "trophy",
+        "chapterId": "campaign-part-1",
+        "where": "Vanquish the Vaal Oversoul."
+      },
+      {
+        "id": "achievement-10",
+        "name": "Rest for the Wicked",
+        "kind": "trophy",
+        "chapterId": "campaign-part-1",
+        "where": "Defeat Piety in her laboratory."
+      },
+      {
+        "id": "achievement-11",
+        "name": "Hunter",
+        "kind": "trophy",
+        "chapterId": "campaign-part-1",
+        "where": "Kill Dominus as the Ranger."
+      },
+      {
+        "id": "achievement-12",
+        "name": "Saviour",
+        "kind": "trophy",
+        "chapterId": "campaign-part-1",
+        "where": "Kill Dominus as the Templar."
+      },
+      {
+        "id": "achievement-13",
+        "name": "Usurper",
+        "kind": "trophy",
+        "chapterId": "campaign-part-1",
+        "where": "Kill Dominus as the Witch."
+      },
+      {
+        "id": "achievement-14",
+        "name": "Assassin",
+        "kind": "trophy",
+        "chapterId": "campaign-part-1",
+        "where": "Kill Dominus as the Shadow."
+      },
+      {
+        "id": "achievement-15",
+        "name": "Champion",
+        "kind": "trophy",
+        "chapterId": "campaign-part-1",
+        "where": "Kill Dominus as the Duelist."
+      },
+      {
+        "id": "achievement-16",
+        "name": "Conqueror",
+        "kind": "trophy",
+        "chapterId": "campaign-part-1",
+        "where": "Kill Dominus as the Marauder."
+      },
+      {
+        "id": "achievement-17",
+        "name": "Seeker",
+        "kind": "trophy",
+        "chapterId": "campaign-part-1",
+        "where": "Kill Dominus as the Scion."
+      },
+      {
+        "id": "achievement-18",
+        "name": "Freedom",
+        "kind": "trophy",
+        "chapterId": "campaign-part-1",
+        "where": "Free the Scion."
+      },
+      {
+        "id": "achievement-19",
+        "name": "Beginning of the End",
+        "kind": "trophy",
+        "chapterId": "character-and-items",
+        "where": "Reach level 60 as a non-Hardcore character."
+      },
+      {
+        "id": "achievement-20",
+        "name": "Foot of the Mountain",
+        "kind": "trophy",
+        "chapterId": "character-and-items",
+        "where": "Reach level 70 as a non-Hardcore character."
+      },
+      {
+        "id": "achievement-21",
+        "name": "Scaling the Ladder",
+        "kind": "trophy",
+        "chapterId": "character-and-items",
+        "where": "Reach level 80 as a non-Hardcore character."
+      },
+      {
+        "id": "achievement-22",
+        "name": "Diminishing Returns",
+        "kind": "trophy",
+        "chapterId": "character-and-items",
+        "where": "Reach level 90 as a non-Hardcore character."
+      },
+      {
+        "id": "achievement-23",
+        "name": "Survivor",
+        "kind": "trophy",
+        "chapterId": "hardcore",
+        "where": "Reach level 60 as a Hardcore character."
+      },
+      {
+        "id": "achievement-24",
+        "name": "Undying",
+        "kind": "trophy",
+        "chapterId": "hardcore",
+        "where": "Reach level 70 as a Hardcore character."
+      },
+      {
+        "id": "achievement-25",
+        "name": "Immortal",
+        "kind": "trophy",
+        "chapterId": "hardcore",
+        "where": "Reach level 80 as a Hardcore character."
+      },
+      {
+        "id": "achievement-26",
+        "name": "Eternal",
+        "kind": "trophy",
+        "chapterId": "hardcore",
+        "where": "Reach level 90 as a Hardcore character."
+      },
+      {
+        "id": "achievement-27",
+        "name": "Locomancer",
+        "kind": "trophy",
+        "chapterId": "campaign-part-2",
+        "where": "Tag every waypoint as one character."
+      },
+      {
+        "id": "achievement-28",
+        "name": "No Loose Ends",
+        "kind": "trophy",
+        "chapterId": "campaign-part-2",
+        "where": "Complete every side-quest as one character."
+      },
+      {
+        "id": "achievement-29",
+        "name": "All Ears",
+        "kind": "trophy",
+        "chapterId": "campaign-part-2",
+        "where": "Listen to all optional NPC dialogue as one character."
+      },
+      {
+        "id": "achievement-30",
+        "name": "No Stone Unturned",
+        "kind": "trophy",
+        "chapterId": "campaign-part-2",
+        "where": "Discover all environmental lore as one character."
+      },
+      {
+        "id": "achievement-31",
+        "name": "Left to Chance",
+        "kind": "trophy",
+        "chapterId": "character-and-items",
+        "where": "Create a Unique item using an Orb of Chance."
+      },
+      {
+        "id": "achievement-32",
+        "name": "Well-Connected",
+        "kind": "trophy",
+        "chapterId": "character-and-items",
+        "where": "Create an item with six linked sockets using an Orb of Fusing."
+      },
+      {
+        "id": "achievement-33",
+        "name": "Gemling",
+        "kind": "trophy",
+        "chapterId": "character-and-items",
+        "where": "Have a Skill Gem reach level 20."
+      },
+      {
+        "id": "achievement-34",
+        "name": "Overcharged",
+        "kind": "trophy",
+        "chapterId": "character-and-items",
+        "where": "Have 15 combined Endurance, Frenzy, and Power Charges active simultaneously."
+      },
+      {
+        "id": "achievement-35",
+        "name": "Elemental Trinity",
+        "kind": "trophy",
+        "chapterId": "character-and-items",
+        "where": "Slay an enemy that is simultaneously Ignited, Shocked, and Frozen."
+      },
+      {
+        "id": "achievement-36",
+        "name": "Geared Up",
+        "kind": "trophy",
+        "chapterId": "character-and-items",
+        "where": "Equip a Rare or Unique item in every non-Flask slot."
+      },
+      {
+        "id": "achievement-37",
+        "name": "Cryomancer",
+        "kind": "trophy",
+        "chapterId": "character-and-items",
+        "where": "Shatter 5 monsters with a single action."
+      },
+      {
+        "id": "achievement-38",
+        "name": "One of a Kind",
+        "kind": "trophy",
+        "chapterId": "character-and-items",
+        "where": "Equip a Unique item."
+      },
+      {
+        "id": "achievement-39",
+        "name": "Paradigm Shift",
+        "kind": "trophy",
+        "chapterId": "character-and-items",
+        "where": "Allocate a Keystone Passive Skill."
+      },
+      {
+        "id": "achievement-40",
+        "name": "Explorer",
+        "kind": "trophy",
+        "chapterId": "maps-and-atlas",
+        "where": "Fully clear an end-game Map area."
+      },
+      {
+        "id": "achievement-41",
+        "name": "Traitor",
+        "kind": "trophy",
+        "chapterId": "campaign-part-1",
+        "where": "Help all three Bandit Lords."
+      },
+      {
+        "id": "achievement-42",
+        "name": "Golden Touch",
+        "kind": "trophy",
+        "chapterId": "character-and-items",
+        "where": "Open a Large Chest."
+      },
+      {
+        "id": "achievement-43",
+        "name": "Ancestral Power",
+        "kind": "trophy",
+        "chapterId": "character-and-items",
+        "where": "Have 3 Totems alive at one time."
+      },
+      {
+        "id": "achievement-44",
+        "name": "Out of the Gate",
+        "kind": "trophy",
+        "chapterId": "side-content",
+        "where": "Reach level 8 in any Race Event."
+      },
+      {
+        "id": "achievement-45",
+        "name": "Capture the Flag",
+        "kind": "trophy",
+        "chapterId": "side-content",
+        "where": "Capture a Flag in PvP."
+      },
+      {
+        "id": "achievement-46",
+        "name": "Zombie Horde",
+        "kind": "trophy",
+        "chapterId": "character-and-items",
+        "where": "Have 9 Raised Zombies at the same time."
+      },
+      {
+        "id": "achievement-47",
+        "name": "Elemental Aegis",
+        "kind": "trophy",
+        "chapterId": "character-and-items",
+        "where": "Have at least 75% resistance to Fire, Cold, and Lightning."
+      },
+      {
+        "id": "achievement-48",
+        "name": "Dream within a Dream",
+        "kind": "trophy",
+        "chapterId": "maps-and-atlas",
+        "where": "Have a Unique Map drop within a Unique Map."
+      },
+      {
+        "id": "achievement-49",
+        "name": "Beginner's Luck",
+        "kind": "trophy",
+        "chapterId": "campaign-part-1",
+        "where": "Have a Unique Item drop in the Twilight Strand in Act 1."
+      },
+      {
+        "id": "achievement-50",
+        "name": "Full Clear: Dread Thicket",
+        "kind": "trophy",
+        "chapterId": "campaign-part-1",
+        "where": "Fully clear the Dread Thicket."
+      },
+      {
+        "id": "achievement-51",
+        "name": "Specialist",
+        "kind": "trophy",
+        "chapterId": "character-and-items",
+        "where": "Allocate a character's fourth Keystone Passive."
+      },
+      {
+        "id": "achievement-52",
+        "name": "Full Clear: Catacombs",
+        "kind": "trophy",
+        "chapterId": "campaign-part-1",
+        "where": "Fully clear the Catacombs."
+      },
+      {
+        "id": "achievement-53",
+        "name": "Raise the Bar",
+        "kind": "trophy",
+        "chapterId": "character-and-items",
+        "where": "Have 90% resistance to any Element."
+      },
+      {
+        "id": "achievement-54",
+        "name": "Full Clear: Archives",
+        "kind": "trophy",
+        "chapterId": "campaign-part-1",
+        "where": "Fully clear the Archives."
+      },
+      {
+        "id": "achievement-55",
+        "name": "Band Together",
+        "kind": "trophy",
+        "chapterId": "side-content",
+        "where": "Join a public party."
+      },
+      {
+        "id": "achievement-56",
+        "name": "Full Clear: Ship Graveyard Cave",
+        "kind": "trophy",
+        "chapterId": "campaign-part-1",
+        "where": "Fully clear the Ship Graveyard Cave."
+      },
+      {
+        "id": "achievement-57",
+        "name": "Vaal Gemling",
+        "kind": "trophy",
+        "chapterId": "character-and-items",
+        "where": "Have a Vaal Skill Gem reach level 20."
+      },
+      {
+        "id": "achievement-58",
+        "name": "Full Spectrum",
+        "kind": "trophy",
+        "chapterId": "character-and-items",
+        "where": "Corrupt an item to have a white socket."
+      },
+      {
+        "id": "achievement-59",
+        "name": "Behold My Army",
+        "kind": "trophy",
+        "chapterId": "character-and-items",
+        "where": "Have 60 Minions at the same time."
+      },
+      {
+        "id": "achievement-60",
+        "name": "Hostile Territory",
+        "kind": "trophy",
+        "chapterId": "maps-and-atlas",
+        "where": "Corrupt a map to have eight mods."
+      },
+      {
+        "id": "achievement-61",
+        "name": "Cut-throat",
+        "kind": "trophy",
+        "chapterId": "side-content",
+        "where": "Kill another player in any mode or league."
+      },
+      {
+        "id": "achievement-62",
+        "name": "Dream Corruption",
+        "kind": "trophy",
+        "chapterId": "maps-and-atlas",
+        "where": "Corrupt a map into a Vaal Temple map."
+      },
+      {
+        "id": "achievement-63",
+        "name": "Virtue Corruption",
+        "kind": "trophy",
+        "chapterId": "character-and-items",
+        "where": "Corrupt a skill gem into a Vaal skill gem."
+      },
+      {
+        "id": "achievement-64",
+        "name": "Dream Enrichment",
+        "kind": "trophy",
+        "chapterId": "maps-and-atlas",
+        "where": "Enhance a map with a Vaal fragment."
+      },
+      {
+        "id": "achievement-65",
+        "name": "Identity Corruption",
+        "kind": "trophy",
+        "chapterId": "character-and-items",
+        "where": "Corrupt an item to have a new implicit mod."
+      },
+      {
+        "id": "achievement-66",
+        "name": "Full Clear: Apex of Sacrifice",
+        "kind": "trophy",
+        "chapterId": "endgame-bosses",
+        "where": "Kill Atziri in the Apex of Sacrifice."
+      },
+      {
+        "id": "achievement-67",
+        "name": "Gladiator",
+        "kind": "trophy",
+        "chapterId": "maps-and-atlas",
+        "where": "Fully clear the Colosseum or Pit end-game Map."
+      },
+      {
+        "id": "achievement-68",
+        "name": "Cleanser",
+        "kind": "trophy",
+        "chapterId": "maps-and-atlas",
+        "where": "Fully clear The Harvest."
+      },
+      {
+        "id": "achievement-69",
+        "name": "Purifier",
+        "kind": "trophy",
+        "chapterId": "campaign-part-1",
+        "where": "Kill Voll, Emperor of Purity."
+      },
+      {
+        "id": "achievement-70",
+        "name": "Umbra Slayer",
+        "kind": "trophy",
+        "chapterId": "campaign-part-1",
+        "where": "Kill Shavronne of Umbra."
+      },
+      {
+        "id": "achievement-71",
+        "name": "Dispelling the Curse",
+        "kind": "trophy",
+        "chapterId": "campaign-part-1",
+        "where": "Kill Doedre Darktongue."
+      },
+      {
+        "id": "achievement-72",
+        "name": "Bringer of Pain",
+        "kind": "trophy",
+        "chapterId": "campaign-part-1",
+        "where": "Kill Maligaro, The Inquisitor."
+      },
+      {
+        "id": "achievement-73",
+        "name": "Releaser of Souls",
+        "kind": "trophy",
+        "chapterId": "endgame-bosses",
+        "where": "Kill the Eater of Souls in the Core end-game Map."
+      },
+      {
+        "id": "achievement-74",
+        "name": "Soothsaying",
+        "kind": "trophy",
+        "chapterId": "character-and-items",
+        "where": "Hand in a full set of Divination Cards."
+      },
+      {
+        "id": "achievement-75",
+        "name": "End of the Nightmare",
+        "kind": "trophy",
+        "chapterId": "campaign-part-1",
+        "where": "Kill Malachai, The Nightmare."
+      },
+      {
+        "id": "achievement-76",
+        "name": "Invested with Blood",
+        "kind": "trophy",
+        "chapterId": "character-and-items",
+        "where": "Reserve 95% or more of your Life."
+      },
+      {
+        "id": "achievement-77",
+        "name": "Defence Against the Darkness",
+        "kind": "trophy",
+        "chapterId": "campaign-part-1",
+        "where": "Land the killing blow on the Vaal Oversoul while you have the Fortify Buff active."
+      },
+      {
+        "id": "achievement-78",
+        "name": "Stranger in a Strange Land",
+        "kind": "trophy",
+        "chapterId": "campaign-part-1",
+        "where": "Kill a Rogue Exile in Kaom's Stronghold."
+      },
+      {
+        "id": "achievement-79",
+        "name": "Engulfed in Flames",
+        "kind": "trophy",
+        "chapterId": "campaign-part-1",
+        "where": "Land the killing blow on the Burning Man while you are burning."
+      },
+      {
+        "id": "achievement-80",
+        "name": "Time Capsule",
+        "kind": "trophy",
+        "chapterId": "character-and-items",
+        "where": "Open a Vaal Vessel in a corrupted zone."
+      },
+      {
+        "id": "achievement-81",
+        "name": "Maraketh Steel",
+        "kind": "trophy",
+        "chapterId": "character-and-items",
+        "where": "Equip each Maraketh Weapon type."
+      },
+      {
+        "id": "achievement-82",
+        "name": "Alchemist's Stone",
+        "kind": "trophy",
+        "chapterId": "character-and-items",
+        "where": "Craft a Jewel with four mods using an Orb of Alchemy."
+      },
+      {
+        "id": "achievement-83",
+        "name": "Imperfections",
+        "kind": "trophy",
+        "chapterId": "character-and-items",
+        "where": "Corrupt a Unique Jewel into a different Unique Jewel."
+      },
+      {
+        "id": "achievement-84",
+        "name": "Unique Influence",
+        "kind": "trophy",
+        "chapterId": "character-and-items",
+        "where": "Equip a Unique Jewel with a radius."
+      },
+      {
+        "id": "achievement-85",
+        "name": "Unforgettable",
+        "kind": "trophy",
+        "chapterId": "endgame-bosses",
+        "where": "Defeat The Elder."
+      },
+      {
+        "id": "achievement-86",
+        "name": "Fall of Oriath",
+        "kind": "trophy",
+        "chapterId": "campaign-part-1",
+        "where": "Complete Part 1."
+      },
+      {
+        "id": "achievement-87",
+        "name": "King Tide",
+        "kind": "trophy",
+        "chapterId": "campaign-part-2",
+        "where": "Kill Tsoagoth, the Brine King."
+      },
+      {
+        "id": "achievement-88",
+        "name": "Widow's Lament",
+        "kind": "trophy",
+        "chapterId": "campaign-part-2",
+        "where": "Kill Arakaali, Spinner of Shadows."
+      },
+      {
+        "id": "achievement-89",
+        "name": "Eternal Eclipse",
+        "kind": "trophy",
+        "chapterId": "campaign-part-2",
+        "where": "Kill both Lunaris and Solaris in the same encounter."
+      },
+      {
+        "id": "achievement-90",
+        "name": "Rule of Three",
+        "kind": "trophy",
+        "chapterId": "campaign-part-2",
+        "where": "Kill the Depraved Trinity."
+      },
+      {
+        "id": "achievement-91",
+        "name": "Sin and Salvation",
+        "kind": "trophy",
+        "chapterId": "campaign-part-2",
+        "where": "Complete Part 2."
+      },
+      {
+        "id": "achievement-92",
+        "name": "Apprentice Cartographer",
+        "kind": "trophy",
+        "chapterId": "maps-and-atlas",
+        "where": "Have a Voidstone socketed in your Atlas."
+      },
+      {
+        "id": "achievement-93",
+        "name": "Journeyman Cartographer",
+        "kind": "trophy",
+        "chapterId": "maps-and-atlas",
+        "where": "Have two Voidstones socketed in your Atlas."
+      },
+      {
+        "id": "achievement-94",
+        "name": "Master Cartographer",
+        "kind": "trophy",
+        "chapterId": "maps-and-atlas",
+        "where": "Have three Voidstones socketed in your Atlas."
+      },
+      {
+        "id": "achievement-95",
+        "name": "Atlas of Worlds",
+        "kind": "trophy",
+        "chapterId": "maps-and-atlas",
+        "where": "Complete every map on the Atlas."
+      },
+      {
+        "id": "achievement-96",
+        "name": "Grandmaster",
+        "kind": "trophy",
+        "chapterId": "side-content",
+        "where": "Complete the Hall of Grandmasters."
+      },
+      {
+        "id": "achievement-97",
+        "name": "Sacrifice of the Vaal",
+        "kind": "trophy",
+        "chapterId": "endgame-bosses",
+        "where": "Kill Atziri in the Alluring Abyss."
+      },
+      {
+        "id": "achievement-98",
+        "name": "New World Order",
+        "kind": "trophy",
+        "chapterId": "maps-and-atlas",
+        "where": "Complete a Tier 11 or higher Map with a Horned Scarab applied."
+      },
+      {
+        "id": "achievement-99",
+        "name": "Breachlord",
+        "kind": "trophy",
+        "chapterId": "endgame-bosses",
+        "where": "Kill It That Was Esh and It That Was Tul."
+      },
+      {
+        "id": "achievement-100",
+        "name": "Ascendancy",
+        "kind": "trophy",
+        "chapterId": "labyrinth-and-ascendancy",
+        "where": "Choose an Ascendancy class."
+      },
+      {
+        "id": "achievement-101",
+        "name": "Ruler of the Court",
+        "kind": "trophy",
+        "chapterId": "side-content",
+        "where": "Complete the Vinktar Square."
+      },
+      {
+        "id": "achievement-102",
+        "name": "Shaper of Worlds",
+        "kind": "trophy",
+        "chapterId": "endgame-bosses",
+        "where": "Defeat the Shaper."
+      },
+      {
+        "id": "achievement-103",
+        "name": "Emperor",
+        "kind": "trophy",
+        "chapterId": "labyrinth-and-ascendancy",
+        "where": "Complete the Eternal Labyrinth in a non-Hardcore league."
+      },
+      {
+        "id": "achievement-104",
+        "name": "Untouchable",
+        "kind": "trophy",
+        "chapterId": "hardcore",
+        "where": "Complete the Eternal Labyrinth in a Hardcore League."
+      },
+      {
+        "id": "achievement-105",
+        "name": "Heretic",
+        "kind": "trophy",
+        "chapterId": "campaign-part-1",
+        "where": "Kill High Templar Dominus."
+      },
+      {
+        "id": "achievement-106",
+        "name": "Loyal to the End",
+        "kind": "trophy",
+        "chapterId": "side-content",
+        "where": "Kill Argus."
+      },
+      {
+        "id": "achievement-107",
+        "name": "Treasure Hunter",
+        "kind": "trophy",
+        "chapterId": "labyrinth-and-ascendancy",
+        "where": "Kill Izaro and have him drop 3 treasure keys."
+      },
+      {
+        "id": "achievement-108",
+        "name": "Deicide",
+        "kind": "trophy",
+        "chapterId": "character-and-items",
+        "where": "Kill a god and obtain their power."
+      },
+      {
+        "id": "achievement-109",
+        "name": "Two of a Kind",
+        "kind": "trophy",
+        "chapterId": "character-and-items",
+        "where": "Equip two unique items with the same name."
+      },
+      {
+        "id": "achievement-110",
+        "name": "Decimation",
+        "kind": "trophy",
+        "chapterId": "maps-and-atlas",
+        "where": "Complete a map area that is affected by 10 or more modifiers."
+      },
+      {
+        "id": "achievement-111",
+        "name": "One Small Step",
+        "kind": "trophy",
+        "chapterId": "maps-and-atlas",
+        "where": "Open a map in the map device and step through its portal."
+      },
+      {
+        "id": "achievement-112",
+        "name": "Beyond Death",
+        "kind": "trophy",
+        "chapterId": "endgame-bosses",
+        "where": "Kill Beidat, Archangel of Death."
+      },
+      {
+        "id": "achievement-113",
+        "name": "All in a Day's Work",
+        "kind": "trophy",
+        "chapterId": "side-content",
+        "where": "Complete a Master's Atlas Mission."
+      },
+      {
+        "id": "achievement-114",
+        "name": "The Forsaken Masters",
+        "kind": "trophy",
+        "chapterId": "side-content",
+        "where": "Defeat each Master's most dangerous foe."
+      },
+      {
+        "id": "achievement-115",
+        "name": "Deadly Sins",
+        "kind": "trophy",
+        "chapterId": "character-and-items",
+        "where": "Obtain every Pantheon power."
+      },
+      {
+        "id": "achievement-116",
+        "name": "Omnipotent",
+        "kind": "trophy",
+        "chapterId": "character-and-items",
+        "where": "Fully upgrade every god power."
+      },
+      {
+        "id": "achievement-117",
+        "name": "Essence Corruption",
+        "kind": "trophy",
+        "chapterId": "side-content",
+        "where": "Corrupt an Essence monster with a Vaal Orb."
+      },
+      {
+        "id": "achievement-118",
+        "name": "Quintessence",
+        "kind": "trophy",
+        "chapterId": "side-content",
+        "where": "Kill a monster that is under the influence of five Essence mods."
+      },
+      {
+        "id": "achievement-119",
+        "name": "Warlord",
+        "kind": "trophy",
+        "chapterId": "side-content",
+        "where": "Kill all Warbands leaders."
+      },
+      {
+        "id": "achievement-120",
+        "name": "Augmentation",
+        "kind": "trophy",
+        "chapterId": "side-content",
+        "where": "Use an orb to change the mods of a Strongbox."
+      },
+      {
+        "id": "achievement-121",
+        "name": "King Cartographer",
+        "kind": "trophy",
+        "chapterId": "maps-and-atlas",
+        "where": "Have four Voidstones socketed in your Atlas."
+      },
+      {
+        "id": "achievement-122",
+        "name": "Sirus, Awakener of Worlds",
+        "kind": "trophy",
+        "chapterId": "endgame-bosses",
+        "where": "Defeat Sirus, Awakener of Worlds."
+      },
+      {
+        "id": "achievement-123",
+        "name": "Defeat The Maven",
+        "kind": "trophy",
+        "chapterId": "endgame-bosses",
+        "where": "Accept The Maven's Invitation and defeat The Maven."
+      },
+      {
+        "id": "achievement-124",
+        "name": "The Star-Strewn Abyss",
+        "kind": "trophy",
+        "chapterId": "endgame-bosses",
+        "where": "Defeat The Black Star."
+      },
+      {
+        "id": "achievement-125",
+        "name": "The Unearthly Devourer",
+        "kind": "trophy",
+        "chapterId": "endgame-bosses",
+        "where": "Defeat The Infinite Hunger."
+      },
+      {
+        "id": "achievement-126",
+        "name": "The Scintillating Flame",
+        "kind": "trophy",
+        "chapterId": "endgame-bosses",
+        "where": "Defeat The Searing Exarch."
+      },
+      {
+        "id": "achievement-127",
+        "name": "The Ravenous Maw",
+        "kind": "trophy",
+        "chapterId": "endgame-bosses",
+        "where": "Defeat The Eater of Worlds."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/path-of-exile",
+    "Achievement data from Steam (Steam Web API, app 238960)",
+    "StrategyWiki: no page for this game, nothing used",
+    "Fandom (pathofexile.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://pathofexile.fandom.com/wiki/Path_of_Exile"
+  ],
+  "route": "original",
+  "notes": "Backlog game, picked from RAWG's most-added list for its year (docs/PLAN.md section 2 ordering). RAWG's first result, \"path-of-exile\" (id 10533), is the first game; \"Path of Exile 2\" is a separate entry and Steam app (2694490), so app 238960 was used. No StrategyWiki page under \"Path of Exile\". pathofexile.fandom.com answers the API, but the game page is marked as a stub and links to only 13 articles, mostly expansion names such as \"The Fall of Oriath\", \"Atlas of Worlds (expansion)\", \"Betrayal\" and \"Forsaken Masters\"; names only were looked at, nothing copied. None of the 127 Steam achievements is hidden. The game is online and keeps adding content, so the later achievements (Sirus, the Maven and the four \"Defeat The ...\" bosses at the end of the list) reflect later updates; chapters are grouped by theme, not by update. \"Part 1\" and \"Part 2\" come from the achievements \"Complete Part 1\" and \"Complete Part 2\"; bosses were placed in a part by their Steam order and unlock rate, which is a judgement call. \"Loyal to the End\" (Kill Argus, 9%) does not say where Argus is, so it sits with side content as a placeholder; \"Deicide\" and the two Pantheon goals sit with Character, Gems and Items. RAWG lists a playtime of only 6 hours, which looks very low for this game."
+}

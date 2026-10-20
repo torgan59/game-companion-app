@@ -1,0 +1,492 @@
+{
+  "id": "batman-arkham-asylum-game-of-the-year-edition",
+  "title": "Batman: Arkham Asylum Game of the Year Edition",
+  "year": 2010,
+  "platforms": [
+    "PlayStation 3",
+    "PC",
+    "PlayStation 4",
+    "Xbox 360"
+  ],
+  "rawgId": 17572,
+  "rawgSlug": "batman-aa-goty",
+  "released": "2010-03-26",
+  "developers": [
+    "Feral Interactive",
+    "Rocksteady Studios"
+  ],
+  "playtime": 8,
+  "genres": [
+    "Action",
+    "Adventure",
+    "Platformer"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Steam Cloud",
+    "Atmospheric",
+    "steam-trading-cards",
+    "Story Rich",
+    "Open World",
+    "Third Person",
+    "Partial Controller Support",
+    "Horror",
+    "Stealth",
+    "Action-Adventure"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/fd8/fd882c8267a44621a0de6f9cec77ae90.jpg",
+  "steamAppId": 35140,
+  "achievements": {
+    "total": 47,
+    "hidden": 0,
+    "examples": [
+      {
+        "name": "Freeflow Combo 5",
+        "percent": 76.9
+      },
+      {
+        "name": "Shocking Rescue",
+        "percent": 74.2
+      },
+      {
+        "name": "Malpractice Needs More Practice",
+        "percent": 71.3
+      },
+      {
+        "name": "Predator Silver",
+        "percent": 4.3
+      },
+      {
+        "name": "Perfect Knight",
+        "percent": 4.2
+      },
+      {
+        "name": "Predator Gold",
+        "percent": 4.1
+      },
+      {
+        "name": "Freeflow Perfection",
+        "percent": 4.0
+      },
+      {
+        "name": "Freeflow Gold",
+        "percent": 3.9
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Batman:_Arkham_Asylum",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 173,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://arkhamcity.fandom.com/wiki/Batman:_Arkham_Asylum"
+    }
+  },
+  "game": {
+    "id": "batman-arkham-asylum-game-of-the-year-edition",
+    "title": "Batman: Arkham Asylum Game of the Year Edition",
+    "platforms": [
+      "PlayStation 3",
+      "PC",
+      "PlayStation 4",
+      "Xbox 360"
+    ],
+    "blurb": "Stealth and combat action-adventure set on Arkham Island, from Rocksteady Studios (PC and Mac edition by Feral Interactive), released 2010-03-26 (original game 2009). RAWG average playtime: 8 hours. Genres: Action, Adventure, Platformer. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#4A5A6A",
+    "chapters": [
+      {
+        "id": "intensive-treatment",
+        "title": "Intensive Treatment",
+        "summary": "The opening: Zsasz, Decontamination and escaping to the island surface.",
+        "steps": []
+      },
+      {
+        "id": "across-the-island",
+        "title": "Medical, Administration and Old Foes",
+        "summary": "Saving the doctors, Bane, the Administration lockdown, Dr. Young and Harley Quinn.",
+        "steps": []
+      },
+      {
+        "id": "scarecrow",
+        "title": "The Scarecrow's Nightmares",
+        "summary": "Surviving the fear gas and keeping your sanity.",
+        "steps": []
+      },
+      {
+        "id": "croc-ivy-joker",
+        "title": "Killer Croc, Poison Ivy and the Joker",
+        "summary": "The late game: Croc's lair, Titan Ivy, the party and the Joker on each difficulty. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "riddler",
+        "title": "Riddler's Challenge",
+        "summary": "Solving the riddles around the island, the Spirit of Amadeus Arkham and 100% completion.",
+        "steps": []
+      },
+      {
+        "id": "challenge-mode",
+        "title": "Challenge Mode",
+        "summary": "Medals and perfect runs in the combat and predator challenges.",
+        "steps": []
+      },
+      {
+        "id": "combat-and-stealth",
+        "title": "Combat and Stealth Feats",
+        "summary": "Freeflow combos, Titan henchmen, gliding, catching Batarangs and other tricks in any play mode.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Shocking Rescue",
+        "kind": "trophy",
+        "chapterId": "intensive-treatment",
+        "where": "Take down Zsasz in the Patient Pacification Chamber"
+      },
+      {
+        "id": "achievement-2",
+        "name": "Leave No Man Behind",
+        "kind": "trophy",
+        "chapterId": "intensive-treatment",
+        "where": "Rescue the guards and henchman from the Joker toxin in Decontamination"
+      },
+      {
+        "id": "achievement-3",
+        "name": "Malpractice Needs More Practice",
+        "kind": "trophy",
+        "chapterId": "intensive-treatment",
+        "where": "Survive the onslaught from the deformed Joker henchman"
+      },
+      {
+        "id": "achievement-4",
+        "name": "Born Free",
+        "kind": "trophy",
+        "chapterId": "intensive-treatment",
+        "where": "Escape from Intensive Treatment to the island surface"
+      },
+      {
+        "id": "achievement-5",
+        "name": "Just What The Doctors Ordered",
+        "kind": "trophy",
+        "chapterId": "across-the-island",
+        "where": "Save all the doctors in medical"
+      },
+      {
+        "id": "achievement-6",
+        "name": "Daydreamer",
+        "kind": "trophy",
+        "chapterId": "scarecrow",
+        "where": "Survive the nightmare of the Scarecrow's fear gas"
+      },
+      {
+        "id": "achievement-7",
+        "name": "Baneful Payback",
+        "kind": "trophy",
+        "chapterId": "across-the-island",
+        "where": "Defeat Bane"
+      },
+      {
+        "id": "achievement-8",
+        "name": "Breaking And Entering",
+        "kind": "trophy",
+        "chapterId": "across-the-island",
+        "where": "Gain access to Administration after it is locked down by the Joker"
+      },
+      {
+        "id": "achievement-9",
+        "name": "Recurring Nightmare",
+        "kind": "trophy",
+        "chapterId": "scarecrow",
+        "where": "Face your biggest fears and keep your sanity"
+      },
+      {
+        "id": "achievement-10",
+        "name": "Zsasz Cut Down To Size",
+        "kind": "trophy",
+        "chapterId": "across-the-island",
+        "where": "Save Dr. Young from being killed by Victor Zsasz"
+      },
+      {
+        "id": "achievement-11",
+        "name": "Solitary Confinement",
+        "kind": "trophy",
+        "chapterId": "across-the-island",
+        "where": "Capture and lock up Harley Quinn"
+      },
+      {
+        "id": "achievement-12",
+        "name": "Double Trouble",
+        "kind": "trophy",
+        "chapterId": "croc-ivy-joker",
+        "where": "Defeat two Titan Henchmen at once"
+      },
+      {
+        "id": "achievement-13",
+        "name": "Resist The Fear",
+        "kind": "trophy",
+        "chapterId": "scarecrow",
+        "where": "Conquer the effects of the Scarecrow's fear gas"
+      },
+      {
+        "id": "achievement-14",
+        "name": "Crocodile Tears",
+        "kind": "trophy",
+        "chapterId": "croc-ivy-joker",
+        "where": "Venture into Killer Croc's lair and come out alive"
+      },
+      {
+        "id": "achievement-15",
+        "name": "Poisoned Ivy",
+        "kind": "trophy",
+        "chapterId": "croc-ivy-joker",
+        "where": "Defeat the giant Titan Ivy plant"
+      },
+      {
+        "id": "achievement-16",
+        "name": "Big Bang",
+        "kind": "trophy",
+        "chapterId": "croc-ivy-joker",
+        "where": "Deliver an explosive knock out blow to the Joker (Easy difficulty)"
+      },
+      {
+        "id": "achievement-17",
+        "name": "Bigger Bang",
+        "kind": "trophy",
+        "chapterId": "croc-ivy-joker",
+        "where": "Deliver an explosive knock out blow to the Joker (Normal difficulty)"
+      },
+      {
+        "id": "achievement-18",
+        "name": "Biggest Bang",
+        "kind": "trophy",
+        "chapterId": "croc-ivy-joker",
+        "where": "Deliver an explosive knock out blow to the Joker (Hard difficulty)"
+      },
+      {
+        "id": "achievement-19",
+        "name": "Party Pooper",
+        "kind": "trophy",
+        "chapterId": "croc-ivy-joker",
+        "where": "KO all the henchmen celebrating your arrival at the party"
+      },
+      {
+        "id": "achievement-20",
+        "name": "Freeflow Combo 20",
+        "kind": "trophy",
+        "chapterId": "combat-and-stealth",
+        "where": "Complete a combo of 20 moves (any play mode)"
+      },
+      {
+        "id": "achievement-21",
+        "name": "Freeflow Combo 40",
+        "kind": "trophy",
+        "chapterId": "combat-and-stealth",
+        "where": "Complete a combo of 40 moves (any play mode)"
+      },
+      {
+        "id": "achievement-22",
+        "name": "Night Glider",
+        "kind": "trophy",
+        "chapterId": "combat-and-stealth",
+        "where": "Glide continuously for over 100m"
+      },
+      {
+        "id": "achievement-23",
+        "name": "Rope-a-dope-a-dope",
+        "kind": "trophy",
+        "chapterId": "combat-and-stealth",
+        "where": "String up one henchman and drop him to surprise a second (any play mode)"
+      },
+      {
+        "id": "achievement-24",
+        "name": "Mano-a-mano",
+        "kind": "trophy",
+        "chapterId": "combat-and-stealth",
+        "where": "Defeat Titan henchman without using Batarangs (any play mode)"
+      },
+      {
+        "id": "achievement-25",
+        "name": "Catch!",
+        "kind": "trophy",
+        "chapterId": "combat-and-stealth",
+        "where": "Catch a Batarang (any play mode)"
+      },
+      {
+        "id": "achievement-26",
+        "name": "Freeflow Combo 5",
+        "kind": "trophy",
+        "chapterId": "combat-and-stealth",
+        "where": "Complete a combo of 5 moves (any play mode)"
+      },
+      {
+        "id": "achievement-27",
+        "name": "Freeflow Combo 10",
+        "kind": "trophy",
+        "chapterId": "combat-and-stealth",
+        "where": "Complete a combo of 10 moves (any play mode)"
+      },
+      {
+        "id": "achievement-28",
+        "name": "Freeflow Perfection",
+        "kind": "trophy",
+        "chapterId": "combat-and-stealth",
+        "where": "Perform a perfect combo including all of Batman's combat moves (any play mode)"
+      },
+      {
+        "id": "achievement-29",
+        "name": "Freak Show Rodeo",
+        "kind": "trophy",
+        "chapterId": "combat-and-stealth",
+        "where": "Ride a Titan henchman and knock down 5 thugs (any play mode)"
+      },
+      {
+        "id": "achievement-30",
+        "name": "Freeflow Bronze",
+        "kind": "trophy",
+        "chapterId": "challenge-mode",
+        "where": "Achieve 8 medals on combat challenges"
+      },
+      {
+        "id": "achievement-31",
+        "name": "Freeflow Silver",
+        "kind": "trophy",
+        "chapterId": "challenge-mode",
+        "where": "Achieve 16 medals on combat challenges"
+      },
+      {
+        "id": "achievement-32",
+        "name": "Freeflow Gold",
+        "kind": "trophy",
+        "chapterId": "challenge-mode",
+        "where": "Achieve 24 medals on combat challenges"
+      },
+      {
+        "id": "achievement-33",
+        "name": "Predator Bronze",
+        "kind": "trophy",
+        "chapterId": "challenge-mode",
+        "where": "Achieve 8 medals on predator challenges"
+      },
+      {
+        "id": "achievement-34",
+        "name": "Predator Silver",
+        "kind": "trophy",
+        "chapterId": "challenge-mode",
+        "where": "Achieve 16 medals on predator challenges"
+      },
+      {
+        "id": "achievement-35",
+        "name": "Predator Gold",
+        "kind": "trophy",
+        "chapterId": "challenge-mode",
+        "where": "Achieve 24 medals on predator"
+      },
+      {
+        "id": "achievement-36",
+        "name": "Invisible Predator",
+        "kind": "trophy",
+        "chapterId": "challenge-mode",
+        "where": "Complete one predator challenge by using only Silent Takedowns and without being detected"
+      },
+      {
+        "id": "achievement-37",
+        "name": "Flawless Freeflow Fighter",
+        "kind": "trophy",
+        "chapterId": "challenge-mode",
+        "where": "Complete one combat challenge without taking damage"
+      },
+      {
+        "id": "achievement-38",
+        "name": "Crack The E Nigma",
+        "kind": "trophy",
+        "chapterId": "riddler",
+        "where": "Solve every riddle on the island"
+      },
+      {
+        "id": "achievement-39",
+        "name": "Arkham Analyst",
+        "kind": "trophy",
+        "chapterId": "riddler",
+        "where": "Solve 5% of Riddler challenges"
+      },
+      {
+        "id": "achievement-40",
+        "name": "Cryptic Investigator",
+        "kind": "trophy",
+        "chapterId": "riddler",
+        "where": "Solve 10% of Riddler challenges"
+      },
+      {
+        "id": "achievement-41",
+        "name": "Lateral Thinker",
+        "kind": "trophy",
+        "chapterId": "riddler",
+        "where": "Solve 25% of Riddler challenges"
+      },
+      {
+        "id": "achievement-42",
+        "name": "Mystery Solver",
+        "kind": "trophy",
+        "chapterId": "riddler",
+        "where": "Solve 40% of Riddler challenges"
+      },
+      {
+        "id": "achievement-43",
+        "name": "Conundrum Cracker",
+        "kind": "trophy",
+        "chapterId": "riddler",
+        "where": "Solve 55% of Riddler challenges"
+      },
+      {
+        "id": "achievement-44",
+        "name": "Mental Athlete",
+        "kind": "trophy",
+        "chapterId": "riddler",
+        "where": "Solve 70% of Riddler challenges"
+      },
+      {
+        "id": "achievement-45",
+        "name": "Riddle Resolver",
+        "kind": "trophy",
+        "chapterId": "riddler",
+        "where": "Solve 85% of Riddler challenges"
+      },
+      {
+        "id": "achievement-46",
+        "name": "World's Greatest Detective",
+        "kind": "trophy",
+        "chapterId": "riddler",
+        "where": "Spirit of Amadeus Arkham revealed"
+      },
+      {
+        "id": "achievement-47",
+        "name": "Perfect Knight",
+        "kind": "trophy",
+        "chapterId": "riddler",
+        "where": "100% Complete"
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/batman-aa-goty",
+    "Achievement data from Steam (Steam Web API, app 35140)",
+    "StrategyWiki: no usable walkthrough, nothing used — https://strategywiki.org/wiki/Batman:_Arkham_Asylum",
+    "Fandom (arkhamcity.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://arkhamcity.fandom.com/wiki/Batman:_Arkham_Asylum"
+  ],
+  "route": "original",
+  "notes": "Backlog game, picked from RAWG's most-added list for its year (docs/PLAN.md section 2 ordering). StrategyWiki has the guide under \"Batman: Arkham Asylum\" (completion stage 2). Its contents list four walkthrough pages, \"Intensive Treatment\" (about 9,800 characters), \"Arkham Island\" (about 2,900), \"Medical Facility\" (about 7,000) and \"Dead Man's Point\" (about 10,200), all written, plus \"Riddler's Challenge\", \"Combat\", \"Gadgets and upgrades\" and \"Achievements and trophies\"; \"Challenge Mode\" and \"Downloadable content\" are linked but not created. The four walkthrough pages may not cover the whole story, so the guide was not used for structure; it is a candidate for a CC BY-SA route if someone checks it. arkhamcity.fandom.com answers the API under \"Batman: Arkham Asylum\", with about 173 linked pages; names only were looked at, nothing copied. None of the 47 Steam achievements is hidden. \"Double Trouble\" (two Titan henchmen at once, 38%) and \"Party Pooper\" (the party, 20%) were placed in the late story chapter by name and Steam order; that is a judgement call. \"Big Bang\", \"Bigger Bang\" and \"Biggest Bang\" are the same Joker fight on Easy, Normal and Hard and sit with the late story."
+}

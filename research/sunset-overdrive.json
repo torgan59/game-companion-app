@@ -1,0 +1,717 @@
+{
+  "id": "sunset-overdrive",
+  "title": "Sunset Overdrive",
+  "year": 2014,
+  "platforms": [
+    "PC",
+    "Xbox One"
+  ],
+  "rawgId": 6773,
+  "rawgSlug": "sunset-overdrive",
+  "released": "2014-10-28",
+  "developers": [
+    "Insomniac Games",
+    "Blind Squirrel Games"
+  ],
+  "playtime": 4,
+  "genres": [
+    "Action",
+    "Shooter",
+    "Adventure"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Multiplayer",
+    "Full controller support",
+    "Steam Cloud",
+    "steam-trading-cards",
+    "Great Soundtrack",
+    "Open World",
+    "cooperative",
+    "Third Person",
+    "Funny",
+    "Comedy"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/c2e/c2eb6021a2596644b437e943612af25c.jpg",
+  "steamAppId": 847370,
+  "achievements": {
+    "total": 80,
+    "hidden": 0,
+    "examples": [
+      {
+        "name": "Overachiever",
+        "percent": 85.5
+      },
+      {
+        "name": "Oh the Horror!",
+        "percent": 85.4
+      },
+      {
+        "name": "Dusk 'til Dawn",
+        "percent": 64.6
+      },
+      {
+        "name": "Crash Landing",
+        "percent": 2.1
+      },
+      {
+        "name": "Hardcore Buck Strikes Back",
+        "percent": 2.1
+      },
+      {
+        "name": "Hardcore Buck Stops Here",
+        "percent": 2.1
+      },
+      {
+        "name": "Out of Stock",
+        "percent": 2.0
+      },
+      {
+        "name": "I Should Get Paid for This",
+        "percent": 2.0
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": false,
+      "pages": 0,
+      "reason": "No page for Sunset Overdrive (MediaWiki API returned missing; search empty)"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 10,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://sunsetoverdrive.fandom.com/wiki/Sunset_Overdrive"
+    }
+  },
+  "game": {
+    "id": "sunset-overdrive",
+    "title": "Sunset Overdrive",
+    "platforms": [
+      "PC",
+      "Xbox One"
+    ],
+    "blurb": "Open-world third-person shooter of grinding, bouncing and wild guns in Sunset City, from Insomniac Games, released 2014-10-28 (RAWG also lists Blind Squirrel Games). RAWG average playtime: 4 hours. Genres: Action, Shooter, Adventure. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#E0661B",
+    "chapters": [
+      {
+        "id": "main-story",
+        "title": "The Main Story",
+        "summary": "Surviving the first nights, Buck, the glider crash, the Troop, the Excalamune and the fight against Fizzco.",
+        "steps": []
+      },
+      {
+        "id": "mooil-rig",
+        "title": "The Mooil Rig",
+        "summary": "A trip to the Mooil Rig, the boat defence and the sea monster.",
+        "steps": []
+      },
+      {
+        "id": "factory",
+        "title": "The Factory and the Weapon Pitch",
+        "summary": "Sneaking into a factory, robot costumes, rescuing Fiona and Lou, and designing new weapons.",
+        "steps": []
+      },
+      {
+        "id": "factions-and-side-quests",
+        "title": "Factions and Side Quests",
+        "summary": "Quests from each Faction, Ignatius's RPG, Fargarthia, Floyd's Amps, the comic book collector and fort upgrades.",
+        "steps": []
+      },
+      {
+        "id": "collectibles",
+        "title": "Collectibles Around Sunset City",
+        "summary": "Smartphones, sightseeing spots, cameras, satellites, billboards, shoes, signs, balloons, toilet paper, drawings and fashion.",
+        "steps": []
+      },
+      {
+        "id": "challenges",
+        "title": "Challenges and Replays",
+        "summary": "Challenge medals and high scores, and replaying missions under par.",
+        "steps": []
+      },
+      {
+        "id": "combat-and-style",
+        "title": "Combat, Style and Traversal",
+        "summary": "Massacring OD, style kills, traps, upgrading guns, Amps, Badges and Overdrives.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Orange Soda",
+        "kind": "trophy",
+        "chapterId": "combat-and-style",
+        "where": "5,000 OD Massacred"
+      },
+      {
+        "id": "achievement-2",
+        "name": "Perfection",
+        "kind": "trophy",
+        "chapterId": "factions-and-side-quests",
+        "where": "Complete an optional Night Defense without losing any of your overcharge"
+      },
+      {
+        "id": "achievement-3",
+        "name": "The Floor is Lava",
+        "kind": "trophy",
+        "chapterId": "combat-and-style",
+        "where": "Chain together 100 traversal moves without stopping or touching the ground"
+      },
+      {
+        "id": "achievement-4",
+        "name": "Stylish Kills",
+        "kind": "trophy",
+        "chapterId": "combat-and-style",
+        "where": "Kill 500 enemies while at Style Level 3"
+      },
+      {
+        "id": "achievement-5",
+        "name": "Let me Count the Ways",
+        "kind": "trophy",
+        "chapterId": "combat-and-style",
+        "where": "Burn, Shock, Freeze, or Enrage 1,000 enemies"
+      },
+      {
+        "id": "achievement-6",
+        "name": "Favorite",
+        "kind": "trophy",
+        "chapterId": "combat-and-style",
+        "where": "Upgrade one of your guns to Level 5"
+      },
+      {
+        "id": "achievement-7",
+        "name": "Many Favorites",
+        "kind": "trophy",
+        "chapterId": "combat-and-style",
+        "where": "Upgrade 10 guns to Level 5"
+      },
+      {
+        "id": "achievement-8",
+        "name": "I Like Them All",
+        "kind": "trophy",
+        "chapterId": "combat-and-style",
+        "where": "Upgrade 20 guns to Level 5"
+      },
+      {
+        "id": "achievement-9",
+        "name": "Amped Up",
+        "kind": "trophy",
+        "chapterId": "combat-and-style",
+        "where": "Equip 5 Amps on your character at the same time"
+      },
+      {
+        "id": "achievement-10",
+        "name": "Badge",
+        "kind": "trophy",
+        "chapterId": "combat-and-style",
+        "where": "Earn a Badge"
+      },
+      {
+        "id": "achievement-11",
+        "name": "Who is Sending These?",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Loot 25 emergency supply drops"
+      },
+      {
+        "id": "achievement-12",
+        "name": "Can't Commit",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Equip one piece of clothing from each Faction at the same time"
+      },
+      {
+        "id": "achievement-13",
+        "name": "The .1%",
+        "kind": "trophy",
+        "chapterId": "combat-and-style",
+        "where": "Spend at least 25,000 Overcharge"
+      },
+      {
+        "id": "achievement-14",
+        "name": "Overachiever",
+        "kind": "trophy",
+        "chapterId": "combat-and-style",
+        "where": "You earned an achievement"
+      },
+      {
+        "id": "achievement-15",
+        "name": "Appreciation",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Watch the credits all the way through"
+      },
+      {
+        "id": "achievement-16",
+        "name": "Not so Secret Ingredient",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Get to the bottom of Fizzco's corporate secrets"
+      },
+      {
+        "id": "achievement-17",
+        "name": "Roleplay While Rolepaying",
+        "kind": "trophy",
+        "chapterId": "factions-and-side-quests",
+        "where": "Reach Level 99 in Ignatius' epic RPG campaign"
+      },
+      {
+        "id": "achievement-18",
+        "name": "Vat Pack Rat",
+        "kind": "trophy",
+        "chapterId": "factions-and-side-quests",
+        "where": "Upgrade the Overcharge vats at every fort"
+      },
+      {
+        "id": "achievement-19",
+        "name": "Ultimate Collection",
+        "kind": "trophy",
+        "chapterId": "factions-and-side-quests",
+        "where": "Liberate all the comic books for the comic book collector"
+      },
+      {
+        "id": "achievement-20",
+        "name": "Defender of the Realm",
+        "kind": "trophy",
+        "chapterId": "factions-and-side-quests",
+        "where": "Clear Fargarthia of a hidden evil"
+      },
+      {
+        "id": "achievement-21",
+        "name": "Revolutionary",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Take back Sunset City for the misfit survivors"
+      },
+      {
+        "id": "achievement-22",
+        "name": "Equal Opportunity",
+        "kind": "trophy",
+        "chapterId": "factions-and-side-quests",
+        "where": "Complete a quest from every Faction"
+      },
+      {
+        "id": "achievement-23",
+        "name": "A Challenger Appears",
+        "kind": "trophy",
+        "chapterId": "challenges",
+        "where": "Complete 10 challenges with at least a bronze rating"
+      },
+      {
+        "id": "achievement-24",
+        "name": "Second Place",
+        "kind": "trophy",
+        "chapterId": "challenges",
+        "where": "Complete 30 challenges with at least a silver rating"
+      },
+      {
+        "id": "achievement-25",
+        "name": "The Champion",
+        "kind": "trophy",
+        "chapterId": "challenges",
+        "where": "Complete 50 challenges with a gold rating"
+      },
+      {
+        "id": "achievement-26",
+        "name": "Orange Soda II",
+        "kind": "trophy",
+        "chapterId": "combat-and-style",
+        "where": "15,000 OD massacred"
+      },
+      {
+        "id": "achievement-27",
+        "name": "Grind Kills",
+        "kind": "trophy",
+        "chapterId": "combat-and-style",
+        "where": "Kill 100 enemies while grinding"
+      },
+      {
+        "id": "achievement-28",
+        "name": "Bounce Kills",
+        "kind": "trophy",
+        "chapterId": "combat-and-style",
+        "where": "Kill 100 enemies while bouncing or while in the air"
+      },
+      {
+        "id": "achievement-29",
+        "name": "Trap Kills",
+        "kind": "trophy",
+        "chapterId": "combat-and-style",
+        "where": "Kill 500 enemies with traps"
+      },
+      {
+        "id": "achievement-30",
+        "name": "Flung to Safety",
+        "kind": "trophy",
+        "chapterId": "combat-and-style",
+        "where": "Kill 100 enemies by flinging them into danger using the Springboard Trap"
+      },
+      {
+        "id": "achievement-31",
+        "name": "Grind Melee",
+        "kind": "trophy",
+        "chapterId": "combat-and-style",
+        "where": "Melee 50 enemies while grinding"
+      },
+      {
+        "id": "achievement-32",
+        "name": "Out of Stock",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Destroy 250 Overcharge XT vending machines"
+      },
+      {
+        "id": "achievement-33",
+        "name": "Crash Landing",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Destroy 25 Fizzco Blimps just because you can"
+      },
+      {
+        "id": "achievement-34",
+        "name": "Overdrive",
+        "kind": "trophy",
+        "chapterId": "combat-and-style",
+        "where": "Unlock an Overdrive"
+      },
+      {
+        "id": "achievement-35",
+        "name": "More Overdrive",
+        "kind": "trophy",
+        "chapterId": "combat-and-style",
+        "where": "Unlock at least one Rank 4 Overdrive"
+      },
+      {
+        "id": "achievement-36",
+        "name": "Intel",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Collect all 40 Smartphones"
+      },
+      {
+        "id": "achievement-37",
+        "name": "Explorer",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Find all 20 secret sightseeing locations in Sunset City"
+      },
+      {
+        "id": "achievement-38",
+        "name": "Big Brother",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Destroy all 150 Fizzco security cameras"
+      },
+      {
+        "id": "achievement-39",
+        "name": "Wire Tapping",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Eavesdrop on nine conversations by hacking into satellites"
+      },
+      {
+        "id": "achievement-40",
+        "name": "It's Art Ok",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Deface 40 billboards with graffiti"
+      },
+      {
+        "id": "achievement-41",
+        "name": "Shoe Closet",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Collect all 150 shoes hanging from wires"
+      },
+      {
+        "id": "achievement-42",
+        "name": "Going to Need a Bigger Closet",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Collect 250 fashion items"
+      },
+      {
+        "id": "achievement-43",
+        "name": "I Should Get Paid for This",
+        "kind": "trophy",
+        "chapterId": "challenges",
+        "where": "Beat Insomniac QA's high score of 534,080 on the Challenge 'Buck's Revenge'"
+      },
+      {
+        "id": "achievement-44",
+        "name": "Replay",
+        "kind": "trophy",
+        "chapterId": "challenges",
+        "where": "Replay any Mission and complete it under par"
+      },
+      {
+        "id": "achievement-45",
+        "name": "Not the Boss of Me",
+        "kind": "trophy",
+        "chapterId": "challenges",
+        "where": "Replay the final mission and defeat the boss under par"
+      },
+      {
+        "id": "achievement-46",
+        "name": "What's Your Sign?",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Collect all 150 Overcharge hologram signs"
+      },
+      {
+        "id": "achievement-47",
+        "name": "Hot Air",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Collect all 150 Fizzie balloons"
+      },
+      {
+        "id": "achievement-48",
+        "name": "Litter",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Collect all 150 scraps of toilet paper"
+      },
+      {
+        "id": "achievement-49",
+        "name": "Mixology 101",
+        "kind": "trophy",
+        "chapterId": "factions-and-side-quests",
+        "where": "Collect 20 Amps from Floyd"
+      },
+      {
+        "id": "achievement-50",
+        "name": "Oh the Horror!",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Survive Horror Night"
+      },
+      {
+        "id": "achievement-51",
+        "name": "Dusk 'til Dawn",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Survive one night at your Fort"
+      },
+      {
+        "id": "achievement-52",
+        "name": "Buck National",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Become a reality TV star"
+      },
+      {
+        "id": "achievement-53",
+        "name": "Plan B",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Survive the glider crash and look for another way out of the city"
+      },
+      {
+        "id": "achievement-54",
+        "name": "That Balloon",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "You killed a balloon"
+      },
+      {
+        "id": "achievement-55",
+        "name": "Scouts Honor",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Become an honorary Troop Member by finding Bryllcream and defeating Norton"
+      },
+      {
+        "id": "achievement-56",
+        "name": "Ultra Mega Kill",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "That was a lot of pigeons"
+      },
+      {
+        "id": "achievement-57",
+        "name": "Save Everyone",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Save Sunset City from Fizzco's second-most powerful robot"
+      },
+      {
+        "id": "achievement-58",
+        "name": "Excalibro",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "You forged the mythical Excalamune"
+      },
+      {
+        "id": "achievement-59",
+        "name": "This is my City Now",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "You beat the final Fizzco corporate machine"
+      },
+      {
+        "id": "achievement-60",
+        "name": "Lost and Found",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Find Bryllcream... again"
+      },
+      {
+        "id": "achievement-61",
+        "name": "Crude Oil",
+        "kind": "trophy",
+        "chapterId": "mooil-rig",
+        "where": "Arrive at the Mooil Rig"
+      },
+      {
+        "id": "achievement-62",
+        "name": "Big Tobacco",
+        "kind": "trophy",
+        "chapterId": "mooil-rig",
+        "where": "Smoking causes lung cancer, heart disease, and instant death"
+      },
+      {
+        "id": "achievement-63",
+        "name": "It's Full of Stars",
+        "kind": "trophy",
+        "chapterId": "mooil-rig",
+        "where": "Light fires big enough to see from space"
+      },
+      {
+        "id": "achievement-64",
+        "name": "Seas the Day",
+        "kind": "trophy",
+        "chapterId": "mooil-rig",
+        "where": "Protect the boat from bombs, mortars, and OD"
+      },
+      {
+        "id": "achievement-65",
+        "name": "Calamari",
+        "kind": "trophy",
+        "chapterId": "mooil-rig",
+        "where": "Defeat the DL-sea monster"
+      },
+      {
+        "id": "achievement-66",
+        "name": "Big Break",
+        "kind": "trophy",
+        "chapterId": "factory",
+        "where": "Anybody can be a movie producer, because nobody knows what they do"
+      },
+      {
+        "id": "achievement-67",
+        "name": "A Boy's Best Friend is his Mother",
+        "kind": "trophy",
+        "chapterId": "factory",
+        "where": "Build the 'Feel the Burn' weapon for a guy who is stir-crazy... or just crazy"
+      },
+      {
+        "id": "achievement-68",
+        "name": "Cosplay",
+        "kind": "trophy",
+        "chapterId": "factory",
+        "where": "Put on a robot costume and collect the kill codes"
+      },
+      {
+        "id": "achievement-69",
+        "name": "Ballin'",
+        "kind": "trophy",
+        "chapterId": "factory",
+        "where": "Reroute the power inside the factory in the weirdest way possible"
+      },
+      {
+        "id": "achievement-70",
+        "name": "Language Lessons",
+        "kind": "trophy",
+        "chapterId": "factory",
+        "where": "Work with Buck and Sam to create a new weapon"
+      },
+      {
+        "id": "achievement-71",
+        "name": "Saved",
+        "kind": "trophy",
+        "chapterId": "factory",
+        "where": "Find Fiona and Lou, then help them escape by fixing Snackwrap"
+      },
+      {
+        "id": "achievement-72",
+        "name": "Special Delivery",
+        "kind": "trophy",
+        "chapterId": "factory",
+        "where": "Ride a cargo container into the factory"
+      },
+      {
+        "id": "achievement-73",
+        "name": "The Most Punchable Face",
+        "kind": "trophy",
+        "chapterId": "factory",
+        "where": "Defeat Brandon. Like, for real"
+      },
+      {
+        "id": "achievement-74",
+        "name": "The Pitch",
+        "kind": "trophy",
+        "chapterId": "factory",
+        "where": "Weapons design is a tough business"
+      },
+      {
+        "id": "achievement-75",
+        "name": "Hardcore Buck National vs The Apocalypse",
+        "kind": "trophy",
+        "chapterId": "challenges",
+        "where": "Beat the score of 400,000 on the Challenge 'Buck National vs The Apocalypse'"
+      },
+      {
+        "id": "achievement-76",
+        "name": "Hardcore Buck Strikes Back",
+        "kind": "trophy",
+        "chapterId": "challenges",
+        "where": "Beat the score of 500,000 on the Challenge 'Buck Strikes Back'"
+      },
+      {
+        "id": "achievement-77",
+        "name": "Hardcore Buck Stops Here",
+        "kind": "trophy",
+        "chapterId": "challenges",
+        "where": "Beat the score of 600,000 on the Challenge 'Buck Stops Here'"
+      },
+      {
+        "id": "achievement-78",
+        "name": "Dawwwwww",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Find all 12 of Ainsley's drawings scribbled on city walls"
+      },
+      {
+        "id": "achievement-79",
+        "name": "Worst Job in the Kingdom",
+        "kind": "trophy",
+        "chapterId": "challenges",
+        "where": "Replay the Floating Garbage mission and beat the score of 50,000"
+      },
+      {
+        "id": "achievement-80",
+        "name": "Fizzie Says April Fools",
+        "kind": "trophy",
+        "chapterId": "challenges",
+        "where": "Ha, ha! I can't believe you fell for that! (Acquire Worst Job in the Kingdom)"
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/sunset-overdrive",
+    "Achievement data from Steam (Steam Web API, app 847370)",
+    "StrategyWiki: no page for this game, nothing used",
+    "Fandom (sunsetoverdrive.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://sunsetoverdrive.fandom.com/wiki/Sunset_Overdrive"
+  ],
+  "route": "original",
+  "notes": "Backlog game, picked from RAWG's most-added list for its year (docs/PLAN.md section 2 ordering). No StrategyWiki page under \"Sunset Overdrive\". sunsetoverdrive.fandom.com answers the API, but the game page links to only 10 articles (for example \"Sunset City\", \"Fizzco\", \"Chaos Squad\"); names only were looked at, nothing copied. The Steam schema calls the app \"Sunflower\" (an internal codename); the store list confirms app 847370 as \"Sunset Overdrive\". None of the 80 Steam achievements is hidden. Achievements 61 to 65 (Mooil Rig, boat, sea monster) and 66 to 74 (factory, Fiona and Lou, Brandon, weapon design) form two later blocks in the schema with lower unlock rates; they may be add-on stories, but no achievement names one, so the chapters are named after the places. \"Big Tobacco\" and \"Big Break\" were placed by their spot in those blocks. RAWG lists a playtime of only 4 hours, which looks low."
+}

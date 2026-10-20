@@ -1,0 +1,524 @@
+{
+  "id": "dungeon-siege-3",
+  "title": "Dungeon Siege III",
+  "year": 2011,
+  "platforms": [
+    "PC",
+    "PlayStation 3",
+    "Xbox 360"
+  ],
+  "rawgId": 40265,
+  "rawgSlug": "dungeon-siege-3",
+  "released": "2011-05-31",
+  "developers": [
+    "Square Enix",
+    "Obsidian Entertainment"
+  ],
+  "playtime": 2,
+  "genres": [
+    "Action",
+    "RPG"
+  ],
+  "tags": [
+    "Fantasy",
+    "Magic",
+    "character",
+    "murder",
+    "click",
+    "dungeon"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/a8d/a8d08a70ce7a4f3263bedf5d764fc538.jpg",
+  "steamAppId": 39160,
+  "achievements": {
+    "total": 54,
+    "hidden": 10,
+    "examples": [
+      {
+        "name": "Show Off",
+        "percent": 22.0
+      },
+      {
+        "name": "We Are Legion",
+        "percent": 21.6
+      },
+      {
+        "name": "Welcome to the Winner's Circle",
+        "percent": 15.2
+      },
+      {
+        "name": "Maximum Bro Fist",
+        "percent": 1.5
+      },
+      {
+        "name": "I Could Do This Blindfolded",
+        "percent": 1.2
+      },
+      {
+        "name": "Military Intelligence",
+        "percent": 1.1
+      },
+      {
+        "name": "Helping Hand",
+        "percent": 1.1
+      },
+      {
+        "name": "Party of Four",
+        "percent": 1.0
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": false,
+      "pages": 0,
+      "reason": "No page for Dungeon Siege III (MediaWiki API returned missing; search empty)"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 123,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://dungeonsiege.fandom.com/wiki/Dungeon_Siege_III"
+    }
+  },
+  "game": {
+    "id": "dungeon-siege-3",
+    "title": "Dungeon Siege III",
+    "platforms": [
+      "PC",
+      "PlayStation 3",
+      "Xbox 360"
+    ],
+    "blurb": "Action RPG for one to four players set in the land of Ehb, from Obsidian Entertainment (published by Square Enix), released 2011-05-31. RAWG average playtime: 2 hours. Genres: Action, RPG. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#7A5C2E",
+    "chapters": [
+      {
+        "id": "main-story",
+        "title": "The Main Story",
+        "summary": "Restoring the Legion and saving Ehb, with the big choices along the way. Spoiler-guarded; most achievements here are hidden.",
+        "steps": []
+      },
+      {
+        "id": "heroes",
+        "title": "The Four Heroes",
+        "summary": "Finishing the main quest and reaching level 20 as Lucas, Anjali, Katarina and Reinhart.",
+        "steps": []
+      },
+      {
+        "id": "companions-and-choices",
+        "title": "Companions and Choices",
+        "summary": "Gathering the Legion descendants, companion influence and agreeing or disagreeing in dialogue.",
+        "steps": []
+      },
+      {
+        "id": "desert-and-abbey",
+        "title": "The Desert and the Abbey",
+        "summary": "The desert shrines, the Temple of Azunai, Sandspring Cavern, the Agallan Vault and the Abbey of St. Hiram.",
+        "steps": []
+      },
+      {
+        "id": "co-op",
+        "title": "Co-op Play",
+        "summary": "Playing with friends: four-player parties, joining other games and co-op boss fights.",
+        "steps": []
+      },
+      {
+        "id": "feats-and-mastery",
+        "title": "Boss Feats and Mastery",
+        "summary": "Special ways to beat bosses, the highest difficulty, every side quest, lore, gear and gold.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Sacred Meeting",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-2",
+        "name": "Trial by Fire",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-3",
+        "name": "Through the Murky Mire",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-4",
+        "name": "Stonebridge Alliance",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-5",
+        "name": "Long Live the Queen",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-6",
+        "name": "Aspire to Victory",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-7",
+        "name": "Welcome to the Winner's Circle",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "You have restored the Legion and saved the land of Ehb."
+      },
+      {
+        "id": "achievement-8",
+        "name": "Guardian of Ehb",
+        "kind": "trophy",
+        "chapterId": "heroes",
+        "where": "You have completed the main quest as Lucas."
+      },
+      {
+        "id": "achievement-9",
+        "name": "Fiery Judgment",
+        "kind": "trophy",
+        "chapterId": "heroes",
+        "where": "You have completed the main quest as Anjali."
+      },
+      {
+        "id": "achievement-10",
+        "name": "Lock, Stock, and Invocation",
+        "kind": "trophy",
+        "chapterId": "heroes",
+        "where": "You have completed the main quest as Katarina."
+      },
+      {
+        "id": "achievement-11",
+        "name": "The Calculus of Victory",
+        "kind": "trophy",
+        "chapterId": "heroes",
+        "where": "You have completed the main quest as Reinhart."
+      },
+      {
+        "id": "achievement-12",
+        "name": "Worthy of Legend",
+        "kind": "trophy",
+        "chapterId": "feats-and-mastery",
+        "where": "You completed Dungeon Siege III at the highest difficulty level."
+      },
+      {
+        "id": "achievement-13",
+        "name": "We Are Legion",
+        "kind": "trophy",
+        "chapterId": "companions-and-choices",
+        "where": "You have gathered a full party of Legion descendants."
+      },
+      {
+        "id": "achievement-14",
+        "name": "Show Off",
+        "kind": "trophy",
+        "chapterId": "feats-and-mastery",
+        "where": "You've paraded about in nothing but rare items."
+      },
+      {
+        "id": "achievement-15",
+        "name": "Perfectionist",
+        "kind": "trophy",
+        "chapterId": "feats-and-mastery",
+        "where": "You completed your quest, plus all other secondary quests in the game."
+      },
+      {
+        "id": "achievement-16",
+        "name": "Maximum Charisma",
+        "kind": "trophy",
+        "chapterId": "companions-and-choices",
+        "where": "You achieved the highest possible influence with one of your companions."
+      },
+      {
+        "id": "achievement-17",
+        "name": "Circle of Friends",
+        "kind": "trophy",
+        "chapterId": "companions-and-choices",
+        "where": "You achieved at least one level of influence with all three of your companions."
+      },
+      {
+        "id": "achievement-18",
+        "name": "View From The Top",
+        "kind": "trophy",
+        "chapterId": "heroes",
+        "where": "You have achieved the maximum level."
+      },
+      {
+        "id": "achievement-19",
+        "name": "Merchant of Ehb",
+        "kind": "trophy",
+        "chapterId": "feats-and-mastery",
+        "where": "You sold over 100,000 coins worth of items."
+      },
+      {
+        "id": "achievement-20",
+        "name": "Rajani's Rival",
+        "kind": "trophy",
+        "chapterId": "feats-and-mastery",
+        "where": "You bested Rajani without needing to heal yourself."
+      },
+      {
+        "id": "achievement-21",
+        "name": "Archambaud's Anathema",
+        "kind": "trophy",
+        "chapterId": "feats-and-mastery",
+        "where": "During your fight against the Dapper Old Gent, you destroyed 50 of his Automatons."
+      },
+      {
+        "id": "achievement-22",
+        "name": "Moment of Solace",
+        "kind": "trophy",
+        "chapterId": "feats-and-mastery",
+        "where": "Force Jeyne to flee before defeating her handmaids."
+      },
+      {
+        "id": "achievement-23",
+        "name": "Flawless Victory",
+        "kind": "trophy",
+        "chapterId": "feats-and-mastery",
+        "where": "You defeated the reborn god without needing to be revived by a companion."
+      },
+      {
+        "id": "achievement-24",
+        "name": "I Could Do This Blindfolded",
+        "kind": "trophy",
+        "chapterId": "feats-and-mastery",
+        "where": "You defeated a major opponent using only your default equipment."
+      },
+      {
+        "id": "achievement-25",
+        "name": "Enduring Champion",
+        "kind": "trophy",
+        "chapterId": "feats-and-mastery",
+        "where": "Over your career, you have sustained at least 100,000 points of damage."
+      },
+      {
+        "id": "achievement-26",
+        "name": "Of One Mind",
+        "kind": "trophy",
+        "chapterId": "companions-and-choices",
+        "where": "You have agreed on dialogue choices 20 times in one session."
+      },
+      {
+        "id": "achievement-27",
+        "name": "Rivalry",
+        "kind": "trophy",
+        "chapterId": "companions-and-choices",
+        "where": "You have disagreed on dialogue choices 20 times in one session."
+      },
+      {
+        "id": "achievement-28",
+        "name": "Party of Four",
+        "kind": "trophy",
+        "chapterId": "co-op",
+        "where": "You were part of a four-player party that completed the game together."
+      },
+      {
+        "id": "achievement-29",
+        "name": "Jinx",
+        "kind": "trophy",
+        "chapterId": "co-op",
+        "where": "You were part of a conversation wherein four players were all in agreement as to what to say."
+      },
+      {
+        "id": "achievement-30",
+        "name": "Military Intelligence",
+        "kind": "trophy",
+        "chapterId": "co-op",
+        "where": "You were part of a conversation wherein four players were all in disagreement over what to say."
+      },
+      {
+        "id": "achievement-31",
+        "name": "Helping Hand",
+        "kind": "trophy",
+        "chapterId": "co-op",
+        "where": "While joined to another player's game, you used an empowered Defensive Ability to assist the party."
+      },
+      {
+        "id": "achievement-32",
+        "name": "Fellowship of the Ding",
+        "kind": "trophy",
+        "chapterId": "co-op",
+        "where": "You took part in a level-up while in a four-player game."
+      },
+      {
+        "id": "achievement-33",
+        "name": "Nerds Hate Sunlight",
+        "kind": "trophy",
+        "chapterId": "co-op",
+        "where": "You and a friend have played for three hours in one session."
+      },
+      {
+        "id": "achievement-34",
+        "name": "Maximum Bro Fist",
+        "kind": "trophy",
+        "chapterId": "co-op",
+        "where": "Playing co-op as Lucas and Reinhart, you defeated a boss."
+      },
+      {
+        "id": "achievement-35",
+        "name": "Two Girls, One Boss",
+        "kind": "trophy",
+        "chapterId": "co-op",
+        "where": "Playing co-op as Anjali and Katarina, you defeated a boss."
+      },
+      {
+        "id": "achievement-36",
+        "name": "Archon Adept",
+        "kind": "trophy",
+        "chapterId": "heroes",
+        "where": "You reached level 20 as Anjali."
+      },
+      {
+        "id": "achievement-37",
+        "name": "Guardian Legend",
+        "kind": "trophy",
+        "chapterId": "heroes",
+        "where": "You reached level 20 as Lucas."
+      },
+      {
+        "id": "achievement-38",
+        "name": "Two Perfect Tens",
+        "kind": "trophy",
+        "chapterId": "heroes",
+        "where": "You reached level 20 as Katarina."
+      },
+      {
+        "id": "achievement-39",
+        "name": "Epic Scholarship",
+        "kind": "trophy",
+        "chapterId": "heroes",
+        "where": "You reached level 20 as Reinhart."
+      },
+      {
+        "id": "achievement-40",
+        "name": "Lescanzi Ally",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-41",
+        "name": "Legion Caretaker",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-42",
+        "name": "Royalist Ally",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-43",
+        "name": "Liberator",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-44",
+        "name": "Loremaster",
+        "kind": "trophy",
+        "chapterId": "feats-and-mastery",
+        "where": "You have discovered 60 lore entries in one adventure."
+      },
+      {
+        "id": "achievement-45",
+        "name": "It Ain't Lion",
+        "kind": "trophy",
+        "chapterId": "desert-and-abbey",
+        "where": "You spoke to the Lamasu."
+      },
+      {
+        "id": "achievement-46",
+        "name": "The Path Not Taken",
+        "kind": "trophy",
+        "chapterId": "heroes",
+        "where": "You respecced your character."
+      },
+      {
+        "id": "achievement-47",
+        "name": "Mummy Dearest",
+        "kind": "trophy",
+        "chapterId": "desert-and-abbey",
+        "where": "You defeated High Priest Molochi."
+      },
+      {
+        "id": "achievement-48",
+        "name": "Bones on the Sand",
+        "kind": "trophy",
+        "chapterId": "desert-and-abbey",
+        "where": "You survived your first encounter with the undead in the desert."
+      },
+      {
+        "id": "achievement-49",
+        "name": "Confirmed Shriner",
+        "kind": "trophy",
+        "chapterId": "desert-and-abbey",
+        "where": "You lit the sacred flames at all three desert shrines."
+      },
+      {
+        "id": "achievement-50",
+        "name": "The Worm Has Turned",
+        "kind": "trophy",
+        "chapterId": "desert-and-abbey",
+        "where": "You defeated the Giant Sand Worm."
+      },
+      {
+        "id": "achievement-51",
+        "name": "Litany Learned",
+        "kind": "trophy",
+        "chapterId": "desert-and-abbey",
+        "where": "You learned the recitation in the Temple of Azunai."
+      },
+      {
+        "id": "achievement-52",
+        "name": "Anointed Ointment",
+        "kind": "trophy",
+        "chapterId": "desert-and-abbey",
+        "where": "You collected the sacred oil in Sandspring Cavern."
+      },
+      {
+        "id": "achievement-53",
+        "name": "All Ye Who Enter Here",
+        "kind": "trophy",
+        "chapterId": "desert-and-abbey",
+        "where": "You performed the ritual and gained access to the Agallan Vault."
+      },
+      {
+        "id": "achievement-54",
+        "name": "Mistress of the Abbey",
+        "kind": "trophy",
+        "chapterId": "desert-and-abbey",
+        "where": "You met Eleanor, de facto leader of the Abbey of St. Hiram."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/dungeon-siege-3",
+    "Achievement data from Steam (Steam Web API, app 39160)",
+    "StrategyWiki: no page for this game, nothing used",
+    "Fandom (dungeonsiege.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://dungeonsiege.fandom.com/wiki/Dungeon_Siege_III"
+  ],
+  "route": "original",
+  "notes": "Backlog game, picked from RAWG's most-added list for its year (docs/PLAN.md section 2 ordering). No StrategyWiki page under \"Dungeon Siege III\" or \"Dungeon Siege 3\" (API returned missing). dungeonsiege.fandom.com answers the API under \"Dungeon Siege III\", with about 123 linked pages; names only were looked at, nothing copied. The Steam schema calls the app \"ValveTestApp39160\" (a placeholder name); the store list confirms app 39160 as \"Dungeon Siege III\". 10 of 54 Steam achievements are hidden, with no descriptions; they sit in the main story chapter. Four of them (\"Lescanzi Ally\", \"Legion Caretaker\", \"Royalist Ally\", \"Liberator\") look like story choices rather than plain story beats. Achievements 45 and 47 to 54 (the desert, High Priest Molochi, the Giant Sand Worm, the Agallan Vault, the Abbey of St. Hiram) form a late block of the schema with similar unlock rates (about 6 to 8%); they may be an add-on, but no achievement text says so, so the chapter is named after the places. \"It Ain't Lion\" (spoke to the Lamasu) was grouped with them by its place in the schema; that is a judgement call. RAWG lists a playtime of only 2 hours, which looks low."
+}

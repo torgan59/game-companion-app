@@ -1,0 +1,132 @@
+{
+  "id": "alice-madness-returns",
+  "title": "Alice: Madness Returns",
+  "year": 2011,
+  "platforms": [
+    "PC",
+    "PlayStation 3",
+    "Xbox 360",
+    "Xbox One"
+  ],
+  "rawgId": 4520,
+  "rawgSlug": "alice-madness-returns",
+  "released": "2011-06-14",
+  "developers": [
+    "Electronic Arts",
+    "Spicy Horse"
+  ],
+  "playtime": 3,
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Atmospheric",
+    "Story Rich",
+    "Third Person",
+    "Horror",
+    "Fantasy",
+    "Gore",
+    "Female Protagonist",
+    "Action-Adventure",
+    "Dark",
+    "Hack and Slash",
+    "3D Vision"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/0b5/0b5410b1e4b3fb72696dcefbf4f1cf40.jpg",
+  "steamAppId": null,
+  "achievements": {
+    "total": 0,
+    "examples": [],
+    "reason": "Steam app 19680 (Alice: Madness Returns) returns an empty achievement schema from the Steam Web API, so there is no Steam list. Fandom has an \"Achievements and trophies\" page and a \"Collectable Locations\" page that could seed a checklist later."
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": false,
+      "pages": 0,
+      "reason": "No page for Alice: Madness Returns (MediaWiki API returned missing; search empty)"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 159,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://alice.fandom.com/wiki/Alice:_Madness_Returns"
+    }
+  },
+  "game": {
+    "id": "alice-madness-returns",
+    "title": "Alice: Madness Returns",
+    "platforms": [
+      "PC",
+      "PlayStation 3",
+      "Xbox 360",
+      "Xbox One"
+    ],
+    "blurb": "Dark third-person action-adventure in which Alice returns to a twisted Wonderland, from Spicy Horse (published by Electronic Arts), released 2011-06-14. RAWG average playtime: 3 hours. Genres: Action, Adventure. Chapters are an estimate drawn from Fandom page names, as there is no Steam achievement list.",
+    "accent": "#8E1B2C",
+    "chapters": [
+      {
+        "id": "london-and-vale-of-tears",
+        "title": "London and the Vale of Tears",
+        "summary": "Waking in London and returning to Wonderland. Spoiler-light.",
+        "steps": []
+      },
+      {
+        "id": "hatters-domain",
+        "title": "Hatter's Domain",
+        "summary": "The Mad Hatter, the March Hare and the Dormouse.",
+        "steps": []
+      },
+      {
+        "id": "deluded-depths",
+        "title": "Deluded Depths",
+        "summary": "The Mock Turtle, the Carpenter and the Walrus.",
+        "steps": []
+      },
+      {
+        "id": "oriental-grove",
+        "title": "Oriental Grove",
+        "summary": "Samurai Wasps, Origami Ants and the Caterpillar.",
+        "steps": []
+      },
+      {
+        "id": "queensland",
+        "title": "Queensland",
+        "summary": "The card guards, the Heart Palace and its Queen.",
+        "steps": []
+      },
+      {
+        "id": "dollhouse-and-finale",
+        "title": "The Dollhouse and the Finale",
+        "summary": "The last journey to the Dollhouse and beyond. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "collectibles",
+        "title": "Memories, Bottles and Secrets",
+        "summary": "Memories, bottles, Pig Snouts, Radula Rooms, Paint Pots and the dresses.",
+        "steps": []
+      },
+      {
+        "id": "weapons-and-combat",
+        "title": "Weapons and Combat",
+        "summary": "The Vorpal Blade, Pepper Grinder, Hobby Horse, Teapot Cannon, Umbrella and Clockwork Bomb, plus Hysteria and dodging.",
+        "steps": []
+      }
+    ],
+    "collectibles": []
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/alice-madness-returns",
+    "Steam: no achievement list available for this game (see notes)",
+    "StrategyWiki: no page for this game, nothing used",
+    "Fandom (alice.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://alice.fandom.com/wiki/Alice:_Madness_Returns"
+  ],
+  "route": "original",
+  "notes": "Backlog game, picked from RAWG's most-added list for its year (docs/PLAN.md section 2 ordering). No StrategyWiki page under \"Alice: Madness Returns\" or \"Alice Madness Returns\" (API returned missing). alice.fandom.com answers the API, with about 159 linked pages, including the realm pages \"Vale of Tears\", \"Hatter's Domain\", \"Deluded Depths\", \"Oriental Grove\", \"Queensland\", \"Dollhouse\" and \"Londerland\", and the London places \"Houndsditch Home for Wayward Youth\", \"Hyde Park\" and \"Moorgate Station\"; names only were looked at, nothing copied. Steam app 19680 is in the store list but its achievement schema comes back empty and the global percentages call is refused (HTTP 403), so steam=None. Chapter order follows the order in which these realm pages are linked on the Fandom game page; it was not checked against the game. RAWG lists a playtime of only 3 hours, which looks low."
+}

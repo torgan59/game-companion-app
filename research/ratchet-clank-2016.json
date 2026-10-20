@@ -1,0 +1,111 @@
+{
+  "id": "ratchet-clank-2016",
+  "title": "Ratchet & Clank",
+  "year": 2016,
+  "platforms": [
+    "PlayStation 4"
+  ],
+  "rawgId": 2553,
+  "rawgSlug": "ratchet-clank",
+  "released": "2016-04-12",
+  "developers": [
+    "Insomniac Games"
+  ],
+  "playtime": 18,
+  "genres": [
+    "Action",
+    "Shooter",
+    "Adventure"
+  ],
+  "tags": [
+    "Action-Adventure",
+    "exclusive",
+    "true exclusive"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/d30/d30ef0c7dd4878161b1f781e297ae6a0.jpg",
+  "steamAppId": null,
+  "achievements": {
+    "total": 0,
+    "examples": [],
+    "reason": "PlayStation 4 only: no Steam app, so there is no achievement list here. PlayStation trophies are not available through the APIs this project uses. Fandom has pages named \"Ratchet & Clank (2016 game) trophies\" and \"Ratchet & Clank (2016 game) gold bolt locations\", which show what a checklist could cover; nothing was copied."
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": false,
+      "pages": 0,
+      "reason": "No page for Ratchet & Clank (MediaWiki API returned missing; search empty)"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 129,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://ratchetandclank.fandom.com/wiki/Ratchet_&_Clank_(2016_game)"
+    }
+  },
+  "game": {
+    "id": "ratchet-clank-2016",
+    "title": "Ratchet & Clank",
+    "platforms": [
+      "PlayStation 4"
+    ],
+    "blurb": "Action-adventure shooter, from Insomniac Games, released 2016-04-12 on PlayStation 4. RAWG average playtime: 18 hours. Genres: Action, Shooter, Adventure. Chapters follow the planet order of the Fandom gold bolt locations page (section headings only).",
+    "accent": "#E07B1A",
+    "chapters": [
+      {
+        "id": "veldin-and-kerwan",
+        "title": "Veldin and Kerwan",
+        "summary": "The start of the adventure on Veldin and the trip to Kerwan.",
+        "steps": []
+      },
+      {
+        "id": "aridia-and-rilgar",
+        "title": "Aridia and Rilgar",
+        "summary": "The next two planets on the journey.",
+        "steps": []
+      },
+      {
+        "id": "nebula-and-gaspar",
+        "title": "Nebula G34 and Gaspar",
+        "summary": "The Nebula G34 stop and the planet Gaspar.",
+        "steps": []
+      },
+      {
+        "id": "batalia-and-pokitaru",
+        "title": "Batalia and Pokitaru",
+        "summary": "Two more planets in the middle of the story.",
+        "steps": []
+      },
+      {
+        "id": "quartu-and-kalebo",
+        "title": "Quartu and Kalebo III",
+        "summary": "The late planets before the finale.",
+        "steps": []
+      },
+      {
+        "id": "deplanetizer",
+        "title": "The Deplanetizer",
+        "summary": "The final stretch of the story. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "extras",
+        "title": "Gold Bolts, Holocards and Extras",
+        "summary": "Gold bolts, Holocards, Raritanium upgrades, hoverboard racing and Challenge mode.",
+        "steps": []
+      }
+    ],
+    "collectibles": []
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/ratchet-clank",
+    "Steam: no achievement list available for this game (see notes)",
+    "StrategyWiki: no page for this game, nothing used",
+    "Fandom (ratchetandclank.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://ratchetandclank.fandom.com/wiki/Ratchet_&_Clank_(2016_game)"
+  ],
+  "route": "original",
+  "notes": "Backlog game, picked from RAWG's most-added list for its year (docs/PLAN.md section 2 ordering). RAWG's first search result for \"Ratchet & Clank\" was the wrong entry (\"Ratchet & Clank Collection\", 2012), so the detail for slug \"ratchet-clank\" (id 2553, 2016-04-12, PlayStation 4) was fetched and used instead. Steam has no app for this game (the only Steam match was \"Ratchet & Clank: Rift Apart\", a different game), so steam is none. StrategyWiki has no page under \"Ratchet & Clank (2016)\", \"Ratchet & Clank (2016 video game)\" or \"Ratchet & Clank (2016 game)\". ratchetandclank.fandom.com has no page under \"Ratchet & Clank (2016)\" but answers under \"Ratchet & Clank (2016 game)\", with about 129 linked pages, including planet pages such as \"Veldin\", \"Kerwan\" and \"Kalebo III\" and item pages such as \"Gold bolt\", \"Holocard\" and \"Raritanium\". The chapter order comes from the section headings of the Fandom page \"Ratchet & Clank (2016 game) gold bolt locations\" (Veldin, Kerwan, Aridia, Rilgar, Nebula G34, Gaspar, Batalia, Pokitaru, Quartu, Kalebo III, Deplanetizer); that order is probably the play order, but this was not confirmed. Fandom also links other planets (Novalis, Umbris, Oltanis, Orxon, Hoven) that have no gold bolt section, so where they fit is unknown and they are left out of the chapter titles. Names only were looked at; nothing was copied."
+}

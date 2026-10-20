@@ -1,0 +1,162 @@
+{
+  "id": "assassins-creed-2-deluxe-edition",
+  "title": "Assassin's Creed II Deluxe Edition",
+  "year": 2010,
+  "platforms": [
+    "macOS",
+    "PC"
+  ],
+  "rawgId": 13525,
+  "rawgSlug": "assassins-creed-2-deluxe-edition",
+  "released": "2010-03-04",
+  "developers": [
+    "Ubisoft Montreal"
+  ],
+  "playtime": 13,
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Multiplayer",
+    "Atmospheric",
+    "Great Soundtrack",
+    "Story Rich",
+    "Open World",
+    "Third Person",
+    "Sci-fi",
+    "Classic",
+    "Sandbox",
+    "Stealth",
+    "Action-Adventure"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/c14/c14d85f2ec10e82e3d5cd837c9c0a56d.jpg",
+  "steamAppId": null,
+  "achievements": {
+    "total": 0,
+    "examples": [],
+    "reason": "Steam app 33230 (\"Assassin's Creed 2\") returns an empty achievement schema from the Steam Web API and the global percentages call is refused (HTTP 403), so there is no Steam list. StrategyWiki has written \"Collection\" (about 14,200 characters) and \"Achievements and trophies\" (about 16,800) pages that could seed a CC BY-SA checklist."
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 30,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Assassin's_Creed_II",
+      "completionStage": 3,
+      "writtenSubpages": [
+        "Achievements and trophies",
+        "Assassin's tombs",
+        "Collection",
+        "Controls",
+        "Courier assignments",
+        "Equipment",
+        "Florence",
+        "Monteriggioni",
+        "Races",
+        "Romagna",
+        "Sequence 10: Force Majeure",
+        "Sequence 11: Alter Egos",
+        "Sequence 12: Forlì Under Attack",
+        "Sequence 13: Bonfire of the Vanities",
+        "Sequence 14: Veni, Vidi, Vici",
+        "Sequence 1: Ignorance is Bliss",
+        "Sequence 2: Escape Plans",
+        "Sequence 3: Requiescat in Pace",
+        "Sequence 4: The Pazzi Conspiracy",
+        "Sequence 5: Loose Ends",
+        "Sequence 6: Rocky Road",
+        "Sequence 7: The Merchant of Venice",
+        "Sequence 8: Necessity, Mother of Invention",
+        "Sequence 9: Carnevale",
+        "Side Missions",
+        "Table of Contents",
+        "Tuscany",
+        "Uplay",
+        "Venice",
+        "Walkthrough"
+      ],
+      "reason": "Real walkthrough structure; chapter order taken from its Table of Contents"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 495,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://assassinscreed.fandom.com/wiki/Assassin's_Creed_II"
+    }
+  },
+  "game": {
+    "id": "assassins-creed-2-deluxe-edition",
+    "title": "Assassin's Creed II Deluxe Edition",
+    "platforms": [
+      "macOS",
+      "PC"
+    ],
+    "blurb": "Open-world stealth action-adventure set in Florence, Venice and Tuscany, from Ubisoft Montreal, released 2010-03-04 on PC (console original 2009). RAWG average playtime: 13 hours. Genres: Action, Adventure. Chapter order follows the StrategyWiki walkthrough (CC BY-SA 4.0), grouped by sequence.",
+    "accent": "#9C1C1C",
+    "chapters": [
+      {
+        "id": "sequences-1-3",
+        "title": "Sequences 1 to 3: A Young Noble",
+        "summary": "Ignorance is Bliss, Escape Plans and Requiescat in Pace: the opening sequences.",
+        "steps": []
+      },
+      {
+        "id": "sequences-4-6",
+        "title": "Sequences 4 to 6: The Conspiracy",
+        "summary": "The Pazzi Conspiracy, Loose Ends and Rocky Road.",
+        "steps": []
+      },
+      {
+        "id": "sequences-7-9",
+        "title": "Sequences 7 to 9: The Merchant and the Carnival",
+        "summary": "The Merchant of Venice, Necessity, Mother of Invention and Carnevale.",
+        "steps": []
+      },
+      {
+        "id": "sequences-10-11",
+        "title": "Sequences 10 and 11: Force Majeure and Alter Egos",
+        "summary": "Two later sequences. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "sequences-12-14",
+        "title": "Sequences 12 to 14: Forlì, the Bonfire and the Finale",
+        "summary": "Forlì under attack, a bonfire of vanities and the last sequence. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "side-missions",
+        "title": "Side Missions",
+        "summary": "Races, courier assignments, beat-up events and assassination contracts.",
+        "steps": []
+      },
+      {
+        "id": "tombs-and-lairs",
+        "title": "Assassin's Tombs and Templar Lairs",
+        "summary": "Exploring the Assassin's tombs and Templar lairs.",
+        "steps": []
+      },
+      {
+        "id": "collection-and-villa",
+        "title": "Collection and Monteriggioni",
+        "summary": "The collection, equipment and building up Monteriggioni.",
+        "steps": []
+      }
+    ],
+    "collectibles": []
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/assassins-creed-2-deluxe-edition",
+    "Steam: no achievement list available for this game (see notes)",
+    "Wiki structure from StrategyWiki under CC BY-SA 4.0 (chapter order from its walkthrough contents; titles reworded, no text copied) — https://strategywiki.org/wiki/Assassin's_Creed_II",
+    "Fandom (assassinscreed.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://assassinscreed.fandom.com/wiki/Assassin's_Creed_II"
+  ],
+  "route": "cc-by-sa",
+  "notes": "Backlog game, picked from RAWG's most-added list for its year (docs/PLAN.md section 2 ordering). Route cc-by-sa: StrategyWiki (CC BY-SA 4.0) has the guide under \"Assassin's Creed II\" at completion stage 3, with 30 existing subpages. All 14 sequence pages of the walkthrough are written (about 5,300 to 17,100 characters each), as are \"Side Missions\", \"Races\", \"Courier assignments\", \"Assassin's tombs\", \"Collection\", \"Equipment\", the city pages and \"Achievements and trophies\". \"Beat-up events\", \"Assassination contracts\", \"Templar lairs\", \"Combat\" and \"Gameplay\" are linked but not created, and the \"Tuscany\" and \"Romagna\" pages are short (under 800 characters). Chapters group the sequences in contents order; titles are reworded and no text was copied. assassinscreed.fandom.com answers the API under \"Assassin's Creed II\", with about 495 linked pages; names only were looked at, nothing copied. RAWG lists the Deluxe Edition as a separate PC and macOS entry; the Steam store list has it as app 33230 \"Assassin's Creed 2\", whose achievement schema is empty, so steam=None. Which sequences the Deluxe Edition adds was not checked."
+}
