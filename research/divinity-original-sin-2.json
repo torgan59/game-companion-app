@@ -1,0 +1,844 @@
+{
+  "id": "divinity-original-sin-2",
+  "title": "Divinity: Original Sin 2",
+  "year": 2017,
+  "platforms": [
+    "PlayStation 4",
+    "Nintendo Switch",
+    "PC",
+    "Xbox One"
+  ],
+  "rawgId": 10073,
+  "rawgSlug": "divinity-original-sin-2",
+  "released": "2017-09-14",
+  "developers": [
+    "Larian Studios"
+  ],
+  "playtime": 22,
+  "genres": [
+    "RPG",
+    "Strategy"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Multiplayer",
+    "Full controller support",
+    "Steam Cloud",
+    "Atmospheric",
+    "Great Soundtrack",
+    "RPG",
+    "Co-op",
+    "Story Rich",
+    "Open World",
+    "cooperative",
+    "Online Co-Op"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/424/424facd40f4eb1f2794fe4b4bb28a277.jpg",
+  "steamAppId": 435150,
+  "achievements": {
+    "total": 97,
+    "hidden": 55,
+    "examples": [
+      {
+        "name": "Reaper's Eye",
+        "percent": 82.0
+      },
+      {
+        "name": "Thunders of the Upper Deep",
+        "percent": 80.5
+      },
+      {
+        "name": "Thief",
+        "percent": 72.7
+      },
+      {
+        "name": "The Seven Altars",
+        "percent": 5.4
+      },
+      {
+        "name": "Gather Your Party",
+        "percent": 4.3
+      },
+      {
+        "name": "Divine",
+        "percent": 3.4
+      },
+      {
+        "name": "Curse Thine Enemies",
+        "percent": 2.9
+      },
+      {
+        "name": "For Honour",
+        "percent": 1.1
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": false,
+      "pages": 0,
+      "reason": "No page for Divinity: Original Sin 2 (MediaWiki API returned missing; search empty)"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 64,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://divinity.fandom.com/wiki/Divinity:_Original_Sin_II"
+    }
+  },
+  "game": {
+    "id": "divinity-original-sin-2",
+    "title": "Divinity: Original Sin 2",
+    "platforms": [
+      "PlayStation 4",
+      "Nintendo Switch",
+      "PC",
+      "Xbox One"
+    ],
+    "blurb": "Party-based fantasy RPG with turn-based combat, from Larian Studios, released 2017-09-14. RAWG average playtime: 22 hours. Genres: RPG, Strategy. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#7B3FA0",
+    "chapters": [
+      {
+        "id": "fort-joy",
+        "title": "Fort Joy",
+        "summary": "Escaping the kraken, the prison island of Fort Joy, its arena and removing your Source Collar.",
+        "steps": []
+      },
+      {
+        "id": "driftwood",
+        "title": "Driftwood and the Lady Vengeance",
+        "summary": "Taking command of your ship, the Driftwood Arena, Meistr Siva, Tarquin and the Hall of Echoes.",
+        "steps": []
+      },
+      {
+        "id": "nameless-isle",
+        "title": "The Nameless Isle",
+        "summary": "The isle, its seven altars, the Academy and the Arena of the One.",
+        "steps": []
+      },
+      {
+        "id": "arx",
+        "title": "Arx",
+        "summary": "Arriving at Arx and the battle at sea.",
+        "steps": []
+      },
+      {
+        "id": "story-secrets",
+        "title": "Hidden Story Moments and Endings",
+        "summary": "Secret story beats, companion turns and endings. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "skills-and-crafting",
+        "title": "Source, Skills and Crafting",
+        "summary": "Source skills and Source Point slots, crafting scrolls, skills and grenades, runes and talking to spirits.",
+        "steps": []
+      },
+      {
+        "id": "side-deeds",
+        "title": "Talking, Thieving and Side Deeds",
+        "summary": "Persuasion, theft, getting caught breaking the law and rescuing Arhu.",
+        "steps": []
+      },
+      {
+        "id": "modes-and-difficulty",
+        "title": "Difficulty and Game Modes",
+        "summary": "Finishing on Explorer, Classic, Tactician and Honour, plus Arena Mode and Game Master.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Thunders of the Upper Deep",
+        "kind": "trophy",
+        "chapterId": "fort-joy",
+        "where": "Escape the kraken's clutches"
+      },
+      {
+        "id": "achievement-2",
+        "name": "Reaper's Eye",
+        "kind": "trophy",
+        "chapterId": "fort-joy",
+        "where": "Arrive at Reaper's Eye"
+      },
+      {
+        "id": "achievement-3",
+        "name": "Gladiator",
+        "kind": "trophy",
+        "chapterId": "fort-joy",
+        "where": "Become champion of the Fort Joy arena"
+      },
+      {
+        "id": "achievement-4",
+        "name": "The Great Escape",
+        "kind": "trophy",
+        "chapterId": "fort-joy",
+        "where": "Flee Fort Joy for good"
+      },
+      {
+        "id": "achievement-5",
+        "name": "Walk at Liberty",
+        "kind": "trophy",
+        "chapterId": "fort-joy",
+        "where": "Remove your Source Collar"
+      },
+      {
+        "id": "achievement-6",
+        "name": "Abound with Blessings",
+        "kind": "trophy",
+        "chapterId": "fort-joy",
+        "where": "Face a higher power"
+      },
+      {
+        "id": "achievement-7",
+        "name": "Spira, Spera",
+        "kind": "trophy",
+        "chapterId": "fort-joy",
+        "where": "Arrive at the Sanctuary of Amadia"
+      },
+      {
+        "id": "achievement-8",
+        "name": "A Good and Faithful Servant",
+        "kind": "trophy",
+        "chapterId": "fort-joy",
+        "where": "Rescue Gareth from Braccus' Armoury"
+      },
+      {
+        "id": "achievement-9",
+        "name": "His Father's Son",
+        "kind": "trophy",
+        "chapterId": "fort-joy",
+        "where": "Defeat Alexandar in Fort Joy"
+      },
+      {
+        "id": "achievement-10",
+        "name": "Cat's Out of the Bag!",
+        "kind": "trophy",
+        "chapterId": "story-secrets",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-11",
+        "name": "Hammered",
+        "kind": "trophy",
+        "chapterId": "story-secrets",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-12",
+        "name": "Dragonslayer",
+        "kind": "trophy",
+        "chapterId": "story-secrets",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-13",
+        "name": "The Weird Sister",
+        "kind": "trophy",
+        "chapterId": "story-secrets",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-14",
+        "name": "Sails That Glance in the Sun",
+        "kind": "trophy",
+        "chapterId": "driftwood",
+        "where": "Take command of the Lady Vengeance"
+      },
+      {
+        "id": "achievement-15",
+        "name": "Scholar of Secret Arts",
+        "kind": "trophy",
+        "chapterId": "driftwood",
+        "where": "Welcome Tarquin to the Seekers' service"
+      },
+      {
+        "id": "achievement-16",
+        "name": "Seascape",
+        "kind": "trophy",
+        "chapterId": "driftwood",
+        "where": "Escape Dallis' siege on the Lady Vengeance without killing every minion"
+      },
+      {
+        "id": "achievement-17",
+        "name": "Heaven's Gate",
+        "kind": "trophy",
+        "chapterId": "driftwood",
+        "where": "Enter the Hall of Echoes"
+      },
+      {
+        "id": "achievement-18",
+        "name": "Swashbuckler",
+        "kind": "trophy",
+        "chapterId": "story-secrets",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-19",
+        "name": "A Million of Waves",
+        "kind": "trophy",
+        "chapterId": "story-secrets",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-20",
+        "name": "The Meistr",
+        "kind": "trophy",
+        "chapterId": "driftwood",
+        "where": "Meet Meistr Siva"
+      },
+      {
+        "id": "achievement-21",
+        "name": "Andabata",
+        "kind": "trophy",
+        "chapterId": "driftwood",
+        "where": "Become champion of the Driftwood Arena"
+      },
+      {
+        "id": "achievement-22",
+        "name": "Apprentice",
+        "kind": "trophy",
+        "chapterId": "skills-and-crafting",
+        "where": "Use your first Source Skill"
+      },
+      {
+        "id": "achievement-23",
+        "name": "Expert",
+        "kind": "trophy",
+        "chapterId": "skills-and-crafting",
+        "where": "Unlock your second Source Point slot"
+      },
+      {
+        "id": "achievement-24",
+        "name": "Master",
+        "kind": "trophy",
+        "chapterId": "skills-and-crafting",
+        "where": "Unlock your third Source Point slot"
+      },
+      {
+        "id": "achievement-25",
+        "name": "Furious Rebuke",
+        "kind": "trophy",
+        "chapterId": "story-secrets",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-26",
+        "name": "Iniquity Forgiven",
+        "kind": "trophy",
+        "chapterId": "story-secrets",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-27",
+        "name": "Isle of the Gods",
+        "kind": "trophy",
+        "chapterId": "story-secrets",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-28",
+        "name": "The Isle of Last Resort",
+        "kind": "trophy",
+        "chapterId": "story-secrets",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-29",
+        "name": "Lawyer Up",
+        "kind": "trophy",
+        "chapterId": "story-secrets",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-30",
+        "name": "What's in a Name?",
+        "kind": "trophy",
+        "chapterId": "story-secrets",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-31",
+        "name": "Existential Crisis",
+        "kind": "trophy",
+        "chapterId": "story-secrets",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-32",
+        "name": "Infiltration",
+        "kind": "trophy",
+        "chapterId": "story-secrets",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-33",
+        "name": "Anathema",
+        "kind": "trophy",
+        "chapterId": "story-secrets",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-34",
+        "name": "A Sheep in Wolf's Clothing",
+        "kind": "trophy",
+        "chapterId": "driftwood",
+        "where": "Escort Saheila outside without fighting the Lone Wolves"
+      },
+      {
+        "id": "achievement-35",
+        "name": "Over to the Farther Coast",
+        "kind": "trophy",
+        "chapterId": "story-secrets",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-36",
+        "name": "A Nest on High",
+        "kind": "trophy",
+        "chapterId": "story-secrets",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-37",
+        "name": "Bridge Over Troubled Waters",
+        "kind": "trophy",
+        "chapterId": "driftwood",
+        "where": "Help free Mari from the Voidwoken"
+      },
+      {
+        "id": "achievement-38",
+        "name": "Cur of Low Degree",
+        "kind": "trophy",
+        "chapterId": "story-secrets",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-39",
+        "name": "The Good Doctor",
+        "kind": "trophy",
+        "chapterId": "story-secrets",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-40",
+        "name": "Technical Eggstacy",
+        "kind": "trophy",
+        "chapterId": "story-secrets",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-41",
+        "name": "Death in the Pot",
+        "kind": "trophy",
+        "chapterId": "story-secrets",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-42",
+        "name": "Kiss of the Spider Woman",
+        "kind": "trophy",
+        "chapterId": "story-secrets",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-43",
+        "name": "Proud Parent",
+        "kind": "trophy",
+        "chapterId": "story-secrets",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-44",
+        "name": "Island Hopper",
+        "kind": "trophy",
+        "chapterId": "nameless-isle",
+        "where": "Arrive at the Nameless Isle"
+      },
+      {
+        "id": "achievement-45",
+        "name": "Back to School",
+        "kind": "trophy",
+        "chapterId": "nameless-isle",
+        "where": "Enter the Academy"
+      },
+      {
+        "id": "achievement-46",
+        "name": "Get In The Ring",
+        "kind": "trophy",
+        "chapterId": "nameless-isle",
+        "where": "Enter The Arena of the One"
+      },
+      {
+        "id": "achievement-47",
+        "name": "The Seven Altars",
+        "kind": "trophy",
+        "chapterId": "nameless-isle",
+        "where": "Pray at every altar on the Nameless Isle"
+      },
+      {
+        "id": "achievement-48",
+        "name": "Favoured Son",
+        "kind": "trophy",
+        "chapterId": "story-secrets",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-49",
+        "name": "Chosen",
+        "kind": "trophy",
+        "chapterId": "story-secrets",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-50",
+        "name": "Serious Academic",
+        "kind": "trophy",
+        "chapterId": "story-secrets",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-51",
+        "name": "The Promise",
+        "kind": "trophy",
+        "chapterId": "story-secrets",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-52",
+        "name": "The Wreck of the Titan",
+        "kind": "trophy",
+        "chapterId": "arx",
+        "where": "Arrive at Arx"
+      },
+      {
+        "id": "achievement-53",
+        "name": "The Back Door",
+        "kind": "trophy",
+        "chapterId": "story-secrets",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-54",
+        "name": "Puritan's Walk",
+        "kind": "trophy",
+        "chapterId": "story-secrets",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-55",
+        "name": "The Abysmal Sea",
+        "kind": "trophy",
+        "chapterId": "arx",
+        "where": "Defeated the Kraken"
+      },
+      {
+        "id": "achievement-56",
+        "name": "Risen",
+        "kind": "trophy",
+        "chapterId": "story-secrets",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-57",
+        "name": "One For All",
+        "kind": "trophy",
+        "chapterId": "story-secrets",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-58",
+        "name": "Supreme Sacrifice",
+        "kind": "trophy",
+        "chapterId": "story-secrets",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-59",
+        "name": "Return of the King",
+        "kind": "trophy",
+        "chapterId": "story-secrets",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-60",
+        "name": "Angel and Demon",
+        "kind": "trophy",
+        "chapterId": "story-secrets",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-61",
+        "name": "A Dream Undone",
+        "kind": "trophy",
+        "chapterId": "story-secrets",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-62",
+        "name": "All-Father, Life-Shaper",
+        "kind": "trophy",
+        "chapterId": "story-secrets",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-63",
+        "name": "Demon's Embrace",
+        "kind": "trophy",
+        "chapterId": "story-secrets",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-64",
+        "name": "An Apple a Day",
+        "kind": "trophy",
+        "chapterId": "story-secrets",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-65",
+        "name": "Stay Grounded",
+        "kind": "trophy",
+        "chapterId": "story-secrets",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-66",
+        "name": "Liberator",
+        "kind": "trophy",
+        "chapterId": "story-secrets",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-67",
+        "name": "Eternal Salvation",
+        "kind": "trophy",
+        "chapterId": "story-secrets",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-68",
+        "name": "The Adventure Begins...",
+        "kind": "trophy",
+        "chapterId": "story-secrets",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-69",
+        "name": "A Wolf Avenged",
+        "kind": "trophy",
+        "chapterId": "story-secrets",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-70",
+        "name": "Fool Me Once",
+        "kind": "trophy",
+        "chapterId": "story-secrets",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-71",
+        "name": "Regicide",
+        "kind": "trophy",
+        "chapterId": "story-secrets",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-72",
+        "name": "Toy Story",
+        "kind": "trophy",
+        "chapterId": "story-secrets",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-73",
+        "name": "Lair of the White Worm",
+        "kind": "trophy",
+        "chapterId": "story-secrets",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-74",
+        "name": "Cat Person",
+        "kind": "trophy",
+        "chapterId": "side-deeds",
+        "where": "Rescue Arhu"
+      },
+      {
+        "id": "achievement-75",
+        "name": "Doctor: Heal Thyself",
+        "kind": "trophy",
+        "chapterId": "story-secrets",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-76",
+        "name": "Deal with the Devil",
+        "kind": "trophy",
+        "chapterId": "story-secrets",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-77",
+        "name": "Royalty",
+        "kind": "trophy",
+        "chapterId": "story-secrets",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-78",
+        "name": "Masquerade",
+        "kind": "trophy",
+        "chapterId": "story-secrets",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-79",
+        "name": "Sourcerer",
+        "kind": "trophy",
+        "chapterId": "modes-and-difficulty",
+        "where": "Complete the game in Explorer Mode"
+      },
+      {
+        "id": "achievement-80",
+        "name": "Godwoken",
+        "kind": "trophy",
+        "chapterId": "modes-and-difficulty",
+        "where": "Complete the game in Classic Mode"
+      },
+      {
+        "id": "achievement-81",
+        "name": "Divine",
+        "kind": "trophy",
+        "chapterId": "modes-and-difficulty",
+        "where": "Complete the game in Tactician Mode"
+      },
+      {
+        "id": "achievement-82",
+        "name": "Arcane Author",
+        "kind": "trophy",
+        "chapterId": "skills-and-crafting",
+        "where": "Craft a scroll"
+      },
+      {
+        "id": "achievement-83",
+        "name": "Took a Great Fall",
+        "kind": "trophy",
+        "chapterId": "story-secrets",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-84",
+        "name": "Skillcrafter",
+        "kind": "trophy",
+        "chapterId": "skills-and-crafting",
+        "where": "Craft a skill"
+      },
+      {
+        "id": "achievement-85",
+        "name": "Runemaster",
+        "kind": "trophy",
+        "chapterId": "skills-and-crafting",
+        "where": "Equip runes to all of an item's available slots"
+      },
+      {
+        "id": "achievement-86",
+        "name": "Spirit Animal",
+        "kind": "trophy",
+        "chapterId": "skills-and-crafting",
+        "where": "Speak to an animal's spirit"
+      },
+      {
+        "id": "achievement-87",
+        "name": "Curse Thine Enemies",
+        "kind": "trophy",
+        "chapterId": "skills-and-crafting",
+        "where": "Use the Curse skill"
+      },
+      {
+        "id": "achievement-88",
+        "name": "Hero",
+        "kind": "trophy",
+        "chapterId": "story-secrets",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-89",
+        "name": "Villain",
+        "kind": "trophy",
+        "chapterId": "story-secrets",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-90",
+        "name": "Convincing",
+        "kind": "trophy",
+        "chapterId": "side-deeds",
+        "where": "Win a persuasion event"
+      },
+      {
+        "id": "achievement-91",
+        "name": "Thief",
+        "kind": "trophy",
+        "chapterId": "side-deeds",
+        "where": "Perform a successful theft"
+      },
+      {
+        "id": "achievement-92",
+        "name": "Grenadier",
+        "kind": "trophy",
+        "chapterId": "skills-and-crafting",
+        "where": "Craft a grenade"
+      },
+      {
+        "id": "achievement-93",
+        "name": "Criminal Intent",
+        "kind": "trophy",
+        "chapterId": "side-deeds",
+        "where": "Get caught breaking the law"
+      },
+      {
+        "id": "achievement-94",
+        "name": "Venture Forth",
+        "kind": "trophy",
+        "chapterId": "modes-and-difficulty",
+        "where": "Successfully begin a match in Arena Mode"
+      },
+      {
+        "id": "achievement-95",
+        "name": "Gather Your Party",
+        "kind": "trophy",
+        "chapterId": "modes-and-difficulty",
+        "where": "Successfully begin a Game Master session"
+      },
+      {
+        "id": "achievement-96",
+        "name": "For Honour",
+        "kind": "trophy",
+        "chapterId": "modes-and-difficulty",
+        "where": "Complete the game in Honour Mode"
+      },
+      {
+        "id": "achievement-97",
+        "name": "A Song Unsung",
+        "kind": "trophy",
+        "chapterId": "story-secrets",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/divinity-original-sin-2",
+    "Achievement data from Steam (Steam Web API, app 435150)",
+    "StrategyWiki: no page for this game, nothing used",
+    "Fandom (divinity.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://divinity.fandom.com/wiki/Divinity:_Original_Sin_II"
+  ],
+  "route": "original",
+  "notes": "Backlog game, picked from RAWG's most-added list for its year (docs/PLAN.md section 2 ordering). No StrategyWiki page under \"Divinity: Original Sin II\" or \"Divinity: Original Sin 2\". divinity.fandom.com answers the API under \"Divinity: Original Sin II\", with about 64 linked pages; names only were looked at, nothing copied. The Steam app 435150 is listed in the Steam store list as \"Divinity: Original Sin 2 - Definitive Edition\", but its achievement schema calls it \"Divinity: Original Sin 2\"; RAWG has separate entries for the original (10073, used here) and the Definitive Edition (59199). 55 of 97 Steam achievements are hidden, more than half; they all sit in one \"Hidden Story Moments and Endings\" chapter rather than being spread across the story chapters by guesswork. The story chapters follow the place names in the visible achievements (Fort Joy, Lady Vengeance and Driftwood, Nameless Isle, Arx). \"Arrive at Reaper's Eye\", \"Face a higher power\" and \"Arrive at the Sanctuary of Amadia\" do not name Fort Joy; they were put in that chapter by schema position and high unlock rate, which needs checking. \"Help free Mari\" and \"Escort Saheila\" were put with Driftwood by schema position. \"Cat Person\" (rescue Arhu) went to the side deeds chapter because the data gives no place."
+}

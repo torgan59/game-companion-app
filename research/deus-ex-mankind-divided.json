@@ -1,0 +1,728 @@
+{
+  "id": "deus-ex-mankind-divided",
+  "title": "Deus Ex: Mankind Divided",
+  "year": 2016,
+  "platforms": [
+    "Linux",
+    "PC",
+    "Xbox One",
+    "macOS",
+    "PlayStation 4"
+  ],
+  "rawgId": 1447,
+  "rawgSlug": "deus-ex-mankind-divided",
+  "released": "2016-08-22",
+  "developers": [
+    "Eidos Montreal"
+  ],
+  "playtime": 7,
+  "genres": [
+    "Action",
+    "RPG"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Full controller support",
+    "Atmospheric",
+    "Great Soundtrack",
+    "RPG",
+    "Story Rich",
+    "Open World",
+    "First-Person",
+    "Third Person",
+    "Sci-fi",
+    "FPS",
+    "Stealth"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/00d/00d374f12a3ab5f96c500a2cfa901e15.jpg",
+  "steamAppId": 337000,
+  "achievements": {
+    "total": 81,
+    "hidden": 30,
+    "examples": [
+      {
+        "name": "Singh No Swan Song",
+        "percent": 59.6
+      },
+      {
+        "name": "Humanity +",
+        "percent": 55.7
+      },
+      {
+        "name": "I Can Only Fight Enemies I Can See",
+        "percent": 55.0
+      },
+      {
+        "name": "Excess Baggage Fees",
+        "percent": 1.2
+      },
+      {
+        "name": "Data Emperor",
+        "percent": 1.2
+      },
+      {
+        "name": "Camera, Action, Red-Handed",
+        "percent": 1.2
+      },
+      {
+        "name": "A Heist of Olympic Proportions",
+        "percent": 1.2
+      },
+      {
+        "name": "Burning Neodymium",
+        "percent": 1.2
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": false,
+      "pages": 0,
+      "reason": "No page for Deus Ex: Mankind Divided (MediaWiki API returned missing; search empty)"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 137,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://deusex.fandom.com/wiki/Deus_Ex:_Mankind_Divided"
+    }
+  },
+  "game": {
+    "id": "deus-ex-mankind-divided",
+    "title": "Deus Ex: Mankind Divided",
+    "platforms": [
+      "Linux",
+      "PC",
+      "Xbox One",
+      "macOS",
+      "PlayStation 4"
+    ],
+    "blurb": "Action RPG from Eidos Montreal, released 2016-08-22. RAWG average playtime: 7 hours. Genres: Action, RPG. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#C9A227",
+    "chapters": [
+      {
+        "id": "main-story",
+        "title": "The Main Story",
+        "summary": "Adam Jensen's missions, from Dubai to the GARM facility and beyond. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "playthrough-challenges",
+        "title": "Playthrough Challenges",
+        "summary": "Finishing a whole run without killing anyone or without triggering a single alarm.",
+        "steps": []
+      },
+      {
+        "id": "secrets-and-side",
+        "title": "Secrets, Side Jobs and eBooks",
+        "summary": "The keypad code, the Gold Penguin, Koller's favours, the cucumbers and every unique eBook.",
+        "steps": []
+      },
+      {
+        "id": "augs-and-combat",
+        "title": "Augmentations, Combat and Hacking",
+        "summary": "Upgrading weapons and the Aug Tree, experimental augs, stealth, drones and hacking challenges.",
+        "steps": []
+      },
+      {
+        "id": "breach",
+        "title": "Breach Mode",
+        "summary": "The separate Breach mode: server networks, Darknet files, deliveries and challenges.",
+        "steps": []
+      },
+      {
+        "id": "system-rift",
+        "title": "System Rift (story)",
+        "summary": "The System Rift Jensen Story, its server chamber and its no-kill run.",
+        "steps": []
+      },
+      {
+        "id": "criminal-past",
+        "title": "A Criminal Past (story)",
+        "summary": "A Criminal Past, set in a prison: Cell Block B, inmates, trades and a no-kill run.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "We Are Human Beings",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "You completed Deus Ex: Mankind Divided on any difficulty."
+      },
+      {
+        "id": "achievement-2",
+        "name": "Pacifist",
+        "kind": "trophy",
+        "chapterId": "playthrough-challenges",
+        "where": "You completed Deus Ex: Mankind Divided without killing a single soul. Bosses are people, too."
+      },
+      {
+        "id": "achievement-3",
+        "name": "Foxiest of the Hounds",
+        "kind": "trophy",
+        "chapterId": "playthrough-challenges",
+        "where": "You triggered zero alarms during an entire playthrough."
+      },
+      {
+        "id": "achievement-4",
+        "name": "I Never Asked For This",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-5",
+        "name": "The Supreme Enlightened",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-6",
+        "name": "Spokes in Two Wheels",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-7",
+        "name": "He's [Not] Dead, Jim",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-8",
+        "name": "Laputan Machine",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-9",
+        "name": "A Heated Combination",
+        "kind": "trophy",
+        "chapterId": "secrets-and-side",
+        "where": "Enter a classic numerical code in the game's first keypad."
+      },
+      {
+        "id": "achievement-10",
+        "name": "Ghost",
+        "kind": "trophy",
+        "chapterId": "augs-and-combat",
+        "where": "Cross enemy territory like a ghost, raising no hostile reaction from anyone."
+      },
+      {
+        "id": "achievement-11",
+        "name": "Singh No Swan Song",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Have Singh's back when it matters most."
+      },
+      {
+        "id": "achievement-12",
+        "name": "Between Technology and the Divine",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Complete & win the debate with Talos Rucker."
+      },
+      {
+        "id": "achievement-13",
+        "name": "Honor Holds Us All Together",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-14",
+        "name": "God Killer",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-15",
+        "name": "The Golden Rookery",
+        "kind": "trophy",
+        "chapterId": "secrets-and-side",
+        "where": "Find the missing Gold Penguin and return him back to his colony."
+      },
+      {
+        "id": "achievement-16",
+        "name": "Core Driller",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Use the Ice Drill to bypass a large section of the GARM facility."
+      },
+      {
+        "id": "achievement-17",
+        "name": "The Net Is Vast and Infinite",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-18",
+        "name": "So Many Cucumbers",
+        "kind": "trophy",
+        "chapterId": "secrets-and-side",
+        "where": "Deus Ex Is All About Cucumbers…"
+      },
+      {
+        "id": "achievement-19",
+        "name": "Time Traveler",
+        "kind": "trophy",
+        "chapterId": "secrets-and-side",
+        "where": "You managed to bring Koller the Neuroplasticity Calibrator before he even asked you for it."
+      },
+      {
+        "id": "achievement-20",
+        "name": "Tablet Collector",
+        "kind": "trophy",
+        "chapterId": "secrets-and-side",
+        "where": "Collect and read every unique eBook."
+      },
+      {
+        "id": "achievement-21",
+        "name": "Ruthless Efficiency",
+        "kind": "trophy",
+        "chapterId": "augs-and-combat",
+        "where": "Fully upgrade a weapon of your choice."
+      },
+      {
+        "id": "achievement-22",
+        "name": "Humanity +",
+        "kind": "trophy",
+        "chapterId": "augs-and-combat",
+        "where": "Fully upgrade a branch of your Augmentation Tree."
+      },
+      {
+        "id": "achievement-23",
+        "name": "And Embrace What You've Become",
+        "kind": "trophy",
+        "chapterId": "augs-and-combat",
+        "where": "Install at least one experimental augmentation."
+      },
+      {
+        "id": "achievement-24",
+        "name": "The Jack of All Augments",
+        "kind": "trophy",
+        "chapterId": "augs-and-combat",
+        "where": "Invest in at least one augmentation in every branch of the Aug Tree."
+      },
+      {
+        "id": "achievement-25",
+        "name": "The Invincible Body, Fighting an Iron Devil",
+        "kind": "trophy",
+        "chapterId": "augs-and-combat",
+        "where": "Block an incoming enemy explosive with the Titan Shield."
+      },
+      {
+        "id": "achievement-26",
+        "name": "Slow & Sharp",
+        "kind": "trophy",
+        "chapterId": "augs-and-combat",
+        "where": "Land an Explosive Nanoblade Shot on three enemies at once while the Focus Augmentation is active."
+      },
+      {
+        "id": "achievement-27",
+        "name": "This is Great for Spring Cleaning",
+        "kind": "trophy",
+        "chapterId": "augs-and-combat",
+        "where": "Use both Knockback & Precision functions of the P.E.P.S. Arm Cannon at least once."
+      },
+      {
+        "id": "achievement-28",
+        "name": "Ramming Speed!!",
+        "kind": "trophy",
+        "chapterId": "augs-and-combat",
+        "where": "Ram Dash into an enemy NPC with a fully charged Icarus Dash."
+      },
+      {
+        "id": "achievement-29",
+        "name": "Express Elevator to Hell, Going Down",
+        "kind": "trophy",
+        "chapterId": "augs-and-combat",
+        "where": "Land an Icarus Landing & Strike on foes and clear out the pack with the Typhoon. Just to make sure."
+      },
+      {
+        "id": "achievement-30",
+        "name": "Invisible War",
+        "kind": "trophy",
+        "chapterId": "augs-and-combat",
+        "where": "Incapacitate a cloaked enemy while still remaining cloaked yourself."
+      },
+      {
+        "id": "achievement-31",
+        "name": "Ground Mail Was a Better Option",
+        "kind": "trophy",
+        "chapterId": "augs-and-combat",
+        "where": "Flawlessly disable a Drone via Remote Hacking."
+      },
+      {
+        "id": "achievement-32",
+        "name": "****! Taser Fist!",
+        "kind": "trophy",
+        "chapterId": "augs-and-combat",
+        "where": "Lock-On and deploy the Quad Arc upgrade of the Tesla Knuckle on four enemies at once."
+      },
+      {
+        "id": "achievement-33",
+        "name": "I Can Only Fight Enemies I Can See",
+        "kind": "trophy",
+        "chapterId": "augs-and-combat",
+        "where": "Complete one Hacking Challenge with Fog Security without using a Reveal Software."
+      },
+      {
+        "id": "achievement-34",
+        "name": "Samizdat",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-35",
+        "name": "K is for Kazdy",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-36",
+        "name": "The Harvester",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-37",
+        "name": "The Golden Ticket",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-38",
+        "name": "The Last Harvest",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-39",
+        "name": "01011000",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-40",
+        "name": "Cult of Personality",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-41",
+        "name": "All in the Family",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-42",
+        "name": "Handle with Care",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-43",
+        "name": "Neon Nights",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-44",
+        "name": "Ballsy",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-45",
+        "name": "Adept of the Metaverse",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Engage in all Tutorials in Adam's first mission in Dubai."
+      },
+      {
+        "id": "achievement-46",
+        "name": "Fresh Out of the Package",
+        "kind": "trophy",
+        "chapterId": "secrets-and-side",
+        "where": "With Koller's help and the Neuroplasticity Calibrator, eliminate overclocking for experimental augs."
+      },
+      {
+        "id": "achievement-47",
+        "name": "Data Disciple",
+        "kind": "trophy",
+        "chapterId": "breach",
+        "where": "Breach: Complete all Versalife, Steiner-Bisley and Tarvos servers in Tier 1 Network."
+      },
+      {
+        "id": "achievement-48",
+        "name": "Data Detective",
+        "kind": "trophy",
+        "chapterId": "breach",
+        "where": "Breach: Complete a Darknet file."
+      },
+      {
+        "id": "achievement-49",
+        "name": "Data Expert",
+        "kind": "trophy",
+        "chapterId": "breach",
+        "where": "Breach: Complete all Versalife, Steiner-Bisley and Tarvos servers in Tier 2 Network."
+      },
+      {
+        "id": "achievement-50",
+        "name": "Data Master",
+        "kind": "trophy",
+        "chapterId": "breach",
+        "where": "Breach: Complete all Versalife, Steiner-Bisley and Tarvos servers in Tier 3 Network."
+      },
+      {
+        "id": "achievement-51",
+        "name": "Extract the Data…",
+        "kind": "trophy",
+        "chapterId": "system-rift",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-52",
+        "name": "Expose the Truth!",
+        "kind": "trophy",
+        "chapterId": "system-rift",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-53",
+        "name": "Murder He Wrote",
+        "kind": "trophy",
+        "chapterId": "system-rift",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-54",
+        "name": "Help Desk",
+        "kind": "trophy",
+        "chapterId": "system-rift",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-55",
+        "name": "Go Figure",
+        "kind": "trophy",
+        "chapterId": "system-rift",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-56",
+        "name": "Knock Knock",
+        "kind": "trophy",
+        "chapterId": "system-rift",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-57",
+        "name": "Too Hot to Handle",
+        "kind": "trophy",
+        "chapterId": "system-rift",
+        "where": "Complete the server chamber area without being detected by any HeatEye cameras or enemies."
+      },
+      {
+        "id": "achievement-58",
+        "name": "Clean Sweep",
+        "kind": "trophy",
+        "chapterId": "system-rift",
+        "where": "Complete the System Rift Jensen Story without killing anyone."
+      },
+      {
+        "id": "achievement-59",
+        "name": "Hourglass",
+        "kind": "trophy",
+        "chapterId": "breach",
+        "where": "Breach: Complete 10 Santeau servers."
+      },
+      {
+        "id": "achievement-60",
+        "name": "Ashes to Ashes",
+        "kind": "trophy",
+        "chapterId": "breach",
+        "where": "Breach: Complete the Santeau Darknet File."
+      },
+      {
+        "id": "achievement-61",
+        "name": "Excess Baggage Fees",
+        "kind": "trophy",
+        "chapterId": "breach",
+        "where": "Breach: Complete a server using 6 Expansion Items at once."
+      },
+      {
+        "id": "achievement-62",
+        "name": "Data Emperor",
+        "kind": "trophy",
+        "chapterId": "breach",
+        "where": "Breach: Complete 5 Tier 4 Network servers."
+      },
+      {
+        "id": "achievement-63",
+        "name": "The 40-Yard Digital Dash",
+        "kind": "trophy",
+        "chapterId": "breach",
+        "where": "Breach: Succeed 3 Data Sphere deliveries."
+      },
+      {
+        "id": "achievement-64",
+        "name": "Camera, Action, Red-Handed",
+        "kind": "trophy",
+        "chapterId": "breach",
+        "where": "Breach: Complete the PICUS Darknet File."
+      },
+      {
+        "id": "achievement-65",
+        "name": "A Heist of Olympic Proportions",
+        "kind": "trophy",
+        "chapterId": "breach",
+        "where": "Breach: Complete 5 PICUS Servers."
+      },
+      {
+        "id": "achievement-66",
+        "name": "Bad Sector",
+        "kind": "trophy",
+        "chapterId": "breach",
+        "where": "Breach: Complete 5 Ghost Servers."
+      },
+      {
+        "id": "achievement-67",
+        "name": "Fire Sale",
+        "kind": "trophy",
+        "chapterId": "breach",
+        "where": "Breach: Destroy 2 enemies at once using a Red Unstable Cube."
+      },
+      {
+        "id": "achievement-68",
+        "name": "Burning Neodymium",
+        "kind": "trophy",
+        "chapterId": "breach",
+        "where": "Breach: Eliminate a Prime Unit while the Titan.aug is active."
+      },
+      {
+        "id": "achievement-69",
+        "name": "Not The Rippers You Are Looking For",
+        "kind": "trophy",
+        "chapterId": "breach",
+        "where": "Breach: Use the Alarm_Cancel.pkg in a server."
+      },
+      {
+        "id": "achievement-70",
+        "name": "Now I'm Feeling A Little Motivated",
+        "kind": "trophy",
+        "chapterId": "breach",
+        "where": "Breach: Win 3 Challenges."
+      },
+      {
+        "id": "achievement-71",
+        "name": "You're Not Worthy As My Opponent",
+        "kind": "trophy",
+        "chapterId": "breach",
+        "where": "Breach: Send 3 Challenges."
+      },
+      {
+        "id": "achievement-72",
+        "name": "A Criminal Past",
+        "kind": "trophy",
+        "chapterId": "criminal-past",
+        "where": "Complete A Criminal Past."
+      },
+      {
+        "id": "achievement-73",
+        "name": "Winners Don't Use Drugs (or Biocells)",
+        "kind": "trophy",
+        "chapterId": "criminal-past",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-74",
+        "name": "Code of Conduct",
+        "kind": "trophy",
+        "chapterId": "criminal-past",
+        "where": "Complete A Criminal Past without killing anyone."
+      },
+      {
+        "id": "achievement-75",
+        "name": "Don't Reach, Kid",
+        "kind": "trophy",
+        "chapterId": "criminal-past",
+        "where": "Find the basketball and put it in the hoop."
+      },
+      {
+        "id": "achievement-76",
+        "name": "Smooth Like Soap",
+        "kind": "trophy",
+        "chapterId": "criminal-past",
+        "where": "Find Mejia in Cell Block B without raising an alarm."
+      },
+      {
+        "id": "achievement-77",
+        "name": "Objection!",
+        "kind": "trophy",
+        "chapterId": "criminal-past",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-78",
+        "name": "Quid Pro Quo",
+        "kind": "trophy",
+        "chapterId": "criminal-past",
+        "where": "Help out a fellow inmate by making a trade."
+      },
+      {
+        "id": "achievement-79",
+        "name": "Dressed for the Occasion",
+        "kind": "trophy",
+        "chapterId": "criminal-past",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-80",
+        "name": "A Just Cause",
+        "kind": "trophy",
+        "chapterId": "criminal-past",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-81",
+        "name": "Umlauts or no Umlauts",
+        "kind": "trophy",
+        "chapterId": "criminal-past",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/deus-ex-mankind-divided",
+    "Achievement data from Steam (Steam Web API, app 337000)",
+    "StrategyWiki: no page for this game, nothing used",
+    "Fandom (deusex.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://deusex.fandom.com/wiki/Deus_Ex:_Mankind_Divided"
+  ],
+  "route": "original",
+  "notes": "Backlog game, picked from RAWG's most-added list for its year (docs/PLAN.md section 2 ordering). No StrategyWiki page under \"Deus Ex: Mankind Divided\" or \"Deus Ex Mankind Divided\", and a StrategyWiki search for it came back empty. deusex.fandom.com answers the API, with about 137 linked pages; names only were looked at, nothing copied. 30 of 81 Steam achievements are hidden. The descriptions name three add-on parts: Breach (a separate mode), \"the System Rift Jensen Story\" and \"A Criminal Past\"; the data does not say which are paid DLC. 6 hidden ones listed between the first Breach block and the System Rift achievements (\"Extract the Data…\" to \"Knock Knock\") were put in System Rift by schema position, and so was the visible \"Too Hot to Handle\" (server chamber), which sits right before \"Clean Sweep\"; this needs checking, since they could belong to Breach. 5 hidden ones inside the A Criminal Past block were put there by schema position. The other 19 hidden ones sit in the main story; \"I Never Asked For This\" (1.7 percent), \"Laputan Machine\" (6.9) and \"Ballsy\" (4.5) have low unlock rates and may be difficulty or optional goals. Story-flavoured visible ones (Singh, Talos Rucker debate, GARM ice drill, Dubai tutorials) were put in the main story by their descriptions."
+}

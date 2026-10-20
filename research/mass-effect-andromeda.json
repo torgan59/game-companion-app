@@ -1,0 +1,530 @@
+{
+  "id": "mass-effect-andromeda",
+  "title": "Mass Effect: Andromeda",
+  "year": 2017,
+  "platforms": [
+    "Xbox One",
+    "PC",
+    "PlayStation 4"
+  ],
+  "rawgId": 137,
+  "rawgSlug": "mass-effect-andromeda",
+  "released": "2017-03-21",
+  "developers": [
+    "BioWare"
+  ],
+  "playtime": 23,
+  "genres": [
+    "Action",
+    "RPG"
+  ],
+  "tags": [
+    "Story Rich",
+    "Sci-fi",
+    "Space",
+    "3rd-Person Perspective",
+    "Romance",
+    "first person mod"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/a3a/a3a13c2a388a44a28401e8bd705eec77.jpg",
+  "steamAppId": 1238000,
+  "achievements": {
+    "total": 55,
+    "hidden": 0,
+    "examples": [
+      {
+        "name": "First Contact",
+        "percent": 82.5
+      },
+      {
+        "name": "Pathfinder",
+        "percent": 72.0
+      },
+      {
+        "name": "Initiated",
+        "percent": 64.1
+      },
+      {
+        "name": "Friendly Fire",
+        "percent": 2.9
+      },
+      {
+        "name": "Hang Time",
+        "percent": 2.6
+      },
+      {
+        "name": "Sucker Punch",
+        "percent": 2.4
+      },
+      {
+        "name": "Cryptographer",
+        "percent": 2.3
+      },
+      {
+        "name": "Rough Landing",
+        "percent": 2.2
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": false,
+      "pages": 0,
+      "reason": "No page for Mass Effect: Andromeda (MediaWiki API returned missing; search empty)"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 121,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://masseffect.fandom.com/wiki/Mass_Effect:_Andromeda"
+    }
+  },
+  "game": {
+    "id": "mass-effect-andromeda",
+    "title": "Mass Effect: Andromeda",
+    "platforms": [
+      "Xbox One",
+      "PC",
+      "PlayStation 4"
+    ],
+    "blurb": "Science-fiction action RPG set in the Andromeda galaxy, from BioWare, released 2017-03-21. RAWG average playtime: 23 hours. Genres: Action, RPG. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#2C6FB7",
+    "chapters": [
+      {
+        "id": "main-story",
+        "title": "The Main Story",
+        "summary": "Becoming the Pathfinder, the Tempest, Aya and the angara, Remnant vaults, the exaltation facility and Meridian.",
+        "steps": []
+      },
+      {
+        "id": "arks-and-allies",
+        "title": "Arks, Allies and Squadmates",
+        "summary": "The other arks and the krogan colony ship, the outlaws, the Roekaar, uniting the outposts, squadmate tasks and romances.",
+        "steps": []
+      },
+      {
+        "id": "exploration",
+        "title": "Exploring Planets",
+        "summary": "Outposts, planet viability, the Nomad, scanning and Remnant puzzles.",
+        "steps": []
+      },
+      {
+        "id": "combat",
+        "title": "Combat Feats",
+        "summary": "Power combos, melee, hovering, constructs, revives and Remnant tricks.",
+        "steps": []
+      },
+      {
+        "id": "growth",
+        "title": "Levels, Profiles and Crafting",
+        "summary": "Levels, weapon ranks, profiles, evolving powers and crafting.",
+        "steps": []
+      },
+      {
+        "id": "apex",
+        "title": "APEX Multiplayer and Strike Teams",
+        "summary": "The multiplayer mode, strike team missions, extractions and Insanity runs.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Fireworks",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Perform 100 power combos."
+      },
+      {
+        "id": "achievement-2",
+        "name": "Terminator",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Kill 2000 enemies."
+      },
+      {
+        "id": "achievement-3",
+        "name": "Death from Above",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Kill 100 enemies while hovering. (Single-Player)"
+      },
+      {
+        "id": "achievement-4",
+        "name": "Close Combat Specialist",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Kill 100 enemies with melee attacks."
+      },
+      {
+        "id": "achievement-5",
+        "name": "With Our Powers Combined",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Detonate 10 targets that were primed by a teammate. (Single-Player)"
+      },
+      {
+        "id": "achievement-6",
+        "name": "Pinpoint Shot",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Hit 250 enemy weak points while using a scope. (Single-Player)"
+      },
+      {
+        "id": "achievement-7",
+        "name": "Medic!",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Perform 25 revivals on teammates."
+      },
+      {
+        "id": "achievement-8",
+        "name": "Mastermind",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Using constructs, kill 100 enemies."
+      },
+      {
+        "id": "achievement-9",
+        "name": "Icebreaker",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Shatter a frozen enemy with a jump melee attack. (Single-Player)"
+      },
+      {
+        "id": "achievement-10",
+        "name": "Fastball",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Hit an enemy with a thrown enemy 25 times. (Single-Player)"
+      },
+      {
+        "id": "achievement-11",
+        "name": "Rough Landing",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Detonate a trip mine with a thrown enemy. (Single-Player)"
+      },
+      {
+        "id": "achievement-12",
+        "name": "Friendly Fire",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Direct your Remnant VI to attack each type of Remnant enemy. (Single-Player)"
+      },
+      {
+        "id": "achievement-13",
+        "name": "Trapshooter",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Hit 25 floating enemies with Concussive Shot, Lance, or Incinerate. (Single-Player)"
+      },
+      {
+        "id": "achievement-14",
+        "name": "Sucker Punch",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Use a melee attack to hit 25 floating enemies. (Single-Player)"
+      },
+      {
+        "id": "achievement-15",
+        "name": "Pyrotechnics Expert",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Light three enemies on fire with one continuous Flamethrower attack. (Single-Player)"
+      },
+      {
+        "id": "achievement-16",
+        "name": "Long-Distance Jump",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Travel at least 30m in a single jump. (Single-Player)"
+      },
+      {
+        "id": "achievement-17",
+        "name": "Matchmaker",
+        "kind": "trophy",
+        "chapterId": "arks-and-allies",
+        "where": "Complete romances with three different characters across all playthroughs."
+      },
+      {
+        "id": "achievement-18",
+        "name": "Vanguard Surprise",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "While cloaked, hit an enemy with a Charge attack. (Single-Player)"
+      },
+      {
+        "id": "achievement-19",
+        "name": "Hang Time",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Keep the Nomad airborne for 35 seconds."
+      },
+      {
+        "id": "achievement-20",
+        "name": "Unwavering",
+        "kind": "trophy",
+        "chapterId": "apex",
+        "where": "Complete an \"Insanity\" single-player game, or 5 \"Gold\" multiplayer extractions from any firebase."
+      },
+      {
+        "id": "achievement-21",
+        "name": "Veteran",
+        "kind": "trophy",
+        "chapterId": "apex",
+        "where": "Successfully complete a combined 25 strike team missions or APEX multiplayer mode extractions."
+      },
+      {
+        "id": "achievement-22",
+        "name": "APEX",
+        "kind": "trophy",
+        "chapterId": "apex",
+        "where": "Complete the multiplayer mode tutorial mission."
+      },
+      {
+        "id": "achievement-23",
+        "name": "Explorer",
+        "kind": "trophy",
+        "chapterId": "apex",
+        "where": "Complete a combined five strike team missions or APEX extractions in multiplayer mode."
+      },
+      {
+        "id": "achievement-24",
+        "name": "Mission Accomplished",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Activate Meridian."
+      },
+      {
+        "id": "achievement-25",
+        "name": "Activation",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Activate the Remnant city."
+      },
+      {
+        "id": "achievement-26",
+        "name": "Family Connections",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Reboot the Pathfinder."
+      },
+      {
+        "id": "achievement-27",
+        "name": "Liberation",
+        "kind": "trophy",
+        "chapterId": "arks-and-allies",
+        "where": "Free the salarian ark."
+      },
+      {
+        "id": "achievement-28",
+        "name": "Foothold",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Establish an outpost."
+      },
+      {
+        "id": "achievement-29",
+        "name": "Exaltation",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Destroy the exaltation facility or save the angaran prisoners."
+      },
+      {
+        "id": "achievement-30",
+        "name": "First Steps",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Meet the angara on Aya."
+      },
+      {
+        "id": "achievement-31",
+        "name": "Alliance",
+        "kind": "trophy",
+        "chapterId": "arks-and-allies",
+        "where": "Ally with an outlaw faction."
+      },
+      {
+        "id": "achievement-32",
+        "name": "Pathfinder",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Become the new Pathfinder."
+      },
+      {
+        "id": "achievement-33",
+        "name": "Initiated",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Gain access to the Tempest."
+      },
+      {
+        "id": "achievement-34",
+        "name": "World-Shaper",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Activate the first Remnant vault."
+      },
+      {
+        "id": "achievement-35",
+        "name": "Buccaneer",
+        "kind": "trophy",
+        "chapterId": "arks-and-allies",
+        "where": "Recover the krogan colony ship."
+      },
+      {
+        "id": "achievement-36",
+        "name": "Building Bridges",
+        "kind": "trophy",
+        "chapterId": "arks-and-allies",
+        "where": "Stop the Roekaar leader."
+      },
+      {
+        "id": "achievement-37",
+        "name": "United",
+        "kind": "trophy",
+        "chapterId": "arks-and-allies",
+        "where": "Unite the outposts against a common threat."
+      },
+      {
+        "id": "achievement-38",
+        "name": "Helping Hand",
+        "kind": "trophy",
+        "chapterId": "arks-and-allies",
+        "where": "Help Vetra's sister."
+      },
+      {
+        "id": "achievement-39",
+        "name": "Signal Tracking",
+        "kind": "trophy",
+        "chapterId": "arks-and-allies",
+        "where": "Find the source of the strange signal Peebee discovers."
+      },
+      {
+        "id": "achievement-40",
+        "name": "Role Model",
+        "kind": "trophy",
+        "chapterId": "arks-and-allies",
+        "where": "Rescue the asari ark."
+      },
+      {
+        "id": "achievement-41",
+        "name": "Full Roster",
+        "kind": "trophy",
+        "chapterId": "arks-and-allies",
+        "where": "In single-player mode, recruit all six squadmates."
+      },
+      {
+        "id": "achievement-42",
+        "name": "First Contact",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Land on an alien planet."
+      },
+      {
+        "id": "achievement-43",
+        "name": "Peak Condition",
+        "kind": "trophy",
+        "chapterId": "growth",
+        "where": "Reach Level 40 in single-player mode or Level 20 in multiplayer mode."
+      },
+      {
+        "id": "achievement-44",
+        "name": "Kitted Out",
+        "kind": "trophy",
+        "chapterId": "growth",
+        "where": "Kill a foe with a Rank 5 weapon in a single-player game or equip a Rank 10 weapon in multiplayer."
+      },
+      {
+        "id": "achievement-45",
+        "name": "High Performance",
+        "kind": "trophy",
+        "chapterId": "growth",
+        "where": "Unlock Rank 6 for each single-player profile type, or obtain a Level 6 multiplayer bonus stat."
+      },
+      {
+        "id": "achievement-46",
+        "name": "Full Power",
+        "kind": "trophy",
+        "chapterId": "growth",
+        "where": "Evolve one tech, one combat, and one biotic power to Rank 6. (Single-Player)"
+      },
+      {
+        "id": "achievement-47",
+        "name": "Almost There",
+        "kind": "trophy",
+        "chapterId": "growth",
+        "where": "Reach Level 25 in single player mode or Level 15 in multiplayer mode."
+      },
+      {
+        "id": "achievement-48",
+        "name": "Teamwork",
+        "kind": "trophy",
+        "chapterId": "apex",
+        "where": "Create six strike teams or earn 25 assist medals in multiplayer mode."
+      },
+      {
+        "id": "achievement-49",
+        "name": "Top Talent",
+        "kind": "trophy",
+        "chapterId": "apex",
+        "where": "Promote a strike team to Level 20."
+      },
+      {
+        "id": "achievement-50",
+        "name": "Jack Of All Trades",
+        "kind": "trophy",
+        "chapterId": "growth",
+        "where": "Equip three different profile types."
+      },
+      {
+        "id": "achievement-51",
+        "name": "All Clear",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Increase all discovered planets to 100% viability."
+      },
+      {
+        "id": "achievement-52",
+        "name": "Terraformer",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Increase a discovered planet to 100% viability."
+      },
+      {
+        "id": "achievement-53",
+        "name": "Craftsmanship",
+        "kind": "trophy",
+        "chapterId": "growth",
+        "where": "Craft armor or a gun with 3 augments."
+      },
+      {
+        "id": "achievement-54",
+        "name": "Data Mining",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Scan 100 different objects."
+      },
+      {
+        "id": "achievement-55",
+        "name": "Cryptographer",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Complete 20 Remnant puzzles in a single playthrough."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/mass-effect-andromeda",
+    "Achievement data from Steam (Steam Web API, app 1238000)",
+    "StrategyWiki: no page for this game, nothing used",
+    "Fandom (masseffect.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://masseffect.fandom.com/wiki/Mass_Effect:_Andromeda"
+  ],
+  "route": "original",
+  "notes": "Backlog game, picked from RAWG's most-added list for its year (docs/PLAN.md section 2 ordering). No StrategyWiki page under \"Mass Effect: Andromeda\" or \"Mass Effect Andromeda\". masseffect.fandom.com answers the API under \"Mass Effect: Andromeda\", with about 121 linked pages; names only were looked at, nothing copied. None of the 55 Steam achievements is hidden, so story beats are visible and the main story chapter is built from them. \"Unwavering\" (Insanity single-player or Gold multiplayer extractions) and \"APEX\" (the multiplayer tutorial) were put in the APEX chapter. Which story achievements are main path and which are optional (the arks, the krogan colony ship, the Roekaar leader) is a guess from the descriptions and needs checking."
+}

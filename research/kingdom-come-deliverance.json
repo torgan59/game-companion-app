@@ -1,0 +1,739 @@
+{
+  "id": "kingdom-come-deliverance",
+  "title": "Kingdom Come: Deliverance",
+  "year": 2018,
+  "platforms": [
+    "PlayStation 4",
+    "Xbox One",
+    "PC"
+  ],
+  "rawgId": 28172,
+  "rawgSlug": "kingdom-come-deliverance",
+  "released": "2018-02-13",
+  "developers": [
+    "Deep Silver",
+    "Warhorse Studios"
+  ],
+  "playtime": 10,
+  "genres": [
+    "Action",
+    "Adventure",
+    "RPG"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Full controller support",
+    "Atmospheric",
+    "Great Soundtrack",
+    "RPG",
+    "Story Rich",
+    "Open World",
+    "First-Person",
+    "Choices Matter",
+    "Realistic",
+    "Historical"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/d8f/d8f3b28fc747ed6f92943cdd33fb91b5.jpeg",
+  "steamAppId": 379430,
+  "achievements": {
+    "total": 82,
+    "hidden": 46,
+    "examples": [
+      {
+        "name": "Fatso",
+        "percent": 44.2
+      },
+      {
+        "name": "Scrooge",
+        "percent": 40.2
+      },
+      {
+        "name": "Ranger",
+        "percent": 37.3
+      },
+      {
+        "name": "Infernal Justice",
+        "percent": 2.0
+      },
+      {
+        "name": "Hardcore Henry",
+        "percent": 1.5
+      },
+      {
+        "name": "Voyeur",
+        "percent": 1.5
+      },
+      {
+        "name": "'Tis but a scratch",
+        "percent": 1.1
+      },
+      {
+        "name": "Pilgrim",
+        "percent": 1.0
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": false,
+      "pages": 0,
+      "reason": "No page for Kingdom Come: Deliverance (MediaWiki API returned missing; search empty)"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 61,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://kingdomcomedeliverance.fandom.com/wiki/Kingdom_Come:_Deliverance"
+    }
+  },
+  "game": {
+    "id": "kingdom-come-deliverance",
+    "title": "Kingdom Come: Deliverance",
+    "platforms": [
+      "PlayStation 4",
+      "Xbox One",
+      "PC"
+    ],
+    "blurb": "Realistic first-person medieval RPG from Warhorse Studios (published by Deep Silver), released 2018-02-13. RAWG average playtime: 10 hours (well under a full run). Genres: Action, Adventure, RPG. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#6B4E2E",
+    "chapters": [
+      {
+        "id": "main-story",
+        "title": "The Main Story",
+        "summary": "Henry, a blacksmith's son, is caught up in a civil war after his village is attacked. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "world-and-quests",
+        "title": "Quests, Travel and the Countryside",
+        "summary": "Side quests, locations, shrines and crosses, the Talmberg horse race, the Rattay tourney, hunting, reputation, dice and money.",
+        "steps": []
+      },
+      {
+        "id": "skills-and-combat",
+        "title": "Skills and Combat",
+        "summary": "Levels, Speech, combos, headshots and stealth kills.",
+        "steps": []
+      },
+      {
+        "id": "daily-life",
+        "title": "Daily Life and Survival",
+        "summary": "Food, sleep, drink, books, potions, herbs, theft and time in prison.",
+        "steps": []
+      },
+      {
+        "id": "pribyslavitz",
+        "title": "Rebuilding Pribyslavitz",
+        "summary": "Getting the village of Pribyslavitz renewed and making it pay.",
+        "steps": []
+      },
+      {
+        "id": "womans-lot",
+        "title": "A Woman's Lot",
+        "summary": "Theresa's story.",
+        "steps": []
+      },
+      {
+        "id": "later-add-on",
+        "title": "Later Add-on Achievements",
+        "summary": "The block of achievements listed after Theresa's story: Pavel's treasure, Henslin, Johanka and more.",
+        "steps": []
+      },
+      {
+        "id": "hardcore",
+        "title": "Hardcore Mode",
+        "summary": "Finishing the game in Hardcore Mode, with or without all the negative perks.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Alcoholic",
+        "kind": "trophy",
+        "chapterId": "daily-life",
+        "where": "Become addicted to alcohol."
+      },
+      {
+        "id": "achievement-2",
+        "name": "Insomniac",
+        "kind": "trophy",
+        "chapterId": "daily-life",
+        "where": "Don't sleep for two days and nights."
+      },
+      {
+        "id": "achievement-3",
+        "name": "Fatso",
+        "kind": "trophy",
+        "chapterId": "daily-life",
+        "where": "Be stuffed to bursting for two days."
+      },
+      {
+        "id": "achievement-4",
+        "name": "Anorectic",
+        "kind": "trophy",
+        "chapterId": "daily-life",
+        "where": "Starve for three days."
+      },
+      {
+        "id": "achievement-5",
+        "name": "Bookworm",
+        "kind": "trophy",
+        "chapterId": "daily-life",
+        "where": "Read twenty books."
+      },
+      {
+        "id": "achievement-6",
+        "name": "Edward Kelly",
+        "kind": "trophy",
+        "chapterId": "daily-life",
+        "where": "Brew fifteen types of potion"
+      },
+      {
+        "id": "achievement-7",
+        "name": "Stealth Killer",
+        "kind": "trophy",
+        "chapterId": "skills-and-combat",
+        "where": "Kill twenty enemies by stealth"
+      },
+      {
+        "id": "achievement-8",
+        "name": "Hunter",
+        "kind": "trophy",
+        "chapterId": "world-and-quests",
+        "where": "Bag fifty game animals."
+      },
+      {
+        "id": "achievement-9",
+        "name": "Bard",
+        "kind": "trophy",
+        "chapterId": "skills-and-combat",
+        "where": "Level up Speech to maximum."
+      },
+      {
+        "id": "achievement-10",
+        "name": "King Charming",
+        "kind": "trophy",
+        "chapterId": "world-and-quests",
+        "where": "Be popular in every town and village."
+      },
+      {
+        "id": "achievement-11",
+        "name": "Completionist",
+        "kind": "trophy",
+        "chapterId": "world-and-quests",
+        "where": "Complete all quests."
+      },
+      {
+        "id": "achievement-12",
+        "name": "Merciful",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-13",
+        "name": "Serial Killer",
+        "kind": "trophy",
+        "chapterId": "skills-and-combat",
+        "where": "Kill 200 people."
+      },
+      {
+        "id": "achievement-14",
+        "name": "Traveller",
+        "kind": "trophy",
+        "chapterId": "world-and-quests",
+        "where": "Discover all locations on the map."
+      },
+      {
+        "id": "achievement-15",
+        "name": "Knightrider",
+        "kind": "trophy",
+        "chapterId": "world-and-quests",
+        "where": "Win the Talmberg horse race."
+      },
+      {
+        "id": "achievement-16",
+        "name": "Ranger",
+        "kind": "trophy",
+        "chapterId": "world-and-quests",
+        "where": "Walk more than 50 Km."
+      },
+      {
+        "id": "achievement-17",
+        "name": "Pilgrim",
+        "kind": "trophy",
+        "chapterId": "world-and-quests",
+        "where": "Find all wayside shrines and conciliatory crosses."
+      },
+      {
+        "id": "achievement-18",
+        "name": "Thief",
+        "kind": "trophy",
+        "chapterId": "daily-life",
+        "where": "Steal things with a total value of 30,000 Groschen."
+      },
+      {
+        "id": "achievement-19",
+        "name": "Level Cap",
+        "kind": "trophy",
+        "chapterId": "skills-and-combat",
+        "where": "Reach maximum level."
+      },
+      {
+        "id": "achievement-20",
+        "name": "Fighter",
+        "kind": "trophy",
+        "chapterId": "skills-and-combat",
+        "where": "Carry out 100 combos in combat."
+      },
+      {
+        "id": "achievement-21",
+        "name": "Sniper",
+        "kind": "trophy",
+        "chapterId": "skills-and-combat",
+        "where": "Kill 50 enemies with headshots."
+      },
+      {
+        "id": "achievement-22",
+        "name": "Haggler",
+        "kind": "trophy",
+        "chapterId": "world-and-quests",
+        "where": "Save 2000 Groschen by haggling."
+      },
+      {
+        "id": "achievement-23",
+        "name": "Scrooge",
+        "kind": "trophy",
+        "chapterId": "world-and-quests",
+        "where": "Hoard 5,000 Groschen."
+      },
+      {
+        "id": "achievement-24",
+        "name": "Convict",
+        "kind": "trophy",
+        "chapterId": "daily-life",
+        "where": "Spend three days in prison."
+      },
+      {
+        "id": "achievement-25",
+        "name": "David Horak",
+        "kind": "trophy",
+        "chapterId": "daily-life",
+        "where": "Collect 10,000 herbs."
+      },
+      {
+        "id": "achievement-26",
+        "name": "Gambler",
+        "kind": "trophy",
+        "chapterId": "world-and-quests",
+        "where": "Win 1,000 Groschen in the dice minigame."
+      },
+      {
+        "id": "achievement-27",
+        "name": "Blacksmith's Son",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-28",
+        "name": "Cavalier",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-29",
+        "name": "Awakening",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-30",
+        "name": "Buddy",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-31",
+        "name": "Ginger",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-32",
+        "name": "Runt",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-33",
+        "name": "Monk",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-34",
+        "name": "Bastard",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-35",
+        "name": "Conqueror",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-36",
+        "name": "Talmberger",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-37",
+        "name": "The End",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Complete the main story line."
+      },
+      {
+        "id": "achievement-38",
+        "name": "Firestarter",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-39",
+        "name": "Sinner",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-40",
+        "name": "Plague Doctor",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-41",
+        "name": "McLovin",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-42",
+        "name": "Casanova",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-43",
+        "name": "Judas",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-44",
+        "name": "Freud",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-45",
+        "name": "Master Huntsman",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-46",
+        "name": "Robber Baron",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-47",
+        "name": "Spoilsport",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-48",
+        "name": "Bad Trip",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-49",
+        "name": "Virgin",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-50",
+        "name": "Hardcore Henry",
+        "kind": "trophy",
+        "chapterId": "hardcore",
+        "where": "Finish the game in Hardcore Mode."
+      },
+      {
+        "id": "achievement-51",
+        "name": "'Tis but a scratch",
+        "kind": "trophy",
+        "chapterId": "hardcore",
+        "where": "Finish the game in Hardcore Mode with all negative perks."
+      },
+      {
+        "id": "achievement-52",
+        "name": "Kingdom Did Not Come",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-53",
+        "name": "Bailiff",
+        "kind": "trophy",
+        "chapterId": "pribyslavitz",
+        "where": "Ensure the renewal of Pribyslavitz."
+      },
+      {
+        "id": "achievement-54",
+        "name": "Trial-and-Error",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-55",
+        "name": "Perfectionist",
+        "kind": "trophy",
+        "chapterId": "pribyslavitz",
+        "where": "Make 2,000 Groschen a day from Pribyslavitz."
+      },
+      {
+        "id": "achievement-56",
+        "name": "Friends without Benefits",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-57",
+        "name": "Arena Master",
+        "kind": "trophy",
+        "chapterId": "world-and-quests",
+        "where": "Get a complete set of armour from the Rattay tourney."
+      },
+      {
+        "id": "achievement-58",
+        "name": "True Friend",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-59",
+        "name": "Wingman",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-60",
+        "name": "I Can Quit Anytime",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-61",
+        "name": "Lord Capon's Ghost",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-62",
+        "name": "Ledetchko Revenant",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-63",
+        "name": "Christian Burial",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-64",
+        "name": "Not-so-Christian Burial",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-65",
+        "name": "Tracker",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-66",
+        "name": "Chivalrous Soul",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-67",
+        "name": "Pinky Promise",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-68",
+        "name": "Torturer",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-69",
+        "name": "Mercenary's Honour",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-70",
+        "name": "Game Over",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-71",
+        "name": "Lost Trinket",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-72",
+        "name": "Saviour",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-73",
+        "name": "Death by Splinter",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-74",
+        "name": "Woman's Lot",
+        "kind": "trophy",
+        "chapterId": "womans-lot",
+        "where": "Complete Theresa's story."
+      },
+      {
+        "id": "achievement-75",
+        "name": "Bad Girl",
+        "kind": "trophy",
+        "chapterId": "later-add-on",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-76",
+        "name": "Like a Ghost",
+        "kind": "trophy",
+        "chapterId": "later-add-on",
+        "where": "Recover Pavel's treasure without being discovered."
+      },
+      {
+        "id": "achievement-77",
+        "name": "You had one job!",
+        "kind": "trophy",
+        "chapterId": "later-add-on",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-78",
+        "name": "Voyeur",
+        "kind": "trophy",
+        "chapterId": "later-add-on",
+        "where": "See what Henslin has in his braies without being observed."
+      },
+      {
+        "id": "achievement-79",
+        "name": "Full House Sinner",
+        "kind": "trophy",
+        "chapterId": "later-add-on",
+        "where": "Have on your conscience every sin Johanka can think of."
+      },
+      {
+        "id": "achievement-80",
+        "name": "Infernal Justice",
+        "kind": "trophy",
+        "chapterId": "later-add-on",
+        "where": "The punishment fits the crime."
+      },
+      {
+        "id": "achievement-81",
+        "name": "Angel of Mercy",
+        "kind": "trophy",
+        "chapterId": "later-add-on",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-82",
+        "name": "Cleric's Pet",
+        "kind": "trophy",
+        "chapterId": "later-add-on",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/kingdom-come-deliverance",
+    "Achievement data from Steam (Steam Web API, app 379430)",
+    "StrategyWiki: no page for this game, nothing used",
+    "Fandom (kingdomcomedeliverance.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://kingdomcomedeliverance.fandom.com/wiki/Kingdom_Come:_Deliverance"
+  ],
+  "route": "original",
+  "notes": "Backlog game, picked from RAWG's most-added list for its year (docs/PLAN.md section 2 ordering). No StrategyWiki page under \"Kingdom Come: Deliverance\" or \"Kingdom Come Deliverance\". kingdomcomedeliverance.fandom.com answers the API, with about 61 linked pages; names only were looked at, nothing copied. 46 of 82 Steam achievements are hidden. \"Woman's Lot\" (complete Theresa's story) matches the A Woman's Lot entry in RAWG's search results. The 8 achievements listed after it (4 hidden, 4 visible, from \"Bad Girl\" to \"Cleric's Pet\") were grouped by schema position into \"Later Add-on Achievements\"; the data does not say which add-on they belong to, so this needs checking. The hidden ones between \"Bailiff\" and \"Arena Master\"/\"Death by Splinter\" (positions 54 to 73, such as \"Trial-and-Error\", \"Lord Capon's Ghost\", \"Mercenary's Honour\") sit in the main story chapter with all other hidden ones; many of them have low unlock rates and are probably side quests or add-on content. \"Merciful\" (hidden, 0.9 percent) is also in the main story chapter as a placeholder."
+}

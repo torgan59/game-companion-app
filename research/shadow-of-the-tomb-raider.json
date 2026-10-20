@@ -1,0 +1,848 @@
+{
+  "id": "shadow-of-the-tomb-raider",
+  "title": "Shadow of the Tomb Raider",
+  "year": 2018,
+  "platforms": [
+    "PlayStation 4",
+    "PC",
+    "Xbox One",
+    "macOS",
+    "Linux"
+  ],
+  "rawgId": 51329,
+  "rawgSlug": "shadow-of-the-tomb-raider",
+  "released": "2018-09-14",
+  "developers": [
+    "Eidos Montreal"
+  ],
+  "playtime": 10,
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Full controller support",
+    "Steam Cloud",
+    "Atmospheric",
+    "steam-trading-cards",
+    "Great Soundtrack",
+    "Story Rich",
+    "Open World",
+    "Third Person",
+    "Gore",
+    "Exploration"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/7f6/7f6cd70ba2ad57053b4847c13569f2d8.jpg",
+  "steamAppId": 750920,
+  "achievements": {
+    "total": 99,
+    "hidden": 52,
+    "examples": [
+      {
+        "name": "First Steps",
+        "percent": 77.0
+      },
+      {
+        "name": "Look, Over There!",
+        "percent": 68.1
+      },
+      {
+        "name": "Asking Price",
+        "percent": 60.0
+      },
+      {
+        "name": "Completionist",
+        "percent": 5.8
+      },
+      {
+        "name": "One with the Jungle",
+        "percent": 5.7
+      },
+      {
+        "name": "Thanksgiving",
+        "percent": 3.9
+      },
+      {
+        "name": "Made to Endure",
+        "percent": 2.8
+      },
+      {
+        "name": "Deadly Obsession",
+        "percent": 2.2
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": false,
+      "pages": 0,
+      "reason": "No page for Shadow of the Tomb Raider (MediaWiki API returned missing; search empty)"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 180,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://tombraider.fandom.com/wiki/Shadow_of_the_Tomb_Raider"
+    }
+  },
+  "game": {
+    "id": "shadow-of-the-tomb-raider",
+    "title": "Shadow of the Tomb Raider",
+    "platforms": [
+      "PlayStation 4",
+      "PC",
+      "Xbox One",
+      "macOS",
+      "Linux"
+    ],
+    "blurb": "Action-adventure in which Lara Croft races to stop a Maya apocalypse in a deadly jungle, from Eidos Montreal, released 2018-09-14. RAWG average playtime: 10 hours. Genres: Action, Adventure. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#2E5E4E",
+    "chapters": [
+      {
+        "id": "main-story",
+        "title": "The Main Story",
+        "summary": "Lara chases Maya relics through the jungle to stop an apocalypse she helped start. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "tombs-and-crypts",
+        "title": "Tombs, Crypts and Relics",
+        "summary": "Challenge Tombs, Crypts, monoliths, artifact collections, Conquistador chests and 100 percent completion.",
+        "steps": []
+      },
+      {
+        "id": "exploration",
+        "title": "Exploration, Hubs and Side Missions",
+        "summary": "Side missions, challenges, civilians, merchants, outfits, animals, critters, llamas and gold ore.",
+        "steps": []
+      },
+      {
+        "id": "combat-and-skills",
+        "title": "Combat, Stealth and Skills",
+        "summary": "Stealth takedowns, mud walls, Perception, Focus and Endurance, bow and pistol skills, weapon upgrades and crafting.",
+        "steps": []
+      },
+      {
+        "id": "difficulty",
+        "title": "Difficulty Runs",
+        "summary": "Finishing the game on each difficulty, up to Deadly Obsession.",
+        "steps": []
+      },
+      {
+        "id": "extra-tombs",
+        "title": "Definitive Edition Extra Tombs",
+        "summary": "The extra tomb chapters bundled in the Definitive Edition. All achievements here are hidden.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Treasures from the Past",
+        "kind": "trophy",
+        "chapterId": "tombs-and-crypts",
+        "where": "Decipher a Monolith"
+      },
+      {
+        "id": "achievement-2",
+        "name": "Dr. Croft",
+        "kind": "trophy",
+        "chapterId": "tombs-and-crypts",
+        "where": "Complete all Artifact Collections"
+      },
+      {
+        "id": "achievement-3",
+        "name": "Stele Hunter",
+        "kind": "trophy",
+        "chapterId": "tombs-and-crypts",
+        "where": "Complete 3 main game Challenge Tombs"
+      },
+      {
+        "id": "achievement-4",
+        "name": "Tomb Raider",
+        "kind": "trophy",
+        "chapterId": "tombs-and-crypts",
+        "where": "Complete all main game Challenge Tombs"
+      },
+      {
+        "id": "achievement-5",
+        "name": "Chain Gang",
+        "kind": "trophy",
+        "chapterId": "combat-and-skills",
+        "where": "Perform the Serpent's Fury 3 times"
+      },
+      {
+        "id": "achievement-6",
+        "name": "Like a Shadow",
+        "kind": "trophy",
+        "chapterId": "combat-and-skills",
+        "where": "Stealth Takedown 25 enemies"
+      },
+      {
+        "id": "achievement-7",
+        "name": "To the Nines",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Restore and equip a matching vestige outfit"
+      },
+      {
+        "id": "achievement-8",
+        "name": "Makeshift Arsenal",
+        "kind": "trophy",
+        "chapterId": "combat-and-skills",
+        "where": "Fully upgrade a weapon"
+      },
+      {
+        "id": "achievement-9",
+        "name": "Up to the Challenge",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Complete 5 Challenges"
+      },
+      {
+        "id": "achievement-10",
+        "name": "Thread the Past",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Restore 5 vestige outfit pieces"
+      },
+      {
+        "id": "achievement-11",
+        "name": "Help thy Neighbor",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Complete a Side Mission"
+      },
+      {
+        "id": "achievement-12",
+        "name": "Good Samaritan",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Complete 8 Side Missions"
+      },
+      {
+        "id": "achievement-13",
+        "name": "Surprise!",
+        "kind": "trophy",
+        "chapterId": "combat-and-skills",
+        "where": "Perform 5 Eagle's Talon Takedowns"
+      },
+      {
+        "id": "achievement-14",
+        "name": "First Steps",
+        "kind": "trophy",
+        "chapterId": "combat-and-skills",
+        "where": "Purchase a Skill"
+      },
+      {
+        "id": "achievement-15",
+        "name": "Specialized",
+        "kind": "trophy",
+        "chapterId": "combat-and-skills",
+        "where": "Earn all skills in one category"
+      },
+      {
+        "id": "achievement-16",
+        "name": "Treasure Hunter",
+        "kind": "trophy",
+        "chapterId": "tombs-and-crypts",
+        "where": "Find and open all the main game Conquistador treasure chests"
+      },
+      {
+        "id": "achievement-17",
+        "name": "Asking Price",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Buy an item from a merchant"
+      },
+      {
+        "id": "achievement-18",
+        "name": "Tables Turned",
+        "kind": "trophy",
+        "chapterId": "combat-and-skills",
+        "where": "Kill 5 enemies while they are searching for Lara"
+      },
+      {
+        "id": "achievement-19",
+        "name": "Look, Over There!",
+        "kind": "trophy",
+        "chapterId": "combat-and-skills",
+        "where": "Kill 3 enemies while they are distracted"
+      },
+      {
+        "id": "achievement-20",
+        "name": "Total Party Kill",
+        "kind": "trophy",
+        "chapterId": "combat-and-skills",
+        "where": "Kill 5 enemies with friendly fire"
+      },
+      {
+        "id": "achievement-21",
+        "name": "Playing with Fire",
+        "kind": "trophy",
+        "chapterId": "combat-and-skills",
+        "where": "Burn 2 enemies simultaneously"
+      },
+      {
+        "id": "achievement-22",
+        "name": "Gunslinger",
+        "kind": "trophy",
+        "chapterId": "combat-and-skills",
+        "where": "Perform 3 headshots in 3 seconds with the pistol"
+      },
+      {
+        "id": "achievement-23",
+        "name": "Last Known Position",
+        "kind": "trophy",
+        "chapterId": "combat-and-skills",
+        "where": "Lose the enemy 10 times"
+      },
+      {
+        "id": "achievement-24",
+        "name": "Beast of Legend",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-25",
+        "name": "Sixth Sense",
+        "kind": "trophy",
+        "chapterId": "combat-and-skills",
+        "where": "Hunt and kill 10 enemies while Perception is active"
+      },
+      {
+        "id": "achievement-26",
+        "name": "In the Moment",
+        "kind": "trophy",
+        "chapterId": "combat-and-skills",
+        "where": "Kill 10 enemies while Focus is active"
+      },
+      {
+        "id": "achievement-27",
+        "name": "Made to Endure",
+        "kind": "trophy",
+        "chapterId": "combat-and-skills",
+        "where": "Takedown 10 enemies while Endurance is active"
+      },
+      {
+        "id": "achievement-28",
+        "name": "Como Te Llama",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Pet 5 llamas"
+      },
+      {
+        "id": "achievement-29",
+        "name": "Underwater Archeologist",
+        "kind": "trophy",
+        "chapterId": "tombs-and-crypts",
+        "where": "Collect 5 underwater Artifacts"
+      },
+      {
+        "id": "achievement-30",
+        "name": "New Heights",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Complete a climb after finding the Overhang Climbing Gear"
+      },
+      {
+        "id": "achievement-31",
+        "name": "That's a Knife!",
+        "kind": "trophy",
+        "chapterId": "combat-and-skills",
+        "where": "Fully upgrade the knife"
+      },
+      {
+        "id": "achievement-32",
+        "name": "Zoologist",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Collect 20 critters"
+      },
+      {
+        "id": "achievement-33",
+        "name": "Legendary Hunter",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Hunt and loot 5 rare animals"
+      },
+      {
+        "id": "achievement-34",
+        "name": "Untold Riches",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Gather 40 gold ore"
+      },
+      {
+        "id": "achievement-35",
+        "name": "Marksman",
+        "kind": "trophy",
+        "chapterId": "combat-and-skills",
+        "where": "Perform 20 headshots with the bow"
+      },
+      {
+        "id": "achievement-36",
+        "name": "First Blood",
+        "kind": "trophy",
+        "chapterId": "combat-and-skills",
+        "where": "Perform a Stealth Takedown from a mud-covered wall"
+      },
+      {
+        "id": "achievement-37",
+        "name": "Unwelcome Guests",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-38",
+        "name": "I Believe Hakan Fly",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-39",
+        "name": "Hearts and Minds",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-40",
+        "name": "On the Go",
+        "kind": "trophy",
+        "chapterId": "combat-and-skills",
+        "where": "Craft special ammunition 50 times"
+      },
+      {
+        "id": "achievement-41",
+        "name": "Point of Interest",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Learn of 5 interesting locations from civilians"
+      },
+      {
+        "id": "achievement-42",
+        "name": "Thanksgiving",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Shoot a turkey with a Flare Round"
+      },
+      {
+        "id": "achievement-43",
+        "name": "Better Equipped",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Get 3 pieces of equipment"
+      },
+      {
+        "id": "achievement-44",
+        "name": "Path of the Stars",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-45",
+        "name": "Día de Muertos",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-46",
+        "name": "Recipe for Disaster",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-47",
+        "name": "Survival Instincts",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-48",
+        "name": "Fire of Life",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-49",
+        "name": "The Hidden City",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-50",
+        "name": "The Underworld",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-51",
+        "name": "Family Ties",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-52",
+        "name": "Heart of the Serpent",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-53",
+        "name": "The Chosen One",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-54",
+        "name": "Back to Where We Started",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-55",
+        "name": "Queen of the Damned",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-56",
+        "name": "Quite the Adventure",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Finish the main storyline"
+      },
+      {
+        "id": "achievement-57",
+        "name": "Smart and Resourceful",
+        "kind": "trophy",
+        "chapterId": "difficulty",
+        "where": "Complete Shadow of the Tomb Raider on Smart and Resourceful difficulty"
+      },
+      {
+        "id": "achievement-58",
+        "name": "Rite of Passage",
+        "kind": "trophy",
+        "chapterId": "difficulty",
+        "where": "Complete Shadow of the Tomb Raider on Rite of Passage difficulty"
+      },
+      {
+        "id": "achievement-59",
+        "name": "One with the Jungle",
+        "kind": "trophy",
+        "chapterId": "difficulty",
+        "where": "Complete Shadow of the Tomb Raider on One with the Jungle difficulty"
+      },
+      {
+        "id": "achievement-60",
+        "name": "Archeologist",
+        "kind": "trophy",
+        "chapterId": "tombs-and-crypts",
+        "where": "Complete an Artifact Collection"
+      },
+      {
+        "id": "achievement-61",
+        "name": "Resting Places",
+        "kind": "trophy",
+        "chapterId": "tombs-and-crypts",
+        "where": "Uncover 3 main game Crypts' secrets"
+      },
+      {
+        "id": "achievement-62",
+        "name": "Deadly Obsession",
+        "kind": "trophy",
+        "chapterId": "difficulty",
+        "where": "Complete Shadow of the Tomb Raider on Deadly Obsession difficulty"
+      },
+      {
+        "id": "achievement-63",
+        "name": "Completionist",
+        "kind": "trophy",
+        "chapterId": "tombs-and-crypts",
+        "where": "Reach 100% completion"
+      },
+      {
+        "id": "achievement-64",
+        "name": "Echoes of the Fast",
+        "kind": "trophy",
+        "chapterId": "extra-tombs",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-65",
+        "name": "Bleeding Edge",
+        "kind": "trophy",
+        "chapterId": "extra-tombs",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-66",
+        "name": "Destiny's Trialed",
+        "kind": "trophy",
+        "chapterId": "extra-tombs",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-67",
+        "name": "Echoes of the Furious",
+        "kind": "trophy",
+        "chapterId": "extra-tombs",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-68",
+        "name": "Heir Born",
+        "kind": "trophy",
+        "chapterId": "extra-tombs",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-69",
+        "name": "Go With The Flow",
+        "kind": "trophy",
+        "chapterId": "extra-tombs",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-70",
+        "name": "That Was A Breeze",
+        "kind": "trophy",
+        "chapterId": "extra-tombs",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-71",
+        "name": "Float Like A Butterfly",
+        "kind": "trophy",
+        "chapterId": "extra-tombs",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-72",
+        "name": "Sting Like A Bee",
+        "kind": "trophy",
+        "chapterId": "extra-tombs",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-73",
+        "name": "Eyes Of The Storm",
+        "kind": "trophy",
+        "chapterId": "extra-tombs",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-74",
+        "name": "Harmony",
+        "kind": "trophy",
+        "chapterId": "extra-tombs",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-75",
+        "name": "Monkey Do",
+        "kind": "trophy",
+        "chapterId": "extra-tombs",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-76",
+        "name": "Howl Long",
+        "kind": "trophy",
+        "chapterId": "extra-tombs",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-77",
+        "name": "Organ Grinder",
+        "kind": "trophy",
+        "chapterId": "extra-tombs",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-78",
+        "name": "Creature Comforts",
+        "kind": "trophy",
+        "chapterId": "extra-tombs",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-79",
+        "name": "He Ain't Heavy",
+        "kind": "trophy",
+        "chapterId": "extra-tombs",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-80",
+        "name": "Mushroom With A View",
+        "kind": "trophy",
+        "chapterId": "extra-tombs",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-81",
+        "name": "Go Cart",
+        "kind": "trophy",
+        "chapterId": "extra-tombs",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-82",
+        "name": "Cannonized",
+        "kind": "trophy",
+        "chapterId": "extra-tombs",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-83",
+        "name": "Dressed For Success",
+        "kind": "trophy",
+        "chapterId": "extra-tombs",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-84",
+        "name": "Whole World Blind",
+        "kind": "trophy",
+        "chapterId": "extra-tombs",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-85",
+        "name": "Hydro Power",
+        "kind": "trophy",
+        "chapterId": "extra-tombs",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-86",
+        "name": "Rapids",
+        "kind": "trophy",
+        "chapterId": "extra-tombs",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-87",
+        "name": "Go Fish",
+        "kind": "trophy",
+        "chapterId": "extra-tombs",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-88",
+        "name": "Spoiled For Choice",
+        "kind": "trophy",
+        "chapterId": "extra-tombs",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-89",
+        "name": "Leaping Lizards",
+        "kind": "trophy",
+        "chapterId": "extra-tombs",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-90",
+        "name": "Caiman Conquered",
+        "kind": "trophy",
+        "chapterId": "extra-tombs",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-91",
+        "name": "Zip It",
+        "kind": "trophy",
+        "chapterId": "extra-tombs",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-92",
+        "name": "Offshore Count",
+        "kind": "trophy",
+        "chapterId": "extra-tombs",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-93",
+        "name": "Ready To Rumble",
+        "kind": "trophy",
+        "chapterId": "extra-tombs",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-94",
+        "name": "Chel Game",
+        "kind": "trophy",
+        "chapterId": "extra-tombs",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-95",
+        "name": "Chak Attack",
+        "kind": "trophy",
+        "chapterId": "extra-tombs",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-96",
+        "name": "Put Herself Together",
+        "kind": "trophy",
+        "chapterId": "extra-tombs",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-97",
+        "name": "Moonlight Sonata",
+        "kind": "trophy",
+        "chapterId": "extra-tombs",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-98",
+        "name": "Moonlit Knight",
+        "kind": "trophy",
+        "chapterId": "extra-tombs",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-99",
+        "name": "Seasoned Pro",
+        "kind": "trophy",
+        "chapterId": "extra-tombs",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/shadow-of-the-tomb-raider",
+    "Achievement data from Steam (Steam Web API, app 750920)",
+    "StrategyWiki: no page for this game, nothing used",
+    "Fandom (tombraider.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://tombraider.fandom.com/wiki/Shadow_of_the_Tomb_Raider"
+  ],
+  "route": "original",
+  "notes": "Backlog game, picked from RAWG's most-added list for its year (docs/PLAN.md section 2 ordering). No StrategyWiki page under \"Shadow of the Tomb Raider\" (also missing as \"Tomb Raider: Shadow of the Tomb Raider\"). tombraider.fandom.com answers the API, with about 180 linked pages, including pages for \"The Forge\", \"The Pillar\", \"The Nightmare\", \"The Price of Survival\", \"The Serpent's Heart\", \"The Grand Caiman\" and \"The Path Home\"; names only were looked at, nothing copied. The Steam app is the Definitive Edition (750920); the Steam schema calls it \"tr11\" (an internal codename). 52 of 99 Steam achievements are hidden. The 36 hidden ones listed after \"Completionist\" were put in one Definitive Edition extra tombs chapter by schema position; which DLC tomb each belongs to is not in the data, so it could be split later. The other 16 hidden ones sit in the main story chapter; \"Beast of Legend\", \"Unwelcome Guests\", \"I Believe Hakan Fly\" and \"Hearts and Minds\" sit among side-content achievements and may be optional. \"New Heights\" (Overhang Climbing Gear) and \"Better Equipped\" were put in exploration."
+}
