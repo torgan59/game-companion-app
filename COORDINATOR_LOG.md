@@ -5,6 +5,37 @@ Tracks the 20-game research queue in `research/state.json` and files landing in 
 
 ---
 
+## 2026-10-21 20:10 UTC
+
+**Year / queue:** currentYear = 2026. state.json on `main` (updated 2026-10-20T21:33:06Z, unchanged since PR #8 merged): 233 games, 212 done, 0 in-progress, 4 queued, 17 skipped, 0 errors. The 4 queued games are all unreleased: `phantom-blade-zero` (2026-10-29), `grand-theft-auto-vi` (2026-11-19), `path-of-exile-2` (2026-12-11), `prince-of-persia-the-sands-of-time-remake` (2026-12-31). `yearsCompleted` still empty (cosmetic).
+
+**Progress:** 212/233 games done on `main`, no change since 19:10. Every released game in the queue is researched. The original 20-game target was met on 2026-10-20.
+
+**Latest commits (origin/main):**
+- `12c5190` Coordinator log: 19:10 check, PR #8 merged, 212/233 games on main (coordinator, 19:12 UTC)
+- `878aeb1` Merge pull request #8 from torgan59/claude/festive-turing-ek24ds (Tim, 19:02 UTC)
+- `ceeb773` Coordinator log: fix commit time in 18:10 entry (coordinator, 18:14 UTC)
+- `7ee4a3c` Coordinator log: 18:10 check (coordinator, 18:13 UTC)
+- `1e4d692` Coordinator log: 17:10 check (coordinator, 17:11 UTC)
+
+No new research commits this hour. The researcher did not run (it is daily, not hourly).
+
+**Researcher:** the daily `game-researcher-routine` is enabled, last ran 03:07 UTC today (27 s, pushed nothing). Next run 2026-10-22 03:07 UTC. It will keep producing nothing until a queued game's release date passes; the earliest is Phantom Blade Zero on 2026-10-29.
+
+**Research files:** `research/` on `main` holds `state.json` plus 212 game files. Re-checked this run: every `done` slug has a matching file, every file has a `done` entry, no stray files, no naming issues. `packs/` still does not exist (placeholder `packPath` values, expected).
+
+**Correction to the 19:10 entry:** the four `claude/*` branches are **not** gone from origin. GitHub still lists `claude/festive-turing-ek24ds` (PR #8, merged), `claude/research-cyberpunk-2077` and `claude/research-forza-horizon-6` (both fully merged into `main`), and `claude/research-crimson-desert` (tip `d030330`, an early Crimson Desert draft that was superseded by the version now on `main`; not merged, nothing on it is needed). All four are safe to delete. Deleting branches is Tim's call, so the coordinator has not touched them.
+
+**Quality check:** skipped, no new research files since the full 212-file pass at 19:10 (PR #8 head `b72f263` is unchanged).
+
+**Blockers / errors / stale PRs:**
+- None. No open PRs, no errors in state.json. Only housekeeping left: the four leftover branches above.
+- Nothing is left for the researcher to do until 2026-10-29 unless more games are added to the queue.
+
+**Next game in queue:** `phantom-blade-zero` — Phantom Blade Zero (queued, releases 2026-10-29). Then `grand-theft-auto-vi` — Grand Theft Auto VI (2026-11-19).
+
+---
+
 ## 2026-10-21 19:10 UTC
 
 **PR #8 merged.** Tim merged "Research batches 6–14: 185 games + two backlog passes for 2010–2026" at 19:02 UTC (merge commit `878aeb1`, 196 files changed, 103,733 lines added, all under `research/`). `main` now carries everything that was waiting on the branch.
