@@ -1,0 +1,412 @@
+{
+  "id": "star-wars-jedi-fallen-order",
+  "title": "Star Wars Jedi: Fallen Order",
+  "year": 2019,
+  "platforms": [
+    "PlayStation 4",
+    "PC",
+    "PlayStation 5",
+    "Xbox One"
+  ],
+  "rawgId": 257201,
+  "rawgSlug": "jedi-the-fallen-order",
+  "released": "2019-11-15",
+  "developers": [
+    "Respawn Entertainment"
+  ],
+  "playtime": 8,
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "tags": [
+    "Third Person",
+    "Sci-fi",
+    "Exploration",
+    "Space",
+    "Hack and Slash",
+    "Metroidvania",
+    "Heist",
+    "Star Wars"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/559/559bc0768f656ad0c63c54b80a82d680.jpg",
+  "steamAppId": 1172380,
+  "achievements": {
+    "total": 39,
+    "hidden": 14,
+    "examples": [
+      {
+        "name": "Sabersmith",
+        "percent": 62.0
+      },
+      {
+        "name": "Back At You",
+        "percent": 51.3
+      },
+      {
+        "name": "Perfect Timing",
+        "percent": 38.4
+      },
+      {
+        "name": "Kicking Back",
+        "percent": 4.5
+      },
+      {
+        "name": "Green Thumb",
+        "percent": 4.5
+      },
+      {
+        "name": "A Galaxy Far, Far Away",
+        "percent": 4.3
+      },
+      {
+        "name": "What Goes Around...",
+        "percent": 4.1
+      },
+      {
+        "name": "Not So Fast",
+        "percent": 3.1
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Star_Wars_Jedi:_Fallen_Order",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 500,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://starwars.fandom.com/wiki/Star_Wars_Jedi:_Fallen_Order"
+    }
+  },
+  "game": {
+    "id": "star-wars-jedi-fallen-order",
+    "title": "Star Wars Jedi: Fallen Order",
+    "platforms": [
+      "PlayStation 4",
+      "PC",
+      "PlayStation 5",
+      "Xbox One"
+    ],
+    "blurb": "Action-adventure from Respawn Entertainment, released 2019-11-15. RAWG average playtime: 8 hours. Genres: Action, Adventure. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#D9822B",
+    "chapters": [
+      {
+        "id": "main-story",
+        "title": "The Main Story",
+        "summary": "Cal's journey aboard the Mantis in search of the holocron. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "exploration",
+        "title": "Exploration and Secrets",
+        "summary": "Chests, secrets, BD-1's holomaps, stim canisters, encrypted logs, Force Echoes, the terrarium and mysterious creatures.",
+        "steps": []
+      },
+      {
+        "id": "combat",
+        "title": "Combat and the Force",
+        "summary": "Parries, reflected bolts, kicks, lightsaber throws, Slow, explosives and enemy scans.",
+        "steps": []
+      },
+      {
+        "id": "crew-and-customizing",
+        "title": "Skills, Crew and Customizing",
+        "summary": "Jedi skills, the Mantis crew, and customizing the lightsaber, Cal, BD-1 and the ship.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Kicking Back",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Kick a phillak that has kicked you"
+      },
+      {
+        "id": "achievement-2",
+        "name": "Collector",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Collect all chests and secrets"
+      },
+      {
+        "id": "achievement-3",
+        "name": "Legendary Beasts",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Defeat four mysterious creatures"
+      },
+      {
+        "id": "achievement-4",
+        "name": "Feel the Force",
+        "kind": "trophy",
+        "chapterId": "crew-and-customizing",
+        "where": "Unlock all Jedi skills"
+      },
+      {
+        "id": "achievement-5",
+        "name": "A Galaxy Far, Far Away",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Complete all of BD-1's holomaps"
+      },
+      {
+        "id": "achievement-6",
+        "name": "Trust Only In The Force",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-7",
+        "name": "The Mantis",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-8",
+        "name": "A Long Time Ago",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-9",
+        "name": "The Obstacle is the Way",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-10",
+        "name": "Everything is Connected",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-11",
+        "name": "The Holocron Awaits",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-12",
+        "name": "Happy Go Wookiee",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-13",
+        "name": "Her Name Was Masana Tide",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-14",
+        "name": "Visiting Alderaan Places",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-15",
+        "name": "Gorgara Falls",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-16",
+        "name": "For A More Civilized Age",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-17",
+        "name": "I Knew He Was No Good",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-18",
+        "name": "Back At You",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Defeat 50 enemies with reflected blaster bolts"
+      },
+      {
+        "id": "achievement-19",
+        "name": "Perfect Timing",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Parry 100 enemies"
+      },
+      {
+        "id": "achievement-20",
+        "name": "Kickoff",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Defeat an enemy using only kicks"
+      },
+      {
+        "id": "achievement-21",
+        "name": "Triple Take",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Defeat 3 enemies using a single lightsaber throw"
+      },
+      {
+        "id": "achievement-22",
+        "name": "What Goes Around...",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Defeat an enemy with their own Slowed blaster bolt"
+      },
+      {
+        "id": "achievement-23",
+        "name": "Big Bang",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Defeat 20 enemies with explosives"
+      },
+      {
+        "id": "achievement-24",
+        "name": "Don't Mess with BD-1",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Defeat an enemy with a hacked droid"
+      },
+      {
+        "id": "achievement-25",
+        "name": "Can't Touch This",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Precision Evade 100 attacks"
+      },
+      {
+        "id": "achievement-26",
+        "name": "Look Out Below",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Send 25 enemies over the edge"
+      },
+      {
+        "id": "achievement-27",
+        "name": "Not So Fast",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Defeat 25 enemies while they are under the effect of Empowered Slow"
+      },
+      {
+        "id": "achievement-28",
+        "name": "Bank Shot",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Defeat an enemy by colliding them with another enemy"
+      },
+      {
+        "id": "achievement-29",
+        "name": "Blade Master",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-30",
+        "name": "Cal Got Your Tongue?",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Slice an oggdo's tongue"
+      },
+      {
+        "id": "achievement-31",
+        "name": "Medical Droid",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Find all of BD-1's stim canisters"
+      },
+      {
+        "id": "achievement-32",
+        "name": "Green Thumb",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Have a fully grown terrarium"
+      },
+      {
+        "id": "achievement-33",
+        "name": "Full House",
+        "kind": "trophy",
+        "chapterId": "crew-and-customizing",
+        "where": "Recruit all possible crew members for the Mantis"
+      },
+      {
+        "id": "achievement-34",
+        "name": "Data Disk",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Find all of BD-1's encrypted logs"
+      },
+      {
+        "id": "achievement-35",
+        "name": "Sabersmith",
+        "kind": "trophy",
+        "chapterId": "crew-and-customizing",
+        "where": "Fully customize your lightsaber"
+      },
+      {
+        "id": "achievement-36",
+        "name": "The Full Glow-Up",
+        "kind": "trophy",
+        "chapterId": "crew-and-customizing",
+        "where": "Customize the look of Cal, BD-1, and the Mantis"
+      },
+      {
+        "id": "achievement-37",
+        "name": "Data Collector",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Scan all enemy types"
+      },
+      {
+        "id": "achievement-38",
+        "name": "Scum and Villainy",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-39",
+        "name": "Echo Location",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Discover 75 Force Echoes"
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/jedi-the-fallen-order",
+    "Achievement data from Steam (Steam Web API, app 1172380)",
+    "StrategyWiki: no usable walkthrough, nothing used — https://strategywiki.org/wiki/Star_Wars_Jedi:_Fallen_Order",
+    "Fandom (starwars.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://starwars.fandom.com/wiki/Star_Wars_Jedi:_Fallen_Order"
+  ],
+  "route": "original",
+  "notes": "Backlog game, picked from RAWG's most-added list for its year (docs/PLAN.md section 2 ordering). StrategyWiki has a page (no completion stage in its page data); the Walkthrough is linked but not written, and only Achievements and trophies, Enemies and Table of Contents subpages exist, so no structure was taken. starwars.fandom.com (Wookieepedia) answers the API; its page hit the 500-link limit of the query; names only were looked at, nothing copied. 14 of 39 Steam achievements are hidden and sit in the main story chapter. Three hidden ones have low unlock rates (\"Visiting Alderaan Places\" 13%, \"Blade Master\" 28%, \"Scum and Villainy\" 31%) and may be optional rather than story; check them. \"Kicking Back\" (phillak) and \"Cal Got Your Tongue?\" (oggdo) were left in combat."
+}

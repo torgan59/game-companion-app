@@ -1,0 +1,676 @@
+{
+  "id": "pathfinder-kingmaker",
+  "title": "Pathfinder: Kingmaker",
+  "year": 2018,
+  "platforms": [
+    "Linux",
+    "macOS",
+    "PC",
+    "PlayStation 4",
+    "Xbox One"
+  ],
+  "rawgId": 59611,
+  "rawgSlug": "pathfinder-kingmaker",
+  "released": "2018-09-25",
+  "developers": [
+    "Owlcat Games"
+  ],
+  "playtime": 10,
+  "genres": [
+    "RPG"
+  ],
+  "tags": [
+    "Singleplayer",
+    "RPG",
+    "Story Rich",
+    "Fantasy",
+    "Action-Adventure",
+    "Isometric",
+    "CRPG",
+    "Role Playing Game",
+    "Dungeons & Dragons",
+    "isomentric"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/4e6/4e6c6259ad910c31261d90b42c45e046.jpg",
+  "steamAppId": 640820,
+  "achievements": {
+    "total": 74,
+    "hidden": 13,
+    "examples": [
+      {
+        "name": "Assassinating the Assassins",
+        "percent": 80.7
+      },
+      {
+        "name": "No Country for Bandits",
+        "percent": 49.2
+      },
+      {
+        "name": "Foundation",
+        "percent": 48.5
+      },
+      {
+        "name": "Depths Of Madness",
+        "percent": 1.0
+      },
+      {
+        "name": "Forged in Blood",
+        "percent": 0.9
+      },
+      {
+        "name": "Iron King",
+        "percent": 0.8
+      },
+      {
+        "name": "Apocalypse Can Wait",
+        "percent": 0.7
+      },
+      {
+        "name": "Honest Looting",
+        "percent": 0.6
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": false,
+      "pages": 0,
+      "reason": "No page for Pathfinder: Kingmaker (MediaWiki API returned missing; search empty)"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 17,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://pathfinderkingmaker.fandom.com/wiki/Pathfinder:_Kingmaker"
+    }
+  },
+  "game": {
+    "id": "pathfinder-kingmaker",
+    "title": "Pathfinder: Kingmaker",
+    "platforms": [
+      "Linux",
+      "macOS",
+      "PC",
+      "PlayStation 4",
+      "Xbox One"
+    ],
+    "blurb": "Party-based fantasy RPG in which you found a barony in the Stolen Lands and grow it into a kingdom, from Owlcat Games, released 2018-09-25. RAWG average playtime: 10 hours. Genre: RPG. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#6B8E23",
+    "chapters": [
+      {
+        "id": "main-story",
+        "title": "The Main Story",
+        "summary": "From the night attack on the Aldori mansion and the bandit king to founding a barony, its threats, and the final enemy.",
+        "steps": []
+      },
+      {
+        "id": "kingdom",
+        "title": "Ruling the Kingdom",
+        "summary": "Kingdom stats and leaders, claiming and developing regions, resource locations, kingdom events and the royal artisans.",
+        "steps": []
+      },
+      {
+        "id": "companions-and-quests",
+        "title": "Companions and Side Quests",
+        "summary": "Recruiting companions and their quests, romance, the Storyteller's artifacts, the royal hunt, the tiefling guest and other side quests.",
+        "steps": []
+      },
+      {
+        "id": "varnholds-lot",
+        "title": "Varnhold's Lot",
+        "summary": "The Varnhold's Lot campaign and Lostlarn Keep.",
+        "steps": []
+      },
+      {
+        "id": "beneath-the-stolen-lands",
+        "title": "Beneath the Stolen Lands",
+        "summary": "The dungeon Beneath the Stolen Lands, in rogue-like mode and in the main campaign.",
+        "steps": []
+      },
+      {
+        "id": "difficulty",
+        "title": "Difficulty Runs",
+        "summary": "Winning on Challenging rules, Unfair and Last Azlanti mode, and the Hard-mode bear fight.",
+        "steps": []
+      },
+      {
+        "id": "feats-and-fun",
+        "title": "Feats and Fun",
+        "summary": "Unarmed blows, knockdowns, metamagic, merchants, goblin songs, the Eldest of Time and carrying heavy loads.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Assassinating the Assassins",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "You survived the night attack on Jamandi Aldori’s mansion. What a nice way to start your adventure!"
+      },
+      {
+        "id": "achievement-2",
+        "name": "No Country for Bandits",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Clear the Stolen lands from bandit gangs and defeat the self-proclaimed bandit king."
+      },
+      {
+        "id": "achievement-3",
+        "name": "Foundation",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "You founded a barony in a wild, dangerous land. Good luck with that!"
+      },
+      {
+        "id": "achievement-4",
+        "name": "Fire. Or Acid",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Stop the troll invasion."
+      },
+      {
+        "id": "achievement-5",
+        "name": "Enemy Within",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Solve the mystery and save your barony from an otherworldly threat."
+      },
+      {
+        "id": "achievement-6",
+        "name": "V for...",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Silence the voice of the lost empire."
+      },
+      {
+        "id": "achievement-7",
+        "name": "Twice-born, Twice-beaten",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Deal with the barbarian horde on your borders."
+      },
+      {
+        "id": "achievement-8",
+        "name": "Hail to the King!",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "You are now the one and only ruler of your very own kingdom!"
+      },
+      {
+        "id": "achievement-9",
+        "name": "Neighborly Affairs",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Deal with your fellow neighbor king and his appetite for your land."
+      },
+      {
+        "id": "achievement-10",
+        "name": "Against All Odds",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Travel to the mysterious realm of the fey and face your destiny."
+      },
+      {
+        "id": "achievement-11",
+        "name": "Flaming Crown",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Face and defeat the one final enemy."
+      },
+      {
+        "id": "achievement-12",
+        "name": "First Results",
+        "kind": "trophy",
+        "chapterId": "kingdom",
+        "where": "Increase the rank of at least one kingdom stat."
+      },
+      {
+        "id": "achievement-13",
+        "name": "Useful Instruments",
+        "kind": "trophy",
+        "chapterId": "kingdom",
+        "where": "Unlock all five additional kingdom stats and assign leaders to respective positions."
+      },
+      {
+        "id": "achievement-14",
+        "name": "Prosperous Kingdom",
+        "kind": "trophy",
+        "chapterId": "kingdom",
+        "where": "Raise all kingdom stats to the 10th rank."
+      },
+      {
+        "id": "achievement-15",
+        "name": "First in Collection",
+        "kind": "trophy",
+        "chapterId": "kingdom",
+        "where": "Obtain an outstanding gift from one of your royal artisans."
+      },
+      {
+        "id": "achievement-16",
+        "name": "Admirer of Finer Things",
+        "kind": "trophy",
+        "chapterId": "kingdom",
+        "where": "Gather masterpiece works from all ten royal artisans."
+      },
+      {
+        "id": "achievement-17",
+        "name": "Friend of Many",
+        "kind": "trophy",
+        "chapterId": "kingdom",
+        "where": "Succeed in three 'Kingdom as Companion' quests."
+      },
+      {
+        "id": "achievement-18",
+        "name": "Conqueror",
+        "kind": "trophy",
+        "chapterId": "kingdom",
+        "where": "Claim all available regions."
+      },
+      {
+        "id": "achievement-19",
+        "name": "Prosperous Conqueror",
+        "kind": "trophy",
+        "chapterId": "kingdom",
+        "where": "Claim all available regions and develop them to their maximum potential."
+      },
+      {
+        "id": "achievement-20",
+        "name": "Intensive Development",
+        "kind": "trophy",
+        "chapterId": "kingdom",
+        "where": "Explore the Stolen Lands and find all resource locations."
+      },
+      {
+        "id": "achievement-21",
+        "name": "Opportunist",
+        "kind": "trophy",
+        "chapterId": "kingdom",
+        "where": "Successfully solve 100 'opportunity' kingdom events."
+      },
+      {
+        "id": "achievement-22",
+        "name": "Troubleshooter",
+        "kind": "trophy",
+        "chapterId": "kingdom",
+        "where": "Successfully solve 100 'problem' kingdom events."
+      },
+      {
+        "id": "achievement-23",
+        "name": "Royal Rescue Service",
+        "kind": "trophy",
+        "chapterId": "companions-and-quests",
+        "where": "Find and save Tig, poor lost child."
+      },
+      {
+        "id": "achievement-24",
+        "name": "Bird of Prey",
+        "kind": "trophy",
+        "chapterId": "companions-and-quests",
+        "where": "Win the main prize of the royal hunt fair and square, killing two magical beasts."
+      },
+      {
+        "id": "achievement-25",
+        "name": "Deal with the Devil",
+        "kind": "trophy",
+        "chapterId": "companions-and-quests",
+        "where": "Win the favor of the Order of the Rack. Or of their enemy."
+      },
+      {
+        "id": "achievement-26",
+        "name": "Bloody Squirrels!",
+        "kind": "trophy",
+        "chapterId": "companions-and-quests",
+        "where": "Get the grimoire from one remarkable hermit mage."
+      },
+      {
+        "id": "achievement-27",
+        "name": "The Wise Way",
+        "kind": "trophy",
+        "chapterId": "companions-and-quests",
+        "where": "Win the favor of the most mysterious mentor from the most mysterious monk order."
+      },
+      {
+        "id": "achievement-28",
+        "name": "Followers",
+        "kind": "trophy",
+        "chapterId": "companions-and-quests",
+        "where": "Recruit all available companions."
+      },
+      {
+        "id": "achievement-29",
+        "name": "Comrades-in-Arms",
+        "kind": "trophy",
+        "chapterId": "companions-and-quests",
+        "where": "Succeed in all available companion quests and win the loyalty of your comrades."
+      },
+      {
+        "id": "achievement-30",
+        "name": "Tale Of Days Long Gone",
+        "kind": "trophy",
+        "chapterId": "companions-and-quests",
+        "where": "Collect all pieces of an ancient artifact and let the Storyteller reforge it for you."
+      },
+      {
+        "id": "achievement-31",
+        "name": "Those Precious Tales",
+        "kind": "trophy",
+        "chapterId": "companions-and-quests",
+        "where": "Gather all Storyteller's artifacts."
+      },
+      {
+        "id": "achievement-32",
+        "name": "In My Heart",
+        "kind": "trophy",
+        "chapterId": "companions-and-quests",
+        "where": "Find your love."
+      },
+      {
+        "id": "achievement-33",
+        "name": "Yet Another Ancient Evil",
+        "kind": "trophy",
+        "chapterId": "companions-and-quests",
+        "where": "Find and defeat the secret threat, locked in a magical prison in The Stolen Lands."
+      },
+      {
+        "id": "achievement-34",
+        "name": "Survivor",
+        "kind": "trophy",
+        "chapterId": "companions-and-quests",
+        "where": "Live through 100 random attacks in the wild."
+      },
+      {
+        "id": "achievement-35",
+        "name": "The Story's End",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Win the game!"
+      },
+      {
+        "id": "achievement-36",
+        "name": "More Challenge, Please",
+        "kind": "trophy",
+        "chapterId": "difficulty",
+        "where": "Win the game, playing on 'Challenging rules' difficulty or above."
+      },
+      {
+        "id": "achievement-37",
+        "name": "Iron King",
+        "kind": "trophy",
+        "chapterId": "difficulty",
+        "where": "Win the game, playing on Last Azlanti mode."
+      },
+      {
+        "id": "achievement-38",
+        "name": "Forged in Blood",
+        "kind": "trophy",
+        "chapterId": "difficulty",
+        "where": "Win the game, playing on Unfair difficulty."
+      },
+      {
+        "id": "achievement-39",
+        "name": "One Punch",
+        "kind": "trophy",
+        "chapterId": "feats-and-fun",
+        "where": "Deal more than 150 damage with a single unarmed attack."
+      },
+      {
+        "id": "achievement-40",
+        "name": "Now You Fall!",
+        "kind": "trophy",
+        "chapterId": "feats-and-fun",
+        "where": "Knock down any creature that is 3 size categories larger than you."
+      },
+      {
+        "id": "achievement-41",
+        "name": "Zen Archer",
+        "kind": "trophy",
+        "chapterId": "feats-and-fun",
+        "where": "Inflict critical damage with a bow or crossbow while blinded."
+      },
+      {
+        "id": "achievement-42",
+        "name": "Metamagister",
+        "kind": "trophy",
+        "chapterId": "feats-and-fun",
+        "where": "Use in battle any spell with 5 metamagic modifications applied."
+      },
+      {
+        "id": "achievement-43",
+        "name": "Slayer of Bears",
+        "kind": "trophy",
+        "chapterId": "difficulty",
+        "where": "In chapter 1, kill the bear in the Temple of the Elk with single level 2 character, playing on Hard difficulty or above."
+      },
+      {
+        "id": "achievement-44",
+        "name": "Sinmarket's Best Customer",
+        "kind": "trophy",
+        "chapterId": "feats-and-fun",
+        "where": "Make the fey merchant adore you."
+      },
+      {
+        "id": "achievement-45",
+        "name": "Goblin Tears",
+        "kind": "trophy",
+        "chapterId": "feats-and-fun",
+        "where": "Make the goblin merchant cry real tears."
+      },
+      {
+        "id": "achievement-46",
+        "name": "God of Poetry",
+        "kind": "trophy",
+        "chapterId": "feats-and-fun",
+        "where": "Help the goblins compose their warsong!"
+      },
+      {
+        "id": "achievement-47",
+        "name": "See You Yesterday!",
+        "kind": "trophy",
+        "chapterId": "feats-and-fun",
+        "where": "Meet the legendary Eldest of Time three times. Or, rather, in three different times."
+      },
+      {
+        "id": "achievement-48",
+        "name": "Nothing Left Behind",
+        "kind": "trophy",
+        "chapterId": "feats-and-fun",
+        "where": "Leave any map, carrying 5000 lbs. without being encumbered."
+      },
+      {
+        "id": "achievement-49",
+        "name": "So Shall You Reap",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-50",
+        "name": "Tricks of Time",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-51",
+        "name": "Worship Me!",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-52",
+        "name": "Foes No More",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-53",
+        "name": "Know Their Weaknesses",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-54",
+        "name": "The Good Guy",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-55",
+        "name": "Evil Is My Name",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-56",
+        "name": "Taking No Sides",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-57",
+        "name": "In The Name Of The Law",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-58",
+        "name": "They Call Me Unpredictable",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-59",
+        "name": "Not What It Seems",
+        "kind": "trophy",
+        "chapterId": "companions-and-quests",
+        "where": "Help the mysterious tiefling guest in her hunt for the ancient treasure."
+      },
+      {
+        "id": "achievement-60",
+        "name": "Patricide",
+        "kind": "trophy",
+        "chapterId": "companions-and-quests",
+        "where": "Slay the Forefather."
+      },
+      {
+        "id": "achievement-61",
+        "name": "The Tiefling Trio",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-62",
+        "name": "A Job For A General",
+        "kind": "trophy",
+        "chapterId": "varnholds-lot",
+        "where": "Resolve the first crisis in Varnhold's history."
+      },
+      {
+        "id": "achievement-63",
+        "name": "That's Your Lot",
+        "kind": "trophy",
+        "chapterId": "varnholds-lot",
+        "where": "Complete the \"Varnhold's Lot\" DLC campaign."
+      },
+      {
+        "id": "achievement-64",
+        "name": "Lost And Found",
+        "kind": "trophy",
+        "chapterId": "varnholds-lot",
+        "where": "Visit Lostlarn Keep while playing the main story campaign."
+      },
+      {
+        "id": "achievement-65",
+        "name": "And The Murderer Is...",
+        "kind": "trophy",
+        "chapterId": "companions-and-quests",
+        "where": "Uncover the secrets of the Blackstones Ford inn."
+      },
+      {
+        "id": "achievement-66",
+        "name": "The Road Goes Ever On",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-67",
+        "name": "Who's There?",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-68",
+        "name": "Apocalypse Can Wait",
+        "kind": "trophy",
+        "chapterId": "beneath-the-stolen-lands",
+        "where": "Find out the truth and eliminate the source of the threat Beneath the Stolen Lands while playing in rogue-like mode."
+      },
+      {
+        "id": "achievement-69",
+        "name": "The Price You Pay",
+        "kind": "trophy",
+        "chapterId": "beneath-the-stolen-lands",
+        "where": "Find out the truth and eliminate the source of the threat Beneath the Stolen Lands while playing the main campaign."
+      },
+      {
+        "id": "achievement-70",
+        "name": "Descent",
+        "kind": "trophy",
+        "chapterId": "beneath-the-stolen-lands",
+        "where": "Reach the 10th dungeon level Beneath the Stolen Lands while playing in rogue-like mode."
+      },
+      {
+        "id": "achievement-71",
+        "name": "Into the Darkness",
+        "kind": "trophy",
+        "chapterId": "beneath-the-stolen-lands",
+        "where": "Reach the 30th dungeon level Beneath the Stolen Lands while playing in rogue-like mode."
+      },
+      {
+        "id": "achievement-72",
+        "name": "Depths Of Madness",
+        "kind": "trophy",
+        "chapterId": "beneath-the-stolen-lands",
+        "where": "Reach the 50th dungeon level Beneath the Stolen Lands while playing in rogue-like mode."
+      },
+      {
+        "id": "achievement-73",
+        "name": "Honest Looting",
+        "kind": "trophy",
+        "chapterId": "beneath-the-stolen-lands",
+        "where": "Help the Honest Guy to expand his assortment of goods by cleaning the dungeon from the most dangerous monsters."
+      },
+      {
+        "id": "achievement-74",
+        "name": "A Memorable Moment",
+        "kind": "trophy",
+        "chapterId": "beneath-the-stolen-lands",
+        "where": "Die for the first time while playing 'Beneath the Stolen Lands' in a rogue-like mode."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/pathfinder-kingmaker",
+    "Achievement data from Steam (Steam Web API, app 640820)",
+    "StrategyWiki: no page for this game, nothing used",
+    "Fandom (pathfinderkingmaker.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://pathfinderkingmaker.fandom.com/wiki/Pathfinder:_Kingmaker"
+  ],
+  "route": "original",
+  "notes": "Backlog game, picked from RAWG's most-added list for its year (docs/PLAN.md section 2 ordering). StrategyWiki has no page for Pathfinder: Kingmaker (API returned missing for \"Pathfinder: Kingmaker\" and for \"Pathfinder Kingmaker\"). pathfinderkingmaker.fandom.com answers the API, with 17 linked pages, including \"Kingdom\", \"Companions\", \"Beneath The Stolen Lands\", \"The Wildcards\" and \"Varnhold's Lot\"; names only were looked at, nothing copied. The Steam store list names app 640820 \"Pathfinder: Kingmaker — Enhanced Plus Edition\". 13 of 74 Steam achievements are hidden; they sit in the main story chapter as a placeholder, though most are rare (1.2 to 5.2%) and some names (\"Evil Is My Name\", \"Taking No Sides\", \"In The Name Of The Law\") sound like alignment or ending goals. The visible story achievements (1 to 11 and \"The Story's End\") were placed by name. \"Not What It Seems\", \"Patricide\" and the hidden \"The Tiefling Trio\" (59 to 61) may be \"The Wildcards\" add-on, but the text does not say so; they sit in side quests. \"Lost And Found\" (Lostlarn Keep, \"while playing the main story campaign\") sits in the Varnhold's Lot chapter because it is listed among that campaign's achievements, which is a judgement call; \"And The Murderer Is...\" (Blackstones Ford inn) sits in side quests."
+}

@@ -1,0 +1,753 @@
+{
+  "id": "wasteland-3",
+  "title": "Wasteland 3",
+  "year": 2020,
+  "platforms": [
+    "Xbox One",
+    "macOS",
+    "PC",
+    "Linux",
+    "PlayStation 4"
+  ],
+  "rawgId": 295020,
+  "rawgSlug": "wasteland-3",
+  "released": "2020-08-28",
+  "developers": [
+    "InXile Entertainment"
+  ],
+  "playtime": 6,
+  "genres": [
+    "RPG",
+    "Strategy"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Full controller support",
+    "RPG",
+    "Co-op",
+    "Gore",
+    "Exploration",
+    "Violent",
+    "Tactical",
+    "role-playing",
+    "War",
+    "Turn-Based",
+    "combat"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/370/370a4cbcfa75e5238ee8f74bf323694d.jpg",
+  "steamAppId": 719040,
+  "achievements": {
+    "total": 86,
+    "hidden": 55,
+    "examples": [
+      {
+        "name": "Fire it Up",
+        "percent": 67.1
+      },
+      {
+        "name": "Oops",
+        "percent": 62.5
+      },
+      {
+        "name": "Gooification",
+        "percent": 59.8
+      },
+      {
+        "name": "Menagerie",
+        "percent": 0.9
+      },
+      {
+        "name": "Killing Machine",
+        "percent": 0.9
+      },
+      {
+        "name": "Wasteland Reaper",
+        "percent": 0.7
+      },
+      {
+        "name": "Tricked Out",
+        "percent": 0.5
+      },
+      {
+        "name": "Answering Machine",
+        "percent": 0.5
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Wasteland_3",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 26,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://wasteland.fandom.com/wiki/Wasteland_3"
+    }
+  },
+  "game": {
+    "id": "wasteland-3",
+    "title": "Wasteland 3",
+    "platforms": [
+      "Xbox One",
+      "macOS",
+      "PC",
+      "Linux",
+      "PlayStation 4"
+    ],
+    "blurb": "Party-based, turn-based tactical RPG set in the frozen wastes of Colorado, from inXile Entertainment, released 2020-08-28. RAWG average playtime: 6 hours. Genres: RPG, Strategy. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#5F87A0",
+    "chapters": [
+      {
+        "id": "main-story",
+        "title": "The Main Story",
+        "summary": "The Rangers' mission in Colorado, its factions and its many endings. Spoiler-guarded; most achievements here are hidden.",
+        "steps": []
+      },
+      {
+        "id": "difficulty",
+        "title": "Difficulty Runs",
+        "summary": "Beating the game on each difficulty, from the easiest to the hardest.",
+        "steps": []
+      },
+      {
+        "id": "exploration",
+        "title": "Exploration, Ranger HQ and Collections",
+        "summary": "The World Map, Ranger HQ upgrades, the vehicle, animal companions, cassette tapes, toys and other oddities.",
+        "steps": []
+      },
+      {
+        "id": "steeltown",
+        "title": "The Battle of Steeltown",
+        "summary": "The Steeltown story and settling its problems with or without bloodshed. Spoiler-guarded where hidden.",
+        "steps": []
+      },
+      {
+        "id": "squad-and-combat",
+        "title": "Squad and Combat",
+        "summary": "Levelling up, weapon mods, cyborg parts, elemental kills, explosives and big fights.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "On Your Own",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-2",
+        "name": "No-Show",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-3",
+        "name": "The New Law",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-4",
+        "name": "Won One for the Gipper",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-5",
+        "name": "Stolen Valor",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-6",
+        "name": "Valor's End",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-7",
+        "name": "Victory Over Victory",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-8",
+        "name": "Caged Psycho",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-9",
+        "name": "Give Me Liberty, Or...",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-10",
+        "name": "Un-Lib-erated",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-11",
+        "name": "New Colorado Order",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-12",
+        "name": "Dead Red",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-13",
+        "name": "November Reigns",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-14",
+        "name": "Rookie",
+        "kind": "trophy",
+        "chapterId": "difficulty",
+        "where": "You beat the game on the easiest difficulty."
+      },
+      {
+        "id": "achievement-15",
+        "name": "Wastelander",
+        "kind": "trophy",
+        "chapterId": "difficulty",
+        "where": "You beat the game on the normal difficulty."
+      },
+      {
+        "id": "achievement-16",
+        "name": "Ranger",
+        "kind": "trophy",
+        "chapterId": "difficulty",
+        "where": "You beat the game on the hard difficulty."
+      },
+      {
+        "id": "achievement-17",
+        "name": "Supreme Jerk",
+        "kind": "trophy",
+        "chapterId": "difficulty",
+        "where": "You beat the game on the hardest difficulty."
+      },
+      {
+        "id": "achievement-18",
+        "name": "Fixer Upper",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-19",
+        "name": "Morningstar",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-20",
+        "name": "Bunker Buster",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-21",
+        "name": "Hoon Hero",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-22",
+        "name": "The Needs of the Many",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-23",
+        "name": "No Time For Distractions",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-24",
+        "name": "The Marshal",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-25",
+        "name": "The Gunslinger",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-26",
+        "name": "The Warlord",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-27",
+        "name": "The Psychopath",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-28",
+        "name": "The Scientist",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-29",
+        "name": "The Hobo",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-30",
+        "name": "The Hard-Head",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-31",
+        "name": "Book Learnin'",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-32",
+        "name": "Heads Up!",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-33",
+        "name": "Tricked Out",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "You obtained all vehicle upgrades."
+      },
+      {
+        "id": "achievement-34",
+        "name": "Mastery",
+        "kind": "trophy",
+        "chapterId": "squad-and-combat",
+        "where": "You reached level 25."
+      },
+      {
+        "id": "achievement-35",
+        "name": "Oops",
+        "kind": "trophy",
+        "chapterId": "squad-and-combat",
+        "where": "You accidentally downed one of your own squad members."
+      },
+      {
+        "id": "achievement-36",
+        "name": "Boomstick",
+        "kind": "trophy",
+        "chapterId": "squad-and-combat",
+        "where": "You killed 4 enemies at once with a single shotgun attack."
+      },
+      {
+        "id": "achievement-37",
+        "name": "Wasteland Reaper",
+        "kind": "trophy",
+        "chapterId": "squad-and-combat",
+        "where": "You killed every living person in Downtown Colorado Springs."
+      },
+      {
+        "id": "achievement-38",
+        "name": "Fire it Up",
+        "kind": "trophy",
+        "chapterId": "squad-and-combat",
+        "where": "You killed an enemy with fire damage."
+      },
+      {
+        "id": "achievement-39",
+        "name": "Gooification",
+        "kind": "trophy",
+        "chapterId": "squad-and-combat",
+        "where": "You liquefied an enemy with energy damage."
+      },
+      {
+        "id": "achievement-40",
+        "name": "Cold Reception",
+        "kind": "trophy",
+        "chapterId": "squad-and-combat",
+        "where": "You shattered a frozen enemy."
+      },
+      {
+        "id": "achievement-41",
+        "name": "Badda Bing",
+        "kind": "trophy",
+        "chapterId": "squad-and-combat",
+        "where": "You blew up 6 enemies with a single explosive attack."
+      },
+      {
+        "id": "achievement-42",
+        "name": "Mod Master",
+        "kind": "trophy",
+        "chapterId": "squad-and-combat",
+        "where": "You installed 4 weapon mods on a single weapon."
+      },
+      {
+        "id": "achievement-43",
+        "name": "Body Builder",
+        "kind": "trophy",
+        "chapterId": "squad-and-combat",
+        "where": "You got modded, and can now install cyborg parts."
+      },
+      {
+        "id": "achievement-44",
+        "name": "I, Human",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-45",
+        "name": "Everyone Lives",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-46",
+        "name": "Pre-Apocalyptic Tourist",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-47",
+        "name": "Quid Agit?!",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-48",
+        "name": "Bawk!",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-49",
+        "name": "Toaster Expert",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "You truly earned your toaster repair diploma."
+      },
+      {
+        "id": "achievement-50",
+        "name": "Illuminati",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "You uncovered the darkest of conspiracies."
+      },
+      {
+        "id": "achievement-51",
+        "name": "A New Home",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "You unlocked all the major room upgrades to Ranger HQ."
+      },
+      {
+        "id": "achievement-52",
+        "name": "Expedition",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "You discovered every location on the World Map."
+      },
+      {
+        "id": "achievement-53",
+        "name": "Back in the Sack",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "You collected all STDs in the Wasteland."
+      },
+      {
+        "id": "achievement-54",
+        "name": "What's In This Thing?",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "You ate a Clown Burger."
+      },
+      {
+        "id": "achievement-55",
+        "name": "Double the Fun",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "You brought Billy and Jean all the way to the end of the game."
+      },
+      {
+        "id": "achievement-56",
+        "name": "Menagerie",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "You tamed at least one of every type of animal companion."
+      },
+      {
+        "id": "achievement-57",
+        "name": "My Pretties",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "You amassed a collection that would terrify a toy shop owner."
+      },
+      {
+        "id": "achievement-58",
+        "name": "Roadkill",
+        "kind": "trophy",
+        "chapterId": "squad-and-combat",
+        "where": "You give hit-and-run a new meaning."
+      },
+      {
+        "id": "achievement-59",
+        "name": "Chop Shop Champ",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "You upgraded your vehicle to the highest level."
+      },
+      {
+        "id": "achievement-60",
+        "name": "Scorpitron Slayer",
+        "kind": "trophy",
+        "chapterId": "squad-and-combat",
+        "where": "You took down a Scorpitron, in proud Ranger tradition."
+      },
+      {
+        "id": "achievement-61",
+        "name": "Answering Machine",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "You found all the cassette tapes left around Colorado."
+      },
+      {
+        "id": "achievement-62",
+        "name": "Restraint",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "You resisted temptation and never opened the Mysterious Case."
+      },
+      {
+        "id": "achievement-63",
+        "name": "Steeltown Defiant",
+        "kind": "trophy",
+        "chapterId": "steeltown",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-64",
+        "name": "CEO",
+        "kind": "trophy",
+        "chapterId": "steeltown",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-65",
+        "name": "Workers United",
+        "kind": "trophy",
+        "chapterId": "steeltown",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-66",
+        "name": "Blue’s Back",
+        "kind": "trophy",
+        "chapterId": "steeltown",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-67",
+        "name": "Expert Nut Handler",
+        "kind": "trophy",
+        "chapterId": "steeltown",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-68",
+        "name": "Oh Hey, Bros",
+        "kind": "trophy",
+        "chapterId": "steeltown",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-69",
+        "name": "Ryan Shame",
+        "kind": "trophy",
+        "chapterId": "steeltown",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-70",
+        "name": "Perfect Pacifist",
+        "kind": "trophy",
+        "chapterId": "steeltown",
+        "where": "You settled Steeltown’s problems without killing any workers or Ghost Gang members."
+      },
+      {
+        "id": "achievement-71",
+        "name": "Killing Machine",
+        "kind": "trophy",
+        "chapterId": "steeltown",
+        "where": "You settled Steeltown’s problems without using a disruption weapon to knock an enemy out."
+      },
+      {
+        "id": "achievement-72",
+        "name": "Heady",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-73",
+        "name": "You Had One Job",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-74",
+        "name": "All in the Family",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-75",
+        "name": "God Killer",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-76",
+        "name": "Lighting In a Bottle",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-77",
+        "name": "Super Secret Sabotage Sauce",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-78",
+        "name": "Candy",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-79",
+        "name": "No Bezoar Left Behind",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-80",
+        "name": "Necessary Evil",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-81",
+        "name": "Clone 2: Genetic Boogaloo",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-82",
+        "name": "Like, Totally Shroomin' Out, Man",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-83",
+        "name": "Flawless Espionage",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-84",
+        "name": "K.E.G. Tapper",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-85",
+        "name": "Living Night Light",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-86",
+        "name": "Kumbaya",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/wasteland-3",
+    "Achievement data from Steam (Steam Web API, app 719040)",
+    "StrategyWiki: no usable walkthrough, nothing used — https://strategywiki.org/wiki/Wasteland_3",
+    "Fandom (wasteland.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://wasteland.fandom.com/wiki/Wasteland_3"
+  ],
+  "route": "original",
+  "notes": "Backlog game, picked from RAWG's most-added list for its year (docs/PLAN.md section 2 ordering). StrategyWiki has a stub page (completion stage 0); its Walkthrough, Gameplay and Table of Contents subpages are linked but none exists, so nothing was used. wasteland.fandom.com answers the API, with about 26 linked pages, including \"Battle of Steeltown\", \"Cult of the Holy Detonation\" and \"Wasteland 3 quests\"; names only were looked at, nothing copied. RAWG also lists \"Wasteland 3: The Battle of Steeltown\" as a separate entry. 55 of 86 Steam achievements are hidden, with no descriptions. Achievements 63 to 69 are hidden but sit in the schema right before the two visible Steeltown achievements (70 and 71), and the first is named \"Steeltown Defiant\", so all seven were placed in the Steeltown chapter by name; that is a judgement call. Hidden achievements 72 to 86 (for example \"God Killer\", \"Candy\", \"Kumbaya\") are a later block, all earned by under 8% of players; they may belong to the other add-on named on Fandom (\"Cult of the Holy Detonation\"), but no achievement text says so, so they sit in the main story chapter with the other hidden ones as a placeholder. RAWG lists a playtime of only 6 hours, which looks low."
+}

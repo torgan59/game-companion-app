@@ -1,0 +1,545 @@
+{
+  "id": "persona-3-reload",
+  "title": "Persona 3 Reload",
+  "year": 2024,
+  "platforms": [
+    "PC",
+    "PlayStation 5",
+    "Xbox Series X|S",
+    "PlayStation 4",
+    "Xbox One"
+  ],
+  "rawgId": 962676,
+  "rawgSlug": "persona-3-reload",
+  "released": "2024-02-01",
+  "developers": [
+    "Atlus"
+  ],
+  "playtime": 29,
+  "genres": [
+    "Action",
+    "Adventure",
+    "RPG",
+    "Strategy"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Full controller support",
+    "Steam Cloud",
+    "RPG",
+    "Story Rich",
+    "Dark",
+    "Anime",
+    "Mystery",
+    "Colorful",
+    "Turn-Based Strategy",
+    "Multiple Endings"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/29a/29a78d7b6be61673c910d588bf188e2c.jpg",
+  "steamAppId": 2161700,
+  "achievements": {
+    "total": 56,
+    "hidden": 19,
+    "examples": [
+      {
+        "name": "There's No \"I\" in \"Team\"",
+        "percent": 75.5
+      },
+      {
+        "name": "The Thrill of the Hunt",
+        "percent": 73.2
+      },
+      {
+        "name": "The First of Many",
+        "percent": 72.9
+      },
+      {
+        "name": "People Person",
+        "percent": 26.2
+      },
+      {
+        "name": "Path to Salvation",
+        "percent": 17.6
+      },
+      {
+        "name": "Eagle Eye",
+        "percent": 15.0
+      },
+      {
+        "name": "Realized Power",
+        "percent": 12.3
+      },
+      {
+        "name": "A Legacy of Friendships",
+        "percent": 9.4
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Persona_3_Reload",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 500,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://megamitensei.fandom.com/wiki/Persona_3_Reload"
+    }
+  },
+  "game": {
+    "id": "persona-3-reload",
+    "title": "Persona 3 Reload",
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "Xbox Series X|S",
+      "PlayStation 4",
+      "Xbox One"
+    ],
+    "blurb": "Reimagined RPG in which a transfer student awakens a power in the hidden Dark Hour between one day and the next, and fights for friends, from Atlus, released 2024-02-01. RAWG average playtime: 29 hours. Genres: Action, Adventure, RPG, Strategy. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#1E6FD9",
+    "chapters": [
+      {
+        "id": "main-story",
+        "title": "The Main Story",
+        "summary": "The school year and the mysteries of the Dark Hour. Spoiler-guarded; the story achievements are hidden.",
+        "steps": []
+      },
+      {
+        "id": "school-and-social-links",
+        "title": "School Life and Social Links",
+        "summary": "Social Links, romance, exams, Social Stats, part-time jobs, the dorm, the garden, the cat and hang-outs.",
+        "steps": []
+      },
+      {
+        "id": "tartarus-and-battles",
+        "title": "Tartarus and Battles",
+        "summary": "Shuffle Time, Shifts, Theurgy, All-Out Attacks, golden enemies, Monad doors, chests, Twilight Fragments and the Reaper.",
+        "steps": []
+      },
+      {
+        "id": "personas-and-fusion",
+        "title": "Personas and Fusion",
+        "summary": "Dyad and multi-Persona fusions, Persona Conception, skill changes, Messiah and the wild card.",
+        "steps": []
+      },
+      {
+        "id": "episode-aigis",
+        "title": "Episode Aigis (likely)",
+        "summary": "The last block of hidden achievements, which probably belong to the Episode Aigis add-on. Spoiler-guarded.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Awakened Power",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-2",
+        "name": "SEES the Day",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-3",
+        "name": "Back on Track",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-4",
+        "name": "Empowered Protector",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-5",
+        "name": "Never Toy with Matters of the Heart",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-6",
+        "name": "Armor Disarmed",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-7",
+        "name": "Dodging Lightning",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-8",
+        "name": "Twist of Fate",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-9",
+        "name": "A Sense of Finality",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-10",
+        "name": "The Great Seal",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-11",
+        "name": "From Shadows into Light",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-12",
+        "name": "The Fool's Journey",
+        "kind": "trophy",
+        "chapterId": "tartarus-and-battles",
+        "where": "Obtained 10 Major Arcana during Shuffle Time.(Persona 3 Reload main story mode only)"
+      },
+      {
+        "id": "achievement-13",
+        "name": "Distinguished Visitor",
+        "kind": "trophy",
+        "chapterId": "school-and-social-links",
+        "where": "Invited Elizabeth to your room."
+      },
+      {
+        "id": "achievement-14",
+        "name": "Top of the Class",
+        "kind": "trophy",
+        "chapterId": "school-and-social-links",
+        "where": "Aced an exam."
+      },
+      {
+        "id": "achievement-15",
+        "name": "A Legacy of Friendships",
+        "kind": "trophy",
+        "chapterId": "school-and-social-links",
+        "where": "Maxed out all Social Links."
+      },
+      {
+        "id": "achievement-16",
+        "name": "People Person",
+        "kind": "trophy",
+        "chapterId": "school-and-social-links",
+        "where": "Unlocked all Social Links."
+      },
+      {
+        "id": "achievement-17",
+        "name": "That Special Someone",
+        "kind": "trophy",
+        "chapterId": "school-and-social-links",
+        "where": "Nurtured a romance."
+      },
+      {
+        "id": "achievement-18",
+        "name": "Unbreakable Link",
+        "kind": "trophy",
+        "chapterId": "school-and-social-links",
+        "where": "Maxed out one Social Link."
+      },
+      {
+        "id": "achievement-19",
+        "name": "A Newfound Strength",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-20",
+        "name": "The Power of Choice",
+        "kind": "trophy",
+        "chapterId": "tartarus-and-battles",
+        "where": "Obtained 10 Personas during Shuffle Time.(Persona 3 Reload main story mode only)"
+      },
+      {
+        "id": "achievement-21",
+        "name": "There's No \"I\" in \"Team\"",
+        "kind": "trophy",
+        "chapterId": "tartarus-and-battles",
+        "where": "Performed a Shift.(Persona 3 Reload main story mode only)"
+      },
+      {
+        "id": "achievement-22",
+        "name": "The Strength of Our Hearts",
+        "kind": "trophy",
+        "chapterId": "tartarus-and-battles",
+        "where": "Used all teammates' Theurgy.(Persona 3 Reload main story mode only)"
+      },
+      {
+        "id": "achievement-23",
+        "name": "Extracurricular Excellence",
+        "kind": "trophy",
+        "chapterId": "tartarus-and-battles",
+        "where": "Rescued a missing person."
+      },
+      {
+        "id": "achievement-24",
+        "name": "Get a Load of Those Numbers!",
+        "kind": "trophy",
+        "chapterId": "tartarus-and-battles",
+        "where": "Dealt over 999 damage in a single attack (All-Out Attacks excluded).(Persona 3 Reload main story mode only)"
+      },
+      {
+        "id": "achievement-25",
+        "name": "Shrouded Assassin",
+        "kind": "trophy",
+        "chapterId": "tartarus-and-battles",
+        "where": "Initiated 50 Chance Encounters.(Persona 3 Reload main story mode only)"
+      },
+      {
+        "id": "achievement-26",
+        "name": "The Thrill of the Hunt",
+        "kind": "trophy",
+        "chapterId": "tartarus-and-battles",
+        "where": "Defeated a rare, golden enemy.(Persona 3 Reload main story mode only)"
+      },
+      {
+        "id": "achievement-27",
+        "name": "Making the Dream Work",
+        "kind": "trophy",
+        "chapterId": "tartarus-and-battles",
+        "where": "Performed 50 All-Out Attacks.(Persona 3 Reload main story mode only)"
+      },
+      {
+        "id": "achievement-28",
+        "name": "Glimpse of the Depths",
+        "kind": "trophy",
+        "chapterId": "tartarus-and-battles",
+        "where": "Discovered and conquered 10 Monad doors.(Persona 3 Reload main story mode only)"
+      },
+      {
+        "id": "achievement-29",
+        "name": "Briefcase Burglar",
+        "kind": "trophy",
+        "chapterId": "tartarus-and-battles",
+        "where": "Opened 50 treasure chests.(Persona 3 Reload main story mode only)"
+      },
+      {
+        "id": "achievement-30",
+        "name": "Shattered Plumes",
+        "kind": "trophy",
+        "chapterId": "tartarus-and-battles",
+        "where": "Used a total of 50 Twilight Fragments.(Persona 3 Reload main story mode only)"
+      },
+      {
+        "id": "achievement-31",
+        "name": "The Horror of the Shade",
+        "kind": "trophy",
+        "chapterId": "tartarus-and-battles",
+        "where": "Encountered a Dark Zone in Tartarus."
+      },
+      {
+        "id": "achievement-32",
+        "name": "Reaper Reaped",
+        "kind": "trophy",
+        "chapterId": "tartarus-and-battles",
+        "where": "Defeated the Reaper.(Persona 3 Reload main story mode only)"
+      },
+      {
+        "id": "achievement-33",
+        "name": "The First of Many",
+        "kind": "trophy",
+        "chapterId": "personas-and-fusion",
+        "where": "Performed a Dyad Fusion.(Persona 3 Reload main story mode only)"
+      },
+      {
+        "id": "achievement-34",
+        "name": "Fusion Artisan",
+        "kind": "trophy",
+        "chapterId": "personas-and-fusion",
+        "where": "Performed a fusion with three or more Personas.(Persona 3 Reload main story mode only)"
+      },
+      {
+        "id": "achievement-35",
+        "name": "Birthday Present",
+        "kind": "trophy",
+        "chapterId": "personas-and-fusion",
+        "where": "Obtained an item from a Persona Conception.(Persona 3 Reload main story mode only)"
+      },
+      {
+        "id": "achievement-36",
+        "name": "Path to Salvation",
+        "kind": "trophy",
+        "chapterId": "personas-and-fusion",
+        "where": "Fused Messiah.(Persona 3 Reload main story mode only)"
+      },
+      {
+        "id": "achievement-37",
+        "name": "Tempting Fate",
+        "kind": "trophy",
+        "chapterId": "personas-and-fusion",
+        "where": "Triggered a skill change during fusion.(Persona 3 Reload main story mode only)"
+      },
+      {
+        "id": "achievement-38",
+        "name": "Eat Your Veggies, Peas!",
+        "kind": "trophy",
+        "chapterId": "school-and-social-links",
+        "where": "Harvested a crop that you grew with a teammate."
+      },
+      {
+        "id": "achievement-39",
+        "name": "The Grindset Mindset",
+        "kind": "trophy",
+        "chapterId": "school-and-social-links",
+        "where": "Earned over 50,000 yen total from part-time jobs."
+      },
+      {
+        "id": "achievement-40",
+        "name": "Specialist",
+        "kind": "trophy",
+        "chapterId": "school-and-social-links",
+        "where": "Maxed out one Social Stat."
+      },
+      {
+        "id": "achievement-41",
+        "name": "Peak Performance",
+        "kind": "trophy",
+        "chapterId": "school-and-social-links",
+        "where": "Maxed out all Social Stats."
+      },
+      {
+        "id": "achievement-42",
+        "name": "Dorm Life",
+        "kind": "trophy",
+        "chapterId": "school-and-social-links",
+        "where": "Spent an evening in the dorm with a teammate."
+      },
+      {
+        "id": "achievement-43",
+        "name": "Gourmand",
+        "kind": "trophy",
+        "chapterId": "school-and-social-links",
+        "where": "Ordered from a secret menu at the Iwatodai strip mall at night."
+      },
+      {
+        "id": "achievement-44",
+        "name": "Benevolent Purr-tector",
+        "kind": "trophy",
+        "chapterId": "school-and-social-links",
+        "where": "Nursed a cat back to full health."
+      },
+      {
+        "id": "achievement-45",
+        "name": "In High Demand",
+        "kind": "trophy",
+        "chapterId": "school-and-social-links",
+        "where": "Accepted an invitation to hang out five times."
+      },
+      {
+        "id": "achievement-46",
+        "name": "Beyond the Darkness",
+        "kind": "trophy",
+        "chapterId": "tartarus-and-battles",
+        "where": "Unlocked access to the remaining Major Arcana.(Persona 3 Reload main story mode only)"
+      },
+      {
+        "id": "achievement-47",
+        "name": "Through Thick and Thin",
+        "kind": "trophy",
+        "chapterId": "tartarus-and-battles",
+        "where": "Unlocked a teammate's Combat Characteristic.(Persona 3 Reload main story mode only)"
+      },
+      {
+        "id": "achievement-48",
+        "name": "Eagle Eye",
+        "kind": "trophy",
+        "chapterId": "tartarus-and-battles",
+        "where": "Acquired every Twilight Fragment in town.(Persona 3 Reload main story mode only)"
+      },
+      {
+        "id": "achievement-49",
+        "name": "Realized Power",
+        "kind": "trophy",
+        "chapterId": "personas-and-fusion",
+        "where": "Awakened to the power of the wild card."
+      },
+      {
+        "id": "achievement-50",
+        "name": "The Vengeful One",
+        "kind": "trophy",
+        "chapterId": "episode-aigis",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-51",
+        "name": "The Determined One",
+        "kind": "trophy",
+        "chapterId": "episode-aigis",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-52",
+        "name": "The Disillusioned One",
+        "kind": "trophy",
+        "chapterId": "episode-aigis",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-53",
+        "name": "The Selfless One",
+        "kind": "trophy",
+        "chapterId": "episode-aigis",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-54",
+        "name": "The Steadfast One",
+        "kind": "trophy",
+        "chapterId": "episode-aigis",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-55",
+        "name": "The One Who Dreamt",
+        "kind": "trophy",
+        "chapterId": "episode-aigis",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-56",
+        "name": "Together, Into Tomorrow",
+        "kind": "trophy",
+        "chapterId": "episode-aigis",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/persona-3-reload",
+    "Achievement data from Steam (Steam Web API, app 2161700)",
+    "StrategyWiki: no usable walkthrough, nothing used — https://strategywiki.org/wiki/Persona_3_Reload",
+    "Fandom (megamitensei.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://megamitensei.fandom.com/wiki/Persona_3_Reload"
+  ],
+  "route": "original",
+  "notes": "Backlog game, picked from RAWG's most-added list for its year (docs/PLAN.md section 2 ordering). StrategyWiki has a page at completion stage 0 (a stub); the only written subpages are \"Achievements and trophies\" (about 7,700 characters) and a short Table of Contents (404 characters). Its Walkthrough, Controls and Gameplay pages are linked but not written. megamitensei.fandom.com answers the API, with 500 or more linked pages (the list was cut off at 500), including \"Persona 3 Reload: Episode Aigis Original Soundtrack\", \"Monad Depths\", \"Elizabeth's Requests\" and \"Linked Episodes\"; names only were looked at, nothing copied. The Steam schema calls the app \"Libra\" (an internal codename); the store list confirms app 2161700. 19 of 56 Steam achievements are hidden. Twelve (1 to 11 and 19) sit in the main story chapter. Many visible descriptions say \"(Persona 3 Reload main story mode only)\", which suggests a second mode; the last seven hidden achievements (50 to 56, \"The Vengeful One\" to \"Together, Into Tomorrow\", each about 7 to 9 percent) form one block at the end and were put in an \"Episode Aigis\" chapter by position and by the Fandom soundtrack page name, which needs checking. \"Realized Power\" (49, awakening to the wild card, 12.3 percent) sits just before that block and may belong to it too; it was kept with Personas and Fusion."
+}

@@ -1,0 +1,855 @@
+{
+  "id": "monster-hunter-world",
+  "title": "Monster Hunter: World",
+  "year": 2018,
+  "platforms": [
+    "PlayStation 4",
+    "Xbox One",
+    "PC"
+  ],
+  "rawgId": 46889,
+  "rawgSlug": "monster-hunter-world-2",
+  "released": "2018-01-26",
+  "developers": [
+    "Capcom",
+    "Capcom U.S.A"
+  ],
+  "playtime": 15,
+  "genres": [
+    "Action",
+    "Adventure",
+    "RPG"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Multiplayer",
+    "Atmospheric",
+    "Great Soundtrack",
+    "RPG",
+    "Co-op",
+    "Open World",
+    "cooperative",
+    "Third Person",
+    "Partial Controller Support",
+    "Online Co-Op",
+    "Fantasy"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/21c/21cc15d233117c6809ec86870559e105.jpg",
+  "steamAppId": 582010,
+  "achievements": {
+    "total": 100,
+    "hidden": 35,
+    "examples": [
+      {
+        "name": "The Art of Camouflage",
+        "percent": 96.8
+      },
+      {
+        "name": "The Bigger They Are...",
+        "percent": 68.1
+      },
+      {
+        "name": "Hunters United",
+        "percent": 67.0
+      },
+      {
+        "name": "True Large Crown Collector",
+        "percent": 1.4
+      },
+      {
+        "name": "Veteran Collector",
+        "percent": 1.2
+      },
+      {
+        "name": "Conqueror of the New World",
+        "percent": 1.0
+      },
+      {
+        "name": "Ultimate Collector",
+        "percent": 1.0
+      },
+      {
+        "name": "Conqueror of the Hinterlands",
+        "percent": 0.8
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Monster_Hunter:_World",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 170,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://monsterhunter.fandom.com/wiki/Monster_Hunter:_World"
+    }
+  },
+  "game": {
+    "id": "monster-hunter-world",
+    "title": "Monster Hunter: World",
+    "platforms": [
+      "PlayStation 4",
+      "Xbox One",
+      "PC"
+    ],
+    "blurb": "Action RPG about hunting giant monsters in a newly settled continent, the New World, from Capcom, released 2018-01-26. RAWG average playtime: 15 hours. Genres: Action, Adventure, RPG. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#5F7F2A",
+    "chapters": [
+      {
+        "id": "main-story",
+        "title": "The Main Story",
+        "summary": "A hunter joins the expedition to the New World to follow the Elder Crossing. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "hunting-and-quests",
+        "title": "Hunts, Quests and Crowns",
+        "summary": "Optional quests, investigations, the arena, captures, elder dragons, monster research and crown sizes.",
+        "steps": []
+      },
+      {
+        "id": "life-and-gear",
+        "title": "Life in the New World and Gear",
+        "summary": "Camps, fishing, cooking, Tailraiders, Palico gadgets, your room, zenny, rare weapons and armour.",
+        "steps": []
+      },
+      {
+        "id": "multiplayer",
+        "title": "Multiplayer",
+        "summary": "SOS flares, co-op quests and Guild Cards.",
+        "steps": []
+      },
+      {
+        "id": "iceborne-story",
+        "title": "Iceborne Story (expansion)",
+        "summary": "The Iceborne story in master rank. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "iceborne-master-rank",
+        "title": "Iceborne: Master Rank and the Hoarfrost Reach",
+        "summary": "Hoarfrost Reach camps, the clutch claw, Raider Ride, treasure, room decor, the Steamworks, master rank hunts and crowns.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Conqueror of the New World",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Unlock all achievements for Monster Hunter: World."
+      },
+      {
+        "id": "achievement-2",
+        "name": "Welcome to the New World",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-3",
+        "name": "Nothing Stops This Commission",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-4",
+        "name": "Defender of Astera",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-5",
+        "name": "Into the Deep",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-6",
+        "name": "Death Begets Life",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-7",
+        "name": "The Empress of the Highlands",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-8",
+        "name": "One Shall Stand, One Shall Fall",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-9",
+        "name": "The Sapphire Star",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-10",
+        "name": "The Hunters Life for Me",
+        "kind": "trophy",
+        "chapterId": "hunting-and-quests",
+        "where": "Complete 50 optional quests."
+      },
+      {
+        "id": "achievement-11",
+        "name": "An Inquisitive Mind",
+        "kind": "trophy",
+        "chapterId": "hunting-and-quests",
+        "where": "Complete your first investigation."
+      },
+      {
+        "id": "achievement-12",
+        "name": "The Franchise Hunter",
+        "kind": "trophy",
+        "chapterId": "hunting-and-quests",
+        "where": "Complete 50 investigations."
+      },
+      {
+        "id": "achievement-13",
+        "name": "Step into the Arena",
+        "kind": "trophy",
+        "chapterId": "hunting-and-quests",
+        "where": "Complete your first arena quest."
+      },
+      {
+        "id": "achievement-14",
+        "name": "Nowhere to Go but Up",
+        "kind": "trophy",
+        "chapterId": "hunting-and-quests",
+        "where": "Complete 50 arena quests."
+      },
+      {
+        "id": "achievement-15",
+        "name": "New World Settler",
+        "kind": "trophy",
+        "chapterId": "life-and-gear",
+        "where": "Establish five camps."
+      },
+      {
+        "id": "achievement-16",
+        "name": "The Art of Camouflage",
+        "kind": "trophy",
+        "chapterId": "life-and-gear",
+        "where": "Escape the Jagras pack by hiding in some shrubs."
+      },
+      {
+        "id": "achievement-17",
+        "name": "Angling for a Bite",
+        "kind": "trophy",
+        "chapterId": "life-and-gear",
+        "where": "Catch your first fish."
+      },
+      {
+        "id": "achievement-18",
+        "name": "Mmm, So Tasty!",
+        "kind": "trophy",
+        "chapterId": "life-and-gear",
+        "where": "Cook your first well-done steak."
+      },
+      {
+        "id": "achievement-19",
+        "name": "The Bigger They Are...",
+        "kind": "trophy",
+        "chapterId": "life-and-gear",
+        "where": "Mount your first monster."
+      },
+      {
+        "id": "achievement-20",
+        "name": "A Living Fossil",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-21",
+        "name": "Snuggles for All",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-22",
+        "name": "Bristles for All",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-23",
+        "name": "Rainbow Bright",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-24",
+        "name": "Commissioned Work",
+        "kind": "trophy",
+        "chapterId": "hunting-and-quests",
+        "where": "Obtain 100,000 research points."
+      },
+      {
+        "id": "achievement-25",
+        "name": "Bourgeois Hunter",
+        "kind": "trophy",
+        "chapterId": "life-and-gear",
+        "where": "Possess 1,000,000 zenny."
+      },
+      {
+        "id": "achievement-26",
+        "name": "Impregnable Defense",
+        "kind": "trophy",
+        "chapterId": "life-and-gear",
+        "where": "Obtain five highly rare pieces of armor."
+      },
+      {
+        "id": "achievement-27",
+        "name": "Power is Everything",
+        "kind": "trophy",
+        "chapterId": "life-and-gear",
+        "where": "Obtain five highly rare weapons."
+      },
+      {
+        "id": "achievement-28",
+        "name": "Movin On Up",
+        "kind": "trophy",
+        "chapterId": "life-and-gear",
+        "where": "Move into an upgraded room."
+      },
+      {
+        "id": "achievement-29",
+        "name": "First Friends",
+        "kind": "trophy",
+        "chapterId": "life-and-gear",
+        "where": "Befriend your first Tailraider."
+      },
+      {
+        "id": "achievement-30",
+        "name": "Bosom Buddies",
+        "kind": "trophy",
+        "chapterId": "life-and-gear",
+        "where": "Raise the proficiency of any Palico Gadget to level 10."
+      },
+      {
+        "id": "achievement-31",
+        "name": "Monster Ph.D.",
+        "kind": "trophy",
+        "chapterId": "hunting-and-quests",
+        "where": "Max out the research level (up to high rank) for many monsters."
+      },
+      {
+        "id": "achievement-32",
+        "name": "Temper Temper",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-33",
+        "name": "Indomitable",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-34",
+        "name": "Miniature Crown",
+        "kind": "trophy",
+        "chapterId": "hunting-and-quests",
+        "where": "Record your first miniature crown for monsters that appear from low or high rank."
+      },
+      {
+        "id": "achievement-35",
+        "name": "Miniature Crown Collector",
+        "kind": "trophy",
+        "chapterId": "hunting-and-quests",
+        "where": "Obtain a miniature crown for 10 or more monsters that appear from low or high rank."
+      },
+      {
+        "id": "achievement-36",
+        "name": "Miniature Crown Master",
+        "kind": "trophy",
+        "chapterId": "hunting-and-quests",
+        "where": "Obtain a miniature crown for many monsters in your hunting log."
+      },
+      {
+        "id": "achievement-37",
+        "name": "Giant Crown",
+        "kind": "trophy",
+        "chapterId": "hunting-and-quests",
+        "where": "Record your first silver crown or higher for monsters that appear from low or high rank."
+      },
+      {
+        "id": "achievement-38",
+        "name": "Giant Crown Collector",
+        "kind": "trophy",
+        "chapterId": "hunting-and-quests",
+        "where": "Obtain a gold crown for 10 or more monsters that appear from low or high rank."
+      },
+      {
+        "id": "achievement-39",
+        "name": "Giant Crown Master",
+        "kind": "trophy",
+        "chapterId": "hunting-and-quests",
+        "where": "Obtain a gold crown for many monsters in your hunting log."
+      },
+      {
+        "id": "achievement-40",
+        "name": "Capture Novice",
+        "kind": "trophy",
+        "chapterId": "hunting-and-quests",
+        "where": "Capture your first monster."
+      },
+      {
+        "id": "achievement-41",
+        "name": "Capture Pro",
+        "kind": "trophy",
+        "chapterId": "hunting-and-quests",
+        "where": "Capture 50 monsters."
+      },
+      {
+        "id": "achievement-42",
+        "name": "Elderslayer",
+        "kind": "trophy",
+        "chapterId": "hunting-and-quests",
+        "where": "Slay 50 elder dragons."
+      },
+      {
+        "id": "achievement-43",
+        "name": "Monster Slayer",
+        "kind": "trophy",
+        "chapterId": "hunting-and-quests",
+        "where": "Hunt 100 large monsters."
+      },
+      {
+        "id": "achievement-44",
+        "name": "Monster Hunter",
+        "kind": "trophy",
+        "chapterId": "hunting-and-quests",
+        "where": "Hunt 500 large monsters."
+      },
+      {
+        "id": "achievement-45",
+        "name": "HELP!",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "Fire an SOS flare for the first time."
+      },
+      {
+        "id": "achievement-46",
+        "name": "I Am the Reinforcements",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "Respond to an SOS flare, and help complete 10 quests."
+      },
+      {
+        "id": "achievement-47",
+        "name": "Hunters United",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "Complete a quest via multiplayer."
+      },
+      {
+        "id": "achievement-48",
+        "name": "Hunters United Forever",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "Complete 100 quests via multiplayer."
+      },
+      {
+        "id": "achievement-49",
+        "name": "Spreading the Word",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "Collect over 50 Guild Cards."
+      },
+      {
+        "id": "achievement-50",
+        "name": "Established Hunter",
+        "kind": "trophy",
+        "chapterId": "hunting-and-quests",
+        "where": "Reach hunter rank 100."
+      },
+      {
+        "id": "achievement-51",
+        "name": "Conqueror of the Hinterlands",
+        "kind": "trophy",
+        "chapterId": "iceborne-story",
+        "where": "Unlock all achievements for Monster Hunter World: Iceborne."
+      },
+      {
+        "id": "achievement-52",
+        "name": "The Beginning of a New Expedition",
+        "kind": "trophy",
+        "chapterId": "iceborne-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-53",
+        "name": "Time to Get Serious",
+        "kind": "trophy",
+        "chapterId": "iceborne-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-54",
+        "name": "The Elusive Elder Dragon",
+        "kind": "trophy",
+        "chapterId": "iceborne-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-55",
+        "name": "Indomitable Spirit",
+        "kind": "trophy",
+        "chapterId": "iceborne-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-56",
+        "name": "The Old Everwyrm",
+        "kind": "trophy",
+        "chapterId": "iceborne-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-57",
+        "name": "An End and a Beginning",
+        "kind": "trophy",
+        "chapterId": "iceborne-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-58",
+        "name": "To the Land of Discoveries",
+        "kind": "trophy",
+        "chapterId": "iceborne-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-59",
+        "name": "Evolving Ecology",
+        "kind": "trophy",
+        "chapterId": "iceborne-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-60",
+        "name": "In Search of Rare Materials",
+        "kind": "trophy",
+        "chapterId": "iceborne-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-61",
+        "name": "Insatiable Investigator",
+        "kind": "trophy",
+        "chapterId": "iceborne-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-62",
+        "name": "Fate's Conclusion",
+        "kind": "trophy",
+        "chapterId": "iceborne-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-63",
+        "name": "Master Explorer",
+        "kind": "trophy",
+        "chapterId": "iceborne-master-rank",
+        "where": "Establish all camps in the Hoarfrost Reach."
+      },
+      {
+        "id": "achievement-64",
+        "name": "Source of Relaxation",
+        "kind": "trophy",
+        "chapterId": "iceborne-master-rank",
+        "where": "Spend some time in a natural hot spring."
+      },
+      {
+        "id": "achievement-65",
+        "name": "Clutch Claw Neophyte",
+        "kind": "trophy",
+        "chapterId": "iceborne-master-rank",
+        "where": "Study the ways of the clutch claw."
+      },
+      {
+        "id": "achievement-66",
+        "name": "Golden Gleam",
+        "kind": "trophy",
+        "chapterId": "iceborne-master-rank",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-67",
+        "name": "Friendly Pointer",
+        "kind": "trophy",
+        "chapterId": "iceborne-master-rank",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-68",
+        "name": "Sweet Melody",
+        "kind": "trophy",
+        "chapterId": "iceborne-master-rank",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-69",
+        "name": "Submerged Mystery",
+        "kind": "trophy",
+        "chapterId": "iceborne-master-rank",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-70",
+        "name": "Celestial Illusion",
+        "kind": "trophy",
+        "chapterId": "iceborne-master-rank",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-71",
+        "name": "Deft Digger",
+        "kind": "trophy",
+        "chapterId": "iceborne-master-rank",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-72",
+        "name": "Creatures of the Earth",
+        "kind": "trophy",
+        "chapterId": "iceborne-master-rank",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-73",
+        "name": "Unwavering Defense",
+        "kind": "trophy",
+        "chapterId": "iceborne-master-rank",
+        "where": "Obtain five extremely rare pieces of armor."
+      },
+      {
+        "id": "achievement-74",
+        "name": "Devastating Offense",
+        "kind": "trophy",
+        "chapterId": "iceborne-master-rank",
+        "where": "Obtain five extremely rare weapons."
+      },
+      {
+        "id": "achievement-75",
+        "name": "Personal Treasure",
+        "kind": "trophy",
+        "chapterId": "iceborne-master-rank",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-76",
+        "name": "First Ride",
+        "kind": "trophy",
+        "chapterId": "iceborne-master-rank",
+        "where": "Use your first Raider Ride."
+      },
+      {
+        "id": "achievement-77",
+        "name": "Experienced Rider",
+        "kind": "trophy",
+        "chapterId": "iceborne-master-rank",
+        "where": "Use Raider Ride many times."
+      },
+      {
+        "id": "achievement-78",
+        "name": "Fledgling Collector",
+        "kind": "trophy",
+        "chapterId": "iceborne-master-rank",
+        "where": "Find your first treasure."
+      },
+      {
+        "id": "achievement-79",
+        "name": "Veteran Collector",
+        "kind": "trophy",
+        "chapterId": "iceborne-master-rank",
+        "where": "Find all treasure within a single locale."
+      },
+      {
+        "id": "achievement-80",
+        "name": "Ultimate Collector",
+        "kind": "trophy",
+        "chapterId": "iceborne-master-rank",
+        "where": "Find all treasure."
+      },
+      {
+        "id": "achievement-81",
+        "name": "Remodeler",
+        "kind": "trophy",
+        "chapterId": "iceborne-master-rank",
+        "where": "Change your room's interior for the first time."
+      },
+      {
+        "id": "achievement-82",
+        "name": "Interior Decorator",
+        "kind": "trophy",
+        "chapterId": "iceborne-master-rank",
+        "where": "Have 50 different types of room decor to choose from."
+      },
+      {
+        "id": "achievement-83",
+        "name": "Architectural Artist",
+        "kind": "trophy",
+        "chapterId": "iceborne-master-rank",
+        "where": "Have 120 different types of room decor to choose from."
+      },
+      {
+        "id": "achievement-84",
+        "name": "Eager Engineer",
+        "kind": "trophy",
+        "chapterId": "iceborne-master-rank",
+        "where": "Help the Steamworks 20 times."
+      },
+      {
+        "id": "achievement-85",
+        "name": "Skilled Steamworker",
+        "kind": "trophy",
+        "chapterId": "iceborne-master-rank",
+        "where": "Send the Steamworks into overdrive."
+      },
+      {
+        "id": "achievement-86",
+        "name": "Another Miniature Crown",
+        "kind": "trophy",
+        "chapterId": "iceborne-master-rank",
+        "where": "Obtain your first miniature crown for capturing endemic life in master rank."
+      },
+      {
+        "id": "achievement-87",
+        "name": "Another Giant Crown",
+        "kind": "trophy",
+        "chapterId": "iceborne-master-rank",
+        "where": "Obtain your first gold crown for capturing endemic life in master rank."
+      },
+      {
+        "id": "achievement-88",
+        "name": "Fledgling Observer",
+        "kind": "trophy",
+        "chapterId": "iceborne-master-rank",
+        "where": "Complete your first request for the Lynian Researcher."
+      },
+      {
+        "id": "achievement-89",
+        "name": "Outstanding Observer",
+        "kind": "trophy",
+        "chapterId": "iceborne-master-rank",
+        "where": "Complete many requests for the Lynian Researcher."
+      },
+      {
+        "id": "achievement-90",
+        "name": "Helpful Hunter",
+        "kind": "trophy",
+        "chapterId": "iceborne-master-rank",
+        "where": "Aid a low rank or high rank hunter on 10 quests as a master rank hunter."
+      },
+      {
+        "id": "achievement-91",
+        "name": "Master of Masters",
+        "kind": "trophy",
+        "chapterId": "iceborne-master-rank",
+        "where": "Reach master rank 200."
+      },
+      {
+        "id": "achievement-92",
+        "name": "Monster Master",
+        "kind": "trophy",
+        "chapterId": "iceborne-master-rank",
+        "where": "Maximize the research level for almost all large monsters."
+      },
+      {
+        "id": "achievement-93",
+        "name": "True Miniature Crown Collector",
+        "kind": "trophy",
+        "chapterId": "iceborne-master-rank",
+        "where": "Obtain a miniature crown for almost every monster in your hunting log."
+      },
+      {
+        "id": "achievement-94",
+        "name": "True Large Crown Collector",
+        "kind": "trophy",
+        "chapterId": "iceborne-master-rank",
+        "where": "Obtain a gold crown for almost every monster in your hunting log."
+      },
+      {
+        "id": "achievement-95",
+        "name": "The True Hunt Begins",
+        "kind": "trophy",
+        "chapterId": "iceborne-master-rank",
+        "where": "Hunt your first large monster in a master rank quest."
+      },
+      {
+        "id": "achievement-96",
+        "name": "Hunter Prodigy",
+        "kind": "trophy",
+        "chapterId": "iceborne-master-rank",
+        "where": "Hunt 100 large monsters in master rank quests."
+      },
+      {
+        "id": "achievement-97",
+        "name": "Master Capturer",
+        "kind": "trophy",
+        "chapterId": "iceborne-master-rank",
+        "where": "Capture 50 large monsters in master rank quests."
+      },
+      {
+        "id": "achievement-98",
+        "name": "Master Slayer",
+        "kind": "trophy",
+        "chapterId": "iceborne-master-rank",
+        "where": "Slay 50 elder dragons in master rank quests."
+      },
+      {
+        "id": "achievement-99",
+        "name": "Confronting the Unknown",
+        "kind": "trophy",
+        "chapterId": "iceborne-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-100",
+        "name": "Seen It All",
+        "kind": "trophy",
+        "chapterId": "iceborne-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/monster-hunter-world-2",
+    "Achievement data from Steam (Steam Web API, app 582010)",
+    "StrategyWiki: no usable walkthrough, nothing used — https://strategywiki.org/wiki/Monster_Hunter:_World",
+    "Fandom (monsterhunter.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://monsterhunter.fandom.com/wiki/Monster_Hunter:_World"
+  ],
+  "route": "original",
+  "notes": "Backlog game, picked from RAWG's most-added list for its year (docs/PLAN.md section 2 ordering). StrategyWiki has a stub page (completion stage 0); only Controls and Table of Contents subpages exist. monsterhunter.fandom.com answers the API, with about 170 linked pages; names only were looked at, nothing copied. The Steam schema calls the app \"ProjectA\" (an internal codename); the store list confirms app 582010. The 100 Steam achievements cover the base game (1 to 50) and the Iceborne expansion (51 to 100, opened by \"Unlock all achievements for Monster Hunter World: Iceborne\"). 35 are hidden. The 13 hidden ones in the Iceborne block with high unlock rates (12 to 37 percent) were put in the Iceborne story chapter, and the 8 with very low rates (about 2 to 5 percent, such as \"Golden Gleam\" and \"Creatures of the Earth\") in the Iceborne master rank chapter, by schema position; both need checking. The base game's 14 hidden ones sit in the main story chapter; \"A Living Fossil\", \"Snuggles for All\", \"Bristles for All\" and \"Rainbow Bright\" (3 to 8 percent) and \"Temper Temper\" and \"Indomitable\" are probably optional content."
+}

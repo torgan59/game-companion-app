@@ -1,0 +1,865 @@
+{
+  "id": "monster-hunter-rise",
+  "title": "Monster Hunter Rise",
+  "year": 2021,
+  "platforms": [
+    "PC",
+    "Xbox Series X|S",
+    "Xbox One",
+    "PlayStation 4",
+    "PlayStation 5",
+    "Nintendo Switch"
+  ],
+  "rawgId": 494393,
+  "rawgSlug": "monster-hunter-rise",
+  "released": "2021-03-26",
+  "developers": [
+    "Capcom"
+  ],
+  "playtime": 15,
+  "genres": [
+    "Action",
+    "RPG"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Multiplayer",
+    "Full controller support",
+    "Steam Cloud",
+    "Atmospheric",
+    "RPG",
+    "Co-op",
+    "Story Rich",
+    "cooperative",
+    "Third Person",
+    "Online Co-Op"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/dbb/dbba6100aae179b5f24052c9141d426d.jpg",
+  "steamAppId": 1446780,
+  "achievements": {
+    "total": 100,
+    "hidden": 0,
+    "examples": [
+      {
+        "name": "Kamura Amulet",
+        "percent": 86.8
+      },
+      {
+        "name": "Apex Shortsword",
+        "percent": 54.6
+      },
+      {
+        "name": "Tempestuous Triumph Scroll",
+        "percent": 46.4
+      },
+      {
+        "name": "Gold Crown Plaque",
+        "percent": 1.1
+      },
+      {
+        "name": "Badge of Excellence",
+        "percent": 1.0
+      },
+      {
+        "name": "Gold Crown Shield",
+        "percent": 1.0
+      },
+      {
+        "name": "Miniature Crown Shield",
+        "percent": 0.9
+      },
+      {
+        "name": "Hero's Accolade",
+        "percent": 0.7
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Monster_Hunter_Rise",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 114,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://monsterhunter.fandom.com/wiki/Monster_Hunter_Rise"
+    }
+  },
+  "game": {
+    "id": "monster-hunter-rise",
+    "title": "Monster Hunter Rise",
+    "platforms": [
+      "PC",
+      "Xbox Series X|S",
+      "Xbox One",
+      "PlayStation 4",
+      "PlayStation 5",
+      "Nintendo Switch"
+    ],
+    "blurb": "Action RPG of big monster hunts from Kamura Village, from Capcom, released 2021-03-26 (Nintendo Switch first; PC and other consoles later). RAWG average playtime: 15 hours. Genres: Action, RPG. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#B5452E",
+    "chapters": [
+      {
+        "id": "kamura-story",
+        "title": "Kamura Village and the Rampage",
+        "summary": "Your first hunts for the village, the Rampage, Magnamalo and the serpents Ibushi and Narwa.",
+        "steps": []
+      },
+      {
+        "id": "sunbreak-story",
+        "title": "Elgado Outpost and the Kingdom",
+        "summary": "The later Master Rank story at Elgado Outpost: Garangolm, Lunagaron, Malzeno, Followers and Support Surveys.",
+        "steps": []
+      },
+      {
+        "id": "anomaly",
+        "title": "Anomaly Research and Risen Monsters",
+        "summary": "Afflicted monsters, Anomaly Quests, the Research Lab, Qurious Crafting and Risen monsters.",
+        "steps": []
+      },
+      {
+        "id": "quests-and-hunts",
+        "title": "Quests, Hunts and Crowns",
+        "summary": "Low, high and Master Rank quests, Arena quests, 50 quests in each locale, monster riding, hunt counts and crown sizes.",
+        "steps": []
+      },
+      {
+        "id": "exploration",
+        "title": "Exploration and Endemic Life",
+        "summary": "Camps, Wiredashes, Great Wirebug points, Spiribugs, Old Messages, fishing, photos and talking to everyone.",
+        "steps": []
+      },
+      {
+        "id": "buddies",
+        "title": "Buddies, Palicoes and Palamutes",
+        "summary": "Hiring and training Buddies, the Meowcenaries, the Buddy Dojo, Palamute gear and Recon spots.",
+        "steps": []
+      },
+      {
+        "id": "gear-and-village",
+        "title": "Gear, Skills and Village Life",
+        "summary": "Forging weapons and armour, Switch Skills, Petalaces, decorations, dango, cooking, zenny and Cohoot outfits.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Apex Shortsword",
+        "kind": "trophy",
+        "chapterId": "kamura-story",
+        "where": "Granted for banishing an Apex in the Rampage. Its blade is riddled with battle scars."
+      },
+      {
+        "id": "achievement-2",
+        "name": "Tempestuous Triumph Scroll",
+        "kind": "trophy",
+        "chapterId": "kamura-story",
+        "where": "A hanging scroll from Master Hojo, depicting your victory over Wind Serpent Ibushi."
+      },
+      {
+        "id": "achievement-3",
+        "name": "Beat-up Construction Kit",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Awarded for unlocking lots of camps. Each of its nicks and grooves tells a story."
+      },
+      {
+        "id": "achievement-4",
+        "name": "Badge of Excellence",
+        "kind": "trophy",
+        "chapterId": "quests-and-hunts",
+        "where": "The mark of a peerless hunter, conferred only to those who have earned a lot of awards."
+      },
+      {
+        "id": "achievement-5",
+        "name": "Kamura Amulet",
+        "kind": "trophy",
+        "chapterId": "kamura-story",
+        "where": "A trinket given to new hunters who have proved themselves capable."
+      },
+      {
+        "id": "achievement-6",
+        "name": "Ancestral Blade",
+        "kind": "trophy",
+        "chapterId": "kamura-story",
+        "where": "A prize for vanquishing Magnamalo. This blade has led Kamura for generations."
+      },
+      {
+        "id": "achievement-7",
+        "name": "Calamity Conqueror Scroll",
+        "kind": "trophy",
+        "chapterId": "kamura-story",
+        "where": "Received upon defeating Ibushi and Narwa. Depicts the two serpents leading the Rampage."
+      },
+      {
+        "id": "achievement-8",
+        "name": "Fan of Fading Crimson",
+        "kind": "trophy",
+        "chapterId": "kamura-story",
+        "where": "A decorative fan awarded to those who vanquished the crimson-glowing threat to the village."
+      },
+      {
+        "id": "achievement-9",
+        "name": "Fan of Ascendancy",
+        "kind": "trophy",
+        "chapterId": "quests-and-hunts",
+        "where": "The mark of a hunter who has attempted some of the toughest quests around—and won."
+      },
+      {
+        "id": "achievement-10",
+        "name": "Fan of True Ascendancy",
+        "kind": "trophy",
+        "chapterId": "quests-and-hunts",
+        "where": "Mark of a hunter who has bested Infernal Springs' most arduous challenges."
+      },
+      {
+        "id": "achievement-11",
+        "name": "Aspiring Hunter Certificate",
+        "kind": "trophy",
+        "chapterId": "quests-and-hunts",
+        "where": "A souvenir from the Guild for completing many low rank quests."
+      },
+      {
+        "id": "achievement-12",
+        "name": "Adept Hunter Certificate",
+        "kind": "trophy",
+        "chapterId": "quests-and-hunts",
+        "where": "A souvenir from the Guild for completing many high rank quests."
+      },
+      {
+        "id": "achievement-13",
+        "name": "Rampage Nemesis Certificate",
+        "kind": "trophy",
+        "chapterId": "quests-and-hunts",
+        "where": "A souvenir from the Guild for completing many Rampage quests."
+      },
+      {
+        "id": "achievement-14",
+        "name": "Arena Fighter Certificate",
+        "kind": "trophy",
+        "chapterId": "quests-and-hunts",
+        "where": "A souvenir from the Guild for completing many Arena quests."
+      },
+      {
+        "id": "achievement-15",
+        "name": "Spiritwood Necklace",
+        "kind": "trophy",
+        "chapterId": "quests-and-hunts",
+        "where": "Awarded for completing 50 quests in the Shrine Ruins. Made from Spiritwood branches."
+      },
+      {
+        "id": "achievement-16",
+        "name": "Frozen Lampsquid Earring",
+        "kind": "trophy",
+        "chapterId": "quests-and-hunts",
+        "where": "Awarded for completing 50 quests in the Frost Islands. A relic encased in primeval ice."
+      },
+      {
+        "id": "achievement-17",
+        "name": "Prismatic Chalice",
+        "kind": "trophy",
+        "chapterId": "quests-and-hunts",
+        "where": "Awarded for completing 50 quests in the Flooded Forest. Was found buried under rubble."
+      },
+      {
+        "id": "achievement-18",
+        "name": "Silver Cactus Ring",
+        "kind": "trophy",
+        "chapterId": "quests-and-hunts",
+        "where": "Awarded for completing 50 quests in the Sandy Plains. A peculiar silver cactus ring."
+      },
+      {
+        "id": "achievement-19",
+        "name": "Heliotrope Bracelet",
+        "kind": "trophy",
+        "chapterId": "quests-and-hunts",
+        "where": "Awarded for completing 50 quests in the Lava Caverns. Glitters a red-blue mélange."
+      },
+      {
+        "id": "achievement-20",
+        "name": "Wreath of Honor",
+        "kind": "trophy",
+        "chapterId": "quests-and-hunts",
+        "where": "A wreath received from the villagers as thanks for taking on their many requests."
+      },
+      {
+        "id": "achievement-21",
+        "name": "Kamura Pinwheel",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Awarded for performing 1000 Wiredashes. Spins smoothly in the wind."
+      },
+      {
+        "id": "achievement-22",
+        "name": "Shabby Canyne Saddle",
+        "kind": "trophy",
+        "chapterId": "buddies",
+        "where": "Awarded for riding Canynes many times. Worn in odd places from use on countless voyages."
+      },
+      {
+        "id": "achievement-23",
+        "name": "Great Wirebug Plate",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Awarded for discovering many Great Wirebug launch points. Sports a nice relevant design."
+      },
+      {
+        "id": "achievement-24",
+        "name": "Hunting Helpers Plate",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Awarded for gathering 500 Hunting Helpers. Features a beautiful depiction of them."
+      },
+      {
+        "id": "achievement-25",
+        "name": "Golden Spiribug Plate",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Awarded for gathering 1000 Golden and Gilded Spiribugs. Shines much like they do."
+      },
+      {
+        "id": "achievement-26",
+        "name": "Antique Bookmark",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Awarded for finding many Old Messages. Adorned with a tasteful pattern."
+      },
+      {
+        "id": "achievement-27",
+        "name": "Deft-hand Rod",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Awarded for catching many fish. Feels familiar in your hands. One cast, one catch!"
+      },
+      {
+        "id": "achievement-28",
+        "name": "Well-done Grillmeister",
+        "kind": "trophy",
+        "chapterId": "gear-and-village",
+        "where": "Awarded for cooking a welldone steak 30 times. Good job, and well done!"
+      },
+      {
+        "id": "achievement-29",
+        "name": "Copper Ecologist's Award",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Awarded for photographing many Hunting Helpers. Proof you've expanded your hunter horizons."
+      },
+      {
+        "id": "achievement-30",
+        "name": "Silver Ecologist's Award",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Awarded by one enthusiastic researcher for photographing many Rare Creature."
+      },
+      {
+        "id": "achievement-31",
+        "name": "Gold Ecologist's Award",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Awarded for photographing many Endemic Lifeforms. Now you're a Guild-recognized researcher!"
+      },
+      {
+        "id": "achievement-32",
+        "name": "Extravagant Cashbox",
+        "kind": "trophy",
+        "chapterId": "gear-and-village",
+        "where": "Awarded for earning 1,000,000 zenny. Heavy with impressively intricate goldwork."
+      },
+      {
+        "id": "achievement-33",
+        "name": "Well-worn Cashbox",
+        "kind": "trophy",
+        "chapterId": "gear-and-village",
+        "where": "Awarded for accumulating 100,000 Kamura Points. Gleams with polish despite great use."
+      },
+      {
+        "id": "achievement-34",
+        "name": "Thank-mew Letter",
+        "kind": "trophy",
+        "chapterId": "buddies",
+        "where": "Awarded for hiring 50 Buddies. We a-purr-eciate your fur-iendly patronage!"
+      },
+      {
+        "id": "achievement-35",
+        "name": "Good Luck Charm",
+        "kind": "trophy",
+        "chapterId": "buddies",
+        "where": "Proof of having sent the Meowcenaries out on a quest 100 times."
+      },
+      {
+        "id": "achievement-36",
+        "name": "From Palicoes, with Love",
+        "kind": "trophy",
+        "chapterId": "buddies",
+        "where": "Awarded for raising various support-type Palicoes to their maximum levels."
+      },
+      {
+        "id": "achievement-37",
+        "name": "Palamute Gear Tune-up Kit",
+        "kind": "trophy",
+        "chapterId": "buddies",
+        "where": "Awarded for collecting a lot of Palamute Gear. Daily maintenance is what will make it last!"
+      },
+      {
+        "id": "achievement-38",
+        "name": "Luxury Armor Stand",
+        "kind": "trophy",
+        "chapterId": "gear-and-village",
+        "where": "Awarded for forging many valuable weapons and armor. Made from premium materials."
+      },
+      {
+        "id": "achievement-39",
+        "name": "Colorful Armor Stand",
+        "kind": "trophy",
+        "chapterId": "gear-and-village",
+        "where": "Awarded for forging many a layered armor. Its variegated hues are simply captivating."
+      },
+      {
+        "id": "achievement-40",
+        "name": "Petalace Arrangement Vase",
+        "kind": "trophy",
+        "chapterId": "gear-and-village",
+        "where": "Awarded for obtaining many Petalaces. It fills rooms with a delightful floral aroma."
+      },
+      {
+        "id": "achievement-41",
+        "name": "Master's Black Belt",
+        "kind": "trophy",
+        "chapterId": "gear-and-village",
+        "where": "Awarded for obtaining many Switch Skills, a feat of both mental and bodily discipline."
+      },
+      {
+        "id": "achievement-42",
+        "name": "Chef's Trusty Tools",
+        "kind": "trophy",
+        "chapterId": "gear-and-village",
+        "where": "Awarded for helping Yomogi. You can almost hear the Tea Dealers' chanting when looking at it."
+      },
+      {
+        "id": "achievement-43",
+        "name": "Sturdy Padlock",
+        "kind": "trophy",
+        "chapterId": "gear-and-village",
+        "where": "Awarded for collecting many decorations and hanging scrolls. Remember to lock up!"
+      },
+      {
+        "id": "achievement-44",
+        "name": "Cohoots' Dresser",
+        "kind": "trophy",
+        "chapterId": "gear-and-village",
+        "where": "Awarded to connoisseurs of Cohoot outfits. Perfect for storing your avian apparel."
+      },
+      {
+        "id": "achievement-45",
+        "name": "Runner's Sandals",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Awarded for talking to many of Kamura's citizens. Feels like walking on a carpet of cloud."
+      },
+      {
+        "id": "achievement-46",
+        "name": "Dreadnought Destroyer Plaque",
+        "kind": "trophy",
+        "chapterId": "quests-and-hunts",
+        "where": "Awarded for hunting 1,000 large monsters."
+      },
+      {
+        "id": "achievement-47",
+        "name": "Five-in-One Plaque",
+        "kind": "trophy",
+        "chapterId": "quests-and-hunts",
+        "where": "Awarded for hunting 5 monsters in 1 Expedition Tour."
+      },
+      {
+        "id": "achievement-48",
+        "name": "Seasoned Jockey Plaque",
+        "kind": "trophy",
+        "chapterId": "quests-and-hunts",
+        "where": "Awarded for riding many different monsters."
+      },
+      {
+        "id": "achievement-49",
+        "name": "Mini Crown Plaque",
+        "kind": "trophy",
+        "chapterId": "quests-and-hunts",
+        "where": "Awarded for registering many miniature crownsized monsters."
+      },
+      {
+        "id": "achievement-50",
+        "name": "Gold Crown Plaque",
+        "kind": "trophy",
+        "chapterId": "quests-and-hunts",
+        "where": "Awarded for registering many gold crown-sized monsters."
+      },
+      {
+        "id": "achievement-51",
+        "name": "Royal Request for Cooperation",
+        "kind": "trophy",
+        "chapterId": "sunbreak-story",
+        "where": "An official request for Kamura's hunter. Awarded for collaboration with Elgado Outpost."
+      },
+      {
+        "id": "achievement-52",
+        "name": "Long-Distance Binoculars",
+        "kind": "trophy",
+        "chapterId": "sunbreak-story",
+        "where": "Binoculars giving a clear view of far-off targets. Awarded to staunch investigators."
+      },
+      {
+        "id": "achievement-53",
+        "name": "Survey Cape",
+        "kind": "trophy",
+        "chapterId": "sunbreak-story",
+        "where": "Protects the wearer from the harshest environments. Awarded for hunting the Garangolm."
+      },
+      {
+        "id": "achievement-54",
+        "name": "Azure Feather Fountain Pen",
+        "kind": "trophy",
+        "chapterId": "sunbreak-story",
+        "where": "A fountain pen with a blue feather gifted by Fiorayne. Awarded for hunting the Lunagaron."
+      },
+      {
+        "id": "achievement-55",
+        "name": "Majestic Desk Banner",
+        "kind": "trophy",
+        "chapterId": "sunbreak-story",
+        "where": "A desk flag proving the owner's distinguished service. Awarded for slaying Malzeno."
+      },
+      {
+        "id": "achievement-56",
+        "name": "Royal Declaration of Gratitude",
+        "kind": "trophy",
+        "chapterId": "sunbreak-story",
+        "where": "An official thank-you letter. For hunters who contributed greatly to the Kingdom's peace."
+      },
+      {
+        "id": "achievement-57",
+        "name": "Record of Utmost Valor - Master",
+        "kind": "trophy",
+        "chapterId": "quests-and-hunts",
+        "where": "A souvenir from the Guild for completing many Master Rank quests."
+      },
+      {
+        "id": "achievement-58",
+        "name": "Snowy Cohoot Mini-Pouch",
+        "kind": "trophy",
+        "chapterId": "sunbreak-story",
+        "where": "Awarded for befriending a fledgling Snowy Cohoot from Elgado. Looks tiny, but has a big appetite."
+      },
+      {
+        "id": "achievement-59",
+        "name": "Record of Utmost Valor - Arena",
+        "kind": "trophy",
+        "chapterId": "quests-and-hunts",
+        "where": "A souvenir from the Guild for completing even more Arena quests."
+      },
+      {
+        "id": "achievement-60",
+        "name": "Painting - Foreign Threads",
+        "kind": "trophy",
+        "chapterId": "sunbreak-story",
+        "where": "Awarded for completing many Follower Quests to mark deep village-Outpost ties."
+      },
+      {
+        "id": "achievement-61",
+        "name": "Painting - Seicho's Place",
+        "kind": "trophy",
+        "chapterId": "sunbreak-story",
+        "where": "Proof of having completed many Support Surveys. Soar away into a clear blue sky."
+      },
+      {
+        "id": "achievement-62",
+        "name": "Cups of Friendship",
+        "kind": "trophy",
+        "chapterId": "sunbreak-story",
+        "where": "Awarded for deepening bonds with many Followers. Sharing this cup fosters friendship."
+      },
+      {
+        "id": "achievement-63",
+        "name": "Painting - Crimson Nightmare",
+        "kind": "trophy",
+        "chapterId": "anomaly",
+        "where": "A depiction of the dreadful Qurio. Awarded for completing numerous Anomaly Quests."
+      },
+      {
+        "id": "achievement-64",
+        "name": "Sea-Blue Amulet",
+        "kind": "trophy",
+        "chapterId": "quests-and-hunts",
+        "where": "Awarded for completing 50 quests in the Jungle. A talisman to protect you on your travels."
+      },
+      {
+        "id": "achievement-65",
+        "name": "Copal Brooch",
+        "kind": "trophy",
+        "chapterId": "quests-and-hunts",
+        "where": "Awarded for completing 50 quests in the Citadel. A charm praying for your good health."
+      },
+      {
+        "id": "achievement-66",
+        "name": "Beloved Bouquet",
+        "kind": "trophy",
+        "chapterId": "quests-and-hunts",
+        "where": "Awarded for fulfilling various requests in Kamura and/or Elgado."
+      },
+      {
+        "id": "achievement-67",
+        "name": "Familiar Construction Kit",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "An easy-to-deploy camping kit. Awarded for unlocking a lot of camps in the Jungle and Citadel."
+      },
+      {
+        "id": "achievement-68",
+        "name": "Great Wirebug Medal",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Awarded for discovering a lot of Great Wirebug launch points in the Jungle and the Citadel."
+      },
+      {
+        "id": "achievement-69",
+        "name": "Immaculate Bookmark",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Awarded for discovering a lot of Old Messages in the Jungle and Citadel. An unspoiled antique."
+      },
+      {
+        "id": "achievement-70",
+        "name": "Natural Picture Frame",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "A smart frame awarded for photographing many creatures in the Citadel and Jungle."
+      },
+      {
+        "id": "achievement-71",
+        "name": "Transcender's Red Sash",
+        "kind": "trophy",
+        "chapterId": "gear-and-village",
+        "where": "Its refinement exceeds human capability. Awarded for obtaining even more Switch Skills."
+      },
+      {
+        "id": "achievement-72",
+        "name": "Great Helmet",
+        "kind": "trophy",
+        "chapterId": "gear-and-village",
+        "where": "A pretty great winged helmet. Awarded for forging even more valuable weapons and armor."
+      },
+      {
+        "id": "achievement-73",
+        "name": "Gorgeous Helm",
+        "kind": "trophy",
+        "chapterId": "gear-and-village",
+        "where": "A helm with golden hollows and blue wings. Awarded for forging even more valuable layered armor."
+      },
+      {
+        "id": "achievement-74",
+        "name": "Solid Padlock",
+        "kind": "trophy",
+        "chapterId": "gear-and-village",
+        "where": "Awarded for collecting even more trinkets and wall hangings. Won't budge, no matter what."
+      },
+      {
+        "id": "achievement-75",
+        "name": "Maestro's Trusty Tools",
+        "kind": "trophy",
+        "chapterId": "sunbreak-story",
+        "where": "Super popular in the Tea Shop! Awarded for helping make new dango, even in far-off Elgado."
+      },
+      {
+        "id": "achievement-76",
+        "name": "Secret Honey Jar",
+        "kind": "trophy",
+        "chapterId": "gear-and-village",
+        "where": "Awarded to dango connoisseurs for using many Hopping Skewers. Add honey to sweeten things up!"
+      },
+      {
+        "id": "achievement-77",
+        "name": "Napping Felyne & Canyne",
+        "kind": "trophy",
+        "chapterId": "buddies",
+        "where": "Toys of a cuddling Felyne and Canyne. Awarded to avid instructors at the Buddy Dojo."
+      },
+      {
+        "id": "achievement-78",
+        "name": "Sojourn Necklace",
+        "kind": "trophy",
+        "chapterId": "buddies",
+        "where": "A necklace that ended up with your Buddy. Awarded for trading with Letters of Introduction."
+      },
+      {
+        "id": "achievement-79",
+        "name": "Buddy Whistle",
+        "kind": "trophy",
+        "chapterId": "buddies",
+        "where": "A simple flute with far-reaching tones. Awarded to those who have found a lot of Recon destinations."
+      },
+      {
+        "id": "achievement-80",
+        "name": "Flaky Canyne Pie",
+        "kind": "trophy",
+        "chapterId": "buddies",
+        "where": "A tasty treat for hard-working Canynes. Awarded for teaching your Canyne lots of techniques."
+      },
+      {
+        "id": "achievement-81",
+        "name": "Polychrome Acorn",
+        "kind": "trophy",
+        "chapterId": "buddies",
+        "where": "A cute and colorful painted acorn. Awarded for having lots of Buddies with outstanding Skill Memory."
+      },
+      {
+        "id": "achievement-82",
+        "name": "Windbreaker Scarf",
+        "kind": "trophy",
+        "chapterId": "gear-and-village",
+        "where": "Ignore wind as you whip through the world. Awarded for performing many Switch Skill Swaps."
+      },
+      {
+        "id": "achievement-83",
+        "name": "Jewelgrass Planter",
+        "kind": "trophy",
+        "chapterId": "quests-and-hunts",
+        "where": "Awarded to those who rode various monsters with the power of Morphed Wirebugs."
+      },
+      {
+        "id": "achievement-84",
+        "name": "Unbreakable Bag",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Wow! A whole bag awarded for obtaining samples of items from all over the place."
+      },
+      {
+        "id": "achievement-85",
+        "name": "Comfortable Sandals",
+        "kind": "trophy",
+        "chapterId": "sunbreak-story",
+        "where": "Sandals for exploring. Awarded for talking with lots of people in the Outpost."
+      },
+      {
+        "id": "achievement-86",
+        "name": "Hunter's Bronze Shield",
+        "kind": "trophy",
+        "chapterId": "quests-and-hunts",
+        "where": "Awarded for hunting 100 large master rank monsters."
+      },
+      {
+        "id": "achievement-87",
+        "name": "Hunter's Silver Shield",
+        "kind": "trophy",
+        "chapterId": "quests-and-hunts",
+        "where": "Awarded for hunting 500 large master rank monsters."
+      },
+      {
+        "id": "achievement-88",
+        "name": "Hunter's Gold Shield",
+        "kind": "trophy",
+        "chapterId": "quests-and-hunts",
+        "where": "Awarded for hunting 1000 large master rank monsters."
+      },
+      {
+        "id": "achievement-89",
+        "name": "Miniature Crown Shield",
+        "kind": "trophy",
+        "chapterId": "quests-and-hunts",
+        "where": "Awarded for registering almost all miniature crown-sized monsters."
+      },
+      {
+        "id": "achievement-90",
+        "name": "Gold Crown Shield",
+        "kind": "trophy",
+        "chapterId": "quests-and-hunts",
+        "where": "Awarded for registering almost all gold crown-sized monsters."
+      },
+      {
+        "id": "achievement-91",
+        "name": "Anomaly Hunt Silver Trophy",
+        "kind": "trophy",
+        "chapterId": "anomaly",
+        "where": "Awarded for slaying your first afflicted monster."
+      },
+      {
+        "id": "achievement-92",
+        "name": "Anomaly Hunt Gold Trophy",
+        "kind": "trophy",
+        "chapterId": "anomaly",
+        "where": "Awarded for slaying 100 afflicted monsters."
+      },
+      {
+        "id": "achievement-93",
+        "name": "Anomaly Research Report",
+        "kind": "trophy",
+        "chapterId": "anomaly",
+        "where": "An extremely detailed report, the result of impressive hard work researching the Anomaly."
+      },
+      {
+        "id": "achievement-94",
+        "name": "Vermilion Amber Essence",
+        "kind": "trophy",
+        "chapterId": "anomaly",
+        "where": "Awarded only to those who have completed tasks designated by the Research Lab to be the most difficult."
+      },
+      {
+        "id": "achievement-95",
+        "name": "Bahari's Hand-Wound Birdie",
+        "kind": "trophy",
+        "chapterId": "anomaly",
+        "where": "Bahari's handmade toy that walks when wound up. Proves you frequent the Anomaly Lab."
+      },
+      {
+        "id": "achievement-96",
+        "name": "Smithy's Custom-made Gloves",
+        "kind": "trophy",
+        "chapterId": "anomaly",
+        "where": "Awarded for Augmenting many weapons via Qurious Crafting. Specially developed to handle dangerous afflicted materials."
+      },
+      {
+        "id": "achievement-97",
+        "name": "Smithy's Tools of the Trade",
+        "kind": "trophy",
+        "chapterId": "anomaly",
+        "where": "Awarded for Augmenting a lot of armor via Qurious Crafting. These tools can work even the most brittle of materials."
+      },
+      {
+        "id": "achievement-98",
+        "name": "Surmounter’s Slaying Shield",
+        "kind": "trophy",
+        "chapterId": "anomaly",
+        "where": "Awarded for slaying your first Risen monster."
+      },
+      {
+        "id": "achievement-99",
+        "name": "Shining Surmounter’s Shield",
+        "kind": "trophy",
+        "chapterId": "anomaly",
+        "where": "Awarded for slaying 15 Risen monsters."
+      },
+      {
+        "id": "achievement-100",
+        "name": "Hero's Accolade",
+        "kind": "trophy",
+        "chapterId": "quests-and-hunts",
+        "where": "The mark of a great hero, who has acquired a large number of awards."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/monster-hunter-rise",
+    "Achievement data from Steam (Steam Web API, app 1446780)",
+    "StrategyWiki: no usable walkthrough, nothing used — https://strategywiki.org/wiki/Monster_Hunter_Rise",
+    "Fandom (monsterhunter.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://monsterhunter.fandom.com/wiki/Monster_Hunter_Rise"
+  ],
+  "route": "original",
+  "notes": "Backlog game, picked from RAWG's most-added list for its year (docs/PLAN.md section 2 ordering). StrategyWiki has a stub page (completion stage 0); its Walkthrough, Gameplay and \"Achievements and trophies\" subpages are linked but not written, and only \"Controls\" (about 2,200 characters) and \"Table of Contents\" exist, so nothing was used. monsterhunter.fandom.com answers the API, with about 114 linked pages, including \"Monster Hunter Rise: Sunbreak\" and many \"MHRise:\" list pages; names only were looked at, nothing copied. The Steam schema calls the app \"snow\" (an internal codename); the store list confirms app 1446780 as \"MONSTER HUNTER RISE\". None of the 100 Steam achievements is hidden. Achievements 51 to 100 mention Elgado Outpost, the Kingdom, Master Rank, the Anomaly and Risen monsters; RAWG and Fandom both list \"Monster Hunter Rise: Sunbreak\", so these are probably the Sunbreak expansion, but no achievement uses that name, so the chapter is named after Elgado Outpost. Three Elgado-era achievements whose text only says \"Outpost\" or \"far-off Elgado\" were placed by name. Ibushi and Narwa are named in the achievement text; the two \"Badge of Excellence\" and \"Hero's Accolade\" all-awards goals sit with quests."
+}

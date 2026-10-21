@@ -1,0 +1,547 @@
+{
+  "id": "yakuza-0",
+  "title": "Yakuza 0",
+  "year": 2015,
+  "platforms": [
+    "PC",
+    "PlayStation 4",
+    "PlayStation 3",
+    "Xbox One"
+  ],
+  "rawgId": 492,
+  "rawgSlug": "yakuza-0",
+  "released": "2015-03-12",
+  "developers": [
+    "SEGA",
+    "Ryu ga Gotoku Studio"
+  ],
+  "playtime": 8,
+  "genres": [
+    "Action",
+    "RPG"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Multiplayer",
+    "Full controller support",
+    "Steam Cloud",
+    "Atmospheric",
+    "steam-trading-cards",
+    "Great Soundtrack",
+    "RPG",
+    "Story Rich",
+    "Open World",
+    "Third Person"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/ca1/ca16da30f86d8f4d36261de45fb35430.jpg",
+  "steamAppId": 2988580,
+  "achievements": {
+    "total": 55,
+    "hidden": 23,
+    "examples": [
+      {
+        "name": "Whip It Good",
+        "percent": 75.9
+      },
+      {
+        "name": "A Wise Investment",
+        "percent": 62.9
+      },
+      {
+        "name": "Who Ya Gonna Call?",
+        "percent": 58.9
+      },
+      {
+        "name": "What a Player",
+        "percent": 2.6
+      },
+      {
+        "name": "Cat Scratch Fever",
+        "percent": 2.5
+      },
+      {
+        "name": "Perfectionist",
+        "percent": 2.3
+      },
+      {
+        "name": "Stuff of Legend",
+        "percent": 2.1
+      },
+      {
+        "name": "Where It All Began",
+        "percent": 1.7
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Yakuza_0",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 105,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://yakuza.fandom.com/wiki/Yakuza_0"
+    }
+  },
+  "game": {
+    "id": "yakuza-0",
+    "title": "Yakuza 0",
+    "platforms": [
+      "PC",
+      "PlayStation 4",
+      "PlayStation 3",
+      "Xbox One"
+    ],
+    "blurb": "Crime action-adventure set in 1988 Tokyo, from Ryu ga Gotoku Studio (published by SEGA), released 2015-03-12. RAWG average playtime: 8 hours (far under a full run). Genres: Action, RPG. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#C9A227",
+    "chapters": [
+      {
+        "id": "main-story",
+        "title": "The Main Story",
+        "summary": "Kazuma Kiryu and Goro Majima are pulled into a yakuza power struggle; Kiryu is framed over the \"Empty Lot\". Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "real-estate",
+        "title": "Real Estate Royale",
+        "summary": "Kiryu's property business: buying up areas and the most expensive property.",
+        "steps": []
+      },
+      {
+        "id": "cabaret",
+        "title": "Cabaret Club Czar",
+        "summary": "Running the cabaret club business, fans and hostesses.",
+        "steps": []
+      },
+      {
+        "id": "substories",
+        "title": "Substories",
+        "summary": "The many side stories around the city.",
+        "steps": []
+      },
+      {
+        "id": "nightlife",
+        "title": "Nightlife and Minigames",
+        "summary": "Disco, the telephone club, Pocket Circuit, catfights, Dream Machines, telephone cards and spending money.",
+        "steps": []
+      },
+      {
+        "id": "combat-and-styles",
+        "title": "Combat, Styles and Training",
+        "summary": "Abilities, fighting styles, masters, Mr. Shakedown, weapons and gear, and Endless Rout.",
+        "steps": []
+      },
+      {
+        "id": "legend-and-completion",
+        "title": "Legend Difficulty and Completion",
+        "summary": "Legend difficulty, the Completion List and every achievement.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Where It All Began",
+        "kind": "trophy",
+        "chapterId": "legend-and-completion",
+        "where": "Obtain all other achievements."
+      },
+      {
+        "id": "achievement-2",
+        "name": "Stuff of Legend",
+        "kind": "trophy",
+        "chapterId": "legend-and-completion",
+        "where": "Complete the main story on Legend difficulty."
+      },
+      {
+        "id": "achievement-3",
+        "name": "President Kiryu",
+        "kind": "trophy",
+        "chapterId": "real-estate",
+        "where": "Get started with Real Estate Royale."
+      },
+      {
+        "id": "achievement-4",
+        "name": "The Promised Land",
+        "kind": "trophy",
+        "chapterId": "real-estate",
+        "where": "Get 100% share in any area."
+      },
+      {
+        "id": "achievement-5",
+        "name": "The Glamorous Life",
+        "kind": "trophy",
+        "chapterId": "real-estate",
+        "where": "Purchase the most expensive property."
+      },
+      {
+        "id": "achievement-6",
+        "name": "A Host of Hostesses",
+        "kind": "trophy",
+        "chapterId": "cabaret",
+        "where": "Get started with Cabaret Club Czar."
+      },
+      {
+        "id": "achievement-7",
+        "name": "Talk of the Town",
+        "kind": "trophy",
+        "chapterId": "cabaret",
+        "where": "Get over 1,000 fans in any area."
+      },
+      {
+        "id": "achievement-8",
+        "name": "You're Still Number One",
+        "kind": "trophy",
+        "chapterId": "cabaret",
+        "where": "Max out the level of a platinum hostess."
+      },
+      {
+        "id": "achievement-9",
+        "name": "Half the Battle",
+        "kind": "trophy",
+        "chapterId": "legend-and-completion",
+        "where": "Get over 50% on your Completion List."
+      },
+      {
+        "id": "achievement-10",
+        "name": "Perfectionist",
+        "kind": "trophy",
+        "chapterId": "legend-and-completion",
+        "where": "Get 100% on your Completion List."
+      },
+      {
+        "id": "achievement-11",
+        "name": "Tell Me a Story",
+        "kind": "trophy",
+        "chapterId": "substories",
+        "where": "Complete 10 substories."
+      },
+      {
+        "id": "achievement-12",
+        "name": "Hero of the Story",
+        "kind": "trophy",
+        "chapterId": "substories",
+        "where": "Complete 40 substories."
+      },
+      {
+        "id": "achievement-13",
+        "name": "Story of My Life",
+        "kind": "trophy",
+        "chapterId": "substories",
+        "where": "Complete all substories."
+      },
+      {
+        "id": "achievement-14",
+        "name": "High Roller",
+        "kind": "trophy",
+        "chapterId": "nightlife",
+        "where": "Spend one billion yen."
+      },
+      {
+        "id": "achievement-15",
+        "name": "Make It Rain",
+        "kind": "trophy",
+        "chapterId": "nightlife",
+        "where": "Throw away money on the street."
+      },
+      {
+        "id": "achievement-16",
+        "name": "Worked Hard for the Money",
+        "kind": "trophy",
+        "chapterId": "nightlife",
+        "where": "Throw away a total of five million yen."
+      },
+      {
+        "id": "achievement-17",
+        "name": "Who Ya Gonna Call?",
+        "kind": "trophy",
+        "chapterId": "nightlife",
+        "where": "Pick up a telephone card."
+      },
+      {
+        "id": "achievement-18",
+        "name": "...I Did It for the Achievement",
+        "kind": "trophy",
+        "chapterId": "nightlife",
+        "where": "Watch a sexy video."
+      },
+      {
+        "id": "achievement-19",
+        "name": "Lucky Star",
+        "kind": "trophy",
+        "chapterId": "nightlife",
+        "where": "Get a top-grade item from a Dream Machine."
+      },
+      {
+        "id": "achievement-20",
+        "name": "Training in Style",
+        "kind": "trophy",
+        "chapterId": "combat-and-styles",
+        "where": "Complete one training mission with each master."
+      },
+      {
+        "id": "achievement-21",
+        "name": "A Wise Investment",
+        "kind": "trophy",
+        "chapterId": "combat-and-styles",
+        "where": "Purchase ten or more abilities."
+      },
+      {
+        "id": "achievement-22",
+        "name": "Master of Style",
+        "kind": "trophy",
+        "chapterId": "combat-and-styles",
+        "where": "Obtain all abilities for every style."
+      },
+      {
+        "id": "achievement-23",
+        "name": "Whip It Good",
+        "kind": "trophy",
+        "chapterId": "combat-and-styles",
+        "where": "Get five or more play bonuses fighting a single enemy."
+      },
+      {
+        "id": "achievement-24",
+        "name": "Mr. Shakedown Takedown",
+        "kind": "trophy",
+        "chapterId": "combat-and-styles",
+        "where": "Defeat Mr. Shakedown for the first time."
+      },
+      {
+        "id": "achievement-25",
+        "name": "Welcome to the Jungle",
+        "kind": "trophy",
+        "chapterId": "combat-and-styles",
+        "where": "Get the best weapon search results report."
+      },
+      {
+        "id": "achievement-26",
+        "name": "Eye of the Dragon and Tiger",
+        "kind": "trophy",
+        "chapterId": "combat-and-styles",
+        "where": "Obtain all equipment parts."
+      },
+      {
+        "id": "achievement-27",
+        "name": "Prizefighter",
+        "kind": "trophy",
+        "chapterId": "combat-and-styles",
+        "where": "Defeat 30 or more opponents in Endless Rout."
+      },
+      {
+        "id": "achievement-28",
+        "name": "What a Player",
+        "kind": "trophy",
+        "chapterId": "nightlife",
+        "where": "Play every minigame."
+      },
+      {
+        "id": "achievement-29",
+        "name": "Call Me",
+        "kind": "trophy",
+        "chapterId": "nightlife",
+        "where": "Go on a date with a girl you met at the telephone club."
+      },
+      {
+        "id": "achievement-30",
+        "name": "Say You Wanna Dance",
+        "kind": "trophy",
+        "chapterId": "nightlife",
+        "where": "Complete every disco song on any difficulty."
+      },
+      {
+        "id": "achievement-31",
+        "name": "Cat Scratch Fever",
+        "kind": "trophy",
+        "chapterId": "nightlife",
+        "where": "Win ten bets on three-round tournaments at JCC."
+      },
+      {
+        "id": "achievement-32",
+        "name": "The Dragon of Pocket Circuit",
+        "kind": "trophy",
+        "chapterId": "nightlife",
+        "where": "Win all Pocket Circuit races."
+      },
+      {
+        "id": "achievement-33",
+        "name": "Nostalgic for the 80s",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-34",
+        "name": "New Allies, New Foes",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-35",
+        "name": "Rich Taste",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-36",
+        "name": "A Matter of Life or Death",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-37",
+        "name": "Smooth Criminal",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-38",
+        "name": "Time to Say Goodbye",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-39",
+        "name": "Business Etiquette 101",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-40",
+        "name": "When It All Goes Wrong",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-41",
+        "name": "Best Served Cold?",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-42",
+        "name": "The Big Reveal",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-43",
+        "name": "It Takes Two",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-44",
+        "name": "A Familiar Name",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-45",
+        "name": "They Won't Mind",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-46",
+        "name": "Painful Reunion",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-47",
+        "name": "Big Hair in the Crosshairs",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-48",
+        "name": "Lamb in the Lion's Den",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-49",
+        "name": "Hitting the Bottle",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-50",
+        "name": "Awakened and Unleashed",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-51",
+        "name": "We Built This City",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-52",
+        "name": "Walking On Sunshine",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-53",
+        "name": "Generosity of Strangers",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-54",
+        "name": "Just Beat It",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-55",
+        "name": "Amon Defeated",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/yakuza-0",
+    "Achievement data from Steam (Steam Web API, app 2988580)",
+    "StrategyWiki: no usable walkthrough, nothing used — https://strategywiki.org/wiki/Yakuza_0",
+    "Fandom (yakuza.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://yakuza.fandom.com/wiki/Yakuza_0"
+  ],
+  "route": "original",
+  "notes": "Backlog game, picked from RAWG's most-added list for its year (docs/PLAN.md section 2 ordering). StrategyWiki has the guide at completion stage 0. Its Table of Contents links 16 chapter pages and a Finale; only Chapter 1, Chapter 3 and Finale are written (about 1,100 to 1,800 characters each), plus Walkthrough, Substories (about 6,900), Completion List (about 6,400), Gameplay and Controls. That is not a real walkthrough, so it was not recorded in sw-structure.json and not used; Substories and Completion List could seed checklists later. StrategyWiki also lists Nintendo Switch 2 and a 2025 category, which RAWG does not show. yakuza.fandom.com answers the API, with about 105 linked pages, including \"Cabaret Club Czar\"; names only were looked at, nothing copied. The only Steam app found in the app list is \"Yakuza 0 Director's Cut\" (2988580), so that edition is used; its schema calls the app \"Gelande\" (an internal codename) and it has 55 achievements. RAWG's entry is the 2015 game (id 492). 23 of 55 are hidden and sit in the main story chapter; several have low unlock rates (\"Smooth Criminal\", \"They Won't Mind\", \"Just Beat It\", \"Amon Defeated\" at 2 to 7 percent) and are probably side content or substories."
+}

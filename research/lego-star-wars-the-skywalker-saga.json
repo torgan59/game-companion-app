@@ -1,0 +1,473 @@
+{
+  "id": "lego-star-wars-the-skywalker-saga",
+  "title": "Lego Star Wars: The Skywalker Saga",
+  "year": 2022,
+  "platforms": [
+    "PC",
+    "PlayStation 4",
+    "Xbox Series X|S",
+    "PlayStation 5",
+    "Xbox One",
+    "Nintendo Switch"
+  ],
+  "rawgId": 326239,
+  "rawgSlug": "lego-star-wars-the-sywalker-saga",
+  "released": "2022-04-05",
+  "developers": [
+    "TT Games"
+  ],
+  "playtime": 7,
+  "genres": [
+    "Action",
+    "Adventure",
+    "Platformer"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Star Wars",
+    "LEGO"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/292/2926f9fb089ab91a0dac754193b325e5.jpg",
+  "steamAppId": 920210,
+  "achievements": {
+    "total": 45,
+    "hidden": 0,
+    "examples": [
+      {
+        "name": "''You guys got yourself a ship!''",
+        "percent": 88.8
+      },
+      {
+        "name": "''I don't like you either!''",
+        "percent": 68.6
+      },
+      {
+        "name": "''Impressive, most impressive''",
+        "percent": 63.1
+      },
+      {
+        "name": "''A little short for a Stormtrooper...''",
+        "percent": 3.6
+      },
+      {
+        "name": "''You needn't worry about your reward''",
+        "percent": 3.5
+      },
+      {
+        "name": "''Jedi Business''",
+        "percent": 3.5
+      },
+      {
+        "name": "''No more training, do you require''",
+        "percent": 3.4
+      },
+      {
+        "name": "''I've never seen a real one!''",
+        "percent": 2.8
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/LEGO_Star_Wars:_The_Skywalker_Saga",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 500,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://starwars.fandom.com/wiki/LEGO_Star_Wars:_The_Skywalker_Saga"
+    }
+  },
+  "game": {
+    "id": "lego-star-wars-the-skywalker-saga",
+    "title": "Lego Star Wars: The Skywalker Saga",
+    "platforms": [
+      "PC",
+      "PlayStation 4",
+      "Xbox Series X|S",
+      "PlayStation 5",
+      "Xbox One",
+      "Nintendo Switch"
+    ],
+    "blurb": "LEGO action-adventure covering all nine Star Wars episodes, with an open galaxy of planets to explore, from TT Games, released 2022-04-05. RAWG average playtime: 7 hours. Genres: Action, Adventure, Platformer. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#D4A017",
+    "chapters": [
+      {
+        "id": "prequel-trilogy",
+        "title": "Episodes I to III",
+        "summary": "Finishing The Phantom Menace, Attack of the Clones and Revenge of the Sith.",
+        "steps": []
+      },
+      {
+        "id": "original-trilogy",
+        "title": "Episodes IV to VI",
+        "summary": "Finishing A New Hope, The Empire Strikes Back and Return of the Jedi.",
+        "steps": []
+      },
+      {
+        "id": "sequel-trilogy",
+        "title": "Episodes VII to IX and the Whole Saga",
+        "summary": "Finishing The Force Awakens, The Last Jedi and The Rise of Skywalker, then the whole saga.",
+        "steps": []
+      },
+      {
+        "id": "level-goals",
+        "title": "True Jedi, Challenges and Minikits",
+        "summary": "True Jedi, level challenges and minikits, for one level and for all of them, plus a flight level without dying.",
+        "steps": []
+      },
+      {
+        "id": "galaxy",
+        "title": "The Galaxy and Its Planets",
+        "summary": "Finishing every event on each group of planets, races, galaxy challenges, creatures, and side missions such as the Jawa droids and GNK escorts.",
+        "steps": []
+      },
+      {
+        "id": "collection-and-upgrades",
+        "title": "Characters, Upgrades and Studs",
+        "summary": "Collecting characters, datacards and Kyber Bricks, upgrading character classes and earning studs.",
+        "steps": []
+      },
+      {
+        "id": "combat",
+        "title": "Combat and Fun",
+        "summary": "Explosions, shooting off helmets, TIE fighters, disguises, combat multipliers and mind tricks in the Cantina.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "The Phantom Menace",
+        "kind": "trophy",
+        "chapterId": "prequel-trilogy",
+        "where": "Complete ''Episode I - The Phantom Menace''"
+      },
+      {
+        "id": "achievement-2",
+        "name": "Attack of the Clones",
+        "kind": "trophy",
+        "chapterId": "prequel-trilogy",
+        "where": "Complete ''Episode II - Attack of the Clones''"
+      },
+      {
+        "id": "achievement-3",
+        "name": "Revenge of the Sith",
+        "kind": "trophy",
+        "chapterId": "prequel-trilogy",
+        "where": "Complete ''Episode III - Revenge of the Sith''"
+      },
+      {
+        "id": "achievement-4",
+        "name": "A New Hope",
+        "kind": "trophy",
+        "chapterId": "original-trilogy",
+        "where": "Complete ''Episode IV - A New Hope''"
+      },
+      {
+        "id": "achievement-5",
+        "name": "The Empire Strikes Back",
+        "kind": "trophy",
+        "chapterId": "original-trilogy",
+        "where": "Complete ''Episode V - The Empire Strikes Back''"
+      },
+      {
+        "id": "achievement-6",
+        "name": "Return of the Jedi",
+        "kind": "trophy",
+        "chapterId": "original-trilogy",
+        "where": "Complete ''Episode VI - Return of the Jedi''"
+      },
+      {
+        "id": "achievement-7",
+        "name": "The Force Awakens",
+        "kind": "trophy",
+        "chapterId": "sequel-trilogy",
+        "where": "Complete ''Episode VII - The Force Awakens''"
+      },
+      {
+        "id": "achievement-8",
+        "name": "The Last Jedi",
+        "kind": "trophy",
+        "chapterId": "sequel-trilogy",
+        "where": "Complete ''Episode VIII - The Last Jedi''"
+      },
+      {
+        "id": "achievement-9",
+        "name": "The Rise of Skywalker",
+        "kind": "trophy",
+        "chapterId": "sequel-trilogy",
+        "where": "Complete ''Episode IX - The Rise of Skywalker''"
+      },
+      {
+        "id": "achievement-10",
+        "name": "''It's true... all of it''",
+        "kind": "trophy",
+        "chapterId": "sequel-trilogy",
+        "where": "Complete The Skywalker Saga"
+      },
+      {
+        "id": "achievement-11",
+        "name": "The Arkanis Sector",
+        "kind": "trophy",
+        "chapterId": "galaxy",
+        "where": "Complete all events on Geonosis and Tatooine"
+      },
+      {
+        "id": "achievement-12",
+        "name": "Greater Javin",
+        "kind": "trophy",
+        "chapterId": "galaxy",
+        "where": "Complete all events on Bespin, Crait and Hoth"
+      },
+      {
+        "id": "achievement-13",
+        "name": "New Territories",
+        "kind": "trophy",
+        "chapterId": "galaxy",
+        "where": "Complete all events on Cantonica, Yavin 4 and Ajan Kloss"
+      },
+      {
+        "id": "achievement-14",
+        "name": "Rishi Maze",
+        "kind": "trophy",
+        "chapterId": "galaxy",
+        "where": "Complete all events on Kamino"
+      },
+      {
+        "id": "achievement-15",
+        "name": "The Interior",
+        "kind": "trophy",
+        "chapterId": "galaxy",
+        "where": "Complete all events on Coruscant, Jakku and Takodana"
+      },
+      {
+        "id": "achievement-16",
+        "name": "The Slice",
+        "kind": "trophy",
+        "chapterId": "galaxy",
+        "where": "Complete all events on Kashyyyk and Kijimi"
+      },
+      {
+        "id": "achievement-17",
+        "name": "Trailing Sectors",
+        "kind": "trophy",
+        "chapterId": "galaxy",
+        "where": "Complete all events on D'Qar, Naboo and Pasaana"
+      },
+      {
+        "id": "achievement-18",
+        "name": "Unknown Regions",
+        "kind": "trophy",
+        "chapterId": "galaxy",
+        "where": "Complete all events on Ahch-To, Endor, Kef Bir and Exegol"
+      },
+      {
+        "id": "achievement-19",
+        "name": "Western Reaches",
+        "kind": "trophy",
+        "chapterId": "galaxy",
+        "where": "Complete all events on Dagobah, Mustafar, Utapau"
+      },
+      {
+        "id": "achievement-20",
+        "name": "''You think you're some kind of Jedi?''",
+        "kind": "trophy",
+        "chapterId": "level-goals",
+        "where": "Achieve True Jedi in a single level"
+      },
+      {
+        "id": "achievement-21",
+        "name": "''Now I am the Master''",
+        "kind": "trophy",
+        "chapterId": "level-goals",
+        "where": "Achieve True Jedi in every level"
+      },
+      {
+        "id": "achievement-22",
+        "name": "''Impressive, most impressive''",
+        "kind": "trophy",
+        "chapterId": "level-goals",
+        "where": "Complete all 'Level Challenges' in a single level"
+      },
+      {
+        "id": "achievement-23",
+        "name": "''No more training, do you require''",
+        "kind": "trophy",
+        "chapterId": "level-goals",
+        "where": "Complete all 'Level Challenges'"
+      },
+      {
+        "id": "achievement-24",
+        "name": "''A fine addition to my collection''",
+        "kind": "trophy",
+        "chapterId": "level-goals",
+        "where": "Collect all Minikits in a single level"
+      },
+      {
+        "id": "achievement-25",
+        "name": "''You needn't worry about your reward''",
+        "kind": "trophy",
+        "chapterId": "level-goals",
+        "where": "Collect all Minikits"
+      },
+      {
+        "id": "achievement-26",
+        "name": "''Raw, untamed power''",
+        "kind": "trophy",
+        "chapterId": "collection-and-upgrades",
+        "where": "Fully upgrade a character class"
+      },
+      {
+        "id": "achievement-27",
+        "name": "''Power! Unlimited power!''",
+        "kind": "trophy",
+        "chapterId": "collection-and-upgrades",
+        "where": "Fully upgrade all of the character classes"
+      },
+      {
+        "id": "achievement-28",
+        "name": "''What have you done with those plans?''",
+        "kind": "trophy",
+        "chapterId": "collection-and-upgrades",
+        "where": "Collect every datacard"
+      },
+      {
+        "id": "achievement-29",
+        "name": "''You may fire when ready''",
+        "kind": "trophy",
+        "chapterId": "collection-and-upgrades",
+        "where": "Collect 1000 Kyber Bricks"
+      },
+      {
+        "id": "achievement-30",
+        "name": "''Hello there!''",
+        "kind": "trophy",
+        "chapterId": "collection-and-upgrades",
+        "where": "Collect all characters"
+      },
+      {
+        "id": "achievement-31",
+        "name": "''See you around, kid''",
+        "kind": "trophy",
+        "chapterId": "galaxy",
+        "where": "Complete all of the events in the Galaxy"
+      },
+      {
+        "id": "achievement-32",
+        "name": "''The fastest hunk of junk in the galaxy''",
+        "kind": "trophy",
+        "chapterId": "galaxy",
+        "where": "Complete all races in the Galaxy"
+      },
+      {
+        "id": "achievement-33",
+        "name": "''Do or do not. There is no try''",
+        "kind": "trophy",
+        "chapterId": "galaxy",
+        "where": "Complete all Galaxy Challenges"
+      },
+      {
+        "id": "achievement-34",
+        "name": "''Jedi Business''",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Use Jedi Mind Tricks to make 5 people fight simultaneously in the Cantina"
+      },
+      {
+        "id": "achievement-35",
+        "name": "''I've never seen a real one!''",
+        "kind": "trophy",
+        "chapterId": "galaxy",
+        "where": "Ride all creatures throughout the Galaxy"
+      },
+      {
+        "id": "achievement-36",
+        "name": "''You guys got yourself a ship!''",
+        "kind": "trophy",
+        "chapterId": "collection-and-upgrades",
+        "where": "Earn 17,000 studs"
+      },
+      {
+        "id": "achievement-37",
+        "name": "''Only one business in the Galaxy...''",
+        "kind": "trophy",
+        "chapterId": "collection-and-upgrades",
+        "where": "Earn 10,000,000,000 studs"
+      },
+      {
+        "id": "achievement-38",
+        "name": "''Get the crews to their fighters''",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Destroy 100 TIE fighters"
+      },
+      {
+        "id": "achievement-39",
+        "name": "''Aggressive Negotiations''",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Defeat 3 enemies at the same time with an explosion"
+      },
+      {
+        "id": "achievement-40",
+        "name": "''And who gave you permission...?''",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Shoot helmets off 50 enemies"
+      },
+      {
+        "id": "achievement-41",
+        "name": "''A little short for a Stormtrooper...''",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Create 25 disguises as a Hero character"
+      },
+      {
+        "id": "achievement-42",
+        "name": "''I don't like you either!''",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Achieve a combat multiplier score of 30"
+      },
+      {
+        "id": "achievement-43",
+        "name": "''Hey, what are you trying to push on us?''",
+        "kind": "trophy",
+        "chapterId": "galaxy",
+        "where": "Complete all the Jawa's ''Faulty Droid'' missions on Tatooine"
+      },
+      {
+        "id": "achievement-44",
+        "name": "''GONK!''",
+        "kind": "trophy",
+        "chapterId": "galaxy",
+        "where": "Complete all the GNK droid escort missions"
+      },
+      {
+        "id": "achievement-45",
+        "name": "''I can fly anything''",
+        "kind": "trophy",
+        "chapterId": "level-goals",
+        "where": "Complete a flight level without dying"
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/lego-star-wars-the-sywalker-saga",
+    "Achievement data from Steam (Steam Web API, app 920210)",
+    "StrategyWiki: no usable walkthrough, nothing used — https://strategywiki.org/wiki/LEGO_Star_Wars:_The_Skywalker_Saga",
+    "Fandom (starwars.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://starwars.fandom.com/wiki/LEGO_Star_Wars:_The_Skywalker_Saga"
+  ],
+  "route": "original",
+  "notes": "Backlog game, picked from RAWG's most-added list for its year (docs/PLAN.md section 2 ordering). StrategyWiki has a stub page under the title \"LEGO Star Wars: The Skywalker Saga\" (completion stage 0; the \"Lego\" spelling gave no page). Its Walkthrough, Gameplay and \"Achievements and trophies\" subpages are linked but not written; only \"Controls\" and \"Table of Contents\" are written, so nothing was used. lego.fandom.com gave no page; Wookieepedia (starwars.fandom.com) answers the API under \"LEGO Star Wars: The Skywalker Saga\", with 500 or more linked pages (the list was cut off at 500), mostly characters, ships and places; names only were looked at, nothing copied. None of the 45 Steam achievements is hidden. The nine episode achievements were grouped by trilogy; the planet-group achievements (for example \"The Arkanis Sector\", \"Unknown Regions\") use region names from the achievement text. The RAWG slug is spelled \"lego-star-wars-the-sywalker-saga\" on RAWG itself."
+}

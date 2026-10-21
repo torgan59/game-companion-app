@@ -1,0 +1,686 @@
+{
+  "id": "middle-earth-shadow-of-mordor",
+  "title": "Middle-earth: Shadow of Mordor",
+  "year": 2014,
+  "platforms": [
+    "Linux",
+    "Xbox One",
+    "Xbox 360",
+    "PlayStation 3",
+    "PlayStation 4",
+    "macOS",
+    "PC"
+  ],
+  "rawgId": 11973,
+  "rawgSlug": "shadow-of-mordor",
+  "released": "2014-09-30",
+  "developers": [
+    "Feral Interactive",
+    "Monolith Productions"
+  ],
+  "playtime": 13,
+  "genres": [
+    "Action",
+    "RPG"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Full controller support",
+    "Steam Cloud",
+    "Atmospheric",
+    "steam-trading-cards",
+    "RPG",
+    "Story Rich",
+    "Open World",
+    "Third Person",
+    "Fantasy",
+    "Gore"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/d1a/d1a2e99ade53494c6330a0ed945fe823.jpg",
+  "steamAppId": 241930,
+  "achievements": {
+    "total": 74,
+    "hidden": 11,
+    "examples": [
+      {
+        "name": "You Will Obey",
+        "percent": 88.6
+      },
+      {
+        "name": "Strike True",
+        "percent": 66.4
+      },
+      {
+        "name": "Legend of Shadow",
+        "percent": 64.7
+      },
+      {
+        "name": "The White Rider",
+        "percent": 3.0
+      },
+      {
+        "name": "Ghûls Gone Wild",
+        "percent": 3.0
+      },
+      {
+        "name": "Beyond Epic",
+        "percent": 1.6
+      },
+      {
+        "name": "The Hunt is my Mistress",
+        "percent": 1.5
+      },
+      {
+        "name": "Lord of the Ring",
+        "percent": 1.5
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Middle-earth:_Shadow_of_Mordor",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 22,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://shadowofwar.fandom.com/wiki/Middle-earth:_Shadow_of_Mordor"
+    }
+  },
+  "game": {
+    "id": "middle-earth-shadow-of-mordor",
+    "title": "Middle-earth: Shadow of Mordor",
+    "platforms": [
+      "Linux",
+      "Xbox One",
+      "Xbox 360",
+      "PlayStation 3",
+      "PlayStation 4",
+      "macOS",
+      "PC"
+    ],
+    "blurb": "Open-world action RPG set in Mordor, where the ranger Talion, bound to a wraith, hunts the uruk army, from Monolith Productions (RAWG also lists Feral Interactive), released 2014-09-30. RAWG average playtime: 13 hours. Genres: Action, RPG. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#5A6E3A",
+    "chapters": [
+      {
+        "id": "main-story",
+        "title": "The Main Story",
+        "summary": "Talion's path through Mordor and the hidden story achievements. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "nemesis",
+        "title": "Warchiefs, Captains and Branding",
+        "summary": "Branding uruks, turning bodyguards, death threats, power struggles, riots and taking down the five Warchiefs.",
+        "steps": []
+      },
+      {
+        "id": "legends-and-relics",
+        "title": "Legends, Artifacts, Ithildin and Forge Towers",
+        "summary": "The bow, dagger and sword Legend missions, Artifacts and their memories, Ithildin and the Forge Towers.",
+        "steps": []
+      },
+      {
+        "id": "wilds-and-outcasts",
+        "title": "The Wilds, Hunts and Outcasts",
+        "summary": "Survivalist and Hunting challenges, Outcast rescues, Vendetta missions, freeing slaves and caragors, and using the wildlife.",
+        "steps": []
+      },
+      {
+        "id": "combat-and-runes",
+        "title": "Combat, Abilities and Runes",
+        "summary": "Strike From Above, Detonate, executions, rune slots and high-level runes.",
+        "steps": []
+      },
+      {
+        "id": "lord-of-the-hunt",
+        "title": "Lord of the Hunt (DLC)",
+        "summary": "The Lord of the Hunt campaign with Torvin: Beastmaster Warchiefs, new beasts and the Test of the Wild.",
+        "steps": []
+      },
+      {
+        "id": "dark-lord-block",
+        "title": "The Dark Lord Campaign and Test of the Ring (DLC block)",
+        "summary": "A later block of achievements: challenging the Dark Lord, building Forge Towers in Udun, One Ring missions and the Test of the Ring.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Paths of the Dead",
+        "kind": "trophy",
+        "chapterId": "legends-and-relics",
+        "where": "Collect 25% of the Artifacts."
+      },
+      {
+        "id": "achievement-2",
+        "name": "Crowned with Living Light",
+        "kind": "trophy",
+        "chapterId": "legends-and-relics",
+        "where": "Collect 50% of the Ithildin."
+      },
+      {
+        "id": "achievement-3",
+        "name": "Stinking Rebels",
+        "kind": "trophy",
+        "chapterId": "nemesis",
+        "where": "Brand 5 Bodyguards of a Warchief, turning them against him in combat."
+      },
+      {
+        "id": "achievement-4",
+        "name": "The Maker's Bow",
+        "kind": "trophy",
+        "chapterId": "legends-and-relics",
+        "where": "Complete all Azkâr Legend Missions."
+      },
+      {
+        "id": "achievement-5",
+        "name": "Legend of the Maker",
+        "kind": "trophy",
+        "chapterId": "legends-and-relics",
+        "where": "Complete a Bow Mission and begin growing the legend of Azkâr."
+      },
+      {
+        "id": "achievement-6",
+        "name": "Gorthaur the Cruel",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-7",
+        "name": "The Last Shadow",
+        "kind": "trophy",
+        "chapterId": "legends-and-relics",
+        "where": "Complete all Acharn Legend Missions."
+      },
+      {
+        "id": "achievement-8",
+        "name": "Legend of Shadow",
+        "kind": "trophy",
+        "chapterId": "legends-and-relics",
+        "where": "Complete a Dagger Mission and begin growing the legend of Acharn."
+      },
+      {
+        "id": "achievement-9",
+        "name": "Height of Despair",
+        "kind": "trophy",
+        "chapterId": "combat-and-runes",
+        "where": "Use Strike From Above while at least 60 feet above your target."
+      },
+      {
+        "id": "achievement-10",
+        "name": "You Will Obey",
+        "kind": "trophy",
+        "chapterId": "nemesis",
+        "where": "Make an uruk yours."
+      },
+      {
+        "id": "achievement-11",
+        "name": "Black Celebration",
+        "kind": "trophy",
+        "chapterId": "nemesis",
+        "where": "Poison a Captain at his own Feast."
+      },
+      {
+        "id": "achievement-12",
+        "name": "Memories of Eregion",
+        "kind": "trophy",
+        "chapterId": "legends-and-relics",
+        "where": "Activate all Forge Towers."
+      },
+      {
+        "id": "achievement-13",
+        "name": "The Bright Master",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-14",
+        "name": "The Spirit of Mordor",
+        "kind": "trophy",
+        "chapterId": "nemesis",
+        "where": "Start a Riot by commanding a Warchief to attack another Warchief."
+      },
+      {
+        "id": "achievement-15",
+        "name": "Scout of the Morannon",
+        "kind": "trophy",
+        "chapterId": "wilds-and-outcasts",
+        "where": "Successfully complete a Survivalist Challenge."
+      },
+      {
+        "id": "achievement-16",
+        "name": "Thrill of the Hunt",
+        "kind": "trophy",
+        "chapterId": "wilds-and-outcasts",
+        "where": "Successfully complete 4 Hunting Challenges."
+      },
+      {
+        "id": "achievement-17",
+        "name": "The White Rider",
+        "kind": "trophy",
+        "chapterId": "wilds-and-outcasts",
+        "where": "Liberate 30 slaves in 180 seconds while riding a caragor."
+      },
+      {
+        "id": "achievement-18",
+        "name": "Beyond Hope",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-19",
+        "name": "Divide and Conquer",
+        "kind": "trophy",
+        "chapterId": "nemesis",
+        "where": "Eliminate the bodyguards of two Warchiefs, then draw them out and kill them."
+      },
+      {
+        "id": "achievement-20",
+        "name": "To Rule them All",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-21",
+        "name": "A New Master",
+        "kind": "trophy",
+        "chapterId": "nemesis",
+        "where": "Brand a Captain while in combat."
+      },
+      {
+        "id": "achievement-22",
+        "name": "Bearer of the Shining Lamp",
+        "kind": "trophy",
+        "chapterId": "legends-and-relics",
+        "where": "Collect 100% of the Ithildin."
+      },
+      {
+        "id": "achievement-23",
+        "name": "Ranger of Ithilien",
+        "kind": "trophy",
+        "chapterId": "wilds-and-outcasts",
+        "where": "Complete all Survivalist Challenges."
+      },
+      {
+        "id": "achievement-24",
+        "name": "Master of the Wilds",
+        "kind": "trophy",
+        "chapterId": "wilds-and-outcasts",
+        "where": "Complete all Hunting Challenges."
+      },
+      {
+        "id": "achievement-25",
+        "name": "The Free Folk",
+        "kind": "trophy",
+        "chapterId": "wilds-and-outcasts",
+        "where": "Complete an Outcast Rescue Mission."
+      },
+      {
+        "id": "achievement-26",
+        "name": "Liberator",
+        "kind": "trophy",
+        "chapterId": "wilds-and-outcasts",
+        "where": "Complete all Outcast Rescue Missions."
+      },
+      {
+        "id": "achievement-27",
+        "name": "Repaid in Blood",
+        "kind": "trophy",
+        "chapterId": "wilds-and-outcasts",
+        "where": "Complete a Vendetta Mission."
+      },
+      {
+        "id": "achievement-28",
+        "name": "Shadows of the Ancient Past",
+        "kind": "trophy",
+        "chapterId": "legends-and-relics",
+        "where": "Collect 100% of the Artifacts and listen to their memories."
+      },
+      {
+        "id": "achievement-29",
+        "name": "Ratbag the Great and Powerful",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-30",
+        "name": "No Power in Numbers",
+        "kind": "trophy",
+        "chapterId": "nemesis",
+        "where": "Help a Captain survive a Recruitment Power Struggle, and then kill him and all his new recruits."
+      },
+      {
+        "id": "achievement-31",
+        "name": "Fire of Justice",
+        "kind": "trophy",
+        "chapterId": "legends-and-relics",
+        "where": "Complete all Urfael Legend Missions."
+      },
+      {
+        "id": "achievement-32",
+        "name": "Legend of Vengeance",
+        "kind": "trophy",
+        "chapterId": "legends-and-relics",
+        "where": "Complete a Sword Mission and begin growing the legend of Urfael."
+      },
+      {
+        "id": "achievement-33",
+        "name": "The White Wizard",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-34",
+        "name": "The Hand is Severed",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-35",
+        "name": "For My Brother",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-36",
+        "name": "Rise and Fall",
+        "kind": "trophy",
+        "chapterId": "nemesis",
+        "where": "After an uruk kills you to become a Captain, help him become a Warchief, then kill him."
+      },
+      {
+        "id": "achievement-37",
+        "name": "The Hammer Falls",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-38",
+        "name": "Burning Vengeance",
+        "kind": "trophy",
+        "chapterId": "combat-and-runes",
+        "where": "Perform an Execution on a flaming Berserker."
+      },
+      {
+        "id": "achievement-39",
+        "name": "And it Burns, Burns, Burns",
+        "kind": "trophy",
+        "chapterId": "combat-and-runes",
+        "where": "Use the Detonate ability to burn 50 uruks."
+      },
+      {
+        "id": "achievement-40",
+        "name": "Unleashed",
+        "kind": "trophy",
+        "chapterId": "wilds-and-outcasts",
+        "where": "Free 5 caragors from cages."
+      },
+      {
+        "id": "achievement-41",
+        "name": "Fly you fools!",
+        "kind": "trophy",
+        "chapterId": "wilds-and-outcasts",
+        "where": "Make 20 uruks flee by dropping Morgai Fly nests."
+      },
+      {
+        "id": "achievement-42",
+        "name": "Jaws of Death",
+        "kind": "trophy",
+        "chapterId": "wilds-and-outcasts",
+        "where": "Attract caragors with bait 5 times."
+      },
+      {
+        "id": "achievement-43",
+        "name": "Iron of Death",
+        "kind": "trophy",
+        "chapterId": "nemesis",
+        "where": "Issue a Death Threat, and then successfully kill the target."
+      },
+      {
+        "id": "achievement-44",
+        "name": "A Graug's Heel",
+        "kind": "trophy",
+        "chapterId": "nemesis",
+        "where": "Capitalize on a Warchief's Fear."
+      },
+      {
+        "id": "achievement-45",
+        "name": "Power Vacuum",
+        "kind": "trophy",
+        "chapterId": "nemesis",
+        "where": "Kill all 5 Warchiefs before any uruk take their place."
+      },
+      {
+        "id": "achievement-46",
+        "name": "Strike True",
+        "kind": "trophy",
+        "chapterId": "combat-and-runes",
+        "where": "Unlock 2 Bow Rune slots."
+      },
+      {
+        "id": "achievement-47",
+        "name": "Paid in Blood",
+        "kind": "trophy",
+        "chapterId": "combat-and-runes",
+        "where": "Unlock 4 Dagger Rune slots."
+      },
+      {
+        "id": "achievement-48",
+        "name": "The Cold Light",
+        "kind": "trophy",
+        "chapterId": "combat-and-runes",
+        "where": "Unlock 3 Sword Rune slots."
+      },
+      {
+        "id": "achievement-49",
+        "name": "Lord and Master",
+        "kind": "trophy",
+        "chapterId": "nemesis",
+        "where": "Brand all 5 Warchiefs."
+      },
+      {
+        "id": "achievement-50",
+        "name": "A Mighty Doom",
+        "kind": "trophy",
+        "chapterId": "combat-and-runes",
+        "where": "Acquire a level 25 Rune."
+      },
+      {
+        "id": "achievement-51",
+        "name": "The Tower Crumbles",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-52",
+        "name": "A Short Introduction",
+        "kind": "trophy",
+        "chapterId": "lord-of-the-hunt",
+        "where": "Begin a new hunt with Torvin."
+      },
+      {
+        "id": "achievement-53",
+        "name": "The Most Dangerous Game",
+        "kind": "trophy",
+        "chapterId": "lord-of-the-hunt",
+        "where": "Defeat all the Beastmaster Warchiefs."
+      },
+      {
+        "id": "achievement-54",
+        "name": "Jaws of Shadow",
+        "kind": "trophy",
+        "chapterId": "lord-of-the-hunt",
+        "where": "Complete 25 Caragath Stealth Kills."
+      },
+      {
+        "id": "achievement-55",
+        "name": "Wretched Retch",
+        "kind": "trophy",
+        "chapterId": "lord-of-the-hunt",
+        "where": "Use a Wretched Graug's Projectile Vomit on an Uruk Captain or Warchief."
+      },
+      {
+        "id": "achievement-56",
+        "name": "Ghûls Gone Wild",
+        "kind": "trophy",
+        "chapterId": "lord-of-the-hunt",
+        "where": "Kill a Graug by dispatching your Ghûls on him."
+      },
+      {
+        "id": "achievement-57",
+        "name": "Rattle the Hive",
+        "kind": "trophy",
+        "chapterId": "lord-of-the-hunt",
+        "where": "Bait 10 Ghûl mounds."
+      },
+      {
+        "id": "achievement-58",
+        "name": "O Mother, Where Art Thou?",
+        "kind": "trophy",
+        "chapterId": "lord-of-the-hunt",
+        "where": "Have 20 Branded Ghûls at one time."
+      },
+      {
+        "id": "achievement-59",
+        "name": "I Had To Put Him Down",
+        "kind": "trophy",
+        "chapterId": "lord-of-the-hunt",
+        "where": "Kill a Caragath with an Execution."
+      },
+      {
+        "id": "achievement-60",
+        "name": "The Flames Make It Go Faster",
+        "kind": "trophy",
+        "chapterId": "lord-of-the-hunt",
+        "where": "Activate the Blazing Steed."
+      },
+      {
+        "id": "achievement-61",
+        "name": "Nom Nom Nom!",
+        "kind": "trophy",
+        "chapterId": "lord-of-the-hunt",
+        "where": "Eat a captain with a Wretched Graug."
+      },
+      {
+        "id": "achievement-62",
+        "name": "Hot Flashes",
+        "kind": "trophy",
+        "chapterId": "lord-of-the-hunt",
+        "where": "Catch a Ghûl Matron on fire during the Lord of the Hunt campaign."
+      },
+      {
+        "id": "achievement-63",
+        "name": "The Collector",
+        "kind": "trophy",
+        "chapterId": "lord-of-the-hunt",
+        "where": "Have a dominated Caragath, Wretched Graug and Spitter Ghûl simultaneously."
+      },
+      {
+        "id": "achievement-64",
+        "name": "The Hunt is my Mistress",
+        "kind": "trophy",
+        "chapterId": "lord-of-the-hunt",
+        "where": "Complete all objectives in the Test of the Wild."
+      },
+      {
+        "id": "achievement-65",
+        "name": "Betrayed",
+        "kind": "trophy",
+        "chapterId": "dark-lord-block",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-66",
+        "name": "The Scouring of Mordor",
+        "kind": "trophy",
+        "chapterId": "dark-lord-block",
+        "where": "Challenge the Dark Lord in Mordor."
+      },
+      {
+        "id": "achievement-67",
+        "name": "Burning Shadow",
+        "kind": "trophy",
+        "chapterId": "dark-lord-block",
+        "where": "Shadow Brand 20 Uruks."
+      },
+      {
+        "id": "achievement-68",
+        "name": "Dominion",
+        "kind": "trophy",
+        "chapterId": "dark-lord-block",
+        "where": "Wraith Flash Dominate 50 Uruks."
+      },
+      {
+        "id": "achievement-69",
+        "name": "Battle Forged",
+        "kind": "trophy",
+        "chapterId": "dark-lord-block",
+        "where": "Maximize the power of the Ring by completing all of the One Ring missions."
+      },
+      {
+        "id": "achievement-70",
+        "name": "From Shadow to Shadow",
+        "kind": "trophy",
+        "chapterId": "dark-lord-block",
+        "where": "Stealth Brand a Captain."
+      },
+      {
+        "id": "achievement-71",
+        "name": "The Silver Fist",
+        "kind": "trophy",
+        "chapterId": "dark-lord-block",
+        "where": "Brand 20 Uruks in 60 seconds."
+      },
+      {
+        "id": "achievement-72",
+        "name": "Eregion Reforged",
+        "kind": "trophy",
+        "chapterId": "dark-lord-block",
+        "where": "Build all the Forge Towers in Udun."
+      },
+      {
+        "id": "achievement-73",
+        "name": "Beyond Epic",
+        "kind": "trophy",
+        "chapterId": "dark-lord-block",
+        "where": "Get a Level 30 Rune in Test of the Ring."
+      },
+      {
+        "id": "achievement-74",
+        "name": "Lord of the Ring",
+        "kind": "trophy",
+        "chapterId": "dark-lord-block",
+        "where": "Complete all objectives in the Test of The Ring."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/shadow-of-mordor",
+    "Achievement data from Steam (Steam Web API, app 241930)",
+    "StrategyWiki: no usable walkthrough, nothing used — https://strategywiki.org/wiki/Middle-earth:_Shadow_of_Mordor",
+    "Fandom (shadowofwar.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://shadowofwar.fandom.com/wiki/Middle-earth:_Shadow_of_Mordor"
+  ],
+  "route": "original",
+  "notes": "Backlog game, picked from RAWG's most-added list for its year (docs/PLAN.md section 2 ordering). StrategyWiki has a stub page (completion stage 0); written subpages are only Achievements and trophies, Table of Contents and Upgrades, and the Walkthrough, Gameplay, Controls and Runes pages are linked but not written. No dedicated \"shadowofmordor\" Fandom wiki exists (the API returned HTTP 404). shadowofwar.fandom.com answers the API under \"Middle-earth: Shadow of Mordor\", with about 22 linked pages; lotr.fandom.com also has a page with about 61 links. Names only were looked at, nothing copied. The Steam schema calls the app \"Firebird\" (an internal codename); the store list confirms app 241930. 11 of 74 Steam achievements are hidden. The 13 achievements listed from \"A Short Introduction\" (a new hunt with Torvin) to \"The Hunt is my Mistress\" (Test of the Wild) were grouped as the Lord of the Hunt campaign by schema position; that name comes from the \"Hot Flashes\" description. The 10 listed last, from \"Betrayed\" (hidden) to \"Lord of the Ring\" (Test of the Ring), were grouped by schema position as one more DLC block; its name is not in the data, so the chapter is described by what the achievements say. The other 10 hidden ones (such as \"Ratbag the Great and Powerful\", \"The Hammer Falls\" and \"The Tower Crumbles\") sit in the main story chapter."
+}

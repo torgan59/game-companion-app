@@ -1,0 +1,843 @@
+{
+  "id": "final-fantasy-xv",
+  "title": "Final Fantasy XV",
+  "year": 2016,
+  "platforms": [
+    "PlayStation 4",
+    "PC",
+    "Xbox One"
+  ],
+  "rawgId": 750,
+  "rawgSlug": "final-fantasy-xv",
+  "released": "2016-11-29",
+  "developers": [
+    "Square Enix"
+  ],
+  "playtime": 5,
+  "genres": [
+    "RPG"
+  ],
+  "tags": [
+    "RPG",
+    "Fantasy",
+    "combat",
+    "Story",
+    "battle",
+    "friends",
+    "Tanks",
+    "night"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/2ee/2eeed8524931b4fae1e4a40d0e5443b5.jpg",
+  "steamAppId": 637650,
+  "achievements": {
+    "total": 97,
+    "hidden": 41,
+    "examples": [
+      {
+        "name": "Blind Spot",
+        "percent": 85.6
+      },
+      {
+        "name": "Just Hangin' Around",
+        "percent": 81.9
+      },
+      {
+        "name": "Brother-in-Arms",
+        "percent": 81.3
+      },
+      {
+        "name": "Chocobreeder",
+        "percent": 1.5
+      },
+      {
+        "name": "Beacons of Hope",
+        "percent": 1.5
+      },
+      {
+        "name": "A New Blademaster",
+        "percent": 1.4
+      },
+      {
+        "name": "Dogged Rider",
+        "percent": 1.4
+      },
+      {
+        "name": "Master of the Elements",
+        "percent": 1.4
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": false,
+      "pages": 0,
+      "reason": "No page for Final Fantasy XV (MediaWiki API returned missing; search empty)"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 500,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://finalfantasy.fandom.com/wiki/Final_Fantasy_XV"
+    }
+  },
+  "game": {
+    "id": "final-fantasy-xv",
+    "title": "Final Fantasy XV",
+    "platforms": [
+      "PlayStation 4",
+      "PC",
+      "Xbox One"
+    ],
+    "blurb": "Open-world action RPG in which Noctis and his three companions travel by car across the world of Eos, from Square Enix, released 2016-11-29. RAWG average playtime: 5 hours. Genre: RPG. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#3A4A6B",
+    "chapters": [
+      {
+        "id": "main-story",
+        "title": "The Main Story",
+        "summary": "Noctis and his friends leave the capital and travel the world. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "travel-and-hobbies",
+        "title": "Road Trip, Chocobos and Hobbies",
+        "summary": "Driving the Regalia, riding and raising chocobos, test drives, fishing, survival, photography, cooking and JUSTICE MONSTERS FIVE.",
+        "steps": []
+      },
+      {
+        "id": "combat-and-growth",
+        "title": "Combat, Magic and Abilities",
+        "summary": "Warping, link-strikes, ally commands, the Armiger, spellcraft, summons, ability nodes and weapon slots.",
+        "steps": []
+      },
+      {
+        "id": "quests-and-exploration",
+        "title": "Sidequests, Hunts and Discoveries",
+        "summary": "Sidequests, hunts, documents and filling the Datalog.",
+        "steps": []
+      },
+      {
+        "id": "episode-gladiolus",
+        "title": "Episode Gladiolus (likely): Trials and Score Attack",
+        "summary": "A run of trials with Cor, columns, Score Attack and a tortoise to topple. Which episode this block belongs to is inferred, not stated.",
+        "steps": []
+      },
+      {
+        "id": "episode-prompto",
+        "title": "Episode Prompto",
+        "summary": "Stealth, crackshots, battle selfies, time trials and the kaiser behemoth.",
+        "steps": []
+      },
+      {
+        "id": "episode-ignis",
+        "title": "Episode Ignis (likely): Spelldaggers",
+        "summary": "Spelldaggers, counterstrikes and Total Clarity. The episode name is inferred, not stated.",
+        "steps": []
+      },
+      {
+        "id": "comrades",
+        "title": "Comrades (multiplayer)",
+        "summary": "Powering Lestallum, Royal Sigils, high-level weapons, the Crow's Nest Diner and the Comrades quest.",
+        "steps": []
+      },
+      {
+        "id": "episode-ardyn",
+        "title": "Episode Ardyn (likely)",
+        "summary": "A final block of hidden achievements at the end of the list. Spoiler-guarded; the episode name is inferred, not stated.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Insomnia's Waking Nightmare",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-2",
+        "name": "Departure",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-3",
+        "name": "No Turning Back",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-4",
+        "name": "The Open World",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-5",
+        "name": "Living Legend",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-6",
+        "name": "Dark Clouds",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-7",
+        "name": "A Way Forward",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-8",
+        "name": "Party of Three",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-9",
+        "name": "Seaworthy",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-10",
+        "name": "Callings",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-11",
+        "name": "The Heart of a King",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-12",
+        "name": "In the Dark",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-13",
+        "name": "End of Days",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-14",
+        "name": "Redemption",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-15",
+        "name": "Homecoming",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-16",
+        "name": "Chosen King",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-17",
+        "name": "Learner's Permit",
+        "kind": "trophy",
+        "chapterId": "travel-and-hobbies",
+        "where": "Drove the Regalia."
+      },
+      {
+        "id": "achievement-18",
+        "name": "Chocobo Jockey",
+        "kind": "trophy",
+        "chapterId": "travel-and-hobbies",
+        "where": "Rode a Chocobo."
+      },
+      {
+        "id": "achievement-19",
+        "name": "Regalia Pilot",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-20",
+        "name": "Quadruple Threat",
+        "kind": "trophy",
+        "chapterId": "combat-and-growth",
+        "where": "Equipped four weapon slots."
+      },
+      {
+        "id": "achievement-21",
+        "name": "Faithful Heir",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-22",
+        "name": "New Power",
+        "kind": "trophy",
+        "chapterId": "combat-and-growth",
+        "where": "Learned first ability."
+      },
+      {
+        "id": "achievement-23",
+        "name": "Self-Improved",
+        "kind": "trophy",
+        "chapterId": "combat-and-growth",
+        "where": "Activated 20 ability nodes."
+      },
+      {
+        "id": "achievement-24",
+        "name": "Self-Mastered",
+        "kind": "trophy",
+        "chapterId": "combat-and-growth",
+        "where": "Activated 50 ability nodes."
+      },
+      {
+        "id": "achievement-25",
+        "name": "Angling Rookie",
+        "kind": "trophy",
+        "chapterId": "travel-and-hobbies",
+        "where": "Improved fishing level for the first time."
+      },
+      {
+        "id": "achievement-26",
+        "name": "Survival Rookie",
+        "kind": "trophy",
+        "chapterId": "travel-and-hobbies",
+        "where": "Improved survival level for the first time."
+      },
+      {
+        "id": "achievement-27",
+        "name": "Photo Rookie",
+        "kind": "trophy",
+        "chapterId": "travel-and-hobbies",
+        "where": "Improved photography level for the first time."
+      },
+      {
+        "id": "achievement-28",
+        "name": "Cooking Rookie",
+        "kind": "trophy",
+        "chapterId": "travel-and-hobbies",
+        "where": "Improved cooking level for the first time."
+      },
+      {
+        "id": "achievement-29",
+        "name": "Angling Expert",
+        "kind": "trophy",
+        "chapterId": "travel-and-hobbies",
+        "where": "Reached maximum fishing level."
+      },
+      {
+        "id": "achievement-30",
+        "name": "Survival Expert",
+        "kind": "trophy",
+        "chapterId": "travel-and-hobbies",
+        "where": "Reached maximum survival level."
+      },
+      {
+        "id": "achievement-31",
+        "name": "Photo Expert",
+        "kind": "trophy",
+        "chapterId": "travel-and-hobbies",
+        "where": "Reached maximum photography level."
+      },
+      {
+        "id": "achievement-32",
+        "name": "Cooking Expert",
+        "kind": "trophy",
+        "chapterId": "travel-and-hobbies",
+        "where": "Reached maximum cooking level."
+      },
+      {
+        "id": "achievement-33",
+        "name": "Just Hangin' Around",
+        "kind": "trophy",
+        "chapterId": "combat-and-growth",
+        "where": "Performed first point-warp suspension."
+      },
+      {
+        "id": "achievement-34",
+        "name": "Brother-in-Arms",
+        "kind": "trophy",
+        "chapterId": "combat-and-growth",
+        "where": "Issued first ally command."
+      },
+      {
+        "id": "achievement-35",
+        "name": "Blind Spot",
+        "kind": "trophy",
+        "chapterId": "combat-and-growth",
+        "where": "Performed first blindside link."
+      },
+      {
+        "id": "achievement-36",
+        "name": "Noct You Like a Hurricane",
+        "kind": "trophy",
+        "chapterId": "combat-and-growth",
+        "where": "Initiated first link-strike after parrying an attack."
+      },
+      {
+        "id": "achievement-37",
+        "name": "The Power of Kings",
+        "kind": "trophy",
+        "chapterId": "combat-and-growth",
+        "where": "Called forth the Armiger for the first time."
+      },
+      {
+        "id": "achievement-38",
+        "name": "Magical Worker",
+        "kind": "trophy",
+        "chapterId": "combat-and-growth",
+        "where": "Crafted a spell for the first time."
+      },
+      {
+        "id": "achievement-39",
+        "name": "Black Mage",
+        "kind": "trophy",
+        "chapterId": "combat-and-growth",
+        "where": "Used magic for the first time."
+      },
+      {
+        "id": "achievement-40",
+        "name": "Divine Intervention",
+        "kind": "trophy",
+        "chapterId": "combat-and-growth",
+        "where": "Summoned one of the Six for the first time."
+      },
+      {
+        "id": "achievement-41",
+        "name": "High Five for Justice!",
+        "kind": "trophy",
+        "chapterId": "travel-and-hobbies",
+        "where": "Played JUSTICE MONSTERS FIVE for the first time."
+      },
+      {
+        "id": "achievement-42",
+        "name": "Immortal Photobomb",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-43",
+        "name": "Spinning a Yarn I",
+        "kind": "trophy",
+        "chapterId": "quests-and-exploration",
+        "where": "Completed first sidequest."
+      },
+      {
+        "id": "achievement-44",
+        "name": "Spinning a Yarn II",
+        "kind": "trophy",
+        "chapterId": "quests-and-exploration",
+        "where": "Completed 5 sidequests."
+      },
+      {
+        "id": "achievement-45",
+        "name": "Spinning a Yarn III",
+        "kind": "trophy",
+        "chapterId": "quests-and-exploration",
+        "where": "Completed 10 sidequests."
+      },
+      {
+        "id": "achievement-46",
+        "name": "Spinning a Yarn IV",
+        "kind": "trophy",
+        "chapterId": "quests-and-exploration",
+        "where": "Completed 20 sidequests."
+      },
+      {
+        "id": "achievement-47",
+        "name": "Spinning a Yarn V",
+        "kind": "trophy",
+        "chapterId": "quests-and-exploration",
+        "where": "Completed 40 sidequests."
+      },
+      {
+        "id": "achievement-48",
+        "name": "Weaving a Tapestry",
+        "kind": "trophy",
+        "chapterId": "quests-and-exploration",
+        "where": "Completed 80 sidequests."
+      },
+      {
+        "id": "achievement-49",
+        "name": "My First Hunt",
+        "kind": "trophy",
+        "chapterId": "quests-and-exploration",
+        "where": "Completed first hunt."
+      },
+      {
+        "id": "achievement-50",
+        "name": "Tortoise Toppler",
+        "kind": "trophy",
+        "chapterId": "episode-gladiolus",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-51",
+        "name": "Picker-Upper",
+        "kind": "trophy",
+        "chapterId": "episode-gladiolus",
+        "where": "Picked up all items."
+      },
+      {
+        "id": "achievement-52",
+        "name": "Column Colossus",
+        "kind": "trophy",
+        "chapterId": "episode-gladiolus",
+        "where": "Uprooted all columns."
+      },
+      {
+        "id": "achievement-53",
+        "name": "Master and Pupil",
+        "kind": "trophy",
+        "chapterId": "episode-gladiolus",
+        "where": "Performed 5 link-strikes with Cor."
+      },
+      {
+        "id": "achievement-54",
+        "name": "Shield of the Chosen King",
+        "kind": "trophy",
+        "chapterId": "episode-gladiolus",
+        "where": "Completed the trials on Normal."
+      },
+      {
+        "id": "achievement-55",
+        "name": "Transcendence",
+        "kind": "trophy",
+        "chapterId": "episode-gladiolus",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-56",
+        "name": "No Pain, No Gain",
+        "kind": "trophy",
+        "chapterId": "episode-gladiolus",
+        "where": "Scored 500,000 or more points in Score Attack."
+      },
+      {
+        "id": "achievement-57",
+        "name": "A New Blademaster",
+        "kind": "trophy",
+        "chapterId": "episode-gladiolus",
+        "where": "Scored 1,000,000 or more points in Score Attack."
+      },
+      {
+        "id": "achievement-58",
+        "name": "Unseen Assassin",
+        "kind": "trophy",
+        "chapterId": "episode-prompto",
+        "where": "Stealth-killed 3 enemies."
+      },
+      {
+        "id": "achievement-59",
+        "name": "Sharp Shooting",
+        "kind": "trophy",
+        "chapterId": "episode-prompto",
+        "where": "Took down 30 enemies with crackshots."
+      },
+      {
+        "id": "achievement-60",
+        "name": "Field Photographer",
+        "kind": "trophy",
+        "chapterId": "episode-prompto",
+        "where": "Took 10 photos mid-battle using Selfie Shot."
+      },
+      {
+        "id": "achievement-61",
+        "name": "Unbreakable Bonds",
+        "kind": "trophy",
+        "chapterId": "episode-prompto",
+        "where": "Completed EPISODE PROMPTO on Normal."
+      },
+      {
+        "id": "achievement-62",
+        "name": "An Emperor Deposed",
+        "kind": "trophy",
+        "chapterId": "episode-prompto",
+        "where": "Defeated the kaiser behemoth."
+      },
+      {
+        "id": "achievement-63",
+        "name": "The Dragoonslayer",
+        "kind": "trophy",
+        "chapterId": "episode-prompto",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-64",
+        "name": "Dogged Rider",
+        "kind": "trophy",
+        "chapterId": "episode-prompto",
+        "where": "Earned the top ranking on all three Time Trial courses."
+      },
+      {
+        "id": "achievement-65",
+        "name": "Seize the Moment",
+        "kind": "trophy",
+        "chapterId": "combat-and-growth",
+        "where": "Performed 10 full-hit cross chains."
+      },
+      {
+        "id": "achievement-66",
+        "name": "Love Turned Tragic",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-67",
+        "name": "Beacon of Hope",
+        "kind": "trophy",
+        "chapterId": "comrades",
+        "where": "Powered up all facilities in Lestallum."
+      },
+      {
+        "id": "achievement-68",
+        "name": "Kingly Blessing",
+        "kind": "trophy",
+        "chapterId": "comrades",
+        "where": "Received a Royal Sigil."
+      },
+      {
+        "id": "achievement-69",
+        "name": "One with Your Blade",
+        "kind": "trophy",
+        "chapterId": "comrades",
+        "where": "Crafted a weapon of Level 30 or higher."
+      },
+      {
+        "id": "achievement-70",
+        "name": "Come Back, Kenny!",
+        "kind": "trophy",
+        "chapterId": "comrades",
+        "where": "Met the owner of the Crow's Nest Diner."
+      },
+      {
+        "id": "achievement-71",
+        "name": "Royal Retinue Rumble",
+        "kind": "trophy",
+        "chapterId": "comrades",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-72",
+        "name": "Cleaving a Path",
+        "kind": "trophy",
+        "chapterId": "comrades",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-73",
+        "name": "Let There Be Light",
+        "kind": "trophy",
+        "chapterId": "comrades",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-74",
+        "name": "Hidden Power",
+        "kind": "trophy",
+        "chapterId": "episode-ignis",
+        "where": "Took down 10 enemies using the spelldaggers."
+      },
+      {
+        "id": "achievement-75",
+        "name": "Swift Retaliation",
+        "kind": "trophy",
+        "chapterId": "episode-ignis",
+        "where": "Took down 10 enemies with counterstrikes."
+      },
+      {
+        "id": "achievement-76",
+        "name": "Master of the Elements",
+        "kind": "trophy",
+        "chapterId": "episode-ignis",
+        "where": "Took down 100 enemies using Total Clarity."
+      },
+      {
+        "id": "achievement-77",
+        "name": "A Noble Sacrifice",
+        "kind": "trophy",
+        "chapterId": "episode-ignis",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-78",
+        "name": "Altissian Ambassador",
+        "kind": "trophy",
+        "chapterId": "quests-and-exploration",
+        "where": "Collected all documents."
+      },
+      {
+        "id": "achievement-79",
+        "name": "Another Path",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-80",
+        "name": "A New Protagonist",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-81",
+        "name": "Maiden Voyage",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-82",
+        "name": "Narwhal Watching",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-83",
+        "name": "Pursuit of Knowledge",
+        "kind": "trophy",
+        "chapterId": "quests-and-exploration",
+        "where": "Filled 80% of the Datalog."
+      },
+      {
+        "id": "achievement-84",
+        "name": "Speed Daemon",
+        "kind": "trophy",
+        "chapterId": "travel-and-hobbies",
+        "where": "Posted excellent times in all cross-country test drives."
+      },
+      {
+        "id": "achievement-85",
+        "name": "The Power Within",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-86",
+        "name": "Tri-Headed Triumph",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-87",
+        "name": "Through the Dimensional Rift",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-88",
+        "name": "Blessed by All",
+        "kind": "trophy",
+        "chapterId": "comrades",
+        "where": "Collected all the Royal Sigils."
+      },
+      {
+        "id": "achievement-89",
+        "name": "Chocobreeder",
+        "kind": "trophy",
+        "chapterId": "travel-and-hobbies",
+        "where": "Raised a chocobo to Level 99."
+      },
+      {
+        "id": "achievement-90",
+        "name": "Beacons of Hope",
+        "kind": "trophy",
+        "chapterId": "comrades",
+        "where": "Completed the Comrades quest with all four characters."
+      },
+      {
+        "id": "achievement-91",
+        "name": "Fallen Savior",
+        "kind": "trophy",
+        "chapterId": "episode-ardyn",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-92",
+        "name": "The Pyreburner's Keeper",
+        "kind": "trophy",
+        "chapterId": "episode-ardyn",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-93",
+        "name": "King of the Daemons",
+        "kind": "trophy",
+        "chapterId": "episode-ardyn",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-94",
+        "name": "The Nightmare Ends",
+        "kind": "trophy",
+        "chapterId": "episode-ardyn",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-95",
+        "name": "Mastering the Darkness",
+        "kind": "trophy",
+        "chapterId": "episode-ardyn",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-96",
+        "name": "Insomnia Insurgence",
+        "kind": "trophy",
+        "chapterId": "episode-ardyn",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-97",
+        "name": "Return of the Founder King",
+        "kind": "trophy",
+        "chapterId": "episode-ardyn",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/final-fantasy-xv",
+    "Achievement data from Steam (Steam Web API, app 637650)",
+    "StrategyWiki: no page for this game, nothing used",
+    "Fandom (finalfantasy.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://finalfantasy.fandom.com/wiki/Final_Fantasy_XV"
+  ],
+  "route": "original",
+  "notes": "Backlog game, picked from RAWG's most-added list for its year (docs/PLAN.md section 2 ordering). No StrategyWiki page under \"Final Fantasy XV\" or \"Final Fantasy 15\", and a StrategyWiki search for \"Final Fantasy XV\" returned nothing. finalfantasy.fandom.com answers the API, with 500 or more linked pages (the link list was cut off at 500), including \"Final Fantasy XV: Episode Gladiolus\", \"Final Fantasy XV: Episode Prompto\", \"Final Fantasy XV: Episode Ignis\", \"Final Fantasy XV: Episode Ardyn\" and \"Final Fantasy XV: Comrades\"; names only were looked at, nothing copied. The Steam app is FINAL FANTASY XV WINDOWS EDITION (637650); its schema gives no game name. RAWG lists a playtime of only 5 hours, which looks low. 41 of 97 Steam achievements are hidden, and hidden ones carry no description. Only Episode Prompto and Comrades are named in achievement text; the Gladiolus, Ignis and Ardyn chapters are inferred from schema position (blocks 50 to 57, 74 to 77 and 91 to 97) plus the Fandom page names, and need checking. Hidden achievements inside those blocks were placed by position. The other hidden ones (the 16 story ones at the top, plus \"Regalia Pilot\", \"Faithful Heir\", \"Immortal Photobomb\", \"Love Turned Tragic\", \"Another Path\", \"A New Protagonist\", \"Maiden Voyage\", \"Narwhal Watching\", \"The Power Within\", \"Tri-Headed Triumph\" and \"Through the Dimensional Rift\") sit in the main story chapter as a placeholder; several are probably side content or belong to an episode."
+}

@@ -1,0 +1,641 @@
+{
+  "id": "immortals-fenyx-rising",
+  "title": "Immortals Fenyx Rising",
+  "year": 2020,
+  "platforms": [
+    "PC",
+    "PlayStation 5",
+    "Xbox One",
+    "Nintendo Switch",
+    "PlayStation 4",
+    "Xbox Series X|S"
+  ],
+  "rawgId": 487910,
+  "rawgSlug": "gods-monsters",
+  "released": "2020-12-03",
+  "developers": [
+    "Ubisoft",
+    "Ubisoft Quebec"
+  ],
+  "playtime": 3,
+  "genres": [
+    "Action",
+    "Adventure",
+    "RPG"
+  ],
+  "tags": [
+    "Singleplayer",
+    "RPG",
+    "Open World",
+    "Third Person",
+    "Fantasy",
+    "Sandbox",
+    "Female Protagonist",
+    "Action-Adventure",
+    "Action RPG",
+    "In-App Purchases",
+    "3D",
+    "combat"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/d51/d51ada3b94bfd617bf91d4344ab81ce9.jpg",
+  "steamAppId": 2221920,
+  "achievements": {
+    "total": 68,
+    "hidden": 0,
+    "examples": [
+      {
+        "name": "Among the Stars",
+        "percent": 29.9
+      },
+      {
+        "name": "Don't Shoot the Messenger",
+        "percent": 29.7
+      },
+      {
+        "name": "Toot or Boot?",
+        "percent": 25.9
+      },
+      {
+        "name": "Ash the Leech",
+        "percent": 0.8
+      },
+      {
+        "name": "Opportunist",
+        "percent": 0.7
+      },
+      {
+        "name": "Full House",
+        "percent": 0.7
+      },
+      {
+        "name": "Masochist",
+        "percent": 0.7
+      },
+      {
+        "name": "Lighter Than Air",
+        "percent": 0.6
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": false,
+      "pages": 0,
+      "reason": "No page for Immortals Fenyx Rising (MediaWiki API returned missing; search empty)"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 9,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://immortalsfenyxrising.fandom.com/wiki/Immortals:_Fenyx_Rising"
+    }
+  },
+  "game": {
+    "id": "immortals-fenyx-rising",
+    "title": "Immortals Fenyx Rising",
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "Xbox One",
+      "Nintendo Switch",
+      "PlayStation 4",
+      "Xbox Series X|S"
+    ],
+    "blurb": "Greek-myth open-world action-adventure from Ubisoft Quebec, released 2020-12-03. RAWG average playtime: 3 hours (far under a full run). Genres: Action, Adventure, RPG. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#D08C2B",
+    "chapters": [
+      {
+        "id": "main-story",
+        "title": "The Main Story",
+        "summary": "Meeting the gods, finishing their questlines, and the fights with Ligyron and Typhon. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "side-quests",
+        "title": "Side Quests and Heroic Tasks",
+        "summary": "Phosphor, the gods' side questlines and Hermes's Heroic Tasks Board.",
+        "steps": []
+      },
+      {
+        "id": "exploration",
+        "title": "Exploring the Island",
+        "summary": "Unfogging the map, gliding, climbing, taming mounts, Myth Challenges, chests and shard clusters.",
+        "steps": []
+      },
+      {
+        "id": "vaults-and-bosses",
+        "title": "Vaults of Tartaros and Bosses",
+        "summary": "Vaults of Tartaros, Wraiths and the Mythical Monster bosses.",
+        "steps": []
+      },
+      {
+        "id": "upgrades-and-gear",
+        "title": "Upgrades, Gear and Looks",
+        "summary": "Health and Stamina, the Forge, skill trees, potions, weapons, wings and appearance.",
+        "steps": []
+      },
+      {
+        "id": "combat",
+        "title": "Combat",
+        "summary": "Combos, thrown objects, reflected projectiles and stealth attacks.",
+        "steps": []
+      },
+      {
+        "id": "expansions",
+        "title": "Expansions (DLC)",
+        "summary": "Achievements from the add-ons RAWG lists (A New God, Myths of the Eastern Realm, The Lost Gods): trials, new questlines, Ruins of Heaven and Heroic Gifts.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "The Giving Tree",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Meet Aphrodite."
+      },
+      {
+        "id": "achievement-2",
+        "name": "Big Chicken",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Meet Ares."
+      },
+      {
+        "id": "achievement-3",
+        "name": "The Iron Giant",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Meet Hephaistos."
+      },
+      {
+        "id": "achievement-4",
+        "name": "Sassy, Lost Child",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Meet Athena."
+      },
+      {
+        "id": "achievement-5",
+        "name": "God of War",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Complete Ares's Questline."
+      },
+      {
+        "id": "achievement-6",
+        "name": "Goddess of Wisdom",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Complete Athena's Questline."
+      },
+      {
+        "id": "achievement-7",
+        "name": "Messenger of the Gods",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Complete Hermes's Questline."
+      },
+      {
+        "id": "achievement-8",
+        "name": "Goddess of Love",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Complete Aphrodite's Questline."
+      },
+      {
+        "id": "achievement-9",
+        "name": "God of the Forge",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Complete Hephaistos's Questline."
+      },
+      {
+        "id": "achievement-10",
+        "name": "Brother Battle",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Defeat Ligyron."
+      },
+      {
+        "id": "achievement-11",
+        "name": "Mission Complete",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Defeat Typhon."
+      },
+      {
+        "id": "achievement-12",
+        "name": "Logs and Monsters",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Chop down 100 large trees."
+      },
+      {
+        "id": "achievement-13",
+        "name": "Bird's-Eye View",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Unfog the whole map."
+      },
+      {
+        "id": "achievement-14",
+        "name": "Tippy-Top",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Reach the highest point on the island."
+      },
+      {
+        "id": "achievement-15",
+        "name": "The Floor is Lava",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Glide a total of 1,000 meters in one go."
+      },
+      {
+        "id": "achievement-16",
+        "name": "Oceancookie",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Tame an Epic mount."
+      },
+      {
+        "id": "achievement-17",
+        "name": "Among the Stars",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Solve a Constellation Myth Challenge."
+      },
+      {
+        "id": "achievement-18",
+        "name": "Fenyx the Horseman",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Tame all mounts."
+      },
+      {
+        "id": "achievement-19",
+        "name": "To Good Health",
+        "kind": "trophy",
+        "chapterId": "upgrades-and-gear",
+        "where": "Fully upgrade your Health."
+      },
+      {
+        "id": "achievement-20",
+        "name": "Projectile Pro",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Defeat a flying enemy with any thrown object."
+      },
+      {
+        "id": "achievement-21",
+        "name": "C-C-C-Combo",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Reach the final Combo stage."
+      },
+      {
+        "id": "achievement-22",
+        "name": "Your Own Medicine",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Defeat an enemy with their own projectile."
+      },
+      {
+        "id": "achievement-23",
+        "name": "It's A Bird!",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Perform a 25 hit combo while in air."
+      },
+      {
+        "id": "achievement-24",
+        "name": "Look, No Hands!",
+        "kind": "trophy",
+        "chapterId": "vaults-and-bosses",
+        "where": "Defeat 10 enemies using traps inside the Vaults of Tartaros."
+      },
+      {
+        "id": "achievement-25",
+        "name": "Wraithless in Battle",
+        "kind": "trophy",
+        "chapterId": "vaults-and-bosses",
+        "where": "Defeat a Wraith."
+      },
+      {
+        "id": "achievement-26",
+        "name": "Ornithology",
+        "kind": "trophy",
+        "chapterId": "upgrades-and-gear",
+        "where": "Acquire all Phoenix skins."
+      },
+      {
+        "id": "achievement-27",
+        "name": "Wing Nut",
+        "kind": "trophy",
+        "chapterId": "upgrades-and-gear",
+        "where": "Acquire all Wings."
+      },
+      {
+        "id": "achievement-28",
+        "name": "Who's the Boss?",
+        "kind": "trophy",
+        "chapterId": "vaults-and-bosses",
+        "where": "Defeat the Mythical Monster bosses."
+      },
+      {
+        "id": "achievement-29",
+        "name": "Hades's New Neighbor",
+        "kind": "trophy",
+        "chapterId": "vaults-and-bosses",
+        "where": "Complete 25 Vaults of Tartaros."
+      },
+      {
+        "id": "achievement-30",
+        "name": "Don't Shoot the Messenger",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Meet Hermes."
+      },
+      {
+        "id": "achievement-31",
+        "name": "Shard Miner",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Destroy 10 Shards Clusters."
+      },
+      {
+        "id": "achievement-32",
+        "name": "Armed and Dangerous",
+        "kind": "trophy",
+        "chapterId": "upgrades-and-gear",
+        "where": "Fully upgrade everything at the Forge of Hephaistos."
+      },
+      {
+        "id": "achievement-33",
+        "name": "Moonlight Treasure",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Open a Night Chest."
+      },
+      {
+        "id": "achievement-34",
+        "name": "Toot or Boot?",
+        "kind": "trophy",
+        "chapterId": "upgrades-and-gear",
+        "where": "Equip a matching helmet and armor."
+      },
+      {
+        "id": "achievement-35",
+        "name": "From the Ashes",
+        "kind": "trophy",
+        "chapterId": "side-quests",
+        "where": "Find Phosphor."
+      },
+      {
+        "id": "achievement-36",
+        "name": "Not Too Close to the Sun",
+        "kind": "trophy",
+        "chapterId": "upgrades-and-gear",
+        "where": "Equip new Wings."
+      },
+      {
+        "id": "achievement-37",
+        "name": "Servant to the Gods",
+        "kind": "trophy",
+        "chapterId": "side-quests",
+        "where": "Complete the gods' side questlines."
+      },
+      {
+        "id": "achievement-38",
+        "name": "One Chore Down",
+        "kind": "trophy",
+        "chapterId": "side-quests",
+        "where": "Complete a task from Hermes's Heroic Tasks Board at the Hall of the Gods."
+      },
+      {
+        "id": "achievement-39",
+        "name": "More than Twelve Labours",
+        "kind": "trophy",
+        "chapterId": "side-quests",
+        "where": "Complete all 36 tasks from Hermes's Heroic Tasks Board."
+      },
+      {
+        "id": "achievement-40",
+        "name": "Toil and Trouble",
+        "kind": "trophy",
+        "chapterId": "upgrades-and-gear",
+        "where": "Craft your first Potion."
+      },
+      {
+        "id": "achievement-41",
+        "name": "Potion Professional",
+        "kind": "trophy",
+        "chapterId": "upgrades-and-gear",
+        "where": "Fully upgrade the Potion tree."
+      },
+      {
+        "id": "achievement-42",
+        "name": "Powered Up",
+        "kind": "trophy",
+        "chapterId": "upgrades-and-gear",
+        "where": "Fully upgrade the Godly Powers tree."
+      },
+      {
+        "id": "achievement-43",
+        "name": "Show Your Moves",
+        "kind": "trophy",
+        "chapterId": "upgrades-and-gear",
+        "where": "Fully upgrade the Skills tree."
+      },
+      {
+        "id": "achievement-44",
+        "name": "Weapon Master",
+        "kind": "trophy",
+        "chapterId": "upgrades-and-gear",
+        "where": "Fully upgrade one weapon to its final tier."
+      },
+      {
+        "id": "achievement-45",
+        "name": "Join the Creed",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Perform 10 Stealth Attacks."
+      },
+      {
+        "id": "achievement-46",
+        "name": "Fully Charged",
+        "kind": "trophy",
+        "chapterId": "upgrades-and-gear",
+        "where": "Fully upgrade your Stamina."
+      },
+      {
+        "id": "achievement-47",
+        "name": "Down in Flames",
+        "kind": "trophy",
+        "chapterId": "side-quests",
+        "where": "Complete Phosphor's questline."
+      },
+      {
+        "id": "achievement-48",
+        "name": "Last Hero Standing",
+        "kind": "trophy",
+        "chapterId": "upgrades-and-gear",
+        "where": "Achieve hero status."
+      },
+      {
+        "id": "achievement-49",
+        "name": "Beauty's in the Eye",
+        "kind": "trophy",
+        "chapterId": "upgrades-and-gear",
+        "where": "Change your appearance at the Hall of the Gods."
+      },
+      {
+        "id": "achievement-50",
+        "name": "Photobomb",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Take a photo."
+      },
+      {
+        "id": "achievement-51",
+        "name": "Better Luck Next Time",
+        "kind": "trophy",
+        "chapterId": "expansions",
+        "where": "Fail the Initiation trial"
+      },
+      {
+        "id": "achievement-52",
+        "name": "Putting in Overtime",
+        "kind": "trophy",
+        "chapterId": "expansions",
+        "where": "Complete the secret trial"
+      },
+      {
+        "id": "achievement-53",
+        "name": "Overblessed",
+        "kind": "trophy",
+        "chapterId": "expansions",
+        "where": "Acquire all blessings"
+      },
+      {
+        "id": "achievement-54",
+        "name": "Tested and Approved",
+        "kind": "trophy",
+        "chapterId": "expansions",
+        "where": "Earn your promotion"
+      },
+      {
+        "id": "achievement-55",
+        "name": "Wardrobe Warrior",
+        "kind": "trophy",
+        "chapterId": "upgrades-and-gear",
+        "where": "Find every piece of gear"
+      },
+      {
+        "id": "achievement-56",
+        "name": "Zoomies",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Master the art of fast transportation"
+      },
+      {
+        "id": "achievement-57",
+        "name": "The Goddess of Creation",
+        "kind": "trophy",
+        "chapterId": "expansions",
+        "where": "Complete Nuwa's Questline"
+      },
+      {
+        "id": "achievement-58",
+        "name": "The Last Warlord",
+        "kind": "trophy",
+        "chapterId": "expansions",
+        "where": "Complete Gong Gong's Questline"
+      },
+      {
+        "id": "achievement-59",
+        "name": "Divine",
+        "kind": "trophy",
+        "chapterId": "expansions",
+        "where": "Complete all Ruins of Heaven"
+      },
+      {
+        "id": "achievement-60",
+        "name": "Stuff of Legends",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Complete all Myth Challenges"
+      },
+      {
+        "id": "achievement-61",
+        "name": "Lighter Than Air",
+        "kind": "trophy",
+        "chapterId": "expansions",
+        "where": "Use Air Rings 20 times or more without touching the ground"
+      },
+      {
+        "id": "achievement-62",
+        "name": "Balanced",
+        "kind": "trophy",
+        "chapterId": "expansions",
+        "where": "Defeat Tao Wu"
+      },
+      {
+        "id": "achievement-63",
+        "name": "The Ultimate Price",
+        "kind": "trophy",
+        "chapterId": "expansions",
+        "where": "Make the Ultimate Offering"
+      },
+      {
+        "id": "achievement-64",
+        "name": "Opportunist",
+        "kind": "trophy",
+        "chapterId": "expansions",
+        "where": "Unlock all Heroic Gifts"
+      },
+      {
+        "id": "achievement-65",
+        "name": "Full House",
+        "kind": "trophy",
+        "chapterId": "upgrades-and-gear",
+        "where": "Fully upgrade your Gear"
+      },
+      {
+        "id": "achievement-66",
+        "name": "Masochist",
+        "kind": "trophy",
+        "chapterId": "expansions",
+        "where": "Lose 20 health chunks from using Heroic Gifts"
+      },
+      {
+        "id": "achievement-67",
+        "name": "Stomp-A-Mole",
+        "kind": "trophy",
+        "chapterId": "expansions",
+        "where": "Eject 10 Abas from the ground"
+      },
+      {
+        "id": "achievement-68",
+        "name": "Ash the Leech",
+        "kind": "trophy",
+        "chapterId": "expansions",
+        "where": "Gain 10 health chunks using Heroic Gifts"
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/gods-monsters",
+    "Achievement data from Steam (Steam Web API, app 2221920)",
+    "StrategyWiki: no page for this game, nothing used",
+    "Fandom (immortalsfenyxrising.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://immortalsfenyxrising.fandom.com/wiki/Immortals:_Fenyx_Rising"
+  ],
+  "route": "original",
+  "notes": "Backlog game, picked from RAWG's most-added list for its year (docs/PLAN.md section 2 ordering). No StrategyWiki page under \"Immortals Fenyx Rising\" or \"Immortals: Fenyx Rising\". Fandom has no page on immortals-fenyx-rising.fandom.com; immortalsfenyxrising.fandom.com answers under \"Immortals: Fenyx Rising\", but with only 9 linked pages; names only were looked at, nothing copied. RAWG's slug for the game is gods-monsters, and RAWG has separate entries for A New God, Myths of the Eastern Realm and The Lost Gods. The Steam app is 2221920. None of the 68 Steam achievements are hidden. The 14 achievements put in the expansions chapter come from the end of the schema (after \"Photobomb\") and name new content; which add-on each belongs to was not checked, so they share one chapter. Four others from that block (\"Wardrobe Warrior\", \"Zoomies\", \"Stuff of Legends\", \"Full House\") read like base-game goals and were sorted by theme; check them. \"Last Hero Standing\" (achieve hero status) was put in upgrades as a guess."
+}

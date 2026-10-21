@@ -1,0 +1,111 @@
+{
+  "id": "bloodborne",
+  "title": "Bloodborne",
+  "year": 2015,
+  "platforms": [
+    "PlayStation 4"
+  ],
+  "rawgId": 3387,
+  "rawgSlug": "bloodborne",
+  "released": "2015-03-24",
+  "developers": [
+    "FromSoftware"
+  ],
+  "playtime": 12,
+  "genres": [
+    "Action",
+    "RPG"
+  ],
+  "tags": [
+    "Atmospheric",
+    "Story Rich",
+    "Third Person",
+    "Exploration",
+    "Character Customization",
+    "exclusive",
+    "Dark Fantasy",
+    "true exclusive"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/214/214b29aeff13a0ae6a70fc4426e85991.jpg",
+  "steamAppId": null,
+  "achievements": {
+    "total": 0,
+    "examples": [],
+    "reason": "PlayStation 4 only: no Steam list. PlayStation trophies are not available through the APIs we use, so an original checklist is needed. The Fandom page links item names (Blood Vial, Bone Marrow Ash, Molotov Cocktail, the Bells) that could guide one."
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Bloodborne",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 24,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://bloodborne.fandom.com/wiki/Bloodborne"
+    }
+  },
+  "game": {
+    "id": "bloodborne",
+    "title": "Bloodborne",
+    "platforms": [
+      "PlayStation 4"
+    ],
+    "blurb": "Gothic action RPG set in the cursed city of Yharnam, from FromSoftware, released 2015-03-24 on PlayStation 4. RAWG average playtime: 12 hours. Genres: Action, RPG. Chapters are an estimate drawn from the page names on the game's Fandom wiki (no Steam achievement list).",
+    "accent": "#6B1E2E",
+    "chapters": [
+      {
+        "id": "yharnam",
+        "title": "The City of Yharnam",
+        "summary": "Exploring the sick city, its beasts and its hunters, such as Father Gascoigne. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "hunters-dream",
+        "title": "The Hunter's Dream",
+        "summary": "The safe haven between hunts: the Doll, the Messengers, Blood Echoes and Blood Vials.",
+        "steps": []
+      },
+      {
+        "id": "factions",
+        "title": "The Healing Church and Cainhurst",
+        "summary": "The groups of Yharnam, including the Healing Church, the Executioners and the Cainhurst Vilebloods. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "weapons-and-tools",
+        "title": "Weapons, Tools and Rally",
+        "summary": "Weapons such as the Cannon, Molotov Cocktails, Bone Marrow Ash and the Rally system.",
+        "steps": []
+      },
+      {
+        "id": "online-play",
+        "title": "Bells and Online Play",
+        "summary": "The Beckoning Bell, Small Resonant Bell and Sinister Resonant Bell for playing with or against others.",
+        "steps": []
+      },
+      {
+        "id": "the-old-hunters",
+        "title": "The Old Hunters (expansion)",
+        "summary": "The Old Hunters expansion, released 2015-11-24 according to RAWG. Spoiler-guarded.",
+        "steps": []
+      }
+    ],
+    "collectibles": []
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/bloodborne",
+    "Steam: no achievement list available for this game (see notes)",
+    "StrategyWiki: no usable walkthrough, nothing used — https://strategywiki.org/wiki/Bloodborne",
+    "Fandom (bloodborne.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://bloodborne.fandom.com/wiki/Bloodborne"
+  ],
+  "route": "original",
+  "notes": "Backlog game, picked from RAWG's most-added list for its year (docs/PLAN.md section 2 ordering). StrategyWiki has a \"perfect stub\" page (completion stage 0, about 450 characters). Only Controls (about 900 characters) and Table of Contents (about 240 characters, listing just Controls, Gameplay and Walkthrough) exist; the Walkthrough and Gameplay pages are not written, so nothing was used. bloodborne.fandom.com answers the API, with about 24 linked pages (Yharnam, Hunter's Dream, Father Gascoigne, Ludwig, The Healing Church, Cainhurst Vilebloods, The Old Hunters, the Bells and some items); names only were looked at, nothing copied, and the chapters follow those page names. The chapters are not in story order and need checking against play. RAWG lists PlayStation 4 only; no Steam app was looked up, so steam is None and there are no achievements. RAWG also has separate entries for \"Bloodborne: The Old Hunters\" (2015-11-24) and a Game of the Year Edition."
+}

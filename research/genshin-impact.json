@@ -1,0 +1,126 @@
+{
+  "id": "genshin-impact",
+  "title": "Genshin Impact",
+  "year": 2020,
+  "platforms": [
+    "PlayStation 5",
+    "Android",
+    "PlayStation 4",
+    "Nintendo Switch",
+    "PC",
+    "iOS"
+  ],
+  "rawgId": 401805,
+  "rawgSlug": "genshin-impact",
+  "released": "2020-09-28",
+  "developers": [
+    "miHoYo"
+  ],
+  "playtime": null,
+  "genres": [
+    "Action",
+    "Adventure",
+    "RPG"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Multiplayer",
+    "Great Soundtrack",
+    "RPG",
+    "Open World",
+    "Fantasy",
+    "Free to Play",
+    "Role Playing Game"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/c38/c38bdb5da139005777176d33c463d70f.jpg",
+  "steamAppId": null,
+  "achievements": {
+    "total": 0,
+    "examples": [],
+    "reason": "No match in the Steam app list, so there is no Steam achievement list. RAWG lists PC, iOS, Android, PlayStation 4 and 5, and Nintendo Switch. The Fandom wiki links an \"Achievement\" page and an \"Oculus\" page, whose names could guide an original checklist."
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": false,
+      "pages": 0,
+      "reason": "No page for Genshin Impact (MediaWiki API returned missing; search empty)"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 159,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://genshin-impact.fandom.com/wiki/Genshin_Impact"
+    }
+  },
+  "game": {
+    "id": "genshin-impact",
+    "title": "Genshin Impact",
+    "platforms": [
+      "PlayStation 5",
+      "Android",
+      "PlayStation 4",
+      "Nintendo Switch",
+      "PC",
+      "iOS"
+    ],
+    "blurb": "Free-to-play open-world fantasy action RPG set in Teyvat, from miHoYo, released 2020-09-28. RAWG has no playtime yet. Genres: Action, Adventure, RPG. Chapters are an estimate drawn from the page names on the game's Fandom wiki (no Steam achievement list).",
+    "accent": "#3E7CB1",
+    "chapters": [
+      {
+        "id": "getting-started",
+        "title": "Arriving in Teyvat",
+        "summary": "The Traveler and Paimon, Adventure Rank, Teleport Waypoints and the Statues of The Seven.",
+        "steps": []
+      },
+      {
+        "id": "archon-quests",
+        "title": "Archon Quests",
+        "summary": "The main story, region by region: Mondstadt, Liyue, Inazuma, Sumeru, Fontaine and Natlan. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "world-quests",
+        "title": "World Quests, Story Quests and Commissions",
+        "summary": "Side stories, character Story Quests, Hangout Events, daily Commissions and Reputation.",
+        "steps": []
+      },
+      {
+        "id": "exploration",
+        "title": "Exploration",
+        "summary": "Oculi, chests, puzzles, wildlife and opening up each region.",
+        "steps": []
+      },
+      {
+        "id": "domains-and-bosses",
+        "title": "Domains, Bosses and the Spiral Abyss",
+        "summary": "Domains, Ley Line Outcrops, normal and weekly bosses, and the Spiral Abyss.",
+        "steps": []
+      },
+      {
+        "id": "characters-and-gear",
+        "title": "Characters, Weapons and Artifacts",
+        "summary": "Building a party: levels, talents, constellations, weapons and artifacts.",
+        "steps": []
+      },
+      {
+        "id": "side-activities",
+        "title": "Housing, Fishing, Cooking and Cards",
+        "summary": "The Serenitea Pot, fishing, cooking, alchemy and Genius Invokation TCG.",
+        "steps": []
+      }
+    ],
+    "collectibles": []
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/genshin-impact",
+    "Steam: no achievement list available for this game (see notes)",
+    "StrategyWiki: no page for this game, nothing used",
+    "Fandom (genshin-impact.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://genshin-impact.fandom.com/wiki/Genshin_Impact"
+  ],
+  "route": "original",
+  "notes": "Backlog game, picked from RAWG's most-added list for its year (docs/PLAN.md section 2 ordering). No StrategyWiki page under this title. genshin-impact.fandom.com answers the API, with about 159 linked pages; names only were looked at, nothing copied, and the chapters follow those page names (regions, quest types, Domains, Spiral Abyss, Serenitea Pot, Genius Invokation TCG). No Steam app was found in the Steam app list, so steam is None and there are no achievements. The game is a live service, so the region list will keep growing."
+}

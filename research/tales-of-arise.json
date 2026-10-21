@@ -1,0 +1,557 @@
+{
+  "id": "tales-of-arise",
+  "title": "Tales of Arise",
+  "year": 2021,
+  "platforms": [
+    "PlayStation 4",
+    "Xbox Series X|S",
+    "Xbox One",
+    "PlayStation 5",
+    "PC"
+  ],
+  "rawgId": 326244,
+  "rawgSlug": "tales-of-arise",
+  "released": "2021-09-10",
+  "developers": [
+    "Bandai Namco Entertainment"
+  ],
+  "playtime": 13,
+  "genres": [
+    "Action",
+    "RPG"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Multiplayer",
+    "Full controller support",
+    "Steam Cloud",
+    "RPG",
+    "Story Rich",
+    "Open World",
+    "Third Person",
+    "Fantasy",
+    "Female Protagonist",
+    "Action RPG"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/5a9/5a9e785af72ae88026380f7987f23d90.jpg",
+  "steamAppId": 740130,
+  "achievements": {
+    "total": 58,
+    "hidden": 29,
+    "examples": [
+      {
+        "name": "Rebellious Spark",
+        "percent": 83.6
+      },
+      {
+        "name": "What's in a Name?",
+        "percent": 83.6
+      },
+      {
+        "name": "Speedy Chef",
+        "percent": 80.8
+      },
+      {
+        "name": "Arms Stockpiler",
+        "percent": 8.4
+      },
+      {
+        "name": "Individual Growth",
+        "percent": 2.1
+      },
+      {
+        "name": "Unparalleled Problem Solver",
+        "percent": 2.0
+      },
+      {
+        "name": "Arms Master",
+        "percent": 1.8
+      },
+      {
+        "name": "Elite Vanguard, Again",
+        "percent": 1.6
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Tales_of_Arise",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 276,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://aselia.fandom.com/wiki/Tales_of_Arise"
+    }
+  },
+  "game": {
+    "id": "tales-of-arise",
+    "title": "Tales of Arise",
+    "platforms": [
+      "PlayStation 4",
+      "Xbox Series X|S",
+      "Xbox One",
+      "PlayStation 5",
+      "PC"
+    ],
+    "blurb": "Action RPG from Bandai Namco Entertainment, released 2021-09-10. RAWG average playtime: 13 hours (well under a full run). Genres: Action, RPG. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#2F6FB5",
+    "chapters": [
+      {
+        "id": "main-story",
+        "title": "The Main Story",
+        "summary": "Alphen and Shionne's journey to free Dahna and the realms beyond.",
+        "steps": []
+      },
+      {
+        "id": "side-quests-and-hobbies",
+        "title": "Sub-quests and Hobbies",
+        "summary": "Sub-quests, fishing, cooking, the ranch, owls, artifacts and skits.",
+        "steps": []
+      },
+      {
+        "id": "crafting-and-titles",
+        "title": "Crafting and Titles",
+        "summary": "Forging weapons, crafting accessories, titles and spending gald.",
+        "steps": []
+      },
+      {
+        "id": "combat",
+        "title": "Combat and Training",
+        "summary": "Combos, big hits, Counter Edges, levels, gigants and the training grounds.",
+        "steps": []
+      },
+      {
+        "id": "beyond-the-dawn",
+        "title": "Beyond the Dawn",
+        "summary": "The additional story expansion set after the main game.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Emissary of Liberation",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-2",
+        "name": "Vanquishers of Darkness",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-3",
+        "name": "Comrades in Freedom",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-4",
+        "name": "Retired Avenger",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-5",
+        "name": "Liberator of Dahna",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-6",
+        "name": "Invasion Averted",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-7",
+        "name": "The Truth",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-8",
+        "name": "Destined Liberator",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-9",
+        "name": "Wall Smasher",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-10",
+        "name": "Intertwining Hearts",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-11",
+        "name": "An Honest Mage",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-12",
+        "name": "Role Model",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-13",
+        "name": "A Modest Dream",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-14",
+        "name": "Drink 'til You Drop",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-15",
+        "name": "Owl Homecoming",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-16",
+        "name": "Rebellious Spark",
+        "kind": "trophy",
+        "chapterId": "side-quests-and-hobbies",
+        "where": "Clear your first sub-quest in the Tales of Arise™ main game story."
+      },
+      {
+        "id": "achievement-17",
+        "name": "Problem Solver",
+        "kind": "trophy",
+        "chapterId": "side-quests-and-hobbies",
+        "where": "Clear 70 sub-quests in the Tales of Arise™ main game story."
+      },
+      {
+        "id": "achievement-18",
+        "name": "Skilled Angler",
+        "kind": "trophy",
+        "chapterId": "side-quests-and-hobbies",
+        "where": "Catch your first fish in the Tales of Arise™ main game story."
+      },
+      {
+        "id": "achievement-19",
+        "name": "Godly Angler",
+        "kind": "trophy",
+        "chapterId": "side-quests-and-hobbies",
+        "where": "Catch every fish type and show the Notes to the Expert in the Tales of Arise™ main game story."
+      },
+      {
+        "id": "achievement-20",
+        "name": "Speedy Chef",
+        "kind": "trophy",
+        "chapterId": "side-quests-and-hobbies",
+        "where": "Cook your first meal in the Tales of Arise™ main game story."
+      },
+      {
+        "id": "achievement-21",
+        "name": "Globetrotting Foodie",
+        "kind": "trophy",
+        "chapterId": "side-quests-and-hobbies",
+        "where": "Acquire 30 kinds of non-DLC recipes in the Tales of Arise™ main game story."
+      },
+      {
+        "id": "achievement-22",
+        "name": "Arms Stockpiler",
+        "kind": "trophy",
+        "chapterId": "crafting-and-titles",
+        "where": "Forge 100 types of weapons in the Tales of Arise™ main game story."
+      },
+      {
+        "id": "achievement-23",
+        "name": "Jeweler",
+        "kind": "trophy",
+        "chapterId": "crafting-and-titles",
+        "where": "Craft 30 accessories in the Tales of Arise™ main game story."
+      },
+      {
+        "id": "achievement-24",
+        "name": "What's in a Name?",
+        "kind": "trophy",
+        "chapterId": "crafting-and-titles",
+        "where": "Learn your first non-DLC title skill in the Tales of Arise™ main game story."
+      },
+      {
+        "id": "achievement-25",
+        "name": "Myriad Monikers",
+        "kind": "trophy",
+        "chapterId": "crafting-and-titles",
+        "where": "Learn 400 non-DLC title skills in the Tales of Arise™ main game story."
+      },
+      {
+        "id": "achievement-26",
+        "name": "Hundred-Hit Smackdown",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Get over 100 hits in a combo in the Tales of Arise™ main game story."
+      },
+      {
+        "id": "achievement-27",
+        "name": "One-Hit Wonder",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Deal 10000 or more damage in one hit in the Tales of Arise™ main game story."
+      },
+      {
+        "id": "achievement-28",
+        "name": "Diligent Counterattacker",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Perform 100 Counter Edges in the Tales of Arise™ main game story."
+      },
+      {
+        "id": "achievement-29",
+        "name": "High Roller",
+        "kind": "trophy",
+        "chapterId": "crafting-and-titles",
+        "where": "Spend 400000 gald in the Tales of Arise™ main game story."
+      },
+      {
+        "id": "achievement-30",
+        "name": "Peak Strength",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Reach level 100 in the Tales of Arise™ main game story."
+      },
+      {
+        "id": "achievement-31",
+        "name": "Encyclopedia Zeuglica",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Encounter 120 types of non-DLC enemies in the Tales of Arise™ main game story."
+      },
+      {
+        "id": "achievement-32",
+        "name": "Unrelenting Blaze",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-33",
+        "name": "Night Blossom",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-34",
+        "name": "Quaking Continent",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-35",
+        "name": "Billowing Cyclone",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-36",
+        "name": "Raging Current",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-37",
+        "name": "Big Game Hunter",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Slay 20 gigants in the Tales of Arise™ main game story."
+      },
+      {
+        "id": "achievement-38",
+        "name": "Otherworldly Survivor",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-39",
+        "name": "Putting the Past in its Place",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-40",
+        "name": "Elite Vanguard",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Clear Ultimate level of group training ground fights in the Tales of Arise™ main game story."
+      },
+      {
+        "id": "achievement-41",
+        "name": "Dilettante",
+        "kind": "trophy",
+        "chapterId": "side-quests-and-hobbies",
+        "where": "Obtain your first non-DLC artifact in the Tales of Arise™ main game story."
+      },
+      {
+        "id": "achievement-42",
+        "name": "Curious Hobbyist",
+        "kind": "trophy",
+        "chapterId": "side-quests-and-hobbies",
+        "where": "Obtain 20 types of non-DLC artifacts in the Tales of Arise™ main game story."
+      },
+      {
+        "id": "achievement-43",
+        "name": "Novice Rancher",
+        "kind": "trophy",
+        "chapterId": "side-quests-and-hobbies",
+        "where": "Collect your first harvest on the ranch in the Tales of Arise™ main game story."
+      },
+      {
+        "id": "achievement-44",
+        "name": "Veteran Rancher",
+        "kind": "trophy",
+        "chapterId": "side-quests-and-hobbies",
+        "where": "Collect 50 harvests on the ranch in the Tales of Arise™ main game story."
+      },
+      {
+        "id": "achievement-45",
+        "name": "Owl Spotter",
+        "kind": "trophy",
+        "chapterId": "side-quests-and-hobbies",
+        "where": "Find and report 13 owls. The lonely forest is beginning to show signs of feathered life."
+      },
+      {
+        "id": "achievement-46",
+        "name": "Owl Scouter",
+        "kind": "trophy",
+        "chapterId": "side-quests-and-hobbies",
+        "where": "Find and report 32 owls. The forest is now starting to teem with hordes of hooting owls galore."
+      },
+      {
+        "id": "achievement-47",
+        "name": "Ceaseless Chatterbox",
+        "kind": "trophy",
+        "chapterId": "side-quests-and-hobbies",
+        "where": "View 300 skits in the Tales of Arise™ main game story."
+      },
+      {
+        "id": "achievement-48",
+        "name": "The First Seal",
+        "kind": "trophy",
+        "chapterId": "beyond-the-dawn",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-49",
+        "name": "Resolution",
+        "kind": "trophy",
+        "chapterId": "beyond-the-dawn",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-50",
+        "name": "True Freedom",
+        "kind": "trophy",
+        "chapterId": "beyond-the-dawn",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-51",
+        "name": "The Second Seal",
+        "kind": "trophy",
+        "chapterId": "beyond-the-dawn",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-52",
+        "name": "Departure",
+        "kind": "trophy",
+        "chapterId": "beyond-the-dawn",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-53",
+        "name": "Arms Master",
+        "kind": "trophy",
+        "chapterId": "beyond-the-dawn",
+        "where": "Craft 6 weapon types using ryugola core fragments in the Tales of Arise™ additional story."
+      },
+      {
+        "id": "achievement-54",
+        "name": "Unparalleled Problem Solver",
+        "kind": "trophy",
+        "chapterId": "beyond-the-dawn",
+        "where": "Clear 40 sub-quests in the Tales of Arise™ additional story."
+      },
+      {
+        "id": "achievement-55",
+        "name": "Individual Growth",
+        "kind": "trophy",
+        "chapterId": "beyond-the-dawn",
+        "where": "Clear 12 character sub-quests in the Tales of Arise™ additional story."
+      },
+      {
+        "id": "achievement-56",
+        "name": "Always on Her Mind",
+        "kind": "trophy",
+        "chapterId": "beyond-the-dawn",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-57",
+        "name": "Hero of the Summit",
+        "kind": "trophy",
+        "chapterId": "beyond-the-dawn",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-58",
+        "name": "Elite Vanguard, Again",
+        "kind": "trophy",
+        "chapterId": "beyond-the-dawn",
+        "where": "Clear Ultimate level of group training ground fights in the Tales of Arise™ additional story."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/tales-of-arise",
+    "Achievement data from Steam (Steam Web API, app 740130)",
+    "StrategyWiki: no usable walkthrough, nothing used — https://strategywiki.org/wiki/Tales_of_Arise",
+    "Fandom (aselia.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://aselia.fandom.com/wiki/Tales_of_Arise"
+  ],
+  "route": "original",
+  "notes": "StrategyWiki has a stub page (completion stage 0); its Walkthrough is linked but not written, and only Controls and Table of Contents subpages exist. aselia.fandom.com (the Tales series wiki) answers the API, with about 292 linked pages; names only were looked at, nothing copied. The Steam schema calls the app \"Onix\" (an internal codename); the store list confirms app 740130. 29 of 58 Steam achievements are hidden. 7 hidden ones are sorted by name into Beyond the Dawn because their unlock rates (2 to 4 percent) match the visible additional-story achievements; this is a guess and needs checking. The rest sit in the main story chapter."
+}

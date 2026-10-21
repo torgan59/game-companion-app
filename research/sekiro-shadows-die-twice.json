@@ -1,0 +1,379 @@
+{
+  "id": "sekiro-shadows-die-twice",
+  "title": "Sekiro: Shadows Die Twice",
+  "year": 2019,
+  "platforms": [
+    "Xbox One",
+    "PC",
+    "PlayStation 4"
+  ],
+  "rawgId": 50734,
+  "rawgSlug": "shadows-die-twice",
+  "released": "2019-03-22",
+  "developers": [
+    "FromSoftware"
+  ],
+  "playtime": 16,
+  "genres": [
+    "Action",
+    "RPG"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Atmospheric",
+    "Great Soundtrack",
+    "RPG",
+    "Story Rich",
+    "Open World",
+    "Third Person",
+    "Partial Controller Support",
+    "Exploration",
+    "Difficult",
+    "Violent",
+    "Stealth"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/67f/67f62d1f062a6164f57575e0604ee9f6.jpg",
+  "steamAppId": 814380,
+  "achievements": {
+    "total": 34,
+    "hidden": 23,
+    "examples": [
+      {
+        "name": "Revered Blade",
+        "percent": 94.0
+      },
+      {
+        "name": "Shinobi Prosthetic",
+        "percent": 89.6
+      },
+      {
+        "name": "Resurrection",
+        "percent": 85.4
+      },
+      {
+        "name": "All Prosthetic Tools",
+        "percent": 31.1
+      },
+      {
+        "name": "Ultimate Healing Gourd",
+        "percent": 27.0
+      },
+      {
+        "name": "Peak Physical Strength",
+        "percent": 21.3
+      },
+      {
+        "name": "Master of the Prosthetic",
+        "percent": 13.4
+      },
+      {
+        "name": "Sekiro",
+        "percent": 10.0
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Sekiro:_Shadows_Die_Twice",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 7,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://sekiro.fandom.com/wiki/Sekiro:_Shadows_Die_Twice"
+    }
+  },
+  "game": {
+    "id": "sekiro-shadows-die-twice",
+    "title": "Sekiro: Shadows Die Twice",
+    "platforms": [
+      "Xbox One",
+      "PC",
+      "PlayStation 4"
+    ],
+    "blurb": "Action RPG from FromSoftware, released 2019-03-22. RAWG average playtime: 16 hours. Genres: Action, RPG. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#7A1F1F",
+    "chapters": [
+      {
+        "id": "getting-started",
+        "title": "Getting Started",
+        "summary": "Receiving the Kusabimaru, the Shinobi Prosthetic, first Resurrection and the Memorial Mob.",
+        "steps": []
+      },
+      {
+        "id": "main-story",
+        "title": "The Main Story",
+        "summary": "The hidden achievements named after foes met along the way. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "tools-and-growth",
+        "title": "Tools, Techniques and Growth",
+        "summary": "Prosthetic Tools and their upgrades, Ninjutsu Techniques, Vitality, Posture and the Healing Gourd.",
+        "steps": []
+      },
+      {
+        "id": "late-game",
+        "title": "Late Game and Mastery",
+        "summary": "Hidden achievements grouped with the completion goals at the top of the Steam list, plus travelling to every area. Spoiler-guarded.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Sekiro",
+        "kind": "trophy",
+        "chapterId": "late-game",
+        "where": "All achievements have been unlocked."
+      },
+      {
+        "id": "achievement-2",
+        "name": "Man Without Equal",
+        "kind": "trophy",
+        "chapterId": "late-game",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-3",
+        "name": "Ashina Traveler",
+        "kind": "trophy",
+        "chapterId": "late-game",
+        "where": "Traveled to all areas of the game"
+      },
+      {
+        "id": "achievement-4",
+        "name": "Master of the Prosthetic",
+        "kind": "trophy",
+        "chapterId": "tools-and-growth",
+        "where": "Upgraded all Prosthetic Tools to their limit"
+      },
+      {
+        "id": "achievement-5",
+        "name": "Height of Technique",
+        "kind": "trophy",
+        "chapterId": "late-game",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-6",
+        "name": "All Prosthetic Tools",
+        "kind": "trophy",
+        "chapterId": "tools-and-growth",
+        "where": "Acquired all Prosthetic Tools"
+      },
+      {
+        "id": "achievement-7",
+        "name": "All Ninjutsu Techniques",
+        "kind": "trophy",
+        "chapterId": "tools-and-growth",
+        "where": "Acquired all Ninjutsu Techniques"
+      },
+      {
+        "id": "achievement-8",
+        "name": "Peak Physical Strength",
+        "kind": "trophy",
+        "chapterId": "tools-and-growth",
+        "where": "Upgraded Vitality and Posture to their limit"
+      },
+      {
+        "id": "achievement-9",
+        "name": "Ultimate Healing Gourd",
+        "kind": "trophy",
+        "chapterId": "tools-and-growth",
+        "where": "Fully upgraded the \"Healing Gourd\""
+      },
+      {
+        "id": "achievement-10",
+        "name": "Immortal Severance",
+        "kind": "trophy",
+        "chapterId": "late-game",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-11",
+        "name": "Purification",
+        "kind": "trophy",
+        "chapterId": "late-game",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-12",
+        "name": "Dragon's Homecoming",
+        "kind": "trophy",
+        "chapterId": "late-game",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-13",
+        "name": "Shura",
+        "kind": "trophy",
+        "chapterId": "late-game",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-14",
+        "name": "Sword Saint, Isshin Ashina",
+        "kind": "trophy",
+        "chapterId": "late-game",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-15",
+        "name": "Master of the Arts",
+        "kind": "trophy",
+        "chapterId": "late-game",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-16",
+        "name": "Lazuline Upgrade",
+        "kind": "trophy",
+        "chapterId": "late-game",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-17",
+        "name": "Revered Blade",
+        "kind": "trophy",
+        "chapterId": "getting-started",
+        "where": "Received the \"Kusabimaru\" from Kuro"
+      },
+      {
+        "id": "achievement-18",
+        "name": "Shinobi Prosthetic",
+        "kind": "trophy",
+        "chapterId": "getting-started",
+        "where": "Acquired the Shinobi Prosthetic"
+      },
+      {
+        "id": "achievement-19",
+        "name": "Memorial Mob",
+        "kind": "trophy",
+        "chapterId": "getting-started",
+        "where": "Encountered the Memorial Mob"
+      },
+      {
+        "id": "achievement-20",
+        "name": "Resurrection",
+        "kind": "trophy",
+        "chapterId": "getting-started",
+        "where": "Returned from the dead using \"Resurrection\" for the first time"
+      },
+      {
+        "id": "achievement-21",
+        "name": "Gyoubu Masataka Oniwa",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-22",
+        "name": "The Phantom Lady Butterfly",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-23",
+        "name": "Genichiro Ashina",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-24",
+        "name": "Guardian Ape",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-25",
+        "name": "Guardian Ape Immortality Severed",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-26",
+        "name": "Folding Screen Monkeys",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-27",
+        "name": "Great Shinobi - Owl",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-28",
+        "name": "Father Surpassed",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-29",
+        "name": "Corrupted Monk",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-30",
+        "name": "Gracious Gift of Tears",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-31",
+        "name": "Isshin Ashina",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-32",
+        "name": "Demon of Hatred",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-33",
+        "name": "Great Serpent",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-34",
+        "name": "Great Colored Carp",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/shadows-die-twice",
+    "Achievement data from Steam (Steam Web API, app 814380)",
+    "StrategyWiki: no usable walkthrough, nothing used — https://strategywiki.org/wiki/Sekiro:_Shadows_Die_Twice",
+    "Fandom (sekiro.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://sekiro.fandom.com/wiki/Sekiro:_Shadows_Die_Twice"
+  ],
+  "route": "original",
+  "notes": "Backlog game, picked from RAWG's most-added list for its year (docs/PLAN.md section 2 ordering). The Steam app is listed in the store list as \"Sekiro: Shadows Die Twice - GOTY Edition\" (814380); its schema gives no game name. StrategyWiki has a page (no completion stage in its page data) with no subpages at all; Walkthrough and Table of Contents are linked but not written. sekiro.fandom.com answers the API, but its page has only 7 links; names only were looked at, nothing copied. 23 of 34 Steam achievements are hidden. They were split by schema position: the 9 listed among the completion goals at the top of the schema went to \"Late Game and Mastery\", and the 14 listed after the early-game ones (all named after characters or creatures) went to the main story. That split is an inference from list order and unlock rates, not from descriptions."
+}

@@ -1,0 +1,710 @@
+{
+  "id": "horizon-zero-dawn",
+  "title": "Horizon Zero Dawn",
+  "year": 2017,
+  "platforms": [
+    "PC",
+    "PlayStation 4"
+  ],
+  "rawgId": 278,
+  "rawgSlug": "horizon-zero-dawn",
+  "released": "2017-02-28",
+  "developers": [
+    "Guerrilla Games"
+  ],
+  "playtime": 11,
+  "genres": [
+    "Action",
+    "RPG"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Atmospheric",
+    "Great Soundtrack",
+    "RPG",
+    "Story Rich",
+    "Open World",
+    "Third Person",
+    "Sci-fi",
+    "Exploration",
+    "Female Protagonist",
+    "Stealth",
+    "Action RPG"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/b7d/b7d3f1715fa8381a4e780173a197a615.jpg",
+  "steamAppId": 2561580,
+  "achievements": {
+    "total": 79,
+    "hidden": 49,
+    "examples": [
+      {
+        "name": "First Modification",
+        "percent": 64.0
+      },
+      {
+        "name": "Tore off 10 components",
+        "percent": 56.8
+      },
+      {
+        "name": "Reached level 10",
+        "percent": 56.3
+      },
+      {
+        "name": "5 Dismount Strikes",
+        "percent": 4.7
+      },
+      {
+        "name": "Downed 23 Grazer dummies",
+        "percent": 4.4
+      },
+      {
+        "name": "All Achievements Obtained",
+        "percent": 3.9
+      },
+      {
+        "name": "New Game+ Completed",
+        "percent": 3.7
+      },
+      {
+        "name": "Ultra Hard Completed",
+        "percent": 3.1
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Horizon_Zero_Dawn",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 58,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://horizon.fandom.com/wiki/Horizon_Zero_Dawn"
+    }
+  },
+  "game": {
+    "id": "horizon-zero-dawn",
+    "title": "Horizon Zero Dawn",
+    "platforms": [
+      "PC",
+      "PlayStation 4"
+    ],
+    "blurb": "Open-world action RPG from Guerrilla Games in which Aloy hunts machine creatures with bows and spears, released 2017-02-28. RAWG average playtime: 11 hours. Genres: Action, RPG. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#C4542B",
+    "chapters": [
+      {
+        "id": "the-proving",
+        "title": "Growing Up and the Proving",
+        "summary": "Rost's teachings, the Sawtooth and the Proving. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "main-story",
+        "title": "The Main Story",
+        "summary": "The main quests after the Proving, to the end of the war machine threat. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "open-world",
+        "title": "Tallnecks, Camps and Hunting Grounds",
+        "summary": "Overriding Tallnecks and Cores, clearing Bandit Camps and Corrupted Zones, and the Hunting Ground trials.",
+        "steps": []
+      },
+      {
+        "id": "collectibles",
+        "title": "Collectibles",
+        "summary": "Vantages, Metal Flowers, Banuk Figures, Ancient Vessels, the Grazer dummies, the machine catalogue and the Shield-Weaver outfit.",
+        "steps": []
+      },
+      {
+        "id": "machines-and-skills",
+        "title": "Machines, Combat and Skills",
+        "summary": "Stealth kills, tearing off parts, overrides, machine types, levels, skills and modifications.",
+        "steps": []
+      },
+      {
+        "id": "frozen-wilds",
+        "title": "The Frozen Wilds (expansion)",
+        "summary": "The Cut: its quests and errands, Control Towers, new machines, Pigments, Animal Figurines, Bluegleam trades and new skills.",
+        "steps": []
+      },
+      {
+        "id": "new-game-plus",
+        "title": "New Game+ and Ultra Hard",
+        "summary": "Finishing a New Game+ run, including on Ultra Hard.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "All Achievements Obtained",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Obtained all Horizon Zero Dawn™ Remastered achievements."
+      },
+      {
+        "id": "achievement-2",
+        "name": "Stealth killed 10 machines",
+        "kind": "trophy",
+        "chapterId": "machines-and-skills",
+        "where": "Performed a stealth kill on 10 machines."
+      },
+      {
+        "id": "achievement-3",
+        "name": "3 Strikes From Above",
+        "kind": "trophy",
+        "chapterId": "machines-and-skills",
+        "where": "Killed 3 enemies using the Strike from Above skill."
+      },
+      {
+        "id": "achievement-4",
+        "name": "Tore off 10 components",
+        "kind": "trophy",
+        "chapterId": "machines-and-skills",
+        "where": "Detached 10 components from machines during combat."
+      },
+      {
+        "id": "achievement-5",
+        "name": "10 Vulnerable machine kills",
+        "kind": "trophy",
+        "chapterId": "machines-and-skills",
+        "where": "Killed 10 machines weak to Fire while burning, or weak to Freeze while frozen."
+      },
+      {
+        "id": "achievement-6",
+        "name": "Tore off 5 heavy weapons",
+        "kind": "trophy",
+        "chapterId": "machines-and-skills",
+        "where": "Detached 5 heavy weapons from machines during combat."
+      },
+      {
+        "id": "achievement-7",
+        "name": "7 types of machine overridden",
+        "kind": "trophy",
+        "chapterId": "machines-and-skills",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-8",
+        "name": "Headshot 30 human enemies",
+        "kind": "trophy",
+        "chapterId": "machines-and-skills",
+        "where": "Killed 30 human enemies by landing headshots on them."
+      },
+      {
+        "id": "achievement-9",
+        "name": "Downed 23 Grazer dummies",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Found and knocked over all of the Grazer training dummies in the Nora region."
+      },
+      {
+        "id": "achievement-10",
+        "name": "First Modification",
+        "kind": "trophy",
+        "chapterId": "machines-and-skills",
+        "where": "Used a Weapon Coil or Outfit Weave on a modifiable weapon or outfit."
+      },
+      {
+        "id": "achievement-11",
+        "name": "All Acquisition machines killed",
+        "kind": "trophy",
+        "chapterId": "machines-and-skills",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-12",
+        "name": "All Recon machines killed",
+        "kind": "trophy",
+        "chapterId": "machines-and-skills",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-13",
+        "name": "All Combat machines killed",
+        "kind": "trophy",
+        "chapterId": "machines-and-skills",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-14",
+        "name": "All Transport machines killed",
+        "kind": "trophy",
+        "chapterId": "machines-and-skills",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-15",
+        "name": "Reached level 10",
+        "kind": "trophy",
+        "chapterId": "machines-and-skills",
+        "where": "Reached player level 10."
+      },
+      {
+        "id": "achievement-16",
+        "name": "Reached level 25",
+        "kind": "trophy",
+        "chapterId": "machines-and-skills",
+        "where": "Reached player level 25."
+      },
+      {
+        "id": "achievement-17",
+        "name": "Reached level 40",
+        "kind": "trophy",
+        "chapterId": "machines-and-skills",
+        "where": "Reached player level 40."
+      },
+      {
+        "id": "achievement-18",
+        "name": "Reached level 50",
+        "kind": "trophy",
+        "chapterId": "machines-and-skills",
+        "where": "Reached player level 50."
+      },
+      {
+        "id": "achievement-19",
+        "name": "All Skills learned",
+        "kind": "trophy",
+        "chapterId": "machines-and-skills",
+        "where": "Learned all available skills."
+      },
+      {
+        "id": "achievement-20",
+        "name": "First Tallneck Overridden",
+        "kind": "trophy",
+        "chapterId": "open-world",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-21",
+        "name": "First Bandit Camp cleared",
+        "kind": "trophy",
+        "chapterId": "open-world",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-22",
+        "name": "First Core Overridden",
+        "kind": "trophy",
+        "chapterId": "open-world",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-23",
+        "name": "All Suns at one Ground",
+        "kind": "trophy",
+        "chapterId": "open-world",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-24",
+        "name": "Blazing Suns at one Ground",
+        "kind": "trophy",
+        "chapterId": "open-world",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-25",
+        "name": "First Corrupted Zone cleared",
+        "kind": "trophy",
+        "chapterId": "open-world",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-26",
+        "name": "All Tallnecks Overridden",
+        "kind": "trophy",
+        "chapterId": "open-world",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-27",
+        "name": "Cleared all the Bandit Camps",
+        "kind": "trophy",
+        "chapterId": "open-world",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-28",
+        "name": "All Cores Overridden",
+        "kind": "trophy",
+        "chapterId": "open-world",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-29",
+        "name": "All Suns at all Grounds",
+        "kind": "trophy",
+        "chapterId": "open-world",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-30",
+        "name": "Blazing Suns at all Grounds",
+        "kind": "trophy",
+        "chapterId": "open-world",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-31",
+        "name": "All Corrupted Zones cleared",
+        "kind": "trophy",
+        "chapterId": "open-world",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-32",
+        "name": "All machines catalogued",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-33",
+        "name": "First Vantage found",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-34",
+        "name": "First Metal Flower found",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-35",
+        "name": "First Banuk Figure found",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-36",
+        "name": "First Ancient Vessel found",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-37",
+        "name": "All Vantages found",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-38",
+        "name": "All Metal Flowers found",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-39",
+        "name": "All Banuk Figures found",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-40",
+        "name": "All Ancient Vessels found",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-41",
+        "name": "Got the Shield-Weaver outfit",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-42",
+        "name": "Followed Rost's teachings",
+        "kind": "trophy",
+        "chapterId": "the-proving",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-43",
+        "name": "Defeated the Sawtooth",
+        "kind": "trophy",
+        "chapterId": "the-proving",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-44",
+        "name": "Triumphed in the Proving",
+        "kind": "trophy",
+        "chapterId": "the-proving",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-45",
+        "name": "Fought back the corruption",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-46",
+        "name": "Learned of the ancient past",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-47",
+        "name": "Crashed the Eclipse network",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-48",
+        "name": "Discovered the truth",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-49",
+        "name": "Broke the siege of All-Mother",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-50",
+        "name": "Recovered a powerful weapon",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-51",
+        "name": "All allies joined",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-52",
+        "name": "Ended the war machine threat",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-53",
+        "name": "Victorious with the War-Chief",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-54",
+        "name": "Saved Meridian from its foe",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-55",
+        "name": "Aided the defectors",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-56",
+        "name": "Hunted Redmaw with Talanah",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-57",
+        "name": "New Game+ Completed",
+        "kind": "trophy",
+        "chapterId": "new-game-plus",
+        "where": "Completed a New Game+ playthrough on any difficulty."
+      },
+      {
+        "id": "achievement-58",
+        "name": "Ultra Hard Completed",
+        "kind": "trophy",
+        "chapterId": "new-game-plus",
+        "where": "Completed a New Game+ playthrough on Ultra Hard difficulty."
+      },
+      {
+        "id": "achievement-59",
+        "name": "Took the Shaman's Path",
+        "kind": "trophy",
+        "chapterId": "frozen-wilds",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-60",
+        "name": "Won the Werak Challenge",
+        "kind": "trophy",
+        "chapterId": "frozen-wilds",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-61",
+        "name": "Completed the Second Expedition",
+        "kind": "trophy",
+        "chapterId": "frozen-wilds",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-62",
+        "name": "Conquered the Mountain",
+        "kind": "trophy",
+        "chapterId": "frozen-wilds",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-63",
+        "name": "Drained the Flood",
+        "kind": "trophy",
+        "chapterId": "frozen-wilds",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-64",
+        "name": "Won Ikrie's Challenge",
+        "kind": "trophy",
+        "chapterId": "frozen-wilds",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-65",
+        "name": "Fully Improved Weapons",
+        "kind": "trophy",
+        "chapterId": "frozen-wilds",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-66",
+        "name": "All Quests completed",
+        "kind": "trophy",
+        "chapterId": "frozen-wilds",
+        "where": "Completed all side quests and errands in the Frozen Wilds."
+      },
+      {
+        "id": "achievement-67",
+        "name": "All Activities completed",
+        "kind": "trophy",
+        "chapterId": "frozen-wilds",
+        "where": "Completed the Tallneck, Bandit Camp and Hunting Ground in the Cut."
+      },
+      {
+        "id": "achievement-68",
+        "name": "First Spear Modification",
+        "kind": "trophy",
+        "chapterId": "frozen-wilds",
+        "where": "Applied a modification to your spear."
+      },
+      {
+        "id": "achievement-69",
+        "name": "5 Dismount Strikes",
+        "kind": "trophy",
+        "chapterId": "frozen-wilds",
+        "where": "Killed 5 enemies using the Dismount Strike skill."
+      },
+      {
+        "id": "achievement-70",
+        "name": "5 Machine Types Repaired",
+        "kind": "trophy",
+        "chapterId": "frozen-wilds",
+        "where": "Used the Machine Repair or Mount Repair skill on 5 different types of machine."
+      },
+      {
+        "id": "achievement-71",
+        "name": "Killed 15 Scorchers",
+        "kind": "trophy",
+        "chapterId": "frozen-wilds",
+        "where": "Killed 15 Scorcher machines."
+      },
+      {
+        "id": "achievement-72",
+        "name": "Killed 10 Frostclaws",
+        "kind": "trophy",
+        "chapterId": "frozen-wilds",
+        "where": "Killed 10 Frostclaw machines."
+      },
+      {
+        "id": "achievement-73",
+        "name": "Killed 6 Fireclaws",
+        "kind": "trophy",
+        "chapterId": "frozen-wilds",
+        "where": "Killed 6 Fireclaw machines."
+      },
+      {
+        "id": "achievement-74",
+        "name": "All Control Towers disabled",
+        "kind": "trophy",
+        "chapterId": "frozen-wilds",
+        "where": "Disabled all Control Towers by overriding or destroying them."
+      },
+      {
+        "id": "achievement-75",
+        "name": "All Pigments found",
+        "kind": "trophy",
+        "chapterId": "frozen-wilds",
+        "where": "Found all of the Pigments in the Cut."
+      },
+      {
+        "id": "achievement-76",
+        "name": "All Animal Figurines found",
+        "kind": "trophy",
+        "chapterId": "frozen-wilds",
+        "where": "Found all of the Animal Figurines in the Cut."
+      },
+      {
+        "id": "achievement-77",
+        "name": "First Bluegleam Trade",
+        "kind": "trophy",
+        "chapterId": "frozen-wilds",
+        "where": "Traded Bluegleam for a special weapon or outfit."
+      },
+      {
+        "id": "achievement-78",
+        "name": "All Frozen Wilds Skills",
+        "kind": "trophy",
+        "chapterId": "frozen-wilds",
+        "where": "Learned all of the new skills in the Frozen Wilds."
+      },
+      {
+        "id": "achievement-79",
+        "name": "Reached Level 60",
+        "kind": "trophy",
+        "chapterId": "frozen-wilds",
+        "where": "Reached player level 60."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/horizon-zero-dawn",
+    "Achievement data from Steam (Steam Web API, app 2561580)",
+    "StrategyWiki: no usable walkthrough, nothing used — https://strategywiki.org/wiki/Horizon_Zero_Dawn",
+    "Fandom (horizon.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://horizon.fandom.com/wiki/Horizon_Zero_Dawn"
+  ],
+  "route": "original",
+  "notes": "Backlog game, picked from RAWG's most-added list for its year (docs/PLAN.md section 2 ordering). StrategyWiki has a stub page (completion stage 0, in Category:Stubs); only Controls and Table of Contents subpages exist. horizon.fandom.com answers the API, with about 58 linked pages; names only were looked at, nothing copied. Steam has both the Complete Edition (1151640) and the Remastered version (2561580). The Steam store API shows the Remastered version on sale on its own ($49.99), while the Complete Edition is only offered through a \"Horizon Zero Dawn Remastered Bundle\", so app 2561580 (Remastered) was used; its schema calls the app \"Glint\" (an internal codename). Both apps have the same 79 achievement names (only the capitalisation of the first differs). 49 of 79 are hidden, but their names describe them, so most were sorted by name. The 7 hidden ones listed in the Frozen Wilds block (from \"Took the Shaman's Path\" to \"Fully Improved Weapons\") were put in the Frozen Wilds chapter by schema position, as were the visible spear, Dismount Strike, Machine Repair, Scorcher/Frostclaw/Fireclaw and level 60 ones, which do not name the expansion; these need checking. \"Recovered a powerful weapon\", \"All allies joined\", \"Aided the defectors\" and \"Hunted Redmaw with Talanah\" sit in the main story but may be side quests. \"Cores\" are named as in the data."
+}

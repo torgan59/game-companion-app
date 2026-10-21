@@ -1,0 +1,626 @@
+{
+  "id": "just-cause-3",
+  "title": "Just Cause 3",
+  "year": 2015,
+  "platforms": [
+    "Xbox One",
+    "PlayStation 4",
+    "PC"
+  ],
+  "rawgId": 3017,
+  "rawgSlug": "just-cause-3",
+  "released": "2015-11-30",
+  "developers": [
+    "Square Enix",
+    "Avalanche Studios"
+  ],
+  "playtime": 7,
+  "genres": [
+    "Action",
+    "Shooter"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Multiplayer",
+    "Full controller support",
+    "Atmospheric",
+    "steam-trading-cards",
+    "Great Soundtrack",
+    "RPG",
+    "Co-op",
+    "Open World",
+    "cooperative",
+    "Third Person"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/5bb/5bb55ccb8205aadbb6a144cf6d8963f1.jpg",
+  "steamAppId": 225540,
+  "achievements": {
+    "total": 66,
+    "hidden": 8,
+    "examples": [
+      {
+        "name": "(Just) Causin' Chaos",
+        "percent": 80.6
+      },
+      {
+        "name": "Vive le Revolution",
+        "percent": 59.3
+      },
+      {
+        "name": "First Encounter",
+        "percent": 56.6
+      },
+      {
+        "name": "Can't Touch This",
+        "percent": 3.0
+      },
+      {
+        "name": "All the Gears",
+        "percent": 2.8
+      },
+      {
+        "name": "Forgive Me, Father...",
+        "percent": 2.8
+      },
+      {
+        "name": "The Flying Medician",
+        "percent": 2.5
+      },
+      {
+        "name": "Anything You Can Do...",
+        "percent": 2.3
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": false,
+      "pages": 0,
+      "reason": "No page for Just Cause 3 (MediaWiki API returned missing; search empty)"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 112,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://justcause.fandom.com/wiki/Just_Cause_3"
+    }
+  },
+  "game": {
+    "id": "just-cause-3",
+    "title": "Just Cause 3",
+    "platforms": [
+      "Xbox One",
+      "PlayStation 4",
+      "PC"
+    ],
+    "blurb": "Open-world action-adventure in which Rico Rodriguez takes on a dictator on the Mediterranean islands of Medici, from Avalanche Studios (published by Square Enix), released 2015-11-30. RAWG average playtime: 7 hours. Genres: Action, Shooter. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#E07B20",
+    "chapters": [
+      {
+        "id": "main-story",
+        "title": "The Main Story",
+        "summary": "Rico comes home to Medici and takes on the regime. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "liberation",
+        "title": "Liberating Medici and Chaos",
+        "summary": "Liberating settlements, provinces and whole islands, military bases, Chaos Objects and Chaos points.",
+        "steps": []
+      },
+      {
+        "id": "exploration",
+        "title": "Exploration and Collectibles",
+        "summary": "Ancient Tombs, Rebel Shrines, tapes, vintage parts, Daredevil Jumps, the garages and 100 percent.",
+        "steps": []
+      },
+      {
+        "id": "challenges-and-feats",
+        "title": "Challenges, Gears and Feats",
+        "summary": "Earning Gears in Challenges, Feats, and beating other players' scores and Call-Outs.",
+        "steps": []
+      },
+      {
+        "id": "gear-and-rebels",
+        "title": "Rebel Drops, Gear Mods and Encounters",
+        "summary": "Rebel Drops, Gear MODs, Encounters, Heat-clearing and creative tether and explosive tricks.",
+        "steps": []
+      },
+      {
+        "id": "sky-fortress",
+        "title": "Sky Fortress (expansion)",
+        "summary": "The Sky Fortress story arc, its drones and its Challenges.",
+        "steps": []
+      },
+      {
+        "id": "mech-land-assault",
+        "title": "Mech Land Assault (expansion)",
+        "summary": "The Mech Land Assault story arc, mechs, detention camps and its Challenges.",
+        "steps": []
+      },
+      {
+        "id": "bavarium-sea-heist",
+        "title": "Bavarium Sea Heist (expansion)",
+        "summary": "The Bavarium Sea Heist story arc, the Rocket Boat and the eDEN Spark.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "(Just) Causin' Chaos",
+        "kind": "trophy",
+        "chapterId": "liberation",
+        "where": "Get 1,000 Chaos."
+      },
+      {
+        "id": "achievement-2",
+        "name": "Chaos is My Middle Name",
+        "kind": "trophy",
+        "chapterId": "liberation",
+        "where": "Get 100,000 Chaos."
+      },
+      {
+        "id": "achievement-3",
+        "name": "Chaos Millionaire",
+        "kind": "trophy",
+        "chapterId": "liberation",
+        "where": "Get 1,000,000 Chaos."
+      },
+      {
+        "id": "achievement-4",
+        "name": "...Without Bullets!",
+        "kind": "trophy",
+        "chapterId": "liberation",
+        "where": "Destroy every Chaos Object in a Military Base without weapons, grenades, or planted explosives."
+      },
+      {
+        "id": "achievement-5",
+        "name": "This was Supposed to be a Western",
+        "kind": "trophy",
+        "chapterId": "liberation",
+        "where": "Destroy all Chaos Objects in a Base without leaving your vehicle."
+      },
+      {
+        "id": "achievement-6",
+        "name": "Bragging Rights",
+        "kind": "trophy",
+        "chapterId": "challenges-and-feats",
+        "where": "Beat another player's score in a Challenge."
+      },
+      {
+        "id": "achievement-7",
+        "name": "Getting it in Gear",
+        "kind": "trophy",
+        "chapterId": "challenges-and-feats",
+        "where": "Earn at least 3 Gears in a Challenge."
+      },
+      {
+        "id": "achievement-8",
+        "name": "You've Got Gear",
+        "kind": "trophy",
+        "chapterId": "challenges-and-feats",
+        "where": "Earn 5 Gears in a Challenge."
+      },
+      {
+        "id": "achievement-9",
+        "name": "A Real Gear-Getter",
+        "kind": "trophy",
+        "chapterId": "challenges-and-feats",
+        "where": "Earn at least 3 Gears in one Challenge of every type."
+      },
+      {
+        "id": "achievement-10",
+        "name": "All the Gears",
+        "kind": "trophy",
+        "chapterId": "challenges-and-feats",
+        "where": "Earn 5 Gears in every Challenge."
+      },
+      {
+        "id": "achievement-11",
+        "name": "Earth, Wind and Sea",
+        "kind": "trophy",
+        "chapterId": "gear-and-rebels",
+        "where": "Unlock Rebel Drops for at least one land vehicle, one air vehicle, and one sea vehicle."
+      },
+      {
+        "id": "achievement-12",
+        "name": "Caught 'Em All!",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Collect every vehicle available by bringing them to Mario's Rebel Garages."
+      },
+      {
+        "id": "achievement-13",
+        "name": "Consummate Daredevil",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Launch a land vehicle off of every Daredevil Jump in Medici."
+      },
+      {
+        "id": "achievement-14",
+        "name": "Tomb Raider",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Pay your respects at every Ancient Tomb."
+      },
+      {
+        "id": "achievement-15",
+        "name": "Remember the Fallen",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Light a candle at every Rebel Shrine."
+      },
+      {
+        "id": "achievement-16",
+        "name": "Diary of the Madman",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Gather all of Di Ravello's tapes."
+      },
+      {
+        "id": "achievement-17",
+        "name": "Old School Cool",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Find every vintage weapon and vehicle part."
+      },
+      {
+        "id": "achievement-18",
+        "name": "No Stone Unturned",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Find every collectible strewn across Medici."
+      },
+      {
+        "id": "achievement-19",
+        "name": "Top of the World",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Stand on foot at the highest point of Medici."
+      },
+      {
+        "id": "achievement-20",
+        "name": "Feat Fetish",
+        "kind": "trophy",
+        "chapterId": "challenges-and-feats",
+        "where": "Perform every Feat."
+      },
+      {
+        "id": "achievement-21",
+        "name": "My Little Rocket Man",
+        "kind": "trophy",
+        "chapterId": "gear-and-rebels",
+        "where": "Tether an enemy to a launched gas cannister. Adeo, amico!"
+      },
+      {
+        "id": "achievement-22",
+        "name": "You're Outta Here!",
+        "kind": "trophy",
+        "chapterId": "gear-and-rebels",
+        "where": "Plant a Booster Explosive on an enemy soldier. Then send them flying."
+      },
+      {
+        "id": "achievement-23",
+        "name": "Baker's Dozen",
+        "kind": "trophy",
+        "chapterId": "liberation",
+        "where": "Liberate 13 settlements."
+      },
+      {
+        "id": "achievement-24",
+        "name": "Vive le Revolution",
+        "kind": "trophy",
+        "chapterId": "liberation",
+        "where": "Liberate a Province."
+      },
+      {
+        "id": "achievement-25",
+        "name": "Hope Springs Eternal",
+        "kind": "trophy",
+        "chapterId": "liberation",
+        "where": "Completely liberate Insula Fonte."
+      },
+      {
+        "id": "achievement-26",
+        "name": "Taming the Dracon",
+        "kind": "trophy",
+        "chapterId": "liberation",
+        "where": "Completely liberate Insula Dracon."
+      },
+      {
+        "id": "achievement-27",
+        "name": "Heart of Stone",
+        "kind": "trophy",
+        "chapterId": "liberation",
+        "where": "Completely liberate Insula Striate."
+      },
+      {
+        "id": "achievement-28",
+        "name": "Unlocked and Fully Loaded",
+        "kind": "trophy",
+        "chapterId": "gear-and-rebels",
+        "where": "Unlock every weapon and vehicle available in the Rebel Drop menu."
+      },
+      {
+        "id": "achievement-29",
+        "name": "Take That, You Pipeline Jerks",
+        "kind": "trophy",
+        "chapterId": "liberation",
+        "where": "Disable the FOW in Insula Fonte."
+      },
+      {
+        "id": "achievement-30",
+        "name": "Enjoy Your Homecoming",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-31",
+        "name": "What a Disaster",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-32",
+        "name": "The Power of Bavarium",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-33",
+        "name": "These Mines are the Pits",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-34",
+        "name": "F!#& YOU, MISSILE",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-35",
+        "name": "Finally on the Offensive",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-36",
+        "name": "Mistakes and Triumphs",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-37",
+        "name": "Winner Takes All, Again",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "100% Just Cause 3."
+      },
+      {
+        "id": "achievement-38",
+        "name": "Forgive Me, Father...",
+        "kind": "trophy",
+        "chapterId": "gear-and-rebels",
+        "where": "Take sanctuary in a monastery to clear Heat Level 5."
+      },
+      {
+        "id": "achievement-39",
+        "name": "Can't Touch This",
+        "kind": "trophy",
+        "chapterId": "challenges-and-feats",
+        "where": "Call-Out another player in a Feat."
+      },
+      {
+        "id": "achievement-40",
+        "name": "MOD Initiate",
+        "kind": "trophy",
+        "chapterId": "gear-and-rebels",
+        "where": "Unlock your first Gear MOD, and then activate it."
+      },
+      {
+        "id": "achievement-41",
+        "name": "MOD Specialist",
+        "kind": "trophy",
+        "chapterId": "gear-and-rebels",
+        "where": "Unlock every Gear MOD in a single category."
+      },
+      {
+        "id": "achievement-42",
+        "name": "MOD Tinkerer",
+        "kind": "trophy",
+        "chapterId": "gear-and-rebels",
+        "where": "Have every Gear MOD active for at least 1 minute each."
+      },
+      {
+        "id": "achievement-43",
+        "name": "Son of Medici",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-44",
+        "name": "Anything You Can Do...",
+        "kind": "trophy",
+        "chapterId": "challenges-and-feats",
+        "where": "Beat a score you were Called-Out on."
+      },
+      {
+        "id": "achievement-45",
+        "name": "First Encounter",
+        "kind": "trophy",
+        "chapterId": "gear-and-rebels",
+        "where": "Complete an Encounter."
+      },
+      {
+        "id": "achievement-46",
+        "name": "Supply and Demand",
+        "kind": "trophy",
+        "chapterId": "gear-and-rebels",
+        "where": "Unlock 10 Resupply Points by completing Encounters."
+      },
+      {
+        "id": "achievement-47",
+        "name": "Three Holy Hideaways",
+        "kind": "trophy",
+        "chapterId": "gear-and-rebels",
+        "where": "Unlock 3 Heat-Clearing Priests by completing Encounters."
+      },
+      {
+        "id": "achievement-48",
+        "name": "Like a Fish... in the Air!",
+        "kind": "trophy",
+        "chapterId": "sky-fortress",
+        "where": "Use the Bavarium Wingsuit to take off from water."
+      },
+      {
+        "id": "achievement-49",
+        "name": "Look at the Sly Fox",
+        "kind": "trophy",
+        "chapterId": "sky-fortress",
+        "where": "Use the Barrel Roll to evade 10 incoming missiles."
+      },
+      {
+        "id": "achievement-50",
+        "name": "My Name is Eden",
+        "kind": "trophy",
+        "chapterId": "sky-fortress",
+        "where": "Beat the last mission of the Sky Fortress Expansion and complete the story arc."
+      },
+      {
+        "id": "achievement-51",
+        "name": "Break a Leg!",
+        "kind": "trophy",
+        "chapterId": "sky-fortress",
+        "where": "Defeat the \"Old Friend\" (Boss at the end of \"Taking Control\")."
+      },
+      {
+        "id": "achievement-52",
+        "name": "Stock-Keeping",
+        "kind": "trophy",
+        "chapterId": "sky-fortress",
+        "where": "Defeat 1 of each Drone type."
+      },
+      {
+        "id": "achievement-53",
+        "name": "Quite the Connoisseur",
+        "kind": "trophy",
+        "chapterId": "sky-fortress",
+        "where": "Earn at least 1 Gear in all Challenges of the Sky Fortress Expansion."
+      },
+      {
+        "id": "achievement-54",
+        "name": "A True Master",
+        "kind": "trophy",
+        "chapterId": "sky-fortress",
+        "where": "Earn 5 Gears in all Challenges of the Sky Fortress Expansion."
+      },
+      {
+        "id": "achievement-55",
+        "name": "In the Heart of Darkness",
+        "kind": "trophy",
+        "chapterId": "mech-land-assault",
+        "where": "Beat the last mission of the Mech Land Assault Expansion and complete the story arc."
+      },
+      {
+        "id": "achievement-56",
+        "name": "Certified eDEN Mech Operator",
+        "kind": "trophy",
+        "chapterId": "mech-land-assault",
+        "where": "Earn at least 1 Gear in all Challenges of the Mech Land Assault Expansion."
+      },
+      {
+        "id": "achievement-57",
+        "name": "eDEN Employee of the Year",
+        "kind": "trophy",
+        "chapterId": "mech-land-assault",
+        "where": "Earn 5 Gears in all Challenges of the Mech Land Assault Expansion."
+      },
+      {
+        "id": "achievement-58",
+        "name": "One Mech of a Ride",
+        "kind": "trophy",
+        "chapterId": "mech-land-assault",
+        "where": "Hijack your first Mech."
+      },
+      {
+        "id": "achievement-59",
+        "name": "Free Birds",
+        "kind": "trophy",
+        "chapterId": "mech-land-assault",
+        "where": "Liberate 3 Detention Camps."
+      },
+      {
+        "id": "achievement-60",
+        "name": "This Is Not A Fireball",
+        "kind": "trophy",
+        "chapterId": "mech-land-assault",
+        "where": "Destroy 30 enemy vehicles using the Mech's Force Pulse."
+      },
+      {
+        "id": "achievement-61",
+        "name": "One Last Score",
+        "kind": "trophy",
+        "chapterId": "bavarium-sea-heist",
+        "where": "Beat the last mission of the Bavarium Sea Heist expansion and complete the story arc."
+      },
+      {
+        "id": "achievement-62",
+        "name": "Loochador Master",
+        "kind": "trophy",
+        "chapterId": "bavarium-sea-heist",
+        "where": "Defeat 5 enemy helicopters with the Rocket Boat."
+      },
+      {
+        "id": "achievement-63",
+        "name": "The Flying Medician",
+        "kind": "trophy",
+        "chapterId": "bavarium-sea-heist",
+        "where": "Defeat 10 enemy vehicles while in the air with the Rocket Boat."
+      },
+      {
+        "id": "achievement-64",
+        "name": "I Should Buy A Boat",
+        "kind": "trophy",
+        "chapterId": "bavarium-sea-heist",
+        "where": "Get the Rocket Boat, also known as \"The Loochador\"."
+      },
+      {
+        "id": "achievement-65",
+        "name": "Lightning Bolt!",
+        "kind": "trophy",
+        "chapterId": "bavarium-sea-heist",
+        "where": "Defeat 1 enemy helicopter using the eDEN Spark."
+      },
+      {
+        "id": "achievement-66",
+        "name": "Staying Power",
+        "kind": "trophy",
+        "chapterId": "bavarium-sea-heist",
+        "where": "Defeat 10 enemies with the same eDEN Spark strike."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/just-cause-3",
+    "Achievement data from Steam (Steam Web API, app 225540)",
+    "StrategyWiki: no page for this game, nothing used",
+    "Fandom (justcause.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://justcause.fandom.com/wiki/Just_Cause_3"
+  ],
+  "route": "original",
+  "notes": "Backlog game, picked from RAWG's most-added list for its year (docs/PLAN.md section 2 ordering). No StrategyWiki page under \"Just Cause 3\" (also missing as \"Just Cause III\"). justcause.fandom.com answers the API, with about 112 linked pages, including \"Sky Fortress\", \"Mech Land Assault\", \"Bavarium Sea Heist\" and \"Downloadable content for Just Cause 3\"; names only were looked at, nothing copied. The Steam schema calls the app \"Mambo\" (an internal codename); the store list confirms app 225540. 8 of 66 Steam achievements are hidden; all sit in the main story chapter. The three expansion names appear in the achievement descriptions. \"Like a Fish... in the Air!\", \"Look at the Sly Fox\", \"Break a Leg!\" and \"Stock-Keeping\" sit inside the Sky Fortress block and \"Free Birds\" inside the Mech Land Assault block, so they were placed by schema position; the two eDEN Spark achievements sit in the Bavarium Sea Heist block. These need checking. The Steam list has some online parts (beating other players' Challenge scores and Call-Outs), kept with Challenges."
+}

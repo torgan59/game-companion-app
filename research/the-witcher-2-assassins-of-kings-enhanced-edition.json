@@ -1,0 +1,526 @@
+{
+  "id": "the-witcher-2-assassins-of-kings-enhanced-edition",
+  "title": "The Witcher 2: Assassins of Kings Enhanced Edition",
+  "year": 2012,
+  "platforms": [
+    "macOS",
+    "PC",
+    "Xbox 360"
+  ],
+  "rawgId": 16944,
+  "rawgSlug": "the-witcher-2-assassins-of-kings-enhanced-edition",
+  "released": "2012-04-16",
+  "developers": [
+    "CD PROJEKT RED"
+  ],
+  "playtime": 7,
+  "genres": [
+    "RPG"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Steam Cloud",
+    "Atmospheric",
+    "steam-trading-cards",
+    "RPG",
+    "Story Rich",
+    "Open World",
+    "Third Person",
+    "Partial Controller Support",
+    "Fantasy",
+    "Difficult"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/6cd/6cd653e0aaef5ff8bbd295bf4bcb12eb.jpg",
+  "steamAppId": 20920,
+  "achievements": {
+    "total": 52,
+    "hidden": 14,
+    "examples": [
+      {
+        "name": "Perfectionist",
+        "percent": 66.4
+      },
+      {
+        "name": "Taster",
+        "percent": 54.7
+      },
+      {
+        "name": "The Fugitive",
+        "percent": 51.7
+      },
+      {
+        "name": "Master Alchemist",
+        "percent": 6.6
+      },
+      {
+        "name": "Miser",
+        "percent": 6.4
+      },
+      {
+        "name": "Poker!",
+        "percent": 5.9
+      },
+      {
+        "name": "Trollslayer",
+        "percent": 2.9
+      },
+      {
+        "name": "Madman",
+        "percent": 2.0
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": false,
+      "pages": 0,
+      "reason": "No page for The Witcher 2: Assassins of Kings Enhanced Edition (MediaWiki API returned missing; search empty)"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 129,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://witcher.fandom.com/wiki/The_Witcher_2:_Assassins_of_Kings"
+    }
+  },
+  "game": {
+    "id": "the-witcher-2-assassins-of-kings-enhanced-edition",
+    "title": "The Witcher 2: Assassins of Kings Enhanced Edition",
+    "platforms": [
+      "macOS",
+      "PC",
+      "Xbox 360"
+    ],
+    "blurb": "Story-driven fantasy role-playing game in which the witcher Geralt of Rivia clears his name, from CD PROJEKT RED, released 2012-04-16. RAWG average playtime: 7 hours. Genre: RPG. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#5D4037",
+    "chapters": [
+      {
+        "id": "main-story",
+        "title": "The Main Story",
+        "summary": "The Prologue, Chapters 1 and 2, and the Epilogue. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "finishing-and-difficulty",
+        "title": "Finishing the Game and Insane Difficulty",
+        "summary": "Finishing on any difficulty, and on Insane.",
+        "steps": []
+      },
+      {
+        "id": "the-kayran",
+        "title": "The Kayran",
+        "summary": "The kayran trap, its armour and sneaking through Loredo's garden.",
+        "steps": []
+      },
+      {
+        "id": "character-growth",
+        "title": "Character Level and Abilities",
+        "summary": "Character levels 10 and 35, the top abilities of each path, and mutagens.",
+        "steps": []
+      },
+      {
+        "id": "alchemy-and-crafting",
+        "title": "Alchemy, Bombs and Crafting",
+        "summary": "Potions and oils, the ostmurk potion, bombs and hiring a craftsman.",
+        "steps": []
+      },
+      {
+        "id": "quests-and-places",
+        "title": "Quests, Places and Choices",
+        "summary": "The ballista, the asylum's history, the Kaedweni arena, trolls, camps, monster nests, and more.",
+        "steps": []
+      },
+      {
+        "id": "minigames",
+        "title": "Dice Poker, Arm Wrestling and Fist Fights",
+        "summary": "Winning each minigame and rolling five-of-a-kind.",
+        "steps": []
+      },
+      {
+        "id": "combat",
+        "title": "Combat",
+        "summary": "Kill counts, ripostes, deflected arrows, group finishers and flawless streaks.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "The Fugitive",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Finish the Prologue."
+      },
+      {
+        "id": "achievement-2",
+        "name": "To Aedirn!",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Complete Chapter 1."
+      },
+      {
+        "id": "achievement-3",
+        "name": "Alea Iacta Est",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Complete Chapter 2."
+      },
+      {
+        "id": "achievement-4",
+        "name": "Madman",
+        "kind": "trophy",
+        "chapterId": "finishing-and-difficulty",
+        "where": "Finish the game while playing at the Insane difficulty level."
+      },
+      {
+        "id": "achievement-5",
+        "name": "To Be Continued...",
+        "kind": "trophy",
+        "chapterId": "finishing-and-difficulty",
+        "where": "Finish the game at any difficulty level."
+      },
+      {
+        "id": "achievement-6",
+        "name": "Oh My God! You Killed the Kayran! You Bastards!",
+        "kind": "trophy",
+        "chapterId": "the-kayran",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-7",
+        "name": "Fat Man",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-8",
+        "name": "Being Witcher George",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-9",
+        "name": "Backbone",
+        "kind": "trophy",
+        "chapterId": "the-kayran",
+        "where": "Craft a suit of armor from elements of the kayran's carapace."
+      },
+      {
+        "id": "achievement-10",
+        "name": "Artful Dodger",
+        "kind": "trophy",
+        "chapterId": "the-kayran",
+        "where": "Cut off a tentacle using the kayran trap."
+      },
+      {
+        "id": "achievement-11",
+        "name": "Guru",
+        "kind": "trophy",
+        "chapterId": "character-growth",
+        "where": "Achieve character level 35."
+      },
+      {
+        "id": "achievement-12",
+        "name": "Master Alchemist",
+        "kind": "trophy",
+        "chapterId": "character-growth",
+        "where": "Acquire the Mutant ability."
+      },
+      {
+        "id": "achievement-13",
+        "name": "Master of Magic",
+        "kind": "trophy",
+        "chapterId": "character-growth",
+        "where": "Acquire the Sense of Magic ability."
+      },
+      {
+        "id": "achievement-14",
+        "name": "Swordmaster",
+        "kind": "trophy",
+        "chapterId": "character-growth",
+        "where": "Acquire the Combat Acumen ability."
+      },
+      {
+        "id": "achievement-15",
+        "name": "Journeyman",
+        "kind": "trophy",
+        "chapterId": "character-growth",
+        "where": "Achieve character level 10."
+      },
+      {
+        "id": "achievement-16",
+        "name": "Craftsman",
+        "kind": "trophy",
+        "chapterId": "alchemy-and-crafting",
+        "where": "Hire a craftsman to create an item."
+      },
+      {
+        "id": "achievement-17",
+        "name": "Apprentice",
+        "kind": "trophy",
+        "chapterId": "alchemy-and-crafting",
+        "where": "Use alchemy to brew five potions or oils."
+      },
+      {
+        "id": "achievement-18",
+        "name": "Torn Asunder!",
+        "kind": "trophy",
+        "chapterId": "alchemy-and-crafting",
+        "where": "Kill more than one opponent using a single exploding bomb."
+      },
+      {
+        "id": "achievement-19",
+        "name": "Taster",
+        "kind": "trophy",
+        "chapterId": "alchemy-and-crafting",
+        "where": "Drink one potion."
+      },
+      {
+        "id": "achievement-20",
+        "name": "Miser",
+        "kind": "trophy",
+        "chapterId": "quests-and-places",
+        "where": "Collect 10000 orens."
+      },
+      {
+        "id": "achievement-21",
+        "name": "Mutant!",
+        "kind": "trophy",
+        "chapterId": "character-growth",
+        "where": "Enhance abilities using mutagens at least five times."
+      },
+      {
+        "id": "achievement-22",
+        "name": "The Butcher of Blaviken",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Kill 500 foes."
+      },
+      {
+        "id": "achievement-23",
+        "name": "Focus",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Perform three successful ripostes in a row."
+      },
+      {
+        "id": "achievement-24",
+        "name": "Ricochet",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Kill a foe by deflecting his own arrow at him."
+      },
+      {
+        "id": "achievement-25",
+        "name": "Threesome",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Kill three foes at once by performing a group finisher."
+      },
+      {
+        "id": "achievement-26",
+        "name": "Perfectionist",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Kill 10 foes in a row without losing any Vitality."
+      },
+      {
+        "id": "achievement-27",
+        "name": "Eagle Eye",
+        "kind": "trophy",
+        "chapterId": "quests-and-places",
+        "where": "Hit Count Etcheverry using the ballista."
+      },
+      {
+        "id": "achievement-28",
+        "name": "Man of the Shadows",
+        "kind": "trophy",
+        "chapterId": "the-kayran",
+        "where": "Successfully sneak through Loredo's garden and find the component of the kayran trap."
+      },
+      {
+        "id": "achievement-29",
+        "name": "Librarian",
+        "kind": "trophy",
+        "chapterId": "quests-and-places",
+        "where": "Find all additional information about the insane asylum's history."
+      },
+      {
+        "id": "achievement-30",
+        "name": "Gladiator",
+        "kind": "trophy",
+        "chapterId": "quests-and-places",
+        "where": "Defeat all opponents in the Kaedweni arena."
+      },
+      {
+        "id": "achievement-31",
+        "name": "Heartbreaker",
+        "kind": "trophy",
+        "chapterId": "quests-and-places",
+        "where": "Seduce Ves."
+      },
+      {
+        "id": "achievement-32",
+        "name": "Great Potion!",
+        "kind": "trophy",
+        "chapterId": "alchemy-and-crafting",
+        "where": "Brew the ostmurk potion."
+      },
+      {
+        "id": "achievement-33",
+        "name": "Tourist",
+        "kind": "trophy",
+        "chapterId": "quests-and-places",
+        "where": "Tour the camp with Zyvik."
+      },
+      {
+        "id": "achievement-34",
+        "name": "Reasons of State",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-35",
+        "name": "Friend of Trolls",
+        "kind": "trophy",
+        "chapterId": "quests-and-places",
+        "where": "Spare all trolls in the game."
+      },
+      {
+        "id": "achievement-36",
+        "name": "Trollslayer",
+        "kind": "trophy",
+        "chapterId": "quests-and-places",
+        "where": "Kill all the trolls in the game."
+      },
+      {
+        "id": "achievement-37",
+        "name": "Black Ops",
+        "kind": "trophy",
+        "chapterId": "quests-and-places",
+        "where": "Sneak through the lower camp without raising the alarm."
+      },
+      {
+        "id": "achievement-38",
+        "name": "Kingmaker",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-39",
+        "name": "Necromancer",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-40",
+        "name": "Spellbreaker",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-41",
+        "name": "Witch Hunter",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-42",
+        "name": "Sensitive Guy",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-43",
+        "name": "Dragonheart",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-44",
+        "name": "Avenger",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-45",
+        "name": "Old Friends",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-46",
+        "name": "Pest Control",
+        "kind": "trophy",
+        "chapterId": "quests-and-places",
+        "where": "Finish all quests involving the destruction of monster nests."
+      },
+      {
+        "id": "achievement-47",
+        "name": "Gambler",
+        "kind": "trophy",
+        "chapterId": "minigames",
+        "where": "Win an arm wrestling match, a dice poker game and a fist fight."
+      },
+      {
+        "id": "achievement-48",
+        "name": "Intimidator",
+        "kind": "trophy",
+        "chapterId": "quests-and-places",
+        "where": "Intimidate someone."
+      },
+      {
+        "id": "achievement-49",
+        "name": "Poker!",
+        "kind": "trophy",
+        "chapterId": "minigames",
+        "where": "Roll five-of-a-kind at dice poker."
+      },
+      {
+        "id": "achievement-50",
+        "name": "Once Ain't Enough",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Reach the Epilogue of the game."
+      },
+      {
+        "id": "achievement-51",
+        "name": "Summer Solstice",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-52",
+        "name": "Winter Solstice",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/the-witcher-2-assassins-of-kings-enhanced-edition",
+    "Achievement data from Steam (Steam Web API, app 20920)",
+    "StrategyWiki: no page for this game, nothing used",
+    "Fandom (witcher.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://witcher.fandom.com/wiki/The_Witcher_2:_Assassins_of_Kings"
+  ],
+  "route": "original",
+  "notes": "Backlog game, picked from RAWG's most-added list for its year (docs/PLAN.md section 2 ordering). No StrategyWiki page under \"The Witcher 2: Assassins of Kings\", \"The Witcher 2\" or the full Enhanced Edition title. witcher.fandom.com has \"The Witcher 2: Assassins of Kings\" (used as fandomTitle), with about 129 linked pages; names only were looked at, nothing copied. The Steam schema gives only the placeholder name \"ValveTestApp20920\". 14 of 52 Steam achievements are hidden. \"Oh My God! You Killed the Kayran! You Bastards!\" was put in the kayran chapter because its name says so; the other 13 sit in the main story chapter as a placeholder, and several (for example \"Kingmaker\", \"Summer Solstice\" and \"Winter Solstice\") are probably tied to particular quests or choices rather than the main line. \"Man of the Shadows\" mentions both Loredo's garden and the kayran trap and was put in the kayran chapter. RAWG lists a playtime of only 7 hours, which looks low."
+}

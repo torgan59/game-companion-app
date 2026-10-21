@@ -1,0 +1,575 @@
+{
+  "id": "star-wars-outlaws",
+  "title": "Star Wars Outlaws",
+  "year": 2024,
+  "platforms": [
+    "PC",
+    "Nintendo Switch",
+    "PlayStation 5",
+    "Xbox Series X|S"
+  ],
+  "rawgId": 962020,
+  "rawgSlug": "star-wars-outlaws",
+  "released": "2024-08-30",
+  "developers": [
+    "Ubisoft Toronto",
+    "Ubisoft Montpellier",
+    "Ubisoft Shanghai",
+    "Ubisoft Bucharest",
+    "Ubisoft Annecy",
+    "Ubisoft Paris",
+    "Ubisoft Milan",
+    "Massive Entertainment",
+    "Ubisoft Chengdu",
+    "Massive Entertainment – A Ubisoft Studio"
+  ],
+  "playtime": 2,
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Full controller support",
+    "Atmospheric",
+    "RPG",
+    "Story Rich",
+    "Open World",
+    "Third Person",
+    "Sci-fi",
+    "Exploration",
+    "Action-Adventure",
+    "Third-Person Shooter"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/853/853aa2b76ae85fcf2782ace58cf7479f.jpg",
+  "steamAppId": 2842040,
+  "achievements": {
+    "total": 59,
+    "hidden": 0,
+    "examples": [
+      {
+        "name": "Made it somehow",
+        "percent": 79.6
+      },
+      {
+        "name": "Like a bantha",
+        "percent": 75.3
+      },
+      {
+        "name": "Stay on target",
+        "percent": 61.2
+      },
+      {
+        "name": "How rude!",
+        "percent": 1.8
+      },
+      {
+        "name": "It wasn't me",
+        "percent": 1.7
+      },
+      {
+        "name": "Easy pickings",
+        "percent": 1.5
+      },
+      {
+        "name": "First Voyage",
+        "percent": 1.0
+      },
+      {
+        "name": "Punching up",
+        "percent": 0.7
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": false,
+      "pages": 0,
+      "reason": "No page for Star Wars Outlaws (MediaWiki API returned missing; search empty)"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 500,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://starwars.fandom.com/wiki/Star_Wars_Outlaws"
+    }
+  },
+  "game": {
+    "id": "star-wars-outlaws",
+    "title": "Star Wars Outlaws",
+    "platforms": [
+      "PC",
+      "Nintendo Switch",
+      "PlayStation 5",
+      "Xbox Series X|S"
+    ],
+    "blurb": "Open-world Star Wars action-adventure from Massive Entertainment (Ubisoft), released 2024-08-30. RAWG average playtime: 2 hours (far under a full run). Genres: Action, Adventure. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#C8742A",
+    "chapters": [
+      {
+        "id": "main-story",
+        "title": "The Main Story",
+        "summary": "Kay Vess and Nix plan one big score, planet by planet. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "underworld",
+        "title": "Syndicates, Wanted and Contracts",
+        "summary": "Reputation with the four syndicates, Wanted levels, contracts, Intel chains and Expert quests.",
+        "steps": []
+      },
+      {
+        "id": "activities",
+        "title": "Activities and Exploration",
+        "summary": "Sabacc, fathier races, arcade games, street food, Nix treasures, gear sets and every planet area.",
+        "steps": []
+      },
+      {
+        "id": "ships-and-speeder",
+        "title": "Ships and Speeder",
+        "summary": "Space combat, the Trailblazer, the Kijimi nebula and speeder tricks.",
+        "steps": []
+      },
+      {
+        "id": "combat-and-stealth",
+        "title": "Combat, Stealth and Slicing",
+        "summary": "Adrenaline Rush, Nix attacks, Fast-Talk, slicing, lockpicking and blaster upgrades.",
+        "steps": []
+      },
+      {
+        "id": "story-packs",
+        "title": "Story Packs",
+        "summary": "Achievements added after launch, likely from the two story add-ons.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "It wasn't me",
+        "kind": "trophy",
+        "chapterId": "underworld",
+        "where": "Bribe an Imperial Officer to clear Wanted Level 5"
+      },
+      {
+        "id": "achievement-2",
+        "name": "They live up to the name",
+        "kind": "trophy",
+        "chapterId": "underworld",
+        "where": "Clear Wanted status by completing a death trooper confrontation event"
+      },
+      {
+        "id": "achievement-3",
+        "name": "Shoot first",
+        "kind": "trophy",
+        "chapterId": "combat-and-stealth",
+        "where": "Defeat 6 enemies simultaneously using Adrenaline Rush"
+      },
+      {
+        "id": "achievement-4",
+        "name": "No match for a good blaster",
+        "kind": "trophy",
+        "chapterId": "combat-and-stealth",
+        "where": "Fully upgrade a blaster module configuration"
+      },
+      {
+        "id": "achievement-5",
+        "name": "Got you something",
+        "kind": "trophy",
+        "chapterId": "activities",
+        "where": "Collect all Nix treasures"
+      },
+      {
+        "id": "achievement-6",
+        "name": "Galactic gourmet",
+        "kind": "trophy",
+        "chapterId": "activities",
+        "where": "Sample all galactic street food"
+      },
+      {
+        "id": "achievement-7",
+        "name": "Good listener",
+        "kind": "trophy",
+        "chapterId": "activities",
+        "where": "Listen to the longest sob story in the galaxy"
+      },
+      {
+        "id": "achievement-8",
+        "name": "Experience outranks everything",
+        "kind": "trophy",
+        "chapterId": "underworld",
+        "where": "Complete all Expert quests"
+      },
+      {
+        "id": "achievement-9",
+        "name": "Adventure and excitement",
+        "kind": "trophy",
+        "chapterId": "activities",
+        "where": "Discover all planet areas"
+      },
+      {
+        "id": "achievement-10",
+        "name": "Give me the good stuff",
+        "kind": "trophy",
+        "chapterId": "activities",
+        "where": "Buy an item from a merchant's VIP stock"
+      },
+      {
+        "id": "achievement-11",
+        "name": "Old school cool",
+        "kind": "trophy",
+        "chapterId": "activities",
+        "where": "Acquire the Disruptor gear set"
+      },
+      {
+        "id": "achievement-12",
+        "name": "Honest work",
+        "kind": "trophy",
+        "chapterId": "underworld",
+        "where": "Complete 40 contracts"
+      },
+      {
+        "id": "achievement-13",
+        "name": "Cut-throat politics",
+        "kind": "trophy",
+        "chapterId": "underworld",
+        "where": "Reach maximum reputation with the Pyke Syndicate"
+      },
+      {
+        "id": "achievement-14",
+        "name": "Cloak and dagger",
+        "kind": "trophy",
+        "chapterId": "underworld",
+        "where": "Reach maximum reputation with Crimson Dawn"
+      },
+      {
+        "id": "achievement-15",
+        "name": "What you see is what you get",
+        "kind": "trophy",
+        "chapterId": "underworld",
+        "where": "Reach maximum reputation with the Hutt Cartel"
+      },
+      {
+        "id": "achievement-16",
+        "name": "The Queen's word is law",
+        "kind": "trophy",
+        "chapterId": "underworld",
+        "where": "Reach maximum reputation with the Ashiga Clan"
+      },
+      {
+        "id": "achievement-17",
+        "name": "Think I had a choice?",
+        "kind": "trophy",
+        "chapterId": "underworld",
+        "where": "Reach the lowest possible reputation with a faction"
+      },
+      {
+        "id": "achievement-18",
+        "name": "It's mine now",
+        "kind": "trophy",
+        "chapterId": "activities",
+        "where": "Acquire the scoundrel gear set"
+      },
+      {
+        "id": "achievement-19",
+        "name": "Stay on target",
+        "kind": "trophy",
+        "chapterId": "underworld",
+        "where": "Complete your first Intel chain"
+      },
+      {
+        "id": "achievement-20",
+        "name": "Easy pickings",
+        "kind": "trophy",
+        "chapterId": "activities",
+        "where": "Pickpocket a customer in a cantina on each planet"
+      },
+      {
+        "id": "achievement-21",
+        "name": "Against all odds",
+        "kind": "trophy",
+        "chapterId": "activities",
+        "where": "Win your first fixed fathier race"
+      },
+      {
+        "id": "achievement-22",
+        "name": "No such thing as luck",
+        "kind": "trophy",
+        "chapterId": "activities",
+        "where": "Cheat and win a Sabacc game against Lando"
+      },
+      {
+        "id": "achievement-23",
+        "name": "There is no try",
+        "kind": "trophy",
+        "chapterId": "activities",
+        "where": "Get a high score in an arcade game"
+      },
+      {
+        "id": "achievement-24",
+        "name": "Right back at you",
+        "kind": "trophy",
+        "chapterId": "combat-and-stealth",
+        "where": "Defeat 20 enemies using items fetched by Nix"
+      },
+      {
+        "id": "achievement-25",
+        "name": "How rude!",
+        "kind": "trophy",
+        "chapterId": "combat-and-stealth",
+        "where": "Blind 30 enemies with Nix attacks"
+      },
+      {
+        "id": "achievement-26",
+        "name": "Punching up",
+        "kind": "trophy",
+        "chapterId": "ships-and-speeder",
+        "where": "Defeat each syndicate's capital ship without taking hull damage"
+      },
+      {
+        "id": "achievement-27",
+        "name": "Might want to buckle up",
+        "kind": "trophy",
+        "chapterId": "ships-and-speeder",
+        "where": "Fly into space in a fully upgraded Trailblazer"
+      },
+      {
+        "id": "achievement-28",
+        "name": "I'll bet you have",
+        "kind": "trophy",
+        "chapterId": "combat-and-stealth",
+        "where": "Defeat 20 enemies distracted by Fast-Talk"
+      },
+      {
+        "id": "achievement-29",
+        "name": "The heavier they fall",
+        "kind": "trophy",
+        "chapterId": "underworld",
+        "where": "Defeat a Raider to clear Wanted status"
+      },
+      {
+        "id": "achievement-30",
+        "name": "Sometimes I amaze even myself",
+        "kind": "trophy",
+        "chapterId": "ships-and-speeder",
+        "where": "Defeat an enemy ship after doing a loop maneuver"
+      },
+      {
+        "id": "achievement-31",
+        "name": "Never tell me the odds",
+        "kind": "trophy",
+        "chapterId": "ships-and-speeder",
+        "where": "Defeat an enemy ship without dealing the finishing blow with lasers or missiles"
+      },
+      {
+        "id": "achievement-32",
+        "name": "Into darkness",
+        "kind": "trophy",
+        "chapterId": "ships-and-speeder",
+        "where": "Destroy 10 enemy ships inside the Kijimi nebula"
+      },
+      {
+        "id": "achievement-33",
+        "name": "Like a bantha",
+        "kind": "trophy",
+        "chapterId": "ships-and-speeder",
+        "where": "Perform a perfect landing with the speeder"
+      },
+      {
+        "id": "achievement-34",
+        "name": "Galaxy drift",
+        "kind": "trophy",
+        "chapterId": "ships-and-speeder",
+        "where": "Perform a 30 second powerslide drift"
+      },
+      {
+        "id": "achievement-35",
+        "name": "Don't get cocky",
+        "kind": "trophy",
+        "chapterId": "ships-and-speeder",
+        "where": "Defeat 5 enemies with Adrenaline Rush on the speeder simultaneously"
+      },
+      {
+        "id": "achievement-36",
+        "name": "Into the main frame",
+        "kind": "trophy",
+        "chapterId": "combat-and-stealth",
+        "where": "Slice 10 advanced terminals"
+      },
+      {
+        "id": "achievement-37",
+        "name": "Slice like you",
+        "kind": "trophy",
+        "chapterId": "combat-and-stealth",
+        "where": "Slice 20 terminals"
+      },
+      {
+        "id": "achievement-38",
+        "name": "Now you see me, now you don't",
+        "kind": "trophy",
+        "chapterId": "combat-and-stealth",
+        "where": "Disable an alarm using a security terminal while the alarm is active"
+      },
+      {
+        "id": "achievement-39",
+        "name": "Get rhythm",
+        "kind": "trophy",
+        "chapterId": "combat-and-stealth",
+        "where": "Pick 20 locks with the data spike"
+      },
+      {
+        "id": "achievement-40",
+        "name": "Made it somehow",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Acquire a blaster, a starship, and a speeder"
+      },
+      {
+        "id": "achievement-41",
+        "name": "Tip the scales",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Complete all main quests on Toshara"
+      },
+      {
+        "id": "achievement-42",
+        "name": "One job at a time",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Complete all main quests on Kijimi"
+      },
+      {
+        "id": "achievement-43",
+        "name": "Making friends",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Escape from Jabba's palace"
+      },
+      {
+        "id": "achievement-44",
+        "name": "Rare friends",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Complete all main quests on Tatooine"
+      },
+      {
+        "id": "achievement-45",
+        "name": "Spiked",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Liberate the original Super Viper Droid"
+      },
+      {
+        "id": "achievement-46",
+        "name": "Best of the best",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Complete all main quests on Akiva"
+      },
+      {
+        "id": "achievement-47",
+        "name": "The Director",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Learn Sliro's secret"
+      },
+      {
+        "id": "achievement-48",
+        "name": "Eye on the score",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Complete all main quests in Canto Bight"
+      },
+      {
+        "id": "achievement-49",
+        "name": "Calling in some favors",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Destroy the Revelator"
+      },
+      {
+        "id": "achievement-50",
+        "name": "All in",
+        "kind": "trophy",
+        "chapterId": "story-packs",
+        "where": "Find the Morenia"
+      },
+      {
+        "id": "achievement-51",
+        "name": "All out",
+        "kind": "trophy",
+        "chapterId": "story-packs",
+        "where": "Escape the Morenia"
+      },
+      {
+        "id": "achievement-52",
+        "name": "Take your own advice",
+        "kind": "trophy",
+        "chapterId": "story-packs",
+        "where": "Save Aksali Noll"
+      },
+      {
+        "id": "achievement-53",
+        "name": "A moon in your hand",
+        "kind": "trophy",
+        "chapterId": "story-packs",
+        "where": "Retrieve the map to Okala V"
+      },
+      {
+        "id": "achievement-54",
+        "name": "Stranger Tides",
+        "kind": "trophy",
+        "chapterId": "story-packs",
+        "where": "Escape from the Khepi Tomb"
+      },
+      {
+        "id": "achievement-55",
+        "name": "Price of Loyalty",
+        "kind": "trophy",
+        "chapterId": "story-packs",
+        "where": "Get the Khepi scepter hilt"
+      },
+      {
+        "id": "achievement-56",
+        "name": "Pirate's Honor",
+        "kind": "trophy",
+        "chapterId": "story-packs",
+        "where": "Steal a Rokana Raider ship"
+      },
+      {
+        "id": "achievement-57",
+        "name": "Together",
+        "kind": "trophy",
+        "chapterId": "story-packs",
+        "where": "Discover the secrets of the Khepi"
+      },
+      {
+        "id": "achievement-58",
+        "name": "First Voyage",
+        "kind": "trophy",
+        "chapterId": "story-packs",
+        "where": "Complete a contract with a Refractor"
+      },
+      {
+        "id": "achievement-59",
+        "name": "Wordsmith",
+        "kind": "trophy",
+        "chapterId": "story-packs",
+        "where": "Help compose a pirate's poem"
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/star-wars-outlaws",
+    "Achievement data from Steam (Steam Web API, app 2842040)",
+    "StrategyWiki: no page for this game, nothing used",
+    "Fandom (starwars.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://starwars.fandom.com/wiki/Star_Wars_Outlaws"
+  ],
+  "route": "original",
+  "notes": "Backlog game, picked from RAWG's most-added list for its year (docs/PLAN.md section 2 ordering). No StrategyWiki page under \"Star Wars Outlaws\" or \"Star Wars: Outlaws\". starwars.fandom.com (Wookieepedia) answers the API, with 500 linked pages (the API limit, so likely more); names only were looked at, nothing copied. The Steam schema calls the app \"Project_xyz\" (an internal codename); the store list confirms app 2842040. None of the 59 Steam achievements are hidden, so story beats are visible; the main story chapter is spoiler-guarded. The last 10 achievements in the schema (the Morenia, Aksali Noll, Okala V, the Khepi, Rokana Raiders, Refractor, the pirate poem) look like post-launch story content and sit in their own chapter; which add-on each belongs to was not checked. RAWG playtime is far below a real run."
+}

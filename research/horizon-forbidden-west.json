@@ -1,0 +1,714 @@
+{
+  "id": "horizon-forbidden-west",
+  "title": "Horizon Forbidden West",
+  "year": 2022,
+  "platforms": [
+    "PC",
+    "PlayStation 4",
+    "PlayStation 5"
+  ],
+  "rawgId": 452642,
+  "rawgSlug": "horizon-zero-dawn-2",
+  "released": "2022-02-18",
+  "developers": [
+    "Guerrilla Games"
+  ],
+  "playtime": null,
+  "genres": [
+    "Action",
+    "Adventure",
+    "RPG"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Atmospheric",
+    "RPG",
+    "Story Rich",
+    "Open World",
+    "Third Person",
+    "Sci-fi",
+    "Female Protagonist",
+    "exclusive",
+    "Post-apocalyptic",
+    "Robots",
+    "Beautiful"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/bf7/bf73b105ccbba42107986bbcd96fcada.jpg",
+  "steamAppId": 2420110,
+  "achievements": {
+    "total": 80,
+    "hidden": 48,
+    "examples": [
+      {
+        "name": "Stealth Killed 10 Machines",
+        "percent": 74.3
+      },
+      {
+        "name": "Tore off 100 Components",
+        "percent": 61.7
+      },
+      {
+        "name": "Reached Level 20",
+        "percent": 59.4
+      },
+      {
+        "name": "All Achievements Obtained",
+        "percent": 4.8
+      },
+      {
+        "name": "Killed Machines While Gliding",
+        "percent": 4.8
+      },
+      {
+        "name": "Completed New Game+",
+        "percent": 4.7
+      },
+      {
+        "name": "Completed Ultra Hard",
+        "percent": 3.8
+      },
+      {
+        "name": "Obtained All New Game+ Rewards",
+        "percent": 3.1
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Horizon_Forbidden_West",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 114,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://horizon.fandom.com/wiki/Horizon_Forbidden_West"
+    }
+  },
+  "game": {
+    "id": "horizon-forbidden-west",
+    "title": "Horizon Forbidden West",
+    "platforms": [
+      "PC",
+      "PlayStation 4",
+      "PlayStation 5"
+    ],
+    "blurb": "Open-world action RPG from Guerrilla Games, released 2022-02-18. RAWG has no playtime yet. Genres: Action, Adventure, RPG. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#C8642C",
+    "chapters": [
+      {
+        "id": "main-story",
+        "title": "The Main Story",
+        "summary": "Aloy's journey west, from the Daunt to the end of the main quest. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "open-world",
+        "title": "Open World Activities",
+        "summary": "Tallnecks, Cauldrons, rebel camps and outposts, Relic Ruins, Hunting Grounds, the Arena, Machine Strike and side quests.",
+        "steps": []
+      },
+      {
+        "id": "machines-and-combat",
+        "title": "Machines and Combat",
+        "summary": "Killing and scanning every machine type, overrides, stealth, melee combos and heavy weapons.",
+        "steps": []
+      },
+      {
+        "id": "gear-and-skills",
+        "title": "Gear, Skills and Levels",
+        "summary": "Player levels, skill trees, Valor Surges, weapon and outfit upgrades, coils and pouches.",
+        "steps": []
+      },
+      {
+        "id": "burning-shores",
+        "title": "Burning Shores (DLC)",
+        "summary": "The Burning Shores expansion: its story, new machines, skills and activities.",
+        "steps": []
+      },
+      {
+        "id": "new-game-plus",
+        "title": "New Game+ and Ultra Hard",
+        "summary": "A second run, Ultra Hard difficulty and the New Game+ rewards.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "All Achievements Obtained",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Obtained all Horizon Forbidden West Achievements."
+      },
+      {
+        "id": "achievement-2",
+        "name": "Reached Level 20",
+        "kind": "trophy",
+        "chapterId": "gear-and-skills",
+        "where": "Reached player level 20."
+      },
+      {
+        "id": "achievement-3",
+        "name": "Reached Level 30",
+        "kind": "trophy",
+        "chapterId": "gear-and-skills",
+        "where": "Reached player level 30."
+      },
+      {
+        "id": "achievement-4",
+        "name": "Reached Level 50",
+        "kind": "trophy",
+        "chapterId": "gear-and-skills",
+        "where": "Reached player level 50."
+      },
+      {
+        "id": "achievement-5",
+        "name": "Reached the Daunt",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-6",
+        "name": "Secured Passage to the Embassy",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-7",
+        "name": "Attended the Embassy",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-8",
+        "name": "Established the Base",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-9",
+        "name": "Recovered AETHER",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-10",
+        "name": "Recovered POSEIDON",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-11",
+        "name": "Recovered DEMETER",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-12",
+        "name": "Recovered Beta",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-13",
+        "name": "Discovered Faro's Fate",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-14",
+        "name": "Flew on the Wings of the Ten",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-15",
+        "name": "Discovered Nemesis",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-16",
+        "name": "Chose a Desert Commander",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-17",
+        "name": "Saved the Daunt",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-18",
+        "name": "Aided Kotallo",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-19",
+        "name": "Healed the Land-gods",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-20",
+        "name": "Recovered Alva's Data",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-21",
+        "name": "First Tallneck Overridden",
+        "kind": "trophy",
+        "chapterId": "open-world",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-22",
+        "name": "All Tallnecks Overridden",
+        "kind": "trophy",
+        "chapterId": "open-world",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-23",
+        "name": "First Rebel Camp Completed",
+        "kind": "trophy",
+        "chapterId": "open-world",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-24",
+        "name": "Defeated Asera",
+        "kind": "trophy",
+        "chapterId": "open-world",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-25",
+        "name": "First Core Overridden",
+        "kind": "trophy",
+        "chapterId": "open-world",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-26",
+        "name": "All Cores Overridden",
+        "kind": "trophy",
+        "chapterId": "open-world",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-27",
+        "name": "Obtained 3 Stripes at a Hunting Ground",
+        "kind": "trophy",
+        "chapterId": "open-world",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-28",
+        "name": "Obtained 3 Stripes at All Hunting Grounds",
+        "kind": "trophy",
+        "chapterId": "open-world",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-29",
+        "name": "All Acquisition Machines Killed",
+        "kind": "trophy",
+        "chapterId": "machines-and-combat",
+        "where": "Killed at least one of every type of Acquisition machine."
+      },
+      {
+        "id": "achievement-30",
+        "name": "All Recon Machines Killed",
+        "kind": "trophy",
+        "chapterId": "machines-and-combat",
+        "where": "Killed at least one of every type of Reconnaissance machine."
+      },
+      {
+        "id": "achievement-31",
+        "name": "All Combat Machines Killed",
+        "kind": "trophy",
+        "chapterId": "machines-and-combat",
+        "where": "Killed at least one of every type of Combat machine."
+      },
+      {
+        "id": "achievement-32",
+        "name": "All Transport Machines Killed",
+        "kind": "trophy",
+        "chapterId": "machines-and-combat",
+        "where": "Killed at least one of every type of Transport machine."
+      },
+      {
+        "id": "achievement-33",
+        "name": "Rode All Regular Mounts",
+        "kind": "trophy",
+        "chapterId": "open-world",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-34",
+        "name": "All Machine Types Scanned",
+        "kind": "trophy",
+        "chapterId": "machines-and-combat",
+        "where": "Encountered and Focus scanned every type of machine."
+      },
+      {
+        "id": "achievement-35",
+        "name": "Completed a Long Glide",
+        "kind": "trophy",
+        "chapterId": "open-world",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-36",
+        "name": "Completed 2 Flying Mount Quests",
+        "kind": "trophy",
+        "chapterId": "open-world",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-37",
+        "name": "Won 2 Gauntlet Runs",
+        "kind": "trophy",
+        "chapterId": "open-world",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-38",
+        "name": "Completed a Set of Salvage Contracts",
+        "kind": "trophy",
+        "chapterId": "open-world",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-39",
+        "name": "Completed 4 Rebel Outposts",
+        "kind": "trophy",
+        "chapterId": "open-world",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-40",
+        "name": "Completed 3 Relic Ruins",
+        "kind": "trophy",
+        "chapterId": "open-world",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-41",
+        "name": "Completed Arena Challenge Set",
+        "kind": "trophy",
+        "chapterId": "open-world",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-42",
+        "name": "Defeated Machine Strike Challengers",
+        "kind": "trophy",
+        "chapterId": "open-world",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-43",
+        "name": "Obtained All Weapon Classes",
+        "kind": "trophy",
+        "chapterId": "gear-and-skills",
+        "where": "Obtained 1 weapon from every weapon class."
+      },
+      {
+        "id": "achievement-44",
+        "name": "Used all Elemental States",
+        "kind": "trophy",
+        "chapterId": "machines-and-combat",
+        "where": "Inflicted every elemental state on an enemy at least once."
+      },
+      {
+        "id": "achievement-45",
+        "name": "Performed 3 Melee Combos",
+        "kind": "trophy",
+        "chapterId": "machines-and-combat",
+        "where": "Successfully performed 3 different unlockable melee combos."
+      },
+      {
+        "id": "achievement-46",
+        "name": "Stealth Killed 10 Machines",
+        "kind": "trophy",
+        "chapterId": "machines-and-combat",
+        "where": "Performed a stealth kill on 10 machines."
+      },
+      {
+        "id": "achievement-47",
+        "name": "Tore off 100 Components",
+        "kind": "trophy",
+        "chapterId": "machines-and-combat",
+        "where": "Detached 100 components from machines."
+      },
+      {
+        "id": "achievement-48",
+        "name": "Picked up 5 Heavy Weapons",
+        "kind": "trophy",
+        "chapterId": "machines-and-combat",
+        "where": "Picked up 5 different heavy weapons."
+      },
+      {
+        "id": "achievement-49",
+        "name": "10 Types of Machine Overridden",
+        "kind": "trophy",
+        "chapterId": "machines-and-combat",
+        "where": "Unlocked and used the overrides for 10 different types of machine."
+      },
+      {
+        "id": "achievement-50",
+        "name": "Defeated the Enduring",
+        "kind": "trophy",
+        "chapterId": "open-world",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-51",
+        "name": "Fully Upgraded a Valor Surge",
+        "kind": "trophy",
+        "chapterId": "gear-and-skills",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-52",
+        "name": "Upgraded 3 Weapons",
+        "kind": "trophy",
+        "chapterId": "gear-and-skills",
+        "where": "Fully upgraded 3 weapons."
+      },
+      {
+        "id": "achievement-53",
+        "name": "Upgraded 3 Outfits",
+        "kind": "trophy",
+        "chapterId": "gear-and-skills",
+        "where": "Fully upgraded 3 different outfits."
+      },
+      {
+        "id": "achievement-54",
+        "name": "Upgraded Every Pouch Type",
+        "kind": "trophy",
+        "chapterId": "gear-and-skills",
+        "where": "Upgraded the Food Pouch, Potion Pouch, Resource Pouch, Trap Pouch, and any ammo pouch at least once."
+      },
+      {
+        "id": "achievement-55",
+        "name": "Enhanced Weapon with Coils",
+        "kind": "trophy",
+        "chapterId": "gear-and-skills",
+        "where": "Equipped a weapon of any tier with 2 coils."
+      },
+      {
+        "id": "achievement-56",
+        "name": "Unlocked 3 Weapon Techniques",
+        "kind": "trophy",
+        "chapterId": "gear-and-skills",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-57",
+        "name": "Skill Tree Learned",
+        "kind": "trophy",
+        "chapterId": "gear-and-skills",
+        "where": "Learned all available skills on one tree."
+      },
+      {
+        "id": "achievement-58",
+        "name": "Recovered 5 Different Collectables",
+        "kind": "trophy",
+        "chapterId": "open-world",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-59",
+        "name": "Used Dye Flowers",
+        "kind": "trophy",
+        "chapterId": "open-world",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-60",
+        "name": "Completed New Game+",
+        "kind": "trophy",
+        "chapterId": "new-game-plus",
+        "where": "Completed a New Game+ playthrough on any difficulty."
+      },
+      {
+        "id": "achievement-61",
+        "name": "Completed Ultra Hard",
+        "kind": "trophy",
+        "chapterId": "new-game-plus",
+        "where": "Completed a new or New Game+ playthrough on Ultra Hard difficulty."
+      },
+      {
+        "id": "achievement-62",
+        "name": "Obtained All New Game+ Rewards",
+        "kind": "trophy",
+        "chapterId": "new-game-plus",
+        "where": "Obtained all New Game+ weapons, dyes, and face paints."
+      },
+      {
+        "id": "achievement-63",
+        "name": "All Quests Completed",
+        "kind": "trophy",
+        "chapterId": "open-world",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-64",
+        "name": "Discovered the Ascension",
+        "kind": "trophy",
+        "chapterId": "burning-shores",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-65",
+        "name": "Confronted Londra",
+        "kind": "trophy",
+        "chapterId": "burning-shores",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-66",
+        "name": "Aided the Quen",
+        "kind": "trophy",
+        "chapterId": "burning-shores",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-67",
+        "name": "Defeated Londra and His Horus",
+        "kind": "trophy",
+        "chapterId": "burning-shores",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-68",
+        "name": "All New Skills Learned",
+        "kind": "trophy",
+        "chapterId": "burning-shores",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-69",
+        "name": "Reached Level 60",
+        "kind": "trophy",
+        "chapterId": "burning-shores",
+        "where": "Reached player level 60."
+      },
+      {
+        "id": "achievement-70",
+        "name": "Used Brimshine",
+        "kind": "trophy",
+        "chapterId": "burning-shores",
+        "where": "Used Brimshine to purchase 1 outfit and 1 weapon."
+      },
+      {
+        "id": "achievement-71",
+        "name": "Equipped an Elite Coil or Weave",
+        "kind": "trophy",
+        "chapterId": "burning-shores",
+        "where": "Equipped an elite coil on a weapon or an elite weave on an outfit."
+      },
+      {
+        "id": "achievement-72",
+        "name": "Specter Gauntlet Upgraded",
+        "kind": "trophy",
+        "chapterId": "burning-shores",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-73",
+        "name": "Cauldron THETA Core Overridden",
+        "kind": "trophy",
+        "chapterId": "burning-shores",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-74",
+        "name": "All New Machines Scanned",
+        "kind": "trophy",
+        "chapterId": "burning-shores",
+        "where": "Encountered and Focus scanned every new machine in the Burning Shores."
+      },
+      {
+        "id": "achievement-75",
+        "name": "Completed the Dino Digits Quiz",
+        "kind": "trophy",
+        "chapterId": "burning-shores",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-76",
+        "name": "Recovered the Delvers' Trove",
+        "kind": "trophy",
+        "chapterId": "burning-shores",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-77",
+        "name": "Recovered All Aerial Captures",
+        "kind": "trophy",
+        "chapterId": "burning-shores",
+        "where": "Discovered and completed all Aerial Captures."
+      },
+      {
+        "id": "achievement-78",
+        "name": "Used Grapple Strike on Machines",
+        "kind": "trophy",
+        "chapterId": "burning-shores",
+        "where": "Used Grapple Strike on 5 unique machines."
+      },
+      {
+        "id": "achievement-79",
+        "name": "Killed Machines While Gliding",
+        "kind": "trophy",
+        "chapterId": "burning-shores",
+        "where": "Killed 5 machines with the Specter Gauntlet while gliding."
+      },
+      {
+        "id": "achievement-80",
+        "name": "Killed Bileguts and Stingspawn",
+        "kind": "trophy",
+        "chapterId": "burning-shores",
+        "where": "Killed 5 Bileguts and 50 Stingspawn."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/horizon-zero-dawn-2",
+    "Achievement data from Steam (Steam Web API, app 2420110)",
+    "StrategyWiki: no usable walkthrough, nothing used — https://strategywiki.org/wiki/Horizon_Forbidden_West",
+    "Fandom (horizon.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://horizon.fandom.com/wiki/Horizon_Forbidden_West"
+  ],
+  "route": "original",
+  "notes": "Backlog game, picked from RAWG's most-added list for its year (docs/PLAN.md section 2 ordering). StrategyWiki has a stub page (completion stage 0); Walkthrough and Achievements subpages are linked but not written. horizon.fandom.com answers the API, with about 114 linked pages; names only were looked at, nothing copied. The Steam app is the Complete Edition (2420110), which includes the Burning Shores expansion. 48 of 80 Steam achievements are hidden, but their names are plain, so most were sorted by name: story beats to the main story, activities to open world, and the Burning Shores block (at the end of the schema) to its own chapter. \"Defeated Asera\" and \"Defeated the Enduring\" were put in open world from their names; check them."
+}

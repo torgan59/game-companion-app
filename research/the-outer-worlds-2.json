@@ -1,0 +1,557 @@
+{
+  "id": "the-outer-worlds-2",
+  "title": "The Outer Worlds 2",
+  "year": 2025,
+  "platforms": [
+    "PC",
+    "Xbox Series X|S"
+  ],
+  "rawgId": 617120,
+  "rawgSlug": "the-outer-worlds-2",
+  "released": "2025-10-29",
+  "developers": [
+    "Obsidian Entertainment"
+  ],
+  "playtime": 22,
+  "genres": [
+    "Action",
+    "Shooter",
+    "Adventure",
+    "RPG"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Full controller support",
+    "Steam Cloud",
+    "RPG",
+    "Story Rich",
+    "Open World",
+    "First-Person",
+    "Third Person",
+    "Sci-fi",
+    "Gore",
+    "Exploration"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/021/021d48108ec99947d8f09dc6abe3f980.jpg",
+  "steamAppId": 1449110,
+  "achievements": {
+    "total": 58,
+    "hidden": 29,
+    "examples": [
+      {
+        "name": "Welcome to Paradise Island",
+        "percent": 89.8
+      },
+      {
+        "name": "A Journey Of A Thousand Miles",
+        "percent": 85.0
+      },
+      {
+        "name": "Vexed the Vox",
+        "percent": 64.1
+      },
+      {
+        "name": "Elemental Maelstrom",
+        "percent": 1.9
+      },
+      {
+        "name": "Destroyer of Worlds",
+        "percent": 1.7
+      },
+      {
+        "name": "Whew, That’s Enough!",
+        "percent": 0.9
+      },
+      {
+        "name": "All for None",
+        "percent": 0.8
+      },
+      {
+        "name": "Anti-Consumerist",
+        "percent": 0.6
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": false,
+      "pages": 0,
+      "reason": "No page for The Outer Worlds 2 (MediaWiki API returned missing; search empty)"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 14,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://theouterworlds.fandom.com/wiki/The_Outer_Worlds_2"
+    }
+  },
+  "game": {
+    "id": "the-outer-worlds-2",
+    "title": "The Outer Worlds 2",
+    "platforms": [
+      "PC",
+      "Xbox Series X|S"
+    ],
+    "blurb": "Action RPG and shooter from Obsidian Entertainment, released 2025-10-29. RAWG average playtime: 22 hours. Genres: Action, Shooter, Adventure, RPG. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#2F8F83",
+    "chapters": [
+      {
+        "id": "main-story",
+        "title": "The Main Story",
+        "summary": "From landing on Paradise Island through the Vox Relay, Alexandra Monastery and the Archive. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "companions",
+        "title": "Companions",
+        "summary": "Recruiting every companion and finishing their quests.",
+        "steps": []
+      },
+      {
+        "id": "challenge-runs",
+        "title": "Difficulty and Challenge Runs",
+        "summary": "Hard and Very Hard, finishing without spending a bit, and other extreme outcomes.",
+        "steps": []
+      },
+      {
+        "id": "collections-and-pets",
+        "title": "Cards, Pets and Collections",
+        "summary": "Pitch/Tossball cards, pets for your ship and an old acquaintance of Auntie.",
+        "steps": []
+      },
+      {
+        "id": "character-and-combat",
+        "title": "Character, Gear and Combat",
+        "summary": "Levels, skills, flaws, sneak attacks, odd weapons, selling and modifications.",
+        "steps": []
+      },
+      {
+        "id": "newer-hidden",
+        "title": "Newer Hidden Achievements",
+        "summary": "Ten hidden achievements at the end of the list that almost nobody had unlocked when checked. Spoiler-guarded.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "The Outer Worlds 2",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Completed the game on any difficulty"
+      },
+      {
+        "id": "achievement-2",
+        "name": "Welcome to Paradise Island",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Landed on Paradise Island"
+      },
+      {
+        "id": "achievement-3",
+        "name": "Vexed the Vox",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Infiltrated and escaped the Vox Relay"
+      },
+      {
+        "id": "achievement-4",
+        "name": "Desperate Times Call For Monastic Measures",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Stopped de Vries' conspirators in Alexandra Monastery"
+      },
+      {
+        "id": "achievement-5",
+        "name": "Left To Your Own Device",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Acquired the Rift Anomaly Modulator"
+      },
+      {
+        "id": "achievement-6",
+        "name": "Revive The Archive",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Restored the Archive to its fully functional state"
+      },
+      {
+        "id": "achievement-7",
+        "name": "Hard",
+        "kind": "trophy",
+        "chapterId": "challenge-runs",
+        "where": "Completed the game on Hard difficulty"
+      },
+      {
+        "id": "achievement-8",
+        "name": "Very Hard",
+        "kind": "trophy",
+        "chapterId": "challenge-runs",
+        "where": "Completed the game on Very Hard difficulty"
+      },
+      {
+        "id": "achievement-9",
+        "name": "Elemental Maelstrom",
+        "kind": "trophy",
+        "chapterId": "character-and-combat",
+        "where": "Killed a single enemy that has been affected by all possible damage types"
+      },
+      {
+        "id": "achievement-10",
+        "name": "Flawed Hero",
+        "kind": "trophy",
+        "chapterId": "character-and-combat",
+        "where": "Accepted 3 Flaws"
+      },
+      {
+        "id": "achievement-11",
+        "name": "Level 30",
+        "kind": "trophy",
+        "chapterId": "character-and-combat",
+        "where": "Reached Level 30"
+      },
+      {
+        "id": "achievement-12",
+        "name": "Capture The Archive The Hard Way",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-13",
+        "name": "Never Seen",
+        "kind": "trophy",
+        "chapterId": "character-and-combat",
+        "where": "Killed 50 enemies with Sneak Attacks"
+      },
+      {
+        "id": "achievement-14",
+        "name": "Skilled",
+        "kind": "trophy",
+        "chapterId": "character-and-combat",
+        "where": "Raised a Skill to level 20"
+      },
+      {
+        "id": "achievement-15",
+        "name": "One for All",
+        "kind": "trophy",
+        "chapterId": "companions",
+        "where": "Recruited all companions"
+      },
+      {
+        "id": "achievement-16",
+        "name": "All for One",
+        "kind": "trophy",
+        "chapterId": "companions",
+        "where": "Completed all companion quests"
+      },
+      {
+        "id": "achievement-17",
+        "name": "All for None",
+        "kind": "trophy",
+        "chapterId": "challenge-runs",
+        "where": "Had every living companion die or abandon you for good"
+      },
+      {
+        "id": "achievement-18",
+        "name": "Rift Drifter",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-19",
+        "name": "Maximum Gun",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-20",
+        "name": "OA: Objectives Accomplished",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-21",
+        "name": "AC: All Complete",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-22",
+        "name": "Corporation Cooperation",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-23",
+        "name": "A Stiff In The Rift",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-24",
+        "name": "Go Out With A Bang",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-25",
+        "name": "Float Like A Butterfly, Sting Like A Bee",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-26",
+        "name": "Scary GARY Adversary",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-27",
+        "name": "Dance Dance Disfiguration",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-28",
+        "name": "Ad Hominem Homicide",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-29",
+        "name": "Stop Hitting Yourself",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-30",
+        "name": "Stompy",
+        "kind": "trophy",
+        "chapterId": "character-and-combat",
+        "where": "Killed 5 enemies by stomping on them after hitting them with the Shrink Ray"
+      },
+      {
+        "id": "achievement-31",
+        "name": "Waylaid Grenades",
+        "kind": "trophy",
+        "chapterId": "character-and-combat",
+        "where": "Shot 3 grenades out of the air"
+      },
+      {
+        "id": "achievement-32",
+        "name": "Chemically Dependent",
+        "kind": "trophy",
+        "chapterId": "character-and-combat",
+        "where": "Crashed 20 times with the Medical Inhaler"
+      },
+      {
+        "id": "achievement-33",
+        "name": "A Journey Of A Thousand Miles",
+        "kind": "trophy",
+        "chapterId": "collections-and-pets",
+        "where": "Collected 1 Pitch/Tossball card"
+      },
+      {
+        "id": "achievement-34",
+        "name": "Whew, That’s Enough!",
+        "kind": "trophy",
+        "chapterId": "collections-and-pets",
+        "where": "Collected 100 Pitch/Tossball cards"
+      },
+      {
+        "id": "achievement-35",
+        "name": "Auntie's Old Acquaintance",
+        "kind": "trophy",
+        "chapterId": "collections-and-pets",
+        "where": "Met Amos"
+      },
+      {
+        "id": "achievement-36",
+        "name": "Hatchling Catcher",
+        "kind": "trophy",
+        "chapterId": "collections-and-pets",
+        "where": "Collected 5 pets for your ship"
+      },
+      {
+        "id": "achievement-37",
+        "name": "Hatchling Hunter",
+        "kind": "trophy",
+        "chapterId": "character-and-combat",
+        "where": "Killed a total of 50 Raptidon Juveniles, Crabble Hatchlings, Mantiwasps, Spiderlings, or Critters"
+      },
+      {
+        "id": "achievement-38",
+        "name": "Winning Hearts and Heads",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-39",
+        "name": "Corpse Warper",
+        "kind": "trophy",
+        "chapterId": "character-and-combat",
+        "where": "Melted 20 bodies with Auntie's Acidic Dematerializer"
+      },
+      {
+        "id": "achievement-40",
+        "name": "Anti-Consumerist",
+        "kind": "trophy",
+        "chapterId": "challenge-runs",
+        "where": "Completed the game without spending a single bit"
+      },
+      {
+        "id": "achievement-41",
+        "name": "SA Quarterlies Quantified",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-42",
+        "name": "Golden Ridge Murals In Plural",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-43",
+        "name": "Praetor Towers Powered",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-44",
+        "name": "Cloister Excogitation Logs CEL-ebration",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-45",
+        "name": "Well Dressed",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-46",
+        "name": "Destroyer of Worlds",
+        "kind": "trophy",
+        "chapterId": "challenge-runs",
+        "where": "Reached the lowest possible standing with Auntie's Choice and the Order of the Ascendant"
+      },
+      {
+        "id": "achievement-47",
+        "name": "Everything Must Go",
+        "kind": "trophy",
+        "chapterId": "character-and-combat",
+        "where": "Earned 50,000 bits by selling items to vendors"
+      },
+      {
+        "id": "achievement-48",
+        "name": "Upgrades Available",
+        "kind": "trophy",
+        "chapterId": "character-and-combat",
+        "where": "Applied modifications to 10 weapons or armors"
+      },
+      {
+        "id": "achievement-49",
+        "name": "Birdwatcher",
+        "kind": "trophy",
+        "chapterId": "newer-hidden",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-50",
+        "name": "Side Effects Guaranteed",
+        "kind": "trophy",
+        "chapterId": "newer-hidden",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-51",
+        "name": "Apex Predator",
+        "kind": "trophy",
+        "chapterId": "newer-hidden",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-52",
+        "name": "Tag, You're \"It\"",
+        "kind": "trophy",
+        "chapterId": "newer-hidden",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-53",
+        "name": "The Dam",
+        "kind": "trophy",
+        "chapterId": "newer-hidden",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-54",
+        "name": "Mobilized!",
+        "kind": "trophy",
+        "chapterId": "newer-hidden",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-55",
+        "name": "The Mole",
+        "kind": "trophy",
+        "chapterId": "newer-hidden",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-56",
+        "name": "Gamekeeper",
+        "kind": "trophy",
+        "chapterId": "newer-hidden",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-57",
+        "name": "A False Sense of Security",
+        "kind": "trophy",
+        "chapterId": "newer-hidden",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-58",
+        "name": "The Mech is Mine",
+        "kind": "trophy",
+        "chapterId": "newer-hidden",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/the-outer-worlds-2",
+    "Achievement data from Steam (Steam Web API, app 1449110)",
+    "StrategyWiki: no page for this game, nothing used",
+    "Fandom (theouterworlds.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://theouterworlds.fandom.com/wiki/The_Outer_Worlds_2"
+  ],
+  "route": "original",
+  "notes": "Backlog game, picked from RAWG's most-added list for its year (docs/PLAN.md section 2 ordering). StrategyWiki has no page for \"The Outer Worlds 2\" (also tried \"The Outer Worlds II\"). theouterworlds.fandom.com answers the API, with 14 linked pages, including \"The Outer Worlds 2 skills\", \"The Outer Worlds 2 traits\", \"The Outer Worlds 2 flaws\" and \"The Outer Worlds 2 weapons\"; names only were looked at, nothing copied. The Steam schema names the game \"The Outer Worlds 2\" (app 1449110, the only match in the store list). 29 of 58 Steam achievements are hidden. Achievements 49 to 58 are hidden and at 0.0% unlocked, which suggests content added after release, but nothing in the data names it; they get their own chapter by name. Four hidden ones (\"SA Quarterlies Quantified\", \"Golden Ridge Murals In Plural\", \"Praetor Towers Powered\", \"Cloister Excogitation Logs CEL-ebration\") sound like collection goals but have no descriptions, so they stay in the main story chapter as a placeholder, as do the other hidden ones. \"Auntie's Old Acquaintance\" (Met Amos) was put with the collections by guess."
+}

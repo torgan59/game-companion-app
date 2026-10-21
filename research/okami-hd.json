@@ -1,0 +1,500 @@
+{
+  "id": "okami-hd",
+  "title": "Okami HD",
+  "year": 2017,
+  "platforms": [
+    "PlayStation 4",
+    "PlayStation 3",
+    "PC",
+    "Xbox One",
+    "Nintendo Switch"
+  ],
+  "rawgId": 47326,
+  "rawgSlug": "okami-hd-da-shen-jue-jing-ban",
+  "released": "2017-12-12",
+  "developers": [
+    "Capcom"
+  ],
+  "playtime": 4,
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Atmospheric",
+    "Story Rich",
+    "Female Protagonist"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/a38/a3857b2445c70ac5dbe73b210a827ad8.jpg",
+  "steamAppId": 587620,
+  "achievements": {
+    "total": 51,
+    "hidden": 17,
+    "examples": [
+      {
+        "name": "Yomigami",
+        "percent": 73.8
+      },
+      {
+        "name": "Tachigami",
+        "percent": 71.5
+      },
+      {
+        "name": "Lupine and Divine",
+        "percent": 69.0
+      },
+      {
+        "name": "Leave No Chest Unopened",
+        "percent": 5.1
+      },
+      {
+        "name": "Teach an Old Dog New Tricks",
+        "percent": 5.0
+      },
+      {
+        "name": "From Imps to Demons",
+        "percent": 4.2
+      },
+      {
+        "name": "Give a Dog All the Bones",
+        "percent": 4.1
+      },
+      {
+        "name": "No More Fish in the Sea",
+        "percent": 3.4
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Ōkami",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 42,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://okami.fandom.com/wiki/Ōkami_HD"
+    }
+  },
+  "game": {
+    "id": "okami-hd",
+    "title": "Okami HD",
+    "platforms": [
+      "PlayStation 4",
+      "PlayStation 3",
+      "PC",
+      "Xbox One",
+      "Nintendo Switch"
+    ],
+    "blurb": "High-definition release of the action-adventure in which the sun goddess Amaterasu paints with the Celestial Brush, from Capcom, released 2017-12-12. RAWG average playtime: 4 hours. Genres: Action, Adventure. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#D4463A",
+    "chapters": [
+      {
+        "id": "main-story",
+        "title": "The Main Story",
+        "summary": "Amaterasu's journey across Nippon, boss by boss, including the Moon Cave and the Water Dragon. Spoiler-guarded; most achievements here are hidden.",
+        "steps": []
+      },
+      {
+        "id": "brush-techniques",
+        "title": "Celestial Brush Techniques",
+        "summary": "Learning each brush god's technique and filling the Technique Scroll.",
+        "steps": []
+      },
+      {
+        "id": "collections",
+        "title": "Tomes and Collections",
+        "summary": "The Fish, Treasure and Animal Tomes, the Bestiary, the Travel Guide, Stray Beads, the Wanted List and maximum Solar Energy, Ink Pot and Astral Pouch.",
+        "steps": []
+      },
+      {
+        "id": "side-activities",
+        "title": "Devil Gates, Races and Mini-Games",
+        "summary": "Devil Gates and trial caves, the Kusa 5, digging mini-games and races against Ida, Hayate and Kai.",
+        "steps": []
+      },
+      {
+        "id": "ranks",
+        "title": "Results and Cherry Tree Ranks",
+        "summary": "Earning Cherry Tree ranks on the Results and Total Results screens.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Yomigami",
+        "kind": "trophy",
+        "chapterId": "brush-techniques",
+        "where": "Learn how to use Rejuvenation."
+      },
+      {
+        "id": "achievement-2",
+        "name": "Tachigami",
+        "kind": "trophy",
+        "chapterId": "brush-techniques",
+        "where": "Learn how to use Power Slash."
+      },
+      {
+        "id": "achievement-3",
+        "name": "A Village for a Peach",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-4",
+        "name": "Descending Descendant",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-5",
+        "name": "Sakigami",
+        "kind": "trophy",
+        "chapterId": "brush-techniques",
+        "where": "Learn how to use Bloom."
+      },
+      {
+        "id": "achievement-6",
+        "name": "Enemy in the Gates",
+        "kind": "trophy",
+        "chapterId": "side-activities",
+        "where": "Defeat enemies inside of a Devil Gate."
+      },
+      {
+        "id": "achievement-7",
+        "name": "Bakugami",
+        "kind": "trophy",
+        "chapterId": "brush-techniques",
+        "where": "Learn how to use Cherry Bomb."
+      },
+      {
+        "id": "achievement-8",
+        "name": "Hasugami",
+        "kind": "trophy",
+        "chapterId": "brush-techniques",
+        "where": "Learn how to use Water Lily."
+      },
+      {
+        "id": "achievement-9",
+        "name": "Let's Rock, Baby!",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-10",
+        "name": "Tsutagami",
+        "kind": "trophy",
+        "chapterId": "brush-techniques",
+        "where": "Learn how to use Vine."
+      },
+      {
+        "id": "achievement-11",
+        "name": "Big Ol' Flower",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-12",
+        "name": "Imp Exorcist",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-13",
+        "name": "Nuregami",
+        "kind": "trophy",
+        "chapterId": "brush-techniques",
+        "where": "Learn how to use Watersprout."
+      },
+      {
+        "id": "achievement-14",
+        "name": "Yumigami",
+        "kind": "trophy",
+        "chapterId": "brush-techniques",
+        "where": "Learn how to use Crescent."
+      },
+      {
+        "id": "achievement-15",
+        "name": "Kazegami",
+        "kind": "trophy",
+        "chapterId": "brush-techniques",
+        "where": "Learn how to use Galestorm."
+      },
+      {
+        "id": "achievement-16",
+        "name": "One Mean Dude",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-17",
+        "name": "To the Moon, Ammy!",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Enter the Moon Cave."
+      },
+      {
+        "id": "achievement-18",
+        "name": "Moegami",
+        "kind": "trophy",
+        "chapterId": "brush-techniques",
+        "where": "Learn how to use Inferno."
+      },
+      {
+        "id": "achievement-19",
+        "name": "Serpent Breath",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-20",
+        "name": "No Furball on the Menu",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Make your way to shore without being swallowed by the Water Dragon."
+      },
+      {
+        "id": "achievement-21",
+        "name": "Kasugami",
+        "kind": "trophy",
+        "chapterId": "brush-techniques",
+        "where": "Learn how to use Veil of Mist."
+      },
+      {
+        "id": "achievement-22",
+        "name": "Dominate the Indomitable",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-23",
+        "name": "Kabegami",
+        "kind": "trophy",
+        "chapterId": "brush-techniques",
+        "where": "Learn how to use Catwalk."
+      },
+      {
+        "id": "achievement-24",
+        "name": "Dragonian Dilemma",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-25",
+        "name": "Fox-Face",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-26",
+        "name": "Gekigami",
+        "kind": "trophy",
+        "chapterId": "brush-techniques",
+        "where": "Learn how to use Thunderstorm."
+      },
+      {
+        "id": "achievement-27",
+        "name": "RIP Tobi",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-28",
+        "name": "Fox-Headed Wench",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-29",
+        "name": "True Serpent Breath",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-30",
+        "name": "Itegami",
+        "kind": "trophy",
+        "chapterId": "brush-techniques",
+        "where": "Learn how to use Blizzard."
+      },
+      {
+        "id": "achievement-31",
+        "name": "Twin Birdbrains",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-32",
+        "name": "Sayonara",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-33",
+        "name": "The Dark Lord",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-34",
+        "name": "Grab Life by the Leash",
+        "kind": "trophy",
+        "chapterId": "collections",
+        "where": "Increase your Solar Energy, Ink Pot, and Astral Pouch levels to maximum capacity."
+      },
+      {
+        "id": "achievement-35",
+        "name": "No More Fish in the Sea",
+        "kind": "trophy",
+        "chapterId": "collections",
+        "where": "Complete your Fish Tome."
+      },
+      {
+        "id": "achievement-36",
+        "name": "Have Guides Will Travel",
+        "kind": "trophy",
+        "chapterId": "collections",
+        "where": "Complete your Travel Guide."
+      },
+      {
+        "id": "achievement-37",
+        "name": "Give a Dog All the Bones",
+        "kind": "trophy",
+        "chapterId": "collections",
+        "where": "Complete your Treasure Tome."
+      },
+      {
+        "id": "achievement-38",
+        "name": "Sniff 'Em Out",
+        "kind": "trophy",
+        "chapterId": "collections",
+        "where": "Defeat all monsters on the Wanted List."
+      },
+      {
+        "id": "achievement-39",
+        "name": "Leave No Chest Unopened",
+        "kind": "trophy",
+        "chapterId": "collections",
+        "where": "Collect all Stray Beads."
+      },
+      {
+        "id": "achievement-40",
+        "name": "All Creatures Great and Small",
+        "kind": "trophy",
+        "chapterId": "collections",
+        "where": "Complete your Animal Tome."
+      },
+      {
+        "id": "achievement-41",
+        "name": "Teach an Old Dog New Tricks",
+        "kind": "trophy",
+        "chapterId": "brush-techniques",
+        "where": "Learn all god techniques to fill up your Technique Scroll."
+      },
+      {
+        "id": "achievement-42",
+        "name": "From Imps to Demons",
+        "kind": "trophy",
+        "chapterId": "collections",
+        "where": "Complete your Bestiary."
+      },
+      {
+        "id": "achievement-43",
+        "name": "Barking Up the Cherry Tree",
+        "kind": "trophy",
+        "chapterId": "ranks",
+        "where": "Earn a Cherry Tree rank for each item in the Total Results screen."
+      },
+      {
+        "id": "achievement-44",
+        "name": "Lupine and Divine",
+        "kind": "trophy",
+        "chapterId": "ranks",
+        "where": "Earn a Cherry Tree rank for each item in the Results screen."
+      },
+      {
+        "id": "achievement-45",
+        "name": "Out of the Gate Swinging",
+        "kind": "trophy",
+        "chapterId": "side-activities",
+        "where": "Defeat all enemies at all three Devil Gate trial caves."
+      },
+      {
+        "id": "achievement-46",
+        "name": "Who Let the Dogs Out?",
+        "kind": "trophy",
+        "chapterId": "side-activities",
+        "where": "Defeat the Kusa 5."
+      },
+      {
+        "id": "achievement-47",
+        "name": "Dog Eat Dog",
+        "kind": "trophy",
+        "chapterId": "side-activities",
+        "where": "Beat Hayabusa's turnip-digging record."
+      },
+      {
+        "id": "achievement-48",
+        "name": "Diggin' It",
+        "kind": "trophy",
+        "chapterId": "side-activities",
+        "where": "Complete five digging mini games."
+      },
+      {
+        "id": "achievement-49",
+        "name": "Eat My Flower Trail",
+        "kind": "trophy",
+        "chapterId": "side-activities",
+        "where": "Win the race against Ida and Hayate."
+      },
+      {
+        "id": "achievement-50",
+        "name": "Dog Gone Fast",
+        "kind": "trophy",
+        "chapterId": "side-activities",
+        "where": "Win the race against Kai."
+      },
+      {
+        "id": "achievement-51",
+        "name": "Top Dog",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/okami-hd-da-shen-jue-jing-ban",
+    "Achievement data from Steam (Steam Web API, app 587620)",
+    "StrategyWiki: no usable walkthrough, nothing used — https://strategywiki.org/wiki/Ōkami",
+    "Fandom (okami.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://okami.fandom.com/wiki/Ōkami_HD"
+  ],
+  "route": "original",
+  "notes": "Backlog game, picked from RAWG's most-added list for its year (docs/PLAN.md section 2 ordering). StrategyWiki: \"Okami HD\" redirects to the \"Ōkami\" guide, which is at completion stage 1. Its Table of Contents lists about 40 walkthrough chapters, but only the Prologue is written; the other written subpages are reference pages (Brush Techniques, Stray Beads, Animals, Characters, Controls, Dojos, Enemies, Travel Guide), so it was not used as a source (not enough written walkthrough). okami.fandom.com answers the API: \"Ōkami HD\" redirects to the \"Ōkami\" page, with about 42 linked pages (\"Okami HD\" without the macron gave no page); names only were looked at, nothing copied. The Steam schema calls the app \"Flower\" (an internal codename); the store list confirms \"Okami HD\" (587620). 17 of 51 Steam achievements are hidden, with no descriptions; they sit in the main story chapter. The hidden \"Top Dog\" (earned by 2.8%) may be a completion goal rather than story. RAWG lists a playtime of only 4 hours, which looks low."
+}

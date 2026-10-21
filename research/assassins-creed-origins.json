@@ -1,0 +1,622 @@
+{
+  "id": "assassins-creed-origins",
+  "title": "Assassin's Creed Origins",
+  "year": 2017,
+  "platforms": [
+    "Xbox One",
+    "PC",
+    "PlayStation 4"
+  ],
+  "rawgId": 28153,
+  "rawgSlug": "assassins-creed-origins",
+  "released": "2017-10-27",
+  "developers": [
+    "Ubisoft",
+    "Ubisoft Montreal"
+  ],
+  "playtime": 28,
+  "genres": [
+    "Action",
+    "RPG"
+  ],
+  "tags": [],
+  "coverUrl": "https://media.rawg.io/media/games/336/336c6bd63d83cf8e59937ab8895d1240.jpg",
+  "steamAppId": 582160,
+  "achievements": {
+    "total": 67,
+    "hidden": 23,
+    "examples": [
+      {
+        "name": "Raider of the Lost Tomb",
+        "percent": 63.7
+      },
+      {
+        "name": "You still need 8880...",
+        "percent": 46.7
+      },
+      {
+        "name": "Rider's Licence",
+        "percent": 43.4
+      },
+      {
+        "name": "What Time is It?",
+        "percent": 3.4
+      },
+      {
+        "name": "Zip it Off",
+        "percent": 3.3
+      },
+      {
+        "name": "Polymorph",
+        "percent": 3.2
+      },
+      {
+        "name": "BOOM!",
+        "percent": 3.1
+      },
+      {
+        "name": "Archeologist",
+        "percent": 2.9
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Assassin's_Creed_Origins",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 500,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://assassinscreed.fandom.com/wiki/Assassin's_Creed:_Origins"
+    }
+  },
+  "game": {
+    "id": "assassins-creed-origins",
+    "title": "Assassin's Creed Origins",
+    "platforms": [
+      "Xbox One",
+      "PC",
+      "PlayStation 4"
+    ],
+    "blurb": "Open-world action RPG set in Ptolemaic Egypt, from Ubisoft Montreal, released 2017-10-27. RAWG average playtime: 28 hours. Genres: Action, RPG. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#B8862B",
+    "chapters": [
+      {
+        "id": "main-story",
+        "title": "The Main Story",
+        "summary": "Bayek's quest across Egypt, from the first steps to the end. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "exploring-egypt",
+        "title": "Exploring Egypt",
+        "summary": "Locations, tombs, hermits, Stone Circles, papyrus mysteries, underwater sites, viewpoints, vehicles and photos.",
+        "steps": []
+      },
+      {
+        "id": "arena-and-hippodrome",
+        "title": "Arena and Hippodrome",
+        "summary": "The Krokodilopolis Arena events, arena bosses, the war elephants and Hippodrome races.",
+        "steps": []
+      },
+      {
+        "id": "combat-and-wildlife",
+        "title": "Combat, Stealth and Wildlife",
+        "summary": "Multi-kills, the predator bow, stealth streaks, Phylakes, lions, predators and crocodiles.",
+        "steps": []
+      },
+      {
+        "id": "growth-and-gear",
+        "title": "Levels, Abilities and Gear",
+        "summary": "Levelling up, Master abilities, Legendary gear, crafting and selling trinkets.",
+        "steps": []
+      },
+      {
+        "id": "hidden-ones",
+        "title": "The Hidden Ones (DLC)",
+        "summary": "The Hidden Ones expansion: Arsinoe, the rebels and the Walls-of-the-Ruler citadel.",
+        "steps": []
+      },
+      {
+        "id": "curse-of-the-pharaohs",
+        "title": "The Curse of the Pharaohs (DLC)",
+        "summary": "The Curse of the Pharaohs expansion: mummies, the Serqet locations, the Afterlifes and Shards of a Star.",
+        "steps": []
+      },
+      {
+        "id": "tours",
+        "title": "Guided Tours",
+        "summary": "Completing the educational tours, including the Daily Life category.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "First Steps",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-2",
+        "name": "I'm Just Getting Started",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-3",
+        "name": "The Sea",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-4",
+        "name": "The Scarab",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-5",
+        "name": "The Hyena",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-6",
+        "name": "The Crocodile",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-7",
+        "name": "The Lizard",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-8",
+        "name": "The Siege",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-9",
+        "name": "Wake Up!",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-10",
+        "name": "Almost There",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-11",
+        "name": "The End",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-12",
+        "name": "I'm a Legend",
+        "kind": "trophy",
+        "chapterId": "growth-and-gear",
+        "where": "Be equipped with only Legendary equipment."
+      },
+      {
+        "id": "achievement-13",
+        "name": "I'm Done Learning",
+        "kind": "trophy",
+        "chapterId": "growth-and-gear",
+        "where": "Activate a Master ability."
+      },
+      {
+        "id": "achievement-14",
+        "name": "Overheating",
+        "kind": "trophy",
+        "chapterId": "exploring-egypt",
+        "where": "Witness raining bugs in the desert."
+      },
+      {
+        "id": "achievement-15",
+        "name": "For Those About to Die…",
+        "kind": "trophy",
+        "chapterId": "arena-and-hippodrome",
+        "where": "Complete all arena events in the Krokodilopolis Arena."
+      },
+      {
+        "id": "achievement-16",
+        "name": "Fatality!",
+        "kind": "trophy",
+        "chapterId": "arena-and-hippodrome",
+        "where": "Finish an arena boss with an Overpower Attack."
+      },
+      {
+        "id": "achievement-17",
+        "name": "Ben-Hur",
+        "kind": "trophy",
+        "chapterId": "arena-and-hippodrome",
+        "where": "Win the first Hippodrome tournament."
+      },
+      {
+        "id": "achievement-18",
+        "name": "Road Rage",
+        "kind": "trophy",
+        "chapterId": "arena-and-hippodrome",
+        "where": "Destroy an opponent in a Hippodrome race."
+      },
+      {
+        "id": "achievement-19",
+        "name": "The Harder They Fall",
+        "kind": "trophy",
+        "chapterId": "arena-and-hippodrome",
+        "where": "Defeat the war elephants Qetesh & Resheph."
+      },
+      {
+        "id": "achievement-20",
+        "name": "Slasher",
+        "kind": "trophy",
+        "chapterId": "combat-and-wildlife",
+        "where": "Kill 3 enemies with one hit."
+      },
+      {
+        "id": "achievement-21",
+        "name": "The Arrow Whisperer",
+        "kind": "trophy",
+        "chapterId": "combat-and-wildlife",
+        "where": "Kill an enemy with the predator bow from more than 60 meters while controlling the arrow."
+      },
+      {
+        "id": "achievement-22",
+        "name": "Words of Wisdom",
+        "kind": "trophy",
+        "chapterId": "exploring-egypt",
+        "where": "Complete all hermit locations."
+      },
+      {
+        "id": "achievement-23",
+        "name": "Circle of Life",
+        "kind": "trophy",
+        "chapterId": "combat-and-wildlife",
+        "where": "Feed a predator with a corpse."
+      },
+      {
+        "id": "achievement-24",
+        "name": "Seven Farmers",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-25",
+        "name": "The Festival",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-26",
+        "name": "Shadow of Egypt",
+        "kind": "trophy",
+        "chapterId": "combat-and-wildlife",
+        "where": "Kill 10 enemies in a row without being detected."
+      },
+      {
+        "id": "achievement-27",
+        "name": "Smash!",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-28",
+        "name": "I Know My Land",
+        "kind": "trophy",
+        "chapterId": "exploring-egypt",
+        "where": "Defog the whole map."
+      },
+      {
+        "id": "achievement-29",
+        "name": "Raider of the Lost Tomb",
+        "kind": "trophy",
+        "chapterId": "exploring-egypt",
+        "where": "Complete a tomb."
+      },
+      {
+        "id": "achievement-30",
+        "name": "I Can See My House From Here!",
+        "kind": "trophy",
+        "chapterId": "exploring-egypt",
+        "where": "Reach the \"Top of the World\" in the Black Desert territory."
+      },
+      {
+        "id": "achievement-31",
+        "name": "Set-up Date",
+        "kind": "trophy",
+        "chapterId": "combat-and-wildlife",
+        "where": "Bring a tamed lion to a crocodile."
+      },
+      {
+        "id": "achievement-32",
+        "name": "Where's My Black Flag?",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-33",
+        "name": "Reporter",
+        "kind": "trophy",
+        "chapterId": "exploring-egypt",
+        "where": "Take 1 photo in 5 different territories."
+      },
+      {
+        "id": "achievement-34",
+        "name": "Overdesign",
+        "kind": "trophy",
+        "chapterId": "combat-and-wildlife",
+        "where": "Kill a poisoned level 35+ enemy with the torch in less than 30 seconds."
+      },
+      {
+        "id": "achievement-35",
+        "name": "Free as a Bird",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-36",
+        "name": "Triathlete",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-37",
+        "name": "Archer of the Month",
+        "kind": "trophy",
+        "chapterId": "combat-and-wildlife",
+        "where": "Headshot kill an enemy with the bow while in the air."
+      },
+      {
+        "id": "achievement-38",
+        "name": "BOOM!",
+        "kind": "trophy",
+        "chapterId": "combat-and-wildlife",
+        "where": "Kill 30 enemies by shooting a fire arrow at oil jars."
+      },
+      {
+        "id": "achievement-39",
+        "name": "Rider's Licence",
+        "kind": "trophy",
+        "chapterId": "exploring-egypt",
+        "where": "Use all types of vehicle at least once."
+      },
+      {
+        "id": "achievement-40",
+        "name": "Old Habits",
+        "kind": "trophy",
+        "chapterId": "exploring-egypt",
+        "where": "Complete all locations."
+      },
+      {
+        "id": "achievement-41",
+        "name": "Run For Your Life!",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-42",
+        "name": "Elementary, My Dear Bayek",
+        "kind": "trophy",
+        "chapterId": "exploring-egypt",
+        "where": "Solve a papyrus mystery."
+      },
+      {
+        "id": "achievement-43",
+        "name": "Reduce, Reuse, Recycle",
+        "kind": "trophy",
+        "chapterId": "growth-and-gear",
+        "where": "Sell 100 trinkets at once."
+      },
+      {
+        "id": "achievement-44",
+        "name": "Namaste",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-45",
+        "name": "You still need 8880...",
+        "kind": "trophy",
+        "chapterId": "growth-and-gear",
+        "where": "Reach level 20."
+      },
+      {
+        "id": "achievement-46",
+        "name": "Stargazer",
+        "kind": "trophy",
+        "chapterId": "exploring-egypt",
+        "where": "Complete all 12 Stone Circles."
+      },
+      {
+        "id": "achievement-47",
+        "name": "Master Diver",
+        "kind": "trophy",
+        "chapterId": "exploring-egypt",
+        "where": "Complete 15 underwater locations."
+      },
+      {
+        "id": "achievement-48",
+        "name": "Defy Authority",
+        "kind": "trophy",
+        "chapterId": "combat-and-wildlife",
+        "where": "Defeat a Phylakes."
+      },
+      {
+        "id": "achievement-49",
+        "name": "Handy Man",
+        "kind": "trophy",
+        "chapterId": "growth-and-gear",
+        "where": "Craft 20 items."
+      },
+      {
+        "id": "achievement-50",
+        "name": "Roooaaarrrrr!",
+        "kind": "trophy",
+        "chapterId": "combat-and-wildlife",
+        "where": "Tame a lion."
+      },
+      {
+        "id": "achievement-51",
+        "name": "What Time is It?",
+        "kind": "trophy",
+        "chapterId": "hidden-ones",
+        "where": "Perform a leap of faith from Arsinoe's sundial obelisk between 10 am and noon (The Hidden Ones)"
+      },
+      {
+        "id": "achievement-52",
+        "name": "Zip it Off",
+        "kind": "trophy",
+        "chapterId": "hidden-ones",
+        "where": "Perform 3 Assassinations from a zipline (The Hidden Ones)"
+      },
+      {
+        "id": "achievement-53",
+        "name": "Prison Break",
+        "kind": "trophy",
+        "chapterId": "hidden-ones",
+        "where": "Free 20 Rebels (The Hidden Ones)"
+      },
+      {
+        "id": "achievement-54",
+        "name": "Team Play",
+        "kind": "trophy",
+        "chapterId": "hidden-ones",
+        "where": "Kill an enemy with a headshot while they are being harassed by Senu (The Hidden Ones)"
+      },
+      {
+        "id": "achievement-55",
+        "name": "Walls of the Ruler",
+        "kind": "trophy",
+        "chapterId": "hidden-ones",
+        "where": "Complete the Walls-of-the-Ruler citadel (The Hidden Ones)"
+      },
+      {
+        "id": "achievement-56",
+        "name": "Surgical Strikes",
+        "kind": "trophy",
+        "chapterId": "hidden-ones",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-57",
+        "name": "New Recruits",
+        "kind": "trophy",
+        "chapterId": "hidden-ones",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-58",
+        "name": "The Greater Good",
+        "kind": "trophy",
+        "chapterId": "hidden-ones",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-59",
+        "name": "First Visit",
+        "kind": "trophy",
+        "chapterId": "tours",
+        "where": "Complete one tour"
+      },
+      {
+        "id": "achievement-60",
+        "name": "Archeologist",
+        "kind": "trophy",
+        "chapterId": "tours",
+        "where": "Complete all tours in the Daily Life category"
+      },
+      {
+        "id": "achievement-61",
+        "name": "Polymorph",
+        "kind": "trophy",
+        "chapterId": "tours",
+        "where": "Complete tours with at least 5 different characters"
+      },
+      {
+        "id": "achievement-62",
+        "name": "Lift the Curse",
+        "kind": "trophy",
+        "chapterId": "curse-of-the-pharaohs",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-63",
+        "name": "Higher Power",
+        "kind": "trophy",
+        "chapterId": "curse-of-the-pharaohs",
+        "where": "Reach level 55 (The Curse of the Pharaohs)"
+      },
+      {
+        "id": "achievement-64",
+        "name": "Dark Horse",
+        "kind": "trophy",
+        "chapterId": "curse-of-the-pharaohs",
+        "where": "Acquire Eternal Maw for use outside the Afterlifes (The Curse of the Pharaohs)"
+      },
+      {
+        "id": "achievement-65",
+        "name": "Sting in the Tale",
+        "kind": "trophy",
+        "chapterId": "curse-of-the-pharaohs",
+        "where": "Complete the 5 Serqet locations (The Curse of the Pharaohs)"
+      },
+      {
+        "id": "achievement-66",
+        "name": "Project Comet",
+        "kind": "trophy",
+        "chapterId": "curse-of-the-pharaohs",
+        "where": "Craft an upgrade using Shards of a Star (The Curse of the Pharaohs)"
+      },
+      {
+        "id": "achievement-67",
+        "name": "Pyromaniac",
+        "kind": "trophy",
+        "chapterId": "curse-of-the-pharaohs",
+        "where": "Kill a Mummy by setting it on fire (The Curse of the Pharaohs)"
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/assassins-creed-origins",
+    "Achievement data from Steam (Steam Web API, app 582160)",
+    "StrategyWiki: no usable walkthrough, nothing used — https://strategywiki.org/wiki/Assassin's_Creed_Origins",
+    "Fandom (assassinscreed.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://assassinscreed.fandom.com/wiki/Assassin's_Creed:_Origins"
+  ],
+  "route": "original",
+  "notes": "Backlog game, picked from RAWG's most-added list for its year (docs/PLAN.md section 2 ordering). StrategyWiki has a page at completion stage 0; its only subpage is the Table of Contents (about 5,500 characters), with no walkthrough pages written, so no structure was taken. assassinscreed.fandom.com answers the API under \"Assassin's Creed: Origins\", with 500 or more linked pages (the link list was cut off at 500); names only were looked at, nothing copied. 23 of 67 Steam achievements are hidden. The 11 listed first (\"First Steps\" to \"The End\") look like story beats. \"Surgical Strikes\", \"New Recruits\" and \"The Greater Good\" sit inside The Hidden Ones block and \"Lift the Curse\" inside The Curse of the Pharaohs block, so they were placed there by schema position, which needs checking. The other 8 hidden ones (\"Seven Farmers\", \"The Festival\", \"Smash!\", \"Where's My Black Flag?\", \"Free as a Bird\", \"Triathlete\", \"Run For Your Life!\", \"Namaste\") sit in the main story chapter as a placeholder; most are probably side content. The DLC names come from the bracketed tags in the descriptions and from RAWG entries. The three tour achievements carry no DLC tag; the data does not name the tour mode."
+}

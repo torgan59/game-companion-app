@@ -1,0 +1,951 @@
+{
+  "id": "batman-arkham-knight",
+  "title": "Batman: Arkham Knight",
+  "year": 2015,
+  "platforms": [
+    "PC",
+    "Nintendo Switch",
+    "Xbox One",
+    "PlayStation 4"
+  ],
+  "rawgId": 3287,
+  "rawgSlug": "batman-arkham-knight",
+  "released": "2015-06-23",
+  "developers": [
+    "Rocksteady Studios"
+  ],
+  "playtime": 19,
+  "genres": [
+    "Action"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Full controller support",
+    "Steam Cloud",
+    "Atmospheric",
+    "steam-trading-cards",
+    "Story Rich",
+    "Open World",
+    "Third Person",
+    "Horror",
+    "Steam Leaderboards",
+    "Sandbox"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/310/3106b0e012271c5ffb16497b070be739.jpg",
+  "steamAppId": 208650,
+  "achievements": {
+    "total": 113,
+    "hidden": 30,
+    "examples": [
+      {
+        "name": "Journey into Knight",
+        "percent": 86.0
+      },
+      {
+        "name": "Trail of Fear",
+        "percent": 77.1
+      },
+      {
+        "name": "The Frequency of Fear",
+        "percent": 63.5
+      },
+      {
+        "name": "Secrets of the Batcave",
+        "percent": 1.8
+      },
+      {
+        "name": "Silent Night, Deadly Night",
+        "percent": 1.8
+      },
+      {
+        "name": "Requiem for a Killer",
+        "percent": 1.8
+      },
+      {
+        "name": "The Chill in the Air",
+        "percent": 1.7
+      },
+      {
+        "name": "The Curtain Falls",
+        "percent": 1.7
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Batman:_Arkham_Knight",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 105,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://batman.fandom.com/wiki/Batman:_Arkham_Knight"
+    }
+  },
+  "game": {
+    "id": "batman-arkham-knight",
+    "title": "Batman: Arkham Knight",
+    "platforms": [
+      "PC",
+      "Nintendo Switch",
+      "Xbox One",
+      "PlayStation 4"
+    ],
+    "blurb": "Open-world action-adventure in which Batman takes on Scarecrow, the militia and the Arkham Knight across Gotham City, from Rocksteady Studios, released 2015-06-23. RAWG average playtime: 19 hours. Genre: Action. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#2B2D42",
+    "chapters": [
+      {
+        "id": "main-story",
+        "title": "The Main Story",
+        "summary": "Batman against Scarecrow, the militia and the Arkham Knight. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "most-wanted",
+        "title": "Most Wanted and City Crimes",
+        "summary": "Weapons caches, watchtowers, checkpoints, explosive ordnance, APCs, bank heists, rescues and supervillains locked up in GCPD.",
+        "steps": []
+      },
+      {
+        "id": "riddler",
+        "title": "Riddler Trials",
+        "summary": "The Riddler's trials and the keys they unlock.",
+        "steps": []
+      },
+      {
+        "id": "combat-and-batmobile",
+        "title": "Combat, Gliding and the Batmobile",
+        "summary": "FreeFlow combat, predator and fear takedowns, gliding feats, and Batmobile driving and tank battles.",
+        "steps": []
+      },
+      {
+        "id": "story-packs",
+        "title": "Story Packs and Extra Missions (DLC)",
+        "summary": "A block of mostly hidden add-on story achievements, plus Penguin's escape, the Riddler's hideout and Two-Face at Hell's Gate. Placed by list position.",
+        "steps": []
+      },
+      {
+        "id": "extra-villains",
+        "title": "Extra Villain Missions (DLC)",
+        "summary": "Later missions: an assassin's trail and the Lazarus pit, Mad Hatter's hostages, a missing cryopod and Killer Croc's prisoners.",
+        "steps": []
+      },
+      {
+        "id": "ar-challenges",
+        "title": "AR Challenges",
+        "summary": "Star targets in AR Challenges for each Batmobile and each playable character, and the special challenge maps.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "A Battle Within",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-2",
+        "name": "A Heart Broken in Two",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-3",
+        "name": "Absolution",
+        "kind": "trophy",
+        "chapterId": "ar-challenges",
+        "where": "Achieve 69 Stars in AR Challenges."
+      },
+      {
+        "id": "achievement-4",
+        "name": "Angel in the Dark",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-5",
+        "name": "As the Crow Flies",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-6",
+        "name": "Be Not Afraid",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-7",
+        "name": "Beautiful Boy",
+        "kind": "trophy",
+        "chapterId": "most-wanted",
+        "where": "Destroy the second weapons cache in Gotham City."
+      },
+      {
+        "id": "achievement-8",
+        "name": "A Leap of Faith",
+        "kind": "trophy",
+        "chapterId": "combat-and-batmobile",
+        "where": "Complete 8 different jumps over 100 meters."
+      },
+      {
+        "id": "achievement-9",
+        "name": "Blind Love",
+        "kind": "trophy",
+        "chapterId": "most-wanted",
+        "where": "Destroy the third weapons cache in Gotham City."
+      },
+      {
+        "id": "achievement-10",
+        "name": "Blunt Trauma",
+        "kind": "trophy",
+        "chapterId": "combat-and-batmobile",
+        "where": "Perform every type of predator takedown."
+      },
+      {
+        "id": "achievement-11",
+        "name": "Brotherhood of the Fist",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-12",
+        "name": "City of Fear",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Defend the assault on your ally's fortress."
+      },
+      {
+        "id": "achievement-13",
+        "name": "Cold World",
+        "kind": "trophy",
+        "chapterId": "most-wanted",
+        "where": "Destroy the first weapons cache in Gotham City."
+      },
+      {
+        "id": "achievement-14",
+        "name": "Creature of the Night",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Freedom of the city."
+      },
+      {
+        "id": "achievement-15",
+        "name": "Cycle of Violence",
+        "kind": "trophy",
+        "chapterId": "combat-and-batmobile",
+        "where": "Use 100 Quick Gadgets while in free flow combat."
+      },
+      {
+        "id": "achievement-16",
+        "name": "Dark Allegiances",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-17",
+        "name": "Dark Wings Fly Away in Fear",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-18",
+        "name": "Days of Fire",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-19",
+        "name": "Brutality 101",
+        "kind": "trophy",
+        "chapterId": "combat-and-batmobile",
+        "where": "Perform 15 different combat moves in one FreeFlow."
+      },
+      {
+        "id": "achievement-20",
+        "name": "Death and Glory",
+        "kind": "trophy",
+        "chapterId": "combat-and-batmobile",
+        "where": "Perform 20 fear takedowns."
+      },
+      {
+        "id": "achievement-21",
+        "name": "Death by Design",
+        "kind": "trophy",
+        "chapterId": "riddler",
+        "where": "Obtain a key by completing the seventh Riddler trial."
+      },
+      {
+        "id": "achievement-22",
+        "name": "Death of Innocents",
+        "kind": "trophy",
+        "chapterId": "most-wanted",
+        "where": "Rescue station 17 fire crew."
+      },
+      {
+        "id": "achievement-23",
+        "name": "Double Jeopardy",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-24",
+        "name": "Savage Metal",
+        "kind": "trophy",
+        "chapterId": "combat-and-batmobile",
+        "where": "Smash 10 militia transport vehicles off the road without using the immobilizer."
+      },
+      {
+        "id": "achievement-25",
+        "name": "Fear of Faith",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Rescue the ACE Chemical workers."
+      },
+      {
+        "id": "achievement-26",
+        "name": "Fear of Success",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-27",
+        "name": "Fortunate Son",
+        "kind": "trophy",
+        "chapterId": "ar-challenges",
+        "where": "Achieve 46 Stars in AR Challenges."
+      },
+      {
+        "id": "achievement-28",
+        "name": "Gates of Gotham",
+        "kind": "trophy",
+        "chapterId": "most-wanted",
+        "where": "Destroy all of the militia watchtowers."
+      },
+      {
+        "id": "achievement-29",
+        "name": "Gotham After Midnight",
+        "kind": "trophy",
+        "chapterId": "combat-and-batmobile",
+        "where": "Glide for 400 meters while less than 20 meters from the ground."
+      },
+      {
+        "id": "achievement-30",
+        "name": "Gotham Underground",
+        "kind": "trophy",
+        "chapterId": "most-wanted",
+        "where": "Defuse all of the militia explosive ordinance in Gotham City."
+      },
+      {
+        "id": "achievement-31",
+        "name": "Jekyll & Hyde",
+        "kind": "trophy",
+        "chapterId": "most-wanted",
+        "where": "Stop the bank heist on Miagani Island and lock up the master mind in GCPD."
+      },
+      {
+        "id": "achievement-32",
+        "name": "Journey into Knight",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Even The Odds."
+      },
+      {
+        "id": "achievement-33",
+        "name": "Judgment Day",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Win the rumble down under."
+      },
+      {
+        "id": "achievement-34",
+        "name": "Knightfall",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-35",
+        "name": "Lethal Pursuits",
+        "kind": "trophy",
+        "chapterId": "riddler",
+        "where": "Obtain a key by completing the ninth Riddler trial."
+      },
+      {
+        "id": "achievement-36",
+        "name": "Living Hell",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Interrogate the Militia APC Driver."
+      },
+      {
+        "id": "achievement-37",
+        "name": "The Monster Machine",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-38",
+        "name": "Master of Fear",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-39",
+        "name": "Nine Lives",
+        "kind": "trophy",
+        "chapterId": "riddler",
+        "where": "Obtain a key by completing the last Riddler trial."
+      },
+      {
+        "id": "achievement-40",
+        "name": "No Man's Land",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Restore power to the bridges of Gotham City."
+      },
+      {
+        "id": "achievement-41",
+        "name": "Pieces of the Puzzle",
+        "kind": "trophy",
+        "chapterId": "riddler",
+        "where": "Obtain a key by completing the second Riddler trial."
+      },
+      {
+        "id": "achievement-42",
+        "name": "Practice Run",
+        "kind": "trophy",
+        "chapterId": "most-wanted",
+        "where": "Destroy the fourth weapons cache in Gotham City."
+      },
+      {
+        "id": "achievement-43",
+        "name": "Riddle Me That",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-44",
+        "name": "Riddler on the Rampage",
+        "kind": "trophy",
+        "chapterId": "riddler",
+        "where": "Obtain a key by completing the fourth Riddler trial."
+      },
+      {
+        "id": "achievement-45",
+        "name": "The Cat and the Bat",
+        "kind": "trophy",
+        "chapterId": "riddler",
+        "where": "Obtain a key by completing the third Riddler trial."
+      },
+      {
+        "id": "achievement-46",
+        "name": "Dirty Tricks",
+        "kind": "trophy",
+        "chapterId": "combat-and-batmobile",
+        "where": "Achieve 3 minutes of drifting time in the Batmobile."
+      },
+      {
+        "id": "achievement-47",
+        "name": "Scar of the Bat",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-48",
+        "name": "Seduction of the Gun",
+        "kind": "trophy",
+        "chapterId": "combat-and-batmobile",
+        "where": "Achieve 50 critical shots on light tanks."
+      },
+      {
+        "id": "achievement-49",
+        "name": "Sins of Youth",
+        "kind": "trophy",
+        "chapterId": "ar-challenges",
+        "where": "Achieve 23 Stars in AR Challenges."
+      },
+      {
+        "id": "achievement-50",
+        "name": "Strange Deadfellows",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-51",
+        "name": "Streets of Gotham",
+        "kind": "trophy",
+        "chapterId": "most-wanted",
+        "where": "Destroy all of the militia checkpoints."
+      },
+      {
+        "id": "achievement-52",
+        "name": "The Burning Question",
+        "kind": "trophy",
+        "chapterId": "riddler",
+        "where": "Obtain a key by completing the fifth Riddler trial."
+      },
+      {
+        "id": "achievement-53",
+        "name": "The Cult",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-54",
+        "name": "The Frequency of Fear",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Scan Gotham City to pinpoint Scarecrow's location."
+      },
+      {
+        "id": "achievement-55",
+        "name": "The Long Halloween",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-56",
+        "name": "The Primal Riddle",
+        "kind": "trophy",
+        "chapterId": "riddler",
+        "where": "Obtain a key by completing the sixth Riddler trial."
+      },
+      {
+        "id": "achievement-57",
+        "name": "The Real Deal",
+        "kind": "trophy",
+        "chapterId": "combat-and-batmobile",
+        "where": "Takedown 20 moving cars without using the Batmobile."
+      },
+      {
+        "id": "achievement-58",
+        "name": "The Riddle Factory",
+        "kind": "trophy",
+        "chapterId": "riddler",
+        "where": "Obtain a key by completing the eighth Riddler trial."
+      },
+      {
+        "id": "achievement-59",
+        "name": "Point of Impact",
+        "kind": "trophy",
+        "chapterId": "combat-and-batmobile",
+        "where": "Perform 5 perfect shots in a row with the Vulcan Gun without taking damage."
+      },
+      {
+        "id": "achievement-60",
+        "name": "The Road Home",
+        "kind": "trophy",
+        "chapterId": "most-wanted",
+        "where": "Destroy all of the militia APC's."
+      },
+      {
+        "id": "achievement-61",
+        "name": "The Road to Hell",
+        "kind": "trophy",
+        "chapterId": "riddler",
+        "where": "Successfully complete the first Riddler trial."
+      },
+      {
+        "id": "achievement-62",
+        "name": "Run Through the Jungle",
+        "kind": "trophy",
+        "chapterId": "combat-and-batmobile",
+        "where": "Fly under 3 main bridges between the islands in one continuous glide."
+      },
+      {
+        "id": "achievement-63",
+        "name": "Touch of Death",
+        "kind": "trophy",
+        "chapterId": "most-wanted",
+        "where": "Apprehend the weapons dealer and lock him up in GCPD."
+      },
+      {
+        "id": "achievement-64",
+        "name": "Trail of Fear",
+        "kind": "trophy",
+        "chapterId": "most-wanted",
+        "where": "Lock up your first Supervillain in GCPD."
+      },
+      {
+        "id": "achievement-65",
+        "name": "Two Faces of Fear!",
+        "kind": "trophy",
+        "chapterId": "most-wanted",
+        "where": "Stop the bank heist on Bleake Island."
+      },
+      {
+        "id": "achievement-66",
+        "name": "Two Sides of the Same Coin!",
+        "kind": "trophy",
+        "chapterId": "most-wanted",
+        "where": "Stop the bank heist on Founders' Island."
+      },
+      {
+        "id": "achievement-67",
+        "name": "Choice of Weapons",
+        "kind": "trophy",
+        "chapterId": "combat-and-batmobile",
+        "where": "Use all five Batmobile weapons successfully in one tank battle."
+      },
+      {
+        "id": "achievement-68",
+        "name": "Who Rules The Night",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-69",
+        "name": "With a Vengeance!",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Take on the heavy artillery reinforcements."
+      },
+      {
+        "id": "achievement-70",
+        "name": "A Blade of Memory",
+        "kind": "trophy",
+        "chapterId": "story-packs",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-71",
+        "name": "A House Made of Spun Glass",
+        "kind": "trophy",
+        "chapterId": "story-packs",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-72",
+        "name": "A Fire in the Heavens",
+        "kind": "trophy",
+        "chapterId": "story-packs",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-73",
+        "name": "The Laughing Fish!",
+        "kind": "trophy",
+        "chapterId": "story-packs",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-74",
+        "name": "A Courtship of Razors",
+        "kind": "trophy",
+        "chapterId": "story-packs",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-75",
+        "name": "Ambush",
+        "kind": "trophy",
+        "chapterId": "story-packs",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-76",
+        "name": "Weird War Tales",
+        "kind": "trophy",
+        "chapterId": "story-packs",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-77",
+        "name": "All Snug in Their Beds",
+        "kind": "trophy",
+        "chapterId": "story-packs",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-78",
+        "name": "Cuckoo for Incarceration",
+        "kind": "trophy",
+        "chapterId": "story-packs",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-79",
+        "name": "Under The Red Hood",
+        "kind": "trophy",
+        "chapterId": "story-packs",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-80",
+        "name": "Street Demonz",
+        "kind": "trophy",
+        "chapterId": "ar-challenges",
+        "where": "Achieve 33 Stars in AR Challenges using the 1989 Movie Batmobile."
+      },
+      {
+        "id": "achievement-81",
+        "name": "Gangland Express",
+        "kind": "trophy",
+        "chapterId": "ar-challenges",
+        "where": "Achieve 33 Stars in AR Challenges using the 2008 Tumbler Batmobile."
+      },
+      {
+        "id": "achievement-82",
+        "name": "Rough Justice",
+        "kind": "trophy",
+        "chapterId": "story-packs",
+        "where": "Stop Penguin's escape from GCPD."
+      },
+      {
+        "id": "achievement-83",
+        "name": "Joy Ride",
+        "kind": "trophy",
+        "chapterId": "ar-challenges",
+        "where": "Achieve 33 Stars in AR Challenges using the 1960's TV Series Batmobile."
+      },
+      {
+        "id": "achievement-84",
+        "name": "The Cat Came Back",
+        "kind": "trophy",
+        "chapterId": "story-packs",
+        "where": "Break into Riddler's secret hideout and exact your revenge."
+      },
+      {
+        "id": "achievement-85",
+        "name": "Succession Plans",
+        "kind": "trophy",
+        "chapterId": "story-packs",
+        "where": "Break into Hell's Gate HQ and apprehend Two-Face."
+      },
+      {
+        "id": "achievement-86",
+        "name": "The World's Finest",
+        "kind": "trophy",
+        "chapterId": "ar-challenges",
+        "where": "Achieve 21 Stars in AR Challenges using the 2016 Batman v Superman Batmobile."
+      },
+      {
+        "id": "achievement-87",
+        "name": "The Big Leagues",
+        "kind": "trophy",
+        "chapterId": "ar-challenges",
+        "where": "Achieve 21 Stars in AR Challenges playing as Robin."
+      },
+      {
+        "id": "achievement-88",
+        "name": "Acts of Violence",
+        "kind": "trophy",
+        "chapterId": "ar-challenges",
+        "where": "Achieve 21 Stars in AR Challenges playing as Nightwing."
+      },
+      {
+        "id": "achievement-89",
+        "name": "Relentless",
+        "kind": "trophy",
+        "chapterId": "ar-challenges",
+        "where": "Achieve 21 Stars in AR Challenges playing as Catwoman."
+      },
+      {
+        "id": "achievement-90",
+        "name": "Shock and Awe",
+        "kind": "trophy",
+        "chapterId": "ar-challenges",
+        "where": "Achieve 21 Stars in AR Challenges playing as Azrael."
+      },
+      {
+        "id": "achievement-91",
+        "name": "Motherlode",
+        "kind": "trophy",
+        "chapterId": "ar-challenges",
+        "where": "Achieve 21 Stars in AR Challenges playing as Batgirl."
+      },
+      {
+        "id": "achievement-92",
+        "name": "Higher Learning",
+        "kind": "trophy",
+        "chapterId": "ar-challenges",
+        "where": "Achieve 21 Stars in AR Challenges playing as Red Hood."
+      },
+      {
+        "id": "achievement-93",
+        "name": "Vengeance Unlimited",
+        "kind": "trophy",
+        "chapterId": "ar-challenges",
+        "where": "Achieve 21 Stars in AR Challenges playing as Harley Quinn."
+      },
+      {
+        "id": "achievement-94",
+        "name": "The Demon Lives Again!",
+        "kind": "trophy",
+        "chapterId": "extra-villains",
+        "where": "Follow the assassin's trail."
+      },
+      {
+        "id": "achievement-95",
+        "name": "Daughter Of The Demon!",
+        "kind": "trophy",
+        "chapterId": "extra-villains",
+        "where": "Discover the Lazarus pit."
+      },
+      {
+        "id": "achievement-96",
+        "name": "Ashes to Ashes",
+        "kind": "trophy",
+        "chapterId": "extra-villains",
+        "where": "End the League of Assassins' war."
+      },
+      {
+        "id": "achievement-97",
+        "name": "The Scene of the Crime",
+        "kind": "trophy",
+        "chapterId": "extra-villains",
+        "where": "Rescue Mad Hatter's first hostage."
+      },
+      {
+        "id": "achievement-98",
+        "name": "Head Games",
+        "kind": "trophy",
+        "chapterId": "extra-villains",
+        "where": "Rescue Mad Hatter's second hostage."
+      },
+      {
+        "id": "achievement-99",
+        "name": "In Storybook Endings",
+        "kind": "trophy",
+        "chapterId": "extra-villains",
+        "where": "Lock up Mad Hatter in GCPD."
+      },
+      {
+        "id": "achievement-100",
+        "name": "Cold Case",
+        "kind": "trophy",
+        "chapterId": "extra-villains",
+        "where": "Interrogate the Militia Lieutenant."
+      },
+      {
+        "id": "achievement-101",
+        "name": "Out in the Cold",
+        "kind": "trophy",
+        "chapterId": "extra-villains",
+        "where": "Track down the cryopod."
+      },
+      {
+        "id": "achievement-102",
+        "name": "The Resurrection and the Life",
+        "kind": "trophy",
+        "chapterId": "extra-villains",
+        "where": "Survive the Militia onslaught."
+      },
+      {
+        "id": "achievement-103",
+        "name": "The Beast Beneath",
+        "kind": "trophy",
+        "chapterId": "extra-villains",
+        "where": "Defeat the prisoners."
+      },
+      {
+        "id": "achievement-104",
+        "name": "Breaking the Skin",
+        "kind": "trophy",
+        "chapterId": "extra-villains",
+        "where": "Gain access to the high security area."
+      },
+      {
+        "id": "achievement-105",
+        "name": "Evolution",
+        "kind": "trophy",
+        "chapterId": "extra-villains",
+        "where": "Lockup Killer Croc in GCPD."
+      },
+      {
+        "id": "achievement-106",
+        "name": "Life After Death",
+        "kind": "trophy",
+        "chapterId": "ar-challenges",
+        "where": "Achieve 21 Stars in AR Challenges using the Original Arkham Batmobile."
+      },
+      {
+        "id": "achievement-107",
+        "name": "What the Butler Saw",
+        "kind": "trophy",
+        "chapterId": "ar-challenges",
+        "where": "Complete the Wayne Manor AR Challenge as Batman without using any gadgets or taking any damage."
+      },
+      {
+        "id": "achievement-108",
+        "name": "Secrets of the Batcave",
+        "kind": "trophy",
+        "chapterId": "ar-challenges",
+        "where": "Complete the Batcave AR Challenge unharmed as Batman and Nightwing, using only Beat Downs."
+      },
+      {
+        "id": "achievement-109",
+        "name": "Silent Night, Deadly Night",
+        "kind": "trophy",
+        "chapterId": "ar-challenges",
+        "where": "Complete the Silent Knight AR Challenge unharmed as Batman and Robin, using only Knockout Smashes."
+      },
+      {
+        "id": "achievement-110",
+        "name": "Eternal",
+        "kind": "trophy",
+        "chapterId": "ar-challenges",
+        "where": "Complete the Endless Knight AR Challenge, taking out 50 Enemies as Batman."
+      },
+      {
+        "id": "achievement-111",
+        "name": "The Chill in the Air",
+        "kind": "trophy",
+        "chapterId": "ar-challenges",
+        "where": "Complete the Crime Alley AR Challenge unharmed as Batman, Robin and Nightwing."
+      },
+      {
+        "id": "achievement-112",
+        "name": "The Curtain Falls",
+        "kind": "trophy",
+        "chapterId": "ar-challenges",
+        "where": "Flawless FreeFlow in every round of the Monarch Theatre as Batman, Robin, Nightwing and Catwoman."
+      },
+      {
+        "id": "achievement-113",
+        "name": "Requiem for a Killer",
+        "kind": "trophy",
+        "chapterId": "ar-challenges",
+        "where": "Defeat an old adversary in the Iceberg Lounge AR Challenge, playing as Batman."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/batman-arkham-knight",
+    "Achievement data from Steam (Steam Web API, app 208650)",
+    "StrategyWiki: no usable walkthrough, nothing used — https://strategywiki.org/wiki/Batman:_Arkham_Knight",
+    "Fandom (batman.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://batman.fandom.com/wiki/Batman:_Arkham_Knight"
+  ],
+  "route": "original",
+  "notes": "Backlog game, picked from RAWG's most-added list for its year (docs/PLAN.md section 2 ordering). StrategyWiki has a guide at completion stage 1, but only the first three walkthrough pages are written (\"Prologue\", about 1,400 characters; \"Saving Poison Ivy\", about 1,900; \"Working Around Gotham City\", about 2,500) out of about 30 listed story, side-mission and add-on pages; Gameplay, Controls and a long Achievements and trophies page (about 21,000 characters) also exist. That is too little for a real guide, so it was not recorded in sw-structure.json and swUsed is off. Its contents page lists add-on pages \"A Flip of a Coin\", \"Batgirl: A Matter of Family\", \"Catwoman's Revenge\", \"GCPD Lockdown\", \"Harley Quinn Story Pack\" and \"Red Hood Story Pack\". batman.fandom.com answers the API under \"Batman: Arkham Knight\", with about 105 linked pages, including \"Gotham's Most Wanted\"; names only were looked at, nothing copied. The Steam schema gives no game name; the store list confirms app 208650. 30 of 113 Steam achievements are hidden. The ten hidden ones at 70 to 79 plus \"Rough Justice\", \"The Cat Came Back\" and \"Succession Plans\" were grouped as add-on story content by schema position; which pack each belongs to is not in the data. Achievements 94 to 105 (assassins, Mad Hatter, the cryopod, Killer Croc) were given their own add-on chapter by position. \"City of Fear\", \"Judgment Day\" and \"With a Vengeance!\" were put in the main story; they may be Most Wanted missions. \"The Curtain Falls\" (Monarch Theatre) sits in the AR Challenge block and was placed there by name. The other 20 hidden ones sit in the main story chapter."
+}

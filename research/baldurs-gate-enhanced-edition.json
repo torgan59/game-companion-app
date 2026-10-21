@@ -1,0 +1,1068 @@
+{
+  "id": "baldurs-gate-enhanced-edition",
+  "title": "Baldur's Gate: Enhanced Edition",
+  "year": 2012,
+  "platforms": [
+    "iOS",
+    "Xbox One",
+    "Nintendo Switch",
+    "PlayStation 4",
+    "Android",
+    "Linux",
+    "PC",
+    "macOS"
+  ],
+  "rawgId": 464,
+  "rawgSlug": "baldurs-gate-enhanced-edition",
+  "released": "2012-11-28",
+  "developers": [
+    "BioWare",
+    "Beamdog",
+    "Overhaul Games"
+  ],
+  "playtime": 4,
+  "genres": [
+    "RPG",
+    "Strategy"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Multiplayer",
+    "Atmospheric",
+    "steam-trading-cards",
+    "RPG",
+    "Co-op",
+    "Story Rich",
+    "cooperative",
+    "Online Co-Op",
+    "Fantasy",
+    "Classic"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/313/3136687fb0b34490d082b7272a0868e2.jpg",
+  "steamAppId": 228280,
+  "achievements": {
+    "total": 129,
+    "hidden": 86,
+    "examples": [
+      {
+        "name": "Hero",
+        "percent": 19.7
+      },
+      {
+        "name": "Villain",
+        "percent": 19.0
+      },
+      {
+        "name": "Murder Incarnate",
+        "percent": 15.3
+      },
+      {
+        "name": "Lord of Murder",
+        "percent": 0.7
+      },
+      {
+        "name": "Painful Recital",
+        "percent": 0.7
+      },
+      {
+        "name": "Unpopular",
+        "percent": 0.7
+      },
+      {
+        "name": "All the Allies",
+        "percent": 0.5
+      },
+      {
+        "name": "All the Enemies",
+        "percent": 0.5
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Baldur's_Gate",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 22,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://baldursgate.fandom.com/wiki/Baldur's_Gate:_Enhanced_Edition"
+    }
+  },
+  "game": {
+    "id": "baldurs-gate-enhanced-edition",
+    "title": "Baldur's Gate: Enhanced Edition",
+    "platforms": [
+      "iOS",
+      "Xbox One",
+      "Nintendo Switch",
+      "PlayStation 4",
+      "Android",
+      "Linux",
+      "PC",
+      "macOS"
+    ],
+    "blurb": "Party-based fantasy role-playing game on the Sword Coast, a remake of the 1998 original, from BioWare, Beamdog and Overhaul Games, released 2012-11-28. RAWG average playtime: 4 hours. Genres: RPG, Strategy. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#8C6D3F",
+    "chapters": [
+      {
+        "id": "main-story",
+        "title": "The Main Story",
+        "summary": "From Candlekeep and the Friendly Arm to the bandits and the city of Baldur's Gate, with many quests on the way. Spoiler-guarded; most achievements here are hidden.",
+        "steps": []
+      },
+      {
+        "id": "korlasz-and-crusade",
+        "title": "The Korlasz Tomb and the Crusade",
+        "summary": "After the city: the Korlasz family tomb, the coalition camp, the crusade, Ashatiel, Julann and the final battle. Spoiler-guarded where hidden.",
+        "steps": []
+      },
+      {
+        "id": "side-quests",
+        "title": "Side Quests on the Road",
+        "summary": "Optional tasks such as the Coast Way refugees, Takos's heirlooms, Glint's family, Halasan's recruits, Tsolak, the menhirs and the Terrible Trivium.",
+        "steps": []
+      },
+      {
+        "id": "companions",
+        "title": "Party and Companions",
+        "summary": "Party line-ups such as Neera, Dorn and Rasaad together, and reuniting with old friends.",
+        "steps": []
+      },
+      {
+        "id": "challenge-runs",
+        "title": "Challenge Runs and Difficulty",
+        "summary": "Solo runs, Legacy of Bhaal and Story Mode difficulty, and finishing with no deaths or a party of dead allies.",
+        "steps": []
+      },
+      {
+        "id": "character-feats",
+        "title": "Character Feats",
+        "summary": "Grand Master, high attributes, Armor Class and Hit Points, reputation, kill counts, Lore, fallen paladins and odd spell combinations.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Grand Master",
+        "kind": "trophy",
+        "chapterId": "character-feats",
+        "where": "Become a Grand Master."
+      },
+      {
+        "id": "achievement-2",
+        "name": "Flying Solo",
+        "kind": "trophy",
+        "chapterId": "challenge-runs",
+        "where": "Complete the game solo."
+      },
+      {
+        "id": "achievement-3",
+        "name": "Lord of Murder",
+        "kind": "trophy",
+        "chapterId": "challenge-runs",
+        "where": "Complete the game on Legacy of Bhaal difficulty."
+      },
+      {
+        "id": "achievement-4",
+        "name": "Friend of Volo",
+        "kind": "trophy",
+        "chapterId": "challenge-runs",
+        "where": "Complete the game on Story Mode difficulty."
+      },
+      {
+        "id": "achievement-5",
+        "name": "Godlike",
+        "kind": "trophy",
+        "chapterId": "character-feats",
+        "where": "Increase an attribute score to 25."
+      },
+      {
+        "id": "achievement-6",
+        "name": "Untouchable",
+        "kind": "trophy",
+        "chapterId": "character-feats",
+        "where": "Have an Armor Class of -15 or lower."
+      },
+      {
+        "id": "achievement-7",
+        "name": "Leave No Friend Behind",
+        "kind": "trophy",
+        "chapterId": "challenge-runs",
+        "where": "Finish the game without any party members dying."
+      },
+      {
+        "id": "achievement-8",
+        "name": "Sacrifices Must Be Made",
+        "kind": "trophy",
+        "chapterId": "challenge-runs",
+        "where": "Finish the game with a full party of dead allies."
+      },
+      {
+        "id": "achievement-9",
+        "name": "Juggernaut",
+        "kind": "trophy",
+        "chapterId": "character-feats",
+        "where": "Reach 150 Hit Points."
+      },
+      {
+        "id": "achievement-10",
+        "name": "Hero",
+        "kind": "trophy",
+        "chapterId": "character-feats",
+        "where": "Acquire Heroic reputation."
+      },
+      {
+        "id": "achievement-11",
+        "name": "Villain",
+        "kind": "trophy",
+        "chapterId": "character-feats",
+        "where": "Acquire Despised reputation."
+      },
+      {
+        "id": "achievement-12",
+        "name": "Murder Incarnate",
+        "kind": "trophy",
+        "chapterId": "character-feats",
+        "where": "Kill 1,000 creatures."
+      },
+      {
+        "id": "achievement-13",
+        "name": "Loremaster",
+        "kind": "trophy",
+        "chapterId": "character-feats",
+        "where": "Have a Lore skill of 100 or more."
+      },
+      {
+        "id": "achievement-14",
+        "name": "Oathbreaker",
+        "kind": "trophy",
+        "chapterId": "character-feats",
+        "where": "Become a Fallen Paladin or a Fallen Ranger."
+      },
+      {
+        "id": "achievement-15",
+        "name": "Best Day Ever",
+        "kind": "trophy",
+        "chapterId": "character-feats",
+        "where": "Have Bless, Chant, and Luck active at the same time."
+      },
+      {
+        "id": "achievement-16",
+        "name": "Worst Day Ever",
+        "kind": "trophy",
+        "chapterId": "character-feats",
+        "where": "Have Disease, Fatigue, and Poison active at the same time."
+      },
+      {
+        "id": "achievement-17",
+        "name": "On My Own",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-18",
+        "name": "Friendly Faces at the Friendly Arm",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-19",
+        "name": "Victory Is Mine",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-20",
+        "name": "Bandits Banished",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-21",
+        "name": "Water, Water Everywhere",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-22",
+        "name": "On the Trail",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-23",
+        "name": "On My Own... Again",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-24",
+        "name": "Hero of Baldur's Gate",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-25",
+        "name": "Mercenary of the Month",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-26",
+        "name": "Worst Bodyguard Ever",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-27",
+        "name": "Scent of a Kobold",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-28",
+        "name": "Only Mostly Dead",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-29",
+        "name": "Unpetrified",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-30",
+        "name": "Sobering News",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-31",
+        "name": "Save the Cow!",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-32",
+        "name": "Forest Friend",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-33",
+        "name": "Noble Assistant",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-34",
+        "name": "The Legend of Durlag's Tower",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-35",
+        "name": "The Written Word",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-36",
+        "name": "Faerûnian Idol",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-37",
+        "name": "This Belongs in a Museum",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-38",
+        "name": "Gallor's Plot",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-39",
+        "name": "Fishermen's Friend",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-40",
+        "name": "Fishermen's Foe",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-41",
+        "name": "Second Chance",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-42",
+        "name": "Judge, Jury, Executioner",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-43",
+        "name": "A Work of Art",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-44",
+        "name": "Philistine",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-45",
+        "name": "Damsel Out of Distress",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-46",
+        "name": "Reunion",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-47",
+        "name": "Master Thief",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-48",
+        "name": "Use Your Words",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-49",
+        "name": "He Started It",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-50",
+        "name": "Completionist",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-51",
+        "name": "Foreshadowing?",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-52",
+        "name": "Safe For Now",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-53",
+        "name": "Witch Slayer",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-54",
+        "name": "Witch Savior",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-55",
+        "name": "The Stone Cleric",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-56",
+        "name": "All the Options",
+        "kind": "trophy",
+        "chapterId": "companions",
+        "where": "Have Neera, Dorn, and Rasaad in the party at the same time."
+      },
+      {
+        "id": "achievement-57",
+        "name": "Entertained",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-58",
+        "name": "Back to Basics",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Speak to all the Candlekeep tutors and learn what they have to teach you."
+      },
+      {
+        "id": "achievement-59",
+        "name": "Lover's Sacrifice",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-60",
+        "name": "Lover's Redemption",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-61",
+        "name": "An Ancient Evil",
+        "kind": "trophy",
+        "chapterId": "korlasz-and-crusade",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-62",
+        "name": "The End of Korlasz",
+        "kind": "trophy",
+        "chapterId": "korlasz-and-crusade",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-63",
+        "name": "A Long Journey",
+        "kind": "trophy",
+        "chapterId": "korlasz-and-crusade",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-64",
+        "name": "Your Father's Grave",
+        "kind": "trophy",
+        "chapterId": "korlasz-and-crusade",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-65",
+        "name": "The Key Forward",
+        "kind": "trophy",
+        "chapterId": "korlasz-and-crusade",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-66",
+        "name": "A Critical Moment",
+        "kind": "trophy",
+        "chapterId": "korlasz-and-crusade",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-67",
+        "name": "Dark Places",
+        "kind": "trophy",
+        "chapterId": "korlasz-and-crusade",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-68",
+        "name": "Hasty Retreat",
+        "kind": "trophy",
+        "chapterId": "korlasz-and-crusade",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-69",
+        "name": "Defender",
+        "kind": "trophy",
+        "chapterId": "korlasz-and-crusade",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-70",
+        "name": "The Devil You Know",
+        "kind": "trophy",
+        "chapterId": "korlasz-and-crusade",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-71",
+        "name": "Grim Deeds to Come...",
+        "kind": "trophy",
+        "chapterId": "korlasz-and-crusade",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-72",
+        "name": "Know Thyself",
+        "kind": "trophy",
+        "chapterId": "korlasz-and-crusade",
+        "where": "Help Ammon in the Korlasz family tomb."
+      },
+      {
+        "id": "achievement-73",
+        "name": "Family Secrets",
+        "kind": "trophy",
+        "chapterId": "korlasz-and-crusade",
+        "where": "Discover a secret hidden away in the Korlasz family tomb."
+      },
+      {
+        "id": "achievement-74",
+        "name": "Seeker of Secrets",
+        "kind": "trophy",
+        "chapterId": "korlasz-and-crusade",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-75",
+        "name": "Far Out",
+        "kind": "trophy",
+        "chapterId": "side-quests",
+        "where": "Summon three creatures to the Prime Material Plane using the Spectacles of Spectacle."
+      },
+      {
+        "id": "achievement-76",
+        "name": "Dragon Slayer",
+        "kind": "trophy",
+        "chapterId": "korlasz-and-crusade",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-77",
+        "name": "Remote Control",
+        "kind": "trophy",
+        "chapterId": "korlasz-and-crusade",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-78",
+        "name": "Diffusion",
+        "kind": "trophy",
+        "chapterId": "korlasz-and-crusade",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-79",
+        "name": "Not The Battle We Came For",
+        "kind": "trophy",
+        "chapterId": "korlasz-and-crusade",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-80",
+        "name": "Give The Enemy No Quarter",
+        "kind": "trophy",
+        "chapterId": "korlasz-and-crusade",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-81",
+        "name": "Inside Job",
+        "kind": "trophy",
+        "chapterId": "korlasz-and-crusade",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-82",
+        "name": "Strange Bedfellow",
+        "kind": "trophy",
+        "chapterId": "korlasz-and-crusade",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-83",
+        "name": "Dumathoin's Disappointment",
+        "kind": "trophy",
+        "chapterId": "korlasz-and-crusade",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-84",
+        "name": "String Cutter",
+        "kind": "trophy",
+        "chapterId": "korlasz-and-crusade",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-85",
+        "name": "Blessed By Talona",
+        "kind": "trophy",
+        "chapterId": "korlasz-and-crusade",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-86",
+        "name": "Divine Pact",
+        "kind": "trophy",
+        "chapterId": "korlasz-and-crusade",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-87",
+        "name": "Atonement",
+        "kind": "trophy",
+        "chapterId": "korlasz-and-crusade",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-88",
+        "name": "The Last Duty",
+        "kind": "trophy",
+        "chapterId": "korlasz-and-crusade",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-89",
+        "name": "Stand Alone",
+        "kind": "trophy",
+        "chapterId": "korlasz-and-crusade",
+        "where": "Defeat the elite crusader Ashatiel in a one on one battle."
+      },
+      {
+        "id": "achievement-90",
+        "name": "A Reunion of Friends",
+        "kind": "trophy",
+        "chapterId": "korlasz-and-crusade",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-91",
+        "name": "Thorough",
+        "kind": "trophy",
+        "chapterId": "korlasz-and-crusade",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-92",
+        "name": "Kanaglym Cleansed",
+        "kind": "trophy",
+        "chapterId": "korlasz-and-crusade",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-93",
+        "name": "Appeal to Reason",
+        "kind": "trophy",
+        "chapterId": "korlasz-and-crusade",
+        "where": "Present evidence of the crusade's crimes to Julann."
+      },
+      {
+        "id": "achievement-94",
+        "name": "Detailed Investigation",
+        "kind": "trophy",
+        "chapterId": "korlasz-and-crusade",
+        "where": "Find the traitor within the coalition camp."
+      },
+      {
+        "id": "achievement-95",
+        "name": "Trivium",
+        "kind": "trophy",
+        "chapterId": "side-quests",
+        "where": "Perform a task worthy of the Terrible Trivium."
+      },
+      {
+        "id": "achievement-96",
+        "name": "It Wasn't Me!",
+        "kind": "trophy",
+        "chapterId": "korlasz-and-crusade",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-97",
+        "name": "Breaking Point",
+        "kind": "trophy",
+        "chapterId": "korlasz-and-crusade",
+        "where": "Persuade Rigah to turn against Julann."
+      },
+      {
+        "id": "achievement-98",
+        "name": "In the Name of the Father",
+        "kind": "trophy",
+        "chapterId": "korlasz-and-crusade",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-99",
+        "name": "Amendments",
+        "kind": "trophy",
+        "chapterId": "korlasz-and-crusade",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-100",
+        "name": "Painful Recital",
+        "kind": "trophy",
+        "chapterId": "side-quests",
+        "where": "Fail to impress the ancient menhirs with your singing ability."
+      },
+      {
+        "id": "achievement-101",
+        "name": "He's Just Misunderstood",
+        "kind": "trophy",
+        "chapterId": "side-quests",
+        "where": "Side with Tsolak the vampire."
+      },
+      {
+        "id": "achievement-102",
+        "name": "Four on One",
+        "kind": "trophy",
+        "chapterId": "korlasz-and-crusade",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-103",
+        "name": "Stone to Flesh",
+        "kind": "trophy",
+        "chapterId": "side-quests",
+        "where": "Save all the missing refugees in the Coast Way forest."
+      },
+      {
+        "id": "achievement-104",
+        "name": "A Complete Set",
+        "kind": "trophy",
+        "chapterId": "side-quests",
+        "where": "Find all of Takos's missing heirlooms."
+      },
+      {
+        "id": "achievement-105",
+        "name": "Well Done",
+        "kind": "trophy",
+        "chapterId": "side-quests",
+        "where": "Deal with an angry water elemental."
+      },
+      {
+        "id": "achievement-106",
+        "name": "Whipped Into Shape",
+        "kind": "trophy",
+        "chapterId": "side-quests",
+        "where": "Train all of Vigilant Halasan's recruits properly."
+      },
+      {
+        "id": "achievement-107",
+        "name": "Nature Lover",
+        "kind": "trophy",
+        "chapterId": "korlasz-and-crusade",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-108",
+        "name": "Dark Ally",
+        "kind": "trophy",
+        "chapterId": "korlasz-and-crusade",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-109",
+        "name": "Family Reunion",
+        "kind": "trophy",
+        "chapterId": "side-quests",
+        "where": "Track down all of Glint's family members."
+      },
+      {
+        "id": "achievement-110",
+        "name": "Get Out!",
+        "kind": "trophy",
+        "chapterId": "side-quests",
+        "where": "Get the strange voice out of Neera's head."
+      },
+      {
+        "id": "achievement-111",
+        "name": "Harper's Gift",
+        "kind": "trophy",
+        "chapterId": "side-quests",
+        "where": "Aid Khalid with his romantic request."
+      },
+      {
+        "id": "achievement-112",
+        "name": "Grub... Doubled",
+        "kind": "trophy",
+        "chapterId": "side-quests",
+        "where": "Help M'Khiin find her path."
+      },
+      {
+        "id": "achievement-113",
+        "name": "I Don't Care",
+        "kind": "trophy",
+        "chapterId": "korlasz-and-crusade",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-114",
+        "name": "Unpopular",
+        "kind": "trophy",
+        "chapterId": "companions",
+        "where": "Have Baeloth, Viconia, M'Khiin, Dorn, and Edwin in the same party."
+      },
+      {
+        "id": "achievement-115",
+        "name": "Newer Kids on the Block",
+        "kind": "trophy",
+        "chapterId": "companions",
+        "where": "Have Corwin, Glint, M'Khiin, and Voghiln in the same party."
+      },
+      {
+        "id": "achievement-116",
+        "name": "You Chose... Poorly",
+        "kind": "trophy",
+        "chapterId": "korlasz-and-crusade",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-117",
+        "name": "The O.G.",
+        "kind": "trophy",
+        "chapterId": "companions",
+        "where": "Reunite with old friends."
+      },
+      {
+        "id": "achievement-118",
+        "name": "Explorer",
+        "kind": "trophy",
+        "chapterId": "side-quests",
+        "where": "Explore all unique encounters."
+      },
+      {
+        "id": "achievement-119",
+        "name": "Scales of the Beast",
+        "kind": "trophy",
+        "chapterId": "korlasz-and-crusade",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-120",
+        "name": "Tapped into the Void",
+        "kind": "trophy",
+        "chapterId": "korlasz-and-crusade",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-121",
+        "name": "Darkseer",
+        "kind": "trophy",
+        "chapterId": "character-feats",
+        "where": "Use infravision to navigate an area of darkness."
+      },
+      {
+        "id": "achievement-122",
+        "name": "Well, It's Heavy",
+        "kind": "trophy",
+        "chapterId": "korlasz-and-crusade",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-123",
+        "name": "Urge to Kill",
+        "kind": "trophy",
+        "chapterId": "korlasz-and-crusade",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-124",
+        "name": "I'm A Wizard and That Looks...",
+        "kind": "trophy",
+        "chapterId": "korlasz-and-crusade",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-125",
+        "name": "All the Allies",
+        "kind": "trophy",
+        "chapterId": "korlasz-and-crusade",
+        "where": "Recruit all the bonus allies possible for the final battle."
+      },
+      {
+        "id": "achievement-126",
+        "name": "All the Enemies",
+        "kind": "trophy",
+        "chapterId": "korlasz-and-crusade",
+        "where": "Fight all the bonus enemies possible at the final battle."
+      },
+      {
+        "id": "achievement-127",
+        "name": "The Hard Way",
+        "kind": "trophy",
+        "chapterId": "korlasz-and-crusade",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-128",
+        "name": "Proud of Yourself",
+        "kind": "trophy",
+        "chapterId": "korlasz-and-crusade",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-129",
+        "name": "Riddlemaster",
+        "kind": "trophy",
+        "chapterId": "korlasz-and-crusade",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/baldurs-gate-enhanced-edition",
+    "Achievement data from Steam (Steam Web API, app 228280)",
+    "StrategyWiki: no usable walkthrough, nothing used — https://strategywiki.org/wiki/Baldur's_Gate",
+    "Fandom (baldursgate.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://baldursgate.fandom.com/wiki/Baldur's_Gate:_Enhanced_Edition"
+  ],
+  "route": "original",
+  "notes": "Backlog game, picked from RAWG's most-added list for its year (docs/PLAN.md section 2 ordering). No StrategyWiki page under \"Baldur's Gate: Enhanced Edition\". The original game's page, \"Baldur's Gate\", is at completion stage 0: only \"Prologue: Candlekeep\" (about 2,000 characters) and \"Table of Contents\" (about 860) exist, while the Walkthrough, Gameplay, Controls and \"Chapter 1\" to \"Chapter 7\" pages are linked but not created, so nothing was used. baldursgate.fandom.com answers the API, with about 22 linked pages, including \"Siege of Dragonspear\", \"Baldur's Gate: Tales of the Sword Coast\", \"Neera\", \"Dorn Il-Khan\" and \"Rasaad yn Bashir\"; names only were looked at, nothing copied. 86 of 129 Steam achievements are hidden, with no descriptions. Achievements 72 to 129 mention the Korlasz family tomb, a crusade, a coalition camp, Ashatiel and Julann; RAWG says the Enhanced Edition added \"an expansion pack\" and Fandom links \"Siege of Dragonspear\", so these are probably that expansion, but no achievement uses its name, so the chapter is named after the places. The 44 hidden achievements from number 61 onward (\"An Ancient Evil\" and \"The End of Korlasz\" first) were placed in that chapter by name because of their schema position next to the Korlasz and crusade ones; that is a judgement call. The other 42 hidden ones sit in the main story chapter as a placeholder, though many (for example \"Save the Cow!\", \"Fishermen's Friend\", \"Master Thief\") are probably side quests. Whether app 228280 includes the expansion was not checked. RAWG lists a playtime of only 4 hours, which looks low."
+}

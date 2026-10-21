@@ -1,0 +1,130 @@
+{
+  "id": "dragon-age-origins-ultimate-edition",
+  "title": "Dragon Age: Origins - Ultimate Edition",
+  "year": 2010,
+  "platforms": [
+    "PC",
+    "Xbox 360",
+    "PlayStation 3"
+  ],
+  "rawgId": 366885,
+  "rawgSlug": "dragon-age-origins-ultimate-edition",
+  "released": "2010-10-26",
+  "developers": [
+    "BioWare"
+  ],
+  "playtime": 6,
+  "genres": [
+    "RPG"
+  ],
+  "tags": [
+    "Singleplayer",
+    "RPG",
+    "Story Rich",
+    "Open World",
+    "Third Person",
+    "Fantasy",
+    "Classic",
+    "Female Protagonist",
+    "Tactical",
+    "role-playing",
+    "Moddable",
+    "Character Customization"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/add/add07a75a3f1e479b55dbe920d9fb13d.jpg",
+  "steamAppId": null,
+  "achievements": {
+    "total": 0,
+    "examples": [],
+    "reason": "Steam app 47810 (\"Dragon Age: Origins - Ultimate Edition\") returns an empty achievement schema from the Steam Web API and the global percentages call is refused (HTTP 403), so there is no Steam list. StrategyWiki has a written \"Achievements and trophies\" page (about 14,000 characters)."
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Dragon_Age:_Origins",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 228,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://dragonage.fandom.com/wiki/Dragon_Age:_Origins"
+    }
+  },
+  "game": {
+    "id": "dragon-age-origins-ultimate-edition",
+    "title": "Dragon Age: Origins - Ultimate Edition",
+    "platforms": [
+      "PC",
+      "Xbox 360",
+      "PlayStation 3"
+    ],
+    "blurb": "Party-based fantasy RPG in which a Grey Warden faces the Blight in Ferelden, from BioWare, released 2010-10-26 (original game 2009). RAWG average playtime: 6 hours. Genre: RPG. Chapters are an estimate drawn from StrategyWiki and Fandom page names, as there is no Steam achievement list.",
+    "accent": "#7B1E1E",
+    "chapters": [
+      {
+        "id": "origins",
+        "title": "The Origins",
+        "summary": "The six opening stories: Human Noble, Magi, Dalish Elf, City Elf, Dwarf Commoner and Dwarf Noble.",
+        "steps": []
+      },
+      {
+        "id": "ostagar",
+        "title": "Ostagar and the Korcari Wilds",
+        "summary": "Joining the Grey Wardens at Ostagar, the Korcari Wilds and the Tower of Ishal.",
+        "steps": []
+      },
+      {
+        "id": "lothering",
+        "title": "Lothering",
+        "summary": "A village on the road, with jobs on the Chanter's Board and new companions.",
+        "steps": []
+      },
+      {
+        "id": "redcliffe-and-the-urn",
+        "title": "Redcliffe and the Urn",
+        "summary": "Trouble at Redcliffe and the search for the Urn of Sacred Ashes.",
+        "steps": []
+      },
+      {
+        "id": "allies",
+        "title": "Kinloch Hold, the Brecilian Forest and Orzammar",
+        "summary": "The Circle of Magi at Kinloch Hold, the Dalish in the Brecilian Forest, and Orzammar.",
+        "steps": []
+      },
+      {
+        "id": "landsmeet-and-finale",
+        "title": "Denerim, the Landsmeet and the Finale",
+        "summary": "Politics in Denerim and the end of the Blight. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "dlc",
+        "title": "Downloadable Content",
+        "summary": "Warden's Keep, The Stone Prisoner, Return to Ostagar, The Darkspawn Chronicles, Leliana's Song, The Golems of Amgarrak and Witch Hunt.",
+        "steps": []
+      },
+      {
+        "id": "awakening",
+        "title": "Awakening",
+        "summary": "The Dragon Age: Origins - Awakening expansion.",
+        "steps": []
+      }
+    ],
+    "collectibles": []
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/dragon-age-origins-ultimate-edition",
+    "Steam: no achievement list available for this game (see notes)",
+    "StrategyWiki: mission and page names used to group chapters, CC BY-SA 4.0; no text copied — https://strategywiki.org/wiki/Dragon_Age:_Origins",
+    "Fandom (dragonage.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://dragonage.fandom.com/wiki/Dragon_Age:_Origins"
+  ],
+  "route": "original",
+  "notes": "Backlog game, picked from RAWG's most-added list for its year (docs/PLAN.md section 2 ordering). StrategyWiki has the guide under \"Dragon Age: Origins\" at completion stage 0. Only 3 subpages exist: \"Achievements and trophies\" (about 14,000 characters), \"Character creation\" (about 7,300) and \"Table of Contents\" (about 2,100). Its contents list walkthrough pages for the six origins, \"Ostagar\", \"Korcari Wilds\", \"The Tower of Ishal\" and \"Lothering\", DLC pages (\"Warden's Keep\", \"The Stone Prisoner\", \"Return to Ostagar\", \"Darkspawn Chronicles\") and an \"Awakening\" walkthrough, but none of them is written; only the page names were used. dragonage.fandom.com answers the API under \"Dragon Age: Origins\", with about 228 linked pages; its \"Storyline for Dragon Age: Origins\" page links Ostagar, Lothering, Redcliffe, the Urn, Kinloch Hold, the Brecilian Forest, Orzammar, Denerim and the Landsmeet in that order, and that link order was used for chapters 2 to 6; it was not checked against the game. The DLC chapter lists DLC names from StrategyWiki and Fandom; which of them the Ultimate Edition includes was not checked. Steam app 47810 returns an empty achievement schema, so steam=None. RAWG lists a playtime of only 6 hours, which looks low."
+}

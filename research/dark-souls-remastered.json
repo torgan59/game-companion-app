@@ -1,0 +1,449 @@
+{
+  "id": "dark-souls-remastered",
+  "title": "Dark Souls: Remastered",
+  "year": 2018,
+  "platforms": [
+    "Nintendo Switch",
+    "PC",
+    "PlayStation 4",
+    "Xbox One"
+  ],
+  "rawgId": 51610,
+  "rawgSlug": "dark-souls8482-remastered",
+  "released": "2018-05-23",
+  "developers": [
+    "FromSoftware",
+    "QLOC"
+  ],
+  "playtime": 15,
+  "genres": [
+    "Action",
+    "RPG"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Multiplayer",
+    "Full controller support",
+    "Atmospheric",
+    "Great Soundtrack",
+    "RPG",
+    "Co-op",
+    "Story Rich",
+    "Open World",
+    "cooperative",
+    "Third Person"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/29c/29c6c21cc0c78cff6f45d23631cc82f4.jpg",
+  "steamAppId": 570940,
+  "achievements": {
+    "total": 41,
+    "hidden": 0,
+    "examples": [
+      {
+        "name": "Enkindle",
+        "percent": 96.5
+      },
+      {
+        "name": "Estus Flask",
+        "percent": 93.9
+      },
+      {
+        "name": "Reach Lordran",
+        "percent": 91.5
+      },
+      {
+        "name": "Bond of a Pyromancer",
+        "percent": 10.1
+      },
+      {
+        "name": "Magic Weapon",
+        "percent": 9.7
+      },
+      {
+        "name": "Prayer of a Maiden",
+        "percent": 8.6
+      },
+      {
+        "name": "Knight's Honor",
+        "percent": 8.3
+      },
+      {
+        "name": "The Dark Soul",
+        "percent": 8.1
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Dark_Souls",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 22,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://darksouls.fandom.com/wiki/Dark_Souls"
+    }
+  },
+  "game": {
+    "id": "dark-souls-remastered",
+    "title": "Dark Souls: Remastered",
+    "platforms": [
+      "Nintendo Switch",
+      "PC",
+      "PlayStation 4",
+      "Xbox One"
+    ],
+    "blurb": "Remaster of the 2011 dark fantasy action RPG set in Lordran, from FromSoftware and QLOC, released 2018-05-23. RAWG average playtime: 15 hours. Genres: Action, RPG. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#B5651D",
+    "chapters": [
+      {
+        "id": "first-steps",
+        "title": "First Steps to Lordran",
+        "summary": "Lighting your first bonfire, getting the Estus Flask and arriving in Lordran.",
+        "steps": []
+      },
+      {
+        "id": "bells-of-awakening",
+        "title": "The Two Bells of Awakening",
+        "summary": "Ringing the bells at the Undead Church and in Quelaag's domain.",
+        "steps": []
+      },
+      {
+        "id": "anor-londo",
+        "title": "Anor Londo and the Lordvessel",
+        "summary": "Reaching Anor Londo and taking the Lordvessel.",
+        "steps": []
+      },
+      {
+        "id": "lord-souls",
+        "title": "The Lord Souls",
+        "summary": "Gravelord Nito, the Bed of Chaos, the Four Kings and Seath the Scaleless, plus the Rite of Kindling and the Art of Abysswalking.",
+        "steps": []
+      },
+      {
+        "id": "endings",
+        "title": "The Endings",
+        "summary": "The two endings and every achievement. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "covenants-and-optional",
+        "title": "Covenants and Optional Bosses",
+        "summary": "Finding all nine covenants, and the optional fights with Dark Sun Gwyndolin and Crossbreed Priscilla.",
+        "steps": []
+      },
+      {
+        "id": "weapons-and-magic",
+        "title": "Weapons, Spells and Reinforcement",
+        "summary": "Rare weapons, every sorcery, pyromancy and miracle, and each fully reinforced weapon path.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "The Dark Soul",
+        "kind": "trophy",
+        "chapterId": "endings",
+        "where": "All achievements completed. Congratulations!"
+      },
+      {
+        "id": "achievement-2",
+        "name": "To Link the Fire",
+        "kind": "trophy",
+        "chapterId": "endings",
+        "where": "Reach \"To Link the Fire\" ending."
+      },
+      {
+        "id": "achievement-3",
+        "name": "Dark Lord",
+        "kind": "trophy",
+        "chapterId": "endings",
+        "where": "Reach \"The Dark Lord\" ending."
+      },
+      {
+        "id": "achievement-4",
+        "name": "Knight's Honor",
+        "kind": "trophy",
+        "chapterId": "weapons-and-magic",
+        "where": "Acquire all rare weapons."
+      },
+      {
+        "id": "achievement-5",
+        "name": "Wisdom of a Sage",
+        "kind": "trophy",
+        "chapterId": "weapons-and-magic",
+        "where": "Acquire all sorceries."
+      },
+      {
+        "id": "achievement-6",
+        "name": "Bond of a Pyromancer",
+        "kind": "trophy",
+        "chapterId": "weapons-and-magic",
+        "where": "Acquire all pyromancies."
+      },
+      {
+        "id": "achievement-7",
+        "name": "Prayer of a Maiden",
+        "kind": "trophy",
+        "chapterId": "weapons-and-magic",
+        "where": "Acquire all miracles."
+      },
+      {
+        "id": "achievement-8",
+        "name": "Covenant: Way of White",
+        "kind": "trophy",
+        "chapterId": "covenants-and-optional",
+        "where": "Discover Way of White covenant."
+      },
+      {
+        "id": "achievement-9",
+        "name": "Covenant: Princess's Guard",
+        "kind": "trophy",
+        "chapterId": "covenants-and-optional",
+        "where": "Discover Princess's Guard covenant."
+      },
+      {
+        "id": "achievement-10",
+        "name": "Covenant: Blade of the Darkmoon",
+        "kind": "trophy",
+        "chapterId": "covenants-and-optional",
+        "where": "Discover Blade of the Darkmoon covenant."
+      },
+      {
+        "id": "achievement-11",
+        "name": "Covenant: Warrior of Sunlight",
+        "kind": "trophy",
+        "chapterId": "covenants-and-optional",
+        "where": "Discover Warrior of Sunlight covenant."
+      },
+      {
+        "id": "achievement-12",
+        "name": "Covenant: Forest Hunter",
+        "kind": "trophy",
+        "chapterId": "covenants-and-optional",
+        "where": "Discover Forest Hunter covenant."
+      },
+      {
+        "id": "achievement-13",
+        "name": "Covenant: Darkwraith",
+        "kind": "trophy",
+        "chapterId": "covenants-and-optional",
+        "where": "Discover Darkwraith covenant."
+      },
+      {
+        "id": "achievement-14",
+        "name": "Covenant: Path of the Dragon",
+        "kind": "trophy",
+        "chapterId": "covenants-and-optional",
+        "where": "Discover Path of the Dragon covenant."
+      },
+      {
+        "id": "achievement-15",
+        "name": "Covenant: Gravelord Servant",
+        "kind": "trophy",
+        "chapterId": "covenants-and-optional",
+        "where": "Discover Gravelord Servant covenant."
+      },
+      {
+        "id": "achievement-16",
+        "name": "Covenant: Chaos Servant",
+        "kind": "trophy",
+        "chapterId": "covenants-and-optional",
+        "where": "Discover Chaos Servant covenant."
+      },
+      {
+        "id": "achievement-17",
+        "name": "Strongest Weapon",
+        "kind": "trophy",
+        "chapterId": "weapons-and-magic",
+        "where": "Acquire best weapon through standard reinforcement."
+      },
+      {
+        "id": "achievement-18",
+        "name": "Crystal Weapon",
+        "kind": "trophy",
+        "chapterId": "weapons-and-magic",
+        "where": "Acquire best weapon through crystal reinforcement."
+      },
+      {
+        "id": "achievement-19",
+        "name": "Lightning Weapon",
+        "kind": "trophy",
+        "chapterId": "weapons-and-magic",
+        "where": "Acquire best weapon through lightning reinforcement."
+      },
+      {
+        "id": "achievement-20",
+        "name": "Raw Weapon",
+        "kind": "trophy",
+        "chapterId": "weapons-and-magic",
+        "where": "Acquire best weapon through raw reinforcement."
+      },
+      {
+        "id": "achievement-21",
+        "name": "Magic Weapon",
+        "kind": "trophy",
+        "chapterId": "weapons-and-magic",
+        "where": "Acquire best weapon through magic reinforcement."
+      },
+      {
+        "id": "achievement-22",
+        "name": "Enchanted Weapon",
+        "kind": "trophy",
+        "chapterId": "weapons-and-magic",
+        "where": "Acquire best weapon through enchanted reinforcement."
+      },
+      {
+        "id": "achievement-23",
+        "name": "Divine Weapon",
+        "kind": "trophy",
+        "chapterId": "weapons-and-magic",
+        "where": "Acquire best weapon through divine reinforcement."
+      },
+      {
+        "id": "achievement-24",
+        "name": "Occult Weapon",
+        "kind": "trophy",
+        "chapterId": "weapons-and-magic",
+        "where": "Acquire best weapon through occult reinforcement."
+      },
+      {
+        "id": "achievement-25",
+        "name": "Fire Weapon",
+        "kind": "trophy",
+        "chapterId": "weapons-and-magic",
+        "where": "Acquire best weapon through fire reinforcement."
+      },
+      {
+        "id": "achievement-26",
+        "name": "Chaos Weapon",
+        "kind": "trophy",
+        "chapterId": "weapons-and-magic",
+        "where": "Acquire best weapon through chaos reinforcement."
+      },
+      {
+        "id": "achievement-27",
+        "name": "Enkindle",
+        "kind": "trophy",
+        "chapterId": "first-steps",
+        "where": "Light bonfire flame."
+      },
+      {
+        "id": "achievement-28",
+        "name": "Estus Flask",
+        "kind": "trophy",
+        "chapterId": "first-steps",
+        "where": "Acquire Estus Flask."
+      },
+      {
+        "id": "achievement-29",
+        "name": "Reach Lordran",
+        "kind": "trophy",
+        "chapterId": "first-steps",
+        "where": "Arrive in Lordran."
+      },
+      {
+        "id": "achievement-30",
+        "name": "Ring the Bell (Undead Church)",
+        "kind": "trophy",
+        "chapterId": "bells-of-awakening",
+        "where": "Ring Bell of Awakening at Undead Church."
+      },
+      {
+        "id": "achievement-31",
+        "name": "Ring the Bell (Quelaag's Domain)",
+        "kind": "trophy",
+        "chapterId": "bells-of-awakening",
+        "where": "Ring Bell of Awakening in Quelaag's domain."
+      },
+      {
+        "id": "achievement-32",
+        "name": "Rite of Kindling",
+        "kind": "trophy",
+        "chapterId": "lord-souls",
+        "where": "Acquire the Rite of Kindling."
+      },
+      {
+        "id": "achievement-33",
+        "name": "Art of Abysswalking",
+        "kind": "trophy",
+        "chapterId": "lord-souls",
+        "where": "Acquire the Art of Abysswalking."
+      },
+      {
+        "id": "achievement-34",
+        "name": "Reach Anor Londo",
+        "kind": "trophy",
+        "chapterId": "anor-londo",
+        "where": "Arrive in Anor Londo."
+      },
+      {
+        "id": "achievement-35",
+        "name": "Lordvessel",
+        "kind": "trophy",
+        "chapterId": "anor-londo",
+        "where": "Acquire the Lordvessel."
+      },
+      {
+        "id": "achievement-36",
+        "name": "Defeat Gravelord Nito",
+        "kind": "trophy",
+        "chapterId": "lord-souls",
+        "where": "Defeat the Soul Lord Gravelord Nito."
+      },
+      {
+        "id": "achievement-37",
+        "name": "Defeat Bed of Chaos",
+        "kind": "trophy",
+        "chapterId": "lord-souls",
+        "where": "Defeat the Soul Lord Bed of Chaos."
+      },
+      {
+        "id": "achievement-38",
+        "name": "Defeat the Four Kings",
+        "kind": "trophy",
+        "chapterId": "lord-souls",
+        "where": "Defeat the Four Kings, inheritors of souls."
+      },
+      {
+        "id": "achievement-39",
+        "name": "Defeat Seath the Scaleless",
+        "kind": "trophy",
+        "chapterId": "lord-souls",
+        "where": "Defeat Seath the Scaleless, inheritors of souls."
+      },
+      {
+        "id": "achievement-40",
+        "name": "Defeat the Dark Sun Gwyndolin",
+        "kind": "trophy",
+        "chapterId": "covenants-and-optional",
+        "where": "Defeat Dark Sun Gwyndolin, the Darkmoon God."
+      },
+      {
+        "id": "achievement-41",
+        "name": "Defeat Crossbreed Priscilla",
+        "kind": "trophy",
+        "chapterId": "covenants-and-optional",
+        "where": "Defeat Crossbreed Priscilla, the Lifehunter"
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/dark-souls8482-remastered",
+    "Achievement data from Steam (Steam Web API, app 570940)",
+    "StrategyWiki: no usable walkthrough, nothing used — https://strategywiki.org/wiki/Dark_Souls",
+    "Fandom (darksouls.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://darksouls.fandom.com/wiki/Dark_Souls"
+  ],
+  "route": "original",
+  "notes": "Backlog game, picked from RAWG's most-added list for its year (docs/PLAN.md section 2 ordering). No StrategyWiki page under \"Dark Souls: Remastered\"; the guide is under \"Dark Souls\", at completion stage 0. It has written walkthrough subpages for only the first three areas (Northern Undead Asylum, about 7,400 characters; Firelink Shrine, about 4,000; Undead Burg, about 7,000) plus Achievements and trophies, Character and class, Controls, Table of Contents and short Bosses, Equipment, Gameplay, Shields and Weapons pages, so it is not a full guide and no structure was taken. darksouls.fandom.com answers the API (\"Dark Souls: Remastered\" redirects to \"Dark Souls\"), with about 22 linked pages; names only were looked at, nothing copied. The Steam schema calls the app \"Youka\" (an internal codename). None of the 41 Steam achievements are hidden. RAWG says the remaster includes the Artorias of the Abyss DLC, but no Steam achievement names it, so it has no chapter. The order of the Lord Souls chapter follows the schema list, not a route from any source; Gwyndolin and Priscilla were put with the covenants as optional bosses based on unlock rates (about 32 and 34 percent, below the Lord Souls at about 42)."
+}

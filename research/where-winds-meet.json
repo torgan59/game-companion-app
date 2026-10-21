@@ -1,0 +1,632 @@
+{
+  "id": "where-winds-meet",
+  "title": "Where Winds Meet",
+  "year": 2025,
+  "platforms": [
+    "PC",
+    "PlayStation 5"
+  ],
+  "rawgId": 840785,
+  "rawgSlug": "where-winds-meet",
+  "released": "2025-11-14",
+  "developers": [
+    "Everstone Games",
+    "Everstone Studio"
+  ],
+  "playtime": 3,
+  "genres": [
+    "Action",
+    "Adventure",
+    "RPG"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Multiplayer",
+    "Full controller support",
+    "Atmospheric",
+    "RPG",
+    "Co-op",
+    "Story Rich",
+    "Open World",
+    "Online Co-Op",
+    "Exploration",
+    "Free to Play"
+  ],
+  "coverUrl": "https://media.rawg.io/media/screenshots/8a7/8a797083d6dd0f810a42bb2fa379a23a.jpg",
+  "steamAppId": 3564740,
+  "achievements": {
+    "total": 67,
+    "hidden": 8,
+    "examples": [
+      {
+        "name": "First Resonance",
+        "percent": 40.6
+      },
+      {
+        "name": "Quick on the Uptake - Qinghe",
+        "percent": 33.3
+      },
+      {
+        "name": "Source of Still Shore",
+        "percent": 29.2
+      },
+      {
+        "name": "Feathered Finesse",
+        "percent": 0.0
+      },
+      {
+        "name": "Flock-Solid Run",
+        "percent": 0.0
+      },
+      {
+        "name": "Grave Research",
+        "percent": 0.0
+      },
+      {
+        "name": "A Song of Tides",
+        "percent": 0.0
+      },
+      {
+        "name": "Shocking Epiphany",
+        "percent": 0.0
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": false,
+      "pages": 0,
+      "reason": "No page for Where Winds Meet (MediaWiki API returned missing; search empty)"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 75,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://wherewindsmeet.fandom.com/wiki/Where_Winds_Meet"
+    }
+  },
+  "game": {
+    "id": "where-winds-meet",
+    "title": "Where Winds Meet",
+    "platforms": [
+      "PC",
+      "PlayStation 5"
+    ],
+    "blurb": "Open-world action RPG from Everstone Games, released 2025-11-14. RAWG average playtime: 3 hours. Genres: Action, Adventure, RPG. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#4A7A4C",
+    "chapters": [
+      {
+        "id": "main-story",
+        "title": "The Main Story",
+        "summary": "The main story, its Qinghe ending and the Dark Surge stories. Spoiler-guarded; the hidden achievements sit here.",
+        "steps": []
+      },
+      {
+        "id": "qinghe",
+        "title": "Qinghe",
+        "summary": "Chests, peculiar challenges, Meow Meow puzzles, encounters and the Moonveil Mountain Tower in Qinghe.",
+        "steps": []
+      },
+      {
+        "id": "kaifeng",
+        "title": "Kaifeng",
+        "summary": "Oddities, chests, Meow Meow puzzles, encounters and the highest point in Kaifeng.",
+        "steps": []
+      },
+      {
+        "id": "hexi",
+        "title": "Hexi",
+        "summary": "Chests, puzzles, tales and the Jianghu Legacy in the Hexi desert, and odd side games nearby.",
+        "steps": []
+      },
+      {
+        "id": "campaigns-and-bosses",
+        "title": "Campaigns and Boss Fights",
+        "summary": "Clearing campaigns such as Still Shore and Heavenfall, and timed boss fights.",
+        "steps": []
+      },
+      {
+        "id": "palace-and-mountains",
+        "title": "The Palace and the Mountains",
+        "summary": "A later block of achievements about palace halls, loyalty, a moonlit thief, mountains and flying.",
+        "steps": []
+      },
+      {
+        "id": "newest-areas",
+        "title": "Newest Areas",
+        "summary": "The latest additions: Derndale, Penglai, Sea Shepherd and Mount Tai.",
+        "steps": []
+      },
+      {
+        "id": "character-growth",
+        "title": "Gear and Martial Arts",
+        "summary": "Gear enhancement and tuning, Internal Arts, Martial Styles and mastering weapons.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "The Hero is the Voice of the World",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "All achievements unlocked. With heroic compassion, we've journeyed thousands of miles together."
+      },
+      {
+        "id": "achievement-2",
+        "name": "Goose Slayer",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-3",
+        "name": "Victory in the Abyss",
+        "kind": "trophy",
+        "chapterId": "campaigns-and-bosses",
+        "where": "Defeat ​The Void King within 60s."
+      },
+      {
+        "id": "achievement-4",
+        "name": "Mighty Wolf Rider",
+        "kind": "trophy",
+        "chapterId": "campaigns-and-bosses",
+        "where": "Defeat Wolf Maiden."
+      },
+      {
+        "id": "achievement-5",
+        "name": "Speedrun in Granary",
+        "kind": "trophy",
+        "chapterId": "campaigns-and-bosses",
+        "where": "Defeat Zheng E within 180s."
+      },
+      {
+        "id": "achievement-6",
+        "name": "Past Secrets Unsung",
+        "kind": "trophy",
+        "chapterId": "campaigns-and-bosses",
+        "where": "Clear Campaign: Palace of Annals."
+      },
+      {
+        "id": "achievement-7",
+        "name": "Source of Still Shore",
+        "kind": "trophy",
+        "chapterId": "campaigns-and-bosses",
+        "where": "Clear Campaign: Still Shore."
+      },
+      {
+        "id": "achievement-8",
+        "name": "Jinming Pool Secrets",
+        "kind": "trophy",
+        "chapterId": "campaigns-and-bosses",
+        "where": "Clear Campaign: Jinming Pool."
+      },
+      {
+        "id": "achievement-9",
+        "name": "Savior of Kaifeng",
+        "kind": "trophy",
+        "chapterId": "campaigns-and-bosses",
+        "where": "Clear Campaign: Heavenfall."
+      },
+      {
+        "id": "achievement-10",
+        "name": "Broken Spear Victory",
+        "kind": "trophy",
+        "chapterId": "campaigns-and-bosses",
+        "where": "Defeat the Nameless General."
+      },
+      {
+        "id": "achievement-11",
+        "name": "Quick on the Uptake - Kaifeng",
+        "kind": "trophy",
+        "chapterId": "kaifeng",
+        "where": "Collect 250 Oddities in Kaifeng."
+      },
+      {
+        "id": "achievement-12",
+        "name": "Qinghe · Seeker of Melodies",
+        "kind": "trophy",
+        "chapterId": "qinghe",
+        "where": "Complete 150 peculiar challenges in the Qinghe area."
+      },
+      {
+        "id": "achievement-13",
+        "name": "Quick on the Uptake - Qinghe",
+        "kind": "trophy",
+        "chapterId": "qinghe",
+        "where": "Collect 40 chests."
+      },
+      {
+        "id": "achievement-14",
+        "name": "Every Inch Covered - Kaifeng",
+        "kind": "trophy",
+        "chapterId": "kaifeng",
+        "where": "Collect 40 chests in Kaifeng."
+      },
+      {
+        "id": "achievement-15",
+        "name": "Horizon Seeker",
+        "kind": "trophy",
+        "chapterId": "qinghe",
+        "where": "Reach the highest point in Qinghe: Moonveil Mountain Tower."
+      },
+      {
+        "id": "achievement-16",
+        "name": "Peak of All Arts",
+        "kind": "trophy",
+        "chapterId": "kaifeng",
+        "where": "Reach the highest point, East of Beast Reverie, in the Fair Grounds of Kaifeng."
+      },
+      {
+        "id": "achievement-17",
+        "name": "Paws on Point - Qinghe",
+        "kind": "trophy",
+        "chapterId": "qinghe",
+        "where": "Solve 10 Meow Meow Puzzles in Qinghe."
+      },
+      {
+        "id": "achievement-18",
+        "name": "Feline Riddler - Kaifeng",
+        "kind": "trophy",
+        "chapterId": "kaifeng",
+        "where": "Solve 5 Meow Meow Puzzles in Kaifeng."
+      },
+      {
+        "id": "achievement-19",
+        "name": "Life Goes to Dogs",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-20",
+        "name": "The Old Timer Got It",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-21",
+        "name": "Echoes Unbound",
+        "kind": "trophy",
+        "chapterId": "character-growth",
+        "where": "Reach Avg. Enhancement Lv.5."
+      },
+      {
+        "id": "achievement-22",
+        "name": "Power of Four",
+        "kind": "trophy",
+        "chapterId": "character-growth",
+        "where": "Equip 4 Internal Arts."
+      },
+      {
+        "id": "achievement-23",
+        "name": "Perfect Harmony",
+        "kind": "trophy",
+        "chapterId": "character-growth",
+        "where": "Tune an Epic gear to max level."
+      },
+      {
+        "id": "achievement-24",
+        "name": "First Resonance",
+        "kind": "trophy",
+        "chapterId": "character-growth",
+        "where": "Enhance a piece of gear to Lv.2."
+      },
+      {
+        "id": "achievement-25",
+        "name": "Skill at Hand",
+        "kind": "trophy",
+        "chapterId": "character-growth",
+        "where": "Upgrade a Martial Style to Lv. 30."
+      },
+      {
+        "id": "achievement-26",
+        "name": "Healing Hands",
+        "kind": "trophy",
+        "chapterId": "character-growth",
+        "where": "Master the Panacea Fan."
+      },
+      {
+        "id": "achievement-27",
+        "name": "The Grand Strategist",
+        "kind": "trophy",
+        "chapterId": "character-growth",
+        "where": "Master the Strategic Sword."
+      },
+      {
+        "id": "achievement-28",
+        "name": "The Final Destiny - Qinghe",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Unlock the ending of main story of Qinghe."
+      },
+      {
+        "id": "achievement-29",
+        "name": "Buddha's Afterglow",
+        "kind": "trophy",
+        "chapterId": "campaigns-and-bosses",
+        "where": "Clear Campaign: Halo Peak."
+      },
+      {
+        "id": "achievement-30",
+        "name": "The First Finding",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Unlock a Dark Surge story."
+      },
+      {
+        "id": "achievement-31",
+        "name": "Voice of the Valiant",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-32",
+        "name": "Quirks of Fate - Qinghe",
+        "kind": "trophy",
+        "chapterId": "qinghe",
+        "where": "Complete 3 encounters in Qinghe."
+      },
+      {
+        "id": "achievement-33",
+        "name": "Quirks of Fate - Kaifeng",
+        "kind": "trophy",
+        "chapterId": "kaifeng",
+        "where": "Complete 3 encounters in Southeast Kaifeng."
+      },
+      {
+        "id": "achievement-34",
+        "name": "A Promise Fulfilled",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-35",
+        "name": "Hexi: Relentless Hunter",
+        "kind": "trophy",
+        "chapterId": "hexi",
+        "where": "Collect 20 chests of any quality in Hexi."
+      },
+      {
+        "id": "achievement-36",
+        "name": "Hexi: Paws on Point",
+        "kind": "trophy",
+        "chapterId": "hexi",
+        "where": "Solve 6 Meow Meow Puzzles in Hexi."
+      },
+      {
+        "id": "achievement-37",
+        "name": "A Fish Out of Water",
+        "kind": "trophy",
+        "chapterId": "hexi",
+        "where": "A fish atop the tallest tree? In this desert, anything goes."
+      },
+      {
+        "id": "achievement-38",
+        "name": "Cat Fever",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-39",
+        "name": "Swift Annihilation",
+        "kind": "trophy",
+        "chapterId": "campaigns-and-bosses",
+        "where": "Defeat Wucan within 180 seconds."
+      },
+      {
+        "id": "achievement-40",
+        "name": "Egg-cellent Luck",
+        "kind": "trophy",
+        "chapterId": "hexi",
+        "where": "Perform a 10x smash in Wang Quanyou's egg-smashing game."
+      },
+      {
+        "id": "achievement-41",
+        "name": "Alone in Chang'an",
+        "kind": "trophy",
+        "chapterId": "hexi",
+        "where": "Complete Hexi Jianghu Legacy: The Homeward Vow."
+      },
+      {
+        "id": "achievement-42",
+        "name": "Hexi: Full Moon Rising",
+        "kind": "trophy",
+        "chapterId": "hexi",
+        "where": "Unlock all Tales and Echoes in Hexi."
+      },
+      {
+        "id": "achievement-43",
+        "name": "A Squeak to Remember",
+        "kind": "trophy",
+        "chapterId": "hexi",
+        "where": "The tiny squeak of a woodchuck sealed your defeat."
+      },
+      {
+        "id": "achievement-44",
+        "name": "Reflections of Obsession",
+        "kind": "trophy",
+        "chapterId": "campaigns-and-bosses",
+        "where": "Clear Campaign - Dim Lamp Night."
+      },
+      {
+        "id": "achievement-45",
+        "name": "The Unspeakable Victory",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-46",
+        "name": "All Hail Me",
+        "kind": "trophy",
+        "chapterId": "palace-and-mountains",
+        "where": "Your martial prowess is the stuff of legend. Someone fetch the imperial robes. They were made for you."
+      },
+      {
+        "id": "achievement-47",
+        "name": "The Grand Tour",
+        "kind": "trophy",
+        "chapterId": "palace-and-mountains",
+        "where": "If the Emperor can wander these halls, so can you. Every last room of them."
+      },
+      {
+        "id": "achievement-48",
+        "name": "Strength of Character",
+        "kind": "trophy",
+        "chapterId": "palace-and-mountains",
+        "where": "Anyone can win by force, but true loyalty can't be beaten into someone. Earn it."
+      },
+      {
+        "id": "achievement-49",
+        "name": "We're Cool Now",
+        "kind": "trophy",
+        "chapterId": "palace-and-mountains",
+        "where": "Cross blades with the Black-Clad Thief under the moonlight."
+      },
+      {
+        "id": "achievement-50",
+        "name": "The Real Treasure",
+        "kind": "trophy",
+        "chapterId": "palace-and-mountains",
+        "where": "The palace holds more than silver and gold. Some things money simply can't buy."
+      },
+      {
+        "id": "achievement-51",
+        "name": "King for a Day",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-52",
+        "name": "A Heart in Ruins",
+        "kind": "trophy",
+        "chapterId": "palace-and-mountains",
+        "where": "Some wounds are not carved in flesh, but in the soul itself."
+      },
+      {
+        "id": "achievement-53",
+        "name": "Heart of Gold",
+        "kind": "trophy",
+        "chapterId": "palace-and-mountains",
+        "where": "Every story needs an ending. You chose to make this one gentle."
+      },
+      {
+        "id": "achievement-54",
+        "name": "Boop the Snoot",
+        "kind": "trophy",
+        "chapterId": "palace-and-mountains",
+        "where": "Just one little boop. What could go wrong?"
+      },
+      {
+        "id": "achievement-55",
+        "name": "No Mountain High Enough",
+        "kind": "trophy",
+        "chapterId": "palace-and-mountains",
+        "where": "I ask every mountain here: which of you dares stand taller?"
+      },
+      {
+        "id": "achievement-56",
+        "name": "A Flawed Ascension",
+        "kind": "trophy",
+        "chapterId": "palace-and-mountains",
+        "where": "Complete Hidden Mountain Campaign - Skyward City Ruins"
+      },
+      {
+        "id": "achievement-57",
+        "name": "High Spirits",
+        "kind": "trophy",
+        "chapterId": "palace-and-mountains",
+        "where": "Never fly a bird while drunk, unless you're in a dream."
+      },
+      {
+        "id": "achievement-58",
+        "name": "Sky's the Limit",
+        "kind": "trophy",
+        "chapterId": "palace-and-mountains",
+        "where": "Always strive to fly higher, no matter the time or place."
+      },
+      {
+        "id": "achievement-59",
+        "name": "My Domain, My Rules",
+        "kind": "trophy",
+        "chapterId": "palace-and-mountains",
+        "where": "Allow no one to sleep peacefully in your domain."
+      },
+      {
+        "id": "achievement-60",
+        "name": "Mountain of Skulls",
+        "kind": "trophy",
+        "chapterId": "palace-and-mountains",
+        "where": "Add your enemies' heads to the macabre monument."
+      },
+      {
+        "id": "achievement-61",
+        "name": "Undercover Boss",
+        "kind": "trophy",
+        "chapterId": "newest-areas",
+        "where": "Enter Derndale for the first time while wearing the Infinite Truths mask."
+      },
+      {
+        "id": "achievement-62",
+        "name": "Qingzhou: Six-Art Savvy",
+        "kind": "trophy",
+        "chapterId": "newest-areas",
+        "where": "Solve all Meow Meow puzzles in Penglai."
+      },
+      {
+        "id": "achievement-63",
+        "name": "Feathered Finesse",
+        "kind": "trophy",
+        "chapterId": "newest-areas",
+        "where": "Feathers dance as every gaze turns to the sky."
+      },
+      {
+        "id": "achievement-64",
+        "name": "Flock-Solid Run",
+        "kind": "trophy",
+        "chapterId": "newest-areas",
+        "where": "Achieve a perfect run in Sea Shepherd."
+      },
+      {
+        "id": "achievement-65",
+        "name": "Grave Research",
+        "kind": "trophy",
+        "chapterId": "newest-areas",
+        "where": "Fresh from the crypt. Jot them down fast!"
+      },
+      {
+        "id": "achievement-66",
+        "name": "A Song of Tides",
+        "kind": "trophy",
+        "chapterId": "newest-areas",
+        "where": "The tide races for the open sea. Defeat the Tidewatcher."
+      },
+      {
+        "id": "achievement-67",
+        "name": "Shocking Epiphany",
+        "kind": "trophy",
+        "chapterId": "newest-areas",
+        "where": "Chop a tree on Mount Tai and get struck by lightning."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/where-winds-meet",
+    "Achievement data from Steam (Steam Web API, app 3564740)",
+    "StrategyWiki: no page for this game, nothing used",
+    "Fandom (wherewindsmeet.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://wherewindsmeet.fandom.com/wiki/Where_Winds_Meet"
+  ],
+  "route": "original",
+  "notes": "Backlog game, picked from RAWG's most-added list for its year (docs/PLAN.md section 2 ordering). StrategyWiki has no page for \"Where Winds Meet\". wherewindsmeet.fandom.com answers the API, with 78 links (75 of them articles), including \"Campaign Challenge\", \"Martial Arts\", \"Oddities\", \"Puzzles\", \"Taiping Mausoleum\" and \"Achievements\"; names only were looked at, nothing copied. The Steam schema names the game \"Where Winds Meet\" (app 3564740, the only match). 8 of 67 Steam achievements are hidden; they sit in the main story chapter as a placeholder. Regions (Qinghe, Kaifeng, Hexi) come from the achievement text. Several achievements name no place and were placed by their position in the list, which needs checking: \"Quick on the Uptake - Qinghe\" (its name gives the region), \"A Fish Out of Water\", \"Egg-cellent Luck\" and \"A Squeak to Remember\" (in the Hexi block); 46 to 60 (palace halls, a moonlit thief, mountains, flying) form their own block; 61 to 67 (Derndale, Penglai, Sea Shepherd, Mount Tai) were at 0.0% to 0.5% and look newest. \"Qingzhou: Six-Art Savvy\" says Penglai in its description. The all-achievements goal sits in the main story chapter. RAWG lists a playtime of only 3 hours, which looks low."
+}

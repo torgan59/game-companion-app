@@ -1,0 +1,447 @@
+{
+  "id": "marvels-spider-man-2",
+  "title": "Marvel's Spider-Man 2",
+  "year": 2023,
+  "platforms": [
+    "PC",
+    "PlayStation 5"
+  ],
+  "rawgId": 662316,
+  "rawgSlug": "marvels-spider-man-2",
+  "released": "2023-10-20",
+  "developers": [
+    "Insomniac Games",
+    "Nixxes software"
+  ],
+  "playtime": 26,
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Multiplayer",
+    "Full controller support",
+    "Steam Cloud",
+    "Atmospheric",
+    "Great Soundtrack",
+    "Co-op",
+    "Story Rich",
+    "Open World",
+    "cooperative",
+    "Third Person"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/7ae/7ae5a14cdb4ab222a134c15f4629e430.jpg",
+  "steamAppId": 2651280,
+  "achievements": {
+    "total": 43,
+    "hidden": 16,
+    "examples": [
+      {
+        "name": "Stylish",
+        "percent": 75.1
+      },
+      {
+        "name": "Splat",
+        "percent": 52.4
+      },
+      {
+        "name": "Heal the World",
+        "percent": 51.8
+      },
+      {
+        "name": "Home Run!",
+        "percent": 14.3
+      },
+      {
+        "name": "Just Let Go",
+        "percent": 13.0
+      },
+      {
+        "name": "Soar",
+        "percent": 12.2
+      },
+      {
+        "name": "Dedicated",
+        "percent": 9.3
+      },
+      {
+        "name": "Once More, With Feeling",
+        "percent": 9.3
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Marvel's_Spider-Man_2",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 81,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://marvels-spider-man.fandom.com/wiki/Marvel's_Spider-Man_2"
+    }
+  },
+  "game": {
+    "id": "marvels-spider-man-2",
+    "title": "Marvel's Spider-Man 2",
+    "platforms": [
+      "PC",
+      "PlayStation 5"
+    ],
+    "blurb": "Open-world superhero action-adventure from Insomniac Games, released 2023-10-20 (PC port by Nixxes Software). RAWG average playtime: 26 hours. Genres: Action, Adventure. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#B11226",
+    "chapters": [
+      {
+        "id": "main-story",
+        "title": "The Main Story",
+        "summary": "Peter and Miles against the new threats to New York. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "districts-and-side",
+        "title": "Districts and Side Activities",
+        "summary": "Tech Stashes, neighbourhood requests, EMF experiments, Photo Ops, Spider-Bots and side stories.",
+        "steps": []
+      },
+      {
+        "id": "suits-and-upgrades",
+        "title": "Suits, Gadgets and Upgrades",
+        "summary": "Levelling up, buying suits, suit tech and gadget upgrades, and collecting Tech Parts.",
+        "steps": []
+      },
+      {
+        "id": "combat-and-traversal",
+        "title": "Combat and Traversal",
+        "summary": "Venom and Spider Arm abilities, stealth takedowns, air tricks and Web Wings.",
+        "steps": []
+      },
+      {
+        "id": "completion",
+        "title": "Completion and New Game+",
+        "summary": "Finishing the story again in New Game+ and earning every achievement.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "You Know What to Do",
+        "kind": "trophy",
+        "chapterId": "districts-and-side",
+        "where": "As Peter, visit Aunt May's grave"
+      },
+      {
+        "id": "achievement-2",
+        "name": "Co-Signing",
+        "kind": "trophy",
+        "chapterId": "districts-and-side",
+        "where": "Complete all Tech Stashes"
+      },
+      {
+        "id": "achievement-3",
+        "name": "You're Gonna Need Help",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-4",
+        "name": "Dedicated",
+        "kind": "trophy",
+        "chapterId": "completion",
+        "where": "Collect all Achievements"
+      },
+      {
+        "id": "achievement-5",
+        "name": "Superior",
+        "kind": "trophy",
+        "chapterId": "districts-and-side",
+        "where": "100% complete all districts"
+      },
+      {
+        "id": "achievement-6",
+        "name": "Heal the World",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Finish the main story"
+      },
+      {
+        "id": "achievement-7",
+        "name": "To the Max",
+        "kind": "trophy",
+        "chapterId": "suits-and-upgrades",
+        "where": "Purchase all Gadget upgrades"
+      },
+      {
+        "id": "achievement-8",
+        "name": "Kitted Out",
+        "kind": "trophy",
+        "chapterId": "suits-and-upgrades",
+        "where": "Purchase all available Suits"
+      },
+      {
+        "id": "achievement-9",
+        "name": "Behind the Masks",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-10",
+        "name": "Amazing",
+        "kind": "trophy",
+        "chapterId": "suits-and-upgrades",
+        "where": "Reach max level"
+      },
+      {
+        "id": "achievement-11",
+        "name": "Data Collector",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-12",
+        "name": "Crimson Hour",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-13",
+        "name": "Exterminator",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-14",
+        "name": "Grains of Sand",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-15",
+        "name": "Leave Us Alone",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-16",
+        "name": "The Great Hunt",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-17",
+        "name": "Seek and Destroy",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-18",
+        "name": "Friendly Neighborhood Spider-Man",
+        "kind": "trophy",
+        "chapterId": "districts-and-side",
+        "where": "Complete all FNSM requests"
+      },
+      {
+        "id": "achievement-19",
+        "name": "Medicine",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-20",
+        "name": "Surge",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-21",
+        "name": "Foundational",
+        "kind": "trophy",
+        "chapterId": "districts-and-side",
+        "where": "Complete all EMF Experiments"
+      },
+      {
+        "id": "achievement-22",
+        "name": "Evolved",
+        "kind": "trophy",
+        "chapterId": "combat-and-traversal",
+        "where": "Defeat 100 enemies with Evolved Venom abilities"
+      },
+      {
+        "id": "achievement-23",
+        "name": "Armed and Dangerous",
+        "kind": "trophy",
+        "chapterId": "combat-and-traversal",
+        "where": "Defeat 100 enemies with Spider Arm abilities"
+      },
+      {
+        "id": "achievement-24",
+        "name": "Another Way",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-25",
+        "name": "Fully Loaded",
+        "kind": "trophy",
+        "chapterId": "suits-and-upgrades",
+        "where": "Purchase all of Spider-Man's Suit Tech upgrades"
+      },
+      {
+        "id": "achievement-26",
+        "name": "Brooklyn Pride",
+        "kind": "trophy",
+        "chapterId": "districts-and-side",
+        "where": "Complete \"A Gift\""
+      },
+      {
+        "id": "achievement-27",
+        "name": "My Community",
+        "kind": "trophy",
+        "chapterId": "districts-and-side",
+        "where": "Complete \"Hard Bop\""
+      },
+      {
+        "id": "achievement-28",
+        "name": "I Quit",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-29",
+        "name": "Funky Wireless Protocols",
+        "kind": "trophy",
+        "chapterId": "districts-and-side",
+        "where": "Solve the mystery of the Spider-Bots' origin"
+      },
+      {
+        "id": "achievement-30",
+        "name": "Stylish",
+        "kind": "trophy",
+        "chapterId": "suits-and-upgrades",
+        "where": "Equip a suit style"
+      },
+      {
+        "id": "achievement-31",
+        "name": "Slack Line",
+        "kind": "trophy",
+        "chapterId": "combat-and-traversal",
+        "where": "Stealth takedown 25 enemies in stealth from the Web Line"
+      },
+      {
+        "id": "achievement-32",
+        "name": "Hang Ten",
+        "kind": "trophy",
+        "chapterId": "combat-and-traversal",
+        "where": "Perform 30 Air Tricks in a row without touching the ground"
+      },
+      {
+        "id": "achievement-33",
+        "name": "Overdrive",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-34",
+        "name": "Home Run!",
+        "kind": "trophy",
+        "chapterId": "districts-and-side",
+        "where": "Round the bases at the Big Apple Ballers Stadium"
+      },
+      {
+        "id": "achievement-35",
+        "name": "Just Let Go",
+        "kind": "trophy",
+        "chapterId": "districts-and-side",
+        "where": "As Miles, find the science trophy Miles and Phin won together"
+      },
+      {
+        "id": "achievement-36",
+        "name": "Soar",
+        "kind": "trophy",
+        "chapterId": "combat-and-traversal",
+        "where": "Using only your Web Wings, glide from the Financial District to Astoria (Wind Tunnels are okay!)"
+      },
+      {
+        "id": "achievement-37",
+        "name": "Splat",
+        "kind": "trophy",
+        "chapterId": "combat-and-traversal",
+        "where": "Attempt and fail a trick before \"landing\" on the ground"
+      },
+      {
+        "id": "achievement-38",
+        "name": "A New Adventure",
+        "kind": "trophy",
+        "chapterId": "districts-and-side",
+        "where": "Help Howard"
+      },
+      {
+        "id": "achievement-39",
+        "name": "Resourceful",
+        "kind": "trophy",
+        "chapterId": "suits-and-upgrades",
+        "where": "Collect a total of 10,000 Tech Parts"
+      },
+      {
+        "id": "achievement-40",
+        "name": "New York, New York",
+        "kind": "trophy",
+        "chapterId": "districts-and-side",
+        "where": "Complete all Photo Ops"
+      },
+      {
+        "id": "achievement-41",
+        "name": "Antidote",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-42",
+        "name": "A New Suit",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-43",
+        "name": "Once More, With Feeling",
+        "kind": "trophy",
+        "chapterId": "completion",
+        "where": "Finish the main story in New Game+ mode"
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/marvels-spider-man-2",
+    "Achievement data from Steam (Steam Web API, app 2651280)",
+    "StrategyWiki: no usable walkthrough, nothing used — https://strategywiki.org/wiki/Marvel's_Spider-Man_2",
+    "Fandom (marvels-spider-man.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://marvels-spider-man.fandom.com/wiki/Marvel's_Spider-Man_2"
+  ],
+  "route": "original",
+  "notes": "StrategyWiki has a stub page (completion stage 0); Walkthrough, Gameplay and Trophies subpages are linked but not written (only Controls and Table of Contents subpages exist). marvels-spider-man.fandom.com (Marvel's Spider-Man Wiki) answers the API, with about 81 linked pages; names only were looked at, nothing copied. The Steam schema calls the app \"Popsicle\" (an internal codename); the store list confirms app 2651280. 16 of 43 Steam achievements are hidden; they sit in the main story chapter. Some of them may be side-story finales rather than main missions."
+}

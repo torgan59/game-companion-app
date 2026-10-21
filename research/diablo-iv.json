@@ -1,0 +1,470 @@
+{
+  "id": "diablo-iv",
+  "title": "Diablo IV",
+  "year": 2023,
+  "platforms": [
+    "PC",
+    "Xbox Series X|S",
+    "PlayStation 5",
+    "Xbox One",
+    "PlayStation 4"
+  ],
+  "rawgId": 388309,
+  "rawgSlug": "diablo-iv",
+  "released": "2023-06-06",
+  "developers": [
+    "Activision Blizzard"
+  ],
+  "playtime": 13,
+  "genres": [
+    "Action",
+    "RPG"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Multiplayer",
+    "Full controller support",
+    "RPG",
+    "Co-op",
+    "Story Rich",
+    "cooperative",
+    "Third Person",
+    "Online Co-Op",
+    "Fantasy",
+    "Gore"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/77d/77d51f8f4a07c3eecb0f8504027b1bf0.jpg",
+  "steamAppId": 2344520,
+  "achievements": {
+    "total": 45,
+    "hidden": 0,
+    "examples": [
+      {
+        "name": "Legion Killer",
+        "percent": 70.6
+      },
+      {
+        "name": "Undead Undone",
+        "percent": 67.4
+      },
+      {
+        "name": "Turned",
+        "percent": 66.3
+      },
+      {
+        "name": "Master Combatant",
+        "percent": 1.5
+      },
+      {
+        "name": "Devout Champion",
+        "percent": 1.4
+      },
+      {
+        "name": "Skovos Sojourner",
+        "percent": 0.3
+      },
+      {
+        "name": "Echoing Elites",
+        "percent": 0.1
+      },
+      {
+        "name": "Adept Angler",
+        "percent": 0.1
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": false,
+      "pages": 0,
+      "reason": "No page for Diablo IV (MediaWiki API returned missing; search empty)"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 216,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://diablo.fandom.com/wiki/Diablo_IV"
+    }
+  },
+  "game": {
+    "id": "diablo-iv",
+    "title": "Diablo IV",
+    "platforms": [
+      "PC",
+      "Xbox Series X|S",
+      "PlayStation 5",
+      "Xbox One",
+      "PlayStation 4"
+    ],
+    "blurb": "Online action RPG from Blizzard Entertainment (RAWG lists Activision Blizzard), released 2023-06-06. RAWG average playtime: 13 hours (well under a full run). Genres: Action, RPG. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#8B1A1A",
+    "chapters": [
+      {
+        "id": "campaign",
+        "title": "The Main Campaign",
+        "summary": "The base campaign through Sanctuary, up to the final showdown.",
+        "steps": []
+      },
+      {
+        "id": "vessel-of-hatred",
+        "title": "Vessel of Hatred",
+        "summary": "The Vessel of Hatred expansion: Nahantu, Mercenaries, the Dark Citadel and the Kurast Undercity.",
+        "steps": []
+      },
+      {
+        "id": "lord-of-hatred",
+        "title": "Lord of Hatred",
+        "summary": "The Lord of Hatred campaign and the land of Skovos.",
+        "steps": []
+      },
+      {
+        "id": "classes",
+        "title": "Class Feats",
+        "summary": "Class-specific challenges for Barbarian, Druid, Necromancer, Rogue, Sorcerer, Spiritborn and Demonology skills.",
+        "steps": []
+      },
+      {
+        "id": "endgame",
+        "title": "Endgame, Torment and PvP",
+        "summary": "Levels and Paragon, Hardcore, Torment tiers, Nightmare Dungeons, Helltides, World Bosses, the Tree of Whispers and PvP.",
+        "steps": []
+      },
+      {
+        "id": "world-and-gear",
+        "title": "World, Monsters and Gear",
+        "summary": "Exploring Estuar, monster hunting, crafting, tempering, Aspects, fishing and potions.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Tortured Souls",
+        "kind": "trophy",
+        "chapterId": "world-and-gear",
+        "where": "Kill 666 Bandits, Cultists, or Knights."
+      },
+      {
+        "id": "achievement-2",
+        "name": "Hammer Down",
+        "kind": "trophy",
+        "chapterId": "classes",
+        "where": "Kill 50 enemies while Berserking as a Barbarian."
+      },
+      {
+        "id": "achievement-3",
+        "name": "Emancipation",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Complete the campaign."
+      },
+      {
+        "id": "achievement-4",
+        "name": "Curious Collector",
+        "kind": "trophy",
+        "chapterId": "world-and-gear",
+        "where": "Imprint 10 items at the Occultist with an Aspect from the Codex of Power."
+      },
+      {
+        "id": "achievement-5",
+        "name": "Convenient Crafts",
+        "kind": "trophy",
+        "chapterId": "world-and-gear",
+        "where": "Craft any Elixir and any Incense."
+      },
+      {
+        "id": "achievement-6",
+        "name": "Legion Killer",
+        "kind": "trophy",
+        "chapterId": "world-and-gear",
+        "where": "Kill 666 Demons, Fallen, or Goatmen."
+      },
+      {
+        "id": "achievement-7",
+        "name": "Turned",
+        "kind": "trophy",
+        "chapterId": "world-and-gear",
+        "where": "Kill 666 Drowned, Vampires, or Werewolves."
+      },
+      {
+        "id": "achievement-8",
+        "name": "Shifty Swipes",
+        "kind": "trophy",
+        "chapterId": "classes",
+        "where": "Kill 50 enemies in Werebear form and 50 enemies in Werewolf form as a Druid."
+      },
+      {
+        "id": "achievement-9",
+        "name": "Estuar Sightseer",
+        "kind": "trophy",
+        "chapterId": "world-and-gear",
+        "where": "Explore all of Estuar."
+      },
+      {
+        "id": "achievement-10",
+        "name": "Undead Undone",
+        "kind": "trophy",
+        "chapterId": "world-and-gear",
+        "where": "Kill 666 Ghosts, Skeletons, or Zombies."
+      },
+      {
+        "id": "achievement-11",
+        "name": "Turning the Tides",
+        "kind": "trophy",
+        "chapterId": "endgame",
+        "where": "Collect 1000 Aberrant Cinder in Helltide zones."
+      },
+      {
+        "id": "achievement-12",
+        "name": "Dedicated Protector",
+        "kind": "trophy",
+        "chapterId": "endgame",
+        "where": "Reach Level 50 with any character."
+      },
+      {
+        "id": "achievement-13",
+        "name": "True Perseverance",
+        "kind": "trophy",
+        "chapterId": "endgame",
+        "where": "Reach Level 50 with a Hardcore character."
+      },
+      {
+        "id": "achievement-14",
+        "name": "Devoted Protector",
+        "kind": "trophy",
+        "chapterId": "endgame",
+        "where": "Reach Paragon Level 200 with any character."
+      },
+      {
+        "id": "achievement-15",
+        "name": "Army of Bones",
+        "kind": "trophy",
+        "chapterId": "classes",
+        "where": "Summon 100 Skeleton Mages or Warriors as a Necromancer."
+      },
+      {
+        "id": "achievement-16",
+        "name": "Living Nightmares",
+        "kind": "trophy",
+        "chapterId": "endgame",
+        "where": "Complete a Nightmare Dungeon in Torment 2 or higher."
+      },
+      {
+        "id": "achievement-17",
+        "name": "First Aid",
+        "kind": "trophy",
+        "chapterId": "world-and-gear",
+        "where": "Use your Healing Potion 1,000 times."
+      },
+      {
+        "id": "achievement-18",
+        "name": "Master Combatant",
+        "kind": "trophy",
+        "chapterId": "endgame",
+        "where": "Get 5 PvP kills."
+      },
+      {
+        "id": "achievement-19",
+        "name": "In and Out",
+        "kind": "trophy",
+        "chapterId": "classes",
+        "where": "Kill 50 enemies in melee range and 50 enemies out of melee range as a Rogue."
+      },
+      {
+        "id": "achievement-20",
+        "name": "Exterminator",
+        "kind": "trophy",
+        "chapterId": "world-and-gear",
+        "where": "Kill 666 Snakes or Spiders."
+      },
+      {
+        "id": "achievement-21",
+        "name": "Master of the Elements",
+        "kind": "trophy",
+        "chapterId": "classes",
+        "where": "Kill 100 enemies with Fire, Frost, or Lightning damage as a Sorcerer."
+      },
+      {
+        "id": "achievement-22",
+        "name": "End of the First Mother",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Defeat the Echo of Lilith."
+      },
+      {
+        "id": "achievement-23",
+        "name": "Potent Alterations",
+        "kind": "trophy",
+        "chapterId": "world-and-gear",
+        "where": "Temper a piece of Armor, Jewelry, and a Weapon."
+      },
+      {
+        "id": "achievement-24",
+        "name": "Chaotic Whispers",
+        "kind": "trophy",
+        "chapterId": "endgame",
+        "where": "Acquire 10 Caches of Chaos from the Tree of Whispers."
+      },
+      {
+        "id": "achievement-25",
+        "name": "Worldly Slayer",
+        "kind": "trophy",
+        "chapterId": "endgame",
+        "where": "Kill any World Boss."
+      },
+      {
+        "id": "achievement-26",
+        "name": "Hatred Subdued",
+        "kind": "trophy",
+        "chapterId": "vessel-of-hatred",
+        "where": "Complete the Vessel of Hatred campaign."
+      },
+      {
+        "id": "achievement-27",
+        "name": "Bane of the Khazra",
+        "kind": "trophy",
+        "chapterId": "vessel-of-hatred",
+        "where": "Complete the Rise of the Khazra Dark Citadel."
+      },
+      {
+        "id": "achievement-28",
+        "name": "Nahantu Sightseer",
+        "kind": "trophy",
+        "chapterId": "vessel-of-hatred",
+        "where": "Explore all of Nahantu."
+      },
+      {
+        "id": "achievement-29",
+        "name": "Infernal Jungle",
+        "kind": "trophy",
+        "chapterId": "vessel-of-hatred",
+        "where": "Collect 10,000 Aberrant Cinders in Nahantu Helltides."
+      },
+      {
+        "id": "achievement-30",
+        "name": "Hireling Commander",
+        "kind": "trophy",
+        "chapterId": "vessel-of-hatred",
+        "where": "Reach level 10 with all Mercenaries."
+      },
+      {
+        "id": "achievement-31",
+        "name": "Wildland Warrior",
+        "kind": "trophy",
+        "chapterId": "world-and-gear",
+        "where": "Kill 666 Dregs, Lacuni, or Hollows."
+      },
+      {
+        "id": "achievement-32",
+        "name": "Devout Champion",
+        "kind": "trophy",
+        "chapterId": "endgame",
+        "where": "Reach Paragon 300 with any character."
+      },
+      {
+        "id": "achievement-33",
+        "name": "Spirited Sparring",
+        "kind": "trophy",
+        "chapterId": "classes",
+        "where": "Kill 500 enemies with Ultimate Skills as a Spiritborn."
+      },
+      {
+        "id": "achievement-34",
+        "name": "Tormented Massacre",
+        "kind": "trophy",
+        "chapterId": "endgame",
+        "where": "Defeat 1000 Elites on Torment IV."
+      },
+      {
+        "id": "achievement-35",
+        "name": "Kurast Cleanser",
+        "kind": "trophy",
+        "chapterId": "vessel-of-hatred",
+        "where": "Complete 25 runs of the Kurast Undercity."
+      },
+      {
+        "id": "achievement-36",
+        "name": "Tormented Slaughter",
+        "kind": "trophy",
+        "chapterId": "endgame",
+        "where": "Kill 1000 Elites in Torment XII."
+      },
+      {
+        "id": "achievement-37",
+        "name": "Skovos Sojourner",
+        "kind": "trophy",
+        "chapterId": "lord-of-hatred",
+        "where": "Explore all of Skovos."
+      },
+      {
+        "id": "achievement-38",
+        "name": "Echoing Elites",
+        "kind": "trophy",
+        "chapterId": "endgame",
+        "where": "Kill 1000 Bosses/Elites in the Echoing Hatred."
+      },
+      {
+        "id": "achievement-39",
+        "name": "Demonic Dispute",
+        "kind": "trophy",
+        "chapterId": "classes",
+        "where": "Kill 100 enemies with your Demonology skills."
+      },
+      {
+        "id": "achievement-40",
+        "name": "Hatred Banished",
+        "kind": "trophy",
+        "chapterId": "lord-of-hatred",
+        "where": "Complete the Lord of Hatred campaign."
+      },
+      {
+        "id": "achievement-41",
+        "name": "Adept Angler",
+        "kind": "trophy",
+        "chapterId": "world-and-gear",
+        "where": "Collect all the fish in one region."
+      },
+      {
+        "id": "achievement-42",
+        "name": "Skovos Slayer",
+        "kind": "trophy",
+        "chapterId": "lord-of-hatred",
+        "where": "Kill 666 Golems, Merfolk, or Morlu."
+      },
+      {
+        "id": "achievement-43",
+        "name": "Wholly Horadric",
+        "kind": "trophy",
+        "chapterId": "world-and-gear",
+        "where": "Activate a Charm Set's 5-piece bonus."
+      },
+      {
+        "id": "achievement-44",
+        "name": "Effective Equipment",
+        "kind": "trophy",
+        "chapterId": "world-and-gear",
+        "where": "Equip a piece of Transfigured gear in every slot."
+      },
+      {
+        "id": "achievement-45",
+        "name": "Prepared to Fight",
+        "kind": "trophy",
+        "chapterId": "endgame",
+        "where": "Complete 10 War Plans."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/diablo-iv",
+    "Achievement data from Steam (Steam Web API, app 2344520)",
+    "StrategyWiki: no page for this game, nothing used",
+    "Fandom (diablo.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://diablo.fandom.com/wiki/Diablo_IV"
+  ],
+  "route": "original",
+  "notes": "Backlog game, picked from RAWG's most-added list for its year (docs/PLAN.md section 2 ordering). No StrategyWiki page under \"Diablo IV\" or \"Diablo 4\". diablo.fandom.com answers the API, with about 216 linked pages; names only were looked at, nothing copied. The Steam schema calls the app \"Cedar\" (an internal codename); the store list confirms app 2344520. None of the 45 Steam achievements are hidden. Requires an online connection; the PvP achievement is grouped with endgame rather than given its own chapter. Charm Sets, Transfigured gear and War Plans look like newer features; which update they came from was not checked. Wildland Warrior (Dregs, Lacuni, Hollows) may belong with Vessel of Hatred but sits in the world chapter."
+}

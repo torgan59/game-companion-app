@@ -1,0 +1,761 @@
+{
+  "id": "marvels-spider-man",
+  "title": "Marvel's Spider-Man",
+  "year": 2018,
+  "platforms": [
+    "PlayStation 4",
+    "PC",
+    "PlayStation 5"
+  ],
+  "rawgId": 58134,
+  "rawgSlug": "marvels-spider-man",
+  "released": "2018-09-07",
+  "developers": [
+    "Insomniac Games"
+  ],
+  "playtime": 6,
+  "genres": [
+    "Action"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Atmospheric",
+    "Open World",
+    "Exploration",
+    "Action-Adventure",
+    "exclusive",
+    "Cinematic",
+    "Beat 'em up",
+    "true exclusive",
+    "3rd-Person Perspective",
+    "Comic Book",
+    "America"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/9aa/9aa42d16d425fa6f179fc9dc2f763647.jpg",
+  "steamAppId": 1817070,
+  "achievements": {
+    "total": 78,
+    "hidden": 38,
+    "examples": [
+      {
+        "name": "Spider-Sensible",
+        "percent": 75.3
+      },
+      {
+        "name": "Lost and Found",
+        "percent": 75.2
+      },
+      {
+        "name": "King of Swing",
+        "percent": 74.2
+      },
+      {
+        "name": "Screwy",
+        "percent": 11.7
+      },
+      {
+        "name": "Turning the Screw",
+        "percent": 10.0
+      },
+      {
+        "name": "Screwballed",
+        "percent": 9.4
+      },
+      {
+        "name": "One More Time",
+        "percent": 6.5
+      },
+      {
+        "name": "Power and Responsibility",
+        "percent": 5.9
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 54,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Marvel's_Spider-Man",
+      "completionStage": 1,
+      "writtenSubpages": [
+        "A Day to Remember",
+        "A Fresh Start",
+        "A Shocking Comeback",
+        "And the Award Goes to...",
+        "Back to School",
+        "Backpacks",
+        "Bases",
+        "Black Cat Stakeouts",
+        "Breakthrough",
+        "Challenges",
+        "Clearing the Way",
+        "Collision Course",
+        "Controls",
+        "Couch Surfing",
+        "Crime",
+        "Dinner Date",
+        "Don't Touch the Art",
+        "Dual Purpose",
+        "Financial Shock",
+        "First Day",
+        "Fisk Hideout",
+        "For She's a Jolly Good Fellow",
+        "Gadgets",
+        "Gameplay",
+        "Harry's Passion Project",
+        "Hidden Agenda",
+        "Home Sweet Home",
+        "Into the Fire",
+        "Keeping the Peace",
+        "Lab Circuit Projects",
+        "Lab Spectrographs",
+        "Landmarking",
+        "My OTHER Other Job",
+        "Out of the Frying Pan...",
+        "Picking Up the Trail",
+        "Reflection",
+        "Skills",
+        "Something Old, Something New",
+        "Spider-Hack",
+        "Stakeout",
+        "Straw, Meet Camel",
+        "Streets of Poison",
+        "Strong Connections",
+        "Suits",
+        "Supply Run",
+        "Table of Contents",
+        "The Main Event",
+        "The Mask",
+        "The One That Got Away",
+        "Uninvited",
+        "Up the Water Spout...",
+        "Walkthrough",
+        "What's in the Box?",
+        "Wheels Within Wheels"
+      ],
+      "reason": "Real walkthrough structure; chapter order taken from its Table of Contents"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 87,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://marvels-spider-man.fandom.com/wiki/Marvel's_Spider-Man"
+    }
+  },
+  "game": {
+    "id": "marvels-spider-man",
+    "title": "Marvel's Spider-Man",
+    "platforms": [
+      "PlayStation 4",
+      "PC",
+      "PlayStation 5"
+    ],
+    "blurb": "Open-world superhero action-adventure set in New York, from Insomniac Games, released 2018-09-07. RAWG average playtime: 6 hours. Genre: Action. Chapters are an estimate drawn from Steam achievement themes, with the story order taken from StrategyWiki's walkthrough contents.",
+    "accent": "#B71C1C",
+    "chapters": [
+      {
+        "id": "main-story",
+        "title": "The Main Story",
+        "summary": "An experienced Spider-Man faces a new gang called the Demons, across 44 story missions from \"Clearing the Way\" to \"Pax in Bello\". Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "city-activities",
+        "title": "Districts, Crimes and Collectibles",
+        "summary": "Backpacks, Black Cat, Surveillance Towers, Research Stations, Landmarks, crimes, bases, side missions and city sights.",
+        "steps": []
+      },
+      {
+        "id": "combat-and-gear",
+        "title": "Combat, Skills, Suits and Gadgets",
+        "summary": "Skills, suits, gadgets and upgrades, combos and stealth, and the Benchmark and Taskmaster challenges.",
+        "steps": []
+      },
+      {
+        "id": "the-heist",
+        "title": "The Heist (DLC)",
+        "summary": "The first City That Never Sleeps episode: its story, its crimes and its Screwball Challenges.",
+        "steps": []
+      },
+      {
+        "id": "turf-wars",
+        "title": "Turf Wars (DLC)",
+        "summary": "The second City That Never Sleeps episode: its story, its crimes and its Screwball Challenges.",
+        "steps": []
+      },
+      {
+        "id": "silver-lining",
+        "title": "Silver Lining (DLC)",
+        "summary": "The third City That Never Sleeps episode: its story, its crimes and its Screwball Challenges.",
+        "steps": []
+      },
+      {
+        "id": "new-game-plus",
+        "title": "New Game+ and Ultimate",
+        "summary": "A New Game+ run and a run on Ultimate difficulty.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Superior Spider-Man",
+        "kind": "trophy",
+        "chapterId": "combat-and-gear",
+        "where": "Unlock all Skills"
+      },
+      {
+        "id": "achievement-2",
+        "name": "I Heart Manhattan",
+        "kind": "trophy",
+        "chapterId": "city-activities",
+        "where": "100% complete all districts"
+      },
+      {
+        "id": "achievement-3",
+        "name": "Master of Masters",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-4",
+        "name": "Backpacker",
+        "kind": "trophy",
+        "chapterId": "city-activities",
+        "where": "Collect all Backpacks"
+      },
+      {
+        "id": "achievement-5",
+        "name": "Cat Prints",
+        "kind": "trophy",
+        "chapterId": "city-activities",
+        "where": "Track down Black Cat"
+      },
+      {
+        "id": "achievement-6",
+        "name": "Inner Sanctuary",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-7",
+        "name": "All the King's Men",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-8",
+        "name": "Mercenary Tactics",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-9",
+        "name": "Back in the Slammer",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-10",
+        "name": "Neighbourhood Watch",
+        "kind": "trophy",
+        "chapterId": "city-activities",
+        "where": "Complete all Faction Crimes in a district"
+      },
+      {
+        "id": "achievement-11",
+        "name": "A Suit For All Seasons",
+        "kind": "trophy",
+        "chapterId": "combat-and-gear",
+        "where": "Purchase all Suits"
+      },
+      {
+        "id": "achievement-12",
+        "name": "Schooled",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-13",
+        "name": "Amazing Coverage",
+        "kind": "trophy",
+        "chapterId": "city-activities",
+        "where": "All Surveillance Towers activated"
+      },
+      {
+        "id": "achievement-14",
+        "name": "Short Fuse",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-15",
+        "name": "Fists of Fury",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-16",
+        "name": "Ninja",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-17",
+        "name": "Spy Hunter",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-18",
+        "name": "Challenge Finder",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-19",
+        "name": "R&D",
+        "kind": "trophy",
+        "chapterId": "city-activities",
+        "where": "Complete all Research Stations"
+      },
+      {
+        "id": "achievement-20",
+        "name": "Demons Emerge",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-21",
+        "name": "The Six Assemble",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-22",
+        "name": "End Game",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-23",
+        "name": "Science FTW!",
+        "kind": "trophy",
+        "chapterId": "combat-and-gear",
+        "where": "Craft 15 Upgrades"
+      },
+      {
+        "id": "achievement-24",
+        "name": "Knocking Down Kingpin",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-25",
+        "name": "Staying Positive",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-26",
+        "name": "Grounded",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-27",
+        "name": "Sting and Smash",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-28",
+        "name": "Tombstone Takedown",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-29",
+        "name": "Shock and Awe",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-30",
+        "name": "Wing It",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-31",
+        "name": "King of Swing",
+        "kind": "trophy",
+        "chapterId": "combat-and-gear",
+        "where": "Complete a level 1 Traversal Benchmark"
+      },
+      {
+        "id": "achievement-32",
+        "name": "And Stay Down!",
+        "kind": "trophy",
+        "chapterId": "combat-and-gear",
+        "where": "Complete a level 1 Combat Benchmark"
+      },
+      {
+        "id": "achievement-33",
+        "name": "Pigeon Hunter",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-34",
+        "name": "Hug It Out",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-35",
+        "name": "Friendly Neighbourhood Spider-Man",
+        "kind": "trophy",
+        "chapterId": "city-activities",
+        "where": "Complete all Side Missions"
+      },
+      {
+        "id": "achievement-36",
+        "name": "The Scientific Method",
+        "kind": "trophy",
+        "chapterId": "combat-and-gear",
+        "where": "Craft your first Upgrade"
+      },
+      {
+        "id": "achievement-37",
+        "name": "Spider-Sensible",
+        "kind": "trophy",
+        "chapterId": "combat-and-gear",
+        "where": "Perfect Dodge 10 attacks"
+      },
+      {
+        "id": "achievement-38",
+        "name": "Overdrive",
+        "kind": "trophy",
+        "chapterId": "combat-and-gear",
+        "where": "Complete 10 Vehicle Takedowns"
+      },
+      {
+        "id": "achievement-39",
+        "name": "With Great Power...",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-40",
+        "name": "Hero for Higher",
+        "kind": "trophy",
+        "chapterId": "city-activities",
+        "where": "Perch atop Avengers Tower"
+      },
+      {
+        "id": "achievement-41",
+        "name": "Sightseeing",
+        "kind": "trophy",
+        "chapterId": "city-activities",
+        "where": "Photograph all Landmarks on the Map"
+      },
+      {
+        "id": "achievement-42",
+        "name": "Born to Ride",
+        "kind": "trophy",
+        "chapterId": "city-activities",
+        "where": "Ride the Subway 5 times"
+      },
+      {
+        "id": "achievement-43",
+        "name": "Sticky and Tricky",
+        "kind": "trophy",
+        "chapterId": "combat-and-gear",
+        "where": "Chain 4 unique tricks before landing"
+      },
+      {
+        "id": "achievement-44",
+        "name": "Snappy Dresser",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-45",
+        "name": "Arachnophobia",
+        "kind": "trophy",
+        "chapterId": "combat-and-gear",
+        "where": "Perform 75 Stealth Takedowns"
+      },
+      {
+        "id": "achievement-46",
+        "name": "Lost and Found",
+        "kind": "trophy",
+        "chapterId": "city-activities",
+        "where": "Collect 5 Backpacks"
+      },
+      {
+        "id": "achievement-47",
+        "name": "Spider-Man About Town",
+        "kind": "trophy",
+        "chapterId": "city-activities",
+        "where": "Greet 10 citizens"
+      },
+      {
+        "id": "achievement-48",
+        "name": "Cat's Out of the Bag",
+        "kind": "trophy",
+        "chapterId": "city-activities",
+        "where": "Collect a Black Cat collectible"
+      },
+      {
+        "id": "achievement-49",
+        "name": "A Bit of a Fixer-Upper",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-50",
+        "name": "Ace the Base",
+        "kind": "trophy",
+        "chapterId": "city-activities",
+        "where": "Complete all objectives in a base"
+      },
+      {
+        "id": "achievement-51",
+        "name": "One More Time",
+        "kind": "trophy",
+        "chapterId": "new-game-plus",
+        "where": "Complete a New Game+ playthrough"
+      },
+      {
+        "id": "achievement-52",
+        "name": "Power and Responsibility",
+        "kind": "trophy",
+        "chapterId": "new-game-plus",
+        "where": "Complete a playthrough on Ultimate difficulty"
+      },
+      {
+        "id": "achievement-53",
+        "name": "Seduced by the City",
+        "kind": "trophy",
+        "chapterId": "the-heist",
+        "where": "100% Complete CTNS: The Heist"
+      },
+      {
+        "id": "achievement-54",
+        "name": "Screwy",
+        "kind": "trophy",
+        "chapterId": "the-heist",
+        "where": "Get Spectacular or better in all Screwball Challenges"
+      },
+      {
+        "id": "achievement-55",
+        "name": "The Cat Came Back",
+        "kind": "trophy",
+        "chapterId": "the-heist",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-56",
+        "name": "Here Kitty-Kitty",
+        "kind": "trophy",
+        "chapterId": "the-heist",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-57",
+        "name": "Bye Felicia",
+        "kind": "trophy",
+        "chapterId": "the-heist",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-58",
+        "name": "The Long Con",
+        "kind": "trophy",
+        "chapterId": "the-heist",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-59",
+        "name": "Disorganised Crime",
+        "kind": "trophy",
+        "chapterId": "turf-wars",
+        "where": "Complete all Crimes in a district"
+      },
+      {
+        "id": "achievement-60",
+        "name": "The City is My Family",
+        "kind": "trophy",
+        "chapterId": "turf-wars",
+        "where": "100% complete CTNS: Turf Wars"
+      },
+      {
+        "id": "achievement-61",
+        "name": "Turning the Screw",
+        "kind": "trophy",
+        "chapterId": "turf-wars",
+        "where": "Get Spectacular or better in all Screwball Challenges"
+      },
+      {
+        "id": "achievement-62",
+        "name": "Pulling the Trigger",
+        "kind": "trophy",
+        "chapterId": "turf-wars",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-63",
+        "name": "Crossing the Thin Blue Line",
+        "kind": "trophy",
+        "chapterId": "turf-wars",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-64",
+        "name": "Steel Skull, Glass Jaw",
+        "kind": "trophy",
+        "chapterId": "turf-wars",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-65",
+        "name": "Prohibition",
+        "kind": "trophy",
+        "chapterId": "turf-wars",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-66",
+        "name": "The Gang War",
+        "kind": "trophy",
+        "chapterId": "silver-lining",
+        "where": "Complete all Crimes in a district"
+      },
+      {
+        "id": "achievement-67",
+        "name": "The City Sleeps",
+        "kind": "trophy",
+        "chapterId": "silver-lining",
+        "where": "100% Complete CTNS: Silver Lining"
+      },
+      {
+        "id": "achievement-68",
+        "name": "Screwballed",
+        "kind": "trophy",
+        "chapterId": "silver-lining",
+        "where": "Get Spectacular or better in all Screwball Challenges"
+      },
+      {
+        "id": "achievement-69",
+        "name": "Frenemies",
+        "kind": "trophy",
+        "chapterId": "silver-lining",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-70",
+        "name": "Unplugged",
+        "kind": "trophy",
+        "chapterId": "silver-lining",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-71",
+        "name": "Terminated",
+        "kind": "trophy",
+        "chapterId": "silver-lining",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-72",
+        "name": "The Wages of War",
+        "kind": "trophy",
+        "chapterId": "silver-lining",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-73",
+        "name": "Unacceptable",
+        "kind": "trophy",
+        "chapterId": "city-activities",
+        "where": "Complete the \"Scales of Justice\" mission"
+      },
+      {
+        "id": "achievement-74",
+        "name": "Grinding All the Way",
+        "kind": "trophy",
+        "chapterId": "combat-and-gear",
+        "where": "Max out one Benchmark type"
+      },
+      {
+        "id": "achievement-75",
+        "name": "Full Arsenal",
+        "kind": "trophy",
+        "chapterId": "combat-and-gear",
+        "where": "Max out all Gadgets"
+      },
+      {
+        "id": "achievement-76",
+        "name": "Master's Education",
+        "kind": "trophy",
+        "chapterId": "combat-and-gear",
+        "where": "Achieve Ultimate on a Taskmaster Challenge"
+      },
+      {
+        "id": "achievement-77",
+        "name": "So Many Hits...",
+        "kind": "trophy",
+        "chapterId": "combat-and-gear",
+        "where": "Achieve a combo of 100"
+      },
+      {
+        "id": "achievement-78",
+        "name": "The Untouchable Spider-Man",
+        "kind": "trophy",
+        "chapterId": "city-activities",
+        "where": "Complete any Enemy Base without taking damage"
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/marvels-spider-man",
+    "Achievement data from Steam (Steam Web API, app 1817070)",
+    "Wiki structure from StrategyWiki under CC BY-SA 4.0 (chapter order from its walkthrough contents; titles reworded, no text copied) — https://strategywiki.org/wiki/Marvel's_Spider-Man",
+    "Fandom (marvels-spider-man.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://marvels-spider-man.fandom.com/wiki/Marvel's_Spider-Man"
+  ],
+  "route": "cc-by-sa",
+  "notes": "Backlog game, picked from RAWG's most-added list for its year (docs/PLAN.md section 2 ordering). StrategyWiki has a real guide at completion stage 1: its Table of Contents lists 44 base-game story missions, and 40 of them have written subpages (from \"Clearing the Way\" to \"Supply Run\", about 470 to 9,900 characters each); the last four (\"Heavy Hitter\", \"Step into My Parlor\", \"The Heart of the Matter\", \"Pax in Bello\") and every page for The Heist, Turf Wars and Silver Lining are not written. Gameplay subpages such as Skills, Suits, Gadgets, Crime, Backpacks, Bases and Challenges also exist. Its structure was recorded in sw-structure.json; mission names only, no text copied. marvels-spider-man.fandom.com answers the API, with about 87 linked pages, including \"Marvel's Spider-Man: The City That Never Sleeps\"; names only were looked at, nothing copied. RAWG's entry is the 2018 game (id 58134); the Steam app is Marvel's Spider-Man Remastered (1817070), whose schema calls it \"Popcorn\" (an internal codename). 38 of 78 Steam achievements are hidden. The three DLC blocks are tagged \"CTNS: The Heist\", \"CTNS: Turf Wars\" and \"CTNS: Silver Lining\"; the 17 achievements listed inside those blocks (including three identically worded Screwball ones and two identically worded \"Complete all Crimes in a district\") were placed by schema position (12 of them hidden). The other 26 hidden ones sit in the main story chapter as a placeholder; several (such as \"Pigeon Hunter\", \"Hug It Out\", \"Snappy Dresser\", \"Challenge Finder\", \"Master of Masters\", \"Spy Hunter\", \"A Bit of a Fixer-Upper\") are probably side content and need checking. \"Unacceptable\" (the \"Scales of Justice\" mission) sits after the DLC blocks and the mission is not in the StrategyWiki walkthrough list, so it was put with city activities as a placeholder."
+}

@@ -1,0 +1,124 @@
+{
+  "id": "dragon-age-2",
+  "title": "Dragon Age II",
+  "year": 2011,
+  "platforms": [
+    "PlayStation 3",
+    "Xbox One",
+    "PC",
+    "macOS",
+    "Xbox 360"
+  ],
+  "rawgId": 28580,
+  "rawgSlug": "dragon-age-2",
+  "released": "2011-03-08",
+  "developers": [
+    "BioWare"
+  ],
+  "playtime": 9,
+  "genres": [
+    "Action",
+    "Adventure",
+    "RPG"
+  ],
+  "tags": [
+    "Singleplayer",
+    "RPG",
+    "Story Rich",
+    "Third Person",
+    "Fantasy",
+    "Gore",
+    "Female Protagonist",
+    "Violent",
+    "Action RPG",
+    "Dark",
+    "Character Customization",
+    "combat"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/974/974d08635981db7677630327ce1fe4bb.jpg",
+  "steamAppId": null,
+  "achievements": {
+    "total": 0,
+    "examples": [],
+    "reason": "The Steam store lists \"Dragon Age II: Ultimate Edition\" (app 1238040), but the Steam Web API returns an empty achievement schema for it and refuses the global percentages (HTTP 403), so there is no Steam achievement list. Companions and their friendship or rivalry would make a natural original checklist."
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Dragon_Age_II",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 224,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://dragonage.fandom.com/wiki/Dragon_Age_II"
+    }
+  },
+  "game": {
+    "id": "dragon-age-2",
+    "title": "Dragon Age II",
+    "platforms": [
+      "PlayStation 3",
+      "Xbox One",
+      "PC",
+      "macOS",
+      "Xbox 360"
+    ],
+    "blurb": "Dark fantasy RPG in which Hawke flees a darkspawn invasion and rises to power, with a party of up to three companions and a dialogue wheel, from BioWare, released 2011-03-08. RAWG average playtime: 9 hours. Genres: Action, Adventure, RPG. Chapters are an estimate drawn from the page names on the game's Fandom wiki (no Steam achievement list).",
+    "accent": "#6E1A1A",
+    "chapters": [
+      {
+        "id": "the-escape",
+        "title": "Fleeing the Darkspawn",
+        "summary": "Hawke's escape from the darkspawn invasion at the start of the story.",
+        "steps": []
+      },
+      {
+        "id": "main-story",
+        "title": "The Main Story",
+        "summary": "Hawke's rise in Kirkwall, and the clashes between the Qunari, the Templar Order and the Circle of Magi. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "companions",
+        "title": "Companions, Friendship and Rivalry",
+        "summary": "Recruiting companions and how friendship and rivalry with each one grows.",
+        "steps": []
+      },
+      {
+        "id": "classes-and-combat",
+        "title": "Classes, Combat and Choices",
+        "summary": "Mage, warrior and rogue builds, party control and the dialogue wheel.",
+        "steps": []
+      },
+      {
+        "id": "crafting-and-gear",
+        "title": "Crafting and Gear",
+        "summary": "Crafting, armour, weapons and item packs.",
+        "steps": []
+      },
+      {
+        "id": "downloadable-content",
+        "title": "Downloadable Content",
+        "summary": "The add-ons listed on the Fandom wiki's downloadable content page, including Legacy.",
+        "steps": []
+      }
+    ],
+    "collectibles": []
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/dragon-age-2",
+    "Steam: no achievement list available for this game (see notes)",
+    "StrategyWiki: no usable walkthrough, nothing used — https://strategywiki.org/wiki/Dragon_Age_II",
+    "Fandom (dragonage.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://dragonage.fandom.com/wiki/Dragon_Age_II"
+  ],
+  "route": "original",
+  "notes": "Backlog game, picked from RAWG's most-added list for its year (docs/PLAN.md section 2 ordering). StrategyWiki has a stub page at completion stage 0: only its contents page is written, and the Walkthrough is linked but not written, so nothing was used. dragonage.fandom.com answers the API, with about 224 linked pages (including \"Companions (Dragon Age II)\", \"Friendship and Rivalry\", \"Crafting (Dragon Age II)\", \"Downloadable content (Dragon Age II)\", \"Kirkwall\", \"Lothering\" and \"Legacy\"); names only were looked at, nothing copied, and the chapters follow those page names. The story chapters claim no order of events beyond the opening escape from the darkspawn, which RAWG's description mentions. RAWG's first result is the expected entry (28580, named \"Dragon Age 2\"); RAWG lists a separate \"Dragon Age 2: Legacy\" entry. Steam app 1238040 exists, but its achievement schema is empty, so steam is None here; it could be retried later."
+}

@@ -1,0 +1,455 @@
+{
+  "id": "dark-souls-iii",
+  "title": "Dark Souls III",
+  "year": 2016,
+  "platforms": [
+    "Xbox One",
+    "PlayStation 4",
+    "PC"
+  ],
+  "rawgId": 2551,
+  "rawgSlug": "dark-souls-iii",
+  "released": "2016-04-11",
+  "developers": [
+    "BANDAI NAMCO Entertainment America",
+    "FromSoftware"
+  ],
+  "playtime": 29,
+  "genres": [
+    "Action",
+    "RPG"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Multiplayer",
+    "Full controller support",
+    "Atmospheric",
+    "steam-trading-cards",
+    "Great Soundtrack",
+    "RPG",
+    "Co-op",
+    "Story Rich",
+    "Open World",
+    "cooperative"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/da1/da1b267764d77221f07a4386b6548e5a.jpg",
+  "steamAppId": 374320,
+  "achievements": {
+    "total": 43,
+    "hidden": 31,
+    "examples": [
+      {
+        "name": "Enkindle",
+        "percent": 93.9
+      },
+      {
+        "name": "Embrace the Flame",
+        "percent": 86.2
+      },
+      {
+        "name": "Supreme Weapon Reinforcement",
+        "percent": 42.2
+      },
+      {
+        "name": "Master of Pyromancies",
+        "percent": 7.0
+      },
+      {
+        "name": "Master of Miracles",
+        "percent": 6.6
+      },
+      {
+        "name": "Master of Expression",
+        "percent": 6.3
+      },
+      {
+        "name": "Master of Rings",
+        "percent": 6.1
+      },
+      {
+        "name": "The Dark Soul",
+        "percent": 5.1
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Dark_Souls_III",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 58,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://darksouls.fandom.com/wiki/Dark_Souls_III"
+    }
+  },
+  "game": {
+    "id": "dark-souls-iii",
+    "title": "Dark Souls III",
+    "platforms": [
+      "Xbox One",
+      "PlayStation 4",
+      "PC"
+    ],
+    "blurb": "Action RPG from FromSoftware, released 2016-04-11. RAWG average playtime: 29 hours. Genres: Action, RPG. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#B5541C",
+    "chapters": [
+      {
+        "id": "bosses-and-areas",
+        "title": "Bosses and Areas",
+        "summary": "The great foes you meet on the road and the places you reach. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "lords-of-cinder",
+        "title": "The Lords of Cinder",
+        "summary": "Bringing down each of the Lords of Cinder. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "fate-of-the-fire",
+        "title": "The Fate of the Fire",
+        "summary": "The three achievements named for what becomes of the fire, plus the all-achievements award. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "covenants",
+        "title": "Covenants",
+        "summary": "Joining and serving each covenant. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "bonfires-and-upgrades",
+        "title": "Bonfires, Estus and Weapons",
+        "summary": "Lighting your first bonfire, becoming a Host of Embers, and reinforcing the Estus Flask, a bonfire and your weapon.",
+        "steps": []
+      },
+      {
+        "id": "spells-and-mastery",
+        "title": "Spells, Rings and Gestures",
+        "summary": "Collecting every sorcery, pyromancy, miracle, ring and gesture, and every form of infusion.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "The Dark Soul",
+        "kind": "trophy",
+        "chapterId": "fate-of-the-fire",
+        "where": "Complete all achievements."
+      },
+      {
+        "id": "achievement-2",
+        "name": "To Link the First Flame",
+        "kind": "trophy",
+        "chapterId": "fate-of-the-fire",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-3",
+        "name": "The End of Fire",
+        "kind": "trophy",
+        "chapterId": "fate-of-the-fire",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-4",
+        "name": "The Usurpation of Fire",
+        "kind": "trophy",
+        "chapterId": "fate-of-the-fire",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-5",
+        "name": "Lords of Cinder: Abyss Watchers",
+        "kind": "trophy",
+        "chapterId": "lords-of-cinder",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-6",
+        "name": "Lord of Cinder: Yhorm the Giant",
+        "kind": "trophy",
+        "chapterId": "lords-of-cinder",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-7",
+        "name": "Lord of Cinder: Aldrich, Devourer of Gods",
+        "kind": "trophy",
+        "chapterId": "lords-of-cinder",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-8",
+        "name": "Lord of Cinder: Lothric, Younger Prince",
+        "kind": "trophy",
+        "chapterId": "lords-of-cinder",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-9",
+        "name": "Supreme Weapon Reinforcement",
+        "kind": "trophy",
+        "chapterId": "bonfires-and-upgrades",
+        "where": "Reinforce any weapon to the highest level."
+      },
+      {
+        "id": "achievement-10",
+        "name": "Master of Infusion",
+        "kind": "trophy",
+        "chapterId": "spells-and-mastery",
+        "where": "Perform all forms of infusion."
+      },
+      {
+        "id": "achievement-11",
+        "name": "Master of Sorceries",
+        "kind": "trophy",
+        "chapterId": "spells-and-mastery",
+        "where": "Acquire all sorceries."
+      },
+      {
+        "id": "achievement-12",
+        "name": "Master of Pyromancies",
+        "kind": "trophy",
+        "chapterId": "spells-and-mastery",
+        "where": "Acquire all pyromancies."
+      },
+      {
+        "id": "achievement-13",
+        "name": "Master of Miracles",
+        "kind": "trophy",
+        "chapterId": "spells-and-mastery",
+        "where": "Acquire all miracles."
+      },
+      {
+        "id": "achievement-14",
+        "name": "Master of Rings",
+        "kind": "trophy",
+        "chapterId": "spells-and-mastery",
+        "where": "Acquire all rings."
+      },
+      {
+        "id": "achievement-15",
+        "name": "Master of Expression",
+        "kind": "trophy",
+        "chapterId": "spells-and-mastery",
+        "where": "Learn all gestures."
+      },
+      {
+        "id": "achievement-16",
+        "name": "Ultimate Bonfire",
+        "kind": "trophy",
+        "chapterId": "bonfires-and-upgrades",
+        "where": "Reinforce a bonfire to the highest level."
+      },
+      {
+        "id": "achievement-17",
+        "name": "Ultimate Estus",
+        "kind": "trophy",
+        "chapterId": "bonfires-and-upgrades",
+        "where": "Reinforce the Estus Flask to the highest level."
+      },
+      {
+        "id": "achievement-18",
+        "name": "Covenant: Warrior of Sunlight",
+        "kind": "trophy",
+        "chapterId": "covenants",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-19",
+        "name": "Covenant: Way of Blue",
+        "kind": "trophy",
+        "chapterId": "covenants",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-20",
+        "name": "Covenant: Blue Sentinels",
+        "kind": "trophy",
+        "chapterId": "covenants",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-21",
+        "name": "Covenant: Blade of the Darkmoon",
+        "kind": "trophy",
+        "chapterId": "covenants",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-22",
+        "name": "Covenant: Rosaria's Fingers",
+        "kind": "trophy",
+        "chapterId": "covenants",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-23",
+        "name": "Covenant: Mound-makers",
+        "kind": "trophy",
+        "chapterId": "covenants",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-24",
+        "name": "Covenant: Watchdogs of Farron",
+        "kind": "trophy",
+        "chapterId": "covenants",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-25",
+        "name": "Covenant: Aldrich Faithful",
+        "kind": "trophy",
+        "chapterId": "covenants",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-26",
+        "name": "Untended Graves",
+        "kind": "trophy",
+        "chapterId": "bosses-and-areas",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-27",
+        "name": "Archdragon Peak",
+        "kind": "trophy",
+        "chapterId": "bosses-and-areas",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-28",
+        "name": "Iudex Gundyr",
+        "kind": "trophy",
+        "chapterId": "bosses-and-areas",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-29",
+        "name": "Vordt of the Boreal Valley",
+        "kind": "trophy",
+        "chapterId": "bosses-and-areas",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-30",
+        "name": "Curse-rotted Greatwood",
+        "kind": "trophy",
+        "chapterId": "bosses-and-areas",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-31",
+        "name": "Crystal Sage",
+        "kind": "trophy",
+        "chapterId": "bosses-and-areas",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-32",
+        "name": "Deacons of the Deep",
+        "kind": "trophy",
+        "chapterId": "bosses-and-areas",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-33",
+        "name": "High Lord Wolnir",
+        "kind": "trophy",
+        "chapterId": "bosses-and-areas",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-34",
+        "name": "Pontiff Sulyvahn",
+        "kind": "trophy",
+        "chapterId": "bosses-and-areas",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-35",
+        "name": "Dancer of the Boreal Valley",
+        "kind": "trophy",
+        "chapterId": "bosses-and-areas",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-36",
+        "name": "Dragonslayer Armour",
+        "kind": "trophy",
+        "chapterId": "bosses-and-areas",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-37",
+        "name": "Old Demon King",
+        "kind": "trophy",
+        "chapterId": "bosses-and-areas",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-38",
+        "name": "Oceiros, the Consumed King",
+        "kind": "trophy",
+        "chapterId": "bosses-and-areas",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-39",
+        "name": "Champion Gundyr",
+        "kind": "trophy",
+        "chapterId": "bosses-and-areas",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-40",
+        "name": "Ancient Wyvern",
+        "kind": "trophy",
+        "chapterId": "bosses-and-areas",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-41",
+        "name": "The Nameless King",
+        "kind": "trophy",
+        "chapterId": "bosses-and-areas",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-42",
+        "name": "Enkindle",
+        "kind": "trophy",
+        "chapterId": "bonfires-and-upgrades",
+        "where": "Light a bonfire flame for the first time."
+      },
+      {
+        "id": "achievement-43",
+        "name": "Embrace the Flame",
+        "kind": "trophy",
+        "chapterId": "bonfires-and-upgrades",
+        "where": "Become a Host of Embers for the first time."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/dark-souls-iii",
+    "Achievement data from Steam (Steam Web API, app 374320)",
+    "StrategyWiki: no usable walkthrough, nothing used — https://strategywiki.org/wiki/Dark_Souls_III",
+    "Fandom (darksouls.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://darksouls.fandom.com/wiki/Dark_Souls_III"
+  ],
+  "route": "original",
+  "notes": "Backlog game, picked from RAWG's most-added list for its year (docs/PLAN.md section 2 ordering). StrategyWiki has a page at completion stage 1, but its Walkthrough page itself is missing and only three area subpages are written (Cemetery of Ashes about 12,400 characters, High Wall of Lothric about 22,100, Undead Settlement about 24,900), covering only the opening areas; other subpages are Gameplay, Controls, Character creation, Stats, How to fight and Table of Contents. That is not a full guide, so no structure was recorded and swUsed is off; it could be revisited if more areas get written. darksouls.fandom.com answers the API, with about 58 linked pages; names only were looked at, nothing copied. The Steam schema calls the app \"Solstice\" (an internal codename); the store list confirms app 374320. 31 of 43 Steam achievements are hidden; they have no descriptions, so they were sorted by name only: \"Lord(s) of Cinder\" names to their own chapter, \"Covenant:\" names to covenants, and the three fire-themed names (\"To Link the First Flame\", \"The End of Fire\", \"The Usurpation of Fire\", 16 to 26 percent) to \"The Fate of the Fire\" because their names and low unlock rates suggest endings, which needs checking. The other 15 hidden ones are named after bosses or two places (Untended Graves, Archdragon Peak) and sit in Bosses and Areas, in schema order rather than play order. RAWG lists separate entries for \"Ashes of Ariandel\" and \"The Ringed City\", but the Steam achievement list has nothing for them, so they get no chapter."
+}

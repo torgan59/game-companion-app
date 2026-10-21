@@ -1,0 +1,1061 @@
+{
+  "id": "mass-effect-legendary-edition",
+  "title": "Mass Effect Legendary Edition",
+  "year": 2021,
+  "platforms": [
+    "PlayStation 5",
+    "Xbox Series X|S",
+    "PlayStation 4",
+    "PC",
+    "Xbox One"
+  ],
+  "rawgId": 516111,
+  "rawgSlug": "mass-effect-legendary-edition",
+  "released": "2021-05-14",
+  "developers": [
+    "BioWare",
+    "EA Swiss"
+  ],
+  "playtime": 12,
+  "genres": [
+    "Action",
+    "Shooter",
+    "Adventure",
+    "RPG"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Full controller support",
+    "Atmospheric",
+    "Great Soundtrack",
+    "RPG",
+    "Story Rich",
+    "Sci-fi",
+    "Classic",
+    "Female Protagonist",
+    "Action RPG",
+    "Third-Person Shooter"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/64e/64e2a77f37ddc48d102127234af99886.jpg",
+  "steamAppId": 1328670,
+  "achievements": {
+    "total": 127,
+    "hidden": 0,
+    "examples": [
+      {
+        "name": "Distinguished Service Medal",
+        "percent": 76.0
+      },
+      {
+        "name": "Spectre Inductee",
+        "percent": 60.3
+      },
+      {
+        "name": "Medal of Exploration I",
+        "percent": 52.5
+      },
+      {
+        "name": "AI Hacking Specialist",
+        "percent": 4.6
+      },
+      {
+        "name": "Neural Shock Specialist",
+        "percent": 4.5
+      },
+      {
+        "name": "Gunsmith",
+        "percent": 4.3
+      },
+      {
+        "name": "Insanity III",
+        "percent": 3.6
+      },
+      {
+        "name": "The One and Only",
+        "percent": 3.0
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Mass_Effect_Legendary_Edition",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 94,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://masseffect.fandom.com/wiki/Mass_Effect_Legendary_Edition"
+    }
+  },
+  "game": {
+    "id": "mass-effect-legendary-edition",
+    "title": "Mass Effect Legendary Edition",
+    "platforms": [
+      "PlayStation 5",
+      "Xbox Series X|S",
+      "PlayStation 4",
+      "PC",
+      "Xbox One"
+    ],
+    "blurb": "Remastered trilogy of the sci-fi action RPGs Mass Effect 1, 2 and 3, from BioWare, released 2021-05-14. RAWG average playtime: 12 hours (well under a full run of the trilogy). Genres: Action, Shooter, Adventure, RPG. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#2E5E9E",
+    "chapters": [
+      {
+        "id": "me1-story",
+        "title": "Mass Effect: The Story",
+        "summary": "Commander Shepard's hunt for Saren, from Eden Prime to Ilos.",
+        "steps": []
+      },
+      {
+        "id": "me1-side",
+        "title": "Mass Effect: Squad, Powers and Side Missions",
+        "summary": "Squadmates, biotic and tech powers, uncharted worlds, the codex and Bring Down the Sky.",
+        "steps": []
+      },
+      {
+        "id": "me2-story",
+        "title": "Mass Effect 2: The Story",
+        "summary": "Back from the dead, the Collectors and the suicide mission.",
+        "steps": []
+      },
+      {
+        "id": "me2-squad",
+        "title": "Mass Effect 2: Recruitment and Loyalty",
+        "summary": "Recruiting the team and earning each member's loyalty.",
+        "steps": []
+      },
+      {
+        "id": "me2-side",
+        "title": "Mass Effect 2: Side Missions, Upgrades and Combat",
+        "summary": "Planet scanning, research, upgrades, powers, Overlord and the Shadow Broker.",
+        "steps": []
+      },
+      {
+        "id": "me3-story",
+        "title": "Mass Effect 3: The Story",
+        "summary": "The war against the Reapers, mission by mission. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "me3-side",
+        "title": "Mass Effect 3: Galaxy at War, Combat and Expansions",
+        "summary": "War assets, probes, weapon mods, power combos, and the Leviathan, Omega and Citadel missions.",
+        "steps": []
+      },
+      {
+        "id": "trilogy",
+        "title": "Across the Trilogy",
+        "summary": "Insanity runs, romances, one Shepard through all three games, and kill counts.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Medal of Honor",
+        "kind": "trophy",
+        "chapterId": "me1-story",
+        "where": "ME1: Complete the game on any difficulty"
+      },
+      {
+        "id": "achievement-2",
+        "name": "Medal of Heroism",
+        "kind": "trophy",
+        "chapterId": "me1-story",
+        "where": "ME1: Complete Feros"
+      },
+      {
+        "id": "achievement-3",
+        "name": "Distinguished Service Medal",
+        "kind": "trophy",
+        "chapterId": "me1-story",
+        "where": "ME1: Complete Eden Prime"
+      },
+      {
+        "id": "achievement-4",
+        "name": "Council Legion of Merit",
+        "kind": "trophy",
+        "chapterId": "me1-story",
+        "where": "ME1: Complete Virmire"
+      },
+      {
+        "id": "achievement-5",
+        "name": "Honorarium of Corporate Service",
+        "kind": "trophy",
+        "chapterId": "me1-story",
+        "where": "ME1: Complete Noveria"
+      },
+      {
+        "id": "achievement-6",
+        "name": "Lift Mastery",
+        "kind": "trophy",
+        "chapterId": "me1-side",
+        "where": "ME1: Use biotic Lift 25 times"
+      },
+      {
+        "id": "achievement-7",
+        "name": "Throw Mastery",
+        "kind": "trophy",
+        "chapterId": "me1-side",
+        "where": "ME1: Use biotic Throw 25 times"
+      },
+      {
+        "id": "achievement-8",
+        "name": "Warp Mastery",
+        "kind": "trophy",
+        "chapterId": "me1-side",
+        "where": "ME1: Use biotic Warp 25 times"
+      },
+      {
+        "id": "achievement-9",
+        "name": "Singularity Mastery",
+        "kind": "trophy",
+        "chapterId": "me1-side",
+        "where": "ME1: Use biotic Singularity 25 times"
+      },
+      {
+        "id": "achievement-10",
+        "name": "Barrier Mastery",
+        "kind": "trophy",
+        "chapterId": "me1-side",
+        "where": "ME1: Use biotic Barrier 25 times"
+      },
+      {
+        "id": "achievement-11",
+        "name": "Stasis Mastery",
+        "kind": "trophy",
+        "chapterId": "me1-side",
+        "where": "ME1: Use biotic Stasis 25 times."
+      },
+      {
+        "id": "achievement-12",
+        "name": "Damping Specialist",
+        "kind": "trophy",
+        "chapterId": "me1-side",
+        "where": "ME1: Use Damping Field 25 times"
+      },
+      {
+        "id": "achievement-13",
+        "name": "AI Hacking Specialist",
+        "kind": "trophy",
+        "chapterId": "me1-side",
+        "where": "ME1: Use AI Hacking 25 times"
+      },
+      {
+        "id": "achievement-14",
+        "name": "Electronics Specialist",
+        "kind": "trophy",
+        "chapterId": "me1-side",
+        "where": "ME1: Use Shield Overload 25 times"
+      },
+      {
+        "id": "achievement-15",
+        "name": "Sabotage Specialist",
+        "kind": "trophy",
+        "chapterId": "me1-side",
+        "where": "ME1: Use Sabotage 25 times"
+      },
+      {
+        "id": "achievement-16",
+        "name": "First Aid Specialist",
+        "kind": "trophy",
+        "chapterId": "me1-side",
+        "where": "ME1: Use medi-gel 50 times"
+      },
+      {
+        "id": "achievement-17",
+        "name": "Neural Shock Specialist",
+        "kind": "trophy",
+        "chapterId": "me1-side",
+        "where": "ME1: Use Neural Shock 25 times"
+      },
+      {
+        "id": "achievement-18",
+        "name": "Meritorious Service Medal",
+        "kind": "trophy",
+        "chapterId": "me1-story",
+        "where": "ME1: Complete Ilos"
+      },
+      {
+        "id": "achievement-19",
+        "name": "Archivist",
+        "kind": "trophy",
+        "chapterId": "me1-side",
+        "where": "ME1: Find all primary Alien: Council Races, Extinct Races and Non-Council Races codex entries"
+      },
+      {
+        "id": "achievement-20",
+        "name": "Completionist",
+        "kind": "trophy",
+        "chapterId": "me1-side",
+        "where": "ME1: Complete the majority of the game"
+      },
+      {
+        "id": "achievement-21",
+        "name": "Medal of Exploration I",
+        "kind": "trophy",
+        "chapterId": "me1-side",
+        "where": "ME1: Land on an uncharted world"
+      },
+      {
+        "id": "achievement-22",
+        "name": "Medal of Exploration II",
+        "kind": "trophy",
+        "chapterId": "me1-side",
+        "where": "ME1: Land on 4 uncharted worlds"
+      },
+      {
+        "id": "achievement-23",
+        "name": "Medal of Exploration III",
+        "kind": "trophy",
+        "chapterId": "me1-side",
+        "where": "ME1: Land on 8 uncharted worlds"
+      },
+      {
+        "id": "achievement-24",
+        "name": "Soldier Ally",
+        "kind": "trophy",
+        "chapterId": "me1-side",
+        "where": "ME1: Complete 5 missions with the Alliance soldier squad member"
+      },
+      {
+        "id": "achievement-25",
+        "name": "Sentinel Ally",
+        "kind": "trophy",
+        "chapterId": "me1-side",
+        "where": "ME1: Complete 5 missions with the Alliance sentinel squad member"
+      },
+      {
+        "id": "achievement-26",
+        "name": "Krogan Ally",
+        "kind": "trophy",
+        "chapterId": "me1-side",
+        "where": "ME1: Complete 5 missions with the krogan squad member"
+      },
+      {
+        "id": "achievement-27",
+        "name": "Turian Ally",
+        "kind": "trophy",
+        "chapterId": "me1-side",
+        "where": "ME1: Complete 5 missions with the turian squad member"
+      },
+      {
+        "id": "achievement-28",
+        "name": "Quarian Ally",
+        "kind": "trophy",
+        "chapterId": "me1-side",
+        "where": "ME1: Complete 5 missions with the quarian squad member"
+      },
+      {
+        "id": "achievement-29",
+        "name": "Asari Ally",
+        "kind": "trophy",
+        "chapterId": "me1-side",
+        "where": "ME1: Complete 5 missions with the asari squad member"
+      },
+      {
+        "id": "achievement-30",
+        "name": "Principled",
+        "kind": "trophy",
+        "chapterId": "me1-side",
+        "where": "ME1: Accumulate 75% of total possible Paragon or Renegade points"
+      },
+      {
+        "id": "achievement-31",
+        "name": "Spectre Inductee",
+        "kind": "trophy",
+        "chapterId": "me1-story",
+        "where": "ME1: Become a Spectre"
+      },
+      {
+        "id": "achievement-32",
+        "name": "Charismatic",
+        "kind": "trophy",
+        "chapterId": "me1-side",
+        "where": "ME1: Use Charm or Intimidate to resolve an impossible situation in the game."
+      },
+      {
+        "id": "achievement-33",
+        "name": "Search and Rescue",
+        "kind": "trophy",
+        "chapterId": "me1-story",
+        "where": "ME1: Locate Dr. T'soni in the Artemis Tau cluster"
+      },
+      {
+        "id": "achievement-34",
+        "name": "Colonial Savior",
+        "kind": "trophy",
+        "chapterId": "me1-side",
+        "where": "ME1: Complete the Bring Down the Sky mission."
+      },
+      {
+        "id": "achievement-35",
+        "name": "Mission Accomplished",
+        "kind": "trophy",
+        "chapterId": "me2-story",
+        "where": "ME2: Save humanity throughout the galaxy from certain annihilation"
+      },
+      {
+        "id": "achievement-36",
+        "name": "Missing in Action",
+        "kind": "trophy",
+        "chapterId": "me2-story",
+        "where": "ME2: Save your crew from an overwhelming attack"
+      },
+      {
+        "id": "achievement-37",
+        "name": "Very Elusive",
+        "kind": "trophy",
+        "chapterId": "me2-story",
+        "where": "ME2: Return to active duty"
+      },
+      {
+        "id": "achievement-38",
+        "name": "Colony Defense",
+        "kind": "trophy",
+        "chapterId": "me2-story",
+        "where": "ME2: Defend a human colony from attack"
+      },
+      {
+        "id": "achievement-39",
+        "name": "Ghost Ship",
+        "kind": "trophy",
+        "chapterId": "me2-story",
+        "where": "ME2: Complete the investigation of a derelict alien vessel"
+      },
+      {
+        "id": "achievement-40",
+        "name": "Suicide Mission",
+        "kind": "trophy",
+        "chapterId": "me2-story",
+        "where": "ME2: Use the Omega 4 Relay"
+      },
+      {
+        "id": "achievement-41",
+        "name": "Against All Odds",
+        "kind": "trophy",
+        "chapterId": "me2-story",
+        "where": "ME2: Survive suicide mission"
+      },
+      {
+        "id": "achievement-42",
+        "name": "No One Left Behind",
+        "kind": "trophy",
+        "chapterId": "me2-story",
+        "where": "ME2: Keep your team alive through the suicide mission"
+      },
+      {
+        "id": "achievement-43",
+        "name": "Friend or Foe",
+        "kind": "trophy",
+        "chapterId": "me2-story",
+        "where": "ME2: Obtain geth technology"
+      },
+      {
+        "id": "achievement-44",
+        "name": "The Archangel",
+        "kind": "trophy",
+        "chapterId": "me2-squad",
+        "where": "ME2: Successfully recruit Archangel"
+      },
+      {
+        "id": "achievement-45",
+        "name": "The Assassin",
+        "kind": "trophy",
+        "chapterId": "me2-squad",
+        "where": "ME2: Successfully recruit the Assassin"
+      },
+      {
+        "id": "achievement-46",
+        "name": "The Convict",
+        "kind": "trophy",
+        "chapterId": "me2-squad",
+        "where": "ME2: Successfully recruit the biotic Convict"
+      },
+      {
+        "id": "achievement-47",
+        "name": "The Justicar",
+        "kind": "trophy",
+        "chapterId": "me2-squad",
+        "where": "ME2: Successfully recruit the Justicar"
+      },
+      {
+        "id": "achievement-48",
+        "name": "The Krogan",
+        "kind": "trophy",
+        "chapterId": "me2-squad",
+        "where": "ME2: Successfully recruit the krogan"
+      },
+      {
+        "id": "achievement-49",
+        "name": "The Professor",
+        "kind": "trophy",
+        "chapterId": "me2-squad",
+        "where": "ME2: Successfully recruit the Professor"
+      },
+      {
+        "id": "achievement-50",
+        "name": "The Quarian",
+        "kind": "trophy",
+        "chapterId": "me2-squad",
+        "where": "ME2: Successfully recruit the quarian"
+      },
+      {
+        "id": "achievement-51",
+        "name": "A House Divided",
+        "kind": "trophy",
+        "chapterId": "me2-squad",
+        "where": "ME2: Hack a geth collective"
+      },
+      {
+        "id": "achievement-52",
+        "name": "Battlemaster",
+        "kind": "trophy",
+        "chapterId": "me2-squad",
+        "where": "ME2: Gain the loyalty of the krogan"
+      },
+      {
+        "id": "achievement-53",
+        "name": "Cat's in the Cradle",
+        "kind": "trophy",
+        "chapterId": "me2-squad",
+        "where": "ME2: Gain the loyalty of the Assassin"
+      },
+      {
+        "id": "achievement-54",
+        "name": "Catharsis",
+        "kind": "trophy",
+        "chapterId": "me2-squad",
+        "where": "ME2: Gain the loyalty of the biotic Convict"
+      },
+      {
+        "id": "achievement-55",
+        "name": "Doppelganger",
+        "kind": "trophy",
+        "chapterId": "me2-squad",
+        "where": "ME2: Help the Justicar resolve her mission"
+      },
+      {
+        "id": "achievement-56",
+        "name": "Fade Away",
+        "kind": "trophy",
+        "chapterId": "me2-squad",
+        "where": "ME2: Gain the loyalty of Archangel"
+      },
+      {
+        "id": "achievement-57",
+        "name": "Ghost of the Father",
+        "kind": "trophy",
+        "chapterId": "me2-squad",
+        "where": "ME2: Gain the loyalty of the Cerberus Operative"
+      },
+      {
+        "id": "achievement-58",
+        "name": "The Cure",
+        "kind": "trophy",
+        "chapterId": "me2-squad",
+        "where": "ME2: Gain the loyalty of the Professor"
+      },
+      {
+        "id": "achievement-59",
+        "name": "The Prodigal",
+        "kind": "trophy",
+        "chapterId": "me2-squad",
+        "where": "ME2: Gain the loyalty of the Cerberus Officer"
+      },
+      {
+        "id": "achievement-60",
+        "name": "Treason",
+        "kind": "trophy",
+        "chapterId": "me2-squad",
+        "where": "ME2: Gain the loyalty of the quarian"
+      },
+      {
+        "id": "achievement-61",
+        "name": "Big Game Hunter",
+        "kind": "trophy",
+        "chapterId": "me2-story",
+        "where": "ME2: Thresher Maw defeated"
+      },
+      {
+        "id": "achievement-62",
+        "name": "Head Hunter",
+        "kind": "trophy",
+        "chapterId": "me2-side",
+        "where": "ME2: Perform 30 headshot kills with any weapon on humanoid targets"
+      },
+      {
+        "id": "achievement-63",
+        "name": "Incineration Specialist",
+        "kind": "trophy",
+        "chapterId": "me2-side",
+        "where": "ME2: Incinerate the armor of 25 enemies"
+      },
+      {
+        "id": "achievement-64",
+        "name": "Merciless",
+        "kind": "trophy",
+        "chapterId": "me2-side",
+        "where": "ME2: Make 20 enemies scream as they fall or are set on fire"
+      },
+      {
+        "id": "achievement-65",
+        "name": "Overload Specialist",
+        "kind": "trophy",
+        "chapterId": "me2-side",
+        "where": "ME2: Disrupt the shields of 25 enemies"
+      },
+      {
+        "id": "achievement-66",
+        "name": "Tactician",
+        "kind": "trophy",
+        "chapterId": "me2-side",
+        "where": "ME2: Hit 20 different targets with multiple biotic powers to combine the effects"
+      },
+      {
+        "id": "achievement-67",
+        "name": "Warp Specialist",
+        "kind": "trophy",
+        "chapterId": "me2-side",
+        "where": "ME2: Warp the barriers of 25 enemies"
+      },
+      {
+        "id": "achievement-68",
+        "name": "Agent",
+        "kind": "trophy",
+        "chapterId": "me2-side",
+        "where": "ME2: Complete 5 missions discovered by scanning unexplored worlds"
+      },
+      {
+        "id": "achievement-69",
+        "name": "Galactic Explorer",
+        "kind": "trophy",
+        "chapterId": "me2-side",
+        "where": "ME2: Visit 100% of the planets in an unexplored cluster"
+      },
+      {
+        "id": "achievement-70",
+        "name": "Operative",
+        "kind": "trophy",
+        "chapterId": "me2-side",
+        "where": "ME2: Complete a mission discovered by scanning an unexplored world"
+      },
+      {
+        "id": "achievement-71",
+        "name": "Scientist",
+        "kind": "trophy",
+        "chapterId": "me2-side",
+        "where": "ME2: Complete any research project in the Normandy's laboratory"
+      },
+      {
+        "id": "achievement-72",
+        "name": "Weapon Specialist",
+        "kind": "trophy",
+        "chapterId": "me2-side",
+        "where": "ME2: Fully upgrade a weapon"
+      },
+      {
+        "id": "achievement-73",
+        "name": "Scholar",
+        "kind": "trophy",
+        "chapterId": "me2-side",
+        "where": "ME2: Unlock 15 new Mass Effect 2 codex entries"
+      },
+      {
+        "id": "achievement-74",
+        "name": "Power Full",
+        "kind": "trophy",
+        "chapterId": "me2-side",
+        "where": "ME2: Evolve any power"
+      },
+      {
+        "id": "achievement-75",
+        "name": "Revenge!",
+        "kind": "trophy",
+        "chapterId": "me2-squad",
+        "where": "ME2: Gain the loyalty of the mercenary"
+      },
+      {
+        "id": "achievement-76",
+        "name": "Broke, Blind, and Bedlam",
+        "kind": "trophy",
+        "chapterId": "me2-squad",
+        "where": "ME2: Gain the loyalty of the thief"
+      },
+      {
+        "id": "achievement-77",
+        "name": "Digital Exorcist",
+        "kind": "trophy",
+        "chapterId": "me2-side",
+        "where": "ME2: Successfully shut down the rogue VI in Project Overlord"
+      },
+      {
+        "id": "achievement-78",
+        "name": "Heart of Darkness",
+        "kind": "trophy",
+        "chapterId": "me2-side",
+        "where": "ME2: Confront the Shadow Broker"
+      },
+      {
+        "id": "achievement-79",
+        "name": "Driven",
+        "kind": "trophy",
+        "chapterId": "me3-story",
+        "where": "ME3: Return to active duty."
+      },
+      {
+        "id": "achievement-80",
+        "name": "Bringer of War",
+        "kind": "trophy",
+        "chapterId": "me3-story",
+        "where": "ME3: Chase down an assassin."
+      },
+      {
+        "id": "achievement-81",
+        "name": "Mobilizer",
+        "kind": "trophy",
+        "chapterId": "me3-story",
+        "where": "ME3: Bring a veteran officer aboard."
+      },
+      {
+        "id": "achievement-82",
+        "name": "World Shaker",
+        "kind": "trophy",
+        "chapterId": "me3-story",
+        "where": "ME3: Destroy an Atlas dropped from orbit."
+      },
+      {
+        "id": "achievement-83",
+        "name": "Pathfinder",
+        "kind": "trophy",
+        "chapterId": "me3-story",
+        "where": "ME3: Explore a lost city."
+      },
+      {
+        "id": "achievement-84",
+        "name": "Tunnel Rat",
+        "kind": "trophy",
+        "chapterId": "me3-story",
+        "where": "ME3: Survive the swarm."
+      },
+      {
+        "id": "achievement-85",
+        "name": "Party Crasher",
+        "kind": "trophy",
+        "chapterId": "me3-story",
+        "where": "ME3: Sabotage a dreadnought."
+      },
+      {
+        "id": "achievement-86",
+        "name": "Hard Target",
+        "kind": "trophy",
+        "chapterId": "me3-story",
+        "where": "ME3: Call down an orbital strike."
+      },
+      {
+        "id": "achievement-87",
+        "name": "Saboteur",
+        "kind": "trophy",
+        "chapterId": "me3-story",
+        "where": "ME3: Disable a group of fighter squadrons."
+      },
+      {
+        "id": "achievement-88",
+        "name": "Arbiter",
+        "kind": "trophy",
+        "chapterId": "me3-story",
+        "where": "ME3: Win a political stand-off."
+      },
+      {
+        "id": "achievement-89",
+        "name": "Last Witness",
+        "kind": "trophy",
+        "chapterId": "me3-story",
+        "where": "ME3: Extract ancient technology."
+      },
+      {
+        "id": "achievement-90",
+        "name": "Executioner",
+        "kind": "trophy",
+        "chapterId": "me3-story",
+        "where": "ME3: Defeat an old adversary."
+      },
+      {
+        "id": "achievement-91",
+        "name": "Well Connected",
+        "kind": "trophy",
+        "chapterId": "me3-story",
+        "where": "ME3: Send a warning across the galaxy."
+      },
+      {
+        "id": "achievement-92",
+        "name": "Fact Finder",
+        "kind": "trophy",
+        "chapterId": "me3-story",
+        "where": "ME3: Discover an enemy's monstrous origin."
+      },
+      {
+        "id": "achievement-93",
+        "name": "Liberator",
+        "kind": "trophy",
+        "chapterId": "me3-story",
+        "where": "ME3: Stop a Cerberus kidnapping."
+      },
+      {
+        "id": "achievement-94",
+        "name": "Problem Solver",
+        "kind": "trophy",
+        "chapterId": "me3-story",
+        "where": "ME3: Evacuate a scientific facility."
+      },
+      {
+        "id": "achievement-95",
+        "name": "Patriot",
+        "kind": "trophy",
+        "chapterId": "me3-story",
+        "where": "ME3: Make the final assault."
+      },
+      {
+        "id": "achievement-96",
+        "name": "Legend",
+        "kind": "trophy",
+        "chapterId": "me3-story",
+        "where": "ME3: Mission accomplished."
+      },
+      {
+        "id": "achievement-97",
+        "name": "Shopaholic",
+        "kind": "trophy",
+        "chapterId": "me3-side",
+        "where": "ME3: Visit a store in the single-player campaign."
+      },
+      {
+        "id": "achievement-98",
+        "name": "Master and Commander",
+        "kind": "trophy",
+        "chapterId": "me3-side",
+        "where": "ME3: Deliver most of the Galaxy at War assets to the final conflict."
+      },
+      {
+        "id": "achievement-99",
+        "name": "Lost and Found",
+        "kind": "trophy",
+        "chapterId": "me3-side",
+        "where": "ME3: Dispatch 10 probes to retrieve people or resources in Reaper territory."
+      },
+      {
+        "id": "achievement-100",
+        "name": "A Personal Touch",
+        "kind": "trophy",
+        "chapterId": "me3-side",
+        "where": "ME3: Modify a weapon."
+      },
+      {
+        "id": "achievement-101",
+        "name": "Combined Arms",
+        "kind": "trophy",
+        "chapterId": "me3-side",
+        "where": "ME3: Perform any combination of 50 biotic combos or tech bursts."
+      },
+      {
+        "id": "achievement-102",
+        "name": "Focused",
+        "kind": "trophy",
+        "chapterId": "me3-side",
+        "where": "ME3: Evolve any of your powers to rank 6."
+      },
+      {
+        "id": "achievement-103",
+        "name": "Untouchable",
+        "kind": "trophy",
+        "chapterId": "me3-side",
+        "where": "ME3: Escape a Reaper in the galaxy map."
+      },
+      {
+        "id": "achievement-104",
+        "name": "Shield Breaker",
+        "kind": "trophy",
+        "chapterId": "me3-side",
+        "where": "ME3: Overload the shields of 100 enemies."
+      },
+      {
+        "id": "achievement-105",
+        "name": "Sky High",
+        "kind": "trophy",
+        "chapterId": "me3-side",
+        "where": "ME3: Lift 100 enemies off the ground with powers."
+      },
+      {
+        "id": "achievement-106",
+        "name": "Pyromaniac",
+        "kind": "trophy",
+        "chapterId": "me3-side",
+        "where": "ME3: Set 100 enemies on fire with powers."
+      },
+      {
+        "id": "achievement-107",
+        "name": "Eye of the Hurricane",
+        "kind": "trophy",
+        "chapterId": "me3-side",
+        "where": "ME3: Kill a brute while it's charging you."
+      },
+      {
+        "id": "achievement-108",
+        "name": "Mail Slot",
+        "kind": "trophy",
+        "chapterId": "me3-side",
+        "where": "ME3: Kill 10 guardians with headshots from the front while their shields are raised."
+      },
+      {
+        "id": "achievement-109",
+        "name": "Hijacker",
+        "kind": "trophy",
+        "chapterId": "me3-side",
+        "where": "ME3: Hijack an Atlas mech."
+      },
+      {
+        "id": "achievement-110",
+        "name": "Giant Killer",
+        "kind": "trophy",
+        "chapterId": "me3-side",
+        "where": "ME3: Defeat a harvester."
+      },
+      {
+        "id": "achievement-111",
+        "name": "Always Prepared",
+        "kind": "trophy",
+        "chapterId": "me3-side",
+        "where": "ME3: Obtain two non-customizable suits of armor."
+      },
+      {
+        "id": "achievement-112",
+        "name": "Gunsmith",
+        "kind": "trophy",
+        "chapterId": "me3-side",
+        "where": "ME3: Upgrade any weapon to level 10."
+      },
+      {
+        "id": "achievement-113",
+        "name": "Under Pressure",
+        "kind": "trophy",
+        "chapterId": "me3-side",
+        "where": "ME3: Uncover an ancient secret."
+      },
+      {
+        "id": "achievement-114",
+        "name": "Savior",
+        "kind": "trophy",
+        "chapterId": "me3-side",
+        "where": "ME3: Free Omega from Cerberus Occupation."
+      },
+      {
+        "id": "achievement-115",
+        "name": "Last Resort",
+        "kind": "trophy",
+        "chapterId": "me3-side",
+        "where": "ME3: Stop an out-of-control scheme before it's too late."
+      },
+      {
+        "id": "achievement-116",
+        "name": "The One and Only",
+        "kind": "trophy",
+        "chapterId": "me3-side",
+        "where": "ME3: Defeat a group of Spectre-level opponents on Normal, Hardcore, or Insanity."
+      },
+      {
+        "id": "achievement-117",
+        "name": "Insanity I",
+        "kind": "trophy",
+        "chapterId": "trilogy",
+        "where": "Complete Mass Effect 1, 2 or 3 on Insanity without changing difficulty"
+      },
+      {
+        "id": "achievement-118",
+        "name": "Insanity II",
+        "kind": "trophy",
+        "chapterId": "trilogy",
+        "where": "Complete two games in Mass Effect Legendary Edition on Insanity without changing difficulty"
+      },
+      {
+        "id": "achievement-119",
+        "name": "Insanity III",
+        "kind": "trophy",
+        "chapterId": "trilogy",
+        "where": "Complete all three games in Mass Effect Legendary Edition on Insanity without changing difficulty"
+      },
+      {
+        "id": "achievement-120",
+        "name": "Paramour I",
+        "kind": "trophy",
+        "chapterId": "trilogy",
+        "where": "Establish a romantic relationship in Mass Effect 1, 2 or 3"
+      },
+      {
+        "id": "achievement-121",
+        "name": "Paramour II",
+        "kind": "trophy",
+        "chapterId": "trilogy",
+        "where": "Establish or rekindle a romantic relationship in two games in Mass Effect Legendary Edition"
+      },
+      {
+        "id": "achievement-122",
+        "name": "Paramour III",
+        "kind": "trophy",
+        "chapterId": "trilogy",
+        "where": "Establish or rekindle a romantic relationship in all three games in Mass Effect Legendary Edition"
+      },
+      {
+        "id": "achievement-123",
+        "name": "Long Service Medal",
+        "kind": "trophy",
+        "chapterId": "trilogy",
+        "where": "Finish Mass Effect 1, 2 and 3 with the same character"
+      },
+      {
+        "id": "achievement-124",
+        "name": "Recruit",
+        "kind": "trophy",
+        "chapterId": "trilogy",
+        "where": "Kill 250 enemies in Mass Effect 1, 2 or 3"
+      },
+      {
+        "id": "achievement-125",
+        "name": "Soldier",
+        "kind": "trophy",
+        "chapterId": "trilogy",
+        "where": "Kill 1,000 enemies in Mass Effect 1, 2 or 3"
+      },
+      {
+        "id": "achievement-126",
+        "name": "Veteran",
+        "kind": "trophy",
+        "chapterId": "trilogy",
+        "where": "Kill 2,000 enemies in Mass Effect 1, 2 or 3"
+      },
+      {
+        "id": "achievement-127",
+        "name": "Bruiser",
+        "kind": "trophy",
+        "chapterId": "trilogy",
+        "where": "Kill 100 enemies with melee attacks in Mass Effect 1, 2 or 3"
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/mass-effect-legendary-edition",
+    "Achievement data from Steam (Steam Web API, app 1328670)",
+    "StrategyWiki: no usable walkthrough, nothing used — https://strategywiki.org/wiki/Mass_Effect_Legendary_Edition",
+    "Fandom (masseffect.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://masseffect.fandom.com/wiki/Mass_Effect_Legendary_Edition"
+  ],
+  "route": "original",
+  "notes": "Backlog game, picked from RAWG's most-added list for its year (docs/PLAN.md section 2 ordering). StrategyWiki has a page at completion stage 1, but it is a compilation page with no subpages of its own; the guides live under the separate Mass Effect, Mass Effect 2 and Mass Effect 3 pages, so no structure was taken from it. masseffect.fandom.com answers the API, with about 94 linked pages; names only were looked at, nothing copied. The Steam schema calls the app \"Delorean\" (an internal codename); the store list confirms app 1328670. None of the 127 Steam achievements are hidden, and each description starts with ME1, ME2 or ME3, so chapters split cleanly by game. The ME2 and ME3 story chapters reveal plot through achievement descriptions, so they should stay spoiler-guarded."
+}

@@ -1,0 +1,337 @@
+{
+  "id": "the-last-of-us-remastered",
+  "title": "The Last of Us Remastered",
+  "year": 2014,
+  "platforms": [
+    "PlayStation 4"
+  ],
+  "rawgId": 3636,
+  "rawgSlug": "the-last-of-us-remastered",
+  "released": "2014-07-29",
+  "developers": [
+    "Naughty Dog"
+  ],
+  "playtime": 16,
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "tags": [
+    "Multiplayer",
+    "Atmospheric",
+    "Survival",
+    "Stealth",
+    "Action-Adventure",
+    "Action RPG",
+    "Zombies",
+    "exclusive",
+    "3rd-Person Perspective"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/364/3642d850efb217c58feab80b8affaa89.jpg",
+  "steamAppId": 1888930,
+  "achievements": {
+    "total": 29,
+    "hidden": 0,
+    "examples": [
+      {
+        "name": "Fallen Firefly",
+        "percent": 74.6
+      },
+      {
+        "name": "Self-Help",
+        "percent": 67.8
+      },
+      {
+        "name": "Savage Starlight Fan",
+        "percent": 61.5
+      },
+      {
+        "name": "Look for the Light",
+        "percent": 4.5
+      },
+      {
+        "name": "Chronicles",
+        "percent": 4.2
+      },
+      {
+        "name": "That's All I Got",
+        "percent": 4.2
+      },
+      {
+        "name": "Getting to Know You",
+        "percent": 4.1
+      },
+      {
+        "name": "It Can't Be For Nothing",
+        "percent": 3.9
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/The_Last_of_Us",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 500,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://thelastofus.fandom.com/wiki/The_Last_of_Us"
+    }
+  },
+  "game": {
+    "id": "the-last-of-us-remastered",
+    "title": "The Last of Us Remastered",
+    "platforms": [
+      "PlayStation 4"
+    ],
+    "blurb": "Post-apocalyptic action-adventure in which Joel escorts Ellie across a ruined America, from Naughty Dog, released 2014-07-29 on PlayStation 4 as a remaster of the 2013 game. RAWG average playtime: 16 hours. Genres: Action, Adventure. Chapters are an estimate drawn from the Steam achievements of the PC remake, The Last of Us Part I.",
+    "accent": "#4E6B4A",
+    "chapters": [
+      {
+        "id": "main-story",
+        "title": "The Main Story",
+        "summary": "Joel and Ellie's journey, with a few memorable moments along the way. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "collectibles",
+        "title": "Collectibles and Conversations",
+        "summary": "Firefly pendants, comics, notes and artifacts, training manuals, safes, shiv doors, optional conversations and Ellie's jokes.",
+        "steps": []
+      },
+      {
+        "id": "crafting-and-combat",
+        "title": "Crafting, Upgrades and Combat",
+        "summary": "Workbenches and tools, weapon upgrades, crafting every item, melee weapons and luring the infected.",
+        "steps": []
+      },
+      {
+        "id": "left-behind",
+        "title": "Left Behind",
+        "summary": "The Left Behind chapter with Ellie: its games and contests.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "It Can't Be For Nothing",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Collect all the achievements"
+      },
+      {
+        "id": "achievement-2",
+        "name": "No Matter What",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Complete Part 1"
+      },
+      {
+        "id": "achievement-3",
+        "name": "Don't Go",
+        "kind": "trophy",
+        "chapterId": "left-behind",
+        "where": "Complete Left Behind"
+      },
+      {
+        "id": "achievement-4",
+        "name": "Look for the Light",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Find all Firefly pendants"
+      },
+      {
+        "id": "achievement-5",
+        "name": "Endure and Survive",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Collect all comics"
+      },
+      {
+        "id": "achievement-6",
+        "name": "Chronicles",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Find all notes and artifacts"
+      },
+      {
+        "id": "achievement-7",
+        "name": "Getting to Know You",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Engage in all optional conversations"
+      },
+      {
+        "id": "achievement-8",
+        "name": "That's All I Got",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Survive all of Ellie's jokes"
+      },
+      {
+        "id": "achievement-9",
+        "name": "Something to Fight For",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Find all training manuals"
+      },
+      {
+        "id": "achievement-10",
+        "name": "Combat Ready",
+        "kind": "trophy",
+        "chapterId": "crafting-and-combat",
+        "where": "Fully upgrade a weapon"
+      },
+      {
+        "id": "achievement-11",
+        "name": "Master of Unlocking",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Break into every locked door using shivs"
+      },
+      {
+        "id": "achievement-12",
+        "name": "Prepared For the Worst",
+        "kind": "trophy",
+        "chapterId": "crafting-and-combat",
+        "where": "Find all workbenches"
+      },
+      {
+        "id": "achievement-13",
+        "name": "Sticky Fingers",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Open all safes"
+      },
+      {
+        "id": "achievement-14",
+        "name": "Sharpest Tool in the Shed",
+        "kind": "trophy",
+        "chapterId": "crafting-and-combat",
+        "where": "Find all workbench tools"
+      },
+      {
+        "id": "achievement-15",
+        "name": "Build Em Up, Break Em Down",
+        "kind": "trophy",
+        "chapterId": "crafting-and-combat",
+        "where": "Upgrade and then break one of every melee weapon"
+      },
+      {
+        "id": "achievement-16",
+        "name": "Fallen Firefly",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Find a Firefly pendant"
+      },
+      {
+        "id": "achievement-17",
+        "name": "Self-Help",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Find one training manual"
+      },
+      {
+        "id": "achievement-18",
+        "name": "Savage Starlight Fan",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Find a comic"
+      },
+      {
+        "id": "achievement-19",
+        "name": "Geared Up",
+        "kind": "trophy",
+        "chapterId": "crafting-and-combat",
+        "where": "Craft every item"
+      },
+      {
+        "id": "achievement-20",
+        "name": "In Memoriam",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Pick up Frank's note after it's discarded"
+      },
+      {
+        "id": "achievement-21",
+        "name": "Lights Out",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "While in stealth, turn off the spotlight generator in Pittsburgh"
+      },
+      {
+        "id": "achievement-22",
+        "name": "Waterlogged",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Ride the sewer contraption with Henry and Sam"
+      },
+      {
+        "id": "achievement-23",
+        "name": "Left Hanging",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Leave Ellie hanging after a job well done"
+      },
+      {
+        "id": "achievement-24",
+        "name": "Who's A Good Boy?",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Pet Buckley the dog"
+      },
+      {
+        "id": "achievement-25",
+        "name": "Nobody's Perfect",
+        "kind": "trophy",
+        "chapterId": "left-behind",
+        "where": "Play the Jak X game in Left Behind"
+      },
+      {
+        "id": "achievement-26",
+        "name": "Brick Master",
+        "kind": "trophy",
+        "chapterId": "left-behind",
+        "where": "Win the brick throwing contest"
+      },
+      {
+        "id": "achievement-27",
+        "name": "Angel Knives",
+        "kind": "trophy",
+        "chapterId": "left-behind",
+        "where": "Defeat Black Fang without getting hit"
+      },
+      {
+        "id": "achievement-28",
+        "name": "Skillz",
+        "kind": "trophy",
+        "chapterId": "left-behind",
+        "where": "Win the water gun fight"
+      },
+      {
+        "id": "achievement-29",
+        "name": "Live Bait",
+        "kind": "trophy",
+        "chapterId": "crafting-and-combat",
+        "where": "Use bricks or bottles to lure an infected into attacking a human"
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/the-last-of-us-remastered",
+    "Achievement data from Steam (Steam Web API, app 1888930)",
+    "StrategyWiki: no usable walkthrough, nothing used — https://strategywiki.org/wiki/The_Last_of_Us",
+    "Fandom (thelastofus.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://thelastofus.fandom.com/wiki/The_Last_of_Us"
+  ],
+  "route": "original",
+  "notes": "Backlog game, picked from RAWG's most-added list for its year (docs/PLAN.md section 2 ordering). IMPORTANT: The Last of Us Remastered is a PlayStation 4 game (RAWG lists only PlayStation 4) with no Steam release. The Steam app used here, 1888930, is \"The Last of Us Part I\", the 2022 PC remake (RAWG lists it separately as \"The Last of Us Part I\", 2022-09-02). Its achievement list is used only as a stand-in for chapter themes and collectibles; it may differ from the Remastered PS4 trophy list and should be checked before release. The Steam schema calls the app \"Texas\" (an internal codename). None of its 29 achievements is hidden. It covers the main game (\"Complete Part 1\") and Left Behind (\"Complete Left Behind\", plus the Jak X game, brick, Black Fang and water gun contests). StrategyWiki has the guide under \"The Last of Us\" (completion stage 0, marked a stub); only Controls and Table of Contents subpages exist, and Walkthrough, Gameplay and Trophies are linked but not written. thelastofus.fandom.com answers the API under \"The Last of Us\", with 500 or more linked pages (the link list was cut off at 500); it also has a \"The Last of Us Part I\" page with about 112 links. Names only were looked at, nothing copied."
+}

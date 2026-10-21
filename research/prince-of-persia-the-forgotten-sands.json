@@ -1,0 +1,112 @@
+{
+  "id": "prince-of-persia-the-forgotten-sands",
+  "title": "Prince of Persia: The Forgotten Sands",
+  "year": 2010,
+  "platforms": [
+    "PC",
+    "PlayStation 3",
+    "Xbox 360"
+  ],
+  "rawgId": 4518,
+  "rawgSlug": "prince-of-persia-the-forgotten-sands",
+  "released": "2010-05-18",
+  "developers": [
+    "Ubisoft Montreal"
+  ],
+  "playtime": 2,
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Third Person",
+    "Fantasy",
+    "exclusive",
+    "Parkour"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/9a2/9a2e789046757af843ef0dd2a435adab.jpg",
+  "steamAppId": null,
+  "achievements": {
+    "total": 0,
+    "examples": [],
+    "reason": "Steam app 33320 (\"Prince of Persia: The Forgotten Sands™\") returns an empty achievement schema from the Steam Web API and the global percentages call is refused (HTTP 403), so there is no Steam list. Fandom has an \"Achievements and Trophies in The Forgotten Sands\" page; StrategyWiki links an achievements page and a sarcophagi locations page, but neither is written."
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Prince_of_Persia:_The_Forgotten_Sands",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 153,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://princeofpersia.fandom.com/wiki/Prince_of_Persia:_The_Forgotten_Sands"
+    }
+  },
+  "game": {
+    "id": "prince-of-persia-the-forgotten-sands",
+    "title": "Prince of Persia: The Forgotten Sands",
+    "platforms": [
+      "PC",
+      "PlayStation 3",
+      "Xbox 360"
+    ],
+    "blurb": "Acrobatic action-adventure with time powers, set around Solomon's Palace and its sand army, from Ubisoft Montreal, released 2010-05-18. RAWG average playtime: 2 hours. Genres: Action, Adventure. Chapters are an estimate drawn from Fandom level page names, as there is no Steam achievement list.",
+    "accent": "#C08A2E",
+    "chapters": [
+      {
+        "id": "ramparts-and-fortress",
+        "title": "The Ramparts and the Fortress",
+        "summary": "The first levels: the Ramparts, the Fortress, the first Palace Courtyard, the Treasure Vault and the Stables.",
+        "steps": []
+      },
+      {
+        "id": "works-and-prison",
+        "title": "The Works, the Gates and the Prison",
+        "summary": "The Works, the second Palace Courtyard, the Fortress Gates, the Prison and the Sewer.",
+        "steps": []
+      },
+      {
+        "id": "royal-quarters",
+        "title": "The Baths and the Royal Quarters",
+        "summary": "The Baths, the Royal Chambers, the Observatory, the Throne Room, the Terrace and the Rooftop Gardens.",
+        "steps": []
+      },
+      {
+        "id": "aqueducts-and-rekem",
+        "title": "The Aqueducts and Rekem",
+        "summary": "The Aqueducts, Solomon's Tomb, the Ruins of Rekem, Rekem's Throne Room, the Sacred Fountain and the Rekem Reservoir.",
+        "steps": []
+      },
+      {
+        "id": "finale",
+        "title": "Solomon's Hall and the Finale",
+        "summary": "Solomon's Hall, the King's Tower, the Palace and the Final Climb. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "powers-and-upgrades",
+        "title": "Powers and Upgrades",
+        "summary": "The Power of Time, Flow and Memory, and the upgrade menu powers such as Whirlwind, Stone Armor, Ice Blast and Trail of Flame.",
+        "steps": []
+      }
+    ],
+    "collectibles": []
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/prince-of-persia-the-forgotten-sands",
+    "Steam: no achievement list available for this game (see notes)",
+    "StrategyWiki: no usable walkthrough, nothing used — https://strategywiki.org/wiki/Prince_of_Persia:_The_Forgotten_Sands",
+    "Fandom (princeofpersia.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://princeofpersia.fandom.com/wiki/Prince_of_Persia:_The_Forgotten_Sands"
+  ],
+  "route": "original",
+  "notes": "Backlog game, picked from RAWG's most-added list for its year (docs/PLAN.md section 2 ordering). StrategyWiki has a stub page (completion stage 0, marked as a stub). Only \"Controls\" (about 1,300 characters) and \"Table of Contents\" (about 660) exist; its Walkthrough, Gameplay, Characters, Upgrades, sarcophagi and achievements subpages are linked but not created, so nothing was used. princeofpersia.fandom.com answers the API, with about 153 linked pages, including 25 \"(Forgotten Sands Level)\" pages and \"The Final Climb\"; names only were looked at, nothing copied. Chapters group these levels in the order they are linked on the Fandom game page; that order was not checked against the game, and the split into chapters is a judgement call. RAWG has separate entries for the Wii, PSP and DS versions, which are different games; this entry is the PC, PlayStation 3 and Xbox 360 one. Steam app 33320 returns an empty achievement schema, so steam=None. RAWG lists a playtime of only 2 hours, which looks low."
+}

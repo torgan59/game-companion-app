@@ -1,0 +1,392 @@
+{
+  "id": "south-park-the-fractured-but-whole",
+  "title": "South Park: The Fractured But Whole",
+  "year": 2017,
+  "platforms": [
+    "PlayStation 4",
+    "Xbox One",
+    "PC",
+    "Nintendo Switch"
+  ],
+  "rawgId": 29,
+  "rawgSlug": "south-park-the-fractured-but-whole",
+  "released": "2017-03-31",
+  "developers": [
+    "Ubisoft San Francisco"
+  ],
+  "playtime": 12,
+  "genres": [
+    "Adventure",
+    "RPG"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Full controller support",
+    "Atmospheric",
+    "Great Soundtrack",
+    "RPG",
+    "Story Rich",
+    "Open World",
+    "2D",
+    "Horror",
+    "Funny",
+    "Comedy",
+    "role-playing"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/63c/63cb04333dea1726e90b38dc3d10258f.jpg",
+  "steamAppId": 488790,
+  "achievements": {
+    "total": 35,
+    "hidden": 0,
+    "examples": [
+      {
+        "name": "Potty Trained",
+        "percent": 92.7
+      },
+      {
+        "name": "Fashionista",
+        "percent": 82.9
+      },
+      {
+        "name": "Big Knocker",
+        "percent": 75.8
+      },
+      {
+        "name": "Farts over Freckles",
+        "percent": 10.2
+      },
+      {
+        "name": "Boy Love Aficionado",
+        "percent": 10.0
+      },
+      {
+        "name": "Pick Yourself up by Your Bootstraps",
+        "percent": 8.4
+      },
+      {
+        "name": "Crappin' Forte",
+        "percent": 7.8
+      },
+      {
+        "name": "The Token Experience",
+        "percent": 4.9
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": false,
+      "pages": 0,
+      "reason": "No page for South Park: The Fractured But Whole (MediaWiki API returned missing; search empty)"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 21,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://southpark.fandom.com/wiki/South_Park:_The_Fractured_But_Whole"
+    }
+  },
+  "game": {
+    "id": "south-park-the-fractured-but-whole",
+    "title": "South Park: The Fractured But Whole",
+    "platforms": [
+      "PlayStation 4",
+      "Xbox One",
+      "PC",
+      "Nintendo Switch"
+    ],
+    "blurb": "Comedy turn-based RPG in which the New Kid joins the town's superhero games, from Ubisoft San Francisco, released 2017-03-31. RAWG average playtime: 12 hours. Genres: Adventure, RPG. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#C8102E",
+    "chapters": [
+      {
+        "id": "main-story",
+        "title": "The Main Story",
+        "summary": "The big story beats: Professor Chaos, Mutant Cousin Kyle, the farts of future past and stopping racism in South Park.",
+        "steps": []
+      },
+      {
+        "id": "mastermind",
+        "title": "Mastermind Difficulty",
+        "summary": "Finishing the game on Mastermind difficulty.",
+        "steps": []
+      },
+      {
+        "id": "exploring-south-park",
+        "title": "Exploring South Park",
+        "summary": "Toilets, Yaoi art, followers, Fartkour, Biohazard loot, the Homeless Camp, Moses and Morgan Freeman.",
+        "steps": []
+      },
+      {
+        "id": "crafting-and-costumes",
+        "title": "Crafting, Costumes and the Character Sheet",
+        "summary": "Crafting recipes and artifacts, Might, costume pieces and Character Sheet titles.",
+        "steps": []
+      },
+      {
+        "id": "combat",
+        "title": "Combat, Powers and TimeFarts",
+        "summary": "TimeFarts, ally Ultimates, summons, mixing classes and clever ways to win fights.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Crappin' Forte",
+        "kind": "trophy",
+        "chapterId": "exploring-south-park",
+        "where": "Use every available toilet in South Park and achieve the highest mastery level for each"
+      },
+      {
+        "id": "achievement-2",
+        "name": "Boy Love Aficionado",
+        "kind": "trophy",
+        "chapterId": "exploring-south-park",
+        "where": "Find all Yaoi art pieces"
+      },
+      {
+        "id": "achievement-3",
+        "name": "An End to Racism",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Stop racism in South Park"
+      },
+      {
+        "id": "achievement-4",
+        "name": "Orgy of Power",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Use all Allies' Ultimate powers once during the game, except the Coon's"
+      },
+      {
+        "id": "achievement-5",
+        "name": "Stop, Drop and Roll",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Win a combat by using TimeFart Pause to kill all remaining enemies at once before time resumes"
+      },
+      {
+        "id": "achievement-6",
+        "name": "The Token Experience",
+        "kind": "trophy",
+        "chapterId": "mastermind",
+        "where": "Create a Black character and complete the game on Mastermind Difficulty"
+      },
+      {
+        "id": "achievement-7",
+        "name": "Fully Bloated",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Unlock all combat TimeFarts"
+      },
+      {
+        "id": "achievement-8",
+        "name": "Fashionista",
+        "kind": "trophy",
+        "chapterId": "crafting-and-costumes",
+        "where": "Find 10 costume pieces"
+      },
+      {
+        "id": "achievement-9",
+        "name": "Junksmith",
+        "kind": "trophy",
+        "chapterId": "crafting-and-costumes",
+        "where": "Craft 10 distinct recipes"
+      },
+      {
+        "id": "achievement-10",
+        "name": "Death Dodger",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Keep an Ally alive for an entire combat while they take twice their max Health in damage"
+      },
+      {
+        "id": "achievement-11",
+        "name": "Deep Seated Power",
+        "kind": "trophy",
+        "chapterId": "crafting-and-costumes",
+        "where": "Obtain and equip Artifacts to reach 600 Might"
+      },
+      {
+        "id": "achievement-12",
+        "name": "Class Warfare",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Equip powers from 2 different classes"
+      },
+      {
+        "id": "achievement-13",
+        "name": "Farts over Freckles",
+        "kind": "trophy",
+        "chapterId": "exploring-south-park",
+        "where": "Pick a fight with Morgan Freeman and defeat him"
+      },
+      {
+        "id": "achievement-14",
+        "name": "Toxic Environment",
+        "kind": "trophy",
+        "chapterId": "exploring-south-park",
+        "where": "Loot 100 Biohazard items"
+      },
+      {
+        "id": "achievement-15",
+        "name": "Pasta of Prophets",
+        "kind": "trophy",
+        "chapterId": "exploring-south-park",
+        "where": "Craft a macaroni picture for Moses"
+      },
+      {
+        "id": "achievement-16",
+        "name": "Corporate Wolf",
+        "kind": "trophy",
+        "chapterId": "crafting-and-costumes",
+        "where": "Reach the highest economic value on your Character Sheet"
+      },
+      {
+        "id": "achievement-17",
+        "name": "#followbacks",
+        "kind": "trophy",
+        "chapterId": "exploring-south-park",
+        "where": "Become mutual followers with 10 people in South Park"
+      },
+      {
+        "id": "achievement-18",
+        "name": "Divine Wind",
+        "kind": "trophy",
+        "chapterId": "exploring-south-park",
+        "where": "Successfully Fartkour to the Lofts at SoDoSoPa rooftop and back down again"
+      },
+      {
+        "id": "achievement-19",
+        "name": "Last Kid Standing",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Win while 3 Allies are downed at the end of combat"
+      },
+      {
+        "id": "achievement-20",
+        "name": "Titleist",
+        "kind": "trophy",
+        "chapterId": "crafting-and-costumes",
+        "where": "Reach the highest rank on 1 title in your Character Sheet"
+      },
+      {
+        "id": "achievement-21",
+        "name": "Cosplay Curious",
+        "kind": "trophy",
+        "chapterId": "crafting-and-costumes",
+        "where": "Wear costume pieces from 3 different sets at once"
+      },
+      {
+        "id": "achievement-22",
+        "name": "Chaos Controlled",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Foil the plans of Professor Chaos"
+      },
+      {
+        "id": "achievement-23",
+        "name": "Call in a Favor",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Use a Summon"
+      },
+      {
+        "id": "achievement-24",
+        "name": "Invasive Tumor Removal",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Defeat Mutant Cousin Kyle"
+      },
+      {
+        "id": "achievement-25",
+        "name": "Master Classed",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Equip powers from 4 different classes"
+      },
+      {
+        "id": "achievement-26",
+        "name": "Epic Artificer",
+        "kind": "trophy",
+        "chapterId": "crafting-and-costumes",
+        "where": "Craft an Artifact with a Might value of 75 or more"
+      },
+      {
+        "id": "achievement-27",
+        "name": "Glitch of Death",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Use TimeFart Glitch to cause a status-effected enemy to lose their turn and die at turn's end"
+      },
+      {
+        "id": "achievement-28",
+        "name": "Through the Bowels of Time",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Survive the farts of future past"
+      },
+      {
+        "id": "achievement-29",
+        "name": "Diabetes Defender",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Defend a helpless child from a drunk lunatic"
+      },
+      {
+        "id": "achievement-30",
+        "name": "Big Knocker",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Kill an enemy by knocking another enemy into them"
+      },
+      {
+        "id": "achievement-31",
+        "name": "Character Sheet Elite",
+        "kind": "trophy",
+        "chapterId": "crafting-and-costumes",
+        "where": "Reach the highest rank on 5 titles in your Character Sheet"
+      },
+      {
+        "id": "achievement-32",
+        "name": "Master Manipulator",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Confuse or charm an enemy into defeating another enemy"
+      },
+      {
+        "id": "achievement-33",
+        "name": "Friend Finder",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Acquire and unlock all Summons"
+      },
+      {
+        "id": "achievement-34",
+        "name": "Potty Trained",
+        "kind": "trophy",
+        "chapterId": "exploring-south-park",
+        "where": "Use a toilet and achieve the highest mastery level"
+      },
+      {
+        "id": "achievement-35",
+        "name": "Pick Yourself up by Your Bootstraps",
+        "kind": "trophy",
+        "chapterId": "exploring-south-park",
+        "where": "Collect all loot in the Homeless Camp at SoDoSoPa"
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/south-park-the-fractured-but-whole",
+    "Achievement data from Steam (Steam Web API, app 488790)",
+    "StrategyWiki: no page for this game, nothing used",
+    "Fandom (southpark.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://southpark.fandom.com/wiki/South_Park:_The_Fractured_But_Whole"
+  ],
+  "route": "original",
+  "notes": "Backlog game, picked from RAWG's most-added list for its year (docs/PLAN.md section 2 ordering). StrategyWiki has no page for this game (API returned missing for \"South Park: The Fractured But Whole\" and for \"South Park: The Fractured but Whole\"). southpark.fandom.com answers the API, with about 21 linked pages, including subpages \"Achievements\", \"Collectibles\", \"Missions\" and \"DLC\"; names only were looked at, nothing copied. None of the 35 Steam achievements is hidden. No achievement names an add-on, so there is no DLC chapter. \"Diabetes Defender\" (defend a child from a drunk lunatic) was put in the main story, a guess; the Mastermind chapter holds only one achievement (\"The Token Experience\"). The Steam schema spells the name without the colon."
+}

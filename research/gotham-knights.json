@@ -1,0 +1,581 @@
+{
+  "id": "gotham-knights",
+  "title": "Gotham Knights",
+  "year": 2022,
+  "platforms": [
+    "PC",
+    "PlayStation 5",
+    "Xbox Series X|S"
+  ],
+  "rawgId": 481908,
+  "rawgSlug": "batman-gotham-knights",
+  "released": "2022-10-21",
+  "developers": [
+    "Warner Bros. Interactive",
+    "QLOC",
+    "Warner Bros. Games Montréal"
+  ],
+  "playtime": 5,
+  "genres": [
+    "Action",
+    "Adventure",
+    "RPG"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Multiplayer",
+    "Full controller support",
+    "Steam Cloud",
+    "Atmospheric",
+    "RPG",
+    "Co-op",
+    "Story Rich",
+    "Open World",
+    "cooperative",
+    "Third Person"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/067/067480b8c161115c90e60fd120b1570e.jpg",
+  "steamAppId": 1496790,
+  "achievements": {
+    "total": 61,
+    "hidden": 40,
+    "examples": [
+      {
+        "name": "The Batman Family",
+        "percent": 36.1
+      },
+      {
+        "name": "Unstoppable Force",
+        "percent": 32.9
+      },
+      {
+        "name": "Protector of Gotham",
+        "percent": 27.1
+      },
+      {
+        "name": "Claiming the Mural High Ground",
+        "percent": 4.4
+      },
+      {
+        "name": "Batarang Collector",
+        "percent": 4.1
+      },
+      {
+        "name": "History Major",
+        "percent": 3.5
+      },
+      {
+        "name": "Renewable Enemy Source",
+        "percent": 2.0
+      },
+      {
+        "name": "Element of Surprise",
+        "percent": 1.6
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": false,
+      "pages": 0,
+      "reason": "No page for Gotham Knights (MediaWiki API returned missing; search empty)"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 19,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://gothamknights.fandom.com/wiki/Gotham_Knights"
+    }
+  },
+  "game": {
+    "id": "gotham-knights",
+    "title": "Gotham Knights",
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "Xbox Series X|S"
+    ],
+    "blurb": "Open-world action RPG in which Batgirl, Robin, Nightwing and Red Hood protect Gotham City, from Warner Bros. Games Montréal, released 2022-10-21. RAWG average playtime: 5 hours. Genres: Action, Adventure, RPG. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#2E4A7A",
+    "chapters": [
+      {
+        "id": "main-story",
+        "title": "The Main Story",
+        "summary": "The Batman Family's case across Gotham City. Spoiler-guarded; most achievements here are hidden.",
+        "steps": []
+      },
+      {
+        "id": "batman-family",
+        "title": "The Batman Family",
+        "summary": "Playing as all four heroes, reaching the maximum level and unlocking Momentum abilities and bars.",
+        "steps": []
+      },
+      {
+        "id": "gotham-city",
+        "title": "Gotham City: Collectibles and Side Goals",
+        "summary": "Bruce Wayne's audio recordings, murals, landmarks, hidden Batarangs, Batcycle time trials and keeping Batman's identity secret.",
+        "steps": []
+      },
+      {
+        "id": "challenges-and-gear",
+        "title": "Challenges, Training and Gear",
+        "summary": "Challenges, the Training Area exercises, mod fusion and Legendary equipment sets.",
+        "steps": []
+      },
+      {
+        "id": "combat",
+        "title": "Combat and Enemy Types",
+        "summary": "Defeating Mob Godmothers, Regulator Shockers and Drone Masters, Freaks Bulldozers, and using Elemental Effects.",
+        "steps": []
+      },
+      {
+        "id": "supercharged",
+        "title": "Supercharged Criminals",
+        "summary": "Defeating Supercharged criminals and breaking them with Elemental Effect weaknesses.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Loose Ends",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-2",
+        "name": "Whispered Words",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-3",
+        "name": "Lock and Key",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-4",
+        "name": "Bad Apples in Every Orchard",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-5",
+        "name": "From Inside Gotham's Walls",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-6",
+        "name": "Voiceless",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-7",
+        "name": "To the Victor Go the Spoils",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-8",
+        "name": "Quartzer Life Crisis",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-9",
+        "name": "Snow Problem",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-10",
+        "name": "Cooldown",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-11",
+        "name": "Har, Har, Har, Very Funny",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-12",
+        "name": "Working Hard or Harley Working?",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-13",
+        "name": "Universal Health Scare",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-14",
+        "name": "The Show Mud Go On",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-15",
+        "name": "Rock and a Hard Place",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-16",
+        "name": "Get ReQ'd",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-17",
+        "name": "Something in the Clay",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-18",
+        "name": "End of an Era",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-19",
+        "name": "The Batman Family",
+        "kind": "trophy",
+        "chapterId": "batman-family",
+        "where": "Play as Batgirl, Robin, Nightwing, and Red Hood"
+      },
+      {
+        "id": "achievement-20",
+        "name": "Gotham City Confidential",
+        "kind": "trophy",
+        "chapterId": "gotham-city",
+        "where": "Find all of Bruce Wayne's hidden audio recordings"
+      },
+      {
+        "id": "achievement-21",
+        "name": "Solid Alibi",
+        "kind": "trophy",
+        "chapterId": "gotham-city",
+        "where": "Successfully protect Batman's secret identity"
+      },
+      {
+        "id": "achievement-22",
+        "name": "Bat Out of Hell",
+        "kind": "trophy",
+        "chapterId": "gotham-city",
+        "where": "Complete every Batcycle time trial"
+      },
+      {
+        "id": "achievement-23",
+        "name": "Knighthood",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-24",
+        "name": "A Worthy Successor",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-25",
+        "name": "First Step Into the Knight",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-26",
+        "name": "He'd Be So Proud of You",
+        "kind": "trophy",
+        "chapterId": "batman-family",
+        "where": "Reach the maximum level as any member of the Batman Family"
+      },
+      {
+        "id": "achievement-27",
+        "name": "A Momentum Occasion",
+        "kind": "trophy",
+        "chapterId": "batman-family",
+        "where": "Unlock all Momentum Abilities as Batgirl, Robin, Nightwing, or Red Hood"
+      },
+      {
+        "id": "achievement-28",
+        "name": "Unstoppable Force",
+        "kind": "trophy",
+        "chapterId": "batman-family",
+        "where": "Unlock all four Momentum bars as Batgirl, Robin, Nightwing, or Red Hood"
+      },
+      {
+        "id": "achievement-29",
+        "name": "Family Meeting",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Defeat 30 Mob Godmothers"
+      },
+      {
+        "id": "achievement-30",
+        "name": "Shock Til They Drop",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Defeat 45 Regulator Shockers"
+      },
+      {
+        "id": "achievement-31",
+        "name": "Drone You Out",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Defeat 30 Regulator Drone Masters"
+      },
+      {
+        "id": "achievement-32",
+        "name": "Bulldozed",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Defeat 30 Freaks Bulldozers"
+      },
+      {
+        "id": "achievement-33",
+        "name": "Out of Their League",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-34",
+        "name": "The Man-Bat Family",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-35",
+        "name": "Talonted",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-36",
+        "name": "In Your Element",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Inflict Elemental Effects on enemies 50 times"
+      },
+      {
+        "id": "achievement-37",
+        "name": "Claiming the Mural High Ground",
+        "kind": "trophy",
+        "chapterId": "gotham-city",
+        "where": "Discover all the murals for Tim's Gotham City Street Art project"
+      },
+      {
+        "id": "achievement-38",
+        "name": "History Major",
+        "kind": "trophy",
+        "chapterId": "gotham-city",
+        "where": "Locate all Landmarks of Gotham City"
+      },
+      {
+        "id": "achievement-39",
+        "name": "Batarang Collector",
+        "kind": "trophy",
+        "chapterId": "gotham-city",
+        "where": "Retrieve every hidden Batarang in Gotham City"
+      },
+      {
+        "id": "achievement-40",
+        "name": "Read Owl About It",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-41",
+        "name": "Expert Crime Fighter",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-42",
+        "name": "Not On My Watch",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-43",
+        "name": "Protector of Gotham",
+        "kind": "trophy",
+        "chapterId": "challenges-and-gear",
+        "where": "Complete 50 Challenges"
+      },
+      {
+        "id": "achievement-44",
+        "name": "Fusion Expert",
+        "kind": "trophy",
+        "chapterId": "challenges-and-gear",
+        "where": "Acquire 50 Modchips via mod fusion"
+      },
+      {
+        "id": "achievement-45",
+        "name": "Dressed to Impress",
+        "kind": "trophy",
+        "chapterId": "challenges-and-gear",
+        "where": "Craft a complete set of Legendary equipment (Suit, Melee Weapon, Ranged Weapon)"
+      },
+      {
+        "id": "achievement-46",
+        "name": "Seeking Asylum",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-47",
+        "name": "Gotham Knight",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-48",
+        "name": "Practice Makes Perfect",
+        "kind": "trophy",
+        "chapterId": "challenges-and-gear",
+        "where": "Complete all 16 Training Area exercises"
+      },
+      {
+        "id": "achievement-49",
+        "name": "A Sophisticated Mallet",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-50",
+        "name": "Icebreaker",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-51",
+        "name": "Don't Mecha Big Deal About It",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-52",
+        "name": "That's Showbiz, Clayby",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-53",
+        "name": "Confronting Your Demon",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-54",
+        "name": "Showdown Sovereign",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-55",
+        "name": "Gotham's Greatest Depths",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-56",
+        "name": "Hammer and Icicle",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-57",
+        "name": "Crime Is a Terrible Thing to Waste",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-58",
+        "name": "The Cold, the Bad and the Ugly",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-59",
+        "name": "Renewable Enemy Source",
+        "kind": "trophy",
+        "chapterId": "supercharged",
+        "where": "Defeat 75 Supercharged criminals"
+      },
+      {
+        "id": "achievement-60",
+        "name": "It's Nice to Be Wanted",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-61",
+        "name": "Element of Surprise",
+        "kind": "trophy",
+        "chapterId": "supercharged",
+        "where": "Break Supercharged criminals 50 times using Elemental Effect weaknesses"
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/batman-gotham-knights",
+    "Achievement data from Steam (Steam Web API, app 1496790)",
+    "StrategyWiki: no page for this game, nothing used",
+    "Fandom (gothamknights.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://gothamknights.fandom.com/wiki/Gotham_Knights"
+  ],
+  "route": "original",
+  "notes": "Backlog game, picked from RAWG's most-added list for its year (docs/PLAN.md section 2 ordering). StrategyWiki has no page for Gotham Knights (API returned missing for \"Gotham Knights\" and for \"Gotham Knights (2022)\"). gothamknights.fandom.com answers the API, with about 19 linked pages, including \"Bat Family\", \"Belfry\" and \"Court of Owls\"; names only were looked at, nothing copied. The Steam schema calls the app \"Mercury\" (an internal codename); the store list confirms app 1496790. 40 of 61 Steam achievements are hidden; they sit in the main story chapter as a placeholder. A block of hidden ones (49 to 58 and 60, for example \"A Sophisticated Mallet\" and \"Showdown Sovereign\") are earned by only about 2% of players, alongside the two visible Supercharged achievements (59 and 61), so they may belong to a later or harder mode, but nothing in the data says so. RAWG lists a playtime of only 5 hours, which looks low."
+}

@@ -1,0 +1,440 @@
+{
+  "id": "gothic-1-remake",
+  "title": "Gothic 1 Remake",
+  "year": 2026,
+  "platforms": [
+    "Xbox Series X|S",
+    "PlayStation 5",
+    "PlayStation 4",
+    "Xbox One",
+    "PC"
+  ],
+  "rawgId": 573118,
+  "rawgSlug": "gothic-1-remake",
+  "released": "2026-06-05",
+  "developers": [
+    "Piranha Bytes",
+    "Alkimia Interactive"
+  ],
+  "playtime": null,
+  "genres": [
+    "Action",
+    "RPG"
+  ],
+  "tags": [
+    "role-playing",
+    "Gothic"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/f24/f24d20c6fddb77fe83d39cbfd7d4687f.jpg",
+  "steamAppId": 1297900,
+  "achievements": {
+    "total": 42,
+    "hidden": 1,
+    "examples": [
+      {
+        "name": "Crafting Newbie",
+        "percent": 86.5
+      },
+      {
+        "name": "Sect-ary",
+        "percent": 48.8
+      },
+      {
+        "name": "Way of the Guild",
+        "percent": 48.1
+      },
+      {
+        "name": "Map Sniffer",
+        "percent": 2.3
+      },
+      {
+        "name": "Insomnia Champion",
+        "percent": 2.1
+      },
+      {
+        "name": "Overachiever",
+        "percent": 1.8
+      },
+      {
+        "name": "No time to die",
+        "percent": 1.5
+      },
+      {
+        "name": "Colonyholic",
+        "percent": 1.0
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": false,
+      "pages": 0,
+      "reason": "No page for Gothic 1 Remake (MediaWiki API returned missing; search empty)"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 2,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://gothic.fandom.com/wiki/Gothic_1_(Remake)"
+    }
+  },
+  "game": {
+    "id": "gothic-1-remake",
+    "title": "Gothic 1 Remake",
+    "platforms": [
+      "Xbox Series X|S",
+      "PlayStation 5",
+      "PlayStation 4",
+      "Xbox One",
+      "PC"
+    ],
+    "blurb": "Action role-playing game set in a prison colony under a magic barrier, from Alkimia Interactive (RAWG also lists Piranha Bytes), released 2026-06-05. RAWG has no playtime yet. Genres: Action, RPG. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#7A6236",
+    "chapters": [
+      {
+        "id": "main-story",
+        "title": "The Main Story",
+        "summary": "The story chapter by chapter, through to the Sleeper Temple. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "camps-and-quests",
+        "title": "Camps, Guilds and Quests",
+        "summary": "Joining the Old, New or Swamp Camp, rising in a guild, and the named quest lines.",
+        "steps": []
+      },
+      {
+        "id": "skills-and-magic",
+        "title": "Skills, Magic and Learning",
+        "summary": "Weapon mastery, magic circles, Orcish, lessons and transformations.",
+        "steps": []
+      },
+      {
+        "id": "crafting-and-exploration",
+        "title": "Crafting, Thievery and Exploration",
+        "summary": "Crafting weapons, potions and scrolls, armour, maps, books, pickpocketing and lockpicking.",
+        "steps": []
+      },
+      {
+        "id": "combat",
+        "title": "Combat",
+        "summary": "Fist fights, parries, headshots, elemental damage and fall kills.",
+        "steps": []
+      },
+      {
+        "id": "challenge-runs",
+        "title": "Challenge Runs",
+        "summary": "Finishing the game without sleeping, or in permadeath mode.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Sect-ary",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Complete Chapter 2"
+      },
+      {
+        "id": "achievement-2",
+        "name": "Focus Maniac",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Complete Chapter 3"
+      },
+      {
+        "id": "achievement-3",
+        "name": "My new friend the Necromancer",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Complete Chapter 4"
+      },
+      {
+        "id": "achievement-4",
+        "name": "Orc Culture Ninja",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Complete Chapter 5"
+      },
+      {
+        "id": "achievement-5",
+        "name": "The Sleeper awakens...Not!",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Complete Chapter 6"
+      },
+      {
+        "id": "achievement-6",
+        "name": "The Sleeper is with you",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Enter the Sleeper Temple"
+      },
+      {
+        "id": "achievement-7",
+        "name": "Foreign Language Master",
+        "kind": "trophy",
+        "chapterId": "skills-and-magic",
+        "where": "Learn Orcish Level 2"
+      },
+      {
+        "id": "achievement-8",
+        "name": "The Fixer",
+        "kind": "trophy",
+        "chapterId": "camps-and-quests",
+        "where": "Complete “Escape Plan” Quest"
+      },
+      {
+        "id": "achievement-9",
+        "name": "The Anatomaniac",
+        "kind": "trophy",
+        "chapterId": "camps-and-quests",
+        "where": "Complete Cavalorn Books Quests"
+      },
+      {
+        "id": "achievement-10",
+        "name": "True Stranger",
+        "kind": "trophy",
+        "chapterId": "camps-and-quests",
+        "where": "Complete Chromanin Quests"
+      },
+      {
+        "id": "achievement-11",
+        "name": "Gomez' Paperboy",
+        "kind": "trophy",
+        "chapterId": "camps-and-quests",
+        "where": "Join Old Camp"
+      },
+      {
+        "id": "achievement-12",
+        "name": "Lowlife",
+        "kind": "trophy",
+        "chapterId": "camps-and-quests",
+        "where": "Join New Camp"
+      },
+      {
+        "id": "achievement-13",
+        "name": "Cult Loon",
+        "kind": "trophy",
+        "chapterId": "camps-and-quests",
+        "where": "Join Swamp Camp"
+      },
+      {
+        "id": "achievement-14",
+        "name": "Way of the Guild",
+        "kind": "trophy",
+        "chapterId": "camps-and-quests",
+        "where": "Rank Up in any Guild"
+      },
+      {
+        "id": "achievement-15",
+        "name": "Map Sniffer",
+        "kind": "trophy",
+        "chapterId": "crafting-and-exploration",
+        "where": "Get all the Maps"
+      },
+      {
+        "id": "achievement-16",
+        "name": "Adept of Arms",
+        "kind": "trophy",
+        "chapterId": "skills-and-magic",
+        "where": "Get master in all Melee Weapons"
+      },
+      {
+        "id": "achievement-17",
+        "name": "String Wielder",
+        "kind": "trophy",
+        "chapterId": "skills-and-magic",
+        "where": "Get master in all Ranged Weapons"
+      },
+      {
+        "id": "achievement-18",
+        "name": "Abracadabra",
+        "kind": "trophy",
+        "chapterId": "skills-and-magic",
+        "where": "Get the 6th Magic Circle"
+      },
+      {
+        "id": "achievement-19",
+        "name": "No gate can stop you",
+        "kind": "trophy",
+        "chapterId": "camps-and-quests",
+        "where": "Sneak into the Old Camp"
+      },
+      {
+        "id": "achievement-20",
+        "name": "In bed with Xardas",
+        "kind": "trophy",
+        "chapterId": "crafting-and-exploration",
+        "where": "Visit Xardas' room"
+      },
+      {
+        "id": "achievement-21",
+        "name": "Armor-geddon",
+        "kind": "trophy",
+        "chapterId": "crafting-and-exploration",
+        "where": "Get Ore Armor"
+      },
+      {
+        "id": "achievement-22",
+        "name": "Pimp my armor",
+        "kind": "trophy",
+        "chapterId": "crafting-and-exploration",
+        "where": "Get all the mods for an Armor"
+      },
+      {
+        "id": "achievement-23",
+        "name": "The way of the fist",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Defeat 10 enemies using your fists"
+      },
+      {
+        "id": "achievement-24",
+        "name": "Transformer",
+        "kind": "trophy",
+        "chapterId": "skills-and-magic",
+        "where": "Transform into all creatures"
+      },
+      {
+        "id": "achievement-25",
+        "name": "Garrett",
+        "kind": "trophy",
+        "chapterId": "crafting-and-exploration",
+        "where": "Pickpocket from 20 characters"
+      },
+      {
+        "id": "achievement-26",
+        "name": "Master Garrett",
+        "kind": "trophy",
+        "chapterId": "crafting-and-exploration",
+        "where": "Unlock 20 locks with lockpicking"
+      },
+      {
+        "id": "achievement-27",
+        "name": "Crafting Newbie",
+        "kind": "trophy",
+        "chapterId": "crafting-and-exploration",
+        "where": "Craft your first item"
+      },
+      {
+        "id": "achievement-28",
+        "name": "Anvil Enthusiast",
+        "kind": "trophy",
+        "chapterId": "crafting-and-exploration",
+        "where": "Craft 5 weapons"
+      },
+      {
+        "id": "achievement-29",
+        "name": "Alkimist",
+        "kind": "trophy",
+        "chapterId": "crafting-and-exploration",
+        "where": "Craft 10 potions"
+      },
+      {
+        "id": "achievement-30",
+        "name": "Scribbler",
+        "kind": "trophy",
+        "chapterId": "crafting-and-exploration",
+        "where": "Craft your first scroll"
+      },
+      {
+        "id": "achievement-31",
+        "name": "Mud Freak",
+        "kind": "trophy",
+        "chapterId": "camps-and-quests",
+        "where": "Exhaust all of Mud's dialogue options"
+      },
+      {
+        "id": "achievement-32",
+        "name": "Gravity Kills",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Kill an enemy by using fall damage"
+      },
+      {
+        "id": "achievement-33",
+        "name": "Mercy Over Madness",
+        "kind": "trophy",
+        "chapterId": "camps-and-quests",
+        "where": "Spare Gomez’s Life"
+      },
+      {
+        "id": "achievement-34",
+        "name": "Elemental Showoff",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Deal all 3 elemental damage types to the same enemy"
+      },
+      {
+        "id": "achievement-35",
+        "name": "Deflecto",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Parry an enemy 5 times without dodging or receiving damage"
+      },
+      {
+        "id": "achievement-36",
+        "name": "Overachiever",
+        "kind": "trophy",
+        "chapterId": "skills-and-magic",
+        "where": "Learn all the lessons."
+      },
+      {
+        "id": "achievement-37",
+        "name": "Headshot Houdini",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Kill 10 enemies with headshots"
+      },
+      {
+        "id": "achievement-38",
+        "name": "Insomnia Champion",
+        "kind": "trophy",
+        "chapterId": "challenge-runs",
+        "where": "Complete the game without sleeping"
+      },
+      {
+        "id": "achievement-39",
+        "name": "No time to die",
+        "kind": "trophy",
+        "chapterId": "challenge-runs",
+        "where": "Complete the game in permadeath mode"
+      },
+      {
+        "id": "achievement-40",
+        "name": "Bookworm",
+        "kind": "trophy",
+        "chapterId": "crafting-and-exploration",
+        "where": "Read 10 books"
+      },
+      {
+        "id": "achievement-41",
+        "name": "Colonyholic",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Get all Achievements"
+      },
+      {
+        "id": "achievement-42",
+        "name": "Gothic 1 Remake Completionist",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/gothic-1-remake",
+    "Achievement data from Steam (Steam Web API, app 1297900)",
+    "StrategyWiki: no page for this game, nothing used",
+    "Fandom (gothic.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://gothic.fandom.com/wiki/Gothic_1_(Remake)"
+  ],
+  "route": "original",
+  "notes": "Backlog game, picked from RAWG's most-added list for its year (docs/PLAN.md section 2 ordering). StrategyWiki has no page under \"Gothic 1 Remake\" or \"Gothic Remake\". gothic.fandom.com redirects \"Gothic 1 Remake\" to \"Gothic 1 (Remake)\", a page in Category:Article stubs with only 3 links (2 of them to articles); names only were looked at, nothing copied. RAWG lists two developers, Piranha Bytes and Alkimia Interactive; the Fandom infobox names only Alkimia Interactive. Steam app 1297900 is the only store match. 1 of 42 Steam achievements is hidden (the completionist one); the story achievements are \"Complete Chapter 2\" to \"Complete Chapter 6\" plus the Sleeper Temple, so there is no Chapter 1 achievement. The camp achievements (join Old, New or Swamp Camp) are alternatives; a player may not get all three in one run, which was not checked. \"Mercy Over Madness\" (spare Gomez) was put in camps and quests."
+}

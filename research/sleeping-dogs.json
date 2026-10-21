@@ -1,0 +1,573 @@
+{
+  "id": "sleeping-dogs",
+  "title": "Sleeping Dogs",
+  "year": 2012,
+  "platforms": [
+    "PC",
+    "Xbox 360",
+    "PlayStation 3"
+  ],
+  "rawgId": 16113,
+  "rawgSlug": "sleeping-dogs",
+  "released": "2012-08-14",
+  "developers": [
+    "United Front Games",
+    "Square Enix London Studios"
+  ],
+  "playtime": 14,
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Multiplayer",
+    "Full controller support",
+    "Atmospheric",
+    "Great Soundtrack",
+    "RPG",
+    "Story Rich",
+    "Open World",
+    "Third Person",
+    "Sandbox",
+    "Violent",
+    "Third-Person Shooter"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/3d9/3d9bac98d79bcd2d445f829e8d6be902.jpg",
+  "steamAppId": 307690,
+  "achievements": {
+    "total": 59,
+    "hidden": 0,
+    "examples": [
+      {
+        "name": "In With the Gang",
+        "percent": 76.6
+      },
+      {
+        "name": "Environmentalist",
+        "percent": 73.5
+      },
+      {
+        "name": "Strike Gold",
+        "percent": 59.0
+      },
+      {
+        "name": "Chief Inspector",
+        "percent": 3.1
+      },
+      {
+        "name": "Goodie Monster",
+        "percent": 3.1
+      },
+      {
+        "name": "Solid Silver",
+        "percent": 2.9
+      },
+      {
+        "name": "Cursed Gold",
+        "percent": 2.8
+      },
+      {
+        "name": "Pure Gold",
+        "percent": 2.7
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Sleeping_Dogs",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 87,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://sleepingdogs.fandom.com/wiki/Sleeping_Dogs"
+    }
+  },
+  "game": {
+    "id": "sleeping-dogs",
+    "title": "Sleeping Dogs",
+    "platforms": [
+      "PC",
+      "Xbox 360",
+      "PlayStation 3"
+    ],
+    "blurb": "Open-world action game set in Hong Kong, in which Wei Shen joins one of the city's gangs while keeping the trust of both gangsters and police, from United Front Games and Square Enix London Studios, released 2012-08-14. RAWG average playtime: 14 hours. Genres: Action, Adventure. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#B3261E",
+    "chapters": [
+      {
+        "id": "main-story",
+        "title": "The Main Story",
+        "summary": "Wei Shen works his way into a Hong Kong gang, from the Night Market chase onward. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "face-and-progress",
+        "title": "Face, Upgrades and Completion",
+        "summary": "Face levels, Triad and Cop upgrades, Stat Awards and overall completion.",
+        "steps": []
+      },
+      {
+        "id": "side-activities",
+        "title": "Cases, Favours and Side Activities",
+        "summary": "Police cases, favours, open world events, street races, martial arts clubs, Roland's jobs, cockfights, karaoke and food.",
+        "steps": []
+      },
+      {
+        "id": "collectibles",
+        "title": "Collectibles and Shopping",
+        "summary": "Lockboxes, security cameras, health shrines, evidence, clothing and vehicles.",
+        "steps": []
+      },
+      {
+        "id": "combat-and-driving",
+        "title": "Combat, Gadgets and Driving",
+        "summary": "Environmental kills, weapons, action hijacks, gadgets and police chases.",
+        "steps": []
+      },
+      {
+        "id": "nightmare-in-north-point",
+        "title": "Nightmare in North Point",
+        "summary": "The ghost story add-on: sending three foes back to Hell, Smiley Cat and the money shrines.",
+        "steps": []
+      },
+      {
+        "id": "year-of-the-snake",
+        "title": "Year of the Snake",
+        "summary": "The add-on with the End of the World mission, the cultists and its side content.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "In With the Gang",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Complete Night Market Chase."
+      },
+      {
+        "id": "achievement-2",
+        "name": "That'll Show 'em",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Complete Payback."
+      },
+      {
+        "id": "achievement-3",
+        "name": "A Big Betrayal",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Complete Dockyard Heist."
+      },
+      {
+        "id": "achievement-4",
+        "name": "Big Smiles All Around",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Complete Big Smile Lee."
+      },
+      {
+        "id": "achievement-5",
+        "name": "Minor Face",
+        "kind": "trophy",
+        "chapterId": "face-and-progress",
+        "where": "Achieve Face Level 2."
+      },
+      {
+        "id": "achievement-6",
+        "name": "Gaining Face",
+        "kind": "trophy",
+        "chapterId": "face-and-progress",
+        "where": "Achieve Face Level 5."
+      },
+      {
+        "id": "achievement-7",
+        "name": "Great Face",
+        "kind": "trophy",
+        "chapterId": "face-and-progress",
+        "where": "Achieve Face Level 10."
+      },
+      {
+        "id": "achievement-8",
+        "name": "Fashion Statement",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Change all your clothes in your wardrobe or a clothing store."
+      },
+      {
+        "id": "achievement-9",
+        "name": "Stuntman",
+        "kind": "trophy",
+        "chapterId": "combat-and-driving",
+        "where": "Successfully perform an action hijack."
+      },
+      {
+        "id": "achievement-10",
+        "name": "A Slap in the Face",
+        "kind": "trophy",
+        "chapterId": "combat-and-driving",
+        "where": "Kill someone with a fish."
+      },
+      {
+        "id": "achievement-11",
+        "name": "Take A Bite Out Of Crime",
+        "kind": "trophy",
+        "chapterId": "side-activities",
+        "where": "Complete a Case."
+      },
+      {
+        "id": "achievement-12",
+        "name": "Man Around Town",
+        "kind": "trophy",
+        "chapterId": "side-activities",
+        "where": "Visit Aberdeen, Central, Kennedy Town and North Point."
+      },
+      {
+        "id": "achievement-13",
+        "name": "Foodie",
+        "kind": "trophy",
+        "chapterId": "side-activities",
+        "where": "Try 10 different foods or drinks."
+      },
+      {
+        "id": "achievement-14",
+        "name": "Environmentalist",
+        "kind": "trophy",
+        "chapterId": "combat-and-driving",
+        "where": "Perform 5 unique environmental kills."
+      },
+      {
+        "id": "achievement-15",
+        "name": "Gadgetman",
+        "kind": "trophy",
+        "chapterId": "combat-and-driving",
+        "where": "Pick a lock, plant a bug, trace a phone, crack a safe, and take over a spy camera."
+      },
+      {
+        "id": "achievement-16",
+        "name": "Safe Driver",
+        "kind": "trophy",
+        "chapterId": "combat-and-driving",
+        "where": "Cruise for 2 minutes over 60 Km/h without damaging your car."
+      },
+      {
+        "id": "achievement-17",
+        "name": "Gun Nut",
+        "kind": "trophy",
+        "chapterId": "combat-and-driving",
+        "where": "Use 10 different firearms to defeat enemies."
+      },
+      {
+        "id": "achievement-18",
+        "name": "Whatever's Handy",
+        "kind": "trophy",
+        "chapterId": "combat-and-driving",
+        "where": "Use 10 different melee weapons to defeat enemies."
+      },
+      {
+        "id": "achievement-19",
+        "name": "Tourist",
+        "kind": "trophy",
+        "chapterId": "side-activities",
+        "where": "Win a bet on a cockfight."
+      },
+      {
+        "id": "achievement-20",
+        "name": "Infowlable",
+        "kind": "trophy",
+        "chapterId": "side-activities",
+        "where": "Win 50,000 on a single cockfight."
+      },
+      {
+        "id": "achievement-21",
+        "name": "Kleptomaniac",
+        "kind": "trophy",
+        "chapterId": "side-activities",
+        "where": "Hijack 5 trucks and collect their cargo."
+      },
+      {
+        "id": "achievement-22",
+        "name": "Sharpshooter",
+        "kind": "trophy",
+        "chapterId": "combat-and-driving",
+        "where": "Shoot out a cop's tires while fleeing in a police chase."
+      },
+      {
+        "id": "achievement-23",
+        "name": "Case Closed",
+        "kind": "trophy",
+        "chapterId": "side-activities",
+        "where": "Complete all cases."
+      },
+      {
+        "id": "achievement-24",
+        "name": "Mr. Nice Guy",
+        "kind": "trophy",
+        "chapterId": "side-activities",
+        "where": "Complete all Favors."
+      },
+      {
+        "id": "achievement-25",
+        "name": "Event Driven",
+        "kind": "trophy",
+        "chapterId": "side-activities",
+        "where": "Complete half of the open world events."
+      },
+      {
+        "id": "achievement-26",
+        "name": "Event Planner",
+        "kind": "trophy",
+        "chapterId": "side-activities",
+        "where": "Complete all of the open world Events."
+      },
+      {
+        "id": "achievement-27",
+        "name": "Martial Law",
+        "kind": "trophy",
+        "chapterId": "side-activities",
+        "where": "Defeat all 4 Martial Arts Clubs"
+      },
+      {
+        "id": "achievement-28",
+        "name": "Wei of the Road",
+        "kind": "trophy",
+        "chapterId": "side-activities",
+        "where": "Complete all Street Races."
+      },
+      {
+        "id": "achievement-29",
+        "name": "Ultimate Fighter",
+        "kind": "trophy",
+        "chapterId": "face-and-progress",
+        "where": "Unlock ten Triad Upgrades."
+      },
+      {
+        "id": "achievement-30",
+        "name": "Super Cop",
+        "kind": "trophy",
+        "chapterId": "face-and-progress",
+        "where": "Unlock ten Cop Upgrades."
+      },
+      {
+        "id": "achievement-31",
+        "name": "North Point Scavenger",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Unlock every lockbox in North Point."
+      },
+      {
+        "id": "achievement-32",
+        "name": "Central Scavenger",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Unlock every lockbox in Central."
+      },
+      {
+        "id": "achievement-33",
+        "name": "West End Scavenger",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Unlock every lockbox in Kennedy Town and Aberdeen."
+      },
+      {
+        "id": "achievement-34",
+        "name": "Bounty Hunter",
+        "kind": "trophy",
+        "chapterId": "side-activities",
+        "where": "Complete all of Roland's Jobs."
+      },
+      {
+        "id": "achievement-35",
+        "name": "Karaoke Superstar",
+        "kind": "trophy",
+        "chapterId": "side-activities",
+        "where": "Achieving 90% and above for all songs at the Karaoke Bars in HK."
+      },
+      {
+        "id": "achievement-36",
+        "name": "Hong Kong Super Hacker",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Hack every Security Camera in the game."
+      },
+      {
+        "id": "achievement-37",
+        "name": "Fashion Victim",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Purchase all clothing."
+      },
+      {
+        "id": "achievement-38",
+        "name": "Spiritual Healing",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Pray at all of the Health Shrines."
+      },
+      {
+        "id": "achievement-39",
+        "name": "Auto Enthusiast",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Purchase all vehicles."
+      },
+      {
+        "id": "achievement-40",
+        "name": "Slight Silver",
+        "kind": "trophy",
+        "chapterId": "face-and-progress",
+        "where": "Achieve 5 Silver Stat Awards."
+      },
+      {
+        "id": "achievement-41",
+        "name": "Substantial Silver",
+        "kind": "trophy",
+        "chapterId": "face-and-progress",
+        "where": "Achieve 15 Silver Stat Awards."
+      },
+      {
+        "id": "achievement-42",
+        "name": "Solid Silver",
+        "kind": "trophy",
+        "chapterId": "face-and-progress",
+        "where": "Achieve 30 Silver Stat Awards."
+      },
+      {
+        "id": "achievement-43",
+        "name": "Strike Gold",
+        "kind": "trophy",
+        "chapterId": "face-and-progress",
+        "where": "Achieve 1 Gold Stat Award."
+      },
+      {
+        "id": "achievement-44",
+        "name": "Gold Rush",
+        "kind": "trophy",
+        "chapterId": "face-and-progress",
+        "where": "Achieve 5 Gold Stat Awards."
+      },
+      {
+        "id": "achievement-45",
+        "name": "Golden Touch",
+        "kind": "trophy",
+        "chapterId": "face-and-progress",
+        "where": "Achieve 15 Gold Stat Awards."
+      },
+      {
+        "id": "achievement-46",
+        "name": "Pure Gold",
+        "kind": "trophy",
+        "chapterId": "face-and-progress",
+        "where": "Achieve 30 Gold Stat Awards."
+      },
+      {
+        "id": "achievement-47",
+        "name": "Rookie",
+        "kind": "trophy",
+        "chapterId": "face-and-progress",
+        "where": "Complete 10% of all missions, cases, favors, events, jobs and races."
+      },
+      {
+        "id": "achievement-48",
+        "name": "Officer",
+        "kind": "trophy",
+        "chapterId": "face-and-progress",
+        "where": "Complete 25% of all missions, cases, favors, events, jobs and races."
+      },
+      {
+        "id": "achievement-49",
+        "name": "Detective",
+        "kind": "trophy",
+        "chapterId": "face-and-progress",
+        "where": "Complete 50% of all missions, cases, favors, events, jobs and races."
+      },
+      {
+        "id": "achievement-50",
+        "name": "Chief Inspector",
+        "kind": "trophy",
+        "chapterId": "face-and-progress",
+        "where": "Complete 100% of all missions, cases, favors, events, jobs and races."
+      },
+      {
+        "id": "achievement-51",
+        "name": "Pet Cemetery",
+        "kind": "trophy",
+        "chapterId": "nightmare-in-north-point",
+        "where": "Send Dogeyes, Ratface and Ponytail back to Hell."
+      },
+      {
+        "id": "achievement-52",
+        "name": "I Can Haz Banishment",
+        "kind": "trophy",
+        "chapterId": "nightmare-in-north-point",
+        "where": "Banish Smiley Cat."
+      },
+      {
+        "id": "achievement-53",
+        "name": "Ghosts and Stuff",
+        "kind": "trophy",
+        "chapterId": "nightmare-in-north-point",
+        "where": "Complete all secondary content of Nightmare in North Point."
+      },
+      {
+        "id": "achievement-54",
+        "name": "Cursed Gold",
+        "kind": "trophy",
+        "chapterId": "nightmare-in-north-point",
+        "where": "Achieve 5 Gold Awards."
+      },
+      {
+        "id": "achievement-55",
+        "name": "Hell Money",
+        "kind": "trophy",
+        "chapterId": "nightmare-in-north-point",
+        "where": "Find all the money shrines."
+      },
+      {
+        "id": "achievement-56",
+        "name": "Bomb Squad",
+        "kind": "trophy",
+        "chapterId": "year-of-the-snake",
+        "where": "Complete End of the World."
+      },
+      {
+        "id": "achievement-57",
+        "name": "Cult Master",
+        "kind": "trophy",
+        "chapterId": "year-of-the-snake",
+        "where": "Defeat the cultists."
+      },
+      {
+        "id": "achievement-58",
+        "name": "Hong Kong’s Finest",
+        "kind": "trophy",
+        "chapterId": "year-of-the-snake",
+        "where": "Complete all secondary content of Year of the Snake."
+      },
+      {
+        "id": "achievement-59",
+        "name": "Goodie Monster",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Find all the Evidence Collectibles."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/sleeping-dogs",
+    "Achievement data from Steam (Steam Web API, app 307690)",
+    "StrategyWiki: no usable walkthrough, nothing used — https://strategywiki.org/wiki/Sleeping_Dogs",
+    "Fandom (sleepingdogs.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://sleepingdogs.fandom.com/wiki/Sleeping_Dogs"
+  ],
+  "route": "original",
+  "notes": "Backlog game, picked from RAWG's most-added list for its year (docs/PLAN.md section 2 ordering). The Steam app used is Sleeping Dogs: Definitive Edition (307690); the original app (202170) is also in the store list with the same count of 59 achievements, but its schema calls it \"ValveTestApp202170\". StrategyWiki has a page at completion stage 1, but its walkthrough is not written: the Table of Contents lists about 45 mission pages (for example \"The Beginning\" and \"Night Market Chase\") with none written. The written subpages are \"Achievements and trophies\", \"Controls\", \"Races\", \"Upgrades\" and \"Table of Contents\", so it was not used. sleepingdogs.fandom.com answers the API, with about 87 linked pages, including \"Downloadable Content (DLC)\" and \"Sleeping Dogs: Definitive Edition\"; names only were looked at, nothing copied. None of the 59 achievements is hidden. The two add-on chapters use the names given in the achievement text. \"Cursed Gold\" and \"Hell Money\" name no add-on; they sit between the two add-on blocks and were put in Nightmare in North Point by position (StrategyWiki lists \"Hell Shrines\" as a collectible), which needs checking. \"Goodie Monster\" (evidence collectibles, last in the list) was kept in the collectibles chapter. RAWG also lists a Zodiac Tournament add-on, but no achievement names it."
+}

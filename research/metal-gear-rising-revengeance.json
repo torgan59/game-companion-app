@@ -1,0 +1,604 @@
+{
+  "id": "metal-gear-rising-revengeance",
+  "title": "Metal Gear Rising: Revengeance",
+  "year": 2013,
+  "platforms": [
+    "PlayStation 3",
+    "Xbox 360",
+    "PC",
+    "Android",
+    "Xbox One"
+  ],
+  "rawgId": 4094,
+  "rawgSlug": "metal-gear-rising-revengeance",
+  "released": "2013-02-19",
+  "developers": [
+    "Platinum Games"
+  ],
+  "playtime": 6,
+  "genres": [
+    "Action"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Full controller support",
+    "Steam Cloud",
+    "Great Soundtrack",
+    "Story Rich",
+    "Third Person",
+    "Sci-fi",
+    "Gore",
+    "Difficult",
+    "Stealth",
+    "Hack and Slash"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/8e6/8e699e91cf77c2060b6d515e2135b1b1.jpg",
+  "steamAppId": 235460,
+  "achievements": {
+    "total": 60,
+    "hidden": 0,
+    "examples": [
+      {
+        "name": "File R-00: Status - Closed",
+        "percent": 85.5
+      },
+      {
+        "name": "File R-01: Status - Closed",
+        "percent": 64.9
+      },
+      {
+        "name": "Looking Out for the Little Guys",
+        "percent": 64.4
+      },
+      {
+        "name": "Draw, Pardner!",
+        "percent": 1.7
+      },
+      {
+        "name": "Stormbringer",
+        "percent": 1.6
+      },
+      {
+        "name": "Amateur Radio Operator",
+        "percent": 1.6
+      },
+      {
+        "name": "Jetstream",
+        "percent": 1.6
+      },
+      {
+        "name": "Fangs of Fury",
+        "percent": 1.6
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 13,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Metal_Gear_Rising:_Revengeance",
+      "completionStage": 2,
+      "writtenSubpages": [
+        "Achievements and trophies",
+        "Controls",
+        "Customization",
+        "File R-00: Guard Duty",
+        "File R-01: Coup d'État",
+        "File R-02: Research Facility",
+        "File R-03: Mile High",
+        "File R-04: Hostile Takeover",
+        "File R-05: Escape from Denver",
+        "File R-06: Badlands Showdown",
+        "Gameplay",
+        "Table of Contents",
+        "Weapons and items"
+      ],
+      "reason": "Real walkthrough structure; chapter order taken from its Table of Contents"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 136,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://metalgear.fandom.com/wiki/Metal_Gear_Rising:_Revengeance"
+    }
+  },
+  "game": {
+    "id": "metal-gear-rising-revengeance",
+    "title": "Metal Gear Rising: Revengeance",
+    "platforms": [
+      "PlayStation 3",
+      "Xbox 360",
+      "PC",
+      "Android",
+      "Xbox One"
+    ],
+    "blurb": "Hack and slash action game in which the cyborg Raiden cuts through enemies in Blade Mode, from Platinum Games, released 2013-02-19. RAWG average playtime: 6 hours. Genre: Action. Chapters are an estimate drawn from Steam achievement themes, with the story order taken from StrategyWiki's walkthrough contents.",
+    "accent": "#B22222",
+    "chapters": [
+      {
+        "id": "files-r00-r03",
+        "title": "Files R-00 to R-03",
+        "summary": "Guard Duty, Coup d'État, Research Facility and Mile High, plus the challenges inside each File.",
+        "steps": []
+      },
+      {
+        "id": "files-r04-r07",
+        "title": "Files R-04 to R-07",
+        "summary": "Hostile Takeover, Escape from Denver, Badlands Showdown and Assassination Attempt, plus their challenges. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "boss-and-difficulty",
+        "title": "Boss Fights and Revengeance Difficulty",
+        "summary": "Beating each boss without taking damage on Hard or above, and S ranks on Revengeance difficulty.",
+        "steps": []
+      },
+      {
+        "id": "combat",
+        "title": "Combat and Blade Mode",
+        "summary": "Enemy kill counts, Zandatsu, parries, Ninja Kills, Executions, No Kill battles and Blade Mode cuts.",
+        "steps": []
+      },
+      {
+        "id": "collectibles",
+        "title": "Collectibles and Secrets",
+        "summary": "Customization items, left arms, codec calls, men in boxes, data storage, civilians and Dwarf Gekko friends.",
+        "steps": []
+      },
+      {
+        "id": "vr-missions",
+        "title": "VR Missions",
+        "summary": "Unlocking, finishing and top-scoring every VR and DL-VR Mission.",
+        "steps": []
+      },
+      {
+        "id": "jetstream-dlc",
+        "title": "DL-Story-01 (Jetstream)",
+        "summary": "The first story add-on, called \"Brazilian Wind\" in achievement text and \"Jetstream\" on StrategyWiki.",
+        "steps": []
+      },
+      {
+        "id": "blade-wolf-dlc",
+        "title": "DL-Story-02: Blade Wolf",
+        "summary": "The second story add-on, with Khamsin and Hunt Kills.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "File R-00: Status - Closed",
+        "kind": "trophy",
+        "chapterId": "files-r00-r03",
+        "where": "Complete File R-00: Guard Duty."
+      },
+      {
+        "id": "achievement-2",
+        "name": "File R-01: Status - Closed",
+        "kind": "trophy",
+        "chapterId": "files-r00-r03",
+        "where": "Complete File R-01: Coup d'État."
+      },
+      {
+        "id": "achievement-3",
+        "name": "File R-02: Status - Closed",
+        "kind": "trophy",
+        "chapterId": "files-r00-r03",
+        "where": "Complete File R-02: Research Facility."
+      },
+      {
+        "id": "achievement-4",
+        "name": "File R-03: Status - Closed",
+        "kind": "trophy",
+        "chapterId": "files-r00-r03",
+        "where": "Complete File R-03: Mile High."
+      },
+      {
+        "id": "achievement-5",
+        "name": "File R-04: Status - Closed",
+        "kind": "trophy",
+        "chapterId": "files-r04-r07",
+        "where": "Complete File R-04: Hostile Takeover."
+      },
+      {
+        "id": "achievement-6",
+        "name": "File R-05: Status - Closed",
+        "kind": "trophy",
+        "chapterId": "files-r04-r07",
+        "where": "Complete File R-05: Escape From Denver."
+      },
+      {
+        "id": "achievement-7",
+        "name": "File R-06: Status - Closed",
+        "kind": "trophy",
+        "chapterId": "files-r04-r07",
+        "where": "Complete File R-06: Badlands Showdown."
+      },
+      {
+        "id": "achievement-8",
+        "name": "File R-07: Status - Closed",
+        "kind": "trophy",
+        "chapterId": "files-r04-r07",
+        "where": "Complete File R-07: Assassination Attempt."
+      },
+      {
+        "id": "achievement-9",
+        "name": "Stormbringer",
+        "kind": "trophy",
+        "chapterId": "boss-and-difficulty",
+        "where": "Complete story mode on Revengeance difficulty with all S rankings."
+      },
+      {
+        "id": "achievement-10",
+        "name": "Steel Tail",
+        "kind": "trophy",
+        "chapterId": "files-r00-r03",
+        "where": "Cut off Metal Gear RAY's metal tail during File R-00."
+      },
+      {
+        "id": "achievement-11",
+        "name": "No Flash Photography!",
+        "kind": "trophy",
+        "chapterId": "files-r00-r03",
+        "where": "Destroy all the Gun Cameras in File R-01."
+      },
+      {
+        "id": "achievement-12",
+        "name": "Dwarf Raiden",
+        "kind": "trophy",
+        "chapterId": "files-r00-r03",
+        "where": "Incapacitate all the soldiers in File R-02 using a Dwarf Gekko."
+      },
+      {
+        "id": "achievement-13",
+        "name": "A Walk in the Dark",
+        "kind": "trophy",
+        "chapterId": "files-r00-r03",
+        "where": "Complete the abandoned railroad sequence in File R-03 without using AR Mode."
+      },
+      {
+        "id": "achievement-14",
+        "name": "Menace to Society",
+        "kind": "trophy",
+        "chapterId": "files-r04-r07",
+        "where": "Cut off the finial at the top of the pagoda in File R-04."
+      },
+      {
+        "id": "achievement-15",
+        "name": "Great Escape",
+        "kind": "trophy",
+        "chapterId": "files-r04-r07",
+        "where": "Complete File R-05 in less than 7 minutes."
+      },
+      {
+        "id": "achievement-16",
+        "name": "Surprise Attack!",
+        "kind": "trophy",
+        "chapterId": "files-r04-r07",
+        "where": "Arrive at the objective in File R-07 without being spotted."
+      },
+      {
+        "id": "achievement-17",
+        "name": "Prodigal Murderer",
+        "kind": "trophy",
+        "chapterId": "boss-and-difficulty",
+        "where": "Defeat Mistral without taking any damage on Hard difficulty or above."
+      },
+      {
+        "id": "achievement-18",
+        "name": "Genius Destroyer",
+        "kind": "trophy",
+        "chapterId": "boss-and-difficulty",
+        "where": "Defeat Monsoon without taking any damage on Hard difficulty or above."
+      },
+      {
+        "id": "achievement-19",
+        "name": "Truly Human",
+        "kind": "trophy",
+        "chapterId": "boss-and-difficulty",
+        "where": "Defeat Sundowner without taking any damage on Hard difficulty or above."
+      },
+      {
+        "id": "achievement-20",
+        "name": "Chosen by History",
+        "kind": "trophy",
+        "chapterId": "boss-and-difficulty",
+        "where": "Defeat Samuel without taking any damage on Hard difficulty or above."
+      },
+      {
+        "id": "achievement-21",
+        "name": "The Politics of Silencing Foes",
+        "kind": "trophy",
+        "chapterId": "boss-and-difficulty",
+        "where": "Defeat Sen. Armstrong without taking any damage on Hard difficulty or above."
+      },
+      {
+        "id": "achievement-22",
+        "name": "Anti-Cyborg Sentiment",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Destroy a total of 100 Cyborgs during story mode."
+      },
+      {
+        "id": "achievement-23",
+        "name": "The Bigger They Are...",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Destroy a total of 100 Custom Cyborgs during story mode."
+      },
+      {
+        "id": "achievement-24",
+        "name": "Demilitarized Zone",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Destroy a total of 100 Heavily Armed Cyborgs during story mode."
+      },
+      {
+        "id": "achievement-25",
+        "name": "Herpetophobia",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Destroy a total of 10 Gekkos during story mode."
+      },
+      {
+        "id": "achievement-26",
+        "name": "Silverback",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Destroy a total of 10 Mastiffs during story mode."
+      },
+      {
+        "id": "achievement-27",
+        "name": "Extinction Level Event",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Destroy a total of 10 Raptors during story mode."
+      },
+      {
+        "id": "achievement-28",
+        "name": "Pond Scum",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Destroy a total of 5 Vodomjerka during story mode."
+      },
+      {
+        "id": "achievement-29",
+        "name": "Wolf Hunter",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Destroy a total of 10 Fenrirs during story mode."
+      },
+      {
+        "id": "achievement-30",
+        "name": "Slider Strike",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Destroy a total of 10 Sliders during story mode."
+      },
+      {
+        "id": "achievement-31",
+        "name": "Jumping the Shark",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Destroy a total of 10 Hammerheads during story mode."
+      },
+      {
+        "id": "achievement-32",
+        "name": "Looking Out for the Little Guys",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Destroy a total of 30 Dwarf Gekkos during story mode."
+      },
+      {
+        "id": "achievement-33",
+        "name": "Tearing Away the Disguise",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Destroy all of the humanoid Dwarf Gekkos during story mode."
+      },
+      {
+        "id": "achievement-34",
+        "name": "Datsu Right",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Successfully complete 50 Zandatsus during story mode."
+      },
+      {
+        "id": "achievement-35",
+        "name": "What Doesn't Kill You...",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "In story mode, successfully parry 10 attacks in a row in one minute or less."
+      },
+      {
+        "id": "achievement-36",
+        "name": "Assassin Behind Closed Doors",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Successfully complete 30 Ninja Kills during story mode."
+      },
+      {
+        "id": "achievement-37",
+        "name": "You Don't Run from Chance",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Successfully complete 50 Executions during story mode."
+      },
+      {
+        "id": "achievement-38",
+        "name": "A Lover, Not a Fighter",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Successfully complete 10 No Kill battles during story mode."
+      },
+      {
+        "id": "achievement-39",
+        "name": "Assault with a Deadly Weapon",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Dismember three enemies during Blade Mode with a single attack."
+      },
+      {
+        "id": "achievement-40",
+        "name": "Rip 'Em Apart!",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "In story mode, kill 100 enemies by cutting them."
+      },
+      {
+        "id": "achievement-41",
+        "name": "Love at First Sight",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "While remotely operating a Dwarf Gekko in story mode, find and communicate with all Dwarf Gekkos."
+      },
+      {
+        "id": "achievement-42",
+        "name": "Ich Liebe Kapitalismus!",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Acquire all customization items."
+      },
+      {
+        "id": "achievement-43",
+        "name": "A Big Fan of Lefties",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Acquire all enemy officers' left arms."
+      },
+      {
+        "id": "achievement-44",
+        "name": "Amateur Radio Operator",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Listen to most of the codec conversations."
+      },
+      {
+        "id": "achievement-45",
+        "name": "Peekaboo",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Discover all of the soldiers hidden in cardboard boxes."
+      },
+      {
+        "id": "achievement-46",
+        "name": "Data Mining",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Acquire all data storage devices."
+      },
+      {
+        "id": "achievement-47",
+        "name": "Humanitarian Assistance",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Rescue all the civilians."
+      },
+      {
+        "id": "achievement-48",
+        "name": "Analysis Complete",
+        "kind": "trophy",
+        "chapterId": "vr-missions",
+        "where": "Unlock every VR Mission."
+      },
+      {
+        "id": "achievement-49",
+        "name": "VR Master",
+        "kind": "trophy",
+        "chapterId": "vr-missions",
+        "where": "Complete every VR Mission."
+      },
+      {
+        "id": "achievement-50",
+        "name": "Virtually Flawless",
+        "kind": "trophy",
+        "chapterId": "vr-missions",
+        "where": "Set the highest score on every VR Mission."
+      },
+      {
+        "id": "achievement-51",
+        "name": "DL-VR Master",
+        "kind": "trophy",
+        "chapterId": "vr-missions",
+        "where": "Complete every DL-VR Mission."
+      },
+      {
+        "id": "achievement-52",
+        "name": "Hero of the Metaverse",
+        "kind": "trophy",
+        "chapterId": "vr-missions",
+        "where": "Set the highest score on every DL-VR Mission."
+      },
+      {
+        "id": "achievement-53",
+        "name": "DL-Story-01: Status - Closed",
+        "kind": "trophy",
+        "chapterId": "jetstream-dlc",
+        "where": "Complete DL-Story-01: Brazilian Wind"
+      },
+      {
+        "id": "achievement-54",
+        "name": "You're Hired",
+        "kind": "trophy",
+        "chapterId": "jetstream-dlc",
+        "where": "Defeat Sen. Armstrong without taking any damage on Hard difficulty or above."
+      },
+      {
+        "id": "achievement-55",
+        "name": "Jetstream",
+        "kind": "trophy",
+        "chapterId": "jetstream-dlc",
+        "where": "Complete DL-Story-01: Brazilian Wind on Revengeance difficulty in one hour or less."
+      },
+      {
+        "id": "achievement-56",
+        "name": "Draw, Pardner!",
+        "kind": "trophy",
+        "chapterId": "jetstream-dlc",
+        "where": "Defeat 100 enemies in DL-Story-01: Brazilian Wind's Story Mode using Quick Draw."
+      },
+      {
+        "id": "achievement-57",
+        "name": "DL-Story-02: Status - Closed",
+        "kind": "trophy",
+        "chapterId": "blade-wolf-dlc",
+        "where": "Complete DL-Story-02: Blade Wolf."
+      },
+      {
+        "id": "achievement-58",
+        "name": "Wolf's Pride",
+        "kind": "trophy",
+        "chapterId": "blade-wolf-dlc",
+        "where": "Defeat Khamsin without taking any damage on Hard difficulty or above."
+      },
+      {
+        "id": "achievement-59",
+        "name": "Fangs of Fury",
+        "kind": "trophy",
+        "chapterId": "blade-wolf-dlc",
+        "where": "Complete DL-Story-02: Blade Wolf on Revengeance difficulty in one hour or less."
+      },
+      {
+        "id": "achievement-60",
+        "name": "Predatory Instincts",
+        "kind": "trophy",
+        "chapterId": "blade-wolf-dlc",
+        "where": "Defeat 30 enemies in DL-Story-02: Blade Wolf via Hunt Kills."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/metal-gear-rising-revengeance",
+    "Achievement data from Steam (Steam Web API, app 235460)",
+    "Wiki structure from StrategyWiki under CC BY-SA 4.0 (chapter order from its walkthrough contents; titles reworded, no text copied) — https://strategywiki.org/wiki/Metal_Gear_Rising:_Revengeance",
+    "Fandom (metalgear.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://metalgear.fandom.com/wiki/Metal_Gear_Rising:_Revengeance"
+  ],
+  "route": "cc-by-sa",
+  "notes": "Backlog game, picked from RAWG's most-added list for its year (docs/PLAN.md section 2 ordering). StrategyWiki has a real guide at completion stage 2. Its Walkthrough lists File R-00 to R-07 and two DL-Story pages; File R-00 to R-06 are written (R-05 and R-06 are short, about 1.8 and 2.1 KB), while R-07, both DL-Story pages, the Walkthrough index, Combo List, Characters, Left arms, Data storages, Hostages and Men In Boxes, VR Missions and Ranked battle data are not. Chapter order follows its Table of Contents; File chapters were grouped in fours to keep the chapter count down. metalgear.fandom.com answers the API, with about 136 linked pages; names only were looked at, nothing copied. The Steam schema calls the app \"Metal Gear Rising\". None of the 60 Steam achievements are hidden. The first story add-on is \"Brazilian Wind\" in achievement text but \"DL-Story-01: Jetstream\" on StrategyWiki; the chapter title uses both. \"You're Hired\" has the same description as the base-game Armstrong achievement but sits in the DL-Story-01 block, so it was placed there by position."
+}

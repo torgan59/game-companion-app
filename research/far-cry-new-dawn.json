@@ -1,0 +1,512 @@
+{
+  "id": "far-cry-new-dawn",
+  "title": "Far Cry New Dawn",
+  "year": 2019,
+  "platforms": [
+    "PlayStation 4",
+    "PC",
+    "Xbox One"
+  ],
+  "rawgId": 274767,
+  "rawgSlug": "far-cry-new-dawn",
+  "released": "2019-02-15",
+  "developers": [
+    "Ubisoft",
+    "Ubisoft Montreal"
+  ],
+  "playtime": 12,
+  "genres": [
+    "Action",
+    "Shooter",
+    "Adventure",
+    "Arcade"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Atmospheric",
+    "Co-op",
+    "Open World",
+    "cooperative",
+    "First-Person",
+    "Partial Controller Support",
+    "Horror",
+    "FPS",
+    "Online Co-Op",
+    "Funny",
+    "Exploration"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/6d2/6d27cf9c22f2b28cf3ae706464d138f9.jpg",
+  "steamAppId": 939960,
+  "achievements": {
+    "total": 50,
+    "hidden": 0,
+    "examples": [
+      {
+        "name": "The Meaning of Prosperity",
+        "percent": 22.6
+      },
+      {
+        "name": "Yoink",
+        "percent": 20.2
+      },
+      {
+        "name": "Wiki-Bean-ia in Business",
+        "percent": 18.9
+      },
+      {
+        "name": "You're a Catch",
+        "percent": 1.8
+      },
+      {
+        "name": "Good Job, Cap",
+        "percent": 1.6
+      },
+      {
+        "name": "Master Skinner",
+        "percent": 1.5
+      },
+      {
+        "name": "Fly, You Fools!",
+        "percent": 1.5
+      },
+      {
+        "name": "Anger Management",
+        "percent": 1.2
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Far_Cry_New_Dawn",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 233,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://farcry.fandom.com/wiki/Far_Cry_New_Dawn"
+    }
+  },
+  "game": {
+    "id": "far-cry-new-dawn",
+    "title": "Far Cry New Dawn",
+    "platforms": [
+      "PlayStation 4",
+      "PC",
+      "Xbox One"
+    ],
+    "blurb": "Open-world first-person shooter set in a post-apocalyptic Hope County, Montana, from Ubisoft Montreal, released 2019-02-15. RAWG average playtime: 12 hours. Genres: Action, Shooter, Adventure, Arcade. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#D9488F",
+    "chapters": [
+      {
+        "id": "main-story",
+        "title": "The Main Story",
+        "summary": "Helping the people of Prosperity, facing the Twins and the return to New Eden. Some steps are host only in co-op.",
+        "steps": []
+      },
+      {
+        "id": "prosperity",
+        "title": "Prosperity and Guns for Hire",
+        "summary": "Upgrading Prosperity's infrastructure, recruiting every Gun For Hire, and companions such as Horatio and Timber.",
+        "steps": []
+      },
+      {
+        "id": "outposts",
+        "title": "Outposts and the Highwaymen",
+        "summary": "Scavenging and liberating Outposts, supply drops and ethanol tankers, up to Rank III.",
+        "steps": []
+      },
+      {
+        "id": "expeditions",
+        "title": "Expeditions",
+        "summary": "Expeditions away from Hope County, on Rank III and with a co-op partner.",
+        "steps": []
+      },
+      {
+        "id": "exploration",
+        "title": "Exploration and Collectibles",
+        "summary": "Treasure Hunts, safes, plants, fishing, skins, Dear Photograph spots, MP3 players and scouts.",
+        "steps": []
+      },
+      {
+        "id": "crafting-and-perks",
+        "title": "Crafting and Perks",
+        "summary": "Crafting medkits, weapons and Legendary gear, and buying perks.",
+        "steps": []
+      },
+      {
+        "id": "combat",
+        "title": "Combat Feats",
+        "summary": "Takedowns, Enforcers, shields, saw launchers, Wrath, Leap of Faith and long-range arrows.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "The Meaning of Prosperity",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Help Carmina get back to her mother in Prosperity. Host only."
+      },
+      {
+        "id": "achievement-2",
+        "name": "Prospering",
+        "kind": "trophy",
+        "chapterId": "prosperity",
+        "where": "Upgrade and secure Prosperity. Host only."
+      },
+      {
+        "id": "achievement-3",
+        "name": "Return to Eden",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Bring the Father back to New Eden. Host only."
+      },
+      {
+        "id": "achievement-4",
+        "name": "Problem Solver",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Solve the biggest problem in Hope County by defeating the Twins. Host only."
+      },
+      {
+        "id": "achievement-5",
+        "name": "The End of Eden",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Decide the fate of the Father. Host only."
+      },
+      {
+        "id": "achievement-6",
+        "name": "A Graceful Return",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Recover Grace's prototype gun and welcome her back to Prosperity for good. Host only."
+      },
+      {
+        "id": "achievement-7",
+        "name": "Coming Up With the Goods",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Return Selene's valuable stash. Host only."
+      },
+      {
+        "id": "achievement-8",
+        "name": "Wiki-Bean-ia in Business",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Help Bean get back his business plan so he can set up his intel network in Prosperity. Host only."
+      },
+      {
+        "id": "achievement-9",
+        "name": "The Ryeunion",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Reunite Nick Rye with Carmina and Kim. Host only."
+      },
+      {
+        "id": "achievement-10",
+        "name": "Expeditious Retreat",
+        "kind": "trophy",
+        "chapterId": "expeditions",
+        "where": "Complete your first Expedition to force the Highwaymen out of a stronghold."
+      },
+      {
+        "id": "achievement-11",
+        "name": "Honorary Scout",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Gather intel 10 times by talking to Wiki-Bean-ia scouts. Host only."
+      },
+      {
+        "id": "achievement-12",
+        "name": "Yoink",
+        "kind": "trophy",
+        "chapterId": "outposts",
+        "where": "Loot a Highwaymen Supply Drop. Be careful, it won't be unguarded!"
+      },
+      {
+        "id": "achievement-13",
+        "name": "Forager",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Gather 15 plants growing in Hope County. It's the closest thing to a pharmacy we have nowadays."
+      },
+      {
+        "id": "achievement-14",
+        "name": "Reduce, Reuse, Recycle",
+        "kind": "trophy",
+        "chapterId": "outposts",
+        "where": "Scavenge an Outpost. You can always reclaim it. Host only."
+      },
+      {
+        "id": "achievement-15",
+        "name": "Home is Where the Part Is",
+        "kind": "trophy",
+        "chapterId": "prosperity",
+        "where": "Upgrade Prosperity's infrastructure for the first time by investing in the right parts. Host only."
+      },
+      {
+        "id": "achievement-16",
+        "name": "Sidecar Sidekick",
+        "kind": "trophy",
+        "chapterId": "prosperity",
+        "where": "Drive with Timber for a total of 5 minutes. Just don't take him to the vet."
+      },
+      {
+        "id": "achievement-17",
+        "name": "White Gold",
+        "kind": "trophy",
+        "chapterId": "outposts",
+        "where": "Commandeer an Ethanol tanker and bring it back to one of your outposts."
+      },
+      {
+        "id": "achievement-18",
+        "name": "Finders Keepers",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Complete 3 Treasure Hunt missions. Host only."
+      },
+      {
+        "id": "achievement-19",
+        "name": "Safekeeping",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Picklock 5 safes. With no more banks, it's the closest thing you'll get to experiencing a heist."
+      },
+      {
+        "id": "achievement-20",
+        "name": "Closed for Applications",
+        "kind": "trophy",
+        "chapterId": "prosperity",
+        "where": "Recruit all Guns For Hire. Host only."
+      },
+      {
+        "id": "achievement-21",
+        "name": "How's it Look, Doc?",
+        "kind": "trophy",
+        "chapterId": "crafting-and-perks",
+        "where": "Craft 10 Medkits. They'll definitely come in handy."
+      },
+      {
+        "id": "achievement-22",
+        "name": "Kill or Be Killed",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Kill a Monstrous animal. It'd do the same to you given half the chance."
+      },
+      {
+        "id": "achievement-23",
+        "name": "Paladin’s Secret",
+        "kind": "trophy",
+        "chapterId": "expeditions",
+        "where": "Find Sam Fisher’s outfit in the Government Plane Wreck expedition"
+      },
+      {
+        "id": "achievement-24",
+        "name": "Before",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Find all the Dear Photograph locations and see Hope County as it used to be. Host only."
+      },
+      {
+        "id": "achievement-25",
+        "name": "Audiophile",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Rediscover some sweet tunes for the new world. Find all hidden MP3 players. Host only."
+      },
+      {
+        "id": "achievement-26",
+        "name": "My Little Fortress",
+        "kind": "trophy",
+        "chapterId": "prosperity",
+        "where": "Make Prosperity better than ever! Build all Infrastructure upgrades available. Host only."
+      },
+      {
+        "id": "achievement-27",
+        "name": "Master Skinner",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Collect at least one skin from every type of animal in Hope County. Not creepy at all."
+      },
+      {
+        "id": "achievement-28",
+        "name": "Hit the Road",
+        "kind": "trophy",
+        "chapterId": "expeditions",
+        "where": "Complete 7 unique Expeditions on the Rank III difficulty."
+      },
+      {
+        "id": "achievement-29",
+        "name": "Pure Ninja",
+        "kind": "trophy",
+        "chapterId": "outposts",
+        "where": "Liberate a Rank III Outpost while staying undetected."
+      },
+      {
+        "id": "achievement-30",
+        "name": "All Your Bases",
+        "kind": "trophy",
+        "chapterId": "outposts",
+        "where": "Liberate all Outposts at least once on Rank III."
+      },
+      {
+        "id": "achievement-31",
+        "name": "Weaponsmith",
+        "kind": "trophy",
+        "chapterId": "crafting-and-perks",
+        "where": "Craft 3 weapons. They don't need to look good, they just need to get the job done!"
+      },
+      {
+        "id": "achievement-32",
+        "name": "You're a Catch",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Successfully catch one of every type of fish in Hope County. Get those omega-3s."
+      },
+      {
+        "id": "achievement-33",
+        "name": "Save Your Bacon",
+        "kind": "trophy",
+        "chapterId": "prosperity",
+        "where": "Recruit Horatio. Don't mind his temper, he can be pig-headed sometimes. Host only."
+      },
+      {
+        "id": "achievement-34",
+        "name": "Poof!",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Use 3 smoke grenades."
+      },
+      {
+        "id": "achievement-35",
+        "name": "It's Super Effective!",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Headshot an Enforcer with Piercing Ammo."
+      },
+      {
+        "id": "achievement-36",
+        "name": "Have Buddy, Will Travel",
+        "kind": "trophy",
+        "chapterId": "expeditions",
+        "where": "Complete 3 Expeditions with a co-op partner."
+      },
+      {
+        "id": "achievement-37",
+        "name": "Bring a Knife to a Gun Fight",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Kill 25 enemies using any type of takedown. Put that railroad spike to good use!"
+      },
+      {
+        "id": "achievement-38",
+        "name": "Captain's Courageous",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Kill your first Enforcer. I'm sure this will send the Highwaymen a good message."
+      },
+      {
+        "id": "achievement-39",
+        "name": "Good Job, Cap",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Kill 5 enemies by throwing a shield at them."
+      },
+      {
+        "id": "achievement-40",
+        "name": "Stack 'em Up",
+        "kind": "trophy",
+        "chapterId": "crafting-and-perks",
+        "where": "Purchase the 5th tier of a stackable perk. You can never have enough."
+      },
+      {
+        "id": "achievement-41",
+        "name": "Fly, You Fools!",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "No wings means less drag, right? Take a short flight in the wingless plane."
+      },
+      {
+        "id": "achievement-42",
+        "name": "Buzzkill",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Kill 10 brawlers with any saw launcher. They never saw it coming."
+      },
+      {
+        "id": "achievement-43",
+        "name": "Legend Has It",
+        "kind": "trophy",
+        "chapterId": "crafting-and-perks",
+        "where": "Craft your first Legendary Weapon or Vehicle and start a legend of your own."
+      },
+      {
+        "id": "achievement-44",
+        "name": "Tip o' the Hat",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Knock an enemy's helmet off with a charged melee attack."
+      },
+      {
+        "id": "achievement-45",
+        "name": "Anger Management",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Eliminate 10 enemies within a single activation of Wrath."
+      },
+      {
+        "id": "achievement-46",
+        "name": "Hey Father, Watch This",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Perform an Aerial Takedown after using Leap of Faith."
+      },
+      {
+        "id": "achievement-47",
+        "name": "Perk-olate",
+        "kind": "trophy",
+        "chapterId": "crafting-and-perks",
+        "where": "Unlock the first level for all Perks."
+      },
+      {
+        "id": "achievement-48",
+        "name": "Archery Expert",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Kill an enemy more than 100m away with a basic arrow."
+      },
+      {
+        "id": "achievement-49",
+        "name": "Get to the Point",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Finish off an Enforcer with a bayonet."
+      },
+      {
+        "id": "achievement-50",
+        "name": "Springboard",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Survive a 30m fall using only Leap of Faith to nullify the impact."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/far-cry-new-dawn",
+    "Achievement data from Steam (Steam Web API, app 939960)",
+    "StrategyWiki: no usable walkthrough, nothing used — https://strategywiki.org/wiki/Far_Cry_New_Dawn",
+    "Fandom (farcry.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://farcry.fandom.com/wiki/Far_Cry_New_Dawn"
+  ],
+  "route": "original",
+  "notes": "Backlog game, picked from RAWG's most-added list for its year (docs/PLAN.md section 2 ordering). StrategyWiki has a stub page (completion stage 0); its Walkthrough, Gameplay and Table of Contents subpages are linked but none exists, so nothing was used. farcry.fandom.com answers the API, with about 233 linked pages, including \"Prosperity (Far Cry New Dawn)\", \"Mickey\", \"Lou\" and \"Lost Expedition\"; names only were looked at, nothing copied. None of the 50 Steam achievements is hidden, and many story ones say \"Host only\", meaning they unlock only for the host in co-op."
+}

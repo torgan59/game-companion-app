@@ -1,0 +1,552 @@
+{
+  "id": "lords-of-the-fallen-2014",
+  "title": "Lords of the Fallen",
+  "year": 2014,
+  "platforms": [
+    "Android",
+    "PlayStation 4",
+    "PC",
+    "iOS",
+    "Xbox One"
+  ],
+  "rawgId": 2047,
+  "rawgSlug": "lords-of-the-fallen",
+  "released": "2014-10-28",
+  "developers": [
+    "City Interactive",
+    "CI Games",
+    "Deck 13",
+    "HEXWORKS",
+    "Octopus Games"
+  ],
+  "playtime": 4,
+  "genres": [
+    "Action",
+    "Adventure",
+    "RPG"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Multiplayer",
+    "Steam Cloud",
+    "Atmospheric",
+    "steam-trading-cards",
+    "Great Soundtrack",
+    "RPG",
+    "Co-op",
+    "Story Rich",
+    "Open World",
+    "cooperative"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/d09/d096ad37b7f522e11c02848252213a9a.jpg",
+  "steamAppId": 265300,
+  "achievements": {
+    "total": 56,
+    "hidden": 24,
+    "examples": [
+      {
+        "name": "Bookworm",
+        "percent": 88.2
+      },
+      {
+        "name": "It's bound to take your life",
+        "percent": 83.8
+      },
+      {
+        "name": "So that's a Lord!",
+        "percent": 68.6
+      },
+      {
+        "name": "This! Is! Keystone!",
+        "percent": 4.6
+      },
+      {
+        "name": "He knows what they did last era",
+        "percent": 4.6
+      },
+      {
+        "name": "Way of the cleric",
+        "percent": 4.5
+      },
+      {
+        "name": "Treasure left alone",
+        "percent": 4.2
+      },
+      {
+        "name": "My private stash",
+        "percent": 3.0
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": false,
+      "pages": 0,
+      "reason": "No page for Lords of the Fallen (MediaWiki API returned missing; search empty)"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 2,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://lordsofthefallen.fandom.com/wiki/Lords_of_the_Fallen_(2014)"
+    }
+  },
+  "game": {
+    "id": "lords-of-the-fallen-2014",
+    "title": "Lords of the Fallen",
+    "platforms": [
+      "Android",
+      "PlayStation 4",
+      "PC",
+      "iOS",
+      "Xbox One"
+    ],
+    "blurb": "Action RPG in which Harkyn battles a series of bosses, from Deck 13 and CI Games, released 2014-10-28. RAWG average playtime: 4 hours. Genres: Action, Adventure, RPG. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#8A6A35",
+    "chapters": [
+      {
+        "id": "main-story",
+        "title": "The Main Story",
+        "summary": "Harkyn's journey and its choices. Spoiler-guarded; most achievements here are hidden on Steam.",
+        "steps": []
+      },
+      {
+        "id": "bosses",
+        "title": "Bosses",
+        "summary": "The Warden, the Worshiper, the Beast, the Lost Brothers and the other bosses, plus boss feats.",
+        "steps": []
+      },
+      {
+        "id": "exploration",
+        "title": "Exploration and Collections",
+        "summary": "Audio notes, Treasure Chambers, Proving Grounds, Infinite Voids, special weapons and every enemy type.",
+        "steps": []
+      },
+      {
+        "id": "classes",
+        "title": "Class Playthroughs",
+        "summary": "Finishing the game as a Cleric, a Rogue and a Warrior.",
+        "steps": []
+      },
+      {
+        "id": "ancient-labyrinth",
+        "title": "The Ancient Labyrinth",
+        "summary": "The Ancient Labyrinth, its audio notes and the Keeper. Spoiler-guarded where hidden.",
+        "steps": []
+      },
+      {
+        "id": "combat-and-growth",
+        "title": "Combat and Growth",
+        "summary": "Spells, attribute points, potions, getting your experience back and fighting tricks.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "By the book",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Found 60 audio notes"
+      },
+      {
+        "id": "achievement-2",
+        "name": "My private stash",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Got 12 special weapons"
+      },
+      {
+        "id": "achievement-3",
+        "name": "Harkyn collection",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-4",
+        "name": "Way of the cleric",
+        "kind": "trophy",
+        "chapterId": "classes",
+        "where": "Completed the game as Cleric"
+      },
+      {
+        "id": "achievement-5",
+        "name": "Way of the rogue",
+        "kind": "trophy",
+        "chapterId": "classes",
+        "where": "Completed the game as Rogue"
+      },
+      {
+        "id": "achievement-6",
+        "name": "Way of the warrior",
+        "kind": "trophy",
+        "chapterId": "classes",
+        "where": "Completed the game as Warrior"
+      },
+      {
+        "id": "achievement-7",
+        "name": "Against all odds",
+        "kind": "trophy",
+        "chapterId": "bosses",
+        "where": "Defeated a Boss without taking damage"
+      },
+      {
+        "id": "achievement-8",
+        "name": "Go breaking my heart",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-9",
+        "name": "Human skull",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-10",
+        "name": "Only after Disaster",
+        "kind": "trophy",
+        "chapterId": "bosses",
+        "where": "Defeated the Worshiper"
+      },
+      {
+        "id": "achievement-11",
+        "name": "Not a question of can or can't",
+        "kind": "trophy",
+        "chapterId": "bosses",
+        "where": "Defeated the Annihilator"
+      },
+      {
+        "id": "achievement-12",
+        "name": "Hard shell, soft core",
+        "kind": "trophy",
+        "chapterId": "bosses",
+        "where": "Defeated the Commander"
+      },
+      {
+        "id": "achievement-13",
+        "name": "Thousands of candles",
+        "kind": "trophy",
+        "chapterId": "bosses",
+        "where": "Defeated the Guardian"
+      },
+      {
+        "id": "achievement-14",
+        "name": "So that's a Lord!",
+        "kind": "trophy",
+        "chapterId": "bosses",
+        "where": "Defeated First Warden"
+      },
+      {
+        "id": "achievement-15",
+        "name": "No time for losers",
+        "kind": "trophy",
+        "chapterId": "bosses",
+        "where": "Defeated the Champion"
+      },
+      {
+        "id": "achievement-16",
+        "name": "Seal the gate",
+        "kind": "trophy",
+        "chapterId": "bosses",
+        "where": "Defeated the Infiltrator"
+      },
+      {
+        "id": "achievement-17",
+        "name": "Anger is a gift",
+        "kind": "trophy",
+        "chapterId": "bosses",
+        "where": "Defeated the Beast"
+      },
+      {
+        "id": "achievement-18",
+        "name": "Two against one",
+        "kind": "trophy",
+        "chapterId": "bosses",
+        "where": "Defeated Lost Brothers"
+      },
+      {
+        "id": "achievement-19",
+        "name": "He speaks in riddles",
+        "kind": "trophy",
+        "chapterId": "combat-and-growth",
+        "where": "Met the Blacksmith"
+      },
+      {
+        "id": "achievement-20",
+        "name": "Treasure left alone",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Looted all Treasure Chambers"
+      },
+      {
+        "id": "achievement-21",
+        "name": "Are you not entertained?",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Completed all Proving Grounds"
+      },
+      {
+        "id": "achievement-22",
+        "name": "No one can hear you scream",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Completed all Infinite Voids"
+      },
+      {
+        "id": "achievement-23",
+        "name": "Strong with this one",
+        "kind": "trophy",
+        "chapterId": "combat-and-growth",
+        "where": "Unlocked all spells for one class"
+      },
+      {
+        "id": "achievement-24",
+        "name": "Give him power",
+        "kind": "trophy",
+        "chapterId": "combat-and-growth",
+        "where": "Bought your first Attribute or Spell Point"
+      },
+      {
+        "id": "achievement-25",
+        "name": "It's bound to take your life",
+        "kind": "trophy",
+        "chapterId": "combat-and-growth",
+        "where": "Died for the first time"
+      },
+      {
+        "id": "achievement-26",
+        "name": "Myself again",
+        "kind": "trophy",
+        "chapterId": "combat-and-growth",
+        "where": "Retrieved lost experience by collecting your ghost"
+      },
+      {
+        "id": "achievement-27",
+        "name": "Bookworm",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Found a note that someone left behind"
+      },
+      {
+        "id": "achievement-28",
+        "name": "Extra strong",
+        "kind": "trophy",
+        "chapterId": "combat-and-growth",
+        "where": "Upgraded the Health Potions"
+      },
+      {
+        "id": "achievement-29",
+        "name": "All in",
+        "kind": "trophy",
+        "chapterId": "bosses",
+        "where": "Defeated a boss with at least 20000 unspent experience"
+      },
+      {
+        "id": "achievement-30",
+        "name": "Couldn't have done it myself",
+        "kind": "trophy",
+        "chapterId": "bosses",
+        "where": "Let the boss destroy the statue during fight"
+      },
+      {
+        "id": "achievement-31",
+        "name": "Good with weapons",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Collected all weapon types"
+      },
+      {
+        "id": "achievement-32",
+        "name": "Killing monsters",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Killed all types of enemies"
+      },
+      {
+        "id": "achievement-33",
+        "name": "This! Is! Keystone!",
+        "kind": "trophy",
+        "chapterId": "combat-and-growth",
+        "where": "Kicked an enemy into his death"
+      },
+      {
+        "id": "achievement-34",
+        "name": "He who protect us",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-35",
+        "name": "The real Lords starts here",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-36",
+        "name": "Shout at the gods",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-37",
+        "name": "Now we're talking",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-38",
+        "name": "I feel lucky",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-39",
+        "name": "Fool of a Tuck",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-40",
+        "name": "Take my hand",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-41",
+        "name": "I saw everything",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-42",
+        "name": "Do unto others...",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-43",
+        "name": "She was the last woman here",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-44",
+        "name": "God is dead",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-45",
+        "name": "Faith is weakness",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-46",
+        "name": "Whole world in his hands",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-47",
+        "name": "He knows what they did last era",
+        "kind": "trophy",
+        "chapterId": "ancient-labyrinth",
+        "where": "Found all eight audio notes in the Ancient Labyrinth"
+      },
+      {
+        "id": "achievement-48",
+        "name": "Real men don't need a map",
+        "kind": "trophy",
+        "chapterId": "ancient-labyrinth",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-49",
+        "name": "Psychological warfare",
+        "kind": "trophy",
+        "chapterId": "ancient-labyrinth",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-50",
+        "name": "Respect for the dead",
+        "kind": "trophy",
+        "chapterId": "ancient-labyrinth",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-51",
+        "name": "Don't burn yourself out",
+        "kind": "trophy",
+        "chapterId": "ancient-labyrinth",
+        "where": "Defeated the Keeper"
+      },
+      {
+        "id": "achievement-52",
+        "name": "Tailor-made",
+        "kind": "trophy",
+        "chapterId": "ancient-labyrinth",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-53",
+        "name": "I kill dead people",
+        "kind": "trophy",
+        "chapterId": "ancient-labyrinth",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-54",
+        "name": "Solitary",
+        "kind": "trophy",
+        "chapterId": "ancient-labyrinth",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-55",
+        "name": "Ancient tool, new purpose",
+        "kind": "trophy",
+        "chapterId": "ancient-labyrinth",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-56",
+        "name": "Played with fire",
+        "kind": "trophy",
+        "chapterId": "ancient-labyrinth",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/lords-of-the-fallen",
+    "Achievement data from Steam (Steam Web API, app 265300)",
+    "StrategyWiki: no page for this game, nothing used",
+    "Fandom (lordsofthefallen.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://lordsofthefallen.fandom.com/wiki/Lords_of_the_Fallen_(2014)"
+  ],
+  "route": "original",
+  "notes": "Backlog game, picked from RAWG's most-added list for its year (docs/PLAN.md section 2 ordering). RAWG's first search result was the 2023 game (\"lords-of-the-fallen-2\", id 840776), so the detail was replaced with the expected 2014 entry, \"lords-of-the-fallen\" (id 2047, \"Lords of the Fallen (2014)\", released 2014-10-28). Steam app 265300 is \"Lords Of The Fallen™ 2014\" (the 2023 game is app 1501750). No StrategyWiki page under \"Lords of the Fallen (2014)\" or \"Lords of the Fallen\". lordsofthefallen.fandom.com answers the API under \"Lords of the Fallen (2014)\", but the page links to only 2 articles (\"Harkyn\", \"The Lords of the Fallen\"); names only were looked at, nothing copied. 24 of 56 Steam achievements are hidden, with no descriptions. Achievements 47 to 56 form a block that starts with \"Found all eight audio notes in the Ancient Labyrinth\" and includes \"Defeated the Keeper\"; RAWG also lists \"Lords of the Fallen: Ancient Labyrinth\" (2015) as a separate entry, so the 8 hidden achievements in that block were placed in the Ancient Labyrinth chapter by name. That is a judgement call. The other 16 hidden ones (for example \"Harkyn collection\" and \"God is dead\") sit in the main story chapter as a placeholder. RAWG lists a playtime of only 4 hours, which looks low."
+}

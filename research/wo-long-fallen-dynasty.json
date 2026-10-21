@@ -1,0 +1,783 @@
+{
+  "id": "wo-long-fallen-dynasty",
+  "title": "Wo Long: Fallen Dynasty",
+  "year": 2023,
+  "platforms": [
+    "PlayStation 5",
+    "Xbox Series X|S",
+    "PC",
+    "PlayStation 4",
+    "Xbox One"
+  ],
+  "rawgId": 801638,
+  "rawgSlug": "wo-long-fallen-dynasty",
+  "released": "2023-03-03",
+  "developers": [
+    "Team NINJA",
+    "KOEI TECMO GAMES CO"
+  ],
+  "playtime": null,
+  "genres": [
+    "Action"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Gore",
+    "Difficult",
+    "Violent",
+    "Hack and Slash",
+    "Dark Fantasy",
+    "JRPG",
+    "Souls-like"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/1e1/1e1b965459d5cf69cf51e5d6fe7da959.jpg",
+  "steamAppId": 1448440,
+  "achievements": {
+    "total": 90,
+    "hidden": 57,
+    "examples": [
+      {
+        "name": "Best Flag Forward",
+        "percent": 92.3
+      },
+      {
+        "name": "Wizardry Beginner",
+        "percent": 82.4
+      },
+      {
+        "name": "Sharp Reflexes",
+        "percent": 81.9
+      },
+      {
+        "name": "Wo Long",
+        "percent": 7.1
+      },
+      {
+        "name": "The Sage Pauses when Guests Call",
+        "percent": 6.9
+      },
+      {
+        "name": "Whip of the Heaven",
+        "percent": 6.1
+      },
+      {
+        "name": "Tiger's Subordinates",
+        "percent": 5.7
+      },
+      {
+        "name": "Heroes Gather",
+        "percent": 4.2
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Wo_Long:_Fallen_Dynasty",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 7,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://wolong.fandom.com/wiki/Wo_Long:_Fallen_Dynasty"
+    }
+  },
+  "game": {
+    "id": "wo-long-fallen-dynasty",
+    "title": "Wo Long: Fallen Dynasty",
+    "platforms": [
+      "PlayStation 5",
+      "Xbox Series X|S",
+      "PC",
+      "PlayStation 4",
+      "Xbox One"
+    ],
+    "blurb": "Soulslike action RPG set in the Three Kingdoms era, from Team Ninja (Koei Tecmo), released 2023-03-03. RAWG has no playtime yet. Genre: Action. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#A3262A",
+    "chapters": [
+      {
+        "id": "main-story",
+        "title": "The Main Story",
+        "summary": "The main battlefields of the late Han dynasty, boss by boss.",
+        "steps": []
+      },
+      {
+        "id": "battlefields-and-allies",
+        "title": "Battlefields, Flags and Allies",
+        "summary": "Sub battlefields, Battle Flags, tablets, sworn allies, companions and co-op.",
+        "steps": []
+      },
+      {
+        "id": "growth-and-combat",
+        "title": "Growth, Gear and Combat",
+        "summary": "Levels, Wizardry Spells, forging and upgrades, deflects and Fatal Strikes.",
+        "steps": []
+      },
+      {
+        "id": "battle-of-zhongyuan",
+        "title": "Battle of Zhongyuan (DLC)",
+        "summary": "The first expansion: its battlefields, new allies and the cestus.",
+        "steps": []
+      },
+      {
+        "id": "conqueror-of-jiangdong",
+        "title": "Conqueror of Jiangdong (DLC)",
+        "summary": "The second expansion: its battlefields, new allies and the long sword.",
+        "steps": []
+      },
+      {
+        "id": "upheaval-in-jingxiang",
+        "title": "Upheaval in Jingxiang (DLC)",
+        "summary": "The third expansion: its battlefields, new allies and the whip.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Wo Long",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Unlocked all achievements."
+      },
+      {
+        "id": "achievement-2",
+        "name": "At Fifteen I Joined the Army",
+        "kind": "trophy",
+        "chapterId": "growth-and-combat",
+        "where": "Reached Level 15."
+      },
+      {
+        "id": "achievement-3",
+        "name": "Only at Eighty Did I Finally Return",
+        "kind": "trophy",
+        "chapterId": "growth-and-combat",
+        "where": "Reached Level 80."
+      },
+      {
+        "id": "achievement-4",
+        "name": "Journey's Beginning",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-5",
+        "name": "Vow of the Stalwart",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-6",
+        "name": "Will of the Loyal",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-7",
+        "name": "Ambition of the Tiger",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-8",
+        "name": "Guardian of Peace",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-9",
+        "name": "Awakening of the Unscrupulous Hero",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-10",
+        "name": "Mightiest of Men",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-11",
+        "name": "Guidance of the Constellations",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-12",
+        "name": "Succession",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-13",
+        "name": "Familial Ties",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-14",
+        "name": "The Steadfast Duo",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-15",
+        "name": "Fearless Warrior",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-16",
+        "name": "Entrusted Legacy",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-17",
+        "name": "Aspiration and Amity",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-18",
+        "name": "Dreams of Unity",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-19",
+        "name": "Annihilator of Evil",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-20",
+        "name": "Open Eyes",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-21",
+        "name": "Battle-hardened",
+        "kind": "trophy",
+        "chapterId": "battlefields-and-allies",
+        "where": "Dominated 15 sub battlefields."
+      },
+      {
+        "id": "achievement-22",
+        "name": "Hunting the Great Deer",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-23",
+        "name": "Craftsmanship",
+        "kind": "trophy",
+        "chapterId": "growth-and-combat",
+        "where": "Upgraded your first piece of equipment."
+      },
+      {
+        "id": "achievement-24",
+        "name": "Keen-edged",
+        "kind": "trophy",
+        "chapterId": "growth-and-combat",
+        "where": "Upgraded a weapon to its fullest capacity."
+      },
+      {
+        "id": "achievement-25",
+        "name": "Adamantine",
+        "kind": "trophy",
+        "chapterId": "growth-and-combat",
+        "where": "Upgraded a piece of armor to its fullest capacity."
+      },
+      {
+        "id": "achievement-26",
+        "name": "All That Glitters",
+        "kind": "trophy",
+        "chapterId": "growth-and-combat",
+        "where": "Embedded your first jewel at the Forge."
+      },
+      {
+        "id": "achievement-27",
+        "name": "Decor Maketh the Man",
+        "kind": "trophy",
+        "chapterId": "growth-and-combat",
+        "where": "Decorated your first item at the Forge."
+      },
+      {
+        "id": "achievement-28",
+        "name": "Wizardry Beginner",
+        "kind": "trophy",
+        "chapterId": "growth-and-combat",
+        "where": "Learned your first Wizardry Spell."
+      },
+      {
+        "id": "achievement-29",
+        "name": "Wizardry Master",
+        "kind": "trophy",
+        "chapterId": "growth-and-combat",
+        "where": "Learned all Wizardry Spells."
+      },
+      {
+        "id": "achievement-30",
+        "name": "First Phase",
+        "kind": "trophy",
+        "chapterId": "growth-and-combat",
+        "where": "Interacted with the Five Phases for the first time."
+      },
+      {
+        "id": "achievement-31",
+        "name": "Unstoppable",
+        "kind": "trophy",
+        "chapterId": "growth-and-combat",
+        "where": "Raised Morale Rank to 20 for the first time."
+      },
+      {
+        "id": "achievement-32",
+        "name": "Merit beyond Measure",
+        "kind": "trophy",
+        "chapterId": "battlefields-and-allies",
+        "where": "Received a sworn brothers' boon for the first time."
+      },
+      {
+        "id": "achievement-33",
+        "name": "Great Gatherings",
+        "kind": "trophy",
+        "chapterId": "battlefields-and-allies",
+        "where": "Joined forces with all available warriors."
+      },
+      {
+        "id": "achievement-34",
+        "name": "Fantastic Form",
+        "kind": "trophy",
+        "chapterId": "growth-and-combat",
+        "where": "Equipped a full 4★ set consisting of: melee weapon, ranged weapon, accessory, and 4 armor pieces."
+      },
+      {
+        "id": "achievement-35",
+        "name": "Pots and Potions",
+        "kind": "trophy",
+        "chapterId": "growth-and-combat",
+        "where": "Upgraded the Dragon's Cure Pot to its greatest capacity and effectiveness."
+      },
+      {
+        "id": "achievement-36",
+        "name": "Well-read",
+        "kind": "trophy",
+        "chapterId": "battlefields-and-allies",
+        "where": "Collected all tablets."
+      },
+      {
+        "id": "achievement-37",
+        "name": "Best Flag Forward",
+        "kind": "trophy",
+        "chapterId": "battlefields-and-allies",
+        "where": "Raised your first Battle Flag."
+      },
+      {
+        "id": "achievement-38",
+        "name": "Fly It High",
+        "kind": "trophy",
+        "chapterId": "battlefields-and-allies",
+        "where": "Raised all Battle Flags."
+      },
+      {
+        "id": "achievement-39",
+        "name": "How Cute!",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-40",
+        "name": "How Precious!",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-41",
+        "name": "Sharp Reflexes",
+        "kind": "trophy",
+        "chapterId": "growth-and-combat",
+        "where": "Successfully deflected 10 critical blows."
+      },
+      {
+        "id": "achievement-42",
+        "name": "Vulnerable Moments",
+        "kind": "trophy",
+        "chapterId": "growth-and-combat",
+        "where": "Landed 50 Fatal Strikes."
+      },
+      {
+        "id": "achievement-43",
+        "name": "Side by Side",
+        "kind": "trophy",
+        "chapterId": "battlefields-and-allies",
+        "where": "Dominated 10 battlefields with a companion."
+      },
+      {
+        "id": "achievement-44",
+        "name": "Eye for an Eye",
+        "kind": "trophy",
+        "chapterId": "battlefields-and-allies",
+        "where": "Fended off invaders 10 times."
+      },
+      {
+        "id": "achievement-45",
+        "name": "Righteous Judgment",
+        "kind": "trophy",
+        "chapterId": "battlefields-and-allies",
+        "where": "Exacted vengeance 10 times."
+      },
+      {
+        "id": "achievement-46",
+        "name": "Call to Arms",
+        "kind": "trophy",
+        "chapterId": "battlefields-and-allies",
+        "where": "Used 10 Tiger Seals."
+      },
+      {
+        "id": "achievement-47",
+        "name": "Heroes Will Rise",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-48",
+        "name": "Staunching Heresy",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-49",
+        "name": "Dogged Justice",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-50",
+        "name": "Strung Bow",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-51",
+        "name": "Ascension",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-52",
+        "name": "Paragon of Brute Strength",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-53",
+        "name": "The Hour of Advancement",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-54",
+        "name": "Death of Elai",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-55",
+        "name": "The Guileless Tiger",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-56",
+        "name": "Illusions of Taiping Taoism",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-57",
+        "name": "Tactical Prodigy",
+        "kind": "trophy",
+        "chapterId": "battle-of-zhongyuan",
+        "where": "Conquered 5 main and sub battlefields of Battle of Zhongyuan."
+      },
+      {
+        "id": "achievement-58",
+        "name": "The Unscrupulous Hero",
+        "kind": "trophy",
+        "chapterId": "battle-of-zhongyuan",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-59",
+        "name": "Dominator of Zhongyuan",
+        "kind": "trophy",
+        "chapterId": "battle-of-zhongyuan",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-60",
+        "name": "Don't Think, Feel",
+        "kind": "trophy",
+        "chapterId": "battle-of-zhongyuan",
+        "where": "Defeated 100 enemies using cestuses."
+      },
+      {
+        "id": "achievement-61",
+        "name": "Chasing the Wind",
+        "kind": "trophy",
+        "chapterId": "battle-of-zhongyuan",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-62",
+        "name": "The Sage Pauses when Guests Call",
+        "kind": "trophy",
+        "chapterId": "battle-of-zhongyuan",
+        "where": "Swore oaths with all of the new allies in Battle of Zhongyuan."
+      },
+      {
+        "id": "achievement-63",
+        "name": "Fan of Shitieshou",
+        "kind": "trophy",
+        "chapterId": "battle-of-zhongyuan",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-64",
+        "name": "Beware of Fire!",
+        "kind": "trophy",
+        "chapterId": "conqueror-of-jiangdong",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-65",
+        "name": "Avast Ye!",
+        "kind": "trophy",
+        "chapterId": "conqueror-of-jiangdong",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-66",
+        "name": "Sharpen Your Sword",
+        "kind": "trophy",
+        "chapterId": "conqueror-of-jiangdong",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-67",
+        "name": "Ambition of the Brave",
+        "kind": "trophy",
+        "chapterId": "conqueror-of-jiangdong",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-68",
+        "name": "The Tiger Roars",
+        "kind": "trophy",
+        "chapterId": "conqueror-of-jiangdong",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-69",
+        "name": "Eyes of Blue and Beard of Red",
+        "kind": "trophy",
+        "chapterId": "conqueror-of-jiangdong",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-70",
+        "name": "Inheritor of the Tiger's Blood",
+        "kind": "trophy",
+        "chapterId": "conqueror-of-jiangdong",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-71",
+        "name": "Overlord's Achievement",
+        "kind": "trophy",
+        "chapterId": "conqueror-of-jiangdong",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-72",
+        "name": "Art of Swordsmanship",
+        "kind": "trophy",
+        "chapterId": "conqueror-of-jiangdong",
+        "where": "Defeated 100 enemies using long swords."
+      },
+      {
+        "id": "achievement-73",
+        "name": "Kunpeng's Flight",
+        "kind": "trophy",
+        "chapterId": "conqueror-of-jiangdong",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-74",
+        "name": "Tiger's Subordinates",
+        "kind": "trophy",
+        "chapterId": "conqueror-of-jiangdong",
+        "where": "Swore oaths with all of the new allies in Conqueror of Jiangdong."
+      },
+      {
+        "id": "achievement-75",
+        "name": "Shitieshou Maniac",
+        "kind": "trophy",
+        "chapterId": "conqueror-of-jiangdong",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-76",
+        "name": "Fireship Attack",
+        "kind": "trophy",
+        "chapterId": "conqueror-of-jiangdong",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-77",
+        "name": "Watchful Tiger",
+        "kind": "trophy",
+        "chapterId": "conqueror-of-jiangdong",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-78",
+        "name": "Full of Youthful Vigor",
+        "kind": "trophy",
+        "chapterId": "upheaval-in-jingxiang",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-79",
+        "name": "The Forlorn Swordsman",
+        "kind": "trophy",
+        "chapterId": "upheaval-in-jingxiang",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-80",
+        "name": "Rotten Bones in the Crypt",
+        "kind": "trophy",
+        "chapterId": "upheaval-in-jingxiang",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-81",
+        "name": "Once an Unruly Girl",
+        "kind": "trophy",
+        "chapterId": "upheaval-in-jingxiang",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-82",
+        "name": "The Preeminent Warrior",
+        "kind": "trophy",
+        "chapterId": "upheaval-in-jingxiang",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-83",
+        "name": "Lord of Benevolence",
+        "kind": "trophy",
+        "chapterId": "upheaval-in-jingxiang",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-84",
+        "name": "Benefactor of Jing Province",
+        "kind": "trophy",
+        "chapterId": "upheaval-in-jingxiang",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-85",
+        "name": "Whip of the Heaven",
+        "kind": "trophy",
+        "chapterId": "upheaval-in-jingxiang",
+        "where": "Defeated 100 enemies using whips."
+      },
+      {
+        "id": "achievement-86",
+        "name": "A Meteoric Rise",
+        "kind": "trophy",
+        "chapterId": "upheaval-in-jingxiang",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-87",
+        "name": "Heroes Gather",
+        "kind": "trophy",
+        "chapterId": "upheaval-in-jingxiang",
+        "where": "Swore oaths with all of the new allies in Upheaval in Jingxiang."
+      },
+      {
+        "id": "achievement-88",
+        "name": "Maniac of Shitieshou",
+        "kind": "trophy",
+        "chapterId": "upheaval-in-jingxiang",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-89",
+        "name": "Premonition of War",
+        "kind": "trophy",
+        "chapterId": "upheaval-in-jingxiang",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-90",
+        "name": "The Dark Clouds Part",
+        "kind": "trophy",
+        "chapterId": "upheaval-in-jingxiang",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/wo-long-fallen-dynasty",
+    "Achievement data from Steam (Steam Web API, app 1448440)",
+    "StrategyWiki: no usable walkthrough, nothing used — https://strategywiki.org/wiki/Wo_Long:_Fallen_Dynasty",
+    "Fandom (wolong.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://wolong.fandom.com/wiki/Wo_Long:_Fallen_Dynasty"
+  ],
+  "route": "original",
+  "notes": "Backlog game, picked from RAWG's most-added list for its year (docs/PLAN.md section 2 ordering). StrategyWiki has a stub page (completion stage 0); Walkthrough and Achievements subpages are linked but not written (only a Table of Contents page exists). wolong.fandom.com answers the API, but its game page has only 7 links; names only were looked at, nothing copied. 57 of 90 Steam achievements are hidden. Hidden achievements listed in the Steam schema among the visible DLC ones (after \"Tactical Prodigy\") were assigned to the three expansions by their schema position and unlock rates; that split, and the cestus / long sword / whip kill achievements, is an inference and needs checking. The remaining hidden ones sit in the main story chapter."
+}

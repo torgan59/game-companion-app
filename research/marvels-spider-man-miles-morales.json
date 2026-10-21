@@ -1,0 +1,496 @@
+{
+  "id": "marvels-spider-man-miles-morales",
+  "title": "Marvel's Spider-Man: Miles Morales",
+  "year": 2020,
+  "platforms": [
+    "PlayStation 5",
+    "PC",
+    "PlayStation 4"
+  ],
+  "rawgId": 452634,
+  "rawgSlug": "marvels-spider-man-miles-morales",
+  "released": "2020-11-12",
+  "developers": [
+    "Insomniac Games"
+  ],
+  "playtime": 9,
+  "genres": [
+    "Action"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Multiplayer",
+    "Full controller support",
+    "Steam Cloud",
+    "Story Rich",
+    "Open World",
+    "Third Person",
+    "Exploration",
+    "Stealth",
+    "Action-Adventure",
+    "exclusive"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/048/048b46cdc66cbc7e235e1f359c2a77ec.jpg",
+  "steamAppId": 1817190,
+  "achievements": {
+    "total": 50,
+    "hidden": 21,
+    "examples": [
+      {
+        "name": "Mod that Suit",
+        "percent": 80.9
+      },
+      {
+        "name": "Look with Better Eyes",
+        "percent": 70.4
+      },
+      {
+        "name": "Nowhere to Hide",
+        "percent": 57.0
+      },
+      {
+        "name": "Never Give Up",
+        "percent": 11.2
+      },
+      {
+        "name": "Socially Acceptable",
+        "percent": 11.2
+      },
+      {
+        "name": "JJJ Would Be Proud",
+        "percent": 11.1
+      },
+      {
+        "name": "Plus Plus",
+        "percent": 10.4
+      },
+      {
+        "name": "Be Yourself",
+        "percent": 7.2
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Marvel's_Spider-Man:_Miles_Morales",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 41,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://marvels-spider-man.fandom.com/wiki/Marvel's_Spider-Man:_Miles_Morales"
+    }
+  },
+  "game": {
+    "id": "marvels-spider-man-miles-morales",
+    "title": "Marvel's Spider-Man: Miles Morales",
+    "platforms": [
+      "PlayStation 5",
+      "PC",
+      "PlayStation 4"
+    ],
+    "blurb": "Open-world superhero action-adventure set in Marvel's New York, from Insomniac Games, released 2020-11-12. RAWG average playtime: 9 hours. Genre: Action. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#C41E3A",
+    "chapters": [
+      {
+        "id": "main-story",
+        "title": "The Main Story",
+        "summary": "Miles Morales steps up as a new Spider-Man to protect his new home. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "open-world",
+        "title": "Districts, Collectibles and Activities",
+        "summary": "Completing districts, Time Capsules, Postcards, Underground Caches, Enemy Bases, crimes, FNSM app requests and hidden landmarks.",
+        "steps": []
+      },
+      {
+        "id": "combat-and-stealth",
+        "title": "Combat and Stealth",
+        "summary": "Combos, stealth and wall and ceiling takedowns, camouflage, Venom powers and gadgets.",
+        "steps": []
+      },
+      {
+        "id": "suits-and-skills",
+        "title": "Suits, Skills and Upgrades",
+        "summary": "Unlocking skills, buying suits and crafting upgrades and mods.",
+        "steps": []
+      },
+      {
+        "id": "new-game-plus",
+        "title": "New Game+",
+        "summary": "Finishing the game again on New Game+.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Be Yourself",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Collect all Achievements"
+      },
+      {
+        "id": "achievement-2",
+        "name": "Just the Beginning",
+        "kind": "trophy",
+        "chapterId": "suits-and-skills",
+        "where": "Unlock all Skills"
+      },
+      {
+        "id": "achievement-3",
+        "name": "A New Home",
+        "kind": "trophy",
+        "chapterId": "open-world",
+        "where": "100% complete all districts"
+      },
+      {
+        "id": "achievement-4",
+        "name": "Urban Explorers",
+        "kind": "trophy",
+        "chapterId": "open-world",
+        "where": "Collect all Time Capsules"
+      },
+      {
+        "id": "achievement-5",
+        "name": "Memory Lane",
+        "kind": "trophy",
+        "chapterId": "open-world",
+        "where": "Collect all Postcards"
+      },
+      {
+        "id": "achievement-6",
+        "name": "Salvager",
+        "kind": "trophy",
+        "chapterId": "open-world",
+        "where": "Open all Underground Caches"
+      },
+      {
+        "id": "achievement-7",
+        "name": "Under Their Noses",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-8",
+        "name": "Underground Undone",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-9",
+        "name": "Ready for Anything",
+        "kind": "trophy",
+        "chapterId": "suits-and-skills",
+        "where": "Purchase all suits"
+      },
+      {
+        "id": "achievement-10",
+        "name": "Come at the King",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-11",
+        "name": "Never Saw It Coming",
+        "kind": "trophy",
+        "chapterId": "open-world",
+        "where": "Complete an Enemy Base without being detected"
+      },
+      {
+        "id": "achievement-12",
+        "name": "100x Combo!!!",
+        "kind": "trophy",
+        "chapterId": "combat-and-stealth",
+        "where": "Perform a 100x Combo"
+      },
+      {
+        "id": "achievement-13",
+        "name": "Launch, Swing and Dive",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-14",
+        "name": "Punching Pixels",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-15",
+        "name": "Dodging Light",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-16",
+        "name": "Spider-Training: Complete",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-17",
+        "name": "Pete's First Villain",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-18",
+        "name": "Kitbash",
+        "kind": "trophy",
+        "chapterId": "suits-and-skills",
+        "where": "Craft 10 Upgrades"
+      },
+      {
+        "id": "achievement-19",
+        "name": "Rhino Rodeo",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-20",
+        "name": "Deep Cuts",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-21",
+        "name": "Hanging by a Thread",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-22",
+        "name": "The Core of the Problem",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-23",
+        "name": "True Deception",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-24",
+        "name": "The Harlem Express",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-25",
+        "name": "Veloci-Skates",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-26",
+        "name": "Shared History",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-27",
+        "name": "Exploding Bulldozer",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-28",
+        "name": "Family Drama",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-29",
+        "name": "Ultimate Sacrifice",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-30",
+        "name": "From the Rafters",
+        "kind": "trophy",
+        "chapterId": "combat-and-stealth",
+        "where": "Perform 25 Ceiling Takedowns"
+      },
+      {
+        "id": "achievement-31",
+        "name": "Climbing the Walls",
+        "kind": "trophy",
+        "chapterId": "combat-and-stealth",
+        "where": "Perform 25 Wall Takedowns"
+      },
+      {
+        "id": "achievement-32",
+        "name": "Invisible Spider",
+        "kind": "trophy",
+        "chapterId": "combat-and-stealth",
+        "where": "Defeat 50 enemies while Camouflaged"
+      },
+      {
+        "id": "achievement-33",
+        "name": "Overcharge",
+        "kind": "trophy",
+        "chapterId": "combat-and-stealth",
+        "where": "Defeat 100 enemies with Venom attacks"
+      },
+      {
+        "id": "achievement-34",
+        "name": "Up and Over",
+        "kind": "trophy",
+        "chapterId": "combat-and-stealth",
+        "where": "Perform a Venom Jump, then a Venom Dash on a single enemy"
+      },
+      {
+        "id": "achievement-35",
+        "name": "From Downtown",
+        "kind": "trophy",
+        "chapterId": "combat-and-stealth",
+        "where": "Use Venom Dash to throw an enemy into a group of three or more"
+      },
+      {
+        "id": "achievement-36",
+        "name": "Like a Rhino in a China Shop",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Smash into 15 breakable objects while steering Rhino through the shopping mall"
+      },
+      {
+        "id": "achievement-37",
+        "name": "Competitive Spirit",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-38",
+        "name": "Best Fries in Town",
+        "kind": "trophy",
+        "chapterId": "open-world",
+        "where": "Pay your respects to a legend in the Upper West Side"
+      },
+      {
+        "id": "achievement-39",
+        "name": "JJJ Would Be Proud",
+        "kind": "trophy",
+        "chapterId": "open-world",
+        "where": "Apply a sticker and customise lighting while in Photo Mode"
+      },
+      {
+        "id": "achievement-40",
+        "name": "Trapped",
+        "kind": "trophy",
+        "chapterId": "combat-and-stealth",
+        "where": "Defeat 50 enemies with the Remote Mine gadget"
+      },
+      {
+        "id": "achievement-41",
+        "name": "Five Star Review",
+        "kind": "trophy",
+        "chapterId": "open-world",
+        "where": "Complete all FNSM app requests"
+      },
+      {
+        "id": "achievement-42",
+        "name": "Mod that Suit",
+        "kind": "trophy",
+        "chapterId": "suits-and-skills",
+        "where": "Craft a Suit Mod"
+      },
+      {
+        "id": "achievement-43",
+        "name": "Look with Better Eyes",
+        "kind": "trophy",
+        "chapterId": "suits-and-skills",
+        "where": "Craft a Visor Mod"
+      },
+      {
+        "id": "achievement-44",
+        "name": "Never Give Up",
+        "kind": "trophy",
+        "chapterId": "open-world",
+        "where": "Pay respects at Jefferson Davis' grave in Harlem"
+      },
+      {
+        "id": "achievement-45",
+        "name": "A Gift From Pete",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-46",
+        "name": "Crime Master",
+        "kind": "trophy",
+        "chapterId": "open-world",
+        "where": "Complete all Bonus Objectives for every crime type"
+      },
+      {
+        "id": "achievement-47",
+        "name": "Nowhere to Hide",
+        "kind": "trophy",
+        "chapterId": "combat-and-stealth",
+        "where": "Perform 100 Stealth Takedowns"
+      },
+      {
+        "id": "achievement-48",
+        "name": "I'm on a Boat",
+        "kind": "trophy",
+        "chapterId": "open-world",
+        "where": "Ride the derelict boat in southern Chinatown"
+      },
+      {
+        "id": "achievement-49",
+        "name": "Socially Acceptable",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Scroll through the entire Social Feed at the end of the story"
+      },
+      {
+        "id": "achievement-50",
+        "name": "Plus Plus",
+        "kind": "trophy",
+        "chapterId": "new-game-plus",
+        "where": "Complete the game on New Game+"
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/marvels-spider-man-miles-morales",
+    "Achievement data from Steam (Steam Web API, app 1817190)",
+    "StrategyWiki: no usable walkthrough, nothing used — https://strategywiki.org/wiki/Marvel's_Spider-Man:_Miles_Morales",
+    "Fandom (marvels-spider-man.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://marvels-spider-man.fandom.com/wiki/Marvel's_Spider-Man:_Miles_Morales"
+  ],
+  "route": "original",
+  "notes": "Backlog game, picked from RAWG's most-added list for its year (docs/PLAN.md section 2 ordering). StrategyWiki has a stub page (completion stage 0); Walkthrough, Gameplay and Trophies are linked but not written, and only Controls and Table of Contents subpages exist. marvels-spider-man.fandom.com answers the API, with about 41 linked pages; names only were looked at, nothing copied. The Steam schema calls the app \"Pop Tart\" (an internal codename); the store list confirms app 1817190. 21 of 50 Steam achievements are hidden and all sit in the main story chapter; the ones listed between \"Launch, Swing and Dive\" and \"Spider-Training: Complete\" look like training challenges, and \"Under Their Noses\", \"Underground Undone\", \"Come at the King\", \"Deep Cuts\" and \"Competitive Spirit\" are probably side content, so these need checking. \"Like a Rhino in a China Shop\" (steering Rhino through the mall) was put in the main story; \"Never Saw It Coming\" (Enemy Base) in open world."
+}

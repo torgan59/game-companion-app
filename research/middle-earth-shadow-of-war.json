@@ -1,0 +1,666 @@
+{
+  "id": "middle-earth-shadow-of-war",
+  "title": "Middle-earth: Shadow of War",
+  "year": 2017,
+  "platforms": [
+    "PC",
+    "Xbox One",
+    "PlayStation 4",
+    "Android"
+  ],
+  "rawgId": 25,
+  "rawgSlug": "middle-earth-shadow-of-war",
+  "released": "2017-09-27",
+  "developers": [
+    "Warner Bros. Interactive",
+    "Monolith Productions"
+  ],
+  "playtime": 13,
+  "genres": [
+    "Action",
+    "RPG"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Full controller support",
+    "Steam Cloud",
+    "Atmospheric",
+    "steam-trading-cards",
+    "Great Soundtrack",
+    "RPG",
+    "Story Rich",
+    "Open World",
+    "Third Person",
+    "Fantasy"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/21a/21ad672cedee9b4378abb6c2d2e626ee.jpg",
+  "steamAppId": 356190,
+  "achievements": {
+    "total": 72,
+    "hidden": 11,
+    "examples": [
+      {
+        "name": "Better Luck Next Time",
+        "percent": 72.2
+      },
+      {
+        "name": "Avenged",
+        "percent": 62.8
+      },
+      {
+        "name": "Fit for War",
+        "percent": 61.6
+      },
+      {
+        "name": "Shadows of the Sand",
+        "percent": 3.4
+      },
+      {
+        "name": "Wild Things",
+        "percent": 3.3
+      },
+      {
+        "name": "I See the Light",
+        "percent": 2.9
+      },
+      {
+        "name": "Baranor the Conqueror",
+        "percent": 2.2
+      },
+      {
+        "name": "Bombardier",
+        "percent": 1.8
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Middle-earth:_Shadow_of_War",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 53,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://middle-earth.fandom.com/wiki/Middle-earth:_Shadow_of_War"
+    }
+  },
+  "game": {
+    "id": "middle-earth-shadow-of-war",
+    "title": "Middle-earth: Shadow of War",
+    "platforms": [
+      "PC",
+      "Xbox One",
+      "PlayStation 4",
+      "Android"
+    ],
+    "blurb": "Open-world action RPG set in Mordor, from Monolith Productions (published by Warner Bros. Interactive), released 2017-09-27. RAWG average playtime: 13 hours. Genres: Action, RPG. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#4F6B3A",
+    "chapters": [
+      {
+        "id": "main-story",
+        "title": "The Main Story",
+        "summary": "Talion's war against Sauron across the regions of Mordor. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "nemesis-and-army",
+        "title": "Nemesis, Followers and Your Army",
+        "summary": "Warchiefs, captains, spies, death threats, shaming, fight pits, vendettas and building your orc army.",
+        "steps": []
+      },
+      {
+        "id": "fortresses-and-online",
+        "title": "Sieges and Online Play",
+        "summary": "Assault teams, siege upgrades, starting a conquest, and the online vendettas and conquests.",
+        "steps": []
+      },
+      {
+        "id": "exploring-mordor",
+        "title": "Exploring Mordor",
+        "summary": "Monuments, outposts, Ithildin doors, Gondorian artifacts, Shelob memories, Haedir, Shadow of the Past missions and beasts.",
+        "steps": []
+      },
+      {
+        "id": "gear-and-skills",
+        "title": "Gems, Gear and Skills",
+        "summary": "Forging gems, gem slots, gear challenges, legendary sets and unlocking every skill.",
+        "steps": []
+      },
+      {
+        "id": "eltariel",
+        "title": "Eltariel's Path",
+        "summary": "Playing as Eltariel: the Rogue Nazgûl, Seregost, Cirith Ungol, the Fixer and the Lawless.",
+        "steps": []
+      },
+      {
+        "id": "baranor",
+        "title": "Baranor and the Desolation of Mordor",
+        "summary": "Playing as Baranor in Lithlad: Serka, the Oasis, the Fortress of Shindrâm and Númenórean artifacts.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Forger",
+        "kind": "trophy",
+        "chapterId": "gear-and-skills",
+        "where": "Forge a higher-quality Gem by combining three Gems of the same quality."
+      },
+      {
+        "id": "achievement-2",
+        "name": "Rule of Three",
+        "kind": "trophy",
+        "chapterId": "gear-and-skills",
+        "where": "Unlock 3 Gem slots."
+      },
+      {
+        "id": "achievement-3",
+        "name": "Best Defense",
+        "kind": "trophy",
+        "chapterId": "fortresses-and-online",
+        "where": "Equip 3 Siege Upgrades on an Assault Team."
+      },
+      {
+        "id": "achievement-4",
+        "name": "Fit for War",
+        "kind": "trophy",
+        "chapterId": "gear-and-skills",
+        "where": "Complete a challenge to upgrade a piece of gear."
+      },
+      {
+        "id": "achievement-5",
+        "name": "Hostile Takeover",
+        "kind": "trophy",
+        "chapterId": "nemesis-and-army",
+        "where": "Defeat a Warchief."
+      },
+      {
+        "id": "achievement-6",
+        "name": "Vandal",
+        "kind": "trophy",
+        "chapterId": "exploring-mordor",
+        "where": "Destroy a Monument."
+      },
+      {
+        "id": "achievement-7",
+        "name": "Speak Friend and Enter",
+        "kind": "trophy",
+        "chapterId": "exploring-mordor",
+        "where": "Open one of the Ithildin Doors."
+      },
+      {
+        "id": "achievement-8",
+        "name": "Bound by Blood",
+        "kind": "trophy",
+        "chapterId": "fortresses-and-online",
+        "where": "Complete an Online Vendetta."
+      },
+      {
+        "id": "achievement-9",
+        "name": "Avenged",
+        "kind": "trophy",
+        "chapterId": "nemesis-and-army",
+        "where": "Complete a Vendetta Mission."
+      },
+      {
+        "id": "achievement-10",
+        "name": "Master Forger",
+        "kind": "trophy",
+        "chapterId": "gear-and-skills",
+        "where": "Forge a top tier Gem."
+      },
+      {
+        "id": "achievement-11",
+        "name": "Promise Keeper",
+        "kind": "trophy",
+        "chapterId": "nemesis-and-army",
+        "where": "Issue a Death Threat, and then successfully kill the target."
+      },
+      {
+        "id": "achievement-12",
+        "name": "Death is not the End",
+        "kind": "trophy",
+        "chapterId": "nemesis-and-army",
+        "where": "Resurrect a Follower Captain."
+      },
+      {
+        "id": "achievement-13",
+        "name": "Dismantled",
+        "kind": "trophy",
+        "chapterId": "exploring-mordor",
+        "where": "Disable an Outpost."
+      },
+      {
+        "id": "achievement-14",
+        "name": "Banished",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-15",
+        "name": "Brought to Heel",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-16",
+        "name": "Lord of Horror",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-17",
+        "name": "Finished Tales",
+        "kind": "trophy",
+        "chapterId": "exploring-mordor",
+        "where": "Recover all Gondorian artifacts."
+      },
+      {
+        "id": "achievement-18",
+        "name": "The Web Revealed",
+        "kind": "trophy",
+        "chapterId": "exploring-mordor",
+        "where": "Uncover the final Shelob memory and reveal the Web of Fate."
+      },
+      {
+        "id": "achievement-19",
+        "name": "What Once Was Lost",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-20",
+        "name": "First Steps",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-21",
+        "name": "Peace in Death",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-22",
+        "name": "Undeath Defeats Undeath",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-23",
+        "name": "Fall and Rise",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-24",
+        "name": "No Orc Lives Forever",
+        "kind": "trophy",
+        "chapterId": "nemesis-and-army",
+        "where": "Win all Fight Pit missions."
+      },
+      {
+        "id": "achievement-25",
+        "name": "Forged by War",
+        "kind": "trophy",
+        "chapterId": "gear-and-skills",
+        "where": "Unlock all player skills."
+      },
+      {
+        "id": "achievement-26",
+        "name": "Purge",
+        "kind": "trophy",
+        "chapterId": "exploring-mordor",
+        "where": "Purify all the Haedir."
+      },
+      {
+        "id": "achievement-27",
+        "name": "Stalemate is Victory",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-28",
+        "name": "The Operative",
+        "kind": "trophy",
+        "chapterId": "nemesis-and-army",
+        "where": "Turn all of a Warchief's bodyguards (minimum 2) into spies, then confront him."
+      },
+      {
+        "id": "achievement-29",
+        "name": "Such Great Heights",
+        "kind": "trophy",
+        "chapterId": "fortresses-and-online",
+        "where": "Reach the rank of Captain in Online Conquest."
+      },
+      {
+        "id": "achievement-30",
+        "name": "No Orc Left Behind",
+        "kind": "trophy",
+        "chapterId": "nemesis-and-army",
+        "where": "Rescue a Follower who's been captured."
+      },
+      {
+        "id": "achievement-31",
+        "name": "Better Luck Next Time",
+        "kind": "trophy",
+        "chapterId": "nemesis-and-army",
+        "where": "Meet an Enemy or a Follower who has cheated death."
+      },
+      {
+        "id": "achievement-32",
+        "name": "It Came From Within",
+        "kind": "trophy",
+        "chapterId": "fortresses-and-online",
+        "where": "Start a Conquest with all Warchiefs as spies."
+      },
+      {
+        "id": "achievement-33",
+        "name": "Power Couple",
+        "kind": "trophy",
+        "chapterId": "nemesis-and-army",
+        "where": "Send a Follower to support another Follower in a Nemesis Mission."
+      },
+      {
+        "id": "achievement-34",
+        "name": "Everything is Permitted",
+        "kind": "trophy",
+        "chapterId": "nemesis-and-army",
+        "where": "Shame an Assassin until he becomes deranged."
+      },
+      {
+        "id": "achievement-35",
+        "name": "Life of the Party",
+        "kind": "trophy",
+        "chapterId": "nemesis-and-army",
+        "where": "Send a Destroyer on a Vendetta Mission."
+      },
+      {
+        "id": "achievement-36",
+        "name": "If You Can't Beat Them",
+        "kind": "trophy",
+        "chapterId": "nemesis-and-army",
+        "where": "Recruit an Orc after he's killed you three or more times."
+      },
+      {
+        "id": "achievement-37",
+        "name": "I Like to Watch",
+        "kind": "trophy",
+        "chapterId": "nemesis-and-army",
+        "where": "Watch a Follower murder another Captain without helping him."
+      },
+      {
+        "id": "achievement-38",
+        "name": "Second Age Warrior",
+        "kind": "trophy",
+        "chapterId": "exploring-mordor",
+        "where": "Complete all Shadow of the Past missions in one region."
+      },
+      {
+        "id": "achievement-39",
+        "name": "Rough Rider",
+        "kind": "trophy",
+        "chapterId": "exploring-mordor",
+        "where": "Ride every type of beast and rare beast."
+      },
+      {
+        "id": "achievement-40",
+        "name": "Wild Things",
+        "kind": "trophy",
+        "chapterId": "exploring-mordor",
+        "where": "Kill a drake while riding a graug."
+      },
+      {
+        "id": "achievement-41",
+        "name": "Trolling",
+        "kind": "trophy",
+        "chapterId": "nemesis-and-army",
+        "where": "Kill a Captain while riding an Olog."
+      },
+      {
+        "id": "achievement-42",
+        "name": "Vertical Mobility",
+        "kind": "trophy",
+        "chapterId": "nemesis-and-army",
+        "where": "Help a grunt become an Overlord."
+      },
+      {
+        "id": "achievement-43",
+        "name": "Blood on Blood",
+        "kind": "trophy",
+        "chapterId": "nemesis-and-army",
+        "where": "Make a Captain kill his bloodbrother."
+      },
+      {
+        "id": "achievement-44",
+        "name": "Nemesis",
+        "kind": "trophy",
+        "chapterId": "nemesis-and-army",
+        "where": "Encounter the same Orc 3 times in nemesis missions without killing him."
+      },
+      {
+        "id": "achievement-45",
+        "name": "Feed the Beasts",
+        "kind": "trophy",
+        "chapterId": "exploring-mordor",
+        "where": "Attract every kind of beast using bait."
+      },
+      {
+        "id": "achievement-46",
+        "name": "Bad Boss",
+        "kind": "trophy",
+        "chapterId": "nemesis-and-army",
+        "where": "Strike a Follower until he's had enough."
+      },
+      {
+        "id": "achievement-47",
+        "name": "The Stuff of Legend",
+        "kind": "trophy",
+        "chapterId": "gear-and-skills",
+        "where": "Equip a full Legendary Gear set as Talion."
+      },
+      {
+        "id": "achievement-48",
+        "name": "Follower Perks",
+        "kind": "trophy",
+        "chapterId": "nemesis-and-army",
+        "where": "Use a Training Order to give a Follower a gang."
+      },
+      {
+        "id": "achievement-49",
+        "name": "Overkill",
+        "kind": "trophy",
+        "chapterId": "nemesis-and-army",
+        "where": "Send a Follower to kill another Follower in a pit fight."
+      },
+      {
+        "id": "achievement-50",
+        "name": "Headhunter",
+        "kind": "trophy",
+        "chapterId": "nemesis-and-army",
+        "where": "Recruit a Follower of every Advanced Class."
+      },
+      {
+        "id": "achievement-51",
+        "name": "For Gondor",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-52",
+        "name": "Banish the Darkness",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-53",
+        "name": "Flash Mob",
+        "kind": "trophy",
+        "chapterId": "nemesis-and-army",
+        "where": "Blind 100 Orcs."
+      },
+      {
+        "id": "achievement-54",
+        "name": "Banished Ambition",
+        "kind": "trophy",
+        "chapterId": "eltariel",
+        "where": "Defeat the Rogue Nazgûl."
+      },
+      {
+        "id": "achievement-55",
+        "name": "Scorched Earth",
+        "kind": "trophy",
+        "chapterId": "eltariel",
+        "where": "Deny Sauron’s control of Seregost forever."
+      },
+      {
+        "id": "achievement-56",
+        "name": "Holding the Line",
+        "kind": "trophy",
+        "chapterId": "eltariel",
+        "where": "Defend Cirith Ungol from a new threat."
+      },
+      {
+        "id": "achievement-57",
+        "name": "Problem Solved",
+        "kind": "trophy",
+        "chapterId": "eltariel",
+        "where": "Settle the Fixer’s score with the overlord of Núrn."
+      },
+      {
+        "id": "achievement-58",
+        "name": "The Time has Come",
+        "kind": "trophy",
+        "chapterId": "eltariel",
+        "where": "Witness the end of Eltariel’s path."
+      },
+      {
+        "id": "achievement-59",
+        "name": "Elven Conquest",
+        "kind": "trophy",
+        "chapterId": "eltariel",
+        "where": "Complete an Online Conquest with an Eltariel skin."
+      },
+      {
+        "id": "achievement-60",
+        "name": "I See the Light",
+        "kind": "trophy",
+        "chapterId": "eltariel",
+        "where": "Use Light Trap against 20 Orcs."
+      },
+      {
+        "id": "achievement-61",
+        "name": "Complete in Defeat",
+        "kind": "trophy",
+        "chapterId": "eltariel",
+        "where": "Defeat the Lawless."
+      },
+      {
+        "id": "achievement-62",
+        "name": "Unlikely Alliances",
+        "kind": "trophy",
+        "chapterId": "eltariel",
+        "where": "Recruit your first follower as Eltariel."
+      },
+      {
+        "id": "achievement-63",
+        "name": "No Way Out",
+        "kind": "trophy",
+        "chapterId": "baranor",
+        "where": "Change the landscape of Lithlad."
+      },
+      {
+        "id": "achievement-64",
+        "name": "Belly of the Beast",
+        "kind": "trophy",
+        "chapterId": "baranor",
+        "where": "Leave your mark on the Overlord of Lithlad."
+      },
+      {
+        "id": "achievement-65",
+        "name": "Festival of Blood",
+        "kind": "trophy",
+        "chapterId": "baranor",
+        "where": "Save Serka."
+      },
+      {
+        "id": "achievement-66",
+        "name": "Point of No Return",
+        "kind": "trophy",
+        "chapterId": "baranor",
+        "where": "Defend the Oasis."
+      },
+      {
+        "id": "achievement-67",
+        "name": "Reap What You Sow",
+        "kind": "trophy",
+        "chapterId": "baranor",
+        "where": "Conquer the Fortress of Shindrâm as Baranor."
+      },
+      {
+        "id": "achievement-68",
+        "name": "Baranor the Conqueror",
+        "kind": "trophy",
+        "chapterId": "baranor",
+        "where": "Complete the Desolation of Mordor with a Gold Rating."
+      },
+      {
+        "id": "achievement-69",
+        "name": "Gauntlet",
+        "kind": "trophy",
+        "chapterId": "baranor",
+        "where": "Collect all Númenórean artifacts and bring them to Torvin."
+      },
+      {
+        "id": "achievement-70",
+        "name": "Bombardier",
+        "kind": "trophy",
+        "chapterId": "baranor",
+        "where": "Kill at least one enemy with each ammo type while gliding as Baranor."
+      },
+      {
+        "id": "achievement-71",
+        "name": "Eastern Front",
+        "kind": "trophy",
+        "chapterId": "baranor",
+        "where": "Conquer the Fortress of Shindrâm as Talion."
+      },
+      {
+        "id": "achievement-72",
+        "name": "Shadows of the Sand",
+        "kind": "trophy",
+        "chapterId": "baranor",
+        "where": "Achieve a Gold Rating on all Shadow of the Past missions in Lithlad."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/middle-earth-shadow-of-war",
+    "Achievement data from Steam (Steam Web API, app 356190)",
+    "StrategyWiki: no usable walkthrough, nothing used — https://strategywiki.org/wiki/Middle-earth:_Shadow_of_War",
+    "Fandom (middle-earth.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://middle-earth.fandom.com/wiki/Middle-earth:_Shadow_of_War"
+  ],
+  "route": "original",
+  "notes": "Backlog game, picked from RAWG's most-added list for its year (docs/PLAN.md section 2 ordering). StrategyWiki has a stub page (completion stage 0, in Category:Stubs) with no subpages at all. middle-earth.fandom.com answers the API, with about 53 linked pages; names only were looked at, nothing copied. The Steam schema calls the app \"Kraken\" (an internal codename); the store list confirms app 356190. 11 of 72 Steam achievements are hidden and all sit in the main story chapter. The last 19 achievements (from \"Banished Ambition\" to \"Shadows of the Sand\") have low unlock rates (about 2 to 13 percent) and name Eltariel or Baranor, so they look like extra story content, probably DLC; the data does not name the DLC, so the chapters are named after the characters and places in the descriptions. \"I See the Light\" (Light Trap) and \"Complete in Defeat\" (defeat the Lawless) do not name Eltariel; they were put in her chapter by schema position, which needs checking. \"Eastern Front\" (Shindrâm as Talion) was put in the Baranor chapter because it names the same fortress. \"Kill a Captain while riding an Olog\" sits in the nemesis chapter."
+}

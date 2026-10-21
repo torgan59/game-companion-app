@@ -1,0 +1,109 @@
+{
+  "id": "divinity-ii-developers-cut",
+  "title": "Divinity II: Developer's Cut",
+  "year": 2012,
+  "platforms": [
+    "PC",
+    "Xbox 360"
+  ],
+  "rawgId": 18449,
+  "rawgSlug": "divinity-ii",
+  "released": "2012-10-29",
+  "developers": [
+    "Larian Studios"
+  ],
+  "playtime": 2,
+  "genres": [
+    "Action",
+    "RPG"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Atmospheric",
+    "Great Soundtrack",
+    "RPG",
+    "Story Rich",
+    "Open World",
+    "Third Person",
+    "Fantasy",
+    "Funny",
+    "Female Protagonist",
+    "Comedy",
+    "Action RPG"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/c88/c88c0929d09ec9270ca1207a0838c202.jpg",
+  "steamAppId": null,
+  "achievements": {
+    "total": 0,
+    "examples": [],
+    "reason": "Steam app 219780 (\"Divinity II: Developer's Cut\" in the store list) returned an empty achievement schema, and the global percentages call was refused (HTTP 403), so there is no achievement list. No StrategyWiki guide exists either, so no checklist could be built."
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": false,
+      "pages": 0,
+      "reason": "No page for Divinity II: Developer's Cut (MediaWiki API returned missing; search empty)"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 47,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://divinity.fandom.com/wiki/Divinity_II:_Developer's_Cut"
+    }
+  },
+  "game": {
+    "id": "divinity-ii-developers-cut",
+    "title": "Divinity II: Developer's Cut",
+    "platforms": [
+      "PC",
+      "Xbox 360"
+    ],
+    "blurb": "Action RPG in which you fight both as a human and as a dragon, from Larian Studios, released 2012-10-29. RAWG average playtime: 2 hours. Genres: Action, RPG. Chapters are a rough outline drawn from RAWG's description and Fandom page names, as there is no achievement list.",
+    "accent": "#6B3FA0",
+    "chapters": [
+      {
+        "id": "the-story",
+        "title": "The Story",
+        "summary": "The main adventure, with places such as Aleroth and the Battle Tower. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "flames-of-vengeance",
+        "title": "Flames of Vengeance",
+        "summary": "The part of the saga that Fandom lists as \"Divinity II: Flames of Vengeance\". Contents still to be checked.",
+        "steps": []
+      },
+      {
+        "id": "human-and-dragon",
+        "title": "Fighting as Human and Dragon",
+        "summary": "Combat on foot and taking to the skies in dragon form.",
+        "steps": []
+      },
+      {
+        "id": "character-building",
+        "title": "Classes, Skills and Crafting",
+        "summary": "Building your character: classes, skills, attributes, armour, weapons and crafting.",
+        "steps": []
+      },
+      {
+        "id": "extras",
+        "title": "Developer Mode and Extras",
+        "summary": "The Developer Mode with console commands, the \"Hatching the Dragon\" documentary and the Treasure Vault of design material.",
+        "steps": []
+      }
+    ],
+    "collectibles": []
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/divinity-ii",
+    "Steam: no achievement list available for this game (see notes)",
+    "StrategyWiki: no page for this game, nothing used",
+    "Fandom (divinity.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://divinity.fandom.com/wiki/Divinity_II:_Developer's_Cut"
+  ],
+  "route": "original",
+  "notes": "Backlog game, picked from RAWG's most-added list for its year (docs/PLAN.md section 2 ordering). No StrategyWiki page under \"Divinity II: Developer's Cut\" or \"Divinity II\". divinity.fandom.com answers the API, with about 47 linked pages, including \"Aleroth\", \"Battle Tower\", \"Divinity II: Ego Draconis\", \"Divinity II: Flames of Vengeance\", \"Divinity II: Dragon Knight Saga\" and list pages such as \"Dragon Knight Saga Quests\"; names only were looked at, nothing copied. Steam app 219780 returned an empty achievement schema (no game name, no achievements) and HTTP 403 for global percentages, so steam is set to none. RAWG's description says the Developer's Cut includes \"the ultimate edition of Divinity II\", a Developer Mode, a \"Hatching the Dragon\" documentary and a \"Treasure Vault\"; the extras chapter comes from that. Whether the Flames of Vengeance content is in this edition is not stated in the data; it is a guess from the Fandom page names and needs checking. Chapter order is not known. RAWG lists a playtime of only 2 hours, while its description says \"100+ hours\"."
+}

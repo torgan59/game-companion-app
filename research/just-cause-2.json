@@ -1,0 +1,512 @@
+{
+  "id": "just-cause-2",
+  "title": "Just Cause 2",
+  "year": 2010,
+  "platforms": [
+    "PC",
+    "Xbox 360",
+    "PlayStation 3",
+    "Xbox One"
+  ],
+  "rawgId": 4513,
+  "rawgSlug": "just-cause-2",
+  "released": "2010-03-23",
+  "developers": [
+    "Square Enix",
+    "Avalanche Studios"
+  ],
+  "playtime": 3,
+  "genres": [
+    "Action",
+    "Shooter"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Multiplayer",
+    "Full controller support",
+    "Steam Cloud",
+    "Atmospheric",
+    "Co-op",
+    "Open World",
+    "cooperative",
+    "Third Person",
+    "FPS",
+    "Funny"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/a3c/a3c529a12c896c0ef02db5b4741de2ba.jpg",
+  "steamAppId": 8190,
+  "achievements": {
+    "total": 50,
+    "hidden": 0,
+    "examples": [
+      {
+        "name": "First Taste of Chaos",
+        "percent": 86.8
+      },
+      {
+        "name": "Welcome to Panau",
+        "percent": 76.7
+      },
+      {
+        "name": "Casino Bust",
+        "percent": 64.6
+      },
+      {
+        "name": "Legendary Agent",
+        "percent": 3.3
+      },
+      {
+        "name": "Up to the Challenge 2",
+        "percent": 3.3
+      },
+      {
+        "name": "Bridge Limbo",
+        "percent": 3.2
+      },
+      {
+        "name": "Wrecking Ball",
+        "percent": 3.0
+      },
+      {
+        "name": "Trying Anything Once",
+        "percent": 3.0
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Just_Cause_2",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 77,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://justcause.fandom.com/wiki/Just_Cause_2"
+    }
+  },
+  "game": {
+    "id": "just-cause-2",
+    "title": "Just Cause 2",
+    "platforms": [
+      "PC",
+      "Xbox 360",
+      "PlayStation 3",
+      "Xbox One"
+    ],
+    "blurb": "Open-world action game in which Rico Rodriguez sets out to topple the regime on the Southeast Asian island of Panau, from Avalanche Studios and Square Enix, released 2010-03-23. RAWG average playtime: 3 hours. Genres: Action, Shooter. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#C8462B",
+    "chapters": [
+      {
+        "id": "main-story",
+        "title": "The Main Story",
+        "summary": "The seven story missions across Panau, one achievement each.",
+        "steps": []
+      },
+      {
+        "id": "difficulty",
+        "title": "Difficulty Runs",
+        "summary": "Finishing the game on normal, hard and extreme difficulty.",
+        "steps": []
+      },
+      {
+        "id": "factions-and-strongholds",
+        "title": "Factions, Strongholds and Colonels",
+        "summary": "Stronghold takeovers, faction missions and hunting down colonels.",
+        "steps": []
+      },
+      {
+        "id": "chaos-and-sabotage",
+        "title": "Chaos and Sabotage",
+        "summary": "Causing chaos, sabotaging government property and destruction sprees.",
+        "steps": []
+      },
+      {
+        "id": "exploration",
+        "title": "Exploration, Collectibles and Completion",
+        "summary": "Resource and faction items, discovering locations, challenges, overall completion and the highest point on the island.",
+        "steps": []
+      },
+      {
+        "id": "vehicles-and-stunts",
+        "title": "Vehicles, Flying and Stunts",
+        "summary": "Driving every vehicle, hijacking, stunt points, parachuting, base jumps and flying under bridges.",
+        "steps": []
+      },
+      {
+        "id": "combat-and-grapple",
+        "title": "Combat and the Grappling Hook",
+        "summary": "Kills of every kind, including grappling-hook tricks, melee and headshots.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Welcome to Panau",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Complete story mission 1."
+      },
+      {
+        "id": "achievement-2",
+        "name": "Casino Bust",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Complete story mission 2."
+      },
+      {
+        "id": "achievement-3",
+        "name": "The White Tiger",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Complete story mission 3."
+      },
+      {
+        "id": "achievement-4",
+        "name": "Mountain Rescue",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Complete story mission 4."
+      },
+      {
+        "id": "achievement-5",
+        "name": "Three Kings",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Complete story mission 5."
+      },
+      {
+        "id": "achievement-6",
+        "name": "Into the Den",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Complete story mission 6."
+      },
+      {
+        "id": "achievement-7",
+        "name": "A Just Cause",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Complete story mission 7."
+      },
+      {
+        "id": "achievement-8",
+        "name": "Top Agent",
+        "kind": "trophy",
+        "chapterId": "difficulty",
+        "where": "Bonus for completing the game on normal difficulty."
+      },
+      {
+        "id": "achievement-9",
+        "name": "Heroic Agent",
+        "kind": "trophy",
+        "chapterId": "difficulty",
+        "where": "Bonus for completing the game on hard difficulty. Also gives you the bonus for normal difficulty."
+      },
+      {
+        "id": "achievement-10",
+        "name": "Legendary Agent",
+        "kind": "trophy",
+        "chapterId": "difficulty",
+        "where": "Bonus for completing the game on extreme difficulty. Also gives you the bonus for hard and normal difficulties."
+      },
+      {
+        "id": "achievement-11",
+        "name": "Gaining a Foothold",
+        "kind": "trophy",
+        "chapterId": "factions-and-strongholds",
+        "where": "Complete 3 stronghold takeovers."
+      },
+      {
+        "id": "achievement-12",
+        "name": "Conqueror of Panau",
+        "kind": "trophy",
+        "chapterId": "factions-and-strongholds",
+        "where": "Complete 9 stronghold takeovers."
+      },
+      {
+        "id": "achievement-13",
+        "name": "A Trusted Ally",
+        "kind": "trophy",
+        "chapterId": "factions-and-strongholds",
+        "where": "Complete 49 faction missions."
+      },
+      {
+        "id": "achievement-14",
+        "name": "First Taste of Chaos",
+        "kind": "trophy",
+        "chapterId": "chaos-and-sabotage",
+        "where": "Cause chaos for the first time."
+      },
+      {
+        "id": "achievement-15",
+        "name": "Saboteur",
+        "kind": "trophy",
+        "chapterId": "chaos-and-sabotage",
+        "where": "Complete 100 sabotages."
+      },
+      {
+        "id": "achievement-16",
+        "name": "Destroyer",
+        "kind": "trophy",
+        "chapterId": "chaos-and-sabotage",
+        "where": "Complete 1000 sabotages."
+      },
+      {
+        "id": "achievement-17",
+        "name": "Professional Hitman",
+        "kind": "trophy",
+        "chapterId": "factions-and-strongholds",
+        "where": "Assassinate 25 colonels."
+      },
+      {
+        "id": "achievement-18",
+        "name": "Up to the Challenge 1",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Complete 10 challenges."
+      },
+      {
+        "id": "achievement-19",
+        "name": "Up to the Challenge 2",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Complete 50 challenges."
+      },
+      {
+        "id": "achievement-20",
+        "name": "Leaving No Rock Unturned",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Collect 1000 resource items."
+      },
+      {
+        "id": "achievement-21",
+        "name": "Finders Keepers",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Collect 100 resource items."
+      },
+      {
+        "id": "achievement-22",
+        "name": "Faction Benefactor",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Collect 150 faction items."
+      },
+      {
+        "id": "achievement-23",
+        "name": "Globetrotter",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Discover 100 locations."
+      },
+      {
+        "id": "achievement-24",
+        "name": "Freeroamer 1",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Reach 100% complete in 15 locations."
+      },
+      {
+        "id": "achievement-25",
+        "name": "Freeroamer 2",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Reach 100% complete in 100 locations."
+      },
+      {
+        "id": "achievement-26",
+        "name": "Body Count",
+        "kind": "trophy",
+        "chapterId": "combat-and-grapple",
+        "where": "Kill 750 enemies."
+      },
+      {
+        "id": "achievement-27",
+        "name": "Unarmed and Dangerous",
+        "kind": "trophy",
+        "chapterId": "combat-and-grapple",
+        "where": "Kill 50 enemies using melee attacks."
+      },
+      {
+        "id": "achievement-28",
+        "name": "Gravity is a Bitch!",
+        "kind": "trophy",
+        "chapterId": "combat-and-grapple",
+        "where": "Kill 30 enemies by using the grappling hook and making them fall to their death."
+      },
+      {
+        "id": "achievement-29",
+        "name": "Follow Me!",
+        "kind": "trophy",
+        "chapterId": "combat-and-grapple",
+        "where": "Kill 5 enemies by dragging them behind a vehicle with the grappling hook."
+      },
+      {
+        "id": "achievement-30",
+        "name": "Hang 'em High!",
+        "kind": "trophy",
+        "chapterId": "combat-and-grapple",
+        "where": "Kill 30 enemies while they're suspended in the air with the grappling hook."
+      },
+      {
+        "id": "achievement-31",
+        "name": "Wrecking Ball",
+        "kind": "trophy",
+        "chapterId": "combat-and-grapple",
+        "where": "Kill 5 enemies by smashing them with an object tethered to your vehicle with the grappling hook."
+      },
+      {
+        "id": "achievement-32",
+        "name": "Piñata Party",
+        "kind": "trophy",
+        "chapterId": "combat-and-grapple",
+        "where": "Kill 5 enemies with the melee attack while they're suspended with the grappling hook."
+      },
+      {
+        "id": "achievement-33",
+        "name": "Juggler",
+        "kind": "trophy",
+        "chapterId": "combat-and-grapple",
+        "where": "Kill 30 enemies while they're falling through the air."
+      },
+      {
+        "id": "achievement-34",
+        "name": "Road Rage",
+        "kind": "trophy",
+        "chapterId": "combat-and-grapple",
+        "where": "Kill 30 enemies by mowing them down with vehicles."
+      },
+      {
+        "id": "achievement-35",
+        "name": "Marksman",
+        "kind": "trophy",
+        "chapterId": "combat-and-grapple",
+        "where": "Kill 50 enemies with headshots."
+      },
+      {
+        "id": "achievement-36",
+        "name": "Killing Frenzy",
+        "kind": "trophy",
+        "chapterId": "combat-and-grapple",
+        "where": "Kill 20 enemies in 60 seconds."
+      },
+      {
+        "id": "achievement-37",
+        "name": "Invincible Warrior",
+        "kind": "trophy",
+        "chapterId": "combat-and-grapple",
+        "where": "Kill 50 enemies in a row with inventory weapons without losing health."
+      },
+      {
+        "id": "achievement-38",
+        "name": "Destruction Frenzy",
+        "kind": "trophy",
+        "chapterId": "chaos-and-sabotage",
+        "where": "Destroy 30 objects in 60 seconds."
+      },
+      {
+        "id": "achievement-39",
+        "name": "Test Driver",
+        "kind": "trophy",
+        "chapterId": "vehicles-and-stunts",
+        "where": "Drive 30 different vehicles."
+      },
+      {
+        "id": "achievement-40",
+        "name": "Trying Anything Once",
+        "kind": "trophy",
+        "chapterId": "vehicles-and-stunts",
+        "where": "Drive all 104 vehicles."
+      },
+      {
+        "id": "achievement-41",
+        "name": "Road Trip",
+        "kind": "trophy",
+        "chapterId": "vehicles-and-stunts",
+        "where": "Travel 75 kilometers by land vehicle."
+      },
+      {
+        "id": "achievement-42",
+        "name": "Please Step Out of the Vehicle",
+        "kind": "trophy",
+        "chapterId": "vehicles-and-stunts",
+        "where": "Hijack 50 enemy vehicles."
+      },
+      {
+        "id": "achievement-43",
+        "name": "Stunt Driver",
+        "kind": "trophy",
+        "chapterId": "vehicles-and-stunts",
+        "where": "Get 100 stunt driver points."
+      },
+      {
+        "id": "achievement-44",
+        "name": "Halfway there",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Reach 50% completion in the normal mode or mercenary mode."
+      },
+      {
+        "id": "achievement-45",
+        "name": "Parachute Climber",
+        "kind": "trophy",
+        "chapterId": "vehicles-and-stunts",
+        "where": "Open the parachute and then land on foot 300 meters above the starting height."
+      },
+      {
+        "id": "achievement-46",
+        "name": "I Believe I Can Fly",
+        "kind": "trophy",
+        "chapterId": "vehicles-and-stunts",
+        "where": "Base jump 1000 meters."
+      },
+      {
+        "id": "achievement-47",
+        "name": "Bridge Limbo",
+        "kind": "trophy",
+        "chapterId": "vehicles-and-stunts",
+        "where": "Fly an airplane under 30 unique bridges in Panau."
+      },
+      {
+        "id": "achievement-48",
+        "name": "Low Flyer",
+        "kind": "trophy",
+        "chapterId": "vehicles-and-stunts",
+        "where": "Fly an airplane close to the ground for 30 seconds."
+      },
+      {
+        "id": "achievement-49",
+        "name": "Perfectionist",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Reach 75% completion in the normal mode or mercenary mode."
+      },
+      {
+        "id": "achievement-50",
+        "name": "Top of the World",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Stand on foot at the highest point of Panau."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/just-cause-2",
+    "Achievement data from Steam (Steam Web API, app 8190)",
+    "StrategyWiki: no usable walkthrough, nothing used — https://strategywiki.org/wiki/Just_Cause_2",
+    "Fandom (justcause.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://justcause.fandom.com/wiki/Just_Cause_2"
+  ],
+  "route": "original",
+  "notes": "Backlog game, picked from RAWG's most-added list for its year (docs/PLAN.md section 2 ordering). StrategyWiki has a page in the \"Guides at completion stage 2\" category, but the same page is also in \"Stubs\" and its walkthrough is not written: the only subpages are Achievements and trophies (about 8,700 characters), Agency Missions (about 5,500), Roaches (about 1,700), Controls (about 1,100), SAM sites (about 1,000), Reapers (about 800) and a short Table of Contents (about 550). Walkthrough, Gameplay, Cheats and Ular Boys are linked but not written. So it was not recorded in sw-structure.json and swUsed is off. justcause.fandom.com answers the API, with about 77 linked pages, including the seven story mission names, \"Stronghold\", \"Chaos\" and \"Downloadable content for Just Cause 2\"; names only were looked at, nothing copied. The Steam schema calls the app \"ValveTestApp8190\" (a placeholder name); the store list confirms app 8190. None of the 50 Steam achievements is hidden, so there are no spoiler-guarded entries. RAWG lists a playtime of only 3 hours, which looks low. \"Up to the Challenge 1\" and \"2\" (complete challenges) were put in Exploration; \"Halfway there\" and \"Perfectionist\" (completion percentage) too."
+}

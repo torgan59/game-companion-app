@@ -1,0 +1,474 @@
+{
+  "id": "biomutant",
+  "title": "Biomutant",
+  "year": 2021,
+  "platforms": [
+    "PlayStation 5",
+    "Xbox Series X|S",
+    "PC",
+    "Nintendo Switch",
+    "Xbox One",
+    "PlayStation 4"
+  ],
+  "rawgId": 45775,
+  "rawgSlug": "biomutant",
+  "released": "2021-05-25",
+  "developers": [
+    "Experiment 101"
+  ],
+  "playtime": 5,
+  "genres": [
+    "Action",
+    "RPG"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Full controller support",
+    "Steam Cloud",
+    "steam-trading-cards",
+    "RPG",
+    "Open World"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/363/363830e5f6459ca71eb43bea8c32f688.jpg",
+  "steamAppId": 597820,
+  "achievements": {
+    "total": 46,
+    "hidden": 0,
+    "examples": [
+      {
+        "name": "The Adventure Begins",
+        "percent": 78.0
+      },
+      {
+        "name": "In the Green",
+        "percent": 45.2
+      },
+      {
+        "name": "Rodeo",
+        "percent": 44.7
+      },
+      {
+        "name": "Flap-flap",
+        "percent": 2.4
+      },
+      {
+        "name": "Social",
+        "percent": 2.2
+      },
+      {
+        "name": "Bugologist",
+        "percent": 1.8
+      },
+      {
+        "name": "Quack",
+        "percent": 1.2
+      },
+      {
+        "name": "Angler",
+        "percent": 1.2
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": false,
+      "pages": 0,
+      "reason": "No page for Biomutant (MediaWiki API returned missing; search empty)"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 15,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://biomutant.fandom.com/wiki/Biomutant"
+    }
+  },
+  "game": {
+    "id": "biomutant",
+    "title": "Biomutant",
+    "platforms": [
+      "PlayStation 5",
+      "Xbox Series X|S",
+      "PC",
+      "Nintendo Switch",
+      "Xbox One",
+      "PlayStation 4"
+    ],
+    "blurb": "Open-world, post-apocalyptic kung fu fable RPG with Wushu combat, the World Eaters and rival Tribes, from Experiment 101, released 2021-05-25. RAWG average playtime: 5 hours. Genres: Action, RPG. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#6FA83A",
+    "chapters": [
+      {
+        "id": "story-and-world-eaters",
+        "title": "The Story and the World Eaters",
+        "summary": "Leaving Bunker 101 and facing the four World Eaters, the Puffs.",
+        "steps": []
+      },
+      {
+        "id": "tribes",
+        "title": "The Tribes",
+        "summary": "Rival Tribe Leaders, outposts, forts and tribe weapons.",
+        "steps": []
+      },
+      {
+        "id": "exploration",
+        "title": "Exploration and Encounters",
+        "summary": "Biomes, altars, Old World Gadgets, crash sites, manholes, side characters, Conscience dialogues and the end of a rainbow.",
+        "steps": []
+      },
+      {
+        "id": "creatures-and-rides",
+        "title": "Creatures, Mounts and Vehicles",
+        "summary": "Capturing critters, riding a Gnaut, and the Mekton and Googlide with their upgrades.",
+        "steps": []
+      },
+      {
+        "id": "character-and-crafting",
+        "title": "Character, Crafting and Gear",
+        "summary": "Class levels, attributes, DNA, proficiency skills, automaton upgrades, resources and 7-star weapons.",
+        "steps": []
+      },
+      {
+        "id": "combat",
+        "title": "Combat",
+        "summary": "Wushu, Ki-Spark, oil, Mucus Bubble, bandits and big hits.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "The Adventure Begins",
+        "kind": "trophy",
+        "chapterId": "story-and-world-eaters",
+        "where": "Escape Bunker 101"
+      },
+      {
+        "id": "achievement-2",
+        "name": "Twinkle Twinkle",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Discover a Twinkle Crashsite"
+      },
+      {
+        "id": "achievement-3",
+        "name": "Under the Table",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Win a Drinking Competition against Gulp"
+      },
+      {
+        "id": "achievement-4",
+        "name": "Wung-fu Master",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Defeat 50 Enemies using Super Wushu"
+      },
+      {
+        "id": "achievement-5",
+        "name": "Old World Gadgets",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Discover all 15 Old World Gadgets"
+      },
+      {
+        "id": "achievement-6",
+        "name": "Thugs",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Defeat 25 Bandits"
+      },
+      {
+        "id": "achievement-7",
+        "name": "Tar-up",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Drown 5 Enemies in Oil during Combat"
+      },
+      {
+        "id": "achievement-8",
+        "name": "Specialized",
+        "kind": "trophy",
+        "chapterId": "character-and-crafting",
+        "where": "Reach Level 25 with any Character Class"
+      },
+      {
+        "id": "achievement-9",
+        "name": "Kneel",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Discover all 30 Altars"
+      },
+      {
+        "id": "achievement-10",
+        "name": "Pew Pew!",
+        "kind": "trophy",
+        "chapterId": "character-and-crafting",
+        "where": "Unlock all Gun Proficiency Skills"
+      },
+      {
+        "id": "achievement-11",
+        "name": "Hack n' Slash",
+        "kind": "trophy",
+        "chapterId": "character-and-crafting",
+        "where": "Unlock all Melee Weapon Proficiency Skills"
+      },
+      {
+        "id": "achievement-12",
+        "name": "DNA Overload",
+        "kind": "trophy",
+        "chapterId": "character-and-crafting",
+        "where": "Re-code your DNA at a Cooling Tower Biopool"
+      },
+      {
+        "id": "achievement-13",
+        "name": "Max Gains",
+        "kind": "trophy",
+        "chapterId": "character-and-crafting",
+        "where": "Upgrade any 2 Attributes to 100"
+      },
+      {
+        "id": "achievement-14",
+        "name": "Electrified",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Defeat 20 Enemies using the Ki-Spark Ability"
+      },
+      {
+        "id": "achievement-15",
+        "name": "Stick it to Them",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Stick 25 enemies to the Mucus Bubble"
+      },
+      {
+        "id": "achievement-16",
+        "name": "Sproing!",
+        "kind": "trophy",
+        "chapterId": "creatures-and-rides",
+        "where": "Bounce 50 times on a Fungus"
+      },
+      {
+        "id": "achievement-17",
+        "name": "Nautica",
+        "kind": "trophy",
+        "chapterId": "creatures-and-rides",
+        "where": "Ride the Googlide across all Water Resistance Levels"
+      },
+      {
+        "id": "achievement-18",
+        "name": "Heavy Metal",
+        "kind": "trophy",
+        "chapterId": "creatures-and-rides",
+        "where": "Survive 5 minutes in the Mekton while in the Deadzone"
+      },
+      {
+        "id": "achievement-19",
+        "name": "Rodeo",
+        "kind": "trophy",
+        "chapterId": "creatures-and-rides",
+        "where": "Ride a Gnaut 500 meters"
+      },
+      {
+        "id": "achievement-20",
+        "name": "Toytinkerer",
+        "kind": "trophy",
+        "chapterId": "character-and-crafting",
+        "where": "Unlock all Automaton Upgrades"
+      },
+      {
+        "id": "achievement-21",
+        "name": "In the Green",
+        "kind": "trophy",
+        "chapterId": "character-and-crafting",
+        "where": "Possess more than 1000 Greenleaf"
+      },
+      {
+        "id": "achievement-22",
+        "name": "Elementary",
+        "kind": "trophy",
+        "chapterId": "character-and-crafting",
+        "where": "Obtain 10 of each Crafting Resource"
+      },
+      {
+        "id": "achievement-23",
+        "name": "Zoo-do",
+        "kind": "trophy",
+        "chapterId": "creatures-and-rides",
+        "where": "Capture 20 Sqvips"
+      },
+      {
+        "id": "achievement-24",
+        "name": "Quack",
+        "kind": "trophy",
+        "chapterId": "creatures-and-rides",
+        "where": "Capture 20 Gumducks"
+      },
+      {
+        "id": "achievement-25",
+        "name": "Bugologist",
+        "kind": "trophy",
+        "chapterId": "creatures-and-rides",
+        "where": "Capture 20 Glittermoths"
+      },
+      {
+        "id": "achievement-26",
+        "name": "Flap-flap",
+        "kind": "trophy",
+        "chapterId": "creatures-and-rides",
+        "where": "Capture 20 Pippis"
+      },
+      {
+        "id": "achievement-27",
+        "name": "Angler",
+        "kind": "trophy",
+        "chapterId": "creatures-and-rides",
+        "where": "Capture 20 Guppos"
+      },
+      {
+        "id": "achievement-28",
+        "name": "Bagman",
+        "kind": "trophy",
+        "chapterId": "character-and-crafting",
+        "where": "Buy an Item from Honki"
+      },
+      {
+        "id": "achievement-29",
+        "name": "Adventurer",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Discover all 7 Environment Biomes"
+      },
+      {
+        "id": "achievement-30",
+        "name": "Eye on the Road",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Discover and enter 3 Manholes"
+      },
+      {
+        "id": "achievement-31",
+        "name": "Paragon",
+        "kind": "trophy",
+        "chapterId": "story-and-world-eaters",
+        "where": "Defeat All four World Eaters"
+      },
+      {
+        "id": "achievement-32",
+        "name": "That's Mine!",
+        "kind": "trophy",
+        "chapterId": "story-and-world-eaters",
+        "where": "Detonate 3 Bangballs on the Porky Puff"
+      },
+      {
+        "id": "achievement-33",
+        "name": "Snack-time",
+        "kind": "trophy",
+        "chapterId": "story-and-world-eaters",
+        "where": "Feed the Jumbo Puff World Eater 6 Sqvips"
+      },
+      {
+        "id": "achievement-34",
+        "name": "Mariner",
+        "kind": "trophy",
+        "chapterId": "story-and-world-eaters",
+        "where": "Feed the Murk Puff 10 Guppos"
+      },
+      {
+        "id": "achievement-35",
+        "name": "Gumshow",
+        "kind": "trophy",
+        "chapterId": "story-and-world-eaters",
+        "where": "Pull all Teeth from the Hoof Puff"
+      },
+      {
+        "id": "achievement-36",
+        "name": "The Dragon",
+        "kind": "trophy",
+        "chapterId": "tribes",
+        "where": "Defeat or Subdue all five Rival Tribe Leaders"
+      },
+      {
+        "id": "achievement-37",
+        "name": "Conquest",
+        "kind": "trophy",
+        "chapterId": "tribes",
+        "where": "Take over 6 Tribe Outposts"
+      },
+      {
+        "id": "achievement-38",
+        "name": "Show-off",
+        "kind": "trophy",
+        "chapterId": "tribes",
+        "where": "Defeat Enemies using 3 Different Tribe Weapons"
+      },
+      {
+        "id": "achievement-39",
+        "name": "Conscious",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Complete all 20 Conscience Dialogues"
+      },
+      {
+        "id": "achievement-40",
+        "name": "Trek",
+        "kind": "trophy",
+        "chapterId": "tribes",
+        "where": "Discover all 6 Tribe Forts"
+      },
+      {
+        "id": "achievement-41",
+        "name": "Starstruck",
+        "kind": "trophy",
+        "chapterId": "character-and-crafting",
+        "where": "Craft a 7 Star Weapon"
+      },
+      {
+        "id": "achievement-42",
+        "name": "Hammertime",
+        "kind": "trophy",
+        "chapterId": "creatures-and-rides",
+        "where": "Find and Equip 5 Different Mekton Upgrades"
+      },
+      {
+        "id": "achievement-43",
+        "name": "Riding the wave",
+        "kind": "trophy",
+        "chapterId": "creatures-and-rides",
+        "where": "Find and Equip 5 Different Googlide Upgrades"
+      },
+      {
+        "id": "achievement-44",
+        "name": "Knockout!",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Deal more than 1000 Damage in a Single Hit"
+      },
+      {
+        "id": "achievement-45",
+        "name": "Social",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Discover all 16 Side Characters"
+      },
+      {
+        "id": "achievement-46",
+        "name": "End of the Rainbow",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Find out what’s at the End of a Rainbow"
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/biomutant",
+    "Achievement data from Steam (Steam Web API, app 597820)",
+    "StrategyWiki: no page for this game, nothing used",
+    "Fandom (biomutant.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://biomutant.fandom.com/wiki/Biomutant"
+  ],
+  "route": "original",
+  "notes": "Backlog game, picked from RAWG's most-added list for its year (docs/PLAN.md section 2 ordering). StrategyWiki has no page for this game (API returned missing for \"Biomutant\" and \"BIOMUTANT\"). biomutant.fandom.com answers the API, with about 15 linked pages, including \"Tribes\", \"Mutation\", \"Wushu\" and \"Tree-of-Life\"; names only were looked at, nothing copied. None of the 46 Steam achievements is hidden, so the story chapter holds only escaping Bunker 101 and the World Eater achievements. \"Under the Table\" (a drinking contest against Gulp) was placed in exploration and encounters, which is a judgement call. RAWG lists a playtime of only 5 hours, which looks low."
+}

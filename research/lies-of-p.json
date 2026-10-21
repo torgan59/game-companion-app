@@ -1,0 +1,528 @@
+{
+  "id": "lies-of-p",
+  "title": "Lies of P",
+  "year": 2023,
+  "platforms": [
+    "PlayStation 5",
+    "Xbox Series X|S",
+    "PlayStation 4",
+    "PC",
+    "macOS",
+    "Xbox One"
+  ],
+  "rawgId": 605674,
+  "rawgSlug": "lies-of-p",
+  "released": "2023-09-19",
+  "developers": [
+    "Round8 Studio"
+  ],
+  "playtime": 27,
+  "genres": [
+    "Action",
+    "RPG"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Full controller support",
+    "Atmospheric",
+    "RPG",
+    "Story Rich",
+    "Open World",
+    "Third Person",
+    "Exploration",
+    "Action RPG",
+    "Dark",
+    "Replay Value",
+    "3D"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/458/45838becd01e929b6be8b88d655cebfc.jpg",
+  "steamAppId": 1627720,
+  "achievements": {
+    "total": 53,
+    "hidden": 25,
+    "examples": [
+      {
+        "name": "Fatal Blow",
+        "percent": 96.0
+      },
+      {
+        "name": "Stargazer’s Guide",
+        "percent": 95.2
+      },
+      {
+        "name": "The Ultimate Defense Technique",
+        "percent": 81.6
+      },
+      {
+        "name": "The Story of One Father",
+        "percent": 11.9
+      },
+      {
+        "name": "Golden Melody",
+        "percent": 9.8
+      },
+      {
+        "name": "To Be Human",
+        "percent": 9.0
+      },
+      {
+        "name": "True Combat Gear Collector",
+        "percent": 8.9
+      },
+      {
+        "name": "Memory's Melody",
+        "percent": 5.9
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": false,
+      "pages": 0,
+      "reason": "No page for Lies of P (MediaWiki API returned missing; search empty)"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 96,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://lies-of-p.fandom.com/wiki/Lies_of_P"
+    }
+  },
+  "game": {
+    "id": "lies-of-p",
+    "title": "Lies of P",
+    "platforms": [
+      "PlayStation 5",
+      "Xbox Series X|S",
+      "PlayStation 4",
+      "PC",
+      "macOS",
+      "Xbox One"
+    ],
+    "blurb": "Soulslike action RPG inspired by Pinocchio, from Round8 Studio, released 2023-09-19. RAWG average playtime: 27 hours. Genres: Action, RPG. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#9C7A3C",
+    "chapters": [
+      {
+        "id": "main-story",
+        "title": "The Main Story and Bosses",
+        "summary": "The city of Krat, boss by boss, and the endings. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "weapons-and-upgrades",
+        "title": "Weapons, Legion Arms and the P-Organ",
+        "summary": "Collecting and upgrading weapons and Legion Arms, assembling weapons and the P-Organ.",
+        "steps": []
+      },
+      {
+        "id": "secrets-of-krat",
+        "title": "Secrets and Collectibles of Krat",
+        "summary": "Records, gestures, cryptic vessels, Trinity Sanctums, the piano and Stargazers.",
+        "steps": []
+      },
+      {
+        "id": "people-of-krat",
+        "title": "People of Krat",
+        "summary": "The last stories of the people you meet.",
+        "steps": []
+      },
+      {
+        "id": "combat-basics",
+        "title": "Combat Techniques",
+        "summary": "Perfect guards, Fatal Attacks and early foes.",
+        "steps": []
+      },
+      {
+        "id": "overture",
+        "title": "Overture: The Forgotten Time",
+        "summary": "The Overture expansion: its gear, records, gestures, cipher machines and P-Organ upgrades.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Real boy : They all lived happily ever after",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-2",
+        "name": "Free from the puppet string",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-3",
+        "name": "Rise of P",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-4",
+        "name": "The First Puppet",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-5",
+        "name": "Strongest Normal Weapon",
+        "kind": "trophy",
+        "chapterId": "weapons-and-upgrades",
+        "where": "Strengthen a normal weapon to its max level."
+      },
+      {
+        "id": "achievement-6",
+        "name": "Strongest Special Weapon",
+        "kind": "trophy",
+        "chapterId": "weapons-and-upgrades",
+        "where": "Strengthen a special weapon to its max level."
+      },
+      {
+        "id": "achievement-7",
+        "name": "Strongest Legion Arm",
+        "kind": "trophy",
+        "chapterId": "weapons-and-upgrades",
+        "where": "Modify a Legion Arm to its max level."
+      },
+      {
+        "id": "achievement-8",
+        "name": "Extreme Potential",
+        "kind": "trophy",
+        "chapterId": "weapons-and-upgrades",
+        "where": "Activate P-Organ to Phase 5."
+      },
+      {
+        "id": "achievement-9",
+        "name": "Pianist of Krat",
+        "kind": "trophy",
+        "chapterId": "secrets-of-krat",
+        "where": "Play a perfect tune on the piano at Hotel Krat."
+      },
+      {
+        "id": "achievement-10",
+        "name": "Legion Arm Collector",
+        "kind": "trophy",
+        "chapterId": "weapons-and-upgrades",
+        "where": "Collect all Legion Arms."
+      },
+      {
+        "id": "achievement-11",
+        "name": "Special Weapon Collector",
+        "kind": "trophy",
+        "chapterId": "weapons-and-upgrades",
+        "where": "Collect all special weapons."
+      },
+      {
+        "id": "achievement-12",
+        "name": "Normal Weapon Collector",
+        "kind": "trophy",
+        "chapterId": "weapons-and-upgrades",
+        "where": "Collect all normal weapons."
+      },
+      {
+        "id": "achievement-13",
+        "name": "Golden Melody",
+        "kind": "trophy",
+        "chapterId": "secrets-of-krat",
+        "where": "Collect and play all records."
+      },
+      {
+        "id": "achievement-14",
+        "name": "Learning about Emotions",
+        "kind": "trophy",
+        "chapterId": "secrets-of-krat",
+        "where": "Learn all gestures."
+      },
+      {
+        "id": "achievement-15",
+        "name": "Veteran Explorer",
+        "kind": "trophy",
+        "chapterId": "secrets-of-krat",
+        "where": "Decipher all cryptic vessels and claim the rewards."
+      },
+      {
+        "id": "achievement-16",
+        "name": "End of Riddles",
+        "kind": "trophy",
+        "chapterId": "secrets-of-krat",
+        "where": "Discover all Trinity Sanctums."
+      },
+      {
+        "id": "achievement-17",
+        "name": "First Lie",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-18",
+        "name": "Stargazer’s Guide",
+        "kind": "trophy",
+        "chapterId": "secrets-of-krat",
+        "where": "Repair a Stargazer."
+      },
+      {
+        "id": "achievement-19",
+        "name": "Exploring Possibilities",
+        "kind": "trophy",
+        "chapterId": "weapons-and-upgrades",
+        "where": "Try to assemble a weapon."
+      },
+      {
+        "id": "achievement-20",
+        "name": "The Ultimate Defense Technique",
+        "kind": "trophy",
+        "chapterId": "combat-basics",
+        "where": "Destroy an enemy’s weapon with a perfect guard."
+      },
+      {
+        "id": "achievement-21",
+        "name": "Fatal Blow",
+        "kind": "trophy",
+        "chapterId": "combat-basics",
+        "where": "Deliver a successful Fatal Attack."
+      },
+      {
+        "id": "achievement-22",
+        "name": "The Bastards and the Sweepers",
+        "kind": "trophy",
+        "chapterId": "combat-basics",
+        "where": "Kill a Stalker."
+      },
+      {
+        "id": "achievement-23",
+        "name": "Parade Master",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-24",
+        "name": "Scrapped Watchman",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-25",
+        "name": "King's Flame",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-26",
+        "name": "Fallen Archbishop",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-27",
+        "name": "The Delayed Match",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-28",
+        "name": "King of Puppets",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-29",
+        "name": "The Champion of Evolution",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-30",
+        "name": "Puppet-Devouring Green Monster",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-31",
+        "name": "Corrupted Parade Master",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-32",
+        "name": "Revenge of Black",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-33",
+        "name": "The Complete One",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-34",
+        "name": "The Awakened God",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-35",
+        "name": "Bear Gold Coin Fruit",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-36",
+        "name": "From Across the Rift",
+        "kind": "trophy",
+        "chapterId": "secrets-of-krat",
+        "where": "Kill all types of Dimensional Butterflies."
+      },
+      {
+        "id": "achievement-37",
+        "name": "The Story of the Prince",
+        "kind": "trophy",
+        "chapterId": "people-of-krat",
+        "where": "Find out about the last story of Venigni."
+      },
+      {
+        "id": "achievement-38",
+        "name": "The Story of the Refined Old Lady",
+        "kind": "trophy",
+        "chapterId": "people-of-krat",
+        "where": "Find out about the last story of Antonia."
+      },
+      {
+        "id": "achievement-39",
+        "name": "The Story of the One Who Dreamed",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-40",
+        "name": "The Story of One Father",
+        "kind": "trophy",
+        "chapterId": "people-of-krat",
+        "where": "Find out about the last story of Geppetto."
+      },
+      {
+        "id": "achievement-41",
+        "name": "The Story of a Stranger Girl",
+        "kind": "trophy",
+        "chapterId": "people-of-krat",
+        "where": "Find out about the last story of Eugénie."
+      },
+      {
+        "id": "achievement-42",
+        "name": "The Story of the Blue Butterfly",
+        "kind": "trophy",
+        "chapterId": "people-of-krat",
+        "where": "Find out about the last story of Sophia."
+      },
+      {
+        "id": "achievement-43",
+        "name": "The Rose's Memory",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-44",
+        "name": "Enduring Resolve",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-45",
+        "name": "True Combat Gear Collector",
+        "kind": "trophy",
+        "chapterId": "overture",
+        "where": "Collect all weapons and Legion Arms in the Forgotten Time."
+      },
+      {
+        "id": "achievement-46",
+        "name": "Beyond Limitless Potential",
+        "kind": "trophy",
+        "chapterId": "overture",
+        "where": "Further upgrade the abilities of the P-Organ."
+      },
+      {
+        "id": "achievement-47",
+        "name": "Memory's Melody",
+        "kind": "trophy",
+        "chapterId": "overture",
+        "where": "Collect and listen to all records from the Forgotten Time."
+      },
+      {
+        "id": "achievement-48",
+        "name": "To Be Human",
+        "kind": "trophy",
+        "chapterId": "overture",
+        "where": "Learn all gestures from the Forgotten Time."
+      },
+      {
+        "id": "achievement-49",
+        "name": "Tracker of Dark Secrets",
+        "kind": "trophy",
+        "chapterId": "overture",
+        "where": "Decrypt all clues hidden inside the cipher machines and claim the rewards."
+      },
+      {
+        "id": "achievement-50",
+        "name": "Puppeteer of Death",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-51",
+        "name": "Anguished Guardian",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-52",
+        "name": "The Blood Artist",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-53",
+        "name": "Honor and Revenge",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/lies-of-p",
+    "Achievement data from Steam (Steam Web API, app 1627720)",
+    "StrategyWiki: no page for this game, nothing used",
+    "Fandom (lies-of-p.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://lies-of-p.fandom.com/wiki/Lies_of_P"
+  ],
+  "route": "original",
+  "notes": "No StrategyWiki page under this title. lies-of-p.fandom.com answers the API, with about 96 linked pages; names only were looked at, nothing copied. 25 of 53 Steam achievements are hidden; most are named after bosses or endings and sit in the main story chapter. The 5 visible achievements about the Forgotten Time, its cipher machines and further P-Organ upgrades go to an Overture expansion chapter; about 6 hidden boss-style achievements with low unlock rates (around 15 to 19 percent, such as The Rose's Memory) may also belong to Overture but were left in the main story chapter and need checking."
+}

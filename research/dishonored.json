@@ -1,0 +1,725 @@
+{
+  "id": "dishonored",
+  "title": "Dishonored",
+  "year": 2012,
+  "platforms": [
+    "PlayStation 4",
+    "PlayStation 3",
+    "Xbox 360",
+    "PC",
+    "Xbox One"
+  ],
+  "rawgId": 4248,
+  "rawgSlug": "dishonored",
+  "released": "2012-09-25",
+  "developers": [
+    "Bethesda Softworks",
+    "Arkane Studios"
+  ],
+  "playtime": 9,
+  "genres": [
+    "Action",
+    "Adventure",
+    "RPG"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Full controller support",
+    "Steam Cloud",
+    "Atmospheric",
+    "RPG",
+    "Story Rich",
+    "Open World",
+    "First-Person",
+    "Sci-fi",
+    "FPS",
+    "Fantasy"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/4e6/4e6e8e7f50c237d76f38f3c885dae3d2.jpg",
+  "steamAppId": 205100,
+  "achievements": {
+    "total": 80,
+    "hidden": 17,
+    "examples": [
+      {
+        "name": "Dishonored",
+        "percent": 83.2
+      },
+      {
+        "name": "Excommunication",
+        "percent": 65.7
+      },
+      {
+        "name": "Occultist",
+        "percent": 55.6
+      },
+      {
+        "name": "By My Hand Alone",
+        "percent": 1.3
+      },
+      {
+        "name": "Headhunter",
+        "percent": 1.3
+      },
+      {
+        "name": "Daredevil",
+        "percent": 1.3
+      },
+      {
+        "name": "Time Management",
+        "percent": 1.3
+      },
+      {
+        "name": "Void Star",
+        "percent": 1.2
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Dishonored",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 61,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://dishonored.fandom.com/wiki/Dishonored"
+    }
+  },
+  "game": {
+    "id": "dishonored",
+    "title": "Dishonored",
+    "platforms": [
+      "PlayStation 4",
+      "PlayStation 3",
+      "Xbox 360",
+      "PC",
+      "Xbox One"
+    ],
+    "blurb": "Stealth action game in which Corvo Attano, the Empress' bodyguard, escapes prison to find her daughter Emily and clear his name, from Arkane Studios, released 2012-09-25. RAWG average playtime: 9 hours. Genres: Action, Adventure, RPG. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#6B4E2E",
+    "chapters": [
+      {
+        "id": "main-story",
+        "title": "The Main Story",
+        "summary": "Corvo escapes prison and works through his targets one mission at a time. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "stealth-and-mercy",
+        "title": "Stealth, Ghost and No-Kill Runs",
+        "summary": "Finishing missions unseen, killing few or no one, and playing without most powers.",
+        "steps": []
+      },
+      {
+        "id": "combat-and-powers",
+        "title": "Combat, Powers and Gadgets",
+        "summary": "Assassinations, drop kills, possession, Wall of Light and weapon kills.",
+        "steps": []
+      },
+      {
+        "id": "collectibles-and-upgrades",
+        "title": "Collectibles and Upgrades",
+        "summary": "Bone charms, Sokolov paintings, pickpocketing and equipment upgrades.",
+        "steps": []
+      },
+      {
+        "id": "dunwall-city-trials",
+        "title": "Dunwall City Trials (challenges)",
+        "summary": "The separate challenge maps: Back Alley Brawl, Train Runner, Burglar, Kill Cascade and more.",
+        "steps": []
+      },
+      {
+        "id": "knife-of-dunwall",
+        "title": "The Knife of Dunwall",
+        "summary": "The add-on story at the Rothwild Slaughterhouse and the Timsh estate, with its favours and chaos endings.",
+        "steps": []
+      },
+      {
+        "id": "brigmore-witches",
+        "title": "The Brigmore Witches",
+        "summary": "The follow-on add-on story: breaking someone out of Coldridge Prison, favours, chaos endings and a coin goal.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Thief",
+        "kind": "trophy",
+        "chapterId": "collectibles-and-upgrades",
+        "where": "Pickpocket items worth a total of 200 coins"
+      },
+      {
+        "id": "achievement-2",
+        "name": "Versatile",
+        "kind": "trophy",
+        "chapterId": "combat-and-powers",
+        "where": "Kill characters with each weapon and offensive gadget"
+      },
+      {
+        "id": "achievement-3",
+        "name": "Ghost",
+        "kind": "trophy",
+        "chapterId": "stealth-and-mercy",
+        "where": "Complete all missions after the prologue, alerting no one or killing no one but key targets"
+      },
+      {
+        "id": "achievement-4",
+        "name": "Shadow",
+        "kind": "trophy",
+        "chapterId": "stealth-and-mercy",
+        "where": "Complete all missions after the prologue without alerting anyone"
+      },
+      {
+        "id": "achievement-5",
+        "name": "Mostly Flesh and Steel",
+        "kind": "trophy",
+        "chapterId": "stealth-and-mercy",
+        "where": "Finish the game without purchasing any supernatural powers or enhancements, besides Blink"
+      },
+      {
+        "id": "achievement-6",
+        "name": "Wall of Sparks",
+        "kind": "trophy",
+        "chapterId": "combat-and-powers",
+        "where": "Kill an enemy using a Wall of Light"
+      },
+      {
+        "id": "achievement-7",
+        "name": "Rogue",
+        "kind": "trophy",
+        "chapterId": "combat-and-powers",
+        "where": "Assassinate 10 unaware enemies"
+      },
+      {
+        "id": "achievement-8",
+        "name": "Specter",
+        "kind": "trophy",
+        "chapterId": "stealth-and-mercy",
+        "where": "After escaping prison, complete a mission without alerting anyone, and kill less than 5 people"
+      },
+      {
+        "id": "achievement-9",
+        "name": "Faceless",
+        "kind": "trophy",
+        "chapterId": "stealth-and-mercy",
+        "where": "After escaping Coldridge Prison, complete a single mission without alerting anyone"
+      },
+      {
+        "id": "achievement-10",
+        "name": "Manipulator",
+        "kind": "trophy",
+        "chapterId": "combat-and-powers",
+        "where": "Make others kill 5 of their own allies"
+      },
+      {
+        "id": "achievement-11",
+        "name": "Razor Rain",
+        "kind": "trophy",
+        "chapterId": "combat-and-powers",
+        "where": "Kill 5 characters with Drop Assassination"
+      },
+      {
+        "id": "achievement-12",
+        "name": "Surgical",
+        "kind": "trophy",
+        "chapterId": "stealth-and-mercy",
+        "where": "Play from the first mission through Kaldwin's Bridge killing fewer than 10 characters"
+      },
+      {
+        "id": "achievement-13",
+        "name": "Clean Hands",
+        "kind": "trophy",
+        "chapterId": "stealth-and-mercy",
+        "where": "Complete the game without killing anyone"
+      },
+      {
+        "id": "achievement-14",
+        "name": "Harm's Way",
+        "kind": "trophy",
+        "chapterId": "combat-and-powers",
+        "where": "Cause 5 unintentional suicides"
+      },
+      {
+        "id": "achievement-15",
+        "name": "Inhabitant",
+        "kind": "trophy",
+        "chapterId": "combat-and-powers",
+        "where": "Stay in possession of others for most of a 3 minute period"
+      },
+      {
+        "id": "achievement-16",
+        "name": "Hornets' Nest",
+        "kind": "trophy",
+        "chapterId": "combat-and-powers",
+        "where": "Kill 4 enemies in less than 1 second using the crossbow"
+      },
+      {
+        "id": "achievement-17",
+        "name": "Speed of Darkness",
+        "kind": "trophy",
+        "chapterId": "combat-and-powers",
+        "where": "Travel 30 meters in less than 1 second"
+      },
+      {
+        "id": "achievement-18",
+        "name": "Tempest",
+        "kind": "trophy",
+        "chapterId": "combat-and-powers",
+        "where": "Kill 6 enemies in less than 1 second"
+      },
+      {
+        "id": "achievement-19",
+        "name": "Merchant of Disorder",
+        "kind": "trophy",
+        "chapterId": "collectibles-and-upgrades",
+        "where": "Acquire 15 equipment upgrades"
+      },
+      {
+        "id": "achievement-20",
+        "name": "Art Dealer",
+        "kind": "trophy",
+        "chapterId": "collectibles-and-upgrades",
+        "where": "Collect all the Sokolov paintings"
+      },
+      {
+        "id": "achievement-21",
+        "name": "Occultist",
+        "kind": "trophy",
+        "chapterId": "collectibles-and-upgrades",
+        "where": "Collect 10 bone charms"
+      },
+      {
+        "id": "achievement-22",
+        "name": "The Escapist",
+        "kind": "trophy",
+        "chapterId": "stealth-and-mercy",
+        "where": "After Coldridge Prison, elude 5 pursuers at once without killing them or leaving the map"
+      },
+      {
+        "id": "achievement-23",
+        "name": "Cleaner",
+        "kind": "trophy",
+        "chapterId": "combat-and-powers",
+        "where": "Fight with 5 enemies at once, without any of them surviving"
+      },
+      {
+        "id": "achievement-24",
+        "name": "Dishonored",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Complete the Intro missions"
+      },
+      {
+        "id": "achievement-25",
+        "name": "Excommunication",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Eliminate High Overseer Campbell"
+      },
+      {
+        "id": "achievement-26",
+        "name": "Child Care",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Find Emily Kaldwin"
+      },
+      {
+        "id": "achievement-27",
+        "name": "Capturing Genius and Madness",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Complete the Bridge mission"
+      },
+      {
+        "id": "achievement-28",
+        "name": "Regicide",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Assassinate the Lord Regent, Hiram Burrows"
+      },
+      {
+        "id": "achievement-29",
+        "name": "Political Suicide",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Expose the Lord Regent's crimes and bring about his arrest"
+      },
+      {
+        "id": "achievement-30",
+        "name": "This Is Mine",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Recover your belongings"
+      },
+      {
+        "id": "achievement-31",
+        "name": "Resolution",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Complete the game"
+      },
+      {
+        "id": "achievement-32",
+        "name": "Dunwall in Chaos",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-33",
+        "name": "Just Dark Enough",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-34",
+        "name": "Vanished",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-35",
+        "name": "Gentleman Caller",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-36",
+        "name": "Street Conspiracy",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-37",
+        "name": "The Art of the Steal",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-38",
+        "name": "An Unfortunate Accident",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-39",
+        "name": "Well Mannered",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-40",
+        "name": "King of the World",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-41",
+        "name": "Bodyguard",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-42",
+        "name": "Mercy is the Mark",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-43",
+        "name": "Lights Out",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-44",
+        "name": "Long Live the Empress",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-45",
+        "name": "Poetic Justice",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-46",
+        "name": "Food Chain",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-47",
+        "name": "Alive Without Breath",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-48",
+        "name": "Creepy Crawly",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-49",
+        "name": "Back Home",
+        "kind": "trophy",
+        "chapterId": "combat-and-powers",
+        "where": "Grab a live grenade and use it to kill an attacker"
+      },
+      {
+        "id": "achievement-50",
+        "name": "Big Boy",
+        "kind": "trophy",
+        "chapterId": "combat-and-powers",
+        "where": "Kill a tallboy with only your sword"
+      },
+      {
+        "id": "achievement-51",
+        "name": "Mrs Pilsen's Remorse",
+        "kind": "trophy",
+        "chapterId": "dunwall-city-trials",
+        "where": "Find Emily's doll hidden in each of the 10 challenges"
+      },
+      {
+        "id": "achievement-52",
+        "name": "Void Star",
+        "kind": "trophy",
+        "chapterId": "dunwall-city-trials",
+        "where": "Complete all Normal and Expert challenges with a 3-Stars rating"
+      },
+      {
+        "id": "achievement-53",
+        "name": "By My Hand Alone",
+        "kind": "trophy",
+        "chapterId": "dunwall-city-trials",
+        "where": "Get to Wave 13 in Back Alley Brawl killing all combatants personally"
+      },
+      {
+        "id": "achievement-54",
+        "name": "Assassin Vs. Machine",
+        "kind": "trophy",
+        "chapterId": "dunwall-city-trials",
+        "where": "Complete Train Runner before the train arrives at the station"
+      },
+      {
+        "id": "achievement-55",
+        "name": "Rare Collector",
+        "kind": "trophy",
+        "chapterId": "dunwall-city-trials",
+        "where": "Find all of the collectable figurines in Burglar on Expert"
+      },
+      {
+        "id": "achievement-56",
+        "name": "Long Way Down",
+        "kind": "trophy",
+        "chapterId": "dunwall-city-trials",
+        "where": "Perform a drop assassination of at least 150 meters in the Kill Cascade challenge"
+      },
+      {
+        "id": "achievement-57",
+        "name": "Headhunter",
+        "kind": "trophy",
+        "chapterId": "dunwall-city-trials",
+        "where": "Complete Assassin's Run with 100% accuracy using only head shots"
+      },
+      {
+        "id": "achievement-58",
+        "name": "Daredevil",
+        "kind": "trophy",
+        "chapterId": "dunwall-city-trials",
+        "where": "In Bonfires, perform all the special combination jumps in 1 round"
+      },
+      {
+        "id": "achievement-59",
+        "name": "Natural Talent",
+        "kind": "trophy",
+        "chapterId": "dunwall-city-trials",
+        "where": "Finish Mystery Foe without using any active supernatural powers"
+      },
+      {
+        "id": "achievement-60",
+        "name": "Time Management",
+        "kind": "trophy",
+        "chapterId": "dunwall-city-trials",
+        "where": "Finish Chain Kill or Bend Time Massacre without failing any wave, including bonuses"
+      },
+      {
+        "id": "achievement-61",
+        "name": "Just Business",
+        "kind": "trophy",
+        "chapterId": "knife-of-dunwall",
+        "where": "Get the information you need from the Rothwild Slaughterhouse"
+      },
+      {
+        "id": "achievement-62",
+        "name": "Missing Pieces",
+        "kind": "trophy",
+        "chapterId": "knife-of-dunwall",
+        "where": "Meet with Thalia Timsh, the Barrister's Niece"
+      },
+      {
+        "id": "achievement-63",
+        "name": "Well Connected",
+        "kind": "trophy",
+        "chapterId": "knife-of-dunwall",
+        "where": "Purchase all of the Favors in The Knife of Dunwall"
+      },
+      {
+        "id": "achievement-64",
+        "name": "No Regrets",
+        "kind": "trophy",
+        "chapterId": "knife-of-dunwall",
+        "where": "Complete The Knife of Dunwall in High Chaos"
+      },
+      {
+        "id": "achievement-65",
+        "name": "Redemptive Path",
+        "kind": "trophy",
+        "chapterId": "knife-of-dunwall",
+        "where": "Complete The Knife of Dunwall in Low Chaos"
+      },
+      {
+        "id": "achievement-66",
+        "name": "Whisper Ways",
+        "kind": "trophy",
+        "chapterId": "knife-of-dunwall",
+        "where": "Complete The Knife of Dunwall without alerting anyone"
+      },
+      {
+        "id": "achievement-67",
+        "name": "Cleaner Hands",
+        "kind": "trophy",
+        "chapterId": "knife-of-dunwall",
+        "where": "Complete The Knife of Dunwall without killing anyone"
+      },
+      {
+        "id": "achievement-68",
+        "name": "Rats and Ashes",
+        "kind": "trophy",
+        "chapterId": "knife-of-dunwall",
+        "where": "Attach an arc mine to a rat, resulting in a kill"
+      },
+      {
+        "id": "achievement-69",
+        "name": "Message from the Empress",
+        "kind": "trophy",
+        "chapterId": "knife-of-dunwall",
+        "where": "Perform a drop assassination from atop the Empress statue in The Knife of Dunwall"
+      },
+      {
+        "id": "achievement-70",
+        "name": "Stone Cold Heart",
+        "kind": "trophy",
+        "chapterId": "knife-of-dunwall",
+        "where": "Speak with the statue of Delilah Copperspoon in Timsh's estate"
+      },
+      {
+        "id": "achievement-71",
+        "name": "Parting Shot",
+        "kind": "trophy",
+        "chapterId": "brigmore-witches",
+        "where": "Deliver (or attempt) the killing blow on Corvo"
+      },
+      {
+        "id": "achievement-72",
+        "name": "Breakout",
+        "kind": "trophy",
+        "chapterId": "brigmore-witches",
+        "where": "Break Lizzy Stride out of Coldridge Prison"
+      },
+      {
+        "id": "achievement-73",
+        "name": "Gangs of Dunwall",
+        "kind": "trophy",
+        "chapterId": "brigmore-witches",
+        "where": "Restore the Undine to working condition"
+      },
+      {
+        "id": "achievement-74",
+        "name": "Deal Maker",
+        "kind": "trophy",
+        "chapterId": "brigmore-witches",
+        "where": "Purchase at least 8 favors in The Brigmore Witches"
+      },
+      {
+        "id": "achievement-75",
+        "name": "All Come To Ruin",
+        "kind": "trophy",
+        "chapterId": "brigmore-witches",
+        "where": "Complete The Brigmore Witches in High Chaos"
+      },
+      {
+        "id": "achievement-76",
+        "name": "Changed Ways",
+        "kind": "trophy",
+        "chapterId": "brigmore-witches",
+        "where": "Complete The Brigmore Witches in Low Chaos"
+      },
+      {
+        "id": "achievement-77",
+        "name": "Silence is Golden",
+        "kind": "trophy",
+        "chapterId": "brigmore-witches",
+        "where": "Complete The Brigmore Witches without alerting anyone"
+      },
+      {
+        "id": "achievement-78",
+        "name": "Cleanest Hands",
+        "kind": "trophy",
+        "chapterId": "brigmore-witches",
+        "where": "Complete The Brigmore Witches without killing anyone"
+      },
+      {
+        "id": "achievement-79",
+        "name": "Enough Coin to Disappear",
+        "kind": "trophy",
+        "chapterId": "brigmore-witches",
+        "where": "Survive The Brigmore Witches in low chaos with 10,000 coins"
+      },
+      {
+        "id": "achievement-80",
+        "name": "Wall of Flesh",
+        "kind": "trophy",
+        "chapterId": "combat-and-powers",
+        "where": "Use an enemy lifted with Pull as a shield"
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/dishonored",
+    "Achievement data from Steam (Steam Web API, app 205100)",
+    "StrategyWiki: no usable walkthrough, nothing used — https://strategywiki.org/wiki/Dishonored",
+    "Fandom (dishonored.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://dishonored.fandom.com/wiki/Dishonored"
+  ],
+  "route": "original",
+  "notes": "Backlog game, picked from RAWG's most-added list for its year (docs/PLAN.md section 2 ordering). StrategyWiki has a stub page (completion stage 0, in Category:Stubs). Its Walkthrough and ten mission pages (for example \"High Overseer Campbell\" and \"The Flooded District\") are linked but not written; only \"Achievements and trophies\" and \"Table of Contents\" subpages exist. dishonored.fandom.com answers the API, with about 61 linked pages, including \"The Knife of Dunwall\", \"The Brigmore Witches\" and \"Dunwall City Trials\"; names only were looked at, nothing copied. Steam has two apps named \"Dishonored\" (205100 and 217980), both with the same 80 achievements; 205100 was used, as the first store match. Its schema gives no game name, so whether it is sold as the Definitive Edition was not confirmed. 17 of 80 Steam achievements are hidden; they sit in the main story chapter as a placeholder. The add-on chapters are placed by the add-on names in the achievement text. \"Parting Shot\", \"Breakout\" and \"Gangs of Dunwall\" (71 to 73) name no add-on; they sit between the two add-on blocks and were put in The Brigmore Witches by position, which needs checking. \"Back Home\", \"Big Boy\" and \"Wall of Flesh\" name no mode and sit in combat."
+}

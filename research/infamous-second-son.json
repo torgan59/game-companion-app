@@ -1,0 +1,104 @@
+{
+  "id": "infamous-second-son",
+  "title": "inFAMOUS Second Son",
+  "year": 2014,
+  "platforms": [
+    "PlayStation 4"
+  ],
+  "rawgId": 3631,
+  "rawgSlug": "infamous-second-son",
+  "released": "2014-03-21",
+  "developers": [
+    "Sucker Punch Productions"
+  ],
+  "playtime": null,
+  "genres": [
+    "Action"
+  ],
+  "tags": [
+    "exclusive",
+    "true exclusive"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/be2/be239d5eb4d0bf02bf722aff51e694ad.jpg",
+  "steamAppId": null,
+  "achievements": {
+    "total": 0,
+    "examples": [],
+    "reason": "PlayStation 4 only: no Steam list. PlayStation trophies are not in our data sources. StrategyWiki has a written Trophy Guide subpage, but the guide is at completion stage 0, so nothing was used."
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/InFAMOUS_Second_Son",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 91,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://infamous.fandom.com/wiki/Infamous:_Second_Son"
+    }
+  },
+  "game": {
+    "id": "infamous-second-son",
+    "title": "inFAMOUS Second Son",
+    "platforms": [
+      "PlayStation 4"
+    ],
+    "blurb": "Open-world superpower action game set in Seattle, from Sucker Punch Productions, released 2014-03-21 on PlayStation 4. RAWG has no playtime yet. Genre: Action. Chapters follow the mission list on StrategyWiki's contents page (names only), grouped into a few parts.",
+    "accent": "#B23A2E",
+    "chapters": [
+      {
+        "id": "opening",
+        "title": "The Opening Missions",
+        "summary": "The first missions, from \"Introduction\" to \"Parting of the Ways\". Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "seattle",
+        "title": "Arriving in Seattle",
+        "summary": "From \"Welcome to Seattle\" to \"Chasing the Light\": settling into the city and gaining new powers.",
+        "steps": []
+      },
+      {
+        "id": "district-work",
+        "title": "Taking Back the Districts",
+        "summary": "Missions such as \"Go Fetch\", \"Light It Up\", \"Trash the Stash\" and \"Fight Intolerants\", alongside clearing districts.",
+        "steps": []
+      },
+      {
+        "id": "middle-missions",
+        "title": "The Middle Missions",
+        "summary": "From \"The Test\" to \"Flight of Angels\". Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "final-missions",
+        "title": "The Final Missions",
+        "summary": "From \"Hunting the Hunters\" to the last mission. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "karma-and-powers",
+        "title": "Karma and Powers",
+        "summary": "Good and evil karma choices, karmic moments and the powers you unlock.",
+        "steps": []
+      }
+    ],
+    "collectibles": []
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/infamous-second-son",
+    "Steam: no achievement list available for this game (see notes)",
+    "StrategyWiki: mission and page names used to group chapters, CC BY-SA 4.0; no text copied — https://strategywiki.org/wiki/InFAMOUS_Second_Son",
+    "Fandom (infamous.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://infamous.fandom.com/wiki/Infamous:_Second_Son"
+  ],
+  "route": "original",
+  "notes": "Backlog game, picked from RAWG's most-added list for its year (docs/PLAN.md section 2 ordering). StrategyWiki has the guide under \"InFAMOUS Second Son\" at completion stage 0. Its Table of Contents lists 23 walkthrough missions (from \"Introduction\" to \"Expose/Kill Augustine\"), but none of those mission pages is written; only Controls, Powers, The Karma System, Trophy Guide and the Table of Contents exist. Chapter boundaries group those mission names and are a guess; mission names only, no text copied. infamous.fandom.com has no page under \"inFAMOUS Second Son\" but answers under \"Infamous: Second Son\" (found with the API's search), with about 91 linked pages, including \"Side Missions in inFamous: Second Son\" and \"Infamous: Second Son/Trophies\"; names only were looked at, nothing copied. No Steam app (steam=None), so there is no achievement list."
+}

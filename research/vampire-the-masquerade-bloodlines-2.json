@@ -1,0 +1,875 @@
+{
+  "id": "vampire-the-masquerade-bloodlines-2",
+  "title": "Vampire: The Masquerade – Bloodlines 2",
+  "year": 2025,
+  "platforms": [
+    "PC",
+    "PlayStation 5",
+    "Xbox Series X|S",
+    "Xbox One",
+    "PlayStation 4"
+  ],
+  "rawgId": 303576,
+  "rawgSlug": "vampire-the-masquerade-bloodlines-2",
+  "released": "2025-10-21",
+  "developers": [
+    "Hardsuit Labs"
+  ],
+  "playtime": 329,
+  "genres": [
+    "Action",
+    "RPG"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Full controller support",
+    "Atmospheric",
+    "Great Soundtrack",
+    "RPG",
+    "Story Rich",
+    "Open World",
+    "First-Person",
+    "Horror",
+    "Gore",
+    "Violent"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/fb5/fb5e0fdb1f6bb0e8b5da5d08bb83a5fc.jpg",
+  "steamAppId": 532790,
+  "achievements": {
+    "total": 102,
+    "hidden": 31,
+    "examples": [
+      {
+        "name": "Elder Reader",
+        "percent": 92.6
+      },
+      {
+        "name": "Visionary Detective",
+        "percent": 73.0
+      },
+      {
+        "name": "Breach Contained",
+        "percent": 68.0
+      },
+      {
+        "name": "Good Publicity",
+        "percent": 0.3
+      },
+      {
+        "name": "Too Hot to Handle",
+        "percent": 0.2
+      },
+      {
+        "name": "Glorious Diva",
+        "percent": 0.2
+      },
+      {
+        "name": "Absolute Beast",
+        "percent": 0.1
+      },
+      {
+        "name": "Perfect Predator",
+        "percent": 0.1
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": false,
+      "pages": 0,
+      "reason": "No page for Vampire: The Masquerade – Bloodlines 2 (MediaWiki API returned missing; search empty)"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 119,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://whitewolf.fandom.com/wiki/Vampire:_The_Masquerade_-_Bloodlines_2"
+    }
+  },
+  "game": {
+    "id": "vampire-the-masquerade-bloodlines-2",
+    "title": "Vampire: The Masquerade – Bloodlines 2",
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "Xbox Series X|S",
+      "Xbox One",
+      "PlayStation 4"
+    ],
+    "blurb": "Story-driven action role-playing game in which an elder vampire wakes in Seattle, from Hardsuit Labs (as RAWG lists it), released 2025-10-21. RAWG average playtime: 329 hours (very likely a RAWG data error). Genres: Action, RPG. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#8B1A1A",
+    "chapters": [
+      {
+        "id": "main-story",
+        "title": "The Main Story",
+        "summary": "Phyre's story in Seattle and its endings. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "clan-endings",
+        "title": "Clan Playthroughs",
+        "summary": "Finishing the game as an elder of each clan.",
+        "steps": []
+      },
+      {
+        "id": "feeding-and-masquerade",
+        "title": "Feeding and the Masquerade",
+        "summary": "Feeding on every Blood Resonance, drinking from vampires, and keeping the Masquerade.",
+        "steps": []
+      },
+      {
+        "id": "exploration-and-collectibles",
+        "title": "Seattle, Collectibles and Exploration",
+        "summary": "Anarch tags, surveillance cameras, Crosses of Saint James, Codex entries, outfits, gliding and the Underground Tour.",
+        "steps": []
+      },
+      {
+        "id": "combat-and-disciplines",
+        "title": "Combat, Abilities and Stealth",
+        "summary": "Clan abilities and perks, combos, stealth kills and elixirs.",
+        "steps": []
+      },
+      {
+        "id": "loose-cannon",
+        "title": "Loose Cannon",
+        "summary": "The add-on story played as Benny, with its difficulty goals and Seattle-wide tasks.",
+        "steps": []
+      },
+      {
+        "id": "flower-and-flame",
+        "title": "The Flower & The Flame",
+        "summary": "The add-on story with its own play styles and difficulty goal.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Master of the Bladed Hand",
+        "kind": "trophy",
+        "chapterId": "combat-and-disciplines",
+        "where": "During Split Second simultaneously hit 4 or more enemies with Bladed Hand."
+      },
+      {
+        "id": "achievement-2",
+        "name": "Catch!",
+        "kind": "trophy",
+        "chapterId": "combat-and-disciplines",
+        "where": "Destroy an enemy with their own grenade or explosive projectile."
+      },
+      {
+        "id": "achievement-3",
+        "name": "Bowled Over",
+        "kind": "trophy",
+        "chapterId": "combat-and-disciplines",
+        "where": "Knock down 5 enemies in a single Brujah Charge."
+      },
+      {
+        "id": "achievement-4",
+        "name": "Silent But Violent",
+        "kind": "trophy",
+        "chapterId": "combat-and-disciplines",
+        "where": "Blow up an enemy that has Blood Curse and Mute active on them."
+      },
+      {
+        "id": "achievement-5",
+        "name": "Angry Mob",
+        "kind": "trophy",
+        "chapterId": "combat-and-disciplines",
+        "where": "Use Mass Manipulation to Taunt 5 enemies at once."
+      },
+      {
+        "id": "achievement-6",
+        "name": "Clean Up the Streets",
+        "kind": "trophy",
+        "chapterId": "exploration-and-collectibles",
+        "where": "As Phyre, collect every Anarch tag."
+      },
+      {
+        "id": "achievement-7",
+        "name": "Cutting the Feed",
+        "kind": "trophy",
+        "chapterId": "exploration-and-collectibles",
+        "where": "As Phyre, disable every I.A.O. surveillance camera."
+      },
+      {
+        "id": "achievement-8",
+        "name": "Crucifixation",
+        "kind": "trophy",
+        "chapterId": "exploration-and-collectibles",
+        "where": "As Phyre, collect every Cross of Saint James."
+      },
+      {
+        "id": "achievement-9",
+        "name": "Wings of the Night",
+        "kind": "trophy",
+        "chapterId": "exploration-and-collectibles",
+        "where": "Travel 75 meters in a single glide."
+      },
+      {
+        "id": "achievement-10",
+        "name": "Blood Betrothal",
+        "kind": "trophy",
+        "chapterId": "feeding-and-masquerade",
+        "where": "Drink blood directly from a willing vampire's vein."
+      },
+      {
+        "id": "achievement-11",
+        "name": "A Full-blooded Elder",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Unlock all achievements in the main game."
+      },
+      {
+        "id": "achievement-12",
+        "name": "An Elder Unchained",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Complete the game."
+      },
+      {
+        "id": "achievement-13",
+        "name": "The Silence of the Blood",
+        "kind": "trophy",
+        "chapterId": "clan-endings",
+        "where": "Complete the game as an elder of the Banu Haqim."
+      },
+      {
+        "id": "achievement-14",
+        "name": "A Lesson from the Rabble",
+        "kind": "trophy",
+        "chapterId": "clan-endings",
+        "where": "Complete the game as an elder of the Brujah."
+      },
+      {
+        "id": "achievement-15",
+        "name": "The Warlock Ascendant",
+        "kind": "trophy",
+        "chapterId": "clan-endings",
+        "where": "Complete the game as an elder of the Tremere."
+      },
+      {
+        "id": "achievement-16",
+        "name": "A Noble Legacy",
+        "kind": "trophy",
+        "chapterId": "clan-endings",
+        "where": "Complete the game as an elder of the Ventrue."
+      },
+      {
+        "id": "achievement-17",
+        "name": "An Elder's Strength",
+        "kind": "trophy",
+        "chapterId": "combat-and-disciplines",
+        "where": "Break 20 enemy blocks with heavy attacks."
+      },
+      {
+        "id": "achievement-18",
+        "name": "An Elder's Speed",
+        "kind": "trophy",
+        "chapterId": "combat-and-disciplines",
+        "where": "Counter 30 enemy attacks by dashing towards them."
+      },
+      {
+        "id": "achievement-19",
+        "name": "I Do Not Drink... Wine",
+        "kind": "trophy",
+        "chapterId": "feeding-and-masquerade",
+        "where": "Feed on citizens of every type of Blood Resonance."
+      },
+      {
+        "id": "achievement-20",
+        "name": "Kiss and Kill",
+        "kind": "trophy",
+        "chapterId": "feeding-and-masquerade",
+        "where": "Pull enemies to you with Telekinesis and feed on them 30 times."
+      },
+      {
+        "id": "achievement-21",
+        "name": "A Fresh Vintage",
+        "kind": "trophy",
+        "chapterId": "combat-and-disciplines",
+        "where": "Use an ability gained from a Clan Contact."
+      },
+      {
+        "id": "achievement-22",
+        "name": "Bottle It Up",
+        "kind": "trophy",
+        "chapterId": "combat-and-disciplines",
+        "where": "Use all 4 types of alchemical Elixir."
+      },
+      {
+        "id": "achievement-23",
+        "name": "By Royal Decree",
+        "kind": "trophy",
+        "chapterId": "combat-and-disciplines",
+        "where": "Combine Mass Manipulation and Terminal Decree to eliminate at least 6 enemies at once."
+      },
+      {
+        "id": "achievement-24",
+        "name": "I Curse You All!",
+        "kind": "trophy",
+        "chapterId": "combat-and-disciplines",
+        "where": "Combine Blood Curse and Blood Salvo to eliminate at least 4 enemies at once."
+      },
+      {
+        "id": "achievement-25",
+        "name": "Termination Without Notice",
+        "kind": "trophy",
+        "chapterId": "combat-and-disciplines",
+        "where": "Eliminate an enemy while Possessing them."
+      },
+      {
+        "id": "achievement-26",
+        "name": "Total Recall",
+        "kind": "trophy",
+        "chapterId": "combat-and-disciplines",
+        "where": "Eliminate an enemy by teleporting into them with Recall."
+      },
+      {
+        "id": "achievement-27",
+        "name": "Chain Lightning",
+        "kind": "trophy",
+        "chapterId": "combat-and-disciplines",
+        "where": "Eliminate 5 enemies with a single use of Lightning Strikes."
+      },
+      {
+        "id": "achievement-28",
+        "name": "An Unseen Judgement",
+        "kind": "trophy",
+        "chapterId": "combat-and-disciplines",
+        "where": "Eliminate 7 enemies with a single use of Unseen Aura."
+      },
+      {
+        "id": "achievement-29",
+        "name": "Return to Sender",
+        "kind": "trophy",
+        "chapterId": "combat-and-disciplines",
+        "where": "Destroy a vampire with their own gun."
+      },
+      {
+        "id": "achievement-30",
+        "name": "Elder Reader",
+        "kind": "trophy",
+        "chapterId": "exploration-and-collectibles",
+        "where": "As Phyre, collect 5 Codex entries."
+      },
+      {
+        "id": "achievement-31",
+        "name": "Elder Bookworm",
+        "kind": "trophy",
+        "chapterId": "exploration-and-collectibles",
+        "where": "As Phyre, collect 25 Codex entries."
+      },
+      {
+        "id": "achievement-32",
+        "name": "Elder Bibliomaniac",
+        "kind": "trophy",
+        "chapterId": "exploration-and-collectibles",
+        "where": "As Phyre, collect 50 Codex entries."
+      },
+      {
+        "id": "achievement-33",
+        "name": "A City in Flames",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-34",
+        "name": "A City of Anarchy",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-35",
+        "name": "A City Most Fabulous",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-36",
+        "name": "A City Restored",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-37",
+        "name": "A City Unchained",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-38",
+        "name": "The Blood is Strong",
+        "kind": "trophy",
+        "chapterId": "combat-and-disciplines",
+        "where": "Unlock and equip all Abilities and Perks for your Clan."
+      },
+      {
+        "id": "achievement-39",
+        "name": "Fashionista",
+        "kind": "trophy",
+        "chapterId": "exploration-and-collectibles",
+        "where": "In a single playthrough, wear 12 unique outfits - not including the default rags outfit."
+      },
+      {
+        "id": "achievement-40",
+        "name": "Welcome to Seattle",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-41",
+        "name": "Silent Death",
+        "kind": "trophy",
+        "chapterId": "combat-and-disciplines",
+        "where": "Eliminate 50 enemies without alerting them."
+      },
+      {
+        "id": "achievement-42",
+        "name": "From the Shadows",
+        "kind": "trophy",
+        "chapterId": "combat-and-disciplines",
+        "where": "Eliminate 7 enemies in a row without getting detected."
+      },
+      {
+        "id": "achievement-43",
+        "name": "What Sup?",
+        "kind": "trophy",
+        "chapterId": "feeding-and-masquerade",
+        "where": "Feed on 30 citizens with no witnesses."
+      },
+      {
+        "id": "achievement-44",
+        "name": "Breach Contained",
+        "kind": "trophy",
+        "chapterId": "feeding-and-masquerade",
+        "where": "Recover from a Masquerade breach."
+      },
+      {
+        "id": "achievement-45",
+        "name": "Frequent Flyer",
+        "kind": "trophy",
+        "chapterId": "exploration-and-collectibles",
+        "where": "Glide a total distance of 1000 meters."
+      },
+      {
+        "id": "achievement-46",
+        "name": "The Justice of the Mob",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-47",
+        "name": "The Justice of the Prince",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-48",
+        "name": "A Willing Victim",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-49",
+        "name": "A Dire Warning",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-50",
+        "name": "The Embrace",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-51",
+        "name": "That's the Spirit",
+        "kind": "trophy",
+        "chapterId": "exploration-and-collectibles",
+        "where": "In a single playthrough, complete every Spirit's Touch conversation."
+      },
+      {
+        "id": "achievement-52",
+        "name": "The Blade of Mercy",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-53",
+        "name": "A City of Kinship",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-54",
+        "name": "A Diva Defeated",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-55",
+        "name": "The Burning of the Books",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-56",
+        "name": "Spoiling the Fruit",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-57",
+        "name": "Unmasking an Anarchist",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-58",
+        "name": "Artistic Merit",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-59",
+        "name": "What's in the Box?",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-60",
+        "name": "Keys to the City",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-61",
+        "name": "Lucid Dreaming",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-62",
+        "name": "History Buff",
+        "kind": "trophy",
+        "chapterId": "exploration-and-collectibles",
+        "where": "Trigger every audio exhibit at the Seattle Underground Tour."
+      },
+      {
+        "id": "achievement-63",
+        "name": "Visionary Detective",
+        "kind": "trophy",
+        "chapterId": "combat-and-disciplines",
+        "where": "Use every Malkavian ability successfully."
+      },
+      {
+        "id": "achievement-64",
+        "name": "A Nice Cool Drink",
+        "kind": "trophy",
+        "chapterId": "feeding-and-masquerade",
+        "where": "Feed on all humans with Phlegmatic Blood Resonance."
+      },
+      {
+        "id": "achievement-65",
+        "name": "Keep 'Em Talking",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-66",
+        "name": "The Shadows Prevail",
+        "kind": "trophy",
+        "chapterId": "clan-endings",
+        "where": "Complete the game as an Elder of the Lasombra."
+      },
+      {
+        "id": "achievement-67",
+        "name": "The Rose Bites Deep",
+        "kind": "trophy",
+        "chapterId": "clan-endings",
+        "where": "Complete the game as an Elder of the Toreador."
+      },
+      {
+        "id": "achievement-68",
+        "name": "To End in Oblivion",
+        "kind": "trophy",
+        "chapterId": "combat-and-disciplines",
+        "where": "Pull at least 3 enemies into Oblivion and end their existence."
+      },
+      {
+        "id": "achievement-69",
+        "name": "Love Me!",
+        "kind": "trophy",
+        "chapterId": "combat-and-disciplines",
+        "where": "Use Entrancing Kiss on 5 Thin-blood vampires."
+      },
+      {
+        "id": "achievement-70",
+        "name": "The Benefits of Office",
+        "kind": "trophy",
+        "chapterId": "combat-and-disciplines",
+        "where": "Have all 6 Clan Perks active at once."
+      },
+      {
+        "id": "achievement-71",
+        "name": "Now You See Me...",
+        "kind": "trophy",
+        "chapterId": "combat-and-disciplines",
+        "where": "Use Shadow Step to get behind someone that you have commanded with Beckon."
+      },
+      {
+        "id": "achievement-72",
+        "name": "Hot Lips",
+        "kind": "trophy",
+        "chapterId": "combat-and-disciplines",
+        "where": "Use Entrancing Kiss on someone under the influence of Cauldron of Blood."
+      },
+      {
+        "id": "achievement-73",
+        "name": "Set 'Em Up, Knock 'Em Down",
+        "kind": "trophy",
+        "chapterId": "combat-and-disciplines",
+        "where": "Use Charge to take down two or more enemies that are held in place by Arms of Ahriman."
+      },
+      {
+        "id": "achievement-74",
+        "name": "Unoriginal Sin",
+        "kind": "trophy",
+        "chapterId": "feeding-and-masquerade",
+        "where": "While dressed as The Priest, persuade 5 citizens of Sanguine Blood Resonance to let you drink."
+      },
+      {
+        "id": "achievement-75",
+        "name": "Run Rabbit, Run Rabbit, Run, Run, RUN!",
+        "kind": "trophy",
+        "chapterId": "combat-and-disciplines",
+        "where": "Use Blink to exterminate someone of Melancholic Blood Resonance."
+      },
+      {
+        "id": "achievement-76",
+        "name": "The Serenity of Shadows",
+        "kind": "trophy",
+        "chapterId": "combat-and-disciplines",
+        "where": "Draw 5 unarmed enemies into Oblivion."
+      },
+      {
+        "id": "achievement-77",
+        "name": "A Moment of Patience",
+        "kind": "trophy",
+        "chapterId": "feeding-and-masquerade",
+        "where": "Drink blood directly from Patience's veins."
+      },
+      {
+        "id": "achievement-78",
+        "name": "A Gauntlet Laid Down",
+        "kind": "trophy",
+        "chapterId": "feeding-and-masquerade",
+        "where": "Drink blood directly from Onda's veins."
+      },
+      {
+        "id": "achievement-79",
+        "name": "Cleaned Up the Town",
+        "kind": "trophy",
+        "chapterId": "loose-cannon",
+        "where": "Destroy 20 thin-blood Anarch leaders across Seattle."
+      },
+      {
+        "id": "achievement-80",
+        "name": "Straight Shooter",
+        "kind": "trophy",
+        "chapterId": "loose-cannon",
+        "where": "As Benny get 50 headshots in a single playthrough."
+      },
+      {
+        "id": "achievement-81",
+        "name": "Kicked in the Teeth",
+        "kind": "trophy",
+        "chapterId": "loose-cannon",
+        "where": "As Benny defeat 5 enemies by kicking objects, weapons or explosives at them."
+      },
+      {
+        "id": "achievement-82",
+        "name": "Staying Hungry",
+        "kind": "trophy",
+        "chapterId": "loose-cannon",
+        "where": "As Benny keep Spark of Rage active for 6 seconds or longer."
+      },
+      {
+        "id": "achievement-83",
+        "name": "Too Hot to Handle",
+        "kind": "trophy",
+        "chapterId": "loose-cannon",
+        "where": "As Benny disarm 3 opponents while blurred momentum is active"
+      },
+      {
+        "id": "achievement-84",
+        "name": "Double Trouble",
+        "kind": "trophy",
+        "chapterId": "loose-cannon",
+        "where": "As Phyre have a conversation with Benny wearing Benny's outfit and glasses."
+      },
+      {
+        "id": "achievement-85",
+        "name": "I Got the Sheriff",
+        "kind": "trophy",
+        "chapterId": "loose-cannon",
+        "where": "As Phyre defeat Benny on Hard Difficulty."
+      },
+      {
+        "id": "achievement-86",
+        "name": "Black Hole Sunshine",
+        "kind": "trophy",
+        "chapterId": "loose-cannon",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-87",
+        "name": "Man in the Box",
+        "kind": "trophy",
+        "chapterId": "loose-cannon",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-88",
+        "name": "Hunted Down",
+        "kind": "trophy",
+        "chapterId": "loose-cannon",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-89",
+        "name": "Easy Street",
+        "kind": "trophy",
+        "chapterId": "loose-cannon",
+        "where": "Complete Loose Cannon on Casual Difficulty."
+      },
+      {
+        "id": "achievement-90",
+        "name": "Mean Streets",
+        "kind": "trophy",
+        "chapterId": "loose-cannon",
+        "where": "Complete Loose Cannon on Hard Difficulty."
+      },
+      {
+        "id": "achievement-91",
+        "name": "Good Publicity",
+        "kind": "trophy",
+        "chapterId": "loose-cannon",
+        "where": "Restore 15 adverts across Seattle for the \"Last Danse\" at Atrium."
+      },
+      {
+        "id": "achievement-92",
+        "name": "Just Passing Through",
+        "kind": "trophy",
+        "chapterId": "loose-cannon",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-93",
+        "name": "Rope Trick",
+        "kind": "trophy",
+        "chapterId": "flower-and-flame",
+        "where": "Leash, catch in mid-air, and equip a gun."
+      },
+      {
+        "id": "achievement-94",
+        "name": "Swansong",
+        "kind": "trophy",
+        "chapterId": "flower-and-flame",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-95",
+        "name": "The Love Scene",
+        "kind": "trophy",
+        "chapterId": "flower-and-flame",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-96",
+        "name": "Absolute Beast",
+        "kind": "trophy",
+        "chapterId": "flower-and-flame",
+        "where": "Follow the instincts and unfiltered desires of the Beast throughout The Flower & The Flame."
+      },
+      {
+        "id": "achievement-97",
+        "name": "Glorious Diva",
+        "kind": "trophy",
+        "chapterId": "flower-and-flame",
+        "where": "Behave like a true diva, exalting art above all else throughout The Flower & The Flame."
+      },
+      {
+        "id": "achievement-98",
+        "name": "Perfect Predator",
+        "kind": "trophy",
+        "chapterId": "flower-and-flame",
+        "where": "Be the cold, calculating predator, manipulating your way throughout The Flower & The Flame."
+      },
+      {
+        "id": "achievement-99",
+        "name": "Creative Solution",
+        "kind": "trophy",
+        "chapterId": "flower-and-flame",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-100",
+        "name": "Many Hands",
+        "kind": "trophy",
+        "chapterId": "flower-and-flame",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-101",
+        "name": "Stolen Hearts",
+        "kind": "trophy",
+        "chapterId": "flower-and-flame",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-102",
+        "name": "The Dance Of Destruction",
+        "kind": "trophy",
+        "chapterId": "flower-and-flame",
+        "where": "Complete The Flower & The Flame on Normal or Hard Difficulty."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/vampire-the-masquerade-bloodlines-2",
+    "Achievement data from Steam (Steam Web API, app 532790)",
+    "StrategyWiki: no page for this game, nothing used",
+    "Fandom (whitewolf.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://whitewolf.fandom.com/wiki/Vampire:_The_Masquerade_-_Bloodlines_2"
+  ],
+  "route": "original",
+  "notes": "Backlog game, picked from RAWG's most-added list for its year (docs/PLAN.md section 2 ordering). StrategyWiki has no page under \"Vampire: The Masquerade – Bloodlines 2\" (en dash) or \"Vampire: The Masquerade - Bloodlines 2\" (hyphen). whitewolf.fandom.com redirects the en-dash title to \"Vampire: The Masquerade - Bloodlines 2\", with about 119 links, mostly cast and crew, plus \"Bloodlines 2 Achievements\" and \"Bloodlines 2 Quests\" pages; names only were looked at, nothing copied. RAWG lists Hardsuit Labs as the only developer and an average playtime of 329 hours, which looks wrong; both are passed on as RAWG gives them. 31 of 102 Steam achievements are hidden. Two add-on stories are named in the achievement text, \"Loose Cannon\" (played as Benny) and \"The Flower & The Flame\"; their hidden achievements were placed by position in the list (86 to 88 and 92 in Loose Cannon, 94, 95 and 99 to 101 in The Flower & The Flame), which needs checking. \"Good Publicity\" (restore adverts for the \"Last Danse\") and \"Rope Trick\" (93) name no add-on and were also placed by position. Six clan endings are in the main block (Banu Haqim, Brujah, Tremere, Ventrue) and later in the list (Lasombra, Toreador). The other hidden achievements sit in the main story chapter as a placeholder."
+}

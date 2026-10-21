@@ -1,0 +1,480 @@
+{
+  "id": "saints-row-gat-out-of-hell",
+  "title": "Saints Row: Gat Out of Hell",
+  "year": 2015,
+  "platforms": [
+    "Linux",
+    "PC",
+    "Xbox One",
+    "PlayStation 3",
+    "PlayStation 4",
+    "Xbox 360"
+  ],
+  "rawgId": 3450,
+  "rawgSlug": "saints-row-gat-out-of-hell",
+  "released": "2015-01-20",
+  "developers": [
+    "Deep Silver",
+    "Volition",
+    "High Voltage Software"
+  ],
+  "playtime": 5,
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Multiplayer",
+    "Full controller support",
+    "Steam Cloud",
+    "Atmospheric",
+    "steam-trading-cards",
+    "Co-op",
+    "Open World",
+    "cooperative",
+    "First-Person",
+    "Third Person"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/1ad/1ad3737af2c4a4ff8e7f5540b5dcade8.jpg",
+  "steamAppId": 301910,
+  "achievements": {
+    "total": 45,
+    "hidden": 0,
+    "examples": [
+      {
+        "name": "Fallen Angel",
+        "percent": 84.1
+      },
+      {
+        "name": "Level One Demon",
+        "percent": 76.0
+      },
+      {
+        "name": "Cluster Luck",
+        "percent": 70.0
+      },
+      {
+        "name": "Plague of Gat",
+        "percent": 6.3
+      },
+      {
+        "name": "Gnarly Wave",
+        "percent": 6.3
+      },
+      {
+        "name": "Terminal Hog",
+        "percent": 6.3
+      },
+      {
+        "name": "Twenty-Twenty Vision",
+        "percent": 6.2
+      },
+      {
+        "name": "The King of Hell",
+        "percent": 5.7
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": false,
+      "pages": 0,
+      "reason": "No page for Saints Row: Gat Out of Hell (MediaWiki API returned missing; search empty)"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 100,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://saintsrow.fandom.com/wiki/Saints_Row:_Gat_out_of_Hell"
+    }
+  },
+  "game": {
+    "id": "saints-row-gat-out-of-hell",
+    "title": "Saints Row: Gat Out of Hell",
+    "platforms": [
+      "Linux",
+      "PC",
+      "Xbox One",
+      "PlayStation 3",
+      "PlayStation 4",
+      "Xbox 360"
+    ],
+    "blurb": "Open-world action game set in the city of New Hades, a standalone expansion to Saints Row IV, from Volition and High Voltage Software, released 2015-01-20. RAWG average playtime: 5 hours. Genres: Action, Adventure. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#6A2C91",
+    "chapters": [
+      {
+        "id": "main-story",
+        "title": "The Story, Co-op and Play Time",
+        "summary": "Beating the game, playing as both Gat and Kinzie, co-op and long stays in Hell.",
+        "steps": []
+      },
+      {
+        "id": "powers",
+        "title": "Supernatural Powers",
+        "summary": "Stone Blast, Stomp, Summon and Coldfire Aura, new elements, upgrades and your own Imps.",
+        "steps": []
+      },
+      {
+        "id": "flight",
+        "title": "Flight",
+        "summary": "Flying, gliding and staying airborne across New Hades.",
+        "steps": []
+      },
+      {
+        "id": "weapons",
+        "title": "The Seven Deadly Weapons",
+        "summary": "The Seven Deadly Weapons, the Essences, the God's Hammer and weapon upgrades.",
+        "steps": []
+      },
+      {
+        "id": "city-takeover",
+        "title": "City Takeover and Challenges",
+        "summary": "Open-world activities in each district, City Take Over, Arch Dukes, diversions and the Challenges.",
+        "steps": []
+      },
+      {
+        "id": "collectibles",
+        "title": "Tomes and Soul Clusters",
+        "summary": "Finding the Tomes and Soul Clusters scattered around the city.",
+        "steps": []
+      },
+      {
+        "id": "stunts",
+        "title": "Stunts and Mayhem",
+        "summary": "Lava, comets, wall running, Imps and other silly feats.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Fallen Angel",
+        "kind": "trophy",
+        "chapterId": "powers",
+        "where": "Get your first Supernatural Powers"
+      },
+      {
+        "id": "achievement-2",
+        "name": "H-E...",
+        "kind": "trophy",
+        "chapterId": "city-takeover",
+        "where": "Complete all open world gameplay in two districts of the city of New Hades"
+      },
+      {
+        "id": "achievement-3",
+        "name": "...Double-Hockey-Sticks",
+        "kind": "trophy",
+        "chapterId": "city-takeover",
+        "where": "Conquer all of New Hades with 100% City Take Over"
+      },
+      {
+        "id": "achievement-4",
+        "name": "Fly, You Fools",
+        "kind": "trophy",
+        "chapterId": "flight",
+        "where": "Fly for 250,000 meters"
+      },
+      {
+        "id": "achievement-5",
+        "name": "The Wings of Angels",
+        "kind": "trophy",
+        "chapterId": "flight",
+        "where": "Be airborne during Supernatural Jumps or Flight for a combined 10 minutes of gameplay"
+      },
+      {
+        "id": "achievement-6",
+        "name": "Get Stoned",
+        "kind": "trophy",
+        "chapterId": "powers",
+        "where": "Stonify and Shatter Kill 100 Demons with the Stone Blast Supernatural Power"
+      },
+      {
+        "id": "achievement-7",
+        "name": "Footprints in the Sand",
+        "kind": "trophy",
+        "chapterId": "powers",
+        "where": "Kill 150 Demons with the Stomp Supernatural Power"
+      },
+      {
+        "id": "achievement-8",
+        "name": "Purple Demons",
+        "kind": "trophy",
+        "chapterId": "powers",
+        "where": "Have minions kill 100 Demons with the Summon Supernatural Power"
+      },
+      {
+        "id": "achievement-9",
+        "name": "Oxymoronic",
+        "kind": "trophy",
+        "chapterId": "powers",
+        "where": "Kill 100 Demons using the Coldfire Aura Supernatural Power"
+      },
+      {
+        "id": "achievement-10",
+        "name": "The Seven Deadly Weapons",
+        "kind": "trophy",
+        "chapterId": "weapons",
+        "where": "Kill 25 Demons with each of the Seven Deadly Weapons"
+      },
+      {
+        "id": "achievement-11",
+        "name": "The Devil's Dues",
+        "kind": "trophy",
+        "chapterId": "weapons",
+        "where": "Upgrade one weapon to the max"
+      },
+      {
+        "id": "achievement-12",
+        "name": "Fell from Heaven",
+        "kind": "trophy",
+        "chapterId": "powers",
+        "where": "Purchase 113 Supernatural Power Upgrades"
+      },
+      {
+        "id": "achievement-13",
+        "name": "Plague of Gat",
+        "kind": "trophy",
+        "chapterId": "powers",
+        "where": "Kill 1000 Demons with any combination of Supernatural Powers"
+      },
+      {
+        "id": "achievement-14",
+        "name": "The King of Hell",
+        "kind": "trophy",
+        "chapterId": "city-takeover",
+        "where": "Complete ALL of the Challenges"
+      },
+      {
+        "id": "achievement-15",
+        "name": "The Book of More, Man",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Find 64 Tomes"
+      },
+      {
+        "id": "achievement-16",
+        "name": "Seraphim and Cherubim",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Play for at least 2 hours as Gat and 2 hours as Kinzie"
+      },
+      {
+        "id": "achievement-17",
+        "name": "Level One Demon",
+        "kind": "trophy",
+        "chapterId": "powers",
+        "where": "Buy your first Upgrade from the Upgrade Store"
+      },
+      {
+        "id": "achievement-18",
+        "name": "Hazardous Dukes",
+        "kind": "trophy",
+        "chapterId": "city-takeover",
+        "where": "Kill 25 Arch Dukes"
+      },
+      {
+        "id": "achievement-19",
+        "name": "Soul in One",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Find 100 Soul Clusters"
+      },
+      {
+        "id": "achievement-20",
+        "name": "Soul Drain",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Find 100% of all Soul Clusters"
+      },
+      {
+        "id": "achievement-21",
+        "name": "...My Dear Watson",
+        "kind": "trophy",
+        "chapterId": "powers",
+        "where": "Choose a new element for all of your Supernatural Powers"
+      },
+      {
+        "id": "achievement-22",
+        "name": "Epic Flight Quest",
+        "kind": "trophy",
+        "chapterId": "flight",
+        "where": "Fly from the roof of Snowball's Chance to Sinterpol HQ's roof, without landing"
+      },
+      {
+        "id": "achievement-23",
+        "name": "Double Trouble",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Play Saints Row: Gat out of Hell Co-op for 3 hours"
+      },
+      {
+        "id": "achievement-24",
+        "name": "Sloth Love Chunk",
+        "kind": "trophy",
+        "chapterId": "weapons",
+        "where": "Get 250 kills with the Essence of Sloth"
+      },
+      {
+        "id": "achievement-25",
+        "name": "Nailed It",
+        "kind": "trophy",
+        "chapterId": "weapons",
+        "where": "Get 100 kills with the God's Hammer"
+      },
+      {
+        "id": "achievement-26",
+        "name": "Shut Your Eyes",
+        "kind": "trophy",
+        "chapterId": "weapons",
+        "where": "Get 250 kills with the Essence of Wrath"
+      },
+      {
+        "id": "achievement-27",
+        "name": "Imp-fanticide",
+        "kind": "trophy",
+        "chapterId": "powers",
+        "where": "Kill 50 of your own summoned Imps"
+      },
+      {
+        "id": "achievement-28",
+        "name": "Extra Crispy",
+        "kind": "trophy",
+        "chapterId": "stunts",
+        "where": "Die in the lava"
+      },
+      {
+        "id": "achievement-29",
+        "name": "Gnarly Wave",
+        "kind": "trophy",
+        "chapterId": "stunts",
+        "where": "Car surf on a Comet while it explodes"
+      },
+      {
+        "id": "achievement-30",
+        "name": "Hell Buoy",
+        "kind": "trophy",
+        "chapterId": "stunts",
+        "where": "Have five Imps attached to you at one time"
+      },
+      {
+        "id": "achievement-31",
+        "name": "Top Gunner",
+        "kind": "trophy",
+        "chapterId": "flight",
+        "where": "Shoot down a Spire missile with a blast while hovering"
+      },
+      {
+        "id": "achievement-32",
+        "name": "Terminal Hog",
+        "kind": "trophy",
+        "chapterId": "city-takeover",
+        "where": "Take down an Extraction Facility while on a motorcycle"
+      },
+      {
+        "id": "achievement-33",
+        "name": "Transcontinental",
+        "kind": "trophy",
+        "chapterId": "flight",
+        "where": "Fly continuously for 60 seconds"
+      },
+      {
+        "id": "achievement-34",
+        "name": "Put Up Your Dukes",
+        "kind": "trophy",
+        "chapterId": "city-takeover",
+        "where": "Kill an Arch Duke with a melee attack"
+      },
+      {
+        "id": "achievement-35",
+        "name": "Out of the Frying Pan",
+        "kind": "trophy",
+        "chapterId": "stunts",
+        "where": "Knock a vehicle into the lava"
+      },
+      {
+        "id": "achievement-36",
+        "name": "Soft Shoe",
+        "kind": "trophy",
+        "chapterId": "stunts",
+        "where": "Stay in contact with the lava for 10 seconds without dying"
+      },
+      {
+        "id": "achievement-37",
+        "name": "Cluster Luck",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Collect at least five Soul Clusters without touching the ground"
+      },
+      {
+        "id": "achievement-38",
+        "name": "Let's Bounce",
+        "kind": "trophy",
+        "chapterId": "city-takeover",
+        "where": "In Torment Fraud, hit 5 vehicles in a row without touching the ground"
+      },
+      {
+        "id": "achievement-39",
+        "name": "Are You Crazy?",
+        "kind": "trophy",
+        "chapterId": "stunts",
+        "where": "Get a Comet into the Ultor lobby"
+      },
+      {
+        "id": "achievement-40",
+        "name": "Raise the Roof",
+        "kind": "trophy",
+        "chapterId": "stunts",
+        "where": "Smack into the ceiling 10 times while wall running"
+      },
+      {
+        "id": "achievement-41",
+        "name": "Barn Burner",
+        "kind": "trophy",
+        "chapterId": "city-takeover",
+        "where": "Find 75 Barnstorming Diversion locations"
+      },
+      {
+        "id": "achievement-42",
+        "name": "Saints' Creed",
+        "kind": "trophy",
+        "chapterId": "stunts",
+        "where": "Stand on the tallest mast of the 'Queen Anne's Revenge'"
+      },
+      {
+        "id": "achievement-43",
+        "name": "Satan Punchers",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Beat the game"
+      },
+      {
+        "id": "achievement-44",
+        "name": "Twenty-Twenty Vision",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Spend over 20 hours in Hell"
+      },
+      {
+        "id": "achievement-45",
+        "name": "Shooting Star",
+        "kind": "trophy",
+        "chapterId": "flight",
+        "where": "Fly for 500 meters while on fire"
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/saints-row-gat-out-of-hell",
+    "Achievement data from Steam (Steam Web API, app 301910)",
+    "StrategyWiki: no page for this game, nothing used",
+    "Fandom (saintsrow.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://saintsrow.fandom.com/wiki/Saints_Row:_Gat_out_of_Hell"
+  ],
+  "route": "original",
+  "notes": "Backlog game, picked from RAWG's most-added list for its year (docs/PLAN.md section 2 ordering). No StrategyWiki page under \"Saints Row: Gat Out of Hell\" or \"Saints Row: Gat out of Hell\". saintsrow.fandom.com answers the API under \"Saints Row: Gat out of Hell\", with about 100 linked articles, including \"Activities and Diversions in Saints Row: Gat out of Hell\", \"Challenges in Saints Row: Gat out of Hell\" and \"New Hades\"; names only were looked at, nothing copied. Its summary calls the game a standalone expansion to Saints Row IV. The Steam schema calls the app \"Project Gat\" (an internal codename); the store list confirms app 301910 as \"Saints Row: Gat out of Hell\". None of the 45 Steam achievements is hidden. Only one achievement (\"Satan Punchers\", beat the game) marks story progress, so the story chapter also holds the co-op and play-time goals. RAWG lists a playtime of only 5 hours."
+}

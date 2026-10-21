@@ -1,0 +1,672 @@
+{
+  "id": "far-cry-5",
+  "title": "Far Cry 5",
+  "year": 2018,
+  "platforms": [
+    "PlayStation 4",
+    "PC",
+    "Xbox One"
+  ],
+  "rawgId": 23585,
+  "rawgSlug": "far-cry-5",
+  "released": "2018-03-27",
+  "developers": [
+    "Ubisoft",
+    "Ubisoft Montreal",
+    "Ubisoft Toronto",
+    "Ubisoft Shanghai",
+    "Ubisoft Kiev",
+    "Red Storm"
+  ],
+  "playtime": 19,
+  "genres": [
+    "Action",
+    "Shooter"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Multiplayer",
+    "Atmospheric",
+    "steam-trading-cards",
+    "Co-op",
+    "Story Rich",
+    "Open World",
+    "cooperative",
+    "First-Person",
+    "Partial Controller Support",
+    "FPS",
+    "Exploration"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/bce/bce62fbc7cf74bf6a1a37340993ec148.jpg",
+  "steamAppId": 552520,
+  "achievements": {
+    "total": 72,
+    "hidden": 0,
+    "examples": [
+      {
+        "name": "The Spark",
+        "percent": 30.5
+      },
+      {
+        "name": "Road Gunner",
+        "percent": 27.5
+      },
+      {
+        "name": "Liberator",
+        "percent": 23.4
+      },
+      {
+        "name": "ARCADE Competitor",
+        "percent": 0.2
+      },
+      {
+        "name": "DLC: Mars: Martian Journal",
+        "percent": 0.2
+      },
+      {
+        "name": "DLC Zombies: Killer BeeZ",
+        "percent": 0.2
+      },
+      {
+        "name": "DLC Zombies: Gold MedaliZt",
+        "percent": 0.2
+      },
+      {
+        "name": "DLC Zombies: DeceaZed to ExZist",
+        "percent": 0.1
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": false,
+      "pages": 0,
+      "reason": "No page for Far Cry 5 (MediaWiki API returned missing; search empty)"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 231,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://farcry.fandom.com/wiki/Far_Cry_5"
+    }
+  },
+  "game": {
+    "id": "far-cry-5",
+    "title": "Far Cry 5",
+    "platforms": [
+      "PlayStation 4",
+      "PC",
+      "Xbox One"
+    ],
+    "blurb": "Open-world first-person shooter set in Hope County, Montana, where a doomsday cult has taken over, from Ubisoft Montreal (with other Ubisoft studios), released 2018-03-27. RAWG average playtime: 19 hours. Genres: Action, Shooter. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#C46A1B",
+    "chapters": [
+      {
+        "id": "main-story",
+        "title": "The Main Story",
+        "summary": "A junior deputy trapped in Hope County takes on the Project at Eden's Gate, region by region. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "hope-county",
+        "title": "Exploring Hope County",
+        "summary": "Liberating locations, side missions, treasure hunts, Clutch Nixon stunts, collectibles, fishing and hunting, and the locals.",
+        "steps": []
+      },
+      {
+        "id": "combat-and-vehicles",
+        "title": "Combat, Vehicles and Gear",
+        "summary": "Takedowns, long shots, vehicles and planes, crafting, perks, weapons, clothes and the garage.",
+        "steps": []
+      },
+      {
+        "id": "arcade",
+        "title": "Far Cry Arcade",
+        "summary": "Arcade levels, featured maps, Arcade Hero and Arcade multiplayer.",
+        "steps": []
+      },
+      {
+        "id": "vietnam-dlc",
+        "title": "The Vietnam DLC (likely Hours of Darkness)",
+        "summary": "A separate campaign with its own story, Action Movie and Survivor modes, prisoners of war and airstrikes.",
+        "steps": []
+      },
+      {
+        "id": "lost-on-mars",
+        "title": "Lost on Mars (DLC)",
+        "summary": "Arachnids, the Power Glove, Larry's notes and the Queens.",
+        "steps": []
+      },
+      {
+        "id": "dead-living-zombies",
+        "title": "Dead Living Zombies (DLC)",
+        "summary": "Seven zombie movie pitches, their score attack medals and the Blood Dragon.",
+        "steps": []
+      },
+      {
+        "id": "new-game-plus",
+        "title": "New Game+ on Infamous",
+        "summary": "Finishing New Game+ on the Infamous difficulty.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "The Spark",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Complete the game intro by liberating Dutch’s island (Solo Campaign only)."
+      },
+      {
+        "id": "achievement-2",
+        "name": "You Are Wrath",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Be deemed the Sin of Wrath (Solo Campaign only)."
+      },
+      {
+        "id": "achievement-3",
+        "name": "Special Delivery",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Ensure a baby's safe passage into this world (Solo Campaign only)."
+      },
+      {
+        "id": "achievement-4",
+        "name": "Only You",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Sucessfully complete the First Trial (Solo Campaign only)."
+      },
+      {
+        "id": "achievement-5",
+        "name": "Walk The Path",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Discover the Bliss (Solo Campaign only)."
+      },
+      {
+        "id": "achievement-6",
+        "name": "Together Forever",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Get to the End (Solo Campaign only)."
+      },
+      {
+        "id": "achievement-7",
+        "name": "Saving Deputy Hudson",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Save Deputy Hudson (Solo Campaign only)."
+      },
+      {
+        "id": "achievement-8",
+        "name": "Blissful",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Save the Marshal from the Bliss (Solo Campaign only)."
+      },
+      {
+        "id": "achievement-9",
+        "name": "Saving Sheriff Whitehorse",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Save Sheriff Whitehorse (Solo Campaign only)."
+      },
+      {
+        "id": "achievement-10",
+        "name": "Saving Deputy Pratt",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Save Deputy Pratt (Solo Campaign only)."
+      },
+      {
+        "id": "achievement-11",
+        "name": "Science Fact",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Put aside skepticism and help Larry (Solo Campaign only)."
+      },
+      {
+        "id": "achievement-12",
+        "name": "Ain't No Wallflower",
+        "kind": "trophy",
+        "chapterId": "hope-county",
+        "where": "Who are these people? Speak to 50 citizens of Hope County (Solo Campaign only)."
+      },
+      {
+        "id": "achievement-13",
+        "name": "Been There, Done That",
+        "kind": "trophy",
+        "chapterId": "hope-county",
+        "where": "Complete all Hunting & Fishing Challenges (Campaign only)."
+      },
+      {
+        "id": "achievement-14",
+        "name": "Liberator",
+        "kind": "trophy",
+        "chapterId": "hope-county",
+        "where": "Liberate 5 locations from the Project at Eden's Gate (Campaign only)."
+      },
+      {
+        "id": "achievement-15",
+        "name": "Scavenger",
+        "kind": "trophy",
+        "chapterId": "hope-county",
+        "where": "Follow the clues to the end of 3 treasure hunts (Solo Campaign only)."
+      },
+      {
+        "id": "achievement-16",
+        "name": "What Now?",
+        "kind": "trophy",
+        "chapterId": "hope-county",
+        "where": "Complete 3 Side Missions in Hope County (Solo Campaign only)."
+      },
+      {
+        "id": "achievement-17",
+        "name": "The Greatest SOB That Ever Lived",
+        "kind": "trophy",
+        "chapterId": "hope-county",
+        "where": "Laugh in danger's face by executing a Clutch Nixon stunt in each region (Solo Campaign only)."
+      },
+      {
+        "id": "achievement-18",
+        "name": "Pack Rat",
+        "kind": "trophy",
+        "chapterId": "hope-county",
+        "where": "Grab 1 of each collectible item. You never know when it will come in handy (Solo Campaign only)."
+      },
+      {
+        "id": "achievement-19",
+        "name": "A Wing And A Prayer",
+        "kind": "trophy",
+        "chapterId": "hope-county",
+        "where": "Fly Nick's plane. Hopefully you're not afraid of heights (Solo Campaign only)."
+      },
+      {
+        "id": "achievement-20",
+        "name": "Troublemaker",
+        "kind": "trophy",
+        "chapterId": "hope-county",
+        "where": "Discover the joys of destroying cult property in every region (Solo Campaign only)."
+      },
+      {
+        "id": "achievement-21",
+        "name": "Sewer Rat",
+        "kind": "trophy",
+        "chapterId": "hope-county",
+        "where": "Destroy a cult water treatment pump and make them thirst for revenge (Solo Campaign only)."
+      },
+      {
+        "id": "achievement-22",
+        "name": "Peachy Keen",
+        "kind": "trophy",
+        "chapterId": "hope-county",
+        "where": "Bait Peaches into going back home (Solo Campaign only)."
+      },
+      {
+        "id": "achievement-23",
+        "name": "Kicking the Hornet's Nest",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Trigger the wrath of a Herald (Solo Campaign only)."
+      },
+      {
+        "id": "achievement-24",
+        "name": "ARCADE Player",
+        "kind": "trophy",
+        "chapterId": "arcade",
+        "where": "Reach level 20 in the Arcade (Arcade only)."
+      },
+      {
+        "id": "achievement-25",
+        "name": "ARCADE Hero",
+        "kind": "trophy",
+        "chapterId": "arcade",
+        "where": "Play the 'Arcade Hero' mode 5 times (Arcade only)."
+      },
+      {
+        "id": "achievement-26",
+        "name": "ARCADE Hunter",
+        "kind": "trophy",
+        "chapterId": "arcade",
+        "where": "Kill 100 enemies in Arcade Multiplayer maps (Arcade only)."
+      },
+      {
+        "id": "achievement-27",
+        "name": "ARCADE Enthusiast",
+        "kind": "trophy",
+        "chapterId": "arcade",
+        "where": "Successfully complete 10 featured Arcade maps in Solo or Co-op (Arcade only)."
+      },
+      {
+        "id": "achievement-28",
+        "name": "ARCADE Competitor",
+        "kind": "trophy",
+        "chapterId": "arcade",
+        "where": "Win 10 featured maps in Multiplayer (Arcade only)."
+      },
+      {
+        "id": "achievement-29",
+        "name": "The Hurk Locker",
+        "kind": "trophy",
+        "chapterId": "combat-and-vehicles",
+        "where": "Truly bond with Hurk by destroying 15 vehicles together (Campaign only)."
+      },
+      {
+        "id": "achievement-30",
+        "name": "Hope County Master Angler",
+        "kind": "trophy",
+        "chapterId": "hope-county",
+        "where": "Acquire all 4 Fishing Rods (Campaign only)."
+      },
+      {
+        "id": "achievement-31",
+        "name": "Locked and Loaded",
+        "kind": "trophy",
+        "chapterId": "combat-and-vehicles",
+        "where": "Fully customize your weapon (Campaign only)."
+      },
+      {
+        "id": "achievement-32",
+        "name": "Ghost Kill",
+        "kind": "trophy",
+        "chapterId": "combat-and-vehicles",
+        "where": "Perform a Headshot kill with any bow or rifle on an enemy cultist more than 150m away (Campaign only)."
+      },
+      {
+        "id": "achievement-33",
+        "name": "Extra Crafty",
+        "kind": "trophy",
+        "chapterId": "combat-and-vehicles",
+        "where": "Craft 25 recipes (Campaign only)."
+      },
+      {
+        "id": "achievement-34",
+        "name": "Fashion First",
+        "kind": "trophy",
+        "chapterId": "combat-and-vehicles",
+        "where": "Purchase $1000 in clothing (Campaign only)."
+      },
+      {
+        "id": "achievement-35",
+        "name": "Big Spender",
+        "kind": "trophy",
+        "chapterId": "combat-and-vehicles",
+        "where": "Spend $50000 in Vehicle Shops (Campaign only)."
+      },
+      {
+        "id": "achievement-36",
+        "name": "Stocked Garage",
+        "kind": "trophy",
+        "chapterId": "combat-and-vehicles",
+        "where": "Buy 3 vehicles to populate your garage (Campaign only)."
+      },
+      {
+        "id": "achievement-37",
+        "name": "Ace Killer",
+        "kind": "trophy",
+        "chapterId": "combat-and-vehicles",
+        "where": "Destroy 10 planes while driving any aerial vehicle (Campaign only)."
+      },
+      {
+        "id": "achievement-38",
+        "name": "Squash and Run",
+        "kind": "trophy",
+        "chapterId": "combat-and-vehicles",
+        "where": "Run over and kill 20 enemies (Campaign only)."
+      },
+      {
+        "id": "achievement-39",
+        "name": "Fertilizing the Land",
+        "kind": "trophy",
+        "chapterId": "combat-and-vehicles",
+        "where": "Using a tractor, obliterate 5 enemies (Campaign only)."
+      },
+      {
+        "id": "achievement-40",
+        "name": "Death From Above",
+        "kind": "trophy",
+        "chapterId": "combat-and-vehicles",
+        "where": "Drop a bomb from a plane and destroy or disable 4 vehicles at once (Campaign only)."
+      },
+      {
+        "id": "achievement-41",
+        "name": "Opportunity Knocks",
+        "kind": "trophy",
+        "chapterId": "combat-and-vehicles",
+        "where": "Using rocks or cans, distract 15 enemies (Campaign only)."
+      },
+      {
+        "id": "achievement-42",
+        "name": "Road Gunner",
+        "kind": "trophy",
+        "chapterId": "combat-and-vehicles",
+        "where": "While driving or leaning out of a vehicle, kill 25 enemies (Campaign only)."
+      },
+      {
+        "id": "achievement-43",
+        "name": "Fish Market",
+        "kind": "trophy",
+        "chapterId": "hope-county",
+        "where": "Sell 20 fish for cash (Campaign only)."
+      },
+      {
+        "id": "achievement-44",
+        "name": "Where's the Beef?",
+        "kind": "trophy",
+        "chapterId": "combat-and-vehicles",
+        "where": "Tenderize a bull with your bare hands. To death (Campaign only)."
+      },
+      {
+        "id": "achievement-45",
+        "name": "Ignoble Beasts",
+        "kind": "trophy",
+        "chapterId": "combat-and-vehicles",
+        "where": "Kill a bison using only melee weapons (Campaign only)."
+      },
+      {
+        "id": "achievement-46",
+        "name": "Hitting it Off",
+        "kind": "trophy",
+        "chapterId": "hope-county",
+        "where": "Play 3 quests with a friend (Campaign only)."
+      },
+      {
+        "id": "achievement-47",
+        "name": "Like A Bird",
+        "kind": "trophy",
+        "chapterId": "combat-and-vehicles",
+        "where": "Use a wingsuit to travel more than 5000m (Campaign only)."
+      },
+      {
+        "id": "achievement-48",
+        "name": "Close and Personal",
+        "kind": "trophy",
+        "chapterId": "combat-and-vehicles",
+        "where": "Perform 25 close combat Takedown Kills (Campaign only)."
+      },
+      {
+        "id": "achievement-49",
+        "name": "Explosive Surprise",
+        "kind": "trophy",
+        "chapterId": "combat-and-vehicles",
+        "where": "Sabotage 5 vehicles in a way that kills an enemy (Campaign only)."
+      },
+      {
+        "id": "achievement-50",
+        "name": "Survivalist",
+        "kind": "trophy",
+        "chapterId": "combat-and-vehicles",
+        "where": "Purchase half of all perks available (Campaign only)."
+      },
+      {
+        "id": "achievement-51",
+        "name": "Silent Death",
+        "kind": "trophy",
+        "chapterId": "vietnam-dlc",
+        "where": "Perform 25 stealth kills while you have the 4 survival instinct tokens."
+      },
+      {
+        "id": "achievement-52",
+        "name": "80s Hero",
+        "kind": "trophy",
+        "chapterId": "vietnam-dlc",
+        "where": "Complete the game in Action Movie Mode."
+      },
+      {
+        "id": "achievement-53",
+        "name": "Wendell's Story",
+        "kind": "trophy",
+        "chapterId": "vietnam-dlc",
+        "where": "Complete the game."
+      },
+      {
+        "id": "achievement-54",
+        "name": "Roguelike",
+        "kind": "trophy",
+        "chapterId": "vietnam-dlc",
+        "where": "Complete the game in Survivor Mode."
+      },
+      {
+        "id": "achievement-55",
+        "name": "Leave no one behind",
+        "kind": "trophy",
+        "chapterId": "vietnam-dlc",
+        "where": "Free the 3 US prisoner of war."
+      },
+      {
+        "id": "achievement-56",
+        "name": "Make them count",
+        "kind": "trophy",
+        "chapterId": "vietnam-dlc",
+        "where": "Kill a total of 25 enemies with airstrikes."
+      },
+      {
+        "id": "achievement-57",
+        "name": "Welcome to Nam",
+        "kind": "trophy",
+        "chapterId": "vietnam-dlc",
+        "where": "Get back your gear at the helicopter crash site."
+      },
+      {
+        "id": "achievement-58",
+        "name": "DLC: Mars:Bug Squasher",
+        "kind": "trophy",
+        "chapterId": "lost-on-mars",
+        "where": "Perform 10 takedowns on Arachnids using the Power Glove."
+      },
+      {
+        "id": "achievement-59",
+        "name": "DLC: Mars: Mars Second Amendment",
+        "kind": "trophy",
+        "chapterId": "lost-on-mars",
+        "where": "Buy 12 weapons."
+      },
+      {
+        "id": "achievement-60",
+        "name": "DLC: Mars: Martian Journal",
+        "kind": "trophy",
+        "chapterId": "lost-on-mars",
+        "where": "Collect all of Larry's notes (Host Only)."
+      },
+      {
+        "id": "achievement-61",
+        "name": "DLC: Mars: Nick's Story",
+        "kind": "trophy",
+        "chapterId": "lost-on-mars",
+        "where": "Complete the game (Host Only)."
+      },
+      {
+        "id": "achievement-62",
+        "name": "DLC: Mars: Slimy Death",
+        "kind": "trophy",
+        "chapterId": "lost-on-mars",
+        "where": "Hit 10 Arachnids with Crabmones."
+      },
+      {
+        "id": "achievement-63",
+        "name": "DLC: Mars: The Queen is Dead!",
+        "kind": "trophy",
+        "chapterId": "lost-on-mars",
+        "where": "Kill all the Queens (Host Only)."
+      },
+      {
+        "id": "achievement-64",
+        "name": "DLC: Mars: Welcome to Mars",
+        "kind": "trophy",
+        "chapterId": "lost-on-mars",
+        "where": "Reboot the Terminal on top of the Control Center Antenna."
+      },
+      {
+        "id": "achievement-65",
+        "name": "DLC Zombies: FertiliZer",
+        "kind": "trophy",
+        "chapterId": "dead-living-zombies",
+        "where": "Kill 10 Gougers or Hot Heads with the tractor in Fields of Terror."
+      },
+      {
+        "id": "achievement-66",
+        "name": "DLC Zombies: Early ExZit Denied",
+        "kind": "trophy",
+        "chapterId": "dead-living-zombies",
+        "where": "Try to escape the bridge early in Burned Bridges."
+      },
+      {
+        "id": "achievement-67",
+        "name": "DLC Zombies: Blood Zragon",
+        "kind": "trophy",
+        "chapterId": "dead-living-zombies",
+        "where": "Kill the Blood Dragon in Killer Climate."
+      },
+      {
+        "id": "achievement-68",
+        "name": "DLC Zombies: Killer BeeZ",
+        "kind": "trophy",
+        "chapterId": "dead-living-zombies",
+        "where": "Destroy all the Zom-bee nests in Laboratory of the Dead."
+      },
+      {
+        "id": "achievement-69",
+        "name": "DLC Zombies: ReZolution",
+        "kind": "trophy",
+        "chapterId": "dead-living-zombies",
+        "where": "Complete all 7 movie pitches."
+      },
+      {
+        "id": "achievement-70",
+        "name": "DLC Zombies: DeceaZed to ExZist",
+        "kind": "trophy",
+        "chapterId": "dead-living-zombies",
+        "where": "Kill 5000 total Gougers, Hot Heads, or Behemoths in any mode."
+      },
+      {
+        "id": "achievement-71",
+        "name": "DLC Zombies: Gold MedaliZt",
+        "kind": "trophy",
+        "chapterId": "dead-living-zombies",
+        "where": "Get a gold medal in all 7 movie pitches in Score Attack."
+      },
+      {
+        "id": "achievement-72",
+        "name": "Infamous",
+        "kind": "trophy",
+        "chapterId": "new-game-plus",
+        "where": "Complete New Game+ with Infamous difficulty."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/far-cry-5",
+    "Achievement data from Steam (Steam Web API, app 552520)",
+    "StrategyWiki: no page for this game, nothing used",
+    "Fandom (farcry.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://farcry.fandom.com/wiki/Far_Cry_5"
+  ],
+  "route": "original",
+  "notes": "Backlog game, picked from RAWG's most-added list for its year (docs/PLAN.md section 2 ordering). No StrategyWiki page under \"Far Cry 5\" (no alternative title tried; \"Far Cry V\" is also missing). farcry.fandom.com answers the API, with about 231 linked pages, including \"Hours of Darkness\", \"Lost On Mars\" and \"Dead Living Zombies\"; names only were looked at, nothing copied. None of the 72 Steam achievements is hidden. The Mars and Zombies DLC achievements carry \"DLC: Mars\" and \"DLC Zombies\" prefixes in their names and were placed by those prefixes. The seven untagged achievements listed between the base game and the Mars block (\"Silent Death\" to \"Welcome to Nam\", with Action Movie and Survivor modes, US prisoners of war and \"Welcome to Nam\") were grouped as one DLC campaign by schema position; naming it Hours of Darkness is an inference from RAWG and Fandom listing that DLC, not stated in the achievement data. \"Silent Death\" carries no \"Campaign only\" tag and was put in that block by position, which needs checking. The base story achievements say \"Solo Campaign only\"."
+}

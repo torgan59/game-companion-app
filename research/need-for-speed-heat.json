@@ -1,0 +1,439 @@
+{
+  "id": "need-for-speed-heat",
+  "title": "Need for Speed Heat",
+  "year": 2019,
+  "platforms": [
+    "PlayStation 4",
+    "PC",
+    "Xbox One"
+  ],
+  "rawgId": 364806,
+  "rawgSlug": "need-for-speed-heat",
+  "released": "2019-11-08",
+  "developers": [
+    "Ghost Games"
+  ],
+  "playtime": 3,
+  "genres": [
+    "Racing",
+    "Arcade"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Multiplayer",
+    "Full controller support",
+    "Atmospheric",
+    "Co-op",
+    "Open World",
+    "cooperative",
+    "First-Person",
+    "Third Person",
+    "Online Co-Op",
+    "Split Screen"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/370/3703c683968a54f09630dcf03366ea35.jpg",
+  "steamAppId": 1222680,
+  "achievements": {
+    "total": 42,
+    "hidden": 10,
+    "examples": [
+      {
+        "name": "Humble Beginnings",
+        "percent": 70.6
+      },
+      {
+        "name": "Don't Quit Your Day Job",
+        "percent": 64.9
+      },
+      {
+        "name": "At The Last Second",
+        "percent": 44.4
+      },
+      {
+        "name": "Graffer",
+        "percent": 2.3
+      },
+      {
+        "name": "Danger Zone",
+        "percent": 2.3
+      },
+      {
+        "name": "Full Send",
+        "percent": 2.1
+      },
+      {
+        "name": "The Brightest Stars",
+        "percent": 1.9
+      },
+      {
+        "name": "Be The Very Best",
+        "percent": 1.8
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Need_for_Speed_Heat",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": false,
+      "reason": "No page under this title on nfs.fandom.com; marked unverified, not retried"
+    }
+  },
+  "game": {
+    "id": "need-for-speed-heat",
+    "title": "Need for Speed Heat",
+    "platforms": [
+      "PlayStation 4",
+      "PC",
+      "Xbox One"
+    ],
+    "blurb": "Street racing game set in Palm City, from Ghost Games, released 2019-11-08. RAWG average playtime: 3 hours. Genres: Racing, Arcade. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#E0306E",
+    "chapters": [
+      {
+        "id": "main-story",
+        "title": "The Main Story",
+        "summary": "The story from your arrival in Palm City onward. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "racing-and-cars",
+        "title": "Racing and Car Building",
+        "summary": "Winning races, engine swaps, handling parts, tuning, wraps and plates.",
+        "steps": []
+      },
+      {
+        "id": "cops-and-heat",
+        "title": "Cops, Heat and REP",
+        "summary": "Cop chases and takedowns, high-heat nights and REP levels.",
+        "steps": []
+      },
+      {
+        "id": "open-world",
+        "title": "Activities and Collectibles",
+        "summary": "Billboards, street art, drift zones, long jumps, speed traps, three-star ratings and the Discovery Event.",
+        "steps": []
+      },
+      {
+        "id": "online-and-crew",
+        "title": "Online and Crew",
+        "summary": "Events with other players, crew time trials and crew level.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Welcome to Palm City",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-2",
+        "name": "Consider Yourself Noticed",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-3",
+        "name": "Worlds Collide",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-4",
+        "name": "Home from Home",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-5",
+        "name": "Merciless",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-6",
+        "name": "Eleven - Fifty Six",
+        "kind": "trophy",
+        "chapterId": "cops-and-heat",
+        "where": "Take down 100 Cop Vehicles"
+      },
+      {
+        "id": "achievement-7",
+        "name": "Warp Speed",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-8",
+        "name": "The Brightest Stars",
+        "kind": "trophy",
+        "chapterId": "open-world",
+        "where": "Get a 3 Star Rating on all the Activities in the game"
+      },
+      {
+        "id": "achievement-9",
+        "name": "Change My Name",
+        "kind": "trophy",
+        "chapterId": "racing-and-cars",
+        "where": "Change the text on the License Plate"
+      },
+      {
+        "id": "achievement-10",
+        "name": "Two Racers, One Event",
+        "kind": "trophy",
+        "chapterId": "online-and-crew",
+        "where": "Beat your first Crew Time Trial"
+      },
+      {
+        "id": "achievement-11",
+        "name": "A Bit Of Paradise",
+        "kind": "trophy",
+        "chapterId": "open-world",
+        "where": "Smash your way through all the Billboards"
+      },
+      {
+        "id": "achievement-12",
+        "name": "I Said Right Now!",
+        "kind": "trophy",
+        "chapterId": "racing-and-cars",
+        "where": "Win a race with a car at 399 Performance Rating"
+      },
+      {
+        "id": "achievement-13",
+        "name": "Be The Very Best",
+        "kind": "trophy",
+        "chapterId": "open-world",
+        "where": "Get all Collectibles and 3 stars on all Activities"
+      },
+      {
+        "id": "achievement-14",
+        "name": "Comeback Kid",
+        "kind": "trophy",
+        "chapterId": "racing-and-cars",
+        "where": "Go from last to first place during the final lap of a race and win"
+      },
+      {
+        "id": "achievement-15",
+        "name": "Carving Turns",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-16",
+        "name": "Off the Grid",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-17",
+        "name": "Friends Reunited",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-18",
+        "name": "Wrap It Up!",
+        "kind": "trophy",
+        "chapterId": "racing-and-cars",
+        "where": "Customize a vehicle with a wrap"
+      },
+      {
+        "id": "achievement-19",
+        "name": "Don't Quit Your Day Job",
+        "kind": "trophy",
+        "chapterId": "racing-and-cars",
+        "where": "Complete your first Daily Challenge"
+      },
+      {
+        "id": "achievement-20",
+        "name": "Drift, Drift, Drift",
+        "kind": "trophy",
+        "chapterId": "open-world",
+        "where": "Complete all Drift Zones"
+      },
+      {
+        "id": "achievement-21",
+        "name": "Techin'",
+        "kind": "trophy",
+        "chapterId": "racing-and-cars",
+        "where": "Win a race with parts equipped in both auxiliary part slots"
+      },
+      {
+        "id": "achievement-22",
+        "name": "Blame The Vain",
+        "kind": "trophy",
+        "chapterId": "racing-and-cars",
+        "where": "Win a race with all vehicle effects slots equipped"
+      },
+      {
+        "id": "achievement-23",
+        "name": "Travis, Who?",
+        "kind": "trophy",
+        "chapterId": "cops-and-heat",
+        "where": "Escape 100 Cop Chases"
+      },
+      {
+        "id": "achievement-24",
+        "name": "Benefits Are Nice",
+        "kind": "trophy",
+        "chapterId": "online-and-crew",
+        "where": "Complete 25 events online with other players"
+      },
+      {
+        "id": "achievement-25",
+        "name": "You have friends?",
+        "kind": "trophy",
+        "chapterId": "online-and-crew",
+        "where": "Complete 5 events online with other players"
+      },
+      {
+        "id": "achievement-26",
+        "name": "Get Shrimpin'",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-27",
+        "name": "At The Last Second",
+        "kind": "trophy",
+        "chapterId": "racing-and-cars",
+        "where": "Repair critical damage at a Gas Station at night"
+      },
+      {
+        "id": "achievement-28",
+        "name": "Graffer",
+        "kind": "trophy",
+        "chapterId": "open-world",
+        "where": "Collect all Street Art"
+      },
+      {
+        "id": "achievement-29",
+        "name": "The Most Wanted",
+        "kind": "trophy",
+        "chapterId": "cops-and-heat",
+        "where": "Win a High Heat 5 race and return to garage safely"
+      },
+      {
+        "id": "achievement-30",
+        "name": "Full Send",
+        "kind": "trophy",
+        "chapterId": "open-world",
+        "where": "Complete all Long Jumps"
+      },
+      {
+        "id": "achievement-31",
+        "name": "All For One",
+        "kind": "trophy",
+        "chapterId": "online-and-crew",
+        "where": "Reach max Crew Level with your Crew"
+      },
+      {
+        "id": "achievement-32",
+        "name": "Sideways Style",
+        "kind": "trophy",
+        "chapterId": "racing-and-cars",
+        "where": "Win a race with handling parts for maximum drift equipped"
+      },
+      {
+        "id": "achievement-33",
+        "name": "The Hackney Dream",
+        "kind": "trophy",
+        "chapterId": "racing-and-cars",
+        "where": "Win a race with handling parts for maximum off-road traction equipped"
+      },
+      {
+        "id": "achievement-34",
+        "name": "Component Parts",
+        "kind": "trophy",
+        "chapterId": "racing-and-cars",
+        "where": "Win a race with handling parts for maximum road traction equipped"
+      },
+      {
+        "id": "achievement-35",
+        "name": "Redline",
+        "kind": "trophy",
+        "chapterId": "racing-and-cars",
+        "where": "Win a race with handling parts for maximum race equipped"
+      },
+      {
+        "id": "achievement-36",
+        "name": "Humble Beginnings",
+        "kind": "trophy",
+        "chapterId": "cops-and-heat",
+        "where": "Reach REP Level 2"
+      },
+      {
+        "id": "achievement-37",
+        "name": "Notorious",
+        "kind": "trophy",
+        "chapterId": "cops-and-heat",
+        "where": "Reach REP Level 50"
+      },
+      {
+        "id": "achievement-38",
+        "name": "Cashing In",
+        "kind": "trophy",
+        "chapterId": "cops-and-heat",
+        "where": "Earn and bank 1 000 000 REP during one night"
+      },
+      {
+        "id": "achievement-39",
+        "name": "Danger Zone",
+        "kind": "trophy",
+        "chapterId": "open-world",
+        "where": "Complete all Speed Traps"
+      },
+      {
+        "id": "achievement-40",
+        "name": "Swappin'",
+        "kind": "trophy",
+        "chapterId": "racing-and-cars",
+        "where": "Win a race in a vehicle with an engine swap"
+      },
+      {
+        "id": "achievement-41",
+        "name": "Around The World",
+        "kind": "trophy",
+        "chapterId": "open-world",
+        "where": "Win the Discovery Event"
+      },
+      {
+        "id": "achievement-42",
+        "name": "Hear Me Roar",
+        "kind": "trophy",
+        "chapterId": "racing-and-cars",
+        "where": "Win a race in a vehicle with tuned exhaust sound"
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/need-for-speed-heat",
+    "Achievement data from Steam (Steam Web API, app 1222680)",
+    "StrategyWiki: no usable walkthrough, nothing used — https://strategywiki.org/wiki/Need_for_Speed_Heat",
+    "Fandom unavailable (no page under this title), marked unverified"
+  ],
+  "route": "original",
+  "notes": "Backlog game, picked from RAWG's most-added list for its year (docs/PLAN.md section 2 ordering). StrategyWiki has a stub page (completion stage 0); Walkthrough, Gameplay and Table of Contents are linked but no subpages exist. No Fandom page was found: \"Need for Speed Heat\" is missing on both nfs.fandom.com and needforspeed.fandom.com; marked unverified. 10 of 42 Steam achievements are hidden; they sit in the main story chapter as a placeholder, but \"Get Shrimpin'\" (2.3 percent) is probably not a story beat. The daily challenge, gas station and licence plate achievements fall into the racing chapter by default."
+}

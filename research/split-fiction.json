@@ -1,0 +1,281 @@
+{
+  "id": "split-fiction",
+  "title": "Split Fiction",
+  "year": 2025,
+  "platforms": [
+    "PlayStation 5",
+    "Xbox Series X|S",
+    "PC"
+  ],
+  "rawgId": 994603,
+  "rawgSlug": "split-fiction",
+  "released": "2025-03-06",
+  "developers": [
+    "Hazelight"
+  ],
+  "playtime": 6,
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "tags": [
+    "Multiplayer",
+    "Steam Cloud",
+    "Co-op",
+    "Story Rich",
+    "cooperative",
+    "Third Person",
+    "Sci-fi",
+    "Online Co-Op",
+    "Fantasy",
+    "Female Protagonist",
+    "Split Screen",
+    "Local Co-Op"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/02a/02ac22b3b90717dabaa535640c38534c.jpg",
+  "steamAppId": 2001120,
+  "achievements": {
+    "total": 20,
+    "hidden": 3,
+    "examples": [
+      {
+        "name": "Feed Me",
+        "percent": 32.2
+      },
+      {
+        "name": "Robot Revolution",
+        "percent": 29.0
+      },
+      {
+        "name": "BFF's",
+        "percent": 28.0
+      },
+      {
+        "name": "A Friendly Push",
+        "percent": 6.6
+      },
+      {
+        "name": "We're Gonna Need a Bigger Boat",
+        "percent": 3.7
+      },
+      {
+        "name": "Sisters: A Tale Of Two Besties",
+        "percent": 3.6
+      },
+      {
+        "name": "You Are Not a Robot",
+        "percent": 3.3
+      },
+      {
+        "name": "Cold Potato",
+        "percent": 1.8
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Split_Fiction",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 2,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://splitfiction.fandom.com/wiki/Split_Fiction"
+    }
+  },
+  "game": {
+    "id": "split-fiction",
+    "title": "Split Fiction",
+    "platforms": [
+      "PlayStation 5",
+      "Xbox Series X|S",
+      "PC"
+    ],
+    "blurb": "Two-player co-op action-adventure that jumps between science-fiction and fantasy worlds, from Hazelight, released 2025-03-06. RAWG average playtime: 6 hours. Genres: Action, Adventure. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#6A4BC4",
+    "chapters": [
+      {
+        "id": "main-story",
+        "title": "The Main Story",
+        "summary": "Mio and Zoe's co-op story through to the end. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "side-stories",
+        "title": "Side Stories",
+        "summary": "Finishing every side story.",
+        "steps": []
+      },
+      {
+        "id": "challenges",
+        "title": "Challenges and Set Pieces",
+        "summary": "Goals with a clear task: the gameshow bomb and the six benches.",
+        "steps": []
+      },
+      {
+        "id": "secrets-and-gags",
+        "title": "Secrets and Gags",
+        "summary": "Joke achievements for odd moments along the way; the descriptions are hints, not instructions.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "BFF's",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Finally published"
+      },
+      {
+        "id": "achievement-2",
+        "name": "Bookworms",
+        "kind": "trophy",
+        "chapterId": "side-stories",
+        "where": "Complete all side stories"
+      },
+      {
+        "id": "achievement-3",
+        "name": "Potion Chef",
+        "kind": "trophy",
+        "chapterId": "secrets-and-gags",
+        "where": "I need your strongest potions"
+      },
+      {
+        "id": "achievement-4",
+        "name": "Chair the Load",
+        "kind": "trophy",
+        "chapterId": "secrets-and-gags",
+        "where": "Get off me..."
+      },
+      {
+        "id": "achievement-5",
+        "name": "You Are Not a Robot",
+        "kind": "trophy",
+        "chapterId": "secrets-and-gags",
+        "where": "Completely Automated Public Turing test to tell Computers and Humans Apart"
+      },
+      {
+        "id": "achievement-6",
+        "name": "Sisters: A Tale Of Two Besties",
+        "kind": "trophy",
+        "chapterId": "challenges",
+        "where": "Relax on all 6 benches"
+      },
+      {
+        "id": "achievement-7",
+        "name": "One Bird, Three Stones",
+        "kind": "trophy",
+        "chapterId": "secrets-and-gags",
+        "where": "You couldn't have known"
+      },
+      {
+        "id": "achievement-8",
+        "name": "Cold Potato",
+        "kind": "trophy",
+        "chapterId": "challenges",
+        "where": "Complete the Gameshow without the bomb exploding"
+      },
+      {
+        "id": "achievement-9",
+        "name": "Tazed and Confused",
+        "kind": "trophy",
+        "chapterId": "secrets-and-gags",
+        "where": "Adding insult to injury"
+      },
+      {
+        "id": "achievement-10",
+        "name": "Locked Up",
+        "kind": "trophy",
+        "chapterId": "secrets-and-gags",
+        "where": "No way out"
+      },
+      {
+        "id": "achievement-11",
+        "name": "Huffing and Puffing",
+        "kind": "trophy",
+        "chapterId": "secrets-and-gags",
+        "where": "It's not the big bad wolf you have to worry about"
+      },
+      {
+        "id": "achievement-12",
+        "name": "Robot Revolution",
+        "kind": "trophy",
+        "chapterId": "secrets-and-gags",
+        "where": "Hasta la vista, baby"
+      },
+      {
+        "id": "achievement-13",
+        "name": "Feed Me",
+        "kind": "trophy",
+        "chapterId": "secrets-and-gags",
+        "where": "Take a snack"
+      },
+      {
+        "id": "achievement-14",
+        "name": "A Friendly Push",
+        "kind": "trophy",
+        "chapterId": "secrets-and-gags",
+        "where": "Monkey strong"
+      },
+      {
+        "id": "achievement-15",
+        "name": "Rose's Best Friend",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-16",
+        "name": "We're Gonna Need a Bigger Boat",
+        "kind": "trophy",
+        "chapterId": "secrets-and-gags",
+        "where": "Duuuun dun… duuuun dun…"
+      },
+      {
+        "id": "achievement-17",
+        "name": "Are We the Baddies?",
+        "kind": "trophy",
+        "chapterId": "secrets-and-gags",
+        "where": "No worries, it's just a simulation"
+      },
+      {
+        "id": "achievement-18",
+        "name": "The Cake is Not a Lie",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-19",
+        "name": "Snaaaaaaaaake",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-20",
+        "name": "Goin' Whole Hog",
+        "kind": "trophy",
+        "chapterId": "secrets-and-gags",
+        "where": "Let it rip"
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/split-fiction",
+    "Achievement data from Steam (Steam Web API, app 2001120)",
+    "StrategyWiki: no usable walkthrough, nothing used — https://strategywiki.org/wiki/Split_Fiction",
+    "Fandom (splitfiction.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://splitfiction.fandom.com/wiki/Split_Fiction"
+  ],
+  "route": "original",
+  "notes": "Backlog game, picked from RAWG's most-added list for its year (docs/PLAN.md section 2 ordering). StrategyWiki has a stub page (completion stage 0, marked a perfect stub); its Walkthrough, Gameplay and Table of Contents are linked but no subpages exist. splitfiction.fandom.com answers the API; its \"Split Fiction\" page has only 2 links (\"Mio\" and \"Zoe\"); names only were looked at, nothing copied. The Steam schema calls the app \"Split\"; the store list confirms app 2001120 (a separate \"Friend's Pass\" app, 3052150, was not used). There are only 20 Steam achievements, 3 hidden. Most descriptions are jokes that do not say where they unlock, so 14 sit in a catch-all Secrets and Gags chapter; the chapter split is thin and could be improved with original play notes."
+}

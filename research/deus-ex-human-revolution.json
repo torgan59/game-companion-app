@@ -1,0 +1,554 @@
+{
+  "id": "deus-ex-human-revolution",
+  "title": "Deus Ex: Human Revolution",
+  "year": 2011,
+  "platforms": [
+    "PlayStation 3",
+    "Xbox One",
+    "PC",
+    "macOS",
+    "Xbox 360"
+  ],
+  "rawgId": 4440,
+  "rawgSlug": "deus-ex-human-revolution",
+  "released": "2011-08-22",
+  "developers": [
+    "Eidos Montreal"
+  ],
+  "playtime": 17,
+  "genres": [
+    "Action",
+    "RPG"
+  ],
+  "tags": [
+    "Stealth",
+    "Cyberpunk"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/81e/81e6c6819d4322caf375b6735c3043ec.jpg",
+  "steamAppId": 238010,
+  "achievements": {
+    "total": 59,
+    "hidden": 35,
+    "examples": [
+      {
+        "name": "First Takedown",
+        "percent": 73.8
+      },
+      {
+        "name": "First Hack",
+        "percent": 71.0
+      },
+      {
+        "name": "Up the Ante!",
+        "percent": 49.9
+      },
+      {
+        "name": "Deus Ex Machina",
+        "percent": 9.8
+      },
+      {
+        "name": "Legend",
+        "percent": 8.7
+      },
+      {
+        "name": "Pacifist",
+        "percent": 4.4
+      },
+      {
+        "name": "Foxiest of the Hounds",
+        "percent": 3.7
+      },
+      {
+        "name": "Doctorate",
+        "percent": 2.9
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Deus_Ex:_Human_Revolution",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 162,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://deusex.fandom.com/wiki/Deus_Ex:_Human_Revolution"
+    }
+  },
+  "game": {
+    "id": "deus-ex-human-revolution",
+    "title": "Deus Ex: Human Revolution",
+    "platforms": [
+      "PlayStation 3",
+      "Xbox One",
+      "PC",
+      "macOS",
+      "Xbox 360"
+    ],
+    "blurb": "First-person action RPG with stealth and hacking, in which Adam Jensen, working for Sarif Industries, uncovers a conspiracy, from Eidos Montreal, released 2011-08-22. RAWG average playtime: 17 hours. Genres: Action, RPG. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#C8962E",
+    "chapters": [
+      {
+        "id": "main-story",
+        "title": "The Main Story",
+        "summary": "Adam Jensen's investigation across Detroit, Hengsha and beyond. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "side-quests",
+        "title": "Side Quests",
+        "summary": "Optional jobs for people in Detroit and Hengsha, from a grieving mother to a warrior-priest underground.",
+        "steps": []
+      },
+      {
+        "id": "stealth-and-hacking",
+        "title": "Takedowns, Hacking and Stealth",
+        "summary": "First takedowns and hacks, knocking out enemies and racking up totals in one playthrough.",
+        "steps": []
+      },
+      {
+        "id": "augs-and-weapons",
+        "title": "Augmentations, Weapons and XP Books",
+        "summary": "Upgrading augmentations and weapons, and reading every XP book.",
+        "steps": []
+      },
+      {
+        "id": "endings-and-challenges",
+        "title": "Finishing the Game, Endings and Challenge Runs",
+        "summary": "Completing the game, every ending, the hardest setting, no kills and no alarms.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "First Takedown",
+        "kind": "trophy",
+        "chapterId": "stealth-and-hacking",
+        "where": "Perform your first Takedown. Civilians don't count, so be nice."
+      },
+      {
+        "id": "achievement-2",
+        "name": "Opportunist",
+        "kind": "trophy",
+        "chapterId": "stealth-and-hacking",
+        "where": "Perform 50 takedowns within the same playthrough. (Civilians don't count)."
+      },
+      {
+        "id": "achievement-3",
+        "name": "First Hack",
+        "kind": "trophy",
+        "chapterId": "stealth-and-hacking",
+        "where": "Perform your first Hack successfully."
+      },
+      {
+        "id": "achievement-4",
+        "name": "Hax0r1!",
+        "kind": "trophy",
+        "chapterId": "stealth-and-hacking",
+        "where": "Successfully hack at least 50 devices within the same playthrough."
+      },
+      {
+        "id": "achievement-5",
+        "name": "Transhumanist",
+        "kind": "trophy",
+        "chapterId": "augs-and-weapons",
+        "where": "Fully upgrade your first augmentation of choice."
+      },
+      {
+        "id": "achievement-6",
+        "name": "Consciousness is Over-rated",
+        "kind": "trophy",
+        "chapterId": "stealth-and-hacking",
+        "where": "Knock out at least 100 enemies in a single playthrough."
+      },
+      {
+        "id": "achievement-7",
+        "name": "Up the Ante!",
+        "kind": "trophy",
+        "chapterId": "augs-and-weapons",
+        "where": "Upgrade your first weapon of choice."
+      },
+      {
+        "id": "achievement-8",
+        "name": "Trooper",
+        "kind": "trophy",
+        "chapterId": "endings-and-challenges",
+        "where": "Complete Deus Ex: Human Revolution - Director's Cut."
+      },
+      {
+        "id": "achievement-9",
+        "name": "Legend",
+        "kind": "trophy",
+        "chapterId": "endings-and-challenges",
+        "where": "Complete Deus Ex: Human Revolution - Director's Cut at its hardest setting without ever changing the difficulty."
+      },
+      {
+        "id": "achievement-10",
+        "name": "Deus Ex Machina",
+        "kind": "trophy",
+        "chapterId": "endings-and-challenges",
+        "where": "Experience all the different endings that Deus Ex: Human Revolution - Director's Cut has to offer."
+      },
+      {
+        "id": "achievement-11",
+        "name": "Pacifist",
+        "kind": "trophy",
+        "chapterId": "endings-and-challenges",
+        "where": "Complete Deus Ex: Human Revolution - Director's Cut without anyone dying by your hand. (Boss fights don't count)."
+      },
+      {
+        "id": "achievement-12",
+        "name": "Foxiest of the Hounds",
+        "kind": "trophy",
+        "chapterId": "endings-and-challenges",
+        "where": "Complete Deus Ex: Human Revolution - Director's Cut without setting off any alarms."
+      },
+      {
+        "id": "achievement-13",
+        "name": "Doctorate",
+        "kind": "trophy",
+        "chapterId": "augs-and-weapons",
+        "where": "Read all 29 XP books within a single playthrough."
+      },
+      {
+        "id": "achievement-14",
+        "name": "Lesser Evil",
+        "kind": "trophy",
+        "chapterId": "side-quests",
+        "where": "Deal with Mr. Carella's indiscretion."
+      },
+      {
+        "id": "achievement-15",
+        "name": "Motherly Ties",
+        "kind": "trophy",
+        "chapterId": "side-quests",
+        "where": "Put a grieving mother's doubts to rest."
+      },
+      {
+        "id": "achievement-16",
+        "name": "Cloak & Daggers",
+        "kind": "trophy",
+        "chapterId": "side-quests",
+        "where": "Deal with the man in the shadows."
+      },
+      {
+        "id": "achievement-17",
+        "name": "Smash the State",
+        "kind": "trophy",
+        "chapterId": "side-quests",
+        "where": "Help Officer Nicholas take out the trash."
+      },
+      {
+        "id": "achievement-18",
+        "name": "Acquaintances Forgotten",
+        "kind": "trophy",
+        "chapterId": "side-quests",
+        "where": "Follow Pritchard's lead to uncover the truth."
+      },
+      {
+        "id": "achievement-19",
+        "name": "Bar Tab",
+        "kind": "trophy",
+        "chapterId": "side-quests",
+        "where": "Help the Hive Bartender settle a tab."
+      },
+      {
+        "id": "achievement-20",
+        "name": "Rotten Business",
+        "kind": "trophy",
+        "chapterId": "side-quests",
+        "where": "Help a lady in the oldest of professions clean house."
+      },
+      {
+        "id": "achievement-21",
+        "name": "Shanghai Justice",
+        "kind": "trophy",
+        "chapterId": "side-quests",
+        "where": "It may take some sleuthing, but justice must be served."
+      },
+      {
+        "id": "achievement-22",
+        "name": "Corporate Warfare",
+        "kind": "trophy",
+        "chapterId": "side-quests",
+        "where": "Protect a client's interests by performing a less-than-hostile takeover."
+      },
+      {
+        "id": "achievement-23",
+        "name": "Talion A.D.",
+        "kind": "trophy",
+        "chapterId": "side-quests",
+        "where": "Descend into the bowels of an urban jungle and confront a warrior-priest."
+      },
+      {
+        "id": "achievement-24",
+        "name": "Gun Nut",
+        "kind": "trophy",
+        "chapterId": "augs-and-weapons",
+        "where": "Fully upgrade one of your weapons."
+      },
+      {
+        "id": "achievement-25",
+        "name": "The Bull",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-26",
+        "name": "The Mantis",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-27",
+        "name": "The Snake",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-28",
+        "name": "The End",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-29",
+        "name": "Old School Gamer",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-30",
+        "name": "Unforeseen Consequence",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-31",
+        "name": "The Desk Job",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-32",
+        "name": "Yes Boss",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-33",
+        "name": "Darker Shades",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-34",
+        "name": "The Throwdown",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-35",
+        "name": "The Last Straw",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-36",
+        "name": "The Final Countdown",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-37",
+        "name": "The D Project",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-38",
+        "name": "Good Soul",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-39",
+        "name": "Hangar 18",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-40",
+        "name": "Sentimental Value",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-41",
+        "name": "The Take",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-42",
+        "name": "Guardian Angel",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-43",
+        "name": "Lucky Guess",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-44",
+        "name": "Kevorkian Complex",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-45",
+        "name": "The Fall",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-46",
+        "name": "Super Sleuth",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-47",
+        "name": "Ladies Man",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-48",
+        "name": "Balls",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-49",
+        "name": "Ghost",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-50",
+        "name": "Factory Zero",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-51",
+        "name": "Never Stop Looking",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-52",
+        "name": "Good Samaritan",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-53",
+        "name": "Never Forget",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-54",
+        "name": "Out of the Frying Pan",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-55",
+        "name": "The learn'd Scholar",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-56",
+        "name": "All of the Above",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-57",
+        "name": "Back Stage Pass",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-58",
+        "name": "Apex Predator",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-59",
+        "name": "That Old Adage",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/deus-ex-human-revolution",
+    "Achievement data from Steam (Steam Web API, app 238010)",
+    "StrategyWiki: no usable walkthrough, nothing used — https://strategywiki.org/wiki/Deus_Ex:_Human_Revolution",
+    "Fandom (deusex.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://deusex.fandom.com/wiki/Deus_Ex:_Human_Revolution"
+  ],
+  "route": "original",
+  "notes": "Backlog game, picked from RAWG's most-added list for its year (docs/PLAN.md section 2 ordering). StrategyWiki has a page at completion stage 2, but its walkthrough is mostly unwritten: 8 of the 48 mission pages listed in its contents are written (the first three main missions, plus \"Getting Out of the Frying Pan\", \"In the Belly of the Beast\", \"Choices, Choices\", \"Acceptable Losses\" and \"Getting Inside Help\" near the end of the list), so it was not used. deusex.fandom.com answers the API, with about 162 linked pages (including \"The Missing Link\" and \"Deus Ex: Human Revolution - Director's Cut\"); names only were looked at, nothing copied. The only Steam app in the store list is the Director's Cut (238010), and the achievement text names the Director's Cut; RAWG's first result is the original release (4440), as expected, with a separate Director's Cut entry (3876). 35 of 59 Steam achievements are hidden; they sit in the main story chapter as a placeholder. One hidden achievement, \"Out of the Frying Pan\", shares its name with a StrategyWiki page listed near \"The Long Way Home\" at the end of the contents, so some hidden ones probably belong to extra content (perhaps The Missing Link) rather than the main story; this needs checking. The ten visible side quest achievements match side mission page names in the StrategyWiki contents."
+}

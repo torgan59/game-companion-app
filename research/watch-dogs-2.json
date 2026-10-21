@@ -1,0 +1,538 @@
+{
+  "id": "watch-dogs-2",
+  "title": "Watch Dogs 2",
+  "year": 2016,
+  "platforms": [
+    "Xbox One",
+    "PlayStation 4",
+    "PC"
+  ],
+  "rawgId": 10061,
+  "rawgSlug": "watch_dogs-2",
+  "released": "2016-11-28",
+  "developers": [
+    "Ubisoft Montreal"
+  ],
+  "playtime": 17,
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Multiplayer",
+    "Atmospheric",
+    "Co-op",
+    "Open World",
+    "cooperative",
+    "Third Person",
+    "Partial Controller Support",
+    "Gore",
+    "Comedy",
+    "Stealth",
+    "Third-Person Shooter"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/f52/f52cf6ba08089cd5f1a9c8f7fcc93d1f.jpg",
+  "steamAppId": 447040,
+  "achievements": {
+    "total": 55,
+    "hidden": 0,
+    "examples": [
+      {
+        "name": "Who Am I",
+        "percent": 39.1
+      },
+      {
+        "name": "Put Your Damn Pants On",
+        "percent": 35.0
+      },
+      {
+        "name": "Third Time's the Charm",
+        "percent": 30.4
+      },
+      {
+        "name": "Please Marcus, Don't Hurt Them",
+        "percent": 0.8
+      },
+      {
+        "name": "Feeding Frenzy",
+        "percent": 0.8
+      },
+      {
+        "name": "Hold My Hair",
+        "percent": 0.6
+      },
+      {
+        "name": "Prize Catch",
+        "percent": 0.3
+      },
+      {
+        "name": "It's the Final Showd0wn",
+        "percent": 0.2
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Watch_Dogs_2",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 38,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://watchdogs.fandom.com/wiki/Watch_Dogs_2"
+    }
+  },
+  "game": {
+    "id": "watch-dogs-2",
+    "title": "Watch Dogs 2",
+    "platforms": [
+      "Xbox One",
+      "PlayStation 4",
+      "PC"
+    ],
+    "blurb": "Open-world hacking action-adventure from Ubisoft Montreal, released 2016-11-28. RAWG average playtime: 17 hours. Genres: Action, Adventure. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#1FA3C9",
+    "chapters": [
+      {
+        "id": "operations",
+        "title": "Operations",
+        "summary": "Erasing Marcus's past from the Blume servers and working through the DedSec operations to the hack of the century.",
+        "steps": []
+      },
+      {
+        "id": "extra-operations",
+        "title": "Extra Operations",
+        "summary": "Five operations listed at the end of the list with low unlock rates: Bad Medicine, Automata, Caustic Progress, Off the Hook and Moscow Gambit.",
+        "steps": []
+      },
+      {
+        "id": "hacking-and-combat",
+        "title": "Hacking and Combat",
+        "summary": "Stealth takedowns, hacking robots and cars, escaping a felony and calling the cops.",
+        "steps": []
+      },
+      {
+        "id": "driving-and-races",
+        "title": "Driving, Races and Stunts",
+        "summary": "Sailboat, drone and bike races, long jumps, hijacking boats and buses, unique vehicles, dealerships and the eKart.",
+        "steps": []
+      },
+      {
+        "id": "city-life",
+        "title": "City Life and Collectibles",
+        "summary": "Clothes, the 3D printer, apps, dogs, selfies, ScoutX photos, Key Data and the cable car.",
+        "steps": []
+      },
+      {
+        "id": "online",
+        "title": "Online Play",
+        "summary": "Co-op operations, Bounty Hunter, hacker invasions and Showd0wn.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Who Am I",
+        "kind": "trophy",
+        "chapterId": "operations",
+        "where": "Erase your past identity in the Blume servers"
+      },
+      {
+        "id": "achievement-2",
+        "name": "Put Your Damn Pants On",
+        "kind": "trophy",
+        "chapterId": "city-life",
+        "where": "Buy some pants after the party"
+      },
+      {
+        "id": "achievement-3",
+        "name": "Menace",
+        "kind": "trophy",
+        "chapterId": "city-life",
+        "where": "Buy a two handed weapon at the 3D printer"
+      },
+      {
+        "id": "achievement-4",
+        "name": "In Style",
+        "kind": "trophy",
+        "chapterId": "city-life",
+        "where": "Buy the Gatorfeet Whine Country footwear"
+      },
+      {
+        "id": "achievement-5",
+        "name": "DedSec-A-Roni",
+        "kind": "trophy",
+        "chapterId": "city-life",
+        "where": "Ride a cable car"
+      },
+      {
+        "id": "achievement-6",
+        "name": "Only God Can Judge Me",
+        "kind": "trophy",
+        "chapterId": "city-life",
+        "where": "Buy a shirt in the Nudle vending machine"
+      },
+      {
+        "id": "achievement-7",
+        "name": "Doggyland",
+        "kind": "trophy",
+        "chapterId": "city-life",
+        "where": "Pet 10 dogs"
+      },
+      {
+        "id": "achievement-8",
+        "name": "Photobombed!",
+        "kind": "trophy",
+        "chapterId": "city-life",
+        "where": "Get photobombed in a selfie"
+      },
+      {
+        "id": "achievement-9",
+        "name": "A Ride to Remember",
+        "kind": "trophy",
+        "chapterId": "driving-and-races",
+        "where": "Drive one of the Unique Vehicles"
+      },
+      {
+        "id": "achievement-10",
+        "name": "Bad Boys",
+        "kind": "trophy",
+        "chapterId": "driving-and-races",
+        "where": "Hijack a boat"
+      },
+      {
+        "id": "achievement-11",
+        "name": "Something To Ride",
+        "kind": "trophy",
+        "chapterId": "driving-and-races",
+        "where": "Hijack a bus"
+      },
+      {
+        "id": "achievement-12",
+        "name": "Researcher",
+        "kind": "trophy",
+        "chapterId": "city-life",
+        "where": "Collect all the Key Data hidden in the world"
+      },
+      {
+        "id": "achievement-13",
+        "name": "Smooth Felon",
+        "kind": "trophy",
+        "chapterId": "hacking-and-combat",
+        "where": "Escape a Level 5 felony"
+      },
+      {
+        "id": "achievement-14",
+        "name": "Miniroadtrip!",
+        "kind": "trophy",
+        "chapterId": "driving-and-races",
+        "where": "Drive 4 km in the world while driving the Merengue from Elek Motors"
+      },
+      {
+        "id": "achievement-15",
+        "name": "Knock You Out",
+        "kind": "trophy",
+        "chapterId": "hacking-and-combat",
+        "where": "Do a stealth takedown on 30 enemies"
+      },
+      {
+        "id": "achievement-16",
+        "name": "Jump Around",
+        "kind": "trophy",
+        "chapterId": "driving-and-races",
+        "where": "Do a 140 meters long jump while driving a vehicle"
+      },
+      {
+        "id": "achievement-17",
+        "name": "Earn your Sea Legs",
+        "kind": "trophy",
+        "chapterId": "driving-and-races",
+        "where": "Do a sailboat race"
+      },
+      {
+        "id": "achievement-18",
+        "name": "Roboteer",
+        "kind": "trophy",
+        "chapterId": "hacking-and-combat",
+        "where": "Hack a robot"
+      },
+      {
+        "id": "achievement-19",
+        "name": "Third Time's the Charm",
+        "kind": "trophy",
+        "chapterId": "driving-and-races",
+        "where": "Make 3 jumps in a row aboard a vehicle"
+      },
+      {
+        "id": "achievement-20",
+        "name": "Hold My Hair",
+        "kind": "trophy",
+        "chapterId": "city-life",
+        "where": "Take a picture of someone vomiting"
+      },
+      {
+        "id": "achievement-21",
+        "name": "Let Me Ride",
+        "kind": "trophy",
+        "chapterId": "hacking-and-combat",
+        "where": "Travel 200 meters on top of a car by hacking it"
+      },
+      {
+        "id": "achievement-22",
+        "name": "One of the Gang",
+        "kind": "trophy",
+        "chapterId": "city-life",
+        "where": "Complete 5 DedSec Events"
+      },
+      {
+        "id": "achievement-23",
+        "name": "Natural Born Killer",
+        "kind": "trophy",
+        "chapterId": "online",
+        "where": "Neutralize 1 Hunter in Bounty Hunter mode"
+      },
+      {
+        "id": "achievement-24",
+        "name": "Please Marcus, Don't Hurt Them",
+        "kind": "trophy",
+        "chapterId": "online",
+        "where": "Successfully neutralize 5 fugitives in Bounty Hunter"
+      },
+      {
+        "id": "achievement-25",
+        "name": "Hold My Hand",
+        "kind": "trophy",
+        "chapterId": "online",
+        "where": "Successfully complete an online Co-op Operation"
+      },
+      {
+        "id": "achievement-26",
+        "name": "Feeding Frenzy",
+        "kind": "trophy",
+        "chapterId": "hacking-and-combat",
+        "where": "Use the \"Call the cops\" hack on the donut-disguised man in Haight-Ashbury"
+      },
+      {
+        "id": "achievement-27",
+        "name": "Troll'r",
+        "kind": "trophy",
+        "chapterId": "online",
+        "where": "Successfully invade another hacker"
+      },
+      {
+        "id": "achievement-28",
+        "name": "Got The Shutterbug",
+        "kind": "trophy",
+        "chapterId": "city-life",
+        "where": "Take 25 ScoutX location pictures"
+      },
+      {
+        "id": "achievement-29",
+        "name": "One-Man Garage",
+        "kind": "trophy",
+        "chapterId": "driving-and-races",
+        "where": "Buy 25 cars in car dealerships"
+      },
+      {
+        "id": "achievement-30",
+        "name": "Pimp My eKart",
+        "kind": "trophy",
+        "chapterId": "driving-and-races",
+        "where": "Get all the eKart upgrades"
+      },
+      {
+        "id": "achievement-31",
+        "name": "App'ing Around",
+        "kind": "trophy",
+        "chapterId": "city-life",
+        "where": "Buy all the apps in the App Shop"
+      },
+      {
+        "id": "achievement-32",
+        "name": "I Get Around",
+        "kind": "trophy",
+        "chapterId": "driving-and-races",
+        "where": "Do a drone race"
+      },
+      {
+        "id": "achievement-33",
+        "name": "Ain't No Stopping",
+        "kind": "trophy",
+        "chapterId": "driving-and-races",
+        "where": "Do a bike race"
+      },
+      {
+        "id": "achievement-34",
+        "name": "The Fox",
+        "kind": "trophy",
+        "chapterId": "operations",
+        "where": "Finish Operation: Shadow"
+      },
+      {
+        "id": "achievement-35",
+        "name": "Joined the Mile High Club",
+        "kind": "trophy",
+        "chapterId": "operations",
+        "where": "Finish Operation: Hack teh World"
+      },
+      {
+        "id": "achievement-36",
+        "name": "Picking Up the Pieces",
+        "kind": "trophy",
+        "chapterId": "operations",
+        "where": "Finish Operation: Looking Glass"
+      },
+      {
+        "id": "achievement-37",
+        "name": "Baby, I Got Your Money",
+        "kind": "trophy",
+        "chapterId": "operations",
+        "where": "Finish Operation: False Profits"
+      },
+      {
+        "id": "achievement-38",
+        "name": "Knight Ridden",
+        "kind": "trophy",
+        "chapterId": "operations",
+        "where": "Finish Operation: Cyber Driver"
+      },
+      {
+        "id": "achievement-39",
+        "name": "No Place Like Haum",
+        "kind": "trophy",
+        "chapterId": "operations",
+        "where": "Finish Operation: Haum Sweet Haum"
+      },
+      {
+        "id": "achievement-40",
+        "name": "Informer",
+        "kind": "trophy",
+        "chapterId": "operations",
+        "where": "Finish Operation: Limp Nudle"
+      },
+      {
+        "id": "achievement-41",
+        "name": "100% Legit",
+        "kind": "trophy",
+        "chapterId": "operations",
+        "where": "Finish Operation: $911"
+      },
+      {
+        "id": "achievement-42",
+        "name": "Hypnotize",
+        "kind": "trophy",
+        "chapterId": "operations",
+        "where": "Finish Operation: W4tched"
+      },
+      {
+        "id": "achievement-43",
+        "name": "Old School Justice",
+        "kind": "trophy",
+        "chapterId": "operations",
+        "where": "Finish Operation: Eye for An Eye"
+      },
+      {
+        "id": "achievement-44",
+        "name": "Sabotage",
+        "kind": "trophy",
+        "chapterId": "operations",
+        "where": "Finish Operation: Hacker War"
+      },
+      {
+        "id": "achievement-45",
+        "name": "Make Every Voice Count",
+        "kind": "trophy",
+        "chapterId": "operations",
+        "where": "Finish Operation: Power to the Sheeple"
+      },
+      {
+        "id": "achievement-46",
+        "name": "The Itsy Bitsy Spider",
+        "kind": "trophy",
+        "chapterId": "operations",
+        "where": "Finish Operation: Robot Wars"
+      },
+      {
+        "id": "achievement-47",
+        "name": "You're On A Boat!",
+        "kind": "trophy",
+        "chapterId": "operations",
+        "where": "Finish Operation: Shanghaied"
+      },
+      {
+        "id": "achievement-48",
+        "name": "Leaks and Leaks",
+        "kind": "trophy",
+        "chapterId": "operations",
+        "where": "Finish Operation: Ubistolen"
+      },
+      {
+        "id": "achievement-49",
+        "name": "Hack the World",
+        "kind": "trophy",
+        "chapterId": "operations",
+        "where": "Trigger the hack of the century"
+      },
+      {
+        "id": "achievement-50",
+        "name": "Not the Pizza Guy",
+        "kind": "trophy",
+        "chapterId": "extra-operations",
+        "where": "Finish Operation: Bad Medicine"
+      },
+      {
+        "id": "achievement-51",
+        "name": "The Score of Your Life",
+        "kind": "trophy",
+        "chapterId": "extra-operations",
+        "where": "Finish Operation: Automata"
+      },
+      {
+        "id": "achievement-52",
+        "name": "Nanotriumph",
+        "kind": "trophy",
+        "chapterId": "extra-operations",
+        "where": "Finish Operation: Caustic Progress"
+      },
+      {
+        "id": "achievement-53",
+        "name": "Prize Catch",
+        "kind": "trophy",
+        "chapterId": "extra-operations",
+        "where": "Finish Operation: Off the Hook"
+      },
+      {
+        "id": "achievement-54",
+        "name": "That Escalated Quickly",
+        "kind": "trophy",
+        "chapterId": "extra-operations",
+        "where": "Finish Operation: Moscow Gambit"
+      },
+      {
+        "id": "achievement-55",
+        "name": "It's the Final Showd0wn",
+        "kind": "trophy",
+        "chapterId": "online",
+        "where": "Reach the maximum win streak bonus in Showd0wn"
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/watch_dogs-2",
+    "Achievement data from Steam (Steam Web API, app 447040)",
+    "StrategyWiki: no usable walkthrough, nothing used — https://strategywiki.org/wiki/Watch_Dogs_2",
+    "Fandom (watchdogs.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://watchdogs.fandom.com/wiki/Watch_Dogs_2"
+  ],
+  "route": "original",
+  "notes": "Backlog game, picked from RAWG's most-added list for its year (docs/PLAN.md section 2 ordering). StrategyWiki has a page tagged completion stage 2, but only a Table of Contents subpage (about 250 characters) exists; Walkthrough, Gameplay and Controls are linked but not written, so it is not a real guide and no structure was taken. watchdogs.fandom.com answers the API, with about 38 linked pages; names only were looked at, nothing copied. None of the 55 Steam achievements are hidden. The data does not say which operations are main story and which are side, so all of them share one chapter; the last five operations in the schema (about 0.3 to 1.8 percent, much lower than the rest) got their own chapter and are probably add-on content, but the data does not name any DLC, so this needs checking. \"One of the Gang\" (5 DedSec Events) was left in city life, though it may be online. \"Hack the World\" (hack of the century) sits with the operations."
+}

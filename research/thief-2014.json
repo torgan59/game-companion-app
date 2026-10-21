@@ -1,0 +1,418 @@
+{
+  "id": "thief-2014",
+  "title": "Thief",
+  "year": 2014,
+  "platforms": [
+    "PlayStation 4",
+    "PlayStation 3",
+    "Xbox 360",
+    "Xbox One",
+    "macOS",
+    "PC"
+  ],
+  "rawgId": 3766,
+  "rawgSlug": "thief",
+  "released": "2014-02-25",
+  "developers": [
+    "Feral Interactive",
+    "Square Enix",
+    "Eidos Montreal"
+  ],
+  "playtime": 5,
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Full controller support",
+    "Steam Cloud",
+    "Atmospheric",
+    "steam-trading-cards",
+    "RPG",
+    "Open World",
+    "First-Person",
+    "Horror",
+    "FPS",
+    "Fantasy"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/59a/59a3ebcba3d08c51532c6ca877aff256.jpg",
+  "steamAppId": 239160,
+  "achievements": {
+    "total": 37,
+    "hidden": 0,
+    "examples": [
+      {
+        "name": "The Drop",
+        "percent": 78.5
+      },
+      {
+        "name": "Lockdown",
+        "percent": 69.2
+      },
+      {
+        "name": "Dust to Dust",
+        "percent": 48.3
+      },
+      {
+        "name": "A Moral Victory",
+        "percent": 2.4
+      },
+      {
+        "name": "What's Yours is Mine",
+        "percent": 2.4
+      },
+      {
+        "name": "Something to Prove",
+        "percent": 2.1
+      },
+      {
+        "name": "Modesty Denied",
+        "percent": 2.1
+      },
+      {
+        "name": "Finders Keepers",
+        "percent": 2.0
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": false,
+      "pages": 0,
+      "reason": "No page for Thief (MediaWiki API returned missing; search empty)"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 77,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://thief.fandom.com/wiki/Thief_(reboot)"
+    }
+  },
+  "game": {
+    "id": "thief-2014",
+    "title": "Thief",
+    "platforms": [
+      "PlayStation 4",
+      "PlayStation 3",
+      "Xbox 360",
+      "Xbox One",
+      "macOS",
+      "PC"
+    ],
+    "blurb": "Stealth game set in The City, a soft reboot of the Thief series, from Eidos Montreal, released 2014-02-25. RAWG average playtime: 5 hours. Genres: Action, Adventure. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#4A5A3C",
+    "chapters": [
+      {
+        "id": "story-early",
+        "title": "The Prologue to Chapter Three",
+        "summary": "The opening heist and the first three chapters of the story.",
+        "steps": []
+      },
+      {
+        "id": "story-late",
+        "title": "Chapters Four to Eight",
+        "summary": "The second half of the story, to the last chapter.",
+        "steps": []
+      },
+      {
+        "id": "city-jobs",
+        "title": "The City: Jobs, Secrets and Stashes",
+        "summary": "Client jobs, Basso's jobs, secret areas and the secret stashes in Moira.",
+        "steps": []
+      },
+      {
+        "id": "loot",
+        "title": "Loot and Collectibles",
+        "summary": "Stealing loot and collectibles, picking pockets and spending gold.",
+        "steps": []
+      },
+      {
+        "id": "challenges",
+        "title": "Playthrough Challenges and Challenge Maps",
+        "summary": "Master difficulty, custom difficulty, no-kill and no-damage runs, and Challenge Map scores.",
+        "steps": []
+      },
+      {
+        "id": "stealth-skills",
+        "title": "Stealth and Thieving Skills",
+        "summary": "Lockpicking, focus, traps, optional Thieving Objectives and sneaky tricks.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Obsessive Compulsive",
+        "kind": "trophy",
+        "chapterId": "loot",
+        "where": "Stole all loot and collectibles in a single chapter."
+      },
+      {
+        "id": "achievement-2",
+        "name": "Sleight of Hand",
+        "kind": "trophy",
+        "chapterId": "loot",
+        "where": "Picked 100 pockets in a single playthrough"
+      },
+      {
+        "id": "achievement-3",
+        "name": "Quickly Pick a Lucky Lock",
+        "kind": "trophy",
+        "chapterId": "stealth-skills",
+        "where": "Picked a lock with masterful speed"
+      },
+      {
+        "id": "achievement-4",
+        "name": "Something to Prove",
+        "kind": "trophy",
+        "chapterId": "challenges",
+        "where": "Finished the game with a custom difficulty of 700 points or more"
+      },
+      {
+        "id": "achievement-5",
+        "name": "Dark Archer",
+        "kind": "trophy",
+        "chapterId": "stealth-skills",
+        "where": "Completed 10 optional Thieving Objectives"
+      },
+      {
+        "id": "achievement-6",
+        "name": "Legend in Leather",
+        "kind": "trophy",
+        "chapterId": "stealth-skills",
+        "where": "Completed 25 optional Thieving Objectives"
+      },
+      {
+        "id": "achievement-7",
+        "name": "Mint Condition",
+        "kind": "trophy",
+        "chapterId": "challenges",
+        "where": "Finished 3 consecutive chapters without taking damage"
+      },
+      {
+        "id": "achievement-8",
+        "name": "Focus on the Tasks at Hand",
+        "kind": "trophy",
+        "chapterId": "stealth-skills",
+        "where": "Picked a pocket and a lock using the focus ability"
+      },
+      {
+        "id": "achievement-9",
+        "name": "A Moral Victory",
+        "kind": "trophy",
+        "chapterId": "challenges",
+        "where": "Finished the game without a single kill or knockout"
+      },
+      {
+        "id": "achievement-10",
+        "name": "One Step Ahead",
+        "kind": "trophy",
+        "chapterId": "stealth-skills",
+        "where": "Disarmed ten trap mechanisms"
+      },
+      {
+        "id": "achievement-11",
+        "name": "Clear Headed",
+        "kind": "trophy",
+        "chapterId": "challenges",
+        "where": "Reached the final chapter without using the focus ability"
+      },
+      {
+        "id": "achievement-12",
+        "name": "Hard Times",
+        "kind": "trophy",
+        "chapterId": "challenges",
+        "where": "Finished the game on Master difficulty"
+      },
+      {
+        "id": "achievement-13",
+        "name": "Modesty Denied",
+        "kind": "trophy",
+        "chapterId": "challenges",
+        "where": "Scored an epic 5,000,000 or more in a Challenge Map"
+      },
+      {
+        "id": "achievement-14",
+        "name": "Child of the Shadows",
+        "kind": "trophy",
+        "chapterId": "stealth-skills",
+        "where": "Finished a single chapter without alerting anyone"
+      },
+      {
+        "id": "achievement-15",
+        "name": "Hail of Glass",
+        "kind": "trophy",
+        "chapterId": "stealth-skills",
+        "where": "Shot a bottle in mid-air with an arrow"
+      },
+      {
+        "id": "achievement-16",
+        "name": "Health Hazard",
+        "kind": "trophy",
+        "chapterId": "stealth-skills",
+        "where": "Killed or knocked out 10 people using the environment"
+      },
+      {
+        "id": "achievement-17",
+        "name": "Priceless",
+        "kind": "trophy",
+        "chapterId": "loot",
+        "where": "Completed a collectible set"
+      },
+      {
+        "id": "achievement-18",
+        "name": "What's Yours is Mine",
+        "kind": "trophy",
+        "chapterId": "loot",
+        "where": "Completed all collectible sets"
+      },
+      {
+        "id": "achievement-19",
+        "name": "Happy Birthday",
+        "kind": "trophy",
+        "chapterId": "stealth-skills",
+        "where": "Sweet sixteen. Snuff said."
+      },
+      {
+        "id": "achievement-20",
+        "name": "Hidden Agenda",
+        "kind": "trophy",
+        "chapterId": "city-jobs",
+        "where": "Discovered 15 secret areas"
+      },
+      {
+        "id": "achievement-21",
+        "name": "Finders Keepers",
+        "kind": "trophy",
+        "chapterId": "city-jobs",
+        "where": "Discovered all secret areas"
+      },
+      {
+        "id": "achievement-22",
+        "name": "Cache Dispenser",
+        "kind": "trophy",
+        "chapterId": "loot",
+        "where": "Used 40,000 gold"
+      },
+      {
+        "id": "achievement-23",
+        "name": "Working Overtime",
+        "kind": "trophy",
+        "chapterId": "city-jobs",
+        "where": "Completed all client jobs in The City"
+      },
+      {
+        "id": "achievement-24",
+        "name": "Dastardly Deeds",
+        "kind": "trophy",
+        "chapterId": "city-jobs",
+        "where": "Completed all Basso Jobs in The City"
+      },
+      {
+        "id": "achievement-25",
+        "name": "All That Glitters",
+        "kind": "trophy",
+        "chapterId": "loot",
+        "where": "Stole 5 collectibles"
+      },
+      {
+        "id": "achievement-26",
+        "name": "Old Habits Die Hard",
+        "kind": "trophy",
+        "chapterId": "city-jobs",
+        "where": "Found all the secret stashes in Moira"
+      },
+      {
+        "id": "achievement-27",
+        "name": "Two Faced",
+        "kind": "trophy",
+        "chapterId": "story-early",
+        "where": "Uncovered Lyegrove's secret"
+      },
+      {
+        "id": "achievement-28",
+        "name": "The Drop",
+        "kind": "trophy",
+        "chapterId": "story-early",
+        "where": "Finished the Prologue"
+      },
+      {
+        "id": "achievement-29",
+        "name": "Lockdown",
+        "kind": "trophy",
+        "chapterId": "story-early",
+        "where": "Finished Chapter One"
+      },
+      {
+        "id": "achievement-30",
+        "name": "Dust to Dust",
+        "kind": "trophy",
+        "chapterId": "story-early",
+        "where": "Finished Chapter Two"
+      },
+      {
+        "id": "achievement-31",
+        "name": "Dirty Secrets",
+        "kind": "trophy",
+        "chapterId": "story-early",
+        "where": "Finished Chapter Three"
+      },
+      {
+        "id": "achievement-32",
+        "name": "A Friend in Need",
+        "kind": "trophy",
+        "chapterId": "story-late",
+        "where": "Finished Chapter Four"
+      },
+      {
+        "id": "achievement-33",
+        "name": "The Forsaken",
+        "kind": "trophy",
+        "chapterId": "story-late",
+        "where": "Finished Chapter Five"
+      },
+      {
+        "id": "achievement-34",
+        "name": "A Man Apart",
+        "kind": "trophy",
+        "chapterId": "story-late",
+        "where": "Finished Chapter Six"
+      },
+      {
+        "id": "achievement-35",
+        "name": "The Hidden City",
+        "kind": "trophy",
+        "chapterId": "story-late",
+        "where": "Finished Chapter Seven"
+      },
+      {
+        "id": "achievement-36",
+        "name": "The Dawn's Light",
+        "kind": "trophy",
+        "chapterId": "story-late",
+        "where": "Finished Chapter Eight"
+      },
+      {
+        "id": "achievement-37",
+        "name": "Predatory Drive",
+        "kind": "trophy",
+        "chapterId": "challenges",
+        "where": "Finished the game in 15 hours or more"
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/thief",
+    "Achievement data from Steam (Steam Web API, app 239160)",
+    "StrategyWiki: no page for this game, nothing used",
+    "Fandom (thief.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://thief.fandom.com/wiki/Thief_(reboot)"
+  ],
+  "route": "original",
+  "notes": "Backlog game, picked from RAWG's most-added list for its year (docs/PLAN.md section 2 ordering). RAWG's first result, \"thief\" (id 3766, released 2014-02-25, Eidos Montreal), is the 2014 game, not \"Thief: The Dark Project\" (1998, a separate RAWG entry). No StrategyWiki page under \"Thief (2014)\": StrategyWiki's \"Thief\" is a series category page that links to \"Thief (2014)\", but that page is not created, so nothing was used. thief.fandom.com answers the API: \"Thief (2014)\" redirects to \"Thief (reboot)\", with about 77 linked pages; its summary says the game was first labelled \"THI4F\". Names only were looked at, nothing copied. None of the 37 Steam achievements is hidden. Nine achievements mark the Prologue and Chapters One to Eight, so the story is split into two chapters. \"Two Faced\" (uncovered Lyegrove's secret, 30%) is placed with the early chapters because its unlock rate sits between Chapters Three and Four; that is a judgement call. \"Happy Birthday\" (\"Sweet sixteen. Snuff said.\", 41%) does not say what it needs, so it sits in the skills chapter as a placeholder."
+}

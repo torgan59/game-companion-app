@@ -1,0 +1,579 @@
+{
+  "id": "just-cause-4",
+  "title": "Just Cause 4",
+  "year": 2018,
+  "platforms": [
+    "PC",
+    "PlayStation 4",
+    "Xbox One"
+  ],
+  "rawgId": 58698,
+  "rawgSlug": "just-cause-4",
+  "released": "2018-12-04",
+  "developers": [
+    "Square Enix",
+    "Avalanche Studios"
+  ],
+  "playtime": 5,
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Full controller support",
+    "Atmospheric",
+    "steam-trading-cards",
+    "Story Rich",
+    "Open World",
+    "cooperative",
+    "Gore",
+    "Sandbox",
+    "Violent",
+    "Action-Adventure"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/02a/02a7f96f5a1156642bc0f827fd1b63f0.jpg",
+  "steamAppId": 517630,
+  "achievements": {
+    "total": 61,
+    "hidden": 9,
+    "examples": [
+      {
+        "name": "Classic Hits",
+        "percent": 82.8
+      },
+      {
+        "name": "Chaos Milestone",
+        "percent": 73.9
+      },
+      {
+        "name": "A Higher Love",
+        "percent": 51.5
+      },
+      {
+        "name": "Stunt Driver",
+        "percent": 1.9
+      },
+      {
+        "name": "Been Around the World",
+        "percent": 1.8
+      },
+      {
+        "name": "Fully Stocked",
+        "percent": 1.7
+      },
+      {
+        "name": "Tiger Tamer",
+        "percent": 1.4
+      },
+      {
+        "name": "Rico was Here",
+        "percent": 1.3
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": false,
+      "pages": 0,
+      "reason": "No page for Just Cause 4 (MediaWiki API returned missing; search empty)"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 118,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://justcause.fandom.com/wiki/Just_Cause_4"
+    }
+  },
+  "game": {
+    "id": "just-cause-4",
+    "title": "Just Cause 4",
+    "platforms": [
+      "PC",
+      "PlayStation 4",
+      "Xbox One"
+    ],
+    "blurb": "Open-world action game of grappling, wingsuits and explosive chaos across the land of Solís, from Avalanche Studios and Square Enix, released 2018-12-04. RAWG average playtime: 5 hours. Genres: Action, Adventure. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#D9822B",
+    "chapters": [
+      {
+        "id": "main-story",
+        "title": "The Main Story",
+        "summary": "Operations across Solís, securing Illapa, helping Sargento, Javi Huerta and Garland King, and the Lost Tomb of Otorongo.",
+        "steps": []
+      },
+      {
+        "id": "regions-and-army",
+        "title": "Regions, Army of Chaos and Blueprints",
+        "summary": "Securing every region and factory, growing the Army of Chaos, recruiting pilots and securing blueprints.",
+        "steps": []
+      },
+      {
+        "id": "exploration-and-stunts",
+        "title": "Exploration and Stunts",
+        "summary": "Locations, Ancient Statues, Surveillance Airships, filmed stunts, the highest point in Solís and the rigged vehicles in the harbors.",
+        "steps": []
+      },
+      {
+        "id": "trials-and-challenges",
+        "title": "Trials, Challenges and Feats",
+        "summary": "The Trials, the Solino Underground courses, vehicle-wrecking challenges and Feat leaderboards.",
+        "steps": []
+      },
+      {
+        "id": "infestations",
+        "title": "The Infestations",
+        "summary": "Clearing the Infestation from the Mainland, the Farm, the Church, the Compound, the Lake, the Crash and the Mountain.",
+        "steps": []
+      },
+      {
+        "id": "grappling-and-mayhem",
+        "title": "Grappling Hook and Mayhem",
+        "summary": "Grappling hook mods and tether play, plane crashes, the Cow Gun and other chaos.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "We Put a Giant Gun on It",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Finish Operation Sandstinger"
+      },
+      {
+        "id": "achievement-2",
+        "name": "Show Me the Way",
+        "kind": "trophy",
+        "chapterId": "exploration-and-stunts",
+        "where": "Uncover every Ancient Statue"
+      },
+      {
+        "id": "achievement-3",
+        "name": "I Feel the Need...",
+        "kind": "trophy",
+        "chapterId": "exploration-and-stunts",
+        "where": "Film every Speed Stunt"
+      },
+      {
+        "id": "achievement-4",
+        "name": "...The Harder They Fall",
+        "kind": "trophy",
+        "chapterId": "exploration-and-stunts",
+        "where": "Destroy every Surveillance Airship"
+      },
+      {
+        "id": "achievement-5",
+        "name": "Stunt Driver",
+        "kind": "trophy",
+        "chapterId": "exploration-and-stunts",
+        "where": "Film every Vehicle Stunt"
+      },
+      {
+        "id": "achievement-6",
+        "name": "All the Right Moves",
+        "kind": "trophy",
+        "chapterId": "exploration-and-stunts",
+        "where": "Film every Wingsuit Stunt"
+      },
+      {
+        "id": "achievement-7",
+        "name": "Wanderlust",
+        "kind": "trophy",
+        "chapterId": "exploration-and-stunts",
+        "where": "Discover 50% of all discoverable Locations"
+      },
+      {
+        "id": "achievement-8",
+        "name": "A Scorpion's Tale",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Secure Illapa"
+      },
+      {
+        "id": "achievement-9",
+        "name": "Fully Stocked",
+        "kind": "trophy",
+        "chapterId": "regions-and-army",
+        "where": "Secure every Supply Drop Blueprint"
+      },
+      {
+        "id": "achievement-10",
+        "name": "What If I... Dive Down?",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Finish Operation Windwalker"
+      },
+      {
+        "id": "achievement-11",
+        "name": "Bring It Down!",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Finish Operation Thunderbarge"
+      },
+      {
+        "id": "achievement-12",
+        "name": "Been Around the World",
+        "kind": "trophy",
+        "chapterId": "exploration-and-stunts",
+        "where": "Discover every Location in the game"
+      },
+      {
+        "id": "achievement-13",
+        "name": "Here to Stay",
+        "kind": "trophy",
+        "chapterId": "regions-and-army",
+        "where": "Secure every Region"
+      },
+      {
+        "id": "achievement-14",
+        "name": "I Like to Keep My Options Open",
+        "kind": "trophy",
+        "chapterId": "grappling-and-mayhem",
+        "where": "Unlock every Grappling Hook Mod"
+      },
+      {
+        "id": "achievement-15",
+        "name": "Last Action Hero",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Help Garland King finally finish her picture"
+      },
+      {
+        "id": "achievement-16",
+        "name": "Knowledge is Power",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Uncover the mysteries of the Lost Tomb of Otorongo"
+      },
+      {
+        "id": "achievement-17",
+        "name": "His name is Luis",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Help Sargento stop an invasion of Black Hand reinforcements"
+      },
+      {
+        "id": "achievement-18",
+        "name": "Rico's Roughnecks",
+        "kind": "trophy",
+        "chapterId": "regions-and-army",
+        "where": "Recruit every Pilot"
+      },
+      {
+        "id": "achievement-19",
+        "name": "Allow Me to Introduce Myself",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Help Sargento with his ambush, meet the mysterious Javi Huerta, and visit Garland King on set"
+      },
+      {
+        "id": "achievement-20",
+        "name": "We're in Business",
+        "kind": "trophy",
+        "chapterId": "regions-and-army",
+        "where": "Secure every Factory"
+      },
+      {
+        "id": "achievement-21",
+        "name": "Know My Name",
+        "kind": "trophy",
+        "chapterId": "trials-and-challenges",
+        "where": "Get on the Leaderboard for every Feat"
+      },
+      {
+        "id": "achievement-22",
+        "name": "A Whole Army of Chaos",
+        "kind": "trophy",
+        "chapterId": "regions-and-army",
+        "where": "Reach Army of Chaos Level 14"
+      },
+      {
+        "id": "achievement-23",
+        "name": "A Higher Love",
+        "kind": "trophy",
+        "chapterId": "grappling-and-mayhem",
+        "where": "Use only the Air Lifter for 15 non-consecutive minutes -- Booster and Retract can't be active!"
+      },
+      {
+        "id": "achievement-24",
+        "name": "Lift Off",
+        "kind": "trophy",
+        "chapterId": "grappling-and-mayhem",
+        "where": "Use only the Booster for 15 non-consecutive minutes -- Air Lifter and Retract can't be active!"
+      },
+      {
+        "id": "achievement-25",
+        "name": "Classic Hits",
+        "kind": "trophy",
+        "chapterId": "grappling-and-mayhem",
+        "where": "Use only the Retract for 15 non-consecutive minutes -- Booster and Air Lifter can't be active!"
+      },
+      {
+        "id": "achievement-26",
+        "name": "Don't Choke on My Smoke",
+        "kind": "trophy",
+        "chapterId": "trials-and-challenges",
+        "where": "Beat someone's score while manually tracking the Feat"
+      },
+      {
+        "id": "achievement-27",
+        "name": "Chaos Milestone",
+        "kind": "trophy",
+        "chapterId": "regions-and-army",
+        "where": "Increase your Army of Chaos Level by filling up the Chaos bar"
+      },
+      {
+        "id": "achievement-28",
+        "name": "Pinball Dreams",
+        "kind": "trophy",
+        "chapterId": "grappling-and-mayhem",
+        "where": "Destroy a vehicle with the PBX Auto-Slug 4 shotgun's"
+      },
+      {
+        "id": "achievement-29",
+        "name": "A Game of Chicken",
+        "kind": "trophy",
+        "chapterId": "grappling-and-mayhem",
+        "where": "Crash into a flying airplane with your own plane"
+      },
+      {
+        "id": "achievement-30",
+        "name": "Cow-Moo-Flage",
+        "kind": "trophy",
+        "chapterId": "grappling-and-mayhem",
+        "where": "Turn 10 Black Hand into Cows using the Cow Gun in a single session"
+      },
+      {
+        "id": "achievement-31",
+        "name": "Where I Belong",
+        "kind": "trophy",
+        "chapterId": "exploration-and-stunts",
+        "where": "Stand on foot at the highest point in Solís"
+      },
+      {
+        "id": "achievement-32",
+        "name": "Rico was Here",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Earn all Just Cause 4 Achievements"
+      },
+      {
+        "id": "achievement-33",
+        "name": "Weapon Stash",
+        "kind": "trophy",
+        "chapterId": "regions-and-army",
+        "where": "Secure all Small Arms and Heavy Weapons Blueprints"
+      },
+      {
+        "id": "achievement-34",
+        "name": "Bomb Disposal",
+        "kind": "trophy",
+        "chapterId": "exploration-and-stunts",
+        "where": "Remove all rigged vehicles from the harbors of Solís"
+      },
+      {
+        "id": "achievement-35",
+        "name": "Rookie of the Year",
+        "kind": "trophy",
+        "chapterId": "trials-and-challenges",
+        "where": "Earn a B Rank in the Trial of Initiation"
+      },
+      {
+        "id": "achievement-36",
+        "name": "Dare Devil of Destruction",
+        "kind": "trophy",
+        "chapterId": "trials-and-challenges",
+        "where": "Earn a B Rank in the Trial of Triumph"
+      },
+      {
+        "id": "achievement-37",
+        "name": "Che's Way",
+        "kind": "trophy",
+        "chapterId": "trials-and-challenges",
+        "where": "Earn a B Rank in LNP's Isla Intensa Trial Run"
+      },
+      {
+        "id": "achievement-38",
+        "name": "Doña of Demolition",
+        "kind": "trophy",
+        "chapterId": "trials-and-challenges",
+        "where": "Earn a B Rank in the Gearheads' Godsbowl Trial Rampage"
+      },
+      {
+        "id": "achievement-39",
+        "name": "Rey Slayer",
+        "kind": "trophy",
+        "chapterId": "trials-and-challenges",
+        "where": "Earn a B Rank in Los Artistas' La Ratonera Survival Trial"
+      },
+      {
+        "id": "achievement-40",
+        "name": "Rough Rider",
+        "kind": "trophy",
+        "chapterId": "trials-and-challenges",
+        "where": "Destroy 15 vehicles during a single challenge"
+      },
+      {
+        "id": "achievement-41",
+        "name": "Demo Pro",
+        "kind": "trophy",
+        "chapterId": "trials-and-challenges",
+        "where": "Destroy 25 vehicles during a single challenge"
+      },
+      {
+        "id": "achievement-42",
+        "name": "Tiger Tamer",
+        "kind": "trophy",
+        "chapterId": "trials-and-challenges",
+        "where": "Drive through all AR tiger images in the Solino Underground's challenges"
+      },
+      {
+        "id": "achievement-43",
+        "name": "Solino Grand Prix",
+        "kind": "trophy",
+        "chapterId": "trials-and-challenges",
+        "where": "Earn an S Rank in every course in the Solino Underground"
+      },
+      {
+        "id": "achievement-44",
+        "name": "Now Who's the Idiot?",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Finish The Artifact"
+      },
+      {
+        "id": "achievement-45",
+        "name": "Never Speak of This Again",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Finish Extermination"
+      },
+      {
+        "id": "achievement-46",
+        "name": "A Nightmare On Kusi Street",
+        "kind": "trophy",
+        "chapterId": "infestations",
+        "where": "Purge the Infestation on the Mainland"
+      },
+      {
+        "id": "achievement-47",
+        "name": "Silence of the Llamas",
+        "kind": "trophy",
+        "chapterId": "infestations",
+        "where": "Expel the Infestation at the Farm"
+      },
+      {
+        "id": "achievement-48",
+        "name": "The Power of Rico Compels You",
+        "kind": "trophy",
+        "chapterId": "infestations",
+        "where": "Exorcise the Infestation at the Church"
+      },
+      {
+        "id": "achievement-49",
+        "name": "Solino Chainsaw Massacre",
+        "kind": "trophy",
+        "chapterId": "infestations",
+        "where": "Eradicate the Infestation at the Compound"
+      },
+      {
+        "id": "achievement-50",
+        "name": "They Came From the Lake",
+        "kind": "trophy",
+        "chapterId": "infestations",
+        "where": "Liquidate the Infestation at the Lake"
+      },
+      {
+        "id": "achievement-51",
+        "name": "Demons on a Plane",
+        "kind": "trophy",
+        "chapterId": "infestations",
+        "where": "Obliterate the Infestation at the Crash"
+      },
+      {
+        "id": "achievement-52",
+        "name": "The Flying Dead",
+        "kind": "trophy",
+        "chapterId": "infestations",
+        "where": "Abolish the Infestation on the Mountain"
+      },
+      {
+        "id": "achievement-53",
+        "name": "Moocifer",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-54",
+        "name": "Interception",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-55",
+        "name": "Not My First Rodeo",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-56",
+        "name": "Drone Joust",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-57",
+        "name": "Danger Drone",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-58",
+        "name": "He Talked Too Much",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-59",
+        "name": "Skitchin'",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-60",
+        "name": "Long Board",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-61",
+        "name": "Hover or Die",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/just-cause-4",
+    "Achievement data from Steam (Steam Web API, app 517630)",
+    "StrategyWiki: no page for this game, nothing used",
+    "Fandom (justcause.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://justcause.fandom.com/wiki/Just_Cause_4"
+  ],
+  "route": "original",
+  "notes": "Backlog game, picked from RAWG's most-added list for its year (docs/PLAN.md section 2 ordering). StrategyWiki has no page for Just Cause 4 (API returned missing for \"Just Cause 4\" and for \"Just Cause IV\"). justcause.fandom.com answers the API, with about 118 linked pages, including \"Downloadable content for Just Cause 4\", \"Danger Rising\", \"Dare Devils of Destruction\", \"Just Cause 4 100% completion list\" and \"Just Cause 4 Achievements\"; names only were looked at, nothing copied. The Steam schema calls the app \"Snakebite\" (an internal codename); the store list names app 517630 \"Just Cause 4 Reloaded\". 9 of 61 Steam achievements are hidden (53 to 61); they sit in the main story chapter as a placeholder, but most are earned by only 1.5 to 8% of players and their names (\"Drone Joust\", \"Long Board\", \"Hover or Die\") suggest add-on content, which the data does not confirm. RAWG lists add-ons called \"Los Demonios\", \"Danger Rising\" and \"Dare Devils of Destruction\"; the Trials achievements include one named \"Dare Devil of Destruction\", and the Infestation achievements may be the \"Los Demonios\" add-on, but neither link is stated in the data, so the chapters are not named after them. \"Finish The Artifact\" and \"Finish Extermination\" were put in the main story, which is a judgement call. RAWG lists a playtime of only 5 hours, which looks low."
+}

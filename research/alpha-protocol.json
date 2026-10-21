@@ -1,0 +1,120 @@
+{
+  "id": "alpha-protocol",
+  "title": "Alpha Protocol",
+  "year": 2010,
+  "platforms": [
+    "PC",
+    "PlayStation 3",
+    "Xbox 360"
+  ],
+  "rawgId": 14989,
+  "rawgSlug": "alpha-protocol",
+  "released": "2010-04-08",
+  "developers": [
+    "Obsidian Entertainment"
+  ],
+  "playtime": 2,
+  "genres": [
+    "Action",
+    "Shooter",
+    "RPG"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Atmospheric",
+    "RPG",
+    "Story Rich",
+    "Third Person",
+    "Stealth",
+    "Action RPG",
+    "Third-Person Shooter",
+    "Character Customization",
+    "Choices Matter",
+    "Multiple Endings",
+    "Romance"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/8b9/8b9e77be7f0f7941b11ae4b21ca2db43.jpg",
+  "steamAppId": null,
+  "achievements": {
+    "total": 0,
+    "examples": [],
+    "reason": "Steam app 34010 (\"Alpha Protocol™\") is still in the Steam app list, but the Steam Web API returns an empty achievement schema and refuses the global percentages call (HTTP 403), so there is no Steam list."
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Alpha_Protocol",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 21,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://alphaprotocol.fandom.com/wiki/Alpha_Protocol"
+    }
+  },
+  "game": {
+    "id": "alpha-protocol",
+    "title": "Alpha Protocol",
+    "platforms": [
+      "PC",
+      "PlayStation 3",
+      "Xbox 360"
+    ],
+    "blurb": "Espionage action RPG of choices and dialogue, from Obsidian Entertainment (published by Sega), released 2010-04-08. RAWG average playtime: 2 hours. Genres: Action, Shooter, RPG. Chapters are an estimate drawn from Fandom page names, as there is no Steam achievement list.",
+    "accent": "#3A6E8F",
+    "chapters": [
+      {
+        "id": "training-and-saudi-arabia",
+        "title": "Training and Saudi Arabia",
+        "summary": "Michael Thorton, the Alpha Protocol agency, Operation Desert Spear and Al-Samad.",
+        "steps": []
+      },
+      {
+        "id": "rome",
+        "title": "Rome",
+        "summary": "The Rome operation, run from its safehouse.",
+        "steps": []
+      },
+      {
+        "id": "moscow",
+        "title": "Moscow",
+        "summary": "The Moscow operation, run from its safehouse.",
+        "steps": []
+      },
+      {
+        "id": "taipei",
+        "title": "Taipei",
+        "summary": "The Taipei operation, run from its safehouse.",
+        "steps": []
+      },
+      {
+        "id": "endgame",
+        "title": "The Endgame",
+        "summary": "The closing missions of the story. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "agent-skills",
+        "title": "Agent Skills, Dialogue and Gear",
+        "summary": "Advancement Points, skills, weapons and gadgets, and the Professional, Suave and Aggressive dialogue stances.",
+        "steps": []
+      }
+    ],
+    "collectibles": []
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/alpha-protocol",
+    "Steam: no achievement list available for this game (see notes)",
+    "StrategyWiki: no usable walkthrough, nothing used — https://strategywiki.org/wiki/Alpha_Protocol",
+    "Fandom (alphaprotocol.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://alphaprotocol.fandom.com/wiki/Alpha_Protocol"
+  ],
+  "route": "original",
+  "notes": "Backlog game, picked from RAWG's most-added list for its year (docs/PLAN.md section 2 ordering). StrategyWiki has a stub page (completion stage 0, marked as a stub); its Walkthrough, Gameplay and Table of Contents subpages are linked but none exists, so nothing was used. alphaprotocol.fandom.com answers the API, with about 21 linked pages, including \"Saudi Arabia\", \"Rome\", \"Moscow\", \"Taipei\", \"Safehouse\", \"Operation Desert Spear\", \"Al-Samad\", \"Michael Thorton\" and \"Halbech Corporation\"; names only were looked at, nothing copied. The game may have been taken off sale; this was not checked beyond the app still being in the Steam app list. Steam app 34010 returns an empty achievement schema, so steam=None. The first chapter follows the order of links on the Fandom game page (Saudi Arabia and Al-Samad first); Rome, Moscow and Taipei follow in the order they are linked there, which may not be the play order. The endgame chapter is a placeholder with no names from the data. RAWG lists a playtime of only 2 hours, which looks low."
+}
