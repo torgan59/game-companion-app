@@ -5,6 +5,39 @@ Tracks the 20-game research queue in `research/state.json` and files landing in 
 
 ---
 
+## 2026-10-21 04:10 UTC
+
+**Year / queue:** currentYear = 2026 on `main` (state.json unchanged since PR #7, 19:46 UTC). Queue on `main`: 40 games, 27 done, 5 in-progress, 4 queued, 4 skipped, 0 errors. PR #8 unchanged: 233 games, 212 done, 0 in-progress, 4 queued (all unreleased), 17 skipped, 0 errors. `yearsCompleted` still empty on both (cosmetic).
+
+**Progress:** 27/40 games merged to `main`. Counting PR #8, 212/233 games are researched, and every released game in the queue is done. The original 20-game target was met at 19:47 UTC on 2026-10-20.
+
+**Latest commits (origin/main):**
+- `3ba6f9f` Coordinator log: 03:10 check (coordinator, 03:11 UTC)
+- `761787e` Coordinator log: 02:10 check (coordinator, 02:11 UTC)
+- `da1d7d4` Coordinator log: 01:10 check (coordinator, 01:11 UTC)
+- `5db9a19` Coordinator log: 00:10 check (coordinator, 00:12 UTC)
+- `90548ce` Coordinator log: 23:10 check (coordinator, 23:11 UTC)
+
+No new research on `main` this hour and no new pushes on any branch. The only commits since 19:47 UTC are coordinator log entries. PR #8's branch has been quiet since 21:33 UTC (about 6 h 40 min).
+
+**PR #8 (open, clean, ready for review, no change):** "Research batches 6–14: 185 games + two backlog passes for 2010–2026". Head still `b72f263`, 18 commits, 196 files changed, about 103,700 lines added, touches only `research/`. Mergeable state is **clean** on this fetch. No comments or reviews yet.
+
+**Researcher:** the daily `game-researcher-routine` ran at 03:07 UTC today and pushed nothing (covered in the 03:10 entry). Next run is 2026-10-22 03:07 UTC. It will keep producing nothing until PR #8 merges and a queued game's release date passes, or the agent rules change.
+
+**Research files:** `research/` on `main` is unchanged: `state.json` plus 27 game files. Every `done` slug has a file and every file has a `done` entry (checked this run), no stray files, no naming issues. `packs/` still does not exist (placeholder `packPath` values, expected). Remote branches unchanged: `main`, `claude/festive-turing-ek24ds` (PR #8), plus three fully merged branches safe to delete: `claude/research-cyberpunk-2077`, `claude/research-forza-horizon-6`, `claude/research-crimson-desert`.
+
+**Quality check:** skipped, no new research files on `main` and PR #8's head is the same commit checked at 22:10 (all 212 files passed then).
+
+**Blockers / errors / stale PRs:**
+- **PR #8 is waiting on Tim.** Now 8 h 20 min old, unchanged since 21:33 UTC. Head to verify when reviewing: `b72f263`. Review points unchanged: the two backlog picks (185 games by RAWG rank, filtered by hand to docs/PLAN.md), the 17 skips, and whether a 233-game queue is what the app wants.
+- **The daily researcher is a no-op until something changes.** `.claude/agents/game-researcher.md` still has no rule to skip a future `releaseDate`. Fix is unchanged: one line telling the researcher to skip any game whose `releaseDate` is in the future and stop cleanly when nothing is eligible. Low priority.
+- No errors in state.json on `main` or on PR #8. No CI configured, nothing to wait on.
+- No notification sent this run: nothing changed since the 22:10 notification.
+
+**Next game in queue:** on `main`, `grand-theft-auto-vi` — Grand Theft Auto VI (2026, releases 2026-11-19). After it: `final-fantasy-vii-rebirth`, `metaphor-refantazio`, `star-wars-outlaws` (2024), all already researched in PR #8. After PR #8 merges, the first eligible game is `phantom-blade-zero` — Phantom Blade Zero, on or after 2026-10-29.
+
+---
+
 ## 2026-10-21 03:10 UTC
 
 **Year / queue:** currentYear = 2026 on `main` (state.json unchanged since PR #7, 19:46 UTC). Queue on `main`: 40 games, 27 done, 5 in-progress, 4 queued, 4 skipped, 0 errors. PR #8 unchanged: 233 games, 212 done, 0 in-progress, 4 queued (all unreleased), 17 skipped, 0 errors. `yearsCompleted` still empty on both (cosmetic).
