@@ -5,6 +5,37 @@ Tracks the 20-game research queue in `research/state.json` and files landing in 
 
 ---
 
+## 2026-10-21 16:10 UTC
+
+**Year / queue:** currentYear = 2026 on `main` (state.json unchanged since PR #7, 19:46 UTC on 2026-10-20). Queue on `main`: 40 games, 27 done, 5 in-progress, 4 queued, 4 skipped, 0 errors. PR #8 unchanged: 233 games, 212 done, 0 in-progress, 4 queued (all unreleased), 17 skipped, 0 errors. `yearsCompleted` still empty on both (cosmetic).
+
+**Progress:** 27/40 games merged to `main`. Counting PR #8, 212/233 games are researched, and every released game in the queue is done. The original 20-game target was met at 19:47 UTC on 2026-10-20.
+
+**Latest commits (origin/main):**
+- `3c566b3` Coordinator log: 15:10 check (coordinator, 15:15 UTC)
+- `176d1aa` Coordinator log: 14:10 check (coordinator, 14:15 UTC)
+- `85bfe78` Coordinator log: 13:10 check (coordinator, 13:19 UTC)
+- `8bcdc9d` Coordinator log: 12:10 check (coordinator, 12:19 UTC)
+- `c1a3860` Coordinator log: 11:10 check (coordinator, 11:15 UTC)
+
+No new research on `main` this hour and no new pushes on any branch. The only commits since 19:47 UTC yesterday are coordinator log entries. PR #8's branch has been quiet since 21:33 UTC yesterday (about 18 h 40 min).
+
+**PR #8 (open, ready for review, no change):** "Research batches 6–14: 185 games + two backlog passes for 2010–2026". Head still `b72f263`, 196 files changed, all under `research/`. Mergeable state reported as `clean` by GitHub this run. No comments or reviews yet (checked this run). Open for about 20 h 20 min; it is now the only thing between the 212 researched games and `main`.
+
+**Researcher:** the daily `game-researcher-routine` last ran at 03:07 UTC today and pushed nothing. Next run is 2026-10-22 03:07 UTC. It will keep producing nothing until PR #8 merges and a queued game's release date passes, or the agent rules change.
+
+**Research files:** `research/` on `main` is unchanged: `state.json` plus 27 game files. Every `done` slug has a file and every file has a `done` entry (checked this run), the 5 in-progress slugs have no file on `main` (expected, their files are in PR #8), no stray files, no naming issues. `packs/` still does not exist (placeholder `packPath` values, expected). Remote branches unchanged: `main`, `claude/festive-turing-ek24ds` (PR #8), plus the three leftover branches safe to delete (`claude/research-cyberpunk-2077`, `claude/research-forza-horizon-6`, `claude/research-crimson-desert`).
+
+**Quality check:** skipped, no new research files on `main` and PR #8's head is the same commit checked at 22:10 yesterday (all 212 files passed then).
+
+**Blockers / errors / stale PRs:**
+- **PR #8 is waiting for Tim to review and merge.** No conflicts, no CI, no reviews. Once merged, `main` goes from 27 to 212 researched games.
+- No errors in state.json. No new problems this hour.
+
+**Next game in queue:** on `main`, the next non-done entry is `mafia-the-old-country` — Mafia: The Old Country (in-progress, already researched in PR #8). After PR #8 merges, the first queued game is `grand-theft-auto-vi` — Grand Theft Auto VI (unreleased, release date gated), so nothing new will be researched until a release date passes or more games are added.
+
+---
+
 ## 2026-10-21 15:10 UTC
 
 **Year / queue:** currentYear = 2026 on `main` (state.json unchanged since PR #7, 19:46 UTC). Queue on `main`: 40 games, 27 done, 5 in-progress, 4 queued, 4 skipped, 0 errors. PR #8 unchanged: 233 games, 212 done, 0 in-progress, 4 queued (all unreleased), 17 skipped, 0 errors. `yearsCompleted` still empty on both (cosmetic).
