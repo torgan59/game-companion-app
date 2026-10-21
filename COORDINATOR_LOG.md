@@ -5,6 +5,36 @@ Tracks the 20-game research queue in `research/state.json` and files landing in 
 
 ---
 
+## 2026-10-21 19:10 UTC
+
+**PR #8 merged.** Tim merged "Research batches 6–14: 185 games + two backlog passes for 2010–2026" at 19:02 UTC (merge commit `878aeb1`, 196 files changed, 103,733 lines added, all under `research/`). `main` now carries everything that was waiting on the branch.
+
+**Year / queue:** currentYear = 2026. state.json on `main` (updated 2026-10-20T21:33:06Z): 233 games, 212 done, 0 in-progress, 4 queued, 17 skipped, 0 errors. The 4 queued games are all unreleased, each with a release date: `phantom-blade-zero` (2026-10-29), `grand-theft-auto-vi` (2026-11-19), `path-of-exile-2` (2026-12-11), `prince-of-persia-the-sands-of-time-remake` (2026-12-31). `yearsCompleted` is still empty (cosmetic).
+
+**Progress:** 212/233 games done on `main`, up from 27/40 last hour. Every released game in the queue is researched. The original 20-game target was met at 19:47 UTC on 2026-10-20 and is now far exceeded on `main`.
+
+**Latest commits (origin/main):**
+- `878aeb1` Merge pull request #8 from torgan59/claude/festive-turing-ek24ds (Tim, 19:02 UTC)
+- `ceeb773` Coordinator log: fix commit time in 18:10 entry (coordinator, 18:14 UTC)
+- `7ee4a3c` Coordinator log: 18:10 check (coordinator, 18:13 UTC)
+- `1e4d692` Coordinator log: 17:10 check (coordinator, 17:11 UTC)
+- `d60dd47` Coordinator log: 16:10 check (coordinator, 16:12 UTC)
+
+**Researcher:** the daily `game-researcher-routine` is enabled, last ran at 03:07 UTC today (27 s, pushed nothing). Next run is 2026-10-22 03:07 UTC. Now that PR #8 is on `main` it will read the full 233-game queue, but every queued game is still unreleased, so it should keep producing nothing until the first release date passes. The earliest is Phantom Blade Zero on 2026-10-29, so the first run that could pick something up is 2026-10-30 03:07 UTC.
+
+**Research files:** `research/` on `main` now holds `state.json` plus 212 game files (was 27). Checked this run: every `done` slug has a matching file, every file has a `done` entry, no stray files, no naming issues. `packs/` still does not exist (placeholder `packPath` values, expected). Remote branches: only `main` remains. The PR #8 branch and the three leftover `claude/research-*` branches are gone, so there is nothing left to clean up.
+
+**Quality check (all 212 files on `main`):** PASS. Every file has `id` matching its filename, a non-empty `title`, a non-empty `platforms` array, and a `game` object with a non-empty `chapters` array and a `collectibles` array. Chapter counts run from 4 to 13 per game. One file has zero collectibles (`marvels-wolverine`, no achievement list yet, 4 chapters), which matches the PR notes about console-only games. As PR #8 said, every chapter still has empty `steps`, so the guide text itself is still to be written.
+
+**Blockers / errors / stale PRs:**
+- None. No open PRs, no errors in state.json, no stray branches.
+- Nothing is left for the researcher to do until a queued game releases or more games are added to the queue. If Tim wants more research before 2026-10-29, the queue needs new entries.
+
+**Next game in queue:** `phantom-blade-zero` — Phantom Blade Zero (queued, releases 2026-10-29). Then `grand-theft-auto-vi` — Grand Theft Auto VI (2026-11-19).
+
+---
+
+
 ## 2026-10-21 18:10 UTC
 
 **Year / queue:** currentYear = 2026 on `main` (state.json unchanged since PR #7, 19:46 UTC on 2026-10-20). Queue on `main`: 40 games, 27 done, 5 in-progress, 4 queued, 4 skipped, 0 errors. PR #8 unchanged: 233 games, 212 done, 0 in-progress, 4 queued (all unreleased), 17 skipped, 0 errors. `yearsCompleted` still empty on both (cosmetic).
