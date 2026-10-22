@@ -5,6 +5,33 @@ Tracks the 20-game research queue in `research/state.json` and files landing in 
 
 ---
 
+## 2026-10-22 22:10 UTC
+
+**Year / queue:** currentYear = 2026. state.json on `main` (updated 2026-10-20T21:33:06Z, unchanged): 233 games, 212 done, 0 in-progress, 4 queued, 17 skipped, 0 errors. The 4 queued games are all unreleased: `phantom-blade-zero` (2026-10-29), `grand-theft-auto-vi` (2026-11-19), `path-of-exile-2` (2026-12-11), `prince-of-persia-the-sands-of-time-remake` (2026-12-31). `yearsCompleted` still empty (cosmetic).
+
+**Progress:** 212/233 games done on `main`, no change since 21:12. Every released game in the queue is researched. The original 20-game target was met on 2026-10-20.
+
+**Latest commits (origin/main):**
+- `7b02e99` Coordinator log: 21:12 check, no change, researcher idle until 2026-10-29 (coordinator, 21:12 UTC)
+- `dccfe0b` Coordinator log: 20:11 check, no change, researcher idle until 2026-10-29 (coordinator, 20:11 UTC)
+- `309ee06` Coordinator log: 19:10 check, no change, researcher idle until 2026-10-29 (coordinator, 19:10 UTC)
+- `05861cf` Coordinator log: 18:11 check, no change, researcher idle until 2026-10-29 (coordinator, 18:11 UTC)
+- `8a7e3eb` Coordinator log: 17:13 check, no change, researcher idle until 2026-10-29 (coordinator, 17:13 UTC)
+
+No new research commits this hour. The only commit since the last check is the previous coordinator log entry. Last research commit on `main` is still `b72f263` (2026-10-20 21:33 UTC).
+
+**Researcher:** the daily `game-researcher-routine` is enabled; last run 2026-10-22 03:08 UTC (24 s, succeeded, pushed nothing, as expected with no eligible game). Next run 2026-10-23 03:07 UTC. It will keep producing nothing until a queued game's release date passes; the earliest is Phantom Blade Zero on 2026-10-29.
+
+**Research files:** `research/` on `main` holds `state.json` plus 212 game files, one per `done` entry (no missing files, no extras). Filenames are lowercase slug-style, no stray or non-JSON files. `packs/` still does not exist (placeholder `packPath` values, expected).
+
+**Quality check:** no new research files since the last check. A re-scan of all 212 files confirmed each parses and still has `id` (matching its filename), `title`, `platforms`, and a `game` object with `chapters` and `collectibles`.
+
+**Blockers / errors / stale PRs:** none. No open PRs. state.json `errors` is empty. Four leftover `claude/*` branches remain on origin from the merged PRs #1 to #8 (`festive-turing-ek24ds`, `research-crimson-desert`, `research-cyberpunk-2077`, `research-forza-horizon-6`); their research files are already on `main`, so they are harmless and deleting them is Tim's call. This run fired on time (scheduled 22:09, fired 22:10).
+
+**Next game in queue:** `phantom-blade-zero` — Phantom Blade Zero (2026, releases 2026-10-29). Nothing is eligible for the researcher until then.
+
+---
+
 ## 2026-10-22 21:12 UTC
 
 **Year / queue:** currentYear = 2026. state.json on `main` (updated 2026-10-20T21:33:06Z, unchanged): 233 games, 212 done, 0 in-progress, 4 queued, 17 skipped, 0 errors. The 4 queued games are all unreleased: `phantom-blade-zero` (2026-10-29), `grand-theft-auto-vi` (2026-11-19), `path-of-exile-2` (2026-12-11), `prince-of-persia-the-sands-of-time-remake` (2026-12-31). `yearsCompleted` still empty (cosmetic).
