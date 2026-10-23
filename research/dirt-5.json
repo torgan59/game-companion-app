@@ -1,0 +1,439 @@
+{
+  "id": "dirt-5",
+  "title": "DiRT 5",
+  "year": 2020,
+  "platforms": [
+    "PC",
+    "PlayStation 5",
+    "PlayStation 4",
+    "Xbox One",
+    "Xbox Series X|S"
+  ],
+  "rawgId": 440079,
+  "rawgSlug": "dirt-5",
+  "released": "2020-11-05",
+  "developers": [
+    "Codemasters"
+  ],
+  "playtime": 2,
+  "genres": [
+    "Racing",
+    "Arcade"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Multiplayer",
+    "Full controller support",
+    "Steam Cloud",
+    "Atmospheric",
+    "Co-op",
+    "First-Person",
+    "Sandbox",
+    "Split Screen",
+    "Local Co-Op",
+    "Local Multiplayer"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/9c7/9c7dd09596246993169b356d7c1facf0.jpg",
+  "steamAppId": 1038250,
+  "achievements": {
+    "total": 40,
+    "hidden": 5,
+    "examples": [
+      {
+        "name": "Long Jump",
+        "percent": 65.1
+      },
+      {
+        "name": "Gonna Need New Tyres",
+        "percent": 36.0
+      },
+      {
+        "name": "+10 HRSPRS",
+        "percent": 31.0
+      },
+      {
+        "name": "Main Course",
+        "percent": 1.7
+      },
+      {
+        "name": "Cash Out",
+        "percent": 1.7
+      },
+      {
+        "name": "The Duke",
+        "percent": 1.6
+      },
+      {
+        "name": "Travelling in Style",
+        "percent": 1.6
+      },
+      {
+        "name": "That's the Spirit!",
+        "percent": 1.5
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": false,
+      "pages": 0,
+      "reason": "No page for DiRT 5 (MediaWiki API returned missing; see notes for other titles tried)"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": false,
+      "reason": "No page under this title on dirt.fandom.com; marked unverified, not retried"
+    }
+  },
+  "game": {
+    "id": "dirt-5",
+    "title": "DiRT 5",
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "PlayStation 4",
+      "Xbox One",
+      "Xbox Series X|S"
+    ],
+    "blurb": "Off-road arcade racing game from Codemasters, released 2020-11-05. RAWG average playtime: 2 hours. Genres: Racing, Arcade. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#E8541E",
+    "chapters": [
+      {
+        "id": "career",
+        "title": "Career",
+        "summary": "The Career mode: its chapters, every type of Career Event, Gymkhana scores, the Superstar Finale and reaching level 50. Hidden milestones sit here too. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "driving-feats",
+        "title": "Driving Feats and Earnings",
+        "summary": "Drifts, long jumps, clean laps, miles driven and total prize money.",
+        "steps": []
+      },
+      {
+        "id": "playgrounds-and-style",
+        "title": "Playgrounds, Liveries and Player Cards",
+        "summary": "Building, testing and rating Playground arenas, and saving your own livery and player card.",
+        "steps": []
+      },
+      {
+        "id": "energy",
+        "title": "Energy Career",
+        "summary": "The Energy career: its 75 Stamps, Bulldozer, the Sprint and Gate Crasher events named in the achievements, and the Porsche Taycan.",
+        "steps": []
+      },
+      {
+        "id": "uproar",
+        "title": "Uproar Career",
+        "summary": "The Uproar career: its 75 Medals, its Main Events, a Smash Attack event and the Duke Coupe Off Road Mod.",
+        "steps": []
+      },
+      {
+        "id": "super-size",
+        "title": "Super Size Career",
+        "summary": "The Super Size Career: its 81 Stamps, its Main Events, the Brazil Land Rush events, the Bentley Continental and a Gate Crasher event.",
+        "steps": []
+      },
+      {
+        "id": "wild-spirits",
+        "title": "Wild Spirits Career",
+        "summary": "The Wild Spirits Career: its 75 Stamps, its Main Events, the Morocco Stampede events, the Prodrive Hunter and a Smash Attack event.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "+10 HRSPRS",
+        "kind": "trophy",
+        "chapterId": "playgrounds-and-style",
+        "where": "Save your first customised livery"
+      },
+      {
+        "id": "achievement-2",
+        "name": "Fast Cars and Fancy Cards",
+        "kind": "trophy",
+        "chapterId": "playgrounds-and-style",
+        "where": "Customise and save your player card"
+      },
+      {
+        "id": "achievement-3",
+        "name": "Jack of All Trades",
+        "kind": "trophy",
+        "chapterId": "career",
+        "where": "Complete one of every type of Career Event"
+      },
+      {
+        "id": "achievement-4",
+        "name": "Stuntmasta'",
+        "kind": "trophy",
+        "chapterId": "career",
+        "where": "Score 30,000 or higher in a Career Gymkhana event"
+      },
+      {
+        "id": "achievement-5",
+        "name": "Graduation Ceremony",
+        "kind": "trophy",
+        "chapterId": "career",
+        "where": "Complete Chapter 1"
+      },
+      {
+        "id": "achievement-6",
+        "name": "Extreme Acceleration",
+        "kind": "trophy",
+        "chapterId": "career",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-7",
+        "name": "Escape Velocity",
+        "kind": "trophy",
+        "chapterId": "career",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-8",
+        "name": "Gonna Need New Tyres",
+        "kind": "trophy",
+        "chapterId": "driving-feats",
+        "where": "Complete a 100m drift"
+      },
+      {
+        "id": "achievement-9",
+        "name": "Long Jump",
+        "kind": "trophy",
+        "chapterId": "driving-feats",
+        "where": "Jump 50m distance in a single jump"
+      },
+      {
+        "id": "achievement-10",
+        "name": "Spare Some Change for Gas?",
+        "kind": "trophy",
+        "chapterId": "driving-feats",
+        "where": "Drive 1,000 miles"
+      },
+      {
+        "id": "achievement-11",
+        "name": "Practice Makes Perfect",
+        "kind": "trophy",
+        "chapterId": "driving-feats",
+        "where": "Complete 10 clean laps"
+      },
+      {
+        "id": "achievement-12",
+        "name": "Superstar Story",
+        "kind": "trophy",
+        "chapterId": "career",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-13",
+        "name": "Checks and Balances",
+        "kind": "trophy",
+        "chapterId": "driving-feats",
+        "where": "Earn a total of $1,000,000"
+      },
+      {
+        "id": "achievement-14",
+        "name": "Blank Slate",
+        "kind": "trophy",
+        "chapterId": "playgrounds-and-style",
+        "where": "Build and test your first Playground"
+      },
+      {
+        "id": "achievement-15",
+        "name": "Everyone's a Critic",
+        "kind": "trophy",
+        "chapterId": "playgrounds-and-style",
+        "where": "Rate a Playground"
+      },
+      {
+        "id": "achievement-16",
+        "name": "I'll Show Them! I'll Show Them All!",
+        "kind": "trophy",
+        "chapterId": "career",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-17",
+        "name": "Now I Am the Master",
+        "kind": "trophy",
+        "chapterId": "career",
+        "where": "Complete the Superstar Finale of the Career"
+      },
+      {
+        "id": "achievement-18",
+        "name": "No Event Left Behind",
+        "kind": "trophy",
+        "chapterId": "career",
+        "where": "Complete every Career Event"
+      },
+      {
+        "id": "achievement-19",
+        "name": "Superstardom",
+        "kind": "trophy",
+        "chapterId": "career",
+        "where": "Reach level 50, becoming a Superstar"
+      },
+      {
+        "id": "achievement-20",
+        "name": "Final Shift",
+        "kind": "trophy",
+        "chapterId": "career",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-21",
+        "name": "Extra Energy",
+        "kind": "trophy",
+        "chapterId": "energy",
+        "where": "Earn all 75 Stamps available in Energy"
+      },
+      {
+        "id": "achievement-22",
+        "name": "BBs",
+        "kind": "trophy",
+        "chapterId": "energy",
+        "where": "Beat Bulldozer"
+      },
+      {
+        "id": "achievement-23",
+        "name": "I'm Spinning Around",
+        "kind": "trophy",
+        "chapterId": "energy",
+        "where": "Complete the \"Flying Lap\" and the \"Sprint Spiral\" Sprint events"
+      },
+      {
+        "id": "achievement-24",
+        "name": "Full Charge",
+        "kind": "trophy",
+        "chapterId": "energy",
+        "where": "Drive 30 miles in the Porsche Taycan"
+      },
+      {
+        "id": "achievement-25",
+        "name": "A Wheely Big Finish",
+        "kind": "trophy",
+        "chapterId": "energy",
+        "where": "Complete the \"Wheelspin\" Gate Crasher Event"
+      },
+      {
+        "id": "achievement-26",
+        "name": "Dusk til Dawn",
+        "kind": "trophy",
+        "chapterId": "uproar",
+        "where": "Earn all 75 Medals available in Uproar"
+      },
+      {
+        "id": "achievement-27",
+        "name": "In My Mirrors",
+        "kind": "trophy",
+        "chapterId": "uproar",
+        "where": "Gain first place in one of the Main Events of Uproar"
+      },
+      {
+        "id": "achievement-28",
+        "name": "Light Entertainment",
+        "kind": "trophy",
+        "chapterId": "uproar",
+        "where": "Complete the \"Absolutely Smashing\" Smash Attack event"
+      },
+      {
+        "id": "achievement-29",
+        "name": "The Duke",
+        "kind": "trophy",
+        "chapterId": "uproar",
+        "where": "Drive 30 miles in the Duke Coupe Off Road Mod"
+      },
+      {
+        "id": "achievement-30",
+        "name": "International",
+        "kind": "trophy",
+        "chapterId": "career",
+        "where": "Win a Multi-Class race in career"
+      },
+      {
+        "id": "achievement-31",
+        "name": "Main Course",
+        "kind": "trophy",
+        "chapterId": "super-size",
+        "where": "Earn all 81 Stamps available in Super Size Career"
+      },
+      {
+        "id": "achievement-32",
+        "name": "No Half Measures",
+        "kind": "trophy",
+        "chapterId": "super-size",
+        "where": "Gain 3 Stamps in one of the Main Events of Super Size Career"
+      },
+      {
+        "id": "achievement-33",
+        "name": "Shore Thing",
+        "kind": "trophy",
+        "chapterId": "super-size",
+        "where": "Complete the \"Rising Tide\" and the \"Surf n Turf\" Brazil Land Rush events"
+      },
+      {
+        "id": "achievement-34",
+        "name": "Travelling in Style",
+        "kind": "trophy",
+        "chapterId": "super-size",
+        "where": "Drive 30 miles in the Bentley Continental"
+      },
+      {
+        "id": "achievement-35",
+        "name": "Out of this World",
+        "kind": "trophy",
+        "chapterId": "super-size",
+        "where": "Complete \"Race Oddity\" Gate Crasher Event"
+      },
+      {
+        "id": "achievement-36",
+        "name": "That's the Spirit!",
+        "kind": "trophy",
+        "chapterId": "wild-spirits",
+        "where": "Earn all 75 Stamps available in the Wild Spirits Career"
+      },
+      {
+        "id": "achievement-37",
+        "name": "The Grand Finale",
+        "kind": "trophy",
+        "chapterId": "wild-spirits",
+        "where": "Gain 3 Stamps in one of the Main Events of the Wild Spirits Career"
+      },
+      {
+        "id": "achievement-38",
+        "name": "Name that Dune",
+        "kind": "trophy",
+        "chapterId": "wild-spirits",
+        "where": "Complete the \"Todra Trials\" and the \"Tinghir Tour\" Morocco Stampede events"
+      },
+      {
+        "id": "achievement-39",
+        "name": "Wasteland Warrior",
+        "kind": "trophy",
+        "chapterId": "wild-spirits",
+        "where": "Drive 30 miles in the Prodrive Hunter"
+      },
+      {
+        "id": "achievement-40",
+        "name": "Cash Out",
+        "kind": "trophy",
+        "chapterId": "wild-spirits",
+        "where": "Complete \"The Buy-In\" Smash Attack event"
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/dirt-5",
+    "Achievement data from Steam (Steam Web API, app 1038250)",
+    "StrategyWiki: no page for this game, nothing used",
+    "Fandom unavailable (no page under this title), marked unverified"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). StrategyWiki has no page under \"Dirt 5\" or \"DiRT 5\". dirt.fandom.com answers the API but has no page under \"Dirt 5\" or \"DiRT 5\" (codemasters.fandom.com returned HTTP 404), so Fandom is marked unverified. The Steam schema calls the app \"CP2\" (an internal codename); the store list confirms app 1038250 \"DIRT 5\". 5 of 40 Steam achievements are hidden and sit in the Career chapter as a placeholder. Four extra careers are named in achievement descriptions: \"Energy\", \"Uproar\", \"Super Size Career\" and \"Wild Spirits Career\"; whether they are paid add-ons or free updates was not checked. The achievements that name only an event or a car (for example \"Beat Bulldozer\", the Porsche Taycan, \"Rising Tide\" and \"Surf n Turf\", \"Race Oddity\", \"The Buy-In\") were put with the career they sit next to in the Steam list; these placements are guesses from list position and need checking. \"International\" (Win a Multi-Class race in career) was put in the main Career chapter. Most of the extra-career achievements show under 3% on Steam. RAWG's playtime of 2 hours looks low."
+}

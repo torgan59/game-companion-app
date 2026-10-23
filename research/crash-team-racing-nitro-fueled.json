@@ -1,0 +1,124 @@
+{
+  "id": "crash-team-racing-nitro-fueled",
+  "title": "Crash Team Racing Nitro-Fueled",
+  "year": 2019,
+  "platforms": [
+    "PlayStation 4",
+    "Xbox One",
+    "Nintendo Switch"
+  ],
+  "rawgId": 274571,
+  "rawgSlug": "crash-team-racing-nitro-fueled",
+  "released": "2019-06-21",
+  "developers": [
+    "Activision",
+    "Beenox"
+  ],
+  "playtime": null,
+  "genres": [
+    "Action",
+    "Racing",
+    "Family"
+  ],
+  "tags": [
+    "Funny",
+    "3D",
+    "furry",
+    "nitro",
+    "karting"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/b2c/b2c0cc14e80cfd38be0f2b2ccd4d6db5.jpg",
+  "steamAppId": null,
+  "achievements": {
+    "total": 0,
+    "examples": [],
+    "reason": "Console only (PlayStation 4, Xbox One, Nintendo Switch per RAWG): no Steam app, so no Steam achievement list. RAWG's achievement endpoint for this game returns 33 trophy-style entries (with names, descriptions and unlock percentages, platform not stated) covering Adventure Mode, Relics, Tokens, Gems, Crystal Challenges, Time Trial, Battle Mode and racing skills; it could seed a checklist later, but buildg reads only Steam, so the list here is empty."
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": false,
+      "pages": 0,
+      "reason": "No page for Crash Team Racing Nitro-Fueled (MediaWiki API returned missing; see notes for other titles tried)"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 195,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://crashbandicoot.fandom.com/wiki/Crash_Team_Racing_Nitro-Fueled"
+    }
+  },
+  "game": {
+    "id": "crash-team-racing-nitro-fueled",
+    "title": "Crash Team Racing Nitro-Fueled",
+    "platforms": [
+      "PlayStation 4",
+      "Xbox One",
+      "Nintendo Switch"
+    ],
+    "blurb": "Kart racing remaster of the 1999 Crash Team Racing, from Beenox and Activision (as RAWG lists them), released 2019-06-21 on PlayStation 4, Xbox One and Nintendo Switch. RAWG has no playtime yet. Genres: Action, Racing, Family. Chapters follow the game modes named in RAWG's achievement list.",
+    "accent": "#D9601A",
+    "chapters": [
+      {
+        "id": "adventure-mode",
+        "title": "Adventure Mode",
+        "summary": "The story mode: first race wins, boss challenges and the cup races.",
+        "steps": []
+      },
+      {
+        "id": "relics-tokens-gems",
+        "title": "Relics, CTR Tokens and Gems",
+        "summary": "Relic Races, CTR challenges, Crystal Challenges in the arenas, and collecting every Relic, Token and Gem.",
+        "steps": []
+      },
+      {
+        "id": "adventure-hard",
+        "title": "Adventure Mode on Hard",
+        "summary": "Finishing the Adventure Mode again on the Hard difficulty.",
+        "steps": []
+      },
+      {
+        "id": "time-trial",
+        "title": "Time Trial",
+        "summary": "Beating the ghost times in Time Trial Mode, including the two hardest sets.",
+        "steps": []
+      },
+      {
+        "id": "grand-prix-and-unlocks",
+        "title": "Grand Prix, Characters and Karts",
+        "summary": "Grand Prix events, unlocking characters and customising your kart, body, decals and paint.",
+        "steps": []
+      },
+      {
+        "id": "battle-mode",
+        "title": "Battle Mode",
+        "summary": "Winning a match in every type of Battle Mode in the arenas.",
+        "steps": []
+      },
+      {
+        "id": "racing-skills",
+        "title": "Racing Skills and Power-Ups",
+        "summary": "Drifting, Super Boosts, close finishes, comebacks and using every power-up.",
+        "steps": []
+      },
+      {
+        "id": "online",
+        "title": "Online Racing",
+        "summary": "Racing online with friends and the online leaderboards.",
+        "steps": []
+      }
+    ],
+    "collectibles": []
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/crash-team-racing-nitro-fueled",
+    "Steam: no achievement list available for this game (see notes)",
+    "StrategyWiki: no page for this game, nothing used",
+    "Fandom (crashbandicoot.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://crashbandicoot.fandom.com/wiki/Crash_Team_Racing_Nitro-Fueled"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). Kart racer, so chapters follow modes rather than a story. There is no Steam list; chapters come from mode names in RAWG's achievement list (33 entries; RAWG's detail says 131, but only 33 come back from the endpoint), plus \"race online with friends\" and online leaderboards from RAWG's description, plus Grand Prix and kart-part page names linked from the Fandom page (for example \"Back N. Time Grand Prix\", \"Nitro Tour Grand Prix\", \"Crash Team Racing Nitro-Fueled/Paint Jobs\"). Several RAWG entries are marked \"(CTR & CNK)\", which probably means content from Crash Nitro Kart (it has a Fandom link); this was not checked further. StrategyWiki has no page under \"Crash Team Racing Nitro-Fueled\" or \"Crash Team Racing: Nitro-Fueled\". crashbandicoot.fandom.com answers the API under \"Crash Team Racing Nitro-Fueled\" with about 195 linked articles; names only were looked at, nothing copied."
+}

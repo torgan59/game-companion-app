@@ -1,0 +1,430 @@
+{
+  "id": "tony-hawks-pro-skater-1-2",
+  "title": "Tony Hawk's Pro Skater 1 + 2",
+  "year": 2020,
+  "platforms": [
+    "PC",
+    "Xbox One",
+    "Nintendo Switch",
+    "PlayStation 4",
+    "Xbox Series X|S",
+    "PlayStation 5"
+  ],
+  "rawgId": 442847,
+  "rawgSlug": "tony-hawks-pro-skater-12",
+  "released": "2020-09-04",
+  "developers": [
+    "Vicarious Visions",
+    "Iron Galaxy Studios"
+  ],
+  "playtime": 2,
+  "genres": [
+    "Sports",
+    "Arcade"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Multiplayer",
+    "Steam Cloud",
+    "Co-op",
+    "cooperative",
+    "Third Person",
+    "Partial Controller Support",
+    "Split Screen",
+    "PvP",
+    "Character Customization",
+    "3D"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/088/0885c48293746aad6df30735f30d0836.jpg",
+  "steamAppId": 2395210,
+  "achievements": {
+    "total": 36,
+    "hidden": 7,
+    "examples": [
+      {
+        "name": "Summer's Over",
+        "percent": 71.8
+      },
+      {
+        "name": "Creator",
+        "percent": 46.6
+      },
+      {
+        "name": "#10 Downing Street",
+        "percent": 44.2
+      },
+      {
+        "name": "Legen-Dairy",
+        "percent": 1.8
+      },
+      {
+        "name": "Horsin' Around",
+        "percent": 1.5
+      },
+      {
+        "name": "Gap Master",
+        "percent": 1.4
+      },
+      {
+        "name": "Got There",
+        "percent": 1.0
+      },
+      {
+        "name": "ONE HUNDRED!",
+        "percent": 0.8
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Tony_Hawk's_Pro_Skater_1_+_2",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 98,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://tonyhawk.fandom.com/wiki/Tony_Hawk's_Pro_Skater_1_+_2"
+    }
+  },
+  "game": {
+    "id": "tony-hawks-pro-skater-1-2",
+    "title": "Tony Hawk's Pro Skater 1 + 2",
+    "platforms": [
+      "PC",
+      "Xbox One",
+      "Nintendo Switch",
+      "PlayStation 4",
+      "Xbox Series X|S",
+      "PlayStation 5"
+    ],
+    "blurb": "Arcade skateboarding game, a remake of the first two Tony Hawk's Pro Skater games, from Vicarious Visions and Iron Galaxy Studios, released 2020-09-04. RAWG average playtime: 2 hours. Genres: Sports, Arcade. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#D4A017",
+    "chapters": [
+      {
+        "id": "thps1-classic",
+        "title": "THPS1 Classic",
+        "summary": "Unlocking parks and completing every goal with gold medals in the first game's career.",
+        "steps": []
+      },
+      {
+        "id": "thps2-classic",
+        "title": "THPS2 Classic",
+        "summary": "Unlocking School II and Bullring and completing every goal with gold medals in the second game's career.",
+        "steps": []
+      },
+      {
+        "id": "tours-and-medals",
+        "title": "Tours and Competition Medals",
+        "summary": "Earning medals on the competition parks in Tours.",
+        "steps": []
+      },
+      {
+        "id": "challenges-and-level",
+        "title": "Challenges, Career Level and the Skate Shop",
+        "summary": "The Rookie, Veteran and Legend challenge collections, hard Get-Theres, career levels 10 and 100, and spending in the Skate Shop.",
+        "steps": []
+      },
+      {
+        "id": "collectibles",
+        "title": "Plushies, Stat Points and Gaps",
+        "summary": "Finding every alien plushie and stat point, and completing the gap collections.",
+        "steps": []
+      },
+      {
+        "id": "scores-and-combos",
+        "title": "Big Scores and Combos",
+        "summary": "50,000 and 1,000,000 point combos and record high scores.",
+        "steps": []
+      },
+      {
+        "id": "create",
+        "title": "Create-A-Skater and Create-A-Park",
+        "summary": "Making a skater, building and uploading a park, and placing 500 objects.",
+        "steps": []
+      },
+      {
+        "id": "multiplayer-and-modes",
+        "title": "Multiplayer and Other Modes",
+        "summary": "Multiplayer matches, Graffiti, Horse, Trick Attack and Combo Mambo.",
+        "steps": []
+      },
+      {
+        "id": "secrets",
+        "title": "Secret Achievements",
+        "summary": "Seven achievements Steam keeps secret. Spoiler-guarded.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Summer's Over",
+        "kind": "trophy",
+        "chapterId": "thps1-classic",
+        "where": "Unlock School in THPS1 Classic."
+      },
+      {
+        "id": "achievement-2",
+        "name": "Medallion",
+        "kind": "trophy",
+        "chapterId": "tours-and-medals",
+        "where": "Earn a Medal on any competition park in Tours."
+      },
+      {
+        "id": "achievement-3",
+        "name": "The Truth is Out There",
+        "kind": "trophy",
+        "chapterId": "secrets",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-4",
+        "name": "The Truth is In Here",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Find every alien plushie."
+      },
+      {
+        "id": "achievement-5",
+        "name": "Grand Tourer",
+        "kind": "trophy",
+        "chapterId": "thps1-classic",
+        "where": "Complete every goal in THPS1 Classic and gain all gold medals."
+      },
+      {
+        "id": "achievement-6",
+        "name": "Back to School…. Again",
+        "kind": "trophy",
+        "chapterId": "thps2-classic",
+        "where": "Unlock School II in THPS2 Classic."
+      },
+      {
+        "id": "achievement-7",
+        "name": "4 for Four",
+        "kind": "trophy",
+        "chapterId": "tours-and-medals",
+        "where": "Earn any 4 Medals on competition parks in Tours."
+      },
+      {
+        "id": "achievement-8",
+        "name": "Mess with the Bull….",
+        "kind": "trophy",
+        "chapterId": "thps2-classic",
+        "where": "Unlock Bullring in THPS2 Classic."
+      },
+      {
+        "id": "achievement-9",
+        "name": "… Get the horns",
+        "kind": "trophy",
+        "chapterId": "secrets",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-10",
+        "name": "Valhalla",
+        "kind": "trophy",
+        "chapterId": "thps2-classic",
+        "where": "Complete every goal in THPS2 Classic and gain all gold medals."
+      },
+      {
+        "id": "achievement-11",
+        "name": "Matchup",
+        "kind": "trophy",
+        "chapterId": "multiplayer-and-modes",
+        "where": "Complete a match in multiplayer."
+      },
+      {
+        "id": "achievement-12",
+        "name": "BEEP BEEP",
+        "kind": "trophy",
+        "chapterId": "secrets",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-13",
+        "name": "Creator",
+        "kind": "trophy",
+        "chapterId": "create",
+        "where": "Create a skater using the CAS system."
+      },
+      {
+        "id": "achievement-14",
+        "name": "Creative",
+        "kind": "trophy",
+        "chapterId": "create",
+        "where": "Create a new park and upload it."
+      },
+      {
+        "id": "achievement-15",
+        "name": "Bought the Farm",
+        "kind": "trophy",
+        "chapterId": "challenges-and-level",
+        "where": "Spend $10,000 in the Skate Shop."
+      },
+      {
+        "id": "achievement-16",
+        "name": "Statted",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Find all Stat points for any Pro Skater."
+      },
+      {
+        "id": "achievement-17",
+        "name": "Donut Mess with a Cop",
+        "kind": "trophy",
+        "chapterId": "secrets",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-18",
+        "name": "Rookie of the Year",
+        "kind": "trophy",
+        "chapterId": "challenges-and-level",
+        "where": "Earn the \"Rookie \" Challenge Collection."
+      },
+      {
+        "id": "achievement-19",
+        "name": "Going to the Vet",
+        "kind": "trophy",
+        "chapterId": "challenges-and-level",
+        "where": "Earn the \"Veteran\" Challenge Collection."
+      },
+      {
+        "id": "achievement-20",
+        "name": "Legen-Dairy",
+        "kind": "trophy",
+        "chapterId": "challenges-and-level",
+        "where": "Earn the \"Legend\" Challenge Collection."
+      },
+      {
+        "id": "achievement-21",
+        "name": "Got There",
+        "kind": "trophy",
+        "chapterId": "challenges-and-level",
+        "where": "Complete all \"Hard\" Get-Theres."
+      },
+      {
+        "id": "achievement-22",
+        "name": "#10 Downing Street",
+        "kind": "trophy",
+        "chapterId": "challenges-and-level",
+        "where": "Reach Career level 10."
+      },
+      {
+        "id": "achievement-23",
+        "name": "ONE HUNDRED!",
+        "kind": "trophy",
+        "chapterId": "challenges-and-level",
+        "where": "Reach Career level 100."
+      },
+      {
+        "id": "achievement-24",
+        "name": "Paint the Town",
+        "kind": "trophy",
+        "chapterId": "multiplayer-and-modes",
+        "where": "Paint 100 surfaces in Graffiti across all playtime."
+      },
+      {
+        "id": "achievement-25",
+        "name": "Horsin' Around",
+        "kind": "trophy",
+        "chapterId": "multiplayer-and-modes",
+        "where": "Give 50 Letters in Horse."
+      },
+      {
+        "id": "achievement-26",
+        "name": "Combination Blow",
+        "kind": "trophy",
+        "chapterId": "scores-and-combos",
+        "where": "Land a 50,000+ point combo."
+      },
+      {
+        "id": "achievement-27",
+        "name": "Shoot and Score",
+        "kind": "trophy",
+        "chapterId": "scores-and-combos",
+        "where": "Achieve a High Score of 1,000,000+ on any classic Park."
+      },
+      {
+        "id": "achievement-28",
+        "name": "High as a Kite",
+        "kind": "trophy",
+        "chapterId": "scores-and-combos",
+        "where": "Land a 1,000,000+ point combo."
+      },
+      {
+        "id": "achievement-29",
+        "name": "You Broke the Scoreboard",
+        "kind": "trophy",
+        "chapterId": "scores-and-combos",
+        "where": "Earn a score of 10,000,000 in any park in a 2 minute session or single combo. Game Mods must be disabled."
+      },
+      {
+        "id": "achievement-30",
+        "name": "Gap Master",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Complete all Gap collections."
+      },
+      {
+        "id": "achievement-31",
+        "name": "Piece by Piece",
+        "kind": "trophy",
+        "chapterId": "create",
+        "where": "Place 500 objects in CAP."
+      },
+      {
+        "id": "achievement-32",
+        "name": "Ouch!",
+        "kind": "trophy",
+        "chapterId": "secrets",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-33",
+        "name": "Score Total",
+        "kind": "trophy",
+        "chapterId": "multiplayer-and-modes",
+        "where": "Earn 5,000,000 points in Trick Attack across all playtime."
+      },
+      {
+        "id": "achievement-34",
+        "name": "Combo Total",
+        "kind": "trophy",
+        "chapterId": "multiplayer-and-modes",
+        "where": "Earn 2,000,000 points in Combo Mambo across all playtime."
+      },
+      {
+        "id": "achievement-35",
+        "name": "Shattered",
+        "kind": "trophy",
+        "chapterId": "secrets",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-36",
+        "name": "Can't Judge Me",
+        "kind": "trophy",
+        "chapterId": "secrets",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/tony-hawks-pro-skater-12",
+    "Achievement data from Steam (Steam Web API, app 2395210)",
+    "StrategyWiki: no usable walkthrough, nothing used — https://strategywiki.org/wiki/Tony_Hawk's_Pro_Skater_1_+_2",
+    "Fandom (tonyhawk.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://tonyhawk.fandom.com/wiki/Tony_Hawk's_Pro_Skater_1_+_2"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). This is the 2020 remake; it uses its own Steam app 2395210 (\"Tony Hawk's™ Pro Skater™ 1 + 2\"; the schema calls it \"Firewalker\", an internal codename). StrategyWiki has a stub page \"Tony Hawk's Pro Skater 1 + 2\" (completion stage 0, marked as a stub); only its \"Achievements and trophies\", \"Controls\" and \"Table of Contents\" subpages are written. The contents page links a Walkthrough and 19 park pages (Warehouse to Skate Heaven), none written, so nothing was used. tonyhawk.fandom.com answers the API under \"Tony Hawk's Pro Skater 1 + 2\" with about 98 linked articles (skaters, parks, Create-A-Park, Gaps, Challenges); names only were looked at, nothing copied (tonyhawkspro-skater.fandom.com returned HTTP 404). 7 of 36 Steam achievements are hidden and have their own chapter; two of their API names (ACH_UNLOCK_ROSWELL and ACH_COLLIDE_BULL) suggest the Roswell and Bullring parks, but they were left in the secrets chapter. Which game the alien plushies belong to is not said, so they sit in the collectibles chapter. RAWG's playtime of 2 hours looks low."
+}

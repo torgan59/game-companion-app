@@ -1,0 +1,639 @@
+{
+  "id": "tom-clancys-the-division-2",
+  "title": "Tom Clancy's The Division 2",
+  "year": 2019,
+  "platforms": [
+    "PC",
+    "PlayStation 4",
+    "Web",
+    "Xbox One"
+  ],
+  "rawgId": 58754,
+  "rawgSlug": "division-2",
+  "released": "2019-03-15",
+  "developers": [
+    "Ubisoft",
+    "Massive Entertainment"
+  ],
+  "playtime": 5,
+  "genres": [
+    "Action",
+    "Shooter",
+    "Adventure",
+    "RPG"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Multiplayer",
+    "RPG",
+    "Co-op",
+    "Open World",
+    "Partial Controller Support",
+    "Online Co-Op",
+    "Action-Adventure",
+    "Third-Person Shooter",
+    "PvP",
+    "In-App Purchases",
+    "Post-apocalyptic"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/0e5/0e5e869f2e8f496b3f09e00187ea94fc.jpg",
+  "steamAppId": 2221490,
+  "achievements": {
+    "total": 67,
+    "hidden": 0,
+    "examples": [
+      {
+        "name": "Checking In",
+        "percent": 59.2
+      },
+      {
+        "name": "Shut that door (again)",
+        "percent": 58.5
+      },
+      {
+        "name": "Getting the Word Out",
+        "percent": 44.0
+      },
+      {
+        "name": "Brooklyn Bounty Hunter",
+        "percent": 1.0
+      },
+      {
+        "name": "Dark Zone: Takedown",
+        "percent": 0.9
+      },
+      {
+        "name": "Brooklyn Backup",
+        "percent": 0.8
+      },
+      {
+        "name": "For Posterity",
+        "percent": 0.7
+      },
+      {
+        "name": "Dark Zone: Occupied Hijack",
+        "percent": 0.6
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Tom_Clancy's_The_Division_2",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 127,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://thedivision.fandom.com/wiki/Tom_Clancy's_The_Division_2"
+    }
+  },
+  "game": {
+    "id": "tom-clancys-the-division-2",
+    "title": "Tom Clancy's The Division 2",
+    "platforms": [
+      "PC",
+      "PlayStation 4",
+      "Web",
+      "Xbox One"
+    ],
+    "blurb": "Online open-world looter shooter and role-playing game from Massive Entertainment and Ubisoft, released 2019-03-15. RAWG average playtime: 5 hours. Genres: Action, Shooter, Adventure, RPG. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#E06A1B",
+    "chapters": [
+      {
+        "id": "dc-story",
+        "title": "Washington, D.C. Main Missions",
+        "summary": "The main missions across the city, from the Grand Washington Hotel to the Capitol building.",
+        "steps": []
+      },
+      {
+        "id": "later-missions",
+        "title": "The Zoo, Camp White Oak and the Pentagon",
+        "summary": "Later missions after the Capitol: the zoo, Camp White Oak, the Pentagon and its labs, and two missions with returning agents.",
+        "steps": []
+      },
+      {
+        "id": "new-york",
+        "title": "New York and Brooklyn",
+        "summary": "The New York missions and manhunt, plus Brooklyn's safe houses, control points, bounties and locations.",
+        "steps": []
+      },
+      {
+        "id": "open-world",
+        "title": "Settlements, Control Points and the Open World",
+        "summary": "Upgrading settlements, settlement projects, control points, bounties, calls for backup, resource runs and the card suits.",
+        "steps": []
+      },
+      {
+        "id": "dark-zone-and-conflict",
+        "title": "Dark Zones and Conflict",
+        "summary": "Safe houses, extractions, rogue agents and hijacks in the Dark Zones, plus skirmish, domination and clan matches.",
+        "steps": []
+      },
+      {
+        "id": "raids-and-challenges",
+        "title": "Raids, Hard Difficulty and Manhunts",
+        "summary": "The two eight-player raids, every mission on hard or above, and seasonal manhunts on Challenge.",
+        "steps": []
+      },
+      {
+        "id": "agent-build",
+        "title": "Levels, Gear and Skills",
+        "summary": "Reaching levels 30 and 40, gear, blueprints, exotics, specializations, skills, patches, clans and photo mode.",
+        "steps": []
+      },
+      {
+        "id": "combat-tricks",
+        "title": "Combat Tricks",
+        "summary": "Tank armour, medics' defibrillators, signature weapons, the crossbow, hood slides and car doors.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Checking In",
+        "kind": "trophy",
+        "chapterId": "dc-story",
+        "where": "Rescue Eleanor Sawyer from the Hyenas in the Grand Washington Hotel."
+      },
+      {
+        "id": "achievement-2",
+        "name": "Opening the Vault",
+        "kind": "trophy",
+        "chapterId": "dc-story",
+        "where": "Discover what the Hyenas stole from Air Force One."
+      },
+      {
+        "id": "achievement-3",
+        "name": "Bunker Buster",
+        "kind": "trophy",
+        "chapterId": "dc-story",
+        "where": "Recover essential SHD Network equipment from the Federal Emergency Bunker."
+      },
+      {
+        "id": "achievement-4",
+        "name": "Sick Note",
+        "kind": "trophy",
+        "chapterId": "dc-story",
+        "where": "Shut down Outcast activity at the DCD Headquarters."
+      },
+      {
+        "id": "achievement-5",
+        "name": "Jailbreak",
+        "kind": "trophy",
+        "chapterId": "dc-story",
+        "where": "Recover interrogation data from the American History Museum."
+      },
+      {
+        "id": "achievement-6",
+        "name": "Global Communications",
+        "kind": "trophy",
+        "chapterId": "dc-story",
+        "where": "Reestablish the SHD Satellite Network at the Space Administration HQ."
+      },
+      {
+        "id": "achievement-7",
+        "name": "Getting the Word Out",
+        "kind": "trophy",
+        "chapterId": "dc-story",
+        "where": "Seize control of the ViewPoint Museum from the True Sons."
+      },
+      {
+        "id": "achievement-8",
+        "name": "Season Ticket",
+        "kind": "trophy",
+        "chapterId": "dc-story",
+        "where": "Eliminate the Hyena council in the District Union Arena."
+      },
+      {
+        "id": "achievement-9",
+        "name": "Strategic Extraction",
+        "kind": "trophy",
+        "chapterId": "dc-story",
+        "where": "Capture the Outcasts' Chief Strategist at the Potomac Event Center."
+      },
+      {
+        "id": "achievement-10",
+        "name": "Into the Wilderness",
+        "kind": "trophy",
+        "chapterId": "dc-story",
+        "where": "Take down the Outcast stronghold on Roosevelt Island."
+      },
+      {
+        "id": "achievement-11",
+        "name": "State of the Union",
+        "kind": "trophy",
+        "chapterId": "dc-story",
+        "where": "Drive the True Sons out of the Capitol building."
+      },
+      {
+        "id": "achievement-12",
+        "name": "Hard as Nails",
+        "kind": "trophy",
+        "chapterId": "raids-and-challenges",
+        "where": "Finish all missions on hard difficulty or above."
+      },
+      {
+        "id": "achievement-13",
+        "name": "Rebuilding DC",
+        "kind": "trophy",
+        "chapterId": "open-world",
+        "where": "Fully upgrade all settlements."
+      },
+      {
+        "id": "achievement-14",
+        "name": "Undressed to Kill",
+        "kind": "trophy",
+        "chapterId": "combat-tricks",
+        "where": "Destroy every piece of a tank's armor, then eliminate the tank."
+      },
+      {
+        "id": "achievement-15",
+        "name": "Command and Control",
+        "kind": "trophy",
+        "chapterId": "open-world",
+        "where": "Discover 20 control points in DC."
+      },
+      {
+        "id": "achievement-16",
+        "name": "Group Therapy",
+        "kind": "trophy",
+        "chapterId": "open-world",
+        "where": "Take over a control point in a group without anyone being downed."
+      },
+      {
+        "id": "achievement-17",
+        "name": "A Friend in Need",
+        "kind": "trophy",
+        "chapterId": "open-world",
+        "where": "Respond to a call for help and revive the agent."
+      },
+      {
+        "id": "achievement-18",
+        "name": "Help Me!",
+        "kind": "trophy",
+        "chapterId": "open-world",
+        "where": "Put out a call for backup."
+      },
+      {
+        "id": "achievement-19",
+        "name": "Suits You, Sir!",
+        "kind": "trophy",
+        "chapterId": "open-world",
+        "where": "Collect any suit of cards in the open world."
+      },
+      {
+        "id": "achievement-20",
+        "name": "TV Cop",
+        "kind": "trophy",
+        "chapterId": "combat-tricks",
+        "where": "Perform a slide across the hood of a car."
+      },
+      {
+        "id": "achievement-21",
+        "name": "Negative Ramos!",
+        "kind": "trophy",
+        "chapterId": "combat-tricks",
+        "where": "Shock enemy medics by shooting their defibrillator."
+      },
+      {
+        "id": "achievement-22",
+        "name": "Patchwork",
+        "kind": "trophy",
+        "chapterId": "agent-build",
+        "where": "Get 10 patches from commendations."
+      },
+      {
+        "id": "achievement-23",
+        "name": "Resourceful Agent",
+        "kind": "trophy",
+        "chapterId": "open-world",
+        "where": "Help friendlies in resource gathering."
+      },
+      {
+        "id": "achievement-24",
+        "name": "Dark Zone: Safe House",
+        "kind": "trophy",
+        "chapterId": "dark-zone-and-conflict",
+        "where": "Access a Safe House in a Dark Zone."
+      },
+      {
+        "id": "achievement-25",
+        "name": "Dark Zone: Extraction",
+        "kind": "trophy",
+        "chapterId": "dark-zone-and-conflict",
+        "where": "Extract an item from each dark zone."
+      },
+      {
+        "id": "achievement-26",
+        "name": "Dark Zone: Takedown",
+        "kind": "trophy",
+        "chapterId": "dark-zone-and-conflict",
+        "where": "Eliminate a rogue agent in each Dark Zone."
+      },
+      {
+        "id": "achievement-27",
+        "name": "First Among Equals",
+        "kind": "trophy",
+        "chapterId": "dark-zone-and-conflict",
+        "where": "Win a match of skirmish or domination."
+      },
+      {
+        "id": "achievement-28",
+        "name": "Clan War",
+        "kind": "trophy",
+        "chapterId": "dark-zone-and-conflict",
+        "where": "With your clan, face off against another clan in conflict."
+      },
+      {
+        "id": "achievement-29",
+        "name": "Big Game Hunter",
+        "kind": "trophy",
+        "chapterId": "open-world",
+        "where": "Complete a bounty from each safe house."
+      },
+      {
+        "id": "achievement-30",
+        "name": "Autograph Hunter",
+        "kind": "trophy",
+        "chapterId": "combat-tricks",
+        "where": "Kill one enemy with each of the signature weapons (crossbow, sniper rifle & grenade launcher)."
+      },
+      {
+        "id": "achievement-31",
+        "name": "Arrow to the Knee",
+        "kind": "trophy",
+        "chapterId": "combat-tricks",
+        "where": "Shoot 10 enemies in the leg with a crossbow."
+      },
+      {
+        "id": "achievement-32",
+        "name": "Next Level Operative",
+        "kind": "trophy",
+        "chapterId": "agent-build",
+        "where": "Reach Level 30."
+      },
+      {
+        "id": "achievement-33",
+        "name": "Strength in Numbers",
+        "kind": "trophy",
+        "chapterId": "agent-build",
+        "where": "Create or join a clan."
+      },
+      {
+        "id": "achievement-34",
+        "name": "For Posterity",
+        "kind": "trophy",
+        "chapterId": "agent-build",
+        "where": "Photo mode: take a photo of a group of 4 agents."
+      },
+      {
+        "id": "achievement-35",
+        "name": "Crafty Collector",
+        "kind": "trophy",
+        "chapterId": "agent-build",
+        "where": "Collect 20 blueprints."
+      },
+      {
+        "id": "achievement-36",
+        "name": "Taste of the Exotic",
+        "kind": "trophy",
+        "chapterId": "agent-build",
+        "where": "Craft an exotic weapon or item."
+      },
+      {
+        "id": "achievement-37",
+        "name": "Specialized",
+        "kind": "trophy",
+        "chapterId": "agent-build",
+        "where": "Equip your first specialization."
+      },
+      {
+        "id": "achievement-38",
+        "name": "Best of the Best",
+        "kind": "trophy",
+        "chapterId": "agent-build",
+        "where": "Invest in each type of upgrade available for a specialization."
+      },
+      {
+        "id": "achievement-39",
+        "name": "Project Management",
+        "kind": "trophy",
+        "chapterId": "open-world",
+        "where": "Complete a project for both the Theater and Campus settlements."
+      },
+      {
+        "id": "achievement-40",
+        "name": "King of the Skill",
+        "kind": "trophy",
+        "chapterId": "agent-build",
+        "where": "Equip and use each skill."
+      },
+      {
+        "id": "achievement-41",
+        "name": "Dress to Impress",
+        "kind": "trophy",
+        "chapterId": "agent-build",
+        "where": "Equip high-end gear (or above) in each slot."
+      },
+      {
+        "id": "achievement-42",
+        "name": "Dark Zone: Occupied Hijack",
+        "kind": "trophy",
+        "chapterId": "dark-zone-and-conflict",
+        "where": "Hijack an extraction in any occupied dark zone."
+      },
+      {
+        "id": "achievement-43",
+        "name": "Washington Raiders",
+        "kind": "trophy",
+        "chapterId": "raids-and-challenges",
+        "where": "Complete the full Operation Dark Hours raid in a group of eight players."
+      },
+      {
+        "id": "achievement-44",
+        "name": "Caged Animal",
+        "kind": "trophy",
+        "chapterId": "later-missions",
+        "where": "Put an end to Emeline Shaw at the Manning National Zoo."
+      },
+      {
+        "id": "achievement-45",
+        "name": "Country Retreat",
+        "kind": "trophy",
+        "chapterId": "later-missions",
+        "where": "Take part in the operation at Camp White Oak."
+      },
+      {
+        "id": "achievement-46",
+        "name": "Drilling Down",
+        "kind": "trophy",
+        "chapterId": "later-missions",
+        "where": "Discover the Black Tusk's purpose at the Pentagon and thwart it."
+      },
+      {
+        "id": "achievement-47",
+        "name": "Reactor Heist",
+        "kind": "trophy",
+        "chapterId": "later-missions",
+        "where": "Secure the perfusion bioreactor from the DARPA labs below the Pentagon."
+      },
+      {
+        "id": "achievement-48",
+        "name": "To Sum It All Up",
+        "kind": "trophy",
+        "chapterId": "later-missions",
+        "where": "Successfully extract Tchernenko after confronting and defeating Elijah Sumner."
+      },
+      {
+        "id": "achievement-49",
+        "name": "You Can't Have Him",
+        "kind": "trophy",
+        "chapterId": "later-missions",
+        "where": "Prevent Dolores Jones from capturing or killing the rogue Division agent Aaron Keener."
+      },
+      {
+        "id": "achievement-50",
+        "name": "Jail Break",
+        "kind": "trophy",
+        "chapterId": "new-york",
+        "where": "Survive all of Theo Parnell's traps and defeat him."
+      },
+      {
+        "id": "achievement-51",
+        "name": "Deep Underground",
+        "kind": "trophy",
+        "chapterId": "new-york",
+        "where": "Shut down the Cleaners' drill and eliminate Javier Kajika."
+      },
+      {
+        "id": "achievement-52",
+        "name": "Plummeting Stock",
+        "kind": "trophy",
+        "chapterId": "new-york",
+        "where": "Defeat James Dragov at the NYC Stock Exchange."
+      },
+      {
+        "id": "achievement-53",
+        "name": "Boiling Point",
+        "kind": "trophy",
+        "chapterId": "new-york",
+        "where": "Shutdown the Cleaners' oil refinery and defeat Vivian Conley."
+      },
+      {
+        "id": "achievement-54",
+        "name": "Liberation",
+        "kind": "trophy",
+        "chapterId": "new-york",
+        "where": "Prevent the missile launch and defeat Aaron Keener."
+      },
+      {
+        "id": "achievement-55",
+        "name": "Almost a band",
+        "kind": "trophy",
+        "chapterId": "new-york",
+        "where": "Complete a Main Mission in New York with at least one directive active."
+      },
+      {
+        "id": "achievement-56",
+        "name": "Under Lady Liberty's Gaze",
+        "kind": "trophy",
+        "chapterId": "new-york",
+        "where": "Complete the manhunt and eliminate Aaron Keener."
+      },
+      {
+        "id": "achievement-57",
+        "name": "Extreme Manhunt",
+        "kind": "trophy",
+        "chapterId": "raids-and-challenges",
+        "where": "Complete a Seasonal Manhunt mission on Challenge difficulty or above."
+      },
+      {
+        "id": "achievement-58",
+        "name": "Shut that door (again)",
+        "kind": "trophy",
+        "chapterId": "combat-tricks",
+        "where": "Shut two car doors while in cover."
+      },
+      {
+        "id": "achievement-59",
+        "name": "Over The Hill",
+        "kind": "trophy",
+        "chapterId": "agent-build",
+        "where": "Reach Level 40 with an agent."
+      },
+      {
+        "id": "achievement-60",
+        "name": "Iron Breakers",
+        "kind": "trophy",
+        "chapterId": "raids-and-challenges",
+        "where": "Complete the full Operation Iron Horse raid in a group of eight players."
+      },
+      {
+        "id": "achievement-61",
+        "name": "Brooklyn Brains",
+        "kind": "trophy",
+        "chapterId": "new-york",
+        "where": "Unlock and use the Smart Cover skill."
+      },
+      {
+        "id": "achievement-62",
+        "name": "Brooklyn Controller",
+        "kind": "trophy",
+        "chapterId": "new-york",
+        "where": "Discover 4 Control Points in Brooklyn."
+      },
+      {
+        "id": "achievement-63",
+        "name": "Brooklyn Bounty Hunter",
+        "kind": "trophy",
+        "chapterId": "new-york",
+        "where": "Complete a bounty from each Safe House in Brooklyn."
+      },
+      {
+        "id": "achievement-64",
+        "name": "Brooklyn Local",
+        "kind": "trophy",
+        "chapterId": "new-york",
+        "where": "Access a Safe House in Brooklyn."
+      },
+      {
+        "id": "achievement-65",
+        "name": "Brooklyn Buddies",
+        "kind": "trophy",
+        "chapterId": "new-york",
+        "where": "Put out a call for backup in Brooklyn."
+      },
+      {
+        "id": "achievement-66",
+        "name": "Brooklyn Backup",
+        "kind": "trophy",
+        "chapterId": "new-york",
+        "where": "Respond to a call for help and revive a fellow agent in Brooklyn."
+      },
+      {
+        "id": "achievement-67",
+        "name": "Hometown Hero",
+        "kind": "trophy",
+        "chapterId": "new-york",
+        "where": "Liberate all of Brooklyn's Main and Secondary locations."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/division-2",
+    "Achievement data from Steam (Steam Web API, app 2221490)",
+    "StrategyWiki: no usable walkthrough, nothing used — https://strategywiki.org/wiki/Tom_Clancy's_The_Division_2",
+    "Fandom (thedivision.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://thedivision.fandom.com/wiki/Tom_Clancy's_The_Division_2"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). Steam app 2221490 (\"Tom Clancy's The Division® 2\") was used; it was the only Steam app-list match. None of the 67 Steam achievements is hidden. RAWG also lists \"Tom Clancy's The Division 2: Warlords of New York\" (2020) as a separate entry; the New York chapter holds the achievements that name New York, Brooklyn or the targets met there, but which achievements belong to that expansion is not stated in the data. \"To Sum It All Up\" (Tchernenko and Elijah Sumner) and \"You Can't Have Him\" (Dolores Jones and Aaron Keener) name no place; they sit between the Pentagon and New York achievements in the Steam list, so they were put with the later missions, a guess that needs checking. \"Brooklyn Brains\" (use the Smart Cover skill) was put with Brooklyn because of its name. StrategyWiki has \"Tom Clancy's The Division 2\" at completion stage 0; its Gameplay, Walkthrough and Table of Contents subpages are linked but not written, so nothing was used. thedivision.fandom.com answers the API with about 127 linked articles; names only were looked at, nothing copied. This is an online game, and several achievements need a group (raids of eight, conflict, clans)."
+}

@@ -1,0 +1,578 @@
+{
+  "id": "gears-tactics",
+  "title": "Gears Tactics",
+  "year": 2020,
+  "platforms": [
+    "PC",
+    "Xbox One"
+  ],
+  "rawgId": 58762,
+  "rawgSlug": "gears-tactics",
+  "released": "2020-04-28",
+  "developers": [
+    "Splash Damage",
+    "The Coalition"
+  ],
+  "playtime": 7,
+  "genres": [
+    "Strategy"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Steam Cloud",
+    "Partial Controller Support",
+    "Gore",
+    "Survival",
+    "Violent",
+    "Tactical",
+    "War",
+    "Turn-Based",
+    "Captions available",
+    "combat"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/c36/c366f32194f488b2d04c0ec086c2cc3d.jpg",
+  "steamAppId": 1184050,
+  "achievements": {
+    "total": 61,
+    "hidden": 6,
+    "examples": [
+      {
+        "name": "Oh I'm sorry did I break your concentration?",
+        "percent": 89.5
+      },
+      {
+        "name": "Tactics!",
+        "percent": 88.0
+      },
+      {
+        "name": "The path of the righteous man",
+        "percent": 81.7
+      },
+      {
+        "name": "Grubpocalypse",
+        "percent": 0.6
+      },
+      {
+        "name": "The Big Ending",
+        "percent": 0.6
+      },
+      {
+        "name": "I've done the whole mind control thing...",
+        "percent": 0.6
+      },
+      {
+        "name": "Seriously Tactical",
+        "percent": 0.5
+      },
+      {
+        "name": "Seriously Jacked",
+        "percent": 0.5
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Gears_Tactics",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 182,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://gearsofwar.fandom.com/wiki/Gears_Tactics"
+    }
+  },
+  "game": {
+    "id": "gears-tactics",
+    "title": "Gears Tactics",
+    "platforms": [
+      "PC",
+      "Xbox One"
+    ],
+    "blurb": "Turn-based tactics game from Splash Damage and The Coalition, released 2020-04-28. RAWG average playtime: 7 hours. Genres: Strategy. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#8B1E1E",
+    "chapters": [
+      {
+        "id": "campaign",
+        "title": "The Campaign",
+        "summary": "Finishing every Campaign Act on any difficulty, plus six hidden story milestones. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "difficulty-and-ironman",
+        "title": "Hard Difficulty and Ironman",
+        "summary": "Experienced and Insane runs, Ironman mode, a one-soldier Insane mission and the flawless Insane campaign.",
+        "steps": []
+      },
+      {
+        "id": "side-and-veteran",
+        "title": "Side Missions and Veteran Missions",
+        "summary": "Sabotage, Scavenger Run, Control and Rescue side missions, and the Veteran missions.",
+        "steps": []
+      },
+      {
+        "id": "hero-skills",
+        "title": "Hero Skills and Weapon Mods",
+        "summary": "Class skill combos (Rampage, Anchored, Teamwork, Avenger, Alpha and Omega, Breach) and Legendary weapon mods.",
+        "steps": []
+      },
+      {
+        "id": "combat-feats",
+        "title": "Combat Feats",
+        "summary": "Kill counts, Ticker tricks, Emergence Holes, chainsaw executions, trick shots and missions with no one downed.",
+        "steps": []
+      },
+      {
+        "id": "jacked-mode",
+        "title": "Jacked Game Mode",
+        "summary": "Every achievement marked \"Jacked game mode only\", including the Brumak fight in Act 1 Chapter 6.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Grubslayer",
+        "kind": "trophy",
+        "chapterId": "combat-feats",
+        "where": "Kill 10 enemies."
+      },
+      {
+        "id": "achievement-2",
+        "name": "Grubslaughter",
+        "kind": "trophy",
+        "chapterId": "combat-feats",
+        "where": "Kill 1000 enemies."
+      },
+      {
+        "id": "achievement-3",
+        "name": "Grubpocalypse",
+        "kind": "trophy",
+        "chapterId": "combat-feats",
+        "where": "Kill 10000 enemies."
+      },
+      {
+        "id": "achievement-4",
+        "name": "I could do this all day",
+        "kind": "trophy",
+        "chapterId": "side-and-veteran",
+        "where": "Complete 20 Veteran Missions."
+      },
+      {
+        "id": "achievement-5",
+        "name": "Tick Tick Tick...",
+        "kind": "trophy",
+        "chapterId": "combat-feats",
+        "where": "Kill an enemy with a Ticker explosion."
+      },
+      {
+        "id": "achievement-6",
+        "name": "Boom!",
+        "kind": "trophy",
+        "chapterId": "combat-feats",
+        "where": "Kill 100 enemies with Ticker explosions."
+      },
+      {
+        "id": "achievement-7",
+        "name": "God-like",
+        "kind": "trophy",
+        "chapterId": "combat-feats",
+        "where": "Complete 20 missions without any of your units dying or being downed."
+      },
+      {
+        "id": "achievement-8",
+        "name": "Immortal",
+        "kind": "trophy",
+        "chapterId": "combat-feats",
+        "where": "Complete 100 missions without any of your units dying or being downed."
+      },
+      {
+        "id": "achievement-9",
+        "name": "Tactics!",
+        "kind": "trophy",
+        "chapterId": "combat-feats",
+        "where": "Perform a chainsaw execution."
+      },
+      {
+        "id": "achievement-10",
+        "name": "World on Fire",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-11",
+        "name": "Hell of a shot",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-12",
+        "name": "The bigger they are, the harder they fall",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-13",
+        "name": "Maybe too much spine...",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-14",
+        "name": "Broken hand, broken heart",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-15",
+        "name": "Dead men tell no tales",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-16",
+        "name": "Champion of Vasgar",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Complete all Campaign Acts (any difficulty)."
+      },
+      {
+        "id": "achievement-17",
+        "name": "Hero of Vasgar",
+        "kind": "trophy",
+        "chapterId": "difficulty-and-ironman",
+        "where": "Complete all Campaign Acts on Experienced or Insane difficulty."
+      },
+      {
+        "id": "achievement-18",
+        "name": "Savior of Vasgar",
+        "kind": "trophy",
+        "chapterId": "difficulty-and-ironman",
+        "where": "Complete all Campaign Acts on Insane difficulty."
+      },
+      {
+        "id": "achievement-19",
+        "name": "Smash!",
+        "kind": "trophy",
+        "chapterId": "side-and-veteran",
+        "where": "Complete a Sabotage side mission."
+      },
+      {
+        "id": "achievement-20",
+        "name": "Fortuna Audaces Sequitur",
+        "kind": "trophy",
+        "chapterId": "side-and-veteran",
+        "where": "Complete a Scavenger Run side mission."
+      },
+      {
+        "id": "achievement-21",
+        "name": "Everyone stay cool, this is a robbery!",
+        "kind": "trophy",
+        "chapterId": "side-and-veteran",
+        "where": "Complete a Control side mission."
+      },
+      {
+        "id": "achievement-22",
+        "name": "Stronger Together",
+        "kind": "trophy",
+        "chapterId": "side-and-veteran",
+        "where": "Complete a Rescue side mission."
+      },
+      {
+        "id": "achievement-23",
+        "name": "We’re in the endgame now",
+        "kind": "trophy",
+        "chapterId": "side-and-veteran",
+        "where": "Complete a Veteran side mission."
+      },
+      {
+        "id": "achievement-24",
+        "name": "Legen (wait for it)…",
+        "kind": "trophy",
+        "chapterId": "hero-skills",
+        "where": "Upgrade one primary weapon with all Legendary mods."
+      },
+      {
+        "id": "achievement-25",
+        "name": "…dary!",
+        "kind": "trophy",
+        "chapterId": "hero-skills",
+        "where": "Upgrade each Hero's primary weapon with all Legendary mods."
+      },
+      {
+        "id": "achievement-26",
+        "name": "I am Ironman",
+        "kind": "trophy",
+        "chapterId": "difficulty-and-ironman",
+        "where": "Complete the Campaign on any difficulty with Ironman mode enabled."
+      },
+      {
+        "id": "achievement-27",
+        "name": "I never miss",
+        "kind": "trophy",
+        "chapterId": "combat-feats",
+        "where": "Hit a target with 10% or less chance to hit."
+      },
+      {
+        "id": "achievement-28",
+        "name": "Happy Killmore",
+        "kind": "trophy",
+        "chapterId": "combat-feats",
+        "where": "Close an Emergence Hole by kicking a Ticker into it."
+      },
+      {
+        "id": "achievement-29",
+        "name": "I've got your 'BOOM' right here!",
+        "kind": "trophy",
+        "chapterId": "combat-feats",
+        "where": "Kill a Boomer with a boomshot."
+      },
+      {
+        "id": "achievement-30",
+        "name": "The path of the righteous man",
+        "kind": "trophy",
+        "chapterId": "combat-feats",
+        "where": "Complete a mission without any of your units dying or being downed."
+      },
+      {
+        "id": "achievement-31",
+        "name": "BOGO",
+        "kind": "trophy",
+        "chapterId": "combat-feats",
+        "where": "Kill an enemy, AND an enemy behind it, with a single burst of bullets."
+      },
+      {
+        "id": "achievement-32",
+        "name": "Trick Shot",
+        "kind": "trophy",
+        "chapterId": "combat-feats",
+        "where": "Get 4 kills with a single Torque Bow shot."
+      },
+      {
+        "id": "achievement-33",
+        "name": "Demolition Expert",
+        "kind": "trophy",
+        "chapterId": "combat-feats",
+        "where": "Close an Emergence Hole before any enemies have emerged."
+      },
+      {
+        "id": "achievement-34",
+        "name": "High Noon",
+        "kind": "trophy",
+        "chapterId": "combat-feats",
+        "where": "Complete a mission by only dealing damage with Snub Pistols."
+      },
+      {
+        "id": "achievement-35",
+        "name": "Ain't no one like me, 'cept me!",
+        "kind": "trophy",
+        "chapterId": "difficulty-and-ironman",
+        "where": "Complete a mission on Insane difficulty with a single soldier."
+      },
+      {
+        "id": "achievement-36",
+        "name": "Immortal Legion",
+        "kind": "trophy",
+        "chapterId": "difficulty-and-ironman",
+        "where": "Complete the campaign on Insane difficulty without a single unit dying."
+      },
+      {
+        "id": "achievement-37",
+        "name": "Seriously Tactical",
+        "kind": "trophy",
+        "chapterId": "difficulty-and-ironman",
+        "where": "Earn Grubpocalypse, Immortal Legion, I Could Do This All Day and Boom!"
+      },
+      {
+        "id": "achievement-38",
+        "name": "Check out the big brain on Brett!",
+        "kind": "trophy",
+        "chapterId": "combat-feats",
+        "where": "Kill 5 enemies with a single Overwatch action."
+      },
+      {
+        "id": "achievement-39",
+        "name": "Piñata",
+        "kind": "trophy",
+        "chapterId": "combat-feats",
+        "where": "Kill a single unit that has taken damage from each Gear on the mission."
+      },
+      {
+        "id": "achievement-40",
+        "name": "Snafu",
+        "kind": "trophy",
+        "chapterId": "combat-feats",
+        "where": "Heal an enemy unit with a Stim Grenade."
+      },
+      {
+        "id": "achievement-41",
+        "name": "Aw man, I shot Marvin in the face",
+        "kind": "trophy",
+        "chapterId": "combat-feats",
+        "where": "Down a Gear with friendly fire."
+      },
+      {
+        "id": "achievement-42",
+        "name": "Oh I'm sorry did I break your concentration?",
+        "kind": "trophy",
+        "chapterId": "combat-feats",
+        "where": "Interrupt an enemy Overwatch with a Disabling Shot from the Snub Pistol."
+      },
+      {
+        "id": "achievement-43",
+        "name": "We should have shotguns for this...",
+        "kind": "trophy",
+        "chapterId": "side-and-veteran",
+        "where": "Complete a Veteran Mission with all Scout units."
+      },
+      {
+        "id": "achievement-44",
+        "name": "Backdoor Man",
+        "kind": "trophy",
+        "chapterId": "hero-skills",
+        "where": "Kill 6 targets with a single Rampage, after coming out of Cloak."
+      },
+      {
+        "id": "achievement-45",
+        "name": "Three Count",
+        "kind": "trophy",
+        "chapterId": "hero-skills",
+        "where": "Hit with 3 Explosive Shots while having maximum Anchored bonus in a single turn."
+      },
+      {
+        "id": "achievement-46",
+        "name": "Trouble in Paradise",
+        "kind": "trophy",
+        "chapterId": "hero-skills",
+        "where": "Empower a Teamworked unit and gain 3 AP from their kills."
+      },
+      {
+        "id": "achievement-47",
+        "name": "Midnight Hour",
+        "kind": "trophy",
+        "chapterId": "hero-skills",
+        "where": "Gain AP from the Avenger skill, then use a Rage shot to kill the unit that caused your AP gain."
+      },
+      {
+        "id": "achievement-48",
+        "name": "Up Up Down Down",
+        "kind": "trophy",
+        "chapterId": "hero-skills",
+        "where": "Use Alpha and Omega twice each in the same turn."
+      },
+      {
+        "id": "achievement-49",
+        "name": "The Big Ending",
+        "kind": "trophy",
+        "chapterId": "hero-skills",
+        "where": "Revive a Scout with Stim ability and then use that Scout to kill at least 5 enemies with Rampage."
+      },
+      {
+        "id": "achievement-50",
+        "name": "Great vengeance and furious anger...",
+        "kind": "trophy",
+        "chapterId": "hero-skills",
+        "where": "In one turn, Breach 3 enemies; kill one of each with Precision Shot, Reckless Shot and Double Shot."
+      },
+      {
+        "id": "achievement-51",
+        "name": "Zed's dead, baby.",
+        "kind": "trophy",
+        "chapterId": "jacked-mode",
+        "where": "Kill one or more of each Deviant enemy (Jacked game mode only)."
+      },
+      {
+        "id": "achievement-52",
+        "name": "For he is truly his brother's keeper...",
+        "kind": "trophy",
+        "chapterId": "jacked-mode",
+        "where": "Use Jack to rescue both soldiers from torture pods on a Rescue mission (Jacked game mode only)."
+      },
+      {
+        "id": "achievement-53",
+        "name": "Number 5 is alive!",
+        "kind": "trophy",
+        "chapterId": "jacked-mode",
+        "where": "Complete a mission with Jack (Jacked game mode only)."
+      },
+      {
+        "id": "achievement-54",
+        "name": "One For All!",
+        "kind": "trophy",
+        "chapterId": "jacked-mode",
+        "where": "Have four squad members with the Jacked status effect at the same time (Jacked game mode only)."
+      },
+      {
+        "id": "achievement-55",
+        "name": "Jack and the Beanstalk",
+        "kind": "trophy",
+        "chapterId": "jacked-mode",
+        "where": "Defeat the Brumak in Act 1 Chapter 6 without Jack taking damage (Jacked game mode only)."
+      },
+      {
+        "id": "achievement-56",
+        "name": "All For One!",
+        "kind": "trophy",
+        "chapterId": "jacked-mode",
+        "where": "Apply three or more stacks of Wingman on a single ally (Jacked game mode only)."
+      },
+      {
+        "id": "achievement-57",
+        "name": "You can't see me!",
+        "kind": "trophy",
+        "chapterId": "jacked-mode",
+        "where": "Gain a Supply with a Hidden Jack and no other allies in the Supply Point (Jacked game mode only)."
+      },
+      {
+        "id": "achievement-58",
+        "name": "I've done the whole mind control thing...",
+        "kind": "trophy",
+        "chapterId": "jacked-mode",
+        "where": "Use Jack to HiJack each non-boss enemy at least once (Jacked game mode only)."
+      },
+      {
+        "id": "achievement-59",
+        "name": "Untouchable",
+        "kind": "trophy",
+        "chapterId": "jacked-mode",
+        "where": "Win a Veteran Mission without taking a point of damage (Jacked game mode only)."
+      },
+      {
+        "id": "achievement-60",
+        "name": "Suit Up!",
+        "kind": "trophy",
+        "chapterId": "jacked-mode",
+        "where": "Equip at least one weapon with all Supreme Weapon Mods (Jacked game mode only)."
+      },
+      {
+        "id": "achievement-61",
+        "name": "Seriously Jacked",
+        "kind": "trophy",
+        "chapterId": "jacked-mode",
+        "where": "Earn all \"Jacked game mode\" achievements."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/gears-tactics",
+    "Achievement data from Steam (Steam Web API, app 1184050)",
+    "StrategyWiki: no usable walkthrough, nothing used — https://strategywiki.org/wiki/Gears_Tactics",
+    "Fandom (gearsofwar.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://gearsofwar.fandom.com/wiki/Gears_Tactics"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). The Steam schema calls the app \"Glenwood\" (an internal codename); the store list confirms app 1184050. 6 of 61 Steam achievements are hidden (\"World on Fire\", \"Hell of a shot\", \"The bigger they are, the harder they fall\", \"Maybe too much spine...\", \"Broken hand, broken heart\" and \"Dead men tell no tales\") and sit in the campaign chapter as a placeholder. \"Seriously Tactical\" (earn four other achievements) is in the difficulty chapter because it needs \"Immortal Legion\". StrategyWiki has a stub page (completion stage 0, marked as a stub). Only 4 subpages exist: \"Achievements\" (about 6,900 characters), \"Characters\" (about 550), \"Enemies\" (about 330) and \"Table of Contents\" (about 620); Walkthrough, Collectibles, Controls, Gameplay, Unlockables and Weapons are linked but not created, so nothing was used. gearsofwar.fandom.com answers the API, with about 182 linked pages; names only were looked at, nothing copied."
+}

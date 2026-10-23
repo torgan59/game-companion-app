@@ -1,0 +1,1436 @@
+{
+  "id": "gears-5",
+  "title": "Gears 5",
+  "year": 2019,
+  "platforms": [
+    "Xbox Series X|S",
+    "PC",
+    "Xbox One"
+  ],
+  "rawgId": 326252,
+  "rawgSlug": "gears-5",
+  "released": "2019-09-10",
+  "developers": [
+    "The Coalition"
+  ],
+  "playtime": 7,
+  "genres": [
+    "Action",
+    "Shooter"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Multiplayer",
+    "Co-op",
+    "cooperative",
+    "Partial Controller Support",
+    "Online Co-Op",
+    "Gore",
+    "Female Protagonist",
+    "Violent",
+    "Online multiplayer",
+    "Split Screen",
+    "Local Co-Op"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/121/1213f8b9b0a26307e672cf51f34882f8.jpg",
+  "steamAppId": 1097840,
+  "achievements": {
+    "total": 181,
+    "hidden": 6,
+    "examples": [
+      {
+        "name": "My Body is Ready",
+        "percent": 69.9
+      },
+      {
+        "name": "Not There to Buy a Timeshare",
+        "percent": 69.1
+      },
+      {
+        "name": "And… He's All Yours",
+        "percent": 64.4
+      },
+      {
+        "name": "Covering Fire",
+        "percent": 0.6
+      },
+      {
+        "name": "The Centaur Set",
+        "percent": 0.6
+      },
+      {
+        "name": "Ironed Out",
+        "percent": 0.5
+      },
+      {
+        "name": "Re-Up Mastery",
+        "percent": 0.5
+      },
+      {
+        "name": "Seriously 5.0 - Chapter 2",
+        "percent": 0.4
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": false,
+      "pages": 0,
+      "reason": "No page for Gears 5 (MediaWiki API returned missing; see notes for other titles tried)"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 500,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://gearsofwar.fandom.com/wiki/Gears_5"
+    }
+  },
+  "game": {
+    "id": "gears-5",
+    "title": "Gears 5",
+    "platforms": [
+      "Xbox Series X|S",
+      "PC",
+      "Xbox One"
+    ],
+    "blurb": "Third-person cover shooter from The Coalition, released 2019-09-10. RAWG average playtime: 7 hours. Genres: Action, Shooter. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#9E2B25",
+    "chapters": [
+      {
+        "id": "act-1",
+        "title": "Campaign Act 1",
+        "summary": "The four chapters of the first act, from Boot Camp onward, each with a story milestone.",
+        "steps": []
+      },
+      {
+        "id": "act-2",
+        "title": "Campaign Act 2",
+        "summary": "The five chapters of the second act, through the valley and the comm towers. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "act-3",
+        "title": "Campaign Act 3",
+        "summary": "The four chapters of the third act, around the satellites and the rocket. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "act-4",
+        "title": "Campaign Act 4 and the Ending",
+        "summary": "The last two chapters and finishing all acts. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "campaign-extras",
+        "title": "Jack, Relics, Collectibles and Difficulty",
+        "summary": "Jack's abilities and upgrades, Relic weapons, Condor supplies, all collectibles, co-op, Insane, Ironman and Inconceivable runs.",
+        "steps": []
+      },
+      {
+        "id": "hivebusters",
+        "title": "Hivebusters Expansion",
+        "summary": "The Hivebusters campaign: its chapters, each character's ability, collectibles, Insane and three-player co-op.",
+        "steps": []
+      },
+      {
+        "id": "horde-and-escape",
+        "title": "Horde and Escape",
+        "summary": "Horde waves, Horde Frenzy, Escape hives, the map builder and class levels in both modes.",
+        "steps": []
+      },
+      {
+        "id": "versus",
+        "title": "Versus and Arcade",
+        "summary": "Versus maps, Arcade, Arcade Blitz, Free For All, Gridiron, 2vs2 Gnashers, Ranked and Competitive play.",
+        "steps": []
+      },
+      {
+        "id": "progression",
+        "title": "Tour of Duty, Re-ups and Cosmetics",
+        "summary": "Tour of Duty ranks, re-ups, skill cards, skins, the Seriously 5.0 goals and class levels.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Back Atcha",
+        "kind": "trophy",
+        "chapterId": "campaign-extras",
+        "where": "Get a kill with ricochet bullets using Jack's Barrier Ability"
+      },
+      {
+        "id": "achievement-2",
+        "name": "I Was Born in a Crossfire Hurricane",
+        "kind": "trophy",
+        "chapterId": "campaign-extras",
+        "where": "Use Jack's Flash ability to stun 3 enemies at once in Campaign"
+      },
+      {
+        "id": "achievement-3",
+        "name": "Back on Your Feet, Soldier!",
+        "kind": "trophy",
+        "chapterId": "campaign-extras",
+        "where": "Use Jack's Stim upgraded ability to revive a DBNO friendly in Campaign"
+      },
+      {
+        "id": "achievement-4",
+        "name": "Shock and Awe",
+        "kind": "trophy",
+        "chapterId": "campaign-extras",
+        "where": "Use Jack's Shock Trap ability to shock 6 enemies at once in Campaign"
+      },
+      {
+        "id": "achievement-5",
+        "name": "Pennies from Heaven",
+        "kind": "trophy",
+        "chapterId": "campaign-extras",
+        "where": "Scavenge supplies from all fallen Condors in Act 2 and Act 3"
+      },
+      {
+        "id": "achievement-6",
+        "name": "Pass the Soap",
+        "kind": "trophy",
+        "chapterId": "horde-and-escape",
+        "where": "Pass through a refuge shower with 3 Hivebusters in the same shower cubicle"
+      },
+      {
+        "id": "achievement-7",
+        "name": "Sire, Interrupted",
+        "kind": "trophy",
+        "chapterId": "progression",
+        "where": "Kill a Sire while it's kidnapping a teammate (any mode)"
+      },
+      {
+        "id": "achievement-8",
+        "name": "Perky's Revenge!",
+        "kind": "trophy",
+        "chapterId": "horde-and-escape",
+        "where": "Get a kill with 3 Perks active in Horde"
+      },
+      {
+        "id": "achievement-9",
+        "name": "BFFs",
+        "kind": "trophy",
+        "chapterId": "versus",
+        "where": "Complete a Versus match with a team of four Level 5 Gears Allies"
+      },
+      {
+        "id": "achievement-10",
+        "name": "You've Got a Friend in Me",
+        "kind": "trophy",
+        "chapterId": "versus",
+        "where": "Make a new Ally in Gears Allies"
+      },
+      {
+        "id": "achievement-11",
+        "name": "Did We Just Become Best Friends?",
+        "kind": "trophy",
+        "chapterId": "versus",
+        "where": "Reach Level 5 with an ally in Gears Allies"
+      },
+      {
+        "id": "achievement-12",
+        "name": "Seriously 5.0 - Chapter 1",
+        "kind": "trophy",
+        "chapterId": "progression",
+        "where": "Insane Campaign, Master Horde & Escape Launch Maps & Characters, 20 Re-ups, General in Tour"
+      },
+      {
+        "id": "achievement-13",
+        "name": "Once More From the Top",
+        "kind": "trophy",
+        "chapterId": "progression",
+        "where": "Re-up!"
+      },
+      {
+        "id": "achievement-14",
+        "name": "One, Two, Three Sorties",
+        "kind": "trophy",
+        "chapterId": "progression",
+        "where": "Completed 3 Objectives for Tour of Duty in a day"
+      },
+      {
+        "id": "achievement-15",
+        "name": "I'm The Captain Now",
+        "kind": "trophy",
+        "chapterId": "progression",
+        "where": "Reach the rank of Captain in Tour of Duty"
+      },
+      {
+        "id": "achievement-16",
+        "name": "Corporal Punishment",
+        "kind": "trophy",
+        "chapterId": "progression",
+        "where": "Reach the rank of Corporal in a Tour of Duty"
+      },
+      {
+        "id": "achievement-17",
+        "name": "Generally Awesome",
+        "kind": "trophy",
+        "chapterId": "progression",
+        "where": "Reach the rank of General in Tour of Duty"
+      },
+      {
+        "id": "achievement-18",
+        "name": "LOOTenant",
+        "kind": "trophy",
+        "chapterId": "progression",
+        "where": "Reach the rank of Lieutenant in Tour of Duty"
+      },
+      {
+        "id": "achievement-19",
+        "name": "Sergeant at Arms",
+        "kind": "trophy",
+        "chapterId": "progression",
+        "where": "Reach the rank of Sergeant in Tour of Duty"
+      },
+      {
+        "id": "achievement-20",
+        "name": "My Body is Ready",
+        "kind": "trophy",
+        "chapterId": "act-1",
+        "where": "Complete Boot Camp"
+      },
+      {
+        "id": "achievement-21",
+        "name": "Not There to Buy a Timeshare",
+        "kind": "trophy",
+        "chapterId": "act-1",
+        "where": "Launch the Rocket"
+      },
+      {
+        "id": "achievement-22",
+        "name": "And… He's All Yours",
+        "kind": "trophy",
+        "chapterId": "act-1",
+        "where": "Upgrade Del's New Best Friend"
+      },
+      {
+        "id": "achievement-23",
+        "name": "Now I Gotta Get Up Again",
+        "kind": "trophy",
+        "chapterId": "act-1",
+        "where": "Reinforce Carmine at the Plaza"
+      },
+      {
+        "id": "achievement-24",
+        "name": "A Mouthful of Boom",
+        "kind": "trophy",
+        "chapterId": "act-1",
+        "where": "Headshot the Swarmak at the theatre"
+      },
+      {
+        "id": "achievement-25",
+        "name": "It's Time We Fight Them Together",
+        "kind": "trophy",
+        "chapterId": "act-2",
+        "where": "Save the Riftworm village"
+      },
+      {
+        "id": "achievement-26",
+        "name": "Jameson Shipping Depot",
+        "kind": "trophy",
+        "chapterId": "act-2",
+        "where": "Find a way into New Hope"
+      },
+      {
+        "id": "achievement-27",
+        "name": "That Old COG Technology",
+        "kind": "trophy",
+        "chapterId": "act-2",
+        "where": "Open the old COG gate in Kadar Valley"
+      },
+      {
+        "id": "achievement-28",
+        "name": "Let's Get You Some Answers",
+        "kind": "trophy",
+        "chapterId": "act-2",
+        "where": "Use the Comm Towers to locate the hidden facility"
+      },
+      {
+        "id": "achievement-29",
+        "name": "We Need the Old Plan",
+        "kind": "trophy",
+        "chapterId": "act-2",
+        "where": "Kill the Matriarch"
+      },
+      {
+        "id": "achievement-30",
+        "name": "Safe and Sound",
+        "kind": "trophy",
+        "chapterId": "act-3",
+        "where": "Secure the UIR satellites"
+      },
+      {
+        "id": "achievement-31",
+        "name": "Cutting it Close",
+        "kind": "trophy",
+        "chapterId": "act-3",
+        "where": "Secure the UIR rocket"
+      },
+      {
+        "id": "achievement-32",
+        "name": "Throw a Switch, See What Happens",
+        "kind": "trophy",
+        "chapterId": "act-3",
+        "where": "Assemble the UIR Hammer of Dawn rocket"
+      },
+      {
+        "id": "achievement-33",
+        "name": "Let's Keep Pissin it Off!",
+        "kind": "trophy",
+        "chapterId": "act-3",
+        "where": "Survive the Kraken fight"
+      },
+      {
+        "id": "achievement-34",
+        "name": "Then We Watch Each Other's Back",
+        "kind": "trophy",
+        "chapterId": "act-4",
+        "where": "Plant the last beacon in the Old Ephyra ruins"
+      },
+      {
+        "id": "achievement-35",
+        "name": "You Know I Ain't Going Out Like That",
+        "kind": "trophy",
+        "chapterId": "act-4",
+        "where": "Get back to the New Ephyra wall"
+      },
+      {
+        "id": "achievement-36",
+        "name": "Discovered the True Threat to Sera",
+        "kind": "trophy",
+        "chapterId": "act-4",
+        "where": "Complete all Acts of the Campaign (Any difficulty)"
+      },
+      {
+        "id": "achievement-37",
+        "name": "A Good Plan, Violently Executed",
+        "kind": "trophy",
+        "chapterId": "progression",
+        "where": "Execute 100 Rejects (any mode)"
+      },
+      {
+        "id": "achievement-38",
+        "name": "An Enemy Among Us",
+        "kind": "trophy",
+        "chapterId": "campaign-extras",
+        "where": "Get a kill with a Hijacked Pouncer, Warden, Stump and Elite Hunter in Campaign"
+      },
+      {
+        "id": "achievement-39",
+        "name": "Jack of One Trade",
+        "kind": "trophy",
+        "chapterId": "campaign-extras",
+        "where": "Complete an Act of the Campaign as playable Jack (any difficulty)"
+      },
+      {
+        "id": "achievement-40",
+        "name": "Jack of All Trades",
+        "kind": "trophy",
+        "chapterId": "campaign-extras",
+        "where": "Acquire all of Jack's Ultimate upgrades in Campaign"
+      },
+      {
+        "id": "achievement-41",
+        "name": "Seraninja",
+        "kind": "trophy",
+        "chapterId": "campaign-extras",
+        "where": "Use Jack's Cloak ability to cloak and execute 3 enemies before de-cloaking in Campaign"
+      },
+      {
+        "id": "achievement-42",
+        "name": "JACKed Up!",
+        "kind": "trophy",
+        "chapterId": "campaign-extras",
+        "where": "Fully upgrade Jack's Abilities and Passives in Campaign"
+      },
+      {
+        "id": "achievement-43",
+        "name": "Gimme, Gimme, Gimme",
+        "kind": "trophy",
+        "chapterId": "campaign-extras",
+        "where": "Use Jack's Fetch ability to acquire each Heavy Weapon in Campaign"
+      },
+      {
+        "id": "achievement-44",
+        "name": "Relic Hunter",
+        "kind": "trophy",
+        "chapterId": "campaign-extras",
+        "where": "Equip 3 Relic Weapons at one time in Campaign"
+      },
+      {
+        "id": "achievement-45",
+        "name": "Relics of the Past",
+        "kind": "trophy",
+        "chapterId": "campaign-extras",
+        "where": "Kill an enemy with every Relic Weapon in Campaign"
+      },
+      {
+        "id": "achievement-46",
+        "name": "It Takes Three to Make a Thing Go Right",
+        "kind": "trophy",
+        "chapterId": "campaign-extras",
+        "where": "Complete an Act of Campaign in 3-player co-op"
+      },
+      {
+        "id": "achievement-47",
+        "name": "Master Escape Artist",
+        "kind": "trophy",
+        "chapterId": "progression",
+        "where": "Reach Character Level 15 with Tactician, Anchor and Blademaster Class"
+      },
+      {
+        "id": "achievement-48",
+        "name": "Who's Your Escape Main?",
+        "kind": "trophy",
+        "chapterId": "progression",
+        "where": "Reach Character Level 15 with either Tactician, Anchor or Blademaster Class"
+      },
+      {
+        "id": "achievement-49",
+        "name": "Master of My Domain",
+        "kind": "trophy",
+        "chapterId": "horde-and-escape",
+        "where": "Complete a Launch Hive on each difficulty (The Hive, The Descent, The Gauntlet or The Mines)"
+      },
+      {
+        "id": "achievement-50",
+        "name": "Who You Gonna Call? Hivebusters!",
+        "kind": "trophy",
+        "chapterId": "horde-and-escape",
+        "where": "Complete 5 Escape Hives as each one of Mac, Lahni and Keegan"
+      },
+      {
+        "id": "achievement-51",
+        "name": "Brought a Knife to a Gun Fight",
+        "kind": "trophy",
+        "chapterId": "horde-and-escape",
+        "where": "Complete an Escape Hive without firing a shot on Master Difficulty"
+      },
+      {
+        "id": "achievement-52",
+        "name": "The Three Musketeers",
+        "kind": "trophy",
+        "chapterId": "horde-and-escape",
+        "where": "Inflict 9000 damage in Escape while 3 Ultimate Abilities are active"
+      },
+      {
+        "id": "achievement-53",
+        "name": "On the Razor's Edge",
+        "kind": "trophy",
+        "chapterId": "horde-and-escape",
+        "where": "Got 5 kills while inside Hivebuster Venom"
+      },
+      {
+        "id": "achievement-54",
+        "name": "Compulsive Horder",
+        "kind": "trophy",
+        "chapterId": "progression",
+        "where": "Reach Character Level 15 with Infiltrator, Demolitions, Mechanic, Veteran, Marksman and Jack"
+      },
+      {
+        "id": "achievement-55",
+        "name": "Who's Your Horde Main?",
+        "kind": "trophy",
+        "chapterId": "progression",
+        "where": "Reach Character Level 15 with Infiltrator, Demolitions, Mechanic, Veteran, Marksman OR Jack"
+      },
+      {
+        "id": "achievement-56",
+        "name": "Can't Stop, Won't Stop",
+        "kind": "trophy",
+        "chapterId": "horde-and-escape",
+        "where": "Beat 50 Consecutive Waves of Horde (any difficulty)"
+      },
+      {
+        "id": "achievement-57",
+        "name": "Reduce, Reuse, Recycle",
+        "kind": "trophy",
+        "chapterId": "horde-and-escape",
+        "where": "As Jack, convert one of each weapon to Power using the Forge in Horde"
+      },
+      {
+        "id": "achievement-58",
+        "name": "Withdrawal Symptoms",
+        "kind": "trophy",
+        "chapterId": "horde-and-escape",
+        "where": "As a team, collect Power from all 4 Power Taps within one wave of Horde"
+      },
+      {
+        "id": "achievement-59",
+        "name": "And I'll Form the Head!",
+        "kind": "trophy",
+        "chapterId": "horde-and-escape",
+        "where": "Kill a Boss in Horde while all 5 players have active Ultimate Abilities"
+      },
+      {
+        "id": "achievement-60",
+        "name": "Homegrown Hive",
+        "kind": "trophy",
+        "chapterId": "horde-and-escape",
+        "where": "Complete a Featured community built Escape Hive"
+      },
+      {
+        "id": "achievement-61",
+        "name": "I Made It All By Myself",
+        "kind": "trophy",
+        "chapterId": "horde-and-escape",
+        "where": "Create and publish an Escape Hive"
+      },
+      {
+        "id": "achievement-62",
+        "name": "Beginning of a Beautiful Friendship",
+        "kind": "trophy",
+        "chapterId": "versus",
+        "where": "Play a match of Arcade"
+      },
+      {
+        "id": "achievement-63",
+        "name": "One Sec, I'll Be Right Back",
+        "kind": "trophy",
+        "chapterId": "versus",
+        "where": "Switch characters in an Arcade match and kill an opponent who previously killed you"
+      },
+      {
+        "id": "achievement-64",
+        "name": "Where's My Product Endorsement Deal?",
+        "kind": "trophy",
+        "chapterId": "versus",
+        "where": "Win 5 matches of Arcade"
+      },
+      {
+        "id": "achievement-65",
+        "name": "Grind Season",
+        "kind": "trophy",
+        "chapterId": "versus",
+        "where": "Won 25 Ranked matches in one Competitive Season"
+      },
+      {
+        "id": "achievement-66",
+        "name": "My Place in the Machine",
+        "kind": "trophy",
+        "chapterId": "versus",
+        "where": "Completed 5 Matches in a Competitive playlist"
+      },
+      {
+        "id": "achievement-67",
+        "name": "It’s Not Hoarding if Your Stuff is Cool",
+        "kind": "trophy",
+        "chapterId": "campaign-extras",
+        "where": "Collect all Campaign Collectibles"
+      },
+      {
+        "id": "achievement-68",
+        "name": "All Aboard the Crazy Train!",
+        "kind": "trophy",
+        "chapterId": "campaign-extras",
+        "where": "Complete all Acts of the Campaign on Insane"
+      },
+      {
+        "id": "achievement-69",
+        "name": "Planned and Executed",
+        "kind": "trophy",
+        "chapterId": "versus",
+        "where": "Execute both members of the enemy team within a round of 2vs2 Gnashers"
+      },
+      {
+        "id": "achievement-70",
+        "name": "Dynamic Duo",
+        "kind": "trophy",
+        "chapterId": "versus",
+        "where": "Won 10 Competitive Matches of 2vs2 Gnashers"
+      },
+      {
+        "id": "achievement-71",
+        "name": "All of Allfathers",
+        "kind": "trophy",
+        "chapterId": "versus",
+        "where": "Win a Versus round on every customized map piece in Allfathers Arena (9)"
+      },
+      {
+        "id": "achievement-72",
+        "name": "Sampler",
+        "kind": "trophy",
+        "chapterId": "versus",
+        "where": "Complete a Match of Free For All, Arcade Blitz and Gridiron"
+      },
+      {
+        "id": "achievement-73",
+        "name": "Close Call",
+        "kind": "trophy",
+        "chapterId": "versus",
+        "where": "Win a Match of Arcade Blitz where the opposition team is within 25 points of winning"
+      },
+      {
+        "id": "achievement-74",
+        "name": "Ring Leader",
+        "kind": "trophy",
+        "chapterId": "versus",
+        "where": "Win a Match of Arcade Blitz with the most Points earned in a Ring"
+      },
+      {
+        "id": "achievement-75",
+        "name": "Come From Behind",
+        "kind": "trophy",
+        "chapterId": "versus",
+        "where": "Be 10 kills behind the leader of a Free For All round, then come back to win"
+      },
+      {
+        "id": "achievement-76",
+        "name": "Resourceful",
+        "kind": "trophy",
+        "chapterId": "versus",
+        "where": "Defeat an opponent with every Pickup Weapon in a single Free For All Match"
+      },
+      {
+        "id": "achievement-77",
+        "name": "Line Them Up",
+        "kind": "trophy",
+        "chapterId": "versus",
+        "where": "Defeat 10 different opponents in a Free For All Match"
+      },
+      {
+        "id": "achievement-78",
+        "name": "Paydirt",
+        "kind": "trophy",
+        "chapterId": "versus",
+        "where": "Score a Touchdown with the Flag in GridIron"
+      },
+      {
+        "id": "achievement-79",
+        "name": "Victory Seized",
+        "kind": "trophy",
+        "chapterId": "versus",
+        "where": "Place first in a Match of Free For All"
+      },
+      {
+        "id": "achievement-80",
+        "name": "Shutout",
+        "kind": "trophy",
+        "chapterId": "versus",
+        "where": "Win a match of Gridiron and keep your opponents scoreless"
+      },
+      {
+        "id": "achievement-81",
+        "name": "Lay of the Land",
+        "kind": "trophy",
+        "chapterId": "versus",
+        "where": "Complete a Versus Match on Allfathers Arena, Lift, Mid, Boxes, Nethercutt, Pit & Core"
+      },
+      {
+        "id": "achievement-82",
+        "name": "Optimal Armaments",
+        "kind": "trophy",
+        "chapterId": "versus",
+        "where": "Complete a Match of Arcade Blitz as a Hero or Villain from Operation 2 or Operation 3"
+      },
+      {
+        "id": "achievement-83",
+        "name": "Proficiency",
+        "kind": "trophy",
+        "chapterId": "horde-and-escape",
+        "where": "Master an Operation 2 Escape Hive and Horde Map"
+      },
+      {
+        "id": "achievement-84",
+        "name": "Highly Capable",
+        "kind": "trophy",
+        "chapterId": "horde-and-escape",
+        "where": "Master an Operation 3 Escape Hive and Horde Map"
+      },
+      {
+        "id": "achievement-85",
+        "name": "In the Name of..",
+        "kind": "trophy",
+        "chapterId": "progression",
+        "where": "Acquire Character Skins for 3 different post launch Characters"
+      },
+      {
+        "id": "achievement-86",
+        "name": "A Very Particular Set of Skills",
+        "kind": "trophy",
+        "chapterId": "progression",
+        "where": "Acquire 30 Skill Cards of Level 3 or above"
+      },
+      {
+        "id": "achievement-87",
+        "name": "The Path To Victory",
+        "kind": "trophy",
+        "chapterId": "progression",
+        "where": "Re-up 5 Times"
+      },
+      {
+        "id": "achievement-88",
+        "name": "Go, Hunt In Packs",
+        "kind": "trophy",
+        "chapterId": "progression",
+        "where": "Re-up 10 Times"
+      },
+      {
+        "id": "achievement-89",
+        "name": "Destroy Them, My Children",
+        "kind": "trophy",
+        "chapterId": "progression",
+        "where": "Re-up 20 Times"
+      },
+      {
+        "id": "achievement-90",
+        "name": "Be Aggressive, Devious",
+        "kind": "trophy",
+        "chapterId": "progression",
+        "where": "Re-up 30 Times"
+      },
+      {
+        "id": "achievement-91",
+        "name": "HordeBusters",
+        "kind": "trophy",
+        "chapterId": "horde-and-escape",
+        "where": "Complete 50 Waves of Horde with Mac, Keegan and Lahni in your squad"
+      },
+      {
+        "id": "achievement-92",
+        "name": "These New Recruits Got Grit",
+        "kind": "trophy",
+        "chapterId": "horde-and-escape",
+        "where": "Complete 50 Consecutive Waves of Horde with Lizzie Carmine, Clayton Carmine, Baird or Cole"
+      },
+      {
+        "id": "achievement-93",
+        "name": "Hi-Ho, Silverback",
+        "kind": "trophy",
+        "chapterId": "horde-and-escape",
+        "where": "Kill 200 enemies using the Silverback in Horde"
+      },
+      {
+        "id": "achievement-94",
+        "name": "Expanded Expertise",
+        "kind": "trophy",
+        "chapterId": "progression",
+        "where": "Reach Character Level 15 with Combat Medic, Pilot, Gunner, Robotics Expert or Brawler"
+      },
+      {
+        "id": "achievement-95",
+        "name": "Fresh Lineup",
+        "kind": "trophy",
+        "chapterId": "horde-and-escape",
+        "where": "Escape a Hive with a team of COG Soldier, Lizzie Carmine, Clayton Carmine, Baird or Cole"
+      },
+      {
+        "id": "achievement-96",
+        "name": "New Hivebusters",
+        "kind": "trophy",
+        "chapterId": "horde-and-escape",
+        "where": "Escape a Hive with Lizzie Carmine, Clayton Carmine, Baird or Cole"
+      },
+      {
+        "id": "achievement-97",
+        "name": "Destroy From Within",
+        "kind": "trophy",
+        "chapterId": "horde-and-escape",
+        "where": "Escape all Operation 2 Hives on Experienced Difficulty or Higher"
+      },
+      {
+        "id": "achievement-98",
+        "name": "Stop 'Em Cold",
+        "kind": "trophy",
+        "chapterId": "horde-and-escape",
+        "where": "Defeat the Matriarch in Escape using the Relic Dropshot"
+      },
+      {
+        "id": "achievement-99",
+        "name": "Hives: Busted",
+        "kind": "trophy",
+        "chapterId": "horde-and-escape",
+        "where": "Escape all Operation 3 Hives on Experienced Difficulty or Higher"
+      },
+      {
+        "id": "achievement-100",
+        "name": "Buying Time",
+        "kind": "trophy",
+        "chapterId": "horde-and-escape",
+        "where": "Use the Scrubber Room to slow down the Venom in Escape"
+      },
+      {
+        "id": "achievement-101",
+        "name": "Designation: Scorpio",
+        "kind": "trophy",
+        "chapterId": "hivebusters",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-102",
+        "name": "Out of the Frying Pan",
+        "kind": "trophy",
+        "chapterId": "hivebusters",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-103",
+        "name": "New Island, New Mission",
+        "kind": "trophy",
+        "chapterId": "hivebusters",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-104",
+        "name": "A Breath of Fresh Air",
+        "kind": "trophy",
+        "chapterId": "hivebusters",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-105",
+        "name": "The Spirit Walk",
+        "kind": "trophy",
+        "chapterId": "hivebusters",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-106",
+        "name": "Face the Creature",
+        "kind": "trophy",
+        "chapterId": "hivebusters",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-107",
+        "name": "The Awakening",
+        "kind": "trophy",
+        "chapterId": "hivebusters",
+        "where": "Activated Keegan, Lahni and Mac's Abilities in the Hivebuster Campaign Expansion"
+      },
+      {
+        "id": "achievement-108",
+        "name": "Electroblade",
+        "kind": "trophy",
+        "chapterId": "hivebusters",
+        "where": "Killed 50 enemies using Lahni's Electroblade Ability in the Hivebuster Campaign Expansion as Lahni"
+      },
+      {
+        "id": "achievement-109",
+        "name": "Ready to Frontline",
+        "kind": "trophy",
+        "chapterId": "hivebusters",
+        "where": "Killed 50 enemies through your Barrier Ability in the Hivebuster Campaign Expansion as Mac"
+      },
+      {
+        "id": "achievement-110",
+        "name": "Supplies for the Effort",
+        "kind": "trophy",
+        "chapterId": "hivebusters",
+        "where": "Activated Resupply ability 25 times in the Hivebuster Campaign Expansion as Keegan"
+      },
+      {
+        "id": "achievement-111",
+        "name": "Enter Hivebusters",
+        "kind": "trophy",
+        "chapterId": "hivebusters",
+        "where": "Completed all Chapters of the Hivebusters DLC (any difficulty)"
+      },
+      {
+        "id": "achievement-112",
+        "name": "Rite of Passage",
+        "kind": "trophy",
+        "chapterId": "hivebusters",
+        "where": "Completed all Chapters of the Hivebusters DLC on Insane"
+      },
+      {
+        "id": "achievement-113",
+        "name": "Renewed, Not Consumed",
+        "kind": "trophy",
+        "chapterId": "hivebusters",
+        "where": "Found all Character Ability upgrades in the Hivebusters DLC"
+      },
+      {
+        "id": "achievement-114",
+        "name": "Operation: Ride the Snatcher",
+        "kind": "trophy",
+        "chapterId": "hivebusters",
+        "where": "Completed the Hivebusters DLC in 3-Player Co-Op (Scorpio squad, dupes not allowed)"
+      },
+      {
+        "id": "achievement-115",
+        "name": "Searching for Answers",
+        "kind": "trophy",
+        "chapterId": "hivebusters",
+        "where": "Collect all Campaign Collectibles in the Hivebusters DLC"
+      },
+      {
+        "id": "achievement-116",
+        "name": "Bah! Child's Play",
+        "kind": "trophy",
+        "chapterId": "horde-and-escape",
+        "where": "Escaped a Hive with Paduk"
+      },
+      {
+        "id": "achievement-117",
+        "name": "What's This Thing Doing Here?",
+        "kind": "trophy",
+        "chapterId": "horde-and-escape",
+        "where": "Acquired any Weapon from the Fabricator in Escape"
+      },
+      {
+        "id": "achievement-118",
+        "name": "Payload Delivered",
+        "kind": "trophy",
+        "chapterId": "horde-and-escape",
+        "where": "Escaped all Operation 4 Hives on Experienced Difficulty or Higher"
+      },
+      {
+        "id": "achievement-119",
+        "name": "Let's Try That One Again, Shall We?",
+        "kind": "trophy",
+        "chapterId": "horde-and-escape",
+        "where": "Woke-up in the Med bay while escaping a Hive in Escape"
+      },
+      {
+        "id": "achievement-120",
+        "name": "Year of the Scorpion",
+        "kind": "trophy",
+        "chapterId": "horde-and-escape",
+        "where": "Completed all Year One Escape Hives"
+      },
+      {
+        "id": "achievement-121",
+        "name": "Brothers in Arms",
+        "kind": "trophy",
+        "chapterId": "horde-and-escape",
+        "where": "Completed 12 consecutive waves of Horde Frenzy with Baird & Paduk in your Squad"
+      },
+      {
+        "id": "achievement-122",
+        "name": "Swift and Grimy",
+        "kind": "trophy",
+        "chapterId": "horde-and-escape",
+        "where": "Completed 60 Waves of Horde Frenzy on Insane or Higher"
+      },
+      {
+        "id": "achievement-123",
+        "name": "Efficient Excellence",
+        "kind": "trophy",
+        "chapterId": "horde-and-escape",
+        "where": "Won a Match of Horde Frenzy on Master Difficulty"
+      },
+      {
+        "id": "achievement-124",
+        "name": "Controlled Bursts",
+        "kind": "trophy",
+        "chapterId": "horde-and-escape",
+        "where": "Won a Match of Horde Frenzy (any difficulty)"
+      },
+      {
+        "id": "achievement-125",
+        "name": "Fresh Grubs",
+        "kind": "trophy",
+        "chapterId": "horde-and-escape",
+        "where": "Completed a Featured Horde Map from Operation 4"
+      },
+      {
+        "id": "achievement-126",
+        "name": "Now We Understand Each Other",
+        "kind": "trophy",
+        "chapterId": "horde-and-escape",
+        "where": "Master All Featured Horde Maps from Operation 4"
+      },
+      {
+        "id": "achievement-127",
+        "name": "Make 'em Bleed",
+        "kind": "trophy",
+        "chapterId": "versus",
+        "where": "Dealt 30,000,000 damage in Versus"
+      },
+      {
+        "id": "achievement-128",
+        "name": "Absolute Carnage",
+        "kind": "trophy",
+        "chapterId": "versus",
+        "where": "Dealt Dealt 100,000,000 damage in Versus damage in Versus"
+      },
+      {
+        "id": "achievement-129",
+        "name": "Yep, I'd say they're dead",
+        "kind": "trophy",
+        "chapterId": "versus",
+        "where": "Killed 25,000 enemies in Versus"
+      },
+      {
+        "id": "achievement-130",
+        "name": "Nothin' But Bits!",
+        "kind": "trophy",
+        "chapterId": "versus",
+        "where": "Killed 100,000 enemies in Versus"
+      },
+      {
+        "id": "achievement-131",
+        "name": "And Stay Down!",
+        "kind": "trophy",
+        "chapterId": "horde-and-escape",
+        "where": "Eliminated 25,000 enemies in Horde or Escape"
+      },
+      {
+        "id": "achievement-132",
+        "name": "Rest in Pieces",
+        "kind": "trophy",
+        "chapterId": "horde-and-escape",
+        "where": "Eliminated 100,000 enemies in Horde or Escape"
+      },
+      {
+        "id": "achievement-133",
+        "name": "Eyes on Target",
+        "kind": "trophy",
+        "chapterId": "versus",
+        "where": "Got 12,500 assists in Versus"
+      },
+      {
+        "id": "achievement-134",
+        "name": "Covering Fire",
+        "kind": "trophy",
+        "chapterId": "versus",
+        "where": "Got 50,000 assists in Versus"
+      },
+      {
+        "id": "achievement-135",
+        "name": "Destruction",
+        "kind": "trophy",
+        "chapterId": "horde-and-escape",
+        "where": "Dealt 60,000,000 damage in Horde or Escape"
+      },
+      {
+        "id": "achievement-136",
+        "name": "Total Devastation",
+        "kind": "trophy",
+        "chapterId": "horde-and-escape",
+        "where": "Dealt 200,000,000 damage in Horde or Escape"
+      },
+      {
+        "id": "achievement-137",
+        "name": "A War That Will Be Won",
+        "kind": "trophy",
+        "chapterId": "progression",
+        "where": "Re-upped 40 Times"
+      },
+      {
+        "id": "achievement-138",
+        "name": "Illustrious",
+        "kind": "trophy",
+        "chapterId": "progression",
+        "where": "Reached Character Level 15 with 10 Characters"
+      },
+      {
+        "id": "achievement-139",
+        "name": "Cool Off, Baby!",
+        "kind": "trophy",
+        "chapterId": "horde-and-escape",
+        "where": "Killed 100 enemies using Brawler Class Flame Ability & Flame Skill Cards in Horde or Escape"
+      },
+      {
+        "id": "achievement-140",
+        "name": "I'm Rubber, You're Glue!",
+        "kind": "trophy",
+        "chapterId": "horde-and-escape",
+        "where": "Killed 100 enemies using Gunner Class Reflect ability in Horde or Escape"
+      },
+      {
+        "id": "achievement-141",
+        "name": "You Better Run!",
+        "kind": "trophy",
+        "chapterId": "horde-and-escape",
+        "where": "Killed 100 enemies under the effect of Nomad's Fear ability, as Nomad Class, in Horde or Escape"
+      },
+      {
+        "id": "achievement-142",
+        "name": "Decorated Soldier",
+        "kind": "trophy",
+        "chapterId": "versus",
+        "where": "Won a match of Gridiron with an Operation 4 Hero or Villain"
+      },
+      {
+        "id": "achievement-143",
+        "name": "A Nice Present For You",
+        "kind": "trophy",
+        "chapterId": "versus",
+        "where": "Killed an enemy using a planted Grenade in Gridiron mode"
+      },
+      {
+        "id": "achievement-144",
+        "name": "Protect This House",
+        "kind": "trophy",
+        "chapterId": "versus",
+        "where": "Got a Denial on an Enemy while they were inside your Endzone with the flag in Gridiron Mode"
+      },
+      {
+        "id": "achievement-145",
+        "name": "Take a Look Around",
+        "kind": "trophy",
+        "chapterId": "versus",
+        "where": "Completed a Versus match on Reactor, Blood Drive & Checkout"
+      },
+      {
+        "id": "achievement-146",
+        "name": "Teamwork Makes the Dream Work",
+        "kind": "trophy",
+        "chapterId": "horde-and-escape",
+        "where": "Mastered an Escape Hive and Horde Map from Operation 4"
+      },
+      {
+        "id": "achievement-147",
+        "name": "A Challenger Emerges",
+        "kind": "trophy",
+        "chapterId": "versus",
+        "where": "Unlocked a reward in any Competitive playlist"
+      },
+      {
+        "id": "achievement-148",
+        "name": "Ironed Out",
+        "kind": "trophy",
+        "chapterId": "campaign-extras",
+        "where": "Completed all chapters in Ironman Mode on Experienced difficulty or above"
+      },
+      {
+        "id": "achievement-149",
+        "name": "That’s Inconceivable!",
+        "kind": "trophy",
+        "chapterId": "campaign-extras",
+        "where": "Completed all chapters on Inconceivable difficulty"
+      },
+      {
+        "id": "achievement-150",
+        "name": "Showin’ a Little Skin",
+        "kind": "trophy",
+        "chapterId": "progression",
+        "where": "Completed a chapter of Campaign while using a Custom Skin"
+      },
+      {
+        "id": "achievement-151",
+        "name": "Just Showing it Off",
+        "kind": "trophy",
+        "chapterId": "progression",
+        "where": "Killed 10 enemies using a weapon with a Custom Skin"
+      },
+      {
+        "id": "achievement-152",
+        "name": "Batista Bomb",
+        "kind": "trophy",
+        "chapterId": "campaign-extras",
+        "where": "Completed all chapters in one Act while Batista as Marcus is enabled"
+      },
+      {
+        "id": "achievement-153",
+        "name": "Class Act",
+        "kind": "trophy",
+        "chapterId": "progression",
+        "where": "Reached level five on any one Assault, one Tank and one Support"
+      },
+      {
+        "id": "achievement-154",
+        "name": "The Centaur Set",
+        "kind": "trophy",
+        "chapterId": "progression",
+        "where": "Maxed out each of the Anchor, Gunner, Pilot, Veteran, Brawler classes"
+      },
+      {
+        "id": "achievement-155",
+        "name": "Exterminating the Hollow",
+        "kind": "trophy",
+        "chapterId": "versus",
+        "where": "Got 100 eliminations in Nexus"
+      },
+      {
+        "id": "achievement-156",
+        "name": "Places to Go, Monsters to Kill",
+        "kind": "trophy",
+        "chapterId": "versus",
+        "where": "Won a Ranked match in each of Regency, River, Nexus, Clocktower, and Gridlock"
+      },
+      {
+        "id": "achievement-157",
+        "name": "So There's the Hero",
+        "kind": "trophy",
+        "chapterId": "progression",
+        "where": "Collected first Heroic skin"
+      },
+      {
+        "id": "achievement-158",
+        "name": "Didn't Want to Look Too Civilized",
+        "kind": "trophy",
+        "chapterId": "progression",
+        "where": "Collect 20 Epic character skins"
+      },
+      {
+        "id": "achievement-159",
+        "name": "Ben Would Have Loved This Thing",
+        "kind": "trophy",
+        "chapterId": "progression",
+        "where": "Got an elimination with the Scorcher"
+      },
+      {
+        "id": "achievement-160",
+        "name": "Solid Gold",
+        "kind": "trophy",
+        "chapterId": "horde-and-escape",
+        "where": "Beat the Gold Time in a Featured Escape"
+      },
+      {
+        "id": "achievement-161",
+        "name": "Such Carnage",
+        "kind": "trophy",
+        "chapterId": "versus",
+        "where": "Got 2000 points in a Competitive match from eliminations"
+      },
+      {
+        "id": "achievement-162",
+        "name": "Break Them. Brutalize Them.",
+        "kind": "trophy",
+        "chapterId": "versus",
+        "where": "Got 1000 points in a Competitive match from ring breaks"
+      },
+      {
+        "id": "achievement-163",
+        "name": "You've Got Character, Kid",
+        "kind": "trophy",
+        "chapterId": "progression",
+        "where": "Own 50 character skins"
+      },
+      {
+        "id": "achievement-164",
+        "name": "Gun Collector",
+        "kind": "trophy",
+        "chapterId": "progression",
+        "where": "Own 360 weapon skins"
+      },
+      {
+        "id": "achievement-165",
+        "name": "A Gear of Many Talents",
+        "kind": "trophy",
+        "chapterId": "versus",
+        "where": "Completed a Versus match in each of Regency, River, Nexus, Clocktower, and Gridlock"
+      },
+      {
+        "id": "achievement-166",
+        "name": "Legendary Operator",
+        "kind": "trophy",
+        "chapterId": "progression",
+        "where": "Reached Legend 25 in an Operation"
+      },
+      {
+        "id": "achievement-167",
+        "name": "A Real Gear",
+        "kind": "trophy",
+        "chapterId": "progression",
+        "where": "Reached Re-Up 50"
+      },
+      {
+        "id": "achievement-168",
+        "name": "Re-Up Mastery",
+        "kind": "trophy",
+        "chapterId": "progression",
+        "where": "Reached Re-Up 60"
+      },
+      {
+        "id": "achievement-169",
+        "name": "Seriously 5.0 - Chapter 2",
+        "kind": "trophy",
+        "chapterId": "progression",
+        "where": "50 Re-Ups, Inconceivable Campaign, Mastered All hives & Horde Maps , All Classes at Level 20"
+      },
+      {
+        "id": "achievement-170",
+        "name": "In Total Control",
+        "kind": "trophy",
+        "chapterId": "versus",
+        "where": "Won a Control and/or KOTH match on 10 different maps"
+      },
+      {
+        "id": "achievement-171",
+        "name": "Event Planner",
+        "kind": "trophy",
+        "chapterId": "versus",
+        "where": "Won 10 matches in Versus Events"
+      },
+      {
+        "id": "achievement-172",
+        "name": "Back In Style",
+        "kind": "trophy",
+        "chapterId": "versus",
+        "where": "Won 10 matches of Execution"
+      },
+      {
+        "id": "achievement-173",
+        "name": "Bernie is Back",
+        "kind": "trophy",
+        "chapterId": "versus",
+        "where": "Won 5 matches with Bernie COG character"
+      },
+      {
+        "id": "achievement-174",
+        "name": "Trusted Advisor",
+        "kind": "trophy",
+        "chapterId": "versus",
+        "where": "Won 5 matches with the Vrol character"
+      },
+      {
+        "id": "achievement-175",
+        "name": "Grave Consequences",
+        "kind": "trophy",
+        "chapterId": "versus",
+        "where": "Won a Versus match on Tomb"
+      },
+      {
+        "id": "achievement-176",
+        "name": "Destroyed Beauty",
+        "kind": "trophy",
+        "chapterId": "versus",
+        "where": "Won a Versus match on Ephyra"
+      },
+      {
+        "id": "achievement-177",
+        "name": "Last Rites",
+        "kind": "trophy",
+        "chapterId": "versus",
+        "where": "Won a Versus match on Ritual"
+      },
+      {
+        "id": "achievement-178",
+        "name": "Chamber of Horrors",
+        "kind": "trophy",
+        "chapterId": "horde-and-escape",
+        "where": "Completed a match of Horde Frenzy on Atrium"
+      },
+      {
+        "id": "achievement-179",
+        "name": "Take Command",
+        "kind": "trophy",
+        "chapterId": "horde-and-escape",
+        "where": "Completed a match of Horde Frenzy on Command"
+      },
+      {
+        "id": "achievement-180",
+        "name": "Breezing Through",
+        "kind": "trophy",
+        "chapterId": "horde-and-escape",
+        "where": "Completed a match of Horde Frenzy on Turbine"
+      },
+      {
+        "id": "achievement-181",
+        "name": "Total Annihilation",
+        "kind": "trophy",
+        "chapterId": "horde-and-escape",
+        "where": "Do 400,000,000 damage in Horde or Escape"
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/gears-5",
+    "Achievement data from Steam (Steam Web API, app 1097840)",
+    "StrategyWiki: no page for this game, nothing used",
+    "Fandom (gearsofwar.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://gearsofwar.fandom.com/wiki/Gears_5"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). StrategyWiki has no page under \"Gears 5\" or \"Gears of War 5\". gearsofwar.fandom.com answers the API under \"Gears 5\" with 500 linked articles (the query limit, so possibly more); names only were looked at, nothing copied. The Steam schema gives no game name for app 1097840; the store list confirms it. 6 of 181 Steam achievements are hidden; their API names are DLC_Campaign_1 to DLC_Campaign_6, so they sit in the Hivebusters chapter (the expansion name comes from RAWG, which lists \"Gears 5: Hivebusters\", and from achievement descriptions). The four act chapters use the Steam API names Act1Chapter1StoryPoint to Act4Chapter2StoryPoint, placed by exact name; \"My Body is Ready\" (Complete Boot Camp) was put with Act 1 as a guess. Many achievements name post-launch Operations (2 to 8) and their maps and characters; they are grouped by mode (Horde and Escape, Versus) rather than by Operation. Leftover achievements with no mode named (class levels, \"Sire, Interrupted\", \"A Good Plan, Violently Executed\", the Scorcher kill) sit in the progression chapter. Over a hundred achievements are below 3% on Steam, so a full list is a very long grind."
+}

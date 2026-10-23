@@ -1,0 +1,340 @@
+{
+  "id": "call-of-duty-modern-warfare-2019",
+  "title": "Call of Duty: Modern Warfare",
+  "year": 2019,
+  "platforms": [
+    "PC",
+    "Xbox One",
+    "PlayStation 4"
+  ],
+  "rawgId": 323065,
+  "rawgSlug": "call-of-duty-modern-warfare",
+  "released": "2019-10-25",
+  "developers": [
+    "Raven Software",
+    "Activision",
+    "Infinity Ward",
+    "Beenox",
+    "High Moon Studios"
+  ],
+  "playtime": 9,
+  "genres": [
+    "Action",
+    "Shooter"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Multiplayer",
+    "Full controller support",
+    "Atmospheric",
+    "Co-op",
+    "Story Rich",
+    "cooperative",
+    "First-Person",
+    "FPS",
+    "Online Co-Op",
+    "Gore"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/e43/e43f9f0a1429bd9332020ac5876bc693.jpg",
+  "steamAppId": 2000950,
+  "achievements": {
+    "total": 27,
+    "hidden": 0,
+    "examples": [
+      {
+        "name": "Tea Time",
+        "percent": 46.4
+      },
+      {
+        "name": "Love from Above",
+        "percent": 41.3
+      },
+      {
+        "name": "Driver's Ed",
+        "percent": 38.3
+      },
+      {
+        "name": "Tunnel Rat",
+        "percent": 2.2
+      },
+      {
+        "name": "Warheads on Foreheads",
+        "percent": 2.2
+      },
+      {
+        "name": "Circus Tour",
+        "percent": 2.2
+      },
+      {
+        "name": "Golden Path",
+        "percent": 2.1
+      },
+      {
+        "name": "Liberation",
+        "percent": 1.8
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Call_of_Duty:_Modern_Warfare",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 500,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://callofduty.fandom.com/wiki/Call_of_Duty:_Modern_Warfare_(2019)"
+    }
+  },
+  "game": {
+    "id": "call-of-duty-modern-warfare-2019",
+    "title": "Call of Duty: Modern Warfare",
+    "platforms": [
+      "PC",
+      "Xbox One",
+      "PlayStation 4"
+    ],
+    "blurb": "Military first-person shooter from Raven Software, Activision, Infinity Ward, Beenox and High Moon Studios (as RAWG lists them), released 2019-10-25. RAWG average playtime: 9 hours. Genres: Action, Shooter. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#5A5F3C",
+    "chapters": [
+      {
+        "id": "main-story",
+        "title": "The Campaign",
+        "summary": "Finishing the single-player campaign on any difficulty.",
+        "steps": []
+      },
+      {
+        "id": "mission-challenges",
+        "title": "Campaign Mission Challenges",
+        "summary": "Mission-specific feats in Fog of War, Piccadilly, Embedded, Clean House, The Embassy, Hometown, The Wolf's Den, Old Comrades, Going Dark and the escape from captivity.",
+        "steps": []
+      },
+      {
+        "id": "combat-tricks",
+        "title": "Combat Tricks",
+        "summary": "Tripwires, molotovs, ladders, helicopters and smoke grenades.",
+        "steps": []
+      },
+      {
+        "id": "veteran",
+        "title": "Veteran and Realism",
+        "summary": "Finishing every single-player mission on Veteran or Realism.",
+        "steps": []
+      },
+      {
+        "id": "special-ops",
+        "title": "Special Operations",
+        "summary": "Completing all the Special Operations missions.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Press [BOOM] to Defuse",
+        "kind": "trophy",
+        "chapterId": "combat-tricks",
+        "where": "Blow up 3 tripwires with explosives."
+      },
+      {
+        "id": "achievement-2",
+        "name": "Ashes to Ashes",
+        "kind": "trophy",
+        "chapterId": "combat-tricks",
+        "where": "Burn 4 enemies with a single molotov."
+      },
+      {
+        "id": "achievement-3",
+        "name": "Hang Time",
+        "kind": "trophy",
+        "chapterId": "combat-tricks",
+        "where": "Kill 3 enemies while you are on a ladder."
+      },
+      {
+        "id": "achievement-4",
+        "name": "Long Way Down",
+        "kind": "trophy",
+        "chapterId": "combat-tricks",
+        "where": "Crash a helicopter by shooting the pilot."
+      },
+      {
+        "id": "achievement-5",
+        "name": "Wild Fire",
+        "kind": "trophy",
+        "chapterId": "combat-tricks",
+        "where": "Take down a flying helicopter with a molotov."
+      },
+      {
+        "id": "achievement-6",
+        "name": "Good Effect on Target",
+        "kind": "trophy",
+        "chapterId": "combat-tricks",
+        "where": "Kill an enemy with a direct hit from a smoke grenade."
+      },
+      {
+        "id": "achievement-7",
+        "name": "Out of the Fire",
+        "kind": "trophy",
+        "chapterId": "veteran",
+        "where": "Complete every single player mission on Veteran or Realism difficulty."
+      },
+      {
+        "id": "achievement-8",
+        "name": "Tea Time",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Finish single player on any difficulty."
+      },
+      {
+        "id": "achievement-9",
+        "name": "Nothing but Net",
+        "kind": "trophy",
+        "chapterId": "mission-challenges",
+        "where": "Neutralize the 'Fog of War' machine gun with a frag grenade."
+      },
+      {
+        "id": "achievement-10",
+        "name": "Trigger Discipline",
+        "kind": "trophy",
+        "chapterId": "mission-challenges",
+        "where": "Do not injure any civilians in 'Piccadilly'."
+      },
+      {
+        "id": "achievement-11",
+        "name": "Play Dead",
+        "kind": "trophy",
+        "chapterId": "mission-challenges",
+        "where": "Kill all the enemies in the 'Embedded' field of dead bodies."
+      },
+      {
+        "id": "achievement-12",
+        "name": "Companion Block",
+        "kind": "trophy",
+        "chapterId": "mission-challenges",
+        "where": "Only use one cinder block and bring it to the end of 'Embedded'."
+      },
+      {
+        "id": "achievement-13",
+        "name": "Wall Hax",
+        "kind": "trophy",
+        "chapterId": "mission-challenges",
+        "where": "Save Alpha 3-2 from being downed."
+      },
+      {
+        "id": "achievement-14",
+        "name": "Golden Path",
+        "kind": "trophy",
+        "chapterId": "mission-challenges",
+        "where": "Complete 'Clean House' without being hit using one bullet per threat."
+      },
+      {
+        "id": "achievement-15",
+        "name": "Love from Above",
+        "kind": "trophy",
+        "chapterId": "mission-challenges",
+        "where": "Destroy 4 trucks with 4 drone strikes before they reach the end of their path in 'The Embassy'."
+      },
+      {
+        "id": "achievement-16",
+        "name": "Pit Stop",
+        "kind": "trophy",
+        "chapterId": "mission-challenges",
+        "where": "Stop three APCs with Hadir's sniper rifle."
+      },
+      {
+        "id": "achievement-17",
+        "name": "Driver's Ed",
+        "kind": "trophy",
+        "chapterId": "mission-challenges",
+        "where": "Shoot the driver of the suicide truck."
+      },
+      {
+        "id": "achievement-18",
+        "name": "Two Birds",
+        "kind": "trophy",
+        "chapterId": "mission-challenges",
+        "where": "Kill both soldiers with one shot in 'Hometown'."
+      },
+      {
+        "id": "achievement-19",
+        "name": "Tunnel Rat",
+        "kind": "trophy",
+        "chapterId": "mission-challenges",
+        "where": "Complete 'The Wolf's Den' tunnels using only the 1911."
+      },
+      {
+        "id": "achievement-20",
+        "name": "Dodged a Bullet",
+        "kind": "trophy",
+        "chapterId": "mission-challenges",
+        "where": "Never get hit by the sniper while escaping captivity."
+      },
+      {
+        "id": "achievement-21",
+        "name": "Got Something on Your Face",
+        "kind": "trophy",
+        "chapterId": "mission-challenges",
+        "where": "Spit on Barkov."
+      },
+      {
+        "id": "achievement-22",
+        "name": "Hot Swap",
+        "kind": "trophy",
+        "chapterId": "mission-challenges",
+        "where": "Get at least one kill with eight different weapons when completing 'Old Comrades'."
+      },
+      {
+        "id": "achievement-23",
+        "name": "Lights Out",
+        "kind": "trophy",
+        "chapterId": "mission-challenges",
+        "where": "Shut off the power to 4 buildings in 'Going Dark'."
+      },
+      {
+        "id": "achievement-24",
+        "name": "We Own the Night",
+        "kind": "trophy",
+        "chapterId": "mission-challenges",
+        "where": "Kill all enemies at the Church, Clocktower, and Pool without anyone calling for backup."
+      },
+      {
+        "id": "achievement-25",
+        "name": "Warheads on Foreheads",
+        "kind": "trophy",
+        "chapterId": "mission-challenges",
+        "where": "Reach Barkov's lab entrance using only drone strikes."
+      },
+      {
+        "id": "achievement-26",
+        "name": "Circus Tour",
+        "kind": "trophy",
+        "chapterId": "mission-challenges",
+        "where": "Kill at least one enemy while inside The Reading Place, Aural Chic, and both Subway undergrounds."
+      },
+      {
+        "id": "achievement-27",
+        "name": "Liberation",
+        "kind": "trophy",
+        "chapterId": "special-ops",
+        "where": "Complete all Special Operations missions."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/call-of-duty-modern-warfare",
+    "Achievement data from Steam (Steam Web API, app 2000950)",
+    "StrategyWiki: no usable walkthrough, nothing used — https://strategywiki.org/wiki/Call_of_Duty:_Modern_Warfare",
+    "Fandom (callofduty.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://callofduty.fandom.com/wiki/Call_of_Duty:_Modern_Warfare_(2019)"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). Steam app 2000950 is listed on the store as \"Call of Duty®: Modern Warfare®\" with no numeral, and its 27 achievements name campaign missions and characters (Piccadilly, Embedded, Clean House, The Wolf's Den, Barkov, Hadir), so it was taken as this game; please confirm it is not a later re-release. RAWG and StrategyWiki both date this title 2019. RAWG's first search result matched the expected slug (call-of-duty-modern-warfare). None of the 27 achievements is hidden, and none covers multiplayer; the only non-campaign one is \"Liberation\" (all Special Operations missions, 1.8%). StrategyWiki redirects \"Call of Duty: Modern Warfare (2019)\" to \"Call of Duty: Modern Warfare\" (completion stage 0, marked as a stub, category 2019); its Gameplay, Walkthrough and Table of Contents subpages are linked but not written, so nothing was used. callofduty.fandom.com answers the API under \"Call of Duty: Modern Warfare (2019)\" with 500 linked articles (the query limit, so possibly more); names only were looked at, nothing copied. Mission names in the chapter summary come from the achievement descriptions and are in Steam list order, which may not be play order."
+}

@@ -1,0 +1,123 @@
+{
+  "id": "animal-crossing-new-horizons",
+  "title": "Animal Crossing: New Horizons",
+  "year": 2020,
+  "platforms": [
+    "Nintendo Switch"
+  ],
+  "rawgId": 421698,
+  "rawgSlug": "animal-crossing-2019",
+  "released": "2020-03-20",
+  "developers": [
+    "Nintendo"
+  ],
+  "playtime": null,
+  "genres": [
+    "Simulation"
+  ],
+  "tags": [
+    "Singleplayer",
+    "exclusive",
+    "true exclusive"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/42f/42fe1abd4d7c11ca92d93a0fb0f8662b.jpg",
+  "steamAppId": null,
+  "achievements": {
+    "total": 0,
+    "examples": [],
+    "reason": "Nintendo Switch only (RAWG lists only Nintendo Switch), so there is no Steam list. StrategyWiki has written Bugs, Fish, Sea Creatures, Fossils, Art and Passport titles pages that could seed a CC BY-SA collection checklist later."
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Animal_Crossing:_New_Horizons",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 144,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://animalcrossing.fandom.com/wiki/Animal_Crossing:_New_Horizons"
+    }
+  },
+  "game": {
+    "id": "animal-crossing-new-horizons",
+    "title": "Animal Crossing: New Horizons",
+    "platforms": [
+      "Nintendo Switch"
+    ],
+    "blurb": "Life simulation game in which you settle a deserted island, from Nintendo, released 2020-03-20. RAWG has no playtime yet. Genre: Simulation. Chapters are an estimate drawn from StrategyWiki page names, as there is no Steam achievement list.",
+    "accent": "#4DB06A",
+    "chapters": [
+      {
+        "id": "first-days",
+        "title": "Arriving on the Island",
+        "summary": "The first day, the NookPhone, the camera and the basic controls.",
+        "steps": []
+      },
+      {
+        "id": "crafting",
+        "title": "DIY Recipes and Crafting",
+        "summary": "Gathering materials and crafting tools and furniture from DIY recipes.",
+        "steps": []
+      },
+      {
+        "id": "museum",
+        "title": "Bugs, Fish, Sea Creatures, Fossils and Art",
+        "summary": "Catching and donating creatures, digging up fossils and collecting art.",
+        "steps": []
+      },
+      {
+        "id": "villagers-and-visitors",
+        "title": "Villagers and Special Visitors",
+        "summary": "Neighbours moving in and the visitors who drop by.",
+        "steps": []
+      },
+      {
+        "id": "island-growth",
+        "title": "Shops, Services and Island Rating",
+        "summary": "Growing the island: the shops, Residential Services, the island designer and the island evaluation.",
+        "steps": []
+      },
+      {
+        "id": "seasonal-events",
+        "title": "Events and Holidays",
+        "summary": "The year's events, such as Bunny Day, Nature Day, May Day, Wedding Season, the Fishing Tourney and the Bug-Off.",
+        "steps": []
+      },
+      {
+        "id": "fashion-and-furniture",
+        "title": "Clothing, Furniture Series and Sets",
+        "summary": "Clothing items and the furniture series and sets to collect.",
+        "steps": []
+      },
+      {
+        "id": "travel-and-friends",
+        "title": "Mystery Islands and Multiplayer",
+        "summary": "Flying to Mystery Islands and playing with friends.",
+        "steps": []
+      },
+      {
+        "id": "happy-home-paradise",
+        "title": "Happy Home Paradise",
+        "summary": "The holiday-home designing section and its clients.",
+        "steps": []
+      }
+    ],
+    "collectibles": []
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/animal-crossing-2019",
+    "Steam: no achievement list available for this game (see notes)",
+    "StrategyWiki: mission and page names used to group chapters, CC BY-SA 4.0; no text copied — https://strategywiki.org/wiki/Animal_Crossing:_New_Horizons",
+    "Fandom (animalcrossing.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://animalcrossing.fandom.com/wiki/Animal_Crossing:_New_Horizons"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). Nintendo Switch only (RAWG platforms), so steam=None. RAWG's first search result was the right entry (slug animal-crossing-2019). StrategyWiki has the guide under \"Animal Crossing: New Horizons\" at completion stage 2, marked as a stub, with 60 existing subpages: mostly item lists (clothing, furniture series and sets, DIY Recipes, Bugs, Fish, Sea Creatures, Fossils, Art), event pages (Bunny Day, Nature Day, May Day, International Museum Day, Wedding Season, Bug-Off, Fishing Tourney), Villagers, Special Visitors, Mystery Islands, Multiplayer, NookPhone, Camera, Passport titles, Gameplay and Controls. Its \"Walkthrough\" and \"First Day\" pages are linked from the contents but not written, nor are \"Nook's Cranny\", \"Residential Services\", \"Island Evaluation\", \"Island Designer\", \"Nook Miles\", \"Happy Home Paradise\" and its client pages; so the guide was not used as a walkthrough. Chapter names are grouped from the contents page names only (swNames); no text copied, and the order is a rough guess, as the game has no fixed story order. animalcrossing.fandom.com answers the API under \"Animal Crossing: New Horizons\" with about 144 linked articles; names only were looked at, nothing copied. \"Happy Home Paradise\" is named on both the StrategyWiki contents page and Fandom (\"Animal Crossing: New Horizons - Happy Home Paradise\"); whether it is paid was not checked."
+}

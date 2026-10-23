@@ -1,0 +1,2744 @@
+{
+  "id": "age-of-empires-ii-definitive-edition",
+  "title": "Age of Empires II: Definitive Edition",
+  "year": 2019,
+  "platforms": [
+    "PC",
+    "Xbox Series X|S"
+  ],
+  "rawgId": 326253,
+  "rawgSlug": "age-of-empires-2-definitive-edition",
+  "released": "2019-11-14",
+  "developers": [
+    "Forgotten Empires",
+    "Wicked Witch",
+    "Tantalus"
+  ],
+  "playtime": 5,
+  "genres": [
+    "Strategy"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Steam Cloud",
+    "Online multiplayer",
+    "Local Multiplayer",
+    "Cross-Platform Multiplayer",
+    "Includes level editor",
+    "RTS"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/945/9455733af10406794b0c1b8d117bca76.jpg",
+  "steamAppId": 813780,
+  "achievements": {
+    "total": 370,
+    "hidden": 0,
+    "examples": [
+      {
+        "name": "Baby Boomer",
+        "percent": 54.9
+      },
+      {
+        "name": "Out of Their Element",
+        "percent": 53.3
+      },
+      {
+        "name": "Not Just a Militia",
+        "percent": 53.2
+      },
+      {
+        "name": "Expedition Impossible",
+        "percent": 0.2
+      },
+      {
+        "name": "The Stuff of Legend",
+        "percent": 0.2
+      },
+      {
+        "name": "Leave Magnus Alone!!",
+        "percent": 0.2
+      },
+      {
+        "name": "Seven Feet of English Ground",
+        "percent": 0.2
+      },
+      {
+        "name": "Hoardrada",
+        "percent": 0.0
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Age_of_Empires_II:_Definitive_Edition",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 236,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://ageofempires.fandom.com/wiki/Age_of_Empires_II:_Definitive_Edition"
+    }
+  },
+  "game": {
+    "id": "age-of-empires-ii-definitive-edition",
+    "title": "Age of Empires II: Definitive Edition",
+    "platforms": [
+      "PC",
+      "Xbox Series X|S"
+    ],
+    "blurb": "Medieval real-time strategy game, a remaster of 1999's Age of Empires II, from Forgotten Empires, Wicked Witch and Tantalus, released 2019-11-14. RAWG average playtime: 5 hours. Genres: Strategy. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#2F5F8F",
+    "chapters": [
+      {
+        "id": "campaigns",
+        "title": "Campaigns",
+        "summary": "Finishing each campaign, from William Wallace and Joan of Arc through the many campaigns added since.",
+        "steps": []
+      },
+      {
+        "id": "campaign-feats",
+        "title": "Campaign Mission Feats",
+        "summary": "Optional goals inside named campaign missions, such as speed wins, relics, conversions and protecting allies.",
+        "steps": []
+      },
+      {
+        "id": "historical-battles",
+        "title": "Historical Battles, Victors and Vanquished, and Art of War",
+        "summary": "Single historical battles with a year in their name, the Victors and Vanquished scenarios, and Art of War medals.",
+        "steps": []
+      },
+      {
+        "id": "civ-victories",
+        "title": "Civilization Victories",
+        "summary": "A win with each civilization, and a win with every one of them.",
+        "steps": []
+      },
+      {
+        "id": "skirmish-and-play",
+        "title": "Skirmish, AI and General Play",
+        "summary": "Beating the AI at each difficulty, Regicide, team wins, and unit, economy and siege feats in any game.",
+        "steps": []
+      },
+      {
+        "id": "return-of-rome",
+        "title": "Return of Rome",
+        "summary": "Wins with each Return of Rome civilization and the feats that name that mode.",
+        "steps": []
+      },
+      {
+        "id": "chronicles",
+        "title": "Chronicles: Battle for Greece and Alexander the Great",
+        "summary": "The two Chronicles campaigns, their mission feats and their civilizations.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Aztec Victory",
+        "kind": "trophy",
+        "chapterId": "civ-victories",
+        "where": "Win a game playing as the Aztecs."
+      },
+      {
+        "id": "achievement-2",
+        "name": "Berber Victory",
+        "kind": "trophy",
+        "chapterId": "civ-victories",
+        "where": "Win a game playing as the Berbers."
+      },
+      {
+        "id": "achievement-3",
+        "name": "Briton Victory",
+        "kind": "trophy",
+        "chapterId": "civ-victories",
+        "where": "Win a game playing as the Britons."
+      },
+      {
+        "id": "achievement-4",
+        "name": "Bulgarian Victory",
+        "kind": "trophy",
+        "chapterId": "civ-victories",
+        "where": "Win a game playing as the Bulgarians."
+      },
+      {
+        "id": "achievement-5",
+        "name": "Burmese Victory",
+        "kind": "trophy",
+        "chapterId": "civ-victories",
+        "where": "Win a game playing as the Burmese."
+      },
+      {
+        "id": "achievement-6",
+        "name": "Byzantine Victory",
+        "kind": "trophy",
+        "chapterId": "civ-victories",
+        "where": "Win a game playing as the Byzantines."
+      },
+      {
+        "id": "achievement-7",
+        "name": "Celtic Victory",
+        "kind": "trophy",
+        "chapterId": "civ-victories",
+        "where": "Win a game playing as the Celts."
+      },
+      {
+        "id": "achievement-8",
+        "name": "Chinese Victory",
+        "kind": "trophy",
+        "chapterId": "civ-victories",
+        "where": "Win a game playing as the Chinese."
+      },
+      {
+        "id": "achievement-9",
+        "name": "Cuman Victory",
+        "kind": "trophy",
+        "chapterId": "civ-victories",
+        "where": "Win a game playing as the Cumans."
+      },
+      {
+        "id": "achievement-10",
+        "name": "Ethiopian Victory",
+        "kind": "trophy",
+        "chapterId": "civ-victories",
+        "where": "Win a game playing as the Ethiopians."
+      },
+      {
+        "id": "achievement-11",
+        "name": "Frankish Victory",
+        "kind": "trophy",
+        "chapterId": "civ-victories",
+        "where": "Win a game playing as the Franks."
+      },
+      {
+        "id": "achievement-12",
+        "name": "Gothic Victory",
+        "kind": "trophy",
+        "chapterId": "civ-victories",
+        "where": "Win a game playing as the Goths."
+      },
+      {
+        "id": "achievement-13",
+        "name": "Hunnic Victory",
+        "kind": "trophy",
+        "chapterId": "civ-victories",
+        "where": "Win a game playing as the Huns."
+      },
+      {
+        "id": "achievement-14",
+        "name": "Inca Victory",
+        "kind": "trophy",
+        "chapterId": "civ-victories",
+        "where": "Win a game playing as the Incas."
+      },
+      {
+        "id": "achievement-15",
+        "name": "Hindustani Victory",
+        "kind": "trophy",
+        "chapterId": "civ-victories",
+        "where": "Won a game playing as the Hindustanis."
+      },
+      {
+        "id": "achievement-16",
+        "name": "Italian Victory",
+        "kind": "trophy",
+        "chapterId": "civ-victories",
+        "where": "Win a game playing as the Italians."
+      },
+      {
+        "id": "achievement-17",
+        "name": "Japanese Victory",
+        "kind": "trophy",
+        "chapterId": "civ-victories",
+        "where": "Win a game playing as the Japanese."
+      },
+      {
+        "id": "achievement-18",
+        "name": "Khmer Victory",
+        "kind": "trophy",
+        "chapterId": "civ-victories",
+        "where": "Win a game playing as the Khmer."
+      },
+      {
+        "id": "achievement-19",
+        "name": "Korean Victory",
+        "kind": "trophy",
+        "chapterId": "civ-victories",
+        "where": "Win a game playing as the Koreans."
+      },
+      {
+        "id": "achievement-20",
+        "name": "Magyar Victory",
+        "kind": "trophy",
+        "chapterId": "civ-victories",
+        "where": "Win a game playing as the Magyars."
+      },
+      {
+        "id": "achievement-21",
+        "name": "Malay Victory",
+        "kind": "trophy",
+        "chapterId": "civ-victories",
+        "where": "Win a game playing as the Malay."
+      },
+      {
+        "id": "achievement-22",
+        "name": "Malian Victory",
+        "kind": "trophy",
+        "chapterId": "civ-victories",
+        "where": "Win a game playing as the Malians."
+      },
+      {
+        "id": "achievement-23",
+        "name": "Mayan Victory",
+        "kind": "trophy",
+        "chapterId": "civ-victories",
+        "where": "Win a game playing as the Mayans."
+      },
+      {
+        "id": "achievement-24",
+        "name": "Mongol Victory",
+        "kind": "trophy",
+        "chapterId": "civ-victories",
+        "where": "Win a game playing as the Mongols."
+      },
+      {
+        "id": "achievement-25",
+        "name": "Persian Victory",
+        "kind": "trophy",
+        "chapterId": "civ-victories",
+        "where": "Win a game playing as the Persians."
+      },
+      {
+        "id": "achievement-26",
+        "name": "Portuguese Victory",
+        "kind": "trophy",
+        "chapterId": "civ-victories",
+        "where": "Win a game playing as the Portuguese."
+      },
+      {
+        "id": "achievement-27",
+        "name": "Saracen Victory",
+        "kind": "trophy",
+        "chapterId": "civ-victories",
+        "where": "Win a game playing as the Saracens."
+      },
+      {
+        "id": "achievement-28",
+        "name": "Slavic Victory",
+        "kind": "trophy",
+        "chapterId": "civ-victories",
+        "where": "Win a game playing as the Slavs."
+      },
+      {
+        "id": "achievement-29",
+        "name": "Spanish Victory",
+        "kind": "trophy",
+        "chapterId": "civ-victories",
+        "where": "Win a game playing as the Spanish."
+      },
+      {
+        "id": "achievement-30",
+        "name": "Tatar Victory",
+        "kind": "trophy",
+        "chapterId": "civ-victories",
+        "where": "Win a game playing as the Tatars."
+      },
+      {
+        "id": "achievement-31",
+        "name": "Teutonic Victory",
+        "kind": "trophy",
+        "chapterId": "civ-victories",
+        "where": "Win a game playing as the Teutons."
+      },
+      {
+        "id": "achievement-32",
+        "name": "Turkish Victory",
+        "kind": "trophy",
+        "chapterId": "civ-victories",
+        "where": "Win a game playing as the Turks."
+      },
+      {
+        "id": "achievement-33",
+        "name": "Vietnamese Victory",
+        "kind": "trophy",
+        "chapterId": "civ-victories",
+        "where": "Win a game playing as the Vietnamese."
+      },
+      {
+        "id": "achievement-34",
+        "name": "Viking Victory",
+        "kind": "trophy",
+        "chapterId": "civ-victories",
+        "where": "Win a game playing as the Vikings."
+      },
+      {
+        "id": "achievement-35",
+        "name": "Guardian of Scotland",
+        "kind": "trophy",
+        "chapterId": "campaigns",
+        "where": "Complete the William Wallace Campaign."
+      },
+      {
+        "id": "achievement-36",
+        "name": "Iron Maid",
+        "kind": "trophy",
+        "chapterId": "campaigns",
+        "where": "Complete the Joan of Arc Campaign."
+      },
+      {
+        "id": "achievement-37",
+        "name": "Custodian of the Holy Land",
+        "kind": "trophy",
+        "chapterId": "campaigns",
+        "where": "Complete the Saladin Campaign."
+      },
+      {
+        "id": "achievement-38",
+        "name": "For the Horde!",
+        "kind": "trophy",
+        "chapterId": "campaigns",
+        "where": "Complete the Genghis Khan Campaign."
+      },
+      {
+        "id": "achievement-39",
+        "name": "The Emperor Strikes Back",
+        "kind": "trophy",
+        "chapterId": "campaigns",
+        "where": "Complete the Barbarossa Campaign."
+      },
+      {
+        "id": "achievement-40",
+        "name": "Huney, I Shrunk the Romans",
+        "kind": "trophy",
+        "chapterId": "campaigns",
+        "where": "Complete the Attila the Hun Campaign."
+      },
+      {
+        "id": "achievement-41",
+        "name": "El Campeador",
+        "kind": "trophy",
+        "chapterId": "campaigns",
+        "where": "Complete the El Cid Campaign."
+      },
+      {
+        "id": "achievement-42",
+        "name": "Emperor of Tenochtitlan",
+        "kind": "trophy",
+        "chapterId": "campaigns",
+        "where": "Complete the Montezuma Campaign."
+      },
+      {
+        "id": "achievement-43",
+        "name": "The Thicker the Hay, the Easier Mowed",
+        "kind": "trophy",
+        "chapterId": "campaigns",
+        "where": "Complete the Alaric Campaign."
+      },
+      {
+        "id": "achievement-44",
+        "name": "Vladislav, Baby Don't Hurt Me",
+        "kind": "trophy",
+        "chapterId": "campaigns",
+        "where": "Complete the Dracula Campaign."
+      },
+      {
+        "id": "achievement-45",
+        "name": "A Tale of One City",
+        "kind": "trophy",
+        "chapterId": "campaigns",
+        "where": "Complete the Bari Campaign."
+      },
+      {
+        "id": "achievement-46",
+        "name": "Renaissance Man",
+        "kind": "trophy",
+        "chapterId": "campaigns",
+        "where": "Complete the Sforza Campaign."
+      },
+      {
+        "id": "achievement-47",
+        "name": "Earth Shaker",
+        "kind": "trophy",
+        "chapterId": "campaigns",
+        "where": "Complete the Pachacuti Campaign."
+      },
+      {
+        "id": "achievement-48",
+        "name": "The Blind Archer",
+        "kind": "trophy",
+        "chapterId": "campaigns",
+        "where": "Complete the Prithviraj Campaign."
+      },
+      {
+        "id": "achievement-49",
+        "name": "Master of the Maghreb",
+        "kind": "trophy",
+        "chapterId": "campaigns",
+        "where": "Complete the Tariq ibn Ziyad Campaign."
+      },
+      {
+        "id": "achievement-50",
+        "name": "King of Africa",
+        "kind": "trophy",
+        "chapterId": "campaigns",
+        "where": "Complete the Sundjata Campaign."
+      },
+      {
+        "id": "achievement-51",
+        "name": "Age of Discovery",
+        "kind": "trophy",
+        "chapterId": "campaigns",
+        "where": "Complete the Francisco de Almeida Campaign."
+      },
+      {
+        "id": "achievement-52",
+        "name": "Destroyer of Axum",
+        "kind": "trophy",
+        "chapterId": "campaigns",
+        "where": "Complete the Yodit Campaign."
+      },
+      {
+        "id": "achievement-53",
+        "name": "Island Hopper",
+        "kind": "trophy",
+        "chapterId": "campaigns",
+        "where": "Complete the Gajah Mada Campaign."
+      },
+      {
+        "id": "achievement-54",
+        "name": "King of the Just Laws",
+        "kind": "trophy",
+        "chapterId": "campaigns",
+        "where": "Complete the Suryavarman I Campaign."
+      },
+      {
+        "id": "achievement-55",
+        "name": "Cakkavatti",
+        "kind": "trophy",
+        "chapterId": "campaigns",
+        "where": "Complete the Bayinnaung Campaign."
+      },
+      {
+        "id": "achievement-56",
+        "name": "Rebel with a Cause",
+        "kind": "trophy",
+        "chapterId": "campaigns",
+        "where": "Complete the Le Loi Campaign."
+      },
+      {
+        "id": "achievement-57",
+        "name": "Empire of the Steppes",
+        "kind": "trophy",
+        "chapterId": "campaigns",
+        "where": "Complete the Tamerlane Campaign."
+      },
+      {
+        "id": "achievement-58",
+        "name": "The Cabbage King",
+        "kind": "trophy",
+        "chapterId": "campaigns",
+        "where": "Complete the Ivaylo Campaign."
+      },
+      {
+        "id": "achievement-59",
+        "name": "Yes we Khan!",
+        "kind": "trophy",
+        "chapterId": "campaigns",
+        "where": "Complete the Kotyan Khan Campaign."
+      },
+      {
+        "id": "achievement-60",
+        "name": "Battle Beast",
+        "kind": "trophy",
+        "chapterId": "historical-battles",
+        "where": "Complete all Historical Battles in single player."
+      },
+      {
+        "id": "achievement-61",
+        "name": "Wololo",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-play",
+        "where": "Convert 1,000 units."
+      },
+      {
+        "id": "achievement-62",
+        "name": "Unexpected",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-play",
+        "where": "Convert 100 units using Spanish Missionaries."
+      },
+      {
+        "id": "achievement-63",
+        "name": "Losing Your Religion",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-play",
+        "where": "Convert an enemy Monk."
+      },
+      {
+        "id": "achievement-64",
+        "name": "Chain Reaction",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-play",
+        "where": "Blow up an enemy Demolition Ship with a Demolition Ship of your own."
+      },
+      {
+        "id": "achievement-65",
+        "name": "Kaboom",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-play",
+        "where": "Kill 1,000 enemy units using Demolition Ships."
+      },
+      {
+        "id": "achievement-66",
+        "name": "Bull's Eye",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-play",
+        "where": "Destroy a Trebuchet with another Trebuchet."
+      },
+      {
+        "id": "achievement-67",
+        "name": "The Wonder, the Wonder, the...Oh, Never Mind",
+        "kind": "trophy",
+        "chapterId": "historical-battles",
+        "where": "Prevent the Korean Wonder from being destroyed in the \"Noryang Point (1598)\" mission of the Historical Battles."
+      },
+      {
+        "id": "achievement-68",
+        "name": "A Truly Holy Emperor",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "Convert the Cathedral in Milan without acquiring a single Villager in the third Barbarossa mission \"Pope and Antipope\"."
+      },
+      {
+        "id": "achievement-69",
+        "name": "No Wonder on my Watch",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "Destroy every enemy Wonder before it is completed in the sixth Attila the Hun mission \"The Fall of Rome\"."
+      },
+      {
+        "id": "achievement-70",
+        "name": "Diplomacy is for the Meek",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "Kill the Scythian Prince and defeat the Scythians in the first Attila the Hun mission \"The Scourge of God\"."
+      },
+      {
+        "id": "achievement-71",
+        "name": "The Kushluk Assassination",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "Kill Kushluk before 20 minutes have elapsed in the second Genghis Khan mission \"A Life of Revenge\"."
+      },
+      {
+        "id": "achievement-72",
+        "name": "I Was in China Before",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "Defeat the Jin before they start constructing a Wonder in the third Genghis Khan mission \"Into China\"."
+      },
+      {
+        "id": "achievement-73",
+        "name": "Offense Is the Best Defense",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "Defeat all opponents before constructing a Wonder in the sixth Saladin mission \"The Lion and the Demon\"."
+      },
+      {
+        "id": "achievement-74",
+        "name": "The Go-Getter",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "Defeat the Hungarians before Subotai has arrived in the sixth Genghis Khan mission \"Pax Mongolica\"."
+      },
+      {
+        "id": "achievement-75",
+        "name": "Furor Teutonicus",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "Defeat all opponents instead of collecting the required Relics in the first Barbarossa mission \"Holy Roman Emperor\"."
+      },
+      {
+        "id": "achievement-76",
+        "name": "Truly Countless Bodies",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "Defeat all opponents before 30 minutes have elapsed in the fifth Attila the Hun mission \"The Catalaunian Fields\"."
+      },
+      {
+        "id": "achievement-77",
+        "name": "Hot & Spicy",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "Prevent Tabasco from being defeated in the third Montezuma mission \"Quetzalcoatl\"."
+      },
+      {
+        "id": "achievement-78",
+        "name": "Battleship",
+        "kind": "trophy",
+        "chapterId": "historical-battles",
+        "where": "Win the Historical Battle \"Lepanto (1571)\" without allowing any Turkish Transport Ship to unload on your shores."
+      },
+      {
+        "id": "achievement-79",
+        "name": "Relic Hoarder",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "Collect all Relics on the map in the fifth Suryavarman mission \"Nirvanapada\"."
+      },
+      {
+        "id": "achievement-80",
+        "name": "The Missionary",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "Collect all Relics in the first El Cid mission \"Brother Against Brother\"."
+      },
+      {
+        "id": "achievement-81",
+        "name": "Turkish Delight",
+        "kind": "trophy",
+        "chapterId": "historical-battles",
+        "where": "Win \"Bapheus (1302)\" by defeating Turkish factions without allying with them in single player."
+      },
+      {
+        "id": "achievement-82",
+        "name": "Lone Warrior",
+        "kind": "trophy",
+        "chapterId": "historical-battles",
+        "where": "Win \"Kurikara (1183)\" without forming an alliance with the Hojo clan in single player."
+      },
+      {
+        "id": "achievement-83",
+        "name": "Fire with Fire",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "Amass 10 Condottieri, 10 Genoese Crossbowmen, and 10 Bombard Cannons in the fifth Dracula mission \"The Night Falls\"."
+      },
+      {
+        "id": "achievement-84",
+        "name": "Raging Wildfire",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "Conquer Delhi at least 5 minutes before the timer expires in the fourth Tamerlane mission \"Sultan of Hindustan\"."
+      },
+      {
+        "id": "achievement-85",
+        "name": "Chasing the Crown",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "Kill King Takayutpi before 5 minutes have elapsed in the first Bayinnaung mission \"The Burmese Tigers\"."
+      },
+      {
+        "id": "achievement-86",
+        "name": "Friends, Countrymen, Lend Me Your Ears",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "Convert Afonso de Albuquerque without killing a single Portuguese unit in the fifth Francisco de Almeida mission \"A Son's Blood\"."
+      },
+      {
+        "id": "achievement-87",
+        "name": "Numerous As the Grains of Sand",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "Win the second Alaric mission \"Razing Hellas\" while training no military units aside from infantry."
+      },
+      {
+        "id": "achievement-88",
+        "name": "Rome Was Destroyed in One Day",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "Destroy all Roman Castles before 30 minutes have elapsed in the fourth Alaric mission \"The Giant Falls\"."
+      },
+      {
+        "id": "achievement-89",
+        "name": "Smoke on the Water",
+        "kind": "trophy",
+        "chapterId": "historical-battles",
+        "where": "Purchase 20 Dragon Ships in the Historical Battle \"Lake Poyang (1363)\"."
+      },
+      {
+        "id": "achievement-90",
+        "name": "With the Help of My Sisters",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "Amass an army of at least 100 Gbeto Warriors in the fourth Sundjata mission \"Blood on the River Bank\"."
+      },
+      {
+        "id": "achievement-91",
+        "name": "Roar like a Lion",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "Win the fifth Sundjata mission \"The Lion's Den\" on Hard difficulty."
+      },
+      {
+        "id": "achievement-92",
+        "name": "An Army Marches on Its Stomach",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "Complete all secondary objectives and destroy all of Dagnajan's smaller bases before Dagnajan and his army march in the third Yodit mission \"A Fallen Crown\"."
+      },
+      {
+        "id": "achievement-93",
+        "name": "No Royal Hair Touched",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "Reach the King before 10 minutes have elapsed in the second Gajah Mada mission \"Unconditional Loyalty\"."
+      },
+      {
+        "id": "achievement-94",
+        "name": "Not a Greek Tragedy",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "Win without losing any of your four heroes in the fifth Le Loi mission \"A Three-Pronged Attack\"."
+      },
+      {
+        "id": "achievement-95",
+        "name": "Cuman Flush",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "Win the second Kotyan mission \"The Battle at the Kalka River\" without advancing to the Castle Age."
+      },
+      {
+        "id": "achievement-96",
+        "name": "He Won't Be Back",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "Assist King Bela and defeat the Austrian Duke Frederick in the fifth Kotyan mission \"A New Home\" before 45 minutes have elapsed."
+      },
+      {
+        "id": "achievement-97",
+        "name": "Pitched Battle",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "Successfully defend Cuzco without constructing any new walls or gates in the second Pachacuti mission \"The Field of Blood\"."
+      },
+      {
+        "id": "achievement-98",
+        "name": "D-Day (D stands for Demo)",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-play",
+        "where": "Destroy an enemy Transport Ship with a Demolition Ship."
+      },
+      {
+        "id": "achievement-99",
+        "name": "Eternal Gratitude",
+        "kind": "trophy",
+        "chapterId": "historical-battles",
+        "where": "Encounter a Penguin in the Historical Battle \"Vinlandsaga\"."
+      },
+      {
+        "id": "achievement-100",
+        "name": "It's a Treb!",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-play",
+        "where": "Kill 25 units with Trebuchets."
+      },
+      {
+        "id": "achievement-101",
+        "name": "Mango Shots",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-play",
+        "where": "Kill 500 units with Mangonels."
+      },
+      {
+        "id": "achievement-102",
+        "name": "Hun, What Are You doing?",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-play",
+        "where": "Burn down 200 buildings with Tarkans."
+      },
+      {
+        "id": "achievement-103",
+        "name": "Knocking On Your Door",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-play",
+        "where": "Demolish 200 buildings with Battering Rams."
+      },
+      {
+        "id": "achievement-104",
+        "name": "Castle Crusher",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-play",
+        "where": "Destroy 50 Castles."
+      },
+      {
+        "id": "achievement-105",
+        "name": "Out With a Bang",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-play",
+        "where": "Kill an enemy King with a Petard or Demolition Ship."
+      },
+      {
+        "id": "achievement-106",
+        "name": "Lithuanian Victory",
+        "kind": "trophy",
+        "chapterId": "civ-victories",
+        "where": "Win a game playing as the Lithuanians."
+      },
+      {
+        "id": "achievement-107",
+        "name": "Karambolage",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-play",
+        "where": "Spam the enemy with 500 Karambit Warriors in a single game."
+      },
+      {
+        "id": "achievement-108",
+        "name": "Elephantastic",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-play",
+        "where": "Train 40 War or Battle Elephants in a single game."
+      },
+      {
+        "id": "achievement-109",
+        "name": "Fighting From Afar",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-play",
+        "where": "Create 500 Longbowmen in a single match."
+      },
+      {
+        "id": "achievement-110",
+        "name": "90kg Over 300 Meters",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-play",
+        "where": "Build 300 Trebuchets."
+      },
+      {
+        "id": "achievement-111",
+        "name": "Frankly My Dear...",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-play",
+        "where": "Create 100 Throwing Axemen in a single match."
+      },
+      {
+        "id": "achievement-112",
+        "name": "Anyone Order a Pizza?",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-play",
+        "where": "Train 1,000 Condottieri as a non-Italian civilization."
+      },
+      {
+        "id": "achievement-113",
+        "name": "Sushi Lover",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-play",
+        "where": "Build 30 Japanese Fishing Ships."
+      },
+      {
+        "id": "achievement-114",
+        "name": "Out of Their Element",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-play",
+        "where": "Destroy a ship using a melee unit."
+      },
+      {
+        "id": "achievement-115",
+        "name": "Castle of Doubt",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-play",
+        "where": "Lose an unfinished Castle that is at least 95% complete."
+      },
+      {
+        "id": "achievement-116",
+        "name": "The Wonder, the Wonder, Noooooo...",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-play",
+        "where": "Build a Wonder."
+      },
+      {
+        "id": "achievement-117",
+        "name": "Pleasant Peasant",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-play",
+        "where": "Build 1,000 Farms in total."
+      },
+      {
+        "id": "achievement-118",
+        "name": "Supremely Unexpected",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-play",
+        "where": "Win a match as the Spanish while only creating Villagers."
+      },
+      {
+        "id": "achievement-119",
+        "name": "The King Is Dead, Long Live the King!",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-play",
+        "where": "Win a Regicide game."
+      },
+      {
+        "id": "achievement-120",
+        "name": "Marco Polo",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-play",
+        "where": "Explore 99% of a ludicrously sized map."
+      },
+      {
+        "id": "achievement-121",
+        "name": "Relic Hunter",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-play",
+        "where": "Collect 100 Relics."
+      },
+      {
+        "id": "achievement-122",
+        "name": "Bird Shooting",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-play",
+        "where": "Kill an enemy Scout Cavalry with your Town Center."
+      },
+      {
+        "id": "achievement-123",
+        "name": "Dark Dinner",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-play",
+        "where": "Eat 2 Wild Boars in the Dark Age."
+      },
+      {
+        "id": "achievement-124",
+        "name": "Dark Humor",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-play",
+        "where": "Kill 20 Villagers with Militia in the Dark Age."
+      },
+      {
+        "id": "achievement-125",
+        "name": "Masterpiece",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-play",
+        "where": "Win alone against 3 human opponents."
+      },
+      {
+        "id": "achievement-126",
+        "name": "Final Countdown",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-play",
+        "where": "Destroy an opponent's Wonder with less than 100 years remaining on the Wonder Victory countdown."
+      },
+      {
+        "id": "achievement-127",
+        "name": "Howdy Neighbor",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-play",
+        "where": "Scale an enemy wall using a Siege Tower."
+      },
+      {
+        "id": "achievement-128",
+        "name": "Too Lame To Tame",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-play",
+        "where": "Loot 500 gold with Keshiks."
+      },
+      {
+        "id": "achievement-129",
+        "name": "Rest in Peace",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-play",
+        "where": "Beat an AI opponent on \"Peaceful\" difficulty in a 1v1 game."
+      },
+      {
+        "id": "achievement-130",
+        "name": "With Moderation",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-play",
+        "where": "Beat an AI opponent on \"Moderate\" difficulty in a 1v1 game."
+      },
+      {
+        "id": "achievement-131",
+        "name": "Rough Ride",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-play",
+        "where": "Beat an AI opponent on \"Hard\" difficulty in a 1v1 game."
+      },
+      {
+        "id": "achievement-132",
+        "name": "Barbaric Manners",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-play",
+        "where": "Beat an AI opponent on \"Hardest\" difficulty in a 1v1 game."
+      },
+      {
+        "id": "achievement-133",
+        "name": "Prominent Player",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-play",
+        "where": "Beat an AI opponent on \"Extreme\" difficulty in a 1v1 game."
+      },
+      {
+        "id": "achievement-134",
+        "name": "Sheep Hoarder",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-play",
+        "where": "Gather 20 Sheep in a Random Map game."
+      },
+      {
+        "id": "achievement-135",
+        "name": "Homeless",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-play",
+        "where": "Delete your starting Town Center and still win the game."
+      },
+      {
+        "id": "achievement-136",
+        "name": "Easy Going",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-play",
+        "where": "Beat an AI opponent on \"Standard\" difficulty in a 1v1 game."
+      },
+      {
+        "id": "achievement-137",
+        "name": "No Suntzu Light",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-play",
+        "where": "Shoot 100,000 arrows with your Chu Ko Nu."
+      },
+      {
+        "id": "achievement-138",
+        "name": "Age of Empires",
+        "kind": "trophy",
+        "chapterId": "civ-victories",
+        "where": "Win a game with every civilization."
+      },
+      {
+        "id": "achievement-139",
+        "name": "The English Justinian",
+        "kind": "trophy",
+        "chapterId": "campaigns",
+        "where": "Complete the Edward Longshanks campaign."
+      },
+      {
+        "id": "achievement-140",
+        "name": "The Good, the Bold, and the Fearless",
+        "kind": "trophy",
+        "chapterId": "campaigns",
+        "where": "Complete the Grand Dukes of the West campaign."
+      },
+      {
+        "id": "achievement-141",
+        "name": "Haute Culture",
+        "kind": "trophy",
+        "chapterId": "campaigns",
+        "where": "Complete the Hautevilles campaign."
+      },
+      {
+        "id": "achievement-142",
+        "name": "Unchivalrous Pragmatist",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "Defeat Simon the Younger's army before the baronial forces attack in \"Vain Ambition\"."
+      },
+      {
+        "id": "achievement-143",
+        "name": "Throne Thief",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "Steal the Stone of Scone in the fourth Edward Longshanks mission \"Toom Tabard\"."
+      },
+      {
+        "id": "achievement-144",
+        "name": "Malleus Scotorum",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "Kill William Wallace before Robert the Bruce betrays you in \"Hammer of the Scots\"."
+      },
+      {
+        "id": "achievement-145",
+        "name": "No Wheels",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "Do not construct a single siege weapon in the mission \"A Kingdom Divided\"."
+      },
+      {
+        "id": "achievement-146",
+        "name": "A Second Hastings",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "Wipe out Humphrey's base before defeating Jacqueline in \"The Hook and Cod Wars\"."
+      },
+      {
+        "id": "achievement-147",
+        "name": "Shut Up La Hire!",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "Defeat the French army before capturing Joan of Arc in the mission \"The Maid Falls\"."
+      },
+      {
+        "id": "achievement-148",
+        "name": "Self-Made Man",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "Win without allying with Argyrus or Guaimar in the mission \"Guiscard Arrives\"."
+      },
+      {
+        "id": "achievement-149",
+        "name": "Haute, Haute, brief candle!",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "Inspire a rebellion in the second Hautevilles mission \"Roger in Sicily\"."
+      },
+      {
+        "id": "achievement-150",
+        "name": "Italy Jones and the First Crusade",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "Do not lose a hero in the fourth Hautevilles mission \"Bohemond in the East\"."
+      },
+      {
+        "id": "achievement-151",
+        "name": "Burgundian Victory",
+        "kind": "trophy",
+        "chapterId": "civ-victories",
+        "where": "Win a game playing as the Burgundians."
+      },
+      {
+        "id": "achievement-152",
+        "name": "Sicilian Victory",
+        "kind": "trophy",
+        "chapterId": "civ-victories",
+        "where": "Win a game playing as the Sicilians."
+      },
+      {
+        "id": "achievement-153",
+        "name": "Golden Spurs",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-play",
+        "where": "Transform 50 Villagers by researching Flemish Revolution."
+      },
+      {
+        "id": "achievement-154",
+        "name": "Tour d'Italie",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-play",
+        "where": "Construct a Donjon and use it to train a Serjeant."
+      },
+      {
+        "id": "achievement-155",
+        "name": "Bond of Brothers",
+        "kind": "trophy",
+        "chapterId": "campaigns",
+        "where": "Complete the Algirdas and Kestutis campaign."
+      },
+      {
+        "id": "achievement-156",
+        "name": "Tolerant Piety",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "Build a Monastery or Shrine in every Lithuanian village in \"Family Affairs\"."
+      },
+      {
+        "id": "achievement-157",
+        "name": "Scattered Horde",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "Kill all enemy commanders before defeating their hordes in \"The Tatar Yoke\"."
+      },
+      {
+        "id": "achievement-158",
+        "name": "Mint Condition",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "Deliver the Ransom Cart undamaged in \"In the Shadow of the Throne\"."
+      },
+      {
+        "id": "achievement-159",
+        "name": "Star of the Poles",
+        "kind": "trophy",
+        "chapterId": "campaigns",
+        "where": "Complete the Jadwiga campaign."
+      },
+      {
+        "id": "achievement-160",
+        "name": "Protector of the Realm",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "Win without losing any neutral towns to Halych in \"Star of the Poles\"."
+      },
+      {
+        "id": "achievement-161",
+        "name": "No Baggage",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "Defeat the Crimean Tatars without building a Town Center in \"Vytautas' Crusade\"."
+      },
+      {
+        "id": "achievement-162",
+        "name": "No Quarter",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "Kill Ulrich von Jungingen and Nicolas von Renys in \"The Fruits of Her Labor\"."
+      },
+      {
+        "id": "achievement-163",
+        "name": "Man of the Chalice",
+        "kind": "trophy",
+        "chapterId": "campaigns",
+        "where": "Complete the Jan Zizka campaign."
+      },
+      {
+        "id": "achievement-164",
+        "name": "Malevolent Marauder",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "Destroy all 6 Bohemian villages in \"The One-Eyed Wanderer\"."
+      },
+      {
+        "id": "achievement-165",
+        "name": "Zizkov Hill",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "Do not lose the Old Tower northeast of your city in \"The Golden City\"."
+      },
+      {
+        "id": "achievement-166",
+        "name": "Against All",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "Defeat the Crusaders in the fifth Jan Zizka mission \"The Emperor's Fury\"."
+      },
+      {
+        "id": "achievement-167",
+        "name": "Bohemian Victory",
+        "kind": "trophy",
+        "chapterId": "civ-victories",
+        "where": "Win a game playing as the Bohemians."
+      },
+      {
+        "id": "achievement-168",
+        "name": "Polish Victory",
+        "kind": "trophy",
+        "chapterId": "civ-victories",
+        "where": "Win a game playing as the Poles."
+      },
+      {
+        "id": "achievement-169",
+        "name": "Rhapsody of the Bohemians",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-play",
+        "where": "Train 10 Houfnices as the Bohemians."
+      },
+      {
+        "id": "achievement-170",
+        "name": "Fast Food",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-play",
+        "where": "Gather 500 food by constructing farms next to Folwarks as the Poles."
+      },
+      {
+        "id": "achievement-171",
+        "name": "The Persian Tiger",
+        "kind": "trophy",
+        "chapterId": "campaigns",
+        "where": "Complete the Babur campaign."
+      },
+      {
+        "id": "achievement-172",
+        "name": "Never Trust a Campaign AI",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "Ignore Kabul's offer to form a non-aggression pact in \"The Last Timurids\"."
+      },
+      {
+        "id": "achievement-173",
+        "name": "An Offer You Khan't Refuse",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "Convert both Alam Khan and Daulat Khan in \"The Battle of Panipat\"."
+      },
+      {
+        "id": "achievement-174",
+        "name": "The Renovator",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "Repair all 4 Town Centers in the devastated villages in \"The Rajputs\"."
+      },
+      {
+        "id": "achievement-175",
+        "name": "Like Father, Like Son",
+        "kind": "trophy",
+        "chapterId": "campaigns",
+        "where": "Complete the Rajendra campaign."
+      },
+      {
+        "id": "achievement-176",
+        "name": "No Rest for the Wicked",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "Defeat Mannaram and Polonnaruwa without capturing a Town Center in Rajendra #2."
+      },
+      {
+        "id": "achievement-177",
+        "name": "Eye of the Tiger",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "Defeat Srivijaya, Madurai, the Chalukyan Empire and the Pirates in Rajendra 3."
+      },
+      {
+        "id": "achievement-178",
+        "name": "No Wonder You Won",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "Win the game before Mahipala completes his Wonder in \"Sacred Waters\"."
+      },
+      {
+        "id": "achievement-179",
+        "name": "Won't You Take Me by the Hand",
+        "kind": "trophy",
+        "chapterId": "campaigns",
+        "where": "Complete the Devapala campaign."
+      },
+      {
+        "id": "achievement-180",
+        "name": "Huna Join Me?",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "Convert all 3 Huna Khans in \"Renunciation\"."
+      },
+      {
+        "id": "achievement-181",
+        "name": "Construction Cancellation",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "Destroy the Rashtrakuta Wonder before it is completed in \"Liberation?\"."
+      },
+      {
+        "id": "achievement-182",
+        "name": "Parinirvana",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "Accumulate 100 piety points in \"Enlightenment\"."
+      },
+      {
+        "id": "achievement-183",
+        "name": "Raja of the People",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "Save both allied villages in \"Born of Fire\" on Hard difficulty."
+      },
+      {
+        "id": "achievement-184",
+        "name": "Hopeless Romantic",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "Win \"Hand of a Princess\" with 12+ minutes remaining on the timer."
+      },
+      {
+        "id": "achievement-185",
+        "name": "Inspiring Poet",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "Convert all Rajas before the Ghorids attack in Prithviraj #5 on Hard difficulty."
+      },
+      {
+        "id": "achievement-186",
+        "name": "Bengali Victory",
+        "kind": "trophy",
+        "chapterId": "civ-victories",
+        "where": "Win a game playing as the Bengalis."
+      },
+      {
+        "id": "achievement-187",
+        "name": "Dravidian Victory",
+        "kind": "trophy",
+        "chapterId": "civ-victories",
+        "where": "Win a game playing as the Dravidians."
+      },
+      {
+        "id": "achievement-188",
+        "name": "Gurjara Victory",
+        "kind": "trophy",
+        "chapterId": "civ-victories",
+        "where": "Win a game playing as the Gurjaras."
+      },
+      {
+        "id": "achievement-189",
+        "name": "Face My Ratha",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-play",
+        "where": "Train 10 Rathas as the Bengalis."
+      },
+      {
+        "id": "achievement-190",
+        "name": "King of the Seas",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-play",
+        "where": "Sink 10 enemy ships with Thirisadais as the Dravidians."
+      },
+      {
+        "id": "achievement-191",
+        "name": "Forged in the Heat of Battle",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-play",
+        "where": "Train 10 Chakram Throwers as the Gurjaras."
+      },
+      {
+        "id": "achievement-192",
+        "name": "Not Just a Militia",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-play",
+        "where": "Upgrade your Militia to Men-at-Arms"
+      },
+      {
+        "id": "achievement-193",
+        "name": "Family Feudal",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-play",
+        "where": "Advance to the Feudal Age in a Campaign Scenario"
+      },
+      {
+        "id": "achievement-194",
+        "name": "Can I be Frank with You?",
+        "kind": "trophy",
+        "chapterId": "historical-battles",
+        "where": "Win the \"Tours (732)\" Co-Op Historical Battle with an AI or Human Teammate"
+      },
+      {
+        "id": "achievement-195",
+        "name": "Challenge Accepted",
+        "kind": "trophy",
+        "chapterId": "historical-battles",
+        "where": "Win any Medal in any Art of War Challenge"
+      },
+      {
+        "id": "achievement-196",
+        "name": "Going for the Gold",
+        "kind": "trophy",
+        "chapterId": "historical-battles",
+        "where": "Win a Gold Medal in any Art of War Challenge"
+      },
+      {
+        "id": "achievement-197",
+        "name": "Wingman",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-play",
+        "where": "Win a Skirmish or Multiplayer Game with a Human or AI Teammate"
+      },
+      {
+        "id": "achievement-198",
+        "name": "Baby Boomer",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-play",
+        "where": "Queue 5 Villagers at the Town Center in the Dark Age"
+      },
+      {
+        "id": "achievement-199",
+        "name": "Bull Market",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-play",
+        "where": "Create a Trade Route with another Market"
+      },
+      {
+        "id": "achievement-200",
+        "name": "Bon Voyage",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-play",
+        "where": "Turn on Auto-Scout in any Game Mode"
+      },
+      {
+        "id": "achievement-201",
+        "name": "Prepare for Boar!",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-play",
+        "where": "Research Loom at the Town Center"
+      },
+      {
+        "id": "achievement-202",
+        "name": "The God of War",
+        "kind": "trophy",
+        "chapterId": "campaigns",
+        "where": "Complete the Sargon campaign."
+      },
+      {
+        "id": "achievement-203",
+        "name": "Not Cutting Corners",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "Subdue both Sippar and Borsippa in \"The Chosen One\"."
+      },
+      {
+        "id": "achievement-204",
+        "name": "Expedited Delivery",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "Bring the Artifact to each city-state before 30 minutes have elapsed in \"Divine Will\"."
+      },
+      {
+        "id": "achievement-205",
+        "name": "Ur Out of Here",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "Destroy Ur's Wonder before it is completed in \"The Prophecy\"."
+      },
+      {
+        "id": "achievement-206",
+        "name": "Back to Square One",
+        "kind": "trophy",
+        "chapterId": "campaigns",
+        "where": "Complete the Pyrrhus campaign."
+      },
+      {
+        "id": "achievement-207",
+        "name": "What Would Alexander Have Done?",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "Win with all allied Town Centers remaining in \"A Second Alexander\"."
+      },
+      {
+        "id": "achievement-208",
+        "name": "Greece'd Lightning",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "Win before Demetrius arrives in \"The Many Kings of Macedon\"."
+      },
+      {
+        "id": "achievement-209",
+        "name": "The Best Defense...",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "Defeat all enemies in \"Sisyphus\"."
+      },
+      {
+        "id": "achievement-210",
+        "name": "Optimus Princeps",
+        "kind": "trophy",
+        "chapterId": "campaigns",
+        "where": "Complete the Trajan campaign."
+      },
+      {
+        "id": "achievement-211",
+        "name": "Are You Not Entertained?",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "Win \"Legates and Legions\" in less than 10 minutes."
+      },
+      {
+        "id": "achievement-212",
+        "name": "I Am Legion",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "Defeat the Dacian Army in \"Heads Will Roll\"."
+      },
+      {
+        "id": "achievement-213",
+        "name": "You Have No Power Here!",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "Lose less than 5 units to conversion in \"An Old Enemy\"."
+      },
+      {
+        "id": "achievement-214",
+        "name": "Roman Victory",
+        "kind": "trophy",
+        "chapterId": "civ-victories",
+        "where": "Win a game as the Romans."
+      },
+      {
+        "id": "achievement-215",
+        "name": "Assyrian Victory",
+        "kind": "trophy",
+        "chapterId": "return-of-rome",
+        "where": "Win a game as the Assyrians in Return of Rome."
+      },
+      {
+        "id": "achievement-216",
+        "name": "Babylonian Victory",
+        "kind": "trophy",
+        "chapterId": "return-of-rome",
+        "where": "Win a game as the Babylonians in Return of Rome."
+      },
+      {
+        "id": "achievement-217",
+        "name": "Carthaginian Victory",
+        "kind": "trophy",
+        "chapterId": "return-of-rome",
+        "where": "Win a game as the Carthaginians in Return of Rome."
+      },
+      {
+        "id": "achievement-218",
+        "name": "Choson Victory",
+        "kind": "trophy",
+        "chapterId": "return-of-rome",
+        "where": "Win a game as the Choson in Return of Rome."
+      },
+      {
+        "id": "achievement-219",
+        "name": "Egyptian Victory",
+        "kind": "trophy",
+        "chapterId": "return-of-rome",
+        "where": "Win a game as the Egyptians in Return of Rome."
+      },
+      {
+        "id": "achievement-220",
+        "name": "Greek Victory",
+        "kind": "trophy",
+        "chapterId": "return-of-rome",
+        "where": "Win a game as the Greeks in Return of Rome."
+      },
+      {
+        "id": "achievement-221",
+        "name": "Hittite Victory",
+        "kind": "trophy",
+        "chapterId": "return-of-rome",
+        "where": "Win a game as the Hittites in Return of Rome."
+      },
+      {
+        "id": "achievement-222",
+        "name": "Lac Viet Victory",
+        "kind": "trophy",
+        "chapterId": "return-of-rome",
+        "where": "Win a game as the Lac Viet in Return of Rome"
+      },
+      {
+        "id": "achievement-223",
+        "name": "Macedonian Victory",
+        "kind": "trophy",
+        "chapterId": "return-of-rome",
+        "where": "Win a game as the Macedonians in Return of Rome."
+      },
+      {
+        "id": "achievement-224",
+        "name": "Minoan Victory",
+        "kind": "trophy",
+        "chapterId": "return-of-rome",
+        "where": "Win a game as the Minoans in Return of Rome."
+      },
+      {
+        "id": "achievement-225",
+        "name": "Palmyran Victory",
+        "kind": "trophy",
+        "chapterId": "return-of-rome",
+        "where": "Win a game as the Palmyrans in Return of Rome."
+      },
+      {
+        "id": "achievement-226",
+        "name": "Persian Victory",
+        "kind": "trophy",
+        "chapterId": "return-of-rome",
+        "where": "Win a game as the Persians in Return of Rome."
+      },
+      {
+        "id": "achievement-227",
+        "name": "Phoenician Victory",
+        "kind": "trophy",
+        "chapterId": "return-of-rome",
+        "where": "Win a game as the Phoenicians in Return of Rome."
+      },
+      {
+        "id": "achievement-228",
+        "name": "Roman Victory",
+        "kind": "trophy",
+        "chapterId": "return-of-rome",
+        "where": "Win a game as the Romans in Return of Rome."
+      },
+      {
+        "id": "achievement-229",
+        "name": "Shang Victory",
+        "kind": "trophy",
+        "chapterId": "return-of-rome",
+        "where": "Win a game as the Shang in Return of Rome."
+      },
+      {
+        "id": "achievement-230",
+        "name": "Sumerian Victory",
+        "kind": "trophy",
+        "chapterId": "return-of-rome",
+        "where": "Win a game as the Sumerians in Return of Rome."
+      },
+      {
+        "id": "achievement-231",
+        "name": "Yamato Victory",
+        "kind": "trophy",
+        "chapterId": "return-of-rome",
+        "where": "Win a game as the Yamato in Return of Rome."
+      },
+      {
+        "id": "achievement-232",
+        "name": "Ride for Ruin!",
+        "kind": "trophy",
+        "chapterId": "return-of-rome",
+        "where": "Kill 15 units with Scouts in the Tool Age in Return of Rome."
+      },
+      {
+        "id": "achievement-233",
+        "name": "Calm, Cool, and Collected",
+        "kind": "trophy",
+        "chapterId": "return-of-rome",
+        "where": "Win 3 games in a row in Return of Rome."
+      },
+      {
+        "id": "achievement-234",
+        "name": "Agile as a Sparrow",
+        "kind": "trophy",
+        "chapterId": "return-of-rome",
+        "where": "Win a game without losing a single unit in Return of Rome."
+      },
+      {
+        "id": "achievement-235",
+        "name": "I Wonder Why I Did That?",
+        "kind": "trophy",
+        "chapterId": "return-of-rome",
+        "where": "Win a game by constructing a Wonder in Return of Rome."
+      },
+      {
+        "id": "achievement-236",
+        "name": "Forged in Iron",
+        "kind": "trophy",
+        "chapterId": "return-of-rome",
+        "where": "Reach the Iron Age before 20 minutes of game time have elapsed in Return of Rome."
+      },
+      {
+        "id": "achievement-237",
+        "name": "Chariotable Numbers",
+        "kind": "trophy",
+        "chapterId": "return-of-rome",
+        "where": "Train 60 Chariot Archers in Return of Rome."
+      },
+      {
+        "id": "achievement-238",
+        "name": "Builder of Civilizations",
+        "kind": "trophy",
+        "chapterId": "campaigns",
+        "where": "Complete the Ascent of Egypt campaign."
+      },
+      {
+        "id": "achievement-239",
+        "name": "Tactical Retreat",
+        "kind": "trophy",
+        "chapterId": "campaigns",
+        "where": "Complete The First Punic War campaign."
+      },
+      {
+        "id": "achievement-240",
+        "name": "Philhellene",
+        "kind": "trophy",
+        "chapterId": "campaigns",
+        "where": "Complete the Glory of Greece Campaign"
+      },
+      {
+        "id": "achievement-241",
+        "name": "Law Maker",
+        "kind": "trophy",
+        "chapterId": "campaigns",
+        "where": "Complete the Voices of Babylon Campaign"
+      },
+      {
+        "id": "achievement-242",
+        "name": "Call Me Ismail",
+        "kind": "trophy",
+        "chapterId": "campaigns",
+        "where": "Complete the Ismail campaign."
+      },
+      {
+        "id": "achievement-243",
+        "name": "Sneak Attack",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "Kill Farrukh Yasar before he reaches his fortress in \"The Red Hats\"."
+      },
+      {
+        "id": "achievement-244",
+        "name": "Landslide Election",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "Capture all Tabriz noblemen in \"Road to Royalty\"."
+      },
+      {
+        "id": "achievement-245",
+        "name": "I Ain't 'Fraid of No Guns",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "Defeat the Ottomans in \"Khata'i\"."
+      },
+      {
+        "id": "achievement-246",
+        "name": "Lord of the Mountains",
+        "kind": "trophy",
+        "chapterId": "campaigns",
+        "where": "Complete the Thoros the Great campaign."
+      },
+      {
+        "id": "achievement-247",
+        "name": "Bounty Hunter",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "Convert at least three Byzantine generals in \"The Emperor's Revenge\"."
+      },
+      {
+        "id": "achievement-248",
+        "name": "Raiding Party!",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "Defeat all enemy Cypriot players in \"Bloody Crestwaves\"."
+      },
+      {
+        "id": "achievement-249",
+        "name": "Church Sanctuary",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "Do not lose any Tarsos Villagers in \"Of Turncoats and Traitors\"."
+      },
+      {
+        "id": "achievement-250",
+        "name": "Georgia On My Mind",
+        "kind": "trophy",
+        "chapterId": "campaigns",
+        "where": "Complete the Tamar campaign."
+      },
+      {
+        "id": "achievement-251",
+        "name": "Game's Over Yury",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "Defeat Yury before the end of the siege in \"Yury's Revenge\"."
+      },
+      {
+        "id": "achievement-252",
+        "name": "Auntie Dearest",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "Ensure Alexios completes his Wonder in \"Tamar the Builder\"."
+      },
+      {
+        "id": "achievement-253",
+        "name": "Alexandra the Great",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "Complete all side-quests in \"The Queen in the Panther's Skin\"."
+      },
+      {
+        "id": "achievement-254",
+        "name": "Armenian Victory",
+        "kind": "trophy",
+        "chapterId": "civ-victories",
+        "where": "Win a game playing as the Armenians."
+      },
+      {
+        "id": "achievement-255",
+        "name": "Georgian Victory",
+        "kind": "trophy",
+        "chapterId": "civ-victories",
+        "where": "Win a game playing as the Georgians."
+      },
+      {
+        "id": "achievement-256",
+        "name": "Heroes and Villains",
+        "kind": "trophy",
+        "chapterId": "historical-battles",
+        "where": "Complete all Victors and Vanquished scenarios on any difficulty."
+      },
+      {
+        "id": "achievement-257",
+        "name": "Lost Vikings",
+        "kind": "trophy",
+        "chapterId": "historical-battles",
+        "where": "Find three lost Vikings in \"Finehair (870)\"."
+      },
+      {
+        "id": "achievement-258",
+        "name": "The Old-fashioned Way",
+        "kind": "trophy",
+        "chapterId": "historical-battles",
+        "where": "Win without constructing a Trebuchet in \"Stephen (1135)\"."
+      },
+      {
+        "id": "achievement-259",
+        "name": "Daimyo of the Nine Provinces",
+        "kind": "trophy",
+        "chapterId": "historical-battles",
+        "where": "Defeat the Shogun and conquer all Nine Provinces by 1600 CE in \"Shimazu (1545)\"."
+      },
+      {
+        "id": "achievement-260",
+        "name": "Plebeian Preserver",
+        "kind": "trophy",
+        "chapterId": "historical-battles",
+        "where": "Do not lose a Villager in \"Constantine XI (1453).\""
+      },
+      {
+        "id": "achievement-261",
+        "name": "Vandalized",
+        "kind": "trophy",
+        "chapterId": "historical-battles",
+        "where": "Sack Rome by 455 CE in \"Gaiseric (406)\"."
+      },
+      {
+        "id": "achievement-262",
+        "name": "United We Fall",
+        "kind": "trophy",
+        "chapterId": "historical-battles",
+        "where": "Obtain four allies before the Mongols arrive in \"Mstislav (1203)\"."
+      },
+      {
+        "id": "achievement-263",
+        "name": "Age of Vikings",
+        "kind": "trophy",
+        "chapterId": "historical-battles",
+        "where": "Find all Viking heroes in \"Ironside (859)\"."
+      },
+      {
+        "id": "achievement-264",
+        "name": "Generational Ambitions",
+        "kind": "trophy",
+        "chapterId": "historical-battles",
+        "where": "Achieve all of a leader's ambitions in \"Seljuk (985)\"."
+      },
+      {
+        "id": "achievement-265",
+        "name": "Bread and Circuses",
+        "kind": "trophy",
+        "chapterId": "historical-battles",
+        "where": "Support the winning chariot team in \"Komnenos (1081)\"."
+      },
+      {
+        "id": "achievement-266",
+        "name": "Galleon Bling",
+        "kind": "trophy",
+        "chapterId": "historical-battles",
+        "where": "Capture a Spanish Galleon in \"Drake (1572)\"."
+      },
+      {
+        "id": "achievement-267",
+        "name": "So Epic",
+        "kind": "trophy",
+        "chapterId": "historical-battles",
+        "where": "Complete all 50 Saga objectives in \"Ragnar (850)\"."
+      },
+      {
+        "id": "achievement-268",
+        "name": "Civis Romanus",
+        "kind": "trophy",
+        "chapterId": "historical-battles",
+        "where": "Do not lose a city in \"Vortigern (440)\"."
+      },
+      {
+        "id": "achievement-269",
+        "name": "Seeds of Their Own Destruction",
+        "kind": "trophy",
+        "chapterId": "historical-battles",
+        "where": "Win \"Vortigern (440)\" after recruiting Saxon Foederati twelve times."
+      },
+      {
+        "id": "achievement-270",
+        "name": "A Most Convenient Death",
+        "kind": "trophy",
+        "chapterId": "historical-battles",
+        "where": "Ensure Carloman dies in \"Charlemagne (768).\""
+      },
+      {
+        "id": "achievement-271",
+        "name": "Faster Than a Speeding Cannonball",
+        "kind": "trophy",
+        "chapterId": "historical-battles",
+        "where": "Kill Constantine XI and capture the Hagia Sophia before 15 May 1453 in \"Fetih (1453)\"."
+      },
+      {
+        "id": "achievement-272",
+        "name": "Trust No One",
+        "kind": "trophy",
+        "chapterId": "historical-battles",
+        "where": "Win \"Robert (921)\" by attacking and defeating all dukes and the King of the Franks."
+      },
+      {
+        "id": "achievement-273",
+        "name": "Coup D'état",
+        "kind": "trophy",
+        "chapterId": "historical-battles",
+        "where": "Win \"Robert (921)\" by gaining the support of at least three dukes."
+      },
+      {
+        "id": "achievement-274",
+        "name": "Saxon Revenge",
+        "kind": "trophy",
+        "chapterId": "historical-battles",
+        "where": "Defeat West Francia in \"Otto (936)\"."
+      },
+      {
+        "id": "achievement-275",
+        "name": "Shogun",
+        "kind": "trophy",
+        "chapterId": "historical-battles",
+        "where": "Win \"Nobunaga (1551)\" on Hard difficulty with any faction."
+      },
+      {
+        "id": "achievement-276",
+        "name": "Nemesis",
+        "kind": "trophy",
+        "chapterId": "chronicles",
+        "where": "Finish the entire Chronicles: Battle for Greece campaign."
+      },
+      {
+        "id": "achievement-277",
+        "name": "Enter the Epic",
+        "kind": "trophy",
+        "chapterId": "chronicles",
+        "where": "Complete \"Prologue: Gates of the Gods\"."
+      },
+      {
+        "id": "achievement-278",
+        "name": "Leader of Men",
+        "kind": "trophy",
+        "chapterId": "chronicles",
+        "where": "Attain all available aura upgrades in the Battle for Greece campaign."
+      },
+      {
+        "id": "achievement-279",
+        "name": "Fight in the Shade",
+        "kind": "trophy",
+        "chapterId": "chronicles",
+        "where": "Survive at Thermopylae for 5 minutes after completing the main objective in \"The Hot Gates\"."
+      },
+      {
+        "id": "achievement-280",
+        "name": "First Citizen",
+        "kind": "trophy",
+        "chapterId": "chronicles",
+        "where": "Complete \"Within the Long Walls\" without your favor ever dropping below 50."
+      },
+      {
+        "id": "achievement-281",
+        "name": "All Accounted For",
+        "kind": "trophy",
+        "chapterId": "chronicles",
+        "where": "Do not lose a single resource cart in \"Greeks Bearing Gifts\"."
+      },
+      {
+        "id": "achievement-282",
+        "name": "A Suitable Satrap",
+        "kind": "trophy",
+        "chapterId": "chronicles",
+        "where": "Complete \"The Ionian Revolt\" without Aristagoras ever holding more than four towns simultaneously."
+      },
+      {
+        "id": "achievement-283",
+        "name": "Friend of Artemisia",
+        "kind": "trophy",
+        "chapterId": "chronicles",
+        "where": "Assist Artemisia in both \"Chasing Smoke\" and \"Earth and Water\"."
+      },
+      {
+        "id": "achievement-284",
+        "name": "The Great King's Wrath",
+        "kind": "trophy",
+        "chapterId": "chronicles",
+        "where": "Defeat all enemy players in \"Earth and Water\""
+      },
+      {
+        "id": "achievement-285",
+        "name": "Marathonomachos",
+        "kind": "trophy",
+        "chapterId": "chronicles",
+        "where": "Find and complete all quests in \"The Battle of Marathon\"."
+      },
+      {
+        "id": "achievement-286",
+        "name": "Admirable Admiral",
+        "kind": "trophy",
+        "chapterId": "chronicles",
+        "where": "Research all naval technologies in \"Raise the Sails\"."
+      },
+      {
+        "id": "achievement-287",
+        "name": "Thundering Zeus!",
+        "kind": "trophy",
+        "chapterId": "chronicles",
+        "where": "Do not lose a single Market or Port in Byzantium during \"Wrath of the Regent\"."
+      },
+      {
+        "id": "achievement-288",
+        "name": "Friend of the Helots",
+        "kind": "trophy",
+        "chapterId": "chronicles",
+        "where": "Complete \"Pyres on the Coast\" without looting any Messenian tombs."
+      },
+      {
+        "id": "achievement-289",
+        "name": "Tomb Raider",
+        "kind": "trophy",
+        "chapterId": "chronicles",
+        "where": "Complete \"Pyres on the Coast\" after looting every Messenian tomb."
+      },
+      {
+        "id": "achievement-290",
+        "name": "Sack and Burn",
+        "kind": "trophy",
+        "chapterId": "chronicles",
+        "where": "Loot Notium, Priene, and the three cities specified by Cyrus in \"Blood and Gold\"."
+      },
+      {
+        "id": "achievement-291",
+        "name": "Crisis Management",
+        "kind": "trophy",
+        "chapterId": "chronicles",
+        "where": "Complete \"The Fruits of Empire\" without demanding medium or high tribute."
+      },
+      {
+        "id": "achievement-292",
+        "name": "Blockade Breaker",
+        "kind": "trophy",
+        "chapterId": "chronicles",
+        "where": "Destroy both naval blockades in \"Divine Salamis\"."
+      },
+      {
+        "id": "achievement-293",
+        "name": "Philolacon",
+        "kind": "trophy",
+        "chapterId": "chronicles",
+        "where": "Give a relic to the Spartans in both \"Across the Wine-Dark Sea\" and \"Wrath of the Regent\"."
+      },
+      {
+        "id": "achievement-294",
+        "name": "Reject the Regent",
+        "kind": "trophy",
+        "chapterId": "chronicles",
+        "where": "Give a relic to Salamis in \"Across the Wine-Dark Sea\" and to Polycritus in \"Wrath of the Regent\"."
+      },
+      {
+        "id": "achievement-295",
+        "name": "Combined Arms",
+        "kind": "trophy",
+        "chapterId": "chronicles",
+        "where": "Complete \"The Fall of Athens\" without researching any special infantry technologies."
+      },
+      {
+        "id": "achievement-296",
+        "name": "By Ahuramazda's Grace",
+        "kind": "trophy",
+        "chapterId": "chronicles",
+        "where": "Research an Achaemenid Town Center upgrade."
+      },
+      {
+        "id": "achievement-297",
+        "name": "Political Animal",
+        "kind": "trophy",
+        "chapterId": "chronicles",
+        "where": "Change your policy as the Athenians."
+      },
+      {
+        "id": "achievement-298",
+        "name": "Promachos",
+        "kind": "trophy",
+        "chapterId": "chronicles",
+        "where": "Kill 10 enemy units with a Spartan Polemarch."
+      },
+      {
+        "id": "achievement-299",
+        "name": "Achaemenid Victory",
+        "kind": "trophy",
+        "chapterId": "chronicles",
+        "where": "Win a game playing as the Achaemenid in Chronicles: Battle for Greece."
+      },
+      {
+        "id": "achievement-300",
+        "name": "Athenian Victory",
+        "kind": "trophy",
+        "chapterId": "chronicles",
+        "where": "Win a game playing as the Athenians in Chronicles: Battle for Greece."
+      },
+      {
+        "id": "achievement-301",
+        "name": "Spartan Victory",
+        "kind": "trophy",
+        "chapterId": "chronicles",
+        "where": "Win a game playing as the Spartans in Chronicles: Battle for Greece."
+      },
+      {
+        "id": "achievement-302",
+        "name": "But It's Provocative",
+        "kind": "trophy",
+        "chapterId": "historical-battles",
+        "where": "Provoke Fu Jian before he is ready in \"Xie An (383)\""
+      },
+      {
+        "id": "achievement-303",
+        "name": "Wei Victory",
+        "kind": "trophy",
+        "chapterId": "civ-victories",
+        "where": "Win a game playing as the Wei."
+      },
+      {
+        "id": "achievement-304",
+        "name": "Shu Victory",
+        "kind": "trophy",
+        "chapterId": "civ-victories",
+        "where": "Win a game playing as the Shu."
+      },
+      {
+        "id": "achievement-305",
+        "name": "Wu Victory",
+        "kind": "trophy",
+        "chapterId": "civ-victories",
+        "where": "Win a game playing as the Wu."
+      },
+      {
+        "id": "achievement-306",
+        "name": "The Imperial Uncle",
+        "kind": "trophy",
+        "chapterId": "campaigns",
+        "where": "Complete the Liu Bei campaign."
+      },
+      {
+        "id": "achievement-307",
+        "name": "A Hero Comes; He Gains Renown",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "Use one of your heroes' active abilities in Liu Bei 1."
+      },
+      {
+        "id": "achievement-308",
+        "name": "Awaken the Dragon",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "Deploy Zhuge Liang's fire trap in Liu Bei 3."
+      },
+      {
+        "id": "achievement-309",
+        "name": "Man of the People",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "Bring all Civilian Carriages to Sun Quan in Liu Bei 4."
+      },
+      {
+        "id": "achievement-310",
+        "name": "Hero of Chaos",
+        "kind": "trophy",
+        "chapterId": "campaigns",
+        "where": "Complete the Cao Cao campaign."
+      },
+      {
+        "id": "achievement-311",
+        "name": "Horses for Courses",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "Train no military units aside from mounted units in Cao Cao 1."
+      },
+      {
+        "id": "achievement-312",
+        "name": "Like Taking Candy From A Baby",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "Take Ye before defeating any of the brothers in Cao Cao 4."
+      },
+      {
+        "id": "achievement-313",
+        "name": "Do Not Pursue Lü Bu",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "Defeat Lü Bu before 20 minutes have elapsed in Cao Cao 2."
+      },
+      {
+        "id": "achievement-314",
+        "name": "King of the Southlands",
+        "kind": "trophy",
+        "chapterId": "campaigns",
+        "where": "Complete the Sun Clan campaign."
+      },
+      {
+        "id": "achievement-315",
+        "name": "The Tiger of Jiangdong",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "Defeat Dong Zhuo's Raiders in Sun Clan 1."
+      },
+      {
+        "id": "achievement-316",
+        "name": "The Little Conqueror",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "Defeat the White Tiger in Sun Clan 3."
+      },
+      {
+        "id": "achievement-317",
+        "name": "I Am Coming For You, Liu Biao",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "Capture all Castles in Sun Clan 4."
+      },
+      {
+        "id": "achievement-318",
+        "name": "Drive-By Barrage",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-play",
+        "where": "Build 20 War Chariots as the Shu."
+      },
+      {
+        "id": "achievement-319",
+        "name": "Shu'ing Enemies",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-play",
+        "where": "Kill 50 units with White Feather Guards as the Shu."
+      },
+      {
+        "id": "achievement-320",
+        "name": "Time for a Raise",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-play",
+        "where": "Fully promote 10 Tiger Cavalry as the Wei."
+      },
+      {
+        "id": "achievement-321",
+        "name": "Wei March on Our Stomachs",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-play",
+        "where": "Generate 5000 food with Tuntian as the Wei."
+      },
+      {
+        "id": "achievement-322",
+        "name": "Acid Rain",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-play",
+        "where": "Destroy 20 buildings with Fire Archers as the Wu."
+      },
+      {
+        "id": "achievement-323",
+        "name": "Dare to Die",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-play",
+        "where": "Re-equip 20 shields with Jian Swordsmen as the Wu."
+      },
+      {
+        "id": "achievement-324",
+        "name": "Jurchens Victory",
+        "kind": "trophy",
+        "chapterId": "civ-victories",
+        "where": "Win a game playing as the Jurchens."
+      },
+      {
+        "id": "achievement-325",
+        "name": "Khitans Victory",
+        "kind": "trophy",
+        "chapterId": "civ-victories",
+        "where": "Win a game playing as the Khitans."
+      },
+      {
+        "id": "achievement-326",
+        "name": "Fireworks Show",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-play",
+        "where": "Fire 100 projectiles with Rocket Carts."
+      },
+      {
+        "id": "achievement-327",
+        "name": "I'm On Fire... Fireball!",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-play",
+        "where": "Kill 50 units with Fire Lancers' charged attacks."
+      },
+      {
+        "id": "achievement-328",
+        "name": "I Am the Storm",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-play",
+        "where": "Do 10000 damage with Grenadiers and Rocket Carts with Thunderclap Bombs researched as the Jurchens."
+      },
+      {
+        "id": "achievement-329",
+        "name": "Steppe People",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-play",
+        "where": "Build 50 Pastures as the Khitans."
+      },
+      {
+        "id": "achievement-330",
+        "name": "Iron Army",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-play",
+        "where": "Block 100 attacks with Iron Pagodas as the Jurchens."
+      },
+      {
+        "id": "achievement-331",
+        "name": "Medieval Slasher",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-play",
+        "where": "Kill 50 units with Liao Daos as the Khitans."
+      },
+      {
+        "id": "achievement-332",
+        "name": "The Great",
+        "kind": "trophy",
+        "chapterId": "chronicles",
+        "where": "Finish the entire Chronicles: Alexander the Great campaign."
+      },
+      {
+        "id": "achievement-333",
+        "name": "More Danger, More Glory",
+        "kind": "trophy",
+        "chapterId": "chronicles",
+        "where": "Always side with Cleitus in \"Let the Prince Decide\"."
+      },
+      {
+        "id": "achievement-334",
+        "name": "Basileus",
+        "kind": "trophy",
+        "chapterId": "chronicles",
+        "where": "Reach 100 Legitimacy in \"Right to Rule\"."
+      },
+      {
+        "id": "achievement-335",
+        "name": "Blood in the Streets",
+        "kind": "trophy",
+        "chapterId": "chronicles",
+        "where": "In \"Woe unto Thebes\", capture all four Theban landmarks as Alexander in under 25 minutes."
+      },
+      {
+        "id": "achievement-336",
+        "name": "Supply Surplus",
+        "kind": "trophy",
+        "chapterId": "chronicles",
+        "where": "Gather the required resources in under 25 minutes in \"The Cilician Gates\"."
+      },
+      {
+        "id": "achievement-337",
+        "name": "Alexandria Eschate",
+        "kind": "trophy",
+        "chapterId": "chronicles",
+        "where": "Fully upgrade every district in \"The City at the End of the World\"."
+      },
+      {
+        "id": "achievement-338",
+        "name": "Amphibious Assault",
+        "kind": "trophy",
+        "chapterId": "chronicles",
+        "where": "In \"The Battle of the Hydaspes\", hold every landing zone simultaneously."
+      },
+      {
+        "id": "achievement-339",
+        "name": "Chokehold",
+        "kind": "trophy",
+        "chapterId": "chronicles",
+        "where": "Complete \"No Escape\" without allowing more than half of the specified number of Cathaeans to escape."
+      },
+      {
+        "id": "achievement-340",
+        "name": "Indica",
+        "kind": "trophy",
+        "chapterId": "chronicles",
+        "where": "Complete the Indica (discover all events) and gather all treasures in \"A Voyage of Discovery\"."
+      },
+      {
+        "id": "achievement-341",
+        "name": "Sing, Goddess, the Wrath of Alexander",
+        "kind": "trophy",
+        "chapterId": "chronicles",
+        "where": "Defeat all 4 Cossaean Tribes in \"Wrath\"."
+      },
+      {
+        "id": "achievement-342",
+        "name": "Macedonian Victory (Chronicles)",
+        "kind": "trophy",
+        "chapterId": "chronicles",
+        "where": "Win a game playing as the Macedonians in Chronicles: Alexander the Great."
+      },
+      {
+        "id": "achievement-343",
+        "name": "Thracian Victory",
+        "kind": "trophy",
+        "chapterId": "chronicles",
+        "where": "Win a game playing as the Thracians."
+      },
+      {
+        "id": "achievement-344",
+        "name": "Puru Victory",
+        "kind": "trophy",
+        "chapterId": "chronicles",
+        "where": "Win a game playing as the Puru."
+      },
+      {
+        "id": "achievement-345",
+        "name": "Chile Con Carnage",
+        "kind": "trophy",
+        "chapterId": "campaigns",
+        "where": "Complete the Lautaro campaign."
+      },
+      {
+        "id": "achievement-346",
+        "name": "Homeland Insecurity",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "Always have at least three allied villages under your control in \"Gods of Death and Terror\"."
+      },
+      {
+        "id": "achievement-347",
+        "name": "Our Little Ponies",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "Bring all 25 horses to the allied corral in \"The Battle of Tucapel."
+      },
+      {
+        "id": "achievement-348",
+        "name": "Golden Paths",
+        "kind": "trophy",
+        "chapterId": "campaigns",
+        "where": "Complete the El Dorado campaign."
+      },
+      {
+        "id": "achievement-349",
+        "name": "One Does Not Simply Take Iraca",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "Do not allow your enemy to ever win the state of Iraca over to their side in \"Zipa and Zaque.\""
+      },
+      {
+        "id": "achievement-350",
+        "name": "Expedition Impossible",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "Defeat Quesada's and Federmann's expeditions in \"The Golden King\" before the timer runs out."
+      },
+      {
+        "id": "achievement-351",
+        "name": "Warden of the Jungle",
+        "kind": "trophy",
+        "chapterId": "campaigns",
+        "where": "Complete the Arariboia campaign."
+      },
+      {
+        "id": "achievement-352",
+        "name": "Dynamite Deluxe",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "Find and blow up all gunpowder barrels in \"Up in Smoke\"."
+      },
+      {
+        "id": "achievement-353",
+        "name": "Tupi or not Tupi",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "Win the mission \"Exodus\" without losing more than 3 refugee carts."
+      },
+      {
+        "id": "achievement-354",
+        "name": "Mapuche Victory",
+        "kind": "trophy",
+        "chapterId": "civ-victories",
+        "where": "Win a game playing as the Mapuche."
+      },
+      {
+        "id": "achievement-355",
+        "name": "Muisca Victory",
+        "kind": "trophy",
+        "chapterId": "civ-victories",
+        "where": "Win a game playing as the Muisca."
+      },
+      {
+        "id": "achievement-356",
+        "name": "Tupi Victory",
+        "kind": "trophy",
+        "chapterId": "civ-victories",
+        "where": "Win a game playing as the Tupi."
+      },
+      {
+        "id": "achievement-357",
+        "name": "Surveillance Network",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-play",
+        "where": "Construct 10 Outposts with Champi Warriors."
+      },
+      {
+        "id": "achievement-358",
+        "name": "The Hero's Journey",
+        "kind": "trophy",
+        "chapterId": "campaigns",
+        "where": "Complete The Exiled Prince Campaign."
+      },
+      {
+        "id": "achievement-359",
+        "name": "The Stuff of Legend",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "Complete every side quest related to defeating a Sicilian town in \"Death's Handmaid\"."
+      },
+      {
+        "id": "achievement-360",
+        "name": "Gettin' the Gang Back Together",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "Find all Varangian soldiers scattered throughout Constantinople in \"The Warrior Who Fed the Wolves\"."
+      },
+      {
+        "id": "achievement-361",
+        "name": "Horned Helmet Tyrant",
+        "kind": "trophy",
+        "chapterId": "campaigns",
+        "where": "Complete The Hard Ruler Campaign."
+      },
+      {
+        "id": "achievement-362",
+        "name": "Leave Magnus Alone!!",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "Do not allow the enemy to destroy a single allied Dock in \"Through the Slaughter-Reeds\"."
+      },
+      {
+        "id": "achievement-363",
+        "name": "I'm Your God Now",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "Pacify at least 2 jarldoms by placing a Relic in their Monasteries in \"The Wayward Men of Norway\"."
+      },
+      {
+        "id": "achievement-364",
+        "name": "Seven Feet of English Ground",
+        "kind": "trophy",
+        "chapterId": "campaigns",
+        "where": "Complete The Last Viking Campaign."
+      },
+      {
+        "id": "achievement-365",
+        "name": "Get Out Of My Swamp!",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "Do not allow the enemy to ever capture the Monument in Riccall in \"Fulford Gate\"."
+      },
+      {
+        "id": "achievement-366",
+        "name": "Hoardrada",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "Win \"The Battle of Stamford Bridge\" with all legendary items collected."
+      },
+      {
+        "id": "achievement-367",
+        "name": "Saxons Victory",
+        "kind": "trophy",
+        "chapterId": "civ-victories",
+        "where": "Win a game playing as the Saxons."
+      },
+      {
+        "id": "achievement-368",
+        "name": "Varangians Victory",
+        "kind": "trophy",
+        "chapterId": "civ-victories",
+        "where": "Win a game playing as the Varangians."
+      },
+      {
+        "id": "achievement-369",
+        "name": "Danes Victory",
+        "kind": "trophy",
+        "chapterId": "civ-victories",
+        "where": "Win a game playing as the Danes."
+      },
+      {
+        "id": "achievement-370",
+        "name": "Murder for Hire",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-play",
+        "where": "Accumulate 10000 gold using Varangian Guards."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/age-of-empires-2-definitive-edition",
+    "Achievement data from Steam (Steam Web API, app 813780)",
+    "StrategyWiki: no usable walkthrough, nothing used — https://strategywiki.org/wiki/Age_of_Empires_II:_Definitive_Edition",
+    "Fandom (ageofempires.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://ageofempires.fandom.com/wiki/Age_of_Empires_II:_Definitive_Edition"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). Strategy game, so chapters follow the modes the achievements show rather than a story. This is the 2019 remaster, with its own Steam app 813780; the Steam schema calls it \"Phoenix\" (an internal codename). The app list also has \"Age of Empires II (Retired)\" (221380), which was not used. None of the 370 Steam achievements is hidden. StrategyWiki has \"Age of Empires II: Definitive Edition\" at completion stage 0, marked as a stub; only its \"Table of Contents\" subpage is written, and its Walkthrough, Civilizations, Gameplay and New features subpages are not, so nothing was used. The page also links the separate guide for the 1999 original, \"Age of Empires II: The Age of Kings\" (completion stage 3, with written mission pages such as \"The Maid of Orleans\" and \"Pax Mongolia\"); it was not used, because the Definitive Edition has many more campaigns than that guide covers, though it could seed CC BY-SA mission notes for the original five campaigns later. The Chronicles chapter places 39 achievements by exact name: those whose descriptions name \"Chronicles\" or \"the Battle for Greece campaign\", plus the mission feats and the Thracian and Puru victories that sit with them in the Steam list (positions 276 to 301 and 332 to 344); the position-based ones are guesses. Campaigns that the data does not tie to a named add-on (for example Sargon, Pyrrhus, Trajan and the Ascent of Egypt) sit in the main campaign chapter. ageofempires.fandom.com answers the API under \"Age of Empires II: Definitive Edition\" with about 236 linked articles; names only were looked at, nothing copied. Most campaign feats unlock for under 2% of Steam players."
+}

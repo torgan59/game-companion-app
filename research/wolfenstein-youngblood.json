@@ -1,0 +1,581 @@
+{
+  "id": "wolfenstein-youngblood",
+  "title": "Wolfenstein: Youngblood",
+  "year": 2019,
+  "platforms": [
+    "Xbox One",
+    "PC",
+    "PlayStation 4",
+    "Nintendo Switch"
+  ],
+  "rawgId": 58782,
+  "rawgSlug": "wolfenstein-youngblood",
+  "released": "2019-07-26",
+  "developers": [
+    "Bethesda Softworks",
+    "Arkane Studios",
+    "Machine Games"
+  ],
+  "playtime": 6,
+  "genres": [
+    "Action",
+    "Shooter"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Multiplayer",
+    "Co-op",
+    "cooperative",
+    "First-Person",
+    "FPS",
+    "Online Co-Op",
+    "Gore",
+    "Female Protagonist",
+    "Violent",
+    "Online multiplayer",
+    "Alternate History"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/c64/c64d2f63cabeab9126693b7d39539c8d.jpg",
+  "steamAppId": 1056960,
+  "achievements": {
+    "total": 60,
+    "hidden": 7,
+    "examples": [
+      {
+        "name": "Prepper",
+        "percent": 59.3
+      },
+      {
+        "name": "A better you",
+        "percent": 56.4
+      },
+      {
+        "name": "Kitted out",
+        "percent": 50.6
+      },
+      {
+        "name": "Immovable object",
+        "percent": 2.7
+      },
+      {
+        "name": "Electric feel",
+        "percent": 2.6
+      },
+      {
+        "name": "Demolition woman",
+        "percent": 2.6
+      },
+      {
+        "name": "Gear head",
+        "percent": 2.5
+      },
+      {
+        "name": "One woman army",
+        "percent": 2.2
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": false,
+      "pages": 0,
+      "reason": "No page for Wolfenstein: Youngblood (MediaWiki API returned missing; see notes for other titles tried)"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 168,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://wolfenstein.fandom.com/wiki/Wolfenstein:_Youngblood"
+    }
+  },
+  "game": {
+    "id": "wolfenstein-youngblood",
+    "title": "Wolfenstein: Youngblood",
+    "platforms": [
+      "Xbox One",
+      "PC",
+      "PlayStation 4",
+      "Nintendo Switch"
+    ],
+    "blurb": "Co-op first-person shooter from Bethesda Softworks, Arkane Studios and Machine Games (as RAWG lists them), released 2019-07-26. RAWG average playtime: 6 hours. Genres: Action, Shooter. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#A3262A",
+    "chapters": [
+      {
+        "id": "main-story",
+        "title": "The Main Story",
+        "summary": "Finishing every mission, plus the hidden story milestones. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "brothers",
+        "title": "The Three Brothers",
+        "summary": "Defeating the Übergarde in Brother 1, Brother 2 and Brother 3.",
+        "steps": []
+      },
+      {
+        "id": "co-op",
+        "title": "Playing Together",
+        "summary": "Missions with a co-op partner, revives and pep signals.",
+        "steps": []
+      },
+      {
+        "id": "collectibles",
+        "title": "Collectibles, Crates and Undergrounds",
+        "summary": "Supply crates, red crates, the Dunwall souvenir, cassette tapes, readables, floppy disks, 3D glasses, UVK covers, coins, code locks and the Undergrounds.",
+        "steps": []
+      },
+      {
+        "id": "upgrades",
+        "title": "Abilities, Upgrades and Armour Skins",
+        "summary": "Weapon upgrades, a fully upgraded weapon brand, abilities and power armour skins.",
+        "steps": []
+      },
+      {
+        "id": "weapon-mastery",
+        "title": "Weapon Mastery",
+        "summary": "Mastery level 10 with each weapon, and with all of them.",
+        "steps": []
+      },
+      {
+        "id": "combat",
+        "title": "Combat Feats",
+        "summary": "Kill counts with stealth, explosives, thrown weapons, take-downs, dual-wielding, the Crush ability and against Supersoldaten and drones.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Teamwork",
+        "kind": "trophy",
+        "chapterId": "co-op",
+        "where": "Complete a mission with co-op player."
+      },
+      {
+        "id": "achievement-2",
+        "name": "Resistor",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Kill 500 enemies."
+      },
+      {
+        "id": "achievement-3",
+        "name": "Swatter",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Kill 20 drones."
+      },
+      {
+        "id": "achievement-4",
+        "name": "Immovable object",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Kill 10 charging Supersoldaten."
+      },
+      {
+        "id": "achievement-5",
+        "name": "Bomber",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Kill 50 enemies using explosives."
+      },
+      {
+        "id": "achievement-6",
+        "name": "Supreme ninja",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Kill 50 enemies using thrown weapons."
+      },
+      {
+        "id": "achievement-7",
+        "name": "Stealthy",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Stealthily kill 50 enemies."
+      },
+      {
+        "id": "achievement-8",
+        "name": "Ripper",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Kill 75 enemies using take-downs."
+      },
+      {
+        "id": "achievement-9",
+        "name": "Trigger happy",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Fire 100,000 shots."
+      },
+      {
+        "id": "achievement-10",
+        "name": "Prepper",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Pick up 250 loot supplies."
+      },
+      {
+        "id": "achievement-11",
+        "name": "A red mist",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Gore 150 enemies."
+      },
+      {
+        "id": "achievement-12",
+        "name": "Rasputin",
+        "kind": "trophy",
+        "chapterId": "co-op",
+        "where": "Revive or get revived 25 times."
+      },
+      {
+        "id": "achievement-13",
+        "name": "Intruder",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Get through 10 code locks."
+      },
+      {
+        "id": "achievement-14",
+        "name": "Partisan",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Complete all missions."
+      },
+      {
+        "id": "achievement-15",
+        "name": "Airborne",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Kill 50 enemies while airborne."
+      },
+      {
+        "id": "achievement-16",
+        "name": "Sting like a bee",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Stealth Kill 10 Supersoldaten."
+      },
+      {
+        "id": "achievement-17",
+        "name": "Hard boiled",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Kill 100 enemies while dual-wielding."
+      },
+      {
+        "id": "achievement-18",
+        "name": "Right tool for the job",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Kill 75 enemies using the weapon type that's most effective against their shield type."
+      },
+      {
+        "id": "achievement-19",
+        "name": "Heavy artillery",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Tuck a Hammer weapon away for later."
+      },
+      {
+        "id": "achievement-20",
+        "name": "American Football",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Kill 50 enemies with your Crush ability."
+      },
+      {
+        "id": "achievement-21",
+        "name": "Predator",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Kill an enemy within 3 seconds of uncloaking 50 times"
+      },
+      {
+        "id": "achievement-22",
+        "name": "Supportive",
+        "kind": "trophy",
+        "chapterId": "co-op",
+        "where": "Perform 100 pep signals."
+      },
+      {
+        "id": "achievement-23",
+        "name": "Tacticool",
+        "kind": "trophy",
+        "chapterId": "upgrades",
+        "where": "Fully upgrade a weapon brand."
+      },
+      {
+        "id": "achievement-24",
+        "name": "Kitted out",
+        "kind": "trophy",
+        "chapterId": "upgrades",
+        "where": "Obtain 10 weapon upgrades."
+      },
+      {
+        "id": "achievement-25",
+        "name": "Gear head",
+        "kind": "trophy",
+        "chapterId": "upgrades",
+        "where": "Obtain all improved weapon upgrades."
+      },
+      {
+        "id": "achievement-26",
+        "name": "A better you",
+        "kind": "trophy",
+        "chapterId": "upgrades",
+        "where": "Obtain 5 abilities."
+      },
+      {
+        "id": "achievement-27",
+        "name": "Extra everything",
+        "kind": "trophy",
+        "chapterId": "upgrades",
+        "where": "Obtain 15 abilities."
+      },
+      {
+        "id": "achievement-28",
+        "name": "More human than human",
+        "kind": "trophy",
+        "chapterId": "upgrades",
+        "where": "Obtain all abilities."
+      },
+      {
+        "id": "achievement-29",
+        "name": "See my vest",
+        "kind": "trophy",
+        "chapterId": "upgrades",
+        "where": "Obtain 5 power armor skins."
+      },
+      {
+        "id": "achievement-30",
+        "name": "Brother 1",
+        "kind": "trophy",
+        "chapterId": "brothers",
+        "where": "Defeat the Übergarde in Brother 1."
+      },
+      {
+        "id": "achievement-31",
+        "name": "Brother 2",
+        "kind": "trophy",
+        "chapterId": "brothers",
+        "where": "Defeat the Übergarde in Brother 2."
+      },
+      {
+        "id": "achievement-32",
+        "name": "Brother 3",
+        "kind": "trophy",
+        "chapterId": "brothers",
+        "where": "Defeat the Übergarde in Brother 3."
+      },
+      {
+        "id": "achievement-33",
+        "name": "God Key",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-34",
+        "name": "Plain sight",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-35",
+        "name": "World's best Dad",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-36",
+        "name": "Among friends",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-37",
+        "name": "Airship down",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-38",
+        "name": "Explorer",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Open 200 supply crates."
+      },
+      {
+        "id": "achievement-39",
+        "name": "Expert explorer",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Open all red supply crates."
+      },
+      {
+        "id": "achievement-40",
+        "name": "Tribute",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Obtain the souvenir from Dunwall."
+      },
+      {
+        "id": "achievement-41",
+        "name": "Audiophile",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Find all Cassette Tapes."
+      },
+      {
+        "id": "achievement-42",
+        "name": "Librarian",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Find all Readables."
+      },
+      {
+        "id": "achievement-43",
+        "name": "Hacker",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Find all Floppy Disks."
+      },
+      {
+        "id": "achievement-44",
+        "name": "3-D",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Find all 3D glasses."
+      },
+      {
+        "id": "achievement-45",
+        "name": "Banker",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Find 60,000 coins."
+      },
+      {
+        "id": "achievement-46",
+        "name": "Dark Days",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Enter all Undergrounds."
+      },
+      {
+        "id": "achievement-47",
+        "name": "Cinephile",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Find all UVK Covers."
+      },
+      {
+        "id": "achievement-48",
+        "name": "One woman army",
+        "kind": "trophy",
+        "chapterId": "weapon-mastery",
+        "where": "Achieve mastery level 10 with all weapons."
+      },
+      {
+        "id": "achievement-49",
+        "name": "Gunslinger",
+        "kind": "trophy",
+        "chapterId": "weapon-mastery",
+        "where": "Achieve mastery level 10 with the Pistole."
+      },
+      {
+        "id": "achievement-50",
+        "name": "Chopper",
+        "kind": "trophy",
+        "chapterId": "weapon-mastery",
+        "where": "Achieve mastery level 10 with the Sturmgewehr."
+      },
+      {
+        "id": "achievement-51",
+        "name": "A cloud of lead",
+        "kind": "trophy",
+        "chapterId": "weapon-mastery",
+        "where": "Achieve mastery level 10 with the Kugelgewehr."
+      },
+      {
+        "id": "achievement-52",
+        "name": "Electric feel",
+        "kind": "trophy",
+        "chapterId": "weapon-mastery",
+        "where": "Achieve mastery level 10 with the Elektrokraftwerk."
+      },
+      {
+        "id": "achievement-53",
+        "name": "Dust to dust",
+        "kind": "trophy",
+        "chapterId": "weapon-mastery",
+        "where": "Achieve mastery level 10 with the Laserkraftwerk."
+      },
+      {
+        "id": "achievement-54",
+        "name": "Demolition woman",
+        "kind": "trophy",
+        "chapterId": "weapon-mastery",
+        "where": "Achieve mastery level 10 with the Dieselkraftwerk."
+      },
+      {
+        "id": "achievement-55",
+        "name": "Hammer time",
+        "kind": "trophy",
+        "chapterId": "weapon-mastery",
+        "where": "Achieve mastery level 10 with a Hammer weapon."
+      },
+      {
+        "id": "achievement-56",
+        "name": "Spray and pray",
+        "kind": "trophy",
+        "chapterId": "weapon-mastery",
+        "where": "Achieve mastery level 10 with the Blitzgewehr."
+      },
+      {
+        "id": "achievement-57",
+        "name": "Get the strap",
+        "kind": "trophy",
+        "chapterId": "weapon-mastery",
+        "where": "Achieve mastery level 10 with the Maschinenpistole."
+      },
+      {
+        "id": "achievement-58",
+        "name": "Chop and slice",
+        "kind": "trophy",
+        "chapterId": "weapon-mastery",
+        "where": "Achieve mastery level 10 with a melee weapon."
+      },
+      {
+        "id": "achievement-59",
+        "name": "God mode",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-60",
+        "name": "Vive la révolution!",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/wolfenstein-youngblood",
+    "Achievement data from Steam (Steam Web API, app 1056960)",
+    "StrategyWiki: no page for this game, nothing used",
+    "Fandom (wolfenstein.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://wolfenstein.fandom.com/wiki/Wolfenstein:_Youngblood"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). StrategyWiki has no page under \"Wolfenstein: Youngblood\" or \"Wolfenstein Youngblood\". wolfenstein.fandom.com answers the API under \"Wolfenstein: Youngblood\" with about 168 linked articles; names only were looked at, nothing copied. Steam app 1056960 was used; the app list also has \"Wolfenstein: Youngblood Deutsche Version\" (1057810), which was not used. 7 of 60 Steam achievements are hidden and sit in the story chapter; \"God mode\" (3.3%) and \"Vive la révolution!\" (24.9%) may be harder unlocks rather than plain story. \"Partisan\" (Complete all missions, 6.4%) was put with the story."
+}
