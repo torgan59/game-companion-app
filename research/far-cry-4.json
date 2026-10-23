@@ -1,0 +1,568 @@
+{
+  "id": "far-cry-4",
+  "title": "Far Cry 4",
+  "year": 2014,
+  "platforms": [
+    "PlayStation 4",
+    "PlayStation 3",
+    "PC",
+    "Xbox One",
+    "Xbox 360"
+  ],
+  "rawgId": 3497,
+  "rawgSlug": "far-cry-4",
+  "released": "2014-11-18",
+  "developers": [
+    "Ubisoft",
+    "Ubisoft Montreal"
+  ],
+  "playtime": 17,
+  "genres": [
+    "Shooter"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Multiplayer",
+    "Atmospheric",
+    "RPG",
+    "Co-op",
+    "Story Rich",
+    "Open World",
+    "cooperative",
+    "First-Person",
+    "Partial Controller Support",
+    "FPS",
+    "Online Co-Op"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/b39/b396dac1f3e0f538841aa0355dd066d3.jpg",
+  "steamAppId": 298110,
+  "achievements": {
+    "total": 57,
+    "hidden": 0,
+    "examples": [
+      {
+        "name": "Welcome to Kyrat",
+        "percent": 24.5
+      },
+      {
+        "name": "Tread Lightly",
+        "percent": 21.4
+      },
+      {
+        "name": "Tricked Out",
+        "percent": 20.8
+      },
+      {
+        "name": "Master of the Awakened",
+        "percent": 1.4
+      },
+      {
+        "name": "Tusker",
+        "percent": 1.3
+      },
+      {
+        "name": "Master Builder",
+        "percent": 1.2
+      },
+      {
+        "name": "Changing Lanes",
+        "percent": 0.5
+      },
+      {
+        "name": "Renaissance Man",
+        "percent": 0.5
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Far_Cry_4",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 216,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://farcry.fandom.com/wiki/Far_Cry_4"
+    }
+  },
+  "game": {
+    "id": "far-cry-4",
+    "title": "Far Cry 4",
+    "platforms": [
+      "PlayStation 4",
+      "PlayStation 3",
+      "PC",
+      "Xbox One",
+      "Xbox 360"
+    ],
+    "blurb": "Open-world first-person shooter set in Kyrat, from Ubisoft Montreal, published by Ubisoft Entertainment, released 2014-11-18. RAWG average playtime: 17 hours. Genre: Shooter. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#B5532A",
+    "chapters": [
+      {
+        "id": "main-story",
+        "title": "The Main Story",
+        "summary": "Joining the Golden Path, discovering Shangri-La and deciding the fates of the four named rulers.",
+        "steps": []
+      },
+      {
+        "id": "liberation",
+        "title": "Outposts, Bell Towers and Fortresses",
+        "summary": "Liberating outposts and bell towers, conquering fortresses, and stopping convoys, cargo trucks and retaliation parties.",
+        "steps": []
+      },
+      {
+        "id": "quests-and-activities",
+        "title": "Quests and Activities",
+        "summary": "Hunting, Assassination, Hostage Rescue, Bomb Defusal, Kyrati Films and Kyrat Fashion Week quests, the Arena and Guns For Hire.",
+        "steps": []
+      },
+      {
+        "id": "collectibles",
+        "title": "Collectibles and the Homestead",
+        "summary": "Masks of Yalung, propaganda posters, lost letters, Mani wheels, notes and the Ghale Homestead.",
+        "steps": []
+      },
+      {
+        "id": "skills-and-crafting",
+        "title": "Skills, Crafting and Shopping",
+        "summary": "Learning skills, crafting upgrades and syringes, and spending rupees on weapons.",
+        "steps": []
+      },
+      {
+        "id": "combat-and-travel",
+        "title": "Combat and Getting Around",
+        "summary": "Kills with elephants, fire, mortars, arrows and explosives, takedowns, the camera, driving and the wingsuit.",
+        "steps": []
+      },
+      {
+        "id": "co-op-and-online",
+        "title": "Co-op and Online",
+        "summary": "Campaign co-op, Battles of Kyrat matches and the Map Browser.",
+        "steps": []
+      },
+      {
+        "id": "valley-of-the-yetis",
+        "title": "Valley of the Yetis",
+        "summary": "The Relay Station, its upgrade quests, the yetis and finishing the Valley of the Yetis campaign.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Welcome to Kyrat",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Join the Golden Path (Campaign only)."
+      },
+      {
+        "id": "achievement-2",
+        "name": "One Down",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Decide De Pleur's fate (Campaign only)."
+      },
+      {
+        "id": "achievement-3",
+        "name": "Overdose",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Discover Shangri-La (Campaign only)."
+      },
+      {
+        "id": "achievement-4",
+        "name": "Two Down",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Decide Noore's fate (Campaign only)."
+      },
+      {
+        "id": "achievement-5",
+        "name": "Hat-Trick",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Decide Yuma's fate (Campaign only)."
+      },
+      {
+        "id": "achievement-6",
+        "name": "The King Is Dead",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Decide Pagan Min's fate (Campaign only)."
+      },
+      {
+        "id": "achievement-7",
+        "name": "Deliver Us From Evil",
+        "kind": "trophy",
+        "chapterId": "liberation",
+        "where": "Liberate 12 Outposts (Campaign only)."
+      },
+      {
+        "id": "achievement-8",
+        "name": "All Clear",
+        "kind": "trophy",
+        "chapterId": "liberation",
+        "where": "Liberate all Outposts (Campaign only)."
+      },
+      {
+        "id": "achievement-9",
+        "name": "Tread Lightly",
+        "kind": "trophy",
+        "chapterId": "liberation",
+        "where": "Liberate any Outpost without triggering an alarm in any mode (Campaign only)."
+      },
+      {
+        "id": "achievement-10",
+        "name": "End Transmission",
+        "kind": "trophy",
+        "chapterId": "liberation",
+        "where": "Liberate 8 Bell Towers (Campaign only)."
+      },
+      {
+        "id": "achievement-11",
+        "name": "Display Of Fortitude",
+        "kind": "trophy",
+        "chapterId": "liberation",
+        "where": "Conquer 2 Fortresses (Campaign only)."
+      },
+      {
+        "id": "achievement-12",
+        "name": "Well-Rounded",
+        "kind": "trophy",
+        "chapterId": "quests-and-activities",
+        "where": "Complete any 6 Hunting quests (Supplies, Control, Survival) (Campaign only)."
+      },
+      {
+        "id": "achievement-13",
+        "name": "Trigger-Man",
+        "kind": "trophy",
+        "chapterId": "quests-and-activities",
+        "where": "Complete 3 Assassination or Eye for an Eye quests (Campaign only)."
+      },
+      {
+        "id": "achievement-14",
+        "name": "No One Left Behind",
+        "kind": "trophy",
+        "chapterId": "quests-and-activities",
+        "where": "Rescue 15 hostages in Hostage Rescue quests (Campaign only)."
+      },
+      {
+        "id": "achievement-15",
+        "name": "Gearhead",
+        "kind": "trophy",
+        "chapterId": "quests-and-activities",
+        "where": "Complete 3 Kyrati Films: Racing or Kyrati Films: Survival activities (Campaign only)."
+      },
+      {
+        "id": "achievement-16",
+        "name": "Defender",
+        "kind": "trophy",
+        "chapterId": "liberation",
+        "where": "Repel 3 Outpost Retaliation Parties (Campaign only)."
+      },
+      {
+        "id": "achievement-17",
+        "name": "Robin Hood",
+        "kind": "trophy",
+        "chapterId": "liberation",
+        "where": "Hijack 3 Royal Cargo Trucks and return them to a liberated Outpost (Campaign only)."
+      },
+      {
+        "id": "achievement-18",
+        "name": "Hand Of Justice",
+        "kind": "trophy",
+        "chapterId": "liberation",
+        "where": "Eliminate 3 Pagan's Wrath convoys (Campaign only)."
+      },
+      {
+        "id": "achievement-19",
+        "name": "Brother In Arms",
+        "kind": "trophy",
+        "chapterId": "co-op-and-online",
+        "where": "Liberate 1 Outpost playing as Hurk (Campaign Co-op only)."
+      },
+      {
+        "id": "achievement-20",
+        "name": "Defuser",
+        "kind": "trophy",
+        "chapterId": "quests-and-activities",
+        "where": "Complete 3 Bomb Defusal quests (Campaign only)."
+      },
+      {
+        "id": "achievement-21",
+        "name": "Changing Lanes",
+        "kind": "trophy",
+        "chapterId": "co-op-and-online",
+        "where": "Perform a Vehicle Takedown from the passenger seat of a vehicle (Campaign Co-op only)."
+      },
+      {
+        "id": "achievement-22",
+        "name": "Fixer-Upper",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Purchase 3 items for the Ghale Homestead (Campaign only)."
+      },
+      {
+        "id": "achievement-23",
+        "name": "Exorcist",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Destroy 15 Masks of Yalung (Campaign only)."
+      },
+      {
+        "id": "achievement-24",
+        "name": "Rewriting History",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Remove 30 Propaganda Posters (Campaign only)."
+      },
+      {
+        "id": "achievement-25",
+        "name": "Caretaker Of Memory",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Find 10 Lost Letters (Campaign only)."
+      },
+      {
+        "id": "achievement-26",
+        "name": "Right Tributes",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Spin 10 Mani Wheels (Campaign only)."
+      },
+      {
+        "id": "achievement-27",
+        "name": "The Rarest Game",
+        "kind": "trophy",
+        "chapterId": "quests-and-activities",
+        "where": "Complete 3 Kyrat Fashion Week quests (Campaign only)."
+      },
+      {
+        "id": "achievement-28",
+        "name": "Well Read",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Read 10 notes (Campaign only)."
+      },
+      {
+        "id": "achievement-29",
+        "name": "Quick Learner",
+        "kind": "trophy",
+        "chapterId": "skills-and-crafting",
+        "where": "Learn 10 skills (Campaign only)."
+      },
+      {
+        "id": "achievement-30",
+        "name": "Fully Loaded",
+        "kind": "trophy",
+        "chapterId": "skills-and-crafting",
+        "where": "Learn all skills (Campaign only)."
+      },
+      {
+        "id": "achievement-31",
+        "name": "Tricked Out",
+        "kind": "trophy",
+        "chapterId": "skills-and-crafting",
+        "where": "Craft 5 upgrades for your equipment (Campaign only)."
+      },
+      {
+        "id": "achievement-32",
+        "name": "Dr. Feelgood",
+        "kind": "trophy",
+        "chapterId": "skills-and-crafting",
+        "where": "Craft 15 syringes (Campaign only)."
+      },
+      {
+        "id": "achievement-33",
+        "name": "Make It Rain",
+        "kind": "trophy",
+        "chapterId": "skills-and-crafting",
+        "where": "Spend 500,000 rupees total at Trading Posts (Campaign only)."
+      },
+      {
+        "id": "achievement-34",
+        "name": "Custom-Fitted",
+        "kind": "trophy",
+        "chapterId": "skills-and-crafting",
+        "where": "Buy all attachments and paint schemes for a single weapon (Campaign only)."
+      },
+      {
+        "id": "achievement-35",
+        "name": "Tusker",
+        "kind": "trophy",
+        "chapterId": "combat-and-travel",
+        "where": "Kill 30 enemies with an elephant (Campaign only)."
+      },
+      {
+        "id": "achievement-36",
+        "name": "Quad Kill",
+        "kind": "trophy",
+        "chapterId": "combat-and-travel",
+        "where": "Kill 4 enemies simultaneously with a single explosion (Campaign only)."
+      },
+      {
+        "id": "achievement-37",
+        "name": "Misdirection",
+        "kind": "trophy",
+        "chapterId": "combat-and-travel",
+        "where": "Distract 15 enemies with rocks (Campaign only)."
+      },
+      {
+        "id": "achievement-38",
+        "name": "Shutterbug",
+        "kind": "trophy",
+        "chapterId": "combat-and-travel",
+        "where": "Tag 25 enemies using the camera (Campaign only)."
+      },
+      {
+        "id": "achievement-39",
+        "name": "Reign Of Death",
+        "kind": "trophy",
+        "chapterId": "combat-and-travel",
+        "where": "Kill 30 enemies with Mortar rounds (Campaign only)."
+      },
+      {
+        "id": "achievement-40",
+        "name": "From A Distance",
+        "kind": "trophy",
+        "chapterId": "combat-and-travel",
+        "where": "Kill a target from 60m or more with an arrow or bolt (Campaign only)."
+      },
+      {
+        "id": "achievement-41",
+        "name": "Two Birds",
+        "kind": "trophy",
+        "chapterId": "combat-and-travel",
+        "where": "Using a sniper rifle, kill 2 targets with a single shot (Campaign only)."
+      },
+      {
+        "id": "achievement-42",
+        "name": "The Sky Is Falling",
+        "kind": "trophy",
+        "chapterId": "combat-and-travel",
+        "where": "Perform a takedown from a Buzzer (Campaign only)."
+      },
+      {
+        "id": "achievement-43",
+        "name": "Flame On!",
+        "kind": "trophy",
+        "chapterId": "combat-and-travel",
+        "where": "Kill 50 enemies with fire (Campaign only)."
+      },
+      {
+        "id": "achievement-44",
+        "name": "Drive-By",
+        "kind": "trophy",
+        "chapterId": "combat-and-travel",
+        "where": "Kill 25 enemies while shooting and driving (Campaign only)."
+      },
+      {
+        "id": "achievement-45",
+        "name": "The Good Fight",
+        "kind": "trophy",
+        "chapterId": "quests-and-activities",
+        "where": "Reach Karma Level 2, and purchase any Guns For Hire upgrade (Campaign only)."
+      },
+      {
+        "id": "achievement-46",
+        "name": "Like A Bird",
+        "kind": "trophy",
+        "chapterId": "combat-and-travel",
+        "where": "Fly 5000m total in the Wingsuit (Campaign only)."
+      },
+      {
+        "id": "achievement-47",
+        "name": "Roadkill",
+        "kind": "trophy",
+        "chapterId": "combat-and-travel",
+        "where": "Run over 25 people (Campaign only)."
+      },
+      {
+        "id": "achievement-48",
+        "name": "The People's Champ",
+        "kind": "trophy",
+        "chapterId": "quests-and-activities",
+        "where": "Reach Arena Rank 5 (Campaign Arena only)."
+      },
+      {
+        "id": "achievement-49",
+        "name": "Renaissance Man",
+        "kind": "trophy",
+        "chapterId": "co-op-and-online",
+        "where": "Finish a public match of each game type in the Battles of Kyrat game mode (Battles of Kyrat only)."
+      },
+      {
+        "id": "achievement-50",
+        "name": "Community Surprise",
+        "kind": "trophy",
+        "chapterId": "co-op-and-online",
+        "where": "Play a Top Rated map in the Map Browser (Map Browser only)."
+      },
+      {
+        "id": "achievement-51",
+        "name": "Home Sweet Home",
+        "kind": "trophy",
+        "chapterId": "valley-of-the-yetis",
+        "where": "Occupy The Relay Station (Valley Of The Yetis)."
+      },
+      {
+        "id": "achievement-52",
+        "name": "Night Survivor",
+        "kind": "trophy",
+        "chapterId": "valley-of-the-yetis",
+        "where": "Defend The Relay Station And Survive The First Night (Valley Of The Yetis)."
+      },
+      {
+        "id": "achievement-53",
+        "name": "Builder",
+        "kind": "trophy",
+        "chapterId": "valley-of-the-yetis",
+        "where": "Complete One Relay Station Upgrade Quest (Valley Of The Yetis, Single Player Only)."
+      },
+      {
+        "id": "achievement-54",
+        "name": "Master Builder",
+        "kind": "trophy",
+        "chapterId": "valley-of-the-yetis",
+        "where": "Complete All Relay Station Upgrade Quests (Valley Of The Yetis, Single Player Only)."
+      },
+      {
+        "id": "achievement-55",
+        "name": "Awakened!",
+        "kind": "trophy",
+        "chapterId": "valley-of-the-yetis",
+        "where": "Complete The Valley Of The Yetis Campaign (Valley Of The Yetis)."
+      },
+      {
+        "id": "achievement-56",
+        "name": "Spiritual Hunter",
+        "kind": "trophy",
+        "chapterId": "valley-of-the-yetis",
+        "where": "Kill A Yeti (Valley Of The Yetis, Single Player Only)."
+      },
+      {
+        "id": "achievement-57",
+        "name": "Master of the Awakened",
+        "kind": "trophy",
+        "chapterId": "valley-of-the-yetis",
+        "where": "Kill 5 Yetis (Valley Of The Yetis, Single Player Only)."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/far-cry-4",
+    "Achievement data from Steam (Steam Web API, app 298110)",
+    "StrategyWiki: no usable walkthrough, nothing used — https://strategywiki.org/wiki/Far_Cry_4",
+    "Fandom (farcry.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://farcry.fandom.com/wiki/Far_Cry_4"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). RAWG's first result is the expected entry (id 3497). Steam app 298110 (\"Far Cry® 4\") was used. StrategyWiki has no page under \"Far Cry 4\" or \"Far Cry IV\". farcry.fandom.com answers the API under \"Far Cry 4\" with about 216 linked articles; names only were looked at, nothing copied. None of the 57 Steam achievements is hidden; the schema skips numbers 4, 6 and 53. Seven achievements say \"Valley Of The Yetis\", which matches the RAWG add-on \"Far Cry 4: Valley of the Yetis\", so they get their own chapter; RAWG also lists \"Escape from Durgesh Prison\" and \"Hurk Deluxe\", but no achievement names them (\"Brother In Arms\" names Hurk in campaign co-op and sits in co-op). \"The People's Champ\" (Arena Rank 5) sits with the quests. The story achievements do not say in which order the fates are decided, so the story is one chapter."
+}

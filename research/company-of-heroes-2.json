@@ -1,0 +1,3327 @@
+{
+  "id": "company-of-heroes-2",
+  "title": "Company of Heroes 2",
+  "year": 2013,
+  "platforms": [
+    "Linux",
+    "macOS",
+    "PC"
+  ],
+  "rawgId": 10243,
+  "rawgSlug": "company-of-heroes-2",
+  "released": "2013-06-25",
+  "developers": [
+    "Feral Interactive",
+    "Relic Entertainment"
+  ],
+  "playtime": 4,
+  "genres": [
+    "Strategy"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Multiplayer",
+    "Steam Cloud",
+    "Atmospheric",
+    "steam-trading-cards",
+    "Great Soundtrack",
+    "Co-op",
+    "cooperative",
+    "Online Co-Op",
+    "Tactical",
+    "stats"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/0bd/0bd5646a3d8ee0ac3314bced91ea306d.jpg",
+  "steamAppId": 231430,
+  "achievements": {
+    "total": 452,
+    "hidden": 3,
+    "examples": [
+      {
+        "name": "M.01 - German Engineering",
+        "percent": 42.2
+      },
+      {
+        "name": "Campaign Conscript",
+        "percent": 40.7
+      },
+      {
+        "name": "Stalingrad Rail Station - Conscript",
+        "percent": 40.6
+      },
+      {
+        "name": "Theater of War Scenario General",
+        "percent": 1.3
+      },
+      {
+        "name": "Theater of War Battle General",
+        "percent": 1.3
+      },
+      {
+        "name": "BLITZKRIEG",
+        "percent": 1.3
+      },
+      {
+        "name": "They're Coming Out of the Woodwork!",
+        "percent": 1.3
+      },
+      {
+        "name": "Spring Rasputitsa - Bombers on Approach",
+        "percent": 1.3
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": false,
+      "pages": 0,
+      "reason": "No page for Company of Heroes 2 (MediaWiki API returned missing; see notes for other titles tried)"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 13,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://companyofheroes.fandom.com/wiki/Company_of_Heroes_2"
+    }
+  },
+  "game": {
+    "id": "company-of-heroes-2",
+    "title": "Company of Heroes 2",
+    "platforms": [
+      "Linux",
+      "macOS",
+      "PC"
+    ],
+    "blurb": "World War II real-time strategy game on the Eastern Front, from Relic Entertainment (RAWG also lists Feral Interactive), published by SEGA, released 2013-06-25. RAWG average playtime: 4 hours. Genre: Strategy. Chapters follow the campaign, the Theater of War sets, the play modes and the intelligence bulletins named in the Steam achievements.",
+    "accent": "#6B6B3A",
+    "chapters": [
+      {
+        "id": "campaign-1-7",
+        "title": "Campaign: Stalingrad Rail Station to Land Bridge to Leningrad",
+        "summary": "Campaign Missions 01 to 07 on Conscript, Captain and General, with each mission's bonus objectives.",
+        "steps": []
+      },
+      {
+        "id": "campaign-8-14",
+        "title": "Campaign: Tiger Hunting to The Reichstag",
+        "summary": "Campaign Missions 08 to 14 on each difficulty with their bonus objectives, plus finishing the whole campaign and campaign play counts. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "theater-1941",
+        "title": "Theater of War: 1941",
+        "summary": "The 1941 challenges, co-op scenarios and battles, such as Blitzkrieg, Cold Weather, Brody Tank War, Moscow Lines and Battle of Minsk, with their bonus objectives.",
+        "steps": []
+      },
+      {
+        "id": "theater-case-blue-stalingrad",
+        "title": "Theater of War: Case Blue and Victory at Stalingrad",
+        "summary": "Battles, challenges and scenarios such as Retreat at the Don, Tiger Ace, Assault on Voronezh, Stalingrad Encirclement, Tatsinskaya Raid and Kalach Pincer.",
+        "steps": []
+      },
+      {
+        "id": "theater-southern-fronts",
+        "title": "Theater of War: Southern Fronts",
+        "summary": "Battles and challenges such as Breaking Lines, General Mud, Kharkov Divide, Heavy Rain, Occupation and Spring Rasputitsa.",
+        "steps": []
+      },
+      {
+        "id": "skirmish-and-online",
+        "title": "Ranks, Skirmish and Automatch",
+        "summary": "Ranks from Senior Private to Major General, games against the AI, automatch, Victory Point and Annihilate games, faction medallions, resource spending and play counts.",
+        "steps": []
+      },
+      {
+        "id": "bulletins-armour",
+        "title": "Intelligence Bulletins: Tanks and Vehicles",
+        "summary": "Kill, build and veterancy goals for tanks, assault guns, rocket artillery, halftracks and scout cars, Soviet and German.",
+        "steps": []
+      },
+      {
+        "id": "bulletins-infantry-support",
+        "title": "Intelligence Bulletins: Infantry and Support Weapons",
+        "summary": "Goals for infantry squads, snipers, machine guns, mortars, anti-tank guns, howitzers, bunkers and mines, and finishing each bulletin set.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Attrition over Annihilation",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-online",
+        "where": "Play 250 Victory Point games"
+      },
+      {
+        "id": "achievement-2",
+        "name": "Soviet Vehicle Specialist",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-online",
+        "where": "End 15 games with the majority of your kills from vehicles (Soviet)"
+      },
+      {
+        "id": "achievement-3",
+        "name": "Panzer Krieg",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-online",
+        "where": "End 15 games with the majority of your kills from vehicles (German)"
+      },
+      {
+        "id": "achievement-4",
+        "name": "Annihilator",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-online",
+        "where": "Win 100 annihilate games"
+      },
+      {
+        "id": "achievement-5",
+        "name": "Annihilation over Attrition",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-online",
+        "where": "Play 250 Annihilate games"
+      },
+      {
+        "id": "achievement-6",
+        "name": "Blood Toll",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-online",
+        "where": "Win a game despite having twice as many deaths as kills"
+      },
+      {
+        "id": "achievement-7",
+        "name": "Attrition",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-online",
+        "where": "End 25 games with a kill:death ratio greater than 2:1"
+      },
+      {
+        "id": "achievement-8",
+        "name": "War Games IV",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-online",
+        "where": "Win 100 games versus four AI opponents"
+      },
+      {
+        "id": "achievement-9",
+        "name": "War Games III",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-online",
+        "where": "Win 100 games versus three AI opponents"
+      },
+      {
+        "id": "achievement-10",
+        "name": "War Games II",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-online",
+        "where": "Win 100 games versus two AI opponents"
+      },
+      {
+        "id": "achievement-11",
+        "name": "War Games I",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-online",
+        "where": "Win 100 games versus one AI opponent"
+      },
+      {
+        "id": "achievement-12",
+        "name": "Total Victory",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-online",
+        "where": "Win 25 games with 500 or greater point lead"
+      },
+      {
+        "id": "achievement-13",
+        "name": "Overwhelming Might",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-online",
+        "where": "Win 50 games with a point lead greater than 400"
+      },
+      {
+        "id": "achievement-14",
+        "name": "Heartbreaking Loss",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-online",
+        "where": "Lose 25 Victory Point games by reaching zero points with a 100 or less point difference"
+      },
+      {
+        "id": "achievement-15",
+        "name": "Attrition Expert",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-online",
+        "where": "Win 100 Victory Point games"
+      },
+      {
+        "id": "achievement-16",
+        "name": "Challenging Victory",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-online",
+        "where": "Win 25 games with a point lead under 100"
+      },
+      {
+        "id": "achievement-17",
+        "name": "Soviet Team Weapon Specialist",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-online",
+        "where": "End 15 games with the majority of your kills from team weapons (Soviet)"
+      },
+      {
+        "id": "achievement-18",
+        "name": "German Team Weapon Specialist",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-online",
+        "where": "End 15 games with the majority of your kills from team weapons (German)"
+      },
+      {
+        "id": "achievement-19",
+        "name": "To the Last Bullet",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-online",
+        "where": "Finish 500 automatch or skirmish games"
+      },
+      {
+        "id": "achievement-20",
+        "name": "War Footing Munitions III",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-online",
+        "where": "Spend over 2500 munitions in each of 15 games"
+      },
+      {
+        "id": "achievement-21",
+        "name": "War Footing Munitions II",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-online",
+        "where": "Spend over 2000 munitions in each of 15 games"
+      },
+      {
+        "id": "achievement-22",
+        "name": "War Footing Munitions I",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-online",
+        "where": "Spend over 1500 munitions in each of 15 games"
+      },
+      {
+        "id": "achievement-23",
+        "name": "War Footing Fuel III",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-online",
+        "where": "Spend over 1250 fuel in each of 15 games"
+      },
+      {
+        "id": "achievement-24",
+        "name": "War Footing Fuel II",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-online",
+        "where": "Spend over 1000 fuel in each of 15 games"
+      },
+      {
+        "id": "achievement-25",
+        "name": "War Footing Fuel I",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-online",
+        "where": "Spend over 750 fuel in each of 15 games"
+      },
+      {
+        "id": "achievement-26",
+        "name": "Command Economy",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-online",
+        "where": "Spend over 7500 resources in 15 games"
+      },
+      {
+        "id": "achievement-27",
+        "name": "Soviet Battle Medallion",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-online",
+        "where": "Play as the Soviets 500 times"
+      },
+      {
+        "id": "achievement-28",
+        "name": "German Battle Medallion",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-online",
+        "where": "Play as the Germans 500 times"
+      },
+      {
+        "id": "achievement-29",
+        "name": "Delaying the Inevitable",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-online",
+        "where": "Play 50 games against a Soviet opponent that last longer than 45 minutes"
+      },
+      {
+        "id": "achievement-30",
+        "name": "Human Wave",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-online",
+        "where": "Win a game as Soviets despite having three times as many deaths as kills"
+      },
+      {
+        "id": "achievement-31",
+        "name": "Fusilier",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-online",
+        "where": "End 15 games with the majority of your kills from infantry (German)"
+      },
+      {
+        "id": "achievement-32",
+        "name": "Soviet Infantry Specialist",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-online",
+        "where": "End 15 games with the majority of your kills from infantry (Soviet)"
+      },
+      {
+        "id": "achievement-33",
+        "name": "War Material",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-online",
+        "where": "Capture five team weapons or vehicles in 25 different games"
+      },
+      {
+        "id": "achievement-34",
+        "name": "Staunch Defense",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-online",
+        "where": "Build 10 or more bunkers in 15 games"
+      },
+      {
+        "id": "achievement-35",
+        "name": "IS-2 Specialist",
+        "kind": "trophy",
+        "chapterId": "bulletins-armour",
+        "where": "Build 30 IS-2 and achieve three levels of veteran status with 5 IS-2s"
+      },
+      {
+        "id": "achievement-36",
+        "name": "One Tank Army",
+        "kind": "trophy",
+        "chapterId": "bulletins-armour",
+        "where": "Destroy 20 Vehicles and kill 200 Infantry with IS-2s"
+      },
+      {
+        "id": "achievement-37",
+        "name": "Sibling Rivalry (Soviet)",
+        "kind": "trophy",
+        "chapterId": "bulletins-armour",
+        "where": "Destroy 10 Tiger PzKpfw VIs with IS-2s"
+      },
+      {
+        "id": "achievement-38",
+        "name": "Sibling Rivalry (German)",
+        "kind": "trophy",
+        "chapterId": "bulletins-armour",
+        "where": "Destroy 10 IS-2s with Tiger PzKpfw VIs"
+      },
+      {
+        "id": "achievement-39",
+        "name": "Top of the Food Chain",
+        "kind": "trophy",
+        "chapterId": "bulletins-armour",
+        "where": "Destroy 20 T-34/76s and 10 T-34/85s with Tiger PzKpfw VI tanks"
+      },
+      {
+        "id": "achievement-40",
+        "name": "King Tiger",
+        "kind": "trophy",
+        "chapterId": "bulletins-armour",
+        "where": "Kill 50 enemies with a single Tiger PzKpfw VI"
+      },
+      {
+        "id": "achievement-41",
+        "name": "KV-8 Specialist",
+        "kind": "trophy",
+        "chapterId": "bulletins-armour",
+        "where": "Kill 300 infantry and achieve three levels of veteran status with 5 KV-8s"
+      },
+      {
+        "id": "achievement-42",
+        "name": "Even Heavy Armor Cannot Withstand Fire of this Magnitude",
+        "kind": "trophy",
+        "chapterId": "bulletins-armour",
+        "where": "Destroy 25 heavy tanks with Elefants"
+      },
+      {
+        "id": "achievement-43",
+        "name": "Death from Afar",
+        "kind": "trophy",
+        "chapterId": "bulletins-armour",
+        "where": "Destroy 40 T-34/76 medium tanks with Elefants"
+      },
+      {
+        "id": "achievement-44",
+        "name": "Elefant Frenzy",
+        "kind": "trophy",
+        "chapterId": "bulletins-armour",
+        "where": "Kill 30 enemies with each of 5 different Elefant tanks"
+      },
+      {
+        "id": "achievement-45",
+        "name": "Tank Hunter",
+        "kind": "trophy",
+        "chapterId": "bulletins-armour",
+        "where": "Destroy 50 medium tanks and 30 heavy tanks with Panther PzKpfw Vs"
+      },
+      {
+        "id": "achievement-46",
+        "name": "Deadly Purpose",
+        "kind": "trophy",
+        "chapterId": "bulletins-armour",
+        "where": "Build 50 T-34/85s and destroy 10 heavy tanks with T-34/85s"
+      },
+      {
+        "id": "achievement-47",
+        "name": "Ramming Speed!",
+        "kind": "trophy",
+        "chapterId": "bulletins-armour",
+        "where": "Use the T-34/76 ramming ability 50 times"
+      },
+      {
+        "id": "achievement-48",
+        "name": "Multi-talented",
+        "kind": "trophy",
+        "chapterId": "bulletins-armour",
+        "where": "Kill 100 infantry and 20 vehicles with T-34/76s"
+      },
+      {
+        "id": "achievement-49",
+        "name": "Light Snack",
+        "kind": "trophy",
+        "chapterId": "bulletins-armour",
+        "where": "Destroy 50 T-70s with Panzer IVs"
+      },
+      {
+        "id": "achievement-50",
+        "name": "Evenly Matched",
+        "kind": "trophy",
+        "chapterId": "bulletins-armour",
+        "where": "Destroy 25 T-34/76s with Panzer IVs"
+      },
+      {
+        "id": "achievement-51",
+        "name": "Panzer IV Specialist",
+        "kind": "trophy",
+        "chapterId": "bulletins-armour",
+        "where": "Build 50 Panzer Ivs and achieve three levels of veteran status with 15 Panzer Ivs"
+      },
+      {
+        "id": "achievement-52",
+        "name": "Massacre",
+        "kind": "trophy",
+        "chapterId": "bulletins-armour",
+        "where": "Kill 250 HMG team members and 250 Mortar team members with Ostwinds"
+      },
+      {
+        "id": "achievement-53",
+        "name": "Not Simply Anti-Air",
+        "kind": "trophy",
+        "chapterId": "bulletins-armour",
+        "where": "Destroy 100 light vehicles with Ostwinds"
+      },
+      {
+        "id": "achievement-54",
+        "name": "Outrun and Outgun",
+        "kind": "trophy",
+        "chapterId": "bulletins-armour",
+        "where": "Destroy 75 light vehicles with T-70s"
+      },
+      {
+        "id": "achievement-55",
+        "name": "Up Close and Personal",
+        "kind": "trophy",
+        "chapterId": "bulletins-armour",
+        "where": "Kill 150 Anti-tank Gun team members with T-70s"
+      },
+      {
+        "id": "achievement-56",
+        "name": "It's Super Effective!",
+        "kind": "trophy",
+        "chapterId": "bulletins-armour",
+        "where": "Kill 200 Heavy Machine Gun team members and 200 Mortar team members with Sdkfz 222 Scout Cars"
+      },
+      {
+        "id": "achievement-57",
+        "name": "Sniper Hunter",
+        "kind": "trophy",
+        "chapterId": "bulletins-armour",
+        "where": "Kill 50 snipers with Sdkfz 222 Scout Cars"
+      },
+      {
+        "id": "achievement-58",
+        "name": "Flame On!",
+        "kind": "trophy",
+        "chapterId": "bulletins-armour",
+        "where": "Upgrade 60 Sdkfz 251 Halftracks with Flame Projectors"
+      },
+      {
+        "id": "achievement-59",
+        "name": "More Than Just a Personnel Carrier",
+        "kind": "trophy",
+        "chapterId": "bulletins-armour",
+        "where": "Kill 250 infantry with M5 Halftracks"
+      },
+      {
+        "id": "achievement-60",
+        "name": "No-Fly Zone",
+        "kind": "trophy",
+        "chapterId": "bulletins-armour",
+        "where": "Upgrade 60 M5 Halftracks with the M17 Quad AA package"
+      },
+      {
+        "id": "achievement-61",
+        "name": "Now That's What I Call Recon",
+        "kind": "trophy",
+        "chapterId": "bulletins-armour",
+        "where": "Kill 15 enemies with each of 20 different M3A1 Scout Cars"
+      },
+      {
+        "id": "achievement-62",
+        "name": "M3A1 Specialist",
+        "kind": "trophy",
+        "chapterId": "bulletins-armour",
+        "where": "Achieve three levels of veteran status with 40 M3A1 Scout Cars"
+      },
+      {
+        "id": "achievement-63",
+        "name": "Penetrating Performance",
+        "kind": "trophy",
+        "chapterId": "bulletins-infantry-support",
+        "where": "Destroy 75 medium tanks with ZIS-3 76mm Divisional Field Guns"
+      },
+      {
+        "id": "achievement-64",
+        "name": "Explosivist",
+        "kind": "trophy",
+        "chapterId": "bulletins-infantry-support",
+        "where": "Use the ZIS-3 76mm Divisional Field Gun Light Artillery Barrage ability 75 times"
+      },
+      {
+        "id": "achievement-65",
+        "name": "Knife through Butter",
+        "kind": "trophy",
+        "chapterId": "bulletins-infantry-support",
+        "where": "Destroy 100 light vehicles with Pak40 Anti-tank Guns"
+      },
+      {
+        "id": "achievement-66",
+        "name": "'Pak's Quite a Punch",
+        "kind": "trophy",
+        "chapterId": "bulletins-infantry-support",
+        "where": "Build 100 Pak40 Anti-tank Guns and kill 15 medium tanks with Pak40 Anti-tank Guns"
+      },
+      {
+        "id": "achievement-67",
+        "name": "Pak43 Specialist",
+        "kind": "trophy",
+        "chapterId": "bulletins-infantry-support",
+        "where": "Achieve three levels of veteran status with 10 Pak43 Anti-tank Guns"
+      },
+      {
+        "id": "achievement-68",
+        "name": "Unstoppable Force",
+        "kind": "trophy",
+        "chapterId": "bulletins-infantry-support",
+        "where": "Build 50 Pak43 Anti-tank Guns and kill 5 IS-2 heavy tanks with Pak43s"
+      },
+      {
+        "id": "achievement-69",
+        "name": "Long Distance Combat",
+        "kind": "trophy",
+        "chapterId": "bulletins-infantry-support",
+        "where": "Destroy 5 Elefant tanks with ML-20 152mm Gun-Howitzers"
+      },
+      {
+        "id": "achievement-70",
+        "name": "Never Know What Hit 'Em",
+        "kind": "trophy",
+        "chapterId": "bulletins-infantry-support",
+        "where": "Kill 500 infantry with ML-20 152mm Gun-Howitzers"
+      },
+      {
+        "id": "achievement-71",
+        "name": "Outranged",
+        "kind": "trophy",
+        "chapterId": "bulletins-infantry-support",
+        "where": "Destroy 50 leFH 18 Artillery Howitzer team members with ML-20 152mm Gun-Howitzer"
+      },
+      {
+        "id": "achievement-72",
+        "name": "Wrong Place, Wrong Time",
+        "kind": "trophy",
+        "chapterId": "bulletins-infantry-support",
+        "where": "Destroy 30 vehicles with leFH 18 Artillery"
+      },
+      {
+        "id": "achievement-73",
+        "name": "Sitting Ducks",
+        "kind": "trophy",
+        "chapterId": "bulletins-infantry-support",
+        "where": "Kill 50 Mortar team memberss and 50 HMG team members with leFH 18 Artillery"
+      },
+      {
+        "id": "achievement-74",
+        "name": "Blow It All Up!",
+        "kind": "trophy",
+        "chapterId": "bulletins-armour",
+        "where": "Destroy 30 buildings and kill 300 infantry with Katyushas"
+      },
+      {
+        "id": "achievement-75",
+        "name": "Missiles Everywhere!",
+        "kind": "trophy",
+        "chapterId": "bulletins-armour",
+        "where": "Use the BM-13 Katyusha 132mm Barrage ability 75 times and kill 30 enemies with each of 15 BM-13 Katyushas"
+      },
+      {
+        "id": "achievement-76",
+        "name": "Death from Above",
+        "kind": "trophy",
+        "chapterId": "bulletins-armour",
+        "where": "Kill 600 infantry with Panzerwerfers"
+      },
+      {
+        "id": "achievement-77",
+        "name": "Rocket Siege",
+        "kind": "trophy",
+        "chapterId": "bulletins-armour",
+        "where": "Use the Panzerwerfer Rocket Barrage 30 times and build 60 Panzerwerfers"
+      },
+      {
+        "id": "achievement-78",
+        "name": "A Tool for Every Occasion",
+        "kind": "trophy",
+        "chapterId": "bulletins-infantry-support",
+        "where": "Use Grenadiers' Panzerfaust ability 50 times and destroy 50 light vehicles with Grenadiers"
+      },
+      {
+        "id": "achievement-79",
+        "name": "With Extreme Difficulty",
+        "kind": "trophy",
+        "chapterId": "bulletins-infantry-support",
+        "where": "Destroy 5 heavy tanks with Grenadiers"
+      },
+      {
+        "id": "achievement-80",
+        "name": "Oorah!",
+        "kind": "trophy",
+        "chapterId": "bulletins-infantry-support",
+        "where": "Use the Conscripts' Oorah! Ability 100 times"
+      },
+      {
+        "id": "achievement-81",
+        "name": "Burn Baby Burn",
+        "kind": "trophy",
+        "chapterId": "bulletins-infantry-support",
+        "where": "Use the Conscripts' Molotov Cocktail ability 80 times and kill 500 enemy infantry with Conscripts"
+      },
+      {
+        "id": "achievement-82",
+        "name": "Panzer Grenadier Specialist",
+        "kind": "trophy",
+        "chapterId": "bulletins-infantry-support",
+        "where": "Achieve three levels of veteran status with 20 Panzer Grenadier squads and kill 300 Conscripts with Panzer Grenadier squads"
+      },
+      {
+        "id": "achievement-83",
+        "name": "Commando Style",
+        "kind": "trophy",
+        "chapterId": "bulletins-infantry-support",
+        "where": "Kill 15 enemies with each of 25 different Panzer Grenadier squads"
+      },
+      {
+        "id": "achievement-84",
+        "name": "Heavy Weapons",
+        "kind": "trophy",
+        "chapterId": "bulletins-infantry-support",
+        "where": "Destroy 30 Sdkfz 222 Scout Cars, 15 Ostwinds, and 40 more vehicles with Guards"
+      },
+      {
+        "id": "achievement-85",
+        "name": "Stealing the Spotlight",
+        "kind": "trophy",
+        "chapterId": "bulletins-infantry-support",
+        "where": "Kill 40 Panzer Grenadiers with Guards"
+      },
+      {
+        "id": "achievement-86",
+        "name": "To the Frontlines!",
+        "kind": "trophy",
+        "chapterId": "bulletins-infantry-support",
+        "where": "Build 50 Shock Troops and kill 300 infantry with Shock Troops"
+      },
+      {
+        "id": "achievement-87",
+        "name": "Flanking Maneuvers",
+        "kind": "trophy",
+        "chapterId": "bulletins-infantry-support",
+        "where": "Kill 70 HMG team members and 70 Mortar team members with Shock Troops"
+      },
+      {
+        "id": "achievement-88",
+        "name": "Satchel of Trouble",
+        "kind": "trophy",
+        "chapterId": "bulletins-infantry-support",
+        "where": "Use the Satchel Charge ability 40 times and Kill 70 Mortar teams with Penal Battalions"
+      },
+      {
+        "id": "achievement-89",
+        "name": "Torched",
+        "kind": "trophy",
+        "chapterId": "bulletins-infantry-support",
+        "where": "Upgrade 30 Penal Battalions with flamethrowers and kill 300 infantry with Penal Battalions"
+      },
+      {
+        "id": "achievement-90",
+        "name": "Infantry Annihilator",
+        "kind": "trophy",
+        "chapterId": "bulletins-armour",
+        "where": "Kill 250 Conscripts and 500 more infantry with Sturmpanzer IV \"Brummbärs\""
+      },
+      {
+        "id": "achievement-91",
+        "name": "Sturmpanzer IV Specialist",
+        "kind": "trophy",
+        "chapterId": "bulletins-armour",
+        "where": "Achieve three levels of veteran status with 10 Sturmpanzer IV \"Brummbärs\"s and kill 40 enemies with the same Sturmpanzer IV \"Brummbär\""
+      },
+      {
+        "id": "achievement-92",
+        "name": "Destined for Destruction",
+        "kind": "trophy",
+        "chapterId": "bulletins-armour",
+        "where": "Destroy 30 T-34/76s with StuG IIIs"
+      },
+      {
+        "id": "achievement-93",
+        "name": "StuG Lover",
+        "kind": "trophy",
+        "chapterId": "bulletins-armour",
+        "where": "Build 60 StuG IIIs and destroy 80 vehicles with StuG IIIs"
+      },
+      {
+        "id": "achievement-94",
+        "name": "Nothing Left Standing",
+        "kind": "trophy",
+        "chapterId": "bulletins-armour",
+        "where": "Destroy 25 buildings and destroy 50 vehicles with ISU-152s"
+      },
+      {
+        "id": "achievement-95",
+        "name": "Beast Killer",
+        "kind": "trophy",
+        "chapterId": "bulletins-armour",
+        "where": "Destroy 25 Panthers PzKpfw V and 10 Tiger PzKpfw VIs with ISU-152s"
+      },
+      {
+        "id": "achievement-96",
+        "name": "Tank Destroyer",
+        "kind": "trophy",
+        "chapterId": "bulletins-armour",
+        "where": "Destroy 15 heavy tanks with SU-85s"
+      },
+      {
+        "id": "achievement-97",
+        "name": "SU-76 Specialist",
+        "kind": "trophy",
+        "chapterId": "bulletins-armour",
+        "where": "Destroy 40 Light Vehicles with SU-76s and achieve three levels of veteran status with 20 SU-76s"
+      },
+      {
+        "id": "achievement-98",
+        "name": "Indirect but Deadly",
+        "kind": "trophy",
+        "chapterId": "bulletins-armour",
+        "where": "Destroy 200 Infantry with SU-76s and use the SU-76 Barrage ability 100 times"
+      },
+      {
+        "id": "achievement-99",
+        "name": "Special Ingredients",
+        "kind": "trophy",
+        "chapterId": "bulletins-infantry-support",
+        "where": "Use MG42 Incendiary Armor Piercing rounds 100 times and destroy 30 light vehicles with MG42 Heavy Machine Guns"
+      },
+      {
+        "id": "achievement-100",
+        "name": "Brotherly Love (German)",
+        "kind": "trophy",
+        "chapterId": "bulletins-infantry-support",
+        "where": "Kill 100 M1910 Maxim Heavy Machine Gun team members and 300 Conscripts with MG42 Heavy Machine Guns"
+      },
+      {
+        "id": "achievement-101",
+        "name": "MG42 Specialist",
+        "kind": "trophy",
+        "chapterId": "bulletins-infantry-support",
+        "where": "Achieve three levels of veteran status with 15 MG42s"
+      },
+      {
+        "id": "achievement-102",
+        "name": "Shooting Gallery",
+        "kind": "trophy",
+        "chapterId": "bulletins-infantry-support",
+        "where": "Kill 500 infantry with M1910 Maxim Heavy Machine Guns"
+      },
+      {
+        "id": "achievement-103",
+        "name": "Brotherly Love (Soviet)",
+        "kind": "trophy",
+        "chapterId": "bulletins-infantry-support",
+        "where": "Kill 100 MG42 HMG team members and 300 Grenadier squads with M1910 Maxim Heavy Machine Guns"
+      },
+      {
+        "id": "achievement-104",
+        "name": "HMG Hero",
+        "kind": "trophy",
+        "chapterId": "bulletins-infantry-support",
+        "where": "Kill 15 enemies with each of 10 different M1910 Maxim Heavy Machine Guns squads"
+      },
+      {
+        "id": "achievement-105",
+        "name": "Hit the Deck!",
+        "kind": "trophy",
+        "chapterId": "bulletins-infantry-support",
+        "where": "Kill 600 infantry with Heavy Machine Guns"
+      },
+      {
+        "id": "achievement-106",
+        "name": "Tougher Meat",
+        "kind": "trophy",
+        "chapterId": "bulletins-infantry-support",
+        "where": "Kill 100 light vehicles with Heavy Machine Guns"
+      },
+      {
+        "id": "achievement-107",
+        "name": "Direct Indirect Fire",
+        "kind": "trophy",
+        "chapterId": "bulletins-infantry-support",
+        "where": "Build 80 PM-41 82mm Mortar teams and use their Mortar Barrage ability 40 times"
+      },
+      {
+        "id": "achievement-108",
+        "name": "Lucky Shot",
+        "kind": "trophy",
+        "chapterId": "bulletins-infantry-support",
+        "where": "Destroy 25 Sdkfz 222 Scout Cars with PM-41 82mm Mortars"
+      },
+      {
+        "id": "achievement-109",
+        "name": "PM-41 82mm Mortar Specialist",
+        "kind": "trophy",
+        "chapterId": "bulletins-infantry-support",
+        "where": "Achieve three levels of veteran status with 20 PM-41 82mm Mortar Teams"
+      },
+      {
+        "id": "achievement-110",
+        "name": "Kinslayer",
+        "kind": "trophy",
+        "chapterId": "bulletins-infantry-support",
+        "where": "Destroy 50 Mortar team members with GrW 34 8cm Mortars"
+      },
+      {
+        "id": "achievement-111",
+        "name": "Target Practice",
+        "kind": "trophy",
+        "chapterId": "bulletins-infantry-support",
+        "where": "Kill 300 infantry with GrW 34 8cm Mortar teams"
+      },
+      {
+        "id": "achievement-112",
+        "name": "Mortar Hero",
+        "kind": "trophy",
+        "chapterId": "bulletins-infantry-support",
+        "where": "Kill 15 enemies with each of 25 different GrW 34 8cm Mortar teams"
+      },
+      {
+        "id": "achievement-113",
+        "name": "Bigger is Better",
+        "kind": "trophy",
+        "chapterId": "bulletins-infantry-support",
+        "where": "Build 100 HM-38 120mm Mortar teams and kill 200 infantry with HM-38 120mm Mortars"
+      },
+      {
+        "id": "achievement-114",
+        "name": "HM-38 120mm Mortar Specialist",
+        "kind": "trophy",
+        "chapterId": "bulletins-infantry-support",
+        "where": "Destroy 15 buildings and achieve three levels of veteran status with 20 HM-38 120mm Mortars"
+      },
+      {
+        "id": "achievement-115",
+        "name": "Heavy Tank Production I",
+        "kind": "trophy",
+        "chapterId": "bulletins-armour",
+        "where": "Build 20 Tiger PzKpfw Vis, 20 IS-2s, and 40 Elefants"
+      },
+      {
+        "id": "achievement-116",
+        "name": "Medium Tank Production I",
+        "kind": "trophy",
+        "chapterId": "bulletins-armour",
+        "where": "Build 50 Panther PzKpfw Vs and 40 T-34/85s"
+      },
+      {
+        "id": "achievement-117",
+        "name": "Medium Tank Production II",
+        "kind": "trophy",
+        "chapterId": "bulletins-armour",
+        "where": "Build 30 T-34/76s, 30 Panzer Ivs and 30 Ostwinds"
+      },
+      {
+        "id": "achievement-118",
+        "name": "Light Vehicle Production I",
+        "kind": "trophy",
+        "chapterId": "bulletins-armour",
+        "where": "Build 50 T-70s, 50 Sdkfz 222 Scout Cars, and 50 M3A1 Scout Cars"
+      },
+      {
+        "id": "achievement-119",
+        "name": "Assault Gun Production I",
+        "kind": "trophy",
+        "chapterId": "bulletins-armour",
+        "where": "Build 50 Sturmpanzer IVs, 10 ISU-152s, and 50 SU-85s"
+      },
+      {
+        "id": "achievement-120",
+        "name": "Assault Gun Production II",
+        "kind": "trophy",
+        "chapterId": "bulletins-armour",
+        "where": "Build 70 SU-76s and 70 StuG IIIs"
+      },
+      {
+        "id": "achievement-121",
+        "name": "Artillery Production I",
+        "kind": "trophy",
+        "chapterId": "bulletins-armour",
+        "where": "Build 60 BM-13 Katyushas and 60 Panzerwerfers"
+      },
+      {
+        "id": "achievement-122",
+        "name": "Artillery Production II",
+        "kind": "trophy",
+        "chapterId": "bulletins-infantry-support",
+        "where": "Build 15 ML-20 152mm Gun-Howitzer pieces and 15 leFH 18 Artillery Artillery pieces"
+      },
+      {
+        "id": "achievement-123",
+        "name": "Anti-tank Gun Production I",
+        "kind": "trophy",
+        "chapterId": "bulletins-infantry-support",
+        "where": "Build 60 Pak40 Anti-tank Guns, 30 Pak43 Anti-tank Guns, and 60 ZIS-3 76mm Divisional Field Guns"
+      },
+      {
+        "id": "achievement-124",
+        "name": "HMG Production I",
+        "kind": "trophy",
+        "chapterId": "bulletins-infantry-support",
+        "where": "Build 80 M1910 Maxim Heavy Machine Gun teams and 80 MG42 Heavy Machine Gun teams"
+      },
+      {
+        "id": "achievement-125",
+        "name": "Mortar Production I",
+        "kind": "trophy",
+        "chapterId": "bulletins-infantry-support",
+        "where": "Build 60 GrW 34 8cm Mortars, 60 PM-41 82mm Mortars, and 50 HM-38 120mm Mortars"
+      },
+      {
+        "id": "achievement-126",
+        "name": "Infantry Production I",
+        "kind": "trophy",
+        "chapterId": "bulletins-infantry-support",
+        "where": "Build 100 Conscripts, 100 Grenadiers, and 60 Panzer Grenadiers"
+      },
+      {
+        "id": "achievement-127",
+        "name": "Infantry Production II",
+        "kind": "trophy",
+        "chapterId": "bulletins-infantry-support",
+        "where": "Build 60 Shock Troops, 60 Guard Troops, and 60 Penal Battalions"
+      },
+      {
+        "id": "achievement-128",
+        "name": "Light Vehicle Production II",
+        "kind": "trophy",
+        "chapterId": "bulletins-armour",
+        "where": "Build 70 M5 Halftracks and 70 Sdkfz 251 Halftracks"
+      },
+      {
+        "id": "achievement-129",
+        "name": "Artillery Specialist",
+        "kind": "trophy",
+        "chapterId": "bulletins-infantry-support",
+        "where": "Complete all Artillery intelligence bulletins"
+      },
+      {
+        "id": "achievement-130",
+        "name": "Assault Gun Specialist",
+        "kind": "trophy",
+        "chapterId": "bulletins-armour",
+        "where": "Complete all Assault Gun intelligence bulletins"
+      },
+      {
+        "id": "achievement-131",
+        "name": "Anti-Tank Gun Specialist",
+        "kind": "trophy",
+        "chapterId": "bulletins-infantry-support",
+        "where": "Complete all Anti-Tank intelligence bulletins"
+      },
+      {
+        "id": "achievement-132",
+        "name": "Heavy Tank Specialist",
+        "kind": "trophy",
+        "chapterId": "bulletins-armour",
+        "where": "Complete all Heavy Tank intelligence bulletins"
+      },
+      {
+        "id": "achievement-133",
+        "name": "Heavy Machine Gun Specialist",
+        "kind": "trophy",
+        "chapterId": "bulletins-infantry-support",
+        "where": "Complete all HMG intelligence bulletins"
+      },
+      {
+        "id": "achievement-134",
+        "name": "Light Vehicles Specialist",
+        "kind": "trophy",
+        "chapterId": "bulletins-armour",
+        "where": "Complete all Light Vehicles intelligence bulletins"
+      },
+      {
+        "id": "achievement-135",
+        "name": "Medium Tank Specialist",
+        "kind": "trophy",
+        "chapterId": "bulletins-armour",
+        "where": "Complete all Medium Tank intelligence bulletins"
+      },
+      {
+        "id": "achievement-136",
+        "name": "Mortar Specialist",
+        "kind": "trophy",
+        "chapterId": "bulletins-infantry-support",
+        "where": "Complete all Mortar intelligence bulletins"
+      },
+      {
+        "id": "achievement-137",
+        "name": "Infantry Specialist",
+        "kind": "trophy",
+        "chapterId": "bulletins-infantry-support",
+        "where": "Complete all Infantry intelligence bulletins"
+      },
+      {
+        "id": "achievement-138",
+        "name": "Armored Assassin",
+        "kind": "trophy",
+        "chapterId": "bulletins-armour",
+        "where": "Destroy 30 BM-13 Katyushas with Panther PzKpfw Vs"
+      },
+      {
+        "id": "achievement-139",
+        "name": "Invulnerable",
+        "kind": "trophy",
+        "chapterId": "bulletins-armour",
+        "where": "Destroy 50 T-70s with Panther PzKpfw Vs and achieve three levels of veteran status with 25 Panther PzKpfw Vs"
+      },
+      {
+        "id": "achievement-140",
+        "name": "Mobile Bombardment",
+        "kind": "trophy",
+        "chapterId": "bulletins-armour",
+        "where": "Use the Sdkfz 250/7 Mortar Halftrack's Mortar Barrage, Smoke Barrage, and Incendiary Mortar Barrage 25 times each"
+      },
+      {
+        "id": "achievement-141",
+        "name": "Master Flanker",
+        "kind": "trophy",
+        "chapterId": "bulletins-infantry-support",
+        "where": "Snipe 70 HMG Team Members and 70 Mortar Team Members"
+      },
+      {
+        "id": "achievement-142",
+        "name": "Sniper Hero",
+        "kind": "trophy",
+        "chapterId": "bulletins-infantry-support",
+        "where": "Kill 25 enemies with each of 15 different German Snipers"
+      },
+      {
+        "id": "achievement-143",
+        "name": "Never Make an Engineer Mad",
+        "kind": "trophy",
+        "chapterId": "bulletins-infantry-support",
+        "where": "Upgrade 100 Combat Engineers with flamethrowers and kill 200 infantry with Combat Engineers"
+      },
+      {
+        "id": "achievement-144",
+        "name": "Battlefield Menace",
+        "kind": "trophy",
+        "chapterId": "bulletins-infantry-support",
+        "where": "Build 150 Barbed Wire pieces and plant 20 Soviet TM-35 mines"
+      },
+      {
+        "id": "achievement-145",
+        "name": "Hold the Line",
+        "kind": "trophy",
+        "chapterId": "bulletins-infantry-support",
+        "where": "Build 30 bunkers"
+      },
+      {
+        "id": "achievement-146",
+        "name": "Don't Step on the Grass",
+        "kind": "trophy",
+        "chapterId": "bulletins-infantry-support",
+        "where": "Build 30 mine fields and plant 15 Teller AT Mines"
+      },
+      {
+        "id": "achievement-147",
+        "name": "Senior Private",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-online",
+        "where": "Reach the rank of Senior Private"
+      },
+      {
+        "id": "achievement-148",
+        "name": "Corporal",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-online",
+        "where": "Reach the rank of Corporal"
+      },
+      {
+        "id": "achievement-149",
+        "name": "Senior Corporal",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-online",
+        "where": "Reach the rank of Senior Corporal"
+      },
+      {
+        "id": "achievement-150",
+        "name": "Junior Sergeant",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-online",
+        "where": "Reach the rank of Junior Sergeant"
+      },
+      {
+        "id": "achievement-151",
+        "name": "Sergeant",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-online",
+        "where": "Reach the rank of Sergeant"
+      },
+      {
+        "id": "achievement-152",
+        "name": "Senior Sergeant",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-online",
+        "where": "Reach the rank of Senior Sergeant"
+      },
+      {
+        "id": "achievement-153",
+        "name": "Master Sergeant",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-online",
+        "where": "Reach the rank of Master Sergeant"
+      },
+      {
+        "id": "achievement-154",
+        "name": "Sergeant Major",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-online",
+        "where": "Reach the rank of Sergeant Major"
+      },
+      {
+        "id": "achievement-155",
+        "name": "Warrant Officer",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-online",
+        "where": "Reach the rank of Warrant Officer"
+      },
+      {
+        "id": "achievement-156",
+        "name": "Senior Warrant Officer",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-online",
+        "where": "Reach the rank of Senior Warrant Officer"
+      },
+      {
+        "id": "achievement-157",
+        "name": "Junior Lieutenant",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-online",
+        "where": "Reach the rank of Junior Lieutenant"
+      },
+      {
+        "id": "achievement-158",
+        "name": "Lieutenant",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-online",
+        "where": "Reach the rank of Lieutenant"
+      },
+      {
+        "id": "achievement-159",
+        "name": "Senior Lieutenant",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-online",
+        "where": "Reach the rank of Senior Lieutenant"
+      },
+      {
+        "id": "achievement-160",
+        "name": "Captain",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-online",
+        "where": "Reach the rank of Captain"
+      },
+      {
+        "id": "achievement-161",
+        "name": "Senior Captain",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-online",
+        "where": "Reach the rank of Senior Captain"
+      },
+      {
+        "id": "achievement-162",
+        "name": "Major",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-online",
+        "where": "Reach the rank of Major"
+      },
+      {
+        "id": "achievement-163",
+        "name": "Lieutenant Colonel",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-online",
+        "where": "Reached the rank of Lieutenant Colonel"
+      },
+      {
+        "id": "achievement-164",
+        "name": "Colonel",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-online",
+        "where": "Reached the rank of Colonel"
+      },
+      {
+        "id": "achievement-165",
+        "name": "Brigadier General",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-online",
+        "where": "Reached the rank of Brigadier General"
+      },
+      {
+        "id": "achievement-166",
+        "name": "Major General",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-online",
+        "where": "Reached the rank of Major General"
+      },
+      {
+        "id": "achievement-167",
+        "name": "Campaign Conscript",
+        "kind": "trophy",
+        "chapterId": "campaign-8-14",
+        "where": "Play 1 Campaign mission"
+      },
+      {
+        "id": "achievement-168",
+        "name": "Campaign Officer",
+        "kind": "trophy",
+        "chapterId": "campaign-8-14",
+        "where": "Play 3 Campaign missions"
+      },
+      {
+        "id": "achievement-169",
+        "name": "Campaign Lieutenant",
+        "kind": "trophy",
+        "chapterId": "campaign-8-14",
+        "where": "Play 10 Campaign missions"
+      },
+      {
+        "id": "achievement-170",
+        "name": "Campaign Commander",
+        "kind": "trophy",
+        "chapterId": "campaign-8-14",
+        "where": "Play 25 Campaign missions"
+      },
+      {
+        "id": "achievement-171",
+        "name": "Campaign General",
+        "kind": "trophy",
+        "chapterId": "campaign-8-14",
+        "where": "Play 100 Campaign missions"
+      },
+      {
+        "id": "achievement-172",
+        "name": "Theater of War Challenge Conscript",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-online",
+        "where": "Play 1 Theater of War Challenge"
+      },
+      {
+        "id": "achievement-173",
+        "name": "Theater of War Challenge Officer",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-online",
+        "where": "Play 3 Theater of War Challenges"
+      },
+      {
+        "id": "achievement-174",
+        "name": "Theater of War Challenge Lieutenant",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-online",
+        "where": "Play 10 Theater of War Challenges"
+      },
+      {
+        "id": "achievement-175",
+        "name": "Theater of War Challenge Commander",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-online",
+        "where": "Play 25 Theater of War Challenges"
+      },
+      {
+        "id": "achievement-176",
+        "name": "Theater of War Challenge General",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-online",
+        "where": "Play 100 Theater of War Challenges"
+      },
+      {
+        "id": "achievement-177",
+        "name": "Theater of War Scenario Conscript",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-online",
+        "where": "Play 1 Theater of War Scenario"
+      },
+      {
+        "id": "achievement-178",
+        "name": "Theater of War Scenario Officer",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-online",
+        "where": "Play 3 Theater of War Scenarios"
+      },
+      {
+        "id": "achievement-179",
+        "name": "Theater of War Scenario Lieutenant",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-online",
+        "where": "Play 10 Theater of War Scenarios"
+      },
+      {
+        "id": "achievement-180",
+        "name": "Theater of War Scenario Commander",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-online",
+        "where": "Play 25 Theater of War Scenarios"
+      },
+      {
+        "id": "achievement-181",
+        "name": "Theater of War Scenario General",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-online",
+        "where": "Play 100 Theater of War Scenarios"
+      },
+      {
+        "id": "achievement-182",
+        "name": "Theater of War Battle Conscript",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-online",
+        "where": "Play 1 Theater of War Battle"
+      },
+      {
+        "id": "achievement-183",
+        "name": "Theater of War Battle Officer",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-online",
+        "where": "Play 3 Theater of War Battles"
+      },
+      {
+        "id": "achievement-184",
+        "name": "Theater of War Battle Lieutenant",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-online",
+        "where": "Play 10 Theater of War Battles"
+      },
+      {
+        "id": "achievement-185",
+        "name": "Theater of War Battle Commander",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-online",
+        "where": "Play 25 Theater of War Battles"
+      },
+      {
+        "id": "achievement-186",
+        "name": "Theater of War Battle General",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-online",
+        "where": "Play 100 Theater of War Battles"
+      },
+      {
+        "id": "achievement-187",
+        "name": "Comp-Stomp Conscript",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-online",
+        "where": "Play 1 match versus AI"
+      },
+      {
+        "id": "achievement-188",
+        "name": "Comp-Stomp Officer",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-online",
+        "where": "Play 3 matches versus AI"
+      },
+      {
+        "id": "achievement-189",
+        "name": "Comp-Stomp Lieutenant",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-online",
+        "where": "Play 10 matches versus AI"
+      },
+      {
+        "id": "achievement-190",
+        "name": "Comp-Stomp Commander",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-online",
+        "where": "Play 25 matches versus AI"
+      },
+      {
+        "id": "achievement-191",
+        "name": "Comp-Stomp General",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-online",
+        "where": "Play 100 matches versus AI"
+      },
+      {
+        "id": "achievement-192",
+        "name": "Automatch Conscript",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-online",
+        "where": "Play 1 automatch game"
+      },
+      {
+        "id": "achievement-193",
+        "name": "Automatch Officer",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-online",
+        "where": "Play 3 automatch games"
+      },
+      {
+        "id": "achievement-194",
+        "name": "Automatch Lieutenant",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-online",
+        "where": "Play 10 automatch games"
+      },
+      {
+        "id": "achievement-195",
+        "name": "Automatch Commander",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-online",
+        "where": "Play 25 automatch games"
+      },
+      {
+        "id": "achievement-196",
+        "name": "Automatch General",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-online",
+        "where": "Play 100 automatch games"
+      },
+      {
+        "id": "achievement-197",
+        "name": "Stalingrad Rail Station - Conscript",
+        "kind": "trophy",
+        "chapterId": "campaign-1-7",
+        "where": "Complete Campaign Mission 01 - Stalingrad Rail Station on Conscript difficulty"
+      },
+      {
+        "id": "achievement-198",
+        "name": "Scorched Earth - Conscript",
+        "kind": "trophy",
+        "chapterId": "campaign-1-7",
+        "where": "Complete Campaign Mission 02 - Scorched Earth on Conscript difficulty"
+      },
+      {
+        "id": "achievement-199",
+        "name": "Support is on the Way - Conscript",
+        "kind": "trophy",
+        "chapterId": "campaign-1-7",
+        "where": "Complete Campaign Mission 03 - Support is on the Way on Conscript difficulty"
+      },
+      {
+        "id": "achievement-200",
+        "name": "The Miraculous Winter - Conscript",
+        "kind": "trophy",
+        "chapterId": "campaign-1-7",
+        "where": "Complete Campaign Mission 04 - The Miraculous Winter on Conscript difficulty"
+      },
+      {
+        "id": "achievement-201",
+        "name": "Stalingrad - Conscript",
+        "kind": "trophy",
+        "chapterId": "campaign-1-7",
+        "where": "Complete Campaign Mission 05 - Stalingrad on Conscript difficulty"
+      },
+      {
+        "id": "achievement-202",
+        "name": "Stalingrad Aftermath - Conscript",
+        "kind": "trophy",
+        "chapterId": "campaign-1-7",
+        "where": "Complete Campaign Mission 06 - Stalingrad Aftermath on Conscript difficulty"
+      },
+      {
+        "id": "achievement-203",
+        "name": "Land Bridge to Leningrad - Conscript",
+        "kind": "trophy",
+        "chapterId": "campaign-1-7",
+        "where": "Complete Campaign Mission 07 - Land Bridge to Leningrad on Conscript difficulty"
+      },
+      {
+        "id": "achievement-204",
+        "name": "Tiger Hunting - Conscript",
+        "kind": "trophy",
+        "chapterId": "campaign-8-14",
+        "where": "Complete Campaign Mission 08 - Tiger Hunting on Conscript difficulty"
+      },
+      {
+        "id": "achievement-205",
+        "name": "Radio Silence - Conscript",
+        "kind": "trophy",
+        "chapterId": "campaign-8-14",
+        "where": "Complete Campaign Mission 09 - Radio Silence on Conscript difficulty"
+      },
+      {
+        "id": "achievement-206",
+        "name": "Lublin - Conscript",
+        "kind": "trophy",
+        "chapterId": "campaign-8-14",
+        "where": "Complete Campaign Mission 10 - Lublin on Conscript difficulty"
+      },
+      {
+        "id": "achievement-207",
+        "name": "Behind Enemy Lines - Conscript",
+        "kind": "trophy",
+        "chapterId": "campaign-8-14",
+        "where": "Complete Campaign Mission 11 - Behind Enemy Lines on Conscript difficulty"
+      },
+      {
+        "id": "achievement-208",
+        "name": "Poznan Citadel - Conscript",
+        "kind": "trophy",
+        "chapterId": "campaign-8-14",
+        "where": "Complete Campaign Mission 12 - Poznan Citadel on Conscript difficulty"
+      },
+      {
+        "id": "achievement-209",
+        "name": "Halbe - Conscript",
+        "kind": "trophy",
+        "chapterId": "campaign-8-14",
+        "where": "Complete Campaign Mission 13 - Halbe on Conscript difficulty"
+      },
+      {
+        "id": "achievement-210",
+        "name": "The Reichstag - Conscript",
+        "kind": "trophy",
+        "chapterId": "campaign-8-14",
+        "where": "Complete Campaign Mission 14 - The Reichstag on Conscript difficulty"
+      },
+      {
+        "id": "achievement-211",
+        "name": "Stalingrad Rail Station - Captain",
+        "kind": "trophy",
+        "chapterId": "campaign-1-7",
+        "where": "Complete Campaign Mission 01 - Stalingrad Rail Station on Captain difficulty"
+      },
+      {
+        "id": "achievement-212",
+        "name": "Scorched Earth - Captain",
+        "kind": "trophy",
+        "chapterId": "campaign-1-7",
+        "where": "Complete Campaign Mission 02 - Scorched Earth on Captain difficulty"
+      },
+      {
+        "id": "achievement-213",
+        "name": "Support is on the Way - Captain",
+        "kind": "trophy",
+        "chapterId": "campaign-1-7",
+        "where": "Complete Campaign Mission 03 - Support is on the Way on Captain difficulty"
+      },
+      {
+        "id": "achievement-214",
+        "name": "The Miraculous Winter - Captain",
+        "kind": "trophy",
+        "chapterId": "campaign-1-7",
+        "where": "Complete Campaign Mission 04 - The Miraculous Winter on Captain difficulty"
+      },
+      {
+        "id": "achievement-215",
+        "name": "Stalingrad - Captain",
+        "kind": "trophy",
+        "chapterId": "campaign-1-7",
+        "where": "Complete Campaign Mission 05 - Stalingrad on Captain difficulty"
+      },
+      {
+        "id": "achievement-216",
+        "name": "Stalingrad Aftermath - Captain",
+        "kind": "trophy",
+        "chapterId": "campaign-1-7",
+        "where": "Complete Campaign Mission 06 - Stalingrad Aftermath on Captain difficulty"
+      },
+      {
+        "id": "achievement-217",
+        "name": "Land Bridge to Leningrad - Captain",
+        "kind": "trophy",
+        "chapterId": "campaign-1-7",
+        "where": "Complete Campaign Mission 07 - Land Bridge to Leningrad on Captain difficulty"
+      },
+      {
+        "id": "achievement-218",
+        "name": "Tiger Hunting - Captain",
+        "kind": "trophy",
+        "chapterId": "campaign-8-14",
+        "where": "Complete Campaign Mission 08 - Tiger Hunting on Captain difficulty"
+      },
+      {
+        "id": "achievement-219",
+        "name": "Radio Silence - Captain",
+        "kind": "trophy",
+        "chapterId": "campaign-8-14",
+        "where": "Complete Campaign Mission 09 - Radio Silence on Captain difficulty"
+      },
+      {
+        "id": "achievement-220",
+        "name": "Lublin - Captain",
+        "kind": "trophy",
+        "chapterId": "campaign-8-14",
+        "where": "Complete Campaign Mission 10 - Lublin on Captain difficulty"
+      },
+      {
+        "id": "achievement-221",
+        "name": "Behind Enemy Lines - Captain",
+        "kind": "trophy",
+        "chapterId": "campaign-8-14",
+        "where": "Complete Campaign Mission 11 - Behind Enemy Lines on Captain difficulty"
+      },
+      {
+        "id": "achievement-222",
+        "name": "Poznan Citadel - Captain",
+        "kind": "trophy",
+        "chapterId": "campaign-8-14",
+        "where": "Complete Campaign Mission 12 - Poznan Citadel on Captain difficulty"
+      },
+      {
+        "id": "achievement-223",
+        "name": "Halbe - Captain",
+        "kind": "trophy",
+        "chapterId": "campaign-8-14",
+        "where": "Complete Campaign Mission 13 - Halbe on Captain difficulty"
+      },
+      {
+        "id": "achievement-224",
+        "name": "The Reichstag - Captain",
+        "kind": "trophy",
+        "chapterId": "campaign-8-14",
+        "where": "Complete Campaign Mission 14 - The Reichstag on Captain difficulty"
+      },
+      {
+        "id": "achievement-225",
+        "name": "Stalingrad Rail Station - General",
+        "kind": "trophy",
+        "chapterId": "campaign-1-7",
+        "where": "Complete Campaign Mission 01 - Stalingrad Rail Station on General difficulty"
+      },
+      {
+        "id": "achievement-226",
+        "name": "Scorched Earth - General",
+        "kind": "trophy",
+        "chapterId": "campaign-1-7",
+        "where": "Complete Campaign Mission 02 - Scorched Earth on General difficulty"
+      },
+      {
+        "id": "achievement-227",
+        "name": "Support is on the Way - General",
+        "kind": "trophy",
+        "chapterId": "campaign-1-7",
+        "where": "Complete Campaign Mission 03 - Support is on the Way on General difficulty"
+      },
+      {
+        "id": "achievement-228",
+        "name": "The Miraculous Winter - General",
+        "kind": "trophy",
+        "chapterId": "campaign-1-7",
+        "where": "Complete Campaign Mission 04 - The Miraculous Winter on General difficulty"
+      },
+      {
+        "id": "achievement-229",
+        "name": "Stalingrad - General",
+        "kind": "trophy",
+        "chapterId": "campaign-1-7",
+        "where": "Complete Campaign Mission 05 - Stalingrad on General difficulty"
+      },
+      {
+        "id": "achievement-230",
+        "name": "Stalingrad Aftermath - General",
+        "kind": "trophy",
+        "chapterId": "campaign-1-7",
+        "where": "Complete Campaign Mission 06 - Stalingrad Aftermath on General difficulty"
+      },
+      {
+        "id": "achievement-231",
+        "name": "Land Bridge to Leningrad - General",
+        "kind": "trophy",
+        "chapterId": "campaign-1-7",
+        "where": "Complete Campaign Mission 07 - Land Bridge to Leningrad on General difficulty"
+      },
+      {
+        "id": "achievement-232",
+        "name": "Tiger Hunting - General",
+        "kind": "trophy",
+        "chapterId": "campaign-8-14",
+        "where": "Complete Campaign Mission 08 - Tiger Hunting on General difficulty"
+      },
+      {
+        "id": "achievement-233",
+        "name": "Radio Silence - General",
+        "kind": "trophy",
+        "chapterId": "campaign-8-14",
+        "where": "Complete Campaign Mission 09 - Radio Silence on General difficulty"
+      },
+      {
+        "id": "achievement-234",
+        "name": "Lublin - General",
+        "kind": "trophy",
+        "chapterId": "campaign-8-14",
+        "where": "Complete Campaign Mission 10 - Lublin on General difficulty"
+      },
+      {
+        "id": "achievement-235",
+        "name": "Behind Enemy Lines - General",
+        "kind": "trophy",
+        "chapterId": "campaign-8-14",
+        "where": "Complete Campaign Mission 11 - Behind Enemy Lines on General difficulty"
+      },
+      {
+        "id": "achievement-236",
+        "name": "Poznan Citadel - General",
+        "kind": "trophy",
+        "chapterId": "campaign-8-14",
+        "where": "Complete Campaign Mission 12 - Poznan Citadel on General difficulty"
+      },
+      {
+        "id": "achievement-237",
+        "name": "Halbe - General",
+        "kind": "trophy",
+        "chapterId": "campaign-8-14",
+        "where": "Complete Campaign Mission 13 - Halbe on General difficulty"
+      },
+      {
+        "id": "achievement-238",
+        "name": "The Reichstag - General",
+        "kind": "trophy",
+        "chapterId": "campaign-8-14",
+        "where": "Complete Campaign Mission 14 - The Reichstag on General difficulty"
+      },
+      {
+        "id": "achievement-239",
+        "name": "Campaign - Conscript",
+        "kind": "trophy",
+        "chapterId": "campaign-8-14",
+        "where": "Complete the Campaign on Conscript difficulty"
+      },
+      {
+        "id": "achievement-240",
+        "name": "Campaign - Captain",
+        "kind": "trophy",
+        "chapterId": "campaign-8-14",
+        "where": "Complete the Campaign on Captain difficulty"
+      },
+      {
+        "id": "achievement-241",
+        "name": "Campaign - General",
+        "kind": "trophy",
+        "chapterId": "campaign-8-14",
+        "where": "Complete the Campaign on General difficulty"
+      },
+      {
+        "id": "achievement-242",
+        "name": "Blitzkrieg - Conscript",
+        "kind": "trophy",
+        "chapterId": "theater-1941",
+        "where": "Complete the Blitzkrieg Challenge on Conscript difficulty"
+      },
+      {
+        "id": "achievement-243",
+        "name": "Officer Assassination - Conscript",
+        "kind": "trophy",
+        "chapterId": "theater-1941",
+        "where": "Complete the Officer Assassination Challenge on Conscript difficulty"
+      },
+      {
+        "id": "achievement-244",
+        "name": "Defense of Schildkröteberg - Conscript",
+        "kind": "trophy",
+        "chapterId": "theater-1941",
+        "where": "Complete the Defense of Schildkröteberg Challenge on Conscript difficulty"
+      },
+      {
+        "id": "achievement-245",
+        "name": "Cold Weather - Conscript",
+        "kind": "trophy",
+        "chapterId": "theater-1941",
+        "where": "Complete the Cold Weather Challenge on Conscript difficulty"
+      },
+      {
+        "id": "achievement-246",
+        "name": "Indirect Fire - Conscript",
+        "kind": "trophy",
+        "chapterId": "theater-1941",
+        "where": "Complete the Indirect Fire Challenge on Conscript difficulty"
+      },
+      {
+        "id": "achievement-247",
+        "name": "Winter Defense - Conscript",
+        "kind": "trophy",
+        "chapterId": "theater-1941",
+        "where": "Complete the Winter Defense Challenge on Conscript difficulty"
+      },
+      {
+        "id": "achievement-248",
+        "name": "Blitzkrieg - Captain",
+        "kind": "trophy",
+        "chapterId": "theater-1941",
+        "where": "Complete the Blitzkrieg Challenge on Captain difficulty"
+      },
+      {
+        "id": "achievement-249",
+        "name": "Officer Assassination - Captain",
+        "kind": "trophy",
+        "chapterId": "theater-1941",
+        "where": "Complete the Officer Assassination Challenge on Captain difficulty"
+      },
+      {
+        "id": "achievement-250",
+        "name": "Defense of Schildkröteberg - Captain",
+        "kind": "trophy",
+        "chapterId": "theater-1941",
+        "where": "Complete the Defense of Schildkröteberg Challenge on Captain difficulty"
+      },
+      {
+        "id": "achievement-251",
+        "name": "Cold Weather - Captain",
+        "kind": "trophy",
+        "chapterId": "theater-1941",
+        "where": "Complete the Cold Weather Challenge on Captain difficulty"
+      },
+      {
+        "id": "achievement-252",
+        "name": "Indirect Fire - Captain",
+        "kind": "trophy",
+        "chapterId": "theater-1941",
+        "where": "Complete the Indirect Fire Challenge on Captain difficulty"
+      },
+      {
+        "id": "achievement-253",
+        "name": "Winter Defense - Captain",
+        "kind": "trophy",
+        "chapterId": "theater-1941",
+        "where": "Complete the Winter Defense Challenge on Captain difficulty"
+      },
+      {
+        "id": "achievement-254",
+        "name": "Blitzkrieg - General",
+        "kind": "trophy",
+        "chapterId": "theater-1941",
+        "where": "Complete the Blitzkrieg Challenge on General difficulty"
+      },
+      {
+        "id": "achievement-255",
+        "name": "Officer Assassination - General",
+        "kind": "trophy",
+        "chapterId": "theater-1941",
+        "where": "Complete the Officer Assassination Challenge on General difficulty"
+      },
+      {
+        "id": "achievement-256",
+        "name": "Defense of Schildkröteberg - General",
+        "kind": "trophy",
+        "chapterId": "theater-1941",
+        "where": "Complete the Defense of Schildkröteberg Challenge on General difficulty"
+      },
+      {
+        "id": "achievement-257",
+        "name": "Cold Weather - General",
+        "kind": "trophy",
+        "chapterId": "theater-1941",
+        "where": "Complete the Cold Weather Challenge on General difficulty"
+      },
+      {
+        "id": "achievement-258",
+        "name": "Indirect Fire - General",
+        "kind": "trophy",
+        "chapterId": "theater-1941",
+        "where": "Complete the Indirect Fire Challenge on General difficulty"
+      },
+      {
+        "id": "achievement-259",
+        "name": "Winter Defense - General",
+        "kind": "trophy",
+        "chapterId": "theater-1941",
+        "where": "Complete the Winter Defense Challenge on General difficulty"
+      },
+      {
+        "id": "achievement-260",
+        "name": "Encirclement at Smolensk - Conscript",
+        "kind": "trophy",
+        "chapterId": "theater-1941",
+        "where": "Complete the Encirclement at Smolensk on Conscript difficulty"
+      },
+      {
+        "id": "achievement-261",
+        "name": "Faceoff at Rostov - Conscript",
+        "kind": "trophy",
+        "chapterId": "theater-1941",
+        "where": "Complete the Faceoff at Rostov on Conscript difficulty"
+      },
+      {
+        "id": "achievement-262",
+        "name": "Brody Tank War - Conscript",
+        "kind": "trophy",
+        "chapterId": "theater-1941",
+        "where": "Complete the Brody Tank War on Conscript difficulty"
+      },
+      {
+        "id": "achievement-263",
+        "name": "General Winter - Conscript",
+        "kind": "trophy",
+        "chapterId": "theater-1941",
+        "where": "Complete the General Winter Scenario on Conscript difficulty"
+      },
+      {
+        "id": "achievement-264",
+        "name": "Encirclement at Smolensk - Captain",
+        "kind": "trophy",
+        "chapterId": "theater-1941",
+        "where": "Complete the Encirclement at Smolensk on Captain difficulty"
+      },
+      {
+        "id": "achievement-265",
+        "name": "Faceoff at Rostov - Captain",
+        "kind": "trophy",
+        "chapterId": "theater-1941",
+        "where": "Complete the Faceoff at Rostov on Captain difficulty"
+      },
+      {
+        "id": "achievement-266",
+        "name": "Brody Tank War - Captain",
+        "kind": "trophy",
+        "chapterId": "theater-1941",
+        "where": "Complete the Brody Tank War on Captain difficulty"
+      },
+      {
+        "id": "achievement-267",
+        "name": "General Winter - Captain",
+        "kind": "trophy",
+        "chapterId": "theater-1941",
+        "where": "Complete the General Winter Scenario on Captain difficulty"
+      },
+      {
+        "id": "achievement-268",
+        "name": "Encirclement at Smolensk - General",
+        "kind": "trophy",
+        "chapterId": "theater-1941",
+        "where": "Complete the Encirclement at Smolensk on General difficulty"
+      },
+      {
+        "id": "achievement-269",
+        "name": "Faceoff at Rostov - General",
+        "kind": "trophy",
+        "chapterId": "theater-1941",
+        "where": "Complete the Faceoff at Rostov on General difficulty"
+      },
+      {
+        "id": "achievement-270",
+        "name": "Brody Tank War - General",
+        "kind": "trophy",
+        "chapterId": "theater-1941",
+        "where": "Complete the Brody Tank War on General difficulty"
+      },
+      {
+        "id": "achievement-271",
+        "name": "General Winter - General",
+        "kind": "trophy",
+        "chapterId": "theater-1941",
+        "where": "Complete the General Winter Scenario on General difficulty"
+      },
+      {
+        "id": "achievement-272",
+        "name": "Leningrad Approach - Conscript",
+        "kind": "trophy",
+        "chapterId": "theater-1941",
+        "where": "Complete the battle: Leningrad Approach on Conscript difficulty"
+      },
+      {
+        "id": "achievement-273",
+        "name": "Battle of the Crimea - Conscript",
+        "kind": "trophy",
+        "chapterId": "theater-1941",
+        "where": "Complete the Battle of Crimea on Conscript difficulty"
+      },
+      {
+        "id": "achievement-274",
+        "name": "Battle of Oka River - Conscript",
+        "kind": "trophy",
+        "chapterId": "theater-1941",
+        "where": "Complete the Battle of Oka River on Conscript difficulty"
+      },
+      {
+        "id": "achievement-275",
+        "name": "First Battle of Kharkov - Conscript",
+        "kind": "trophy",
+        "chapterId": "theater-1941",
+        "where": "Complete the First Battle of Kharkov on Conscript difficulty"
+      },
+      {
+        "id": "achievement-276",
+        "name": "Moscow Lines - Conscript",
+        "kind": "trophy",
+        "chapterId": "theater-1941",
+        "where": "Complete the battle: Moscow Lines on Conscript difficulty"
+      },
+      {
+        "id": "achievement-277",
+        "name": "Battle of Minsk - Conscript",
+        "kind": "trophy",
+        "chapterId": "theater-1941",
+        "where": "Complete the Battle of Minsk on Conscript difficulty"
+      },
+      {
+        "id": "achievement-278",
+        "name": "Moscow Approach - Conscript",
+        "kind": "trophy",
+        "chapterId": "theater-1941",
+        "where": "Complete the battle: Moscow Approach on Conscript difficulty"
+      },
+      {
+        "id": "achievement-279",
+        "name": "Battle of Pripyat River - Conscript",
+        "kind": "trophy",
+        "chapterId": "theater-1941",
+        "where": "Complete the Battle of Pripyat River on Conscript difficulty"
+      },
+      {
+        "id": "achievement-280",
+        "name": "Leningrad Approach - Captain",
+        "kind": "trophy",
+        "chapterId": "theater-1941",
+        "where": "Complete the battle: Leningrad Approach on Captain difficulty"
+      },
+      {
+        "id": "achievement-281",
+        "name": "Battle of the Crimea - Captain",
+        "kind": "trophy",
+        "chapterId": "theater-1941",
+        "where": "Complete the Battle of Crimea on Captain difficulty"
+      },
+      {
+        "id": "achievement-282",
+        "name": "Battle of Oka River - Captain",
+        "kind": "trophy",
+        "chapterId": "theater-1941",
+        "where": "Complete the Battle of Oka River on Captain difficulty"
+      },
+      {
+        "id": "achievement-283",
+        "name": "First Battle of Kharkov - Captain",
+        "kind": "trophy",
+        "chapterId": "theater-1941",
+        "where": "Complete the First Battle of Kharkov on Captain difficulty"
+      },
+      {
+        "id": "achievement-284",
+        "name": "Moscow Lines - Captain",
+        "kind": "trophy",
+        "chapterId": "theater-1941",
+        "where": "Complete the battle: Moscow Lines on Captain difficulty"
+      },
+      {
+        "id": "achievement-285",
+        "name": "Battle of Minsk - Captain",
+        "kind": "trophy",
+        "chapterId": "theater-1941",
+        "where": "Complete the Battle of Minsk on Captain difficulty"
+      },
+      {
+        "id": "achievement-286",
+        "name": "Moscow Approach - Captain",
+        "kind": "trophy",
+        "chapterId": "theater-1941",
+        "where": "Complete the battle: Moscow Approach on Captain difficulty"
+      },
+      {
+        "id": "achievement-287",
+        "name": "Battle of Pripyat River - Captain",
+        "kind": "trophy",
+        "chapterId": "theater-1941",
+        "where": "Complete the Battle of Pripyat River on Captain difficulty"
+      },
+      {
+        "id": "achievement-288",
+        "name": "Leningrad Approach - General",
+        "kind": "trophy",
+        "chapterId": "theater-1941",
+        "where": "Complete the battle: Leningrad Approach on General difficulty"
+      },
+      {
+        "id": "achievement-289",
+        "name": "Battle of the Crimea - General",
+        "kind": "trophy",
+        "chapterId": "theater-1941",
+        "where": "Complete the Battle of Crimea on General difficulty"
+      },
+      {
+        "id": "achievement-290",
+        "name": "Battle of Oka River - General",
+        "kind": "trophy",
+        "chapterId": "theater-1941",
+        "where": "Complete the Battle of Oka River on General difficulty"
+      },
+      {
+        "id": "achievement-291",
+        "name": "First Battle of Kharkov - General",
+        "kind": "trophy",
+        "chapterId": "theater-1941",
+        "where": "Complete the First Battle of Kharkov on General difficulty"
+      },
+      {
+        "id": "achievement-292",
+        "name": "Moscow Lines - General",
+        "kind": "trophy",
+        "chapterId": "theater-1941",
+        "where": "Complete the battle: Moscow Lines on General difficulty"
+      },
+      {
+        "id": "achievement-293",
+        "name": "Battle of Minsk - General",
+        "kind": "trophy",
+        "chapterId": "theater-1941",
+        "where": "Complete the Battle of Minsk on General difficulty"
+      },
+      {
+        "id": "achievement-294",
+        "name": "Moscow Approach - General",
+        "kind": "trophy",
+        "chapterId": "theater-1941",
+        "where": "Complete the battle: Moscow Approach on General difficulty"
+      },
+      {
+        "id": "achievement-295",
+        "name": "Battle of Pripyat River - General",
+        "kind": "trophy",
+        "chapterId": "theater-1941",
+        "where": "Complete the Battle of Pripyat River on General difficulty"
+      },
+      {
+        "id": "achievement-296",
+        "name": "Theater of War - 1941 - Scenarios",
+        "kind": "trophy",
+        "chapterId": "theater-1941",
+        "where": "Complete all Theater of War Co-op Scenarios in 1941"
+      },
+      {
+        "id": "achievement-297",
+        "name": "Theater of War - 1941 - Battles",
+        "kind": "trophy",
+        "chapterId": "theater-1941",
+        "where": "Complete all Theater of War Battles in 1941"
+      },
+      {
+        "id": "achievement-298",
+        "name": "Theater of War - 1941 - Challenges",
+        "kind": "trophy",
+        "chapterId": "theater-1941",
+        "where": "Complete all Theater of War Challenges in 1941"
+      },
+      {
+        "id": "achievement-299",
+        "name": "Theater of War - 1941 - Conscript",
+        "kind": "trophy",
+        "chapterId": "theater-1941",
+        "where": "Complete all Theater of War missions in 1941 on Conscript difficulty"
+      },
+      {
+        "id": "achievement-300",
+        "name": "Theater of War - 1941 - Captain",
+        "kind": "trophy",
+        "chapterId": "theater-1941",
+        "where": "Complete all Theater of War missions in 1941 on Captain difficulty"
+      },
+      {
+        "id": "achievement-301",
+        "name": "Theater of War - 1941 - General",
+        "kind": "trophy",
+        "chapterId": "theater-1941",
+        "where": "Complete all Theater of War missions in 1941 on General difficulty"
+      },
+      {
+        "id": "achievement-302",
+        "name": "M.01 - German Engineering",
+        "kind": "trophy",
+        "chapterId": "campaign-1-7",
+        "where": "Kill a German tank with a German AT Gun"
+      },
+      {
+        "id": "achievement-303",
+        "name": "M.01 - Compassion in War",
+        "kind": "trophy",
+        "chapterId": "campaign-1-7",
+        "where": "Rescue the trapped civilians"
+      },
+      {
+        "id": "achievement-304",
+        "name": "M.01 - Soviet Zeal",
+        "kind": "trophy",
+        "chapterId": "campaign-1-7",
+        "where": "Complete Mission 01 without calling in additional Shock Troops"
+      },
+      {
+        "id": "achievement-305",
+        "name": "M.02 - What's Mine is Mine",
+        "kind": "trophy",
+        "chapterId": "campaign-1-7",
+        "where": "Defend the trainyard without placing any mines on the roads"
+      },
+      {
+        "id": "achievement-306",
+        "name": "M.02 - Invaluable Resources",
+        "kind": "trophy",
+        "chapterId": "campaign-1-7",
+        "where": "Keep the Shock Troops alive throughout Mission 2"
+      },
+      {
+        "id": "achievement-307",
+        "name": "M.03 - Something Borrowed",
+        "kind": "trophy",
+        "chapterId": "campaign-1-7",
+        "where": "Capture at least 3 enemy weapons on the Ridge"
+      },
+      {
+        "id": "achievement-308",
+        "name": "M.03 - Mtsensk Mine Field",
+        "kind": "trophy",
+        "chapterId": "campaign-1-7",
+        "where": "Place at least 10 mines before the village defense"
+      },
+      {
+        "id": "achievement-309",
+        "name": "M.03 - Hardened Armor",
+        "kind": "trophy",
+        "chapterId": "campaign-1-7",
+        "where": "Re-take the Ridge without losing a vehicle on General difficulty"
+      },
+      {
+        "id": "achievement-310",
+        "name": "M.04 - Revenge",
+        "kind": "trophy",
+        "chapterId": "campaign-1-7",
+        "where": "Destroy all 10 tanks in Mission 4"
+      },
+      {
+        "id": "achievement-311",
+        "name": "M.04 - Cool Efficiency",
+        "kind": "trophy",
+        "chapterId": "campaign-1-7",
+        "where": "Take all three German outposts in Mission 4 using only snipers"
+      },
+      {
+        "id": "achievement-312",
+        "name": "M.05 - Some Room to Breathe",
+        "kind": "trophy",
+        "chapterId": "campaign-1-7",
+        "where": "Locate and destroy the enemy howitzers in Stalingrad"
+      },
+      {
+        "id": "achievement-313",
+        "name": "M.05 - Help from the North",
+        "kind": "trophy",
+        "chapterId": "campaign-1-7",
+        "where": "Secure the Northern bridge in Stalingrad"
+      },
+      {
+        "id": "achievement-314",
+        "name": "M.05 - The Silent Organs",
+        "kind": "trophy",
+        "chapterId": "campaign-1-7",
+        "where": "Complete Mission 5 without firing the Katyusha rockets"
+      },
+      {
+        "id": "achievement-315",
+        "name": "M.06 - Scout vs. Sniper",
+        "kind": "trophy",
+        "chapterId": "campaign-1-7",
+        "where": "Kill at least 3 snipers with an M3A1 Scout Car"
+      },
+      {
+        "id": "achievement-316",
+        "name": "M.06 - Get Out of the Truck!",
+        "kind": "trophy",
+        "chapterId": "campaign-1-7",
+        "where": "Destroy all the German halftracks"
+      },
+      {
+        "id": "achievement-317",
+        "name": "M.06 - Repel and Repair",
+        "kind": "trophy",
+        "chapterId": "campaign-1-7",
+        "where": "Complete the mission with at least 50 percent HQ integrity on General difficulty"
+      },
+      {
+        "id": "achievement-318",
+        "name": "M.07 - Direct Fire",
+        "kind": "trophy",
+        "chapterId": "campaign-1-7",
+        "where": "Complete the mission without capturing or deploying a Mortar"
+      },
+      {
+        "id": "achievement-319",
+        "name": "M.07 - Suchka Specialist",
+        "kind": "trophy",
+        "chapterId": "campaign-1-7",
+        "where": "Earn three ranks of veterancy with an SU-76"
+      },
+      {
+        "id": "achievement-320",
+        "name": "M.07 - Point Blank Demolition",
+        "kind": "trophy",
+        "chapterId": "campaign-1-7",
+        "where": "Destroy the German strongholds from close range on General difficulty"
+      },
+      {
+        "id": "achievement-321",
+        "name": "M.08 - No Help Needed",
+        "kind": "trophy",
+        "chapterId": "campaign-8-14",
+        "where": "Complete the “Hunt” without calling in any additional troops"
+      },
+      {
+        "id": "achievement-322",
+        "name": "M.09 - All on Your Own",
+        "kind": "trophy",
+        "chapterId": "campaign-8-14",
+        "where": "Complete Mission 9 without reestablishing radio communication"
+      },
+      {
+        "id": "achievement-323",
+        "name": "M.09 - The Spice of Life",
+        "kind": "trophy",
+        "chapterId": "campaign-8-14",
+        "where": "Create all available types of tank in Mission 9"
+      },
+      {
+        "id": "achievement-324",
+        "name": "M.10 - Glass Cannons",
+        "kind": "trophy",
+        "chapterId": "campaign-8-14",
+        "where": "Destroy an Elefant or all Pak-43s before they destroy a vehicle"
+      },
+      {
+        "id": "achievement-325",
+        "name": "M.10 - Gate Crusher",
+        "kind": "trophy",
+        "chapterId": "campaign-8-14",
+        "where": "Breach the gate without losing an ISU-152 on General difficulty"
+      },
+      {
+        "id": "achievement-326",
+        "name": "M.11 - Armia Krajowa",
+        "kind": "trophy",
+        "chapterId": "campaign-8-14",
+        "where": "Mobilize all three types of partisan troops during the fight"
+      },
+      {
+        "id": "achievement-327",
+        "name": "M.11 - Snipe the driver",
+        "kind": "trophy",
+        "chapterId": "campaign-8-14",
+        "where": "Snipe the driver of a moving Opel truck"
+      },
+      {
+        "id": "achievement-328",
+        "name": "M.12 - Howitzer Hunter",
+        "kind": "trophy",
+        "chapterId": "campaign-8-14",
+        "where": "Destroy all of the German Howitzers in the city of Poznan"
+      },
+      {
+        "id": "achievement-329",
+        "name": "M.12 - Solo Commander",
+        "kind": "trophy",
+        "chapterId": "campaign-8-14",
+        "where": "Capture both squares in Poznan before Colonel-General Kolpakchi’s army does"
+      },
+      {
+        "id": "achievement-330",
+        "name": "M.12 - To the Rescue",
+        "kind": "trophy",
+        "chapterId": "campaign-8-14",
+        "where": "Find and rescue the Penal Battalions incarcerated in the city of Poznan"
+      },
+      {
+        "id": "achievement-331",
+        "name": "M.13 - Halbe Massacre",
+        "kind": "trophy",
+        "chapterId": "campaign-8-14",
+        "where": "Allow no Germans to escape the encirclement"
+      },
+      {
+        "id": "achievement-332",
+        "name": "M.13 - The Might of the Red Army",
+        "kind": "trophy",
+        "chapterId": "campaign-8-14",
+        "where": "Complete the Halbe encirclement without producing any additional units"
+      },
+      {
+        "id": "achievement-333",
+        "name": "M.14 - Claimed for the Motherland",
+        "kind": "trophy",
+        "chapterId": "campaign-8-14",
+        "where": "Recrew the abandoned StuG, Brummbär and Ostwind"
+      },
+      {
+        "id": "achievement-334",
+        "name": "M.14 - Before the Winter",
+        "kind": "trophy",
+        "chapterId": "campaign-8-14",
+        "where": "Achieve victory in 60 minutes or less."
+      },
+      {
+        "id": "achievement-335",
+        "name": "M.14 - Boots in the Streets",
+        "kind": "trophy",
+        "chapterId": "campaign-8-14",
+        "where": "Complete the mission without building any additional vehicles"
+      },
+      {
+        "id": "achievement-336",
+        "name": "Help Indeed",
+        "kind": "trophy",
+        "chapterId": "theater-1941",
+        "where": "Rescue all three Partizan squads in the Cold Weather challenge"
+      },
+      {
+        "id": "achievement-337",
+        "name": "Winter Driver",
+        "kind": "trophy",
+        "chapterId": "theater-1941",
+        "where": "Recrew and fully repair a Panzer IV tank during the Cold Weather challenge"
+      },
+      {
+        "id": "achievement-338",
+        "name": "Gold Weather",
+        "kind": "trophy",
+        "chapterId": "theater-1941",
+        "where": "Complete all objectives in the Cold Weather challenge"
+      },
+      {
+        "id": "achievement-339",
+        "name": "Massive Destruction",
+        "kind": "trophy",
+        "chapterId": "theater-1941",
+        "where": "Destroy 75% of the neutral structures during the Indirect Fire Challenge"
+      },
+      {
+        "id": "achievement-340",
+        "name": "Rocket Recovery",
+        "kind": "trophy",
+        "chapterId": "theater-1941",
+        "where": "Recrew all of the Katyusha trucks on the map during the Indirect Fire Challenge"
+      },
+      {
+        "id": "achievement-341",
+        "name": "Indirect Gold",
+        "kind": "trophy",
+        "chapterId": "theater-1941",
+        "where": "Complete all objectives in the Indirect Fire Challenge"
+      },
+      {
+        "id": "achievement-342",
+        "name": "Panzer Theft",
+        "kind": "trophy",
+        "chapterId": "theater-1941",
+        "where": "Recrew and repair a Panzer IV tank during the Winter Defense Challenge"
+      },
+      {
+        "id": "achievement-343",
+        "name": "To the Front",
+        "kind": "trophy",
+        "chapterId": "theater-1941",
+        "where": "Call in 20 squads of Fresh Conscripts during the Winter Defense Challenge"
+      },
+      {
+        "id": "achievement-344",
+        "name": "Gold Defense",
+        "kind": "trophy",
+        "chapterId": "theater-1941",
+        "where": "Complete all objectives in the Winter Defense Challenge"
+      },
+      {
+        "id": "achievement-345",
+        "name": "Clean Sweep",
+        "kind": "trophy",
+        "chapterId": "theater-1941",
+        "where": "Clear the entire minefield in the Blitzkrieg Challenge"
+      },
+      {
+        "id": "achievement-346",
+        "name": "Armored and Dangerous",
+        "kind": "trophy",
+        "chapterId": "theater-1941",
+        "where": "Recrew 10 Soviet vehicles during the Blitzkrieg Challenge"
+      },
+      {
+        "id": "achievement-347",
+        "name": "Goldkrieg",
+        "kind": "trophy",
+        "chapterId": "theater-1941",
+        "where": "Complete all objectives in the Blitzkrieg Challenge"
+      },
+      {
+        "id": "achievement-348",
+        "name": "Sharpshooter",
+        "kind": "trophy",
+        "chapterId": "theater-1941",
+        "where": "Use a Sniper to deliver the killing shot to five Soviet officers during the Officer Assassination Challenge"
+      },
+      {
+        "id": "achievement-349",
+        "name": "Scrounger",
+        "kind": "trophy",
+        "chapterId": "theater-1941",
+        "where": "Pick up 80% of the supply caches on the map during the Officer Assassination Challenge"
+      },
+      {
+        "id": "achievement-350",
+        "name": "Gold Assassin",
+        "kind": "trophy",
+        "chapterId": "theater-1941",
+        "where": "Complete all objectives in the Officer Assassination Challenge"
+      },
+      {
+        "id": "achievement-351",
+        "name": "Hard Shell",
+        "kind": "trophy",
+        "chapterId": "theater-1941",
+        "where": "Build 3 Panzer IV Medium Tanks during the match during the Defense of Schildkröteberg"
+      },
+      {
+        "id": "achievement-352",
+        "name": "Triple Triple",
+        "kind": "trophy",
+        "chapterId": "theater-1941",
+        "where": "Have three squads reach triple veterancy during the Defense of Schildkröteberg"
+      },
+      {
+        "id": "achievement-353",
+        "name": "Turtle Gold",
+        "kind": "trophy",
+        "chapterId": "theater-1941",
+        "where": "Complete all objectives in the Defense of Schildkröteberg"
+      },
+      {
+        "id": "achievement-354",
+        "name": "I Need No Help",
+        "kind": "trophy",
+        "chapterId": "theater-1941",
+        "where": "Do not call in any reinforcements during the Brody Tank War"
+      },
+      {
+        "id": "achievement-355",
+        "name": "Panzer Graveyard",
+        "kind": "trophy",
+        "chapterId": "theater-1941",
+        "where": "Destroy 20 German tanks or assault guns during the Brody Tank War"
+      },
+      {
+        "id": "achievement-356",
+        "name": "Cookout",
+        "kind": "trophy",
+        "chapterId": "theater-1941",
+        "where": "Build 10 Campfires during the General Winter Scenario"
+      },
+      {
+        "id": "achievement-357",
+        "name": "Halftracked",
+        "kind": "trophy",
+        "chapterId": "theater-1941",
+        "where": "Recrew all the abandoned German halftracks on the General Winter Scenario map"
+      },
+      {
+        "id": "achievement-358",
+        "name": "In the Noose",
+        "kind": "trophy",
+        "chapterId": "theater-1941",
+        "where": "Destroy all the vehicles in the Soviet breakout convoy during the Encirclement at Smolensk"
+      },
+      {
+        "id": "achievement-359",
+        "name": "Uncompromising",
+        "kind": "trophy",
+        "chapterId": "theater-1941",
+        "where": "Complete Faceoff at Rostov without the Soviets ever controlling more Victory Points than you do."
+      },
+      {
+        "id": "achievement-360",
+        "name": "Red Dead",
+        "kind": "trophy",
+        "chapterId": "theater-1941",
+        "where": "Kill 20 squads of Soviet Shock Troops or Penal Battalions during Faceoff at Rostov"
+      },
+      {
+        "id": "achievement-361",
+        "name": "Silence the Guns",
+        "kind": "trophy",
+        "chapterId": "theater-1941",
+        "where": "Destroy the Soviet Artillery positions on the central plateau in the Encirclement at Smolensk"
+      },
+      {
+        "id": "achievement-362",
+        "name": "M.10 - Zero-Risk Market",
+        "kind": "trophy",
+        "chapterId": "campaign-8-14",
+        "where": "Capture the Lublin market squad without losing a soldier or vehicle"
+      },
+      {
+        "id": "achievement-363",
+        "name": "Retreat at the Don - Captain",
+        "kind": "trophy",
+        "chapterId": "theater-case-blue-stalingrad",
+        "where": "Complete the Theater of War Battle: Retreat at the Don on Captain difficulty"
+      },
+      {
+        "id": "achievement-364",
+        "name": "Retreat at the Don - General",
+        "kind": "trophy",
+        "chapterId": "theater-case-blue-stalingrad",
+        "where": "Complete the Theater of War Battle: Retreat at the Don on General difficulty"
+      },
+      {
+        "id": "achievement-365",
+        "name": "Kharkov Pursuit - Conscript",
+        "kind": "trophy",
+        "chapterId": "theater-case-blue-stalingrad",
+        "where": "Complete the Theater of War Battle: Kharkov Pursuit on Conscript difficulty"
+      },
+      {
+        "id": "achievement-366",
+        "name": "Kharkov - Pursuit - Captain",
+        "kind": "trophy",
+        "chapterId": "theater-case-blue-stalingrad",
+        "where": "Complete the Theater of War Battle: Kharkov Pursuit on Captain difficulty"
+      },
+      {
+        "id": "achievement-367",
+        "name": "Kharkov Pursuit - General",
+        "kind": "trophy",
+        "chapterId": "theater-case-blue-stalingrad",
+        "where": "Complete the Theater of War Battle: Kharkov Pursuit on General difficulty"
+      },
+      {
+        "id": "achievement-368",
+        "name": "Convoy - Conscript",
+        "kind": "trophy",
+        "chapterId": "theater-case-blue-stalingrad",
+        "where": "Complete the Theater of War Challenge: Convoy on Conscript difficulty"
+      },
+      {
+        "id": "achievement-369",
+        "name": "Convoy - Captain",
+        "kind": "trophy",
+        "chapterId": "theater-case-blue-stalingrad",
+        "where": "Complete the Theater of War Challenge: Convoy on Captain difficulty"
+      },
+      {
+        "id": "achievement-370",
+        "name": "Convoy - General",
+        "kind": "trophy",
+        "chapterId": "theater-case-blue-stalingrad",
+        "where": "Complete the Theater of War Challenge: Convoy on General difficulty"
+      },
+      {
+        "id": "achievement-371",
+        "name": "Tiger Ace - Conscript",
+        "kind": "trophy",
+        "chapterId": "theater-case-blue-stalingrad",
+        "where": "Complete the Theater of War Challenge: Tiger Ace on Conscript difficulty"
+      },
+      {
+        "id": "achievement-372",
+        "name": "Tiger Ace - Captain",
+        "kind": "trophy",
+        "chapterId": "theater-case-blue-stalingrad",
+        "where": "Complete the Theater of War Challenge: Tiger Ace on Captain difficulty"
+      },
+      {
+        "id": "achievement-373",
+        "name": "Tiger Ace - General",
+        "kind": "trophy",
+        "chapterId": "theater-case-blue-stalingrad",
+        "where": "Complete the Theater of War Challenge: Tiger Ace on General difficulty"
+      },
+      {
+        "id": "achievement-374",
+        "name": "Assault on Voronezh - Conscript",
+        "kind": "trophy",
+        "chapterId": "theater-case-blue-stalingrad",
+        "where": "Complete the Theater of War Scenario: Assault on Voronezh on Conscript difficulty"
+      },
+      {
+        "id": "achievement-375",
+        "name": "Assault on Voronezh - Captain",
+        "kind": "trophy",
+        "chapterId": "theater-case-blue-stalingrad",
+        "where": "Complete the Theater of War Scenario: Assault on Voronezh on Captain difficulty"
+      },
+      {
+        "id": "achievement-376",
+        "name": "Assault on Voronezh - General",
+        "kind": "trophy",
+        "chapterId": "theater-case-blue-stalingrad",
+        "where": "Complete the Theater of War Scenario: Assault on Voronezh on General difficulty"
+      },
+      {
+        "id": "achievement-377",
+        "name": "Theater of War - Case Blue - Conscript",
+        "kind": "trophy",
+        "chapterId": "theater-case-blue-stalingrad",
+        "where": "Complete all Theater of War missions in Case Blue on Conscript difficulty"
+      },
+      {
+        "id": "achievement-378",
+        "name": "Theater of War - Case Blue - Captain",
+        "kind": "trophy",
+        "chapterId": "theater-case-blue-stalingrad",
+        "where": "Complete all Theater of War missions in Case Blue on Captain difficulty"
+      },
+      {
+        "id": "achievement-379",
+        "name": "Theater of War - Case Blue - General",
+        "kind": "trophy",
+        "chapterId": "theater-case-blue-stalingrad",
+        "where": "Complete all Theater of War missions in Case Blue on General difficulty"
+      },
+      {
+        "id": "achievement-380",
+        "name": "Retreat at the Don - Conscript",
+        "kind": "trophy",
+        "chapterId": "theater-case-blue-stalingrad",
+        "where": "Complete the Theater of War Battle: Retreat at the Don on Conscript difficulty"
+      },
+      {
+        "id": "achievement-381",
+        "name": "Stalingrad Resistance - Conscript",
+        "kind": "trophy",
+        "chapterId": "theater-case-blue-stalingrad",
+        "where": "Complete the Theater of War Battle: Stalingrad Resistance on Conscript difficulty"
+      },
+      {
+        "id": "achievement-382",
+        "name": "Stalingrad Resistance - Captain",
+        "kind": "trophy",
+        "chapterId": "theater-case-blue-stalingrad",
+        "where": "Complete the Theater of War Battle: Stalingrad Resistance on Captain difficulty"
+      },
+      {
+        "id": "achievement-383",
+        "name": "Stalingrad Resistance - General",
+        "kind": "trophy",
+        "chapterId": "theater-case-blue-stalingrad",
+        "where": "Complete the Theater of War Battle: Stalingrad Resistance on General difficulty"
+      },
+      {
+        "id": "achievement-384",
+        "name": "Winter Storm - Conscript",
+        "kind": "trophy",
+        "chapterId": "theater-case-blue-stalingrad",
+        "where": "Complete the Theater of War Battle: Winter Storm on Conscript difficulty"
+      },
+      {
+        "id": "achievement-385",
+        "name": "Winter Storm - Captain",
+        "kind": "trophy",
+        "chapterId": "theater-case-blue-stalingrad",
+        "where": "Complete the Theater of War Battle: Winter Storm on Captain difficulty"
+      },
+      {
+        "id": "achievement-386",
+        "name": "Winter Storm - General",
+        "kind": "trophy",
+        "chapterId": "theater-case-blue-stalingrad",
+        "where": "Complete the Theater of War Battle: Winter Storm on General difficulty"
+      },
+      {
+        "id": "achievement-387",
+        "name": "Stalingrad Encirclement - Conscript",
+        "kind": "trophy",
+        "chapterId": "theater-case-blue-stalingrad",
+        "where": "Complete the Theater of War Battle: Stalingrad Encirclement on Conscript difficulty"
+      },
+      {
+        "id": "achievement-388",
+        "name": "Stalingrad Encirclement - Captain",
+        "kind": "trophy",
+        "chapterId": "theater-case-blue-stalingrad",
+        "where": "Complete the Theater of War Battle: Stalingrad Encirclement on Captain difficulty"
+      },
+      {
+        "id": "achievement-389",
+        "name": "Stalingrad Encirclement - General",
+        "kind": "trophy",
+        "chapterId": "theater-case-blue-stalingrad",
+        "where": "Complete the Theater of War Battle: Stalingrad Encirclement on General difficulty"
+      },
+      {
+        "id": "achievement-390",
+        "name": "Tatsinskaya Raid - Conscript",
+        "kind": "trophy",
+        "chapterId": "theater-case-blue-stalingrad",
+        "where": "Complete the Theater of War Challenge: Tatsinskaya Raid on Conscript difficulty"
+      },
+      {
+        "id": "achievement-391",
+        "name": "Tatsinskaya Raid - Captain",
+        "kind": "trophy",
+        "chapterId": "theater-case-blue-stalingrad",
+        "where": "Complete the Theater of War Challenge: Tatsinskaya Raid on Captain difficulty"
+      },
+      {
+        "id": "achievement-392",
+        "name": "Tatsinskaya Raid - General",
+        "kind": "trophy",
+        "chapterId": "theater-case-blue-stalingrad",
+        "where": "Complete the Theater of War Challenge: Tatsinskaya Raid on General difficulty"
+      },
+      {
+        "id": "achievement-393",
+        "name": "Bridge Defense - Conscript",
+        "kind": "trophy",
+        "chapterId": "theater-case-blue-stalingrad",
+        "where": "Complete the Theater of War Challenge: Bridge on Conscript difficulty"
+      },
+      {
+        "id": "achievement-394",
+        "name": "Bridge Defense - Captain",
+        "kind": "trophy",
+        "chapterId": "theater-case-blue-stalingrad",
+        "where": "Complete the Theater of War Challenge: Bridge on Captain difficulty"
+      },
+      {
+        "id": "achievement-395",
+        "name": "Bridge Defense - General",
+        "kind": "trophy",
+        "chapterId": "theater-case-blue-stalingrad",
+        "where": "Complete the Theater of War Challenge: Bridge on General difficulty"
+      },
+      {
+        "id": "achievement-396",
+        "name": "Kalach - Conscript",
+        "kind": "trophy",
+        "chapterId": "theater-case-blue-stalingrad",
+        "where": "Complete the Theater of War Scenario: Kalach Pincer on Conscript difficulty"
+      },
+      {
+        "id": "achievement-397",
+        "name": "Kalach - Captain",
+        "kind": "trophy",
+        "chapterId": "theater-case-blue-stalingrad",
+        "where": "Complete the Theater of War Scenario: Kalach Pincer on Captain difficulty"
+      },
+      {
+        "id": "achievement-398",
+        "name": "Kalach - General",
+        "kind": "trophy",
+        "chapterId": "theater-case-blue-stalingrad",
+        "where": "Complete the Theater of War Scenario: Kalach Pincer on General difficulty"
+      },
+      {
+        "id": "achievement-399",
+        "name": "Theater of War - Victory at Stalingrad - Conscript",
+        "kind": "trophy",
+        "chapterId": "theater-case-blue-stalingrad",
+        "where": "Complete all Theater of War missions in Victory at Stalingrad on Conscript difficulty"
+      },
+      {
+        "id": "achievement-400",
+        "name": "Theater of War - Victory at Stalingrad - Captain",
+        "kind": "trophy",
+        "chapterId": "theater-case-blue-stalingrad",
+        "where": "Complete all Theater of War missions in Victory at Stalingrad on Captain difficulty"
+      },
+      {
+        "id": "achievement-401",
+        "name": "Theater of War - Victory at Stalingrad - General",
+        "kind": "trophy",
+        "chapterId": "theater-case-blue-stalingrad",
+        "where": "Complete all Theater of War missions in Victory at Stalingrad on General difficulty"
+      },
+      {
+        "id": "achievement-402",
+        "name": "Assault Grenadiers",
+        "kind": "trophy",
+        "chapterId": "bulletins-infantry-support",
+        "where": "Kill 50 enemies with a single Assault Grenadier Squad"
+      },
+      {
+        "id": "achievement-403",
+        "name": "BLITZKRIEG",
+        "kind": "trophy",
+        "chapterId": "bulletins-armour",
+        "where": "Deploy 50 Mechanized Assault Groups and 50 Mechanized Grenadier Groups."
+      },
+      {
+        "id": "achievement-404",
+        "name": "Makeshift Artillery",
+        "kind": "trophy",
+        "chapterId": "bulletins-armour",
+        "where": "Kill 200 infantry with STUG III E assault guns"
+      },
+      {
+        "id": "achievement-405",
+        "name": "Someone Needs to Man those Guns!",
+        "kind": "trophy",
+        "chapterId": "bulletins-infantry-support",
+        "where": "Deploy 200 Osttruppen squads."
+      },
+      {
+        "id": "achievement-406",
+        "name": "Just a Scratch!",
+        "kind": "trophy",
+        "chapterId": "bulletins-armour",
+        "where": "Get a KV1 to Veterancy Rank 3."
+      },
+      {
+        "id": "achievement-407",
+        "name": "BOOM!",
+        "kind": "trophy",
+        "chapterId": "bulletins-infantry-support",
+        "where": "Kill 100 vehicles with B4 howitzers."
+      },
+      {
+        "id": "achievement-408",
+        "name": "Size Doesn't Matter",
+        "kind": "trophy",
+        "chapterId": "bulletins-infantry-support",
+        "where": "Kill 5 Tigers with M-42 AT guns"
+      },
+      {
+        "id": "achievement-409",
+        "name": "We're Going to Need a Bigger Gun",
+        "kind": "trophy",
+        "chapterId": "bulletins-armour",
+        "where": "Get 100 kills using a KV2."
+      },
+      {
+        "id": "achievement-410",
+        "name": "They're Coming Out of the Woodwork!",
+        "kind": "trophy",
+        "chapterId": "bulletins-infantry-support",
+        "where": "Deploy 50 Partisan LMG Squads, 50 Partisan SMG Squads and 50 Partisan Rifle Squads."
+      },
+      {
+        "id": "achievement-411",
+        "name": "SURPRISE!",
+        "kind": "trophy",
+        "chapterId": "bulletins-infantry-support",
+        "where": "Destroy 20 vehicles with Partisan Tank Hunters."
+      },
+      {
+        "id": "achievement-412",
+        "name": "Rapid Fire Anti-Tank",
+        "kind": "trophy",
+        "chapterId": "bulletins-infantry-support",
+        "where": "Destroy 20 vehicles with DShK Heavy Machine Guns."
+      },
+      {
+        "id": "achievement-413",
+        "name": "Defending the Motherland",
+        "kind": "trophy",
+        "chapterId": "bulletins-infantry-support",
+        "where": "Kill 100 infantry units with Soviet Irregulars"
+      },
+      {
+        "id": "achievement-414",
+        "name": "They don't Call Him Ace for Nothing!",
+        "kind": "trophy",
+        "chapterId": "bulletins-armour",
+        "where": "Kill 200 units with a single Tiger Ace."
+      },
+      {
+        "id": "achievement-415",
+        "name": "Breaking Lines - Conscript",
+        "kind": "trophy",
+        "chapterId": "theater-southern-fronts",
+        "where": "Complete the Theater of War Battle: Breaking Lines on Conscript difficulty"
+      },
+      {
+        "id": "achievement-416",
+        "name": "Breaking Lines - Captain",
+        "kind": "trophy",
+        "chapterId": "theater-southern-fronts",
+        "where": "Complete the Theater of War Battle: Breaking Lines on Captain difficulty"
+      },
+      {
+        "id": "achievement-417",
+        "name": "Breaking Lines - General",
+        "kind": "trophy",
+        "chapterId": "theater-southern-fronts",
+        "where": "Complete the Theater of War Battle: Breaking Lines on General difficulty"
+      },
+      {
+        "id": "achievement-418",
+        "name": "General Mud - Conscript",
+        "kind": "trophy",
+        "chapterId": "theater-southern-fronts",
+        "where": "Complete the Theater of War Battle: General Mud on Conscript difficulty"
+      },
+      {
+        "id": "achievement-419",
+        "name": "General Mud - Captain",
+        "kind": "trophy",
+        "chapterId": "theater-southern-fronts",
+        "where": "Complete the Theater of War Battle: General Mud on Captain difficulty"
+      },
+      {
+        "id": "achievement-420",
+        "name": "General Mud - General",
+        "kind": "trophy",
+        "chapterId": "theater-southern-fronts",
+        "where": "Complete the Theater of War Battle: General Mud on General difficulty"
+      },
+      {
+        "id": "achievement-421",
+        "name": "Kharkov Divide - Conscript",
+        "kind": "trophy",
+        "chapterId": "theater-southern-fronts",
+        "where": "Complete the Theater of War Battle: Kharkov Divide on Conscript difficulty"
+      },
+      {
+        "id": "achievement-422",
+        "name": "Kharkov Divide - Captain",
+        "kind": "trophy",
+        "chapterId": "theater-southern-fronts",
+        "where": "Complete the Theater of War Battle: Kharkov Divide on Captain difficulty"
+      },
+      {
+        "id": "achievement-423",
+        "name": "Kharkov Divide - General",
+        "kind": "trophy",
+        "chapterId": "theater-southern-fronts",
+        "where": "Complete the Theater of War Battle: Kharkov Divide on General difficulty"
+      },
+      {
+        "id": "achievement-424",
+        "name": "No Retreat No Surrender - Conscript",
+        "kind": "trophy",
+        "chapterId": "theater-southern-fronts",
+        "where": "Complete the Theater of War Battle: No Retreat No Surrender on Conscript difficulty"
+      },
+      {
+        "id": "achievement-425",
+        "name": "No Retreat No Surrender - Captain",
+        "kind": "trophy",
+        "chapterId": "theater-southern-fronts",
+        "where": "Complete the Theater of War Battle: No Retreat No Surrender on Captain difficulty"
+      },
+      {
+        "id": "achievement-426",
+        "name": "No Retreat No Surrender - General",
+        "kind": "trophy",
+        "chapterId": "theater-southern-fronts",
+        "where": "Complete the Theater of War Battle: No Retreat No Surrender on General difficulty"
+      },
+      {
+        "id": "achievement-427",
+        "name": "Panzer Crossing - Conscript",
+        "kind": "trophy",
+        "chapterId": "theater-southern-fronts",
+        "where": "Complete the Theater of War Battle: Panzer Crossing on Conscript difficulty"
+      },
+      {
+        "id": "achievement-428",
+        "name": "Panzer Crossing - Captain",
+        "kind": "trophy",
+        "chapterId": "theater-southern-fronts",
+        "where": "Complete the Theater of War Battle: Panzer Crossing on Captain difficulty"
+      },
+      {
+        "id": "achievement-429",
+        "name": "Panzer Crossing - General",
+        "kind": "trophy",
+        "chapterId": "theater-southern-fronts",
+        "where": "Complete the Theater of War Battle: Panzer Crossing on General difficulty"
+      },
+      {
+        "id": "achievement-430",
+        "name": "Retreat to the Donets - Conscript",
+        "kind": "trophy",
+        "chapterId": "theater-southern-fronts",
+        "where": "Complete the Theater of War Battle: Retreat to the Donets on Conscript difficulty"
+      },
+      {
+        "id": "achievement-431",
+        "name": "Retreat to the Donets - Captain",
+        "kind": "trophy",
+        "chapterId": "theater-southern-fronts",
+        "where": "Complete the Theater of War Battle: Retreat to the Donets on Captain difficulty"
+      },
+      {
+        "id": "achievement-432",
+        "name": "Retreat to the Donets - General",
+        "kind": "trophy",
+        "chapterId": "theater-southern-fronts",
+        "where": "Complete the Theater of War Battle: Retreat to the Donets on General difficulty"
+      },
+      {
+        "id": "achievement-433",
+        "name": "Storming the Donets - Conscript",
+        "kind": "trophy",
+        "chapterId": "theater-southern-fronts",
+        "where": "Complete the Theater of War Battle: Storming the Donets on Conscript difficulty"
+      },
+      {
+        "id": "achievement-434",
+        "name": "Storming the Donets - Captain",
+        "kind": "trophy",
+        "chapterId": "theater-southern-fronts",
+        "where": "Complete the Theater of War Battle: Storming the Donets on Captain difficulty"
+      },
+      {
+        "id": "achievement-435",
+        "name": "Storming the Donets - General",
+        "kind": "trophy",
+        "chapterId": "theater-southern-fronts",
+        "where": "Complete the Theater of War Battle: Storming the Donets on General difficulty"
+      },
+      {
+        "id": "achievement-436",
+        "name": "Heavy Rain - Conscript",
+        "kind": "trophy",
+        "chapterId": "theater-southern-fronts",
+        "where": "Complete the Theater of War Battle: Heavy Rain on Conscript difficulty"
+      },
+      {
+        "id": "achievement-437",
+        "name": "Heavy Rain - Captain",
+        "kind": "trophy",
+        "chapterId": "theater-southern-fronts",
+        "where": "Complete the Theater of War Battle: Heavy Rain on Captain difficulty"
+      },
+      {
+        "id": "achievement-438",
+        "name": "Heavy Rain - General",
+        "kind": "trophy",
+        "chapterId": "theater-southern-fronts",
+        "where": "Complete the Theater of War Battle: Heavy Rain on General difficulty"
+      },
+      {
+        "id": "achievement-439",
+        "name": "Occupation - Conscript",
+        "kind": "trophy",
+        "chapterId": "theater-southern-fronts",
+        "where": "Complete the Theater of War Challenge: Occupation on Conscript difficulty"
+      },
+      {
+        "id": "achievement-440",
+        "name": "Occupation - Captain",
+        "kind": "trophy",
+        "chapterId": "theater-southern-fronts",
+        "where": "Complete the Theater of War Challenge: Occupation on Captain difficulty"
+      },
+      {
+        "id": "achievement-441",
+        "name": "Occupation - General",
+        "kind": "trophy",
+        "chapterId": "theater-southern-fronts",
+        "where": "Complete the Theater of War Challenge: Occupation on General difficulty"
+      },
+      {
+        "id": "achievement-442",
+        "name": "Occupation - Blood in the Snow",
+        "kind": "trophy",
+        "chapterId": "theater-southern-fronts",
+        "where": "Rescued the wounded Commander on Occupation"
+      },
+      {
+        "id": "achievement-443",
+        "name": "Spring Rasputitsa - Conscript",
+        "kind": "trophy",
+        "chapterId": "theater-southern-fronts",
+        "where": "Complete the Theater of War Challenge: Spring Rasputitsa on Conscript difficulty"
+      },
+      {
+        "id": "achievement-444",
+        "name": "Spring Rasputitsa - Captain",
+        "kind": "trophy",
+        "chapterId": "theater-southern-fronts",
+        "where": "Complete the Theater of War Challenge: Spring Rasputitsa on Captain difficulty"
+      },
+      {
+        "id": "achievement-445",
+        "name": "Spring Rasputitsa - General",
+        "kind": "trophy",
+        "chapterId": "theater-southern-fronts",
+        "where": "Complete the Theater of War Challenge: Spring Rasputitsa on General difficulty"
+      },
+      {
+        "id": "achievement-446",
+        "name": "Spring Rasputitsa - Bombers on Approach",
+        "kind": "trophy",
+        "chapterId": "theater-southern-fronts",
+        "where": "Cleared the way for bombers on Spring Rasputitsa"
+      },
+      {
+        "id": "achievement-447",
+        "name": "Theater of War - Southern Fronts - Conscript",
+        "kind": "trophy",
+        "chapterId": "theater-southern-fronts",
+        "where": "Complete all Theater of War mission in Southern Fronts on Conscript difficulty"
+      },
+      {
+        "id": "achievement-448",
+        "name": "Theater of War - Southern Fronts - Captain",
+        "kind": "trophy",
+        "chapterId": "theater-southern-fronts",
+        "where": "Complete all Theater of War mission in Southern Fronts on Captain difficulty"
+      },
+      {
+        "id": "achievement-449",
+        "name": "Theater of War - Southern Fronts - General",
+        "kind": "trophy",
+        "chapterId": "theater-southern-fronts",
+        "where": "Complete all Theater of War mission in Southern Fronts on General difficulty"
+      },
+      {
+        "id": "achievement-450",
+        "name": "Snore, Snore, Total Bore!",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-online",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-451",
+        "name": "Romeo is Dead!",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-online",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-452",
+        "name": "Romani Ite Domum",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-online",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/company-of-heroes-2",
+    "Achievement data from Steam (Steam Web API, app 231430)",
+    "StrategyWiki: no page for this game, nothing used",
+    "Fandom (companyofheroes.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://companyofheroes.fandom.com/wiki/Company_of_Heroes_2"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). RAWG's first result is the expected entry (id 10243). RAWG keeps \"Company of Heroes 2 - Ardennes Assault\" and \"Company of Heroes 2: Southern Fronts\" as separate entries, and the Steam store list has separate apps for \"The Western Front Armies\" (260309), \"Ardennes Assault\" (317850) and \"The British Forces\" (365820); they were not fetched, and no achievement in app 231430 names them. App 231430's schema is named \"ValveTestApp55300\" (a placeholder name); the store list confirms it as \"Company of Heroes 2\". StrategyWiki has no page under \"Company of Heroes 2\" or \"Company of Heroes II\". companyofheroes.fandom.com answers the API under \"Company of Heroes 2\" with about 13 linked articles; names only were looked at, nothing copied. There are 452 Steam achievements, and 3 are hidden: ev_mystery_01 to 03 (\"Snore, Snore, Total Bore!\", \"Romeo is Dead!\", \"Romani Ite Domum\", 0.8% to 1.5%). In a strategy game they are unlikely to be story beats, so they sit in the skirmish chapter as a placeholder. Campaign mission names and numbers come from the achievement descriptions; the split at mission 7 is our own choice. The descriptions name three Theater of War sets: 1941, Case Blue and Victory at Stalingrad (API names tow_dlc1 and tow_dlc2) and Southern Fronts (tow_dlc3). Which missions belong to Case Blue, Victory at Stalingrad and Southern Fronts is not stated: they were grouped by their position in the Steam list, just before each set's \"Complete all\" achievements, a reasoned guess; Case Blue and Victory at Stalingrad share one chapter. 1941 missions are named as 1941 only by the \"Complete all ... in 1941\" achievements and their place in the list. 125 achievements have API names starting \"ib_\", and nine of them read \"Complete all ... intelligence bulletins\", so the ib_ group is treated as the intelligence bulletins and split by unit type (tanks and vehicles versus infantry and support weapons); the split is our own and production goals that mix types were put by their first unit. The factions named are Soviet and German. The Theater of War play-count achievements (Play 1 to 100 challenges, scenarios or battles) sit in the skirmish chapter with the other play counts."
+}

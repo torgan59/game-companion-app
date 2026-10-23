@@ -1,0 +1,511 @@
+{
+  "id": "alien-isolation",
+  "title": "Alien: Isolation",
+  "year": 2014,
+  "platforms": [
+    "PC",
+    "Xbox One",
+    "Nintendo Switch",
+    "Android",
+    "iOS",
+    "PlayStation 4"
+  ],
+  "rawgId": 3556,
+  "rawgSlug": "alien-isolation",
+  "released": "2014-10-05",
+  "developers": [
+    "Feral Interactive",
+    "SEGA",
+    "Creative Assembly"
+  ],
+  "playtime": 4,
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Full controller support",
+    "Steam Cloud",
+    "Atmospheric",
+    "Great Soundtrack",
+    "First-Person",
+    "Sci-fi",
+    "Horror",
+    "FPS",
+    "Gore",
+    "Difficult"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/daa/daaee07fcb40744d90cf8142f94a241f.jpg",
+  "steamAppId": 214490,
+  "achievements": {
+    "total": 50,
+    "hidden": 7,
+    "examples": [
+      {
+        "name": "A Record of Disaster",
+        "percent": 92.9
+      },
+      {
+        "name": "Awake",
+        "percent": 89.3
+      },
+      {
+        "name": "The Missing",
+        "percent": 72.4
+      },
+      {
+        "name": "Just out of Reach",
+        "percent": 7.3
+      },
+      {
+        "name": "Mind Your Step",
+        "percent": 6.9
+      },
+      {
+        "name": "Mercy or Prudence?",
+        "percent": 2.9
+      },
+      {
+        "name": "Archivist",
+        "percent": 2.4
+      },
+      {
+        "name": "The Taken",
+        "percent": 2.1
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Alien:_Isolation",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 194,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://avp.fandom.com/wiki/Alien:_Isolation"
+    }
+  },
+  "game": {
+    "id": "alien-isolation",
+    "title": "Alien: Isolation",
+    "platforms": [
+      "PC",
+      "Xbox One",
+      "Nintendo Switch",
+      "Android",
+      "iOS",
+      "PlayStation 4"
+    ],
+    "blurb": "First-person survival horror game from Creative Assembly (RAWG also lists SEGA and Feral Interactive), published by SEGA, released 2014-10-05. RAWG average playtime: 4 hours. Genres: Action, Adventure. Chapters follow the missions counted in the Steam achievements.",
+    "accent": "#2F6B5E",
+    "chapters": [
+      {
+        "id": "missions-1-7",
+        "title": "Missions 1 to 7",
+        "summary": "From waking up and reaching Sevastopol to An Outpost of Progress, and the first meeting with the Alien.",
+        "steps": []
+      },
+      {
+        "id": "missions-10-18",
+        "title": "Missions 10 to 18",
+        "summary": "From Bait to End of the Hunt, with three hidden mission achievements. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "collectibles",
+        "title": "ID Tags and Logs",
+        "summary": "Collecting ID tags, archive logs and the Nostromo logs.",
+        "steps": []
+      },
+      {
+        "id": "tools-and-crafting",
+        "title": "Tools, Crafting and Hacking",
+        "summary": "Building items, hacks, minigames, rewire points, the motion tracker and the vents.",
+        "steps": []
+      },
+      {
+        "id": "challenges",
+        "title": "Difficulty and Challenges",
+        "summary": "The hardest difficulty, finishing with no human kills or no deaths, Reactor Maintenance without dying, and other hidden feats.",
+        "steps": []
+      },
+      {
+        "id": "survival-and-combat",
+        "title": "Survival and Combat",
+        "summary": "Using each weapon, fighting androids and humans, and driving the Alien back with fire.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Awake",
+        "kind": "trophy",
+        "chapterId": "missions-1-7",
+        "where": "Complete the first mission"
+      },
+      {
+        "id": "achievement-2",
+        "name": "Welcome to Sevastopol",
+        "kind": "trophy",
+        "chapterId": "missions-1-7",
+        "where": "Complete the second mission"
+      },
+      {
+        "id": "achievement-3",
+        "name": "A Hunt Begins",
+        "kind": "trophy",
+        "chapterId": "missions-1-7",
+        "where": "Complete the third mission"
+      },
+      {
+        "id": "achievement-4",
+        "name": "You Shouldn't Be There.",
+        "kind": "trophy",
+        "chapterId": "missions-1-7",
+        "where": "Complete the fourth mission"
+      },
+      {
+        "id": "achievement-5",
+        "name": "How Do You Feel?",
+        "kind": "trophy",
+        "chapterId": "missions-1-7",
+        "where": "Complete the fifth mission"
+      },
+      {
+        "id": "achievement-6",
+        "name": "Caught in the Trap",
+        "kind": "trophy",
+        "chapterId": "missions-1-7",
+        "where": "Complete the sixth mission"
+      },
+      {
+        "id": "achievement-7",
+        "name": "An Outpost of Progress",
+        "kind": "trophy",
+        "chapterId": "missions-1-7",
+        "where": "Complete the seventh mission"
+      },
+      {
+        "id": "achievement-8",
+        "name": "Shock to the System",
+        "kind": "trophy",
+        "chapterId": "survival-and-combat",
+        "where": "Use the stun baton"
+      },
+      {
+        "id": "achievement-9",
+        "name": "Bait",
+        "kind": "trophy",
+        "chapterId": "missions-10-18",
+        "where": "Complete the tenth mission"
+      },
+      {
+        "id": "achievement-10",
+        "name": "Hazard Containment",
+        "kind": "trophy",
+        "chapterId": "missions-10-18",
+        "where": "Complete the eleventh mission"
+      },
+      {
+        "id": "achievement-11",
+        "name": "A Synthetic Solution",
+        "kind": "trophy",
+        "chapterId": "missions-10-18",
+        "where": "Complete the twelfth mission"
+      },
+      {
+        "id": "achievement-12",
+        "name": "Consultation",
+        "kind": "trophy",
+        "chapterId": "missions-10-18",
+        "where": "Complete the thirteenth mission"
+      },
+      {
+        "id": "achievement-13",
+        "name": "Survivor",
+        "kind": "trophy",
+        "chapterId": "challenges",
+        "where": "Complete the game on the hardest difficulty setting"
+      },
+      {
+        "id": "achievement-14",
+        "name": "Ripley, Signing Off",
+        "kind": "trophy",
+        "chapterId": "missions-10-18",
+        "where": "Complete the game on any difficulty setting"
+      },
+      {
+        "id": "achievement-15",
+        "name": "The Missing",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Collect an ID tag"
+      },
+      {
+        "id": "achievement-16",
+        "name": "The Taken",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Collect all ID tags"
+      },
+      {
+        "id": "achievement-17",
+        "name": "Archivist",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Collect 10 Nostromo logs in the main campaign"
+      },
+      {
+        "id": "achievement-18",
+        "name": "Light 'em Up",
+        "kind": "trophy",
+        "chapterId": "survival-and-combat",
+        "where": "Use the flamethrower"
+      },
+      {
+        "id": "achievement-19",
+        "name": "Just out of Reach",
+        "kind": "trophy",
+        "chapterId": "challenges",
+        "where": "Contact your team and escape Comms without being attacked by an android"
+      },
+      {
+        "id": "achievement-20",
+        "name": "Use With Caution…",
+        "kind": "trophy",
+        "chapterId": "survival-and-combat",
+        "where": "Use the shotgun"
+      },
+      {
+        "id": "achievement-21",
+        "name": "Every Bullet Counts",
+        "kind": "trophy",
+        "chapterId": "survival-and-combat",
+        "where": "Use the revolver"
+      },
+      {
+        "id": "achievement-22",
+        "name": "Self Defense",
+        "kind": "trophy",
+        "chapterId": "survival-and-combat",
+        "where": "Kill 10 humans"
+      },
+      {
+        "id": "achievement-23",
+        "name": "Not a Scratch",
+        "kind": "trophy",
+        "chapterId": "survival-and-combat",
+        "where": "Escape from android combat without taking damage"
+      },
+      {
+        "id": "achievement-24",
+        "name": "Retreat From Fire",
+        "kind": "trophy",
+        "chapterId": "survival-and-combat",
+        "where": "Cause the Alien to retreat using a molotov"
+      },
+      {
+        "id": "achievement-25",
+        "name": "A Perfect Organism",
+        "kind": "trophy",
+        "chapterId": "missions-1-7",
+        "where": "Encounter the Alien in Sevastopol for the first time"
+      },
+      {
+        "id": "achievement-26",
+        "name": "She's in the Vents...",
+        "kind": "trophy",
+        "chapterId": "tools-and-crafting",
+        "where": "Use the vent system 20 times"
+      },
+      {
+        "id": "achievement-27",
+        "name": "I Admire its Purity",
+        "kind": "trophy",
+        "chapterId": "tools-and-crafting",
+        "where": "Detect 30 targets with the motion tracker"
+      },
+      {
+        "id": "achievement-28",
+        "name": "Back Off",
+        "kind": "trophy",
+        "chapterId": "survival-and-combat",
+        "where": "Cause the Alien to retreat by using the flamethrower"
+      },
+      {
+        "id": "achievement-29",
+        "name": "Stunned",
+        "kind": "trophy",
+        "chapterId": "survival-and-combat",
+        "where": "Knock down a human or stun an android with a non-lethal attack"
+      },
+      {
+        "id": "achievement-30",
+        "name": "Build to Survive",
+        "kind": "trophy",
+        "chapterId": "tools-and-crafting",
+        "where": "Construct an item"
+      },
+      {
+        "id": "achievement-31",
+        "name": "Mercy or Prudence?",
+        "kind": "trophy",
+        "chapterId": "challenges",
+        "where": "Complete the game without killing any humans"
+      },
+      {
+        "id": "achievement-32",
+        "name": "Mind Your Step",
+        "kind": "trophy",
+        "chapterId": "challenges",
+        "where": "Navigate Reactor Maintenance without dying"
+      },
+      {
+        "id": "achievement-33",
+        "name": "Seegson Security Bypass",
+        "kind": "trophy",
+        "chapterId": "tools-and-crafting",
+        "where": "Perform 10 successful hacks"
+      },
+      {
+        "id": "achievement-34",
+        "name": "Seegson Systems Expert",
+        "kind": "trophy",
+        "chapterId": "tools-and-crafting",
+        "where": "Complete 10 minigames successfully"
+      },
+      {
+        "id": "achievement-35",
+        "name": "Power Games",
+        "kind": "trophy",
+        "chapterId": "tools-and-crafting",
+        "where": "Access 10 different rewire points"
+      },
+      {
+        "id": "achievement-36",
+        "name": "A True Engineer",
+        "kind": "trophy",
+        "chapterId": "tools-and-crafting",
+        "where": "Construct one of each craftable item"
+      },
+      {
+        "id": "achievement-37",
+        "name": "A Record of Disaster",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Collect an archive log"
+      },
+      {
+        "id": "achievement-38",
+        "name": "Voices of Sevastopol",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Collect 100 archive logs"
+      },
+      {
+        "id": "achievement-39",
+        "name": "Fault Detected",
+        "kind": "trophy",
+        "chapterId": "survival-and-combat",
+        "where": "Kill an Android"
+      },
+      {
+        "id": "achievement-40",
+        "name": "100 Times Too Many",
+        "kind": "trophy",
+        "chapterId": "challenges",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-41",
+        "name": "Throwing the Switch",
+        "kind": "trophy",
+        "chapterId": "missions-10-18",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-42",
+        "name": "The Message",
+        "kind": "trophy",
+        "chapterId": "missions-10-18",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-43",
+        "name": "Hide. Run. Survive.",
+        "kind": "trophy",
+        "chapterId": "challenges",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-44",
+        "name": "Not the First",
+        "kind": "trophy",
+        "chapterId": "missions-10-18",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-45",
+        "name": "Transmission",
+        "kind": "trophy",
+        "chapterId": "missions-10-18",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-46",
+        "name": "One Shot",
+        "kind": "trophy",
+        "chapterId": "challenges",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-47",
+        "name": "Free the Torrens",
+        "kind": "trophy",
+        "chapterId": "missions-10-18",
+        "where": "Complete the seventeenth mission"
+      },
+      {
+        "id": "achievement-48",
+        "name": "End of the Hunt",
+        "kind": "trophy",
+        "chapterId": "missions-10-18",
+        "where": "Complete the eighteenth mission"
+      },
+      {
+        "id": "achievement-49",
+        "name": "This Should Work",
+        "kind": "trophy",
+        "chapterId": "survival-and-combat",
+        "where": "Use the bolt gun"
+      },
+      {
+        "id": "achievement-50",
+        "name": "My Turn Now",
+        "kind": "trophy",
+        "chapterId": "survival-and-combat",
+        "where": "Kill an android using only the maintenance jack"
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/alien-isolation",
+    "Achievement data from Steam (Steam Web API, app 214490)",
+    "StrategyWiki: no usable walkthrough, nothing used — https://strategywiki.org/wiki/Alien:_Isolation",
+    "Fandom (avp.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://avp.fandom.com/wiki/Alien:_Isolation"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). RAWG's first result is the expected entry (id 3556). Steam app 214490 was used; its schema is named \"ValveTestApp214490\" and the store list confirms \"Alien: Isolation\". StrategyWiki has \"Alien: Isolation\" at completion stage 0: only Table of Contents is written; Walkthrough, Gameplay, Controls, Items, Weapons and the achievements page are linked but not written. avp.fandom.com answers the API under \"Alien: Isolation\" with about 194 linked articles; names only were looked at, nothing copied. 7 of 50 Steam achievements are hidden. The mission achievements count missions up to the eighteenth, but the schema has none for the eighth or ninth; the three hidden progression ones (CA_PROGRESSION_13 to 15) sit between the thirteenth and seventeenth, so they were put in the later missions chapter, as was the hidden \"Not the First\" (CA_BEACON), a guess. Three hidden ones whose API names suggest challenges (CA_ALIENDEATHCOUNT, CA_M09_NOT_KILLED_BY_ALIEN, CA_COMPLETE_NODEATHS) sit in the challenges chapter. \"Just out of Reach\" (escape Comms without an android attack) is placed with the challenges because the data does not say which mission Comms is. RAWG lists nine add-ons (such as Crew Expendable, Last Survivor, Trauma and Safe Haven) and a Collection, but none of the 50 Steam achievements names them."
+}

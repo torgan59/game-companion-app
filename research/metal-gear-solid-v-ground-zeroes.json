@@ -1,0 +1,263 @@
+{
+  "id": "metal-gear-solid-v-ground-zeroes",
+  "title": "Metal Gear Solid V: Ground Zeroes",
+  "year": 2014,
+  "platforms": [
+    "Xbox 360",
+    "PC",
+    "PlayStation 3",
+    "PlayStation 4",
+    "Xbox One"
+  ],
+  "rawgId": 3747,
+  "rawgSlug": "metal-gear-solid-v-ground-zeroes",
+  "released": "2014-03-18",
+  "developers": [
+    "Kojima Productions"
+  ],
+  "playtime": 3,
+  "genres": [
+    "Action",
+    "Shooter"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Full controller support",
+    "Steam Cloud",
+    "Atmospheric",
+    "Great Soundtrack",
+    "Story Rich",
+    "Open World",
+    "Third Person",
+    "Steam Leaderboards",
+    "Classic",
+    "Sandbox"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/7ac/7aca7ccf0e70cd0974cb899ab9e5158e.jpg",
+  "steamAppId": 311340,
+  "achievements": {
+    "total": 16,
+    "hidden": 0,
+    "examples": [
+      {
+        "name": "Reunion",
+        "percent": 76.5
+      },
+      {
+        "name": "Downfall",
+        "percent": 66.0
+      },
+      {
+        "name": "Genesis",
+        "percent": 34.1
+      },
+      {
+        "name": "Pacifist",
+        "percent": 5.6
+      },
+      {
+        "name": "Hidden",
+        "percent": 5.3
+      },
+      {
+        "name": "Hero",
+        "percent": 4.5
+      },
+      {
+        "name": "Unlocked",
+        "percent": 3.9
+      },
+      {
+        "name": "Information",
+        "percent": 3.9
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Metal_Gear_Solid_V:_Ground_Zeroes",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 146,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://metalgear.fandom.com/wiki/Metal_Gear_Solid_V:_Ground_Zeroes"
+    }
+  },
+  "game": {
+    "id": "metal-gear-solid-v-ground-zeroes",
+    "title": "Metal Gear Solid V: Ground Zeroes",
+    "platforms": [
+      "Xbox 360",
+      "PC",
+      "PlayStation 3",
+      "PlayStation 4",
+      "Xbox One"
+    ],
+    "blurb": "Open-ended stealth action game from Kojima Productions, published by Konami, released 2014-03-18. RAWG average playtime: 3 hours. Genres: Action, Shooter. Chapters follow the missions named in the Steam achievements.",
+    "accent": "#8A6A2E",
+    "chapters": [
+      {
+        "id": "ground-zeroes",
+        "title": "The Ground Zeroes Mission",
+        "summary": "The main mission: the reunion, the prisoner rescue and clearing it.",
+        "steps": []
+      },
+      {
+        "id": "side-ops",
+        "title": "Side Ops",
+        "summary": "Eliminate the Renegade Threat, Intel Operative Rescue, Classified Intel Acquisition and Destroy the Anti-Air Emplacements.",
+        "steps": []
+      },
+      {
+        "id": "extra-ops",
+        "title": "Extra Ops",
+        "summary": "The Déjà-Vu and Jamais Vu Extra Ops.",
+        "steps": []
+      },
+      {
+        "id": "collectibles",
+        "title": "Cassette Tapes and XOF Patches",
+        "summary": "Finding every cassette tape and XOF unit patch.",
+        "steps": []
+      },
+      {
+        "id": "ranks-and-trials",
+        "title": "S-Ranks, Trials and Full Clear",
+        "summary": "Clearing every mission, S-ranks and unlocking all trials.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Downfall",
+        "kind": "trophy",
+        "chapterId": "ground-zeroes",
+        "where": "Clear the \"Ground Zeroes\" mission"
+      },
+      {
+        "id": "achievement-2",
+        "name": "Reunion",
+        "kind": "trophy",
+        "chapterId": "ground-zeroes",
+        "where": "Reunite with Chico or Paz"
+      },
+      {
+        "id": "achievement-3",
+        "name": "Genesis",
+        "kind": "trophy",
+        "chapterId": "side-ops",
+        "where": "Clear a Side Op or Extra Op"
+      },
+      {
+        "id": "achievement-4",
+        "name": "Accomplished",
+        "kind": "trophy",
+        "chapterId": "ranks-and-trials",
+        "where": "Clear all missions (including Side Ops and Extra Ops)"
+      },
+      {
+        "id": "achievement-5",
+        "name": "Skilled",
+        "kind": "trophy",
+        "chapterId": "ranks-and-trials",
+        "where": "Clear any mission (including Side Ops and Extra Ops) with a S-rank"
+      },
+      {
+        "id": "achievement-6",
+        "name": "Hero",
+        "kind": "trophy",
+        "chapterId": "ranks-and-trials",
+        "where": "Clear all missions (including Side Ops and Extra Ops) with a S-rank"
+      },
+      {
+        "id": "achievement-7",
+        "name": "Rescue",
+        "kind": "trophy",
+        "chapterId": "ground-zeroes",
+        "where": "In the \"Ground Zeroes\" mission, rescue the prisoner to be executed and extract him via chopper"
+      },
+      {
+        "id": "achievement-8",
+        "name": "Depth",
+        "kind": "trophy",
+        "chapterId": "side-ops",
+        "where": "Clear the \"Eliminate the Renegade Threat\" Side Op by extracting both targets"
+      },
+      {
+        "id": "achievement-9",
+        "name": "Pacifist",
+        "kind": "trophy",
+        "chapterId": "side-ops",
+        "where": "Clear the \"Intel Operative Rescue\" Side Op without killing a single enemy"
+      },
+      {
+        "id": "achievement-10",
+        "name": "Infiltration",
+        "kind": "trophy",
+        "chapterId": "side-ops",
+        "where": "Clear the \"Classified Intel Acquisition\" Side Op while riding in the back of a truck"
+      },
+      {
+        "id": "achievement-11",
+        "name": "Extraction",
+        "kind": "trophy",
+        "chapterId": "side-ops",
+        "where": "In the \"Destroy the Anti-Air Emplacements\" Side Op, rescue and extract all prisoners via chopper"
+      },
+      {
+        "id": "achievement-12",
+        "name": "Reminiscence",
+        "kind": "trophy",
+        "chapterId": "extra-ops",
+        "where": "Recreate all scenes in the \"Déjà-Vu\" Extra Op"
+      },
+      {
+        "id": "achievement-13",
+        "name": "Hidden",
+        "kind": "trophy",
+        "chapterId": "extra-ops",
+        "where": "Clear the \"Jamais Vu\" Extra Op with 0 enemy combat statuses"
+      },
+      {
+        "id": "achievement-14",
+        "name": "Unlocked",
+        "kind": "trophy",
+        "chapterId": "ranks-and-trials",
+        "where": "Unlock all trials"
+      },
+      {
+        "id": "achievement-15",
+        "name": "Information",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Obtain all cassette tapes"
+      },
+      {
+        "id": "achievement-16",
+        "name": "Insignia",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Obtain all XOF unit patches"
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/metal-gear-solid-v-ground-zeroes",
+    "Achievement data from Steam (Steam Web API, app 311340)",
+    "StrategyWiki: no usable walkthrough, nothing used — https://strategywiki.org/wiki/Metal_Gear_Solid_V:_Ground_Zeroes",
+    "Fandom (metalgear.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://metalgear.fandom.com/wiki/Metal_Gear_Solid_V:_Ground_Zeroes"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). RAWG's first result is the expected entry (id 3747). Steam app 311340 (\"METAL GEAR SOLID V: GROUND ZEROES\" in the store list) was used; its schema returns an empty game name. StrategyWiki has \"Metal Gear Solid V: Ground Zeroes\" at completion stage 2, but only two subpages are written: Walkthrough (about 13,000 characters, one page) and Achievements and trophies. The mission pages it links (Destroy the Anti-Air Emplacements, Déjà Vu, Eliminate the Renegade Threat, Intel Operative Rescue, Jamais Vu, Classified Intel Acquisition) and Cassette tapes, XOF patches, Characters, Controls, Gameplay and Weapons are not written, so with no written chapter pages it was not used. metalgear.fandom.com answers the API with about 146 linked articles; names only were looked at, nothing copied. None of the 16 Steam achievements is hidden. \"Genesis\" (clear a Side Op or Extra Op) sits in Side Ops."
+}
