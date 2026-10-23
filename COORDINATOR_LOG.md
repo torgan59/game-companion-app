@@ -5,6 +5,45 @@ Tracks the 20-game research queue in `research/state.json` and files landing in 
 
 ---
 
+## 2026-10-23 04:10 UTC
+
+**Year / queue:** currentYear = 2026 on `main`. state.json on `main` (updated 2026-10-20T21:33:06Z, unchanged): 233 games, 212 done, 0 in-progress, 4 queued, 17 skipped, 0 errors. The 4 queued games on `main` are all unreleased (`phantom-blade-zero` 2026-10-29, `grand-theft-auto-vi` 2026-11-19, `path-of-exile-2` 2026-12-11, `prince-of-persia-the-sands-of-time-remake` 2026-12-31). On the PR #9 branch, state.json now reads currentYear = 2014 (the batch session walks years downward): 497 games, **380 done, 28 in-progress, 75 queued, 14 skipped, 0 errors**.
+
+**Progress:** 212/233 games done on `main`, no change since 03:10. On PR #9: **380/497 done**, up from 212 an hour ago (168 new files in six batches). The original 20-game target was met on 2026-10-20.
+
+**Latest commits (origin/main):**
+- `38cce95` Coordinator log: 03:10 check, PR #9 widens filter and queues 264 games, researcher ran idle (coordinator, 03:11 UTC)
+- `3969714` Coordinator log: 02:10 check, no change, researcher idle until 2026-10-29 (coordinator, 02:11 UTC)
+- `086f7e0` Coordinator log: 01:11 check, no change, researcher idle until 2026-10-29 (coordinator, 01:12 UTC)
+- `4497dd7` Coordinator log: 00:11 check, no change, researcher idle until 2026-10-29 (coordinator, 00:13 UTC)
+- `9efb261` Coordinator log: 23:10 check, no change, researcher idle until 2026-10-29 (coordinator, 23:11 UTC)
+
+No new research commits on `main` this hour. Last research commit on `main` is still `b72f263` (2026-10-20 21:33 UTC). The research activity is all on the PR #9 branch (below).
+
+**Latest commits (PR #9 branch `claude/festive-turing-ek24ds`, 8 commits, tip `6f809c8`):**
+- `6f809c8` Research batch 20: 28 AAA games from 2014-2016; claim batch 21 (04:01 UTC)
+- `5e0f0b2` Research batch 19: 28 AAA games from 2017-2018; claim batch 20 (03:52 UTC)
+- `294bfb7` Research batch 18: 28 AAA games from 2018-2020; claim batch 19 (03:44 UTC)
+- `67ca13a` Research batch 17: 28 AAA games from 2020-2022; claim batch 18 (03:36 UTC)
+- `c758a25` Research batch 16: 28 AAA games from 2022-2024; claim batch 17 (03:27 UTC)
+- `6704c6b` Research batch 15: 28 AAA games from 2024-2026; claim batch 16 (03:19 UTC)
+
+One batch of 28 lands roughly every 8 minutes. At that pace the remaining 103 games (28 claimed + 75 queued, minus the 4 unreleased) need about four more batches, so the branch could be finished within the hour.
+
+**Researcher:** the daily `game-researcher-routine` ran at 03:08 UTC (20 s, succeeded, pushed nothing, as expected: every queued game on `main` is unreleased). Next run 2026-10-24 03:07 UTC. It still runs against `main`, so it does not see the PR #9 queue.
+
+**Open PR #9** "All-AAA expansion: widen the genre filter, queue 267 more games, research batch 15+" (torgan59, opened 02:45 UTC, last push 04:01 UTC): 171 files changed, +95545/-20. GitHub reports mergeable state "unknown" (still recomputing after the push); base is `main` at `3969714`, two coordinator commits behind the current tip, which only touch this log, so no conflict is expected. No CI checks, no review comments. Not stale: active within the last 10 minutes. Batch 21 (28 games from 2013 to 2014: Metro 2033 Redux, Alien: Isolation, Far Cry 4, Halo: The Master Chief Collection, BioShock Infinite, Battlefield 4, The Wolf Among Us and 21 more) is claimed `in-progress` at step `rawg-fetch` on the branch. Same caveat as last hour: if the PR merges while claims are still `in-progress`, the daily routine on `main` would see claims with no branch behind them; best to merge once the batch session reports it is finished.
+
+**Research files:** `research/` on `main` holds `state.json` plus 212 game files, one per `done` entry (no missing, no extras, no naming issues). On the PR #9 branch: `state.json` plus 380 game files, exactly one per `done` entry (380 done, 380 files, no mismatches either way). All 168 new filenames are lowercase slug-style. `packs/` still does not exist (placeholder `packPath` values, expected).
+
+**Quality check (168 new files on PR #9):** all 168 parse as JSON and have `id` (matching the filename), `title`, `platforms`, and a `game` object with `chapters` and `collectibles`. 0 failures. Spot checks: `far-cry-primal.json` (Far Cry Primal, 3 platforms, 7 chapters, 55 collectibles), `it-takes-two.json` (It Takes Two, 6 platforms, 8 chapters, 20 collectibles), `call-of-duty-black-ops-iii.json` (Call of Duty: Black Ops III, 5 platforms, 9 chapters, 98 collectibles). One slug worth a second look when the PR is reviewed: `ace-combat-8-wings-of-theve` carries the title "Ace Combat 8: Wings of Theve", which may be a truncated RAWG name; harmless for now, since the slug and id agree.
+
+**Blockers / errors / stale PRs:** none. `errors` is empty on both `main` and the PR branch. Four leftover `claude/*` branches remain on origin (`festive-turing-ek24ds` is PR #9's head; `research-crimson-desert`, `research-cyberpunk-2077`, `research-forza-horizon-6` are harmless leftovers from merged PRs). This run fired on time (scheduled 04:09, fired 04:09).
+
+**Next game in queue:** on `main`, nothing is eligible until `phantom-blade-zero` (Phantom Blade Zero, 2026) releases on 2026-10-29. On PR #9, the next unclaimed queued game is `remember-me` (Remember Me, 2013), after the 4 unreleased 2026 titles that stay queued; the batch session is currently working batch 21 starting with `metro-2033-redux` (Metro 2033 Redux).
+
+---
+
 ## 2026-10-23 03:10 UTC
 
 **Year / queue:** currentYear = 2026. state.json on `main` (updated 2026-10-20T21:33:06Z, unchanged): 233 games, 212 done, 0 in-progress, 4 queued, 17 skipped, 0 errors. The 4 queued games on `main` are all unreleased: `phantom-blade-zero` (2026-10-29), `grand-theft-auto-vi` (2026-11-19), `path-of-exile-2` (2026-12-11), `prince-of-persia-the-sands-of-time-remake` (2026-12-31). `yearsCompleted` still empty (cosmetic).
