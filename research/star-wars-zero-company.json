@@ -1,0 +1,506 @@
+{
+  "id": "star-wars-zero-company",
+  "title": "Star Wars Zero Company",
+  "year": 2026,
+  "platforms": [
+    "PlayStation 5",
+    "PC",
+    "Xbox Series X|S"
+  ],
+  "rawgId": 1002691,
+  "rawgSlug": "star-wars-zero-company",
+  "released": "2026-08-27",
+  "developers": [],
+  "playtime": null,
+  "genres": [
+    "Strategy"
+  ],
+  "tags": [],
+  "coverUrl": "https://media.rawg.io/media/games/dae/dae6fd03dd5edbf15b193f20bec3cd58.jpg",
+  "steamAppId": 2075800,
+  "achievements": {
+    "total": 53,
+    "hidden": 29,
+    "examples": [
+      {
+        "name": "Your Focus Determines Your Reality",
+        "percent": 90.3
+      },
+      {
+        "name": "Sign Here",
+        "percent": 86.4
+      },
+      {
+        "name": "Dress Code",
+        "percent": 82.6
+      },
+      {
+        "name": "Legend",
+        "percent": 1.3
+      },
+      {
+        "name": "*Angry Beeps*",
+        "percent": 1.3
+      },
+      {
+        "name": "Beep Boop",
+        "percent": 1.0
+      },
+      {
+        "name": "Active Duty",
+        "percent": 0.8
+      },
+      {
+        "name": "Zero Company Legend",
+        "percent": 0.4
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": false,
+      "pages": 0,
+      "reason": "No page for Star Wars Zero Company (MediaWiki API returned missing; see notes for other titles tried)"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 500,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://starwars.fandom.com/wiki/Star_Wars_Zero_Company"
+    }
+  },
+  "game": {
+    "id": "star-wars-zero-company",
+    "title": "Star Wars Zero Company",
+    "platforms": [
+      "PlayStation 5",
+      "PC",
+      "Xbox Series X|S"
+    ],
+    "blurb": "Squad strategy game set in the twilight of the Clone Wars, released 2026-08-27 (RAWG lists no developer). RAWG has no playtime yet. Genres: Strategy. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#3B5B7A",
+    "chapters": [
+      {
+        "id": "campaign",
+        "title": "The Campaign",
+        "summary": "Hawks leads Zero Company through the story, mission by mission. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "difficulty",
+        "title": "Difficulty and Beskar Mode",
+        "summary": "Beating the game on Story, Normal, Hard and Expert, and Expert with Beskar Mode.",
+        "steps": []
+      },
+      {
+        "id": "squad",
+        "title": "Zero Company: Recruits and Bonds",
+        "summary": "Recruiting and customising operators, a full roster, losses, and bonds between operators and astromechs.",
+        "steps": []
+      },
+      {
+        "id": "tactics",
+        "title": "Tactical Combat",
+        "summary": "Chance-to-hit shots, Focus Points, high ground and knocking enemies out of the combat space.",
+        "steps": []
+      },
+      {
+        "id": "gear",
+        "title": "Gear and the Black Market",
+        "summary": "Shopping at The Black Market, weapon mods and customising weapons.",
+        "steps": []
+      },
+      {
+        "id": "operations",
+        "title": "Optional Missions and Zone Rewards",
+        "summary": "Optional missions and unlocking every Zone Reward.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Hired Gun",
+        "kind": "trophy",
+        "chapterId": "difficulty",
+        "where": "Beat the game on Story or higher"
+      },
+      {
+        "id": "achievement-2",
+        "name": "In a galaxy far, far away....",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-3",
+        "name": "Veteran",
+        "kind": "trophy",
+        "chapterId": "difficulty",
+        "where": "Beat the game on Normal or higher"
+      },
+      {
+        "id": "achievement-4",
+        "name": "Dress Code",
+        "kind": "trophy",
+        "chapterId": "squad",
+        "where": "Customized a member of Zero Company"
+      },
+      {
+        "id": "achievement-5",
+        "name": "Operator",
+        "kind": "trophy",
+        "chapterId": "difficulty",
+        "where": "Beat the game on Hard or higher"
+      },
+      {
+        "id": "achievement-6",
+        "name": "Where Credit Is Due",
+        "kind": "trophy",
+        "chapterId": "gear",
+        "where": "Made a purchase at The Black Market"
+      },
+      {
+        "id": "achievement-7",
+        "name": "Captain",
+        "kind": "trophy",
+        "chapterId": "difficulty",
+        "where": "Beat the game on Expert"
+      },
+      {
+        "id": "achievement-8",
+        "name": "Legend",
+        "kind": "trophy",
+        "chapterId": "difficulty",
+        "where": "Beat the game on Expert and Beskar Mode"
+      },
+      {
+        "id": "achievement-9",
+        "name": "Scum And Villainy",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-10",
+        "name": "Fathom Revealed",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-11",
+        "name": "One Less Clanker",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-12",
+        "name": "Sky High",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-13",
+        "name": "A Way to Pass the Time",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-14",
+        "name": "Never Tell Me the Odds",
+        "kind": "trophy",
+        "chapterId": "tactics",
+        "where": "Landed a 10% or lower chance to hit shot!"
+      },
+      {
+        "id": "achievement-15",
+        "name": "Do or Do Not",
+        "kind": "trophy",
+        "chapterId": "tactics",
+        "where": "Missed a 90% or greater chance to hit shot!"
+      },
+      {
+        "id": "achievement-16",
+        "name": "Luunata Reclaimed",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-17",
+        "name": "A New Order",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-18",
+        "name": "Forceful",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-19",
+        "name": "Jungle Warfare",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-20",
+        "name": "With Friends Like These",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-21",
+        "name": "Old Friends",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-22",
+        "name": "Sharp Shooters",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-23",
+        "name": "A Natural Part of Life",
+        "kind": "trophy",
+        "chapterId": "squad",
+        "where": "Lost a member of Zero Company"
+      },
+      {
+        "id": "achievement-24",
+        "name": "Your Focus Determines Your Reality",
+        "kind": "trophy",
+        "chapterId": "tactics",
+        "where": "Applied a Focus Point"
+      },
+      {
+        "id": "achievement-25",
+        "name": "An End of the Infinite",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-26",
+        "name": "Mate and Marrow",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-27",
+        "name": "Class and Distinction",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-28",
+        "name": "Word Of Honor",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-29",
+        "name": "Lost Causes",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-30",
+        "name": "Heroes on Both Sides",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-31",
+        "name": "The Baroness and the Boxer",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-32",
+        "name": "Thick as Thieves",
+        "kind": "trophy",
+        "chapterId": "squad",
+        "where": "Reached Very High Bond between Two Custom Operators"
+      },
+      {
+        "id": "achievement-33",
+        "name": "Beep Boop",
+        "kind": "trophy",
+        "chapterId": "squad",
+        "where": "Reached Very High Bond between Two Astromechs"
+      },
+      {
+        "id": "achievement-34",
+        "name": "The Trooper",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-35",
+        "name": "The Umbaran",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-36",
+        "name": "The Prizefighter",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-37",
+        "name": "The Baroness",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-38",
+        "name": "The Mandalorian",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-39",
+        "name": "The Padawan",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-40",
+        "name": "Active Duty",
+        "kind": "trophy",
+        "chapterId": "operations",
+        "where": "Completed 50 Optional Missions"
+      },
+      {
+        "id": "achievement-41",
+        "name": "Watch That First Step",
+        "kind": "trophy",
+        "chapterId": "tactics",
+        "where": "Knocked an enemy out of the combat space"
+      },
+      {
+        "id": "achievement-42",
+        "name": "The High Ground",
+        "kind": "trophy",
+        "chapterId": "tactics",
+        "where": "Defeated 10 enemies from a higher elevation"
+      },
+      {
+        "id": "achievement-43",
+        "name": "*Angry Beeps*",
+        "kind": "trophy",
+        "chapterId": "squad",
+        "where": "Completed a mission using 4 Astromechs"
+      },
+      {
+        "id": "achievement-44",
+        "name": "If You Know You Know",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-45",
+        "name": "See Your Own Demise",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-46",
+        "name": "Sign Here",
+        "kind": "trophy",
+        "chapterId": "squad",
+        "where": "Recruited an Operator"
+      },
+      {
+        "id": "achievement-47",
+        "name": "Full Roster",
+        "kind": "trophy",
+        "chapterId": "squad",
+        "where": "Recruited 20 Operators in a single campaign"
+      },
+      {
+        "id": "achievement-48",
+        "name": "To the Victor Go the Spoils",
+        "kind": "trophy",
+        "chapterId": "operations",
+        "where": "Unlocked a Zone Reward"
+      },
+      {
+        "id": "achievement-49",
+        "name": "Across the Stars",
+        "kind": "trophy",
+        "chapterId": "operations",
+        "where": "Unlocked all the Zone Rewards"
+      },
+      {
+        "id": "achievement-50",
+        "name": "There Will Be No Bargain",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-51",
+        "name": "Fully Geared",
+        "kind": "trophy",
+        "chapterId": "gear",
+        "where": "Equipped 4 Weapon Mods to a Weapon"
+      },
+      {
+        "id": "achievement-52",
+        "name": "Signature Flair",
+        "kind": "trophy",
+        "chapterId": "gear",
+        "where": "Customized a Weapon"
+      },
+      {
+        "id": "achievement-53",
+        "name": "Zero Company Legend",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Completed all other achievements"
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/star-wars-zero-company",
+    "Achievement data from Steam (Steam Web API, app 2075800)",
+    "StrategyWiki: no page for this game, nothing used",
+    "Fandom (starwars.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://starwars.fandom.com/wiki/Star_Wars_Zero_Company"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). RAWG's first result, \"star-wars-zero-company\" (id 1002691, released 2026-08-27), is the right game, but RAWG lists no developer or publisher, so the blurb names none. Its description names Hawks, a former Republic officer, and the twilight of the Clone Wars. No StrategyWiki page under \"Star Wars Zero Company\" or \"Star Wars: Zero Company\". starwars.fandom.com (Wookieepedia) answers the API under \"Star Wars Zero Company\", with at least 500 linked pages (the API's one-page limit; more remain, mostly credits), including \"Assault of Luunata\" and \"Capture of Luunata\"; names only were looked at, nothing copied. The Steam schema calls the app \"Bruno\" (an internal codename); the store list confirms app 2075800 as \"STAR WARS Zero Company\". 29 of 53 Steam achievements are hidden; they sit in the campaign chapter as a placeholder. Six hidden ones are named after people (\"The Trooper\", \"The Umbaran\", \"The Prizefighter\", \"The Baroness\", \"The Mandalorian\", \"The Padawan\") and may be tied to squad members, but their conditions are secret, so they were not moved. \"Zero Company Legend\" (all other achievements) sits in the campaign chapter."
+}

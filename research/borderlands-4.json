@@ -1,0 +1,587 @@
+{
+  "id": "borderlands-4",
+  "title": "Borderlands 4",
+  "year": 2025,
+  "platforms": [
+    "PC",
+    "PlayStation 5",
+    "Xbox One"
+  ],
+  "rawgId": 988615,
+  "rawgSlug": "borderlands-4",
+  "released": "2025-09-12",
+  "developers": [
+    "Gearbox Software"
+  ],
+  "playtime": 101,
+  "genres": [
+    "Action",
+    "Adventure",
+    "RPG"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Multiplayer",
+    "RPG",
+    "Co-op",
+    "Open World",
+    "cooperative",
+    "First-Person",
+    "Sci-fi",
+    "Partial Controller Support",
+    "FPS",
+    "Online Co-Op"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/9cc/9ccb59a7c634091bc8a9b7978d4dc322.jpg",
+  "steamAppId": 1285190,
+  "achievements": {
+    "total": 63,
+    "hidden": 41,
+    "examples": [
+      {
+        "name": "Crimson Rising",
+        "percent": 82.3
+      },
+      {
+        "name": "Pop Out",
+        "percent": 74.7
+      },
+      {
+        "name": "Good Hunter",
+        "percent": 51.7
+      },
+      {
+        "name": "Ruler of Everything",
+        "percent": 10.1
+      },
+      {
+        "name": "Freelance, but Not for Free",
+        "percent": 6.4
+      },
+      {
+        "name": "Grassroots Campaigner",
+        "percent": 4.2
+      },
+      {
+        "name": "Brand Equity",
+        "percent": 3.8
+      },
+      {
+        "name": "Area of Expertise",
+        "percent": 2.5
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": false,
+      "pages": 0,
+      "reason": "No page for Borderlands 4 (MediaWiki API returned missing; see notes for other titles tried)"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 86,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://borderlands.fandom.com/wiki/Borderlands_4"
+    }
+  },
+  "game": {
+    "id": "borderlands-4",
+    "title": "Borderlands 4",
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "Xbox One"
+    ],
+    "blurb": "Open-world looter shooter RPG from Gearbox Software, released 2025-09-12. RAWG average playtime: 101 hours. Genres: Action, Adventure, RPG. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#E8B923",
+    "chapters": [
+      {
+        "id": "main-story",
+        "title": "The Main Story",
+        "summary": "The main story missions and their hidden milestones. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "exploration",
+        "title": "Exploring the Regions",
+        "summary": "Finding every map location in The Fadefields, Terminus Range, Carcadia Burn and Dominion City.",
+        "steps": []
+      },
+      {
+        "id": "world-events",
+        "title": "World Events, Bosses and Vaults",
+        "summary": "The Goredello, Airship and Creep Impact world events, world bosses and the Primordial Vault Guardians.",
+        "steps": []
+      },
+      {
+        "id": "side-content",
+        "title": "Side Missions, Contracts and Activities",
+        "summary": "Claptrap missions, every side mission, contracts and all the open-world activities.",
+        "steps": []
+      },
+      {
+        "id": "levels-and-gear",
+        "title": "Levels, Gear and Collections",
+        "summary": "Player levels, Ultimate Vault Hunter levels, legendary gear, challenges, cosmetics and vehicles.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Crimson Rising",
+        "kind": "trophy",
+        "chapterId": "levels-and-gear",
+        "where": "Reach player level 10."
+      },
+      {
+        "id": "achievement-2",
+        "name": "Good Hunter",
+        "kind": "trophy",
+        "chapterId": "levels-and-gear",
+        "where": "Reach player level 30."
+      },
+      {
+        "id": "achievement-3",
+        "name": "Master of Death and Dance",
+        "kind": "trophy",
+        "chapterId": "levels-and-gear",
+        "where": "Reach player level 50."
+      },
+      {
+        "id": "achievement-4",
+        "name": "Gear Five!",
+        "kind": "trophy",
+        "chapterId": "levels-and-gear",
+        "where": "Reach Ultimate Vault Hunter level 5."
+      },
+      {
+        "id": "achievement-5",
+        "name": "The Lookbook is the Cookbook",
+        "kind": "trophy",
+        "chapterId": "levels-and-gear",
+        "where": "Collect 60 cosmetics."
+      },
+      {
+        "id": "achievement-6",
+        "name": "Catch-A-Ride",
+        "kind": "trophy",
+        "chapterId": "levels-and-gear",
+        "where": "Collect 10 personal vehicles."
+      },
+      {
+        "id": "achievement-7",
+        "name": "I Earned This",
+        "kind": "trophy",
+        "chapterId": "levels-and-gear",
+        "where": "Equip legendary gear in every slot."
+      },
+      {
+        "id": "achievement-8",
+        "name": "Area of Expertise",
+        "kind": "trophy",
+        "chapterId": "levels-and-gear",
+        "where": "Complete any Gear Challenge category."
+      },
+      {
+        "id": "achievement-9",
+        "name": "Brand Equity",
+        "kind": "trophy",
+        "chapterId": "levels-and-gear",
+        "where": "Complete any Manufacturer Challenge category."
+      },
+      {
+        "id": "achievement-10",
+        "name": "Ruler of Everything",
+        "kind": "trophy",
+        "chapterId": "side-content",
+        "where": "Complete all activities."
+      },
+      {
+        "id": "achievement-11",
+        "name": "Arena Grande",
+        "kind": "trophy",
+        "chapterId": "world-events",
+        "where": "Complete the Goredello world event."
+      },
+      {
+        "id": "achievement-12",
+        "name": "Reverse Abduction",
+        "kind": "trophy",
+        "chapterId": "world-events",
+        "where": "Complete the Airship world event."
+      },
+      {
+        "id": "achievement-13",
+        "name": "Shoot the Moon",
+        "kind": "trophy",
+        "chapterId": "world-events",
+        "where": "Complete the Creep Impact world event."
+      },
+      {
+        "id": "achievement-14",
+        "name": "Freelance, but Not for Free",
+        "kind": "trophy",
+        "chapterId": "side-content",
+        "where": "Complete 80 contracts."
+      },
+      {
+        "id": "achievement-15",
+        "name": "Unfaded",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Discover all map locations in The Fadefields."
+      },
+      {
+        "id": "achievement-16",
+        "name": "The Mountain Provides",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Discover all map locations in Terminus Range."
+      },
+      {
+        "id": "achievement-17",
+        "name": "Churn the Burn",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Discover all map locations in Carcadia Burn."
+      },
+      {
+        "id": "achievement-18",
+        "name": "Useful Citizen",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Discover all map locations in Dominion City."
+      },
+      {
+        "id": "achievement-19",
+        "name": "Pop Out",
+        "kind": "trophy",
+        "chapterId": "world-events",
+        "where": "Defeat a World boss."
+      },
+      {
+        "id": "achievement-20",
+        "name": "Nothing Left to Guard",
+        "kind": "trophy",
+        "chapterId": "world-events",
+        "where": "Defeat all Guardians in Primordial Vaults."
+      },
+      {
+        "id": "achievement-21",
+        "name": "Pale Blueberry Dot",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-22",
+        "name": "Who's the Boss?",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-23",
+        "name": "Mole Money, Mole Problems",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-24",
+        "name": "Widely Beloved Mascot",
+        "kind": "trophy",
+        "chapterId": "side-content",
+        "where": "Complete all Claptrap missions."
+      },
+      {
+        "id": "achievement-25",
+        "name": "Grassroots Campaigner",
+        "kind": "trophy",
+        "chapterId": "side-content",
+        "where": "Complete all side missions."
+      },
+      {
+        "id": "achievement-26",
+        "name": "False Idolator",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-27",
+        "name": "As If Moved by an Occult Hand",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-28",
+        "name": "Long Live the Queen",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-29",
+        "name": "Howling on the Moon",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-30",
+        "name": "Everything Breaks",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-31",
+        "name": "Glucose Guardian",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-32",
+        "name": "Cut That Out",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-33",
+        "name": "All Things Vend",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-34",
+        "name": "Rift Incompatible",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-35",
+        "name": "Guac is Extra",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-36",
+        "name": "Ordon't You Glad I Didn't Say Eridium",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-37",
+        "name": "Fist of the Mountain",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-38",
+        "name": "The Demon's Domain",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-39",
+        "name": "Dahl Cleanup Crew",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-40",
+        "name": "Looking for Work at the Top of the World",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-41",
+        "name": "Find Me in the Rift",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-42",
+        "name": "Hearthwarming",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-43",
+        "name": "Sugar Wrath",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-44",
+        "name": "Legally Unspecified Tincture",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-45",
+        "name": "Hull Frozen Over",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-46",
+        "name": "He Loved You",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-47",
+        "name": "Pay to Win",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-48",
+        "name": "AI Psychosis",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-49",
+        "name": "Bane of Zane",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-50",
+        "name": "The Full Flock",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-51",
+        "name": "Detoxed and Ready to Rock",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-52",
+        "name": "Murdered + Acquired",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-53",
+        "name": "Thief in the Night",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-54",
+        "name": "Came Back Wrong",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-55",
+        "name": "Reach Exceeded",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-56",
+        "name": "Vacation From My Vacation",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-57",
+        "name": "Tourism of Duty",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-58",
+        "name": "Rift and Tear",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-59",
+        "name": "Substation Satisfaction",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-60",
+        "name": "Does The Skag Die?",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-61",
+        "name": "Gimme a Hand(s)",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-62",
+        "name": "Harmony Awaits",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-63",
+        "name": "Wild at Heart",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/borderlands-4",
+    "Achievement data from Steam (Steam Web API, app 1285190)",
+    "StrategyWiki: no page for this game, nothing used",
+    "Fandom (borderlands.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://borderlands.fandom.com/wiki/Borderlands_4"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). No StrategyWiki page under \"Borderlands 4\" or \"Borderlands IV\". borderlands.fandom.com answers the API with about 86 linked articles, including \"Achievement (Borderlands 4)\", \"Borderlands 4 mission flow\", \"Borderlands 4 Weapons\" and \"Action Skills\"; names only were looked at, nothing copied. Steam app 1285190 is \"Borderlands 4\". 41 of 63 Steam achievements are hidden; they all sit in the story chapter, though many have very low unlock rates (under 3%) and are probably side missions or later content rather than story steps. RAWG lists an average playtime of 101 hours. RAWG lists PC, PlayStation 5 and Xbox One as platforms."
+}

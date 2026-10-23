@@ -1,0 +1,111 @@
+{
+  "id": "donkey-kong-bananza",
+  "title": "Donkey Kong Bananza",
+  "year": 2025,
+  "platforms": [
+    "Nintendo Switch"
+  ],
+  "rawgId": 1000582,
+  "rawgSlug": "donkey-kong-bananza",
+  "released": "2025-07-17",
+  "developers": [],
+  "playtime": null,
+  "genres": [
+    "Adventure"
+  ],
+  "tags": [],
+  "coverUrl": "https://media.rawg.io/media/games/db4/db4348b029d2cdaf826d7536bd75b71c.jpg",
+  "steamAppId": null,
+  "achievements": {
+    "total": 0,
+    "examples": [],
+    "reason": "Nintendo platform only (RAWG lists Nintendo Switch): no Steam app, so there is no achievement list in our sources. Fandom has a \"Banandium Gem\" page and StrategyWiki lists one page per layer, which could later seed an original collectible checklist."
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Donkey_Kong_Bananza",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 80,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://donkeykong.fandom.com/wiki/Donkey_Kong_Bananza"
+    }
+  },
+  "game": {
+    "id": "donkey-kong-bananza",
+    "title": "Donkey Kong Bananza",
+    "platforms": [
+      "Nintendo Switch"
+    ],
+    "blurb": "3D platformer with destructible worlds, published by Nintendo, released 2025-07-17. RAWG has no playtime yet. Genre: Adventure. Chapters follow the layer names on StrategyWiki's contents page (names only), grouped into a few parts.",
+    "accent": "#C8702A",
+    "chapters": [
+      {
+        "id": "ingot-isle-to-hilltop",
+        "title": "Ingot Isle, Lagoon and Hilltop",
+        "summary": "From the \"Ingot Isle Cave-in\" through the Lagoon Layer and the Hilltop Layer.",
+        "steps": []
+      },
+      {
+        "id": "canyon-to-forest",
+        "title": "Canyon, The Divide, Freezer and Forest",
+        "summary": "The Canyon Layer, The Divide, the Freezer Layer and the Forest Layer.",
+        "steps": []
+      },
+      {
+        "id": "junction-to-tempest",
+        "title": "The Junction, Resort and Tempest",
+        "summary": "The Junction, the Resort Layer and the Tempest Layer.",
+        "steps": []
+      },
+      {
+        "id": "landfill-to-radiance",
+        "title": "Landfill, Racing and Radiance",
+        "summary": "The Landfill Layer, the Racing Layer and the Radiance Layer.",
+        "steps": []
+      },
+      {
+        "id": "groove-to-forbidden",
+        "title": "Groove, Feast and Forbidden",
+        "summary": "The Groove Layer, the Feast Layer and the Forbidden Layer.",
+        "steps": []
+      },
+      {
+        "id": "planet-core",
+        "title": "The Planet Core",
+        "summary": "The last layer on the contents list before New Donk City. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "new-donk-city",
+        "title": "New Donk City",
+        "summary": "New Donk City, listed after the Planet Core on the contents page.",
+        "steps": []
+      },
+      {
+        "id": "bananzas-and-extras",
+        "title": "Bananzas, Skills and Extras",
+        "summary": "Bananza transformations, skills, co-op play, clothing and DK Artist.",
+        "steps": []
+      }
+    ],
+    "collectibles": []
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/donkey-kong-bananza",
+    "Steam: no achievement list available for this game (see notes)",
+    "StrategyWiki: mission and page names used to group chapters, CC BY-SA 4.0; no text copied — https://strategywiki.org/wiki/Donkey_Kong_Bananza",
+    "Fandom (donkeykong.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://donkeykong.fandom.com/wiki/Donkey_Kong_Bananza"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). StrategyWiki has the guide under \"Donkey Kong Bananza\" at completion stage 0. Only 4 subpages exist: \"Walkthrough\" (about 1,200 characters), \"Bananzas\" (about 2,000), \"Controls\" (about 2,800) and \"Table of Contents\" (about 1,500). The contents page lists the layers in this order: Ingot Isle Cave-in, Lagoon, Hilltop, Canyon, The Divide, Freezer, Forest, The Junction, Resort, Tempest, Landfill, Racing, Radiance, Groove, Feast, Forbidden, Planet Core and New Donk City, then Clothing and DK Artist; none of the layer pages is written, so only their names and order were used, and the grouping into chapters is a guess. Whether New Donk City is part of the main story or extra content was not checked. donkeykong.fandom.com answers the API, with about 80 linked pages, including the layer names, \"Banandium Gem\", \"Elders\", \"VoidCo\" and \"Pauline\"; names only were looked at, nothing copied. RAWG lists no developer or publisher and gives Nintendo Switch as the platform; StrategyWiki's page summary calls it a 3D platformer published by Nintendo for Nintendo Switch 2 and files it under \"Nintendo Switch 2\". No Steam app (steam=None)."
+}

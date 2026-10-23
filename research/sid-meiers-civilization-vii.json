@@ -1,0 +1,486 @@
+{
+  "id": "sid-meiers-civilization-vii",
+  "title": "Sid Meier's Civilization VII",
+  "year": 2025,
+  "platforms": [
+    "Nintendo Switch",
+    "Linux",
+    "macOS",
+    "PC",
+    "PlayStation 5",
+    "Xbox Series X|S",
+    "PlayStation 4",
+    "Xbox One"
+  ],
+  "rawgId": 983201,
+  "rawgSlug": "sid-meiers-civilization-vii",
+  "released": "2025-02-10",
+  "developers": [
+    "Firaxis"
+  ],
+  "playtime": 9,
+  "genres": [
+    "Strategy",
+    "Simulation"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Multiplayer",
+    "Full controller support",
+    "Tactical",
+    "PvP",
+    "Cross-Platform Multiplayer",
+    "War",
+    "Replay Value",
+    "Historical",
+    "Turn-Based Strategy",
+    "Online PvP"
+  ],
+  "coverUrl": "https://media.rawg.io/media/screenshots/885/885f2a1740d363f9b7a52fd2043eed07.jpg",
+  "steamAppId": 1295660,
+  "achievements": {
+    "total": 47,
+    "hidden": 0,
+    "examples": [
+      {
+        "name": "One Hit Wonder.",
+        "percent": 28.0
+      },
+      {
+        "name": "Trade Secret.",
+        "percent": 26.1
+      },
+      {
+        "name": "Book Smart.",
+        "percent": 25.4
+      },
+      {
+        "name": "Lakshmi-Bye, Losers",
+        "percent": 0.1
+      },
+      {
+        "name": "Teach 'em a Lesson",
+        "percent": 0.1
+      },
+      {
+        "name": "Sayyida al Hero",
+        "percent": 0.1
+      },
+      {
+        "name": "Not Toying Around",
+        "percent": 0.1
+      },
+      {
+        "name": "Turtle Power",
+        "percent": 0.1
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Sid_Meier's_Civilization_VII",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 252,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://civilization.fandom.com/wiki/Civilization_VII"
+    }
+  },
+  "game": {
+    "id": "sid-meiers-civilization-vii",
+    "title": "Sid Meier's Civilization VII",
+    "platforms": [
+      "Nintendo Switch",
+      "Linux",
+      "macOS",
+      "PC",
+      "PlayStation 5",
+      "Xbox Series X|S",
+      "PlayStation 4",
+      "Xbox One"
+    ],
+    "blurb": "Turn-based 4X strategy game played across three ages, from Firaxis, released 2025-02-10. RAWG average playtime: 9 hours. Genres: Strategy, Simulation. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#B08D3C",
+    "chapters": [
+      {
+        "id": "antiquity-age",
+        "title": "The Antiquity Age",
+        "summary": "Completing three major triumphs of one kind (cultural, economic, military, scientific, diplomatic or expansionist) in a single Antiquity Age.",
+        "steps": []
+      },
+      {
+        "id": "exploration-age",
+        "title": "The Exploration Age",
+        "summary": "Completing three major triumphs of one kind in a single Exploration Age.",
+        "steps": []
+      },
+      {
+        "id": "modern-age-leaders",
+        "title": "Modern Age Victories by Leader",
+        "summary": "Winning the modern age with each of the leaders, including their alternate personas.",
+        "steps": []
+      },
+      {
+        "id": "later-leaders",
+        "title": "More Leaders",
+        "summary": "Winning the modern age with the leaders listed last on Steam, which very few players have unlocked yet.",
+        "steps": []
+      },
+      {
+        "id": "deity",
+        "title": "Deity Difficulty",
+        "summary": "Winning a game on the hardest difficulty.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Shawnee Deep in Victory.",
+        "kind": "trophy",
+        "chapterId": "modern-age-leaders",
+        "where": "Win the modern age as Tecumseh."
+      },
+      {
+        "id": "achievement-2",
+        "name": "Woman-o-war.",
+        "kind": "trophy",
+        "chapterId": "modern-age-leaders",
+        "where": "Win the modern age as Amina."
+      },
+      {
+        "id": "achievement-3",
+        "name": "Budding Buddhist.",
+        "kind": "trophy",
+        "chapterId": "modern-age-leaders",
+        "where": "Win the modern age as Ashoka, World Renouncer."
+      },
+      {
+        "id": "achievement-4",
+        "name": "Roman of the Hour.",
+        "kind": "trophy",
+        "chapterId": "modern-age-leaders",
+        "where": "Win the modern age as Augustus."
+      },
+      {
+        "id": "achievement-5",
+        "name": "Postmaster and Commander.",
+        "kind": "trophy",
+        "chapterId": "modern-age-leaders",
+        "where": "Win the modern age as Ben Franklin."
+      },
+      {
+        "id": "achievement-6",
+        "name": "Lived up to the Name.",
+        "kind": "trophy",
+        "chapterId": "modern-age-leaders",
+        "where": "Win the modern age as Catherine the Great."
+      },
+      {
+        "id": "achievement-7",
+        "name": "Magne Squeeze.",
+        "kind": "trophy",
+        "chapterId": "modern-age-leaders",
+        "where": "Win the modern age as Charlemagne."
+      },
+      {
+        "id": "achievement-8",
+        "name": "Proverbial Wisdom.",
+        "kind": "trophy",
+        "chapterId": "modern-age-leaders",
+        "where": "Win the modern age as Confucius."
+      },
+      {
+        "id": "achievement-9",
+        "name": "On the Fritz.",
+        "kind": "trophy",
+        "chapterId": "modern-age-leaders",
+        "where": "Win the modern age as Friedrich, Oblique."
+      },
+      {
+        "id": "achievement-10",
+        "name": "Ground Breaker/Freedom Fighter.",
+        "kind": "trophy",
+        "chapterId": "modern-age-leaders",
+        "where": "Win the modern age as Harriet Tubman."
+      },
+      {
+        "id": "achievement-11",
+        "name": "Suted for Battle.",
+        "kind": "trophy",
+        "chapterId": "modern-age-leaders",
+        "where": "Win the modern age as Hatshepsut."
+      },
+      {
+        "id": "achievement-12",
+        "name": "Radiance of the Sun.",
+        "kind": "trophy",
+        "chapterId": "modern-age-leaders",
+        "where": "Win the modern age as Himiko, Queen of Wa."
+      },
+      {
+        "id": "achievement-13",
+        "name": "Son of a Duck.",
+        "kind": "trophy",
+        "chapterId": "modern-age-leaders",
+        "where": "Win the modern age as Ibn Battuta."
+      },
+      {
+        "id": "achievement-14",
+        "name": "Inquisitor Queen",
+        "kind": "trophy",
+        "chapterId": "modern-age-leaders",
+        "where": "Win the modern age as Isabella."
+      },
+      {
+        "id": "achievement-15",
+        "name": "Can't Touch This.",
+        "kind": "trophy",
+        "chapterId": "modern-age-leaders",
+        "where": "Win the modern age as Jose Rizal."
+      },
+      {
+        "id": "achievement-16",
+        "name": "Had the last Lafayette.",
+        "kind": "trophy",
+        "chapterId": "modern-age-leaders",
+        "where": "Win the modern age as Lafayette."
+      },
+      {
+        "id": "achievement-17",
+        "name": "Hit Mach 10.",
+        "kind": "trophy",
+        "chapterId": "modern-age-leaders",
+        "where": "Win the modern age as Machiavelli."
+      },
+      {
+        "id": "achievement-18",
+        "name": "Eat, Inca, and be Merry.",
+        "kind": "trophy",
+        "chapterId": "modern-age-leaders",
+        "where": "Win the modern age as Pachacuti."
+      },
+      {
+        "id": "achievement-19",
+        "name": "Sisters Before Misters.",
+        "kind": "trophy",
+        "chapterId": "modern-age-leaders",
+        "where": "Win the modern age as Trung Trac."
+      },
+      {
+        "id": "achievement-20",
+        "name": "Sailed the Seven Xerxes.",
+        "kind": "trophy",
+        "chapterId": "modern-age-leaders",
+        "where": "Win the modern age as Xerxes, King of kings."
+      },
+      {
+        "id": "achievement-21",
+        "name": "Xerxing Red.",
+        "kind": "trophy",
+        "chapterId": "modern-age-leaders",
+        "where": "Win the modern age as Xerxes, the Achaemenid."
+      },
+      {
+        "id": "achievement-22",
+        "name": "Sorry Not Sorrow.",
+        "kind": "trophy",
+        "chapterId": "modern-age-leaders",
+        "where": "Win the modern age as Ashoka, World Conqueror."
+      },
+      {
+        "id": "achievement-23",
+        "name": "Enlightened Rule.",
+        "kind": "trophy",
+        "chapterId": "modern-age-leaders",
+        "where": "Win the modern age as Himiko, High Shaman."
+      },
+      {
+        "id": "achievement-24",
+        "name": "Deep Friedrich.",
+        "kind": "trophy",
+        "chapterId": "modern-age-leaders",
+        "where": "Win the modern age as Friedrich, Baroque."
+      },
+      {
+        "id": "achievement-25",
+        "name": "One Hit Wonder.",
+        "kind": "trophy",
+        "chapterId": "antiquity-age",
+        "where": "Complete 3 Major Cultural Triumphs in a single Antiquity Age."
+      },
+      {
+        "id": "achievement-26",
+        "name": "Trade Secret.",
+        "kind": "trophy",
+        "chapterId": "antiquity-age",
+        "where": "Complete 3 Major Economic Triumphs in a single Antiquity Age."
+      },
+      {
+        "id": "achievement-27",
+        "name": "Pax a Wallop.",
+        "kind": "trophy",
+        "chapterId": "antiquity-age",
+        "where": "Complete 3 Major Military Triumphs in a single Antiquity Age."
+      },
+      {
+        "id": "achievement-28",
+        "name": "Book Smart.",
+        "kind": "trophy",
+        "chapterId": "antiquity-age",
+        "where": "Complete 3 Major Scientific Triumphs in a single Antiquity Age."
+      },
+      {
+        "id": "achievement-29",
+        "name": "Relic Hunter.",
+        "kind": "trophy",
+        "chapterId": "exploration-age",
+        "where": "Complete 3 Major Cultural Triumphs in a single Exploration Age."
+      },
+      {
+        "id": "achievement-30",
+        "name": "Coin Toss.",
+        "kind": "trophy",
+        "chapterId": "exploration-age",
+        "where": "Complete 3 Major Economic Triumphs in a single Exploration Age."
+      },
+      {
+        "id": "achievement-31",
+        "name": "Settled the Score.",
+        "kind": "trophy",
+        "chapterId": "exploration-age",
+        "where": "Complete 3 Major Military Triumphs in a single Exploration Age."
+      },
+      {
+        "id": "achievement-32",
+        "name": "Science in the Suburbs.",
+        "kind": "trophy",
+        "chapterId": "exploration-age",
+        "where": "Complete 3 Major Scientific Triumphs in a single Exploration Age."
+      },
+      {
+        "id": "achievement-33",
+        "name": "Talk of the Towns.",
+        "kind": "trophy",
+        "chapterId": "antiquity-age",
+        "where": "Complete 3 Major Diplomatic Triumphs in a single Antiquity Age."
+      },
+      {
+        "id": "achievement-34",
+        "name": "Paint the Map.",
+        "kind": "trophy",
+        "chapterId": "antiquity-age",
+        "where": "Complete 3 Major Expansionist Triumphs in a single Antiquity Age."
+      },
+      {
+        "id": "achievement-35",
+        "name": "Velvet Glove.",
+        "kind": "trophy",
+        "chapterId": "exploration-age",
+        "where": "Complete 3 Major Diplomatic Triumphs in a single Exploration Age."
+      },
+      {
+        "id": "achievement-36",
+        "name": "Beyond the Horizon.",
+        "kind": "trophy",
+        "chapterId": "exploration-age",
+        "where": "Complete 3 Major Expansionist Triumphs in a single Exploration Age."
+      },
+      {
+        "id": "achievement-37",
+        "name": "Playing God.",
+        "kind": "trophy",
+        "chapterId": "deity",
+        "where": "Win a game on Deity difficulty."
+      },
+      {
+        "id": "achievement-38",
+        "name": "Ada Girl!",
+        "kind": "trophy",
+        "chapterId": "later-leaders",
+        "where": "Win the modern age as Ada Lovelace."
+      },
+      {
+        "id": "achievement-39",
+        "name": "Simón Says",
+        "kind": "trophy",
+        "chapterId": "later-leaders",
+        "where": "Win the modern age as Simón Bolívar."
+      },
+      {
+        "id": "achievement-40",
+        "name": "Universal Ruler",
+        "kind": "trophy",
+        "chapterId": "later-leaders",
+        "where": "Win the modern age as Genghis Khan."
+      },
+      {
+        "id": "achievement-41",
+        "name": "Lakshmi-Bye, Losers",
+        "kind": "trophy",
+        "chapterId": "later-leaders",
+        "where": "Win the modern age as Lakshmibai."
+      },
+      {
+        "id": "achievement-42",
+        "name": "Teach 'em a Lesson",
+        "kind": "trophy",
+        "chapterId": "later-leaders",
+        "where": "Win the modern age as Edward Teach."
+      },
+      {
+        "id": "achievement-43",
+        "name": "Sayyida al Hero",
+        "kind": "trophy",
+        "chapterId": "later-leaders",
+        "where": "Win the modern age as Sayyida al Hurra."
+      },
+      {
+        "id": "achievement-44",
+        "name": "Not Toying Around",
+        "kind": "trophy",
+        "chapterId": "later-leaders",
+        "where": "Win the modern age as Toyotomi Hideyoshi."
+      },
+      {
+        "id": "achievement-45",
+        "name": "Turtle Power",
+        "kind": "trophy",
+        "chapterId": "later-leaders",
+        "where": "Win the modern age as Yi Sun-sin."
+      },
+      {
+        "id": "achievement-46",
+        "name": "Founding Father",
+        "kind": "trophy",
+        "chapterId": "later-leaders",
+        "where": "Win the modern age as George Washington."
+      },
+      {
+        "id": "achievement-47",
+        "name": "Elizabest",
+        "kind": "trophy",
+        "chapterId": "later-leaders",
+        "where": "Win the modern age as Elizabeth."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/sid-meiers-civilization-vii",
+    "Achievement data from Steam (Steam Web API, app 1295660)",
+    "StrategyWiki: no usable walkthrough, nothing used — https://strategywiki.org/wiki/Sid_Meier's_Civilization_VII",
+    "Fandom (civilization.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://civilization.fandom.com/wiki/Civilization_VII"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). StrategyWiki has a stub page (completion stage 0): only the \"Table of Contents\" subpage exists; \"Walkthrough\", \"Gameplay\", \"Controls\" and \"Achievements and trophies\" are linked but not written, so nothing was used. civilization.fandom.com redirects \"Sid Meier's Civilization VII\" to \"Civilization VII\", with about 252 linked pages, including \"Age (Civ7)\", \"Antiquity Age (Civ7)\", \"Agenda (Civ7)\" and leader pages such as \"Augustus (Civ7)\"; names only were looked at, nothing copied. The Steam schema calls the app \"Happy Corner\" (an internal codename); the store list confirms app 1295660 as \"Sid Meier's Civilization® VII\". None of the 47 Steam achievements is hidden, and none mentions multiplayer, although RAWG tags the game Multiplayer. 34 achievements are \"win the modern age as\" a leader; the last ten in the schema (Ada Lovelace, Simón Bolívar, Genghis Khan, Lakshmibai, Edward Teach, Sayyida al Hurra, Toyotomi Hideyoshi, Yi Sun-sin, George Washington, Elizabeth) each have an unlock rate of 0.4% or less and sit in their own chapter; they may come from later content, but nothing in the data says which. No achievement names the Modern Age triumphs."
+}

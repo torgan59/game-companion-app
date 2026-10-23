@@ -1,0 +1,677 @@
+{
+  "id": "stalker-2-heart-of-chornobyl",
+  "title": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
+  "year": 2024,
+  "platforms": [
+    "PC",
+    "Xbox Series X|S"
+  ],
+  "rawgId": 58386,
+  "rawgSlug": "stalker-2",
+  "released": "2024-11-20",
+  "developers": [
+    "GSC Game World"
+  ],
+  "playtime": 7,
+  "genres": [
+    "Action",
+    "Shooter",
+    "Adventure",
+    "RPG"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Steam Cloud",
+    "Atmospheric",
+    "RPG",
+    "Story Rich",
+    "Open World",
+    "First-Person",
+    "Sci-fi",
+    "Partial Controller Support",
+    "FPS",
+    "Exploration"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/3e8/3e81585ecda204d4f4b80a041b069adb.jpg",
+  "steamAppId": 1643320,
+  "achievements": {
+    "total": 76,
+    "hidden": 45,
+    "examples": [
+      {
+        "name": "Welcome to the Zone",
+        "percent": 85.9
+      },
+      {
+        "name": "Goss",
+        "percent": 66.8
+      },
+      {
+        "name": "Lockpick",
+        "percent": 66.4
+      },
+      {
+        "name": "The four winds",
+        "percent": 3.5
+      },
+      {
+        "name": "BOOM!",
+        "percent": 2.0
+      },
+      {
+        "name": "Flash Royal",
+        "percent": 2.0
+      },
+      {
+        "name": "Bingo",
+        "percent": 1.6
+      },
+      {
+        "name": "Miracle hoarder",
+        "percent": 1.5
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": false,
+      "pages": 0,
+      "reason": "No page for S.T.A.L.K.E.R. 2: Heart of Chornobyl (MediaWiki API returned missing; see notes for other titles tried)"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 47,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://stalker.fandom.com/wiki/S.T.A.L.K.E.R._2:_Heart_of_Chornobyl"
+    }
+  },
+  "game": {
+    "id": "stalker-2-heart-of-chornobyl",
+    "title": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
+    "platforms": [
+      "PC",
+      "Xbox Series X|S"
+    ],
+    "blurb": "Open-world first-person survival shooter set in the Chornobyl Exclusion Zone, from GSC Game World, released 2024-11-20. RAWG average playtime: 7 hours. Genres: Action, Shooter, Adventure, RPG. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#6B6B3A",
+    "chapters": [
+      {
+        "id": "main-story",
+        "title": "The Story of the Zone",
+        "summary": "The prologue and the main story missions. Most of these achievements are hidden. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "combat",
+        "title": "Gunfights and Mutants",
+        "summary": "Headshots, long shots, trick kills, grenades, explosions and hunting every kind of mutant.",
+        "steps": []
+      },
+      {
+        "id": "stealth-and-tricks",
+        "title": "Stealth and Zone Tricks",
+        "summary": "Covert kills, clearing camps quietly, using anomalies against enemies, and surviving big falls and chases.",
+        "steps": []
+      },
+      {
+        "id": "survival-and-gear",
+        "title": "Survival, Trading and Gear",
+        "summary": "Food, status effects, trading, spending coupons, and enhancing and repairing gear.",
+        "steps": []
+      },
+      {
+        "id": "exploration-and-artifacts",
+        "title": "Exploring the Zone and Artifacts",
+        "summary": "Uncovering the whole map, campfire gossip, artifacts, arch-artifacts and enhancement flash drives.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Clincher",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "100 enemies shot in the head. Not bad for a head start…"
+      },
+      {
+        "id": "achievement-2",
+        "name": "Goodnight",
+        "kind": "trophy",
+        "chapterId": "stealth-and-tricks",
+        "where": "Get 20 covert kills. The Zone likes it quiet."
+      },
+      {
+        "id": "achievement-3",
+        "name": "On the go",
+        "kind": "trophy",
+        "chapterId": "survival-and-gear",
+        "where": "Bread and sausage — Zone's most popular sandwich recipe."
+      },
+      {
+        "id": "achievement-4",
+        "name": "Tit for tat",
+        "kind": "trophy",
+        "chapterId": "survival-and-gear",
+        "where": "Sidorovich's worst nightmare: buy and sell goods for the exact same amount of coupons in one deal."
+      },
+      {
+        "id": "achievement-5",
+        "name": "First touches",
+        "kind": "trophy",
+        "chapterId": "survival-and-gear",
+        "where": "First equipment enhancement. Never the last, for most Zone folks."
+      },
+      {
+        "id": "achievement-6",
+        "name": "The good, the bad and the ugly",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "5 headshots in 10 seconds. Good eye."
+      },
+      {
+        "id": "achievement-7",
+        "name": "Bingo",
+        "kind": "trophy",
+        "chapterId": "survival-and-gear",
+        "where": "Experience the effects of bleeding, sleep, hunger, alcohol, radiation and psi. Doesn't sound pretty."
+      },
+      {
+        "id": "achievement-8",
+        "name": "Zone's deadliest predator",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Kill a mutant of every kind. You'll need a bigger wall to fit all those trophies!"
+      },
+      {
+        "id": "achievement-9",
+        "name": "Pump it up",
+        "kind": "trophy",
+        "chapterId": "survival-and-gear",
+        "where": "Fully enhance any type of weapon. Somewhere out there, a Zone technician just shed a tear of pride.."
+      },
+      {
+        "id": "achievement-10",
+        "name": "The four winds",
+        "kind": "trophy",
+        "chapterId": "exploration-and-artifacts",
+        "where": "Unlock the whole map. Few folks know the Zone this well."
+      },
+      {
+        "id": "achievement-11",
+        "name": "Taking it for granted",
+        "kind": "trophy",
+        "chapterId": "survival-and-gear",
+        "where": "Gear broken beyond repair. Don't forget to pay regular visits to the technician."
+      },
+      {
+        "id": "achievement-12",
+        "name": "Miracle hoarder",
+        "kind": "trophy",
+        "chapterId": "exploration-and-artifacts",
+        "where": "Collect all artifacts. What about arch-artifacts?"
+      },
+      {
+        "id": "achievement-13",
+        "name": "Curiouser and curiouser!",
+        "kind": "trophy",
+        "chapterId": "exploration-and-artifacts",
+        "where": "Collect all arch-artifacts. A priceless collection, arguably too weird, even by Zone standards."
+      },
+      {
+        "id": "achievement-14",
+        "name": "No obstacle too big…",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Kill 50 enemies through obstacles. No one in the Zone is really safe."
+      },
+      {
+        "id": "achievement-15",
+        "name": "BOOM!",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "20 enemies killed by blowing up the surroundings. Save on hand grenades and enjoy the fireworks."
+      },
+      {
+        "id": "achievement-16",
+        "name": "Personal approach",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "One fight, four enemies, killed by different weapons. That trick would charm the hell out of Mavka!"
+      },
+      {
+        "id": "achievement-17",
+        "name": "Loner shooter",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Shoot an enemy in the head from 75 meters. No scope-peeking!"
+      },
+      {
+        "id": "achievement-18",
+        "name": "Merry-go-round",
+        "kind": "trophy",
+        "chapterId": "stealth-and-tricks",
+        "where": "Drop a corpse into the Whirlgig anomaly. A joy for someone who never got to ride the Ferris Wheel."
+      },
+      {
+        "id": "achievement-19",
+        "name": "Keeping your hands steady",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Shoot an enemy in the head, through an obstacle, having the intoxication effect."
+      },
+      {
+        "id": "achievement-20",
+        "name": "Catching up",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Shoot an incoming grenade to make it explode. Nice view!"
+      },
+      {
+        "id": "achievement-21",
+        "name": "Flash Royal",
+        "kind": "trophy",
+        "chapterId": "exploration-and-artifacts",
+        "where": "Gather all armor and gear enhancement flash drives."
+      },
+      {
+        "id": "achievement-22",
+        "name": "Wiped out",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Kill a Rodent using a grenade launcher. A good wipe-out makes the Duty proud."
+      },
+      {
+        "id": "achievement-23",
+        "name": "Can opener",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Use a knife to kill an enemy wearing an exoskeleton. Epic battle indeed."
+      },
+      {
+        "id": "achievement-24",
+        "name": "Coupons to burn",
+        "kind": "trophy",
+        "chapterId": "survival-and-gear",
+        "where": "Spend over 1,000,000 coupons. Myklukha and Sidorovich will fight hard over their favorite customer."
+      },
+      {
+        "id": "achievement-25",
+        "name": "Bouncy",
+        "kind": "trophy",
+        "chapterId": "stealth-and-tricks",
+        "where": "A successful jump from a 30-meter height. No parachute, though."
+      },
+      {
+        "id": "achievement-26",
+        "name": "Run, stalker, run!",
+        "kind": "trophy",
+        "chapterId": "stealth-and-tricks",
+        "where": "That Chimera made you run like an Olympic champion!"
+      },
+      {
+        "id": "achievement-27",
+        "name": "Peace and quiet",
+        "kind": "trophy",
+        "chapterId": "stealth-and-tricks",
+        "where": "Kill everyone in the camp before the alarm is set off. They couldn't see it coming!"
+      },
+      {
+        "id": "achievement-28",
+        "name": "Proxy",
+        "kind": "trophy",
+        "chapterId": "stealth-and-tricks",
+        "where": "Kill a squad that just finished off another squad and won the fight. Or so they thought…"
+      },
+      {
+        "id": "achievement-29",
+        "name": "Lockpick",
+        "kind": "trophy",
+        "chapterId": "stealth-and-tricks",
+        "where": "Lure a mutant into an anomaly. Hardly a noble deed, but it gets the job done."
+      },
+      {
+        "id": "achievement-30",
+        "name": "Welcome to the Zone",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Prologue complete, but this is so far from over."
+      },
+      {
+        "id": "achievement-31",
+        "name": "Good hunting, stalker",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-32",
+        "name": "Would you like some toast?",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-33",
+        "name": "Eyes on the prize",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-34",
+        "name": "House of glass",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-35",
+        "name": "Such is the will of the Monolith",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-36",
+        "name": "I see you have many questions",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-37",
+        "name": "Doctor's oath",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-38",
+        "name": "Living legend",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-39",
+        "name": "The Prypiat guardian",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-40",
+        "name": "Brave new world",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-41",
+        "name": "Today never ends",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-42",
+        "name": "She will never be free",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-43",
+        "name": "Project Y",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-44",
+        "name": "Wardens drool",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-45",
+        "name": "Stalker's smarts",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-46",
+        "name": "The good ol' days",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-47",
+        "name": "Apple-shot",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-48",
+        "name": "Baptism by fire",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-49",
+        "name": "On a leash",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-50",
+        "name": "Your move!",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-51",
+        "name": "Goss",
+        "kind": "trophy",
+        "chapterId": "exploration-and-artifacts",
+        "where": "Join Stalkers for some campfire gossip."
+      },
+      {
+        "id": "achievement-52",
+        "name": "Legends never die",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-53",
+        "name": "All quiet in the Zone",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-54",
+        "name": "Alas poor Yorick",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-55",
+        "name": "One awkward step",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-56",
+        "name": "Monolith envoy",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-57",
+        "name": "Between the lines",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-58",
+        "name": "Scanning complete",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-59",
+        "name": "High voltage",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-60",
+        "name": "Casus Belli",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-61",
+        "name": "The territory of the future",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-62",
+        "name": "Welcome back",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-63",
+        "name": "Shadows of the idols",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-64",
+        "name": "Freedom of Choice",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-65",
+        "name": "This is our Duty",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-66",
+        "name": "It's a no-brainer!",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-67",
+        "name": "The end of the Golden Era",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-68",
+        "name": "His last order",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-69",
+        "name": "Kilometer Zero",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-70",
+        "name": "In the heart of the enemy",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-71",
+        "name": "The times of Freedom",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-72",
+        "name": "Battle on – and win your battle!",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-73",
+        "name": "Contra spem spero",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-74",
+        "name": "The draw of the Flare",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-75",
+        "name": "Get your hands dirty",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-76",
+        "name": "Voices of the Zone",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/stalker-2",
+    "Achievement data from Steam (Steam Web API, app 1643320)",
+    "StrategyWiki: no page for this game, nothing used",
+    "Fandom (stalker.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://stalker.fandom.com/wiki/S.T.A.L.K.E.R._2:_Heart_of_Chornobyl"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). No StrategyWiki page under \"S.T.A.L.K.E.R. 2: Heart of Chornobyl\" or \"S.T.A.L.K.E.R. 2\", and a StrategyWiki search for \"STALKER 2\" found nothing related. stalker.fandom.com answers the API, with about 47 linked pages, including \"Skif\", \"Great Swamps\", \"Pripyat\", \"Lab X-18\", \"Duty\", \"Freedom\", \"Ecologists\", \"Bandits\" and many development \"Build\" pages; names only were looked at, nothing copied. Steam app 1643320 is \"S.T.A.L.K.E.R. 2: Heart of Chornobyl\". 45 of 76 Steam achievements are hidden and sit in the story chapter; their order and meaning were not checked. Some hidden names (\"Freedom of Choice\", \"This is our Duty\", \"The times of Freedom\") echo faction page names on Fandom; whether they mark different story paths was not checked. The only visible story achievement is \"Welcome to the Zone\" (prologue complete). RAWG lists PC and Xbox Series X|S only, and a playtime of only 7 hours, which looks low for an open-world game."
+}

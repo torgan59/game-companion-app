@@ -1,0 +1,108 @@
+{
+  "id": "mario-kart-world",
+  "title": "Mario Kart World",
+  "year": 2025,
+  "platforms": [
+    "Nintendo Switch"
+  ],
+  "rawgId": 1000574,
+  "rawgSlug": "mario-kart-world",
+  "released": "2025-06-05",
+  "developers": [
+    "Nintendo"
+  ],
+  "playtime": null,
+  "genres": [
+    "Action",
+    "Racing"
+  ],
+  "tags": [],
+  "coverUrl": "https://media.rawg.io/media/games/1b8/1b8e007c36040ae1f5762a62ba2faeab.jpg",
+  "steamAppId": null,
+  "achievements": {
+    "total": 0,
+    "examples": [],
+    "reason": "Nintendo platform only (RAWG lists Nintendo Switch): no Steam app, so there is no achievement list in our sources. StrategyWiki has a short written \"Unlockables\" page (about 2,000 characters), and Fandom has \"P-Switch Missions\" and \"Routes\" pages, which could later seed an original checklist."
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Mario_Kart_World",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 189,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://mariokart.fandom.com/wiki/Mario_Kart_World"
+    }
+  },
+  "game": {
+    "id": "mario-kart-world",
+    "title": "Mario Kart World",
+    "platforms": [
+      "Nintendo Switch"
+    ],
+    "blurb": "Kart racing game from Nintendo, released 2025-06-05. RAWG has no playtime yet. Genres: Action, Racing. Chapters follow the cup, rally and mode names on StrategyWiki's contents page (names only), grouped by mode.",
+    "accent": "#E52521",
+    "chapters": [
+      {
+        "id": "getting-started",
+        "title": "Getting Started",
+        "summary": "Characters, vehicles and items, before your first race.",
+        "steps": []
+      },
+      {
+        "id": "cups-mushroom-to-shell",
+        "title": "Grand Prix: Mushroom to Shell Cup",
+        "summary": "The Mushroom, Flower, Star and Shell Cups.",
+        "steps": []
+      },
+      {
+        "id": "cups-banana-to-special",
+        "title": "Grand Prix: Banana to Special Cup",
+        "summary": "The Banana, Leaf, Lightning and Special Cups.",
+        "steps": []
+      },
+      {
+        "id": "rallies-golden-to-acorn",
+        "title": "Rallies: Golden to Acorn",
+        "summary": "The Golden, Ice, Moon, Spiny, Cherry and Acorn Rallies.",
+        "steps": []
+      },
+      {
+        "id": "rallies-cloud-to-turnip",
+        "title": "Rallies: Cloud to Turnip",
+        "summary": "The Cloud, Heart, Drill, Boomerang, Propeller and Turnip Rallies.",
+        "steps": []
+      },
+      {
+        "id": "free-roam",
+        "title": "Free Roam",
+        "summary": "Driving around the open world between courses.",
+        "steps": []
+      },
+      {
+        "id": "unlockables",
+        "title": "Unlockables",
+        "summary": "Characters, vehicles and other things to unlock.",
+        "steps": []
+      }
+    ],
+    "collectibles": []
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/mario-kart-world",
+    "Steam: no achievement list available for this game (see notes)",
+    "StrategyWiki: mission and page names used to group chapters, CC BY-SA 4.0; no text copied — https://strategywiki.org/wiki/Mario_Kart_World",
+    "Fandom (mariokart.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://mariokart.fandom.com/wiki/Mario_Kart_World"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). StrategyWiki has the guide under \"Mario Kart World\" at completion stage 0. Only 5 subpages exist: \"Walkthrough\" (about 2,300 characters), \"Unlockables\" (about 2,000), \"Gameplay\" (about 1,400), \"Controls\" (about 1,000) and \"Table of Contents\" (about 1,500). The contents page lists Characters, Vehicles and Items, then eight cups (Mushroom, Flower, Star, Shell, Banana, Leaf, Lightning, Special), twelve rallies (Golden, Ice, Moon, Spiny, Cherry, Acorn, Cloud, Heart, Drill, Boomerang, Propeller, Turnip), Free Roam and Unlockables; none of the cup or rally pages is written, so only their names and order were used, and splitting them into two chapters each is our own choice. What the rallies are (Fandom has a \"Knockout Tour\" page) was not checked against StrategyWiki. mariokart.fandom.com answers the API, with about 189 linked pages, including course names, \"Knockout Tour\", \"P-Switch Missions\", \"Routes\" and pages such as \"Coin Runners\", \"Shine Thief\" and \"Renegade Roundup\"; names only were looked at, nothing copied. No online or battle chapter was made, because the StrategyWiki contents do not list one. RAWG gives Nintendo Switch as the platform; StrategyWiki's page summary calls it the first game for Nintendo Switch 2. No Steam app (steam=None)."
+}

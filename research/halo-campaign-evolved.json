@@ -1,0 +1,559 @@
+{
+  "id": "halo-campaign-evolved",
+  "title": "Halo: Campaign Evolved",
+  "year": 2026,
+  "platforms": [
+    "PC",
+    "Xbox Series X|S",
+    "PlayStation 5"
+  ],
+  "rawgId": 1013132,
+  "rawgSlug": "halo-campaign-evolved",
+  "released": "2026-07-28",
+  "developers": [
+    "343 Industries"
+  ],
+  "playtime": null,
+  "genres": [
+    "Action",
+    "Shooter",
+    "Adventure"
+  ],
+  "tags": [],
+  "coverUrl": "https://media.rawg.io/media/screenshots/c44/c445c015eb08b156eed3f047f9718508.jpg",
+  "steamAppId": 2806050,
+  "achievements": {
+    "total": 58,
+    "hidden": 1,
+    "examples": [
+      {
+        "name": "The Autumn Leaves",
+        "percent": 85.9
+      },
+      {
+        "name": "Make Them Count",
+        "percent": 78.2
+      },
+      {
+        "name": "Installation 04",
+        "percent": 77.4
+      },
+      {
+        "name": "Like Old Times",
+        "percent": 3.9
+      },
+      {
+        "name": "Arm's Length",
+        "percent": 3.8
+      },
+      {
+        "name": "Mix Master",
+        "percent": 2.4
+      },
+      {
+        "name": "MYTHIC",
+        "percent": 2.1
+      },
+      {
+        "name": "Fully Evolved",
+        "percent": 1.6
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Halo:_Campaign_Evolved",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 40,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://halo.fandom.com/wiki/Halo:_Campaign_Evolved"
+    }
+  },
+  "game": {
+    "id": "halo-campaign-evolved",
+    "title": "Halo: Campaign Evolved",
+    "platforms": [
+      "PC",
+      "Xbox Series X|S",
+      "PlayStation 5"
+    ],
+    "blurb": "First-person shooter, a remake of the campaign of Halo: Combat Evolved (2001), from 343 Industries, released 2026-07-28. RAWG has no playtime yet. Genres: Action, Shooter, Adventure. Chapters are an estimate drawn from Steam achievement themes and the mission names they give.",
+    "accent": "#4F6B3A",
+    "chapters": [
+      {
+        "id": "opening",
+        "title": "Pillar of Autumn to Truth and Reconciliation",
+        "summary": "The first three missions: Pillar of Autumn, Halo, and Truth and Reconciliation, with their mission challenges.",
+        "steps": []
+      },
+      {
+        "id": "cartographer-to-library",
+        "title": "Silent Cartographer to The Library",
+        "summary": "Silent Cartographer, Assault on the Control Room, 343 Guilty Spark and The Library, with their mission challenges.",
+        "steps": []
+      },
+      {
+        "id": "finale",
+        "title": "Two Betrayals, Keyes and The Maw",
+        "summary": "The closing missions, with their mission challenges, including the Warthog run.",
+        "steps": []
+      },
+      {
+        "id": "new-missions",
+        "title": "Boarding Action, The Most Dangerous Game and Heavy Burden",
+        "summary": "Three missions that StrategyWiki lists under this remake's own name, with their challenges.",
+        "steps": []
+      },
+      {
+        "id": "difficulty",
+        "title": "Difficulty and LASO",
+        "summary": "The campaign on Easy, Normal, Heroic and Legendary, LASO, and a level with no health damage.",
+        "steps": []
+      },
+      {
+        "id": "skulls-and-terminals",
+        "title": "Skulls and Terminals",
+        "summary": "All 39 skulls and 13 terminals, mission by mission.",
+        "steps": []
+      },
+      {
+        "id": "remix-and-skull-challenges",
+        "title": "Remixed Missions and Skull Challenges",
+        "summary": "Remixed missions and campaigns, and beating missions with certain skulls turned on.",
+        "steps": []
+      },
+      {
+        "id": "combat",
+        "title": "Combat Feats and Completion",
+        "summary": "Grunt backpacks, Hunter backplates, hijacks, Flood parts, vehicle parts, headshots and every achievement.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "The Autumn Leaves",
+        "kind": "trophy",
+        "chapterId": "opening",
+        "where": "Complete Pillar of Autumn."
+      },
+      {
+        "id": "achievement-2",
+        "name": "Installation 04",
+        "kind": "trophy",
+        "chapterId": "opening",
+        "where": "Complete Halo."
+      },
+      {
+        "id": "achievement-3",
+        "name": "Infiltration Anticipation",
+        "kind": "trophy",
+        "chapterId": "opening",
+        "where": "Complete Truth and Reconciliation."
+      },
+      {
+        "id": "achievement-4",
+        "name": "Bee Thirty",
+        "kind": "trophy",
+        "chapterId": "cartographer-to-library",
+        "where": "Complete Silent Cartographer."
+      },
+      {
+        "id": "achievement-5",
+        "name": "Control Alt Delete",
+        "kind": "trophy",
+        "chapterId": "cartographer-to-library",
+        "where": "Complete Assault on the Control Room."
+      },
+      {
+        "id": "achievement-6",
+        "name": "This Stuff is Your History",
+        "kind": "trophy",
+        "chapterId": "cartographer-to-library",
+        "where": "Complete 343 Guilty Spark."
+      },
+      {
+        "id": "achievement-7",
+        "name": "Protocol Dictates Action",
+        "kind": "trophy",
+        "chapterId": "cartographer-to-library",
+        "where": "Complete The Library."
+      },
+      {
+        "id": "achievement-8",
+        "name": "Double Trouble",
+        "kind": "trophy",
+        "chapterId": "finale",
+        "where": "Complete Two Betrayals."
+      },
+      {
+        "id": "achievement-9",
+        "name": "Captain’s Orders",
+        "kind": "trophy",
+        "chapterId": "finale",
+        "where": "Complete Keyes."
+      },
+      {
+        "id": "achievement-10",
+        "name": "Dust & Echoes Evolved",
+        "kind": "trophy",
+        "chapterId": "finale",
+        "where": "Complete The Maw."
+      },
+      {
+        "id": "achievement-11",
+        "name": "Before the Fall",
+        "kind": "trophy",
+        "chapterId": "new-missions",
+        "where": "Complete Boarding Action."
+      },
+      {
+        "id": "achievement-12",
+        "name": "Tiger Company",
+        "kind": "trophy",
+        "chapterId": "new-missions",
+        "where": "Complete The Most Dangerous Game."
+      },
+      {
+        "id": "achievement-13",
+        "name": "Personal Space",
+        "kind": "trophy",
+        "chapterId": "new-missions",
+        "where": "Complete Heavy Burden."
+      },
+      {
+        "id": "achievement-14",
+        "name": "Greenhorn",
+        "kind": "trophy",
+        "chapterId": "difficulty",
+        "where": "Complete the Campaign on Easy Difficulty."
+      },
+      {
+        "id": "achievement-15",
+        "name": "Birth of a Spartan",
+        "kind": "trophy",
+        "chapterId": "difficulty",
+        "where": "Complete the Campaign on Normal Difficulty."
+      },
+      {
+        "id": "achievement-16",
+        "name": "Heroes Never Die",
+        "kind": "trophy",
+        "chapterId": "difficulty",
+        "where": "Complete the Campaign on Heroic Difficulty."
+      },
+      {
+        "id": "achievement-17",
+        "name": "Living Legend",
+        "kind": "trophy",
+        "chapterId": "difficulty",
+        "where": "Complete the Campaign on Legendary Difficulty."
+      },
+      {
+        "id": "achievement-18",
+        "name": "Lore Have Mercy",
+        "kind": "trophy",
+        "chapterId": "skulls-and-terminals",
+        "where": "Activate all 13 Terminals."
+      },
+      {
+        "id": "achievement-19",
+        "name": "Clean Sweep",
+        "kind": "trophy",
+        "chapterId": "skulls-and-terminals",
+        "where": "Find all skulls and terminals in Pillar of Autumn."
+      },
+      {
+        "id": "achievement-20",
+        "name": "Successful Search",
+        "kind": "trophy",
+        "chapterId": "skulls-and-terminals",
+        "where": "Find all skulls and terminals in Halo."
+      },
+      {
+        "id": "achievement-21",
+        "name": "Plundered",
+        "kind": "trophy",
+        "chapterId": "skulls-and-terminals",
+        "where": "Find all skulls and terminals in Truth and Reconciliation."
+      },
+      {
+        "id": "achievement-22",
+        "name": "Buried Treasure",
+        "kind": "trophy",
+        "chapterId": "skulls-and-terminals",
+        "where": "Find all skulls and terminals in Silent Cartographer."
+      },
+      {
+        "id": "achievement-23",
+        "name": "Stowed in Snow",
+        "kind": "trophy",
+        "chapterId": "skulls-and-terminals",
+        "where": "Find all skulls and terminals in Assault on the Control Room."
+      },
+      {
+        "id": "achievement-24",
+        "name": "Proto Gravemind",
+        "kind": "trophy",
+        "chapterId": "skulls-and-terminals",
+        "where": "Find all skulls and terminals in 343 Guilty Spark."
+      },
+      {
+        "id": "achievement-25",
+        "name": "Timeless Tomes",
+        "kind": "trophy",
+        "chapterId": "skulls-and-terminals",
+        "where": "Find all skulls and terminals in The Library."
+      },
+      {
+        "id": "achievement-26",
+        "name": "Outpost Discoveries",
+        "kind": "trophy",
+        "chapterId": "skulls-and-terminals",
+        "where": "Find all skulls and terminals in Two Betrayals."
+      },
+      {
+        "id": "achievement-27",
+        "name": "Priorities",
+        "kind": "trophy",
+        "chapterId": "skulls-and-terminals",
+        "where": "Find all skulls and terminals in Keyes."
+      },
+      {
+        "id": "achievement-28",
+        "name": "No Rush",
+        "kind": "trophy",
+        "chapterId": "skulls-and-terminals",
+        "where": "Find all skulls and terminals in The Maw."
+      },
+      {
+        "id": "achievement-29",
+        "name": "Souvenirs",
+        "kind": "trophy",
+        "chapterId": "skulls-and-terminals",
+        "where": "Find all skulls and terminals in Boarding Action."
+      },
+      {
+        "id": "achievement-30",
+        "name": "Brute Loops",
+        "kind": "trophy",
+        "chapterId": "skulls-and-terminals",
+        "where": "Find all skulls and terminals in The Most Dangerous Game."
+      },
+      {
+        "id": "achievement-31",
+        "name": "Parting Gifts",
+        "kind": "trophy",
+        "chapterId": "skulls-and-terminals",
+        "where": "Find all skulls and terminals in Heavy Burden."
+      },
+      {
+        "id": "achievement-32",
+        "name": "Cranial",
+        "kind": "trophy",
+        "chapterId": "skulls-and-terminals",
+        "where": "Collect a Skull."
+      },
+      {
+        "id": "achievement-33",
+        "name": "Making a Necklace",
+        "kind": "trophy",
+        "chapterId": "skulls-and-terminals",
+        "where": "Collect 22 Skulls."
+      },
+      {
+        "id": "achievement-34",
+        "name": "Headhunter",
+        "kind": "trophy",
+        "chapterId": "skulls-and-terminals",
+        "where": "Collect all 39 Skulls."
+      },
+      {
+        "id": "achievement-35",
+        "name": "Collector’s Addition",
+        "kind": "trophy",
+        "chapterId": "skulls-and-terminals",
+        "where": "Find all skulls and terminals in the game."
+      },
+      {
+        "id": "achievement-36",
+        "name": "REMIX!",
+        "kind": "trophy",
+        "chapterId": "remix-and-skull-challenges",
+        "where": "Complete a Remixed Mission."
+      },
+      {
+        "id": "achievement-37",
+        "name": "Beat the Drop",
+        "kind": "trophy",
+        "chapterId": "remix-and-skull-challenges",
+        "where": "Complete a Remixed Mission without dying."
+      },
+      {
+        "id": "achievement-38",
+        "name": "Mix Master",
+        "kind": "trophy",
+        "chapterId": "remix-and-skull-challenges",
+        "where": "Complete an entire Remixed Campaign without dying."
+      },
+      {
+        "id": "achievement-39",
+        "name": "Bad Gas",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Destroy 100 Grunt backpacks."
+      },
+      {
+        "id": "achievement-40",
+        "name": "Plate Tectonics",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Break off 25 Hunter backplates."
+      },
+      {
+        "id": "achievement-41",
+        "name": "New Whip",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Hijack 10 Vehicles."
+      },
+      {
+        "id": "achievement-42",
+        "name": "Disarmed",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Dismember 100 Flood parts."
+      },
+      {
+        "id": "achievement-43",
+        "name": "Claims Adjuster",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Break off 50 Vehicle parts."
+      },
+      {
+        "id": "achievement-44",
+        "name": "Make Them Count",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Kill 100 enemies with headshots."
+      },
+      {
+        "id": "achievement-45",
+        "name": "Hot Streak",
+        "kind": "trophy",
+        "chapterId": "remix-and-skull-challenges",
+        "where": "With the Floor Is Lava Skull activated beat a mission without jumping or dying."
+      },
+      {
+        "id": "achievement-46",
+        "name": "Even Tempered",
+        "kind": "trophy",
+        "chapterId": "remix-and-skull-challenges",
+        "where": "With the Temperamental Skull activated beat Halo without upsetting anyone."
+      },
+      {
+        "id": "achievement-47",
+        "name": "Like Old Times",
+        "kind": "trophy",
+        "chapterId": "remix-and-skull-challenges",
+        "where": "Complete Two Betrayals with the Speed Limit, Endurance Spec, Hip Fire, and Armistice Skulls enabled."
+      },
+      {
+        "id": "achievement-48",
+        "name": "Frugal Fire",
+        "kind": "trophy",
+        "chapterId": "remix-and-skull-challenges",
+        "where": "Equip Famine, Recession, and Johnny Ammo Tree Skulls and beat a mission without running out of ammo."
+      },
+      {
+        "id": "achievement-49",
+        "name": "MYTHIC",
+        "kind": "trophy",
+        "chapterId": "difficulty",
+        "where": "Complete the Campaign with LASO enabled."
+      },
+      {
+        "id": "achievement-50",
+        "name": "This is My Ship Now",
+        "kind": "trophy",
+        "chapterId": "opening",
+        "where": "Eliminate Captain Keyes and trap his six avenging Marines in the Autumn’s observation pen."
+      },
+      {
+        "id": "achievement-51",
+        "name": "Map Quest",
+        "kind": "trophy",
+        "chapterId": "cartographer-to-library",
+        "where": "Complete The Silent Cartographer without shooting, using grenades, melee, dying, or restarting."
+      },
+      {
+        "id": "achievement-52",
+        "name": "That’s My Ride",
+        "kind": "trophy",
+        "chapterId": "cartographer-to-library",
+        "where": "On Assault on the Control Room get to the Banshee before the Elite."
+      },
+      {
+        "id": "achievement-53",
+        "name": "Arm's Length",
+        "kind": "trophy",
+        "chapterId": "cartographer-to-library",
+        "where": "On 343 Guilty Spark complete the first floor without taking a hit."
+      },
+      {
+        "id": "achievement-54",
+        "name": "Clean Lap",
+        "kind": "trophy",
+        "chapterId": "finale",
+        "where": "On The Maw complete the warthog run without being forcibly ejected from your vehicle."
+      },
+      {
+        "id": "achievement-55",
+        "name": "Jiralhanae Conservationist",
+        "kind": "trophy",
+        "chapterId": "new-missions",
+        "where": "On The Most Dangerous Game don’t kill any rampaging Brutes."
+      },
+      {
+        "id": "achievement-56",
+        "name": "Food Critic",
+        "kind": "trophy",
+        "chapterId": "opening",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-57",
+        "name": "All Shield, No Yield",
+        "kind": "trophy",
+        "chapterId": "difficulty",
+        "where": "Complete any level on Heroic difficulty or higher without taking health damage."
+      },
+      {
+        "id": "achievement-58",
+        "name": "Fully Evolved",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Complete Every Achievement."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/halo-campaign-evolved",
+    "Achievement data from Steam (Steam Web API, app 2806050)",
+    "StrategyWiki: no usable walkthrough, nothing used — https://strategywiki.org/wiki/Halo:_Campaign_Evolved",
+    "Fandom (halo.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://halo.fandom.com/wiki/Halo:_Campaign_Evolved"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). Remake: RAWG's first result was the 2001 \"halo-combat-evolved\" (id 28448), so rawgDetail was replaced with \"halo-campaign-evolved\" (id 1013132, released 2026-07-28, 343 Industries per RAWG's developer list, published by Xbox Game Studios; RAWG's description names Halo Studios as the developer). The remake's own Steam app is used: the Steam schema calls app 2806050 \"Project Meteorite\" (an internal codename); the store list confirms it as \"Halo: Campaign Evolved\". StrategyWiki has a page \"Halo: Campaign Evolved\" at completion stage 0 (a stub); its only written subpage is \"Table of Contents\", which just transcludes the Halo: Combat Evolved table of contents. It links \"/Walkthrough\", \"/Boarding Action\", \"/The Most Dangerous Game\", \"/Heavy Burden\", \"/Skulls\", \"/Weapons\" and other subpages under its own name, none written, and links the other missions to Halo: Combat Evolved pages; nothing was used from it beyond that page-name split, which is why those three missions get their own chapter. Their place in the story order is not known (their unlock rates of 43, 40 and 36% sit between Keyes at 45% and just below The Maw at 37%). halo.fandom.com answers the API under \"Halo: Campaign Evolved\", with about 43 linked pages, mostly other Halo games; names only were looked at, nothing copied. Only 1 of 58 Steam achievements is hidden (\"Food Critic\", 8.6%); it sits in the first mission chapter as a placeholder. Mission challenges (for example \"Map Quest\", \"Clean Lap\") sit in their mission's chapter."
+}
