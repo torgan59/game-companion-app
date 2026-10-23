@@ -1,0 +1,512 @@
+{
+  "id": "aliens-vs-predator",
+  "title": "Aliens vs. Predator",
+  "year": 2010,
+  "platforms": [
+    "Xbox 360",
+    "Xbox One",
+    "PC",
+    "PlayStation 3"
+  ],
+  "rawgId": 39277,
+  "rawgSlug": "aliens-vs-predator-3",
+  "released": "2010-02-16",
+  "developers": [
+    "SEGA",
+    "Rebellion"
+  ],
+  "playtime": 3,
+  "genres": [
+    "Action",
+    "Shooter"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Multiplayer",
+    "Steam Cloud",
+    "Atmospheric",
+    "Co-op",
+    "cooperative",
+    "First-Person",
+    "Sci-fi",
+    "Horror",
+    "FPS",
+    "Online Co-Op"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/fbc/fbced95c523be0444ce6d2fa83b1afc0.jpg",
+  "steamAppId": 10680,
+  "achievements": {
+    "total": 50,
+    "hidden": 0,
+    "examples": [
+      {
+        "name": "Breaking Quarantine",
+        "percent": 49.8
+      },
+      {
+        "name": "Club Hopper",
+        "percent": 47.9
+      },
+      {
+        "name": "Come to Mama",
+        "percent": 47.5
+      },
+      {
+        "name": "Harsh Language",
+        "percent": 2.5
+      },
+      {
+        "name": "Quite A Specimen",
+        "percent": 2.5
+      },
+      {
+        "name": "The Six Pack",
+        "percent": 2.3
+      },
+      {
+        "name": "I LOVE the Corps!",
+        "percent": 2.1
+      },
+      {
+        "name": "Not Bad for A Human",
+        "percent": 1.7
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Aliens_vs._Predator",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 152,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://avp.fandom.com/wiki/Aliens_vs._Predator_(2010_video_game)"
+    }
+  },
+  "game": {
+    "id": "aliens-vs-predator",
+    "title": "Aliens vs. Predator",
+    "platforms": [
+      "Xbox 360",
+      "Xbox One",
+      "PC",
+      "PlayStation 3"
+    ],
+    "blurb": "First-person shooter from Rebellion (RAWG also lists SEGA), published by SEGA, released 2010-02-16. RAWG average playtime: 3 hours. Genres: Action, Shooter. Chapters are an estimate drawn from Steam achievement themes: three campaigns (Marine, Alien, Predator), harder difficulties, collectibles, weapon feats and multiplayer.",
+    "accent": "#5A8F29",
+    "chapters": [
+      {
+        "id": "marine-campaign",
+        "title": "Marine Campaign",
+        "summary": "The Marine story: surviving the party at the Club, escaping C-Block, helping Van Zandt, finding Tequila and recovering a datapad. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "alien-campaign",
+        "title": "Alien Campaign",
+        "summary": "The Alien story: escaping the Research Lab, hunting Marines in the Colony, the riddle of the Ruins and harvesting civilians. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "predator-campaign",
+        "title": "Predator Campaign",
+        "summary": "The Predator story: through Gateway and the Jungle, an ancient mask, trial by combat, the Research Lab and the artifacts. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "difficulty",
+        "title": "Hard, Nightmare and Full Completion",
+        "summary": "Finishing all three campaigns, each campaign on Hard and on Nightmare, and every achievement.",
+        "steps": []
+      },
+      {
+        "id": "collectibles",
+        "title": "Audio Diaries, Royal Jelly and Trophy Belts",
+        "summary": "The 67 Marine Audio Diaries, the 50 Royal Jelly Containers and the 45 Predator trophy belts.",
+        "steps": []
+      },
+      {
+        "id": "weapons",
+        "title": "Weapon Feats",
+        "summary": "Multi-kills and kill counts with the shotgun, Battle Disc, smartgun, scoped rifle, Combi Stick and pistol.",
+        "steps": []
+      },
+      {
+        "id": "multiplayer",
+        "title": "Ranked Matches and Survivor",
+        "summary": "Ranked Deathmatch and Infestation, XP goals, playing with friends, and the Survivor mode. Needs a network connection, if the servers still run.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Not Bad for A Human",
+        "kind": "trophy",
+        "chapterId": "difficulty",
+        "where": "Get all the Aliens vs Predator achievements"
+      },
+      {
+        "id": "achievement-2",
+        "name": "Game Over, Man!",
+        "kind": "trophy",
+        "chapterId": "difficulty",
+        "where": "Complete all three Campaigns"
+      },
+      {
+        "id": "achievement-3",
+        "name": "Club Hopper",
+        "kind": "trophy",
+        "chapterId": "marine-campaign",
+        "where": "Survive The 'Party' at The Club"
+      },
+      {
+        "id": "achievement-4",
+        "name": "Exit Strategy",
+        "kind": "trophy",
+        "chapterId": "marine-campaign",
+        "where": "Escape from C-Block"
+      },
+      {
+        "id": "achievement-5",
+        "name": "You Have My Sympathies",
+        "kind": "trophy",
+        "chapterId": "marine-campaign",
+        "where": "Help Van Zandt"
+      },
+      {
+        "id": "achievement-6",
+        "name": "Regicide",
+        "kind": "trophy",
+        "chapterId": "marine-campaign",
+        "where": "Defeat the Matriarch"
+      },
+      {
+        "id": "achievement-7",
+        "name": "I Will Never Leave You...",
+        "kind": "trophy",
+        "chapterId": "marine-campaign",
+        "where": "Locate Tequila"
+      },
+      {
+        "id": "achievement-8",
+        "name": "...That's A Promise",
+        "kind": "trophy",
+        "chapterId": "marine-campaign",
+        "where": "Get Tequila to surgery"
+      },
+      {
+        "id": "achievement-9",
+        "name": "One Big Bug",
+        "kind": "trophy",
+        "chapterId": "marine-campaign",
+        "where": "Defeat the Praetorian"
+      },
+      {
+        "id": "achievement-10",
+        "name": "Get to The Chopper!",
+        "kind": "trophy",
+        "chapterId": "marine-campaign",
+        "where": "Recover Weyland's datapad"
+      },
+      {
+        "id": "achievement-11",
+        "name": "Come to Mama",
+        "kind": "trophy",
+        "chapterId": "alien-campaign",
+        "where": "Liberate the Matriarch"
+      },
+      {
+        "id": "achievement-12",
+        "name": "Breaking Quarantine",
+        "kind": "trophy",
+        "chapterId": "alien-campaign",
+        "where": "Escape from the Research Lab"
+      },
+      {
+        "id": "achievement-13",
+        "name": "Grunt Hunt",
+        "kind": "trophy",
+        "chapterId": "alien-campaign",
+        "where": "Wipe out all of the Marines in the Colony"
+      },
+      {
+        "id": "achievement-14",
+        "name": "Under Pressure",
+        "kind": "trophy",
+        "chapterId": "alien-campaign",
+        "where": "Solve the riddle of the Ruins"
+      },
+      {
+        "id": "achievement-15",
+        "name": "Grim Reaper",
+        "kind": "trophy",
+        "chapterId": "alien-campaign",
+        "where": "Harvest all available civilians in the Alien Campaign"
+      },
+      {
+        "id": "achievement-16",
+        "name": "Alien vs Predator",
+        "kind": "trophy",
+        "chapterId": "alien-campaign",
+        "where": "Create a new species"
+      },
+      {
+        "id": "achievement-17",
+        "name": "It Uses The Jungle",
+        "kind": "trophy",
+        "chapterId": "predator-campaign",
+        "where": "Find a way through Gateway"
+      },
+      {
+        "id": "achievement-18",
+        "name": "Fallen Comrade",
+        "kind": "trophy",
+        "chapterId": "predator-campaign",
+        "where": "Find the Youngbloods in the Jungle"
+      },
+      {
+        "id": "achievement-19",
+        "name": "Matter of Honor",
+        "kind": "trophy",
+        "chapterId": "predator-campaign",
+        "where": "Discover the Elite Predator's fate"
+      },
+      {
+        "id": "achievement-20",
+        "name": "Eyes of The Demon",
+        "kind": "trophy",
+        "chapterId": "predator-campaign",
+        "where": "Retrieve the ancient mask"
+      },
+      {
+        "id": "achievement-21",
+        "name": "World of Hurt",
+        "kind": "trophy",
+        "chapterId": "predator-campaign",
+        "where": "Survive trial by combat"
+      },
+      {
+        "id": "achievement-22",
+        "name": "Breaking and Entering",
+        "kind": "trophy",
+        "chapterId": "predator-campaign",
+        "where": "Find a way into the Research Lab"
+      },
+      {
+        "id": "achievement-23",
+        "name": "Reclaimer",
+        "kind": "trophy",
+        "chapterId": "predator-campaign",
+        "where": "Retrieve the second artifact"
+      },
+      {
+        "id": "achievement-24",
+        "name": "Extinction Agenda",
+        "kind": "trophy",
+        "chapterId": "predator-campaign",
+        "where": "Destroy the Abomination"
+      },
+      {
+        "id": "achievement-25",
+        "name": "Stay Frosty",
+        "kind": "trophy",
+        "chapterId": "difficulty",
+        "where": "Complete Marine Campaign on Hard difficulty setting"
+      },
+      {
+        "id": "achievement-26",
+        "name": "I Admire its Purity",
+        "kind": "trophy",
+        "chapterId": "difficulty",
+        "where": "Complete Alien Campaign on Hard difficulty setting"
+      },
+      {
+        "id": "achievement-27",
+        "name": "It Ain't No Man",
+        "kind": "trophy",
+        "chapterId": "difficulty",
+        "where": "Complete Predator Campaign on Hard difficulty setting"
+      },
+      {
+        "id": "achievement-28",
+        "name": "I LOVE the Corps!",
+        "kind": "trophy",
+        "chapterId": "difficulty",
+        "where": "Complete Marine Campaign on Nightmare difficulty setting"
+      },
+      {
+        "id": "achievement-29",
+        "name": "Magnificent, Isn't It?",
+        "kind": "trophy",
+        "chapterId": "difficulty",
+        "where": "Complete Alien Campaign on Nightmare difficulty setting"
+      },
+      {
+        "id": "achievement-30",
+        "name": "One Ugly Mother",
+        "kind": "trophy",
+        "chapterId": "difficulty",
+        "where": "Complete Predator Campaign on Nightmare difficulty setting"
+      },
+      {
+        "id": "achievement-31",
+        "name": "Harsh Language",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Discover all 67 Audio Diaries"
+      },
+      {
+        "id": "achievement-32",
+        "name": "Quite A Specimen",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Destroy all 50 Royal Jelly Containers"
+      },
+      {
+        "id": "achievement-33",
+        "name": "Fortune and Glory",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Find all 45 Predator trophy belts"
+      },
+      {
+        "id": "achievement-34",
+        "name": "Scatter Shot",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "As a team, kill 20 enemies in under 60 seconds in a Survivor match."
+      },
+      {
+        "id": "achievement-35",
+        "name": "I Like to Keep This Handy",
+        "kind": "trophy",
+        "chapterId": "weapons",
+        "where": "Kill 2 enemies with one shot with the shotgun"
+      },
+      {
+        "id": "achievement-36",
+        "name": "Spin Doctor",
+        "kind": "trophy",
+        "chapterId": "weapons",
+        "where": "Kill two enemies with one throw of the Battle Disc"
+      },
+      {
+        "id": "achievement-37",
+        "name": "Let's Rock!",
+        "kind": "trophy",
+        "chapterId": "weapons",
+        "where": "Kill 5 enemies with one burst from the smartgun"
+      },
+      {
+        "id": "achievement-38",
+        "name": "Elite Sniper",
+        "kind": "trophy",
+        "chapterId": "weapons",
+        "where": "Kill 10 enemies with head shots from the scoped rifle"
+      },
+      {
+        "id": "achievement-39",
+        "name": "Stick Around",
+        "kind": "trophy",
+        "chapterId": "weapons",
+        "where": "Kill 20 enemies with the Combi Stick"
+      },
+      {
+        "id": "achievement-40",
+        "name": "Gunslinger",
+        "kind": "trophy",
+        "chapterId": "weapons",
+        "where": "Kill 30 enemies with the pistol"
+      },
+      {
+        "id": "achievement-41",
+        "name": "Welcome to The War",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "Play and complete your first Ranked Match in standard Deathmatch mode"
+      },
+      {
+        "id": "achievement-42",
+        "name": "Killer Instinct",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "Win your first Ranked Match in standard Deathmatch mode"
+      },
+      {
+        "id": "achievement-43",
+        "name": "Serial Killer",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "Win 10 Ranked Matches in any Deathmatch mode"
+      },
+      {
+        "id": "achievement-44",
+        "name": "Very Tough Hombre",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "Kill 10 enemies in a row without dying in a Ranked Match"
+      },
+      {
+        "id": "achievement-45",
+        "name": "Persecution Complex",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "Achieve Persecutor status more than once in any Ranked Match"
+      },
+      {
+        "id": "achievement-46",
+        "name": "The Six Pack",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "Play with six friends in a Ranked Match"
+      },
+      {
+        "id": "achievement-47",
+        "name": "Ain't Got Time to Bleed",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "Heal or regenerate 30 blocks of health in Survivor"
+      },
+      {
+        "id": "achievement-48",
+        "name": "The Uninfected",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "Finish a Ranked Infestation match as the only remaining prey"
+      },
+      {
+        "id": "achievement-49",
+        "name": "Welcome to The Party",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "Get 6000 XP in Ranked Matches"
+      },
+      {
+        "id": "achievement-50",
+        "name": "Real Nasty Habit",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "Get 18060 XP in Ranked Matches"
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/aliens-vs-predator-3",
+    "Achievement data from Steam (Steam Web API, app 10680)",
+    "StrategyWiki: no usable walkthrough, nothing used — https://strategywiki.org/wiki/Aliens_vs._Predator",
+    "Fandom (avp.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://avp.fandom.com/wiki/Aliens_vs._Predator_(2010_video_game)"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). RAWG's first result is the expected 2010 entry (id 39277, slug aliens-vs-predator-3, released 2010-02-16); the second result is the 1999 \"Aliens Versus Predator\" (id 30261), which was not used. Steam app 10680 (\"Aliens vs. Predator™\") is the only store-list match; its schema is named \"ValveTestApp10680\" (no codename). 50 Steam achievements, none hidden; the first global-percentage request failed with an HTTP 500 and a retry worked. The campaign chapters follow the Steam internal achievement names (MARINE_1 to MARINE_8, ALIEN_1 to ALIEN_6, PREDATOR_1 to PREDATOR_8), assigned by name rules in Steam's order; whether those numbers are the mission order is not confirmed. Whether the weapon-feat achievements are single-player or multiplayer is not stated, so they have their own chapter. StrategyWiki has the guide under \"Aliens vs. Predator\" (\"Aliens vs. Predator (2010)\" redirects there) at completion stage 1. Written subpages: Achievements and trophies (about 7,800 characters), Controls (about 2,800), Table of Contents (about 1,500), Weapons (about 1,500) and Gameplay (about 1,000). Walkthrough, Marines, Aliens, Predators, every level page (Colony, Refinery, Jungle, Ruins, Pyramid, Research Lab and their Marine or Predator variants, Research Lab Escape), Maps, Modes and Skins are linked but not written, so it was not used as a walkthrough. avp.fandom.com redirects \"Aliens vs. Predator (2010)\" to \"Aliens vs. Predator (2010 video game)\", with about 152 linked articles; names only were looked at, nothing copied."
+}

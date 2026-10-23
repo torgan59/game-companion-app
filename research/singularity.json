@@ -1,0 +1,110 @@
+{
+  "id": "singularity",
+  "title": "Singularity",
+  "year": 2010,
+  "platforms": [
+    "PC",
+    "PlayStation 3",
+    "Xbox 360"
+  ],
+  "rawgId": 5653,
+  "rawgSlug": "singularity",
+  "released": "2010-06-25",
+  "developers": [
+    "Raven Software"
+  ],
+  "playtime": 5,
+  "genres": [
+    "Shooter"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Multiplayer",
+    "Atmospheric",
+    "Story Rich",
+    "First-Person",
+    "Sci-fi",
+    "Horror",
+    "FPS",
+    "Gore",
+    "Survival Horror",
+    "Linear",
+    "Alternate History"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/702/7020d1319d09e0c6a840aa08c5ce120f.jpg",
+  "steamAppId": null,
+  "achievements": {
+    "total": 0,
+    "examples": [],
+    "reason": "No Steam list: Steam app 42670 (\"Singularity™\") returns an empty achievement schema and a 403 for global percentages. RAWG lists 42 achievements (RAWG's own percentages): a story discovery and a Hard Mode finish; TMD tricks, upgrades and purchases; kill counts for each weapon; Chrono-Notes, chalkboards and the wheel; 18 public-match goals in Creatures Vs. Soldiers and Extermination; and all trophies. These could seed an original checklist."
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": false,
+      "pages": 0,
+      "reason": "No page for Singularity (MediaWiki API returned missing; see notes for other titles tried)"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 17,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://singularity.fandom.com/wiki/Singularity"
+    }
+  },
+  "game": {
+    "id": "singularity",
+    "title": "Singularity",
+    "platforms": [
+      "PC",
+      "PlayStation 3",
+      "Xbox 360"
+    ],
+    "blurb": "First-person shooter from Raven Software, published by Activision (RAWG spells it \"Activison\") and 1C-SoftClub, released 2010-06-25. RAWG average playtime: 5 hours. Genres: Shooter. Chapters are an estimate drawn from the achievement list on RAWG.",
+    "accent": "#D98E04",
+    "chapters": [
+      {
+        "id": "campaign",
+        "title": "The Campaign",
+        "summary": "The single-player story, the E99 discovery, and finishing on Hard Mode. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "tmd-powers",
+        "title": "TMD Powers and Upgrades",
+        "summary": "Ageing, reverting and Deadlock tricks with the TMD (Time Manipulation Device), grabbing shields and rockets, and buying Hero Upgrades, TMD Equipment and weapon upgrades.",
+        "steps": []
+      },
+      {
+        "id": "weapons",
+        "title": "Weapon Kills",
+        "summary": "Kill counts with the Centurion, Volk S4, AR9 Valkyrie, Seeker, Spikeshot, Dethex Launcher, Autocannon and Kasimov sniper rifle, plus propane and cryo tanks.",
+        "steps": []
+      },
+      {
+        "id": "secrets",
+        "title": "Chrono-Notes, Chalkboards and the Wheel",
+        "summary": "Finding 15 Chrono-Notes, reverting 10 chalkboards and finding the wheel.",
+        "steps": []
+      },
+      {
+        "id": "multiplayer",
+        "title": "Creatures Vs. Soldiers and Extermination",
+        "summary": "Public online matches in Creatures Vs. Soldiers and Extermination, creature and soldier class feats, and the all-trophies award. Needs a network connection, if the servers still run.",
+        "steps": []
+      }
+    ],
+    "collectibles": []
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/singularity",
+    "Steam: no achievement list available for this game (see notes)",
+    "StrategyWiki: no page for this game, nothing used",
+    "Fandom (singularity.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://singularity.fandom.com/wiki/Singularity"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). RAWG's first result is the expected entry (id 5653). Steam app 42670 (\"Singularity™\", the store-list match) returns an empty achievement schema, so steam=None; RAWG's detail says 92 achievements while its list has 42. The chapters come from RAWG's list; only one achievement (\"Mother My Brain Hurts\") marks story progress, so the story is one chapter and its order is not in the data. \"TMD\" is expanded from the Fandom page name \"Time Manipulation Device\". The Platinum award sits with multiplayer only because nearly all the rare goals are there; it is a 100% goal. StrategyWiki has no page under \"Singularity\" or \"Singularity (video game)\". singularity.fandom.com answers the API under \"Singularity\" with 17 linked articles (including Katorga-12, E99, Weapons and character names); names only were looked at, nothing copied."
+}

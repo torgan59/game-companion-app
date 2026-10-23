@@ -1,0 +1,666 @@
+{
+  "id": "napoleon-total-war",
+  "title": "Napoleon: Total War",
+  "year": 2010,
+  "platforms": [
+    "macOS",
+    "PC"
+  ],
+  "rawgId": 14983,
+  "rawgSlug": "napoleon-total-war",
+  "released": "2010-02-23",
+  "developers": [
+    "Feral Interactive",
+    "Creative Assembly"
+  ],
+  "playtime": 4,
+  "genres": [
+    "Strategy"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Multiplayer",
+    "steam-trading-cards",
+    "Great Soundtrack",
+    "Co-op",
+    "cooperative",
+    "Free to Play",
+    "Tactical",
+    "stats",
+    "Moddable",
+    "War"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/0e7/0e7ed2d1f5666fbb7083a7f554d5376b.jpg",
+  "steamAppId": 34030,
+  "achievements": {
+    "total": 71,
+    "hidden": 0,
+    "examples": [
+      {
+        "name": "Revolutionary Cocarde",
+        "percent": 91.3
+      },
+      {
+        "name": "The Tireless Watchman Brooch",
+        "percent": 49.7
+      },
+      {
+        "name": "The Ribbon of the Promising Strategist",
+        "percent": 48.8
+      },
+      {
+        "name": "The Imperatorial Double Eagle",
+        "percent": 0.5
+      },
+      {
+        "name": "Quadriga with Iron Cross",
+        "percent": 0.5
+      },
+      {
+        "name": "Royal Navy Glorious Fleet Badge",
+        "percent": 0.5
+      },
+      {
+        "name": "Fighting Giants Commemorative Medallion",
+        "percent": 0.5
+      },
+      {
+        "name": "St. Martin's Medal",
+        "percent": 0.5
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Napoleon:_Total_War",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 94,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://totalwar.fandom.com/wiki/Napoleon:_Total_War"
+    }
+  },
+  "game": {
+    "id": "napoleon-total-war",
+    "title": "Napoleon: Total War",
+    "platforms": [
+      "macOS",
+      "PC"
+    ],
+    "blurb": "Strategy game from Creative Assembly (RAWG also lists Feral Interactive), published by SEGA, released 2010-02-23. RAWG average playtime: 4 hours. Genres: Strategy. Strategy games have no story chapters, so these chapters are an estimate drawn from Steam achievement themes: the Italian, Egypt and Europe campaigns, the Peninsular Campaign, historical battles, campaign feats, battles and multiplayer.",
+    "accent": "#1F3A8A",
+    "chapters": [
+      {
+        "id": "italian-campaign",
+        "title": "Italian Campaign",
+        "summary": "Winning the Italian Campaign on easy, on medium within historic time, and on hard.",
+        "steps": []
+      },
+      {
+        "id": "egypt-campaign",
+        "title": "Egypt Campaign",
+        "summary": "Winning the Egypt Campaign on each difficulty, and as the Ottomans.",
+        "steps": []
+      },
+      {
+        "id": "europe-campaign",
+        "title": "Europe Campaign",
+        "summary": "Winning the Europe Campaign on each difficulty, as other nations, and conquering all of Europe.",
+        "steps": []
+      },
+      {
+        "id": "peninsular-campaign",
+        "title": "The Peninsular Campaign",
+        "summary": "Winning the Peninsular Campaign as France, Spain or Britain, capturing and liberating regions, and pro-French sentiment.",
+        "steps": []
+      },
+      {
+        "id": "historical-battles",
+        "title": "Historical Battles",
+        "summary": "Playing historical land battles and winning Silver or Gold in them.",
+        "steps": []
+      },
+      {
+        "id": "campaign-feats",
+        "title": "Campaign Feats",
+        "summary": "Regions, allies, protectorates, approval, trade, assassinations, duels, generals, diplomacy, special campaign challenges, starting your first game and total time played.",
+        "steps": []
+      },
+      {
+        "id": "battles",
+        "title": "Land and Sea Battles",
+        "summary": "Single-player campaign land and naval battles, boarding, and battles won with special army make-ups.",
+        "steps": []
+      },
+      {
+        "id": "mp-battles",
+        "title": "Multiplayer Battles",
+        "summary": "Online land and naval battles and matches: wins, streaks, every faction and skill-rating challenges. Needs a network connection, if the servers still run.",
+        "steps": []
+      },
+      {
+        "id": "mp-campaigns",
+        "title": "Multiplayer Campaigns",
+        "summary": "Playing and winning campaigns against another player. Needs a network connection, if the servers still run.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Revolutionary Cocarde",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "Start any campaign, battle or historical battle"
+      },
+      {
+        "id": "achievement-2",
+        "name": "The Ribbon of the Promising Strategist",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "Capture 10 regions"
+      },
+      {
+        "id": "achievement-3",
+        "name": "The Bronze Date",
+        "kind": "trophy",
+        "chapterId": "egypt-campaign",
+        "where": "Win Egypt Campaign in easy"
+      },
+      {
+        "id": "achievement-4",
+        "name": "Russian Doll on Green Ribbon",
+        "kind": "trophy",
+        "chapterId": "europe-campaign",
+        "where": "Win Europe Campaign in easy"
+      },
+      {
+        "id": "achievement-5",
+        "name": "Bronze Tower of Pisa",
+        "kind": "trophy",
+        "chapterId": "italian-campaign",
+        "where": "Win Italian Campaign in easy"
+      },
+      {
+        "id": "achievement-6",
+        "name": "The Silver Dromedairy Legionaire",
+        "kind": "trophy",
+        "chapterId": "egypt-campaign",
+        "where": "Win Egypt Campaign in medium within historic time"
+      },
+      {
+        "id": "achievement-7",
+        "name": "Quadriga in Prussian Silver",
+        "kind": "trophy",
+        "chapterId": "europe-campaign",
+        "where": "Win Europe Campaign in medium within historic time"
+      },
+      {
+        "id": "achievement-8",
+        "name": "The Silver Olive Chaplet",
+        "kind": "trophy",
+        "chapterId": "italian-campaign",
+        "where": "Win Italian Campaign in medium within historic time"
+      },
+      {
+        "id": "achievement-9",
+        "name": "Golden Obelisk of the Pharaos",
+        "kind": "trophy",
+        "chapterId": "egypt-campaign",
+        "where": "Win Egypt Campaign in hard"
+      },
+      {
+        "id": "achievement-10",
+        "name": "The Imperial Crown on Brocade Band",
+        "kind": "trophy",
+        "chapterId": "europe-campaign",
+        "where": "Win Europe Campaign in hard"
+      },
+      {
+        "id": "achievement-11",
+        "name": "Hero of Arcole Commemorative Medal",
+        "kind": "trophy",
+        "chapterId": "italian-campaign",
+        "where": "Win Italian Campaign in hard"
+      },
+      {
+        "id": "achievement-12",
+        "name": "The Hand-and-Dagger on Black Chain",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "Assassinate 15 people"
+      },
+      {
+        "id": "achievement-13",
+        "name": "The Seal of the Grand Coalition",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "Have 6 allies simultaneously"
+      },
+      {
+        "id": "achievement-14",
+        "name": "The People's Crown",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "Have a 100% approval rating"
+      },
+      {
+        "id": "achievement-15",
+        "name": "The Hero's Skull Badge",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "100000 soldiers die in battles with you, friend and foe"
+      },
+      {
+        "id": "achievement-16",
+        "name": "The Merchant's Navy Medal of Gratitude",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "Gain 8000 per turn in trade revenue"
+      },
+      {
+        "id": "achievement-17",
+        "name": "Nautic Star Emblem",
+        "kind": "trophy",
+        "chapterId": "battles",
+        "where": "Win ten SP Campaign naval battles"
+      },
+      {
+        "id": "achievement-18",
+        "name": "Hardened Veteran's Badge",
+        "kind": "trophy",
+        "chapterId": "battles",
+        "where": "Win 15 SP Campaign land battles"
+      },
+      {
+        "id": "achievement-19",
+        "name": "The Imperial Wreath",
+        "kind": "trophy",
+        "chapterId": "europe-campaign",
+        "where": "Conquer all of Europe"
+      },
+      {
+        "id": "achievement-20",
+        "name": "The Imperial School of Strategy Crest",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "Have three generals with full skill level in one campaign"
+      },
+      {
+        "id": "achievement-21",
+        "name": "Shield of the Protector",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "Have 10 protectorates at one time"
+      },
+      {
+        "id": "achievement-22",
+        "name": "Diplomat's Pin",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "Make all major nations like you (very friendly)"
+      },
+      {
+        "id": "achievement-23",
+        "name": "The Medallion of the Imperial Psychopath",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "Declare war on all nations the first turn, never negotiate peace, and win the game"
+      },
+      {
+        "id": "achievement-24",
+        "name": "The Explorers' Society Badge",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "Cover 50,000 sea or land miles with your armies and fleets"
+      },
+      {
+        "id": "achievement-25",
+        "name": "The Bronze Armchair of Comfort",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "Win any campaign by auto-resolving battles"
+      },
+      {
+        "id": "achievement-26",
+        "name": "The Lion and Sabers Medal",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "Win any campaign without a single autoresolve"
+      },
+      {
+        "id": "achievement-27",
+        "name": "Marksman Brooch",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "Win 10 pistol duels"
+      },
+      {
+        "id": "achievement-28",
+        "name": "Imperial Fencing Academy Master's Needle",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "Win 10 sword duels"
+      },
+      {
+        "id": "achievement-29",
+        "name": "Historians' College Acknowledgement Badge",
+        "kind": "trophy",
+        "chapterId": "historical-battles",
+        "where": "Play a historical land battle"
+      },
+      {
+        "id": "achievement-30",
+        "name": "Palace Guard Pendant",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "Play the game for 30 hours total"
+      },
+      {
+        "id": "achievement-31",
+        "name": "The Eye of the Ever Watchful General",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "Play the game for 50 hours total"
+      },
+      {
+        "id": "achievement-32",
+        "name": "Grand General Star",
+        "kind": "trophy",
+        "chapterId": "historical-battles",
+        "where": "Win Silver in 5 Historic Battles"
+      },
+      {
+        "id": "achievement-33",
+        "name": "Platinum Star of Glory",
+        "kind": "trophy",
+        "chapterId": "historical-battles",
+        "where": "Win Gold in all Historic Battles"
+      },
+      {
+        "id": "achievement-34",
+        "name": "The Leaden Seahorse",
+        "kind": "trophy",
+        "chapterId": "mp-battles",
+        "where": "Win a MP naval battle"
+      },
+      {
+        "id": "achievement-35",
+        "name": "Sailor's Medal",
+        "kind": "trophy",
+        "chapterId": "mp-battles",
+        "where": "Play a MP naval battle with every faction"
+      },
+      {
+        "id": "achievement-36",
+        "name": "Treasure Galleon Pendant",
+        "kind": "trophy",
+        "chapterId": "mp-battles",
+        "where": "Win a match with only first rates"
+      },
+      {
+        "id": "achievement-37",
+        "name": "The Star of the Fearless Buccaneer",
+        "kind": "trophy",
+        "chapterId": "mp-battles",
+        "where": "Win a match against someone with double your skill rating"
+      },
+      {
+        "id": "achievement-38",
+        "name": "The Navy Cross",
+        "kind": "trophy",
+        "chapterId": "battles",
+        "where": "Win 10 decisive victories"
+      },
+      {
+        "id": "achievement-39",
+        "name": "Medal of the Unrelenting Storm",
+        "kind": "trophy",
+        "chapterId": "mp-battles",
+        "where": "Win a match having spent half as many funds as your opponent"
+      },
+      {
+        "id": "achievement-40",
+        "name": "The Golden Swallow",
+        "kind": "trophy",
+        "chapterId": "mp-battles",
+        "where": "Win a match without any ships of the line"
+      },
+      {
+        "id": "achievement-41",
+        "name": "Poseidon's Carriage in Gold",
+        "kind": "trophy",
+        "chapterId": "mp-battles",
+        "where": "Play 100 multiplayer naval battes"
+      },
+      {
+        "id": "achievement-42",
+        "name": "Pendant of the Seven Winds",
+        "kind": "trophy",
+        "chapterId": "mp-battles",
+        "where": "Win 6 MP Naval Battles in a row"
+      },
+      {
+        "id": "achievement-43",
+        "name": "Skull and Sabres on Iron Chain",
+        "kind": "trophy",
+        "chapterId": "battles",
+        "where": "Board 5 ships in a single battle"
+      },
+      {
+        "id": "achievement-44",
+        "name": "Defender's Cross of Honour",
+        "kind": "trophy",
+        "chapterId": "battles",
+        "where": "Win a battle using only Light Infantry and Artillery"
+      },
+      {
+        "id": "achievement-45",
+        "name": "Officer's Achievement Medal",
+        "kind": "trophy",
+        "chapterId": "battles",
+        "where": "Win 10 land battles"
+      },
+      {
+        "id": "achievement-46",
+        "name": "Mercenary Coin",
+        "kind": "trophy",
+        "chapterId": "mp-battles",
+        "where": "Play a MP land battle with every faction"
+      },
+      {
+        "id": "achievement-47",
+        "name": "The Charging Guard Regiment Emblem",
+        "kind": "trophy",
+        "chapterId": "mp-battles",
+        "where": "Win 10 MP Land Battles in a row"
+      },
+      {
+        "id": "achievement-48",
+        "name": "The Horse-and-Cannon",
+        "kind": "trophy",
+        "chapterId": "mp-battles",
+        "where": "Win a match without any infantry"
+      },
+      {
+        "id": "achievement-49",
+        "name": "Veteran's Badge of Service",
+        "kind": "trophy",
+        "chapterId": "mp-battles",
+        "where": "Win 50MP Land Battles"
+      },
+      {
+        "id": "achievement-50",
+        "name": "Bella Ragazza Locket",
+        "kind": "trophy",
+        "chapterId": "mp-campaigns",
+        "where": "Win a MP Italian Campaign as France"
+      },
+      {
+        "id": "achievement-51",
+        "name": "Nice City Key",
+        "kind": "trophy",
+        "chapterId": "mp-campaigns",
+        "where": "Win a MP Italian Campaign as Austria"
+      },
+      {
+        "id": "achievement-52",
+        "name": "The Silver Sun",
+        "kind": "trophy",
+        "chapterId": "mp-campaigns",
+        "where": "Win a MP Egypt Campaign as France"
+      },
+      {
+        "id": "achievement-53",
+        "name": "The Crossed Sabres and Crescent",
+        "kind": "trophy",
+        "chapterId": "egypt-campaign",
+        "where": "Win Egypt Campaign as Ottomans"
+      },
+      {
+        "id": "achievement-54",
+        "name": "Bronze Star on Red Ribbon",
+        "kind": "trophy",
+        "chapterId": "mp-campaigns",
+        "where": "Play a MP Campaign"
+      },
+      {
+        "id": "achievement-55",
+        "name": "The Imperial Laurels",
+        "kind": "trophy",
+        "chapterId": "mp-campaigns",
+        "where": "Win European MP Campaign as France"
+      },
+      {
+        "id": "achievement-56",
+        "name": "Raging Bear Star",
+        "kind": "trophy",
+        "chapterId": "europe-campaign",
+        "where": "Win Europe Campaign as Russia"
+      },
+      {
+        "id": "achievement-57",
+        "name": "The Imperatorial Double Eagle",
+        "kind": "trophy",
+        "chapterId": "europe-campaign",
+        "where": "Win Europe Campaign as Austria"
+      },
+      {
+        "id": "achievement-58",
+        "name": "Quadriga with Iron Cross",
+        "kind": "trophy",
+        "chapterId": "europe-campaign",
+        "where": "Win Europe Campaign as Prussia"
+      },
+      {
+        "id": "achievement-59",
+        "name": "Royal Navy Glorious Fleet Badge",
+        "kind": "trophy",
+        "chapterId": "europe-campaign",
+        "where": "Win Europe Campaign as England"
+      },
+      {
+        "id": "achievement-60",
+        "name": "The Golden Lightning",
+        "kind": "trophy",
+        "chapterId": "mp-campaigns",
+        "where": "Take other player's capital within 20 turns"
+      },
+      {
+        "id": "achievement-61",
+        "name": "Fighting Giants Commemorative Medallion",
+        "kind": "trophy",
+        "chapterId": "mp-campaigns",
+        "where": "Other player's faction is last to die"
+      },
+      {
+        "id": "achievement-62",
+        "name": "St. Martin's Medal",
+        "kind": "trophy",
+        "chapterId": "mp-campaigns",
+        "where": "Win campaign having given enemy player 50000 gold"
+      },
+      {
+        "id": "achievement-63",
+        "name": "The Tireless Watchman Brooch",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "Play the game for 10 hours total"
+      },
+      {
+        "id": "achievement-64",
+        "name": "Distinguished Service Medal",
+        "kind": "trophy",
+        "chapterId": "mp-battles",
+        "where": "Win a match against a player with double your skill rating"
+      },
+      {
+        "id": "achievement-65",
+        "name": "The Spanish Crown",
+        "kind": "trophy",
+        "chapterId": "peninsular-campaign",
+        "where": "Win the Peninsular Campaign as France"
+      },
+      {
+        "id": "achievement-66",
+        "name": "Duke of Ciudad Rodrigo",
+        "kind": "trophy",
+        "chapterId": "peninsular-campaign",
+        "where": "Win the Peninsular Campaign as Spain"
+      },
+      {
+        "id": "achievement-67",
+        "name": "Marquis of Torres Vedras",
+        "kind": "trophy",
+        "chapterId": "peninsular-campaign",
+        "where": "Win the Peninsular Campaign as Britain"
+      },
+      {
+        "id": "achievement-68",
+        "name": "Conquistador Medal",
+        "kind": "trophy",
+        "chapterId": "peninsular-campaign",
+        "where": "Capture a region in the Peninsular Campaign"
+      },
+      {
+        "id": "achievement-69",
+        "name": "Duke of the Victory",
+        "kind": "trophy",
+        "chapterId": "peninsular-campaign",
+        "where": "As Britain, ensure that all regions in Spain are liberated back to Spanish control"
+      },
+      {
+        "id": "achievement-70",
+        "name": "The Medallion of Secular Enlightenment",
+        "kind": "trophy",
+        "chapterId": "peninsular-campaign",
+        "where": "As France, attain over 50% pro-French sentiment in 10 of your regions"
+      },
+      {
+        "id": "achievement-71",
+        "name": "Sangria Bottle of Friendship",
+        "kind": "trophy",
+        "chapterId": "mp-campaigns",
+        "where": "Start the Peninsular Campaign in multiplayer"
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/napoleon-total-war",
+    "Achievement data from Steam (Steam Web API, app 34030)",
+    "StrategyWiki: no usable walkthrough, nothing used — https://strategywiki.org/wiki/Napoleon:_Total_War",
+    "Fandom (totalwar.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://totalwar.fandom.com/wiki/Napoleon:_Total_War"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). RAWG's first result is the expected entry (id 14983); RAWG also has separate Gold Edition, Imperial Edition and \"Napoleon: Total War - The Peninsular Campaign\" (id 40294, released 2010-06-22) entries. No steamMatches by exact name; the store list app 34030 is \"Total War: NAPOLEON – Definitive Edition\", the edition on sale, and its schema is named \"ValveTestApp34070\". 71 Steam achievements, none hidden. Chapters come from achievement themes because a strategy game has no story path. Achievements that say \"a match\" are counted as multiplayer, which is our reading; \"Win 10 decisive victories\", \"Win 10 land battles\", \"Board 5 ships\" and the light-infantry battle do not say single or multiplayer, so they sit in Land and Sea Battles. \"Win Egypt Campaign as Ottomans\" and the Europe Campaign wins as Russia, Austria, Prussia and England do not say MP, so they sit in the single-player campaign chapters. The Peninsular Campaign chapter takes its name from the achievements and the RAWG entry. StrategyWiki has a page under \"Napoleon: Total War\" at completion stage 0. Written subpages: Table of Contents (about 320 characters) and Factions (about 270); Controls, Gameplay and Walkthrough are linked but not written. totalwar.fandom.com answers the API under \"Napoleon: Total War\" with about 94 linked articles (factions, the Italy, Egypt and Europe campaigns, battles); names only were looked at, nothing copied."
+}
