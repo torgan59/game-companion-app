@@ -1,0 +1,765 @@
+{
+  "id": "xcom-enemy-unknown",
+  "title": "XCOM: Enemy Unknown",
+  "year": 2012,
+  "platforms": [
+    "PC",
+    "Android",
+    "iOS",
+    "Xbox 360",
+    "PlayStation 3",
+    "macOS"
+  ],
+  "rawgId": 13910,
+  "rawgSlug": "xcom-enemy-unknown",
+  "released": "2012-10-09",
+  "developers": [
+    "Feral Interactive",
+    "2K",
+    "Firaxis"
+  ],
+  "playtime": 13,
+  "genres": [
+    "Strategy"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Multiplayer",
+    "Full controller support",
+    "Steam Cloud",
+    "Atmospheric",
+    "steam-trading-cards",
+    "Great Soundtrack",
+    "RPG",
+    "Sci-fi",
+    "Difficult",
+    "Tactical"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/238/2383a172b4d50a7b44e07980eb7141ea.jpg",
+  "steamAppId": 200510,
+  "achievements": {
+    "total": 85,
+    "hidden": 15,
+    "examples": [
+      {
+        "name": "We Happy Few",
+        "percent": 86.9
+      },
+      {
+        "name": "Combat Ready",
+        "percent": 86.2
+      },
+      {
+        "name": "What Wonders Await",
+        "percent": 86.1
+      },
+      {
+        "name": "Ain't No Cavalry Comin'",
+        "percent": 2.3
+      },
+      {
+        "name": "Lone Wolf",
+        "percent": 2.0
+      },
+      {
+        "name": "Our Finest Hour",
+        "percent": 1.7
+      },
+      {
+        "name": "An Army Of Four",
+        "percent": 1.2
+      },
+      {
+        "name": "A Continental Fellow",
+        "percent": 1.0
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": false,
+      "pages": 0,
+      "reason": "No page for XCOM: Enemy Unknown (MediaWiki API returned missing; see notes for other titles tried)"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 45,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://xcom.fandom.com/wiki/XCOM:_Enemy_Unknown"
+    }
+  },
+  "game": {
+    "id": "xcom-enemy-unknown",
+    "title": "XCOM: Enemy Unknown",
+    "platforms": [
+      "PC",
+      "Android",
+      "iOS",
+      "Xbox 360",
+      "PlayStation 3",
+      "macOS"
+    ],
+    "blurb": "Turn-based strategy game about defending Earth from an alien invasion, from Firaxis (RAWG also lists Feral Interactive and 2K), published by 2K Games and Feral Interactive, released 2012-10-09. RAWG average playtime: 13 hours. Genre: Strategy. Chapters are an estimate drawn from Steam achievement themes, following the campaign, the base, the air war, multiplayer and the Enemy Within expansion.",
+    "accent": "#2E6DB4",
+    "chapters": [
+      {
+        "id": "campaign",
+        "title": "The Campaign",
+        "summary": "The tutorial mission, beating the game, and the story milestones hidden on Steam. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "difficulty-and-ironman",
+        "title": "Classic, Impossible and Ironman",
+        "summary": "Beating the game on Classic, Impossible and Ironman, from all five starting locations, with one soldier surviving everything, and other hard-difficulty feats.",
+        "steps": []
+      },
+      {
+        "id": "base-and-research",
+        "title": "Base, Research and the Council",
+        "summary": "Building facilities, research, autopsies and Foundry projects, scientists and engineers, credits, satellites, Council requests, powered armour and the S.H.I.V.",
+        "steps": []
+      },
+      {
+        "id": "air-war",
+        "title": "The Air War",
+        "summary": "Shooting down UFOs: the first, forty in all, and one of each alien craft.",
+        "steps": []
+      },
+      {
+        "id": "tactical-combat",
+        "title": "Tactical Combat",
+        "summary": "Alien kill counts, explosives, flying kills, mind control, squad feats, Colonel rank and terror mission ratings.",
+        "steps": []
+      },
+      {
+        "id": "multiplayer",
+        "title": "Multiplayer",
+        "summary": "Winning a multiplayer match and playing someone who already has Bubonic.",
+        "steps": []
+      },
+      {
+        "id": "enemy-within-soldiers",
+        "title": "Enemy Within: Augments, Gene Mods and Squads",
+        "summary": "Augmenting and modifying soldiers, tactical subsystems, mixed squads, Muton Berserkers, elite enemies and other single-player feats.",
+        "steps": []
+      },
+      {
+        "id": "enemy-within-threats",
+        "title": "Enemy Within: New Missions and Threats",
+        "summary": "The newest global threat and its location, alien waves, the infestation, Deluge, Furies, the new special mission and base security.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "No Looking Back",
+        "kind": "trophy",
+        "chapterId": "difficulty-and-ironman",
+        "where": "Beat the game in Ironman mode on Classic or Impossible Difficulty."
+      },
+      {
+        "id": "achievement-2",
+        "name": "Meet New People. Then Kill Them.",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "Win a multiplayer match."
+      },
+      {
+        "id": "achievement-3",
+        "name": "Xavier",
+        "kind": "trophy",
+        "chapterId": "tactical-combat",
+        "where": "Mind Control an Ethereal. Single player only."
+      },
+      {
+        "id": "achievement-4",
+        "name": "Humanity's Savior",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Beat the game on any difficulty."
+      },
+      {
+        "id": "achievement-5",
+        "name": "Earth First",
+        "kind": "trophy",
+        "chapterId": "difficulty-and-ironman",
+        "where": "Beat the game on Classic difficulty."
+      },
+      {
+        "id": "achievement-6",
+        "name": "Our Finest Hour",
+        "kind": "trophy",
+        "chapterId": "difficulty-and-ironman",
+        "where": "Beat the game on Impossible difficulty."
+      },
+      {
+        "id": "achievement-7",
+        "name": "Lone Wolf",
+        "kind": "trophy",
+        "chapterId": "difficulty-and-ironman",
+        "where": "Clear a UFO crash site with one soldier on Classic or Impossible difficulty."
+      },
+      {
+        "id": "achievement-8",
+        "name": "Bada Boom",
+        "kind": "trophy",
+        "chapterId": "tactical-combat",
+        "where": "Kill 50 aliens with explosive weapons."
+      },
+      {
+        "id": "achievement-9",
+        "name": "Welcoming Committee",
+        "kind": "trophy",
+        "chapterId": "tactical-combat",
+        "where": "Kill 150 aliens."
+      },
+      {
+        "id": "achievement-10",
+        "name": "Pale Horse",
+        "kind": "trophy",
+        "chapterId": "tactical-combat",
+        "where": "Kill 500 aliens."
+      },
+      {
+        "id": "achievement-11",
+        "name": "Shooting Stars",
+        "kind": "trophy",
+        "chapterId": "air-war",
+        "where": "Shoot down 40 UFOs."
+      },
+      {
+        "id": "achievement-12",
+        "name": "Ain't No Cavalry Comin'",
+        "kind": "trophy",
+        "chapterId": "difficulty-and-ironman",
+        "where": "Have a soldier survive every mission in a full game."
+      },
+      {
+        "id": "achievement-13",
+        "name": "As A Scalpel",
+        "kind": "trophy",
+        "chapterId": "tactical-combat",
+        "where": "Earn the \"Excellent\" rating in every performance category on a terror mission."
+      },
+      {
+        "id": "achievement-14",
+        "name": "Edison",
+        "kind": "trophy",
+        "chapterId": "base-and-research",
+        "where": "In a single game, complete every Research Project."
+      },
+      {
+        "id": "achievement-15",
+        "name": "Angel of Death",
+        "kind": "trophy",
+        "chapterId": "tactical-combat",
+        "where": "Kill an alien while flying. Single player only."
+      },
+      {
+        "id": "achievement-16",
+        "name": "All Employees Must Wash Hands…",
+        "kind": "trophy",
+        "chapterId": "base-and-research",
+        "where": "In a single game, complete every Autopsy."
+      },
+      {
+        "id": "achievement-17",
+        "name": "Beyond the Veil",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-18",
+        "name": "Prisoner of War",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-19",
+        "name": "The Gatekeeper",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-20",
+        "name": "X Marks the Spot",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-21",
+        "name": "See All, Know All",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-22",
+        "name": "On the Shoulders of Giants",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-23",
+        "name": "Ride the Lightning",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-24",
+        "name": "Eye in the Sky",
+        "kind": "trophy",
+        "chapterId": "base-and-research",
+        "where": "Launch a Satellite."
+      },
+      {
+        "id": "achievement-25",
+        "name": "All Together Now",
+        "kind": "trophy",
+        "chapterId": "base-and-research",
+        "where": "Get satellite coverage over every country on one continent."
+      },
+      {
+        "id": "achievement-26",
+        "name": "Hunter/Killer",
+        "kind": "trophy",
+        "chapterId": "air-war",
+        "where": "In a single game, shoot down one of each alien craft."
+      },
+      {
+        "id": "achievement-27",
+        "name": "Man No More",
+        "kind": "trophy",
+        "chapterId": "base-and-research",
+        "where": "Build a suit of powered armor."
+      },
+      {
+        "id": "achievement-28",
+        "name": "Bubonic",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "Play a multiplayer match against someone with this achievement."
+      },
+      {
+        "id": "achievement-29",
+        "name": "We Happy Few",
+        "kind": "trophy",
+        "chapterId": "tactical-combat",
+        "where": "Complete a mission without losing a soldier."
+      },
+      {
+        "id": "achievement-30",
+        "name": "The Hardest Road",
+        "kind": "trophy",
+        "chapterId": "tactical-combat",
+        "where": "Advance one of your soldiers to Colonel rank."
+      },
+      {
+        "id": "achievement-31",
+        "name": "Worth Every Penny",
+        "kind": "trophy",
+        "chapterId": "base-and-research",
+        "where": "Acquire 1000 credits in one month."
+      },
+      {
+        "id": "achievement-32",
+        "name": "Oppenheimer",
+        "kind": "trophy",
+        "chapterId": "base-and-research",
+        "where": "Staff the Research Labs with 80 scientists."
+      },
+      {
+        "id": "achievement-33",
+        "name": "One Gun at a Time",
+        "kind": "trophy",
+        "chapterId": "base-and-research",
+        "where": "Staff the Engineering Department with 80 engineers."
+      },
+      {
+        "id": "achievement-34",
+        "name": "Skunkworks",
+        "kind": "trophy",
+        "chapterId": "base-and-research",
+        "where": "In a single game, complete every Foundry project."
+      },
+      {
+        "id": "achievement-35",
+        "name": "You Have 5 Seconds to Comply",
+        "kind": "trophy",
+        "chapterId": "base-and-research",
+        "where": "Build a S.H.I.V."
+      },
+      {
+        "id": "achievement-36",
+        "name": "Theory...",
+        "kind": "trophy",
+        "chapterId": "base-and-research",
+        "where": "Build a Laboratory."
+      },
+      {
+        "id": "achievement-37",
+        "name": "...and Practice.",
+        "kind": "trophy",
+        "chapterId": "base-and-research",
+        "where": "Build a Workshop."
+      },
+      {
+        "id": "achievement-38",
+        "name": "Wet Work",
+        "kind": "trophy",
+        "chapterId": "difficulty-and-ironman",
+        "where": "Complete a Very Hard abduction mission in five turns or less on Classic or Impossible difficulty."
+      },
+      {
+        "id": "achievement-39",
+        "name": "A Continental Fellow",
+        "kind": "trophy",
+        "chapterId": "difficulty-and-ironman",
+        "where": "Win the game from each of the 5 starting locations."
+      },
+      {
+        "id": "achievement-40",
+        "name": "What Wonders Await",
+        "kind": "trophy",
+        "chapterId": "base-and-research",
+        "where": "Complete a Research Project."
+      },
+      {
+        "id": "achievement-41",
+        "name": "Up and Running",
+        "kind": "trophy",
+        "chapterId": "base-and-research",
+        "where": "Build a base facility."
+      },
+      {
+        "id": "achievement-42",
+        "name": "Combat Ready",
+        "kind": "trophy",
+        "chapterId": "base-and-research",
+        "where": "Build an item."
+      },
+      {
+        "id": "achievement-43",
+        "name": "Drums in the Deep",
+        "kind": "trophy",
+        "chapterId": "base-and-research",
+        "where": "Gain access to the lowest level in your base."
+      },
+      {
+        "id": "achievement-44",
+        "name": "Happy to Oblige",
+        "kind": "trophy",
+        "chapterId": "base-and-research",
+        "where": "Fulfill a Council request."
+      },
+      {
+        "id": "achievement-45",
+        "name": "And Hell's Coming With Me",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-46",
+        "name": "Off My Planet",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-47",
+        "name": "Tables Turned",
+        "kind": "trophy",
+        "chapterId": "air-war",
+        "where": "Shoot down a UFO."
+      },
+      {
+        "id": "achievement-48",
+        "name": "And So It Begins…",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Complete the tutorial mission."
+      },
+      {
+        "id": "achievement-49",
+        "name": "The Volunteer",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-50",
+        "name": "Flight of the Valkyries",
+        "kind": "trophy",
+        "chapterId": "tactical-combat",
+        "where": "Win a mission with an all-female squad. Single player only."
+      },
+      {
+        "id": "achievement-51",
+        "name": "New Friend",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-52",
+        "name": "Bait the Hook",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-53",
+        "name": "The Bigger They Are",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-54",
+        "name": "Rising Dragon",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-55",
+        "name": "All Aboard",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-56",
+        "name": "Who Needs Limbs?",
+        "kind": "trophy",
+        "chapterId": "enemy-within-soldiers",
+        "where": "Augment a soldier in single player"
+      },
+      {
+        "id": "achievement-57",
+        "name": "A Little Bit Alien",
+        "kind": "trophy",
+        "chapterId": "enemy-within-soldiers",
+        "where": "Modify a soldier in single player"
+      },
+      {
+        "id": "achievement-58",
+        "name": "Enemy Within",
+        "kind": "trophy",
+        "chapterId": "enemy-within-soldiers",
+        "where": "Get a Soldier to have 5 modifications in single player"
+      },
+      {
+        "id": "achievement-59",
+        "name": "Steel Martyr",
+        "kind": "trophy",
+        "chapterId": "enemy-within-soldiers",
+        "where": "Deploy three tactical subsystems on a single soldier in single player"
+      },
+      {
+        "id": "achievement-60",
+        "name": "Apotheosis Denied",
+        "kind": "trophy",
+        "chapterId": "enemy-within-threats",
+        "where": "Deal with the newest global threat"
+      },
+      {
+        "id": "achievement-61",
+        "name": "They Shall Not Pass",
+        "kind": "trophy",
+        "chapterId": "enemy-within-threats",
+        "where": "Eliminate all alien waves"
+      },
+      {
+        "id": "achievement-62",
+        "name": "Zom-B-Gone",
+        "kind": "trophy",
+        "chapterId": "enemy-within-threats",
+        "where": "Eradicate the infestation"
+      },
+      {
+        "id": "achievement-63",
+        "name": "An Army Of Four",
+        "kind": "trophy",
+        "chapterId": "difficulty-and-ironman",
+        "where": "Beat the game without buying a Squad Size upgrade (Classic+ difficulty)"
+      },
+      {
+        "id": "achievement-64",
+        "name": "The Meld Squad",
+        "kind": "trophy",
+        "chapterId": "enemy-within-soldiers",
+        "where": "Field a fully enhanced squad and win the mission"
+      },
+      {
+        "id": "achievement-65",
+        "name": "Shieldbuster",
+        "kind": "trophy",
+        "chapterId": "enemy-within-soldiers",
+        "where": "Eliminate an enemy's shield and kill it on the same turn in single player"
+      },
+      {
+        "id": "achievement-66",
+        "name": "Someone Your Own Size",
+        "kind": "trophy",
+        "chapterId": "enemy-within-soldiers",
+        "where": "Kill a Muton Berserker in melee combat in single player"
+      },
+      {
+        "id": "achievement-67",
+        "name": "Taking A Load Off",
+        "kind": "trophy",
+        "chapterId": "enemy-within-soldiers",
+        "where": "Stop a squad member from suffocating in single player"
+      },
+      {
+        "id": "achievement-68",
+        "name": "Where in the World",
+        "kind": "trophy",
+        "chapterId": "enemy-within-threats",
+        "where": "Make certain of the new threat's location"
+      },
+      {
+        "id": "achievement-69",
+        "name": "Mind the Step",
+        "kind": "trophy",
+        "chapterId": "enemy-within-soldiers",
+        "where": "Jump two stories in one move in single player"
+      },
+      {
+        "id": "achievement-70",
+        "name": "Nice Cover",
+        "kind": "trophy",
+        "chapterId": "enemy-within-soldiers",
+        "where": "Use Collateral Damage to blow up a car in single player"
+      },
+      {
+        "id": "achievement-71",
+        "name": "By Our Powers Combined",
+        "kind": "trophy",
+        "chapterId": "enemy-within-soldiers",
+        "where": "Field a squad with 4 augmented soldiers, each with a different base ability and win the mission"
+      },
+      {
+        "id": "achievement-72",
+        "name": "Rise of the Machines",
+        "kind": "trophy",
+        "chapterId": "enemy-within-soldiers",
+        "where": "Field a squad consisting entirely of augmented soldiers and SHIVs (min. 4) and win the mission"
+      },
+      {
+        "id": "achievement-73",
+        "name": "Mutatis Mutandis",
+        "kind": "trophy",
+        "chapterId": "enemy-within-soldiers",
+        "where": "Field a squad where all members have at least two modifications (min. 4) and win the mission"
+      },
+      {
+        "id": "achievement-74",
+        "name": "Mental Minefield",
+        "kind": "trophy",
+        "chapterId": "enemy-within-soldiers",
+        "where": "Kill an enemy as it is psionically attacking you in single player"
+      },
+      {
+        "id": "achievement-75",
+        "name": "Anger Management",
+        "kind": "trophy",
+        "chapterId": "enemy-within-soldiers",
+        "where": "Proc Combat Rush on the entire squad (min. 4)"
+      },
+      {
+        "id": "achievement-76",
+        "name": "Remington… Max Remington",
+        "kind": "trophy",
+        "chapterId": "enemy-within-soldiers",
+        "where": "Have your special-duty soldier kill three enemies in the same mission"
+      },
+      {
+        "id": "achievement-77",
+        "name": "G’day",
+        "kind": "trophy",
+        "chapterId": "enemy-within-soldiers",
+        "where": "Kill an elite enemy Sniper with one of your own snipers in single player"
+      },
+      {
+        "id": "achievement-78",
+        "name": "Regenerate This",
+        "kind": "trophy",
+        "chapterId": "enemy-within-soldiers",
+        "where": "Kill an elite enemy Medic with explosive damage in single player"
+      },
+      {
+        "id": "achievement-79",
+        "name": "Tingling Sensation",
+        "kind": "trophy",
+        "chapterId": "enemy-within-soldiers",
+        "where": "Kill an unseen enemy detected by a specially modified soldier in single player"
+      },
+      {
+        "id": "achievement-80",
+        "name": "Pain in the Neck",
+        "kind": "trophy",
+        "chapterId": "enemy-within-soldiers",
+        "where": "Cause an enemy to suicide"
+      },
+      {
+        "id": "achievement-81",
+        "name": "Solid Prospect",
+        "kind": "trophy",
+        "chapterId": "enemy-within-threats",
+        "where": "Complete Deluge"
+      },
+      {
+        "id": "achievement-82",
+        "name": "Ours are the Furies",
+        "kind": "trophy",
+        "chapterId": "enemy-within-threats",
+        "where": "Complete Furies"
+      },
+      {
+        "id": "achievement-83",
+        "name": "Elite Defense",
+        "kind": "trophy",
+        "chapterId": "enemy-within-threats",
+        "where": "Beat a new special mission without losing any assets"
+      },
+      {
+        "id": "achievement-84",
+        "name": "Guardian of Earth",
+        "kind": "trophy",
+        "chapterId": "enemy-within-soldiers",
+        "where": "Designate a highly decorated soldier as the Volunteer"
+      },
+      {
+        "id": "achievement-85",
+        "name": "All Hands on Deck",
+        "kind": "trophy",
+        "chapterId": "enemy-within-threats",
+        "where": "Get at least 4 kills with XCOM Base Security personnel"
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/xcom-enemy-unknown",
+    "Achievement data from Steam (Steam Web API, app 200510)",
+    "StrategyWiki: no page for this game, nothing used",
+    "Fandom (xcom.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://xcom.fandom.com/wiki/XCOM:_Enemy_Unknown"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). RAWG's first result is the expected entry (id 13910); RAWG lists four additions: \"XCOM: Enemy Within\", \"XCOM: Enemy Unknown - Slingshot\", \"XCOM Enemy Unknown - Elite Edition\" and \"XCOM: Enemy Unknown Complete Pack\". Steam app 200510 (\"XCOM: Enemy Unknown\" in the store list; its schema is named \"ValveTestApp200510\", a placeholder) was used; the store list has no separate Enemy Within app. ACHIEVEMENT_55 to 84 form one block whose descriptions mostly say \"in single player\" and mention augments, modifications and new threats, and one of them is itself named \"Enemy Within\", so the block was treated as the Enemy Within expansion, a reasoned guess; it is split into two chapters by theme, our own choice. \"An Army Of Four\" (no Squad Size upgrade, Classic or harder) sits in that block but was put with the difficulty runs. StrategyWiki has no page under \"XCOM: Enemy Unknown\" or \"XCOM Enemy Unknown\". xcom.fandom.com answers the API under \"XCOM: Enemy Unknown\" with about 45 linked articles; names only were looked at, nothing copied. 15 of 85 Steam achievements are hidden (ACHIEVEMENT_16 to 22, 44, 45, 48 and 50 to 54); all sit in the campaign chapter as story milestones. \"Rising Dragon\" (9.1%) and \"All Aboard\" (11.2%) are much rarer than the rest and may belong to the Slingshot content, but the data does not say so. \"The Volunteer\" is hidden, and the later \"Guardian of Earth\" refers to designating a soldier as the Volunteer."
+}

@@ -1,0 +1,126 @@
+{
+  "id": "lego-batman-2-dc-super-heroes",
+  "title": "LEGO Batman 2 DC Super Heroes",
+  "year": 2012,
+  "platforms": [
+    "PS Vita",
+    "Xbox 360",
+    "Wii",
+    "macOS",
+    "PC",
+    "iOS",
+    "Xbox One",
+    "Nintendo 3DS",
+    "PlayStation 3",
+    "Android",
+    "Nintendo DS",
+    "Wii U"
+  ],
+  "rawgId": 19908,
+  "rawgSlug": "lego-batman-2",
+  "released": "2012-06-19",
+  "developers": [
+    "Traveller's Tales",
+    "TT Fusion"
+  ],
+  "playtime": 4,
+  "genres": [
+    "Action",
+    "Family"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Multiplayer",
+    "Full controller support",
+    "Co-op",
+    "Open World",
+    "cooperative",
+    "Funny",
+    "Comedy",
+    "Split Screen",
+    "Local Co-Op",
+    "Controller",
+    "Family Friendly"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/3c1/3c139f67a73f0bf5ce0d8f2abf83c0d0.jpg",
+  "steamAppId": null,
+  "achievements": {
+    "total": 0,
+    "examples": [],
+    "reason": "No Steam achievement list. Steam app 213330 (\"LEGO® Batman™ 2: DC Super Heroes\") exists in the store list, but the Steam Web API returned an empty achievement schema for it and the global percentages call returned HTTP 403. RAWG lists 69 achievements with its own percentages; the 40 shown on its first page include gold bricks, Red Bricks, Citizens in Peril, Minikit vehicles, Sound Bite tokens, the Character Customiser, every character, Super Hero in all levels and 100%, which could seed an original checklist."
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/LEGO_Batman_2:_DC_Super_Heroes",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 204,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://lego.fandom.com/wiki/LEGO_Batman_2:_DC_Super_Heroes"
+    }
+  },
+  "game": {
+    "id": "lego-batman-2-dc-super-heroes",
+    "title": "LEGO Batman 2 DC Super Heroes",
+    "platforms": [
+      "PS Vita",
+      "Xbox 360",
+      "Wii",
+      "macOS",
+      "PC",
+      "iOS",
+      "Xbox One",
+      "Nintendo 3DS",
+      "PlayStation 3",
+      "Android",
+      "Nintendo DS",
+      "Wii U"
+    ],
+    "blurb": "Family action-adventure set in a LEGO DC Universe, from Traveller's Tales and TT Fusion, published by Warner Bros. Interactive (RAWG also lists Feral Interactive), released 2012-06-19. RAWG average playtime: 4 hours. Genres: Action, Family. Chapters use the level names on StrategyWiki's contents page.",
+    "accent": "#2B3A67",
+    "chapters": [
+      {
+        "id": "levels-1-5",
+        "title": "Theatrical Pursuits to Chemical Crisis",
+        "summary": "Levels 1 to 5 on the contents page: Theatrical Pursuits, Harboring a Criminal, Arkham Asylum Antics, Asylum Assignment and Chemical Crisis.",
+        "steps": []
+      },
+      {
+        "id": "levels-6-10",
+        "title": "Chemical Signature to Down to Earth",
+        "summary": "Levels 6 to 10: Chemical Signature, Unwelcome Guests, Destination Metropolis, Research and Development and Down to Earth. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "levels-11-15",
+        "title": "Underground Retreat to Heroes Unite",
+        "summary": "Levels 11 to 15: Underground Retreat, The Next President, Core Instability, Tower Defiance and Heroes Unite. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "characters-and-extras",
+        "title": "Characters, Abilities and Extras",
+        "summary": "The contents page sections on abilities, characters, extras and cheat codes.",
+        "steps": []
+      }
+    ],
+    "collectibles": []
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/lego-batman-2",
+    "Steam: no achievement list available for this game (see notes)",
+    "StrategyWiki: mission and page names used to group chapters, CC BY-SA 4.0; no text copied — https://strategywiki.org/wiki/LEGO_Batman_2:_DC_Super_Heroes",
+    "Fandom (lego.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://lego.fandom.com/wiki/LEGO_Batman_2:_DC_Super_Heroes"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). RAWG's first result is the expected entry \"lego-batman-2\" (id 19908). Steam app 213330 returned no achievements (see the collectible note), so steam=None and the chapters come from StrategyWiki page names (swNames). StrategyWiki has \"LEGO Batman 2: DC Super Heroes\" at completion stage 0; only its Table of Contents (about 1,800 characters) is written. Gameplay, Controls, Abilities, Characters, Extras, Cheat Codes, Achievements, Walkthrough and all 15 level pages are linked but not written. The chapters use its level names in contents order: Theatrical Pursuits, Harboring a Criminal, Arkham Asylum Antics, Asylum Assignment, Chemical Crisis, Chemical Signature, Unwelcome Guests, Destination Metropolis, Research and Development, Down to Earth, Underground Retreat, The Next President, Core Instability, Tower Defiance and Heroes Unite. Groups of five are our own choice and the summaries are only placeholders built from the page names. RAWG's achievement list names levels such as Wayne Industries, Gotham Metro, Brawl at City Hall, Attack on LexCorp, Juggernaut Chase, The Batcave and The Final Battle, plus a Justice League Mode with arenas; these do not match the StrategyWiki level names, so that list may come from a different version and was not used for chapters. lego.fandom.com answers the API under \"LEGO Batman 2: DC Super Heroes\" with about 204 linked articles; names only were looked at, nothing copied."
+}

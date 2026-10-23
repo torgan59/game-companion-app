@@ -1,0 +1,127 @@
+{
+  "id": "need-for-speed-most-wanted-a-criterion-game",
+  "title": "Need for Speed: Most Wanted - A Criterion Game",
+  "year": 2012,
+  "platforms": [
+    "Android",
+    "PlayStation 3",
+    "PC",
+    "iOS",
+    "PS Vita",
+    "Wii U",
+    "Xbox 360"
+  ],
+  "rawgId": 41498,
+  "rawgSlug": "need-for-speed-most-wanted-a-criterion-game",
+  "released": "2012-10-30",
+  "developers": [
+    "Criterion Games"
+  ],
+  "playtime": 2,
+  "genres": [
+    "Racing",
+    "Arcade"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Multiplayer",
+    "Open World",
+    "First-Person",
+    "Third Person",
+    "PvP",
+    "Competitive",
+    "Online PvP",
+    "Steam Trading Cards",
+    "Driving",
+    "Vehicular Combat",
+    "Automobile Sim"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/228/228e21229213695c8f6697a6b3387a2b.jpg",
+  "steamAppId": null,
+  "achievements": {
+    "total": 0,
+    "examples": [],
+    "reason": "No Steam achievement list. RAWG's store link for this entry points to Steam app 1262560 (\"Need for Speed™ Most Wanted\"), but the Steam Web API returned an empty achievement schema for it and the global percentages call returned HTTP 403. RAWG lists 61 achievements with its own percentages; the 40 shown on its first page cover the Most Wanted cars, Security Gates, Billboards, Jack Spots, Speed Cameras, Heat levels, multiplayer and licence plates, and four DLC packs, which could seed an original checklist."
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Need_for_Speed:_Most_Wanted_(2012)",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 147,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://nfs.fandom.com/wiki/Need_for_Speed:_Most_Wanted_(2012)"
+    }
+  },
+  "game": {
+    "id": "need-for-speed-most-wanted-a-criterion-game",
+    "title": "Need for Speed: Most Wanted - A Criterion Game",
+    "platforms": [
+      "Android",
+      "PlayStation 3",
+      "PC",
+      "iOS",
+      "PS Vita",
+      "Wii U",
+      "Xbox 360"
+    ],
+    "blurb": "Open-world street racing game from Criterion Games, published by Electronic Arts, released 2012-10-30. RAWG average playtime: 2 hours. Genres: Racing, Arcade. Chapters are an estimate drawn from the achievement themes RAWG lists, since Steam returned no achievement list.",
+    "accent": "#E07B00",
+    "chapters": [
+      {
+        "id": "most-wanted-list",
+        "title": "The Most Wanted List",
+        "summary": "Shutting down the Most Wanted cars, from number 5 (Porsche 918 Spyder Concept) up to number 1 (Koenigsegg Agera R), owning them all and collecting every Most Wanted trophy.",
+        "steps": []
+      },
+      {
+        "id": "events-and-cars",
+        "title": "Events, Cars and Pro Mods",
+        "summary": "Winning every race in every car, driving every car and unlocking all Pro mods on a car.",
+        "steps": []
+      },
+      {
+        "id": "fairhaven",
+        "title": "Around Fairhaven",
+        "summary": "Security Gates, Billboards and long Billboard jumps, Jack Spots and Speed Cameras.",
+        "steps": []
+      },
+      {
+        "id": "pursuits",
+        "title": "Police Pursuits",
+        "summary": "Escaping every Heat level, wrecking cops, spike strips and escaping with a blown tire.",
+        "steps": []
+      },
+      {
+        "id": "multiplayer",
+        "title": "Multiplayer and Friends",
+        "summary": "Taking down friends, custom Speedlists, multiplayer Pro Mods, licence plates and friends' billboard jumps.",
+        "steps": []
+      },
+      {
+        "id": "dlc-packs",
+        "title": "DLC Car Packs",
+        "summary": "The NFS Heroes, Movie Legends, Ultimate Speed and Terminal Velocity Packs named in the achievement descriptions.",
+        "steps": []
+      }
+    ],
+    "collectibles": []
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/need-for-speed-most-wanted-a-criterion-game",
+    "Steam: no achievement list available for this game (see notes)",
+    "StrategyWiki: no usable walkthrough, nothing used — https://strategywiki.org/wiki/Need_for_Speed:_Most_Wanted_(2012)",
+    "Fandom (nfs.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://nfs.fandom.com/wiki/Need_for_Speed:_Most_Wanted_(2012)"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). RAWG's first result is the expected entry (id 41498); RAWG keeps the 2005 \"Need For Speed: Most Wanted\" separately. The fetch found no Steam match by this title; the store list has \"Need for Speed™ Most Wanted\" (1262560), and RAWG's own store link for id 41498 points to that app, so it is the one tried. Its schema came back empty, so steam=None and the chapters are our own grouping of the achievement themes RAWG lists (only the first page of 40 of 61 was looked at; RAWG's second page repeated some of them). StrategyWiki has the guide under \"Need for Speed: Most Wanted (2012)\" at completion stage 1, but its contents page lists only Gameplay, Controls, Walkthrough and Cars: Walkthrough (about 1,700 characters), Cars (about 4,800) and Table of Contents are written, with no event or chapter subpages, so there was no walkthrough structure to use. nfs.fandom.com answers the API under \"Need for Speed: Most Wanted (2012)\" with about 147 linked articles, including Fairhaven City, Jack Spots, Most Wanted List, Pursuit and Downloadable Content pages; names only were looked at, nothing copied. The four DLC pack names come from RAWG's achievement descriptions."
+}

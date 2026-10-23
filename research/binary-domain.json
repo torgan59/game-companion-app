@@ -1,0 +1,509 @@
+{
+  "id": "binary-domain",
+  "title": "Binary Domain",
+  "year": 2012,
+  "platforms": [
+    "PC",
+    "PlayStation 3",
+    "Xbox 360"
+  ],
+  "rawgId": 3965,
+  "rawgSlug": "binary-domain",
+  "released": "2012-02-16",
+  "developers": [
+    "SEGA",
+    "Devil's Details"
+  ],
+  "playtime": 2,
+  "genres": [
+    "Action",
+    "Shooter"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Multiplayer",
+    "Full controller support",
+    "Steam Cloud",
+    "Atmospheric",
+    "RPG",
+    "Co-op",
+    "Story Rich",
+    "cooperative",
+    "Third Person",
+    "Sci-fi"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/bcd/bcd9896b7c3b9fa80e5dcb67c961e2be.jpg",
+  "steamAppId": 203750,
+  "achievements": {
+    "total": 49,
+    "hidden": 19,
+    "examples": [
+      {
+        "name": "Weapon Crafter",
+        "percent": 55.7
+      },
+      {
+        "name": "Spendthrift",
+        "percent": 48.5
+      },
+      {
+        "name": "Jackpot",
+        "percent": 43.6
+      },
+      {
+        "name": "Still Alive",
+        "percent": 2.6
+      },
+      {
+        "name": "Resistance Hero",
+        "percent": 2.6
+      },
+      {
+        "name": "Battlemaster",
+        "percent": 2.6
+      },
+      {
+        "name": "Veteran Soldier",
+        "percent": 2.6
+      },
+      {
+        "name": "Challenge Master",
+        "percent": 2.6
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Binary_Domain",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 3,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://binarydomain.fandom.com/wiki/Binary_Domain"
+    }
+  },
+  "game": {
+    "id": "binary-domain",
+    "title": "Binary Domain",
+    "platforms": [
+      "PC",
+      "PlayStation 3",
+      "Xbox 360"
+    ],
+    "blurb": "Squad-based third-person shooter from SEGA (RAWG also lists Devil's Details), published by SEGA, released 2012-02-16. RAWG average playtime: 2 hours. Genres: Action, Shooter. Chapters follow the six campaign chapters counted in the Steam achievements, plus chapters drawn from achievement themes.",
+    "accent": "#3A6EA5",
+    "chapters": [
+      {
+        "id": "chapters-1-3",
+        "title": "Campaign Chapters 1 to 3",
+        "summary": "Clearing the first three campaign chapters. Their achievements are hidden on Steam. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "chapters-4-6",
+        "title": "Campaign Chapters 4 to 6",
+        "summary": "Clearing chapters four to six, plus three other hidden story achievements. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "set-pieces",
+        "title": "Chases, Big Robots and Set Pieces",
+        "summary": "The car chase and four hidden set-piece sequences, climbing onto the Grand Lancer's head, the Spider's legs, the mobile gun battery and the Iron Whale's engines.",
+        "steps": []
+      },
+      {
+        "id": "squad-and-trust",
+        "title": "Squad and Trust",
+        "summary": "Taking every teammate along, buying them nanomachines, reviving them, and maximum trust with each of the six squad members.",
+        "steps": []
+      },
+      {
+        "id": "shops-and-upgrades",
+        "title": "Shops, Upgrades and SECURITY-COM",
+        "summary": "Vending machines and shopping terminals, weapon upgrades, every nanomachine in one playthrough, and the SECURITY-COM collectibles.",
+        "steps": []
+      },
+      {
+        "id": "combat",
+        "title": "Combat Bonuses",
+        "summary": "Smash, multi-kill, headshot and one-shot bonuses, Assault Shooters and turning enemies on each other.",
+        "steps": []
+      },
+      {
+        "id": "difficulty",
+        "title": "SURVIVOR and NO MERCY",
+        "summary": "Clearing every chapter on the two harder modes.",
+        "steps": []
+      },
+      {
+        "id": "online",
+        "title": "Online Versus and INVASION",
+        "summary": "Online versus wins with each rule set, INVASION stages, online level 50 and the online challenges.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "HIT AND RUN",
+        "kind": "trophy",
+        "chapterId": "chapters-1-3",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-2",
+        "name": "YEARN FOR REFUGE",
+        "kind": "trophy",
+        "chapterId": "chapters-1-3",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-3",
+        "name": "BAD GROUND",
+        "kind": "trophy",
+        "chapterId": "chapters-1-3",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-4",
+        "name": "REFUSE AND RESIST",
+        "kind": "trophy",
+        "chapterId": "chapters-4-6",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-5",
+        "name": "INTELLIGENT ARTIFICE",
+        "kind": "trophy",
+        "chapterId": "chapters-4-6",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-6",
+        "name": "DENYING DESTINY",
+        "kind": "trophy",
+        "chapterId": "chapters-4-6",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-7",
+        "name": "Seek and Destroy",
+        "kind": "trophy",
+        "chapterId": "set-pieces",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-8",
+        "name": "Water Slider",
+        "kind": "trophy",
+        "chapterId": "set-pieces",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-9",
+        "name": "Aquatic Chase",
+        "kind": "trophy",
+        "chapterId": "set-pieces",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-10",
+        "name": "Runaway Truck",
+        "kind": "trophy",
+        "chapterId": "set-pieces",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-11",
+        "name": "All Members",
+        "kind": "trophy",
+        "chapterId": "squad-and-trust",
+        "where": "Add each teammate to the party at least once."
+      },
+      {
+        "id": "achievement-12",
+        "name": "A Private Moment",
+        "kind": "trophy",
+        "chapterId": "chapters-4-6",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-13",
+        "name": "Big Bo Rescue",
+        "kind": "trophy",
+        "chapterId": "chapters-4-6",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-14",
+        "name": "Comrades in Arms",
+        "kind": "trophy",
+        "chapterId": "chapters-4-6",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-15",
+        "name": "Jumper",
+        "kind": "trophy",
+        "chapterId": "set-pieces",
+        "where": "Get onto the Grand Lancer's head."
+      },
+      {
+        "id": "achievement-16",
+        "name": "Spider Killer",
+        "kind": "trophy",
+        "chapterId": "set-pieces",
+        "where": "Destroy all of the Spider's legs."
+      },
+      {
+        "id": "achievement-17",
+        "name": "Hacker",
+        "kind": "trophy",
+        "chapterId": "set-pieces",
+        "where": "Destroy all enemies with the mobile gun battery."
+      },
+      {
+        "id": "achievement-18",
+        "name": "Jackpot",
+        "kind": "trophy",
+        "chapterId": "shops-and-upgrades",
+        "where": "Hit the jackpot on a vending machine."
+      },
+      {
+        "id": "achievement-19",
+        "name": "Transport Takedown",
+        "kind": "trophy",
+        "chapterId": "set-pieces",
+        "where": "Destroy the Iron Whale's four engines."
+      },
+      {
+        "id": "achievement-20",
+        "name": "Smash Master",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Get 50 smash bonuses in Campaign."
+      },
+      {
+        "id": "achievement-21",
+        "name": "Multi-Kill Master",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Get 50 multi-kill bonuses in Campaign."
+      },
+      {
+        "id": "achievement-22",
+        "name": "Headshot Master",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Get 50 headshot bonuses in Campaign."
+      },
+      {
+        "id": "achievement-23",
+        "name": "One-Shot Master",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Get 50 one-shot bonuses in Campaign."
+      },
+      {
+        "id": "achievement-24",
+        "name": "Lifesaver",
+        "kind": "trophy",
+        "chapterId": "squad-and-trust",
+        "where": "Use first-aid kits to revive teammates 10 times."
+      },
+      {
+        "id": "achievement-25",
+        "name": "A Friend Indeed",
+        "kind": "trophy",
+        "chapterId": "squad-and-trust",
+        "where": "Purchase nanomachines for a teammate."
+      },
+      {
+        "id": "achievement-26",
+        "name": "Shop Master",
+        "kind": "trophy",
+        "chapterId": "shops-and-upgrades",
+        "where": "Access all shopping terminals."
+      },
+      {
+        "id": "achievement-27",
+        "name": "Spendthrift",
+        "kind": "trophy",
+        "chapterId": "shops-and-upgrades",
+        "where": "Spend 10,000 credits at vending machines."
+      },
+      {
+        "id": "achievement-28",
+        "name": "Assault Shooter Killer",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Destroy 100 Assault Shooters in Campaign."
+      },
+      {
+        "id": "achievement-29",
+        "name": "Tactician",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Get enemies to kill each other 50 times."
+      },
+      {
+        "id": "achievement-30",
+        "name": "Weapon Crafter",
+        "kind": "trophy",
+        "chapterId": "shops-and-upgrades",
+        "where": "Upgrade a weapon."
+      },
+      {
+        "id": "achievement-31",
+        "name": "Craftsman",
+        "kind": "trophy",
+        "chapterId": "shops-and-upgrades",
+        "where": "Fully upgrade one weapon category."
+      },
+      {
+        "id": "achievement-32",
+        "name": "Big Bo: Max Trust",
+        "kind": "trophy",
+        "chapterId": "squad-and-trust",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-33",
+        "name": "Faye: Max Trust",
+        "kind": "trophy",
+        "chapterId": "squad-and-trust",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-34",
+        "name": "Charlie: Max Trust",
+        "kind": "trophy",
+        "chapterId": "squad-and-trust",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-35",
+        "name": "Rachael: Max Trust",
+        "kind": "trophy",
+        "chapterId": "squad-and-trust",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-36",
+        "name": "Cain: Max Trust",
+        "kind": "trophy",
+        "chapterId": "squad-and-trust",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-37",
+        "name": "Shindo: Max Trust",
+        "kind": "trophy",
+        "chapterId": "squad-and-trust",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-38",
+        "name": "Data Collector",
+        "kind": "trophy",
+        "chapterId": "shops-and-upgrades",
+        "where": "Collect 20 SECURITY-COM in Campaign."
+      },
+      {
+        "id": "achievement-39",
+        "name": "Data Retrieval Complete",
+        "kind": "trophy",
+        "chapterId": "shops-and-upgrades",
+        "where": "Collect all SECURITY-COM in Campaign."
+      },
+      {
+        "id": "achievement-40",
+        "name": "Skill Master",
+        "kind": "trophy",
+        "chapterId": "shops-and-upgrades",
+        "where": "Get all nanomachines within 1 playthrough in Campaign."
+      },
+      {
+        "id": "achievement-41",
+        "name": "Rust Crew",
+        "kind": "trophy",
+        "chapterId": "difficulty",
+        "where": "Clear all chapters on SURVIVOR Mode."
+      },
+      {
+        "id": "achievement-42",
+        "name": "Survivor",
+        "kind": "trophy",
+        "chapterId": "difficulty",
+        "where": "Clear all chapters on NO MERCY Mode."
+      },
+      {
+        "id": "achievement-43",
+        "name": "First Victory",
+        "kind": "trophy",
+        "chapterId": "online",
+        "where": "Win an online vs. match with any rule set."
+      },
+      {
+        "id": "achievement-44",
+        "name": "Still Alive",
+        "kind": "trophy",
+        "chapterId": "online",
+        "where": "Clear a stage in INVASION mode."
+      },
+      {
+        "id": "achievement-45",
+        "name": "Resistance Hero",
+        "kind": "trophy",
+        "chapterId": "online",
+        "where": "Clear all stages in INVASION mode."
+      },
+      {
+        "id": "achievement-46",
+        "name": "Battlemaster",
+        "kind": "trophy",
+        "chapterId": "online",
+        "where": "Win an Online vs. match with all rule sets."
+      },
+      {
+        "id": "achievement-47",
+        "name": "Veteran Soldier",
+        "kind": "trophy",
+        "chapterId": "online",
+        "where": "Reach level 50 Online."
+      },
+      {
+        "id": "achievement-48",
+        "name": "Challenge Master",
+        "kind": "trophy",
+        "chapterId": "online",
+        "where": "Clear all Online mode challenges."
+      },
+      {
+        "id": "achievement-49",
+        "name": "Fugitive",
+        "kind": "trophy",
+        "chapterId": "set-pieces",
+        "where": "Clear the car chase."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/binary-domain",
+    "Achievement data from Steam (Steam Web API, app 203750)",
+    "StrategyWiki: no usable walkthrough, nothing used — https://strategywiki.org/wiki/Binary_Domain",
+    "Fandom (binarydomain.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://binarydomain.fandom.com/wiki/Binary_Domain"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). RAWG's first result is the expected entry (id 3965). The Steam store list has one matching app, 203750 (\"Binary Domain\"); its schema is named \"ValveTestApp203750\" (a placeholder name). StrategyWiki has \"Binary Domain\" at completion stage 0 (marked as a perfect stub article): only Controls (about 1,300 characters) and Table of Contents are written; Gameplay, Walkthrough and Achievements and trophies are linked but not written. binarydomain.fandom.com answers the API under \"Binary Domain\", but its only 3 links are trailer videos, so it says little. 19 of 49 Steam achievements are hidden. eTrophy_ID_Chapter1Clear to Chapter6Clear are the six chapter clears (their display names are in capitals, such as \"HIT AND RUN\"), so the campaign has six chapters; the split into two halves is our own choice. Four hidden achievements have API names starting eTrophy_ID_Minigame (\"Seek and Destroy\", \"Water Slider\", \"Aquatic Chase\", \"Runaway Truck\"), so they sit with the visible car chase (\"Fugitive\", also a Minigame API name) in the set-pieces chapter. The six hidden \"Max Trust\" achievements name the squad members Big Bo, Faye, Charlie, Rachael, Cain and Shindo and are in the squad chapter. The other three hidden ones, \"A Private Moment\" (25.3%), \"Comrades in Arms\" (24.3%) and \"Big Bo Rescue\" (6.9%), sit in Chapters 4 to 6 as a placeholder because their unlock rates are near or below the later chapter clears (27.9% to 26.1%), a guess."
+}

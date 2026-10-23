@@ -1,0 +1,636 @@
+{
+  "id": "max-payne-3",
+  "title": "Max Payne 3",
+  "year": 2012,
+  "platforms": [
+    "PlayStation 3",
+    "PC",
+    "Xbox 360",
+    "macOS"
+  ],
+  "rawgId": 4280,
+  "rawgSlug": "max-payne-3",
+  "released": "2012-05-15",
+  "developers": [
+    "Rockstar Games"
+  ],
+  "playtime": 10,
+  "genres": [
+    "Action",
+    "Shooter"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Multiplayer",
+    "Atmospheric",
+    "Great Soundtrack",
+    "Co-op",
+    "Story Rich",
+    "Open World",
+    "Third Person",
+    "Partial Controller Support",
+    "FPS",
+    "Violent"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/5bf/5bf88a28de96321c86561a65ee48e6c2.jpg",
+  "steamAppId": 204100,
+  "achievements": {
+    "total": 67,
+    "hidden": 0,
+    "examples": [
+      {
+        "name": "Part I Complete",
+        "percent": 64.0
+      },
+      {
+        "name": "One Bullet At A Time",
+        "percent": 57.9
+      },
+      {
+        "name": "Part II Complete",
+        "percent": 52.0
+      },
+      {
+        "name": "60 Seconds of Intimidation",
+        "percent": 1.7
+      },
+      {
+        "name": "Long Arm of the Lawless",
+        "percent": 1.7
+      },
+      {
+        "name": "Welcome Ashore",
+        "percent": 1.7
+      },
+      {
+        "name": "3 Blind Mice",
+        "percent": 1.7
+      },
+      {
+        "name": "It Looked Easy Enough",
+        "percent": 1.7
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Max_Payne_3",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 64,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://maxpayne.fandom.com/wiki/Max_Payne_3"
+    }
+  },
+  "game": {
+    "id": "max-payne-3",
+    "title": "Max Payne 3",
+    "platforms": [
+      "PlayStation 3",
+      "PC",
+      "Xbox 360",
+      "macOS"
+    ],
+    "blurb": "Third-person shooter from Rockstar Games, released 2012-05-15. RAWG average playtime: 10 hours. Genres: Action, Shooter. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#9E2A2B",
+    "chapters": [
+      {
+        "id": "story-parts",
+        "title": "The Story, Part by Part",
+        "summary": "Finishing Part I, Part II and Part III of the story.",
+        "steps": []
+      },
+      {
+        "id": "difficulty",
+        "title": "Difficulty Runs",
+        "summary": "Finishing the story on Medium, Hard, Hardcore and Old School.",
+        "steps": []
+      },
+      {
+        "id": "level-feats",
+        "title": "Level Feats and Grinds",
+        "summary": "One-off feats inside story levels: the zipline, the VIP window, the chain, the push cart, the bus ride, the runway, the rickety boat and more, plus finishing every single-player grind.",
+        "steps": []
+      },
+      {
+        "id": "collectibles",
+        "title": "Clues, Golden Guns and Tourist Spots",
+        "summary": "Finding every clue, every golden gun and every tourist location.",
+        "steps": []
+      },
+      {
+        "id": "arcade",
+        "title": "New York Minute",
+        "summary": "The New York Minute mode, including its Hardcore version.",
+        "steps": []
+      },
+      {
+        "id": "combat",
+        "title": "Combat Skills",
+        "summary": "Painkillers, headshots, Bullet Time, Shootdodge, melee, grenades and using every weapon.",
+        "steps": []
+      },
+      {
+        "id": "multiplayer",
+        "title": "Multiplayer",
+        "summary": "Ranking up, Gang Wars, Deathmatch, wagers, unlocks and playing with friends.",
+        "steps": []
+      },
+      {
+        "id": "multiplayer-packs",
+        "title": "Multiplayer Map and Mode Packs",
+        "summary": "Feats tied to extra multiplayer maps and modes, such as the Departure Lounge, Imperial Palace, Hoboken Bar, Panama Canal, Dead Men Walking and Challenge Mode.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Serious Payne",
+        "kind": "trophy",
+        "chapterId": "difficulty",
+        "where": "Story Complete [HARD]"
+      },
+      {
+        "id": "achievement-2",
+        "name": "Maximum Payne",
+        "kind": "trophy",
+        "chapterId": "difficulty",
+        "where": "Story Complete [OLD SCHOOL]"
+      },
+      {
+        "id": "achievement-3",
+        "name": "Feel The Payne",
+        "kind": "trophy",
+        "chapterId": "difficulty",
+        "where": "Story Complete [MEDIUM]"
+      },
+      {
+        "id": "achievement-4",
+        "name": "Payne In The Ass",
+        "kind": "trophy",
+        "chapterId": "difficulty",
+        "where": "Story Complete [HARDCORE]"
+      },
+      {
+        "id": "achievement-5",
+        "name": "You Might Hurt Someone With That",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Shoot 10 Airborne Grenades"
+      },
+      {
+        "id": "achievement-6",
+        "name": "The Fear Of Losing It",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Survive A Level Without Painkillers"
+      },
+      {
+        "id": "achievement-7",
+        "name": "You Play, You Pay, You Bastard",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "100 Kills With Melee"
+      },
+      {
+        "id": "achievement-8",
+        "name": "Past The Point Of No Return",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Take 100 Painkillers"
+      },
+      {
+        "id": "achievement-9",
+        "name": "A Few Hundred Bullets Back",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Use Every Weapon In The Game"
+      },
+      {
+        "id": "achievement-10",
+        "name": "Part I Complete",
+        "kind": "trophy",
+        "chapterId": "story-parts",
+        "where": "Complete Part I Of The Story"
+      },
+      {
+        "id": "achievement-11",
+        "name": "Part II Complete",
+        "kind": "trophy",
+        "chapterId": "story-parts",
+        "where": "Complete Part II Of The Story"
+      },
+      {
+        "id": "achievement-12",
+        "name": "Part III Complete",
+        "kind": "trophy",
+        "chapterId": "story-parts",
+        "where": "Complete Part III Of The Story"
+      },
+      {
+        "id": "achievement-13",
+        "name": "Along For The Ride",
+        "kind": "trophy",
+        "chapterId": "level-feats",
+        "where": "Trigger A Bullet Cam On The Zipline [FREE AIM]"
+      },
+      {
+        "id": "achievement-14",
+        "name": "Out The Window",
+        "kind": "trophy",
+        "chapterId": "level-feats",
+        "where": "Get 6 Kills While Diving Through The VIP Window [FREE AIM]"
+      },
+      {
+        "id": "achievement-15",
+        "name": "The One Eyed Man Is King",
+        "kind": "trophy",
+        "chapterId": "level-feats",
+        "where": "Cover Passos With Perfect Aim"
+      },
+      {
+        "id": "achievement-16",
+        "name": "That Old Familiar Feeling",
+        "kind": "trophy",
+        "chapterId": "level-feats",
+        "where": "Clear The Hallway Of Lasers"
+      },
+      {
+        "id": "achievement-17",
+        "name": "Amidst The Wreckage",
+        "kind": "trophy",
+        "chapterId": "level-feats",
+        "where": "Destroy All The Models In The Boardroom"
+      },
+      {
+        "id": "achievement-18",
+        "name": "So Much For Being Subtle",
+        "kind": "trophy",
+        "chapterId": "level-feats",
+        "where": "Get 9 Kills While Being Pulled By A Chain [FREE AIM]"
+      },
+      {
+        "id": "achievement-19",
+        "name": "The Only Choice Given",
+        "kind": "trophy",
+        "chapterId": "level-feats",
+        "where": "Get 8 Kills While Dangling From A Chain [FREE AIM]"
+      },
+      {
+        "id": "achievement-20",
+        "name": "It Was Chaos And Luck",
+        "kind": "trophy",
+        "chapterId": "level-feats",
+        "where": "Get 6 Kills While Riding The Push Cart [FREE AIM]"
+      },
+      {
+        "id": "achievement-21",
+        "name": "It's Fear That Gives Men Wings",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "10 Bullet Time® Kills In A Row"
+      },
+      {
+        "id": "achievement-22",
+        "name": "Sometimes You Get Lucky",
+        "kind": "trophy",
+        "chapterId": "level-feats",
+        "where": "Get A Headshot During The Rooftop Tremors"
+      },
+      {
+        "id": "achievement-23",
+        "name": "The Road-Kill Behind Me",
+        "kind": "trophy",
+        "chapterId": "level-feats",
+        "where": "Total Everything On The Runway"
+      },
+      {
+        "id": "achievement-24",
+        "name": "Trouble Had Come To Me",
+        "kind": "trophy",
+        "chapterId": "level-feats",
+        "where": "Clear Everyone On The Bus Ride"
+      },
+      {
+        "id": "achievement-25",
+        "name": "Something Wicked This Way Comes",
+        "kind": "trophy",
+        "chapterId": "level-feats",
+        "where": "Get 7 Kills While Jumping From The Rickety Boat [FREE AIM]"
+      },
+      {
+        "id": "achievement-26",
+        "name": "All Of The Above",
+        "kind": "trophy",
+        "chapterId": "level-feats",
+        "where": "Finish All Single Player Grinds"
+      },
+      {
+        "id": "achievement-27",
+        "name": "A License To Kill",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Collect All Golden Guns"
+      },
+      {
+        "id": "achievement-28",
+        "name": "One Bullet At A Time",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "300 Headshots"
+      },
+      {
+        "id": "achievement-29",
+        "name": "With Practiced Bravado",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "100 Kills During Shootdodge"
+      },
+      {
+        "id": "achievement-30",
+        "name": "Colder Than The Devil's Heart",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Kill 30 Enemies In 2 Minutes"
+      },
+      {
+        "id": "achievement-31",
+        "name": "A New York Minute",
+        "kind": "trophy",
+        "chapterId": "arcade",
+        "where": "Finish In A New York Minute"
+      },
+      {
+        "id": "achievement-32",
+        "name": "Full Monty",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "Complete One Of Each Game Mode Including All Gang Wars"
+      },
+      {
+        "id": "achievement-33",
+        "name": "Payne Bringer",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "Kill 100 Other Players"
+      },
+      {
+        "id": "achievement-34",
+        "name": "Grave Robber",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "Looted A Body"
+      },
+      {
+        "id": "achievement-35",
+        "name": "The Gambler",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "Won A Wager"
+      },
+      {
+        "id": "achievement-36",
+        "name": "Sweep",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "Flawless Team Gang Wars Victory"
+      },
+      {
+        "id": "achievement-37",
+        "name": "Training Complete",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "Achieve Level Rank 50"
+      },
+      {
+        "id": "achievement-38",
+        "name": "Deathmatch Challenge",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "Winner In Any Public Deathmatch"
+      },
+      {
+        "id": "achievement-39",
+        "name": "Man Of Many Faces",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "Unlock All Faction Characters"
+      },
+      {
+        "id": "achievement-40",
+        "name": "Man Of Many Weapons",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "Unlock All Weapons"
+      },
+      {
+        "id": "achievement-41",
+        "name": "Max Payne Invitational",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "Invite someone to play through the in-game contact list"
+      },
+      {
+        "id": "achievement-42",
+        "name": "The Shadows Rushed Me",
+        "kind": "trophy",
+        "chapterId": "arcade",
+        "where": "Unlock And Complete New York Minute Hardcore"
+      },
+      {
+        "id": "achievement-43",
+        "name": "You Push A Man Too Far",
+        "kind": "trophy",
+        "chapterId": "level-feats",
+        "where": "Don't Shoot The Dis-Armed Man"
+      },
+      {
+        "id": "achievement-44",
+        "name": "An Echo Of The Past",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Find All Clues"
+      },
+      {
+        "id": "achievement-45",
+        "name": "Sure Know How To Pick A Place",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Discover All Tourist Locations"
+      },
+      {
+        "id": "achievement-46",
+        "name": "Dearest Of All My Friends",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "Kill Someone On Your Friends List"
+      },
+      {
+        "id": "achievement-47",
+        "name": "Air Ace",
+        "kind": "trophy",
+        "chapterId": "multiplayer-packs",
+        "where": "Get 2 kills in a single Shootdodge in the Departure Lounge"
+      },
+      {
+        "id": "achievement-48",
+        "name": "Express Checkout",
+        "kind": "trophy",
+        "chapterId": "multiplayer-packs",
+        "where": "Kill 4 players within 3 seconds in the Imperial Palace"
+      },
+      {
+        "id": "achievement-49",
+        "name": "Long Arm of the Law",
+        "kind": "trophy",
+        "chapterId": "multiplayer-packs",
+        "where": "Win 20 Vendettas in the 55th Battalion HQ"
+      },
+      {
+        "id": "achievement-50",
+        "name": "M4 Murder",
+        "kind": "trophy",
+        "chapterId": "multiplayer-packs",
+        "where": "Level up your M4 Assault all the way to level 10"
+      },
+      {
+        "id": "achievement-51",
+        "name": "Keep Your Nose Clean",
+        "kind": "trophy",
+        "chapterId": "multiplayer-packs",
+        "where": "Get 100 Kills as a member of the SPP"
+      },
+      {
+        "id": "achievement-52",
+        "name": "Old School Moves",
+        "kind": "trophy",
+        "chapterId": "multiplayer-packs",
+        "where": "Perform a 720 spin while prone in Nightclub"
+      },
+      {
+        "id": "achievement-53",
+        "name": "Early Adopter",
+        "kind": "trophy",
+        "chapterId": "multiplayer-packs",
+        "where": "In a single game, kill the same player with both the M24 and the IA2 AR"
+      },
+      {
+        "id": "achievement-54",
+        "name": "WMD",
+        "kind": "trophy",
+        "chapterId": "multiplayer-packs",
+        "where": "Get 3 kills from a single use of the level 3 explosives burst"
+      },
+      {
+        "id": "achievement-55",
+        "name": "60 Seconds of Intimidation",
+        "kind": "trophy",
+        "chapterId": "multiplayer-packs",
+        "where": "Grind 60 Seconds of Intimidation on enemy players"
+      },
+      {
+        "id": "achievement-56",
+        "name": "Long Arm of the Lawless",
+        "kind": "trophy",
+        "chapterId": "multiplayer-packs",
+        "where": "Kill Max Payne in Panama as the De Marcos"
+      },
+      {
+        "id": "achievement-57",
+        "name": "Bar Brawler",
+        "kind": "trophy",
+        "chapterId": "multiplayer-packs",
+        "where": "Kill someone with a melee strike in the Bar area of Hoboken Bar"
+      },
+      {
+        "id": "achievement-58",
+        "name": "Ouch My Head",
+        "kind": "trophy",
+        "chapterId": "multiplayer-packs",
+        "where": "Headshot someone with a Hangover"
+      },
+      {
+        "id": "achievement-59",
+        "name": "Welcome Ashore",
+        "kind": "trophy",
+        "chapterId": "multiplayer-packs",
+        "where": "Kill a player on the yacht from the observation platform of the Panama Canal"
+      },
+      {
+        "id": "achievement-60",
+        "name": "Drinker's Revenge",
+        "kind": "trophy",
+        "chapterId": "multiplayer-packs",
+        "where": "Kill the sniper who broke your Hip Flask in the same life"
+      },
+      {
+        "id": "achievement-61",
+        "name": "3 Blind Mice",
+        "kind": "trophy",
+        "chapterId": "multiplayer-packs",
+        "where": "Blind 3 players simultaneously with the pepper spray"
+      },
+      {
+        "id": "achievement-62",
+        "name": "Sweaty Betty",
+        "kind": "trophy",
+        "chapterId": "multiplayer-packs",
+        "where": "Trigger and avoid a Bouncing Betty by Shootdodging"
+      },
+      {
+        "id": "achievement-63",
+        "name": "Betty Confetti",
+        "kind": "trophy",
+        "chapterId": "multiplayer-packs",
+        "where": "Kill a player with the Bouncing Betty"
+      },
+      {
+        "id": "achievement-64",
+        "name": "Resisting Arrest",
+        "kind": "trophy",
+        "chapterId": "multiplayer-packs",
+        "where": "Stun 10 players with either the cattle prod or stun gun"
+      },
+      {
+        "id": "achievement-65",
+        "name": "Breaking and Entering",
+        "kind": "trophy",
+        "chapterId": "multiplayer-packs",
+        "where": "Open 15 Containers or Doors in a single game of Dead Men Walking"
+      },
+      {
+        "id": "achievement-66",
+        "name": "It Looked Easy Enough",
+        "kind": "trophy",
+        "chapterId": "multiplayer-packs",
+        "where": "Complete the Challenge Mode"
+      },
+      {
+        "id": "achievement-67",
+        "name": "Breaking the 4th",
+        "kind": "trophy",
+        "chapterId": "multiplayer-packs",
+        "where": "Earn a x4 multiplier in Challenge Mode"
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/max-payne-3",
+    "Achievement data from Steam (Steam Web API, app 204100)",
+    "StrategyWiki: no usable walkthrough, nothing used — https://strategywiki.org/wiki/Max_Payne_3",
+    "Fandom (maxpayne.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://maxpayne.fandom.com/wiki/Max_Payne_3"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). RAWG's first result is the expected entry (id 4280); RAWG keeps \"Max Payne 3: The Complete Edition\" and \"Max Payne 3: Painful Memories Pack\" separately. The only Steam store match is app 204100; its schema has an empty game name. None of the 67 Steam achievements are hidden. 21 achievements have API names starting DLC2, DLC4, DLC5, DL6 or DLC6, so they come from added multiplayer content; the pack names are not in the data, so the chapter is named after the maps and modes the descriptions mention, and DLC2 to DLC6 are only API numbers. Two API names start SPMP (melee kills and Shootdodge kills), which may count in both single player and multiplayer; they sit in Combat Skills. The level feats name places and moments (the VIP window, the boardroom, the runway) but not which Part they belong to, so they have their own chapter rather than being guessed into Parts. StrategyWiki has a stub page (completion stage 0, in Category:Stubs): Gameplay, Table of Contents and Walkthrough are linked, but no subpages exist. maxpayne.fandom.com answers the API with about 66 linked pages; names only were looked at, nothing copied."
+}

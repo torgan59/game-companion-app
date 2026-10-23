@@ -1,0 +1,669 @@
+{
+  "id": "resident-evil-6",
+  "title": "Resident Evil 6",
+  "year": 2012,
+  "platforms": [
+    "Web",
+    "Nintendo Switch",
+    "PC",
+    "Xbox One",
+    "PlayStation 4",
+    "Xbox 360",
+    "PlayStation 3"
+  ],
+  "rawgId": 2623,
+  "rawgSlug": "resident-evil-6",
+  "released": "2012-10-02",
+  "developers": [
+    "Capcom"
+  ],
+  "playtime": 8,
+  "genres": [
+    "Action",
+    "Shooter"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Multiplayer",
+    "Steam Cloud",
+    "Atmospheric",
+    "steam-trading-cards",
+    "Co-op",
+    "cooperative",
+    "Third Person",
+    "Partial Controller Support",
+    "Horror",
+    "Online Co-Op"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/f6f/f6f39c5b56413f7f4513b25989a1b747.jpg",
+  "steamAppId": 221040,
+  "achievements": {
+    "total": 70,
+    "hidden": 0,
+    "examples": [
+      {
+        "name": "The Longest Night",
+        "percent": 87.7
+      },
+      {
+        "name": "One Is Better Than None",
+        "percent": 63.3
+      },
+      {
+        "name": "Gone to Hell",
+        "percent": 59.1
+      },
+      {
+        "name": "Not without a Fight",
+        "percent": 1.3
+      },
+      {
+        "name": "One Is Never Enough",
+        "percent": 1.3
+      },
+      {
+        "name": "Two Sides of the Same Coin",
+        "percent": 1.3
+      },
+      {
+        "name": "Everybody Dies",
+        "percent": 1.2
+      },
+      {
+        "name": "Civilian Casualties",
+        "percent": 1.2
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Resident_Evil_6",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 166,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://residentevil.fandom.com/wiki/Resident_Evil_6"
+    }
+  },
+  "game": {
+    "id": "resident-evil-6",
+    "title": "Resident Evil 6",
+    "platforms": [
+      "Web",
+      "Nintendo Switch",
+      "PC",
+      "Xbox One",
+      "PlayStation 4",
+      "Xbox 360",
+      "PlayStation 3"
+    ],
+    "blurb": "Third-person survival horror shooter from Capcom, released 2012-10-02. RAWG average playtime: 8 hours. Genres: Action, Shooter. Chapters follow the four campaigns and five chapters each named in the Steam achievements.",
+    "accent": "#8B0000",
+    "chapters": [
+      {
+        "id": "prologue-and-leon",
+        "title": "The Prologue and Leon's Campaign",
+        "summary": "The tutorial, then Chapters 1 to 5 of Leon's campaign.",
+        "steps": []
+      },
+      {
+        "id": "chris",
+        "title": "Chris' Campaign",
+        "summary": "Chapters 1 to 5 of Chris' campaign. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "jake",
+        "title": "Jake's Campaign",
+        "summary": "Chapters 1 to 5 of Jake's campaign. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "ada",
+        "title": "Ada's Campaign",
+        "summary": "Chapters 1 to 5 of Ada's campaign. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "difficulty",
+        "title": "Difficulty Runs",
+        "summary": "Finishing the entire game on Amateur, Normal, Veteran and Professional.",
+        "steps": []
+      },
+      {
+        "id": "set-pieces-and-collectibles",
+        "title": "Set Pieces and Collectibles",
+        "summary": "The cathedral survivors, the VTOL, the helicopter pilot, the aircraft carrier bridge, action figures and serpent emblems.",
+        "steps": []
+      },
+      {
+        "id": "skills-and-titles",
+        "title": "Skills, Titles and Medals",
+        "summary": "Buying and maxing skills, earning titles and medals, and dog tags.",
+        "steps": []
+      },
+      {
+        "id": "combat",
+        "title": "Combat",
+        "summary": "Stealth takedowns, finishers, counters, partner rescues, every weapon and enemy kill counts.",
+        "steps": []
+      },
+      {
+        "id": "extra-modes",
+        "title": "Extra and Online Modes",
+        "summary": "Head-to-head wins, combo chains, the Ustanak, the BSAA and player-controlled agents and creatures.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "The Longest Night",
+        "kind": "trophy",
+        "chapterId": "prologue-and-leon",
+        "where": "Complete the tutorial."
+      },
+      {
+        "id": "achievement-2",
+        "name": "Gone to Hell",
+        "kind": "trophy",
+        "chapterId": "prologue-and-leon",
+        "where": "Complete Chapter 1 in Leon's campaign."
+      },
+      {
+        "id": "achievement-3",
+        "name": "Buried Secrets",
+        "kind": "trophy",
+        "chapterId": "prologue-and-leon",
+        "where": "Complete Chapter 2 in Leon's campaign."
+      },
+      {
+        "id": "achievement-4",
+        "name": "Get on the Plane",
+        "kind": "trophy",
+        "chapterId": "prologue-and-leon",
+        "where": "Complete Chapter 3 in Leon's campaign."
+      },
+      {
+        "id": "achievement-5",
+        "name": "Big Trouble in China",
+        "kind": "trophy",
+        "chapterId": "prologue-and-leon",
+        "where": "Complete Chapter 4 in Leon's campaign."
+      },
+      {
+        "id": "achievement-6",
+        "name": "The Trouble with Women",
+        "kind": "trophy",
+        "chapterId": "prologue-and-leon",
+        "where": "Complete Chapter 5 in Leon's campaign."
+      },
+      {
+        "id": "achievement-7",
+        "name": "Rescue the Hostages",
+        "kind": "trophy",
+        "chapterId": "chris",
+        "where": "Complete Chapter 1 in Chris' campaign."
+      },
+      {
+        "id": "achievement-8",
+        "name": "Tragedy in Europe",
+        "kind": "trophy",
+        "chapterId": "chris",
+        "where": "Complete Chapter 2 in Chris' campaign."
+      },
+      {
+        "id": "achievement-9",
+        "name": "After Her!",
+        "kind": "trophy",
+        "chapterId": "chris",
+        "where": "Complete Chapter 3 in Chris' campaign."
+      },
+      {
+        "id": "achievement-10",
+        "name": "There's Always Hope",
+        "kind": "trophy",
+        "chapterId": "chris",
+        "where": "Complete Chapter 4 in Chris' campaign."
+      },
+      {
+        "id": "achievement-11",
+        "name": "Duty Calls",
+        "kind": "trophy",
+        "chapterId": "chris",
+        "where": "Complete Chapter 5 in Chris' campaign."
+      },
+      {
+        "id": "achievement-12",
+        "name": "Money Talks",
+        "kind": "trophy",
+        "chapterId": "jake",
+        "where": "Complete Chapter 1 in Jake's campaign."
+      },
+      {
+        "id": "achievement-13",
+        "name": "A Revolting Development",
+        "kind": "trophy",
+        "chapterId": "jake",
+        "where": "Complete Chapter 2 in Jake's campaign."
+      },
+      {
+        "id": "achievement-14",
+        "name": "Let's Blow This Joint",
+        "kind": "trophy",
+        "chapterId": "jake",
+        "where": "Complete Chapter 3 in Jake's campaign."
+      },
+      {
+        "id": "achievement-15",
+        "name": "Still on the Run",
+        "kind": "trophy",
+        "chapterId": "jake",
+        "where": "Complete Chapter 4 in Jake's campaign."
+      },
+      {
+        "id": "achievement-16",
+        "name": "See You Around",
+        "kind": "trophy",
+        "chapterId": "jake",
+        "where": "Complete Chapter 5 in Jake's campaign."
+      },
+      {
+        "id": "achievement-17",
+        "name": "I Spy",
+        "kind": "trophy",
+        "chapterId": "ada",
+        "where": "Complete Chapter 1 in Ada's campaign."
+      },
+      {
+        "id": "achievement-18",
+        "name": "Counterintelligence",
+        "kind": "trophy",
+        "chapterId": "ada",
+        "where": "Complete Chapter 2 in Ada's campaign."
+      },
+      {
+        "id": "achievement-19",
+        "name": "This Takes Me Back",
+        "kind": "trophy",
+        "chapterId": "ada",
+        "where": "Complete Chapter 3 in Ada's campaign."
+      },
+      {
+        "id": "achievement-20",
+        "name": "Ada's Demise",
+        "kind": "trophy",
+        "chapterId": "ada",
+        "where": "Complete Chapter 4 in Ada's campaign."
+      },
+      {
+        "id": "achievement-21",
+        "name": "What's Next?",
+        "kind": "trophy",
+        "chapterId": "ada",
+        "where": "Complete Chapter 5 in Ada's campaign."
+      },
+      {
+        "id": "achievement-22",
+        "name": "Green around the Ears",
+        "kind": "trophy",
+        "chapterId": "difficulty",
+        "where": "Complete the entire game on Amateur."
+      },
+      {
+        "id": "achievement-23",
+        "name": "Normal Is Good",
+        "kind": "trophy",
+        "chapterId": "difficulty",
+        "where": "Complete the entire game on Normal."
+      },
+      {
+        "id": "achievement-24",
+        "name": "Back in My Day",
+        "kind": "trophy",
+        "chapterId": "difficulty",
+        "where": "Complete the entire game on Veteran."
+      },
+      {
+        "id": "achievement-25",
+        "name": "Leave It to the Pro",
+        "kind": "trophy",
+        "chapterId": "difficulty",
+        "where": "Complete the entire game on Professional."
+      },
+      {
+        "id": "achievement-26",
+        "name": "Check Out My Dogs",
+        "kind": "trophy",
+        "chapterId": "skills-and-titles",
+        "where": "Customize your dog tags."
+      },
+      {
+        "id": "achievement-27",
+        "name": "Titular Achievement",
+        "kind": "trophy",
+        "chapterId": "skills-and-titles",
+        "where": "Earn 10 different titles."
+      },
+      {
+        "id": "achievement-28",
+        "name": "One Is Better Than None",
+        "kind": "trophy",
+        "chapterId": "skills-and-titles",
+        "where": "Purchase one skill."
+      },
+      {
+        "id": "achievement-29",
+        "name": "Mad Skillz",
+        "kind": "trophy",
+        "chapterId": "skills-and-titles",
+        "where": "Max out all the skills that allow you to level up."
+      },
+      {
+        "id": "achievement-30",
+        "name": "Silent Killer",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Use a stealth attack to take down five enemies."
+      },
+      {
+        "id": "achievement-31",
+        "name": "Finish What You Start",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Perform a coup de grâce on ten enemies."
+      },
+      {
+        "id": "achievement-32",
+        "name": "Bob and Weave",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Counter an enemy's attack three times in row."
+      },
+      {
+        "id": "achievement-33",
+        "name": "Down, Not Out",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Defeat an enemy while dying, then recover without any help."
+      },
+      {
+        "id": "achievement-34",
+        "name": "Lifesaver",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Help or rescue your partner ten times."
+      },
+      {
+        "id": "achievement-35",
+        "name": "Weapons Master",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Use all the weapons in the game and kill ten enemies with each of them."
+      },
+      {
+        "id": "achievement-36",
+        "name": "Give a Little Push",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Knock ten enemies off a high place."
+      },
+      {
+        "id": "achievement-37",
+        "name": "Rising Up",
+        "kind": "trophy",
+        "chapterId": "skills-and-titles",
+        "where": "Earn a level-four title."
+      },
+      {
+        "id": "achievement-38",
+        "name": "They're ACTION Figures!",
+        "kind": "trophy",
+        "chapterId": "set-pieces-and-collectibles",
+        "where": "Collect 3 figures."
+      },
+      {
+        "id": "achievement-39",
+        "name": "Stuntman",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Defeat 20 enemies with the Hydra using a quick shot."
+      },
+      {
+        "id": "achievement-40",
+        "name": "Bring the Heat",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Take down an enemy from 50 meters away with a headshot using the thermal scope."
+      },
+      {
+        "id": "achievement-41",
+        "name": "High Voltage",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Defeat ten enemies with a stun rod charge attack."
+      },
+      {
+        "id": "achievement-42",
+        "name": "Zombie Massacre",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Defeat 500 zombies."
+      },
+      {
+        "id": "achievement-43",
+        "name": "J'avo Genocide",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Defeat 500 J'avo."
+      },
+      {
+        "id": "achievement-44",
+        "name": "B.O.W.s Are Ugly",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Defeat 100 enemies that have come out of a chrysalid."
+      },
+      {
+        "id": "achievement-45",
+        "name": "I Prefer Them Alive",
+        "kind": "trophy",
+        "chapterId": "set-pieces-and-collectibles",
+        "where": "Rescue two female survivors at the cathedral."
+      },
+      {
+        "id": "achievement-46",
+        "name": "Flying Ace",
+        "kind": "trophy",
+        "chapterId": "set-pieces-and-collectibles",
+        "where": "Pilot the VTOL without getting a scratch on it."
+      },
+      {
+        "id": "achievement-47",
+        "name": "Hard Choice",
+        "kind": "trophy",
+        "chapterId": "set-pieces-and-collectibles",
+        "where": "Shoot the helicopter pilot with a Magnum at point-blank range."
+      },
+      {
+        "id": "achievement-48",
+        "name": "Sneaking Around",
+        "kind": "trophy",
+        "chapterId": "set-pieces-and-collectibles",
+        "where": "Get through the aircraft carrier's bridge area without being noticed."
+      },
+      {
+        "id": "achievement-49",
+        "name": "Covered in Brass",
+        "kind": "trophy",
+        "chapterId": "skills-and-titles",
+        "where": "Earn 150 different medals."
+      },
+      {
+        "id": "achievement-50",
+        "name": "Heirlooms",
+        "kind": "trophy",
+        "chapterId": "set-pieces-and-collectibles",
+        "where": "Collect all the serpent emblems."
+      },
+      {
+        "id": "achievement-51",
+        "name": "Surrounded on All Sides",
+        "kind": "trophy",
+        "chapterId": "extra-modes",
+        "where": "Send 2,000 enemies to your opponent's map."
+      },
+      {
+        "id": "achievement-52",
+        "name": "Take the Stage",
+        "kind": "trophy",
+        "chapterId": "extra-modes",
+        "where": "Defeat your opponent and achieve victory in 3 stages."
+      },
+      {
+        "id": "achievement-53",
+        "name": "Killer Combo",
+        "kind": "trophy",
+        "chapterId": "extra-modes",
+        "where": "Achieve a 30-combo chain."
+      },
+      {
+        "id": "achievement-54",
+        "name": "You Are S.O.L.",
+        "kind": "trophy",
+        "chapterId": "extra-modes",
+        "where": "Defeat your opponent 10 times with enemies you sent."
+      },
+      {
+        "id": "achievement-55",
+        "name": "Kill or Be Killed",
+        "kind": "trophy",
+        "chapterId": "extra-modes",
+        "where": "Win while in the dying state."
+      },
+      {
+        "id": "achievement-56",
+        "name": "Last Man Standing--Again",
+        "kind": "trophy",
+        "chapterId": "extra-modes",
+        "where": "Win five times in a row."
+      },
+      {
+        "id": "achievement-57",
+        "name": "Take 'Em All Down",
+        "kind": "trophy",
+        "chapterId": "extra-modes",
+        "where": "Defeat 100 agents."
+      },
+      {
+        "id": "achievement-58",
+        "name": "Kung Fu Fighting",
+        "kind": "trophy",
+        "chapterId": "extra-modes",
+        "where": "Survive to the end only using physical attacks."
+      },
+      {
+        "id": "achievement-59",
+        "name": "Staying Alive",
+        "kind": "trophy",
+        "chapterId": "extra-modes",
+        "where": "Return to the game as a human character."
+      },
+      {
+        "id": "achievement-60",
+        "name": "Team Effort",
+        "kind": "trophy",
+        "chapterId": "extra-modes",
+        "where": "Win without any members of your team being killed."
+      },
+      {
+        "id": "achievement-61",
+        "name": "Not without a Fight",
+        "kind": "trophy",
+        "chapterId": "extra-modes",
+        "where": "Defeat Ustanak 20 times."
+      },
+      {
+        "id": "achievement-62",
+        "name": "Invincible",
+        "kind": "trophy",
+        "chapterId": "extra-modes",
+        "where": "Defeat Ustanak without anyone on your team being captured."
+      },
+      {
+        "id": "achievement-63",
+        "name": "Easy Pickings",
+        "kind": "trophy",
+        "chapterId": "extra-modes",
+        "where": "Eliminate all players as Ustanak in less than a minute."
+      },
+      {
+        "id": "achievement-64",
+        "name": "One Is Never Enough",
+        "kind": "trophy",
+        "chapterId": "extra-modes",
+        "where": "As Ustanak, capture a total of 50 humans."
+      },
+      {
+        "id": "achievement-65",
+        "name": "Held Captive",
+        "kind": "trophy",
+        "chapterId": "extra-modes",
+        "where": "Defeat Ustanak with only one Agent remaining."
+      },
+      {
+        "id": "achievement-66",
+        "name": "Everybody Dies",
+        "kind": "trophy",
+        "chapterId": "extra-modes",
+        "where": "Defeat 100 player-controlled agents and 100 player-controlled creatures."
+      },
+      {
+        "id": "achievement-67",
+        "name": "Civilian Casualties",
+        "kind": "trophy",
+        "chapterId": "extra-modes",
+        "where": "Defeat the BSAA 100 times."
+      },
+      {
+        "id": "achievement-68",
+        "name": "Murder Spree",
+        "kind": "trophy",
+        "chapterId": "extra-modes",
+        "where": "Defeat the BSAA as a creature without dying once."
+      },
+      {
+        "id": "achievement-69",
+        "name": "Two Sides of the Same Coin",
+        "kind": "trophy",
+        "chapterId": "extra-modes",
+        "where": "Win 10 times."
+      },
+      {
+        "id": "achievement-70",
+        "name": "Protect and Serve",
+        "kind": "trophy",
+        "chapterId": "extra-modes",
+        "where": "Protect the BSAA without any of them getting hurt."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/resident-evil-6",
+    "Achievement data from Steam (Steam Web API, app 221040)",
+    "StrategyWiki: no usable walkthrough, nothing used — https://strategywiki.org/wiki/Resident_Evil_6",
+    "Fandom (residentevil.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://residentevil.fandom.com/wiki/Resident_Evil_6"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). RAWG's first result is the expected entry (id 2623); RAWG also keeps \"Resident Evil 6: Onslaught\" and \"Resident Evil 6: Siege\" as separate entries, but no achievement names them, so the 20 mode achievements (API ACH51 to ACH70) share one chapter described by what they mention (opponents, the Ustanak, the BSAA, agents and creatures) rather than by a guessed mode name. Steam app 221040 (schema name is the placeholder \"ValveTestApp221040\"); none of its 70 achievements are hidden. The four campaigns and their chapter numbers come straight from the achievement descriptions. The set-piece achievements (cathedral, VTOL, helicopter pilot, aircraft carrier) do not say which campaign they are in, so they have their own chapter. StrategyWiki has the guide at completion stage 0 (not marked as a stub): Prologue (about 2,800 characters), Leon Chapter 1 to 3 (about 3,800 to 4,900 each), Gameplay, Walkthrough and Table of Contents are written; Leon Chapters 4 and 5 and all Chris, Jake and Ada chapters are linked but not written, so it was not used. residentevil.fandom.com answers the API with about 166 linked articles; names only were looked at, nothing copied."
+}

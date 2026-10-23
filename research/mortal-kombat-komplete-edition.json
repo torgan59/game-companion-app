@@ -1,0 +1,504 @@
+{
+  "id": "mortal-kombat-komplete-edition",
+  "title": "Mortal Kombat Komplete Edition",
+  "year": 2013,
+  "platforms": [
+    "PlayStation 3",
+    "PC",
+    "Xbox 360"
+  ],
+  "rawgId": 17599,
+  "rawgSlug": "mortal-kombat-komplete-edition",
+  "released": "2013-07-03",
+  "developers": [
+    "NetherRealm Studios",
+    "High Voltage Software"
+  ],
+  "playtime": 7,
+  "genres": [
+    "Arcade",
+    "Fighting"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Multiplayer",
+    "Full controller support",
+    "Steam Cloud",
+    "Co-op",
+    "cooperative",
+    "2D",
+    "Gore",
+    "Steam Leaderboards",
+    "Classic",
+    "Violent"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/297/297a51aa1f0999016d5a35e2e1d6d8ab.jpg",
+  "steamAppId": 237110,
+  "achievements": {
+    "total": 50,
+    "hidden": 0,
+    "examples": [
+      {
+        "name": "Block This!",
+        "percent": 57.3
+      },
+      {
+        "name": "Fatality!",
+        "percent": 49.8
+      },
+      {
+        "name": "License to Kill",
+        "percent": 41.1
+      },
+      {
+        "name": "Ultimate Humiliation",
+        "percent": 2.5
+      },
+      {
+        "name": "You Will Learn Respect!",
+        "percent": 2.4
+      },
+      {
+        "name": "Ultimate Respect!",
+        "percent": 2.4
+      },
+      {
+        "name": "Turtle!",
+        "percent": 2.4
+      },
+      {
+        "name": "My Kung Fu Is Stronger",
+        "percent": 2.3
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Mortal_Kombat_(2011)",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 286,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://mortalkombat.fandom.com/wiki/Mortal_Kombat_(2011_video_game)"
+    }
+  },
+  "game": {
+    "id": "mortal-kombat-komplete-edition",
+    "title": "Mortal Kombat Komplete Edition",
+    "platforms": [
+      "PlayStation 3",
+      "PC",
+      "Xbox 360"
+    ],
+    "blurb": "Fighting game from NetherRealm Studios and High Voltage Software, published by Warner Bros. Interactive, released 2013-07-03. RAWG average playtime: 7 hours. Genres: Arcade, Fighting. Chapters follow the modes named in the Steam achievements.",
+    "accent": "#A31F1F",
+    "chapters": [
+      {
+        "id": "story-and-training",
+        "title": "Story Mode and Training",
+        "summary": "Story Mode at 50% and 100%, the Tutorial and the Fatality Trainer.",
+        "steps": []
+      },
+      {
+        "id": "arcade",
+        "title": "Arcade Ladder",
+        "summary": "Arcade and Tag Ladders, max difficulty, no-block runs and the four Hidden Kombatants.",
+        "steps": []
+      },
+      {
+        "id": "online-and-versus",
+        "title": "Online and Versus",
+        "summary": "Versus matches, online and ranked wins, King of the Hill respect and streaks.",
+        "steps": []
+      },
+      {
+        "id": "challenge-tower",
+        "title": "Challenge Tower and Minigames",
+        "summary": "Tower missions and the Test Your Might, Strike, Sight and Luck minigames.",
+        "steps": []
+      },
+      {
+        "id": "krypt-and-unlocks",
+        "title": "The Krypt and Unlocks",
+        "summary": "Unlocking the Krypt, alternate costumes and hidden fighters.",
+        "steps": []
+      },
+      {
+        "id": "fighters-and-finishers",
+        "title": "Fighters and Finishers",
+        "summary": "Fatalities, X-Ray attacks, throws, Tag Combos, mastery and hidden finishing moves.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Halfway There!",
+        "kind": "trophy",
+        "chapterId": "story-and-training",
+        "where": "Complete Story Mode 50%"
+      },
+      {
+        "id": "achievement-2",
+        "name": "Back In Time...",
+        "kind": "trophy",
+        "chapterId": "story-and-training",
+        "where": "Complete Story Mode 100%"
+      },
+      {
+        "id": "achievement-3",
+        "name": "A For Effort",
+        "kind": "trophy",
+        "chapterId": "story-and-training",
+        "where": "Complete Tutorial Mode"
+      },
+      {
+        "id": "achievement-4",
+        "name": "Fatality!",
+        "kind": "trophy",
+        "chapterId": "fighters-and-finishers",
+        "where": "Perform a Fatality!"
+      },
+      {
+        "id": "achievement-5",
+        "name": "Block This!",
+        "kind": "trophy",
+        "chapterId": "fighters-and-finishers",
+        "where": "Perform a 10-hit combo with any fighter"
+      },
+      {
+        "id": "achievement-6",
+        "name": "The Grappler",
+        "kind": "trophy",
+        "chapterId": "fighters-and-finishers",
+        "where": "Perform every fighter's forward and backwards throws"
+      },
+      {
+        "id": "achievement-7",
+        "name": "Where's The Arcade?",
+        "kind": "trophy",
+        "chapterId": "arcade",
+        "where": "Complete Arcade Ladder with Any Fighter"
+      },
+      {
+        "id": "achievement-8",
+        "name": "Arcade Champion",
+        "kind": "trophy",
+        "chapterId": "arcade",
+        "where": "Complete Arcade Ladder with All Fighters"
+      },
+      {
+        "id": "achievement-9",
+        "name": "Finish What You Start!",
+        "kind": "trophy",
+        "chapterId": "fighters-and-finishers",
+        "where": "Perform a Fatality with all playable fighters"
+      },
+      {
+        "id": "achievement-10",
+        "name": "The Competitor",
+        "kind": "trophy",
+        "chapterId": "online-and-versus",
+        "where": "Complete 200 Versus matches (online OR offline)"
+      },
+      {
+        "id": "achievement-11",
+        "name": "Ladder Master",
+        "kind": "trophy",
+        "chapterId": "arcade",
+        "where": "Complete Arcade Ladder on max difficulty without using a continue"
+      },
+      {
+        "id": "achievement-12",
+        "name": "Don't Jump!",
+        "kind": "trophy",
+        "chapterId": "online-and-versus",
+        "where": "Win A Ranked Online Match without jumping"
+      },
+      {
+        "id": "achievement-13",
+        "name": "What Does This Button Do??",
+        "kind": "trophy",
+        "chapterId": "arcade",
+        "where": "Complete Arcade Ladder without blocking (allowed to continue)"
+      },
+      {
+        "id": "achievement-14",
+        "name": "Tough Guy!",
+        "kind": "trophy",
+        "chapterId": "online-and-versus",
+        "where": "Win an Online Match"
+      },
+      {
+        "id": "achievement-15",
+        "name": "Robots Rule!",
+        "kind": "trophy",
+        "chapterId": "arcade",
+        "where": "Win Arcade Tag Ladder with robot Sektor and Cyrax"
+      },
+      {
+        "id": "achievement-16",
+        "name": "Outstanding!",
+        "kind": "trophy",
+        "chapterId": "online-and-versus",
+        "where": "Win 10 Ranked Online Matches in a row"
+      },
+      {
+        "id": "achievement-17",
+        "name": "Cyber Challenger",
+        "kind": "trophy",
+        "chapterId": "online-and-versus",
+        "where": "Complete 100 Online Matches"
+      },
+      {
+        "id": "achievement-18",
+        "name": "Wavenet...",
+        "kind": "trophy",
+        "chapterId": "online-and-versus",
+        "where": "Win 100 total Online Matches"
+      },
+      {
+        "id": "achievement-19",
+        "name": "Humiliation",
+        "kind": "trophy",
+        "chapterId": "online-and-versus",
+        "where": "Get a Flawless Victory in an Online Match"
+      },
+      {
+        "id": "achievement-20",
+        "name": "You Will Learn Respect!",
+        "kind": "trophy",
+        "chapterId": "online-and-versus",
+        "where": "Earn 1000 Respect Points via King of the Hill Matches"
+      },
+      {
+        "id": "achievement-21",
+        "name": "Undertaker",
+        "kind": "trophy",
+        "chapterId": "krypt-and-unlocks",
+        "where": "Unlock 50% of the Krypt"
+      },
+      {
+        "id": "achievement-22",
+        "name": "The Krypt Keeper",
+        "kind": "trophy",
+        "chapterId": "krypt-and-unlocks",
+        "where": "Unlock 100% of the Krypt"
+      },
+      {
+        "id": "achievement-23",
+        "name": "There Will Be Blood!",
+        "kind": "trophy",
+        "chapterId": "fighters-and-finishers",
+        "where": "Spill 10000 pints of blood"
+      },
+      {
+        "id": "achievement-24",
+        "name": "License to Kill",
+        "kind": "trophy",
+        "chapterId": "story-and-training",
+        "where": "Complete Fatality Trainer"
+      },
+      {
+        "id": "achievement-25",
+        "name": "Ultimate Respect!",
+        "kind": "trophy",
+        "chapterId": "online-and-versus",
+        "where": "Earn 2500 Respect Points via King of the Hill Matches"
+      },
+      {
+        "id": "achievement-26",
+        "name": "There Can Be Only One!",
+        "kind": "trophy",
+        "chapterId": "online-and-versus",
+        "where": "Win 10 King of the Hill Matches in a row"
+      },
+      {
+        "id": "achievement-27",
+        "name": "Throws Are For Champs",
+        "kind": "trophy",
+        "chapterId": "online-and-versus",
+        "where": "Perform 8 throws in an Online Ranked Match"
+      },
+      {
+        "id": "achievement-28",
+        "name": "Turtle!",
+        "kind": "trophy",
+        "chapterId": "online-and-versus",
+        "where": "Win both rounds with timer running out in an Online Ranked Match"
+      },
+      {
+        "id": "achievement-29",
+        "name": "I'm Not Dead Yet!",
+        "kind": "trophy",
+        "chapterId": "online-and-versus",
+        "where": "Comeback with under 10% health in an Online Ranked Match"
+      },
+      {
+        "id": "achievement-30",
+        "name": "Cold Fusion",
+        "kind": "trophy",
+        "chapterId": "krypt-and-unlocks",
+        "where": "Unlock Hidden Fighter \"Cyber Sub-Zero\""
+      },
+      {
+        "id": "achievement-31",
+        "name": "e-X-cellent!",
+        "kind": "trophy",
+        "chapterId": "fighters-and-finishers",
+        "where": "Successfully land every playable fighter's X-Ray attack"
+      },
+      {
+        "id": "achievement-32",
+        "name": "Luck Be A Lady",
+        "kind": "trophy",
+        "chapterId": "challenge-tower",
+        "where": "Get all MK Dragons in Test Your Luck"
+      },
+      {
+        "id": "achievement-33",
+        "name": "You've Got Style!",
+        "kind": "trophy",
+        "chapterId": "krypt-and-unlocks",
+        "where": "Unlock all Alternate Costumes"
+      },
+      {
+        "id": "achievement-34",
+        "name": "Best...Alternate...Ever!",
+        "kind": "trophy",
+        "chapterId": "krypt-and-unlocks",
+        "where": "Unlock Mileena's 3rd Alternate Costume"
+      },
+      {
+        "id": "achievement-35",
+        "name": "My Kung Fu Is Strong",
+        "kind": "trophy",
+        "chapterId": "fighters-and-finishers",
+        "where": "Gain Mastery of 1 Fighter"
+      },
+      {
+        "id": "achievement-36",
+        "name": "My Kung Fu Is Stronger",
+        "kind": "trophy",
+        "chapterId": "fighters-and-finishers",
+        "where": "Gain Mastery of All Fighters"
+      },
+      {
+        "id": "achievement-37",
+        "name": "I \"Might\" Be the Strongest",
+        "kind": "trophy",
+        "chapterId": "challenge-tower",
+        "where": "Complete all Test Your Might mini-game challenges"
+      },
+      {
+        "id": "achievement-38",
+        "name": "Dim Mak!",
+        "kind": "trophy",
+        "chapterId": "challenge-tower",
+        "where": "Complete all Test Your Strike mini-game challenges"
+      },
+      {
+        "id": "achievement-39",
+        "name": "These Aren't My Glasses!",
+        "kind": "trophy",
+        "chapterId": "challenge-tower",
+        "where": "Complete all Test Your Sight mini-game challenges"
+      },
+      {
+        "id": "achievement-40",
+        "name": "Tower Apprentice",
+        "kind": "trophy",
+        "chapterId": "challenge-tower",
+        "where": "Complete 25 Tower missions"
+      },
+      {
+        "id": "achievement-41",
+        "name": "Tower Master",
+        "kind": "trophy",
+        "chapterId": "challenge-tower",
+        "where": "Complete all Tower missions"
+      },
+      {
+        "id": "achievement-42",
+        "name": "Tag, You're It!",
+        "kind": "trophy",
+        "chapterId": "fighters-and-finishers",
+        "where": "Perform and land a Tag Combo"
+      },
+      {
+        "id": "achievement-43",
+        "name": "Complet-ality",
+        "kind": "trophy",
+        "chapterId": "fighters-and-finishers",
+        "where": "Perform 1 of each type of \"-ality\""
+      },
+      {
+        "id": "achievement-44",
+        "name": "Finish Him?",
+        "kind": "trophy",
+        "chapterId": "fighters-and-finishers",
+        "where": "Perform any fighter's hidden finishing move"
+      },
+      {
+        "id": "achievement-45",
+        "name": "Ultimate Humiliation",
+        "kind": "trophy",
+        "chapterId": "fighters-and-finishers",
+        "where": "Perform every fighter's hidden finishing move"
+      },
+      {
+        "id": "achievement-46",
+        "name": "Quan-Tease",
+        "kind": "trophy",
+        "chapterId": "krypt-and-unlocks",
+        "where": "Unlock Hidden Fighter \"Quan Chi\""
+      },
+      {
+        "id": "achievement-47",
+        "name": "You Found Me!",
+        "kind": "trophy",
+        "chapterId": "arcade",
+        "where": "Discover and fight Hidden Kombatant 1 in Arcade Ladder"
+      },
+      {
+        "id": "achievement-48",
+        "name": "Hide and Seek",
+        "kind": "trophy",
+        "chapterId": "arcade",
+        "where": "Discover and fight Hidden Kombatant 2 in Arcade Ladder"
+      },
+      {
+        "id": "achievement-49",
+        "name": "Pit Master",
+        "kind": "trophy",
+        "chapterId": "arcade",
+        "where": "Discover and fight Hidden Kombatant 3 in Arcade Ladder"
+      },
+      {
+        "id": "achievement-50",
+        "name": "Brotherhood of Shadow",
+        "kind": "trophy",
+        "chapterId": "arcade",
+        "where": "Discover and fight Hidden Kombatant 4 in Arcade Ladder"
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/mortal-kombat-komplete-edition",
+    "Achievement data from Steam (Steam Web API, app 237110)",
+    "StrategyWiki: no usable walkthrough, nothing used — https://strategywiki.org/wiki/Mortal_Kombat_(2011)",
+    "Fandom (mortalkombat.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://mortalkombat.fandom.com/wiki/Mortal_Kombat_(2011_video_game)"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). RAWG's first result is the expected entry (id 17599). App 237110 comes from RAWG's own Steam store link for this entry; it is not in the current Steam store app list, but the Steam Web API still returns its achievement schema (with a blank game name) and global percentages. 0 of 50 Steam achievements are hidden. StrategyWiki redirects \"Mortal Kombat Komplete Edition\" to \"Mortal Kombat (2011)\" (completion stage 0): Achievements and trophies, Characters, Moves (about 221,000 characters) and Table of Contents are written; Walkthrough and the sixteen story chapter pages are linked but not written. mortalkombat.fandom.com has no page under \"Mortal Kombat Komplete Edition\"; \"Mortal Kombat (2011)\" redirects to \"Mortal Kombat (2011 video game)\", with about 286 linked articles; names only were looked at, nothing copied. Test Your Luck was grouped with the other Test Your minigames."
+}

@@ -1,0 +1,593 @@
+{
+  "id": "kingdoms-of-amalur-reckoning",
+  "title": "Kingdoms of Amalur: Reckoning",
+  "year": 2012,
+  "platforms": [
+    "PC",
+    "PlayStation 3",
+    "Xbox 360"
+  ],
+  "rawgId": 4185,
+  "rawgSlug": "kingdoms-of-amalur-reckoning",
+  "released": "2012-02-07",
+  "developers": [
+    "Electronic Arts",
+    "Big Huge Games",
+    "38 Studios"
+  ],
+  "playtime": 6,
+  "genres": [
+    "Action",
+    "Adventure",
+    "RPG"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Steam Cloud",
+    "Atmospheric",
+    "Great Soundtrack",
+    "RPG",
+    "Story Rich",
+    "Open World",
+    "Third Person",
+    "Partial Controller Support",
+    "Fantasy",
+    "Exploration"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/bad/bad95aa1f2edbbad2ae93981291b6560.jpg",
+  "steamAppId": 102500,
+  "achievements": {
+    "total": 61,
+    "hidden": 17,
+    "examples": [
+      {
+        "name": "Good as New",
+        "percent": 64.0
+      },
+      {
+        "name": "Would You Like Fries with that?",
+        "percent": 56.8
+      },
+      {
+        "name": "Cleaning Up the Streets",
+        "percent": 48.3
+      },
+      {
+        "name": "Out of Your League",
+        "percent": 5.3
+      },
+      {
+        "name": "Where's My Wallet?",
+        "percent": 3.3
+      },
+      {
+        "name": "Loremaster",
+        "percent": 3.2
+      },
+      {
+        "name": "Green Thumb",
+        "percent": 1.8
+      },
+      {
+        "name": "A Life of Crime",
+        "percent": 1.7
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": false,
+      "pages": 0,
+      "reason": "No page for Kingdoms of Amalur: Reckoning (MediaWiki API returned missing; see notes for other titles tried)"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 11,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://amalur.fandom.com/wiki/Kingdoms_of_Amalur:_Reckoning"
+    }
+  },
+  "game": {
+    "id": "kingdoms-of-amalur-reckoning",
+    "title": "Kingdoms of Amalur: Reckoning",
+    "platforms": [
+      "PC",
+      "PlayStation 3",
+      "Xbox 360"
+    ],
+    "blurb": "Open-world action RPG set in the Faelands, from Big Huge Games and 38 Studios (RAWG also lists Electronic Arts), published by Electronic Arts and 38 Studios, released 2012-02-07. RAWG average playtime: 6 hours. Genres: Action, Adventure, RPG. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#4E7D3A",
+    "chapters": [
+      {
+        "id": "main-story",
+        "title": "The Main Story",
+        "summary": "The hidden storyline milestones, from being reborn to the end of the story, including Mel Senshir. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "factions",
+        "title": "Faction Questlines",
+        "summary": "The House of Ballads, House of Sorrows, Scholia Arcana, Travelers and Warsworn storylines.",
+        "steps": []
+      },
+      {
+        "id": "exploration",
+        "title": "Exploration and Lore",
+        "summary": "Discovering locations and hidden things, every Lorestone and reading books.",
+        "steps": []
+      },
+      {
+        "id": "crafting",
+        "title": "Alchemy, Blacksmithing and Sagecraft",
+        "summary": "Potions and reagents, repairing and forging equipment, gems and shards.",
+        "steps": []
+      },
+      {
+        "id": "stealth-and-crime",
+        "title": "Stealth, Crime and Persuasion",
+        "summary": "Backstabs, stealing, pickpocketing, jail, bribes, locks, wards, persuasion and other mischief.",
+        "steps": []
+      },
+      {
+        "id": "combat-and-destinies",
+        "title": "Combat and Destinies",
+        "summary": "Fateshift, Niskaru, parries, traps, ability kills, attack chains, Unique weapons and hybrid, top-tier and Jack of All Trades destinies.",
+        "steps": []
+      },
+      {
+        "id": "dlc-1",
+        "title": "Downloadable Content: First Set",
+        "summary": "Five hidden achievements with API names starting DLC1. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "dlc-2",
+        "title": "Downloadable Content: Second Set",
+        "summary": "Six hidden achievements with API names starting DLC2 (one is spelled DCL2). Spoiler-guarded.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "No Destiny, All Determination",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-2",
+        "name": "Turning the Tide",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-3",
+        "name": "Hero of Mel Senshir",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-4",
+        "name": "Destiny Defiant",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-5",
+        "name": "Destiny Dominated",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-6",
+        "name": "House of Ballads",
+        "kind": "trophy",
+        "chapterId": "factions",
+        "where": "Completed the House of Ballads storyline quests."
+      },
+      {
+        "id": "achievement-7",
+        "name": "House of Sorrows",
+        "kind": "trophy",
+        "chapterId": "factions",
+        "where": "Completed the House of Sorrows storyline quests."
+      },
+      {
+        "id": "achievement-8",
+        "name": "Scholia Arcana",
+        "kind": "trophy",
+        "chapterId": "factions",
+        "where": "Completed the Scholia Arcana storyline quests."
+      },
+      {
+        "id": "achievement-9",
+        "name": "Travelers",
+        "kind": "trophy",
+        "chapterId": "factions",
+        "where": "Completed the Travelers storyline quests."
+      },
+      {
+        "id": "achievement-10",
+        "name": "Warsworn",
+        "kind": "trophy",
+        "chapterId": "factions",
+        "where": "Completed the Warsworn storyline quests."
+      },
+      {
+        "id": "achievement-11",
+        "name": "Reckoning Rampage",
+        "kind": "trophy",
+        "chapterId": "combat-and-destinies",
+        "where": "Killed 5 enemies with a single Fateshift."
+      },
+      {
+        "id": "achievement-12",
+        "name": "Niskaru Slayer",
+        "kind": "trophy",
+        "chapterId": "combat-and-destinies",
+        "where": "Killed 25 Niskaru."
+      },
+      {
+        "id": "achievement-13",
+        "name": "Out of Your League",
+        "kind": "trophy",
+        "chapterId": "combat-and-destinies",
+        "where": "Killed an enemy 4 levels higher than you."
+      },
+      {
+        "id": "achievement-14",
+        "name": "Cleaning Up the Streets",
+        "kind": "trophy",
+        "chapterId": "combat-and-destinies",
+        "where": "Killed 50 bandits."
+      },
+      {
+        "id": "achievement-15",
+        "name": "Blades of Glory",
+        "kind": "trophy",
+        "chapterId": "combat-and-destinies",
+        "where": "Acquired 10 Unique weapons (Special Delivery weapons excluded)."
+      },
+      {
+        "id": "achievement-16",
+        "name": "Foiled Again!",
+        "kind": "trophy",
+        "chapterId": "combat-and-destinies",
+        "where": "Parried 100 times."
+      },
+      {
+        "id": "achievement-17",
+        "name": "Trapper",
+        "kind": "trophy",
+        "chapterId": "combat-and-destinies",
+        "where": "Killed 25 enemies with traps."
+      },
+      {
+        "id": "achievement-18",
+        "name": "Riposte!",
+        "kind": "trophy",
+        "chapterId": "combat-and-destinies",
+        "where": "Landed 25 special attacks out of Parry."
+      },
+      {
+        "id": "achievement-19",
+        "name": "Would You Like Fries with that?",
+        "kind": "trophy",
+        "chapterId": "combat-and-destinies",
+        "where": "Landed 100 complete attack chains."
+      },
+      {
+        "id": "achievement-20",
+        "name": "Shock and Awe",
+        "kind": "trophy",
+        "chapterId": "combat-and-destinies",
+        "where": "Killed 100 enemies with abilities."
+      },
+      {
+        "id": "achievement-21",
+        "name": "And Then There Were None",
+        "kind": "trophy",
+        "chapterId": "combat-and-destinies",
+        "where": "Killed 500 enemies with abilities."
+      },
+      {
+        "id": "achievement-22",
+        "name": "Juggler",
+        "kind": "trophy",
+        "chapterId": "combat-and-destinies",
+        "where": "Landed 5 consecutive hits on a launched enemy."
+      },
+      {
+        "id": "achievement-23",
+        "name": "Elixir of Fate",
+        "kind": "trophy",
+        "chapterId": "crafting",
+        "where": "Made a potion with the Essence of Fate."
+      },
+      {
+        "id": "achievement-24",
+        "name": "It Didn't Explode!",
+        "kind": "trophy",
+        "chapterId": "crafting",
+        "where": "Made a stable potion by experimenting."
+      },
+      {
+        "id": "achievement-25",
+        "name": "Green Thumb",
+        "kind": "trophy",
+        "chapterId": "crafting",
+        "where": "Harvested 10 of each type of reagent."
+      },
+      {
+        "id": "achievement-26",
+        "name": "Good as New",
+        "kind": "trophy",
+        "chapterId": "crafting",
+        "where": "Repaired a piece of equipment."
+      },
+      {
+        "id": "achievement-27",
+        "name": "Shop Class",
+        "kind": "trophy",
+        "chapterId": "crafting",
+        "where": "Crafted a piece of equipment with Blacksmithing."
+      },
+      {
+        "id": "achievement-28",
+        "name": "Master of the Forge",
+        "kind": "trophy",
+        "chapterId": "crafting",
+        "where": "Crafted an item that uses all 5 forge component slots."
+      },
+      {
+        "id": "achievement-29",
+        "name": "Romancing the Gem",
+        "kind": "trophy",
+        "chapterId": "crafting",
+        "where": "Crafted an Epic Gem."
+      },
+      {
+        "id": "achievement-30",
+        "name": "Diamond in the Rough",
+        "kind": "trophy",
+        "chapterId": "crafting",
+        "where": "Crafted a Pristine Shard."
+      },
+      {
+        "id": "achievement-31",
+        "name": "They Never Saw it Coming",
+        "kind": "trophy",
+        "chapterId": "stealth-and-crime",
+        "where": "Backstabbed 20 enemies."
+      },
+      {
+        "id": "achievement-32",
+        "name": "Cartographer",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Discovered 100 locations."
+      },
+      {
+        "id": "achievement-33",
+        "name": "The Great Detective",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Detected 25 hidden things."
+      },
+      {
+        "id": "achievement-34",
+        "name": "Loremaster",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Discovered all Lorestones."
+      },
+      {
+        "id": "achievement-35",
+        "name": "Bookworm",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Read 50 books."
+      },
+      {
+        "id": "achievement-36",
+        "name": "Big Spender",
+        "kind": "trophy",
+        "chapterId": "stealth-and-crime",
+        "where": "Spent 200,000 gold."
+      },
+      {
+        "id": "achievement-37",
+        "name": "Five Finger Discount",
+        "kind": "trophy",
+        "chapterId": "stealth-and-crime",
+        "where": "Stole and fenced an item."
+      },
+      {
+        "id": "achievement-38",
+        "name": "Where's My Wallet?",
+        "kind": "trophy",
+        "chapterId": "stealth-and-crime",
+        "where": "Pickpocketed 20 times."
+      },
+      {
+        "id": "achievement-39",
+        "name": "Jailbreak",
+        "kind": "trophy",
+        "chapterId": "stealth-and-crime",
+        "where": "You broke out of jail."
+      },
+      {
+        "id": "achievement-40",
+        "name": "A Life of Crime",
+        "kind": "trophy",
+        "chapterId": "stealth-and-crime",
+        "where": "Got caught committing a crime 25 times."
+      },
+      {
+        "id": "achievement-41",
+        "name": "Crime Doesn't Pay",
+        "kind": "trophy",
+        "chapterId": "stealth-and-crime",
+        "where": "Spent over 10,000 gold in crime bribes."
+      },
+      {
+        "id": "achievement-42",
+        "name": "Some of This, Some of That",
+        "kind": "trophy",
+        "chapterId": "combat-and-destinies",
+        "where": "Unlocked a two-class hybrid destiny."
+      },
+      {
+        "id": "achievement-43",
+        "name": "It is Your Destiny",
+        "kind": "trophy",
+        "chapterId": "combat-and-destinies",
+        "where": "Unlocked a top tier destiny."
+      },
+      {
+        "id": "achievement-44",
+        "name": "Jack of All Trades",
+        "kind": "trophy",
+        "chapterId": "combat-and-destinies",
+        "where": "Unlocked a Jack of All Trades destiny."
+      },
+      {
+        "id": "achievement-45",
+        "name": "Breaking and Entering",
+        "kind": "trophy",
+        "chapterId": "stealth-and-crime",
+        "where": "Picked 50 locks."
+      },
+      {
+        "id": "achievement-46",
+        "name": "Open Sesame",
+        "kind": "trophy",
+        "chapterId": "stealth-and-crime",
+        "where": "Dispelled 50 wards."
+      },
+      {
+        "id": "achievement-47",
+        "name": "A Wink and a Smile",
+        "kind": "trophy",
+        "chapterId": "stealth-and-crime",
+        "where": "You have succeeded at 50 Persuasion attempts."
+      },
+      {
+        "id": "achievement-48",
+        "name": "Bull in a China Shop",
+        "kind": "trophy",
+        "chapterId": "stealth-and-crime",
+        "where": "Smashed 1,000 objects."
+      },
+      {
+        "id": "achievement-49",
+        "name": "Streaker",
+        "kind": "trophy",
+        "chapterId": "stealth-and-crime",
+        "where": "You spoke to someone while not wearing clothes."
+      },
+      {
+        "id": "achievement-50",
+        "name": "Reborn",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-51",
+        "name": "Message in a Bottle",
+        "kind": "trophy",
+        "chapterId": "dlc-1",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-52",
+        "name": "Keep on Rising",
+        "kind": "trophy",
+        "chapterId": "dlc-1",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-53",
+        "name": "Give Her a Hand",
+        "kind": "trophy",
+        "chapterId": "dlc-1",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-54",
+        "name": "Manic Pixie Dream Elf",
+        "kind": "trophy",
+        "chapterId": "dlc-1",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-55",
+        "name": "Exterminator",
+        "kind": "trophy",
+        "chapterId": "dlc-1",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-56",
+        "name": "The Harder They Fall",
+        "kind": "trophy",
+        "chapterId": "dlc-2",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-57",
+        "name": "We Built this City",
+        "kind": "trophy",
+        "chapterId": "dlc-2",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-58",
+        "name": "Mistaken Identity",
+        "kind": "trophy",
+        "chapterId": "dlc-2",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-59",
+        "name": "Beam Me Up",
+        "kind": "trophy",
+        "chapterId": "dlc-2",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-60",
+        "name": "Murder Most Fowl",
+        "kind": "trophy",
+        "chapterId": "dlc-2",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-61",
+        "name": "I Regret Nothing",
+        "kind": "trophy",
+        "chapterId": "dlc-2",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/kingdoms-of-amalur-reckoning",
+    "Achievement data from Steam (Steam Web API, app 102500)",
+    "StrategyWiki: no page for this game, nothing used",
+    "Fandom (amalur.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://amalur.fandom.com/wiki/Kingdoms_of_Amalur:_Reckoning"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). RAWG's first result is the expected entry (id 4185). RAWG keeps \"Kingdoms of Amalur: Re-Reckoning\" (2020) separately, and the Steam store list has both the original, app 102500 (\"Kingdoms of Amalur: Reckoning™\"), and \"Kingdoms of Amalur: Re-Reckoning\" (1041720). RAWG's store link for this entry points to 102500, so the original app was used; its schema (\"Kingdoms Of Amalur: Reckoning\") returned 61 achievements. StrategyWiki has no page under \"Kingdoms of Amalur: Reckoning\" or \"Kingdoms of Amalur: Re-Reckoning\". amalur.fandom.com answers the API under \"Kingdoms of Amalur: Reckoning\" but with only 11 linked articles (races, skills and a few others); names only were looked at, nothing copied. 17 of 61 Steam achievements are hidden. quest_21 to quest_26 (\"Reborn\" at 88.7% down to \"Destiny Dominated\" at 2.3%, one naming Mel Senshir) look like main-story milestones. Eleven hidden ones have API names starting DLC1_ (5) or DLC2_/DCL2_ (6), so they get two DLC chapters. RAWG keeps two DLC entries, \"The Legend of Dead Kel\" (2012-03-20) and \"Teeth of Naros\" (2012-04-18); which set matches which is not stated in the data, so the chapter titles stay neutral (by release order, DLC1 may be The Legend of Dead Kel, a guess). \"Big Spender\", \"Bull in a China Shop\" and \"Streaker\" were put with stealth and crime as a loose fit."
+}
