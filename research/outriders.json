@@ -1,0 +1,527 @@
+{
+  "id": "outriders",
+  "title": "Outriders",
+  "year": 2021,
+  "platforms": [
+    "Xbox One",
+    "PlayStation 4",
+    "Xbox Series X|S",
+    "PlayStation 5",
+    "PC"
+  ],
+  "rawgId": 327227,
+  "rawgSlug": "outriders",
+  "released": "2021-04-01",
+  "developers": [
+    "People Can Fly"
+  ],
+  "playtime": 18,
+  "genres": [
+    "Action",
+    "Shooter",
+    "Adventure",
+    "RPG"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Multiplayer",
+    "Full controller support",
+    "Atmospheric",
+    "RPG",
+    "Co-op",
+    "cooperative",
+    "Sci-fi",
+    "Online Co-Op",
+    "Gore",
+    "Violent"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/faa/faa6a4a7a2e57faf2960329630aee211.jpg",
+  "steamAppId": 680420,
+  "achievements": {
+    "total": 52,
+    "hidden": 9,
+    "examples": [
+      {
+        "name": "A Gathering Storm",
+        "percent": 89.3
+      },
+      {
+        "name": "Urgent Task",
+        "percent": 85.6
+      },
+      {
+        "name": "Fortune Favors the Bold",
+        "percent": 83.4
+      },
+      {
+        "name": "One Half of Every Married Couple",
+        "percent": 6.9
+      },
+      {
+        "name": "Just Take the Pod",
+        "percent": 5.5
+      },
+      {
+        "name": "Button Mashing",
+        "percent": 4.5
+      },
+      {
+        "name": "Approaching the Apocalypse",
+        "percent": 3.2
+      },
+      {
+        "name": "Outrider, First Class",
+        "percent": 2.6
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": false,
+      "pages": 0,
+      "reason": "No page for Outriders (MediaWiki API returned missing; see notes for other titles tried)"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 67,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://outriders.fandom.com/wiki/Outriders"
+    }
+  },
+  "game": {
+    "id": "outriders",
+    "title": "Outriders",
+    "platforms": [
+      "Xbox One",
+      "PlayStation 4",
+      "Xbox Series X|S",
+      "PlayStation 5",
+      "PC"
+    ],
+    "blurb": "Co-op sci-fi looter shooter for one to three players, from People Can Fly, released 2021-04-01. RAWG average playtime: 18 hours. Genres: Action, Shooter, Adventure, RPG. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#C46A2B",
+    "chapters": [
+      {
+        "id": "main-story",
+        "title": "The Main Story",
+        "summary": "The campaign, told through hidden milestones. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "side-quests",
+        "title": "Side Quests and Questlines",
+        "summary": "Side quests, and the Historian, Wanted, Hunter and Outrider's Legacy questlines.",
+        "steps": []
+      },
+      {
+        "id": "expeditions",
+        "title": "Expeditions",
+        "summary": "Expedition kills and finishing every New Horizon Expedition.",
+        "steps": []
+      },
+      {
+        "id": "character-and-class",
+        "title": "Level, Class Tree, Accolades and Journal",
+        "summary": "Character levels, the class tree, Accolades and filling in journal pages.",
+        "steps": []
+      },
+      {
+        "id": "gear-and-crafting",
+        "title": "Gear, Crafting and Mining",
+        "summary": "Selling, dismantling, crafting rarity and mods, legendary and epic gear, and mining ore.",
+        "steps": []
+      },
+      {
+        "id": "tarya-gratar",
+        "title": "Tarya Gratar and the Arbiters",
+        "summary": "Later achievements: Molten Depths, the Marshal's Complex, Tarya Gratar, the Arbiters and Apocalypse Tier 25.",
+        "steps": []
+      },
+      {
+        "id": "combat",
+        "title": "Combat Feats",
+        "summary": "Kill counts, damage totals, status effects, skills and melee.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Awoken to a Nightmare",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-2",
+        "name": "In Rode A Hero",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-3",
+        "name": "Wavelengths and Wishes",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-4",
+        "name": "One Way Ride",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-5",
+        "name": "Malpractice",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-6",
+        "name": "Breaking the Seal",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-7",
+        "name": "Fatherhood Ain't Easy, Boss",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-8",
+        "name": "Descent to Fury",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-9",
+        "name": "One Last Chance",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-10",
+        "name": "Patron of the Past",
+        "kind": "trophy",
+        "chapterId": "side-quests",
+        "where": "Complete the Historian questline."
+      },
+      {
+        "id": "achievement-11",
+        "name": "Hand of Death",
+        "kind": "trophy",
+        "chapterId": "side-quests",
+        "where": "Complete the Wanted questline."
+      },
+      {
+        "id": "achievement-12",
+        "name": "Big Game Hunter",
+        "kind": "trophy",
+        "chapterId": "side-quests",
+        "where": "Complete the Hunter questline."
+      },
+      {
+        "id": "achievement-13",
+        "name": "The Burdens We Bear",
+        "kind": "trophy",
+        "chapterId": "side-quests",
+        "where": "Complete \"The Outrider's Legacy\"."
+      },
+      {
+        "id": "achievement-14",
+        "name": "Urgent Task",
+        "kind": "trophy",
+        "chapterId": "side-quests",
+        "where": "Complete a side quest."
+      },
+      {
+        "id": "achievement-15",
+        "name": "Multitasking",
+        "kind": "trophy",
+        "chapterId": "side-quests",
+        "where": "Complete 25 side quests."
+      },
+      {
+        "id": "achievement-16",
+        "name": "Squaretasking",
+        "kind": "trophy",
+        "chapterId": "side-quests",
+        "where": "Complete all side quests."
+      },
+      {
+        "id": "achievement-17",
+        "name": "Overtime at the Morgue",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Kill 3500 enemies."
+      },
+      {
+        "id": "achievement-18",
+        "name": "Gravedigger's BFF",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Kill 7500 enemies."
+      },
+      {
+        "id": "achievement-19",
+        "name": "Snap of the Fingers",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Deal a total of 1,000,000 damage."
+      },
+      {
+        "id": "achievement-20",
+        "name": "Misfortune Loves Company",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Kill 10 enemies with no more than 2 seconds between each kill."
+      },
+      {
+        "id": "achievement-21",
+        "name": "Coup de Grâce",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Kill an enemy afflicted with at least 4 different status effects."
+      },
+      {
+        "id": "achievement-22",
+        "name": "Clash of the Altered",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Kill 5 Elites using skills only."
+      },
+      {
+        "id": "achievement-23",
+        "name": "Hitting the Jackpot",
+        "kind": "trophy",
+        "chapterId": "expeditions",
+        "where": "Kill 1000 enemies in Expeditions."
+      },
+      {
+        "id": "achievement-24",
+        "name": "Ace in the Hole",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Use a skill enhanced by 4 different mods."
+      },
+      {
+        "id": "achievement-25",
+        "name": "Fistbump",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Kill a total of 50 enemies with any Melee skill."
+      },
+      {
+        "id": "achievement-26",
+        "name": "Fortune Favors the Bold",
+        "kind": "trophy",
+        "chapterId": "character-and-class",
+        "where": "Reach character level 10."
+      },
+      {
+        "id": "achievement-27",
+        "name": "Leave Humanity Behind",
+        "kind": "trophy",
+        "chapterId": "character-and-class",
+        "where": "Reach character level 30."
+      },
+      {
+        "id": "achievement-28",
+        "name": "A Gathering Storm",
+        "kind": "trophy",
+        "chapterId": "character-and-class",
+        "where": "Unlock a class tree node."
+      },
+      {
+        "id": "achievement-29",
+        "name": "Surpassing the Tempest",
+        "kind": "trophy",
+        "chapterId": "character-and-class",
+        "where": "Master a branch of the class tree for any class."
+      },
+      {
+        "id": "achievement-30",
+        "name": "Hard Bargainer",
+        "kind": "trophy",
+        "chapterId": "gear-and-crafting",
+        "where": "Sell 300 items."
+      },
+      {
+        "id": "achievement-31",
+        "name": "One Man's Junk...",
+        "kind": "trophy",
+        "chapterId": "gear-and-crafting",
+        "where": "Dismantle 300 items."
+      },
+      {
+        "id": "achievement-32",
+        "name": "True Potential",
+        "kind": "trophy",
+        "chapterId": "gear-and-crafting",
+        "where": "Use crafting to improve the rarity of 15 items."
+      },
+      {
+        "id": "achievement-33",
+        "name": "Extreme Engineering",
+        "kind": "trophy",
+        "chapterId": "gear-and-crafting",
+        "where": "Use crafting to replace 10 item mods."
+      },
+      {
+        "id": "achievement-34",
+        "name": "Inventor's Almanac",
+        "kind": "trophy",
+        "chapterId": "gear-and-crafting",
+        "where": "Unlock 125 unique weapon and armor mods for crafting."
+      },
+      {
+        "id": "achievement-35",
+        "name": "Spoils of War",
+        "kind": "trophy",
+        "chapterId": "gear-and-crafting",
+        "where": "Equip a legendary item."
+      },
+      {
+        "id": "achievement-36",
+        "name": "Legacy of Enoch",
+        "kind": "trophy",
+        "chapterId": "gear-and-crafting",
+        "where": "Equip a character with epic or legendary items only."
+      },
+      {
+        "id": "achievement-37",
+        "name": "Prospector",
+        "kind": "trophy",
+        "chapterId": "gear-and-crafting",
+        "where": "Mine ore from a deposit 30 times."
+      },
+      {
+        "id": "achievement-38",
+        "name": "Knowledge is Power",
+        "kind": "trophy",
+        "chapterId": "character-and-class",
+        "where": "Fill in 150 journal pages."
+      },
+      {
+        "id": "achievement-39",
+        "name": "One for the Books",
+        "kind": "trophy",
+        "chapterId": "character-and-class",
+        "where": "Fill in 300 journal pages."
+      },
+      {
+        "id": "achievement-40",
+        "name": "Classy",
+        "kind": "trophy",
+        "chapterId": "character-and-class",
+        "where": "Complete the highest tier of 4 class-related Accolades for any class."
+      },
+      {
+        "id": "achievement-41",
+        "name": "Outrider, First Class",
+        "kind": "trophy",
+        "chapterId": "character-and-class",
+        "where": "Complete all class-related Accolades for any class."
+      },
+      {
+        "id": "achievement-42",
+        "name": "Been There, Done That...",
+        "kind": "trophy",
+        "chapterId": "character-and-class",
+        "where": "Reach Accolade level 10."
+      },
+      {
+        "id": "achievement-43",
+        "name": "Been Everywhere, Done It All",
+        "kind": "trophy",
+        "chapterId": "character-and-class",
+        "where": "Reach Accolade level 20."
+      },
+      {
+        "id": "achievement-44",
+        "name": "Just Take the Pod",
+        "kind": "trophy",
+        "chapterId": "expeditions",
+        "where": "Complete all New Horizon Expeditions."
+      },
+      {
+        "id": "achievement-45",
+        "name": "One Half of Every Married Couple",
+        "kind": "trophy",
+        "chapterId": "tarya-gratar",
+        "where": "Dispose of the Acari in Molten Depths while playing in a duo."
+      },
+      {
+        "id": "achievement-46",
+        "name": "Button Mashing",
+        "kind": "trophy",
+        "chapterId": "tarya-gratar",
+        "where": "Interfere with an experiment in The Marshal's Complex."
+      },
+      {
+        "id": "achievement-47",
+        "name": "Court Marshal",
+        "kind": "trophy",
+        "chapterId": "tarya-gratar",
+        "where": "Grant a stay of execution."
+      },
+      {
+        "id": "achievement-48",
+        "name": "Null and Void",
+        "kind": "trophy",
+        "chapterId": "tarya-gratar",
+        "where": "Learn Salvador's strange discovery."
+      },
+      {
+        "id": "achievement-49",
+        "name": "Apex Altered",
+        "kind": "trophy",
+        "chapterId": "tarya-gratar",
+        "where": "Secure the valley's future."
+      },
+      {
+        "id": "achievement-50",
+        "name": "Empire of Thorns",
+        "kind": "trophy",
+        "chapterId": "tarya-gratar",
+        "where": "Return to Tarya Gratar and face the first Arbiter."
+      },
+      {
+        "id": "achievement-51",
+        "name": "Beyond Humanity",
+        "kind": "trophy",
+        "chapterId": "tarya-gratar",
+        "where": "Embrace the Madness."
+      },
+      {
+        "id": "achievement-52",
+        "name": "Approaching the Apocalypse",
+        "kind": "trophy",
+        "chapterId": "tarya-gratar",
+        "where": "Defeat final Arbiter on Apocalypse Tier 25."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/outriders",
+    "Achievement data from Steam (Steam Web API, app 680420)",
+    "StrategyWiki: no page for this game, nothing used",
+    "Fandom (outriders.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://outriders.fandom.com/wiki/Outriders"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). No StrategyWiki page under \"Outriders\" or \"OUTRIDERS\". outriders.fandom.com answers the API under \"Outriders\", with about 69 linked pages, mostly cast members plus system pages such as \"Classes\", \"Expeditions\", \"World Tier\", \"Challenge Tiers\" and \"Worldslayer\"; names only were looked at, nothing copied. The Steam schema calls the app \"Madness\" (an internal codename); app 680420 is \"OUTRIDERS\". 9 of 52 Steam achievements are hidden; all have high unlock rates (51 to 91%) and read like story beats, so they sit in the main story chapter. The last eight achievements (Molten Depths, the Marshal's Complex, Tarya Gratar, the Arbiters, \"Embrace the Madness\" and Apocalypse Tier 25) have low unlock rates (3 to 13%) and get their own chapter; RAWG lists \"Outriders Worldslayer\" (2022-06-28) as a separate entry and Fandom links a \"Worldslayer\" page, so they may belong to that expansion, but the data does not say so."
+}

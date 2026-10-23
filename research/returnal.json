@@ -1,0 +1,416 @@
+{
+  "id": "returnal",
+  "title": "Returnal",
+  "year": 2021,
+  "platforms": [
+    "PC",
+    "PlayStation 5"
+  ],
+  "rawgId": 452639,
+  "rawgSlug": "returnal",
+  "released": "2021-04-30",
+  "developers": [
+    "Housemarque",
+    "Climax Studios"
+  ],
+  "playtime": 8,
+  "genres": [
+    "Action",
+    "Shooter"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Multiplayer",
+    "Full controller support",
+    "Steam Cloud",
+    "Co-op",
+    "cooperative",
+    "Sci-fi",
+    "Horror",
+    "Online Co-Op",
+    "Difficult",
+    "Female Protagonist"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/673/673f27be4c5dbf37ce3ed0ed5ddf9d8d.jpg",
+  "steamAppId": 1649240,
+  "achievements": {
+    "total": 38,
+    "hidden": 24,
+    "examples": [
+      {
+        "name": "Cryptic Messages",
+        "percent": 83.8
+      },
+      {
+        "name": "Adrenaline Spike",
+        "percent": 82.4
+      },
+      {
+        "name": "Atropian Survival",
+        "percent": 75.1
+      },
+      {
+        "name": "Irreversibly Contaminated",
+        "percent": 30.0
+      },
+      {
+        "name": "Adapting to Circumstance",
+        "percent": 21.1
+      },
+      {
+        "name": "In-Field Training",
+        "percent": 13.1
+      },
+      {
+        "name": "Past the Ruins",
+        "percent": 3.8
+      },
+      {
+        "name": "Helios",
+        "percent": 1.3
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": false,
+      "pages": 0,
+      "reason": "No page for Returnal (MediaWiki API returned missing; see notes for other titles tried)"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 3,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://returnal.fandom.com/wiki/Returnal"
+    }
+  },
+  "game": {
+    "id": "returnal",
+    "title": "Returnal",
+    "platforms": [
+      "PC",
+      "PlayStation 5"
+    ],
+    "blurb": "Roguelike sci-fi third-person shooter on a planet that changes with every death, from Housemarque (PC port with Climax Studios), released 2021-04-30. RAWG average playtime: 8 hours. Genres: Action, Shooter. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#2E7D8C",
+    "chapters": [
+      {
+        "id": "the-cycle",
+        "title": "The Cycle: Story and Bosses",
+        "summary": "The hidden story milestones and boss fights, and collecting every main achievement. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "surveys",
+        "title": "Biome Surveys",
+        "summary": "Finishing the Overgrown Ruins survey and the hidden achievements that look like its counterparts in other areas. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "logs-and-glyphs",
+        "title": "Xenoglyphs, Scout Logs and Archives",
+        "summary": "Scanning and translating Xenoglyphs, retrieving Scout Logs and completing a Xeno-archive set.",
+        "steps": []
+      },
+      {
+        "id": "combat-and-builds",
+        "title": "Combat and Builds",
+        "summary": "Overloads, weapon proficiency, Integrity, Adrenaline, Parasites and Calculated Risk.",
+        "steps": []
+      },
+      {
+        "id": "simulation",
+        "title": "Simulation Mode Daily Challenges",
+        "summary": "Completing a daily challenge in Simulation Mode.",
+        "steps": []
+      },
+      {
+        "id": "beyond-main",
+        "title": "Beyond the Main Achievements",
+        "summary": "Seven hidden achievements listed after Helios. Spoiler-guarded.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Atropian Survival",
+        "kind": "trophy",
+        "chapterId": "combat-and-builds",
+        "where": "Learn the basics of survival on Atropos"
+      },
+      {
+        "id": "achievement-2",
+        "name": "Past the Ruins",
+        "kind": "trophy",
+        "chapterId": "surveys",
+        "where": "Finish Overgrown Ruins Survey"
+      },
+      {
+        "id": "achievement-3",
+        "name": "Ascending the Mountain",
+        "kind": "trophy",
+        "chapterId": "surveys",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-4",
+        "name": "Through the Forgotten City",
+        "kind": "trophy",
+        "chapterId": "surveys",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-5",
+        "name": "Echoes of the Past",
+        "kind": "trophy",
+        "chapterId": "surveys",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-6",
+        "name": "Frozen in Time",
+        "kind": "trophy",
+        "chapterId": "surveys",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-7",
+        "name": "Submerged in Memories",
+        "kind": "trophy",
+        "chapterId": "surveys",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-8",
+        "name": "A Shadow in the Fog",
+        "kind": "trophy",
+        "chapterId": "the-cycle",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-9",
+        "name": "Ascension",
+        "kind": "trophy",
+        "chapterId": "the-cycle",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-10",
+        "name": "Trial by Judgement",
+        "kind": "trophy",
+        "chapterId": "the-cycle",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-11",
+        "name": "Silence the Song",
+        "kind": "trophy",
+        "chapterId": "the-cycle",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-12",
+        "name": "Inner Darkness",
+        "kind": "trophy",
+        "chapterId": "the-cycle",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-13",
+        "name": "Failed Escape",
+        "kind": "trophy",
+        "chapterId": "the-cycle",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-14",
+        "name": "Last Drive",
+        "kind": "trophy",
+        "chapterId": "the-cycle",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-15",
+        "name": "White Shadow",
+        "kind": "trophy",
+        "chapterId": "the-cycle",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-16",
+        "name": "Second Chance",
+        "kind": "trophy",
+        "chapterId": "the-cycle",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-17",
+        "name": "Cryptic Messages",
+        "kind": "trophy",
+        "chapterId": "logs-and-glyphs",
+        "where": "Scan a Xenoglyph"
+      },
+      {
+        "id": "achievement-18",
+        "name": "Cryptic Translations",
+        "kind": "trophy",
+        "chapterId": "logs-and-glyphs",
+        "where": "Unlock all translation tiers of a Xenoglyph"
+      },
+      {
+        "id": "achievement-19",
+        "name": "Surgical Precision",
+        "kind": "trophy",
+        "chapterId": "combat-and-builds",
+        "where": "Perform 5 successful Overloads in a row"
+      },
+      {
+        "id": "achievement-20",
+        "name": "Adapting to Circumstance",
+        "kind": "trophy",
+        "chapterId": "combat-and-builds",
+        "where": "Achieve Weapon Proficiency level 30"
+      },
+      {
+        "id": "achievement-21",
+        "name": "In-Field Training",
+        "kind": "trophy",
+        "chapterId": "simulation",
+        "where": "Complete a daily challenge in Simulation Mode"
+      },
+      {
+        "id": "achievement-22",
+        "name": "Hardened Shell",
+        "kind": "trophy",
+        "chapterId": "combat-and-builds",
+        "where": "Achieve 200% Max Integrity"
+      },
+      {
+        "id": "achievement-23",
+        "name": "Risk Assessment",
+        "kind": "trophy",
+        "chapterId": "combat-and-builds",
+        "where": "Finish Calculated Risk"
+      },
+      {
+        "id": "achievement-24",
+        "name": "Adrenaline Spike",
+        "kind": "trophy",
+        "chapterId": "combat-and-builds",
+        "where": "Achieve maximum Adrenaline Level"
+      },
+      {
+        "id": "achievement-25",
+        "name": "Irreversibly Contaminated",
+        "kind": "trophy",
+        "chapterId": "combat-and-builds",
+        "where": "Have 5 Parasites simultaneously"
+      },
+      {
+        "id": "achievement-26",
+        "name": "Eternal Return",
+        "kind": "trophy",
+        "chapterId": "the-cycle",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-27",
+        "name": "Alternate Fates",
+        "kind": "trophy",
+        "chapterId": "logs-and-glyphs",
+        "where": "Retrieve 10 Scout Logs"
+      },
+      {
+        "id": "achievement-28",
+        "name": "Welcome Home",
+        "kind": "trophy",
+        "chapterId": "the-cycle",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-29",
+        "name": "Sins of the Mother",
+        "kind": "trophy",
+        "chapterId": "the-cycle",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-30",
+        "name": "Visions of the Past",
+        "kind": "trophy",
+        "chapterId": "logs-and-glyphs",
+        "where": "Complete a Xeno-archive set (excluding Tower of Sisyphus)"
+      },
+      {
+        "id": "achievement-31",
+        "name": "Helios",
+        "kind": "trophy",
+        "chapterId": "the-cycle",
+        "where": "Collect all main Achievements"
+      },
+      {
+        "id": "achievement-32",
+        "name": "Eternal Ascent",
+        "kind": "trophy",
+        "chapterId": "beyond-main",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-33",
+        "name": "The Watcher",
+        "kind": "trophy",
+        "chapterId": "beyond-main",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-34",
+        "name": "Eyes Closed",
+        "kind": "trophy",
+        "chapterId": "beyond-main",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-35",
+        "name": "Destroyer",
+        "kind": "trophy",
+        "chapterId": "beyond-main",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-36",
+        "name": "Broken, Restored, Empty",
+        "kind": "trophy",
+        "chapterId": "beyond-main",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-37",
+        "name": "Empty Embrace",
+        "kind": "trophy",
+        "chapterId": "beyond-main",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-38",
+        "name": "Find Release",
+        "kind": "trophy",
+        "chapterId": "beyond-main",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/returnal",
+    "Achievement data from Steam (Steam Web API, app 1649240)",
+    "StrategyWiki: no page for this game, nothing used",
+    "Fandom (returnal.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://returnal.fandom.com/wiki/Returnal"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). This is the PC release, Steam app 1649240 (\"Returnal™\"); RAWG lists PC and PlayStation 5, and lists \"Returnal: Ascension\" (2022-03-22) as a separate entry. The Steam schema calls the app \"Rogue PC\" (an internal name). No StrategyWiki page under \"Returnal\" or \"RETURNAL\". returnal.fandom.com answers the API under \"Returnal\", but the page links only 3 articles (\"ASTRA\", \"Atropos\", \"Selene\"), so it gave almost nothing; names only were looked at, nothing copied. 24 of 38 Steam achievements are hidden. Five hidden ones (\"Ascending the Mountain\", \"Through the Forgotten City\", \"Echoes of the Past\", \"Frozen in Time\", \"Submerged in Memories\") have low unlock rates (1.4 to 3.8%) close to the visible \"Finish Overgrown Ruins Survey\" (3.8%), so they were put in the surveys chapter; that is a guess. \"Helios\" asks for all main achievements, and seven hidden ones come after it in the list with rates from 2.3 to 28.7%; one visible description excludes \"Tower of Sisyphus\", so these seven may be extra content, but the data does not say so. The other 11 hidden ones sit in the story chapter."
+}

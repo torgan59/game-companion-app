@@ -1,0 +1,659 @@
+{
+  "id": "sniper-elite-5",
+  "title": "Sniper Elite 5",
+  "year": 2022,
+  "platforms": [
+    "PC",
+    "Xbox One",
+    "PlayStation 4",
+    "Xbox Series X|S",
+    "PlayStation 5"
+  ],
+  "rawgId": 707256,
+  "rawgSlug": "sniper-elite-5",
+  "released": "2022-05-25",
+  "developers": [
+    "Rebellion"
+  ],
+  "playtime": 7,
+  "genres": [
+    "Action",
+    "Shooter",
+    "Adventure"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Multiplayer",
+    "Full controller support",
+    "Steam Cloud",
+    "Co-op",
+    "Open World",
+    "cooperative",
+    "Third Person",
+    "Online Co-Op",
+    "Gore",
+    "Violent"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/3e0/3e09bb71ce82dad515df4982a2466e67.jpg",
+  "steamAppId": 1029690,
+  "achievements": {
+    "total": 71,
+    "hidden": 3,
+    "examples": [
+      {
+        "name": "Meeting Resistance",
+        "percent": 69.9
+      },
+      {
+        "name": "Confirming Suspicions",
+        "percent": 61.0
+      },
+      {
+        "name": "The Kraken Wakes",
+        "percent": 54.5
+      },
+      {
+        "name": "Operation Overlord",
+        "percent": 1.7
+      },
+      {
+        "name": "Master of Pistols",
+        "percent": 1.5
+      },
+      {
+        "name": "Stroll in the Woods",
+        "percent": 1.5
+      },
+      {
+        "name": "Going Overboard",
+        "percent": 1.5
+      },
+      {
+        "name": "Master-at-arms",
+        "percent": 1.3
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": false,
+      "pages": 0,
+      "reason": "No page for Sniper Elite 5 (MediaWiki API returned missing; see notes for other titles tried)"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 100,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://sniperelite.fandom.com/wiki/Sniper_Elite_5"
+    }
+  },
+  "game": {
+    "id": "sniper-elite-5",
+    "title": "Sniper Elite 5",
+    "platforms": [
+      "PC",
+      "Xbox One",
+      "PlayStation 4",
+      "Xbox Series X|S",
+      "PlayStation 5"
+    ],
+    "blurb": "Third-person stealth sniping game set in 1944 France, from Rebellion, released 2022-05-25. RAWG average playtime: 7 hours. Genres: Action, Shooter, Adventure. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#6B4E2E",
+    "chapters": [
+      {
+        "id": "campaign",
+        "title": "The Campaign",
+        "summary": "From the Atlantic Wall to Desponts-sur-Douve, the hidden story milestones, optional objectives and the Authentic run. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "mission-feats",
+        "title": "Mission Feats and Möller",
+        "summary": "Taking down Möller in special ways, the Martressac train, the bridge snipers, Secret Weapons and St Nazaire.",
+        "steps": []
+      },
+      {
+        "id": "collectibles",
+        "title": "Letters, Documents and Hidden Items",
+        "summary": "Personal letters, classified documents, Hidden Items, Dead-eye Targets and workbenches.",
+        "steps": []
+      },
+      {
+        "id": "weapons-and-kills",
+        "title": "Weapons, Kills and Rank",
+        "summary": "Kill counts by weapon, mastery medals, ghost kills, takedowns, traps, long shots and reaching rank 40.",
+        "steps": []
+      },
+      {
+        "id": "extra-missions",
+        "title": "Landing Force, Conqueror, Rough Landing and Kraken Awakes",
+        "summary": "Four further campaign missions, each with 2-star and Authentic goals.",
+        "steps": []
+      },
+      {
+        "id": "wolf-mountain",
+        "title": "Wolf Mountain",
+        "summary": "The Wolf Mountain mission and its target challenges.",
+        "steps": []
+      },
+      {
+        "id": "invasion-and-online",
+        "title": "Axis Invasion, PvP and Survival",
+        "summary": "Invading and defending in Axis Invasion, team PvP matches and survival missions. Needs a network connection.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Meeting Resistance",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Weaken the Atlantic wall and rendezvous with Blue Viper."
+      },
+      {
+        "id": "achievement-2",
+        "name": "Confirming Suspicions",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Raid Chateau de Berengar and Möller's Office."
+      },
+      {
+        "id": "achievement-3",
+        "name": "The Kraken Wakes",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Infiltrate Beaumont-Saint-Denis and Uncover Operation Kraken."
+      },
+      {
+        "id": "achievement-4",
+        "name": "It's Starting to Crack",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Destroy Operation Kraken's production facility at Martressac."
+      },
+      {
+        "id": "achievement-5",
+        "name": "Change the Channel",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-6",
+        "name": "Taking it Back",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Liberate Desponts-sur-Douve and secure Allied transport routes."
+      },
+      {
+        "id": "achievement-7",
+        "name": "Target America",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-8",
+        "name": "The Kraken Sleeps",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-9",
+        "name": "Can't Outrun A Bullet",
+        "kind": "trophy",
+        "chapterId": "mission-feats",
+        "where": "Kill Möller with a rifle at a distance of 600 meters or more."
+      },
+      {
+        "id": "achievement-10",
+        "name": "Climbing the Ladder",
+        "kind": "trophy",
+        "chapterId": "weapons-and-kills",
+        "where": "Reach rank 40."
+      },
+      {
+        "id": "achievement-11",
+        "name": "Liberté",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Complete the campaign."
+      },
+      {
+        "id": "achievement-12",
+        "name": "Best of the Best",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Complete the entire campaign on Authentic difficulty."
+      },
+      {
+        "id": "achievement-13",
+        "name": "No Stone Unturned",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Complete 16 optional objectives."
+      },
+      {
+        "id": "achievement-14",
+        "name": "Opposing Force",
+        "kind": "trophy",
+        "chapterId": "invasion-and-online",
+        "where": "Win one Axis Invasion as an Invader."
+      },
+      {
+        "id": "achievement-15",
+        "name": "Enemy at the Gates",
+        "kind": "trophy",
+        "chapterId": "invasion-and-online",
+        "where": "Defeat an invading Sniper Jager."
+      },
+      {
+        "id": "achievement-16",
+        "name": "Fields of Glory",
+        "kind": "trophy",
+        "chapterId": "invasion-and-online",
+        "where": "Play one team-based PVP match"
+      },
+      {
+        "id": "achievement-17",
+        "name": "Just a Flesh Wound",
+        "kind": "trophy",
+        "chapterId": "weapons-and-kills",
+        "where": "Complete a mission, excluding the \"Loose Ends\" mission, in any difficulty without healing."
+      },
+      {
+        "id": "achievement-18",
+        "name": "Organ Grinder",
+        "kind": "trophy",
+        "chapterId": "weapons-and-kills",
+        "where": "Hit every organ at least once with a rifle."
+      },
+      {
+        "id": "achievement-19",
+        "name": "Strategist",
+        "kind": "trophy",
+        "chapterId": "weapons-and-kills",
+        "where": "Make a tank shoot and destroy another enemy vehicle."
+      },
+      {
+        "id": "achievement-20",
+        "name": "Master of Pistols",
+        "kind": "trophy",
+        "chapterId": "weapons-and-kills",
+        "where": "Obtain six pistol-related mastery medals."
+      },
+      {
+        "id": "achievement-21",
+        "name": "Master of Secondaries",
+        "kind": "trophy",
+        "chapterId": "weapons-and-kills",
+        "where": "Obtain six secondary-related mastery medals."
+      },
+      {
+        "id": "achievement-22",
+        "name": "Master of Rifles",
+        "kind": "trophy",
+        "chapterId": "weapons-and-kills",
+        "where": "Obtain six rifle-related mastery medals."
+      },
+      {
+        "id": "achievement-23",
+        "name": "Master-at-arms",
+        "kind": "trophy",
+        "chapterId": "weapons-and-kills",
+        "where": "Become the Master of each weapon."
+      },
+      {
+        "id": "achievement-24",
+        "name": "Gunslinger",
+        "kind": "trophy",
+        "chapterId": "weapons-and-kills",
+        "where": "Kill 150 enemies with a Pistol."
+      },
+      {
+        "id": "achievement-25",
+        "name": "Skirmisher",
+        "kind": "trophy",
+        "chapterId": "weapons-and-kills",
+        "where": "Kill 300 enemies with a Secondary Weapon."
+      },
+      {
+        "id": "achievement-26",
+        "name": "Sharpshooter",
+        "kind": "trophy",
+        "chapterId": "weapons-and-kills",
+        "where": "Kill 350 enemies with a Rifle."
+      },
+      {
+        "id": "achievement-27",
+        "name": "The Long Game",
+        "kind": "trophy",
+        "chapterId": "weapons-and-kills",
+        "where": "Total kill distance of 100,000 meters."
+      },
+      {
+        "id": "achievement-28",
+        "name": "Set Europe Ablaze",
+        "kind": "trophy",
+        "chapterId": "weapons-and-kills",
+        "where": "Kill 50 enemies with traps."
+      },
+      {
+        "id": "achievement-29",
+        "name": "Precision Is Key",
+        "kind": "trophy",
+        "chapterId": "weapons-and-kills",
+        "where": "Kill 150 enemies with any weapon while in Iron Sights."
+      },
+      {
+        "id": "achievement-30",
+        "name": "Out of Scope",
+        "kind": "trophy",
+        "chapterId": "weapons-and-kills",
+        "where": "Kill 150 enemies with a rifle while in Iron Sights."
+      },
+      {
+        "id": "achievement-31",
+        "name": "Rigged to Blow",
+        "kind": "trophy",
+        "chapterId": "weapons-and-kills",
+        "where": "Kill 20 soldiers using booby traps."
+      },
+      {
+        "id": "achievement-32",
+        "name": "My Little Friend",
+        "kind": "trophy",
+        "chapterId": "weapons-and-kills",
+        "where": "Kill 50 soldiers with heavy weapons."
+      },
+      {
+        "id": "achievement-33",
+        "name": "Explosive Efficiency",
+        "kind": "trophy",
+        "chapterId": "weapons-and-kills",
+        "where": "Kill 3 on-foot soldiers with one grenade."
+      },
+      {
+        "id": "achievement-34",
+        "name": "Lord of War",
+        "kind": "trophy",
+        "chapterId": "weapons-and-kills",
+        "where": "Get a kill with 20 different weapons."
+      },
+      {
+        "id": "achievement-35",
+        "name": "Die Nussknacker Sweet!",
+        "kind": "trophy",
+        "chapterId": "weapons-and-kills",
+        "where": "Get a testicle shot with a rifle from a distance of 100 meters or more."
+      },
+      {
+        "id": "achievement-36",
+        "name": "Resourceful",
+        "kind": "trophy",
+        "chapterId": "weapons-and-kills",
+        "where": "Kill 50 enemy soldiers with Found Weapons."
+      },
+      {
+        "id": "achievement-37",
+        "name": "Der Geist",
+        "kind": "trophy",
+        "chapterId": "weapons-and-kills",
+        "where": "Achieve 250 ghost kills."
+      },
+      {
+        "id": "achievement-38",
+        "name": "As quiet as a mouse",
+        "kind": "trophy",
+        "chapterId": "weapons-and-kills",
+        "where": "Kill 50 enemies during a Sound Mask."
+      },
+      {
+        "id": "achievement-39",
+        "name": "Close Quarters",
+        "kind": "trophy",
+        "chapterId": "weapons-and-kills",
+        "where": "Perform 100 lethal takedowns."
+      },
+      {
+        "id": "achievement-40",
+        "name": "Snake in the Grass",
+        "kind": "trophy",
+        "chapterId": "weapons-and-kills",
+        "where": "While in Tall Grass, kill 50 soldiers."
+      },
+      {
+        "id": "achievement-41",
+        "name": "From Paris with Love",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Collect 41 Personal letters."
+      },
+      {
+        "id": "achievement-42",
+        "name": "Burn after reading",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Collect 39 classified documents."
+      },
+      {
+        "id": "achievement-43",
+        "name": "Souvenir hunter",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Collect 24 Hidden Items."
+      },
+      {
+        "id": "achievement-44",
+        "name": "Eagle Eyed",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Destroy 24 Dead-eye Targets."
+      },
+      {
+        "id": "achievement-45",
+        "name": "Tinkerer",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Interact with 24 workbenches."
+      },
+      {
+        "id": "achievement-46",
+        "name": "It'll Buff Right Out",
+        "kind": "trophy",
+        "chapterId": "mission-feats",
+        "where": "Destroy Möller's shiny new car."
+      },
+      {
+        "id": "achievement-47",
+        "name": "Locomotion Commotion",
+        "kind": "trophy",
+        "chapterId": "mission-feats",
+        "where": "In Martressac, create an accident that destroys the train in the storage area."
+      },
+      {
+        "id": "achievement-48",
+        "name": "Up close and personal",
+        "kind": "trophy",
+        "chapterId": "mission-feats",
+        "where": "Melee takedown each one of the three snipers guarding the bridge."
+      },
+      {
+        "id": "achievement-49",
+        "name": "Road Rage",
+        "kind": "trophy",
+        "chapterId": "mission-feats",
+        "where": "In Secret Weapons, find and destroy one of each type of vehicle present in this mission."
+      },
+      {
+        "id": "achievement-50",
+        "name": "Don't hold your breath",
+        "kind": "trophy",
+        "chapterId": "mission-feats",
+        "where": "Make the final shot in St Nazaire without using Empty Lung."
+      },
+      {
+        "id": "achievement-51",
+        "name": "Brains of the Operation",
+        "kind": "trophy",
+        "chapterId": "mission-feats",
+        "where": "Kill Möller with a headshot."
+      },
+      {
+        "id": "achievement-52",
+        "name": "Sight Beyond Sights",
+        "kind": "trophy",
+        "chapterId": "mission-feats",
+        "where": "Kill Möller with a rifle, while in Iron Sights."
+      },
+      {
+        "id": "achievement-53",
+        "name": "Shoot for the Moon",
+        "kind": "trophy",
+        "chapterId": "invasion-and-online",
+        "where": "Complete three survival missions."
+      },
+      {
+        "id": "achievement-54",
+        "name": "Führerious Repetition",
+        "kind": "trophy",
+        "chapterId": "wolf-mountain",
+        "where": "Wolf Mountain - Kill Hitler 5 times."
+      },
+      {
+        "id": "achievement-55",
+        "name": "Reich To The Point",
+        "kind": "trophy",
+        "chapterId": "wolf-mountain",
+        "where": "Wolf Mountain - Kill only Hitler and exfiltrate."
+      },
+      {
+        "id": "achievement-56",
+        "name": "From Führer Away",
+        "kind": "trophy",
+        "chapterId": "wolf-mountain",
+        "where": "Wolf Mountain - Kill Hitler at a distance of 300 meters or more."
+      },
+      {
+        "id": "achievement-57",
+        "name": "Covert Elimination",
+        "kind": "trophy",
+        "chapterId": "wolf-mountain",
+        "where": "Wolf Mountain - Kill Hitler and exfiltrate without ever being detected."
+      },
+      {
+        "id": "achievement-58",
+        "name": "Alpha",
+        "kind": "trophy",
+        "chapterId": "wolf-mountain",
+        "where": "Wolf Mountain - Complete the mission on Authentic difficulty."
+      },
+      {
+        "id": "achievement-59",
+        "name": "Herr Today, Gone Tomorrow",
+        "kind": "trophy",
+        "chapterId": "wolf-mountain",
+        "where": "Wolf Mountain - Complete the mission."
+      },
+      {
+        "id": "achievement-60",
+        "name": "Operation Foxley",
+        "kind": "trophy",
+        "chapterId": "wolf-mountain",
+        "where": "Wolf Mountain - Complete the mission with a 2 star rating."
+      },
+      {
+        "id": "achievement-61",
+        "name": "Das Familienjuwel",
+        "kind": "trophy",
+        "chapterId": "wolf-mountain",
+        "where": "Wolf Mountain - Kill Hitler with a testicle shot."
+      },
+      {
+        "id": "achievement-62",
+        "name": "Last Resort",
+        "kind": "trophy",
+        "chapterId": "extra-missions",
+        "where": "Complete the campaign mission - Landing Force."
+      },
+      {
+        "id": "achievement-63",
+        "name": "Siegebreaker",
+        "kind": "trophy",
+        "chapterId": "extra-missions",
+        "where": "Complete the campaign mission - Conqueror"
+      },
+      {
+        "id": "achievement-64",
+        "name": "Ghost of Falaise",
+        "kind": "trophy",
+        "chapterId": "extra-missions",
+        "where": "Conqueror - Complete the mission with a 2 star rating."
+      },
+      {
+        "id": "achievement-65",
+        "name": "Operation Overlord",
+        "kind": "trophy",
+        "chapterId": "extra-missions",
+        "where": "Conqueror - Complete the mission on Authentic difficulty."
+      },
+      {
+        "id": "achievement-66",
+        "name": "If You Go Down To The Woods Today",
+        "kind": "trophy",
+        "chapterId": "extra-missions",
+        "where": "Complete the campaign mission - Rough Landing"
+      },
+      {
+        "id": "achievement-67",
+        "name": "Fight Another Day",
+        "kind": "trophy",
+        "chapterId": "extra-missions",
+        "where": "Rough Landing - Complete the mission with a 2 star rating."
+      },
+      {
+        "id": "achievement-68",
+        "name": "Stroll in the Woods",
+        "kind": "trophy",
+        "chapterId": "extra-missions",
+        "where": "Rough Landing - Complete the mission on Authentic difficulty."
+      },
+      {
+        "id": "achievement-69",
+        "name": "Shipbreaker",
+        "kind": "trophy",
+        "chapterId": "extra-missions",
+        "where": "Complete the campaign mission - Kraken Awakes."
+      },
+      {
+        "id": "achievement-70",
+        "name": "Sink or Swim",
+        "kind": "trophy",
+        "chapterId": "extra-missions",
+        "where": "Kraken Awakes - Complete the mission with a 2 star rating."
+      },
+      {
+        "id": "achievement-71",
+        "name": "Going Overboard",
+        "kind": "trophy",
+        "chapterId": "extra-missions",
+        "where": "Kraken Awakes - Complete the mission on Authentic difficulty."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/sniper-elite-5",
+    "Achievement data from Steam (Steam Web API, app 1029690)",
+    "StrategyWiki: no page for this game, nothing used",
+    "Fandom (sniperelite.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://sniperelite.fandom.com/wiki/Sniper_Elite_5"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). No StrategyWiki page under \"Sniper Elite 5\" or \"Sniper Elite V\". sniperelite.fandom.com answers the API, with about 100 linked articles, mostly weapons, vehicles and characters, plus mission pages such as \"The Atlantic Wall\", \"Occupied Residence\", \"War Factory\", \"Secret Weapons\", \"Spy Academy\", \"Rubble And Ruin\", \"Loose Ends\", \"Libération\", \"Landing Force\", \"Conqueror\", \"Rough Landing\", \"Kraken Awakes\" and \"Target Führer - Wolf Mountain\"; names only were looked at, nothing copied. The Steam schema calls the app \"New_Project_X\" (a placeholder name); the store list confirms app 1029690. Only 3 of 71 Steam achievements are hidden (\"Change the Channel\", \"Target America\", \"The Kraken Sleeps\"); they sit among the story achievements in the Steam list and sit in the campaign chapter. Landing Force, Conqueror, Rough Landing and Kraken Awakes are called \"campaign missions\" by Steam but have low unlock rates (7 to 11%) and their own 2-star and Authentic achievements, so they have their own chapter; the data does not say whether they are paid add-ons. Wolf Mountain likewise has its own chapter. Axis Invasion, PvP and survival goals need a network connection."
+}

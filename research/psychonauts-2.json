@@ -1,0 +1,550 @@
+{
+  "id": "psychonauts-2",
+  "title": "Psychonauts 2",
+  "year": 2021,
+  "platforms": [
+    "PlayStation 4",
+    "Xbox One",
+    "Xbox Series X|S",
+    "macOS",
+    "PC",
+    "Linux"
+  ],
+  "rawgId": 257192,
+  "rawgSlug": "psychonauts-2",
+  "released": "2021-08-24",
+  "developers": [
+    "Double Fine Productions",
+    "Starbreeze Studios"
+  ],
+  "playtime": 11,
+  "genres": [
+    "Action",
+    "Adventure",
+    "Platformer"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Full controller support"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/c3c/c3c536cc4d32623ba928020dfd39a648.jpg",
+  "steamAppId": 607080,
+  "achievements": {
+    "total": 57,
+    "hidden": 20,
+    "examples": [
+      {
+        "name": "TK-O",
+        "percent": 85.1
+      },
+      {
+        "name": "Take a Lickin'",
+        "percent": 72.1
+      },
+      {
+        "name": "Associate Intern",
+        "percent": 69.4
+      },
+      {
+        "name": "You're it!",
+        "percent": 13.2
+      },
+      {
+        "name": "Principal Intern",
+        "percent": 13.0
+      },
+      {
+        "name": "Figheaded",
+        "percent": 12.9
+      },
+      {
+        "name": "Nest Egg",
+        "percent": 12.3
+      },
+      {
+        "name": "Unlimited Power!",
+        "percent": 12.2
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Psychonauts_2",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 41,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://psychonauts.fandom.com/wiki/Psychonauts_2"
+    }
+  },
+  "game": {
+    "id": "psychonauts-2",
+    "title": "Psychonauts 2",
+    "platforms": [
+      "PlayStation 4",
+      "Xbox One",
+      "Xbox Series X|S",
+      "macOS",
+      "PC",
+      "Linux"
+    ],
+    "blurb": "Story-driven platformer about diving into other people's minds, from Double Fine Productions, released 2021-08-24. RAWG average playtime: 11 hours. Genres: Action, Adventure, Platformer. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#6A3593",
+    "chapters": [
+      {
+        "id": "main-story",
+        "title": "The Main Story",
+        "summary": "Each mind and story turn, told as hidden milestones. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "side-quests",
+        "title": "Side Quests and Favours",
+        "summary": "The Family Camp, the Aquatodome, Queepie, Gisu and Lili's requests, talking to Milla and going back to the start.",
+        "steps": []
+      },
+      {
+        "id": "collectibles",
+        "title": "Collectibles in the Minds",
+        "summary": "Vaults, Figments, Emotional Baggage, Psychonauts assets, Stray Thoughts and revisiting brains.",
+        "steps": []
+      },
+      {
+        "id": "ranks-and-upgrades",
+        "title": "Ranks and Badges",
+        "summary": "Intern ranks up to 100, upgrading Badges and getting every upgrade.",
+        "steps": []
+      },
+      {
+        "id": "supplies",
+        "title": "Pins, Shopping and Supplies",
+        "summary": "Pins, the Astral Wallet, Dream Fluff, PSI Pops, PSI Cards and Cores, and the Otto Shot.",
+        "steps": []
+      },
+      {
+        "id": "combat",
+        "title": "Combat Tricks",
+        "summary": "Turning enemies' attacks back on them, TK throws and Pyro.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Employee of the Year!",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-2",
+        "name": "Mentee Fresh",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-3",
+        "name": "EVERYBODY Hates Socks with Sandals",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-4",
+        "name": "Know When to Fold'em",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-5",
+        "name": "High Roller Revelations",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-6",
+        "name": "Jung at Heart",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-7",
+        "name": "Sane in the Membrane",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-8",
+        "name": "Ram It Down",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-9",
+        "name": "Feast of the Senses",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-10",
+        "name": "A Little Off the Top",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-11",
+        "name": "Perfect Game",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-12",
+        "name": "To the Letter",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-13",
+        "name": "Buried Memories",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-14",
+        "name": "The Relic Room",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-15",
+        "name": "Archetypal Victory",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-16",
+        "name": "Bob's Your Uncle",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-17",
+        "name": "Tattered Family",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-18",
+        "name": "Deluginist Darkness",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-19",
+        "name": "Finish What Was Started",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-20",
+        "name": "Home Run",
+        "kind": "trophy",
+        "chapterId": "side-quests",
+        "where": "Find the Family Camp"
+      },
+      {
+        "id": "achievement-21",
+        "name": "Family is in Tents",
+        "kind": "trophy",
+        "chapterId": "side-quests",
+        "where": "Help Dion Setup Aquatodome"
+      },
+      {
+        "id": "achievement-22",
+        "name": "Dance, Baby, Dance",
+        "kind": "trophy",
+        "chapterId": "side-quests",
+        "where": "Complete Queepie Quest"
+      },
+      {
+        "id": "achievement-23",
+        "name": "Good Vibes Only",
+        "kind": "trophy",
+        "chapterId": "side-quests",
+        "where": "Complete Gisu's Psychoseismometer Quest"
+      },
+      {
+        "id": "achievement-24",
+        "name": "A Fungus Among Us",
+        "kind": "trophy",
+        "chapterId": "side-quests",
+        "where": "Complete Lili's Request"
+      },
+      {
+        "id": "achievement-25",
+        "name": "Keep Your Shirt On",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Scavenge all MISSION CRITICAL PSYCHONAUTS ASSETS"
+      },
+      {
+        "id": "achievement-26",
+        "name": "Associate Intern",
+        "kind": "trophy",
+        "chapterId": "ranks-and-upgrades",
+        "where": "Achieve Rank 2"
+      },
+      {
+        "id": "achievement-27",
+        "name": "Junior Intern",
+        "kind": "trophy",
+        "chapterId": "ranks-and-upgrades",
+        "where": "Achieve Rank 10"
+      },
+      {
+        "id": "achievement-28",
+        "name": "Senior Intern",
+        "kind": "trophy",
+        "chapterId": "ranks-and-upgrades",
+        "where": "Achieve Rank 50"
+      },
+      {
+        "id": "achievement-29",
+        "name": "Principal Intern",
+        "kind": "trophy",
+        "chapterId": "ranks-and-upgrades",
+        "where": "Achieve Rank 100"
+      },
+      {
+        "id": "achievement-30",
+        "name": "Extra Credit",
+        "kind": "trophy",
+        "chapterId": "ranks-and-upgrades",
+        "where": "Upgrade your first Badge"
+      },
+      {
+        "id": "achievement-31",
+        "name": "Power Play",
+        "kind": "trophy",
+        "chapterId": "ranks-and-upgrades",
+        "where": "Fully upgrade a Badge"
+      },
+      {
+        "id": "achievement-32",
+        "name": "Unlimited Power!",
+        "kind": "trophy",
+        "chapterId": "ranks-and-upgrades",
+        "where": "Acquire all Upgrades"
+      },
+      {
+        "id": "achievement-33",
+        "name": "Safecracker",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Crack all Vaults"
+      },
+      {
+        "id": "achievement-34",
+        "name": "Figheaded",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Find all Figments"
+      },
+      {
+        "id": "achievement-35",
+        "name": "You're it!",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Tag all Emotional Baggage"
+      },
+      {
+        "id": "achievement-36",
+        "name": "Pin Drop",
+        "kind": "trophy",
+        "chapterId": "supplies",
+        "where": "Equip your first Pin"
+      },
+      {
+        "id": "achievement-37",
+        "name": "Pinhead",
+        "kind": "trophy",
+        "chapterId": "supplies",
+        "where": "Equip 3 Pins at once"
+      },
+      {
+        "id": "achievement-38",
+        "name": "Kingpin",
+        "kind": "trophy",
+        "chapterId": "supplies",
+        "where": "Purchase all Pins"
+      },
+      {
+        "id": "achievement-39",
+        "name": "Hiccup in the Giddyup",
+        "kind": "trophy",
+        "chapterId": "supplies",
+        "where": "Recover your mental energy with a Dream Fluff"
+      },
+      {
+        "id": "achievement-40",
+        "name": "PSI Roller",
+        "kind": "trophy",
+        "chapterId": "supplies",
+        "where": "Upgrade to the Astral Wallet"
+      },
+      {
+        "id": "achievement-41",
+        "name": "Fluff Nutter",
+        "kind": "trophy",
+        "chapterId": "supplies",
+        "where": "Max out your Dream Fluff capacity"
+      },
+      {
+        "id": "achievement-42",
+        "name": "King of Pop",
+        "kind": "trophy",
+        "chapterId": "supplies",
+        "where": "Max out your PSI Pop capacity"
+      },
+      {
+        "id": "achievement-43",
+        "name": "You Otto be in Pictures",
+        "kind": "trophy",
+        "chapterId": "supplies",
+        "where": "Purchase all Otto Shot Filters"
+      },
+      {
+        "id": "achievement-44",
+        "name": "Shutterbug",
+        "kind": "trophy",
+        "chapterId": "supplies",
+        "where": "Take a photo with the Otto Shot"
+      },
+      {
+        "id": "achievement-45",
+        "name": "Fine Tuning",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Tune in to a Stray Thought"
+      },
+      {
+        "id": "achievement-46",
+        "name": "Nest Egg",
+        "kind": "trophy",
+        "chapterId": "supplies",
+        "where": "Completely fill your Astral Wallet"
+      },
+      {
+        "id": "achievement-47",
+        "name": "Take a Lickin'",
+        "kind": "trophy",
+        "chapterId": "supplies",
+        "where": "Consume a PSI Pop to restore some mental energy"
+      },
+      {
+        "id": "achievement-48",
+        "name": "Core Strength",
+        "kind": "trophy",
+        "chapterId": "supplies",
+        "where": "Combine PSI Cards with a PSI Core at the Otto-Matic"
+      },
+      {
+        "id": "achievement-49",
+        "name": "Objection!",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Throw a Judge's gavel back at him"
+      },
+      {
+        "id": "achievement-50",
+        "name": "TK-O",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "TK throw an object to stun an enemy"
+      },
+      {
+        "id": "achievement-51",
+        "name": "Duck, Duck, Goose",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Find the real Panic Attack during his Phantom attack"
+      },
+      {
+        "id": "achievement-52",
+        "name": "Shared Regret",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Throw a Regret's anvil at another enemy"
+      },
+      {
+        "id": "achievement-53",
+        "name": "Pyromania",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Pyro 3 enemies at once"
+      },
+      {
+        "id": "achievement-54",
+        "name": "I'm always here for you, darling!",
+        "kind": "trophy",
+        "chapterId": "side-quests",
+        "where": "Talk to Milla in her Office"
+      },
+      {
+        "id": "achievement-55",
+        "name": "Forgot My Keys",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Revisit a brain through the Collective Unconscious"
+      },
+      {
+        "id": "achievement-56",
+        "name": "Make It Stop!",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-57",
+        "name": "Making Peace",
+        "kind": "trophy",
+        "chapterId": "side-quests",
+        "where": "Return to where it all started"
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/psychonauts-2",
+    "Achievement data from Steam (Steam Web API, app 607080)",
+    "StrategyWiki: no usable walkthrough, nothing used — https://strategywiki.org/wiki/Psychonauts_2",
+    "Fandom (psychonauts.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://psychonauts.fandom.com/wiki/Psychonauts_2"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). StrategyWiki has a stub page (completion stage 0); Walkthrough, Gameplay and Table of Contents are linked, but no subpage exists, so nothing was used. psychonauts.fandom.com answers the API under \"Psychonauts 2\", with about 41 linked articles, including mind names such as \"Loboto's Labyrinth\", \"Hollis' Mind\", \"Compton's Cookoff\", \"PSI King's Sensorium\" and \"Lucrecia's Lament\"; names only were looked at, nothing copied, and they were not used as chapters because the data gives no play order. Steam app 607080 is \"Psychonauts 2\". 20 of 57 Steam achievements are hidden; they sit in the story chapter, and their falling unlock rates (75% down to 20%) suggest they follow the story in order."
+}

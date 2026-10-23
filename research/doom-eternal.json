@@ -1,0 +1,524 @@
+{
+  "id": "doom-eternal",
+  "title": "Doom Eternal",
+  "year": 2020,
+  "platforms": [
+    "PC",
+    "PlayStation 4",
+    "Xbox One",
+    "Nintendo Switch",
+    "PlayStation 5"
+  ],
+  "rawgId": 58777,
+  "rawgSlug": "doom-eternal",
+  "released": "2020-03-19",
+  "developers": [
+    "Bethesda Softworks",
+    "id Software",
+    "Bethesda Game Studios",
+    "Panic Button",
+    "Virtuos",
+    "Nerve Software"
+  ],
+  "playtime": 12,
+  "genres": [
+    "Action",
+    "Shooter"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Multiplayer",
+    "Atmospheric",
+    "Great Soundtrack",
+    "Co-op",
+    "First-Person",
+    "Sci-fi",
+    "Partial Controller Support",
+    "Horror",
+    "FPS",
+    "Gore",
+    "Violent"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/3ea/3ea3c9bbd940b6cb7f2139e42d3d443f.jpg",
+  "steamAppId": 782330,
+  "achievements": {
+    "total": 50,
+    "hidden": 16,
+    "examples": [
+      {
+        "name": "Darn It, They Keep BREAKING",
+        "percent": 77.3
+      },
+      {
+        "name": "Crystal Craving",
+        "percent": 73.7
+      },
+      {
+        "name": "It's a Magic Number",
+        "percent": 59.3
+      },
+      {
+        "name": "1-Upsmanship",
+        "percent": 1.5
+      },
+      {
+        "name": "Live Die Reload",
+        "percent": 1.4
+      },
+      {
+        "name": "Truce between Demons",
+        "percent": 1.3
+      },
+      {
+        "name": "Blood Bath",
+        "percent": 1.2
+      },
+      {
+        "name": "Weapons Expert",
+        "percent": 1.2
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Doom_Eternal",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 190,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://doom.fandom.com/wiki/Doom_Eternal"
+    }
+  },
+  "game": {
+    "id": "doom-eternal",
+    "title": "Doom Eternal",
+    "platforms": [
+      "PC",
+      "PlayStation 4",
+      "Xbox One",
+      "Nintendo Switch",
+      "PlayStation 5"
+    ],
+    "blurb": "Fast first-person shooter from id Software, released 2020-03-19. RAWG average playtime: 12 hours. Genres: Action, Shooter. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#B5341E",
+    "chapters": [
+      {
+        "id": "main-story",
+        "title": "The Campaign",
+        "summary": "Finishing the campaign, plus the hidden story milestones along the way. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "upgrades",
+        "title": "Suit, Crystals, Weapons and Glory Kills",
+        "summary": "Praetor Suit perks, Sentinel Crystal upgrades, Sentinel Batteries, weapon mod mastery, unique glory kills and the 666 demon kill count.",
+        "steps": []
+      },
+      {
+        "id": "collectibles",
+        "title": "Collectibles, Slayer Gates and Extra Lives",
+        "summary": "Cheat codes, albums, toys, Codex pages, Slayer Gates and picking up Extra Lives.",
+        "steps": []
+      },
+      {
+        "id": "extra-life-and-cheats",
+        "title": "Extra Life Mode and Cheat Runs",
+        "summary": "Finishing Extra Life Mode with lives to spare, and a mission with only the Famine Mode cheat.",
+        "steps": []
+      },
+      {
+        "id": "battlemode",
+        "title": "BATTLEMODE",
+        "summary": "The player-versus-player mode: playing as demons, damage, kills, matches and healing.",
+        "steps": []
+      },
+      {
+        "id": "ancient-gods-1",
+        "title": "The Ancient Gods, Part One",
+        "summary": "The first expansion campaign: its hidden milestones, Support Runes, Secret Encounters, Codex pages and Extra Life Mode.",
+        "steps": []
+      },
+      {
+        "id": "ancient-gods-2",
+        "title": "The Ancient Gods, Part Two",
+        "summary": "The second expansion campaign: its hidden milestones, Sentinel Hammer upgrades, Codex pages and Extra Life Mode.",
+        "steps": []
+      },
+      {
+        "id": "horde-mode",
+        "title": "Horde Mode",
+        "summary": "Finishing the first Horde Mode mission, rebuilding the weapon wheel and beating Horde Mode.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Doomsday",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-2",
+        "name": "The Hunters Became the Hunted",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-3",
+        "name": "Interplanetary Fracking",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-4",
+        "name": "Thumbs Down",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-5",
+        "name": "Reforged and Refueled",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-6",
+        "name": "Nontraditionalist",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-7",
+        "name": "Iconoclast",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-8",
+        "name": "The Once and Future Slayer",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Complete the Campaign on any difficulty"
+      },
+      {
+        "id": "achievement-9",
+        "name": "Treasure Hunter",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-10",
+        "name": "Master of Fasting",
+        "kind": "trophy",
+        "chapterId": "extra-life-and-cheats",
+        "where": "Complete a Mission with only the Famine Mode cheat on"
+      },
+      {
+        "id": "achievement-11",
+        "name": "Running Up the High Score",
+        "kind": "trophy",
+        "chapterId": "extra-life-and-cheats",
+        "where": "Complete Extra Life Mode with 10 Extra Lives in your Inventory"
+      },
+      {
+        "id": "achievement-12",
+        "name": "Crystal Craving",
+        "kind": "trophy",
+        "chapterId": "upgrades",
+        "where": "Upgrade Health, Armor, or Ammo"
+      },
+      {
+        "id": "achievement-13",
+        "name": "King of the Crystals",
+        "kind": "trophy",
+        "chapterId": "upgrades",
+        "where": "Fully upgrade Health, Armor, or Ammo in a single save slot"
+      },
+      {
+        "id": "achievement-14",
+        "name": "This One's my Favorite",
+        "kind": "trophy",
+        "chapterId": "upgrades",
+        "where": "Complete a Praetor Suit Perk category in a single save slot"
+      },
+      {
+        "id": "achievement-15",
+        "name": "They're ALL My Favorite",
+        "kind": "trophy",
+        "chapterId": "upgrades",
+        "where": "Purchase all Praetor Suit Perks in a single save slot"
+      },
+      {
+        "id": "achievement-16",
+        "name": "Homemaykr",
+        "kind": "trophy",
+        "chapterId": "upgrades",
+        "where": "Spend 8 Sentinel Batteries in the Fortress of Doom in a single save slot"
+      },
+      {
+        "id": "achievement-17",
+        "name": "Extra Extra Lives",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Pick up 20 Extra Lives Total in a single save slot"
+      },
+      {
+        "id": "achievement-18",
+        "name": "Reforged the Genie Lamp",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Complete the cheat code collection in a single save slot"
+      },
+      {
+        "id": "achievement-19",
+        "name": "Metal Head",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Complete the album collection in a single save slot"
+      },
+      {
+        "id": "achievement-20",
+        "name": "Playset Sold Separately",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Complete the toy collection in a single save slot"
+      },
+      {
+        "id": "achievement-21",
+        "name": "If Only I Could Read…",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Collect all physical Codex pages in a single save slot"
+      },
+      {
+        "id": "achievement-22",
+        "name": "Bonus Stage",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Complete a Slayer Gate"
+      },
+      {
+        "id": "achievement-23",
+        "name": "Breaker of Gates",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Complete all Slayer Gates in a single save slot"
+      },
+      {
+        "id": "achievement-24",
+        "name": "Gunpletionist",
+        "kind": "trophy",
+        "chapterId": "upgrades",
+        "where": "Master all Weapon Mods in a single save slot"
+      },
+      {
+        "id": "achievement-25",
+        "name": "Meet Your Unmaykr",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-26",
+        "name": "Darn It, They Keep BREAKING",
+        "kind": "trophy",
+        "chapterId": "upgrades",
+        "where": "Perform 33 Unique Glory Kills in a single save slot"
+      },
+      {
+        "id": "achievement-27",
+        "name": "Mix and Match",
+        "kind": "trophy",
+        "chapterId": "battlemode",
+        "where": "Play as 5 different Player Demons in BATTLEMODE"
+      },
+      {
+        "id": "achievement-28",
+        "name": "Fight Like Hell",
+        "kind": "trophy",
+        "chapterId": "battlemode",
+        "where": "Do 5000 damage as a Player Demon in BATTLEMODE"
+      },
+      {
+        "id": "achievement-29",
+        "name": "Blood Bath",
+        "kind": "trophy",
+        "chapterId": "battlemode",
+        "where": "Kill 200 opponents in BATTLEMODE"
+      },
+      {
+        "id": "achievement-30",
+        "name": "Man vs Monsters",
+        "kind": "trophy",
+        "chapterId": "battlemode",
+        "where": "Play 25 BATTLEMODE matches"
+      },
+      {
+        "id": "achievement-31",
+        "name": "Weapons Expert",
+        "kind": "trophy",
+        "chapterId": "battlemode",
+        "where": "Kill a Player Demon with each of the 8 Slayer weapons in BATTLEMODE"
+      },
+      {
+        "id": "achievement-32",
+        "name": "Truce between Demons",
+        "kind": "trophy",
+        "chapterId": "battlemode",
+        "where": "Heal yourself or your teammate for 50000 health in BATTLEMODE"
+      },
+      {
+        "id": "achievement-33",
+        "name": "It's a Magic Number",
+        "kind": "trophy",
+        "chapterId": "upgrades",
+        "where": "Kill 666 Demons (excluding Player Demons and Wolves)"
+      },
+      {
+        "id": "achievement-34",
+        "name": "Torrential Pain",
+        "kind": "trophy",
+        "chapterId": "ancient-gods-1",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-35",
+        "name": "To Take a Life Sphere",
+        "kind": "trophy",
+        "chapterId": "ancient-gods-1",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-36",
+        "name": "Regime Change",
+        "kind": "trophy",
+        "chapterId": "ancient-gods-1",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-37",
+        "name": "1-Upsmanship",
+        "kind": "trophy",
+        "chapterId": "ancient-gods-1",
+        "where": "Complete Extra Life Mode with 5 Extra Lives in your Inventory (Ancient Gods 1)"
+      },
+      {
+        "id": "achievement-38",
+        "name": "Lucky Charm Bracelet",
+        "kind": "trophy",
+        "chapterId": "ancient-gods-1",
+        "where": "Acquire all Support Runes in a single save slot (Ancient Gods 1)"
+      },
+      {
+        "id": "achievement-39",
+        "name": "Hypersonic",
+        "kind": "trophy",
+        "chapterId": "ancient-gods-1",
+        "where": "Complete all Secret Encounters in a single save slot (Ancient Gods 1)"
+      },
+      {
+        "id": "achievement-40",
+        "name": "Required Reading",
+        "kind": "trophy",
+        "chapterId": "ancient-gods-1",
+        "where": "Collect all physical Codex pages in a single save slot (Ancient Gods 1)"
+      },
+      {
+        "id": "achievement-41",
+        "name": "Crystal Spelunker",
+        "kind": "trophy",
+        "chapterId": "ancient-gods-2",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-42",
+        "name": "Cross the Threshold",
+        "kind": "trophy",
+        "chapterId": "ancient-gods-2",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-43",
+        "name": "Siege the Day",
+        "kind": "trophy",
+        "chapterId": "ancient-gods-2",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-44",
+        "name": "Tougher Than Nails",
+        "kind": "trophy",
+        "chapterId": "ancient-gods-2",
+        "where": "Acquire all Sentinel Hammer upgrades (Ancient Gods 2)"
+      },
+      {
+        "id": "achievement-45",
+        "name": "Rest Your Weary Fists",
+        "kind": "trophy",
+        "chapterId": "ancient-gods-2",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-46",
+        "name": "Live Die Reload",
+        "kind": "trophy",
+        "chapterId": "ancient-gods-2",
+        "where": "Complete Extra Life Mode with 5 Extra Lives in your Inventory (Ancient Gods 2)"
+      },
+      {
+        "id": "achievement-47",
+        "name": "Critical Literature",
+        "kind": "trophy",
+        "chapterId": "ancient-gods-2",
+        "where": "Collect all physical Codex pages in a single save slot (Ancient Gods 2)"
+      },
+      {
+        "id": "achievement-48",
+        "name": "Let's Play",
+        "kind": "trophy",
+        "chapterId": "horde-mode",
+        "where": "Complete the first Horde Mode Mission"
+      },
+      {
+        "id": "achievement-49",
+        "name": "Reinvent the Weapon Wheel",
+        "kind": "trophy",
+        "chapterId": "horde-mode",
+        "where": "Re-collect all of the weapons on the Weapon Wheel"
+      },
+      {
+        "id": "achievement-50",
+        "name": "Game Over",
+        "kind": "trophy",
+        "chapterId": "horde-mode",
+        "where": "Beat Horde Mode"
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/doom-eternal",
+    "Achievement data from Steam (Steam Web API, app 782330)",
+    "StrategyWiki: no usable walkthrough, nothing used — https://strategywiki.org/wiki/Doom_Eternal",
+    "Fandom (doom.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://doom.fandom.com/wiki/Doom_Eternal"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). StrategyWiki has a stub page \"Doom Eternal\" (completion stage 0, marked \"Perfect stub article\"); only its \"Achievements and trophies\" and \"Table of Contents\" subpages are written. The contents page links mission pages (for example \"Hell on Earth\", \"Exultia\", \"Cultist Base\" and \"Urdak\"), but none is written, so nothing was used. doom.fandom.com answers the API under \"Doom Eternal\" with about 190 linked articles; names only were looked at, nothing copied. 16 of 50 Steam achievements are hidden. Steam API names run NEW_ACHIEVEMENT_1_x and NEW_ACHIEVEMENT_2_x; the 2_x block holds the \"(Ancient Gods 1)\", \"(Ancient Gods 2)\" and Horde Mode achievements. Hidden 2_1 to 2_3 (\"Torrential Pain\", \"To Take a Life Sphere\", \"Regime Change\") sit just before the Ancient Gods 1 ones, and 2_8 to 2_10 and 2_12 (\"Crystal Spelunker\", \"Cross the Threshold\", \"Siege the Day\", \"Rest Your Weary Fists\") sit among the Ancient Gods 2 ones, so they were put in those expansion chapters; \"Reinvent the Weapon Wheel\" (no mode named) sits between the two Horde Mode achievements, so it was put there. All three placements are guesses from position and need checking. The other 9 hidden ones sit in the campaign chapter. Expansion names come from RAWG and the Steam app list (\"The Ancient Gods - Part One\" and \"Part Two\")."
+}

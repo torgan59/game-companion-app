@@ -1,0 +1,326 @@
+{
+  "id": "call-of-duty-modern-warfare-ii",
+  "title": "Call of Duty: Modern Warfare II",
+  "year": 2022,
+  "platforms": [
+    "PC",
+    "PlayStation 5",
+    "Xbox Series X|S",
+    "Xbox One",
+    "PlayStation 4"
+  ],
+  "rawgId": 791636,
+  "rawgSlug": "call-of-duty-modern-warfare-ii",
+  "released": "2022-10-22",
+  "developers": [
+    "Raven Software",
+    "Treyarch",
+    "Infinity Ward",
+    "Beenox",
+    "Sledgehammer Games",
+    "High Moon Studios",
+    "Toys for Bob",
+    "Activision Shanghai",
+    "Demonware",
+    "Demonware Softwarehaus"
+  ],
+  "playtime": 10,
+  "genres": [
+    "Action",
+    "Shooter"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Multiplayer",
+    "Full controller support",
+    "Atmospheric",
+    "Co-op",
+    "Story Rich",
+    "cooperative",
+    "First-Person",
+    "Third Person",
+    "FPS",
+    "Online Co-Op"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/1af/1af8edc7491c6d9d0776fc423d93548d.jpg",
+  "steamAppId": 3595230,
+  "achievements": {
+    "total": 24,
+    "hidden": 0,
+    "examples": [
+      {
+        "name": "Time for Pints",
+        "percent": 34.5
+      },
+      {
+        "name": "Nobody was There",
+        "percent": 19.0
+      },
+      {
+        "name": "Only the Beginning",
+        "percent": 9.9
+      },
+      {
+        "name": "No time to lose",
+        "percent": 1.7
+      },
+      {
+        "name": "Practice makes Perfect",
+        "percent": 1.7
+      },
+      {
+        "name": "Hellride",
+        "percent": 1.5
+      },
+      {
+        "name": "Full SSE",
+        "percent": 1.4
+      },
+      {
+        "name": "Going Dark",
+        "percent": 1.4
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": false,
+      "pages": 0,
+      "reason": "No page for Call of Duty: Modern Warfare II (MediaWiki API returned missing; see notes for other titles tried)"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 500,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://callofduty.fandom.com/wiki/Call_of_Duty:_Modern_Warfare_II"
+    }
+  },
+  "game": {
+    "id": "call-of-duty-modern-warfare-ii",
+    "title": "Call of Duty: Modern Warfare II",
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "Xbox Series X|S",
+      "Xbox One",
+      "PlayStation 4"
+    ],
+    "blurb": "Military first-person shooter with a campaign and co-op missions, from Infinity Ward with other Activision studios, released 2022-10-22. RAWG average playtime: 10 hours. Genres: Action, Shooter. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#5B6B3A",
+    "chapters": [
+      {
+        "id": "finishing-the-campaign",
+        "title": "Finishing the Campaign",
+        "summary": "Finishing the campaign on any difficulty, and every mission on Veteran or Realism.",
+        "steps": []
+      },
+      {
+        "id": "mission-challenges",
+        "title": "Mission Challenges",
+        "summary": "Feats inside named missions: Prison Break, Wetwork, Ghost Team, Violence and Timing, Dark Water, the CCTV sequence, safes and more.",
+        "steps": []
+      },
+      {
+        "id": "stealth-feats",
+        "title": "Stealth and No-Gun Feats",
+        "summary": "Getting through El Sin Nombre, Countdown, Wetwork and Recon by Fire unseen, and Alone without firing a gun.",
+        "steps": []
+      },
+      {
+        "id": "campaign-and-co-op",
+        "title": "Campaign and Co-op Combat",
+        "summary": "Flashbang and Riot Shield kills that count in the campaign or in co-op.",
+        "steps": []
+      },
+      {
+        "id": "co-op",
+        "title": "Co-op Missions",
+        "summary": "Stars in Low Profile, Defender: Mt. Zaya and Denied Area, and intel fragments. Needs a partner and a network connection.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "A Crappy Way to Die",
+        "kind": "trophy",
+        "chapterId": "mission-challenges",
+        "where": "Kill the enemy in the porta-potty."
+      },
+      {
+        "id": "achievement-2",
+        "name": "Backpack Guy",
+        "kind": "trophy",
+        "chapterId": "mission-challenges",
+        "where": "Kill gassed or blinded enemies using a Molotov, Semtex and Frag in 'Prison Break'."
+      },
+      {
+        "id": "achievement-3",
+        "name": "Crocodile",
+        "kind": "trophy",
+        "chapterId": "mission-challenges",
+        "where": "Shoot three enemies while underwater in 'Wetwork'."
+      },
+      {
+        "id": "achievement-4",
+        "name": "Daredevil",
+        "kind": "trophy",
+        "chapterId": "campaign-and-co-op",
+        "where": "While affected by one Flashbang, kill two enemies in the Campaign or in Co-op."
+      },
+      {
+        "id": "achievement-5",
+        "name": "Gentleman Thief",
+        "kind": "trophy",
+        "chapterId": "mission-challenges",
+        "where": "Open three safes in the Campaign."
+      },
+      {
+        "id": "achievement-6",
+        "name": "Ghost-in-Training",
+        "kind": "trophy",
+        "chapterId": "stealth-feats",
+        "where": "Reach the penthouse in 'El Sin Nombre' without killing anyone or triggering the alarm."
+      },
+      {
+        "id": "achievement-7",
+        "name": "Must be Wind",
+        "kind": "trophy",
+        "chapterId": "stealth-feats",
+        "where": "Rescue the hostages in 'Countdown' without the enemies firing their weapons."
+      },
+      {
+        "id": "achievement-8",
+        "name": "Nessie",
+        "kind": "trophy",
+        "chapterId": "stealth-feats",
+        "where": "Reach the barge without being seen in 'Wetwork'."
+      },
+      {
+        "id": "achievement-9",
+        "name": "Nobody was There",
+        "kind": "trophy",
+        "chapterId": "stealth-feats",
+        "where": "Never trigger the alarm in 'Recon by Fire'."
+      },
+      {
+        "id": "achievement-10",
+        "name": "Gunless",
+        "kind": "trophy",
+        "chapterId": "stealth-feats",
+        "where": "Finish 'Alone' without firing a gun."
+      },
+      {
+        "id": "achievement-11",
+        "name": "No time to lose",
+        "kind": "trophy",
+        "chapterId": "mission-challenges",
+        "where": "Complete the CCTV sequence in four minutes."
+      },
+      {
+        "id": "achievement-12",
+        "name": "Keeping this One",
+        "kind": "trophy",
+        "chapterId": "mission-challenges",
+        "where": "Reach Price using the first vehicle you hijack."
+      },
+      {
+        "id": "achievement-13",
+        "name": "Practice makes Perfect",
+        "kind": "trophy",
+        "chapterId": "mission-challenges",
+        "where": "Shoot all the targets in the training area in 'Ghost Team'."
+      },
+      {
+        "id": "achievement-14",
+        "name": "Time for Pints",
+        "kind": "trophy",
+        "chapterId": "finishing-the-campaign",
+        "where": "Finish the Campaign on any difficulty."
+      },
+      {
+        "id": "achievement-15",
+        "name": "Test Drive",
+        "kind": "trophy",
+        "chapterId": "mission-challenges",
+        "where": "Drive five vehicle types in 'Violence and Timing'."
+      },
+      {
+        "id": "achievement-16",
+        "name": "Don’t touch the deck!",
+        "kind": "trophy",
+        "chapterId": "mission-challenges",
+        "where": "In 'Dark Water' advance 90 meters towards the front of the ship without touching the deck."
+      },
+      {
+        "id": "achievement-17",
+        "name": "Cutting heads off Snakes",
+        "kind": "trophy",
+        "chapterId": "finishing-the-campaign",
+        "where": "Finish all Campaign missions on Veteran or Realism difficulty."
+      },
+      {
+        "id": "achievement-18",
+        "name": "Wall of Duty",
+        "kind": "trophy",
+        "chapterId": "campaign-and-co-op",
+        "where": "Kill three Enemies with the Riot Shield in the Campaign or in Co-op."
+      },
+      {
+        "id": "achievement-19",
+        "name": "Full SSE",
+        "kind": "trophy",
+        "chapterId": "co-op",
+        "where": "Find 20 intel fragments in Co-op."
+      },
+      {
+        "id": "achievement-20",
+        "name": "Going Dark",
+        "kind": "trophy",
+        "chapterId": "co-op",
+        "where": "Complete 'Low Profile' without triggering any Alarms."
+      },
+      {
+        "id": "achievement-21",
+        "name": "Only the Beginning",
+        "kind": "trophy",
+        "chapterId": "co-op",
+        "where": "Earn at least one Star in Co-op."
+      },
+      {
+        "id": "achievement-22",
+        "name": "Night Fight",
+        "kind": "trophy",
+        "chapterId": "co-op",
+        "where": "Earn three Stars in 'Low Profile'."
+      },
+      {
+        "id": "achievement-23",
+        "name": "Kings of the Mountain",
+        "kind": "trophy",
+        "chapterId": "co-op",
+        "where": "Earn three Stars in 'Defender: Mt. Zaya'."
+      },
+      {
+        "id": "achievement-24",
+        "name": "Hellride",
+        "kind": "trophy",
+        "chapterId": "co-op",
+        "where": "Earn three Stars in 'Denied Area'."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/call-of-duty-modern-warfare-ii",
+    "Achievement data from Steam (Steam Web API, app 3595230)",
+    "StrategyWiki: no page for this game, nothing used",
+    "Fandom (callofduty.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://callofduty.fandom.com/wiki/Call_of_Duty:_Modern_Warfare_II"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). RAWG's first search result was the 2009 \"Call of Duty: Modern Warfare 2\"; the 2022 game's entry \"call-of-duty-modern-warfare-ii\" (id 791636) was put in by hand. The Steam app list has \"Call of Duty®: Modern Warfare® II\" as app 3595230 and a separate \"Call of Duty®\" app (1938090), which was not checked; 3595230 was used. Its schema calls the app \"Nina\" (an internal codename) and has 24 achievements, none hidden, covering the campaign and co-op missions only, no multiplayer. The 2009 game is app 10180. No StrategyWiki page under \"Call of Duty: Modern Warfare II\" or \"Call of Duty: Modern Warfare II (2022)\". callofduty.fandom.com answers the API under \"Call of Duty: Modern Warfare II\", with 500 linked articles (the most the API returns in one call), mostly weapons, maps and operators, including mission pages such as \"Alone (level)\", \"Countdown (Modern Warfare II)\", \"Dark Water\", \"El Sin Nombre (level)\" and \"Ghost Team\"; names only were looked at, nothing copied. The data does not give the mission order, so missions are grouped by kind of challenge, not by when you play them. Low Profile, Defender: Mt. Zaya and Denied Area are named only in co-op achievements, so they sit in the co-op chapter."
+}

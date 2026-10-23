@@ -1,0 +1,1172 @@
+{
+  "id": "halo-infinite",
+  "title": "Halo Infinite",
+  "year": 2021,
+  "platforms": [
+    "Xbox One",
+    "PC",
+    "Xbox Series X|S"
+  ],
+  "rawgId": 58751,
+  "rawgSlug": "halo-infinite",
+  "released": "2021-12-08",
+  "developers": [
+    "343 Industries"
+  ],
+  "playtime": 2,
+  "genres": [
+    "Action",
+    "Shooter",
+    "Adventure"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Multiplayer",
+    "Full controller support",
+    "Atmospheric",
+    "Great Soundtrack",
+    "Co-op",
+    "Story Rich",
+    "Open World",
+    "cooperative",
+    "First-Person",
+    "Sci-fi",
+    "FPS"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/e1f/e1ffbeb1bac25b19749ad285ca29e158.jpg",
+  "steamAppId": 1240440,
+  "achievements": {
+    "total": 144,
+    "hidden": 18,
+    "examples": [
+      {
+        "name": "Clocking In",
+        "percent": 62.8
+      },
+      {
+        "name": "We Have a Job For You",
+        "percent": 51.6
+      },
+      {
+        "name": "Humble Beginnings",
+        "percent": 45.8
+      },
+      {
+        "name": "Keep It Steady",
+        "percent": 0.4
+      },
+      {
+        "name": "Rolling Thunder",
+        "percent": 0.4
+      },
+      {
+        "name": "You, Me, Same Page",
+        "percent": 0.4
+      },
+      {
+        "name": "Controlled Demolition",
+        "percent": 0.4
+      },
+      {
+        "name": "Wolves at the Doors",
+        "percent": 0.4
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": false,
+      "pages": 0,
+      "reason": "No page for Halo Infinite (MediaWiki API returned missing; see notes for other titles tried)"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 175,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://halo.fandom.com/wiki/Halo_Infinite"
+    }
+  },
+  "game": {
+    "id": "halo-infinite",
+    "title": "Halo Infinite",
+    "platforms": [
+      "Xbox One",
+      "PC",
+      "Xbox Series X|S"
+    ],
+    "blurb": "Sci-fi first-person shooter with an open-world campaign on Zeta Halo and free-to-play multiplayer, from 343 Industries, released 2021-12-08. RAWG average playtime: 2 hours. Genres: Action, Shooter, Adventure. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#3E5C3A",
+    "chapters": [
+      {
+        "id": "campaign",
+        "title": "The Campaign",
+        "summary": "The main missions, told as hidden milestones. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "campaign-difficulty",
+        "title": "Difficulty, Skulls and Speed Runs",
+        "summary": "Finishing the campaign on Normal, Heroic and Legendary, with all Skulls, and all 14 main missions in under eight hours.",
+        "steps": []
+      },
+      {
+        "id": "zeta-halo",
+        "title": "Zeta Halo: Outposts, Bases and Targets",
+        "summary": "Banished outposts, Forward Operating Bases, UNSC distress calls, High-Value Targets, Propaganda Towers, AA guns and Valor.",
+        "steps": []
+      },
+      {
+        "id": "collectibles-and-upgrades",
+        "title": "Collectibles and Spartan Upgrades",
+        "summary": "Audio Logs, Spartan Cores, Mjolnir Armor Lockers, Forerunner Artifacts, hidden Skulls, and unlocking and upgrading equipment.",
+        "steps": []
+      },
+      {
+        "id": "campaign-feats",
+        "title": "Campaign Feats and Mission Challenges",
+        "summary": "Stunts in the open world and tough one-off challenges inside named missions.",
+        "steps": []
+      },
+      {
+        "id": "coop",
+        "title": "Campaign Co-op",
+        "summary": "Goals that need two or more players in the co-op campaign.",
+        "steps": []
+      },
+      {
+        "id": "multiplayer-matches",
+        "title": "Multiplayer Matches",
+        "summary": "Ranked play, custom games and medals or feats in matchmade games and modes. Needs a network connection.",
+        "steps": []
+      },
+      {
+        "id": "multiplayer-progress",
+        "title": "Multiplayer Progress, Training and Customising",
+        "summary": "The Tutorial, Training Mode and Weapon Drills, Battle Pass and challenges, theater, and customising your Spartan, AI, weapons and vehicles.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "First Contact",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-2",
+        "name": "Together. Again?",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-3",
+        "name": "Ascension",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-4",
+        "name": "Zeta",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-5",
+        "name": "Fallen",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-6",
+        "name": "Unearthed",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-7",
+        "name": "Hunter. Killer.",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-8",
+        "name": "Pelican Down",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-9",
+        "name": "One Down…",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-10",
+        "name": "Brothers Grim",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-11",
+        "name": "Light the Way",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-12",
+        "name": "What Will It Take?",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-13",
+        "name": "Hear These Words!",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-14",
+        "name": "Together. Again.",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-15",
+        "name": "Reckoning",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-16",
+        "name": "Legends",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-17",
+        "name": "Too Many Goodbyes",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-18",
+        "name": "Set a Fire in Your Heart",
+        "kind": "trophy",
+        "chapterId": "campaign-difficulty",
+        "where": "Complete the main campaign."
+      },
+      {
+        "id": "achievement-19",
+        "name": "Bare Your Fangs",
+        "kind": "trophy",
+        "chapterId": "campaign-difficulty",
+        "where": "Complete the main campaign on Normal difficulty."
+      },
+      {
+        "id": "achievement-20",
+        "name": "Fight Hard, Die Well",
+        "kind": "trophy",
+        "chapterId": "campaign-difficulty",
+        "where": "Complete all main campaign missions on Heroic difficulty."
+      },
+      {
+        "id": "achievement-21",
+        "name": "Headmaster",
+        "kind": "trophy",
+        "chapterId": "campaign-difficulty",
+        "where": "Complete all main missions on Legendary with all Skulls active."
+      },
+      {
+        "id": "achievement-22",
+        "name": "Evasive Maneuvers",
+        "kind": "trophy",
+        "chapterId": "collectibles-and-upgrades",
+        "where": "Unlock the Thruster ability."
+      },
+      {
+        "id": "achievement-23",
+        "name": "Grab Some Cover",
+        "kind": "trophy",
+        "chapterId": "collectibles-and-upgrades",
+        "where": "Unlock the Drop Wall ability."
+      },
+      {
+        "id": "achievement-24",
+        "name": "Visionary",
+        "kind": "trophy",
+        "chapterId": "collectibles-and-upgrades",
+        "where": "Unlock the Threat Sensor ability."
+      },
+      {
+        "id": "achievement-25",
+        "name": "Thrusters On Full",
+        "kind": "trophy",
+        "chapterId": "collectibles-and-upgrades",
+        "where": "Fully upgrade the Thruster ability."
+      },
+      {
+        "id": "achievement-26",
+        "name": "Impervious",
+        "kind": "trophy",
+        "chapterId": "collectibles-and-upgrades",
+        "where": "Fully upgrade the Drop Wall ability."
+      },
+      {
+        "id": "achievement-27",
+        "name": "Big Brother",
+        "kind": "trophy",
+        "chapterId": "collectibles-and-upgrades",
+        "where": "Fully upgrade the Threat Sensor ability."
+      },
+      {
+        "id": "achievement-28",
+        "name": "Outpost Discovery",
+        "kind": "trophy",
+        "chapterId": "zeta-halo",
+        "where": "Complete a Banished outpost."
+      },
+      {
+        "id": "achievement-29",
+        "name": "Bunker Buster",
+        "kind": "trophy",
+        "chapterId": "zeta-halo",
+        "where": "Complete all seven Banished outposts."
+      },
+      {
+        "id": "achievement-30",
+        "name": "Reclaimer",
+        "kind": "trophy",
+        "chapterId": "zeta-halo",
+        "where": "Capture your first Forward Operating Base."
+      },
+      {
+        "id": "achievement-31",
+        "name": "Resurgency",
+        "kind": "trophy",
+        "chapterId": "zeta-halo",
+        "where": "Capture all available Forward Operating Bases."
+      },
+      {
+        "id": "achievement-32",
+        "name": "Who is Max Valor?",
+        "kind": "trophy",
+        "chapterId": "zeta-halo",
+        "where": "Complete all Valor-awarding activities."
+      },
+      {
+        "id": "achievement-33",
+        "name": "We're On Our Way",
+        "kind": "trophy",
+        "chapterId": "zeta-halo",
+        "where": "Answer a UNSC distress call."
+      },
+      {
+        "id": "achievement-34",
+        "name": "No One Left Behind",
+        "kind": "trophy",
+        "chapterId": "zeta-halo",
+        "where": "Answer all UNSC distress calls."
+      },
+      {
+        "id": "achievement-35",
+        "name": "Headhunter",
+        "kind": "trophy",
+        "chapterId": "zeta-halo",
+        "where": "Eliminate a Banished High-Value Target."
+      },
+      {
+        "id": "achievement-36",
+        "name": "Bloodstars' Bane",
+        "kind": "trophy",
+        "chapterId": "zeta-halo",
+        "where": "Eliminate all 15 Banished High-Value Targets."
+      },
+      {
+        "id": "achievement-37",
+        "name": "Dispatches From the Front",
+        "kind": "trophy",
+        "chapterId": "collectibles-and-upgrades",
+        "where": "Access your first UNSC Audio Log."
+      },
+      {
+        "id": "achievement-38",
+        "name": "Canon Collector",
+        "kind": "trophy",
+        "chapterId": "collectibles-and-upgrades",
+        "where": "Unlock all UNSC Audio Logs."
+      },
+      {
+        "id": "achievement-39",
+        "name": "Two Sides to Every Story",
+        "kind": "trophy",
+        "chapterId": "collectibles-and-upgrades",
+        "where": "Access your first Banished Audio Log."
+      },
+      {
+        "id": "achievement-40",
+        "name": "Know Your Enemy",
+        "kind": "trophy",
+        "chapterId": "collectibles-and-upgrades",
+        "where": "Unlock all Banished Audio Logs."
+      },
+      {
+        "id": "achievement-41",
+        "name": "Infinity Down",
+        "kind": "trophy",
+        "chapterId": "collectibles-and-upgrades",
+        "where": "Access your first Spartan Audio Log."
+      },
+      {
+        "id": "achievement-42",
+        "name": "Rubicon Protocol",
+        "kind": "trophy",
+        "chapterId": "collectibles-and-upgrades",
+        "where": "Unlock all Spartan Audio Logs."
+      },
+      {
+        "id": "achievement-43",
+        "name": "Hidden Experience",
+        "kind": "trophy",
+        "chapterId": "collectibles-and-upgrades",
+        "where": "Locate and secure a Spartan Core."
+      },
+      {
+        "id": "achievement-44",
+        "name": "Mjolnir Master",
+        "kind": "trophy",
+        "chapterId": "collectibles-and-upgrades",
+        "where": "Acquire all Spartan Cores."
+      },
+      {
+        "id": "achievement-45",
+        "name": "Getting Defensive",
+        "kind": "trophy",
+        "chapterId": "collectibles-and-upgrades",
+        "where": "Fully upgrade your Energy Shields."
+      },
+      {
+        "id": "achievement-46",
+        "name": "Reaching Out",
+        "kind": "trophy",
+        "chapterId": "collectibles-and-upgrades",
+        "where": "Fully upgrade the Grappleshot."
+      },
+      {
+        "id": "achievement-47",
+        "name": "Money in the Bank",
+        "kind": "trophy",
+        "chapterId": "collectibles-and-upgrades",
+        "where": "Access your first Mjolnir Armor Locker."
+      },
+      {
+        "id": "achievement-48",
+        "name": "Armory Amore",
+        "kind": "trophy",
+        "chapterId": "collectibles-and-upgrades",
+        "where": "Access all 34 Mjolnir Armor Lockers."
+      },
+      {
+        "id": "achievement-49",
+        "name": "Eld Aficionado",
+        "kind": "trophy",
+        "chapterId": "collectibles-and-upgrades",
+        "where": "Scan a Forerunner Artifact."
+      },
+      {
+        "id": "achievement-50",
+        "name": "Haruspis",
+        "kind": "trophy",
+        "chapterId": "collectibles-and-upgrades",
+        "where": "Scan all seven Forerunner Artifacts."
+      },
+      {
+        "id": "achievement-51",
+        "name": "Headstrong",
+        "kind": "trophy",
+        "chapterId": "collectibles-and-upgrades",
+        "where": "Discover your first hidden Skull."
+      },
+      {
+        "id": "achievement-52",
+        "name": "Catacomb",
+        "kind": "trophy",
+        "chapterId": "collectibles-and-upgrades",
+        "where": "Discover all hidden Skulls."
+      },
+      {
+        "id": "achievement-53",
+        "name": "Please Shut Up",
+        "kind": "trophy",
+        "chapterId": "zeta-halo",
+        "where": "Take out a Banished Propaganda Tower."
+      },
+      {
+        "id": "achievement-54",
+        "name": "Off the Air",
+        "kind": "trophy",
+        "chapterId": "zeta-halo",
+        "where": "Destroy 40 Banished Propaganda Towers."
+      },
+      {
+        "id": "achievement-55",
+        "name": "Gun Runner",
+        "kind": "trophy",
+        "chapterId": "zeta-halo",
+        "where": "Take down all three Banished AA guns."
+      },
+      {
+        "id": "achievement-56",
+        "name": "Forza Veloce",
+        "kind": "trophy",
+        "chapterId": "campaign-difficulty",
+        "where": "Complete all 14 main missions in under eight hours."
+      },
+      {
+        "id": "achievement-57",
+        "name": "Passing the Gas",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "Kill a Grunt that's been thrown by a Brute."
+      },
+      {
+        "id": "achievement-58",
+        "name": "Nosebleed",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "Check out the best possible view."
+      },
+      {
+        "id": "achievement-59",
+        "name": "Those Wonderful Toys",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "Successfully use the Grappleshot 50 times."
+      },
+      {
+        "id": "achievement-60",
+        "name": "Aegis Fate",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "Deploy the Drop Wall 50 times."
+      },
+      {
+        "id": "achievement-61",
+        "name": "All-Seeing I",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "Use the Threat Sensor 50 times."
+      },
+      {
+        "id": "achievement-62",
+        "name": "Run Rabbit, Run",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "Use the Thruster 50 times."
+      },
+      {
+        "id": "achievement-63",
+        "name": "Whip-Riding the Ghost",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "Use the Grappleshot to board an enemy Ghost."
+      },
+      {
+        "id": "achievement-64",
+        "name": "Wait, I Can Throw Those?",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "Throw 50 fusion coils."
+      },
+      {
+        "id": "achievement-65",
+        "name": "Bring Shiela Home Safely",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "Get the Scorpion all the way to the \"House\" without it blowing up."
+      },
+      {
+        "id": "achievement-66",
+        "name": "Takes One to Make One",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "Splatter an enemy with a Ghost."
+      },
+      {
+        "id": "achievement-67",
+        "name": "Wars with Friends",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "Bring some rescued UNSC Marines along for the ride into a main mission."
+      },
+      {
+        "id": "achievement-68",
+        "name": "Wanna Have a Catch?",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "Stick 50 enemies with grenades."
+      },
+      {
+        "id": "achievement-69",
+        "name": "A True Test of Legends",
+        "kind": "trophy",
+        "chapterId": "campaign-difficulty",
+        "where": "Complete all main campaign missions on Legendary difficulty."
+      },
+      {
+        "id": "achievement-70",
+        "name": "Which One of Us is the Machine?",
+        "kind": "trophy",
+        "chapterId": "multiplayer-progress",
+        "where": "Get and equip a new AI."
+      },
+      {
+        "id": "achievement-71",
+        "name": "Passion for Fashion",
+        "kind": "trophy",
+        "chapterId": "multiplayer-progress",
+        "where": "Wear a new armor customization item."
+      },
+      {
+        "id": "achievement-72",
+        "name": "\"Need a Weapon?\"",
+        "kind": "trophy",
+        "chapterId": "multiplayer-progress",
+        "where": "Try out a new weapon customization item."
+      },
+      {
+        "id": "achievement-73",
+        "name": "That Thing on the Left is the Brake",
+        "kind": "trophy",
+        "chapterId": "multiplayer-progress",
+        "where": "Test drive a new vehicle customization."
+      },
+      {
+        "id": "achievement-74",
+        "name": "Reporting for Duty",
+        "kind": "trophy",
+        "chapterId": "multiplayer-progress",
+        "where": "Change your Spartan Tag."
+      },
+      {
+        "id": "achievement-75",
+        "name": "I'm Ready, How 'Bout You?",
+        "kind": "trophy",
+        "chapterId": "multiplayer-progress",
+        "where": "Change your Spartan's look in the Customize menu."
+      },
+      {
+        "id": "achievement-76",
+        "name": "Humble Beginnings",
+        "kind": "trophy",
+        "chapterId": "multiplayer-progress",
+        "where": "Complete one level in a Battle Pass."
+      },
+      {
+        "id": "achievement-77",
+        "name": "Battle Tested",
+        "kind": "trophy",
+        "chapterId": "multiplayer-progress",
+        "where": "Complete a Battle Pass."
+      },
+      {
+        "id": "achievement-78",
+        "name": "Clocking In",
+        "kind": "trophy",
+        "chapterId": "multiplayer-progress",
+        "where": "Complete a Daily Challenge."
+      },
+      {
+        "id": "achievement-79",
+        "name": "We Have a Job For You",
+        "kind": "trophy",
+        "chapterId": "multiplayer-progress",
+        "where": "Complete a Weekly Challenge."
+      },
+      {
+        "id": "achievement-80",
+        "name": "Limited Addition",
+        "kind": "trophy",
+        "chapterId": "multiplayer-progress",
+        "where": "Complete a Limited Time Challenge."
+      },
+      {
+        "id": "achievement-81",
+        "name": "You're Up, Rook'",
+        "kind": "trophy",
+        "chapterId": "multiplayer-matches",
+        "where": "Play a Ranked Match."
+      },
+      {
+        "id": "achievement-82",
+        "name": "All About the Grind",
+        "kind": "trophy",
+        "chapterId": "multiplayer-matches",
+        "where": "Finished Ranked Placement Matches."
+      },
+      {
+        "id": "achievement-83",
+        "name": "Get the Popcorn",
+        "kind": "trophy",
+        "chapterId": "multiplayer-progress",
+        "where": "View a clip in theater."
+      },
+      {
+        "id": "achievement-84",
+        "name": "Customary",
+        "kind": "trophy",
+        "chapterId": "multiplayer-matches",
+        "where": "Play a custom game."
+      },
+      {
+        "id": "achievement-85",
+        "name": "Getting Strong Now",
+        "kind": "trophy",
+        "chapterId": "multiplayer-progress",
+        "where": "Launch into Training Mode for the first time."
+      },
+      {
+        "id": "achievement-86",
+        "name": "Sparring Partners",
+        "kind": "trophy",
+        "chapterId": "multiplayer-progress",
+        "where": "Change any training mode option."
+      },
+      {
+        "id": "achievement-87",
+        "name": "Sharpshooter",
+        "kind": "trophy",
+        "chapterId": "multiplayer-progress",
+        "where": "Complete a Weapon Drill."
+      },
+      {
+        "id": "achievement-88",
+        "name": "Deadeye",
+        "kind": "trophy",
+        "chapterId": "multiplayer-progress",
+        "where": "Earn 3 stars in a Weapon Drill."
+      },
+      {
+        "id": "achievement-89",
+        "name": "Augmented",
+        "kind": "trophy",
+        "chapterId": "multiplayer-progress",
+        "where": "Earn 3 stars in 5 Tier 3 Weapon Drills."
+      },
+      {
+        "id": "achievement-90",
+        "name": "Doing Your Part",
+        "kind": "trophy",
+        "chapterId": "multiplayer-progress",
+        "where": "Complete the Tutorial."
+      },
+      {
+        "id": "achievement-91",
+        "name": "Just the Two of Us",
+        "kind": "trophy",
+        "chapterId": "multiplayer-progress",
+        "where": "Access your Personal AI."
+      },
+      {
+        "id": "achievement-92",
+        "name": "Make a Little More Noise",
+        "kind": "trophy",
+        "chapterId": "multiplayer-progress",
+        "where": "Grab a power weapon from the Tutorial armory."
+      },
+      {
+        "id": "achievement-93",
+        "name": "Greased Lightning",
+        "kind": "trophy",
+        "chapterId": "multiplayer-progress",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-94",
+        "name": "Peak Performance",
+        "kind": "trophy",
+        "chapterId": "multiplayer-matches",
+        "where": "Earn 2,000 score in a matchmade game."
+      },
+      {
+        "id": "achievement-95",
+        "name": "Slaying with Style",
+        "kind": "trophy",
+        "chapterId": "multiplayer-matches",
+        "where": "Earn a Mythic Medal in a matchmade game."
+      },
+      {
+        "id": "achievement-96",
+        "name": "Back to the Chopper",
+        "kind": "trophy",
+        "chapterId": "multiplayer-matches",
+        "where": "Earn \"Splatter\" with a Brute Chopper in a matchmade game."
+      },
+      {
+        "id": "achievement-97",
+        "name": "New Kid on the Block",
+        "kind": "trophy",
+        "chapterId": "multiplayer-matches",
+        "where": "Earn \"Perfect\" with a VK78 Commando in a matchmade game."
+      },
+      {
+        "id": "achievement-98",
+        "name": "Party Bus",
+        "kind": "trophy",
+        "chapterId": "multiplayer-matches",
+        "where": "Earn \"Mount Up\" in a Razorback in a matchmade game."
+      },
+      {
+        "id": "achievement-99",
+        "name": "Watt Say You?",
+        "kind": "trophy",
+        "chapterId": "multiplayer-matches",
+        "where": "Earn \"Chain Reaction\" with a Shock Rifle in a matchmade game."
+      },
+      {
+        "id": "achievement-100",
+        "name": "Peeker's Disadvantage",
+        "kind": "trophy",
+        "chapterId": "multiplayer-matches",
+        "where": "\"Back Smack\" an enemy who is zoomed in with a scoped weapon in a matchmade game."
+      },
+      {
+        "id": "achievement-101",
+        "name": "Brutality",
+        "kind": "trophy",
+        "chapterId": "multiplayer-matches",
+        "where": "Kill an enemy with melee using a bladed weapon in a matchmade game."
+      },
+      {
+        "id": "achievement-102",
+        "name": "Sick Burn",
+        "kind": "trophy",
+        "chapterId": "multiplayer-matches",
+        "where": "Kill an enemy with the Ravager's charged shot in a matchmade game."
+      },
+      {
+        "id": "achievement-103",
+        "name": "Kebab",
+        "kind": "trophy",
+        "chapterId": "multiplayer-matches",
+        "where": "Destroy an enemy vehicle with the Skewer in a matchmade game."
+      },
+      {
+        "id": "achievement-104",
+        "name": "Skyhook Shot",
+        "kind": "trophy",
+        "chapterId": "multiplayer-matches",
+        "where": "\"Grapplejack\" an enemy flying vehicle in a matchmade game."
+      },
+      {
+        "id": "achievement-105",
+        "name": "Working Remote",
+        "kind": "trophy",
+        "chapterId": "multiplayer-matches",
+        "where": "Pick up a weapon using the Grappleshot in a matchmade game."
+      },
+      {
+        "id": "achievement-106",
+        "name": "Secret Stash",
+        "kind": "trophy",
+        "chapterId": "multiplayer-matches",
+        "where": "Place an item in the Razorback's storage in a matchmade game."
+      },
+      {
+        "id": "achievement-107",
+        "name": "Bomb Returned",
+        "kind": "trophy",
+        "chapterId": "multiplayer-matches",
+        "where": "Repel an enemy grenade with the Repulsor in a matchmade game."
+      },
+      {
+        "id": "achievement-108",
+        "name": "Do You Even Gift?",
+        "kind": "trophy",
+        "chapterId": "multiplayer-matches",
+        "where": "Drop a Power Weapon for an ally in a matchmade game."
+      },
+      {
+        "id": "achievement-109",
+        "name": "Multi-class Racer",
+        "kind": "trophy",
+        "chapterId": "multiplayer-matches",
+        "where": "Drive 4 unique vehicles in a matchmade game."
+      },
+      {
+        "id": "achievement-110",
+        "name": "They See Me Rollin'",
+        "kind": "trophy",
+        "chapterId": "multiplayer-matches",
+        "where": "Spectate an ally that is driving a Warthog or Razorback in a matchmade game."
+      },
+      {
+        "id": "achievement-111",
+        "name": "One Shot, Top Mid",
+        "kind": "trophy",
+        "chapterId": "multiplayer-matches",
+        "where": "Mark an enemy located at \"Top Mid\" in a matchmade game."
+      },
+      {
+        "id": "achievement-112",
+        "name": "Enemies Everywhere!",
+        "kind": "trophy",
+        "chapterId": "multiplayer-matches",
+        "where": "Mark 3+ enemies at once in a matchmade game."
+      },
+      {
+        "id": "achievement-113",
+        "name": "Natural Formation Location Sensation",
+        "kind": "trophy",
+        "chapterId": "multiplayer-matches",
+        "where": "Gain access to a loot cave in a matchmade game."
+      },
+      {
+        "id": "achievement-114",
+        "name": "A Fellow of Infinite Jest",
+        "kind": "trophy",
+        "chapterId": "multiplayer-matches",
+        "where": "Kill three enemies with the ball in a matchmade Oddball game."
+      },
+      {
+        "id": "achievement-115",
+        "name": "Running Laps",
+        "kind": "trophy",
+        "chapterId": "multiplayer-matches",
+        "where": "Capture the flag twice in a matchmade Capture the Flag game."
+      },
+      {
+        "id": "achievement-116",
+        "name": "Zone Ranger",
+        "kind": "trophy",
+        "chapterId": "multiplayer-matches",
+        "where": "Secure 5 zones in a matchmade Strongholds game."
+      },
+      {
+        "id": "achievement-117",
+        "name": "MEDIC!",
+        "kind": "trophy",
+        "chapterId": "multiplayer-matches",
+        "where": "Revive 3 allies in an Attrition/Elimination round in a matchmade or custom game."
+      },
+      {
+        "id": "achievement-118",
+        "name": "Control Freak",
+        "kind": "trophy",
+        "chapterId": "multiplayer-matches",
+        "where": "Assist in capturing all zones that lead to a score in a matchmade Total Control game."
+      },
+      {
+        "id": "achievement-119",
+        "name": "Straight to the Bank",
+        "kind": "trophy",
+        "chapterId": "multiplayer-matches",
+        "where": "Deposit 5 Power Seeds in a matchmade Stockpile game."
+      },
+      {
+        "id": "achievement-120",
+        "name": "Mix Things Up",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "Get at least one kill with every available weapon and grenade on the Banished ship."
+      },
+      {
+        "id": "achievement-121",
+        "name": "Stick Around",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "Defeat Tremonius with the Skewer."
+      },
+      {
+        "id": "achievement-122",
+        "name": "Rapid Unscheduled Disassembly",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "Destroy both Phantoms before they leave Outpost Tremonius."
+      },
+      {
+        "id": "achievement-123",
+        "name": "Out with a Bang",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "Kill the Tower commander with a Plasma grenade."
+      },
+      {
+        "id": "achievement-124",
+        "name": "Workplace Safety Violation",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "Kill an enemy with the Banished mining laser."
+      },
+      {
+        "id": "achievement-125",
+        "name": "Conservation of Momentum",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "Complete the Conservatory in less than 15 minutes."
+      },
+      {
+        "id": "achievement-126",
+        "name": "It Really Does Beat Everything",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "Eliminate all enemies at the South Beacon with a Scorpion Tank."
+      },
+      {
+        "id": "achievement-127",
+        "name": "Vintage Fisticuffs",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "In the Nexus, kill the Hunter pair with melee final blows."
+      },
+      {
+        "id": "achievement-128",
+        "name": "Spire Stalker",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "Kill 40 enemies with the Stalker Rifle at the Command Spire."
+      },
+      {
+        "id": "achievement-129",
+        "name": "Turnabout is Fair Play",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "Kill one Chieftain and use his turret to kill another in the Repository."
+      },
+      {
+        "id": "achievement-130",
+        "name": "More Than He Bargained For",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "Defeat War Chief Escharum without ever fully losing your shields."
+      },
+      {
+        "id": "achievement-131",
+        "name": "Gatecrasher",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "Breach the Auditorium in under three minutes."
+      },
+      {
+        "id": "achievement-132",
+        "name": "What's Rightfully Ours",
+        "kind": "trophy",
+        "chapterId": "coop",
+        "where": "In co-op, capture all Forward Operating Bases on any difficulty."
+      },
+      {
+        "id": "achievement-133",
+        "name": "Wardens of Zeta",
+        "kind": "trophy",
+        "chapterId": "coop",
+        "where": "In co-op, complete all seven Banished outposts on any difficulty."
+      },
+      {
+        "id": "achievement-134",
+        "name": "First Responders",
+        "kind": "trophy",
+        "chapterId": "coop",
+        "where": "In co-op, answer all UNSC distress calls on any difficulty."
+      },
+      {
+        "id": "achievement-135",
+        "name": "Hunting Party",
+        "kind": "trophy",
+        "chapterId": "coop",
+        "where": "In co-op, eliminate all Banished High-Value Targets on any difficulty."
+      },
+      {
+        "id": "achievement-136",
+        "name": "Air Raid",
+        "kind": "trophy",
+        "chapterId": "coop",
+        "where": "In co-op, kill 100 enemies while all players are riding air vehicles."
+      },
+      {
+        "id": "achievement-137",
+        "name": "Cow Catcher",
+        "kind": "trophy",
+        "chapterId": "coop",
+        "where": "In co-op, splatter 50 enemies while riding in a vehicle with another player."
+      },
+      {
+        "id": "achievement-138",
+        "name": "Gruesome Twosome",
+        "kind": "trophy",
+        "chapterId": "coop",
+        "where": "In co-op, kill 50 enemies while riding a Mongoose with another player."
+      },
+      {
+        "id": "achievement-139",
+        "name": "Keep It Steady",
+        "kind": "trophy",
+        "chapterId": "coop",
+        "where": "Kill 5 enemies with a Sniper Rifle from a vehicle. All players aboard vehicle share progress."
+      },
+      {
+        "id": "achievement-140",
+        "name": "Rolling Thunder",
+        "kind": "trophy",
+        "chapterId": "coop",
+        "where": "Kill 5 enemies with a Gravity Hammer from a vehicle. All players aboard vehicle share progress."
+      },
+      {
+        "id": "achievement-141",
+        "name": "Inseparable",
+        "kind": "trophy",
+        "chapterId": "coop",
+        "where": "In co-op, kill a Hunter and its bond brother within three seconds of each other."
+      },
+      {
+        "id": "achievement-142",
+        "name": "You, Me, Same Page",
+        "kind": "trophy",
+        "chapterId": "coop",
+        "where": "In co-op, destroy all cooling towers at the Dig Site within 60 seconds of each other."
+      },
+      {
+        "id": "achievement-143",
+        "name": "Controlled Demolition",
+        "kind": "trophy",
+        "chapterId": "coop",
+        "where": "In co-op, destroy four Fuel Silos within five seconds at either Ransom Keep or the Forge of Teash."
+      },
+      {
+        "id": "achievement-144",
+        "name": "Wolves at the Doors",
+        "kind": "trophy",
+        "chapterId": "coop",
+        "where": "In co-op, lower all three gates within 15 seconds of each other at Riven Gate."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/halo-infinite",
+    "Achievement data from Steam (Steam Web API, app 1240440)",
+    "StrategyWiki: no page for this game, nothing used",
+    "Fandom (halo.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://halo.fandom.com/wiki/Halo_Infinite"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). No StrategyWiki page under \"Halo Infinite\" or \"Halo: Infinite\". halo.fandom.com answers the API under \"Halo Infinite\", with about 177 linked articles, including \"Banished\", \"Escharum\", \"Big Team Battle\", \"Capture the Flag\", \"Attrition\" and \"Forge\"; names only were looked at, nothing copied. Steam app 1240440 is \"Halo Infinite\" and holds both campaign and multiplayer achievements (144 in all). 18 are hidden: 17 sit at the top of the list and read like campaign missions, so they are in the campaign chapter; \"Greased Lightning\" sits between the Tutorial and the matchmade achievements and was put with multiplayer progress, which is a guess from position. RAWG's average playtime (2 hours) looks low for the campaign. Multiplayer chapters need a network connection."
+}

@@ -1,0 +1,378 @@
+{
+  "id": "resident-evil-3-2020",
+  "title": "Resident Evil 3",
+  "year": 2020,
+  "platforms": [
+    "PlayStation 5",
+    "Xbox Series X|S",
+    "PC",
+    "Nintendo Switch",
+    "PlayStation 4",
+    "Xbox One"
+  ],
+  "rawgId": 397477,
+  "rawgSlug": "resident-evil-3",
+  "released": "2020-04-02",
+  "developers": [
+    "Capcom",
+    "GOG"
+  ],
+  "playtime": 8,
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Multiplayer",
+    "Full controller support",
+    "Steam Cloud",
+    "Atmospheric",
+    "Great Soundtrack",
+    "Co-op",
+    "Story Rich",
+    "cooperative",
+    "Third Person",
+    "Horror",
+    "Gore"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/a4b/a4bb55f42fe837ae7bf1307e7b41cc85.jpg",
+  "steamAppId": 952060,
+  "achievements": {
+    "total": 32,
+    "hidden": 16,
+    "examples": [
+      {
+        "name": "Basic Chemistry",
+        "percent": 89.7
+      },
+      {
+        "name": "Get Organized",
+        "percent": 83.0
+      },
+      {
+        "name": "Gunsmith",
+        "percent": 80.4
+      },
+      {
+        "name": "I Might Need These Later!",
+        "percent": 13.4
+      },
+      {
+        "name": "Electric Slide",
+        "percent": 13.0
+      },
+      {
+        "name": "Sensational Work!",
+        "percent": 12.7
+      },
+      {
+        "name": "Bookworm",
+        "percent": 9.9
+      },
+      {
+        "name": "Minimalist",
+        "percent": 9.6
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Resident_Evil_3_(2020)",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 162,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://residentevil.fandom.com/wiki/Resident_Evil_3_(2020)"
+    }
+  },
+  "game": {
+    "id": "resident-evil-3-2020",
+    "title": "Resident Evil 3",
+    "platforms": [
+      "PlayStation 5",
+      "Xbox Series X|S",
+      "PC",
+      "Nintendo Switch",
+      "PlayStation 4",
+      "Xbox One"
+    ],
+    "blurb": "Survival horror action game, the 2020 remake of 1999's Resident Evil 3: Nemesis, from Capcom, released 2020-04-02. RAWG average playtime: 8 hours. Genres: Action, Adventure. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#6E1F2A",
+    "chapters": [
+      {
+        "id": "main-story",
+        "title": "The Main Story",
+        "summary": "Escapes, encounters with the Pursuer and other story moments, as hidden milestones. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "crafting-and-gear",
+        "title": "Crafting, Weapons and Inventory",
+        "summary": "Crafting an item, improving a weapon and expanding your inventory.",
+        "steps": []
+      },
+      {
+        "id": "collectibles",
+        "title": "Charlie Dolls, Files, Locks and Jewels",
+        "summary": "Destroying Charlie Dolls, reading every story file, collecting every weapon, opening every lock and placing the clock tower jewels.",
+        "steps": []
+      },
+      {
+        "id": "challenges",
+        "title": "Combat and Timed Challenges",
+        "summary": "Two kills with one shot and the timed fuse hunt in the warehouse.",
+        "steps": []
+      },
+      {
+        "id": "difficulty-and-runs",
+        "title": "Difficulty, Ranks and Challenge Runs",
+        "summary": "Finishing on Standard and Hardcore, S ranks, no item box, few recovery items and under two hours.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "First Escape",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-2",
+        "name": "Somebody to Lean On",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-3",
+        "name": "Escape from the City",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-4",
+        "name": "I Don't Feel So Good",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-5",
+        "name": "Dominator",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-6",
+        "name": "Basic Chemistry",
+        "kind": "trophy",
+        "chapterId": "crafting-and-gear",
+        "where": "Craft an item."
+      },
+      {
+        "id": "achievement-7",
+        "name": "Gunsmith",
+        "kind": "trophy",
+        "chapterId": "crafting-and-gear",
+        "where": "Improve a weapon."
+      },
+      {
+        "id": "achievement-8",
+        "name": "Get Organized",
+        "kind": "trophy",
+        "chapterId": "crafting-and-gear",
+        "where": "Expand your inventory."
+      },
+      {
+        "id": "achievement-9",
+        "name": "Nemesis Down",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-10",
+        "name": "Nemesis Down?",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-11",
+        "name": "Power Stones",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Place all jewels in the clock tower monument."
+      },
+      {
+        "id": "achievement-12",
+        "name": "The Carlos Express",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-13",
+        "name": "An Unfortunate End",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-14",
+        "name": "Jill Valentine",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-15",
+        "name": "I Need a Hero",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-16",
+        "name": "The Pursuer",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-17",
+        "name": "Electric Slide",
+        "kind": "trophy",
+        "chapterId": "challenges",
+        "where": "Gather all the fuses in the warehouse within 5 minutes."
+      },
+      {
+        "id": "achievement-18",
+        "name": "Nemesis Down!?",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-19",
+        "name": "Nemesis Down!!!",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-20",
+        "name": "Hello, Charlie!",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Destroy a Charlie Doll."
+      },
+      {
+        "id": "achievement-21",
+        "name": "Two For One Deal",
+        "kind": "trophy",
+        "chapterId": "challenges",
+        "where": "Defeat two enemies with a single shot."
+      },
+      {
+        "id": "achievement-22",
+        "name": "Bookworm",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Read all story files."
+      },
+      {
+        "id": "achievement-23",
+        "name": "Goodbye, Charlie!",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-24",
+        "name": "Kendo's Armory",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Collect all weapons in the campaign."
+      },
+      {
+        "id": "achievement-25",
+        "name": "RE: Master of Unlocking",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Unlock all safes, lockers, strongboxes, and pickable locks."
+      },
+      {
+        "id": "achievement-26",
+        "name": "Survivor",
+        "kind": "trophy",
+        "chapterId": "difficulty-and-runs",
+        "where": "Complete the game on \"Standard\" or higher."
+      },
+      {
+        "id": "achievement-27",
+        "name": "Veteran",
+        "kind": "trophy",
+        "chapterId": "difficulty-and-runs",
+        "where": "Complete the game on \"Hardcore\" or higher."
+      },
+      {
+        "id": "achievement-28",
+        "name": "Conqueror",
+        "kind": "trophy",
+        "chapterId": "difficulty-and-runs",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-29",
+        "name": "Sensational Work!",
+        "kind": "trophy",
+        "chapterId": "difficulty-and-runs",
+        "where": "Complete the game with an S rank."
+      },
+      {
+        "id": "achievement-30",
+        "name": "Minimalist",
+        "kind": "trophy",
+        "chapterId": "difficulty-and-runs",
+        "where": "Complete the game without opening the item box."
+      },
+      {
+        "id": "achievement-31",
+        "name": "I Might Need These Later!",
+        "kind": "trophy",
+        "chapterId": "difficulty-and-runs",
+        "where": "Complete the game using 1 or fewer recovery items."
+      },
+      {
+        "id": "achievement-32",
+        "name": "Sprinter",
+        "kind": "trophy",
+        "chapterId": "difficulty-and-runs",
+        "where": "Complete the game in under 2 hours of play time."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/resident-evil-3",
+    "Achievement data from Steam (Steam Web API, app 952060)",
+    "StrategyWiki: no usable walkthrough, nothing used — https://strategywiki.org/wiki/Resident_Evil_3_(2020)",
+    "Fandom (residentevil.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://residentevil.fandom.com/wiki/Resident_Evil_3_(2020)"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). This is the 2020 remake, with its own Steam app 952060; the Steam schema calls it \"E1\" (an internal codename). The Steam app list also has \"Resident Evil 3 Nemesis (1999)\" as app 4249120, which was not used. StrategyWiki has the remake under \"Resident Evil 3 (2020)\" (completion stage 0, marked \"Perfect stub article\"); it links Gameplay, Walkthrough and Table of Contents subpages but none is written, so nothing was used. residentevil.fandom.com answers the API under \"Resident Evil 3 (2020)\" with about 162 linked articles; names only were looked at, nothing copied. 16 of 32 Steam achievements are hidden. \"Goodbye, Charlie!\" was put with the Charlie Doll collectibles because of its name, and \"Conqueror\" sits right after \"Survivor\" and \"Veteran\" in the Steam list, so it was put with difficulty; both are guesses and need checking. The other 14 hidden ones sit in the story chapter, including two low-percentage ones (\"Dominator\" 7.8%, \"Jill Valentine\" 7.1%) that may be harder unlocks rather than story."
+}

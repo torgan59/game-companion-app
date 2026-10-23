@@ -1,0 +1,486 @@
+{
+  "id": "tiny-tinas-wonderlands",
+  "title": "Tiny Tina's Wonderlands",
+  "year": 2022,
+  "platforms": [
+    "PC",
+    "PlayStation 5",
+    "Xbox Series X|S",
+    "PlayStation 4",
+    "Xbox One"
+  ],
+  "rawgId": 614962,
+  "rawgSlug": "tiny-tinas-wonderlands",
+  "released": "2022-03-25",
+  "developers": [
+    "Gearbox Software"
+  ],
+  "playtime": 7,
+  "genres": [
+    "Action",
+    "Shooter",
+    "Adventure",
+    "RPG"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Multiplayer",
+    "Full controller support",
+    "RPG",
+    "Co-op",
+    "cooperative",
+    "FPS",
+    "Online Co-Op",
+    "Fantasy",
+    "Comedy",
+    "Local Co-Op"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/13b/13b029c381614a8e557f442cff488bb3.jpg",
+  "steamAppId": 1286680,
+  "achievements": {
+    "total": 47,
+    "hidden": 22,
+    "examples": [
+      {
+        "name": "They Haven't Invented Podcasts Yet",
+        "percent": 92.3
+      },
+      {
+        "name": "Shop, Drop, and Roleplay",
+        "percent": 82.2
+      },
+      {
+        "name": "A Recent Hope",
+        "percent": 63.8
+      },
+      {
+        "name": "\"You Mean the Chaos Levels?\"",
+        "percent": 10.0
+      },
+      {
+        "name": "Controlled Chaos",
+        "percent": 7.4
+      },
+      {
+        "name": "Fired Festival",
+        "percent": 7.2
+      },
+      {
+        "name": "Mule Character",
+        "percent": 6.2
+      },
+      {
+        "name": "Bunker Mastered",
+        "percent": 1.8
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": false,
+      "pages": 0,
+      "reason": "No page for Tiny Tina's Wonderlands (MediaWiki API returned missing; see notes for other titles tried)"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 87,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://borderlands.fandom.com/wiki/Tiny_Tina's_Wonderlands"
+    }
+  },
+  "game": {
+    "id": "tiny-tinas-wonderlands",
+    "title": "Tiny Tina's Wonderlands",
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "Xbox Series X|S",
+      "PlayStation 4",
+      "Xbox One"
+    ],
+    "blurb": "Fantasy looter shooter where you roll a multiclass hero and quest to stop the Dragon Lord, from Gearbox Software, released 2022-03-25. RAWG average playtime: 7 hours. Genres: Action, Shooter, Adventure, RPG. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#7D3C98",
+    "chapters": [
+      {
+        "id": "main-story",
+        "title": "The Main Story",
+        "summary": "The campaign, told through hidden story milestones from Quest Get! onward. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "side-quests",
+        "title": "Side Quests",
+        "summary": "Twenty side quests, then every side quest.",
+        "steps": []
+      },
+      {
+        "id": "overworld",
+        "title": "The Overworld",
+        "summary": "Dungeon Doors, encampments and stunning enemies that chase you on the Overworld map.",
+        "steps": []
+      },
+      {
+        "id": "chaos",
+        "title": "Chaos Chambers and Chaos Levels",
+        "summary": "Chaos Chamber runs, Chaos levels 10 and 20, and unlocking every other achievement.",
+        "steps": []
+      },
+      {
+        "id": "levels-and-loot",
+        "title": "Levels, Loot and Party Play",
+        "summary": "Hero levels, gold, inventory upgrades, Loot Luck, enchanting, cosmetics, lore scrolls, trading and reviving partners.",
+        "steps": []
+      },
+      {
+        "id": "later-hidden",
+        "title": "Later Hidden Achievements",
+        "summary": "Eight hidden achievements listed after the rest, with low unlock rates. Spoiler-guarded.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "A Recent Hope",
+        "kind": "trophy",
+        "chapterId": "levels-and-loot",
+        "where": "Reach level 10."
+      },
+      {
+        "id": "achievement-2",
+        "name": "Hero Protagonist",
+        "kind": "trophy",
+        "chapterId": "levels-and-loot",
+        "where": "Reach level 20."
+      },
+      {
+        "id": "achievement-3",
+        "name": "Wyvernheart",
+        "kind": "trophy",
+        "chapterId": "levels-and-loot",
+        "where": "Reach level 30."
+      },
+      {
+        "id": "achievement-4",
+        "name": "Living Legend",
+        "kind": "trophy",
+        "chapterId": "levels-and-loot",
+        "where": "Reach level 40."
+      },
+      {
+        "id": "achievement-5",
+        "name": "Quest Get!",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-6",
+        "name": "Brighthoof Calls for Aid",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-7",
+        "name": "Short Rein",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-8",
+        "name": "Friend to the Forest",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-9",
+        "name": "Bomb Voyage!",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-10",
+        "name": "Rude Sails of Magic",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-11",
+        "name": "Brutal Narrative Dissonance",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-12",
+        "name": "Body Unsnatcher",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-13",
+        "name": "The First Session",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-14",
+        "name": "At the Top of All Things",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-15",
+        "name": "Gob Darn Good Work",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-16",
+        "name": "Parasites Lost",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-17",
+        "name": "You, Esquire",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-18",
+        "name": "So Much for That Guy",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-19",
+        "name": "No Quest Too Small",
+        "kind": "trophy",
+        "chapterId": "side-quests",
+        "where": "Complete 20 side quests."
+      },
+      {
+        "id": "achievement-20",
+        "name": "Completionist Is Next to Godliness",
+        "kind": "trophy",
+        "chapterId": "side-quests",
+        "where": "Complete all side quests."
+      },
+      {
+        "id": "achievement-21",
+        "name": "Grab My Hand!",
+        "kind": "trophy",
+        "chapterId": "levels-and-loot",
+        "where": "Revive a partner."
+      },
+      {
+        "id": "achievement-22",
+        "name": "Reversal of Fates",
+        "kind": "trophy",
+        "chapterId": "levels-and-loot",
+        "where": "Get a Death Save off a badass or a boss."
+      },
+      {
+        "id": "achievement-23",
+        "name": "Put the RNG in Orange",
+        "kind": "trophy",
+        "chapterId": "levels-and-loot",
+        "where": "Find an enchanted legendary item in the wild."
+      },
+      {
+        "id": "achievement-24",
+        "name": "Bursting Coffers",
+        "kind": "trophy",
+        "chapterId": "levels-and-loot",
+        "where": "Have at least 100,000 gold."
+      },
+      {
+        "id": "achievement-25",
+        "name": "Goldionaire",
+        "kind": "trophy",
+        "chapterId": "levels-and-loot",
+        "where": "Have at least 1,000,000 gold."
+      },
+      {
+        "id": "achievement-26",
+        "name": "Mag of Holding",
+        "kind": "trophy",
+        "chapterId": "levels-and-loot",
+        "where": "Purchase the final tier of any inventory upgrade."
+      },
+      {
+        "id": "achievement-27",
+        "name": "Mule Character",
+        "kind": "trophy",
+        "chapterId": "levels-and-loot",
+        "where": "Purchase every inventory upgrade."
+      },
+      {
+        "id": "achievement-28",
+        "name": "Take This",
+        "kind": "trophy",
+        "chapterId": "levels-and-loot",
+        "where": "Trade with another player."
+      },
+      {
+        "id": "achievement-29",
+        "name": "Shop, Drop, and Roleplay",
+        "kind": "trophy",
+        "chapterId": "levels-and-loot",
+        "where": "Pick up and redeem a cosmetic item."
+      },
+      {
+        "id": "achievement-30",
+        "name": "Luck Amok",
+        "kind": "trophy",
+        "chapterId": "levels-and-loot",
+        "where": "Have at least 3,000 total Loot Luck."
+      },
+      {
+        "id": "achievement-31",
+        "name": "They Haven't Invented Podcasts Yet",
+        "kind": "trophy",
+        "chapterId": "levels-and-loot",
+        "where": "Pick up a lore scroll."
+      },
+      {
+        "id": "achievement-32",
+        "name": "Keep On Rollin'",
+        "kind": "trophy",
+        "chapterId": "levels-and-loot",
+        "where": "Enchant or re-enchant an item."
+      },
+      {
+        "id": "achievement-33",
+        "name": "Dungeon Ender",
+        "kind": "trophy",
+        "chapterId": "overworld",
+        "where": "Complete every Dungeon Door in the Overworld."
+      },
+      {
+        "id": "achievement-34",
+        "name": "Back Off!",
+        "kind": "trophy",
+        "chapterId": "overworld",
+        "where": "Stun an enemy chasing you in the Overworld."
+      },
+      {
+        "id": "achievement-35",
+        "name": "Fired Festival",
+        "kind": "trophy",
+        "chapterId": "overworld",
+        "where": "Clear out 10 encampments in the Overworld."
+      },
+      {
+        "id": "achievement-36",
+        "name": "Thank the Maker",
+        "kind": "trophy",
+        "chapterId": "chaos",
+        "where": "Complete a Chaos Chamber run."
+      },
+      {
+        "id": "achievement-37",
+        "name": "\"You Mean the Chaos Levels?\"",
+        "kind": "trophy",
+        "chapterId": "chaos",
+        "where": "Reach Chaos level 10."
+      },
+      {
+        "id": "achievement-38",
+        "name": "Controlled Chaos",
+        "kind": "trophy",
+        "chapterId": "chaos",
+        "where": "Reach Chaos level 20."
+      },
+      {
+        "id": "achievement-39",
+        "name": "Bunker Mastered",
+        "kind": "trophy",
+        "chapterId": "chaos",
+        "where": "Unlock all other achievements."
+      },
+      {
+        "id": "achievement-40",
+        "name": "Chums, Bested!",
+        "kind": "trophy",
+        "chapterId": "later-hidden",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-41",
+        "name": "Champion of Tall Fish Tales",
+        "kind": "trophy",
+        "chapterId": "later-hidden",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-42",
+        "name": "No More Hero Sandwiches",
+        "kind": "trophy",
+        "chapterId": "later-hidden",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-43",
+        "name": "The Epic in Epicure",
+        "kind": "trophy",
+        "chapterId": "later-hidden",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-44",
+        "name": "Off the Hook",
+        "kind": "trophy",
+        "chapterId": "later-hidden",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-45",
+        "name": "Destroyer of Chains",
+        "kind": "trophy",
+        "chapterId": "later-hidden",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-46",
+        "name": "Nothing to Fear",
+        "kind": "trophy",
+        "chapterId": "later-hidden",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-47",
+        "name": "Avenger of Lost Souls",
+        "kind": "trophy",
+        "chapterId": "later-hidden",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/tiny-tinas-wonderlands",
+    "Achievement data from Steam (Steam Web API, app 1286680)",
+    "StrategyWiki: no page for this game, nothing used",
+    "Fandom (borderlands.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://borderlands.fandom.com/wiki/Tiny_Tina's_Wonderlands"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). No StrategyWiki page under \"Tiny Tina's Wonderlands\" or \"Tiny Tinas Wonderlands\". There is no tinytinaswonderlands.fandom.com (HTTP 404); borderlands.fandom.com answers the API under \"Tiny Tina's Wonderlands\", with about 91 linked articles, including classes, \"Chaos Mode\", \"Myth Ranks\", \"Achievement (Tiny Tina's Wonderlands)\" and \"Challenge (Tiny Tina's Wonderlands)\"; names only were looked at, nothing copied. The Steam schema calls the app \"Daffodil\" (an internal codename); the store list confirms app 1286680. 22 of 47 Steam achievements are hidden. The first 14 hidden ones have high unlock rates (20.8 to 91.2%) and sit in the story chapter. The last 8 sit at the end of the Steam list, after \"Bunker Mastered\", with low rates (2.3 to 9.8%); they may be later added content, but the data does not say, so they have their own chapter. RAWG lists \"Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure\" (2021-11-09) as a separate game."
+}
