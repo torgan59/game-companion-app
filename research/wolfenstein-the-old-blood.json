@@ -1,0 +1,508 @@
+{
+  "id": "wolfenstein-the-old-blood",
+  "title": "Wolfenstein: The Old Blood",
+  "year": 2015,
+  "platforms": [
+    "Xbox One",
+    "PlayStation 4",
+    "PC"
+  ],
+  "rawgId": 3346,
+  "rawgSlug": "wolfenstein-the-old-blood",
+  "released": "2015-05-04",
+  "developers": [
+    "Bethesda Softworks",
+    "Machine Games"
+  ],
+  "playtime": 7,
+  "genres": [
+    "Action",
+    "Shooter"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Multiplayer",
+    "Steam Cloud",
+    "Atmospheric",
+    "Story Rich",
+    "First-Person",
+    "Sci-fi",
+    "Partial Controller Support",
+    "Horror",
+    "FPS",
+    "Funny"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/f14/f1422eacab98c5f85a5123da4e9d9e89.jpg",
+  "steamAppId": 350080,
+  "achievements": {
+    "total": 50,
+    "hidden": 0,
+    "examples": [
+      {
+        "name": "Undercover",
+        "percent": 94.1
+      },
+      {
+        "name": "Health upgrade I",
+        "percent": 74.8
+      },
+      {
+        "name": "All that glitters",
+        "percent": 73.5
+      },
+      {
+        "name": "Caves combat master",
+        "percent": 3.9
+      },
+      {
+        "name": "Wulfburg square combat master",
+        "percent": 3.9
+      },
+      {
+        "name": "Workshop combat master",
+        "percent": 3.9
+      },
+      {
+        "name": "Bathhouse combat master",
+        "percent": 3.9
+      },
+      {
+        "name": "Graveyard combat master",
+        "percent": 3.9
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": false,
+      "pages": 0,
+      "reason": "No page for Wolfenstein: The Old Blood (MediaWiki API returned missing; see notes for other titles tried)"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 183,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://wolfenstein.fandom.com/wiki/Wolfenstein:_The_Old_Blood"
+    }
+  },
+  "game": {
+    "id": "wolfenstein-the-old-blood",
+    "title": "Wolfenstein: The Old Blood",
+    "platforms": [
+      "Xbox One",
+      "PlayStation 4",
+      "PC"
+    ],
+    "blurb": "First-person shooter from MachineGames, published by Bethesda Softworks, released 2015-05-04. RAWG average playtime: 7 hours. Genres: Action, Shooter. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#7A1F1F",
+    "chapters": [
+      {
+        "id": "part-one",
+        "title": "Part One: Castle Wolfenstein",
+        "summary": "Infiltrating and escaping Castle Wolfenstein, and finishing part one.",
+        "steps": []
+      },
+      {
+        "id": "part-two",
+        "title": "Part Two and the Ending",
+        "summary": "The rest of the story, the choices about Kessler and Annette, and finishing the game. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "difficulty",
+        "title": "Hard Difficulties",
+        "summary": "Finishing on I AM DEATH INCARNATE! and ÜBER.",
+        "steps": []
+      },
+      {
+        "id": "nightmare",
+        "title": "Nightmare Levels",
+        "summary": "The hidden nightmare level in the prologue and in chapters 1 to 7, and the nightmare boss level.",
+        "steps": []
+      },
+      {
+        "id": "challenges",
+        "title": "Challenge Maps",
+        "summary": "Gold medals on the ten challenge maps, from Research Centre to Graveyard.",
+        "steps": []
+      },
+      {
+        "id": "collectibles",
+        "title": "Letters and Gold",
+        "summary": "Collecting letters and gold items.",
+        "steps": []
+      },
+      {
+        "id": "perks",
+        "title": "Perks and Upgrades",
+        "summary": "Unlocking each perk, from health and armor upgrades to Vampire and Tough Skin.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Undercover",
+        "kind": "trophy",
+        "chapterId": "part-one",
+        "where": "Infiltrate Castle Wolfenstein"
+      },
+      {
+        "id": "achievement-2",
+        "name": "Freedom",
+        "kind": "trophy",
+        "chapterId": "part-one",
+        "where": "Escape Castle Wolfenstein"
+      },
+      {
+        "id": "achievement-3",
+        "name": "Revenge",
+        "kind": "trophy",
+        "chapterId": "part-one",
+        "where": "Complete part one"
+      },
+      {
+        "id": "achievement-4",
+        "name": "Kessler saved",
+        "kind": "trophy",
+        "chapterId": "part-two",
+        "where": "Choose to save Kessler"
+      },
+      {
+        "id": "achievement-5",
+        "name": "Annette saved",
+        "kind": "trophy",
+        "chapterId": "part-two",
+        "where": "Choose to save Annette"
+      },
+      {
+        "id": "achievement-6",
+        "name": "Hero",
+        "kind": "trophy",
+        "chapterId": "part-two",
+        "where": "Complete game on any difficulty"
+      },
+      {
+        "id": "achievement-7",
+        "name": "Super hero",
+        "kind": "trophy",
+        "chapterId": "difficulty",
+        "where": "Complete game on I AM DEATH INCARNATE! (or ÜBER)"
+      },
+      {
+        "id": "achievement-8",
+        "name": "Über hero",
+        "kind": "trophy",
+        "chapterId": "difficulty",
+        "where": "Complete game on ÜBER"
+      },
+      {
+        "id": "achievement-9",
+        "name": "Die, Grösse, die!",
+        "kind": "trophy",
+        "chapterId": "nightmare",
+        "where": "Complete all nightmare levels"
+      },
+      {
+        "id": "achievement-10",
+        "name": "German Alps nightmare",
+        "kind": "trophy",
+        "chapterId": "nightmare",
+        "where": "Complete the prologue nightmare"
+      },
+      {
+        "id": "achievement-11",
+        "name": "Prison nightmare",
+        "kind": "trophy",
+        "chapterId": "nightmare",
+        "where": "Complete the nightmare in chapter 1"
+      },
+      {
+        "id": "achievement-12",
+        "name": "Docks nightmare",
+        "kind": "trophy",
+        "chapterId": "nightmare",
+        "where": "Complete the nightmare in chapter 2"
+      },
+      {
+        "id": "achievement-13",
+        "name": "Wolfenstein Keep nightmare",
+        "kind": "trophy",
+        "chapterId": "nightmare",
+        "where": "Complete the nightmare in chapter 3"
+      },
+      {
+        "id": "achievement-14",
+        "name": "Escape! nightmare",
+        "kind": "trophy",
+        "chapterId": "nightmare",
+        "where": "Complete the nightmare in chapter 4"
+      },
+      {
+        "id": "achievement-15",
+        "name": "Wulfburg nightmare",
+        "kind": "trophy",
+        "chapterId": "nightmare",
+        "where": "Complete the nightmare in chapter 5"
+      },
+      {
+        "id": "achievement-16",
+        "name": "Ruins nightmare",
+        "kind": "trophy",
+        "chapterId": "nightmare",
+        "where": "Complete the nightmare in chapter 6"
+      },
+      {
+        "id": "achievement-17",
+        "name": "Old town nightmare",
+        "kind": "trophy",
+        "chapterId": "nightmare",
+        "where": "Complete the nightmare in chapter 7"
+      },
+      {
+        "id": "achievement-18",
+        "name": "Guten tag!",
+        "kind": "trophy",
+        "chapterId": "nightmare",
+        "where": "Complete the nightmare boss level"
+      },
+      {
+        "id": "achievement-19",
+        "name": "Research centre combat master",
+        "kind": "trophy",
+        "chapterId": "challenges",
+        "where": "Achieve gold medal for this challenge map"
+      },
+      {
+        "id": "achievement-20",
+        "name": "Prison docks combat master",
+        "kind": "trophy",
+        "chapterId": "challenges",
+        "where": "Achieve gold medal for this challenge map"
+      },
+      {
+        "id": "achievement-21",
+        "name": "Keep foyer combat master",
+        "kind": "trophy",
+        "chapterId": "challenges",
+        "where": "Achieve gold medal for this challenge map"
+      },
+      {
+        "id": "achievement-22",
+        "name": "Cable car platform combat master",
+        "kind": "trophy",
+        "chapterId": "challenges",
+        "where": "Achieve gold medal for this challenge map"
+      },
+      {
+        "id": "achievement-23",
+        "name": "Caves combat master",
+        "kind": "trophy",
+        "chapterId": "challenges",
+        "where": "Achieve gold medal for this challenge map"
+      },
+      {
+        "id": "achievement-24",
+        "name": "Paderborn bridge combat master",
+        "kind": "trophy",
+        "chapterId": "challenges",
+        "where": "Achieve gold medal for this challenge map"
+      },
+      {
+        "id": "achievement-25",
+        "name": "Wulfburg square combat master",
+        "kind": "trophy",
+        "chapterId": "challenges",
+        "where": "Achieve gold medal for this challenge map"
+      },
+      {
+        "id": "achievement-26",
+        "name": "Workshop combat master",
+        "kind": "trophy",
+        "chapterId": "challenges",
+        "where": "Achieve gold medal for this challenge map"
+      },
+      {
+        "id": "achievement-27",
+        "name": "Bathhouse combat master",
+        "kind": "trophy",
+        "chapterId": "challenges",
+        "where": "Achieve gold medal for this challenge map"
+      },
+      {
+        "id": "achievement-28",
+        "name": "Graveyard combat master",
+        "kind": "trophy",
+        "chapterId": "challenges",
+        "where": "Achieve gold medal for this challenge map"
+      },
+      {
+        "id": "achievement-29",
+        "name": "Paperboy",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Collect 5 letters"
+      },
+      {
+        "id": "achievement-30",
+        "name": "Postman",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Collect all letters"
+      },
+      {
+        "id": "achievement-31",
+        "name": "All that glitters",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Collect 8 gold items"
+      },
+      {
+        "id": "achievement-32",
+        "name": "Glittering gold",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Collect 16 gold items"
+      },
+      {
+        "id": "achievement-33",
+        "name": "The ecstasy of gold",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Collect 32 gold items"
+      },
+      {
+        "id": "achievement-34",
+        "name": "Gold master",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Collect 64 gold items"
+      },
+      {
+        "id": "achievement-35",
+        "name": "Eagle Eye",
+        "kind": "trophy",
+        "chapterId": "perks",
+        "where": "Unlock the Eagle Eye perk"
+      },
+      {
+        "id": "achievement-36",
+        "name": "Health upgrade I",
+        "kind": "trophy",
+        "chapterId": "perks",
+        "where": "Unlock the Health upgrade I perk"
+      },
+      {
+        "id": "achievement-37",
+        "name": "Health upgrade II",
+        "kind": "trophy",
+        "chapterId": "perks",
+        "where": "Unlock the Health upgrade II perk"
+      },
+      {
+        "id": "achievement-38",
+        "name": "Health upgrade III",
+        "kind": "trophy",
+        "chapterId": "perks",
+        "where": "Unlock the Health upgrade III perk"
+      },
+      {
+        "id": "achievement-39",
+        "name": "Armor upgrade I",
+        "kind": "trophy",
+        "chapterId": "perks",
+        "where": "Unlock the Armor upgrade I perk"
+      },
+      {
+        "id": "achievement-40",
+        "name": "Armor upgrade II",
+        "kind": "trophy",
+        "chapterId": "perks",
+        "where": "Unlock the Armor upgrade II perk"
+      },
+      {
+        "id": "achievement-41",
+        "name": "Ammunition upgrade",
+        "kind": "trophy",
+        "chapterId": "perks",
+        "where": "Unlock the Ammunition upgrade perk"
+      },
+      {
+        "id": "achievement-42",
+        "name": "Grenade belt",
+        "kind": "trophy",
+        "chapterId": "perks",
+        "where": "Unlock the Grenade belt perk"
+      },
+      {
+        "id": "achievement-43",
+        "name": "Vampire",
+        "kind": "trophy",
+        "chapterId": "perks",
+        "where": "Unlock the Vampire perk"
+      },
+      {
+        "id": "achievement-44",
+        "name": "Kampfpistole ammo storage upgrade",
+        "kind": "trophy",
+        "chapterId": "perks",
+        "where": "Unlock the Kampfpistole ammo storage upgrade perk"
+      },
+      {
+        "id": "achievement-45",
+        "name": "Schockhammer clip upgrade",
+        "kind": "trophy",
+        "chapterId": "perks",
+        "where": "Unlock the Schockhammer clip upgrade perk"
+      },
+      {
+        "id": "achievement-46",
+        "name": "Bombenschuss clip upgrade",
+        "kind": "trophy",
+        "chapterId": "perks",
+        "where": "Unlock the Bombenschuss clip upgrade perk"
+      },
+      {
+        "id": "achievement-47",
+        "name": "Carry heavy machinegun",
+        "kind": "trophy",
+        "chapterId": "perks",
+        "where": "Unlock the Carry heavy machinegun perk"
+      },
+      {
+        "id": "achievement-48",
+        "name": "Reload mash",
+        "kind": "trophy",
+        "chapterId": "perks",
+        "where": "Unlock the Reload mash perk"
+      },
+      {
+        "id": "achievement-49",
+        "name": "Quick turn",
+        "kind": "trophy",
+        "chapterId": "perks",
+        "where": "Unlock the Quick turn perk"
+      },
+      {
+        "id": "achievement-50",
+        "name": "Tough Skin",
+        "kind": "trophy",
+        "chapterId": "perks",
+        "where": "Unlock the Tough Skin perk"
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/wolfenstein-the-old-blood",
+    "Achievement data from Steam (Steam Web API, app 350080)",
+    "StrategyWiki: no page for this game, nothing used",
+    "Fandom (wolfenstein.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://wolfenstein.fandom.com/wiki/Wolfenstein:_The_Old_Blood"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). Steam app 350080 was used. The store list has two apps named \"Wolfenstein: The Old Blood\" (350080 and 354830); both return the same 50-achievement schema named \"Project Iron\" (an internal codename). Nothing in the data says how they differ; RAWG also has a separate \"Wolfenstein: The Old Blood German Edition\" entry, which may be related, so the coordinator may want to check. StrategyWiki has no page under \"Wolfenstein: The Old Blood\" or \"Wolfenstein The Old Blood\". wolfenstein.fandom.com answers the API under \"Wolfenstein: The Old Blood\", with about 183 linked articles, including chapter pages from \"Prologue - German Alps\" and \"Chapter 1 - Prison\" to \"Chapter 8 - Dig Site\"; names only were looked at, nothing copied. None of the 50 Steam achievements is hidden. The data does not say which chapters make up part one, so the two story chapters follow the achievements (\"Escape Castle Wolfenstein\", \"Complete part one\", \"Complete game\"); placing the Kessler and Annette choices in part two is a guess."
+}

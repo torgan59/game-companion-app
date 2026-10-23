@@ -1,0 +1,709 @@
+{
+  "id": "dying-light",
+  "title": "Dying Light",
+  "year": 2015,
+  "platforms": [
+    "Xbox One",
+    "PlayStation 4",
+    "Nintendo Switch",
+    "PC"
+  ],
+  "rawgId": 42215,
+  "rawgSlug": "dying-light",
+  "released": "2015-01-27",
+  "developers": [
+    "Techland"
+  ],
+  "playtime": 22,
+  "genres": [
+    "Action",
+    "Adventure",
+    "RPG"
+  ],
+  "tags": [
+    "Horror",
+    "Survival",
+    "Zombies",
+    "Parkour",
+    "city",
+    "skill",
+    "night",
+    "environment",
+    "fast"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/4a5/4a5ce21f529cf8fd4670b4c3188b25df.jpg",
+  "steamAppId": 239140,
+  "achievements": {
+    "total": 78,
+    "hidden": 11,
+    "examples": [
+      {
+        "name": "Is It Really Necessary?",
+        "percent": 93.9
+      },
+      {
+        "name": "Little Craftsman",
+        "percent": 92.4
+      },
+      {
+        "name": "Prom Night",
+        "percent": 61.0
+      },
+      {
+        "name": "Throw me a bone",
+        "percent": 1.3
+      },
+      {
+        "name": "Well-read",
+        "percent": 1.3
+      },
+      {
+        "name": "Fast as hell",
+        "percent": 1.3
+      },
+      {
+        "name": "Wake up!",
+        "percent": 1.2
+      },
+      {
+        "name": "Non omnis moriar",
+        "percent": 1.1
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": false,
+      "pages": 0,
+      "reason": "No page for Dying Light (MediaWiki API returned missing; see notes for other titles tried)"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 99,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://dyinglight.fandom.com/wiki/Dying_Light"
+    }
+  },
+  "game": {
+    "id": "dying-light",
+    "title": "Dying Light",
+    "platforms": [
+      "Xbox One",
+      "PlayStation 4",
+      "Nintendo Switch",
+      "PC"
+    ],
+    "blurb": "Open-world zombie survival action game from Techland, published by Warner Bros. Interactive, released 2015-01-27. RAWG average playtime: 22 hours. Genres: Action, Adventure, RPG. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#C9692B",
+    "chapters": [
+      {
+        "id": "main-story",
+        "title": "The Main Story",
+        "summary": "The story milestones in Harran, all hidden on Steam. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "side-quests-and-zones",
+        "title": "Side Quests, Zones and Collectibles",
+        "summary": "Side quests, relief packages, rescuing survivors, Safe Zones, Quarantine Zones, GRE chests, Bolters and the text collectibles.",
+        "steps": []
+      },
+      {
+        "id": "challenges-and-parkour",
+        "title": "Challenges and Parkour",
+        "summary": "Agility and Power challenges, Parkour Fever, Bozak's challenges, long runs and climbs, and one big jump.",
+        "steps": []
+      },
+      {
+        "id": "progression",
+        "title": "Ranks, Crafting and Trading",
+        "summary": "Survivor, Agility and Power levels, crafting and blueprints, lockpicking, selling and special arrows.",
+        "steps": []
+      },
+      {
+        "id": "combat",
+        "title": "Combat and the Night",
+        "summary": "Fighting the infected and Rais's men, traps, throwing and shooting, and surviving night pursuits.",
+        "steps": []
+      },
+      {
+        "id": "co-op",
+        "title": "Co-op",
+        "summary": "Co-op quests and competitions with other players.",
+        "steps": []
+      },
+      {
+        "id": "the-following",
+        "title": "The Following",
+        "summary": "The Countryside story and driving content named in the achievements: the Faceless, the Following, Bilal's race, the Driver Rank, scarecrows and vehicle kills.",
+        "steps": []
+      },
+      {
+        "id": "hellraid",
+        "title": "Hellraid",
+        "summary": "The Hellraid mode: its rank, arena, skeletons, coins, notes and Nightmare runs.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Flight of the Crane",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-2",
+        "name": "My left or your left?",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-3",
+        "name": "Snake in the grass",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-4",
+        "name": "Sightseeing",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-5",
+        "name": "Making Faces",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-6",
+        "name": "Tied loose end",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-7",
+        "name": "Now You Can Come In",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-8",
+        "name": "Vertigo",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-9",
+        "name": "Bittersweet",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-10",
+        "name": "The Whole Story",
+        "kind": "trophy",
+        "chapterId": "side-quests-and-zones",
+        "where": "Finish all side quests"
+      },
+      {
+        "id": "achievement-11",
+        "name": "Disaster Recovery",
+        "kind": "trophy",
+        "chapterId": "side-quests-and-zones",
+        "where": "Get 15 Relief Packages"
+      },
+      {
+        "id": "achievement-12",
+        "name": "We're All In This Together",
+        "kind": "trophy",
+        "chapterId": "side-quests-and-zones",
+        "where": "Save 15 survivors from zombies"
+      },
+      {
+        "id": "achievement-13",
+        "name": "Homo Homini Lupus Est",
+        "kind": "trophy",
+        "chapterId": "side-quests-and-zones",
+        "where": "Save 15 survivors from Rais's men"
+      },
+      {
+        "id": "achievement-14",
+        "name": "Bolter Hunting",
+        "kind": "trophy",
+        "chapterId": "side-quests-and-zones",
+        "where": "Catch 5 Bolters"
+      },
+      {
+        "id": "achievement-15",
+        "name": "I'm a Runner and a fighter",
+        "kind": "trophy",
+        "chapterId": "challenges-and-parkour",
+        "where": "Complete 15 Agility or Power Challenges"
+      },
+      {
+        "id": "achievement-16",
+        "name": "Lucky 7",
+        "kind": "trophy",
+        "chapterId": "co-op",
+        "where": "Win 7 coop competitions"
+      },
+      {
+        "id": "achievement-17",
+        "name": "Harran Athletics",
+        "kind": "trophy",
+        "chapterId": "co-op",
+        "where": "Take part in 10 coop competitions"
+      },
+      {
+        "id": "achievement-18",
+        "name": "Trade Company",
+        "kind": "trophy",
+        "chapterId": "progression",
+        "where": "Sell items worth 10,000 dollars"
+      },
+      {
+        "id": "achievement-19",
+        "name": "Trespassing",
+        "kind": "trophy",
+        "chapterId": "side-quests-and-zones",
+        "where": "Complete all Quarantine Zones"
+      },
+      {
+        "id": "achievement-20",
+        "name": "Now It's Safe",
+        "kind": "trophy",
+        "chapterId": "side-quests-and-zones",
+        "where": "Capture all Safe Zones"
+      },
+      {
+        "id": "achievement-21",
+        "name": "Pheidippides",
+        "kind": "trophy",
+        "chapterId": "challenges-and-parkour",
+        "where": "Run (move or sprint) at least 42,195 m"
+      },
+      {
+        "id": "achievement-22",
+        "name": "Mount Everest",
+        "kind": "trophy",
+        "chapterId": "challenges-and-parkour",
+        "where": "Climb at least 8848 meters on various objects."
+      },
+      {
+        "id": "achievement-23",
+        "name": "Is It Really Necessary?",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Kill your first Infected"
+      },
+      {
+        "id": "achievement-24",
+        "name": "Everybody Dance Now",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Simultaneously shock 5 monsters with electricity"
+      },
+      {
+        "id": "achievement-25",
+        "name": "Can't Touch This",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Kill 20 enemies in a row without taking damage."
+      },
+      {
+        "id": "achievement-26",
+        "name": "This is Harraaaaan!",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Kill 100 enemies by kicking them off the rooftops/cliffs."
+      },
+      {
+        "id": "achievement-27",
+        "name": "Mouths Wide Open",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Kill a Volatile"
+      },
+      {
+        "id": "achievement-28",
+        "name": "Hush, Hush Now",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Quiet a Screamer"
+      },
+      {
+        "id": "achievement-29",
+        "name": "BBQ",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Stick a burning zombie on spikes"
+      },
+      {
+        "id": "achievement-30",
+        "name": "A Game of Catch",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Kill 50 enemies with throwing weapons"
+      },
+      {
+        "id": "achievement-31",
+        "name": "Harran Shooting Club",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Kill 50 enemies with shooting weapons"
+      },
+      {
+        "id": "achievement-32",
+        "name": "Electrified!",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Catch 25 enemies in the Electric Fence trap"
+      },
+      {
+        "id": "achievement-33",
+        "name": "Blinded by the Lights",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Blind 25 Volatiles with flares or a flashlight"
+      },
+      {
+        "id": "achievement-34",
+        "name": "High Flyer",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Kill 25 enemies using Ground Pound or Drop Attack"
+      },
+      {
+        "id": "achievement-35",
+        "name": "Judo Master",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Throw 50 enemies with Grapple"
+      },
+      {
+        "id": "achievement-36",
+        "name": "Prom Night",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Survive night pursuit of level two or higher"
+      },
+      {
+        "id": "achievement-37",
+        "name": "Enlightened!",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Blind 25 enemies in the Light Trap"
+      },
+      {
+        "id": "achievement-38",
+        "name": "Little Craftsman",
+        "kind": "trophy",
+        "chapterId": "progression",
+        "where": "Craft your first item"
+      },
+      {
+        "id": "achievement-39",
+        "name": "Master Crafter",
+        "kind": "trophy",
+        "chapterId": "progression",
+        "where": "Use Blueprints at least 100 times"
+      },
+      {
+        "id": "achievement-40",
+        "name": "Open Sesame",
+        "kind": "trophy",
+        "chapterId": "progression",
+        "where": "Perform 10 successful Lockpicks"
+      },
+      {
+        "id": "achievement-41",
+        "name": "Everybody Knows Kyle",
+        "kind": "trophy",
+        "chapterId": "progression",
+        "where": "Reach Survivor Rank lvl 12"
+      },
+      {
+        "id": "achievement-42",
+        "name": "The Legend of Harran",
+        "kind": "trophy",
+        "chapterId": "progression",
+        "where": "Reach Survivor Rank lvl 18"
+      },
+      {
+        "id": "achievement-43",
+        "name": "Agile",
+        "kind": "trophy",
+        "chapterId": "progression",
+        "where": "Reach Agility Prof. Lvl 10"
+      },
+      {
+        "id": "achievement-44",
+        "name": "Strong",
+        "kind": "trophy",
+        "chapterId": "progression",
+        "where": "Reach Power Prof. Lvl 10"
+      },
+      {
+        "id": "achievement-45",
+        "name": "It's All In the Writing",
+        "kind": "trophy",
+        "chapterId": "side-quests-and-zones",
+        "where": "Find all text collectibles"
+      },
+      {
+        "id": "achievement-46",
+        "name": "I've Got Your Back",
+        "kind": "trophy",
+        "chapterId": "co-op",
+        "where": "Complete 1 quest in a co-op game"
+      },
+      {
+        "id": "achievement-47",
+        "name": "Polyamory",
+        "kind": "trophy",
+        "chapterId": "co-op",
+        "where": "Complete 5 quests in a single co-op game with the same 3 partners"
+      },
+      {
+        "id": "achievement-48",
+        "name": "Italian Plumber",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Kill an enemy with a wrench, using Vault followed by Drop Attack"
+      },
+      {
+        "id": "achievement-49",
+        "name": "Gabriel's Sword",
+        "kind": "trophy",
+        "chapterId": "progression",
+        "where": "Add a fire elemental effect to a sword or a khopesh"
+      },
+      {
+        "id": "achievement-50",
+        "name": "A Long Way Down",
+        "kind": "trophy",
+        "chapterId": "challenges-and-parkour",
+        "where": "Jump to the water from the Infamy Bridge (Slums) at night"
+      },
+      {
+        "id": "achievement-51",
+        "name": "The Boy Who Could Run",
+        "kind": "trophy",
+        "chapterId": "challenges-and-parkour",
+        "where": "Complete all Parkour Fever Challenges"
+      },
+      {
+        "id": "achievement-52",
+        "name": "GD Parkour Instructor",
+        "kind": "trophy",
+        "chapterId": "challenges-and-parkour",
+        "where": "Complete all Parkour Fever Challenges at night"
+      },
+      {
+        "id": "achievement-53",
+        "name": "Pearls in the Mud",
+        "kind": "trophy",
+        "chapterId": "side-quests-and-zones",
+        "where": "Open 5 GRE chests in Quarantine Zones"
+      },
+      {
+        "id": "achievement-54",
+        "name": "Get the Bozak",
+        "kind": "trophy",
+        "chapterId": "challenges-and-parkour",
+        "where": "Complete Bozak's challenges"
+      },
+      {
+        "id": "achievement-55",
+        "name": "Together Till the End",
+        "kind": "trophy",
+        "chapterId": "co-op",
+        "where": "Be the last man standing"
+      },
+      {
+        "id": "achievement-56",
+        "name": "Electric Whisper",
+        "kind": "trophy",
+        "chapterId": "progression",
+        "where": "Learn how to craft Electric Arrows"
+      },
+      {
+        "id": "achievement-57",
+        "name": "Things That Go Ka-Boom",
+        "kind": "trophy",
+        "chapterId": "progression",
+        "where": "Learn how to craft Exploding Arrows"
+      },
+      {
+        "id": "achievement-58",
+        "name": "Robin Hood Theory",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Score 10 headshots on Rais's men with a bow"
+      },
+      {
+        "id": "achievement-59",
+        "name": "Afraid to get wet?",
+        "kind": "trophy",
+        "chapterId": "the-following",
+        "where": "Dive into the Countryside."
+      },
+      {
+        "id": "achievement-60",
+        "name": "And you liked him, didn't you?",
+        "kind": "trophy",
+        "chapterId": "the-following",
+        "where": "Meet your old friend again."
+      },
+      {
+        "id": "achievement-61",
+        "name": "I was waiting for you for so long",
+        "kind": "trophy",
+        "chapterId": "the-following",
+        "where": "Become a Faceless."
+      },
+      {
+        "id": "achievement-62",
+        "name": "Sweaty palms?",
+        "kind": "trophy",
+        "chapterId": "the-following",
+        "where": "Kill a Demolisher with a car."
+      },
+      {
+        "id": "achievement-63",
+        "name": "It wasn't that hard, was it?",
+        "kind": "trophy",
+        "chapterId": "the-following",
+        "where": "Win Bilal's race."
+      },
+      {
+        "id": "achievement-64",
+        "name": "What if you picked the other one?",
+        "kind": "trophy",
+        "chapterId": "the-following",
+        "where": "Make that call."
+      },
+      {
+        "id": "achievement-65",
+        "name": "I felt your presence",
+        "kind": "trophy",
+        "chapterId": "the-following",
+        "where": "Witness the Following's meeting."
+      },
+      {
+        "id": "achievement-66",
+        "name": "You realize it's only points, don't you?",
+        "kind": "trophy",
+        "chapterId": "the-following",
+        "where": "Reach Driver Rank 12."
+      },
+      {
+        "id": "achievement-67",
+        "name": "Formidophobic? Interesting…",
+        "kind": "trophy",
+        "chapterId": "the-following",
+        "where": "Destroy 50 scarecrows."
+      },
+      {
+        "id": "achievement-68",
+        "name": "I don't approve of mindless fun",
+        "kind": "trophy",
+        "chapterId": "the-following",
+        "where": "Kill 500 zombies with your vehicle."
+      },
+      {
+        "id": "achievement-69",
+        "name": "Beginnings are hard",
+        "kind": "trophy",
+        "chapterId": "hellraid",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-70",
+        "name": "Throw me a bone",
+        "kind": "trophy",
+        "chapterId": "hellraid",
+        "where": "Kill 50 skeletons with fall damage"
+      },
+      {
+        "id": "achievement-71",
+        "name": "Non omnis moriar",
+        "kind": "trophy",
+        "chapterId": "hellraid",
+        "where": "Finish Hellraid with only one life left and 0 medkits"
+      },
+      {
+        "id": "achievement-72",
+        "name": "Blocked by Ba'al",
+        "kind": "trophy",
+        "chapterId": "hellraid",
+        "where": "Reach level 10 Hellraid rank"
+      },
+      {
+        "id": "achievement-73",
+        "name": "Clavis was a key all along",
+        "kind": "trophy",
+        "chapterId": "hellraid",
+        "where": "Put Clavis fragments into Arena"
+      },
+      {
+        "id": "achievement-74",
+        "name": "Time to file a tax form",
+        "kind": "trophy",
+        "chapterId": "hellraid",
+        "where": "Earn more than 3000 coins in one run"
+      },
+      {
+        "id": "achievement-75",
+        "name": "Wake up!",
+        "kind": "trophy",
+        "chapterId": "hellraid",
+        "where": "Finish Hellraid on Nightmare"
+      },
+      {
+        "id": "achievement-76",
+        "name": "Well-read",
+        "kind": "trophy",
+        "chapterId": "hellraid",
+        "where": "Collect all 10 notes"
+      },
+      {
+        "id": "achievement-77",
+        "name": "Fast as hell",
+        "kind": "trophy",
+        "chapterId": "hellraid",
+        "where": "Finish Hellraid under 30 min"
+      },
+      {
+        "id": "achievement-78",
+        "name": "Into the lava",
+        "kind": "trophy",
+        "chapterId": "hellraid",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/dying-light",
+    "Achievement data from Steam (Steam Web API, app 239140)",
+    "StrategyWiki: no page for this game, nothing used",
+    "Fandom (dyinglight.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://dyinglight.fandom.com/wiki/Dying_Light"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). RAWG's first search result was \"Dying Light: The Following - Enhanced Edition\" (id 14348), not the expected entry, so rawgDetail was replaced with \"dying-light\" (id 42215). RAWG keeps \"Dying Light: The Following\" and \"Dying Light - Hellraid\" as separate entries; Steam app 239140 (\"Dying Light\") holds the achievements for both, so they get their own chapters here. StrategyWiki has no page under \"Dying Light\" or \"Dying Light (2015)\". dyinglight.fandom.com answers the API under \"Dying Light\" with about 99 linked articles; names only were looked at, nothing copied. 11 of 78 Steam achievements are hidden (there is no ACH_69 in the schema). The first nine (ACH_1 to ACH_9, 34% to 89%) look like story milestones and sit in the main story chapter. ACH_70 \"Beginnings are hard\" (4.0%) and ACH_79 \"Into the lava\" (3.1%) are hidden but sit among the Hellraid achievements in the Steam list, so they were put in the Hellraid chapter, a reasoned guess. \"Well-read\" (collect all 10 notes) also sits in that block and was put there. Three achievements with vague descriptions (\"Meet your old friend again\", \"Make that call\", \"Win Bilal's race\") sit in the block of The Following achievements (ACH_59 to ACH_68), so they were put in that chapter by list position. \"Be the last man standing\" was put in co-op as a guess. \"Bozak's challenges\" are not named as an expansion in the data, so they sit with the other challenges."
+}

@@ -1,0 +1,672 @@
+{
+  "id": "mortal-kombat-x",
+  "title": "Mortal Kombat X",
+  "year": 2015,
+  "platforms": [
+    "PC",
+    "Xbox One",
+    "PlayStation 4"
+  ],
+  "rawgId": 108,
+  "rawgSlug": "mortal-kombat-x",
+  "released": "2015-04-07",
+  "developers": [
+    "Warner Bros. Interactive",
+    "NetherRealm Studios",
+    "High Voltage Software"
+  ],
+  "playtime": 7,
+  "genres": [
+    "Action",
+    "Fighting"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Multiplayer",
+    "Full controller support",
+    "Steam Cloud",
+    "Atmospheric",
+    "steam-trading-cards",
+    "Great Soundtrack",
+    "Third Person",
+    "Horror",
+    "Online Co-Op",
+    "Fantasy"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/aa3/aa36ba4b486a03ddfaef274fb4f5afd4.jpg",
+  "steamAppId": 307780,
+  "achievements": {
+    "total": 73,
+    "hidden": 0,
+    "examples": [
+      {
+        "name": "It's a Gusher",
+        "percent": 67.9
+      },
+      {
+        "name": "Pledge Yourself",
+        "percent": 66.1
+      },
+      {
+        "name": "FINISH HIM",
+        "percent": 64.9
+      },
+      {
+        "name": "Respected Fighter",
+        "percent": 1.6
+      },
+      {
+        "name": "Juggernaut",
+        "percent": 1.6
+      },
+      {
+        "name": "DIE WILL YOU",
+        "percent": 1.6
+      },
+      {
+        "name": "Dance The Night Away",
+        "percent": 1.6
+      },
+      {
+        "name": "Lands-Down",
+        "percent": 1.5
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Mortal_Kombat_X",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 260,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://mortalkombat.fandom.com/wiki/Mortal_Kombat_X"
+    }
+  },
+  "game": {
+    "id": "mortal-kombat-x",
+    "title": "Mortal Kombat X",
+    "platforms": [
+      "PC",
+      "Xbox One",
+      "PlayStation 4"
+    ],
+    "blurb": "Fighting game from NetherRealm Studios (RAWG also lists High Voltage Software and Warner Bros. Interactive), released 2015-04-07. RAWG average playtime: 7 hours. Genres: Action, Fighting. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#B8860B",
+    "chapters": [
+      {
+        "id": "story",
+        "title": "Story Mode",
+        "summary": "Finishing half and then all of Story Mode.",
+        "steps": []
+      },
+      {
+        "id": "towers",
+        "title": "Living Towers and Tower Modes",
+        "summary": "Classic and Living Towers, Tower Battles and Challenges, Test Your Might, Test Your Luck and the secret fight.",
+        "steps": []
+      },
+      {
+        "id": "factions-and-invasions",
+        "title": "Factions and Invasions",
+        "summary": "Joining factions, faction levels, and Invasion towers, fights and bosses.",
+        "steps": []
+      },
+      {
+        "id": "online",
+        "title": "Online Play",
+        "summary": "Online and Ranked matches, and King of the Hill in its Klassic and Survivor forms.",
+        "steps": []
+      },
+      {
+        "id": "fatalities-and-fighting",
+        "title": "Fatalities and Fighting Feats",
+        "summary": "Fatalities, Brutalities, X-Rays, combos, every character variation, stage interactions and other fight tricks.",
+        "steps": []
+      },
+      {
+        "id": "kombat-pack-fighters",
+        "title": "Kombat Pack Fighters",
+        "summary": "Klassic Tower feats with Leatherface, Triborg, Alien and Bo' Rai Cho, and other Kombat Pack 2 goals.",
+        "steps": []
+      },
+      {
+        "id": "profile-and-krypt",
+        "title": "Profile, Krypt and Practice",
+        "summary": "XP levels, the Kombat Kard, profile backgrounds, icons and borders, the Krypt, modifiers, the tutorial and practice.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Tower Kompetitor",
+        "kind": "trophy",
+        "chapterId": "towers",
+        "where": "Complete a single Tower"
+      },
+      {
+        "id": "achievement-2",
+        "name": "Tower Warrior",
+        "kind": "trophy",
+        "chapterId": "towers",
+        "where": "Complete a Tower with every character"
+      },
+      {
+        "id": "achievement-3",
+        "name": "Tower Master",
+        "kind": "trophy",
+        "chapterId": "towers",
+        "where": "Complete 10 Living Towers"
+      },
+      {
+        "id": "achievement-4",
+        "name": "Tower God",
+        "kind": "trophy",
+        "chapterId": "towers",
+        "where": "Complete 50 Living Towers"
+      },
+      {
+        "id": "achievement-5",
+        "name": "Challenge Accepted",
+        "kind": "trophy",
+        "chapterId": "towers",
+        "where": "Win a single Tower Challenge"
+      },
+      {
+        "id": "achievement-6",
+        "name": "BUDDY!!!",
+        "kind": "trophy",
+        "chapterId": "towers",
+        "where": "Send a Tower Challenge to a friend"
+      },
+      {
+        "id": "achievement-7",
+        "name": "Pledge Yourself",
+        "kind": "trophy",
+        "chapterId": "factions-and-invasions",
+        "where": "Reach level 5 in any faction"
+      },
+      {
+        "id": "achievement-8",
+        "name": "Faction Champion",
+        "kind": "trophy",
+        "chapterId": "factions-and-invasions",
+        "where": "Reach level 50 in any faction"
+      },
+      {
+        "id": "achievement-9",
+        "name": "No Loyalty",
+        "kind": "trophy",
+        "chapterId": "factions-and-invasions",
+        "where": "Reach level 50 in all factions"
+      },
+      {
+        "id": "achievement-10",
+        "name": "Jump Ship",
+        "kind": "trophy",
+        "chapterId": "factions-and-invasions",
+        "where": "Become a member of every faction"
+      },
+      {
+        "id": "achievement-11",
+        "name": "Time Out",
+        "kind": "trophy",
+        "chapterId": "fatalities-and-fighting",
+        "where": "Win a match by time out"
+      },
+      {
+        "id": "achievement-12",
+        "name": "Keep it Secret",
+        "kind": "trophy",
+        "chapterId": "towers",
+        "where": "Find a secret fight in the Living Towers"
+      },
+      {
+        "id": "achievement-13",
+        "name": "Statistical Advantage",
+        "kind": "trophy",
+        "chapterId": "profile-and-krypt",
+        "where": "View Kombat Kard"
+      },
+      {
+        "id": "achievement-14",
+        "name": "Moving Up",
+        "kind": "trophy",
+        "chapterId": "profile-and-krypt",
+        "where": "Reach personal level 10 in XP"
+      },
+      {
+        "id": "achievement-15",
+        "name": "Elder God",
+        "kind": "trophy",
+        "chapterId": "profile-and-krypt",
+        "where": "Reach personal level 65 in XP"
+      },
+      {
+        "id": "achievement-16",
+        "name": "A New Beginning",
+        "kind": "trophy",
+        "chapterId": "story",
+        "where": "Complete 50% of Story Mode"
+      },
+      {
+        "id": "achievement-17",
+        "name": "There is a Ruler",
+        "kind": "trophy",
+        "chapterId": "story",
+        "where": "Complete 100% of Story Mode"
+      },
+      {
+        "id": "achievement-18",
+        "name": "Inner Strength",
+        "kind": "trophy",
+        "chapterId": "online",
+        "where": "Win 1 complete online match"
+      },
+      {
+        "id": "achievement-19",
+        "name": "Return Kustomer",
+        "kind": "trophy",
+        "chapterId": "online",
+        "where": "Play 100 complete online matches"
+      },
+      {
+        "id": "achievement-20",
+        "name": "Royalty",
+        "kind": "trophy",
+        "chapterId": "online",
+        "where": "Win 5 complete Klassic King of the hill matches"
+      },
+      {
+        "id": "achievement-21",
+        "name": "Good to be King",
+        "kind": "trophy",
+        "chapterId": "online",
+        "where": "Win 1 complete Klassic King of the hill match"
+      },
+      {
+        "id": "achievement-22",
+        "name": "Giving Respect",
+        "kind": "trophy",
+        "chapterId": "online",
+        "where": "Give Respect points in a King of the hill match"
+      },
+      {
+        "id": "achievement-23",
+        "name": "Respected Fighter",
+        "kind": "trophy",
+        "chapterId": "online",
+        "where": "Earn 1,000 Respect points"
+      },
+      {
+        "id": "achievement-24",
+        "name": "Terrifying Encounter",
+        "kind": "trophy",
+        "chapterId": "profile-and-krypt",
+        "where": "Confront a beast within the Krypt"
+      },
+      {
+        "id": "achievement-25",
+        "name": "I'm number 1",
+        "kind": "trophy",
+        "chapterId": "towers",
+        "where": "Win 1 Tower Battle"
+      },
+      {
+        "id": "achievement-26",
+        "name": "Juggernaut",
+        "kind": "trophy",
+        "chapterId": "towers",
+        "where": "Win 5 Tower Battles"
+      },
+      {
+        "id": "achievement-27",
+        "name": "A Kontender",
+        "kind": "trophy",
+        "chapterId": "towers",
+        "where": "Complete 1 Tower Battle"
+      },
+      {
+        "id": "achievement-28",
+        "name": "Bill of Goods",
+        "kind": "trophy",
+        "chapterId": "online",
+        "where": "Win 1 complete match in Survivor King of the Hill"
+      },
+      {
+        "id": "achievement-29",
+        "name": "Dropping Fools",
+        "kind": "trophy",
+        "chapterId": "online",
+        "where": "Reach a 10 complete game win streak in Ranked 1v1 matches"
+      },
+      {
+        "id": "achievement-30",
+        "name": "Hit the Dojo",
+        "kind": "trophy",
+        "chapterId": "profile-and-krypt",
+        "where": "Enter Practice mode"
+      },
+      {
+        "id": "achievement-31",
+        "name": "Unstoppable",
+        "kind": "trophy",
+        "chapterId": "online",
+        "where": "Play 200 complete online matches"
+      },
+      {
+        "id": "achievement-32",
+        "name": "That's How You Do It",
+        "kind": "trophy",
+        "chapterId": "profile-and-krypt",
+        "where": "Complete Tutorial"
+      },
+      {
+        "id": "achievement-33",
+        "name": "Knockout",
+        "kind": "trophy",
+        "chapterId": "fatalities-and-fighting",
+        "where": "Perform a 10 hit combo with every character"
+      },
+      {
+        "id": "achievement-34",
+        "name": "FINISH HIM",
+        "kind": "trophy",
+        "chapterId": "fatalities-and-fighting",
+        "where": "Perform 1 Fatality in a match"
+      },
+      {
+        "id": "achievement-35",
+        "name": "Bloody Good Time",
+        "kind": "trophy",
+        "chapterId": "fatalities-and-fighting",
+        "where": "Perform a Fatality in a match with every character"
+      },
+      {
+        "id": "achievement-36",
+        "name": "Straight Power",
+        "kind": "trophy",
+        "chapterId": "fatalities-and-fighting",
+        "where": "Perform 100 Fatalities in matches"
+      },
+      {
+        "id": "achievement-37",
+        "name": "Brutal End",
+        "kind": "trophy",
+        "chapterId": "fatalities-and-fighting",
+        "where": "Perform 1 Brutality"
+      },
+      {
+        "id": "achievement-38",
+        "name": "Dark Future",
+        "kind": "trophy",
+        "chapterId": "fatalities-and-fighting",
+        "where": "Perform 50 Brutalities"
+      },
+      {
+        "id": "achievement-39",
+        "name": "Need a Doctor",
+        "kind": "trophy",
+        "chapterId": "fatalities-and-fighting",
+        "where": "Perform every character's X-Ray"
+      },
+      {
+        "id": "achievement-40",
+        "name": "Master",
+        "kind": "trophy",
+        "chapterId": "fatalities-and-fighting",
+        "where": "Win a single complete match with every character variation"
+      },
+      {
+        "id": "achievement-41",
+        "name": "Only a Real Master",
+        "kind": "trophy",
+        "chapterId": "fatalities-and-fighting",
+        "where": "Beat an opponent while they still have 90% health and you have 10% or less health remaining"
+      },
+      {
+        "id": "achievement-42",
+        "name": "Well Rounded",
+        "kind": "trophy",
+        "chapterId": "fatalities-and-fighting",
+        "where": "Play every character variation"
+      },
+      {
+        "id": "achievement-43",
+        "name": "It's a Gusher",
+        "kind": "trophy",
+        "chapterId": "fatalities-and-fighting",
+        "where": "Spill 1,000 pints of blood"
+      },
+      {
+        "id": "achievement-44",
+        "name": "Blanche Advantage",
+        "kind": "trophy",
+        "chapterId": "fatalities-and-fighting",
+        "where": "Hit someone with the old lady Level Interaction"
+      },
+      {
+        "id": "achievement-45",
+        "name": "Hara Kiri",
+        "kind": "trophy",
+        "chapterId": "fatalities-and-fighting",
+        "where": "Kill yourself with Kotal Kahn for 1 round and win the match"
+      },
+      {
+        "id": "achievement-46",
+        "name": "Back It Up",
+        "kind": "trophy",
+        "chapterId": "profile-and-krypt",
+        "where": "Equip a new Background image"
+      },
+      {
+        "id": "achievement-47",
+        "name": "Real Icon",
+        "kind": "trophy",
+        "chapterId": "profile-and-krypt",
+        "where": "Equip a new Icon"
+      },
+      {
+        "id": "achievement-48",
+        "name": "So Bored",
+        "kind": "trophy",
+        "chapterId": "profile-and-krypt",
+        "where": "Equip a new Border"
+      },
+      {
+        "id": "achievement-49",
+        "name": "Jumping Bean",
+        "kind": "trophy",
+        "chapterId": "fatalities-and-fighting",
+        "where": "Jump 30 times in 1 match"
+      },
+      {
+        "id": "achievement-50",
+        "name": "Trolling",
+        "kind": "trophy",
+        "chapterId": "fatalities-and-fighting",
+        "where": "Duck 30 times during Fatality sequence"
+      },
+      {
+        "id": "achievement-51",
+        "name": "All the Pieces",
+        "kind": "trophy",
+        "chapterId": "profile-and-krypt",
+        "where": "Equip a Background, Icon and Border set"
+      },
+      {
+        "id": "achievement-52",
+        "name": "Luck be a Lady",
+        "kind": "trophy",
+        "chapterId": "towers",
+        "where": "Play 7 complete Test Your Luck matches"
+      },
+      {
+        "id": "achievement-53",
+        "name": "The Kollector",
+        "kind": "trophy",
+        "chapterId": "profile-and-krypt",
+        "where": "Unlock 50 Kustom Kombat Modifiers"
+      },
+      {
+        "id": "achievement-54",
+        "name": "Disco",
+        "kind": "trophy",
+        "chapterId": "fatalities-and-fighting",
+        "where": "Create a sun ray with Kotal Kahn and perform a flip stance 5 times while in the ray"
+      },
+      {
+        "id": "achievement-55",
+        "name": "Almighty",
+        "kind": "trophy",
+        "chapterId": "towers",
+        "where": "Complete a Test Your Might Tower"
+      },
+      {
+        "id": "achievement-56",
+        "name": "Not Dead Yet",
+        "kind": "trophy",
+        "chapterId": "towers",
+        "where": "See all Test Your Might deaths"
+      },
+      {
+        "id": "achievement-57",
+        "name": "Stay Back",
+        "kind": "trophy",
+        "chapterId": "factions-and-invasions",
+        "where": "Play an Invasion Boss fight"
+      },
+      {
+        "id": "achievement-58",
+        "name": "DIE WILL YOU",
+        "kind": "trophy",
+        "chapterId": "factions-and-invasions",
+        "where": "Deal 1,000 total hits during Invasion Boss fights"
+      },
+      {
+        "id": "achievement-59",
+        "name": "INVASION",
+        "kind": "trophy",
+        "chapterId": "factions-and-invasions",
+        "where": "Complete an Invasion Tower"
+      },
+      {
+        "id": "achievement-60",
+        "name": "Can't Stop This",
+        "kind": "trophy",
+        "chapterId": "factions-and-invasions",
+        "where": "Win an Invasion 1v1 fight"
+      },
+      {
+        "id": "achievement-61",
+        "name": "Where It All Started",
+        "kind": "trophy",
+        "chapterId": "kombat-pack-fighters",
+        "where": "Perform the Pit Stage Fatality with Leatherface in the Klassic Tower"
+      },
+      {
+        "id": "achievement-62",
+        "name": "The Kraken",
+        "kind": "trophy",
+        "chapterId": "kombat-pack-fighters",
+        "where": "Perform the Kove Stage Fatality with Triborg in the Klassic Tower"
+      },
+      {
+        "id": "achievement-63",
+        "name": "What Doesn't Kill You Makes You Still Alive",
+        "kind": "trophy",
+        "chapterId": "kombat-pack-fighters",
+        "where": "Perform a Stage Brutality with Alien in the Klassic Tower"
+      },
+      {
+        "id": "achievement-64",
+        "name": "Lands-Down",
+        "kind": "trophy",
+        "chapterId": "kombat-pack-fighters",
+        "where": "Don't perform a Kombo over 4 hits with Bo' Rai Cho and win a complete Online Ranked 1v1 match"
+      },
+      {
+        "id": "achievement-65",
+        "name": "Fox Finish",
+        "kind": "trophy",
+        "chapterId": "fatalities-and-fighting",
+        "where": "Win the match with your opponent stepping on Caltrops"
+      },
+      {
+        "id": "achievement-66",
+        "name": "Dance The Night Away",
+        "kind": "trophy",
+        "chapterId": "kombat-pack-fighters",
+        "where": "Flip Stance 10 times with a Kombat Pack 2 character during a Fatality sequence in an Online match"
+      },
+      {
+        "id": "achievement-67",
+        "name": "Throwback",
+        "kind": "trophy",
+        "chapterId": "fatalities-and-fighting",
+        "where": "Perform a Klassic Fatality in a Klassic skin"
+      },
+      {
+        "id": "achievement-68",
+        "name": "Getting Tipsy",
+        "kind": "trophy",
+        "chapterId": "kombat-pack-fighters",
+        "where": "Perform Bo' Rai Cho's Drinking special 10 times during a match in the Klassic Tower"
+      },
+      {
+        "id": "achievement-69",
+        "name": "Hug It Out",
+        "kind": "trophy",
+        "chapterId": "kombat-pack-fighters",
+        "where": "Throw 5 Face Huggers during a match with Alien in the Klassic Tower"
+      },
+      {
+        "id": "achievement-70",
+        "name": "The Grinder",
+        "kind": "trophy",
+        "chapterId": "kombat-pack-fighters",
+        "where": "Win a match after connecting all attacks from Leatherface's Berserker Stance in the Klassic Tower"
+      },
+      {
+        "id": "achievement-71",
+        "name": "Robots Rule",
+        "kind": "trophy",
+        "chapterId": "kombat-pack-fighters",
+        "where": "Win 5 complete matches with each Robot Type"
+      },
+      {
+        "id": "achievement-72",
+        "name": "Going The Distance",
+        "kind": "trophy",
+        "chapterId": "kombat-pack-fighters",
+        "where": "Complete the Klassic Tower with one of the Kombat Pack 2 characters"
+      },
+      {
+        "id": "achievement-73",
+        "name": "All I Do Is Win",
+        "kind": "trophy",
+        "chapterId": "fatalities-and-fighting",
+        "where": "Jump back and forth over your opponent 5 times during the Fatality sequence and perform a Fatality"
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/mortal-kombat-x",
+    "Achievement data from Steam (Steam Web API, app 307780)",
+    "StrategyWiki: no usable walkthrough, nothing used — https://strategywiki.org/wiki/Mortal_Kombat_X",
+    "Fandom (mortalkombat.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://mortalkombat.fandom.com/wiki/Mortal_Kombat_X"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). The Steam schema calls app 307780 \"Karloff\" (an internal codename); the store list confirms it as \"Mortal Kombat X\". StrategyWiki has a page at completion stage 0: its Walkthrough and all 12 Story chapter pages (\"Chapter 1: Johnny Cage\" to \"Chapter 12: Cassie Cage\") are linked but not written; only Alien, Bo' Rai Cho, Cassie Cage, D'Vorah, Characters and Table of Contents are written (character move pages), so it was not used. mortalkombat.fandom.com answers the API under \"Mortal Kombat X\", with about 269 linked articles; names only were looked at, nothing copied. None of the 73 Steam achievements is hidden. \"Kombat Pack 2\" is the only pack name in the data; the Kombat Pack chapter groups achievements that name Leatherface, Triborg, Alien, Bo' Rai Cho, Robot Types or the Klassic Tower. \"Hara Kiri\" and \"Disco\" name Kotal Kahn and stay in the fighting chapter. \"Win 1 Tower Battle\" and \"Complete 1 Tower Battle\" are grouped with the towers by name only; they may be faction or online modes and need checking. Most achievements are below 10% on Steam."
+}

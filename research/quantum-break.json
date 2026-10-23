@@ -1,0 +1,437 @@
+{
+  "id": "quantum-break",
+  "title": "Quantum Break",
+  "year": 2016,
+  "platforms": [
+    "PC",
+    "Xbox One"
+  ],
+  "rawgId": 6617,
+  "rawgSlug": "quantum-break",
+  "released": "2016-04-05",
+  "developers": [
+    "Remedy Entertainment"
+  ],
+  "playtime": 6,
+  "genres": [
+    "Action",
+    "Shooter"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Full controller support",
+    "Steam Cloud",
+    "Atmospheric",
+    "Great Soundtrack",
+    "Story Rich",
+    "Third Person",
+    "Sci-fi",
+    "Female Protagonist",
+    "Survival",
+    "Controller"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/a28/a289e23b4d4d84f26ab59125e3be4483.jpg",
+  "steamAppId": 474960,
+  "achievements": {
+    "total": 42,
+    "hidden": 21,
+    "examples": [
+      {
+        "name": "Marketing Spiel",
+        "percent": 63.8
+      },
+      {
+        "name": "A Link To The Future",
+        "percent": 62.1
+      },
+      {
+        "name": "Chronon Surge",
+        "percent": 62.0
+      },
+      {
+        "name": "Tossing Stones in a Pond",
+        "percent": 8.9
+      },
+      {
+        "name": "Such Upgrade",
+        "percent": 7.4
+      },
+      {
+        "name": "Time Lord",
+        "percent": 7.1
+      },
+      {
+        "name": "Media Baron",
+        "percent": 5.9
+      },
+      {
+        "name": "Time Master",
+        "percent": 5.6
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": false,
+      "pages": 0,
+      "reason": "No page for Quantum Break (MediaWiki API returned missing; see notes for other titles tried)"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 131,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://quantumbreak.fandom.com/wiki/Quantum_Break_(video_game)"
+    }
+  },
+  "game": {
+    "id": "quantum-break",
+    "title": "Quantum Break",
+    "platforms": [
+      "PC",
+      "Xbox One"
+    ],
+    "blurb": "Third-person action shooter about time powers from Remedy Entertainment (RAWG lists Microsoft Studios and THQ Nordic as publishers), released 2016-04-05. RAWG average playtime: 6 hours. Genres: Action, Shooter. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#2FA4D9",
+    "chapters": [
+      {
+        "id": "story",
+        "title": "The Story",
+        "summary": "Five acts and the story moments along the way, all hidden on Steam. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "time-powers",
+        "title": "Time Powers in Combat",
+        "summary": "Time Blast, Dodge Focus, Time Rush, Time Stop, Time Shield, chronon harnesses and explosions.",
+        "steps": []
+      },
+      {
+        "id": "upgrades",
+        "title": "Upgrading Time Powers",
+        "summary": "Upgrading a time power, then fully upgrading one and finally all of them.",
+        "steps": []
+      },
+      {
+        "id": "collectibles",
+        "title": "Intel, Quantum Ripples and the Show",
+        "summary": "Intel Items, Quantum Ripples, e-mails, radios, posters, show episodes, Paul's presentation and 100% completion.",
+        "steps": []
+      },
+      {
+        "id": "difficulty",
+        "title": "Difficulty",
+        "summary": "Finishing the game on Casual, Normal and Hard.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Everybody Gather Around",
+        "kind": "trophy",
+        "chapterId": "time-powers",
+        "where": "Kill 3 enemies with a single Time Blast."
+      },
+      {
+        "id": "achievement-2",
+        "name": "Focus. Aim. Pull.",
+        "kind": "trophy",
+        "chapterId": "time-powers",
+        "where": "Kill 10 enemies with a head shot while using Dodge Focus."
+      },
+      {
+        "id": "achievement-3",
+        "name": "One Foot in Front of Another",
+        "kind": "trophy",
+        "chapterId": "time-powers",
+        "where": "Traverse a total of 100 meters using the Time Rush."
+      },
+      {
+        "id": "achievement-4",
+        "name": "Frozen Lead",
+        "kind": "trophy",
+        "chapterId": "time-powers",
+        "where": "Use Time Stop to stack a total of 1000 bullets."
+      },
+      {
+        "id": "achievement-5",
+        "name": "Daylight Saving Time",
+        "kind": "trophy",
+        "chapterId": "time-powers",
+        "where": "Time Stop one hour's worth of accumulated time."
+      },
+      {
+        "id": "achievement-6",
+        "name": "Break All the Toys",
+        "kind": "trophy",
+        "chapterId": "time-powers",
+        "where": "Destroy 15 enemy chronon harnesses."
+      },
+      {
+        "id": "achievement-7",
+        "name": "Area Effect",
+        "kind": "trophy",
+        "chapterId": "time-powers",
+        "where": "Kill 15 enemies with environmental explosions."
+      },
+      {
+        "id": "achievement-8",
+        "name": "Hold on to Your Hope and Burn",
+        "kind": "trophy",
+        "chapterId": "story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-9",
+        "name": "Not a Friendly Invitation",
+        "kind": "trophy",
+        "chapterId": "story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-10",
+        "name": "You're Coming With Us",
+        "kind": "trophy",
+        "chapterId": "story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-11",
+        "name": "Then We'll Die Finding Out",
+        "kind": "trophy",
+        "chapterId": "story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-12",
+        "name": "Your Exceptional Qualities Are Obvious",
+        "kind": "trophy",
+        "chapterId": "story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-13",
+        "name": "Mysterious Stranger",
+        "kind": "trophy",
+        "chapterId": "story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-14",
+        "name": "Take That Trip",
+        "kind": "trophy",
+        "chapterId": "story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-15",
+        "name": "The Countermeasure",
+        "kind": "trophy",
+        "chapterId": "story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-16",
+        "name": "A Fracture in Time",
+        "kind": "trophy",
+        "chapterId": "story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-17",
+        "name": "Manufactured by William Joyce",
+        "kind": "trophy",
+        "chapterId": "story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-18",
+        "name": "Something Fashionable",
+        "kind": "trophy",
+        "chapterId": "story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-19",
+        "name": "Toto",
+        "kind": "trophy",
+        "chapterId": "story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-20",
+        "name": "Last-Second Rescue",
+        "kind": "trophy",
+        "chapterId": "story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-21",
+        "name": "Iron Fist",
+        "kind": "trophy",
+        "chapterId": "story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-22",
+        "name": "The Soft Touch",
+        "kind": "trophy",
+        "chapterId": "story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-23",
+        "name": "You and Me",
+        "kind": "trophy",
+        "chapterId": "story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-24",
+        "name": "Bigger Fish to Fry",
+        "kind": "trophy",
+        "chapterId": "story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-25",
+        "name": "The Right-Hand Man",
+        "kind": "trophy",
+        "chapterId": "story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-26",
+        "name": "The Doctor",
+        "kind": "trophy",
+        "chapterId": "story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-27",
+        "name": "Rational Thought",
+        "kind": "trophy",
+        "chapterId": "story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-28",
+        "name": "Paranoia",
+        "kind": "trophy",
+        "chapterId": "story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-29",
+        "name": "Marketing Spiel",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Sit a spell, take in Paul's presentation at the University."
+      },
+      {
+        "id": "achievement-30",
+        "name": "Time Bandit",
+        "kind": "trophy",
+        "chapterId": "difficulty",
+        "where": "Complete the game on Casual Difficulty."
+      },
+      {
+        "id": "achievement-31",
+        "name": "Time Cop",
+        "kind": "trophy",
+        "chapterId": "difficulty",
+        "where": "Complete the game on Normal Difficulty."
+      },
+      {
+        "id": "achievement-32",
+        "name": "Time Lord",
+        "kind": "trophy",
+        "chapterId": "difficulty",
+        "where": "Complete the game on Hard Difficulty."
+      },
+      {
+        "id": "achievement-33",
+        "name": "Spreading Ripples",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Watch a show episode with all of its Quantum Ripples unlocked."
+      },
+      {
+        "id": "achievement-34",
+        "name": "Chronon Surge",
+        "kind": "trophy",
+        "chapterId": "upgrades",
+        "where": "Upgrade a time power."
+      },
+      {
+        "id": "achievement-35",
+        "name": "Stop / Go",
+        "kind": "trophy",
+        "chapterId": "upgrades",
+        "where": "Fully upgrade Time Stop or Time Dodge."
+      },
+      {
+        "id": "achievement-36",
+        "name": "Such Upgrade",
+        "kind": "trophy",
+        "chapterId": "upgrades",
+        "where": "Fully upgrade all time powers."
+      },
+      {
+        "id": "achievement-37",
+        "name": "Time Master",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Complete 100% of the game. Find every hidden thing, make every choice. DO ALL THE THINGS."
+      },
+      {
+        "id": "achievement-38",
+        "name": "Tossing Stones in a Pond",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Trigger all Quantum Ripples."
+      },
+      {
+        "id": "achievement-39",
+        "name": "Knowledge Is Power",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Locate all Intel Items."
+      },
+      {
+        "id": "achievement-40",
+        "name": "A Link To The Future",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Locate 1 Quantum Ripple and 1 Intel Item."
+      },
+      {
+        "id": "achievement-41",
+        "name": "Media Baron",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Find all e-mails, presentations, TV shows, radios and posters."
+      },
+      {
+        "id": "achievement-42",
+        "name": "Personal Space",
+        "kind": "trophy",
+        "chapterId": "time-powers",
+        "where": "Deflect a total of 200 bullets with the Time Shield."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/quantum-break",
+    "Achievement data from Steam (Steam Web API, app 474960)",
+    "StrategyWiki: no page for this game, nothing used",
+    "Fandom (quantumbreak.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://quantumbreak.fandom.com/wiki/Quantum_Break_(video_game)"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). Steam app 474960 (\"Quantum Break\") was used. The store list has a second app also named \"Quantum Break\" (4354330); the Steam API refused its schema (HTTP 403), so what it is could not be told from the data. 21 of 42 Steam achievements are hidden and sit in the story chapter; five have API names ACH_ACT1_COMPLETED to ACH_ACT5_COMPLETED, which is the only source for \"five acts\". The other 16 hidden ones could be story moments or choices; the data does not say which act each belongs to. No StrategyWiki page under \"Quantum Break\". quantumbreak.fandom.com redirects \"Quantum Break\" to a disambiguation page that lists \"Quantum Break (video game)\", \"Quantum Break (Windows 10)\", \"Quantum Break: Timeless Collector's Edition\" and the TV series; \"Quantum Break (video game)\" answers the API with about 131 linked articles; names only were looked at, nothing copied."
+}

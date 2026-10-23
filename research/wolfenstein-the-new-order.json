@@ -1,0 +1,463 @@
+{
+  "id": "wolfenstein-the-new-order",
+  "title": "Wolfenstein: The New Order",
+  "year": 2014,
+  "platforms": [
+    "Xbox One",
+    "PC",
+    "Xbox 360",
+    "PlayStation 3",
+    "PlayStation 4"
+  ],
+  "rawgId": 3696,
+  "rawgSlug": "wolfenstein-the-new-order",
+  "released": "2014-05-19",
+  "developers": [
+    "Bethesda Softworks",
+    "Machine Games"
+  ],
+  "playtime": 12,
+  "genres": [
+    "Action",
+    "Shooter"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Multiplayer",
+    "Atmospheric",
+    "Great Soundtrack",
+    "Story Rich",
+    "First-Person",
+    "Sci-fi",
+    "Partial Controller Support",
+    "Horror",
+    "FPS",
+    "Gore"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/c80/c80bcf321da44d69b18a06c04d942662.jpg",
+  "steamAppId": 201810,
+  "achievements": {
+    "total": 50,
+    "hidden": 50,
+    "examples": []
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Wolfenstein:_The_New_Order",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 201,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://wolfenstein.fandom.com/wiki/Wolfenstein:_The_New_Order"
+    }
+  },
+  "game": {
+    "id": "wolfenstein-the-new-order",
+    "title": "Wolfenstein: The New Order",
+    "platforms": [
+      "Xbox One",
+      "PC",
+      "Xbox 360",
+      "PlayStation 3",
+      "PlayStation 4"
+    ],
+    "blurb": "Story-driven first-person shooter from Machine Games, published by Bethesda Softworks, released 2014-05-19. RAWG average playtime: 12 hours. Genres: Action, Shooter. Chapters are an estimate drawn from Steam achievement names (every condition is hidden).",
+    "accent": "#7A1F1F",
+    "chapters": [
+      {
+        "id": "campaign",
+        "title": "The Campaign",
+        "summary": "Story milestones such as saving Fergus or Wyatt, the resistance, the laser, London and the final liberation. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "collectibles",
+        "title": "Gold and Secrets",
+        "summary": "Achievements named for gold, secrets and \"the lives of others\"; their conditions are hidden.",
+        "steps": []
+      },
+      {
+        "id": "big-feats",
+        "title": "Super Hero and Über Hero",
+        "summary": "Two rare achievements whose conditions are hidden.",
+        "steps": []
+      },
+      {
+        "id": "skills-and-upgrades",
+        "title": "Skills and Upgrades",
+        "summary": "Achievements named for skills and gear: Scout, knife throwing and sheaths, magazines, reloads, Endurance, dual-wielding, grenade pouches, the LKW and more.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Gunner",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-2",
+        "name": "Fergus saved",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-3",
+        "name": "Wyatt saved",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-4",
+        "name": "Vive la resistance!",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-5",
+        "name": "Power to the laser",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-6",
+        "name": "Hidden in the deep",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-7",
+        "name": "London uprising",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-8",
+        "name": "Deliverance",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-9",
+        "name": "Liberation",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-10",
+        "name": "Super hero",
+        "kind": "trophy",
+        "chapterId": "big-feats",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-11",
+        "name": "Über hero",
+        "kind": "trophy",
+        "chapterId": "big-feats",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-12",
+        "name": "All that glitters",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-13",
+        "name": "Heart of gold",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-14",
+        "name": "The lives of others",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-15",
+        "name": "Secrets revealed I",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-16",
+        "name": "Secrets revealed II",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-17",
+        "name": "Secrets revealed III",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-18",
+        "name": "Secrets revealed IV",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-19",
+        "name": "Scout I",
+        "kind": "trophy",
+        "chapterId": "skills-and-upgrades",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-20",
+        "name": "Knife throwing",
+        "kind": "trophy",
+        "chapterId": "skills-and-upgrades",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-21",
+        "name": "Knife sheath +",
+        "kind": "trophy",
+        "chapterId": "skills-and-upgrades",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-22",
+        "name": "Knife sheath ++",
+        "kind": "trophy",
+        "chapterId": "skills-and-upgrades",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-23",
+        "name": "Silent shot",
+        "kind": "trophy",
+        "chapterId": "skills-and-upgrades",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-24",
+        "name": "Vampire",
+        "kind": "trophy",
+        "chapterId": "skills-and-upgrades",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-25",
+        "name": "Scout II",
+        "kind": "trophy",
+        "chapterId": "skills-and-upgrades",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-26",
+        "name": "Assassin",
+        "kind": "trophy",
+        "chapterId": "skills-and-upgrades",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-27",
+        "name": "Deadeye",
+        "kind": "trophy",
+        "chapterId": "skills-and-upgrades",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-28",
+        "name": "Quick draw",
+        "kind": "trophy",
+        "chapterId": "skills-and-upgrades",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-29",
+        "name": "Quick regeneration",
+        "kind": "trophy",
+        "chapterId": "skills-and-upgrades",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-30",
+        "name": "Gun magazine +",
+        "kind": "trophy",
+        "chapterId": "skills-and-upgrades",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-31",
+        "name": "Shotgun magazine +",
+        "kind": "trophy",
+        "chapterId": "skills-and-upgrades",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-32",
+        "name": "AR magazine +",
+        "kind": "trophy",
+        "chapterId": "skills-and-upgrades",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-33",
+        "name": "Marksman magazine +",
+        "kind": "trophy",
+        "chapterId": "skills-and-upgrades",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-34",
+        "name": "Quick reload",
+        "kind": "trophy",
+        "chapterId": "skills-and-upgrades",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-35",
+        "name": "Double reload",
+        "kind": "trophy",
+        "chapterId": "skills-and-upgrades",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-36",
+        "name": "Endurance I",
+        "kind": "trophy",
+        "chapterId": "skills-and-upgrades",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-37",
+        "name": "Scavenger",
+        "kind": "trophy",
+        "chapterId": "skills-and-upgrades",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-38",
+        "name": "Bullet feeder",
+        "kind": "trophy",
+        "chapterId": "skills-and-upgrades",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-39",
+        "name": "Endurance II",
+        "kind": "trophy",
+        "chapterId": "skills-and-upgrades",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-40",
+        "name": "Autopanzer",
+        "kind": "trophy",
+        "chapterId": "skills-and-upgrades",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-41",
+        "name": "LKW battery +",
+        "kind": "trophy",
+        "chapterId": "skills-and-upgrades",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-42",
+        "name": "Dual-wield expert",
+        "kind": "trophy",
+        "chapterId": "skills-and-upgrades",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-43",
+        "name": "Throwback",
+        "kind": "trophy",
+        "chapterId": "skills-and-upgrades",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-44",
+        "name": "Grenade pouch +",
+        "kind": "trophy",
+        "chapterId": "skills-and-upgrades",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-45",
+        "name": "Grenade pouch ++",
+        "kind": "trophy",
+        "chapterId": "skills-and-upgrades",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-46",
+        "name": "Bullseye",
+        "kind": "trophy",
+        "chapterId": "skills-and-upgrades",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-47",
+        "name": "Rocket magazine +",
+        "kind": "trophy",
+        "chapterId": "skills-and-upgrades",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-48",
+        "name": "Vaporize",
+        "kind": "trophy",
+        "chapterId": "skills-and-upgrades",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-49",
+        "name": "Sentinel",
+        "kind": "trophy",
+        "chapterId": "skills-and-upgrades",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-50",
+        "name": "Hardened",
+        "kind": "trophy",
+        "chapterId": "skills-and-upgrades",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/wolfenstein-the-new-order",
+    "Achievement data from Steam (Steam Web API, app 201810)",
+    "StrategyWiki: no usable walkthrough, nothing used — https://strategywiki.org/wiki/Wolfenstein:_The_New_Order",
+    "Fandom (wolfenstein.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://wolfenstein.fandom.com/wiki/Wolfenstein:_The_New_Order"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). All 50 Steam achievements are hidden, so every one is placed by its name only, and every placement is a guess. The nine story-sounding names (ach_1 to ach_9) are the campaign chapter; \"Fergus saved\" (59.3%) and \"Wyatt saved\" (44.6%) both exist. \"All that glitters\", \"Heart of gold\", \"The lives of others\" and \"Secrets revealed I\" to \"IV\" (5% to 19%) are grouped as collectibles. \"Super hero\" (13.5%) and \"Über hero\" (6.7%) are rare and get their own small chapter; what they need is not in the data. The other 32 (ach_19 to ach_50) are named for skills and gear and sit in the skills chapter. The store list has two apps named \"Wolfenstein: The New Order\": 201810 (schema \"Wolfenstein: The New Order\") and 288570 (schema \"Wolfenstein: The New Order LV\"), with the same 50 achievement names; RAWG also has a separate \"German Edition\" entry. App 201810 was used. StrategyWiki has a stub (completion stage 0, marked as a stub): only Controls and Table of Contents are written; Gameplay and Walkthrough are not. wolfenstein.fandom.com answers the API under \"Wolfenstein: The New Order\" with about 201 linked articles; names only were looked at, nothing copied."
+}

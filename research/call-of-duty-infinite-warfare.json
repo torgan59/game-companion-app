@@ -1,0 +1,787 @@
+{
+  "id": "call-of-duty-infinite-warfare",
+  "title": "Call of Duty: Infinite Warfare",
+  "year": 2016,
+  "platforms": [
+    "Xbox One",
+    "PC",
+    "PlayStation 4"
+  ],
+  "rawgId": 887,
+  "rawgSlug": "call-of-duty-infinite-warfare",
+  "released": "2016-11-04",
+  "developers": [
+    "Infinity Ward"
+  ],
+  "playtime": 10,
+  "genres": [
+    "Action",
+    "Shooter"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Multiplayer",
+    "Full controller support",
+    "Atmospheric",
+    "Great Soundtrack",
+    "Co-op",
+    "Story Rich",
+    "Open World",
+    "cooperative",
+    "First-Person",
+    "Sci-fi"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/6f7/6f7341dd656910be2c2cda39193a7ec9.jpg",
+  "steamAppId": 292730,
+  "achievements": {
+    "total": 88,
+    "hidden": 22,
+    "examples": [
+      {
+        "name": "Rising Threat",
+        "percent": 57.9
+      },
+      {
+        "name": "New Gun Collector",
+        "percent": 56.1
+      },
+      {
+        "name": "Black Sky",
+        "percent": 50.5
+      },
+      {
+        "name": "Book Worm",
+        "percent": 1.1
+      },
+      {
+        "name": "Bait and Switch",
+        "percent": 1.1
+      },
+      {
+        "name": "Dear Diary",
+        "percent": 1.1
+      },
+      {
+        "name": "Failed Maintenance",
+        "percent": 1.1
+      },
+      {
+        "name": "Quarter Muncher",
+        "percent": 1.0
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Call_of_Duty:_Infinite_Warfare",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 500,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://callofduty.fandom.com/wiki/Call_of_Duty:_Infinite_Warfare"
+    }
+  },
+  "game": {
+    "id": "call-of-duty-infinite-warfare",
+    "title": "Call of Duty: Infinite Warfare",
+    "platforms": [
+      "Xbox One",
+      "PC",
+      "PlayStation 4"
+    ],
+    "blurb": "Sci-fi first-person shooter from Infinity Ward, published by Activision, released 2016-11-04. RAWG average playtime: 10 hours. Genres: Action, Shooter. Chapters are an estimate drawn from Steam achievement themes: the campaign, its side missions, multiplayer and the five zombies maps the achievements name.",
+    "accent": "#2B5C8A",
+    "chapters": [
+      {
+        "id": "campaign",
+        "title": "The Campaign",
+        "summary": "The main operations from Rising Threat and Black Sky to Operation Blood Storm, the hidden campaign feats, and every mission on Veteran. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "side-missions",
+        "title": "Ship Boarding and Jackal Side Missions",
+        "summary": "The optional ship boarding operations and the Jackal-only operations.",
+        "steps": []
+      },
+      {
+        "id": "gear-and-collections",
+        "title": "Weapons, Gear and the Most-Wanted Board",
+        "summary": "Scanning weapons, custom loadouts, equipment and Jackal upgrades, death letters, the most-wanted board and zero-G kills.",
+        "steps": []
+      },
+      {
+        "id": "multiplayer",
+        "title": "Multiplayer",
+        "summary": "Winning online matches in Multiplayer.",
+        "steps": []
+      },
+      {
+        "id": "spaceland",
+        "title": "Spaceland",
+        "summary": "The Spaceland zombies map: the sticker pack, the Soul Key piece, Brutes, the arcade games and its hidden feats.",
+        "steps": []
+      },
+      {
+        "id": "rave-in-the-redwoods",
+        "title": "Rave in the Redwoods",
+        "summary": "The second zombies map named in the achievements: its Soul Key piece, camp badges, ziplines and the Slasher.",
+        "steps": []
+      },
+      {
+        "id": "shaolin-shuffle",
+        "title": "Shaolin Shuffle",
+        "summary": "The third zombies map named: bios, Chi abilities, newspaper clippings and its Soul Key piece.",
+        "steps": []
+      },
+      {
+        "id": "radioactive-thing",
+        "title": "Attack of the Radioactive Thing",
+        "summary": "The fourth zombies map named: traps, Willard's recordings, the M.A.D. and its Soul Key piece.",
+        "steps": []
+      },
+      {
+        "id": "beast-from-beyond",
+        "title": "The Beast From Beyond",
+        "summary": "The fifth zombies map named: its traps and the final piece of the Soul Key. Spoiler-guarded.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Rising Threat",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Complete Rising Threat."
+      },
+      {
+        "id": "achievement-2",
+        "name": "Black Sky",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Complete Black Sky."
+      },
+      {
+        "id": "achievement-3",
+        "name": "Operation Port Armor",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Complete Operation Port Armor."
+      },
+      {
+        "id": "achievement-4",
+        "name": "Operation Burn Water",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Complete Operation Burn Water."
+      },
+      {
+        "id": "achievement-5",
+        "name": "Operation Dark Quarry",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Complete Operation Dark Quarry."
+      },
+      {
+        "id": "achievement-6",
+        "name": "Operation Black Flag",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Complete Operation Black Flag."
+      },
+      {
+        "id": "achievement-7",
+        "name": "Operation Blood Storm",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Complete Operation Blood Storm."
+      },
+      {
+        "id": "achievement-8",
+        "name": "The Longest Day",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Complete all Single Player missions on Veteran."
+      },
+      {
+        "id": "achievement-9",
+        "name": "Operation Taken Dagger",
+        "kind": "trophy",
+        "chapterId": "side-missions",
+        "where": "Complete Operation Taken Dagger."
+      },
+      {
+        "id": "achievement-10",
+        "name": "Operation Phoenix",
+        "kind": "trophy",
+        "chapterId": "side-missions",
+        "where": "Complete Operation Phoenix."
+      },
+      {
+        "id": "achievement-11",
+        "name": "Operation D-Con",
+        "kind": "trophy",
+        "chapterId": "side-missions",
+        "where": "Complete Operation D-Con."
+      },
+      {
+        "id": "achievement-12",
+        "name": "Operation Deep Execute",
+        "kind": "trophy",
+        "chapterId": "side-missions",
+        "where": "Complete Operation Deep Execute."
+      },
+      {
+        "id": "achievement-13",
+        "name": "Targets of Opportunity",
+        "kind": "trophy",
+        "chapterId": "side-missions",
+        "where": "Complete all ship boarding side missions."
+      },
+      {
+        "id": "achievement-14",
+        "name": "Operation Safe Harbor",
+        "kind": "trophy",
+        "chapterId": "side-missions",
+        "where": "Complete Operation Safe Harbor."
+      },
+      {
+        "id": "achievement-15",
+        "name": "Operation Pure Threat",
+        "kind": "trophy",
+        "chapterId": "side-missions",
+        "where": "Complete Operation Pure Threat."
+      },
+      {
+        "id": "achievement-16",
+        "name": "Operation Grave Robber",
+        "kind": "trophy",
+        "chapterId": "side-missions",
+        "where": "Complete Operation Grave Robber."
+      },
+      {
+        "id": "achievement-17",
+        "name": "Operation Sudden Death",
+        "kind": "trophy",
+        "chapterId": "side-missions",
+        "where": "Complete Operation Sudden Death."
+      },
+      {
+        "id": "achievement-18",
+        "name": "Operation Trace Kill",
+        "kind": "trophy",
+        "chapterId": "side-missions",
+        "where": "Complete Operation Trace Kill."
+      },
+      {
+        "id": "achievement-19",
+        "name": "Top Gun",
+        "kind": "trophy",
+        "chapterId": "side-missions",
+        "where": "Complete all Jackal-only side missions."
+      },
+      {
+        "id": "achievement-20",
+        "name": "New Gun Collector",
+        "kind": "trophy",
+        "chapterId": "gear-and-collections",
+        "where": "Scan your first weapon!"
+      },
+      {
+        "id": "achievement-21",
+        "name": "Serious Gun Collector",
+        "kind": "trophy",
+        "chapterId": "gear-and-collections",
+        "where": "Scan 10 weapons."
+      },
+      {
+        "id": "achievement-22",
+        "name": "Gun Nut",
+        "kind": "trophy",
+        "chapterId": "gear-and-collections",
+        "where": "All weapons scanned."
+      },
+      {
+        "id": "achievement-23",
+        "name": "Peace to the Fallen",
+        "kind": "trophy",
+        "chapterId": "gear-and-collections",
+        "where": "Listened to all of the death letters of the fallen."
+      },
+      {
+        "id": "achievement-24",
+        "name": "Make it Personal",
+        "kind": "trophy",
+        "chapterId": "gear-and-collections",
+        "where": "Load out with a custom weapon."
+      },
+      {
+        "id": "achievement-25",
+        "name": "Gear Up",
+        "kind": "trophy",
+        "chapterId": "gear-and-collections",
+        "where": "Find your first equipment upgrade."
+      },
+      {
+        "id": "achievement-26",
+        "name": "Fully Equipped",
+        "kind": "trophy",
+        "chapterId": "gear-and-collections",
+        "where": "Earn all equipment upgrades."
+      },
+      {
+        "id": "achievement-27",
+        "name": "Fangs Out",
+        "kind": "trophy",
+        "chapterId": "gear-and-collections",
+        "where": "Earn your first Jackal item (weapon or upgrade)."
+      },
+      {
+        "id": "achievement-28",
+        "name": "Jackal Ace",
+        "kind": "trophy",
+        "chapterId": "gear-and-collections",
+        "where": "Earn all Jackal weapons and upgrades."
+      },
+      {
+        "id": "achievement-29",
+        "name": "Ante Up",
+        "kind": "trophy",
+        "chapterId": "gear-and-collections",
+        "where": "Get your first kill on the most-wanted board."
+      },
+      {
+        "id": "achievement-30",
+        "name": "Aces High",
+        "kind": "trophy",
+        "chapterId": "gear-and-collections",
+        "where": "Clear half of the most-wanted board."
+      },
+      {
+        "id": "achievement-31",
+        "name": "Royal Flush",
+        "kind": "trophy",
+        "chapterId": "gear-and-collections",
+        "where": "All SDF Aces and Captains killed."
+      },
+      {
+        "id": "achievement-32",
+        "name": "Danger Close",
+        "kind": "trophy",
+        "chapterId": "gear-and-collections",
+        "where": "Kill 15 enemies with a zero G grappling hook."
+      },
+      {
+        "id": "achievement-33",
+        "name": "You Know Nothing",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-34",
+        "name": "Captain's Log",
+        "kind": "trophy",
+        "chapterId": "gear-and-collections",
+        "where": "Use the computer in the Captain's office."
+      },
+      {
+        "id": "achievement-35",
+        "name": "Reality TV",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-36",
+        "name": "Boots on the Ground",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-37",
+        "name": "Peek-a-boo!",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-38",
+        "name": "Gravity Kills",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-39",
+        "name": "C12",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-40",
+        "name": "Sticker Collector",
+        "kind": "trophy",
+        "chapterId": "spaceland",
+        "where": "In Spaceland, find all of the quest items and complete the sticker pack."
+      },
+      {
+        "id": "achievement-41",
+        "name": "Sooooul Key",
+        "kind": "trophy",
+        "chapterId": "spaceland",
+        "where": "In Spaceland, recover the piece of the Soul Key."
+      },
+      {
+        "id": "achievement-42",
+        "name": "The Bigger They Are",
+        "kind": "trophy",
+        "chapterId": "spaceland",
+        "where": "In Spaceland, defeat 5 Brutes in one game without dying."
+      },
+      {
+        "id": "achievement-43",
+        "name": "Hoff The Charts!",
+        "kind": "trophy",
+        "chapterId": "spaceland",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-44",
+        "name": "Rock On!",
+        "kind": "trophy",
+        "chapterId": "spaceland",
+        "where": "In Spaceland, craft a Weapon of Rock."
+      },
+      {
+        "id": "achievement-45",
+        "name": "Get Packed",
+        "kind": "trophy",
+        "chapterId": "spaceland",
+        "where": "In Spaceland Pack-A-Punch a weapon."
+      },
+      {
+        "id": "achievement-46",
+        "name": "Batteries Not Included",
+        "kind": "trophy",
+        "chapterId": "spaceland",
+        "where": "In Spaceland, create an Exquisite Core."
+      },
+      {
+        "id": "achievement-47",
+        "name": "I Love the 80s",
+        "kind": "trophy",
+        "chapterId": "spaceland",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-48",
+        "name": "Insert Coin",
+        "kind": "trophy",
+        "chapterId": "spaceland",
+        "where": "In Spaceland, play every Arcade game at least once."
+      },
+      {
+        "id": "achievement-49",
+        "name": "Brain Dead",
+        "kind": "trophy",
+        "chapterId": "spaceland",
+        "where": "In Spaceland, play 30 games and get to scene 10."
+      },
+      {
+        "id": "achievement-50",
+        "name": "Dominion",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "Win 5 online matches in Multiplayer."
+      },
+      {
+        "id": "achievement-51",
+        "name": "Locksmith",
+        "kind": "trophy",
+        "chapterId": "rave-in-the-redwoods",
+        "where": "In Rave in the Redwoods, recover the piece of Soul Key."
+      },
+      {
+        "id": "achievement-52",
+        "name": "Super Slacker",
+        "kind": "trophy",
+        "chapterId": "rave-in-the-redwoods",
+        "where": "In Rave in the Redwoods, unlock Kevin Smith."
+      },
+      {
+        "id": "achievement-53",
+        "name": "Stick 'em",
+        "kind": "trophy",
+        "chapterId": "rave-in-the-redwoods",
+        "where": "In Rave in the Redwoods, earn 100 kills with an upgraded crossbow."
+      },
+      {
+        "id": "achievement-54",
+        "name": "Hallucination Nation",
+        "kind": "trophy",
+        "chapterId": "rave-in-the-redwoods",
+        "where": "In Rave in the Redwoods, stay in Delirium for 5 minutes after scene 10."
+      },
+      {
+        "id": "achievement-55",
+        "name": "Tables Turned",
+        "kind": "trophy",
+        "chapterId": "rave-in-the-redwoods",
+        "where": "In Rave in the Redwoods, kill the Slasher with his weapon."
+      },
+      {
+        "id": "achievement-56",
+        "name": "Rave On",
+        "kind": "trophy",
+        "chapterId": "rave-in-the-redwoods",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-57",
+        "name": "Ride For Your Life",
+        "kind": "trophy",
+        "chapterId": "rave-in-the-redwoods",
+        "where": "In Rave in the Redwoods, ride every zipline."
+      },
+      {
+        "id": "achievement-58",
+        "name": "Scrapbooking",
+        "kind": "trophy",
+        "chapterId": "rave-in-the-redwoods",
+        "where": "In Rave in the Redwoods, complete your photo collection and mementos."
+      },
+      {
+        "id": "achievement-59",
+        "name": "Pump It Up",
+        "kind": "trophy",
+        "chapterId": "rave-in-the-redwoods",
+        "where": "In Rave in the Redwoods, Pack-a-Punch a weapon."
+      },
+      {
+        "id": "achievement-60",
+        "name": "Top Camper",
+        "kind": "trophy",
+        "chapterId": "rave-in-the-redwoods",
+        "where": "In Rave in the Redwoods, earn all camp badges."
+      },
+      {
+        "id": "achievement-61",
+        "name": "Book Worm",
+        "kind": "trophy",
+        "chapterId": "shaolin-shuffle",
+        "where": "In Shaolin Shuffle, find and collect all bios for AJ, Andre, Poindexter and Sally."
+      },
+      {
+        "id": "achievement-62",
+        "name": "Coin-Op",
+        "kind": "trophy",
+        "chapterId": "shaolin-shuffle",
+        "where": "In Shaolin Shuffle, complete Skullbuster."
+      },
+      {
+        "id": "achievement-63",
+        "name": "Beat of the Drum",
+        "kind": "trophy",
+        "chapterId": "shaolin-shuffle",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-64",
+        "name": "Sliced and Diced",
+        "kind": "trophy",
+        "chapterId": "shaolin-shuffle",
+        "where": "In Shaolin Shuffle, Pack-A-Punch the final Weapon."
+      },
+      {
+        "id": "achievement-65",
+        "name": "Pest Control",
+        "kind": "trophy",
+        "chapterId": "shaolin-shuffle",
+        "where": "In Shaolin Shuffle, recover one piece of the Soul Key."
+      },
+      {
+        "id": "achievement-66",
+        "name": "Exterminator",
+        "kind": "trophy",
+        "chapterId": "shaolin-shuffle",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-67",
+        "name": "Shaolin Skills",
+        "kind": "trophy",
+        "chapterId": "shaolin-shuffle",
+        "where": "In Shaolin Shuffle, max all Chi abilities in a single game."
+      },
+      {
+        "id": "achievement-68",
+        "name": "Message Received",
+        "kind": "trophy",
+        "chapterId": "shaolin-shuffle",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-69",
+        "name": "Soul Brother",
+        "kind": "trophy",
+        "chapterId": "shaolin-shuffle",
+        "where": "In Shaolin Shuffle, collect all the newspaper clippings."
+      },
+      {
+        "id": "achievement-70",
+        "name": "Some Assembly Required",
+        "kind": "trophy",
+        "chapterId": "shaolin-shuffle",
+        "where": "In Shaolin Shuffle, build all the craftable items in a game."
+      },
+      {
+        "id": "achievement-71",
+        "name": "Soul-Less",
+        "kind": "trophy",
+        "chapterId": "radioactive-thing",
+        "where": "In Attack of the Radioactive Thing, recover the piece of the Soul Key."
+      },
+      {
+        "id": "achievement-72",
+        "name": "Unpleasant Dreams",
+        "kind": "trophy",
+        "chapterId": "radioactive-thing",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-73",
+        "name": "Mistress of the Dark",
+        "kind": "trophy",
+        "chapterId": "radioactive-thing",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-74",
+        "name": "Quarter Muncher",
+        "kind": "trophy",
+        "chapterId": "radioactive-thing",
+        "where": "In Attack of the Radioactive Thing, complete Skullhop."
+      },
+      {
+        "id": "achievement-75",
+        "name": "Bait and Switch",
+        "kind": "trophy",
+        "chapterId": "radioactive-thing",
+        "where": "In Attack of the Radioactive Thing, restore and use all traps."
+      },
+      {
+        "id": "achievement-76",
+        "name": "Belly of the Beast",
+        "kind": "trophy",
+        "chapterId": "radioactive-thing",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-77",
+        "name": "MAD Proto",
+        "kind": "trophy",
+        "chapterId": "radioactive-thing",
+        "where": "In Attack of the Radioactive Thing, assemble the M.A.D. (Modular Atomic Disintegrator)."
+      },
+      {
+        "id": "achievement-78",
+        "name": "Dear Diary",
+        "kind": "trophy",
+        "chapterId": "radioactive-thing",
+        "where": "In Attack of the Radioactive Thing, listen to all of Willard’s personal recordings."
+      },
+      {
+        "id": "achievement-79",
+        "name": "Broken Record",
+        "kind": "trophy",
+        "chapterId": "radioactive-thing",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-80",
+        "name": "Cracking Skulls",
+        "kind": "trophy",
+        "chapterId": "beast-from-beyond",
+        "where": "In The Beast From Beyond, complete Skullbreaker."
+      },
+      {
+        "id": "achievement-81",
+        "name": "Double Feature",
+        "kind": "trophy",
+        "chapterId": "beast-from-beyond",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-82",
+        "name": "Egg Slayer",
+        "kind": "trophy",
+        "chapterId": "beast-from-beyond",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-83",
+        "name": "Encryption Decryption",
+        "kind": "trophy",
+        "chapterId": "beast-from-beyond",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-84",
+        "name": "Failed Maintenance",
+        "kind": "trophy",
+        "chapterId": "beast-from-beyond",
+        "where": "In The Beast From Beyond, kill zombies with every trap."
+      },
+      {
+        "id": "achievement-85",
+        "name": "Friends Forever",
+        "kind": "trophy",
+        "chapterId": "beast-from-beyond",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-86",
+        "name": "Message Sent",
+        "kind": "trophy",
+        "chapterId": "beast-from-beyond",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-87",
+        "name": "Super Duper Combo",
+        "kind": "trophy",
+        "chapterId": "beast-from-beyond",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-88",
+        "name": "The End?",
+        "kind": "trophy",
+        "chapterId": "beast-from-beyond",
+        "where": "In The Beast From Beyond, collect the final piece of the Soul Key."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/call-of-duty-infinite-warfare",
+    "Achievement data from Steam (Steam Web API, app 292730)",
+    "StrategyWiki: no usable walkthrough, nothing used — https://strategywiki.org/wiki/Call_of_Duty:_Infinite_Warfare",
+    "Fandom (callofduty.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://callofduty.fandom.com/wiki/Call_of_Duty:_Infinite_Warfare"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). Steam app 292730 (\"Call of Duty®: Infinite Warfare\"); RAWG's first result is the right game, with a separate free-trial entry and a bundle with Destiny that were not used. 22 of 88 Steam achievements are hidden. They were placed by their position in the Steam list, which runs campaign first and then one zombies map at a time: six hidden ones sit among the campaign extras and stay in the campaign chapter, and the other 16 sit inside the blocks for Spaceland (2), Rave in the Redwoods (1), Shaolin Shuffle (3), Attack of the Radioactive Thing (4) and The Beast From Beyond (6). That placement is a reasoned guess. The zombies map names come only from the achievement text; the Steam data does not say which were added later, so no DLC pack names are given. Nearly all zombies achievements are below 5%; only one achievement is multiplayer (\"Dominion\", 1.1%). StrategyWiki has a stub at completion stage 0 with no subpages written. callofduty.fandom.com answers the API under \"Call of Duty: Infinite Warfare\" with 500 linked articles (the query limit, so possibly more); names only were looked at, nothing copied."
+}

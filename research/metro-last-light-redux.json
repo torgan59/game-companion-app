@@ -1,0 +1,510 @@
+{
+  "id": "metro-last-light-redux",
+  "title": "Metro: Last Light Redux",
+  "year": 2014,
+  "platforms": [
+    "Nintendo Switch",
+    "PC",
+    "Linux",
+    "Xbox One",
+    "PlayStation 4",
+    "macOS"
+  ],
+  "rawgId": 3604,
+  "rawgSlug": "metro-last-light-redux",
+  "released": "2014-08-25",
+  "developers": [
+    "Deep Silver",
+    "4A Games",
+    "Fishlabs Entertainment"
+  ],
+  "playtime": 7,
+  "genres": [
+    "Action",
+    "Shooter"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Multiplayer",
+    "Full controller support",
+    "Steam Cloud",
+    "Atmospheric",
+    "steam-trading-cards",
+    "Story Rich",
+    "Open World",
+    "First-Person",
+    "Sci-fi",
+    "Horror"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/7a4/7a45e4cdc5b07f316d49cf147b083b27.jpg",
+  "steamAppId": 287390,
+  "achievements": {
+    "total": 49,
+    "hidden": 6,
+    "examples": [
+      {
+        "name": "Rabbit",
+        "percent": 83.2
+      },
+      {
+        "name": "Veteran",
+        "percent": 73.9
+      },
+      {
+        "name": "Clean Escape",
+        "percent": 69.0
+      },
+      {
+        "name": "Rain Man",
+        "percent": 8.8
+      },
+      {
+        "name": "Kshatriya",
+        "percent": 7.0
+      },
+      {
+        "name": "Published",
+        "percent": 6.1
+      },
+      {
+        "name": "Developer",
+        "percent": 6.0
+      },
+      {
+        "name": "Test Complete",
+        "percent": 5.3
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Metro:_Last_Light",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 99,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://metrovideogame.fandom.com/wiki/Metro_Last_Light"
+    }
+  },
+  "game": {
+    "id": "metro-last-light-redux",
+    "title": "Metro: Last Light Redux",
+    "platforms": [
+      "Nintendo Switch",
+      "PC",
+      "Linux",
+      "Xbox One",
+      "PlayStation 4",
+      "macOS"
+    ],
+    "blurb": "Post-apocalyptic first-person shooter from 4A Games (RAWG also lists Deep Silver and Fishlabs Entertainment), released 2014-08-25. RAWG average playtime: 7 hours. Genres: Action, Shooter. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#4A5A3A",
+    "chapters": [
+      {
+        "id": "main-story",
+        "title": "The Main Story",
+        "summary": "Story milestones, hidden on Steam. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "moments",
+        "title": "Moments Along the Way",
+        "summary": "Training, the Rhino, the Bear, the prisoners, the teddy bear, the Theater show, the Dead City visions, the Red Line and drinking at every chance.",
+        "steps": []
+      },
+      {
+        "id": "level-challenges",
+        "title": "Level Challenges",
+        "summary": "Ghost, no-kill, no-hit and no-damage runs through the named levels, such as FACILITY, SEPARATION, REVOLUTION, ECHOES, ASHES and BRIDGE.",
+        "steps": []
+      },
+      {
+        "id": "collectibles",
+        "title": "Diary Pages and Safes",
+        "summary": "Artyom's 43 hidden diary pages and the locked safe boxes.",
+        "steps": []
+      },
+      {
+        "id": "combat-and-gear",
+        "title": "Combat, Stealth and Gear",
+        "summary": "Kill counts, stealth kills, throwing knives, filters, lights, switches, traps, cobwebs, spiders and weapon choice.",
+        "steps": []
+      },
+      {
+        "id": "difficulty",
+        "title": "Survival and Spartan Modes",
+        "summary": "Finishing the game in Survival Mode and in Spartan Mode.",
+        "steps": []
+      },
+      {
+        "id": "added-levels",
+        "title": "Added Levels",
+        "summary": "The extra levels the achievements name: SNIPER TEAM, KSHATRIYA, HEAVY SQUAD, TOWER, SPIDER LAIR, DEVELOPER, PAVEL, KHAN and ANNA.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Air!",
+        "kind": "trophy",
+        "chapterId": "combat-and-gear",
+        "where": "Spend 30 minutes' worth of Filters."
+      },
+      {
+        "id": "achievement-2",
+        "name": "Antibiotic",
+        "kind": "trophy",
+        "chapterId": "combat-and-gear",
+        "where": "Kill 100 Mutants."
+      },
+      {
+        "id": "achievement-3",
+        "name": "Back to the Past",
+        "kind": "trophy",
+        "chapterId": "moments",
+        "where": "See all Visions in the Dead City."
+      },
+      {
+        "id": "achievement-4",
+        "name": "Big Momma",
+        "kind": "trophy",
+        "chapterId": "moments",
+        "where": "Kill the Rhino."
+      },
+      {
+        "id": "achievement-5",
+        "name": "C'est la vie",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-6",
+        "name": "Clean Escape",
+        "kind": "trophy",
+        "chapterId": "level-challenges",
+        "where": "Escape the chasing Nazis on the REICH level without being caught once."
+      },
+      {
+        "id": "achievement-7",
+        "name": "Commando",
+        "kind": "trophy",
+        "chapterId": "level-challenges",
+        "where": "Rescue the Women and Children on the BANDITS level without raising alarm."
+      },
+      {
+        "id": "achievement-8",
+        "name": "Derailed",
+        "kind": "trophy",
+        "chapterId": "level-challenges",
+        "where": "Kill all armed enemies on the REVOLUTION level, including all reinforcements."
+      },
+      {
+        "id": "achievement-9",
+        "name": "Edison",
+        "kind": "trophy",
+        "chapterId": "combat-and-gear",
+        "where": "Turn off 40 Lights without breaking them."
+      },
+      {
+        "id": "achievement-10",
+        "name": "Engineer",
+        "kind": "trophy",
+        "chapterId": "combat-and-gear",
+        "where": "Use 10 Lever Switches."
+      },
+      {
+        "id": "achievement-11",
+        "name": "Ever Vigilant",
+        "kind": "trophy",
+        "chapterId": "combat-and-gear",
+        "where": "Disarm 10 Traps."
+      },
+      {
+        "id": "achievement-12",
+        "name": "Forest Guardian",
+        "kind": "trophy",
+        "chapterId": "moments",
+        "where": "Save the Bear from the Watchmen after the fight."
+      },
+      {
+        "id": "achievement-13",
+        "name": "Freedom!",
+        "kind": "trophy",
+        "chapterId": "moments",
+        "where": "Free the Prisoners."
+      },
+      {
+        "id": "achievement-14",
+        "name": "Invisible Intruder",
+        "kind": "trophy",
+        "chapterId": "level-challenges",
+        "where": "Complete the SEPARATION level without killing or raising alarm."
+      },
+      {
+        "id": "achievement-15",
+        "name": "Invisible Savior",
+        "kind": "trophy",
+        "chapterId": "level-challenges",
+        "where": "Complete the FACILITY level without killing or raising alarm."
+      },
+      {
+        "id": "achievement-16",
+        "name": "Invisible Soldier",
+        "kind": "trophy",
+        "chapterId": "level-challenges",
+        "where": "Complete the REVOLUTION level without killing and raising an alarm."
+      },
+      {
+        "id": "achievement-17",
+        "name": "Cheers!",
+        "kind": "trophy",
+        "chapterId": "moments",
+        "where": "Drink at every occasion."
+      },
+      {
+        "id": "achievement-18",
+        "name": "Mouse",
+        "kind": "trophy",
+        "chapterId": "level-challenges",
+        "where": "Complete the ECHOES level undetected by the Watchmen."
+      },
+      {
+        "id": "achievement-19",
+        "name": "No shooting allowed",
+        "kind": "trophy",
+        "chapterId": "combat-and-gear",
+        "where": "Kill 10 enemies in a row with Throwing Knives."
+      },
+      {
+        "id": "achievement-20",
+        "name": "Not A Rabbit",
+        "kind": "trophy",
+        "chapterId": "level-challenges",
+        "where": "Finish the ASHES level without taking a hit."
+      },
+      {
+        "id": "achievement-21",
+        "name": "Patron of the Arts",
+        "kind": "trophy",
+        "chapterId": "moments",
+        "where": "Watch the entire Theater Show."
+      },
+      {
+        "id": "achievement-22",
+        "name": "Published",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Complete all 43 of Artyom's hidden Diary pages."
+      },
+      {
+        "id": "achievement-23",
+        "name": "Pyromaniac",
+        "kind": "trophy",
+        "chapterId": "combat-and-gear",
+        "where": "Burn 50 Cobwebs."
+      },
+      {
+        "id": "achievement-24",
+        "name": "Rabbit",
+        "kind": "trophy",
+        "chapterId": "moments",
+        "where": "Complete training sequence."
+      },
+      {
+        "id": "achievement-25",
+        "name": "Rain Man",
+        "kind": "trophy",
+        "chapterId": "level-challenges",
+        "where": "Complete the BRIDGE level without a kill."
+      },
+      {
+        "id": "achievement-26",
+        "name": "Redemption",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-27",
+        "name": "Reunion",
+        "kind": "trophy",
+        "chapterId": "moments",
+        "where": "Find and return the crying child's Teddy Bear."
+      },
+      {
+        "id": "achievement-28",
+        "name": "Revelation",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-29",
+        "name": "Revenge",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-30",
+        "name": "Savior",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-31",
+        "name": "Scram",
+        "kind": "trophy",
+        "chapterId": "level-challenges",
+        "where": "Kill the Watchmen attacking the Railcar without taking any damage."
+      },
+      {
+        "id": "achievement-32",
+        "name": "Secret",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-33",
+        "name": "Shadow",
+        "kind": "trophy",
+        "chapterId": "combat-and-gear",
+        "where": "Stealthily kill 15 Enemies."
+      },
+      {
+        "id": "achievement-34",
+        "name": "Soldier",
+        "kind": "trophy",
+        "chapterId": "combat-and-gear",
+        "where": "Kill 100 Human Enemies."
+      },
+      {
+        "id": "achievement-35",
+        "name": "Tortoise",
+        "kind": "trophy",
+        "chapterId": "combat-and-gear",
+        "where": "Make 10 Spiders flip belly-up."
+      },
+      {
+        "id": "achievement-36",
+        "name": "Veteran",
+        "kind": "trophy",
+        "chapterId": "combat-and-gear",
+        "where": "Choose three primary weapons that use different ammo."
+      },
+      {
+        "id": "achievement-37",
+        "name": "Within a Hair of Death",
+        "kind": "trophy",
+        "chapterId": "moments",
+        "where": "Escape from the Red Line."
+      },
+      {
+        "id": "achievement-38",
+        "name": "Survivor 2034",
+        "kind": "trophy",
+        "chapterId": "difficulty",
+        "where": "Complete the game in Survival Mode."
+      },
+      {
+        "id": "achievement-39",
+        "name": "Spartan 2034",
+        "kind": "trophy",
+        "chapterId": "difficulty",
+        "where": "Complete the game in Spartan Mode."
+      },
+      {
+        "id": "achievement-40",
+        "name": "Master Thief",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Open 10 locked safe boxes."
+      },
+      {
+        "id": "achievement-41",
+        "name": "Saboteur",
+        "kind": "trophy",
+        "chapterId": "added-levels",
+        "where": "Complete the SNIPER TEAM level."
+      },
+      {
+        "id": "achievement-42",
+        "name": "Kshatriya",
+        "kind": "trophy",
+        "chapterId": "added-levels",
+        "where": "Complete the KSHATRIYA level."
+      },
+      {
+        "id": "achievement-43",
+        "name": "Hail Reich!",
+        "kind": "trophy",
+        "chapterId": "added-levels",
+        "where": "Complete the HEAVY SQUAD level."
+      },
+      {
+        "id": "achievement-44",
+        "name": "Test Complete",
+        "kind": "trophy",
+        "chapterId": "added-levels",
+        "where": "Complete the TOWER level."
+      },
+      {
+        "id": "achievement-45",
+        "name": "Through the Fire",
+        "kind": "trophy",
+        "chapterId": "added-levels",
+        "where": "Complete the SPIDER LAIR level."
+      },
+      {
+        "id": "achievement-46",
+        "name": "Developer",
+        "kind": "trophy",
+        "chapterId": "added-levels",
+        "where": "Spend 1 hour on the DEVELOPER level."
+      },
+      {
+        "id": "achievement-47",
+        "name": "Heads Up!",
+        "kind": "trophy",
+        "chapterId": "added-levels",
+        "where": "Complete the PAVEL level."
+      },
+      {
+        "id": "achievement-48",
+        "name": "No Way Out",
+        "kind": "trophy",
+        "chapterId": "added-levels",
+        "where": "Complete the KHAN level."
+      },
+      {
+        "id": "achievement-49",
+        "name": "The Sunset of Hope",
+        "kind": "trophy",
+        "chapterId": "added-levels",
+        "where": "Complete the ANNA level."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/metro-last-light-redux",
+    "Achievement data from Steam (Steam Web API, app 287390)",
+    "StrategyWiki: no usable walkthrough, nothing used — https://strategywiki.org/wiki/Metro:_Last_Light",
+    "Fandom (metrovideogame.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://metrovideogame.fandom.com/wiki/Metro_Last_Light"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). Steam app 287390 is the Redux itself: its schema is named \"Project Redux Two\" (an internal codename) and the store list confirms it as \"Metro: Last Light Redux\"; no app for the original 2013 release was found under that name in the store list. RAWG's first result is the expected Redux entry (id 3604); RAWG keeps the 2013 \"Metro: Last Light\" separately. StrategyWiki has nothing under \"Metro: Last Light Redux\"; \"Metro: Last Light\" is a stub (completion stage 0, marked as a stub) with Gameplay, Walkthrough and Table of Contents linked but not written. metro.fandom.com is an unrelated transit wiki; metrovideogame.fandom.com redirects \"Metro: Last Light\" to \"Metro Last Light\", with about 99 linked articles; names only were looked at, nothing copied. 6 of 49 Steam achievements are hidden and sit in the main story chapter. Nine achievements name extra levels (2% to 12%, all \"Complete the ... level\" except DEVELOPER); RAWG has a separate \"Metro: Last Light - Tower Pack\" entry that matches the TOWER level, but the packs holding the other levels are not named in the data, so they share one \"Added Levels\" chapter. The level order of the main campaign is not in the data, so level feats are grouped by type."
+}

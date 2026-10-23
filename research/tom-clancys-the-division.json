@@ -1,0 +1,585 @@
+{
+  "id": "tom-clancys-the-division",
+  "title": "Tom Clancy's The Division",
+  "year": 2016,
+  "platforms": [
+    "PC",
+    "Xbox One",
+    "PlayStation 4"
+  ],
+  "rawgId": 2728,
+  "rawgSlug": "tom-clancys-the-division",
+  "released": "2016-03-07",
+  "developers": [
+    "Ubisoft",
+    "Massive Entertainment"
+  ],
+  "playtime": 27,
+  "genres": [
+    "Action",
+    "Shooter",
+    "RPG"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Multiplayer",
+    "Atmospheric",
+    "steam-trading-cards",
+    "RPG",
+    "Co-op",
+    "Open World",
+    "cooperative",
+    "Third Person",
+    "FPS",
+    "Online Co-Op",
+    "Sandbox"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/c73/c73c4ffebfe968ba0982a56c2b5020ef.jpg",
+  "steamAppId": 365590,
+  "achievements": {
+    "total": 60,
+    "hidden": 0,
+    "examples": [
+      {
+        "name": "Activated",
+        "percent": 12.1
+      },
+      {
+        "name": "Shut that door",
+        "percent": 12.0
+      },
+      {
+        "name": "Gain a Foothold",
+        "percent": 10.7
+      },
+      {
+        "name": "The Beast Below",
+        "percent": 0.5
+      },
+      {
+        "name": "Subzero Hero",
+        "percent": 0.5
+      },
+      {
+        "name": "I am the LAW!",
+        "percent": 0.3
+      },
+      {
+        "name": "Gone Spelunking",
+        "percent": 0.3
+      },
+      {
+        "name": "For the Hoarder…",
+        "percent": 0.1
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": false,
+      "pages": 0,
+      "reason": "No page for Tom Clancy's The Division (MediaWiki API returned missing; see notes for other titles tried)"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 75,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://thedivision.fandom.com/wiki/Tom_Clancy's_The_Division"
+    }
+  },
+  "game": {
+    "id": "tom-clancys-the-division",
+    "title": "Tom Clancy's The Division",
+    "platforms": [
+      "PC",
+      "Xbox One",
+      "PlayStation 4"
+    ],
+    "blurb": "Online open-world shooter RPG set in Manhattan, from Massive Entertainment and Ubisoft, released 2016-03-07. RAWG average playtime: 27 hours. Genres: Action, Shooter, RPG. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#E87722",
+    "chapters": [
+      {
+        "id": "main-story",
+        "title": "The Main Story",
+        "summary": "Reaching Manhattan, rescuing the wing leaders, taking down the faction leaders and uncovering what happened.",
+        "steps": []
+      },
+      {
+        "id": "base-of-operations",
+        "title": "Base of Operations",
+        "summary": "Upgrading the wings of the Base of Operations.",
+        "steps": []
+      },
+      {
+        "id": "collectibles",
+        "title": "Intel and Collectibles",
+        "summary": "Safe Houses, ECHO scenes, drone photos, Survival Guide pages, phone recordings, agent profiles and incident reports.",
+        "steps": []
+      },
+      {
+        "id": "agent",
+        "title": "Skills, Gear and Crafting",
+        "summary": "Levelling to 30, skills and talents, gear slots, crafting, deconstructing and the gun classes.",
+        "steps": []
+      },
+      {
+        "id": "endgame-and-co-op",
+        "title": "Co-op, Challenge and Hard Missions",
+        "summary": "Grouping up, reviving and healing team mates, Challenge mode and Hard missions at level 30.",
+        "steps": []
+      },
+      {
+        "id": "dark-zone",
+        "title": "The Dark Zone",
+        "summary": "Extracting items, named elites and hunting Rogue agents.",
+        "steps": []
+      },
+      {
+        "id": "underground",
+        "title": "Underground",
+        "summary": "The Underground mode: its ranks, mission objectives, audio logs and diaries.",
+        "steps": []
+      },
+      {
+        "id": "survival",
+        "title": "Survival",
+        "summary": "The Survival mode: escaping, staying warm, crafting and extracting.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Activated",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Get to Manhattan."
+      },
+      {
+        "id": "achievement-2",
+        "name": "Outbreak",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Secure a sample of the original virus strain."
+      },
+      {
+        "id": "achievement-3",
+        "name": "Can't Stand the Heat!",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Eliminate the leader of the Cleaners and escape the Napalm Production Site."
+      },
+      {
+        "id": "achievement-4",
+        "name": "Crime and Punishment",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Eliminate the leader of the Rikers gang and her bodyguards in Lexington Event Center."
+      },
+      {
+        "id": "achievement-5",
+        "name": "I've Got the Power",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Secure the power plant."
+      },
+      {
+        "id": "achievement-6",
+        "name": "Fly on the Wall",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Restore the JTF comm relay."
+      },
+      {
+        "id": "achievement-7",
+        "name": "Last Man Standing",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Eliminate the leader of the Last Man Battalion."
+      },
+      {
+        "id": "achievement-8",
+        "name": "You Win Some, You Lose Some",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Recover Tchernenko's research data from the Russian Consulate."
+      },
+      {
+        "id": "achievement-9",
+        "name": "What Needs To Be Done",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Recover Charles Bliss' propaganda tape."
+      },
+      {
+        "id": "achievement-10",
+        "name": "The Final Curtain",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Uncover the fates of Gordon Amherst and Aaron Keener."
+      },
+      {
+        "id": "achievement-11",
+        "name": "On the Level",
+        "kind": "trophy",
+        "chapterId": "agent",
+        "where": "Reach Level 30 with an Agent."
+      },
+      {
+        "id": "achievement-12",
+        "name": "Marathon",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Discover ALL of the Safe Houses in Manhattan."
+      },
+      {
+        "id": "achievement-13",
+        "name": "Know No Fear",
+        "kind": "trophy",
+        "chapterId": "endgame-and-co-op",
+        "where": "Finish all of the missions at Level 30 on the Hard difficulty."
+      },
+      {
+        "id": "achievement-14",
+        "name": "Hardened Combatant",
+        "kind": "trophy",
+        "chapterId": "endgame-and-co-op",
+        "where": "Complete a mission in Challenge mode."
+      },
+      {
+        "id": "achievement-15",
+        "name": "United We Stand",
+        "kind": "trophy",
+        "chapterId": "endgame-and-co-op",
+        "where": "At lvl 30 start and complete a Co-op Mission without anyone being Downed or Dying."
+      },
+      {
+        "id": "achievement-16",
+        "name": "Shadows of the past",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Activate 63 ECHO scenes."
+      },
+      {
+        "id": "achievement-17",
+        "name": "Droning on...",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Extract 16 aerial photos from crashed drones."
+      },
+      {
+        "id": "achievement-18",
+        "name": "Survivalist",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Recover 24 Survival Guide pages."
+      },
+      {
+        "id": "achievement-19",
+        "name": "Agent Diaries",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Extract 130 phone recordings from phones found in Manhattan."
+      },
+      {
+        "id": "achievement-20",
+        "name": "The Finder",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Retrieve 20 missing first wave Division agent profiles."
+      },
+      {
+        "id": "achievement-21",
+        "name": "Incident Reports",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Extract 40 audio incident reports from JTF laptops."
+      },
+      {
+        "id": "achievement-22",
+        "name": "Gain a Foothold",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Regroup with Faye Lau in the Base of Operations."
+      },
+      {
+        "id": "achievement-23",
+        "name": "The Engineer",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Rescue Paul Rhodes."
+      },
+      {
+        "id": "achievement-24",
+        "name": "The Doctor",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Rescue and extract Dr. Jessica Kandel."
+      },
+      {
+        "id": "achievement-25",
+        "name": "The Captain",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Rescue Captain Roy Benitez."
+      },
+      {
+        "id": "achievement-26",
+        "name": "State of the Art",
+        "kind": "trophy",
+        "chapterId": "base-of-operations",
+        "where": "Fully Upgrade the Base of Operations."
+      },
+      {
+        "id": "achievement-27",
+        "name": "Skillz",
+        "kind": "trophy",
+        "chapterId": "agent",
+        "where": "Equip 10 different skill mods."
+      },
+      {
+        "id": "achievement-28",
+        "name": "Skill Kill",
+        "kind": "trophy",
+        "chapterId": "agent",
+        "where": "Finish off 50 enemies using Skills."
+      },
+      {
+        "id": "achievement-29",
+        "name": "The Humanitarian",
+        "kind": "trophy",
+        "chapterId": "base-of-operations",
+        "where": "Purchase the Canine Unit and Pediatric Care Base of Operations Upgrade."
+      },
+      {
+        "id": "achievement-30",
+        "name": "Those Signature Moves",
+        "kind": "trophy",
+        "chapterId": "agent",
+        "where": "Activate any of the Signature Skills 100 times."
+      },
+      {
+        "id": "achievement-31",
+        "name": "Natural Talent",
+        "kind": "trophy",
+        "chapterId": "agent",
+        "where": "Be attributed with a kill whilst having a talent active."
+      },
+      {
+        "id": "achievement-32",
+        "name": "One Down, Two to Go!",
+        "kind": "trophy",
+        "chapterId": "base-of-operations",
+        "where": "Completely upgrade any one wing of the Base of Operations."
+      },
+      {
+        "id": "achievement-33",
+        "name": "Fixer Upper",
+        "kind": "trophy",
+        "chapterId": "base-of-operations",
+        "where": "Completely upgrade any two wings of the Base of Operations."
+      },
+      {
+        "id": "achievement-34",
+        "name": "Bling! Bling!",
+        "kind": "trophy",
+        "chapterId": "agent",
+        "where": "Equip all Equipment slots with Superior or High end Items."
+      },
+      {
+        "id": "achievement-35",
+        "name": "Good With My Hands",
+        "kind": "trophy",
+        "chapterId": "agent",
+        "where": "Craft 10 items."
+      },
+      {
+        "id": "achievement-36",
+        "name": "Master Craftsman",
+        "kind": "trophy",
+        "chapterId": "agent",
+        "where": "Craft a High end item."
+      },
+      {
+        "id": "achievement-37",
+        "name": "Deconstructive Criticism",
+        "kind": "trophy",
+        "chapterId": "agent",
+        "where": "Deconstruct 100 items."
+      },
+      {
+        "id": "achievement-38",
+        "name": "Looking for Group",
+        "kind": "trophy",
+        "chapterId": "endgame-and-co-op",
+        "where": "Join or create a group."
+      },
+      {
+        "id": "achievement-39",
+        "name": "Medic!",
+        "kind": "trophy",
+        "chapterId": "endgame-and-co-op",
+        "where": "Revive a team mate 20 times in co-op."
+      },
+      {
+        "id": "achievement-40",
+        "name": "Lean On Me",
+        "kind": "trophy",
+        "chapterId": "endgame-and-co-op",
+        "where": "Heal or buff 100 times whilst in a group."
+      },
+      {
+        "id": "achievement-41",
+        "name": "Networking",
+        "kind": "trophy",
+        "chapterId": "endgame-and-co-op",
+        "where": "Complete 20 Missions as part of a group."
+      },
+      {
+        "id": "achievement-42",
+        "name": "Shut that door",
+        "kind": "trophy",
+        "chapterId": "agent",
+        "where": "Close a car door whilst in cover."
+      },
+      {
+        "id": "achievement-43",
+        "name": "Raid the Arsenal",
+        "kind": "trophy",
+        "chapterId": "agent",
+        "where": "Kill 1 enemy with each of the 6 Gun classes."
+      },
+      {
+        "id": "achievement-44",
+        "name": "Worth the Wait",
+        "kind": "trophy",
+        "chapterId": "dark-zone",
+        "where": "Successfully Extract a contaminated item from the Dark Zone."
+      },
+      {
+        "id": "achievement-45",
+        "name": "Mass Extraction",
+        "kind": "trophy",
+        "chapterId": "dark-zone",
+        "where": "Extract an item at all 8 Extraction Zones."
+      },
+      {
+        "id": "achievement-46",
+        "name": "Plundered!",
+        "kind": "trophy",
+        "chapterId": "dark-zone",
+        "where": "Extract a Superior or High end Item from the Dark Zone"
+      },
+      {
+        "id": "achievement-47",
+        "name": "Headhunter",
+        "kind": "trophy",
+        "chapterId": "dark-zone",
+        "where": "Kill a named Elite in the Dark Zone."
+      },
+      {
+        "id": "achievement-48",
+        "name": "You Just Made the List...",
+        "kind": "trophy",
+        "chapterId": "dark-zone",
+        "where": "Kill 10 Named Enemies in the Dark Zone."
+      },
+      {
+        "id": "achievement-49",
+        "name": "For Justice!",
+        "kind": "trophy",
+        "chapterId": "dark-zone",
+        "where": "Kill a player who has gone Rogue."
+      },
+      {
+        "id": "achievement-50",
+        "name": "I am the LAW!",
+        "kind": "trophy",
+        "chapterId": "dark-zone",
+        "where": "Kill 20 Rogue Agents."
+      },
+      {
+        "id": "achievement-51",
+        "name": "Begin with a BANG",
+        "kind": "trophy",
+        "chapterId": "underground",
+        "where": "Access the Tactical Operations Centre"
+      },
+      {
+        "id": "achievement-52",
+        "name": "Objectively Experienced",
+        "kind": "trophy",
+        "chapterId": "underground",
+        "where": "Complete each of the 6 different mission objectives in the Underground"
+      },
+      {
+        "id": "achievement-53",
+        "name": "The Beast Below",
+        "kind": "trophy",
+        "chapterId": "underground",
+        "where": "Reach Underground Rank 40"
+      },
+      {
+        "id": "achievement-54",
+        "name": "Tier One",
+        "kind": "trophy",
+        "chapterId": "underground",
+        "where": "In a group of 4 finish an Operation on Challenge with 5 Directives Enabled"
+      },
+      {
+        "id": "achievement-55",
+        "name": "Gone Spelunking",
+        "kind": "trophy",
+        "chapterId": "underground",
+        "where": "Retrieve all 55 Audio Logs and 25 UrbEx Diaries in Underground"
+      },
+      {
+        "id": "achievement-56",
+        "name": "Born Survivor",
+        "kind": "trophy",
+        "chapterId": "survival",
+        "where": "Successfully survive and escape in Survival Mode."
+      },
+      {
+        "id": "achievement-57",
+        "name": "Subzero Hero",
+        "kind": "trophy",
+        "chapterId": "survival",
+        "where": "Obtain clothing to get a survivable temperature rating of -22°C / -7°F."
+      },
+      {
+        "id": "achievement-58",
+        "name": "For the Hoarder…",
+        "kind": "trophy",
+        "chapterId": "survival",
+        "where": "Successfully extract 100 items from the Survival Dark Zone."
+      },
+      {
+        "id": "achievement-59",
+        "name": "Tools of the Trade",
+        "kind": "trophy",
+        "chapterId": "survival",
+        "where": "Craft the Virus Filter and Flare Gun in Survival mode."
+      },
+      {
+        "id": "achievement-60",
+        "name": "Survival Instincts",
+        "kind": "trophy",
+        "chapterId": "survival",
+        "where": "Achieve Master Rank rank in Survival Mode."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/tom-clancys-the-division",
+    "Achievement data from Steam (Steam Web API, app 365590)",
+    "StrategyWiki: no page for this game, nothing used",
+    "Fandom (thedivision.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://thedivision.fandom.com/wiki/Tom_Clancy's_The_Division"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). Steam app 365590 (\"Tom Clancy’s The Division™\"). No StrategyWiki page under \"Tom Clancy's The Division\" or \"The Division\". thedivision.fandom.com answers the API under \"Tom Clancy's The Division\" with about 75 linked articles; names only were looked at, nothing copied. None of the 60 Steam achievements is hidden. RAWG lists \"Tom Clancy's The Division - Underground\" and \"Tom Clancy's The Division - Survival\" as separate entries, and the achievements name both modes. Two achievements (\"Begin with a BANG\", Tactical Operations Centre; \"Tier One\", an Operation with Directives) do not name Underground but sit among the Underground ones in the Steam list, so they were placed there by position."
+}
