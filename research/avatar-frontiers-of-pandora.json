@@ -1,0 +1,514 @@
+{
+  "id": "avatar-frontiers-of-pandora",
+  "title": "Avatar: Frontiers of Pandora",
+  "year": 2023,
+  "platforms": [
+    "PC",
+    "PlayStation 5",
+    "Xbox Series X|S"
+  ],
+  "rawgId": 616677,
+  "rawgSlug": "avatar-frontiers-of-pandora",
+  "released": "2023-12-07",
+  "developers": [
+    "Massive Entertainment",
+    "Massive Entertainment – A Ubisoft Studio"
+  ],
+  "playtime": 10,
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Multiplayer",
+    "Atmospheric",
+    "Co-op",
+    "Story Rich",
+    "Open World",
+    "First-Person",
+    "Sci-fi",
+    "Partial Controller Support",
+    "Online Co-Op",
+    "Exploration"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/983/9837c2e9a13a92c55c47327dfc22a81f.jpeg",
+  "steamAppId": 2840770,
+  "achievements": {
+    "total": 52,
+    "hidden": 17,
+    "examples": [
+      {
+        "name": "Apprentice Crafter",
+        "percent": 47.9
+      },
+      {
+        "name": "Cooking Pot Pro",
+        "percent": 35.1
+      },
+      {
+        "name": "Talk to the Ancestors",
+        "percent": 33.4
+      },
+      {
+        "name": "Mushroom Navigator",
+        "percent": 1.6
+      },
+      {
+        "name": "We See You",
+        "percent": 1.6
+      },
+      {
+        "name": "Fashion-Forward",
+        "percent": 0.8
+      },
+      {
+        "name": "Eywa's Blessing",
+        "percent": 0.7
+      },
+      {
+        "name": "In Case of Emergency, Break Glass",
+        "percent": 0.3
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": false,
+      "pages": 0,
+      "reason": "No page for Avatar: Frontiers of Pandora (MediaWiki API returned missing; see notes for other titles tried)"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": false,
+      "reason": "No page under this title on avatar.fandom.com; marked unverified, not retried"
+    }
+  },
+  "game": {
+    "id": "avatar-frontiers-of-pandora",
+    "title": "Avatar: Frontiers of Pandora",
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "Xbox Series X|S"
+    ],
+    "blurb": "Open-world first-person action-adventure on Pandora's Western Frontier, from Massive Entertainment, released 2023-12-07. RAWG average playtime: 10 hours. Genres: Action, Adventure. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#1FA3A8",
+    "chapters": [
+      {
+        "id": "main-story",
+        "title": "The Main Campaign",
+        "summary": "The main campaign from start to finish, with its hidden milestones. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "rda",
+        "title": "Fighting the RDA",
+        "summary": "RDA installations and outposts, stealth finishers, smashing things from your ikran and AMP suits.",
+        "steps": []
+      },
+      {
+        "id": "nature",
+        "title": "Nature, Hunting and Gathering",
+        "summary": "Saplings and bellsprigs, Hunter's Guide entries, the thanator, the Steady Wings side quest and cleaning the air.",
+        "steps": []
+      },
+      {
+        "id": "collectibles",
+        "title": "Collectibles and Activities",
+        "summary": "Kites, dolls, comics, audio logs, notes, recon retrievals, research points, wind flutes, totems, moths and the Mycelium Network.",
+        "steps": []
+      },
+      {
+        "id": "skills-and-crafting",
+        "title": "Skills, Cooking and Crafting",
+        "summary": "Ancestor, Apex and skill-tree unlocks, specialty recipes and crafting superior and legendary gear.",
+        "steps": []
+      },
+      {
+        "id": "from-the-ashes",
+        "title": "From the Ashes and Later Additions",
+        "summary": "The From the Ashes content, its gear sets and Zeykoma Fruit.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Our Reclamation",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Complete the main campaign."
+      },
+      {
+        "id": "achievement-2",
+        "name": "No Easy Prey",
+        "kind": "trophy",
+        "chapterId": "nature",
+        "where": "Defeat a thanator (non-feral)."
+      },
+      {
+        "id": "achievement-3",
+        "name": "Talk to the Ancestors",
+        "kind": "trophy",
+        "chapterId": "skills-and-crafting",
+        "where": "Unlock three Ancestor Skills."
+      },
+      {
+        "id": "achievement-4",
+        "name": "Sprouting Potential",
+        "kind": "trophy",
+        "chapterId": "nature",
+        "where": "Touch 20 tarsyu saplings."
+      },
+      {
+        "id": "achievement-5",
+        "name": "Full Bloom",
+        "kind": "trophy",
+        "chapterId": "nature",
+        "where": "Touch 20 bellsprigs."
+      },
+      {
+        "id": "achievement-6",
+        "name": "Tethered Kites",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Collect all windswept kites."
+      },
+      {
+        "id": "achievement-7",
+        "name": "First Strike",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-8",
+        "name": "Aranahe Alliance",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-9",
+        "name": "Stronger Together",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-10",
+        "name": "Clearing the Mist",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-11",
+        "name": "Eco Warrior",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-12",
+        "name": "Doll Collector",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Collect all windswept dolls."
+      },
+      {
+        "id": "achievement-13",
+        "name": "Data Retriever",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Complete all recon retrievals."
+      },
+      {
+        "id": "achievement-14",
+        "name": "Wildlife Expert",
+        "kind": "trophy",
+        "chapterId": "nature",
+        "where": "Unlock 20 Hunter's Guide entries for gatherable wildlife."
+      },
+      {
+        "id": "achievement-15",
+        "name": "Great Gatherer",
+        "kind": "trophy",
+        "chapterId": "nature",
+        "where": "Unlock 30 Hunter's Guide entries for gatherable plants."
+      },
+      {
+        "id": "achievement-16",
+        "name": "A Good Listener",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Collect 30 audio logs."
+      },
+      {
+        "id": "achievement-17",
+        "name": "Peak Performance",
+        "kind": "trophy",
+        "chapterId": "skills-and-crafting",
+        "where": "Unlock an Apex Skill."
+      },
+      {
+        "id": "achievement-18",
+        "name": "Little by Little",
+        "kind": "trophy",
+        "chapterId": "rda",
+        "where": "Defeat 10 RDA installations."
+      },
+      {
+        "id": "achievement-19",
+        "name": "Hit Them Where It Hurts",
+        "kind": "trophy",
+        "chapterId": "rda",
+        "where": "Defeat five RDA outposts."
+      },
+      {
+        "id": "achievement-20",
+        "name": "Story Guardian",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Collect 30 notes."
+      },
+      {
+        "id": "achievement-21",
+        "name": "Cooking Pot Pro",
+        "kind": "trophy",
+        "chapterId": "skills-and-crafting",
+        "where": "Unlock three recipes for specialty dishes."
+      },
+      {
+        "id": "achievement-22",
+        "name": "Apprentice Crafter",
+        "kind": "trophy",
+        "chapterId": "skills-and-crafting",
+        "where": "Craft a weapon or gear piece of 'superior' rarity or higher."
+      },
+      {
+        "id": "achievement-23",
+        "name": "Father and Son in the Stars",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Collect all treasure hunt comics."
+      },
+      {
+        "id": "achievement-24",
+        "name": "Reclaim Pandora",
+        "kind": "trophy",
+        "chapterId": "nature",
+        "where": "Reach an air quality level of 100%."
+      },
+      {
+        "id": "achievement-25",
+        "name": "In Harmony",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Tune all aeolian wind flutes."
+      },
+      {
+        "id": "achievement-26",
+        "name": "Vision of the Ancestors",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Complete all Sarentu totem interactions."
+      },
+      {
+        "id": "achievement-27",
+        "name": "Mushroom Navigator",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Complete 10 Mycelium Network activities."
+      },
+      {
+        "id": "achievement-28",
+        "name": "Fleet-Footed",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Follow all the bladewing moths to their nests."
+      },
+      {
+        "id": "achievement-29",
+        "name": "One with the Clans",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-30",
+        "name": "Kinglor Carer",
+        "kind": "trophy",
+        "chapterId": "nature",
+        "where": "Complete the final Steady Wings side quest."
+      },
+      {
+        "id": "achievement-31",
+        "name": "Becoming Na'vi",
+        "kind": "trophy",
+        "chapterId": "skills-and-crafting",
+        "where": "Unlock 3 skills in each skill tree."
+      },
+      {
+        "id": "achievement-32",
+        "name": "End Song",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-33",
+        "name": "Legendary Artisan",
+        "kind": "trophy",
+        "chapterId": "skills-and-crafting",
+        "where": "Craft a weapon or gear piece of legendary rarity"
+      },
+      {
+        "id": "achievement-34",
+        "name": "Resistance Researcher",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Activate all Resistance Research Points"
+      },
+      {
+        "id": "achievement-35",
+        "name": "Rain of Fire",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-36",
+        "name": "Migration",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-37",
+        "name": "No Easy Path",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-38",
+        "name": "Reconnection",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-39",
+        "name": "A New Future",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-40",
+        "name": "Lifelong Learner",
+        "kind": "trophy",
+        "chapterId": "skills-and-crafting",
+        "where": "Unlock all skills in the Memories of the Sky Hunter skill tree."
+      },
+      {
+        "id": "achievement-41",
+        "name": "Unstoppable",
+        "kind": "trophy",
+        "chapterId": "rda",
+        "where": "Smash 20 objects with the Ikran Smash skill."
+      },
+      {
+        "id": "achievement-42",
+        "name": "First of Many",
+        "kind": "trophy",
+        "chapterId": "rda",
+        "where": "Perform a Stealth Finisher."
+      },
+      {
+        "id": "achievement-43",
+        "name": "Path of Temrey",
+        "kind": "trophy",
+        "chapterId": "skills-and-crafting",
+        "where": "Path of Temrey"
+      },
+      {
+        "id": "achievement-44",
+        "name": "In Case of Emergency, Break Glass",
+        "kind": "trophy",
+        "chapterId": "rda",
+        "where": "Eliminate 50 AMP Suits using the \"One Shot\" skill."
+      },
+      {
+        "id": "achievement-45",
+        "name": "Eywa's Blessing",
+        "kind": "trophy",
+        "chapterId": "from-the-ashes",
+        "where": "Find and collect all Zeykoma Fruit."
+      },
+      {
+        "id": "achievement-46",
+        "name": "Fashion-Forward",
+        "kind": "trophy",
+        "chapterId": "from-the-ashes",
+        "where": "Unlock all gear sets in From the Ashes."
+      },
+      {
+        "id": "achievement-47",
+        "name": "We See You",
+        "kind": "trophy",
+        "chapterId": "from-the-ashes",
+        "where": "Complete all From the Ashes content to 100%: Save Your People and Sabotage RDA Operations."
+      },
+      {
+        "id": "achievement-48",
+        "name": "Out-of-Body Experience",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-49",
+        "name": "Just Like You Remember It",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-50",
+        "name": "You Never Stood A Chance",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-51",
+        "name": "Unexpected Friends",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-52",
+        "name": "Return to Eywa",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/avatar-frontiers-of-pandora",
+    "Achievement data from Steam (Steam Web API, app 2840770)",
+    "StrategyWiki: no page for this game, nothing used",
+    "Fandom unavailable (no page under this title), marked unverified"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). No StrategyWiki page under \"Avatar: Frontiers of Pandora\" or \"Avatar Frontiers of Pandora\". avatar.fandom.com and james-camerons-avatar.fandom.com both answer the API but have no page under either title, so Fandom is unverified. The Steam schema calls the app \"HOPE\" (an internal codename); the store list confirms app 2840770. RAWG also lists \"Avatar: Frontiers of Pandora — From the Ashes\" (2025-12-19) as a separate entry, and two Steam achievements name From the Ashes, so it has its own chapter; \"Eywa's Blessing\" (Zeykoma Fruit) sits there because it is next to them in the Steam list with a similar low unlock rate, though the data does not say it belongs to it. 17 of 52 Steam achievements are hidden; they sit in the campaign chapter, but the five at the very end of the Steam list (\"Out-of-Body Experience\" to \"Return to Eywa\") may well belong to From the Ashes or another later addition. \"Path of Temrey\" has no real description (it just repeats its name), so it sits in the skills chapter as a placeholder."
+}

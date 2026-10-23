@@ -1,0 +1,482 @@
+{
+  "id": "dead-space-2023",
+  "title": "Dead Space",
+  "year": 2023,
+  "platforms": [
+    "PC",
+    "Xbox Series X|S",
+    "PlayStation 5"
+  ],
+  "rawgId": 638654,
+  "rawgSlug": "dead-space-5",
+  "released": "2023-01-27",
+  "developers": [
+    "Motive Studios"
+  ],
+  "playtime": 4,
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Full controller support",
+    "Steam Cloud",
+    "Atmospheric",
+    "Third Person",
+    "Sci-fi",
+    "Horror",
+    "Survival",
+    "Violent",
+    "Action-Adventure",
+    "Third-Person Shooter"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/ea6/ea6a1382b15d749e15fdfbf0aece7689.jpg",
+  "steamAppId": 1693980,
+  "achievements": {
+    "total": 47,
+    "hidden": 10,
+    "examples": [
+      {
+        "name": "Marksman",
+        "percent": 74.5
+      },
+      {
+        "name": "Welcome Aboard",
+        "percent": 65.9
+      },
+      {
+        "name": "Lab Rat",
+        "percent": 55.3
+      },
+      {
+        "name": "Merchant",
+        "percent": 6.2
+      },
+      {
+        "name": "Trusted Contractor",
+        "percent": 5.9
+      },
+      {
+        "name": "One Gun",
+        "percent": 4.4
+      },
+      {
+        "name": "Maxed Out",
+        "percent": 4.4
+      },
+      {
+        "name": "Untouchable",
+        "percent": 3.6
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Dead_Space",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 77,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://deadspace.fandom.com/wiki/Dead_Space_(2023)"
+    }
+  },
+  "game": {
+    "id": "dead-space-2023",
+    "title": "Dead Space",
+    "platforms": [
+      "PC",
+      "Xbox Series X|S",
+      "PlayStation 5"
+    ],
+    "blurb": "Sci-fi survival horror, the 2023 remake of the 2008 Dead Space, from Motive Studios, released 2023-01-27. RAWG average playtime: 4 hours. Genres: Action, Adventure. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#3F6E8C",
+    "chapters": [
+      {
+        "id": "campaign-early",
+        "title": "The Campaign: Chapters 1 to 6",
+        "summary": "Finishing each of the first six chapters aboard the ship.",
+        "steps": []
+      },
+      {
+        "id": "campaign-later",
+        "title": "The Campaign: Chapters 7 to 12",
+        "summary": "Finishing chapters 7 to 12 and the end of the story. Hidden achievements sit here too. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "side-stories-and-logs",
+        "title": "Side Stories, Logs and Schematics",
+        "summary": "The Hunter and Nicole side investigations, collecting Logs and Schematics, and Storage.",
+        "steps": []
+      },
+      {
+        "id": "weapons",
+        "title": "Weapons and Upgrades",
+        "summary": "Owning every weapon, installing upgrades and 30 kills with each tool.",
+        "steps": []
+      },
+      {
+        "id": "difficulty-and-runs",
+        "title": "Difficulty, New Game Plus and Challenge Runs",
+        "summary": "Medium or higher, Impossible Mode, New Game Plus and the Plasma Cutter only run.",
+        "steps": []
+      },
+      {
+        "id": "combat",
+        "title": "Dismemberment, Stasis and Kinesis",
+        "summary": "Cutting off limbs, pinning, stomping and using Stasis and Kinesis.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Welcome Aboard",
+        "kind": "trophy",
+        "chapterId": "campaign-early",
+        "where": "Complete Chapter 1 on any difficulty setting."
+      },
+      {
+        "id": "achievement-2",
+        "name": "Lab Rat",
+        "kind": "trophy",
+        "chapterId": "campaign-early",
+        "where": "Complete Chapter 2 on any difficulty setting."
+      },
+      {
+        "id": "achievement-3",
+        "name": "All Systems Go",
+        "kind": "trophy",
+        "chapterId": "campaign-early",
+        "where": "Complete Chapter 3 on any difficulty setting."
+      },
+      {
+        "id": "achievement-4",
+        "name": "Cannon Fodder",
+        "kind": "trophy",
+        "chapterId": "campaign-early",
+        "where": "Complete Chapter 4 on any difficulty setting."
+      },
+      {
+        "id": "achievement-5",
+        "name": "True Believer",
+        "kind": "trophy",
+        "chapterId": "campaign-early",
+        "where": "Complete Chapter 5 on any difficulty setting."
+      },
+      {
+        "id": "achievement-6",
+        "name": "Greenhouse Effect",
+        "kind": "trophy",
+        "chapterId": "campaign-early",
+        "where": "Complete Chapter 6 on any difficulty setting."
+      },
+      {
+        "id": "achievement-7",
+        "name": "S.O.S.",
+        "kind": "trophy",
+        "chapterId": "campaign-later",
+        "where": "Complete Chapter 7 on any difficulty setting."
+      },
+      {
+        "id": "achievement-8",
+        "name": "Strange Transmissions",
+        "kind": "trophy",
+        "chapterId": "campaign-later",
+        "where": "Complete Chapter 8 on any difficulty setting."
+      },
+      {
+        "id": "achievement-9",
+        "name": "Wreckage",
+        "kind": "trophy",
+        "chapterId": "campaign-later",
+        "where": "Complete Chapter 9 on any difficulty setting."
+      },
+      {
+        "id": "achievement-10",
+        "name": "Keeper of the Faith",
+        "kind": "trophy",
+        "chapterId": "campaign-later",
+        "where": "Complete Chapter 10 on any difficulty setting."
+      },
+      {
+        "id": "achievement-11",
+        "name": "Betrayed",
+        "kind": "trophy",
+        "chapterId": "campaign-later",
+        "where": "Complete Chapter 11 on any difficulty setting."
+      },
+      {
+        "id": "achievement-12",
+        "name": "Exodus",
+        "kind": "trophy",
+        "chapterId": "campaign-later",
+        "where": "Complete Chapter 12 on any difficulty setting."
+      },
+      {
+        "id": "achievement-13",
+        "name": "Final Regeneration",
+        "kind": "trophy",
+        "chapterId": "side-stories-and-logs",
+        "where": "Discover the Hunter's origins."
+      },
+      {
+        "id": "achievement-14",
+        "name": "Whole Again",
+        "kind": "trophy",
+        "chapterId": "side-stories-and-logs",
+        "where": "Pursue Nicole's investigation."
+      },
+      {
+        "id": "achievement-15",
+        "name": "Set A Benchmark",
+        "kind": "trophy",
+        "chapterId": "difficulty-and-runs",
+        "where": "Complete the game on Medium difficulty or above."
+      },
+      {
+        "id": "achievement-16",
+        "name": "Untouchable",
+        "kind": "trophy",
+        "chapterId": "difficulty-and-runs",
+        "where": "Complete the game in Impossible Mode."
+      },
+      {
+        "id": "achievement-17",
+        "name": "Trusted Contractor",
+        "kind": "trophy",
+        "chapterId": "difficulty-and-runs",
+        "where": "Complete New Game Plus on any difficulty mode."
+      },
+      {
+        "id": "achievement-18",
+        "name": "Full Arsenal",
+        "kind": "trophy",
+        "chapterId": "weapons",
+        "where": "Own every weapon in the game."
+      },
+      {
+        "id": "achievement-19",
+        "name": "Built To Order",
+        "kind": "trophy",
+        "chapterId": "weapons",
+        "where": "Install every weapon upgrade."
+      },
+      {
+        "id": "achievement-20",
+        "name": "Autofire",
+        "kind": "trophy",
+        "chapterId": "weapons",
+        "where": "Kill 30 enemies with the Pulse Rifle."
+      },
+      {
+        "id": "achievement-21",
+        "name": "Live with the Hot Ones",
+        "kind": "trophy",
+        "chapterId": "weapons",
+        "where": "Kill 30 enemies with the Flamethrower."
+      },
+      {
+        "id": "achievement-22",
+        "name": "A Cut Above",
+        "kind": "trophy",
+        "chapterId": "weapons",
+        "where": "Kill 30 enemies with the Ripper."
+      },
+      {
+        "id": "achievement-23",
+        "name": "Pusher",
+        "kind": "trophy",
+        "chapterId": "weapons",
+        "where": "Kill 30 enemies with the Force Gun."
+      },
+      {
+        "id": "achievement-24",
+        "name": "Eviscerator",
+        "kind": "trophy",
+        "chapterId": "weapons",
+        "where": "Kill 30 enemies with the Line Gun."
+      },
+      {
+        "id": "achievement-25",
+        "name": "Full Contact",
+        "kind": "trophy",
+        "chapterId": "weapons",
+        "where": "Kill 30 enemies with the Contact Beam."
+      },
+      {
+        "id": "achievement-26",
+        "name": "One Gun",
+        "kind": "trophy",
+        "chapterId": "difficulty-and-runs",
+        "where": "Beat the game using only the Plasma Cutter."
+      },
+      {
+        "id": "achievement-27",
+        "name": "Pack Rat",
+        "kind": "trophy",
+        "chapterId": "side-stories-and-logs",
+        "where": "Place 25 items in Storage."
+      },
+      {
+        "id": "achievement-28",
+        "name": "Story Teller",
+        "kind": "trophy",
+        "chapterId": "side-stories-and-logs",
+        "where": "Collect 75 Logs."
+      },
+      {
+        "id": "achievement-29",
+        "name": "Legend Teller",
+        "kind": "trophy",
+        "chapterId": "side-stories-and-logs",
+        "where": "Collect 150 Logs."
+      },
+      {
+        "id": "achievement-30",
+        "name": "Merchant",
+        "kind": "trophy",
+        "chapterId": "side-stories-and-logs",
+        "where": "Collect all Schematics."
+      },
+      {
+        "id": "achievement-31",
+        "name": "Marksman",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Dismember 50 Limbs."
+      },
+      {
+        "id": "achievement-32",
+        "name": "Surgeon",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Dismember 500 Limbs."
+      },
+      {
+        "id": "achievement-33",
+        "name": "Wishbone",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Rip off a dangling limb using Kinesis."
+      },
+      {
+        "id": "achievement-34",
+        "name": "Raise The Stakes",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Pin an enemy."
+      },
+      {
+        "id": "achievement-35",
+        "name": "Freeze",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Use Stasis on 50 enemies."
+      },
+      {
+        "id": "achievement-36",
+        "name": "Backbreaker",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Kill 10 enemies with a stomp attack."
+      },
+      {
+        "id": "achievement-37",
+        "name": "Maxed Out",
+        "kind": "trophy",
+        "chapterId": "weapons",
+        "where": "Fully upgrade all weapons and equipment."
+      },
+      {
+        "id": "achievement-38",
+        "name": "Front Toward Enemy",
+        "kind": "trophy",
+        "chapterId": "campaign-later",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-39",
+        "name": "Z-Baller",
+        "kind": "trophy",
+        "chapterId": "campaign-later",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-40",
+        "name": "There's Always Peng!",
+        "kind": "trophy",
+        "chapterId": "campaign-later",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-41",
+        "name": "Full Clearance",
+        "kind": "trophy",
+        "chapterId": "campaign-later",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-42",
+        "name": "Brute Force",
+        "kind": "trophy",
+        "chapterId": "campaign-later",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-43",
+        "name": "Exterminator",
+        "kind": "trophy",
+        "chapterId": "campaign-later",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-44",
+        "name": "Get Off My Ship!",
+        "kind": "trophy",
+        "chapterId": "campaign-later",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-45",
+        "name": "Mindless Prey",
+        "kind": "trophy",
+        "chapterId": "campaign-later",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-46",
+        "name": "Marked",
+        "kind": "trophy",
+        "chapterId": "campaign-later",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-47",
+        "name": "Reunion",
+        "kind": "trophy",
+        "chapterId": "campaign-later",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/dead-space-5",
+    "Achievement data from Steam (Steam Web API, app 1693980)",
+    "StrategyWiki: no usable walkthrough, nothing used — https://strategywiki.org/wiki/Dead_Space",
+    "Fandom (deadspace.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://deadspace.fandom.com/wiki/Dead_Space_(2023)"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). This is the 2023 remake; RAWG's first search result was the 2008 game, so the remake's entry \"dead-space-5\" (id 638654) was put in by hand. It uses its own Steam app, 1693980 (\"Dead Space\"); the 2008 game is app 17470. The Steam schema calls the app \"Beyond\" (an internal codename). StrategyWiki has no page under \"Dead Space (2023)\"; its \"Dead Space\" page covers both the 2008 game and the remake (its categories list 2008 and 2023, EA Redwood Shores and Motive Studio) and is at completion stage 2, but only 5 of the 12 chapter pages are written (Chapters 1, 7, 8, 11 and 12), plus Achievements, Characters, Cheats, Controls and Enemies, so it was not used. deadspace.fandom.com answers the API under \"Dead Space (2023)\", with about 77 linked articles; names only were looked at, nothing copied. 10 of 47 Steam achievements are hidden; they sit in the later campaign chapter as a placeholder, though their unlock rates (4 to 47%) suggest they are spread through the whole game. The campaign is split in two at chapter 6. RAWG's description does not use the word remake; the remake is identified by its 2023 RAWG entry, its separate Steam app and StrategyWiki listing both years on one page."
+}

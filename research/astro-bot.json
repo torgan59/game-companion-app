@@ -1,0 +1,114 @@
+{
+  "id": "astro-bot",
+  "title": "Astro Bot",
+  "year": 2024,
+  "platforms": [
+    "PlayStation 5"
+  ],
+  "rawgId": 982817,
+  "rawgSlug": "astro-bot",
+  "released": "2024-09-06",
+  "developers": [
+    "ASOBI"
+  ],
+  "playtime": null,
+  "genres": [
+    "Action",
+    "Platformer"
+  ],
+  "tags": [],
+  "coverUrl": "https://media.rawg.io/media/games/b19/b19cdd6be95ffffd63fdd2d1fbac057a.jpg",
+  "steamAppId": null,
+  "achievements": {
+    "total": 0,
+    "examples": [],
+    "reason": "PlayStation 5 only: no Steam app, so there is no achievement list here. PlayStation trophies are not available through the APIs this project uses. astros-playroom.fandom.com has pages named \"List of trophies in Astro Bot\", \"VIP Bots\" (about 38,700 characters) and \"Puzzle Pieces\", which show what a checklist could cover; nothing was copied."
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Astro_Bot",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 30,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://astros-playroom.fandom.com/wiki/Astro_Bot_(game)"
+    }
+  },
+  "game": {
+    "id": "astro-bot",
+    "title": "Astro Bot",
+    "platforms": [
+      "PlayStation 5"
+    ],
+    "blurb": "3D action platformer from Team Asobi, released 2024-09-06 on PlayStation 5. RAWG has no playtime yet. Genres: Action, Platformer. Chapters are an estimate drawn from Fandom page names.",
+    "accent": "#1E88E5",
+    "chapters": [
+      {
+        "id": "crash-site",
+        "title": "Crash Site and the Mothership",
+        "summary": "The hub where Astro lands, gathers bots and rebuilds the mothership piece by piece.",
+        "steps": []
+      },
+      {
+        "id": "gorilla-nebula",
+        "title": "Gorilla Nebula",
+        "summary": "The levels of the Gorilla Nebula and its boss, Mighty Chewy.",
+        "steps": []
+      },
+      {
+        "id": "tentacle-system",
+        "title": "Tentacle System",
+        "summary": "The levels of the Tentacle System and its boss, Wako Tako.",
+        "steps": []
+      },
+      {
+        "id": "serpent-starway",
+        "title": "Serpent Starway",
+        "summary": "The levels of the Serpent Starway and its boss, Lady Venomara.",
+        "steps": []
+      },
+      {
+        "id": "camo-cosmos",
+        "title": "Camo Cosmos",
+        "summary": "The levels of the Camo Cosmos and its boss, Mecha Leon.",
+        "steps": []
+      },
+      {
+        "id": "feather-cluster",
+        "title": "Feather Cluster",
+        "summary": "The last galaxy in the chain of linked pages. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "lost-galaxy",
+        "title": "Lost Galaxy",
+        "summary": "A galaxy of separate levels that the hub page does not list.",
+        "steps": []
+      },
+      {
+        "id": "bots-and-pieces",
+        "title": "VIP Bots and Puzzle Pieces",
+        "summary": "Rescuing the special VIP Bots and finding Puzzle Pieces across the galaxies.",
+        "steps": []
+      }
+    ],
+    "collectibles": []
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/astro-bot",
+    "Steam: no achievement list available for this game (see notes)",
+    "StrategyWiki: no usable walkthrough, nothing used — https://strategywiki.org/wiki/Astro_Bot",
+    "Fandom (astros-playroom.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://astros-playroom.fandom.com/wiki/Astro_Bot_(game)"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). PlayStation 5 only (RAWG lists only PlayStation 5), so steam is None; the only Steam match by name was \"ASTROBOTANICA\", a different game. RAWG has no description text, tags or playtime for this game beyond a short credits line. StrategyWiki has a stub page under \"Astro Bot\" (completion stage 0, marked \"Perfect stub article\"); its Walkthrough, Gameplay and Table of Contents subpages are linked but none exists, so nothing was used. astrobot.fandom.com is an unrelated robotics wiki, and playstation.fandom.com has only a generic \"Astro Bot\" page. The game is covered on astros-playroom.fandom.com under \"Astro Bot (game)\" (about 30 linked pages; its plain \"Astro Bot\" page is about the character). Chapters come from that wiki's page names only: its \"Hub\" page links Gorilla Nebula, Serpent Starway, Tentacle System, Feather Cluster and Camo Cosmos, and the galaxy pages link each other in the chain Gorilla Nebula, Tentacle System, Serpent Starway, Camo Cosmos, Feather Cluster, which was taken as the play order but not confirmed. Each boss is the one its galaxy page links (Mighty Chewy, Wako Tako, Lady Venomara, Mecha Leon); the Feather Cluster page links no boss. \"Crash Site\" links the four mothership parts and the final boss page \"Nebulax\". \"Lost Galaxy\" links about 20 level pages and is not on the Hub page, so it is placed after the main galaxies. Names only were looked at; nothing was copied. Chapter summaries are placeholders and need checking against play."
+}

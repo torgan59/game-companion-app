@@ -1,0 +1,383 @@
+{
+  "id": "until-dawn-remake",
+  "title": "Until Dawn",
+  "year": 2024,
+  "platforms": [
+    "PC",
+    "PlayStation 5"
+  ],
+  "rawgId": 976005,
+  "rawgSlug": "until-dawn-2",
+  "released": "2024-10-04",
+  "developers": [
+    "Ballistic Moon"
+  ],
+  "playtime": 9,
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Full controller support",
+    "Steam Cloud",
+    "Atmospheric",
+    "Story Rich",
+    "Third Person",
+    "Horror",
+    "Gore",
+    "Exploration",
+    "Dark",
+    "Mystery"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/d4a/d4adb09d67998e339551acb0e15c1e99.jpg",
+  "steamAppId": 2172010,
+  "achievements": {
+    "total": 29,
+    "hidden": 16,
+    "examples": [
+      {
+        "name": "I Know What You Did Last Year",
+        "percent": 89.3
+      },
+      {
+        "name": "Lodge Fever",
+        "percent": 63.5
+      },
+      {
+        "name": "The Cabin in the Blackwoods",
+        "percent": 53.0
+      },
+      {
+        "name": "The Tale of The Two Sisters",
+        "percent": 7.1
+      },
+      {
+        "name": "You Opened Their Eyes",
+        "percent": 5.0
+      },
+      {
+        "name": "An Omen?",
+        "percent": 5.0
+      },
+      {
+        "name": "This Is THE End",
+        "percent": 4.1
+      },
+      {
+        "name": "A Symphony of Horror Achievements",
+        "percent": 2.7
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 20,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Until_Dawn",
+      "completionStage": 4,
+      "writtenSubpages": [
+        "Chapter 1",
+        "Chapter 10",
+        "Chapter 2",
+        "Chapter 3",
+        "Chapter 4",
+        "Chapter 5",
+        "Chapter 6",
+        "Chapter 7",
+        "Chapter 8",
+        "Chapter 9",
+        "Characters",
+        "Clues",
+        "Controls",
+        "Epilogue",
+        "Gameplay",
+        "Prologue",
+        "Table of Contents",
+        "Totems",
+        "Trophies",
+        "Walkthrough"
+      ],
+      "reason": "Real walkthrough structure; chapter order taken from its Table of Contents"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 76,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://untildawn.fandom.com/wiki/Until_Dawn"
+    }
+  },
+  "game": {
+    "id": "until-dawn-remake",
+    "title": "Until Dawn",
+    "platforms": [
+      "PC",
+      "PlayStation 5"
+    ],
+    "blurb": "Remake of the 2015 interactive horror drama, from Ballistic Moon, released 2024-10-04. RAWG average playtime: 9 hours. Genres: Action, Adventure. Chapter order follows the StrategyWiki walkthrough of the original game (CC BY-SA 4.0), grouped a few chapters at a time.",
+    "accent": "#4A6B8A",
+    "chapters": [
+      {
+        "id": "prologue",
+        "title": "The Prologue",
+        "summary": "The night a year earlier that sets everything in motion.",
+        "steps": []
+      },
+      {
+        "id": "chapters-1-4",
+        "title": "Chapters 1 to 4",
+        "summary": "The friends return to the mountain and the first night begins to go wrong.",
+        "steps": []
+      },
+      {
+        "id": "chapters-5-7",
+        "title": "Chapters 5 to 7",
+        "summary": "The group splits up and the danger grows. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "chapters-8-epilogue",
+        "title": "Chapters 8 to 10 and the Epilogue",
+        "summary": "The last hours before dawn and the aftermath. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "choices-and-endings",
+        "title": "Choices, Survivors and Endings",
+        "summary": "Who makes it to dawn, key choices, a full playthrough and the hidden story moments. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "clues",
+        "title": "Clues",
+        "summary": "The Twins, 1952 and Mystery Man cluelines, plus the remake's new interactables.",
+        "steps": []
+      },
+      {
+        "id": "totems",
+        "title": "Totems",
+        "summary": "Finding all 36 totems on the mountain.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "A Symphony of Horror Achievements",
+        "kind": "trophy",
+        "chapterId": "choices-and-endings",
+        "where": "You collected all achievements in Until Dawn"
+      },
+      {
+        "id": "achievement-2",
+        "name": "The Skillful Wolf Man",
+        "kind": "trophy",
+        "chapterId": "choices-and-endings",
+        "where": "Mike kept the wolf alive throughout the Sanatorium"
+      },
+      {
+        "id": "achievement-3",
+        "name": "The Tale of The Two Sisters",
+        "kind": "trophy",
+        "chapterId": "clues",
+        "where": "The group found all the clues from the Twins Clueline"
+      },
+      {
+        "id": "achievement-4",
+        "name": "This Is THE End",
+        "kind": "trophy",
+        "chapterId": "choices-and-endings",
+        "where": "Nobody survived until dawn"
+      },
+      {
+        "id": "achievement-5",
+        "name": "They All Live",
+        "kind": "trophy",
+        "chapterId": "choices-and-endings",
+        "where": "All eight friends survived until dawn"
+      },
+      {
+        "id": "achievement-6",
+        "name": "You Opened Their Eyes",
+        "kind": "trophy",
+        "chapterId": "clues",
+        "where": "The group found all the clues from the Mystery Man Clueline"
+      },
+      {
+        "id": "achievement-7",
+        "name": "The Fateful Descent",
+        "kind": "trophy",
+        "chapterId": "clues",
+        "where": "The group found all the clues from the 1952 Clueline"
+      },
+      {
+        "id": "achievement-8",
+        "name": "The Psycho Path",
+        "kind": "trophy",
+        "chapterId": "choices-and-endings",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-9",
+        "name": "Saw That Coming",
+        "kind": "trophy",
+        "chapterId": "choices-and-endings",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-10",
+        "name": "Nightmare on Ash Street",
+        "kind": "trophy",
+        "chapterId": "choices-and-endings",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-11",
+        "name": "Only Others Left Alive",
+        "kind": "trophy",
+        "chapterId": "choices-and-endings",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-12",
+        "name": "You Let The Wrong One In!",
+        "kind": "trophy",
+        "chapterId": "choices-and-endings",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-13",
+        "name": "Fatal Destination",
+        "kind": "trophy",
+        "chapterId": "choices-and-endings",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-14",
+        "name": "Patient Sematary",
+        "kind": "trophy",
+        "chapterId": "choices-and-endings",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-15",
+        "name": "Blackwood Country",
+        "kind": "trophy",
+        "chapterId": "choices-and-endings",
+        "where": "The group respected the wildlife of the mountain"
+      },
+      {
+        "id": "achievement-16",
+        "name": "When a Psycho Calls",
+        "kind": "trophy",
+        "chapterId": "choices-and-endings",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-17",
+        "name": "An American Survivor in Canada",
+        "kind": "trophy",
+        "chapterId": "choices-and-endings",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-18",
+        "name": "Drag Me Through Hell",
+        "kind": "trophy",
+        "chapterId": "choices-and-endings",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-19",
+        "name": "One Hour Selfie",
+        "kind": "trophy",
+        "chapterId": "choices-and-endings",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-20",
+        "name": "Talk to eM",
+        "kind": "trophy",
+        "chapterId": "choices-and-endings",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-21",
+        "name": "Lodge Fever",
+        "kind": "trophy",
+        "chapterId": "choices-and-endings",
+        "where": "Both Matt and Emily started separate confrontations in the lodge"
+      },
+      {
+        "id": "achievement-22",
+        "name": "The Cabin in the Blackwoods",
+        "kind": "trophy",
+        "chapterId": "choices-and-endings",
+        "where": "Complete a full playthrough of Until Dawn"
+      },
+      {
+        "id": "achievement-23",
+        "name": "I Know What You Did Last Year",
+        "kind": "trophy",
+        "chapterId": "prologue",
+        "where": "Complete ‘the Prologue’"
+      },
+      {
+        "id": "achievement-24",
+        "name": "Our Host",
+        "kind": "trophy",
+        "chapterId": "choices-and-endings",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-25",
+        "name": "We Need To Talk About Josh",
+        "kind": "trophy",
+        "chapterId": "choices-and-endings",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-26",
+        "name": "Just Breathe",
+        "kind": "trophy",
+        "chapterId": "choices-and-endings",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-27",
+        "name": "Carnival of Solitude",
+        "kind": "trophy",
+        "chapterId": "choices-and-endings",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-28",
+        "name": "It’s Shining",
+        "kind": "trophy",
+        "chapterId": "clues",
+        "where": "Find all the new interactables across Blackwood Mountain"
+      },
+      {
+        "id": "achievement-29",
+        "name": "An Omen?",
+        "kind": "trophy",
+        "chapterId": "totems",
+        "where": "The group found all 36 totems on the mountain"
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/until-dawn-2",
+    "Achievement data from Steam (Steam Web API, app 2172010)",
+    "Wiki structure from StrategyWiki under CC BY-SA 4.0 (chapter order from its walkthrough contents; titles reworded, no text copied) — https://strategywiki.org/wiki/Until_Dawn",
+    "Fandom (untildawn.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://untildawn.fandom.com/wiki/Until_Dawn"
+  ],
+  "route": "cc-by-sa",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). Remake of the 2015 game: it uses its own Steam app, 2172010 (\"Until Dawn™\"), and RAWG's remake entry until-dawn-2 (id 976005, \"Until Dawn (Remake)\"), not the 2015 entry. Route cc-by-sa: StrategyWiki (CC BY-SA 4.0) has the guide under \"Until Dawn\" at completion stage 4, but its categories (2015, PlayStation 4) show it was written for the original. All its walkthrough pages are written: Prologue, Chapter 1 to Chapter 10 and Epilogue (about 2,600 to 13,400 characters each), plus Clues (about 23,000), Characters, Totems, Trophies, Controls and Gameplay, about 129,000 characters in all. Chapters follow its contents order, grouped three or four at a time; the remake's chapter order should be checked against it before guide text is written. No text was copied. untildawn.fandom.com answers the API with about 76 linked articles on its \"Until Dawn\" page, and a separate \"Until Dawn (2024 Remake)\" page links about 67; names only were looked at. 16 of 29 Steam achievements are hidden; they sit in the choices and endings chapter with the survival and playthrough achievements, since the data does not say which chapter each belongs to."
+}

@@ -1,0 +1,113 @@
+{
+  "id": "super-mario-bros-wonder",
+  "title": "Super Mario Bros. Wonder",
+  "year": 2023,
+  "platforms": [
+    "Nintendo Switch"
+  ],
+  "rawgId": 962495,
+  "rawgSlug": "super-mario-bros-wonder",
+  "released": "2023-10-20",
+  "developers": [
+    "Nintendo"
+  ],
+  "playtime": null,
+  "genres": [
+    "Adventure"
+  ],
+  "tags": [],
+  "coverUrl": "https://media.rawg.io/media/games/1fd/1fd3f030bee73452d46a0678084a7ed9.jpg",
+  "steamAppId": null,
+  "achievements": {
+    "total": 0,
+    "examples": [],
+    "reason": "Nintendo Switch only: no Steam list, and Nintendo has no achievement system. Wonder Seeds and 10-Flower Coins (Fandom page names) are the natural checklist, but no list of them was gathered."
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Super_Mario_Bros._Wonder",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 500,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://mario.fandom.com/wiki/Super_Mario_Bros._Wonder"
+    }
+  },
+  "game": {
+    "id": "super-mario-bros-wonder",
+    "title": "Super Mario Bros. Wonder",
+    "platforms": [
+      "Nintendo Switch"
+    ],
+    "blurb": "Platform game set in the Flower Kingdom, from Nintendo, released 2023-10-20 on Nintendo Switch. RAWG has no playtime yet. Genre: Adventure. Chapters follow the world names on the StrategyWiki contents page.",
+    "accent": "#E52521",
+    "chapters": [
+      {
+        "id": "pipe-rock-plateau",
+        "title": "Pipe-Rock Plateau",
+        "summary": "The first world, from Welcome to the Flower Kingdom! to the Pipe-Rock Plateau Palace, plus its Badge Challenges and Wiggler Race.",
+        "steps": []
+      },
+      {
+        "id": "fluff-puff-peaks",
+        "title": "Fluff-Puff Peaks",
+        "summary": "From Outmaway Valley to the Flying Battleship and the Fluff-Puff Peaks Palace.",
+        "steps": []
+      },
+      {
+        "id": "shining-falls",
+        "title": "Shining Falls",
+        "summary": "The trial courses, from The Hoppycat Trial to The Final Trial: Zip Track Dash.",
+        "steps": []
+      },
+      {
+        "id": "petal-isles-and-castle-bowser",
+        "title": "Petal Isles and Castle Bowser",
+        "summary": "The Petal Isles courses and Flying Battleship, then the Castle Bowser stages. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "special-world",
+        "title": "The Special World",
+        "summary": "The Special courses for every world and the Final Tests.",
+        "steps": []
+      },
+      {
+        "id": "sunbaked-desert",
+        "title": "Sunbaked Desert",
+        "summary": "From Armads on the Roll to the Sunbaked Desert Palace.",
+        "steps": []
+      },
+      {
+        "id": "fungi-mines",
+        "title": "Fungi Mines",
+        "summary": "From Upshroom Downshroom to the three Uncharted Areas.",
+        "steps": []
+      },
+      {
+        "id": "deep-magma-bog",
+        "title": "Deep Magma Bog",
+        "summary": "From Where the Rrrumblas Rule to the Flying Battleship and the Deep Magma Bog Palace.",
+        "steps": []
+      }
+    ],
+    "collectibles": []
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/super-mario-bros-wonder",
+    "Steam: no achievement list available for this game (see notes)",
+    "StrategyWiki: mission and page names used to group chapters, CC BY-SA 4.0; no text copied — https://strategywiki.org/wiki/Super_Mario_Bros._Wonder",
+    "Fandom (mario.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://mario.fandom.com/wiki/Super_Mario_Bros._Wonder"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). Nintendo Switch only, so no Steam achievements. StrategyWiki has a stub page (completion stage 0); only its Controls and Table of Contents subpages are written. The contents page lists about 120 world and course pages (none written yet); the chapters use those world names only, no text copied. Chapters keep the order of the StrategyWiki contents page, which puts Shining Falls, Petal Isles with Castle Bowser and the Special World before Sunbaked Desert, Fungi Mines and Deep Magma Bog, so the real play order needs checking. Its categories also list Nintendo Switch 2 and 2026, and mario.fandom.com links a \"Nintendo Switch 2 Edition + Meetup in Bellabel Park\" page; the year here follows RAWG (2023-10-20). mario.fandom.com answers the API with 500 linked articles (the most the API returns in one call), including every world and course name; names only were looked at, nothing copied."
+}

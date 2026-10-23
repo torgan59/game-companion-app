@@ -1,0 +1,503 @@
+{
+  "id": "dragon-age-the-veilguard",
+  "title": "Dragon Age: The Veilguard",
+  "year": 2024,
+  "platforms": [
+    "PC",
+    "PlayStation 5",
+    "Xbox Series X|S"
+  ],
+  "rawgId": 274764,
+  "rawgSlug": "dragon-age-4-tba",
+  "released": "2024-10-31",
+  "developers": [
+    "BioWare"
+  ],
+  "playtime": null,
+  "genres": [
+    "RPG"
+  ],
+  "tags": [
+    "wolf"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/4c5/4c5a391237b78ea96aeff8206f63d3f5.jpg",
+  "steamAppId": 1845910,
+  "achievements": {
+    "total": 52,
+    "hidden": 43,
+    "examples": [
+      {
+        "name": "A New Look",
+        "percent": 77.0
+      },
+      {
+        "name": "Between a Rook and a Hard Place",
+        "percent": 73.6
+      },
+      {
+        "name": "Rune For Improvement",
+        "percent": 72.7
+      },
+      {
+        "name": "A Most Esteemed Purveyor",
+        "percent": 44.5
+      },
+      {
+        "name": "Stacking the Deck",
+        "percent": 43.2
+      },
+      {
+        "name": "Across the Imperial Highway",
+        "percent": 36.2
+      },
+      {
+        "name": "Bringing Down the Sky",
+        "percent": 33.8
+      },
+      {
+        "name": "Enhancements!",
+        "percent": 19.4
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": false,
+      "pages": 0,
+      "reason": "No page for Dragon Age: The Veilguard (MediaWiki API returned missing; see notes for other titles tried)"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 185,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://dragonage.fandom.com/wiki/Dragon_Age:_The_Veilguard"
+    }
+  },
+  "game": {
+    "id": "dragon-age-the-veilguard",
+    "title": "Dragon Age: The Veilguard",
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "Xbox Series X|S"
+    ],
+    "blurb": "Fantasy action RPG from BioWare, released 2024-10-31. RAWG has no playtime yet. Genres: RPG. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#7A1F2B",
+    "chapters": [
+      {
+        "id": "story-opening",
+        "title": "Story: Parts 1 to 4",
+        "summary": "The opening parts of Rook's story, starting with a job in Minrathous. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "story-middle",
+        "title": "Story: Parts 5 to 9",
+        "summary": "The middle of the story as the team grows. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "story-finale",
+        "title": "Story: Parts 10 to 14",
+        "summary": "The last parts of the story and the finale. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "hidden-milestones",
+        "title": "Hidden Milestones",
+        "summary": "Hidden achievements outside the numbered parts, such as the six \"A Memory of...\" ones. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "world",
+        "title": "Exploring Northern Thedas",
+        "summary": "Visiting every district and defeating every high dragon.",
+        "steps": []
+      },
+      {
+        "id": "gear-and-skills",
+        "title": "Gear, Skills and Merchants",
+        "summary": "Transmogging gear, runes, faction merchants, full upgrades, skill points and takedowns.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Part 1: The Minrathous Job",
+        "kind": "trophy",
+        "chapterId": "story-opening",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-2",
+        "name": "Part 2: Ruin's Reach",
+        "kind": "trophy",
+        "chapterId": "story-opening",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-3",
+        "name": "Part 3: Awakening",
+        "kind": "trophy",
+        "chapterId": "story-opening",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-4",
+        "name": "Part 4: Tevinter Nights",
+        "kind": "trophy",
+        "chapterId": "story-opening",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-5",
+        "name": "Part 5: Anvallenim",
+        "kind": "trophy",
+        "chapterId": "story-middle",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-6",
+        "name": "Part 6: Old Blood, Older Oaths",
+        "kind": "trophy",
+        "chapterId": "story-middle",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-7",
+        "name": "Part 7: Fire, Feather, and Fade",
+        "kind": "trophy",
+        "chapterId": "story-middle",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-8",
+        "name": "Part 8: No Sacrifice Greater",
+        "kind": "trophy",
+        "chapterId": "story-middle",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-9",
+        "name": "Part 9: Bonds and Blackened Wings",
+        "kind": "trophy",
+        "chapterId": "story-middle",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-10",
+        "name": "Part 10: The Blood of Arlathan",
+        "kind": "trophy",
+        "chapterId": "story-finale",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-11",
+        "name": "Part 11: As Shadows Fall",
+        "kind": "trophy",
+        "chapterId": "story-finale",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-12",
+        "name": "Part 12: The Best Tales",
+        "kind": "trophy",
+        "chapterId": "story-finale",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-13",
+        "name": "Part 13: The Last Gambit",
+        "kind": "trophy",
+        "chapterId": "story-finale",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-14",
+        "name": "Part 14: The Dread Wolf Rises",
+        "kind": "trophy",
+        "chapterId": "story-finale",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-15",
+        "name": "The Ones That Last",
+        "kind": "trophy",
+        "chapterId": "hidden-milestones",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-16",
+        "name": "The Storm Quelled",
+        "kind": "trophy",
+        "chapterId": "hidden-milestones",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-17",
+        "name": "In Peace",
+        "kind": "trophy",
+        "chapterId": "hidden-milestones",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-18",
+        "name": "No Real Gods",
+        "kind": "trophy",
+        "chapterId": "hidden-milestones",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-19",
+        "name": "Reflections",
+        "kind": "trophy",
+        "chapterId": "hidden-milestones",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-20",
+        "name": "A New Calling",
+        "kind": "trophy",
+        "chapterId": "hidden-milestones",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-21",
+        "name": "Death Becomes Him",
+        "kind": "trophy",
+        "chapterId": "hidden-milestones",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-22",
+        "name": "A Song from the Stone",
+        "kind": "trophy",
+        "chapterId": "hidden-milestones",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-23",
+        "name": "Blood Ties",
+        "kind": "trophy",
+        "chapterId": "hidden-milestones",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-24",
+        "name": "City of Shadows",
+        "kind": "trophy",
+        "chapterId": "hidden-milestones",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-25",
+        "name": "Little Dragon",
+        "kind": "trophy",
+        "chapterId": "hidden-milestones",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-26",
+        "name": "A Memory of False Gods",
+        "kind": "trophy",
+        "chapterId": "hidden-milestones",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-27",
+        "name": "A Memory of Our Mistake",
+        "kind": "trophy",
+        "chapterId": "hidden-milestones",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-28",
+        "name": "A Memory of Blackened Hearts",
+        "kind": "trophy",
+        "chapterId": "hidden-milestones",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-29",
+        "name": "A Memory of Manifestation",
+        "kind": "trophy",
+        "chapterId": "hidden-milestones",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-30",
+        "name": "A Memory of Tranquility",
+        "kind": "trophy",
+        "chapterId": "hidden-milestones",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-31",
+        "name": "A Memory of an Old Friend",
+        "kind": "trophy",
+        "chapterId": "hidden-milestones",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-32",
+        "name": "A Rook Likes Shiny Things",
+        "kind": "trophy",
+        "chapterId": "hidden-milestones",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-33",
+        "name": "A Rook Really Likes Shiny Things",
+        "kind": "trophy",
+        "chapterId": "hidden-milestones",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-34",
+        "name": "Across the Imperial Highway",
+        "kind": "trophy",
+        "chapterId": "world",
+        "where": "Visited every district possible throughout Northern Thedas."
+      },
+      {
+        "id": "achievement-35",
+        "name": "The Talons of Vengeance",
+        "kind": "trophy",
+        "chapterId": "hidden-milestones",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-36",
+        "name": "The Light in the Dark",
+        "kind": "trophy",
+        "chapterId": "hidden-milestones",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-37",
+        "name": "The Soul of a City",
+        "kind": "trophy",
+        "chapterId": "hidden-milestones",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-38",
+        "name": "Annihilation in Arlathan",
+        "kind": "trophy",
+        "chapterId": "hidden-milestones",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-39",
+        "name": "Call for Coin and Company",
+        "kind": "trophy",
+        "chapterId": "hidden-milestones",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-40",
+        "name": "The Supernatural and the Strange",
+        "kind": "trophy",
+        "chapterId": "hidden-milestones",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-41",
+        "name": "A Most Esteemed Purveyor",
+        "kind": "trophy",
+        "chapterId": "gear-and-skills",
+        "where": "Few people are worthy of an invitation, you know."
+      },
+      {
+        "id": "achievement-42",
+        "name": "A New Look",
+        "kind": "trophy",
+        "chapterId": "gear-and-skills",
+        "where": "Changed the look of an item for the first time."
+      },
+      {
+        "id": "achievement-43",
+        "name": "Between a Rook and a Hard Place",
+        "kind": "trophy",
+        "chapterId": "gear-and-skills",
+        "where": "Performed five takedowns."
+      },
+      {
+        "id": "achievement-44",
+        "name": "A Faction's Favor",
+        "kind": "trophy",
+        "chapterId": "gear-and-skills",
+        "where": "Upgraded a faction merchant for the first time."
+      },
+      {
+        "id": "achievement-45",
+        "name": "Rune For Improvement",
+        "kind": "trophy",
+        "chapterId": "gear-and-skills",
+        "where": "Socketed a rune for the first time."
+      },
+      {
+        "id": "achievement-46",
+        "name": "Falling For You",
+        "kind": "trophy",
+        "chapterId": "hidden-milestones",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-47",
+        "name": "Nostalgia Trip",
+        "kind": "trophy",
+        "chapterId": "hidden-milestones",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-48",
+        "name": "Clear Minds and Open Hearts",
+        "kind": "trophy",
+        "chapterId": "hidden-milestones",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-49",
+        "name": "Enhancements!",
+        "kind": "trophy",
+        "chapterId": "gear-and-skills",
+        "where": "Fully upgraded a weapon, armor, and accessory to their highest level and rarity."
+      },
+      {
+        "id": "achievement-50",
+        "name": "Stacking the Deck",
+        "kind": "trophy",
+        "chapterId": "gear-and-skills",
+        "where": "Spent at least 52 points in Rook's skill trees."
+      },
+      {
+        "id": "achievement-51",
+        "name": "Bringing Down the Sky",
+        "kind": "trophy",
+        "chapterId": "world",
+        "where": "Defeated all high dragons across northern Thedas."
+      },
+      {
+        "id": "achievement-52",
+        "name": "The Unbound",
+        "kind": "trophy",
+        "chapterId": "hidden-milestones",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/dragon-age-4-tba",
+    "Achievement data from Steam (Steam Web API, app 1845910)",
+    "StrategyWiki: no page for this game, nothing used",
+    "Fandom (dragonage.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://dragonage.fandom.com/wiki/Dragon_Age:_The_Veilguard"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). RAWG's first result \"dragon-age-4-tba\" (id 274764, released 2024-10-31) matches the expected slug; RAWG also has a separate entry with the slug \"dragon-age-the-veilguard\" titled \"Dragon Age: The Dreadwolf\". No StrategyWiki page under \"Dragon Age: The Veilguard\" or \"Dragon Age: Dreadwolf\". dragonage.fandom.com answers the API under \"Dragon Age: The Veilguard\" (\"Dragon Age: Dreadwolf\" redirects there), with about 186 linked pages, including \"Rook\", \"Minrathous\", \"Arlathan Forest\", \"Treviso\", \"Quests (The Veilguard)\" and companion pages such as \"Lace Harding\", \"Davrin\" and \"Taash\"; names only were looked at, nothing copied. The Steam schema calls the app \"Morrison(Game Jam)\" (an internal codename); the store list confirms app 1845910 as \"Dragon Age™: The Veilguard\". 43 of 52 Steam achievements are hidden. The 14 \"Part N\" achievements name the story parts, so they set the three story chapters (split by part number). The other 29 hidden ones sit in the hidden milestones chapter; they include six \"A Memory of...\" achievements, \"A Rook Likes Shiny Things\" and its follow-up, and four that follow Part 14 in the Steam list (\"The Ones That Last\", \"The Storm Quelled\", \"In Peace\", \"No Real Gods\") with lower rates, which may be endings; many others are probably companion or faction quests, but the data does not say. \"A Most Esteemed Purveyor\" (an invitation) sits with gear and merchants."
+}

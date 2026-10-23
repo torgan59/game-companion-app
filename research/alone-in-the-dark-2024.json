@@ -1,0 +1,399 @@
+{
+  "id": "alone-in-the-dark-2024",
+  "title": "Alone in the Dark",
+  "year": 2024,
+  "platforms": [
+    "PlayStation 5",
+    "PC",
+    "Xbox Series X|S"
+  ],
+  "rawgId": 849517,
+  "rawgSlug": "alone-in-the-dark-2022",
+  "released": "2024-03-20",
+  "developers": [
+    "Pieces Interactive"
+  ],
+  "playtime": null,
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "tags": [
+    "Horror",
+    "Cinematic",
+    "Noir",
+    "explore",
+    "psychological-horror",
+    "lovecraft"
+  ],
+  "coverUrl": "https://media.rawg.io/media/screenshots/719/7197c4abfd5cfac909548dce23b74daa.jpg",
+  "steamAppId": 1310410,
+  "achievements": {
+    "total": 38,
+    "hidden": 26,
+    "examples": [
+      {
+        "name": "Now You're On the Trolley!",
+        "percent": 85.0
+      },
+      {
+        "name": "Come At Me!",
+        "percent": 78.9
+      },
+      {
+        "name": "The Thin Veneer of Civilization",
+        "percent": 64.7
+      },
+      {
+        "name": "You Can’t Keep Me Out!",
+        "percent": 7.7
+      },
+      {
+        "name": "Librarian",
+        "percent": 4.8
+      },
+      {
+        "name": "Look At All the Free Stuff I Got!",
+        "percent": 4.3
+      },
+      {
+        "name": "Teetotaller",
+        "percent": 4.1
+      },
+      {
+        "name": "Alone in the Dark",
+        "percent": 2.5
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": false,
+      "pages": 0,
+      "reason": "No page for Alone in the Dark (MediaWiki API returned missing; see notes for other titles tried)"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 21,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://aloneinthedark.fandom.com/wiki/Alone_in_the_Dark_(2024)"
+    }
+  },
+  "game": {
+    "id": "alone-in-the-dark-2024",
+    "title": "Alone in the Dark",
+    "platforms": [
+      "PlayStation 5",
+      "PC",
+      "Xbox Series X|S"
+    ],
+    "blurb": "Psychological survival horror set in the 1920s American South, a reimagining of the original Alone in the Dark, from Pieces Interactive, released 2024-03-20. RAWG has no playtime yet. Genres: Action, Adventure. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#6B4F2A",
+    "chapters": [
+      {
+        "id": "main-story",
+        "title": "Derceto Manor and Beyond",
+        "summary": "The story of Edward Carnby and Emily Hartwood at Derceto Manor, with its many hidden milestones. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "combat",
+        "title": "Monsters and Weapons",
+        "summary": "Melee, ranged, fire, shotgun and opportunity kills, and breaking through barriers.",
+        "steps": []
+      },
+      {
+        "id": "collectibles",
+        "title": "Lagniappes, Clues and Safes",
+        "summary": "Finishing Lagniappe sets, finding them all, reading every clue and opening every safe and lock.",
+        "steps": []
+      },
+      {
+        "id": "challenges",
+        "title": "Completion Challenges",
+        "summary": "Finishing without drinking from the flask, and earning every achievement.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "The Thin Veneer of Civilization",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Break through a barrier"
+      },
+      {
+        "id": "achievement-2",
+        "name": "Whatever It Takes",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Kill a monster with an opportunity"
+      },
+      {
+        "id": "achievement-3",
+        "name": "Come At Me!",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Kill a monster with a melee weapon"
+      },
+      {
+        "id": "achievement-4",
+        "name": "Now You're On the Trolley!",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Kill a monster with a ranged weapon"
+      },
+      {
+        "id": "achievement-5",
+        "name": "On the Mend",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-6",
+        "name": "I Don’t Got All Night",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-7",
+        "name": "An Honest Day’s Work",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-8",
+        "name": "Welcome to Derceto",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-9",
+        "name": "In Between There Are Doors",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-10",
+        "name": "Left Holding the Bag",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-11",
+        "name": "Found & Lost",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-12",
+        "name": "Somewhere Else Entirely",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-13",
+        "name": "Drop Me Off In New Orleans",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-14",
+        "name": "Losing My Mind",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-15",
+        "name": "Where I Belong",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-16",
+        "name": "I Abandoned Him",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-17",
+        "name": "I Stole the Child and Let Him Drown",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-18",
+        "name": "When Therapy Makes It Worse",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-19",
+        "name": "The Past as a Present",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-20",
+        "name": "Frenzy",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-21",
+        "name": "Back to Normal",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-22",
+        "name": "Case Closed",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-23",
+        "name": "Safe and Sound",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-24",
+        "name": "Don’t Mind If I Do",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Finish a Lagniappe set"
+      },
+      {
+        "id": "achievement-25",
+        "name": "Watch Out Where You’re Waving That Thing",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-26",
+        "name": "What Just Happened?",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-27",
+        "name": "Nobody Knows What Happened",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-28",
+        "name": "Radical Acceptance",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-29",
+        "name": "One of the Thousand Young",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-30",
+        "name": "Bonfire Night",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Kill an enemy with fire"
+      },
+      {
+        "id": "achievement-31",
+        "name": "Hard Boiled",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Kill an enemy with shotgun"
+      },
+      {
+        "id": "achievement-32",
+        "name": "Gangster",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-33",
+        "name": "You Can’t Keep Me Out!",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Open all of the safes and locks in the game."
+      },
+      {
+        "id": "achievement-34",
+        "name": "Chatterbox",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-35",
+        "name": "Look At All the Free Stuff I Got!",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Find all the lagniappes"
+      },
+      {
+        "id": "achievement-36",
+        "name": "Teetotaller",
+        "kind": "trophy",
+        "chapterId": "challenges",
+        "where": "Finish the game without drinking from your flask"
+      },
+      {
+        "id": "achievement-37",
+        "name": "Librarian",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Read all the clues"
+      },
+      {
+        "id": "achievement-38",
+        "name": "Alone in the Dark",
+        "kind": "trophy",
+        "chapterId": "challenges",
+        "where": "All Achievements"
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/alone-in-the-dark-2022",
+    "Achievement data from Steam (Steam Web API, app 1310410)",
+    "StrategyWiki: no page for this game, nothing used",
+    "Fandom (aloneinthedark.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://aloneinthedark.fandom.com/wiki/Alone_in_the_Dark_(2024)"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). This is the 2024 remake; RAWG describes it as a \"reimagination of the classic survival horror game\". RAWG's entry uses the slug \"alone-in-the-dark-2022\" (id 849517) but gives the 2024-03-20 release date. It uses the remake's own Steam app, 1310410 (\"Alone in the Dark\"); app 1938800 is a separate \"Alone in the Dark Prologue\", and the older games have their own apps. No StrategyWiki page under \"Alone in the Dark (2024)\" or \"Alone in the Dark (2023)\". aloneinthedark.fandom.com answers under \"Alone in the Dark (2024)\" (\"Alone in the Dark (2023)\" redirects there), with about 21 linked pages, including \"Edward Carnby (2023)\", \"Emily Hartwood (2023)\", \"Lagniappes\" and \"Easter Eggs in Alone in the Dark (2024)\"; names only were looked at, nothing copied. 26 of 38 Steam achievements are hidden; all sit in the story chapter, though some with low unlock rates (\"I Don't Got All Night\" 3%, \"Chatterbox\" 3.2%, \"Radical Acceptance\" 4.1%, \"One of the Thousand Young\" 4.9%, \"Nobody Knows What Happened\" 5.5%) may be endings, second-character runs or side events. The setting words in the blurb come from RAWG's description."
+}
