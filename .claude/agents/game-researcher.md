@@ -43,14 +43,11 @@ The 20 games in `docs/PLAN.md` section 1 are pre-loaded in `research/state.json`
 
 ## Genre Filter
 
-Only AAA games (large studios, major publishers) in these genres:
-- Large open world
-- RPG
-- Action-adventure
-- Soulslike
-- Open-world racing
+AAA games only (large studios, major publishers), in **any genre**: open world, RPG, action-adventure, soulslike, racing, shooters, horror, roguelikes, fighting, platformers, strategy and so on. Tim widened the filter from five genres to all AAA games on 2026-10-23.
 
-No indie games, survival horror, roguelikes, small studios, or low-budget titles.
+Still excluded:
+- Indie games, small studios and low-budget titles.
+- Games with nothing to walk through: online-only multiplayer games with no story or solo content (battle royales, hero shooters, MMOs) and annual sports titles. A big-studio shooter with a single-player campaign is in; its multiplayer-only sibling is out.
 
 ## State File: `research/state.json`
 

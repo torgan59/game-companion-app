@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-20T21:33:06Z",
+  "updated": "2026-10-23T02:45:05Z",
   "currentYear": 2026,
   "queue": [
     {
@@ -364,25 +364,37 @@
       "slug": "saros",
       "title": "Saros",
       "year": 2026,
-      "status": "skipped",
-      "reason": "Roguelike action; docs/PLAN.md says Tim decides. Not researched.",
-      "route": "original"
+      "status": "in-progress",
+      "route": "original",
+      "note": "Re-queued 2026-10-23: genre filter widened to all AAA games.",
+      "rawgSlug": "saros",
+      "evidence": 1,
+      "evidenceSource": "RAWG players: 106 (added count); named in docs/PLAN.md section 2. Metacritic not listed on RAWG.",
+      "step": "rawg-fetch"
     },
     {
       "slug": "elden-ring-nightreign",
       "title": "Elden Ring Nightreign",
       "year": 2025,
-      "status": "skipped",
-      "reason": "Co-op roguelike, weak walkthrough fit (docs/PLAN.md). Not researched.",
-      "route": "original"
+      "status": "in-progress",
+      "route": "original",
+      "note": "Re-queued 2026-10-23: genre filter widened to all AAA games.",
+      "rawgSlug": "elden-ring-nightreign",
+      "evidence": 1,
+      "evidenceSource": "RAWG players: 174 (added count); named in docs/PLAN.md section 2. Metacritic not listed on RAWG.",
+      "step": "rawg-fetch"
     },
     {
       "slug": "dying-light-the-beast",
       "title": "Dying Light: The Beast",
       "year": 2025,
-      "status": "skipped",
-      "reason": "Survival horror, outside the genre filter. Not researched.",
-      "route": "original"
+      "status": "in-progress",
+      "route": "original",
+      "note": "Re-queued 2026-10-23: genre filter widened to all AAA games.",
+      "rawgSlug": "dying-light-the-beast",
+      "evidence": 1,
+      "evidenceSource": "RAWG players: 246 (added count); named in docs/PLAN.md section 2. Metacritic not listed on RAWG.",
+      "step": "rawg-fetch"
     },
     {
       "slug": "clair-obscur-expedition-33",
@@ -2493,6 +2505,2671 @@
       "status": "skipped",
       "reason": "Covered by divinity-original-sin-enhanced-edition.",
       "route": "original"
+    },
+    {
+      "slug": "resident-evil-requiem",
+      "title": "Resident Evil Requiem",
+      "year": 2026,
+      "status": "in-progress",
+      "evidence": 1,
+      "evidenceSource": "RAWG players: 629 (added count); Metacritic not listed on RAWG. All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "resident-evil-9-requiem",
+      "step": "rawg-fetch"
+    },
+    {
+      "slug": "resonance-a-plague-tale-legacy",
+      "title": "Resonance: A Plague Tale Legacy",
+      "year": 2026,
+      "status": "in-progress",
+      "evidence": 1,
+      "evidenceSource": "RAWG players: 172 (added count); Metacritic not listed on RAWG. All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "resonance-a-plague-tale-legacy",
+      "step": "rawg-fetch"
+    },
+    {
+      "slug": "gears-of-war-e-day",
+      "title": "Gears of War: E-Day",
+      "year": 2026,
+      "status": "in-progress",
+      "evidence": 1,
+      "evidenceSource": "RAWG players: 115 (added count); Metacritic not listed on RAWG. All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "gears-of-war-e-day",
+      "step": "rawg-fetch"
+    },
+    {
+      "slug": "star-wars-zero-company",
+      "title": "Star Wars Zero Company",
+      "year": 2026,
+      "status": "in-progress",
+      "evidence": 1,
+      "evidenceSource": "RAWG players: 61 (added count); Metacritic not listed on RAWG. All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "star-wars-zero-company",
+      "step": "rawg-fetch"
+    },
+    {
+      "slug": "halo-campaign-evolved",
+      "title": "Halo Campaign Evolved",
+      "year": 2026,
+      "status": "in-progress",
+      "evidence": 1,
+      "evidenceSource": "RAWG players: 55 (added count); Metacritic not listed on RAWG. All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "halo-campaign-evolved",
+      "step": "rawg-fetch"
+    },
+    {
+      "slug": "silent-hill-townfall",
+      "title": "Silent Hill: Townfall",
+      "year": 2026,
+      "status": "in-progress",
+      "evidence": 1,
+      "evidenceSource": "RAWG players: 50 (added count); Metacritic not listed on RAWG. All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "silent-hill-townfall-2",
+      "step": "rawg-fetch"
+    },
+    {
+      "slug": "castlevania-belmonts-curse",
+      "title": "Castlevania: Belmont's Curse",
+      "year": 2026,
+      "status": "in-progress",
+      "evidence": 1,
+      "evidenceSource": "RAWG players: 42 (added count); Metacritic not listed on RAWG. All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "castlevania-belmonts-curse",
+      "step": "rawg-fetch"
+    },
+    {
+      "slug": "ace-combat-8-wings-of-theve",
+      "title": "Ace Combat 8: Wings of Theve",
+      "year": 2026,
+      "status": "in-progress",
+      "evidence": 1,
+      "evidenceSource": "RAWG players: 38 (added count); Metacritic not listed on RAWG. All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "ace-combat-8-wings-of-theve",
+      "step": "rawg-fetch"
+    },
+    {
+      "slug": "pokemon-pokopia",
+      "title": "Pokémon Pokopia",
+      "year": 2026,
+      "status": "in-progress",
+      "evidence": 1,
+      "evidenceSource": "RAWG players: 38 (added count); Metacritic not listed on RAWG. All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "pokemon-pokopia",
+      "step": "rawg-fetch"
+    },
+    {
+      "slug": "dragon-quest-vii-reimagined",
+      "title": "Dragon Quest VII Reimagined",
+      "year": 2026,
+      "status": "in-progress",
+      "evidence": 1,
+      "evidenceSource": "RAWG players: 33 (added count); Metacritic not listed on RAWG. All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "dragon-quest-vii-reimagined",
+      "step": "rawg-fetch"
+    },
+    {
+      "slug": "fatal-frame-ii-crimson-butterfly-remake",
+      "title": "FATAL FRAME II: Crimson Butterfly REMAKE",
+      "year": 2026,
+      "status": "in-progress",
+      "evidence": 1,
+      "evidenceSource": "RAWG players: 33 (added count); Metacritic not listed on RAWG. All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "fatal-frame-ii-crimson-butterfly-remake",
+      "step": "rawg-fetch"
+    },
+    {
+      "slug": "doom-the-dark-ages",
+      "title": "Doom: The Dark Ages",
+      "year": 2025,
+      "status": "in-progress",
+      "evidence": 1,
+      "evidenceSource": "RAWG players: 549 (added count); Metacritic not listed on RAWG. All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "doom-the-dark-ages",
+      "step": "rawg-fetch"
+    },
+    {
+      "slug": "silent-hill-f",
+      "title": "Silent Hill f",
+      "year": 2025,
+      "status": "in-progress",
+      "evidence": 1,
+      "evidenceSource": "RAWG players: 386 (added count); Metacritic not listed on RAWG. All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "silent-hill-f",
+      "step": "rawg-fetch"
+    },
+    {
+      "slug": "little-nightmares-iii",
+      "title": "Little Nightmares III",
+      "year": 2025,
+      "status": "in-progress",
+      "evidence": 1,
+      "evidenceSource": "RAWG players: 269 (added count); Metacritic not listed on RAWG. All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "little-nightmares-iii",
+      "step": "rawg-fetch"
+    },
+    {
+      "slug": "battlefield-6",
+      "title": "Battlefield 6",
+      "year": 2025,
+      "status": "in-progress",
+      "evidence": 1,
+      "evidenceSource": "RAWG players: 253 (added count); Metacritic not listed on RAWG. All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "battlefield-6-2",
+      "step": "rawg-fetch"
+    },
+    {
+      "slug": "borderlands-4",
+      "title": "Borderlands 4",
+      "year": 2025,
+      "status": "in-progress",
+      "evidence": 1,
+      "evidenceSource": "RAWG players: 226 (added count); Metacritic not listed on RAWG. All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "borderlands-4",
+      "step": "rawg-fetch"
+    },
+    {
+      "slug": "dragon-ball-sparking-zero",
+      "title": "DRAGON BALL: Sparking! ZERO",
+      "year": 2025,
+      "status": "in-progress",
+      "evidence": 1,
+      "evidenceSource": "RAWG players: 168 (added count); Metacritic not listed on RAWG. All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "dragon-ball-sparking-zero",
+      "step": "rawg-fetch"
+    },
+    {
+      "slug": "ninja-gaiden-2-black",
+      "title": "Ninja Gaiden 2 Black",
+      "year": 2025,
+      "status": "in-progress",
+      "evidence": 1,
+      "evidenceSource": "RAWG players: 151 (added count); Metacritic not listed on RAWG. All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "ninja-gaiden-2-black",
+      "step": "rawg-fetch"
+    },
+    {
+      "slug": "like-a-dragon-pirate-yakuza-in-hawaii",
+      "title": "Like a Dragon: Pirate Yakuza in Hawaii",
+      "year": 2025,
+      "status": "in-progress",
+      "evidence": 1,
+      "evidenceSource": "RAWG players: 144 (added count); Metacritic not listed on RAWG. All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "like-a-dragon-pirate-yakuza-in-hawaii",
+      "step": "rawg-fetch"
+    },
+    {
+      "slug": "donkey-kong-bananza",
+      "title": "Donkey Kong Bananza",
+      "year": 2025,
+      "status": "in-progress",
+      "evidence": 1,
+      "evidenceSource": "RAWG players: 131 (added count); Metacritic not listed on RAWG. All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "donkey-kong-bananza",
+      "step": "rawg-fetch"
+    },
+    {
+      "slug": "lost-soul-aside",
+      "title": "Lost Soul Aside",
+      "year": 2025,
+      "status": "in-progress",
+      "evidence": 1,
+      "evidenceSource": "RAWG players: 129 (added count); Metacritic not listed on RAWG. All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "lost-soul-aside",
+      "step": "rawg-fetch"
+    },
+    {
+      "slug": "mario-kart-world",
+      "title": "Mario Kart World",
+      "year": 2025,
+      "status": "in-progress",
+      "evidence": 1,
+      "evidenceSource": "RAWG players: 123 (added count); Metacritic not listed on RAWG. All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "mario-kart-world",
+      "step": "rawg-fetch"
+    },
+    {
+      "slug": "sid-meiers-civilization-vii",
+      "title": "Sid Meier's Civilization VII",
+      "year": 2025,
+      "status": "in-progress",
+      "evidence": 1,
+      "evidenceSource": "RAWG players: 113 (added count); Metacritic not listed on RAWG. All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "sid-meiers-civilization-vii",
+      "step": "rawg-fetch"
+    },
+    {
+      "slug": "s-t-a-l-k-e-r-2-heart-of-chornobyl",
+      "title": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
+      "year": 2024,
+      "status": "in-progress",
+      "evidence": 1,
+      "evidenceSource": "RAWG players: 2221 (added count); Metacritic not listed on RAWG. All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "stalker-2",
+      "step": "rawg-fetch"
+    },
+    {
+      "slug": "silent-hill-2-2024",
+      "title": "Silent Hill 2 (2024)",
+      "year": 2024,
+      "status": "in-progress",
+      "evidence": 1,
+      "evidenceSource": "RAWG players: 963 (added count); Metacritic not listed on RAWG. All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "silent-hill-2-remake",
+      "step": "rawg-fetch"
+    },
+    {
+      "slug": "warhammer-40-000-space-marine-ii",
+      "title": "Warhammer 40,000: Space Marine II",
+      "year": 2024,
+      "status": "queued",
+      "evidence": 1,
+      "evidenceSource": "RAWG players: 688 (added count); Metacritic not listed on RAWG. All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "warhammer-40000-space-marine-ii"
+    },
+    {
+      "slug": "suicide-squad-kill-the-justice-league",
+      "title": "Suicide Squad: Kill The Justice League",
+      "year": 2024,
+      "status": "queued",
+      "evidence": 1,
+      "evidenceSource": "RAWG players: 500 (added count); Metacritic not listed on RAWG. All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "suicide-squad-kill-the-justice-league"
+    },
+    {
+      "slug": "alone-in-the-dark-2024",
+      "title": "Alone in the Dark (2024)",
+      "year": 2024,
+      "status": "queued",
+      "evidence": 1,
+      "evidenceSource": "RAWG players: 421 (added count); Metacritic not listed on RAWG. All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "alone-in-the-dark-2022"
+    },
+    {
+      "slug": "tekken-8",
+      "title": "Tekken 8",
+      "year": 2024,
+      "status": "queued",
+      "evidence": 1,
+      "evidenceSource": "RAWG players: 390 (added count); Metacritic not listed on RAWG. All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "tekken-8"
+    },
+    {
+      "slug": "astro-bot",
+      "title": "Astro Bot",
+      "year": 2024,
+      "status": "queued",
+      "evidence": 1,
+      "evidenceSource": "RAWG players: 369 (added count); Metacritic not listed on RAWG. All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "astro-bot"
+    },
+    {
+      "slug": "call-of-duty-black-ops-6",
+      "title": "Call of Duty: Black Ops 6",
+      "year": 2024,
+      "status": "queued",
+      "evidence": 1,
+      "evidenceSource": "RAWG players: 342 (added count); Metacritic not listed on RAWG. All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "call-of-duty-black-ops-6"
+    },
+    {
+      "slug": "dragon-age-the-veilguard",
+      "title": "Dragon Age: The Veilguard",
+      "year": 2024,
+      "status": "queued",
+      "evidence": 1,
+      "evidenceSource": "RAWG players: 309 (added count); Metacritic not listed on RAWG. All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "dragon-age-4-tba"
+    },
+    {
+      "slug": "like-a-dragon-infinite-wealth",
+      "title": "Like a Dragon: Infinite Wealth",
+      "year": 2024,
+      "status": "queued",
+      "evidence": 1,
+      "evidenceSource": "RAWG players: 307 (added count); Metacritic not listed on RAWG. All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "like-a-dragon-infinite-wealth"
+    },
+    {
+      "slug": "rise-of-the-ronin",
+      "title": "Rise of the Ronin",
+      "year": 2024,
+      "status": "queued",
+      "evidence": 1,
+      "evidenceSource": "RAWG players: 284 (added count); Metacritic not listed on RAWG. All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "rise-of-the-ronin"
+    },
+    {
+      "slug": "granblue-fantasy-relink",
+      "title": "Granblue Fantasy: Relink",
+      "year": 2024,
+      "status": "queued",
+      "evidence": 1,
+      "evidenceSource": "RAWG players: 277 (added count); Metacritic not listed on RAWG. All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "granblue-fantasy-relink"
+    },
+    {
+      "slug": "until-dawn-remake",
+      "title": "Until Dawn (Remake)",
+      "year": 2024,
+      "status": "queued",
+      "evidence": 1,
+      "evidenceSource": "RAWG players: 264 (added count); Metacritic not listed on RAWG. All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "until-dawn-2"
+    },
+    {
+      "slug": "unknown-9-awakening",
+      "title": "Unknown 9: Awakening",
+      "year": 2024,
+      "status": "queued",
+      "evidence": 1,
+      "evidenceSource": "RAWG players: 247 (added count); Metacritic not listed on RAWG. All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "unknown-9"
+    },
+    {
+      "slug": "atomic-heart",
+      "title": "Atomic Heart",
+      "year": 2023,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 2316 (added count); Metacritic 73 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "atomic-heart"
+    },
+    {
+      "slug": "dead-island-2",
+      "title": "Dead Island 2",
+      "year": 2023,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 1070 (added count); Metacritic 75 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "dead-island-2"
+    },
+    {
+      "slug": "resident-evil-4-2023",
+      "title": "Resident Evil 4 (2023)",
+      "year": 2023,
+      "status": "queued",
+      "evidence": 1,
+      "evidenceSource": "RAWG players: 2367 (added count); Metacritic not listed on RAWG. All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "resident-evil-4-2023"
+    },
+    {
+      "slug": "dead-space-2023",
+      "title": "Dead Space (2023)",
+      "year": 2023,
+      "status": "queued",
+      "evidence": 1,
+      "evidenceSource": "RAWG players: 1929 (added count); Metacritic not listed on RAWG. All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "dead-space-5"
+    },
+    {
+      "slug": "alan-wake-2",
+      "title": "Alan Wake 2",
+      "year": 2023,
+      "status": "queued",
+      "evidence": 1,
+      "evidenceSource": "RAWG players: 1722 (added count); Metacritic not listed on RAWG. All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "alan-wake-2"
+    },
+    {
+      "slug": "hi-fi-rush",
+      "title": "Hi-Fi Rush",
+      "year": 2023,
+      "status": "queued",
+      "evidence": 1,
+      "evidenceSource": "RAWG players: 1666 (added count); Metacritic not listed on RAWG. All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "hi-fi-rush"
+    },
+    {
+      "slug": "super-mario-bros-wonder",
+      "title": "Super Mario Bros. Wonder",
+      "year": 2023,
+      "status": "queued",
+      "evidence": 1,
+      "evidenceSource": "RAWG players: 605 (added count); Metacritic not listed on RAWG. All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "super-mario-bros-wonder"
+    },
+    {
+      "slug": "mortal-kombat-1",
+      "title": "Mortal Kombat 1",
+      "year": 2023,
+      "status": "queued",
+      "evidence": 1,
+      "evidenceSource": "RAWG players: 505 (added count); Metacritic not listed on RAWG. All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "mortal-kombat-1-2023"
+    },
+    {
+      "slug": "street-fighter-6",
+      "title": "Street Fighter 6",
+      "year": 2023,
+      "status": "queued",
+      "evidence": 1,
+      "evidenceSource": "RAWG players: 502 (added count); Metacritic not listed on RAWG. All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "street-fighter-6"
+    },
+    {
+      "slug": "lords-of-the-fallen-2023",
+      "title": "Lords of the Fallen (2023)",
+      "year": 2023,
+      "status": "queued",
+      "evidence": 1,
+      "evidenceSource": "RAWG players: 424 (added count); Metacritic not listed on RAWG. All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "lords-of-the-fallen-2"
+    },
+    {
+      "slug": "avatar-frontiers-of-pandora",
+      "title": "Avatar: Frontiers of Pandora",
+      "year": 2023,
+      "status": "queued",
+      "evidence": 1,
+      "evidenceSource": "RAWG players: 419 (added count); Metacritic not listed on RAWG. All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "avatar-frontiers-of-pandora"
+    },
+    {
+      "slug": "redfall",
+      "title": "Redfall",
+      "year": 2023,
+      "status": "queued",
+      "evidence": 1,
+      "evidenceSource": "RAWG players: 403 (added count); Metacritic not listed on RAWG. All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "redfall"
+    },
+    {
+      "slug": "warhammer-40-000-rogue-trader",
+      "title": "Warhammer 40,000: Rogue Trader",
+      "year": 2023,
+      "status": "queued",
+      "evidence": 1,
+      "evidenceSource": "RAWG players: 400 (added count); Metacritic not listed on RAWG. All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "warhammer-40000-rogue-trader"
+    },
+    {
+      "slug": "like-a-dragon-ishin",
+      "title": "Like a Dragon: Ishin!",
+      "year": 2023,
+      "status": "queued",
+      "evidence": 1,
+      "evidenceSource": "RAWG players: 376 (added count); Metacritic not listed on RAWG. All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "like-a-dragon-ishin"
+    },
+    {
+      "slug": "dying-light-2-stay-human",
+      "title": "Dying Light 2 Stay Human",
+      "year": 2022,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 3267 (added count); Metacritic 77 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "dying-light-2"
+    },
+    {
+      "slug": "ghostwire-tokyo",
+      "title": "Ghostwire: Tokyo",
+      "year": 2022,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 2140 (added count); Metacritic 78 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "ghostwire-tokio"
+    },
+    {
+      "slug": "the-callisto-protocol",
+      "title": "The Callisto Protocol",
+      "year": 2022,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 1603 (added count); Metacritic 69 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "the-calisto-protocol"
+    },
+    {
+      "slug": "total-war-warhammer-iii",
+      "title": "Total War: WARHAMMER III",
+      "year": 2022,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 768 (added count); Metacritic 85 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "total-war-warhammer-iii"
+    },
+    {
+      "slug": "a-plague-tale-requiem",
+      "title": "A Plague Tale: Requiem",
+      "year": 2022,
+      "status": "queued",
+      "evidence": 1,
+      "evidenceSource": "RAWG players: 2681 (added count); Metacritic not listed on RAWG. All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "a-plague-tale-requiem"
+    },
+    {
+      "slug": "the-quarry",
+      "title": "The Quarry",
+      "year": 2022,
+      "status": "queued",
+      "evidence": 1,
+      "evidenceSource": "RAWG players: 1952 (added count); Metacritic not listed on RAWG. All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "the-quarry-3"
+    },
+    {
+      "slug": "call-of-duty-modern-warfare-ii",
+      "title": "Call of Duty: Modern Warfare II",
+      "year": 2022,
+      "status": "queued",
+      "evidence": 1,
+      "evidenceSource": "RAWG players: 1429 (added count); Metacritic not listed on RAWG. All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "call-of-duty-modern-warfare-ii"
+    },
+    {
+      "slug": "tiny-tinas-wonderlands",
+      "title": "Tiny Tina's Wonderlands",
+      "year": 2022,
+      "status": "queued",
+      "evidence": 1,
+      "evidenceSource": "RAWG players: 1302 (added count); Metacritic not listed on RAWG. All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "tiny-tinas-wonderlands"
+    },
+    {
+      "slug": "sniper-elite-5",
+      "title": "Sniper Elite 5",
+      "year": 2022,
+      "status": "queued",
+      "evidence": 1,
+      "evidenceSource": "RAWG players: 1243 (added count); Metacritic not listed on RAWG. All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "sniper-elite-5"
+    },
+    {
+      "slug": "marvels-midnight-suns",
+      "title": "Marvel's Midnight Suns",
+      "year": 2022,
+      "status": "queued",
+      "evidence": 1,
+      "evidenceSource": "RAWG players: 991 (added count); Metacritic not listed on RAWG. All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "marvels-midnight-suns"
+    },
+    {
+      "slug": "halo-infinite",
+      "title": "Halo Infinite",
+      "year": 2021,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 7888 (added count); Metacritic 84 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "halo-infinite"
+    },
+    {
+      "slug": "it-takes-two",
+      "title": "It Takes Two",
+      "year": 2021,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 5711 (added count); Metacritic 88 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "it-takes-two-2"
+    },
+    {
+      "slug": "resident-evil-village",
+      "title": "Resident Evil: Village",
+      "year": 2021,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 5210 (added count); Metacritic 83 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "resident-evil-village"
+    },
+    {
+      "slug": "deathloop",
+      "title": "Deathloop",
+      "year": 2021,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 4569 (added count); Metacritic 88 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "deathloop-2"
+    },
+    {
+      "slug": "psychonauts-2",
+      "title": "Psychonauts 2",
+      "year": 2021,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 2921 (added count); Metacritic 88 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "psychonauts-2"
+    },
+    {
+      "slug": "back-4-blood",
+      "title": "Back 4 Blood",
+      "year": 2021,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 2893 (added count); Metacritic 76 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "back-4-blood"
+    },
+    {
+      "slug": "little-nightmares-ii",
+      "title": "Little Nightmares II",
+      "year": 2021,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 2714 (added count); Metacritic 82 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "little-nightmares-ii"
+    },
+    {
+      "slug": "hitman-3",
+      "title": "Hitman 3",
+      "year": 2021,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 2516 (added count); Metacritic 83 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "hitman-3"
+    },
+    {
+      "slug": "outriders",
+      "title": "Outriders",
+      "year": 2021,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 2438 (added count); Metacritic 73 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "outriders"
+    },
+    {
+      "slug": "returnal",
+      "title": "Returnal",
+      "year": 2021,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 1860 (added count); Metacritic 86 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "returnal"
+    },
+    {
+      "slug": "diablo-ii-resurrected",
+      "title": "Diablo II: Resurrected",
+      "year": 2021,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 1322 (added count); Metacritic 80 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "diablo-ii-resurrected"
+    },
+    {
+      "slug": "humankind",
+      "title": "Humankind",
+      "year": 2021,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 1303 (added count); Metacritic 77 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "humankind"
+    },
+    {
+      "slug": "age-of-empires-iv",
+      "title": "Age of Empires IV",
+      "year": 2021,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 1298 (added count); Metacritic 81 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "age-of-empires-iv"
+    },
+    {
+      "slug": "life-is-strange-true-colors",
+      "title": "Life is Strange: True Colors",
+      "year": 2021,
+      "status": "queued",
+      "evidence": 1,
+      "evidenceSource": "RAWG players: 1872 (added count); Metacritic not listed on RAWG. All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "life-is-strange-true-colors"
+    },
+    {
+      "slug": "call-of-duty-vanguard",
+      "title": "Call of Duty: Vanguard",
+      "year": 2021,
+      "status": "queued",
+      "evidence": 1,
+      "evidenceSource": "RAWG players: 1195 (added count); Metacritic not listed on RAWG. All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "call-of-duty-vanguard"
+    },
+    {
+      "slug": "grand-theft-auto-san-andreas-the-definitive-edition",
+      "title": "Grand Theft Auto: San Andreas - The Definitive Edition",
+      "year": 2021,
+      "status": "queued",
+      "evidence": 1,
+      "evidenceSource": "RAWG players: 1193 (added count); Metacritic not listed on RAWG. All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "grand-theft-auto-san-andreas-the-definitive-editio"
+    },
+    {
+      "slug": "doom-eternal",
+      "title": "Doom Eternal",
+      "year": 2020,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 8038 (added count); Metacritic 86 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "doom-eternal"
+    },
+    {
+      "slug": "resident-evil-3-2020",
+      "title": "Resident Evil 3 (2020)",
+      "year": 2020,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 5422 (added count); Metacritic 80 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "resident-evil-3"
+    },
+    {
+      "slug": "half-life-alyx",
+      "title": "Half-Life: Alyx",
+      "year": 2020,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 3213 (added count); Metacritic 93 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "half-life-alyx"
+    },
+    {
+      "slug": "crusader-kings-iii",
+      "title": "Crusader Kings III",
+      "year": 2020,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 2865 (added count); Metacritic 86 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "crusader-kings-iii"
+    },
+    {
+      "slug": "dirt-5",
+      "title": "DiRT 5",
+      "year": 2020,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 2714 (added count); Metacritic 79 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "dirt-5"
+    },
+    {
+      "slug": "star-wars-squadrons",
+      "title": "Star Wars: Squadrons",
+      "year": 2020,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 2615 (added count); Metacritic 79 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "star-wars-squadrons"
+    },
+    {
+      "slug": "call-of-duty-black-ops-cold-war",
+      "title": "Call of Duty: Black Ops Cold War",
+      "year": 2020,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 2601 (added count); Metacritic 76 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "call-of-duty-black-ops-cold-war"
+    },
+    {
+      "slug": "astros-playroom",
+      "title": "Astro's Playroom",
+      "year": 2020,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 2546 (added count); Metacritic 83 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "astros-playroom"
+    },
+    {
+      "slug": "xcom-chimera-squad",
+      "title": "XCOM: Chimera Squad",
+      "year": 2020,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 2100 (added count); Metacritic 77 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "xcom-chimera-squad"
+    },
+    {
+      "slug": "animal-crossing-new-horizons",
+      "title": "Animal Crossing: New Horizons",
+      "year": 2020,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 1870 (added count); Metacritic 90 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "animal-crossing-2019"
+    },
+    {
+      "slug": "tony-hawks-pro-skater-1-2",
+      "title": "Tony Hawk's Pro Skater 1 + 2",
+      "year": 2020,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 1816 (added count); Metacritic 88 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "tony-hawks-pro-skater-12"
+    },
+    {
+      "slug": "crash-bandicoot-4-its-about-time",
+      "title": "Crash Bandicoot 4: It's About Time",
+      "year": 2020,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 1743 (added count); Metacritic 84 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "crash-bandicoot-4-its-about-time"
+    },
+    {
+      "slug": "gears-tactics",
+      "title": "Gears Tactics",
+      "year": 2020,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 1682 (added count); Metacritic 81 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "gears-tactics"
+    },
+    {
+      "slug": "call-of-duty-modern-warfare-2-campaign-remastered",
+      "title": "Call of Duty: Modern Warfare 2 Campaign Remastered",
+      "year": 2020,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 1658 (added count); Metacritic 71 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "call-of-duty-modern-warfare-2-campaign-remastered"
+    },
+    {
+      "slug": "metro-exodus",
+      "title": "Metro Exodus",
+      "year": 2019,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 8434 (added count); Metacritic 81 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "metro-exodus"
+    },
+    {
+      "slug": "a-plague-tale-innocence",
+      "title": "A Plague Tale: Innocence",
+      "year": 2019,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 7182 (added count); Metacritic 82 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "a-plague-tale-innocence"
+    },
+    {
+      "slug": "borderlands-3",
+      "title": "Borderlands 3",
+      "year": 2019,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 6281 (added count); Metacritic 83 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "borderlands-3"
+    },
+    {
+      "slug": "mortal-kombat-11",
+      "title": "Mortal Kombat 11",
+      "year": 2019,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 5757 (added count); Metacritic 82 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "mortal-kombat-11"
+    },
+    {
+      "slug": "resident-evil-2-2019",
+      "title": "Resident Evil 2 (2019)",
+      "year": 2019,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 5629 (added count); Metacritic 91 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "resident-evil-2-2019"
+    },
+    {
+      "slug": "gears-5",
+      "title": "Gears 5",
+      "year": 2019,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 4535 (added count); Metacritic 83 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "gears-5"
+    },
+    {
+      "slug": "call-of-duty-modern-warfare-2019",
+      "title": "Call of Duty: Modern Warfare (2019)",
+      "year": 2019,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 3993 (added count); Metacritic 80 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "call-of-duty-modern-warfare"
+    },
+    {
+      "slug": "tom-clancys-the-division-2",
+      "title": "Tom Clancy's The Division 2",
+      "year": 2019,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 3299 (added count); Metacritic 83 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "division-2"
+    },
+    {
+      "slug": "rage-2",
+      "title": "Rage 2",
+      "year": 2019,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 2970 (added count); Metacritic 71 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "rage-2"
+    },
+    {
+      "slug": "wolfenstein-youngblood",
+      "title": "Wolfenstein: Youngblood",
+      "year": 2019,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 2446 (added count); Metacritic 66 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "wolfenstein-youngblood"
+    },
+    {
+      "slug": "age-of-empires-ii-definitive-edition",
+      "title": "Age of Empires II: Definitive Edition",
+      "year": 2019,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 2294 (added count); Metacritic 85 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "age-of-empires-2-definitive-edition"
+    },
+    {
+      "slug": "ace-combat-7-skies-unknown",
+      "title": "ACE COMBAT 7: SKIES UNKNOWN",
+      "year": 2019,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 1997 (added count); Metacritic 79 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "ace-combat-7"
+    },
+    {
+      "slug": "the-surge-2",
+      "title": "The Surge 2",
+      "year": 2019,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 1991 (added count); Metacritic 76 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "the-surge-2"
+    },
+    {
+      "slug": "crash-team-racing-nitro-fueled",
+      "title": "Crash Team Racing Nitro-Fueled",
+      "year": 2019,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 1676 (added count); Metacritic 82 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "crash-team-racing-nitro-fueled"
+    },
+    {
+      "slug": "the-legend-of-zelda-links-awakening-2019",
+      "title": "The Legend of Zelda: Link's Awakening (2019)",
+      "year": 2019,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 1607 (added count); Metacritic 87 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "the-legend-of-zelda-links-awakening"
+    },
+    {
+      "slug": "ni-no-kuni-wrath-of-the-white-witch-remastered",
+      "title": "Ni no Kuni: Wrath of the White Witch Remastered",
+      "year": 2019,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 1573 (added count); Metacritic 84 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "ni-no-kuni-wrath-of-the-white-witch-remastered"
+    },
+    {
+      "slug": "detroit-become-human",
+      "title": "Detroit: Become Human",
+      "year": 2018,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 10538 (added count); Metacritic 79 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "detroit-become-human"
+    },
+    {
+      "slug": "hitman-2",
+      "title": "Hitman 2",
+      "year": 2018,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 8102 (added count); Metacritic 83 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "hitman-2"
+    },
+    {
+      "slug": "a-way-out",
+      "title": "A Way Out",
+      "year": 2018,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 5969 (added count); Metacritic 78 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "a-way-out-2018"
+    },
+    {
+      "slug": "battlefield-v",
+      "title": "Battlefield V",
+      "year": 2018,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 4999 (added count); Metacritic 77 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "battlefield-v"
+    },
+    {
+      "slug": "life-is-strange-2",
+      "title": "Life is Strange 2",
+      "year": 2018,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 4808 (added count); Metacritic 75 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "life-is-strange-2"
+    },
+    {
+      "slug": "spyro-reignited-trilogy",
+      "title": "Spyro Reignited Trilogy",
+      "year": 2018,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 4325 (added count); Metacritic 80 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "spyro-reignited-trilogy"
+    },
+    {
+      "slug": "fallout-76",
+      "title": "Fallout 76",
+      "year": 2018,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 4042 (added count); Metacritic 51 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "fallout-76"
+    },
+    {
+      "slug": "dragon-ball-fighterz",
+      "title": "DRAGON BALL FighterZ",
+      "year": 2018,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 2766 (added count); Metacritic 86 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "dragon-ball-fighterz"
+    },
+    {
+      "slug": "ni-no-kuni-ii-revenant-kingdom",
+      "title": "Ni no Kuni II: Revenant Kingdom",
+      "year": 2018,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 2712 (added count); Metacritic 82 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "ni-no-kuni-ii-revenant-kingdom"
+    },
+    {
+      "slug": "burnout-paradise-remastered",
+      "title": "Burnout Paradise Remastered",
+      "year": 2018,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 2468 (added count); Metacritic 80 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "burnout-paradise-remastered"
+    },
+    {
+      "slug": "thronebreaker-the-witcher-tales",
+      "title": "Thronebreaker: The Witcher Tales",
+      "year": 2018,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 2453 (added count); Metacritic 83 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "gwent-thronebreaker"
+    },
+    {
+      "slug": "soulcalibur-vi",
+      "title": "SoulCalibur VI",
+      "year": 2018,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 2323 (added count); Metacritic 83 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "soulcalibur-vi"
+    },
+    {
+      "slug": "super-smash-bros-ultimate",
+      "title": "Super Smash Bros. Ultimate",
+      "year": 2018,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 2267 (added count); Metacritic 93 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "super-smash-bros-ultimate"
+    },
+    {
+      "slug": "destiny-2",
+      "title": "Destiny 2",
+      "year": 2017,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 14602 (added count); Metacritic 82 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "destiny-2"
+    },
+    {
+      "slug": "little-nightmares",
+      "title": "Little Nightmares",
+      "year": 2017,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 11716 (added count); Metacritic 81 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "little-nightmares"
+    },
+    {
+      "slug": "prey-2017",
+      "title": "Prey (2017)",
+      "year": 2017,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 10290 (added count); Metacritic 80 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "prey"
+    },
+    {
+      "slug": "resident-evil-7-biohazard",
+      "title": "Resident Evil 7: Biohazard",
+      "year": 2017,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 8847 (added count); Metacritic 85 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "resident-evil-7-biohazard"
+    },
+    {
+      "slug": "wolfenstein-ii-the-new-colossus",
+      "title": "Wolfenstein II: The New Colossus",
+      "year": 2017,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 7325 (added count); Metacritic 86 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "wolfenstein-2-the-new-colossus"
+    },
+    {
+      "slug": "call-of-duty-wwii",
+      "title": "Call of Duty: WWII",
+      "year": 2017,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 6520 (added count); Metacritic 77 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "call-of-duty-wwii"
+    },
+    {
+      "slug": "star-wars-battlefront-ii",
+      "title": "STAR WARS Battlefront II",
+      "year": 2017,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 5956 (added count); Metacritic 74 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "star-wars-battlefront-2"
+    },
+    {
+      "slug": "crash-bandicoot-n-sane-trilogy",
+      "title": "Crash Bandicoot N. Sane Trilogy",
+      "year": 2017,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 4891 (added count); Metacritic 81 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "crash-bandicoot-n-sane-trilogy"
+    },
+    {
+      "slug": "sniper-elite-4",
+      "title": "Sniper Elite 4",
+      "year": 2017,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 4835 (added count); Metacritic 78 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "sniper-elite-4"
+    },
+    {
+      "slug": "the-lego-ninjago-movie-video-game",
+      "title": "The LEGO NINJAGO Movie Video Game",
+      "year": 2017,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 4731 (added count); Metacritic 70 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "the-lego-ninjago-movie-video-game"
+    },
+    {
+      "slug": "injustice-2",
+      "title": "Injustice 2",
+      "year": 2017,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 4639 (added count); Metacritic 88 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "injustice-2"
+    },
+    {
+      "slug": "the-evil-within-2",
+      "title": "The Evil Within 2",
+      "year": 2017,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 4498 (added count); Metacritic 82 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "the-evil-within-2"
+    },
+    {
+      "slug": "life-is-strange-before-the-storm",
+      "title": "Life is Strange: Before The Storm",
+      "year": 2017,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 4477 (added count); Metacritic 77 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "life-is-strange-before-storm"
+    },
+    {
+      "slug": "super-mario-odyssey",
+      "title": "Super Mario Odyssey",
+      "year": 2017,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 3938 (added count); Metacritic 97 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "super-mario-odyssey"
+    },
+    {
+      "slug": "tom-clancys-ghost-recon-wildlands",
+      "title": "Tom Clancy's Ghost Recon Wildlands",
+      "year": 2017,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 3836 (added count); Metacritic 72 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "tom-clancys-ghost-recon-wildlands-2"
+    },
+    {
+      "slug": "doom-2016",
+      "title": "Doom (2016)",
+      "year": 2016,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 14093 (added count); Metacritic 85 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "doom"
+    },
+    {
+      "slug": "hitman-2016",
+      "title": "Hitman (2016)",
+      "year": 2016,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 10912 (added count); Metacritic 83 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "hitman"
+    },
+    {
+      "slug": "titanfall-2",
+      "title": "Titanfall 2",
+      "year": 2016,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 8747 (added count); Metacritic 87 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "titanfall-2"
+    },
+    {
+      "slug": "battlefield-1",
+      "title": "Battlefield 1",
+      "year": 2016,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 7808 (added count); Metacritic 88 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "battlefield-1"
+    },
+    {
+      "slug": "xcom-2",
+      "title": "XCOM 2",
+      "year": 2016,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 7722 (added count); Metacritic 88 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "xcom-2"
+    },
+    {
+      "slug": "sid-meiers-civilization-vi",
+      "title": "Sid Meier's Civilization VI",
+      "year": 2016,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 7509 (added count); Metacritic 88 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "civilization-vi"
+    },
+    {
+      "slug": "quantum-break",
+      "title": "Quantum Break",
+      "year": 2016,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 6845 (added count); Metacritic 66 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "quantum-break"
+    },
+    {
+      "slug": "tom-clancys-the-division",
+      "title": "Tom Clancy's The Division",
+      "year": 2016,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 6146 (added count); Metacritic 80 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "tom-clancys-the-division"
+    },
+    {
+      "slug": "stellaris",
+      "title": "Stellaris",
+      "year": 2016,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 5186 (added count); Metacritic 78 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "stellaris"
+    },
+    {
+      "slug": "call-of-duty-modern-warfare-remastered",
+      "title": "Call of Duty: Modern Warfare Remastered",
+      "year": 2016,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 4664 (added count); Metacritic 86 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "call-of-duty-modern-warfare-remastered"
+    },
+    {
+      "slug": "street-fighter-v",
+      "title": "Street Fighter V",
+      "year": 2016,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 4512 (added count); Metacritic 74 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "street-fighter-v"
+    },
+    {
+      "slug": "far-cry-primal",
+      "title": "Far Cry Primal",
+      "year": 2016,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 3854 (added count); Metacritic 74 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "far-cry-primal"
+    },
+    {
+      "slug": "call-of-duty-infinite-warfare",
+      "title": "Call of Duty: Infinite Warfare",
+      "year": 2016,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 3312 (added count); Metacritic 73 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "call-of-duty-infinite-warfare"
+    },
+    {
+      "slug": "resident-evil-0-biohazard-0-hd-remaster",
+      "title": "Resident Evil 0 / Biohazard 0 HD REMASTER",
+      "year": 2016,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 3231 (added count); Metacritic 69 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "resident-evil-0"
+    },
+    {
+      "slug": "the-last-guardian",
+      "title": "The Last Guardian",
+      "year": 2016,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 3230 (added count); Metacritic 82 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "the-last-guardian"
+    },
+    {
+      "slug": "bioshock-remastered",
+      "title": "BioShock Remastered",
+      "year": 2016,
+      "status": "queued",
+      "evidence": 1,
+      "evidenceSource": "RAWG players: 10951 (added count); Metacritic not listed on RAWG. All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "bioshock-remastered"
+    },
+    {
+      "slug": "bioshock-2-remastered",
+      "title": "BioShock 2 Remastered",
+      "year": 2016,
+      "status": "queued",
+      "evidence": 1,
+      "evidenceSource": "RAWG players: 9203 (added count); Metacritic not listed on RAWG. All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "bioshock-2-remastered"
+    },
+    {
+      "slug": "life-is-strange",
+      "title": "Life is Strange",
+      "year": 2015,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 15960 (added count); Metacritic 83 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "life-is-strange-episode-1-2"
+    },
+    {
+      "slug": "mortal-kombat-x",
+      "title": "Mortal Kombat X",
+      "year": 2015,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 9057 (added count); Metacritic 76 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "mortal-kombat-x"
+    },
+    {
+      "slug": "call-of-duty-black-ops-iii",
+      "title": "Call of Duty: Black Ops III",
+      "year": 2015,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 7291 (added count); Metacritic 73 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "cod-black-ops-iii"
+    },
+    {
+      "slug": "wolfenstein-the-old-blood",
+      "title": "Wolfenstein: The Old Blood",
+      "year": 2015,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 5736 (added count); Metacritic 76 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "wolfenstein-the-old-blood"
+    },
+    {
+      "slug": "resident-evil-revelations-2",
+      "title": "Resident Evil Revelations 2",
+      "year": 2015,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 5428 (added count); Metacritic 72 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "re-revelations-2"
+    },
+    {
+      "slug": "tales-from-the-borderlands-a-telltale-game-series",
+      "title": "Tales from the Borderlands: A Telltale Game Series",
+      "year": 2015,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 5152 (added count); Metacritic 85 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "tales-from-the-borderlands"
+    },
+    {
+      "slug": "dying-light",
+      "title": "Dying Light",
+      "year": 2015,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 5082 (added count); Metacritic 74 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "dying-light"
+    },
+    {
+      "slug": "tekken-7",
+      "title": "TEKKEN 7",
+      "year": 2015,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 4205 (added count); Metacritic 82 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "tekken-7"
+    },
+    {
+      "slug": "the-order-1886",
+      "title": "The Order: 1886",
+      "year": 2015,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 3809 (added count); Metacritic 63 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "the-order-1886"
+    },
+    {
+      "slug": "battlefield-hardline",
+      "title": "Battlefield Hardline",
+      "year": 2015,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 3236 (added count); Metacritic 72 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "battlefield-hardline"
+    },
+    {
+      "slug": "devil-may-cry-4-special-edition",
+      "title": "Devil May Cry 4: Special Edition",
+      "year": 2015,
+      "status": "queued",
+      "evidence": 1,
+      "evidenceSource": "RAWG players: 2854 (added count); Metacritic not listed on RAWG. All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "devil-may-cry-4-special-edition"
+    },
+    {
+      "slug": "wolfenstein-the-new-order",
+      "title": "Wolfenstein: The New Order",
+      "year": 2014,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 10516 (added count); Metacritic 81 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "wolfenstein-the-new-order"
+    },
+    {
+      "slug": "metro-last-light-redux",
+      "title": "Metro: Last Light Redux",
+      "year": 2014,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 9400 (added count); Metacritic 76 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "metro-last-light-redux"
+    },
+    {
+      "slug": "metro-2033-redux",
+      "title": "Metro 2033 Redux",
+      "year": 2014,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 9365 (added count); Metacritic 88 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "metro-redux"
+    },
+    {
+      "slug": "borderlands-the-pre-sequel",
+      "title": "Borderlands: The Pre-Sequel",
+      "year": 2014,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 9342 (added count); Metacritic 75 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "borderlands-the-pre-sequel"
+    },
+    {
+      "slug": "metal-gear-solid-v-ground-zeroes",
+      "title": "Metal Gear Solid V: Ground Zeroes",
+      "year": 2014,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 9147 (added count); Metacritic 80 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "metal-gear-solid-v-ground-zeroes"
+    },
+    {
+      "slug": "alien-isolation",
+      "title": "Alien: Isolation",
+      "year": 2014,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 8232 (added count); Metacritic 81 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "alien-isolation"
+    },
+    {
+      "slug": "far-cry-4",
+      "title": "Far Cry 4",
+      "year": 2014,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 7785 (added count); Metacritic 80 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "far-cry-4"
+    },
+    {
+      "slug": "halo-the-master-chief-collection",
+      "title": "Halo: The Master Chief Collection",
+      "year": 2014,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 6949 (added count); Metacritic 85 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "halo-the-master-chief-collection"
+    },
+    {
+      "slug": "the-evil-within",
+      "title": "The Evil Within",
+      "year": 2014,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 5679 (added count); Metacritic 68 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "the-evil-within"
+    },
+    {
+      "slug": "murdered-soul-suspect",
+      "title": "Murdered: Soul Suspect",
+      "year": 2014,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 5526 (added count); Metacritic 59 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "murdered-soul-suspect"
+    },
+    {
+      "slug": "lego-the-hobbit",
+      "title": "LEGO The Hobbit",
+      "year": 2014,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 5500 (added count); Metacritic 70 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "lego-the-hobbit"
+    },
+    {
+      "slug": "game-of-thrones-a-telltale-games-series",
+      "title": "Game of Thrones - A Telltale Games Series",
+      "year": 2014,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 5288 (added count); Metacritic 66 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "game-of-thrones-a-telltale-games-series"
+    },
+    {
+      "slug": "child-of-light",
+      "title": "Child of Light",
+      "year": 2014,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 5156 (added count); Metacritic 77 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "child-of-light"
+    },
+    {
+      "slug": "valiant-hearts-the-great-war",
+      "title": "Valiant Hearts: The Great War",
+      "year": 2014,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 4770 (added count); Metacritic 80 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "valiant-hearts-the-great-war"
+    },
+    {
+      "slug": "sniper-elite-3",
+      "title": "Sniper Elite 3",
+      "year": 2014,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 4068 (added count); Metacritic 67 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "sniper-elite-3"
+    },
+    {
+      "slug": "littlebigplanet-3",
+      "title": "LittleBigPlanet 3",
+      "year": 2014,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 3633 (added count); Metacritic 79 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "littlebigplanet-3"
+    },
+    {
+      "slug": "call-of-duty-advanced-warfare",
+      "title": "Call of Duty: Advanced Warfare",
+      "year": 2014,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 3541 (added count); Metacritic 78 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "call-of-duty-advanced-warfare"
+    },
+    {
+      "slug": "infamous-first-light",
+      "title": "inFAMOUS: First Light",
+      "year": 2014,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 3307 (added count); Metacritic 73 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "infamous-first-light"
+    },
+    {
+      "slug": "assassins-creed-rogue",
+      "title": "Assassin's Creed Rogue",
+      "year": 2014,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 3220 (added count); Metacritic 74 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "assassins-creed-rogue-2"
+    },
+    {
+      "slug": "lego-batman-3-beyond-gotham",
+      "title": "LEGO Batman 3: Beyond Gotham",
+      "year": 2014,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 2887 (added count); Metacritic 75 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "lego-batman-3-beyond-gotham"
+    },
+    {
+      "slug": "bioshock-infinite",
+      "title": "BioShock Infinite",
+      "year": 2013,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 16170 (added count); Metacritic 94 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "bioshock-infinite"
+    },
+    {
+      "slug": "company-of-heroes-2",
+      "title": "Company of Heroes 2",
+      "year": 2013,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 9884 (added count); Metacritic 80 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "company-of-heroes-2"
+    },
+    {
+      "slug": "injustice-gods-among-us-ultimate-edition",
+      "title": "Injustice: Gods Among Us Ultimate Edition",
+      "year": 2013,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 9877 (added count); Metacritic 80 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "injustice-gods-among-us-ultimate-edition"
+    },
+    {
+      "slug": "the-wolf-among-us",
+      "title": "The Wolf Among Us",
+      "year": 2013,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 7861 (added count); Metacritic 82 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "the-wolf-among-us"
+    },
+    {
+      "slug": "the-bureau-xcom-declassified",
+      "title": "The Bureau: XCOM Declassified",
+      "year": 2013,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 6720 (added count); Metacritic 66 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "the-bureau-xcom-declassified"
+    },
+    {
+      "slug": "rayman-legends",
+      "title": "Rayman Legends",
+      "year": 2013,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 6713 (added count); Metacritic 89 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "rayman-legends"
+    },
+    {
+      "slug": "beyond-two-souls",
+      "title": "Beyond: Two Souls",
+      "year": 2013,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 6706 (added count); Metacritic 73 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "beyond-two-souls"
+    },
+    {
+      "slug": "battlefield-4",
+      "title": "Battlefield 4",
+      "year": 2013,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 6593 (added count); Metacritic 81 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "battlefield-4"
+    },
+    {
+      "slug": "the-walking-dead-season-2",
+      "title": "The Walking Dead: Season 2",
+      "year": 2013,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 6306 (added count); Metacritic 80 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "the-walking-dead-season-2"
+    },
+    {
+      "slug": "far-cry-3-blood-dragon",
+      "title": "Far Cry 3: Blood Dragon",
+      "year": 2013,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 5422 (added count); Metacritic 81 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "far-cry-3-blood-dragon-2"
+    },
+    {
+      "slug": "remember-me",
+      "title": "Remember Me",
+      "year": 2013,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 5218 (added count); Metacritic 65 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "remember-me"
+    },
+    {
+      "slug": "mortal-kombat-komplete-edition",
+      "title": "Mortal Kombat Komplete Edition",
+      "year": 2013,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 4112 (added count); Metacritic 82 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "mortal-kombat-komplete-edition"
+    },
+    {
+      "slug": "call-of-duty-ghosts",
+      "title": "Call of Duty: Ghosts",
+      "year": 2013,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 3391 (added count); Metacritic 68 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "call-of-duty-ghosts"
+    },
+    {
+      "slug": "need-for-speed-rivals",
+      "title": "Need for Speed Rivals",
+      "year": 2013,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 3348 (added count); Metacritic 77 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "need-for-speed-rivals"
+    },
+    {
+      "slug": "dead-space-3",
+      "title": "Dead Space 3",
+      "year": 2013,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 3252 (added count); Metacritic 77 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "dead-space-3"
+    },
+    {
+      "slug": "dead-island-riptide",
+      "title": "Dead Island Riptide",
+      "year": 2013,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 3115 (added count); Metacritic 60 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "dead-island-riptide"
+    },
+    {
+      "slug": "enslaved-odyssey-to-the-west-premium-edition",
+      "title": "ENSLAVED: Odyssey to the West Premium Edition",
+      "year": 2013,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 2988 (added count); Metacritic 70 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "enslaved-odyssey-to-the-west-premium-edition"
+    },
+    {
+      "slug": "tom-clancys-splinter-cell-blacklist",
+      "title": "Tom Clancy's Splinter Cell Blacklist",
+      "year": 2013,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 2869 (added count); Metacritic 81 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "tom-clancys-splinter-cell-blacklist"
+    },
+    {
+      "slug": "killzone-shadow-fall",
+      "title": "Killzone Shadow Fall",
+      "year": 2013,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 2860 (added count); Metacritic 73 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "killzone-shadow-fall"
+    },
+    {
+      "slug": "borderlands-2",
+      "title": "Borderlands 2",
+      "year": 2012,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 16064 (added count); Metacritic 89 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "borderlands-2"
+    },
+    {
+      "slug": "the-walking-dead-season-1",
+      "title": "The Walking Dead: Season 1",
+      "year": 2012,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 11716 (added count); Metacritic 92 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "the-walking-dead"
+    },
+    {
+      "slug": "spec-ops-the-line",
+      "title": "Spec Ops: The Line",
+      "year": 2012,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 10430 (added count); Metacritic 76 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "spec-ops-the-line"
+    },
+    {
+      "slug": "hitman-absolution",
+      "title": "Hitman: Absolution",
+      "year": 2012,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 9806 (added count); Metacritic 79 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "hitman-absolution"
+    },
+    {
+      "slug": "xcom-enemy-unknown",
+      "title": "XCOM: Enemy Unknown",
+      "year": 2012,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 8538 (added count); Metacritic 89 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "xcom-enemy-unknown"
+    },
+    {
+      "slug": "max-payne-3",
+      "title": "Max Payne 3",
+      "year": 2012,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 8314 (added count); Metacritic 87 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "max-payne-3"
+    },
+    {
+      "slug": "the-darkness-ii",
+      "title": "The Darkness II",
+      "year": 2012,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 8159 (added count); Metacritic 77 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "the-darkness-ii"
+    },
+    {
+      "slug": "crusader-kings-ii",
+      "title": "Crusader Kings II",
+      "year": 2012,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 7879 (added count); Metacritic 82 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "crusader-kings-ii"
+    },
+    {
+      "slug": "resident-evil-6",
+      "title": "Resident Evil 6",
+      "year": 2012,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 6477 (added count); Metacritic 67 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "resident-evil-6"
+    },
+    {
+      "slug": "sniper-elite-v2",
+      "title": "Sniper Elite V2",
+      "year": 2012,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 6455 (added count); Metacritic 66 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "sniper-elite-v2"
+    },
+    {
+      "slug": "alan-wakes-american-nightmare",
+      "title": "Alan Wake's American Nightmare",
+      "year": 2012,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 6192 (added count); Metacritic 73 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "alan-wakes-american-nightmare"
+    },
+    {
+      "slug": "call-of-duty-black-ops-ii",
+      "title": "Call of Duty: Black Ops II",
+      "year": 2012,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 6187 (added count); Metacritic 74 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "cod-black-ops-ii"
+    },
+    {
+      "slug": "lego-the-lord-of-the-rings",
+      "title": "LEGO The Lord of the Rings",
+      "year": 2012,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 6012 (added count); Metacritic 80 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "lego-lord-of-the-rings"
+    },
+    {
+      "slug": "binary-domain",
+      "title": "Binary Domain",
+      "year": 2012,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 4676 (added count); Metacritic 68 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "binary-domain"
+    },
+    {
+      "slug": "resident-evil-revelations",
+      "title": "Resident Evil Revelations",
+      "year": 2012,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 4518 (added count); Metacritic 77 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "resident-evil-revelations-biohazard-revelations"
+    },
+    {
+      "slug": "lego-batman-2-dc-super-heroes",
+      "title": "LEGO Batman 2 DC Super Heroes",
+      "year": 2012,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 3108 (added count); Metacritic 75 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "lego-batman-2"
+    },
+    {
+      "slug": "need-for-speed-most-wanted-a-criterion-game",
+      "title": "Need for Speed: Most Wanted - A Criterion Game",
+      "year": 2012,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 2826 (added count); Metacritic 82 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "need-for-speed-most-wanted-a-criterion-game"
+    },
+    {
+      "slug": "prototype-2",
+      "title": "Prototype 2",
+      "year": 2012,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 2777 (added count); Metacritic 76 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "prototype-2"
+    },
+    {
+      "slug": "kingdoms-of-amalur-reckoning",
+      "title": "Kingdoms of Amalur: Reckoning",
+      "year": 2012,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 2706 (added count); Metacritic 81 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "kingdoms-of-amalur-reckoning"
+    },
+    {
+      "slug": "diablo-iii",
+      "title": "Diablo III",
+      "year": 2012,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 2383 (added count); Metacritic 88 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "diablo-3"
+    },
+    {
+      "slug": "portal-2",
+      "title": "Portal 2",
+      "year": 2011,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 20993 (added count); Metacritic 95 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "portal-2"
+    },
+    {
+      "slug": "total-war-shogun-2",
+      "title": "Total War: SHOGUN 2",
+      "year": 2011,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 7472 (added count); Metacritic 90 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "total-war-shogun-2"
+    },
+    {
+      "slug": "dead-island",
+      "title": "Dead Island",
+      "year": 2011,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 7157 (added count); Metacritic 74 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "dead-island"
+    },
+    {
+      "slug": "dead-space-2",
+      "title": "Dead Space 2",
+      "year": 2011,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 6807 (added count); Metacritic 87 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "dead-space-2"
+    },
+    {
+      "slug": "homefront",
+      "title": "Homefront",
+      "year": 2011,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 6465 (added count); Metacritic 70 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "homefront"
+    },
+    {
+      "slug": "call-of-duty-modern-warfare-3",
+      "title": "Call of Duty: Modern Warfare 3",
+      "year": 2011,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 6407 (added count); Metacritic 85 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "call-of-duty-modern-warfare-3"
+    },
+    {
+      "slug": "warhammer-40-000-space-marine",
+      "title": "Warhammer 40,000: Space Marine",
+      "year": 2011,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 6105 (added count); Metacritic 74 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "warhammer-40000-space-marine"
+    },
+    {
+      "slug": "f-e-a-r-3",
+      "title": "F.E.A.R. 3",
+      "year": 2011,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 5138 (added count); Metacritic 74 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "fear-3"
+    },
+    {
+      "slug": "battlefield-3",
+      "title": "Battlefield 3",
+      "year": 2011,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 5013 (added count); Metacritic 86 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "battlefield-3"
+    },
+    {
+      "slug": "rage-2011",
+      "title": "Rage (2011)",
+      "year": 2011,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 4652 (added count); Metacritic 79 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "rage"
+    },
+    {
+      "slug": "red-faction-armageddon",
+      "title": "Red Faction: Armageddon",
+      "year": 2011,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 4473 (added count); Metacritic 75 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "red-faction-armageddon"
+    },
+    {
+      "slug": "sonic-generations",
+      "title": "Sonic Generations",
+      "year": 2011,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 4327 (added count); Metacritic 77 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "sonic-generations"
+    },
+    {
+      "slug": "bulletstorm",
+      "title": "Bulletstorm",
+      "year": 2011,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 3577 (added count); Metacritic 83 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "bulletstorm"
+    },
+    {
+      "slug": "rayman-origins",
+      "title": "Rayman Origins",
+      "year": 2011,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 3563 (added count); Metacritic 86 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "rayman-origins"
+    },
+    {
+      "slug": "lord-of-the-rings-war-in-the-north",
+      "title": "Lord of the Rings: War in the North",
+      "year": 2011,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 3442 (added count); Metacritic 66 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "lord-of-the-rings-war-in-the-north"
+    },
+    {
+      "slug": "duke-nukem-forever",
+      "title": "Duke Nukem Forever",
+      "year": 2011,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 3348 (added count); Metacritic 54 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "duke-nukem-forever"
+    },
+    {
+      "slug": "catherine",
+      "title": "Catherine",
+      "year": 2011,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 3154 (added count); Metacritic 80 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "catherine"
+    },
+    {
+      "slug": "gears-of-war-3",
+      "title": "Gears of War 3",
+      "year": 2011,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 2643 (added count); Metacritic 91 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "gears-of-war-3"
+    },
+    {
+      "slug": "lego-harry-potter-years-5-7",
+      "title": "LEGO Harry Potter: Years 5-7",
+      "year": 2011,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 2155 (added count); Metacritic 80 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "lego-harry-potter-years-5-7"
+    },
+    {
+      "slug": "infamous-2",
+      "title": "inFAMOUS 2",
+      "year": 2011,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 2141 (added count); Metacritic 83 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "infamous-2"
+    },
+    {
+      "slug": "lego-star-wars-iii-the-clone-wars",
+      "title": "LEGO Star Wars III - The Clone Wars",
+      "year": 2011,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 2014 (added count); Metacritic 76 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "lego-star-wars-iii"
+    },
+    {
+      "slug": "crysis-2-maximum-edition",
+      "title": "Crysis 2 - Maximum Edition",
+      "year": 2011,
+      "status": "queued",
+      "evidence": 1,
+      "evidenceSource": "RAWG players: 4905 (added count); Metacritic not listed on RAWG. All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "crysis-2-maximum-edition"
+    },
+    {
+      "slug": "final-fantasy-xiii-2",
+      "title": "FINAL FANTASY XIII-2",
+      "year": 2011,
+      "status": "queued",
+      "evidence": 1,
+      "evidenceSource": "RAWG players: 2103 (added count); Metacritic not listed on RAWG. All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "final-fantasy-xiii-2"
+    },
+    {
+      "slug": "alan-wake",
+      "title": "Alan Wake",
+      "year": 2010,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 10544 (added count); Metacritic 83 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "alan-wake"
+    },
+    {
+      "slug": "sid-meiers-civilization-v",
+      "title": "Sid Meier's Civilization V",
+      "year": 2010,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 9796 (added count); Metacritic 90 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "civilization-v"
+    },
+    {
+      "slug": "heavy-rain",
+      "title": "Heavy Rain",
+      "year": 2010,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 8459 (added count); Metacritic 80 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "heavy-rain"
+    },
+    {
+      "slug": "call-of-duty-black-ops",
+      "title": "Call of Duty: Black Ops",
+      "year": 2010,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 7013 (added count); Metacritic 81 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "call-of-duty-black-ops"
+    },
+    {
+      "slug": "medal-of-honor-2010",
+      "title": "Medal of Honor (2010)",
+      "year": 2010,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 4788 (added count); Metacritic 72 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "medal-of-honor"
+    },
+    {
+      "slug": "battlefield-bad-company-2",
+      "title": "Battlefield: Bad Company 2",
+      "year": 2010,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 4280 (added count); Metacritic 87 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "battlefield-bad-company-2"
+    },
+    {
+      "slug": "dead-rising-2",
+      "title": "Dead Rising 2",
+      "year": 2010,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 3869 (added count); Metacritic 78 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "dead-rising-2"
+    },
+    {
+      "slug": "need-for-speed-hot-pursuit",
+      "title": "Need For Speed: Hot Pursuit",
+      "year": 2010,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 3705 (added count); Metacritic 86 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "need-for-speed-hot-pursuit-2"
+    },
+    {
+      "slug": "star-wars-the-force-unleashed-ii",
+      "title": "STAR WARS: The Force Unleashed II",
+      "year": 2010,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 3602 (added count); Metacritic 59 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "star-wars-the-force-unleashed-2"
+    },
+    {
+      "slug": "kane-lynch-2-dog-days",
+      "title": "Kane & Lynch 2: Dog Days",
+      "year": 2010,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 3545 (added count); Metacritic 66 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "kane-lynch-2-dog-days"
+    },
+    {
+      "slug": "vanquish",
+      "title": "Vanquish",
+      "year": 2010,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 3491 (added count); Metacritic 79 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "vanquish"
+    },
+    {
+      "slug": "tom-clancys-splinter-cell-conviction",
+      "title": "Tom Clancy's Splinter Cell: Conviction",
+      "year": 2010,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 3480 (added count); Metacritic 83 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "tom-clancys-splinter-cell-conviction"
+    },
+    {
+      "slug": "halo-reach",
+      "title": "Halo: Reach",
+      "year": 2010,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 3065 (added count); Metacritic 91 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "halo-reach"
+    },
+    {
+      "slug": "lego-harry-potter-years-1-4",
+      "title": "LEGO Harry Potter: Years 1-4",
+      "year": 2010,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 2766 (added count); Metacritic 79 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "lego-harry-potter"
+    },
+    {
+      "slug": "aliens-vs-predator",
+      "title": "Aliens vs. Predator",
+      "year": 2010,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 2746 (added count); Metacritic 68 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "aliens-vs-predator-3"
+    },
+    {
+      "slug": "dantes-inferno",
+      "title": "Dante's Inferno",
+      "year": 2010,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 1894 (added count); Metacritic 75 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "dantes-inferno"
+    },
+    {
+      "slug": "singularity",
+      "title": "Singularity",
+      "year": 2010,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 1847 (added count); Metacritic 76 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "singularity"
+    },
+    {
+      "slug": "napoleon-total-war",
+      "title": "Napoleon: Total War",
+      "year": 2010,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 1705 (added count); Metacritic 81 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "napoleon-total-war"
+    },
+    {
+      "slug": "split-second",
+      "title": "Split/Second",
+      "year": 2010,
+      "status": "queued",
+      "evidence": 2,
+      "evidenceSource": "RAWG players: 1693 (added count); Metacritic 79 (via RAWG). All-AAA pass (genre filter widened 2026-10-23), RAWG top 80 per year, all genres.",
+      "route": "original",
+      "rawgSlug": "splitsecond"
     }
   ],
   "yearsCompleted": [],
