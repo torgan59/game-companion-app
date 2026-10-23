@@ -1,0 +1,655 @@
+{
+  "id": "hitman-2016",
+  "title": "Hitman",
+  "year": 2016,
+  "platforms": [
+    "PlayStation 4",
+    "Linux",
+    "macOS",
+    "PC",
+    "Xbox One"
+  ],
+  "rawgId": 10035,
+  "rawgSlug": "hitman",
+  "released": "2016-03-11",
+  "developers": [
+    "Feral Interactive",
+    "Square Enix",
+    "IO Interactive"
+  ],
+  "playtime": 7,
+  "genres": [
+    "Action",
+    "Shooter",
+    "Simulation"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Full controller support",
+    "Atmospheric",
+    "Great Soundtrack",
+    "Story Rich",
+    "Open World",
+    "Third Person",
+    "Sandbox",
+    "Stealth",
+    "Tactical",
+    "Third-Person Shooter",
+    "Nudity"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/16b/16b1b7b36e2042d1128d5a3e852b3b2f.jpg",
+  "steamAppId": 236870,
+  "achievements": {
+    "total": 69,
+    "hidden": 19,
+    "examples": [
+      {
+        "name": "Unseen Assassin",
+        "percent": 63.3
+      },
+      {
+        "name": "The Result of Previous Training",
+        "percent": 62.5
+      },
+      {
+        "name": "Chameleon",
+        "percent": 61.6
+      },
+      {
+        "name": "Hokkaido Escalated",
+        "percent": 3.5
+      },
+      {
+        "name": "A Golden Opportunity",
+        "percent": 3.4
+      },
+      {
+        "name": "Bangkok Escalated",
+        "percent": 3.4
+      },
+      {
+        "name": "Finito",
+        "percent": 3.4
+      },
+      {
+        "name": "Colorado Escalated",
+        "percent": 3.3
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/HITMAN",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 186,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://hitman.fandom.com/wiki/HITMAN_(2016)"
+    }
+  },
+  "game": {
+    "id": "hitman-2016",
+    "title": "Hitman",
+    "platforms": [
+      "PlayStation 4",
+      "Linux",
+      "macOS",
+      "PC",
+      "Xbox One"
+    ],
+    "blurb": "Stealth action game from IO Interactive (RAWG also lists Square Enix and Feral Interactive), released 2016-03-11. RAWG average playtime: 7 hours. Genres: Action, Shooter, Simulation. Chapters follow the locations named in the Steam achievements.",
+    "accent": "#A0141E",
+    "chapters": [
+      {
+        "id": "prologue",
+        "title": "Prologue: ICA Facility",
+        "summary": "Freeform Training, The Final Test, its opportunities and escalation. Hidden prologue feats are spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "paris",
+        "title": "Paris",
+        "summary": "The Showstopper, its opportunities, escalation, smuggling and Paris mastery.",
+        "steps": []
+      },
+      {
+        "id": "sapienza",
+        "title": "Sapienza",
+        "summary": "World of Tomorrow, the other Sapienza missions The Icon and Landslide, escalation and Sapienza mastery.",
+        "steps": []
+      },
+      {
+        "id": "marrakesh",
+        "title": "Marrakesh",
+        "summary": "A Gilded Cage, the other Marrakesh mission A House Built on Sand, escalation and Marrakesh mastery.",
+        "steps": []
+      },
+      {
+        "id": "bangkok",
+        "title": "Bangkok",
+        "summary": "Club 27, its opportunities, escalation and Bangkok mastery.",
+        "steps": []
+      },
+      {
+        "id": "colorado",
+        "title": "Colorado",
+        "summary": "Freedom Fighters, its opportunities, escalation and Colorado mastery.",
+        "steps": []
+      },
+      {
+        "id": "hokkaido",
+        "title": "Hokkaido",
+        "summary": "Situs Inversus, its opportunities, escalation and Hokkaido mastery. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "contracts-and-style",
+        "title": "Contracts and Assassin Style",
+        "summary": "Creating and playing Contracts, Featured Contracts, kill types, unseen kills and the Suit Only and Silent Assassin challenges.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "The Result of Previous Training",
+        "kind": "trophy",
+        "chapterId": "prologue",
+        "where": "Complete Freeform Training in the Prologue."
+      },
+      {
+        "id": "achievement-2",
+        "name": "Cleared for Field Duty",
+        "kind": "trophy",
+        "chapterId": "prologue",
+        "where": "Complete The Final Test in the Prologue."
+      },
+      {
+        "id": "achievement-3",
+        "name": "Seizing the Opportunity",
+        "kind": "trophy",
+        "chapterId": "prologue",
+        "where": "Complete any Opportunity in The Final Test."
+      },
+      {
+        "id": "achievement-4",
+        "name": "The Creative Assassin",
+        "kind": "trophy",
+        "chapterId": "contracts-and-style",
+        "where": "Complete the Contract Creation Tutorial."
+      },
+      {
+        "id": "achievement-5",
+        "name": "Unexpected Guest",
+        "kind": "trophy",
+        "chapterId": "prologue",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-6",
+        "name": "K-36D",
+        "kind": "trophy",
+        "chapterId": "prologue",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-7",
+        "name": "Defection Deterred",
+        "kind": "trophy",
+        "chapterId": "prologue",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-8",
+        "name": "Silent Assassin",
+        "kind": "trophy",
+        "chapterId": "prologue",
+        "where": "Complete The Final Test unspotted. Kill only Jasper Knight, ensuring his body is not found."
+      },
+      {
+        "id": "achievement-9",
+        "name": "Security Defeated",
+        "kind": "trophy",
+        "chapterId": "prologue",
+        "where": "Arrange matters so that a guard finds a discarded weapon and moves it into the hangar."
+      },
+      {
+        "id": "achievement-10",
+        "name": "Chameleon",
+        "kind": "trophy",
+        "chapterId": "prologue",
+        "where": "Change your disguise during The Final Test."
+      },
+      {
+        "id": "achievement-11",
+        "name": "Training Escalated",
+        "kind": "trophy",
+        "chapterId": "prologue",
+        "where": "Complete Level 5 of an Escalation Contract set in the ICA Facility."
+      },
+      {
+        "id": "achievement-12",
+        "name": "Contract Assassin",
+        "kind": "trophy",
+        "chapterId": "contracts-and-style",
+        "where": "Complete 10 Contracts."
+      },
+      {
+        "id": "achievement-13",
+        "name": "Top of the Class",
+        "kind": "trophy",
+        "chapterId": "contracts-and-style",
+        "where": "Set the high score on a Contract."
+      },
+      {
+        "id": "achievement-14",
+        "name": "A NEW Profile",
+        "kind": "trophy",
+        "chapterId": "contracts-and-style",
+        "where": "Complete a Featured Contract."
+      },
+      {
+        "id": "achievement-15",
+        "name": "Shhhh",
+        "kind": "trophy",
+        "chapterId": "prologue",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-16",
+        "name": "Tools of the Trade",
+        "kind": "trophy",
+        "chapterId": "contracts-and-style",
+        "where": "Assassinate Targets with Ballistic, Accident and Explosion Kills."
+      },
+      {
+        "id": "achievement-17",
+        "name": "Unseen Assassin",
+        "kind": "trophy",
+        "chapterId": "contracts-and-style",
+        "where": "Assassinate a Target without getting spotted."
+      },
+      {
+        "id": "achievement-18",
+        "name": "When No One Else Dares",
+        "kind": "trophy",
+        "chapterId": "paris",
+        "where": "Complete The Showstopper."
+      },
+      {
+        "id": "achievement-19",
+        "name": "The Showstopper",
+        "kind": "trophy",
+        "chapterId": "paris",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-20",
+        "name": "Meeting the Rieper",
+        "kind": "trophy",
+        "chapterId": "paris",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-21",
+        "name": "So Many Ways to Stop the Show",
+        "kind": "trophy",
+        "chapterId": "paris",
+        "where": "Complete all Opportunities in The Showstopper."
+      },
+      {
+        "id": "achievement-22",
+        "name": "Paris Escalated",
+        "kind": "trophy",
+        "chapterId": "paris",
+        "where": "Complete Level 5 of an Escalation Contract set in Paris."
+      },
+      {
+        "id": "achievement-23",
+        "name": "Well Prepared",
+        "kind": "trophy",
+        "chapterId": "paris",
+        "where": "Select a Starting Location and use an Agency Pickup to smuggle an item into Paris."
+      },
+      {
+        "id": "achievement-24",
+        "name": "City of Light",
+        "kind": "trophy",
+        "chapterId": "paris",
+        "where": "Reach Paris Mastery Level 20."
+      },
+      {
+        "id": "achievement-25",
+        "name": "Die by the Sword",
+        "kind": "trophy",
+        "chapterId": "sapienza",
+        "where": "Complete World of Tomorrow."
+      },
+      {
+        "id": "achievement-26",
+        "name": "The Sapienza Trinity",
+        "kind": "trophy",
+        "chapterId": "sapienza",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-27",
+        "name": "Let No Joyful Voice be Heard",
+        "kind": "trophy",
+        "chapterId": "sapienza",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-28",
+        "name": "Not in the Guidebook",
+        "kind": "trophy",
+        "chapterId": "sapienza",
+        "where": "Complete all Opportunities in World of Tomorrow."
+      },
+      {
+        "id": "achievement-29",
+        "name": "Sapienza Escalated",
+        "kind": "trophy",
+        "chapterId": "sapienza",
+        "where": "Complete Level 5 of an Escalation Contract set in Sapienza."
+      },
+      {
+        "id": "achievement-30",
+        "name": "Plan Ahead",
+        "kind": "trophy",
+        "chapterId": "sapienza",
+        "where": "Select a Starting Location and use an Agency Pickup to smuggle an item into Sapienza."
+      },
+      {
+        "id": "achievement-31",
+        "name": "Amalfi Pearl",
+        "kind": "trophy",
+        "chapterId": "sapienza",
+        "where": "Reach Sapienza Mastery Level 20."
+      },
+      {
+        "id": "achievement-32",
+        "name": "Too Big to Fail",
+        "kind": "trophy",
+        "chapterId": "marrakesh",
+        "where": "Complete A Gilded Cage."
+      },
+      {
+        "id": "achievement-33",
+        "name": ".50 Personal Touch",
+        "kind": "trophy",
+        "chapterId": "marrakesh",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-34",
+        "name": "Unfortunate Fortune",
+        "kind": "trophy",
+        "chapterId": "marrakesh",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-35",
+        "name": "Tourist Attractions",
+        "kind": "trophy",
+        "chapterId": "marrakesh",
+        "where": "Complete all Opportunities in A Gilded Cage."
+      },
+      {
+        "id": "achievement-36",
+        "name": "Marrakesh Escalated",
+        "kind": "trophy",
+        "chapterId": "marrakesh",
+        "where": "Complete Level 5 of an Escalation Contract set in Marrakesh."
+      },
+      {
+        "id": "achievement-37",
+        "name": "Careful Planning",
+        "kind": "trophy",
+        "chapterId": "marrakesh",
+        "where": "Select a Starting Location and use an Agency Pickup to smuggle an item into Marrakesh."
+      },
+      {
+        "id": "achievement-38",
+        "name": "Ancient Marrakesh",
+        "kind": "trophy",
+        "chapterId": "marrakesh",
+        "where": "Reach Marrakesh Mastery Level 20."
+      },
+      {
+        "id": "achievement-39",
+        "name": "Perfectionist",
+        "kind": "trophy",
+        "chapterId": "contracts-and-style",
+        "where": "Complete Suit Only and Silent Assassin Challenges on The Icon, A House Built on Sand or Landslide."
+      },
+      {
+        "id": "achievement-40",
+        "name": "A Night at the Movies",
+        "kind": "trophy",
+        "chapterId": "sapienza",
+        "where": "Complete The Icon."
+      },
+      {
+        "id": "achievement-41",
+        "name": "Stealing the Spotlight",
+        "kind": "trophy",
+        "chapterId": "sapienza",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-42",
+        "name": "Touring the Film Set",
+        "kind": "trophy",
+        "chapterId": "sapienza",
+        "where": "Complete all Opportunities in The Icon."
+      },
+      {
+        "id": "achievement-43",
+        "name": "Moroccan Nights",
+        "kind": "trophy",
+        "chapterId": "marrakesh",
+        "where": "Complete A House Built on Sand."
+      },
+      {
+        "id": "achievement-44",
+        "name": "A Series of Unfortunate Events",
+        "kind": "trophy",
+        "chapterId": "marrakesh",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-45",
+        "name": "A Golden Opportunity",
+        "kind": "trophy",
+        "chapterId": "marrakesh",
+        "where": "Complete all Opportunities in A House Built on Sand."
+      },
+      {
+        "id": "achievement-46",
+        "name": "Shining Bright",
+        "kind": "trophy",
+        "chapterId": "bangkok",
+        "where": "Complete Club 27."
+      },
+      {
+        "id": "achievement-47",
+        "name": "Drop the Bass",
+        "kind": "trophy",
+        "chapterId": "bangkok",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-48",
+        "name": "Elephants Never Forget",
+        "kind": "trophy",
+        "chapterId": "bangkok",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-49",
+        "name": "Guest Starring",
+        "kind": "trophy",
+        "chapterId": "bangkok",
+        "where": "Complete all Opportunities in Club 27."
+      },
+      {
+        "id": "achievement-50",
+        "name": "Bangkok Escalated",
+        "kind": "trophy",
+        "chapterId": "bangkok",
+        "where": "Complete level 5 of an Escalation Contract set in Bangkok."
+      },
+      {
+        "id": "achievement-51",
+        "name": "Scouting for Talent",
+        "kind": "trophy",
+        "chapterId": "bangkok",
+        "where": "Select a Starting Location and use an Agency Pickup to smuggle an item into Bangkok."
+      },
+      {
+        "id": "achievement-52",
+        "name": "One Night in Bangkok",
+        "kind": "trophy",
+        "chapterId": "bangkok",
+        "where": "Reach Bangkok Mastery Level 20."
+      },
+      {
+        "id": "achievement-53",
+        "name": "Guerrilla Warfare",
+        "kind": "trophy",
+        "chapterId": "colorado",
+        "where": "Complete Freedom Fighters."
+      },
+      {
+        "id": "achievement-54",
+        "name": "Soup Sandwich",
+        "kind": "trophy",
+        "chapterId": "colorado",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-55",
+        "name": "Giddy Up",
+        "kind": "trophy",
+        "chapterId": "colorado",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-56",
+        "name": "A Feather In Your Cap",
+        "kind": "trophy",
+        "chapterId": "colorado",
+        "where": "Complete all Opportunities in Freedom Fighters."
+      },
+      {
+        "id": "achievement-57",
+        "name": "Colorado Escalated",
+        "kind": "trophy",
+        "chapterId": "colorado",
+        "where": "Complete level 5 of an Escalation Contract set in Colorado."
+      },
+      {
+        "id": "achievement-58",
+        "name": "Joint Operation",
+        "kind": "trophy",
+        "chapterId": "colorado",
+        "where": "Select a Starting Location and use an Agency Pickup to smuggle an item into Colorado."
+      },
+      {
+        "id": "achievement-59",
+        "name": "Mission Complete",
+        "kind": "trophy",
+        "chapterId": "colorado",
+        "where": "Reach Colorado Mastery Level 20."
+      },
+      {
+        "id": "achievement-60",
+        "name": "A Long Time Coming",
+        "kind": "trophy",
+        "chapterId": "hokkaido",
+        "where": "Complete Situs Inversus."
+      },
+      {
+        "id": "achievement-61",
+        "name": "Master of Old and New",
+        "kind": "trophy",
+        "chapterId": "hokkaido",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-62",
+        "name": "Flatline",
+        "kind": "trophy",
+        "chapterId": "hokkaido",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-63",
+        "name": "The Sensei",
+        "kind": "trophy",
+        "chapterId": "hokkaido",
+        "where": "Complete all Opportunities in Situs Inversus."
+      },
+      {
+        "id": "achievement-64",
+        "name": "Hokkaido Escalated",
+        "kind": "trophy",
+        "chapterId": "hokkaido",
+        "where": "Complete level 5 of an Escalation Contract set in Hokkaido."
+      },
+      {
+        "id": "achievement-65",
+        "name": "Come Prepared",
+        "kind": "trophy",
+        "chapterId": "hokkaido",
+        "where": "Select a Starting Location and use an Agency Pickup to smuggle an item into Hokkaido."
+      },
+      {
+        "id": "achievement-66",
+        "name": "Sayōnara",
+        "kind": "trophy",
+        "chapterId": "hokkaido",
+        "where": "Reach Hokkaido Mastery Level 20."
+      },
+      {
+        "id": "achievement-67",
+        "name": "Bravissimo",
+        "kind": "trophy",
+        "chapterId": "sapienza",
+        "where": "Complete Landslide."
+      },
+      {
+        "id": "achievement-68",
+        "name": "Your Vote Counts",
+        "kind": "trophy",
+        "chapterId": "sapienza",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-69",
+        "name": "Finito",
+        "kind": "trophy",
+        "chapterId": "sapienza",
+        "where": "Complete all Opportunities in Landslide."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/hitman",
+    "Achievement data from Steam (Steam Web API, app 236870)",
+    "StrategyWiki: no usable walkthrough, nothing used — https://strategywiki.org/wiki/HITMAN",
+    "Fandom (hitman.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://hitman.fandom.com/wiki/HITMAN_(2016)"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). The 2016 game is no longer sold on its own: the Steam store list has no \"Hitman\" (2016) app, only \"HITMAN World of Assassination\" (app 1659040), whose schema is named \"HITMAN 3\" and whose 83 achievements mix the 2016 locations (Paris to Hokkaido, the ICA Facility prologue) with later ones such as Dubai, Dartmoor, Berlin, Miami and Mumbai. To keep this entry to the 2016 game, the old app 236870 was used: it is not in the store list, but the Steam Web API still returns its 69-achievement schema (named \"Hitman™\") and global percentages. The coordinator may prefer to point players at World of Assassination instead. StrategyWiki redirects \"Hitman (2016)\" to \"HITMAN\" (completion stage 0, stub); its contents page now covers the whole trilogy, linking HITMAN 2 and HITMAN 3 locations too. Only Walkthrough, Gameplay, Freeform Training and The Final Test are written (the prologue); the location and mission pages are not, so it was not used. hitman.fandom.com redirects \"Hitman (2016)\" to \"HITMAN (2016)\", with about 186 linked articles; names only were looked at, nothing copied. 19 of 69 Steam achievements are hidden. They were placed by their position in the Steam list, which runs location by location (for example ACH_18 and ACH_19 sit between the Paris achievements), so the location of each hidden one is a reasoned guess; \"Shhhh\" (82%) was put with the prologue. \"Perfectionist\" names three missions that StrategyWiki lists under two locations, so it sits in the contracts and style chapter."
+}

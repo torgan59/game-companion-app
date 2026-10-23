@@ -1,0 +1,407 @@
+{
+  "id": "dragon-ball-fighterz",
+  "title": "Dragon Ball FighterZ",
+  "year": 2018,
+  "platforms": [
+    "PC",
+    "Xbox One",
+    "Nintendo Switch",
+    "PlayStation 4"
+  ],
+  "rawgId": 49225,
+  "rawgSlug": "dragon-ball-fighterz",
+  "released": "2018-01-25",
+  "developers": [
+    "BANDAI NAMCO Entertainment America",
+    "Arc System Works",
+    "Arc System Works Co."
+  ],
+  "playtime": 7,
+  "genres": [
+    "Action",
+    "Fighting"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Multiplayer",
+    "Full controller support",
+    "Great Soundtrack",
+    "Steam Leaderboards",
+    "Online multiplayer",
+    "Split Screen",
+    "Anime",
+    "Beat 'em up",
+    "2D Fighter"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/96b/96b9420bbd4bd1b79bf2a67f7779733a.jpg",
+  "steamAppId": 678950,
+  "achievements": {
+    "total": 35,
+    "hidden": 5,
+    "examples": [
+      {
+        "name": "Yo, I'm Goku!",
+        "percent": 61.6
+      },
+      {
+        "name": "To Test Myself, I Too Will Fight",
+        "percent": 53.1
+      },
+      {
+        "name": "Practice Makes Perfect",
+        "percent": 36.2
+      },
+      {
+        "name": "Arena Expert",
+        "percent": 3.8
+      },
+      {
+        "name": "My Power Level is 530,000",
+        "percent": 3.4
+      },
+      {
+        "name": "Stamp of Approval",
+        "percent": 3.4
+      },
+      {
+        "name": "Arena Aficionado",
+        "percent": 2.5
+      },
+      {
+        "name": "Just Looking",
+        "percent": 1.3
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Dragon_Ball_FighterZ",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 272,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://dragonball.fandom.com/wiki/Dragon_Ball_FighterZ"
+    }
+  },
+  "game": {
+    "id": "dragon-ball-fighterz",
+    "title": "Dragon Ball FighterZ",
+    "platforms": [
+      "PC",
+      "Xbox One",
+      "Nintendo Switch",
+      "PlayStation 4"
+    ],
+    "blurb": "2D anime fighting game from Arc System Works and Bandai Namco, released 2018-01-25. RAWG average playtime: 7 hours. Genres: Action, Fighting. Chapters follow the game modes shown in the Steam achievements.",
+    "accent": "#F08A1C",
+    "chapters": [
+      {
+        "id": "story",
+        "title": "Story Mode",
+        "summary": "The Super Warrior Arc, Link Levels and the hidden story achievements. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "arcade",
+        "title": "Arcade Courses",
+        "summary": "The Snake Way, Extreme Gravity Spaceship and Hyperbolic Time Chamber courses, and an S Rank.",
+        "steps": []
+      },
+      {
+        "id": "practice",
+        "title": "Practice, Tutorials and Combo Challenges",
+        "summary": "Battle tutorials, quest tutorials, a 5,000-damage combo in training and up to 200 combo challenges.",
+        "steps": []
+      },
+      {
+        "id": "local-and-tournament",
+        "title": "Local Battles and Tournaments",
+        "summary": "Playing a local match and winning a tournament.",
+        "steps": []
+      },
+      {
+        "id": "world-match",
+        "title": "World Match: Ranked and Casual",
+        "summary": "Ranked and casual online matches, and building up BP.",
+        "steps": []
+      },
+      {
+        "id": "arena-and-replays",
+        "title": "Arena Matches and Replays",
+        "summary": "Playing and watching arena matches, and stamping a replay.",
+        "steps": []
+      },
+      {
+        "id": "zeni",
+        "title": "Zeni",
+        "summary": "Earning 1,000,000 and 5,000,000 Zeni across all your play.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Snake Way Sensei",
+        "kind": "trophy",
+        "chapterId": "arcade",
+        "where": "Arcade - Complete the Snake Way Course."
+      },
+      {
+        "id": "achievement-2",
+        "name": "Extreme Gravity Guru",
+        "kind": "trophy",
+        "chapterId": "arcade",
+        "where": "Arcade - Complete the Extreme Gravity Spaceship Course."
+      },
+      {
+        "id": "achievement-3",
+        "name": "Hyperbolic Heavyweight",
+        "kind": "trophy",
+        "chapterId": "arcade",
+        "where": "Arcade - Complete the Hyperbolic Time Chamber Course."
+      },
+      {
+        "id": "achievement-4",
+        "name": "Care to Become the next God of Destruction?",
+        "kind": "trophy",
+        "chapterId": "arcade",
+        "where": "Arcade - Complete a course with an S Rank."
+      },
+      {
+        "id": "achievement-5",
+        "name": "I am Goku, the Legendary Super Saiyan!",
+        "kind": "trophy",
+        "chapterId": "story",
+        "where": "Story - Complete the Super Warrior Arc."
+      },
+      {
+        "id": "achievement-6",
+        "name": "Ho ho ho... What an Unexpected Thrill",
+        "kind": "trophy",
+        "chapterId": "story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-7",
+        "name": "My Appetite...Is Insatiable...!",
+        "kind": "trophy",
+        "chapterId": "story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-8",
+        "name": "Link Level 20",
+        "kind": "trophy",
+        "chapterId": "story",
+        "where": "Story - Raise Link Level to 20."
+      },
+      {
+        "id": "achievement-9",
+        "name": "Link Level 40",
+        "kind": "trophy",
+        "chapterId": "story",
+        "where": "Story - Raise Link Level to 40."
+      },
+      {
+        "id": "achievement-10",
+        "name": "Bye-Bye Buu",
+        "kind": "trophy",
+        "chapterId": "story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-11",
+        "name": "Conversationalist",
+        "kind": "trophy",
+        "chapterId": "story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-12",
+        "name": "To Test Myself, I Too Will Fight",
+        "kind": "trophy",
+        "chapterId": "local-and-tournament",
+        "where": "Local Battle - Play a match."
+      },
+      {
+        "id": "achievement-13",
+        "name": "Ladies and Gents, We Have a Winner!",
+        "kind": "trophy",
+        "chapterId": "local-and-tournament",
+        "where": "Tournament - Emerge as champion."
+      },
+      {
+        "id": "achievement-14",
+        "name": "Battle-Ready",
+        "kind": "trophy",
+        "chapterId": "practice",
+        "where": "Practice - Complete all battle tutorials."
+      },
+      {
+        "id": "achievement-15",
+        "name": "Practice Makes Perfect",
+        "kind": "trophy",
+        "chapterId": "practice",
+        "where": "Practice - Perform a combo that deals 5000 or more damage in Training Mode."
+      },
+      {
+        "id": "achievement-16",
+        "name": "Don't Underestimate Earth!",
+        "kind": "trophy",
+        "chapterId": "practice",
+        "where": "Practice - Complete 30 Different Combo Challenges."
+      },
+      {
+        "id": "achievement-17",
+        "name": "The Power to Go Beyond the Super Saiyan!",
+        "kind": "trophy",
+        "chapterId": "practice",
+        "where": "Practice - Complete 100 Different Combo Challenges."
+      },
+      {
+        "id": "achievement-18",
+        "name": "Before Creation Comes Destruction...",
+        "kind": "trophy",
+        "chapterId": "practice",
+        "where": "Practice - Complete 200 Different Combo Challenges."
+      },
+      {
+        "id": "achievement-19",
+        "name": "Goku Isn't the Only Super Saiyan...",
+        "kind": "trophy",
+        "chapterId": "world-match",
+        "where": "World Match - Play a Ranked Match."
+      },
+      {
+        "id": "achievement-20",
+        "name": "You Can't Win This...",
+        "kind": "trophy",
+        "chapterId": "world-match",
+        "where": "World Match - Play 10 Ranked Matches."
+      },
+      {
+        "id": "achievement-21",
+        "name": "This Pain Will Make Me Stronger!",
+        "kind": "trophy",
+        "chapterId": "world-match",
+        "where": "World Match - Play 20 Ranked Matches."
+      },
+      {
+        "id": "achievement-22",
+        "name": "My Power Level is 530,000",
+        "kind": "trophy",
+        "chapterId": "world-match",
+        "where": "World Match - Acquire 530,000 BP."
+      },
+      {
+        "id": "achievement-23",
+        "name": "Casual Combatant",
+        "kind": "trophy",
+        "chapterId": "world-match",
+        "where": "World Match - Play 10 Casual Matches."
+      },
+      {
+        "id": "achievement-24",
+        "name": "Arena Enthusiast",
+        "kind": "trophy",
+        "chapterId": "arena-and-replays",
+        "where": "Arena Match - Play a match."
+      },
+      {
+        "id": "achievement-25",
+        "name": "Arena Expert",
+        "kind": "trophy",
+        "chapterId": "arena-and-replays",
+        "where": "Arena Match - Play 10 matches."
+      },
+      {
+        "id": "achievement-26",
+        "name": "Just Looking",
+        "kind": "trophy",
+        "chapterId": "arena-and-replays",
+        "where": "Arena Match - Observe a match."
+      },
+      {
+        "id": "achievement-27",
+        "name": "It's Play Time!",
+        "kind": "trophy",
+        "chapterId": "world-match",
+        "where": "World Match - Play a Casual Match."
+      },
+      {
+        "id": "achievement-28",
+        "name": "Lemme Play Too!",
+        "kind": "trophy",
+        "chapterId": "world-match",
+        "where": "World Match - Play 20 Casual Matches."
+      },
+      {
+        "id": "achievement-29",
+        "name": "Stamp of Approval",
+        "kind": "trophy",
+        "chapterId": "arena-and-replays",
+        "where": "Replay - Use a Z Stamp while watching a Replay Channel."
+      },
+      {
+        "id": "achievement-30",
+        "name": "Deep Pockets",
+        "kind": "trophy",
+        "chapterId": "zeni",
+        "where": "Acquire 5,000,000 Zeni throughout the course of playing."
+      },
+      {
+        "id": "achievement-31",
+        "name": "Arena Aficionado",
+        "kind": "trophy",
+        "chapterId": "arena-and-replays",
+        "where": "Arena Match - Play 20 matches."
+      },
+      {
+        "id": "achievement-32",
+        "name": "Set for Life",
+        "kind": "trophy",
+        "chapterId": "story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-33",
+        "name": "Millionaire",
+        "kind": "trophy",
+        "chapterId": "zeni",
+        "where": "Acquire 1,000,000 Zeni throughout the course of playing."
+      },
+      {
+        "id": "achievement-34",
+        "name": "Yo, I'm Goku!",
+        "kind": "trophy",
+        "chapterId": "practice",
+        "where": "Complete a quest tutorial."
+      },
+      {
+        "id": "achievement-35",
+        "name": "Farewell, Tien...",
+        "kind": "trophy",
+        "chapterId": "practice",
+        "where": "Complete seven or more quest tutorials."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/dragon-ball-fighterz",
+    "Achievement data from Steam (Steam Web API, app 678950)",
+    "StrategyWiki: no usable walkthrough, nothing used — https://strategywiki.org/wiki/Dragon_Ball_FighterZ",
+    "Fandom (dragonball.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://dragonball.fandom.com/wiki/Dragon_Ball_FighterZ"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). Fighting game, so chapters follow the modes the achievement descriptions name (each starts with the mode, such as \"Arcade -\" or \"World Match -\"). Steam app 678950 was used; the Steam schema gives no game name, and the app list confirms \"DRAGON BALL FighterZ\". RAWG's first search result matched the expected slug. 5 of 35 Steam achievements are hidden and sit in the story chapter; \"Conversationalist\" (52.7%) and \"Set for Life\" (2.0%) may not be story, as their unlock rates differ a lot from the others. StrategyWiki has \"Dragon Ball FighterZ\" at completion stage 1, with a written Table of Contents, a large Moves page (about 53,000 characters), Achievements and trophies, Gameplay and Secrets pages, and short character pages for the roster. Its Walkthrough page and the three story arc pages it links (Super Warrior Arc, Enemy Warrior Arc, Android 21 Arc) are not written, so it was not used for chapters; the Moves page could seed CC BY-SA move lists later. dragonball.fandom.com answers the API under \"Dragon Ball FighterZ\" with about 272 linked articles; names only were looked at, nothing copied. Several online goals need other players, and the arena ones are below 11%."
+}

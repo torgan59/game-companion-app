@@ -1,0 +1,569 @@
+{
+  "id": "tom-clancys-ghost-recon-wildlands",
+  "title": "Tom Clancy's Ghost Recon Wildlands",
+  "year": 2017,
+  "platforms": [
+    "PC",
+    "Xbox One",
+    "PlayStation 4"
+  ],
+  "rawgId": 10125,
+  "rawgSlug": "tom-clancys-ghost-recon-wildlands-2",
+  "released": "2017-03-06",
+  "developers": [
+    "Ubisoft",
+    "Ubisoft Montpellier",
+    "Ubisoft Bucharest",
+    "Ubisoft Annecy",
+    "Ubisoft Paris",
+    "Ubisoft Milan",
+    "Reflections"
+  ],
+  "playtime": 18,
+  "genres": [
+    "Action",
+    "Shooter",
+    "Massively Multiplayer"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Multiplayer",
+    "Atmospheric",
+    "steam-trading-cards",
+    "Co-op",
+    "Open World",
+    "cooperative",
+    "First-Person",
+    "Third Person",
+    "Partial Controller Support",
+    "FPS",
+    "Online Co-Op"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/72e/72e0e063c817e90c696b2da3ea78abaa.jpg",
+  "steamAppId": 460930,
+  "achievements": {
+    "total": 57,
+    "hidden": 0,
+    "examples": [
+      {
+        "name": "A Good Start",
+        "percent": 33.9
+      },
+      {
+        "name": "Rebel Sympathizer",
+        "percent": 31.6
+      },
+      {
+        "name": "Beat the Boss",
+        "percent": 26.4
+      },
+      {
+        "name": "Nondescript jungle hero",
+        "percent": 0.2
+      },
+      {
+        "name": "Artisanal SAM",
+        "percent": 0.2
+      },
+      {
+        "name": "More Followers than Escobar",
+        "percent": 0.1
+      },
+      {
+        "name": "Scenic Route",
+        "percent": 0.1
+      },
+      {
+        "name": "Cristina",
+        "percent": 0.1
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": false,
+      "pages": 0,
+      "reason": "No page for Tom Clancy's Ghost Recon Wildlands (MediaWiki API returned missing; see notes for other titles tried)"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 91,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://ghostrecon.fandom.com/wiki/Tom_Clancy's_Ghost_Recon_Wildlands"
+    }
+  },
+  "game": {
+    "id": "tom-clancys-ghost-recon-wildlands",
+    "title": "Tom Clancy's Ghost Recon Wildlands",
+    "platforms": [
+      "PC",
+      "Xbox One",
+      "PlayStation 4"
+    ],
+    "blurb": "Open-world tactical shooter from Ubisoft (RAWG lists Ubisoft Montpellier, Bucharest, Annecy, Paris, Milan and Reflections), released 2017-03-06. RAWG average playtime: 18 hours. Genres: Action, Shooter, Massively Multiplayer. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#5A6B3A",
+    "chapters": [
+      {
+        "id": "main-story",
+        "title": "The Campaign",
+        "summary": "The first mission, the first boss, the Smuggling, Production, Security and Influence operations, all Story missions and the ending.",
+        "steps": []
+      },
+      {
+        "id": "exploration",
+        "title": "Exploring the Open World",
+        "summary": "Skydiving, driving, interrogations, legends, side missions and convoys.",
+        "steps": []
+      },
+      {
+        "id": "collectibles",
+        "title": "Documents, Medals and Weapons",
+        "summary": "Finding documents and bonus medals and collecting every weapon model.",
+        "steps": []
+      },
+      {
+        "id": "progression",
+        "title": "Skills, Rebels and Levels",
+        "summary": "Skill upgrades, drone upgrades, Rebel skills and maxing out XP.",
+        "steps": []
+      },
+      {
+        "id": "combat",
+        "title": "Combat Tricks",
+        "summary": "Long shots, drones, C4, mines, mortars and night-time close combat.",
+        "steps": []
+      },
+      {
+        "id": "co-op",
+        "title": "Co-op",
+        "summary": "Missions and kills with another player.",
+        "steps": []
+      },
+      {
+        "id": "narco-road",
+        "title": "Operation Narco Road",
+        "summary": "The Narco Road expansion: its bosses, final target, followers and trials.",
+        "steps": []
+      },
+      {
+        "id": "fallen-ghosts",
+        "title": "Fallen Ghosts",
+        "summary": "The Fallen Ghosts expansion: its Extranjeros enemies, Rebel Ops, the Flash Drone and explosive bolts.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Fearless",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Skydived 10 times."
+      },
+      {
+        "id": "achievement-2",
+        "name": "Pull!",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Shot an enemy chopper out of the air with a mortar."
+      },
+      {
+        "id": "achievement-3",
+        "name": "Road Warrior",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Drove a vehicle for 100 km."
+      },
+      {
+        "id": "achievement-4",
+        "name": "Deadly Curious",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Interrogated 20 sources."
+      },
+      {
+        "id": "achievement-5",
+        "name": "Serious Collector",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Found 50% of the documents in the game."
+      },
+      {
+        "id": "achievement-6",
+        "name": "The Whole Story",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Found all documents."
+      },
+      {
+        "id": "achievement-7",
+        "name": "Beat the Boss",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Defeated your first boss."
+      },
+      {
+        "id": "achievement-8",
+        "name": "The End",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Finished the story."
+      },
+      {
+        "id": "achievement-9",
+        "name": "Smuggler's Blues",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Completed the Smuggling operation."
+      },
+      {
+        "id": "achievement-10",
+        "name": "Shut Down",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Completed the Production operation."
+      },
+      {
+        "id": "achievement-11",
+        "name": "Broken Locks",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Completed the Security operation."
+      },
+      {
+        "id": "achievement-12",
+        "name": "Bad Reputation",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Completed the Influence operation."
+      },
+      {
+        "id": "achievement-13",
+        "name": "Mission Master",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Completed all Story missions."
+      },
+      {
+        "id": "achievement-14",
+        "name": "With a Pistol!",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Took out a sniper with a pistol."
+      },
+      {
+        "id": "achievement-15",
+        "name": "Teamwork!",
+        "kind": "trophy",
+        "chapterId": "co-op",
+        "where": "Completed 3 missions with another player."
+      },
+      {
+        "id": "achievement-16",
+        "name": "A Good Start",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Completed the first mission \"Amaru's rescue\"."
+      },
+      {
+        "id": "achievement-17",
+        "name": "Eye in the Sky",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Marked 100 enemies with a drone."
+      },
+      {
+        "id": "achievement-18",
+        "name": "Eagle-Eyed",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Marked 100 enemies with the binoculars."
+      },
+      {
+        "id": "achievement-19",
+        "name": "Cluster Bomber",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Killed 7 enemies with a single C4 blast."
+      },
+      {
+        "id": "achievement-20",
+        "name": "A Better Mousetrap",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Killed 7 enemies with a single mine."
+      },
+      {
+        "id": "achievement-21",
+        "name": "Legend Hunter",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Discovered one legend."
+      },
+      {
+        "id": "achievement-22",
+        "name": "Legendary Hunter",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Discovered all legends."
+      },
+      {
+        "id": "achievement-23",
+        "name": "Spice of Life",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Played each type of side mission."
+      },
+      {
+        "id": "achievement-24",
+        "name": "Highway Bandit",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Tagged 10 convoys."
+      },
+      {
+        "id": "achievement-25",
+        "name": "Ultimate Skill",
+        "kind": "trophy",
+        "chapterId": "progression",
+        "where": "Bought all the upgrades of a Skill branch."
+      },
+      {
+        "id": "achievement-26",
+        "name": "Only the Best",
+        "kind": "trophy",
+        "chapterId": "progression",
+        "where": "Bought all upgrades."
+      },
+      {
+        "id": "achievement-27",
+        "name": "Top Drone",
+        "kind": "trophy",
+        "chapterId": "progression",
+        "where": "Bought all drone-related upgrades."
+      },
+      {
+        "id": "achievement-28",
+        "name": "Heavy Medals",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Collected all the bonus medals."
+      },
+      {
+        "id": "achievement-29",
+        "name": "Rebel Sympathizer",
+        "kind": "trophy",
+        "chapterId": "progression",
+        "where": "Unlocked a Rebel skill."
+      },
+      {
+        "id": "achievement-30",
+        "name": "Real Rebel",
+        "kind": "trophy",
+        "chapterId": "progression",
+        "where": "Unlocked all the Rebel skills."
+      },
+      {
+        "id": "achievement-31",
+        "name": "No Better Rebel",
+        "kind": "trophy",
+        "chapterId": "progression",
+        "where": "Maxed out each Rebel skill."
+      },
+      {
+        "id": "achievement-32",
+        "name": "Shotguns Fanatic",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Collected all shotguns models."
+      },
+      {
+        "id": "achievement-33",
+        "name": "Handgun Fanatic",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Collected all handguns models."
+      },
+      {
+        "id": "achievement-34",
+        "name": "The Champion",
+        "kind": "trophy",
+        "chapterId": "progression",
+        "where": "Maxed out your XP and levels."
+      },
+      {
+        "id": "achievement-35",
+        "name": "Long Shot",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Hit a target more than 400m away."
+      },
+      {
+        "id": "achievement-36",
+        "name": "Death in the Dark",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Made a close-combat kill at night."
+      },
+      {
+        "id": "achievement-37",
+        "name": "Finished the Job",
+        "kind": "trophy",
+        "chapterId": "co-op",
+        "where": "Killed an enemy in close combat who was hurt by another player."
+      },
+      {
+        "id": "achievement-38",
+        "name": "Death from Above",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Killed an enemy with a drone."
+      },
+      {
+        "id": "achievement-39",
+        "name": "Black-out Boomer",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Destroyed a generator with a C4 blast."
+      },
+      {
+        "id": "achievement-40",
+        "name": "Submachine-Gun Fanatic",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Collected all submachine-gun models."
+      },
+      {
+        "id": "achievement-41",
+        "name": "Light Machine-Gun Fanatic",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Collected all light machine-gun models."
+      },
+      {
+        "id": "achievement-42",
+        "name": "Sniper Rifle Fanatic",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Collected all sniper rifle models."
+      },
+      {
+        "id": "achievement-43",
+        "name": "Assault Rifle Fanatic",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Collected all assault rifle models."
+      },
+      {
+        "id": "achievement-44",
+        "name": "Gang Leader",
+        "kind": "trophy",
+        "chapterId": "narco-road",
+        "where": "Operation Narco Road: Kill One boss of the cartel"
+      },
+      {
+        "id": "achievement-45",
+        "name": "El Visible",
+        "kind": "trophy",
+        "chapterId": "narco-road",
+        "where": "Operation Narco Road: Kill the final target"
+      },
+      {
+        "id": "achievement-46",
+        "name": "More Followers than Escobar",
+        "kind": "trophy",
+        "chapterId": "narco-road",
+        "where": "Operation Narco Road: Fill the Followers Gauge of all regions to 100%"
+      },
+      {
+        "id": "achievement-47",
+        "name": "Scenic Route",
+        "kind": "trophy",
+        "chapterId": "narco-road",
+        "where": "Narco Road: Go from Eddie's party villa to Arturo's bar in 8 minutes or less in a ground vehicle"
+      },
+      {
+        "id": "achievement-48",
+        "name": "Cristina",
+        "kind": "trophy",
+        "chapterId": "narco-road",
+        "where": "Operation Narco Road: Kill 50 enemies with any gang's vehicle"
+      },
+      {
+        "id": "achievement-49",
+        "name": "Mal Rodilla-Ternera",
+        "kind": "trophy",
+        "chapterId": "narco-road",
+        "where": "Operation Narco Road: Complete an Electro™ challenge while freefalling"
+      },
+      {
+        "id": "achievement-50",
+        "name": "Brake a leg",
+        "kind": "trophy",
+        "chapterId": "narco-road",
+        "where": "Operation Narco Road: Complete a trial without using the brakes"
+      },
+      {
+        "id": "achievement-51",
+        "name": "Kill list",
+        "kind": "trophy",
+        "chapterId": "fallen-ghosts",
+        "where": "Fallen Ghosts: Kill one of each Extranjeros squad archetypes"
+      },
+      {
+        "id": "achievement-52",
+        "name": "A hero once, a hero twice",
+        "kind": "trophy",
+        "chapterId": "fallen-ghosts",
+        "where": "Fallen Ghosts: complete the operation"
+      },
+      {
+        "id": "achievement-53",
+        "name": "Thorough supporter",
+        "kind": "trophy",
+        "chapterId": "fallen-ghosts",
+        "where": "Fallen Ghosts: Complete every Rebel Op and Mission"
+      },
+      {
+        "id": "achievement-54",
+        "name": "Rebel leader",
+        "kind": "trophy",
+        "chapterId": "fallen-ghosts",
+        "where": "Fallen Ghosts: Complete a Final Rebel Op"
+      },
+      {
+        "id": "achievement-55",
+        "name": "Tactical genius",
+        "kind": "trophy",
+        "chapterId": "fallen-ghosts",
+        "where": "Fallen Ghosts: Blind yourself using the Flash Drone"
+      },
+      {
+        "id": "achievement-56",
+        "name": "Nondescript jungle hero",
+        "kind": "trophy",
+        "chapterId": "fallen-ghosts",
+        "where": "Fallen Ghosts: Kill 10 Covert Ops Extranjeros using your knife"
+      },
+      {
+        "id": "achievement-57",
+        "name": "Artisanal SAM",
+        "kind": "trophy",
+        "chapterId": "fallen-ghosts",
+        "where": "Fallen Ghosts: Destroy an enemy helicopter using an explosive bolt."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/tom-clancys-ghost-recon-wildlands-2",
+    "Achievement data from Steam (Steam Web API, app 460930)",
+    "StrategyWiki: no page for this game, nothing used",
+    "Fandom (ghostrecon.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://ghostrecon.fandom.com/wiki/Tom_Clancy's_Ghost_Recon_Wildlands"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). StrategyWiki has no page under \"Tom Clancy's Ghost Recon Wildlands\", \"Ghost Recon Wildlands\" or \"Tom Clancy's Ghost Recon: Wildlands\". ghostrecon.fandom.com answers the API under \"Tom Clancy's Ghost Recon Wildlands\" with about 91 linked articles; names only were looked at, nothing copied. None of the 57 Steam achievements is hidden. The two expansion chapters take their names from the achievement descriptions (\"Operation Narco Road\" and \"Fallen Ghosts\"); those 14 achievements are all below 2%. Only two achievements name another player, so the co-op chapter is small."
+}

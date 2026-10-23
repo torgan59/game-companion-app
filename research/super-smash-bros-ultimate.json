@@ -1,0 +1,106 @@
+{
+  "id": "super-smash-bros-ultimate",
+  "title": "Super Smash Bros. Ultimate",
+  "year": 2018,
+  "platforms": [
+    "Nintendo Switch"
+  ],
+  "rawgId": 58829,
+  "rawgSlug": "super-smash-bros-ultimate",
+  "released": "2018-12-07",
+  "developers": [
+    "Nintendo",
+    "Bandai Namco Entertainment",
+    "Sora"
+  ],
+  "playtime": null,
+  "genres": [
+    "Fighting"
+  ],
+  "tags": [
+    "Multiplayer",
+    "character",
+    "arena",
+    "fighter",
+    "mario",
+    "smash",
+    "zelda",
+    "pokemon"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/9f3/9f3c513b301d8d7250a64dd7e73c62df.jpg",
+  "steamAppId": null,
+  "achievements": {
+    "total": 0,
+    "examples": [],
+    "reason": "Nintendo Switch only: no Steam list, and Nintendo has no achievement system. StrategyWiki has a written Spirits page and lists a Challenges page that is not written; either could seed a CC BY-SA checklist later."
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Super_Smash_Bros._Ultimate",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 462,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://supersmashbros.fandom.com/wiki/Super_Smash_Bros._Ultimate"
+    }
+  },
+  "game": {
+    "id": "super-smash-bros-ultimate",
+    "title": "Super Smash Bros. Ultimate",
+    "platforms": [
+      "Nintendo Switch"
+    ],
+    "blurb": "Platform fighting game from Nintendo, Bandai Namco and Sora, released 2018-12-07 on Nintendo Switch. RAWG has no playtime yet. Genres: Fighting. Chapters follow the mode and page names on StrategyWiki and Fandom, since there are no Steam achievements.",
+    "accent": "#C8102E",
+    "chapters": [
+      {
+        "id": "basics",
+        "title": "Controls and Basics",
+        "summary": "Learning the controls and the core rules of a match.",
+        "steps": []
+      },
+      {
+        "id": "classic-mode",
+        "title": "Classic Mode",
+        "summary": "Each fighter's run of battles through Classic Mode.",
+        "steps": []
+      },
+      {
+        "id": "world-of-light",
+        "title": "World of Light and Spirits",
+        "summary": "The adventure mode and collecting Spirits. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "fighters",
+        "title": "The Fighter Roster",
+        "summary": "Unlocking and learning the fighters, including those added with the Fighters Pass.",
+        "steps": []
+      },
+      {
+        "id": "challenges",
+        "title": "Challenges",
+        "summary": "The in-game list of challenges to complete.",
+        "steps": []
+      }
+    ],
+    "collectibles": []
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/super-smash-bros-ultimate",
+    "Steam: no achievement list available for this game (see notes)",
+    "StrategyWiki: mission and page names used to group chapters, CC BY-SA 4.0; no text copied — https://strategywiki.org/wiki/Super_Smash_Bros._Ultimate",
+    "Fandom (supersmashbros.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://supersmashbros.fandom.com/wiki/Super_Smash_Bros._Ultimate"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). StrategyWiki has \"Super Smash Bros. Ultimate\" at completion stage 1 with 32 subpages. Its Walkthrough subpage is short (about 1,250 characters) and works as a fighter index: it links 86 fighter pages, of which 27 are written. Classic Mode (about 59,700 characters), Spirits, Controls and the Table of Contents are also written; Challenges and Gameplay are linked but not written. Because the walkthrough is a roster rather than chapter pages, it was not recorded in sw-structure.json and swUsed is off; only page names (Controls, Classic Mode, Spirits, Challenges) were used to name chapters. supersmashbros.fandom.com has the page with about 462 linked pages; \"World of Light\" and \"Fighters Pass\" are taken from that list. Names only were looked at, nothing copied. RAWG lists Nintendo, Bandai Namco Entertainment and Sora as developers."
+}

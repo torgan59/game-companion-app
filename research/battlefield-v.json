@@ -1,0 +1,304 @@
+{
+  "id": "battlefield-v",
+  "title": "Battlefield V",
+  "year": 2018,
+  "platforms": [
+    "PC",
+    "Xbox One",
+    "PlayStation 4"
+  ],
+  "rawgId": 58494,
+  "rawgSlug": "battlefield-v",
+  "released": "2018-11-20",
+  "developers": [
+    "Electronic Arts",
+    "Electronic Arts DICE",
+    "Uprise"
+  ],
+  "playtime": 5,
+  "genres": [
+    "Action",
+    "Shooter",
+    "Adventure",
+    "Massively Multiplayer"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Multiplayer",
+    "Full controller support",
+    "Atmospheric",
+    "Open World",
+    "First-Person",
+    "FPS",
+    "Female Protagonist",
+    "Violent",
+    "Action-Adventure",
+    "PvP"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/45b/45b57ed59de4b84effd8f6bc4b7bf515.jpg",
+  "steamAppId": 1238810,
+  "achievements": {
+    "total": 21,
+    "hidden": 0,
+    "examples": [
+      {
+        "name": "Last Man Standing",
+        "percent": 68.8
+      },
+      {
+        "name": "Enemy Attrition",
+        "percent": 51.0
+      },
+      {
+        "name": "Grim Reaper",
+        "percent": 49.8
+      },
+      {
+        "name": "Off-hand",
+        "percent": 3.5
+      },
+      {
+        "name": "Death from Above",
+        "percent": 2.2
+      },
+      {
+        "name": "Veteran",
+        "percent": 1.5
+      },
+      {
+        "name": "Hoist the Flag",
+        "percent": 1.0
+      },
+      {
+        "name": "Sins of the Fathers",
+        "percent": 0.9
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Battlefield_V",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 500,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://battlefield.fandom.com/wiki/Battlefield_V"
+    }
+  },
+  "game": {
+    "id": "battlefield-v",
+    "title": "Battlefield V",
+    "platforms": [
+      "PC",
+      "Xbox One",
+      "PlayStation 4"
+    ],
+    "blurb": "World War II first-person shooter from Electronic Arts DICE (with Electronic Arts and Uprise, as RAWG lists them), released 2018-11-20. RAWG average playtime: 5 hours. Genres: Action, Shooter, Adventure, Massively Multiplayer. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#C2502B",
+    "chapters": [
+      {
+        "id": "war-stories",
+        "title": "War Stories",
+        "summary": "Finishing the Under No Flag, Nordlys and Tirailleur War Stories.",
+        "steps": []
+      },
+      {
+        "id": "war-stories-difficulty",
+        "title": "War Stories on Medium, Hard and Hardcore",
+        "summary": "Finishing all three of those War Stories again on each harder setting.",
+        "steps": []
+      },
+      {
+        "id": "multiplayer-combat",
+        "title": "Multiplayer Combat and Vehicles",
+        "summary": "Kill counts, secondary weapons, suppression, roadkills and an airplane attack on manned weapons.",
+        "steps": []
+      },
+      {
+        "id": "modes-and-maps",
+        "title": "Conquest and Frontlines",
+        "summary": "A Conquest round on each launch map and capturing flags in Frontlines.",
+        "steps": []
+      },
+      {
+        "id": "squad-play",
+        "title": "Squad Play",
+        "summary": "Reinforcements as squad leader, fortifications, squad spawns and revives.",
+        "steps": []
+      },
+      {
+        "id": "career",
+        "title": "Score and Classes",
+        "summary": "Score totals as a player and as Assault, Medic, Support and Recon.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Storyteller",
+        "kind": "trophy",
+        "chapterId": "war-stories-difficulty",
+        "where": "Complete the War Stories Under No Flag, Nordlys & Tirailleur on Medium"
+      },
+      {
+        "id": "achievement-2",
+        "name": "Veteran",
+        "kind": "trophy",
+        "chapterId": "war-stories-difficulty",
+        "where": "Complete the War Stories Under No Flag, Nordlys & Tirailleur on Hard"
+      },
+      {
+        "id": "achievement-3",
+        "name": "Sins of the Fathers",
+        "kind": "trophy",
+        "chapterId": "war-stories-difficulty",
+        "where": "Complete the War Stories Under No Flag, Nordlys & Tirailleur on Hardcore"
+      },
+      {
+        "id": "achievement-4",
+        "name": "Lovely",
+        "kind": "trophy",
+        "chapterId": "war-stories",
+        "where": "Complete Under No Flag War Story"
+      },
+      {
+        "id": "achievement-5",
+        "name": "Store fuglar fanga ingi flugor",
+        "kind": "trophy",
+        "chapterId": "war-stories",
+        "where": "Complete Nordlys War Story"
+      },
+      {
+        "id": "achievement-6",
+        "name": "Ou La Mort",
+        "kind": "trophy",
+        "chapterId": "war-stories",
+        "where": "Complete Tirailleur War Story"
+      },
+      {
+        "id": "achievement-7",
+        "name": "Off-hand",
+        "kind": "trophy",
+        "chapterId": "multiplayer-combat",
+        "where": "In Multiplayer, kill 10 enemies with secondary weapons in a round"
+      },
+      {
+        "id": "achievement-8",
+        "name": "Enemy Attrition",
+        "kind": "trophy",
+        "chapterId": "multiplayer-combat",
+        "where": "In Multiplayer, get 10 kills in a round"
+      },
+      {
+        "id": "achievement-9",
+        "name": "Hoist the Flag",
+        "kind": "trophy",
+        "chapterId": "modes-and-maps",
+        "where": "In Multiplayer, capture 10 flags in Frontlines"
+      },
+      {
+        "id": "achievement-10",
+        "name": "Globetrotter",
+        "kind": "trophy",
+        "chapterId": "modes-and-maps",
+        "where": "Play a round of Conquest on each of the launch maps"
+      },
+      {
+        "id": "achievement-11",
+        "name": "Death from Above",
+        "kind": "trophy",
+        "chapterId": "multiplayer-combat",
+        "where": "In Multiplayer, destroy 5 manned stationary weapons with a Airplane"
+      },
+      {
+        "id": "achievement-12",
+        "name": "Fender Bender",
+        "kind": "trophy",
+        "chapterId": "multiplayer-combat",
+        "where": "In Multiplayer, roadkill 5 enemies"
+      },
+      {
+        "id": "achievement-13",
+        "name": "Grim Reaper",
+        "kind": "trophy",
+        "chapterId": "multiplayer-combat",
+        "where": "In Multiplayer, kill 30 enemies"
+      },
+      {
+        "id": "achievement-14",
+        "name": "Call ’em in!",
+        "kind": "trophy",
+        "chapterId": "squad-play",
+        "where": "In Multiplayer, as a squad leader call in 2 reinforcements in a round"
+      },
+      {
+        "id": "achievement-15",
+        "name": "Combat Engineer",
+        "kind": "trophy",
+        "chapterId": "squad-play",
+        "where": "In Multiplayer, build 10 fortifications in a round"
+      },
+      {
+        "id": "achievement-16",
+        "name": "Heads Down",
+        "kind": "trophy",
+        "chapterId": "multiplayer-combat",
+        "where": "In Multiplayer, fully suppress 5 enemies"
+      },
+      {
+        "id": "achievement-17",
+        "name": "Jack of All Trades",
+        "kind": "trophy",
+        "chapterId": "career",
+        "where": "Earn 100,000 score as an Assault, Medic, Support and Recon"
+      },
+      {
+        "id": "achievement-18",
+        "name": "Eager Beaver",
+        "kind": "trophy",
+        "chapterId": "career",
+        "where": "Earn 150,000 score as a Player"
+      },
+      {
+        "id": "achievement-19",
+        "name": "Elite",
+        "kind": "trophy",
+        "chapterId": "career",
+        "where": "Earn 500,000 score as a Player"
+      },
+      {
+        "id": "achievement-20",
+        "name": "Last Man Standing",
+        "kind": "trophy",
+        "chapterId": "squad-play",
+        "where": "In Multiplayer, have 3 squad members spawn on you"
+      },
+      {
+        "id": "achievement-21",
+        "name": "Not On My Watch",
+        "kind": "trophy",
+        "chapterId": "squad-play",
+        "where": "In Multiplayer, perform 10 squad revives"
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/battlefield-v",
+    "Achievement data from Steam (Steam Web API, app 1238810)",
+    "StrategyWiki: no usable walkthrough, nothing used — https://strategywiki.org/wiki/Battlefield_V",
+    "Fandom (battlefield.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://battlefield.fandom.com/wiki/Battlefield_V"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). Steam app 1238810 (\"Battlefield™ V\") was the only app-list match; the Steam schema names it \"Battlefield ™ V\". RAWG's first search result matched the expected slug. None of the 21 Steam achievements is hidden. Only three War Stories are named by achievements (Under No Flag, Nordlys, Tirailleur); RAWG's description mentions war stories but the data does not list any others, so the chapter covers just those three. Most achievements are multiplayer. StrategyWiki has \"Battlefield V\" at completion stage 0, marked as a stub; its Gameplay, Walkthrough, Table of Contents and Custom Nav subpages are linked but not written, so nothing was used. battlefield.fandom.com answers the API under \"Battlefield V\" with 500 linked articles (the query limit, so possibly more); names only were looked at, nothing copied."
+}

@@ -1,0 +1,324 @@
+{
+  "id": "destiny-2",
+  "title": "Destiny 2",
+  "year": 2017,
+  "platforms": [
+    "PlayStation 4",
+    "Xbox One",
+    "PC",
+    "Web",
+    "Xbox Series X|S",
+    "PlayStation 5"
+  ],
+  "rawgId": 32,
+  "rawgSlug": "destiny-2",
+  "released": "2017-09-06",
+  "developers": [
+    "Bungie"
+  ],
+  "playtime": 6,
+  "genres": [
+    "Action",
+    "Shooter"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Multiplayer",
+    "Full controller support",
+    "Atmospheric",
+    "Great Soundtrack",
+    "Co-op",
+    "Open World",
+    "cooperative",
+    "First-Person",
+    "Sci-fi",
+    "FPS",
+    "Online Co-Op"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/34b/34b1f1850a1c06fd971bc6ab3ac0ce0e.jpg",
+  "steamAppId": 1085660,
+  "achievements": {
+    "total": 23,
+    "hidden": 3,
+    "examples": [
+      {
+        "name": "Long and Winding Road",
+        "percent": 82.3
+      },
+      {
+        "name": "The People's Hero",
+        "percent": 49.1
+      },
+      {
+        "name": "Cayde's Pathfinder",
+        "percent": 34.0
+      },
+      {
+        "name": "Exotique",
+        "percent": 12.2
+      },
+      {
+        "name": "Fashion Statement",
+        "percent": 9.5
+      },
+      {
+        "name": "The Prestige",
+        "percent": 8.5
+      },
+      {
+        "name": "Seal the Deal",
+        "percent": 7.6
+      },
+      {
+        "name": "Wishing for the Best",
+        "percent": 7.1
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": false,
+      "pages": 0,
+      "reason": "No page for Destiny 2 (MediaWiki API returned missing; see notes for other titles tried)"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 123,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://destiny.fandom.com/wiki/Destiny_2"
+    }
+  },
+  "game": {
+    "id": "destiny-2",
+    "title": "Destiny 2",
+    "platforms": [
+      "PlayStation 4",
+      "Xbox One",
+      "PC",
+      "Web",
+      "Xbox Series X|S",
+      "PlayStation 5"
+    ],
+    "blurb": "Online first-person shooter with campaigns and shared-world activities, from Bungie, released 2017-09-06. RAWG average playtime: 6 hours. Genres: Action, Shooter. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#3E5A7A",
+    "chapters": [
+      {
+        "id": "campaign",
+        "title": "Campaign Quests, Levels and Subclasses",
+        "summary": "Reaching level 20, the \"Light Reforged\" quest and earning every Titan, Hunter and Warlock subclass.",
+        "steps": []
+      },
+      {
+        "id": "story-milestones",
+        "title": "Hidden Story Milestones",
+        "summary": "Hidden achievements, most likely tied to campaign or expansion story. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "public-events",
+        "title": "Public Events and the Wider System",
+        "summary": "Heroic public events and finding an Agent of the Nine.",
+        "steps": []
+      },
+      {
+        "id": "ops",
+        "title": "Vanguard Ops on Master and Grandmaster",
+        "summary": "Ops activities on Master and Grandmaster difficulty, including \"The Corrupted\" and \"Warden of Nothing\".",
+        "steps": []
+      },
+      {
+        "id": "raid",
+        "title": "The Last Wish Raid",
+        "summary": "Clearing the \"Last Wish\" raid with a fireteam.",
+        "steps": []
+      },
+      {
+        "id": "gambit",
+        "title": "Gambit",
+        "summary": "Winning a Gambit match.",
+        "steps": []
+      },
+      {
+        "id": "exotics-and-triumphs",
+        "title": "Exotics, Triumphs and Collections",
+        "summary": "Red War and Forsaken exotics, Triumph points and Seals, Collections badges and Seasonal Hub ranks.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Long and Winding Road",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Reach level 20."
+      },
+      {
+        "id": "achievement-2",
+        "name": "Zavala's Lieutenant",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Acquire each Titan subclass."
+      },
+      {
+        "id": "achievement-3",
+        "name": "Cayde's Pathfinder",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Acquire each Hunter subclass."
+      },
+      {
+        "id": "achievement-4",
+        "name": "Ikora's Protégé",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Acquire each Warlock subclass."
+      },
+      {
+        "id": "achievement-5",
+        "name": "Show Me What You Got",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Complete the \"Light Reforged\" quest."
+      },
+      {
+        "id": "achievement-6",
+        "name": "In A Flash",
+        "kind": "trophy",
+        "chapterId": "public-events",
+        "where": "Complete 5 Heroic Public Events."
+      },
+      {
+        "id": "achievement-7",
+        "name": "The People's Hero",
+        "kind": "trophy",
+        "chapterId": "public-events",
+        "where": "Complete a Heroic public event."
+      },
+      {
+        "id": "achievement-8",
+        "name": "Heart of Darkness",
+        "kind": "trophy",
+        "chapterId": "ops",
+        "where": "Complete a Vanguard Ops activity on Master difficulty or higher."
+      },
+      {
+        "id": "achievement-9",
+        "name": "The Life Exotic",
+        "kind": "trophy",
+        "chapterId": "exotics-and-triumphs",
+        "where": "Collect 15 Red War exotic weapons or armor."
+      },
+      {
+        "id": "achievement-10",
+        "name": "Challenge Accepted",
+        "kind": "trophy",
+        "chapterId": "exotics-and-triumphs",
+        "where": "Reach Weekly Rewards Rank 20 in the Seasonal Hub."
+      },
+      {
+        "id": "achievement-11",
+        "name": "Belly Of The Beast",
+        "kind": "trophy",
+        "chapterId": "ops",
+        "where": "Complete an Ops Activity on Master difficulty or higher."
+      },
+      {
+        "id": "achievement-12",
+        "name": "The Prestige",
+        "kind": "trophy",
+        "chapterId": "ops",
+        "where": "Complete an Ops Activity on Grandmaster difficulty."
+      },
+      {
+        "id": "achievement-13",
+        "name": "Lest Ye Be Judged",
+        "kind": "trophy",
+        "chapterId": "public-events",
+        "where": "Encounter an Agent of the Nine somewhere in the system."
+      },
+      {
+        "id": "achievement-14",
+        "name": "Legends Grow",
+        "kind": "trophy",
+        "chapterId": "exotics-and-triumphs",
+        "where": "Earn 5,000 Triumph points."
+      },
+      {
+        "id": "achievement-15",
+        "name": "Exotique",
+        "kind": "trophy",
+        "chapterId": "exotics-and-triumphs",
+        "where": "Collect 10 Forsaken Exotic weapons or armor."
+      },
+      {
+        "id": "achievement-16",
+        "name": "Seal the Deal",
+        "kind": "trophy",
+        "chapterId": "exotics-and-triumphs",
+        "where": "Complete a Triumph Seal."
+      },
+      {
+        "id": "achievement-17",
+        "name": "Fashion Statement",
+        "kind": "trophy",
+        "chapterId": "exotics-and-triumphs",
+        "where": "Complete a Collections Badge."
+      },
+      {
+        "id": "achievement-18",
+        "name": "Heart of the Awoken",
+        "kind": "trophy",
+        "chapterId": "story-milestones",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-19",
+        "name": "An Exotic Journey",
+        "kind": "trophy",
+        "chapterId": "story-milestones",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-20",
+        "name": "High-Stakes Play",
+        "kind": "trophy",
+        "chapterId": "gambit",
+        "where": "Win a Gambit match."
+      },
+      {
+        "id": "achievement-21",
+        "name": "Darkness Falls",
+        "kind": "trophy",
+        "chapterId": "ops",
+        "where": "Complete \"The Corrupted\" or \"Warden of Nothing\" on Master difficulty or higher."
+      },
+      {
+        "id": "achievement-22",
+        "name": "Nothing Left to Say",
+        "kind": "trophy",
+        "chapterId": "story-milestones",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-23",
+        "name": "Wishing for the Best",
+        "kind": "trophy",
+        "chapterId": "raid",
+        "where": "Complete the \"Last Wish\" Raid."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/destiny-2",
+    "Achievement data from Steam (Steam Web API, app 1085660)",
+    "StrategyWiki: no page for this game, nothing used",
+    "Fandom (destiny.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://destiny.fandom.com/wiki/Destiny_2"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). Steam app 1085660 is used; its list has only 23 achievements, 3 of them hidden, so this is a thin skeleton for a large live game. Red War and Forsaken are named because achievement descriptions name them; other expansion and season names (for example Shadowkeep, Beyond Light, Lightfall and The Final Shape on the Fandom page list) have no achievements and no chapters. StrategyWiki has no page under \"Destiny 2\" or \"Destiny\". destinypedia.fandom.com returned HTTP 404; destiny.fandom.com has \"Destiny 2\" with about 123 linked pages; names only were looked at, nothing copied. The Steam data does not say whether \"The Corrupted\" and \"Warden of Nothing\" are strikes or other activities, so they sit with the Ops chapter where their achievement puts them."
+}

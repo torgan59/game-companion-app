@@ -1,0 +1,118 @@
+{
+  "id": "super-mario-odyssey",
+  "title": "Super Mario Odyssey",
+  "year": 2017,
+  "platforms": [
+    "Nintendo Switch"
+  ],
+  "rawgId": 28026,
+  "rawgSlug": "super-mario-odyssey",
+  "released": "2017-10-27",
+  "developers": [
+    "Nintendo"
+  ],
+  "playtime": null,
+  "genres": [
+    "Arcade",
+    "Platformer"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Local Multiplayer",
+    "Family Friendly",
+    "exclusive",
+    "Cute",
+    "true exclusive",
+    "3D Platformer",
+    "Cult Classic",
+    "kids"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/267/267bd0dbc496f52692487d07d014c061.jpg",
+  "steamAppId": null,
+  "achievements": {
+    "total": 0,
+    "examples": [],
+    "reason": "Nintendo Switch only: no Steam list, and Nintendo has no achievement system. StrategyWiki lists one walkthrough page per kingdom, but none of them is written yet, so there is no collectible list to draw on."
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Super_Mario_Odyssey",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 500,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://mario.fandom.com/wiki/Super_Mario_Odyssey"
+    }
+  },
+  "game": {
+    "id": "super-mario-odyssey",
+    "title": "Super Mario Odyssey",
+    "platforms": [
+      "Nintendo Switch"
+    ],
+    "blurb": "3D platformer from Nintendo, released 2017-10-27 on Nintendo Switch. RAWG has no playtime yet. Genres: Arcade, Platformer. Chapters follow the kingdom order in StrategyWiki's walkthrough contents (page names only), grouped a few kingdoms at a time.",
+    "accent": "#C8102E",
+    "chapters": [
+      {
+        "id": "cap-cascade-sand",
+        "title": "Cap, Cascade and Sand Kingdoms",
+        "summary": "The first three kingdoms on the walkthrough list.",
+        "steps": []
+      },
+      {
+        "id": "lake-wooded-cloud-lost",
+        "title": "Lake, Wooded, Cloud and Lost Kingdoms",
+        "summary": "The next four kingdoms.",
+        "steps": []
+      },
+      {
+        "id": "metro-snow-seaside",
+        "title": "Metro, Snow and Seaside Kingdoms",
+        "summary": "The middle stretch of the journey.",
+        "steps": []
+      },
+      {
+        "id": "luncheon-ruined-bowser",
+        "title": "Luncheon, Ruined and Bowser's Kingdoms",
+        "summary": "The next three kingdoms. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "moon",
+        "title": "Moon Kingdom",
+        "summary": "The fourteenth kingdom on the walkthrough list. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "after-the-story",
+        "title": "Mushroom Kingdom and the Moon's Dark Sides",
+        "summary": "The last three entries on the walkthrough list: the Mushroom Kingdom, the Dark Side of the Moon and the Darker Side of the Moon. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "extras",
+        "title": "Outfits and Luigi's Balloon World",
+        "summary": "The Outfits and Luigi's Balloon World pages listed in the appendices.",
+        "steps": []
+      }
+    ],
+    "collectibles": []
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/super-mario-odyssey",
+    "Steam: no achievement list available for this game (see notes)",
+    "StrategyWiki: mission and page names used to group chapters, CC BY-SA 4.0; no text copied — https://strategywiki.org/wiki/Super_Mario_Odyssey",
+    "Fandom (mario.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://mario.fandom.com/wiki/Super_Mario_Odyssey"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). Nintendo Switch only, so there is no Steam app. StrategyWiki has a page at completion stage 0: only Controls and Table of Contents are written. Its Walkthrough, Gameplay, Enemies, Outfits, Luigi's Balloon World and all 17 kingdom pages are linked but not written, so it is not a usable guide. The chapter names and order come from the kingdom page names on its contents page (CC BY-SA 4.0, names only); the grouping into chapters and the summaries are our own, and where the story ends was not in the data, so the later chapter breaks simply follow the list order. mario.fandom.com answers the API under \"Super Mario Odyssey\" with 500 linked articles (the query limit, so possibly more); names only were looked at, nothing copied."
+}

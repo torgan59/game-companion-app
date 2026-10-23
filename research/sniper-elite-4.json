@@ -1,0 +1,773 @@
+{
+  "id": "sniper-elite-4",
+  "title": "Sniper Elite 4",
+  "year": 2017,
+  "platforms": [
+    "PlayStation 5",
+    "Xbox Series X|S",
+    "PC",
+    "PlayStation 4",
+    "Nintendo Switch",
+    "Xbox One"
+  ],
+  "rawgId": 382,
+  "rawgSlug": "sniper-elite-4",
+  "released": "2017-02-13",
+  "developers": [
+    "Rebellion"
+  ],
+  "playtime": 6,
+  "genres": [
+    "Action",
+    "Shooter",
+    "Adventure"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Multiplayer",
+    "Full controller support",
+    "Steam Cloud",
+    "Atmospheric",
+    "steam-trading-cards",
+    "Co-op",
+    "Open World",
+    "cooperative",
+    "Third Person",
+    "FPS"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/2fe/2feec1ba840f467a2280061b9e665c6e.jpg",
+  "steamAppId": 312660,
+  "achievements": {
+    "total": 85,
+    "hidden": 1,
+    "examples": [
+      {
+        "name": "The end of the beginning",
+        "percent": 68.8
+      },
+      {
+        "name": "Dogface",
+        "percent": 63.2
+      },
+      {
+        "name": "We shall fight on the beaches",
+        "percent": 58.1
+      },
+      {
+        "name": "Full Marks",
+        "percent": 1.1
+      },
+      {
+        "name": "Atomic",
+        "percent": 1.1
+      },
+      {
+        "name": "Overkill",
+        "percent": 1.1
+      },
+      {
+        "name": "Better than the Best",
+        "percent": 1.1
+      },
+      {
+        "name": "Competitive Nature",
+        "percent": 1.0
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Sniper_Elite_4",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 159,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://sniperelite.fandom.com/wiki/Sniper_Elite_4"
+    }
+  },
+  "game": {
+    "id": "sniper-elite-4",
+    "title": "Sniper Elite 4",
+    "platforms": [
+      "PlayStation 5",
+      "Xbox Series X|S",
+      "PC",
+      "PlayStation 4",
+      "Nintendo Switch",
+      "Xbox One"
+    ],
+    "blurb": "Third-person tactical sniper shooter from Rebellion, released 2017-02-13. RAWG average playtime: 6 hours. Genres: Action, Shooter, Adventure. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#56602F",
+    "chapters": [
+      {
+        "id": "campaign",
+        "title": "The Main Campaign",
+        "summary": "Finishing each of the eight campaign missions.",
+        "steps": []
+      },
+      {
+        "id": "objectives-and-collectibles",
+        "title": "Side Objectives and Collectibles",
+        "summary": "Secondary objectives (including Mother Hen and OSS), mission challenges, letters, stone eagles and sniper reports.",
+        "steps": []
+      },
+      {
+        "id": "difficulty",
+        "title": "Difficulty Runs",
+        "summary": "The whole campaign on Cadet, Marksman, Sniper Elite, Authentic and Authentic Plus, including no-manual-save runs.",
+        "steps": []
+      },
+      {
+        "id": "combat",
+        "title": "Weapons, Kills and Rank",
+        "summary": "Weapon mastery, kill counts, kill-cam shots, traps, explosives and character rank.",
+        "steps": []
+      },
+      {
+        "id": "multiplayer-and-coop",
+        "title": "Overwatch, Survival and Multiplayer",
+        "summary": "Overwatch 1 and 2, Survival waves, playing every mode and the radio capture.",
+        "steps": []
+      },
+      {
+        "id": "target-fuhrer",
+        "title": "Target Führer",
+        "summary": "Finishing the mission, its many ways to take out the target, its optional objectives and its challenges.",
+        "steps": []
+      },
+      {
+        "id": "inception",
+        "title": "Inception",
+        "summary": "Finishing the mission, the train door, the snipers, the tank, the destroyer and its challenges.",
+        "steps": []
+      },
+      {
+        "id": "infiltration",
+        "title": "Infiltration",
+        "summary": "Finishing the mission, the briefing, the island, the Valkyrie Squad and its challenges.",
+        "steps": []
+      },
+      {
+        "id": "obliteration",
+        "title": "Obliteration",
+        "summary": "Finishing the mission, the scientists, the Reiner family, the bunker and its challenges.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "The end of the beginning",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Complete Mission 1"
+      },
+      {
+        "id": "achievement-2",
+        "name": "We shall fight on the beaches",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Complete Mission 2"
+      },
+      {
+        "id": "achievement-3",
+        "name": "No compromise is possible",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Complete Mission 3"
+      },
+      {
+        "id": "achievement-4",
+        "name": "Set Europe ablaze!",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Complete Mission 4"
+      },
+      {
+        "id": "achievement-5",
+        "name": "We shall not fail or falter",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Complete Mission 5"
+      },
+      {
+        "id": "achievement-6",
+        "name": "Never, never, never give up",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Complete Mission 6"
+      },
+      {
+        "id": "achievement-7",
+        "name": "Plans are nothing; planning is everything",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Complete Mission 7"
+      },
+      {
+        "id": "achievement-8",
+        "name": "Success is not final",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Complete Mission 8"
+      },
+      {
+        "id": "achievement-9",
+        "name": "Compounding Your Success",
+        "kind": "trophy",
+        "chapterId": "multiplayer-and-coop",
+        "where": "Complete Overwatch 1"
+      },
+      {
+        "id": "achievement-10",
+        "name": "Train, Set and Match",
+        "kind": "trophy",
+        "chapterId": "multiplayer-and-coop",
+        "where": "Complete Overwatch 2"
+      },
+      {
+        "id": "achievement-11",
+        "name": "A Most Singular Expert",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Master a single weapon"
+      },
+      {
+        "id": "achievement-12",
+        "name": "The Pistol Pro",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "100 Kills with a Pistol"
+      },
+      {
+        "id": "achievement-13",
+        "name": "The Secondary Specialist",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "250 Kills with a Secondary Weapon"
+      },
+      {
+        "id": "achievement-14",
+        "name": "Rockin' the Rifle",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "500 Kills with a Rifle"
+      },
+      {
+        "id": "achievement-15",
+        "name": "I See You!",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Fully Target Focus 100 times"
+      },
+      {
+        "id": "achievement-16",
+        "name": "Everything by Halves",
+        "kind": "trophy",
+        "chapterId": "objectives-and-collectibles",
+        "where": "Complete 50% of all Secondary Objectives in the Main Campaign"
+      },
+      {
+        "id": "achievement-17",
+        "name": "Following Orders",
+        "kind": "trophy",
+        "chapterId": "objectives-and-collectibles",
+        "where": "Complete All Secondary Objectives in the Main Campaign"
+      },
+      {
+        "id": "achievement-18",
+        "name": "Keeping your Distance",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Total kill distance of 100 Kilometres"
+      },
+      {
+        "id": "achievement-19",
+        "name": "Ambush King",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Kill 100 enemies with traps"
+      },
+      {
+        "id": "achievement-20",
+        "name": "Are You Insane?",
+        "kind": "trophy",
+        "chapterId": "difficulty",
+        "where": "Complete the entire main campaign on Authentic Difficulty"
+      },
+      {
+        "id": "achievement-21",
+        "name": "The Real Deal",
+        "kind": "trophy",
+        "chapterId": "difficulty",
+        "where": "Complete the entire main campaign on Sniper Elite difficulty"
+      },
+      {
+        "id": "achievement-22",
+        "name": "The Masterful Marksman",
+        "kind": "trophy",
+        "chapterId": "difficulty",
+        "where": "Complete the entire main campaign on Marksman difficulty"
+      },
+      {
+        "id": "achievement-23",
+        "name": "Mission Possible",
+        "kind": "trophy",
+        "chapterId": "difficulty",
+        "where": "Complete the entire main campaign on Cadet difficulty"
+      },
+      {
+        "id": "achievement-24",
+        "name": "The Nutcracker - Sweet!",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Incapacitate an enemy, then shoot them in the testicles"
+      },
+      {
+        "id": "achievement-25",
+        "name": "The Organ Grinder",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Get at least one killshot on every organ"
+      },
+      {
+        "id": "achievement-26",
+        "name": "Dirty Tactics",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Kill an enemy via a booby trap"
+      },
+      {
+        "id": "achievement-27",
+        "name": "Demolition Fan",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Satchel Charge 25 manned vehicles/pillboxes/pantherturms"
+      },
+      {
+        "id": "achievement-28",
+        "name": "Fire and Brimstone",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Kill 5 enemies with a single artillery strike"
+      },
+      {
+        "id": "achievement-29",
+        "name": "Sniper Interrupted",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Kill 5 Snipers before they see you"
+      },
+      {
+        "id": "achievement-30",
+        "name": "The Path of Most Resistance",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-31",
+        "name": "Mother knows best",
+        "kind": "trophy",
+        "chapterId": "objectives-and-collectibles",
+        "where": "Complete all Mother Hen secondary Objectives in the main game"
+      },
+      {
+        "id": "achievement-32",
+        "name": "Weaver's Warrior",
+        "kind": "trophy",
+        "chapterId": "objectives-and-collectibles",
+        "where": "Complete all OSS Secondary Objectives in the Main Campaign"
+      },
+      {
+        "id": "achievement-33",
+        "name": "Challenge Accepted",
+        "kind": "trophy",
+        "chapterId": "objectives-and-collectibles",
+        "where": "Complete all challenges in a single mission"
+      },
+      {
+        "id": "achievement-34",
+        "name": "Variety is the Spice of Death",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Get a kill with every weapon"
+      },
+      {
+        "id": "achievement-35",
+        "name": "Silent But Deadly",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Kill 100 enemies with suppressed ammo"
+      },
+      {
+        "id": "achievement-36",
+        "name": "Still Ain't Got Time to Bleed",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Complete a single player mission without using a Medikit or Bandage"
+      },
+      {
+        "id": "achievement-37",
+        "name": "On Yer Head, Son",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Kill enemies with 3 different environmental drop kills"
+      },
+      {
+        "id": "achievement-38",
+        "name": "My Rifle is My Best Friend",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Complete a main campaign mission with rifle kills only"
+      },
+      {
+        "id": "achievement-39",
+        "name": "The Collector",
+        "kind": "trophy",
+        "chapterId": "objectives-and-collectibles",
+        "where": "Collect all Last Letters, Letters From Home, and Letters To Home in the main game"
+      },
+      {
+        "id": "achievement-40",
+        "name": "Master-At-Arms",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Fully master a rifle, secondary weapon and pistol"
+      },
+      {
+        "id": "achievement-41",
+        "name": "A Bird in the Hand...",
+        "kind": "trophy",
+        "chapterId": "objectives-and-collectibles",
+        "where": "Shoot all Stone eagles"
+      },
+      {
+        "id": "achievement-42",
+        "name": "Greatest Hits",
+        "kind": "trophy",
+        "chapterId": "objectives-and-collectibles",
+        "where": "Find all sniper reports"
+      },
+      {
+        "id": "achievement-43",
+        "name": "Dogface",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Reach character rank 5"
+      },
+      {
+        "id": "achievement-44",
+        "name": "Jarhead",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Reach character rank 25"
+      },
+      {
+        "id": "achievement-45",
+        "name": "Veteran",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Reach character rank 50"
+      },
+      {
+        "id": "achievement-46",
+        "name": "Gotta Cap 'em All",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Kill one of each infantry type"
+      },
+      {
+        "id": "achievement-47",
+        "name": "Survival of the Fittest",
+        "kind": "trophy",
+        "chapterId": "multiplayer-and-coop",
+        "where": "Complete all waves in a survival session"
+      },
+      {
+        "id": "achievement-48",
+        "name": "Competitive Nature",
+        "kind": "trophy",
+        "chapterId": "multiplayer-and-coop",
+        "where": "Complete at least one match in each mode"
+      },
+      {
+        "id": "achievement-49",
+        "name": "Channel Changer",
+        "kind": "trophy",
+        "chapterId": "multiplayer-and-coop",
+        "where": "Take control of the enemy held radio and capture it with just seconds remaining"
+      },
+      {
+        "id": "achievement-50",
+        "name": "The Best of the Best of the Best",
+        "kind": "trophy",
+        "chapterId": "difficulty",
+        "where": "Complete the entire main campaign on Authentic difficulty with no manual saves"
+      },
+      {
+        "id": "achievement-51",
+        "name": "Albert Hall",
+        "kind": "trophy",
+        "chapterId": "target-fuhrer",
+        "where": "Target Führer - Kill Hitler with a testicle shot"
+      },
+      {
+        "id": "achievement-52",
+        "name": "Hot Pot",
+        "kind": "trophy",
+        "chapterId": "target-fuhrer",
+        "where": "Target Führer - Kill Hitler with the casserole"
+      },
+      {
+        "id": "achievement-53",
+        "name": "Minesweeper",
+        "kind": "trophy",
+        "chapterId": "target-fuhrer",
+        "where": "Target Führer - Blow up Hitler on VIP boat with a sea mine"
+      },
+      {
+        "id": "achievement-54",
+        "name": "STRIKE!!",
+        "kind": "trophy",
+        "chapterId": "target-fuhrer",
+        "where": "Target Führer - Kill Hitler with a torpedo rack"
+      },
+      {
+        "id": "achievement-55",
+        "name": "The Eagle Has Landed",
+        "kind": "trophy",
+        "chapterId": "target-fuhrer",
+        "where": "Target Führer - Crush Hitler with the Eagle at the ceremony"
+      },
+      {
+        "id": "achievement-56",
+        "name": "Total War",
+        "kind": "trophy",
+        "chapterId": "target-fuhrer",
+        "where": "Target Führer - Complete all challenges"
+      },
+      {
+        "id": "achievement-57",
+        "name": "Down Periscope",
+        "kind": "trophy",
+        "chapterId": "target-fuhrer",
+        "where": "Target Führer - Kill Hitler with the submarine"
+      },
+      {
+        "id": "achievement-58",
+        "name": "0 Days Without Incident",
+        "kind": "trophy",
+        "chapterId": "target-fuhrer",
+        "where": "Target Führer - Kill Hitler with any explosive item/trap"
+      },
+      {
+        "id": "achievement-59",
+        "name": "Silent but Violent",
+        "kind": "trophy",
+        "chapterId": "target-fuhrer",
+        "where": "Target Führer - Kill Hitler and exfiltrate without being detected"
+      },
+      {
+        "id": "achievement-60",
+        "name": "Base Desires",
+        "kind": "trophy",
+        "chapterId": "target-fuhrer",
+        "where": "Target Führer - Complete all Optional Objectives and destroy the base"
+      },
+      {
+        "id": "achievement-61",
+        "name": "Final Reckoning",
+        "kind": "trophy",
+        "chapterId": "target-fuhrer",
+        "where": "Target Führer - Complete the Mission"
+      },
+      {
+        "id": "achievement-62",
+        "name": "Deja View to a Kill",
+        "kind": "trophy",
+        "chapterId": "target-fuhrer",
+        "where": "Target Führer - Kill Hitler"
+      },
+      {
+        "id": "achievement-63",
+        "name": "Shore Leave",
+        "kind": "trophy",
+        "chapterId": "inception",
+        "where": "Inception - Complete the mission"
+      },
+      {
+        "id": "achievement-64",
+        "name": "All Inclusive",
+        "kind": "trophy",
+        "chapterId": "inception",
+        "where": "Inception - Complete all the challenges"
+      },
+      {
+        "id": "achievement-65",
+        "name": "Karl Shot First",
+        "kind": "trophy",
+        "chapterId": "inception",
+        "where": "Inception - Get to the destroyer and launch the torpedo without being spotted"
+      },
+      {
+        "id": "achievement-66",
+        "name": "Save Keys to Open Doors",
+        "kind": "trophy",
+        "chapterId": "inception",
+        "where": "Inception - Unlock the train door using the keys found on the officers"
+      },
+      {
+        "id": "achievement-67",
+        "name": "Knife to a Gun Fight",
+        "kind": "trophy",
+        "chapterId": "inception",
+        "where": "Inception - Melee takedown all the snipers"
+      },
+      {
+        "id": "achievement-68",
+        "name": "Heads Up",
+        "kind": "trophy",
+        "chapterId": "inception",
+        "where": "Inception - Destroy the tank with a crane drop"
+      },
+      {
+        "id": "achievement-69",
+        "name": "King of the World",
+        "kind": "trophy",
+        "chapterId": "inception",
+        "where": "Inception - Dump Major Volker Grün's body into the water from the end of a boat"
+      },
+      {
+        "id": "achievement-70",
+        "name": "Cipher Elite",
+        "kind": "trophy",
+        "chapterId": "infiltration",
+        "where": "Infiltration - Complete the Mission"
+      },
+      {
+        "id": "achievement-71",
+        "name": "Full Marks",
+        "kind": "trophy",
+        "chapterId": "infiltration",
+        "where": "Infiltration - Complete all the Challenges"
+      },
+      {
+        "id": "achievement-72",
+        "name": "Faust of Fury",
+        "kind": "trophy",
+        "chapterId": "infiltration",
+        "where": "Infiltration - Kill the Valkyrie Squad reinforcements using only the Neunfaust"
+      },
+      {
+        "id": "achievement-73",
+        "name": "Debriefed",
+        "kind": "trophy",
+        "chapterId": "infiltration",
+        "where": "Infiltration - Multi-Kill the Officers during the tactical briefing in the auditorium"
+      },
+      {
+        "id": "achievement-74",
+        "name": "Fish-in-a-Barrel",
+        "kind": "trophy",
+        "chapterId": "infiltration",
+        "where": "Infiltration - Kill all enemies on the island with explosives"
+      },
+      {
+        "id": "achievement-75",
+        "name": "Read This!",
+        "kind": "trophy",
+        "chapterId": "infiltration",
+        "where": "Infiltration - Eye shot the book burning Officer"
+      },
+      {
+        "id": "achievement-76",
+        "name": "Untouchable",
+        "kind": "trophy",
+        "chapterId": "infiltration",
+        "where": "Infiltration - Complete the Mission without being shot by a Sniper"
+      },
+      {
+        "id": "achievement-77",
+        "name": "Storm Chaser",
+        "kind": "trophy",
+        "chapterId": "obliteration",
+        "where": "Obliteration - Complete the Mission"
+      },
+      {
+        "id": "achievement-78",
+        "name": "Atomic",
+        "kind": "trophy",
+        "chapterId": "obliteration",
+        "where": "Obliteration - Complete all the Challenges"
+      },
+      {
+        "id": "achievement-79",
+        "name": "Ghost Town",
+        "kind": "trophy",
+        "chapterId": "obliteration",
+        "where": "Obliteration - Kill everyone"
+      },
+      {
+        "id": "achievement-80",
+        "name": "I Love Science",
+        "kind": "trophy",
+        "chapterId": "obliteration",
+        "where": "Obliteration - Extract Wernicke, Hänel, and Kehrer in one playthrough"
+      },
+      {
+        "id": "achievement-81",
+        "name": "Saving Private Reiner",
+        "kind": "trophy",
+        "chapterId": "obliteration",
+        "where": "Obliteration - Don't kill any members of the Reiner family"
+      },
+      {
+        "id": "achievement-82",
+        "name": "Fingers off Triggers",
+        "kind": "trophy",
+        "chapterId": "obliteration",
+        "where": "Obliteration - From the bunker reach the extraction point without firing a shot"
+      },
+      {
+        "id": "achievement-83",
+        "name": "Overkill",
+        "kind": "trophy",
+        "chapterId": "obliteration",
+        "where": "Obliteration - Kill all enemy snipers with explosives"
+      },
+      {
+        "id": "achievement-84",
+        "name": "You know you're REALLY insane, right?",
+        "kind": "trophy",
+        "chapterId": "difficulty",
+        "where": "Complete the entire main campaign on Authentic Plus difficulty"
+      },
+      {
+        "id": "achievement-85",
+        "name": "Better than the Best",
+        "kind": "trophy",
+        "chapterId": "difficulty",
+        "where": "Complete the entire main campaign on Authentic Plus difficulty with no manual saves."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/sniper-elite-4",
+    "Achievement data from Steam (Steam Web API, app 312660)",
+    "StrategyWiki: no usable walkthrough, nothing used — https://strategywiki.org/wiki/Sniper_Elite_4",
+    "Fandom (sniperelite.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://sniperelite.fandom.com/wiki/Sniper_Elite_4"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). Steam app 312660; its Steam schema names the app \"New_Project_01\" (a placeholder name). StrategyWiki has a stub page (completion stage 0); of its subpages only \"Table of Contents\" and one mission page, \"Allagra Fortress\", are written, and the Walkthrough and other mission pages it links are not, so it was not used for structure. sniperelite.fandom.com has the page, with about 159 linked pages; names only were looked at, nothing copied. Only 1 of 85 Steam achievements is hidden (\"The Path of Most Resistance\", 20.5%); it sits in the campaign chapter as a placeholder. Target Führer, Inception, Infiltration and Obliteration each have a block of achievements named for them, so each gets a chapter; the data does not say whether they are add-ons. The eight campaign missions are numbered only (\"Complete Mission 1\" to 8), so their names are not given. \"Overwatch 1\" and \"Overwatch 2\" are not explained in the data; they sit with the multiplayer and co-op chapter."
+}

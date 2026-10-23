@@ -1,0 +1,681 @@
+{
+  "id": "injustice-2",
+  "title": "Injustice 2",
+  "year": 2017,
+  "platforms": [
+    "Android",
+    "PlayStation 4",
+    "PC",
+    "Xbox One",
+    "iOS"
+  ],
+  "rawgId": 38,
+  "rawgSlug": "injustice-2",
+  "released": "2017-05-09",
+  "developers": [
+    "Warner Bros. Interactive",
+    "NetherRealm Studios",
+    "QLOC"
+  ],
+  "playtime": 6,
+  "genres": [
+    "Fighting"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Multiplayer",
+    "Full controller support",
+    "Steam Cloud",
+    "steam-trading-cards",
+    "Online multiplayer",
+    "Local Multiplayer",
+    "In-App Purchases",
+    "Comic Book",
+    "Superhero"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/e42/e428e70c97064037326d7863a43a0454.jpg",
+  "steamAppId": 627270,
+  "achievements": {
+    "total": 74,
+    "hidden": 5,
+    "examples": [
+      {
+        "name": "Untouchable",
+        "percent": 86.1
+      },
+      {
+        "name": "Would You Like Some Crumpets With That?",
+        "percent": 43.6
+      },
+      {
+        "name": "Half Way There",
+        "percent": 31.2
+      },
+      {
+        "name": "Winning Is Fun",
+        "percent": 1.1
+      },
+      {
+        "name": "A Real Contender",
+        "percent": 1.1
+      },
+      {
+        "name": "I Voted",
+        "percent": 1.1
+      },
+      {
+        "name": "Off With His Head",
+        "percent": 1.0
+      },
+      {
+        "name": "Cat Fight",
+        "percent": 1.0
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Injustice_2",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 130,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://injustice.fandom.com/wiki/Injustice_2"
+    }
+  },
+  "game": {
+    "id": "injustice-2",
+    "title": "Injustice 2",
+    "platforms": [
+      "Android",
+      "PlayStation 4",
+      "PC",
+      "Xbox One",
+      "iOS"
+    ],
+    "blurb": "Superhero fighting game from NetherRealm Studios (RAWG also lists Warner Bros. Interactive and QLOC), released 2017-05-09. RAWG average playtime: 6 hours. Genres: Fighting. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#1F4E8C",
+    "chapters": [
+      {
+        "id": "story",
+        "title": "Story Mode",
+        "summary": "Clearing half and then all of Story mode, and replaying it with every alternate path.",
+        "steps": []
+      },
+      {
+        "id": "arenas-and-basics",
+        "title": "Arenas, Moves and Training",
+        "summary": "Arena transitions, background bounces, Supermoves, ducking, dodging hits and the training categories.",
+        "steps": []
+      },
+      {
+        "id": "character-feats",
+        "title": "Character Finishers",
+        "summary": "Winning with each fighter's signature move as the final hit, plus the hidden character challenges.",
+        "steps": []
+      },
+      {
+        "id": "dlc-fighters",
+        "title": "Added Fighters",
+        "summary": "Finishers for the fighters StrategyWiki marks as DLC, such as Red Hood, Starfire, Sub-Zero, Hellboy, Darkseid and the Ninja Turtles.",
+        "steps": []
+      },
+      {
+        "id": "multiverse",
+        "title": "Multiverse, Guilds and Battle Simulator",
+        "summary": "Multiverse events, joining a Guild, Mother Boxes, AI Battle Simulation and every ending in the Battle Simulator.",
+        "steps": []
+      },
+      {
+        "id": "gear-and-levels",
+        "title": "Gear and Levels",
+        "summary": "Collecting and selling gear, Player XP and character levels.",
+        "steps": []
+      },
+      {
+        "id": "online",
+        "title": "Online Play",
+        "summary": "Ranked and player matches, King of the Hill and online comebacks.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Catch The 4:30 To Metropolis",
+        "kind": "trophy",
+        "chapterId": "arenas-and-basics",
+        "where": "Knock an opponent into the Memorial Station Arena Transition at 4:30"
+      },
+      {
+        "id": "achievement-2",
+        "name": "It's Showtime",
+        "kind": "trophy",
+        "chapterId": "arenas-and-basics",
+        "where": "Knock an opponent into the Empire Theatre Arena Transition at 8:00pm"
+      },
+      {
+        "id": "achievement-3",
+        "name": "Going Ape",
+        "kind": "trophy",
+        "chapterId": "arenas-and-basics",
+        "where": "Throw 3 kegs during a match with Gorilla Grodd at the Ace o' Clubs"
+      },
+      {
+        "id": "achievement-4",
+        "name": "Doctor Fate-Ality",
+        "kind": "trophy",
+        "chapterId": "arenas-and-basics",
+        "where": "Perform 3 background bounces on the Empire Theatre background"
+      },
+      {
+        "id": "achievement-5",
+        "name": "Winning Is Fun",
+        "kind": "trophy",
+        "chapterId": "online",
+        "where": "Win 10 ranked matches"
+      },
+      {
+        "id": "achievement-6",
+        "name": "Don't Stop Me Now",
+        "kind": "trophy",
+        "chapterId": "online",
+        "where": "Win 50 player matches"
+      },
+      {
+        "id": "achievement-7",
+        "name": "A Real Contender",
+        "kind": "trophy",
+        "chapterId": "online",
+        "where": "Play 200 online matches"
+      },
+      {
+        "id": "achievement-8",
+        "name": "Stay Down",
+        "kind": "trophy",
+        "chapterId": "arenas-and-basics",
+        "where": "Knock an opponent into an Arena Transition 25 times"
+      },
+      {
+        "id": "achievement-9",
+        "name": "Killer Croc",
+        "kind": "trophy",
+        "chapterId": "arenas-and-basics",
+        "where": "Have the final hit come from the crocodile in Slaughter Swamp"
+      },
+      {
+        "id": "achievement-10",
+        "name": "Would You Like Some Crumpets With That?",
+        "kind": "trophy",
+        "chapterId": "arenas-and-basics",
+        "where": "Duck 10 times in a row during a match"
+      },
+      {
+        "id": "achievement-11",
+        "name": "Half Way There",
+        "kind": "trophy",
+        "chapterId": "story",
+        "where": "Complete 50% of Story mode"
+      },
+      {
+        "id": "achievement-12",
+        "name": "Who's Next?",
+        "kind": "trophy",
+        "chapterId": "story",
+        "where": "Complete 100% of Story mode"
+      },
+      {
+        "id": "achievement-13",
+        "name": "I'll Do It Again",
+        "kind": "trophy",
+        "chapterId": "story",
+        "where": "Complete Story mode after doing all alternate paths"
+      },
+      {
+        "id": "achievement-14",
+        "name": "I Voted",
+        "kind": "trophy",
+        "chapterId": "online",
+        "where": "Vote correctly 10 times in King of the Hill"
+      },
+      {
+        "id": "achievement-15",
+        "name": "Off With His Head",
+        "kind": "trophy",
+        "chapterId": "online",
+        "where": "Dethrone a King 5 times in King of the Hill"
+      },
+      {
+        "id": "achievement-16",
+        "name": "Event-full",
+        "kind": "trophy",
+        "chapterId": "multiverse",
+        "where": "Complete 25 Multiverse events"
+      },
+      {
+        "id": "achievement-17",
+        "name": "Pulling Overtime",
+        "kind": "trophy",
+        "chapterId": "multiverse",
+        "where": "Complete 100 Multiverse events"
+      },
+      {
+        "id": "achievement-18",
+        "name": "I Have Friends Now",
+        "kind": "trophy",
+        "chapterId": "multiverse",
+        "where": "Join a Guild"
+      },
+      {
+        "id": "achievement-19",
+        "name": "So Many Presents",
+        "kind": "trophy",
+        "chapterId": "multiverse",
+        "where": "Open 100 Mother Boxes"
+      },
+      {
+        "id": "achievement-20",
+        "name": "Feeling Super",
+        "kind": "trophy",
+        "chapterId": "arenas-and-basics",
+        "where": "Perform every Supermove"
+      },
+      {
+        "id": "achievement-21",
+        "name": "OUTTA NOWHERE!!!!!!",
+        "kind": "trophy",
+        "chapterId": "character-feats",
+        "where": "Bane must defeat Batman with the final hit coming from a Meter Burn Bane Bomb"
+      },
+      {
+        "id": "achievement-22",
+        "name": "When Canaries Cry",
+        "kind": "trophy",
+        "chapterId": "character-feats",
+        "where": "Black Canary must defeat any opponent with the final hit coming from a level 3 Canary Cry"
+      },
+      {
+        "id": "achievement-23",
+        "name": "Cat Fight",
+        "kind": "trophy",
+        "chapterId": "character-feats",
+        "where": "Catwoman must defeat Cheetah with the final hit coming from Cat Call"
+      },
+      {
+        "id": "achievement-24",
+        "name": "Deadly Nightshade",
+        "kind": "trophy",
+        "chapterId": "character-feats",
+        "where": "Poison Ivy must defeat any opponent with the final hit coming from Kiss of Death"
+      },
+      {
+        "id": "achievement-25",
+        "name": "Claw Your Eyes Out",
+        "kind": "trophy",
+        "chapterId": "character-feats",
+        "where": "Cheetah must defeat Wonder Woman with her Meter Burn Blood Lunge"
+      },
+      {
+        "id": "achievement-26",
+        "name": "Rage Consumes You",
+        "kind": "trophy",
+        "chapterId": "character-feats",
+        "where": "Atrocitus must defeat Green Lantern with the final hit coming from a Meter Burn Life Drain"
+      },
+      {
+        "id": "achievement-27",
+        "name": "Earth To Earth",
+        "kind": "trophy",
+        "chapterId": "character-feats",
+        "where": "Swamp Thing must defeat Poison Ivy with the final hit coming from Green Kingdom"
+      },
+      {
+        "id": "achievement-28",
+        "name": "I Never Miss",
+        "kind": "trophy",
+        "chapterId": "character-feats",
+        "where": "Win a match as Deadshot without missing a shot (minimum 10 shots)"
+      },
+      {
+        "id": "achievement-29",
+        "name": "Daddy Issues",
+        "kind": "trophy",
+        "chapterId": "character-feats",
+        "where": "Robin must defeat Batman with the final hit coming from a Meter Burn Assassin Strike"
+      },
+      {
+        "id": "achievement-30",
+        "name": "Fish Food",
+        "kind": "trophy",
+        "chapterId": "character-feats",
+        "where": "Aquaman must defeat any opponent with the final hit coming from The Beast Below"
+      },
+      {
+        "id": "achievement-31",
+        "name": "One Step Ahead",
+        "kind": "trophy",
+        "chapterId": "character-feats",
+        "where": "Batman must defeat any opponent with the final hit coming from Cape Parry or Cape Counter"
+      },
+      {
+        "id": "achievement-32",
+        "name": "I Didn't Do It",
+        "kind": "trophy",
+        "chapterId": "character-feats",
+        "where": "Brainiac must defeat any opponent with the final hit coming from Beta Strike"
+      },
+      {
+        "id": "achievement-33",
+        "name": "FROSTY!!!",
+        "kind": "trophy",
+        "chapterId": "character-feats",
+        "where": "Captain Cold must defeat Flash with the final hit coming from Cryogenic Blast"
+      },
+      {
+        "id": "achievement-34",
+        "name": "History Lesson",
+        "kind": "trophy",
+        "chapterId": "character-feats",
+        "where": "Flash must defeat Captain Cold with the final hit coming from Time Changer"
+      },
+      {
+        "id": "achievement-35",
+        "name": "Quit Hitting Yourself",
+        "kind": "trophy",
+        "chapterId": "character-feats",
+        "where": "Gorilla Grodd must defeat Flash with the final hit coming from Mind Control"
+      },
+      {
+        "id": "achievement-36",
+        "name": "The Scarab Made Me Do It",
+        "kind": "trophy",
+        "chapterId": "character-feats",
+        "where": "Blue Beetle must defeat any opponent with the final hit coming from a Meter Burn Mandible Strike"
+      },
+      {
+        "id": "achievement-37",
+        "name": "It's Electric",
+        "kind": "trophy",
+        "chapterId": "character-feats",
+        "where": "Black Adam must win the match with the final hit coming from Orbs of Seth"
+      },
+      {
+        "id": "achievement-38",
+        "name": "No Longer Friends",
+        "kind": "trophy",
+        "chapterId": "character-feats",
+        "where": "Cyborg must defeat Robin with the final hit coming from Apokolips"
+      },
+      {
+        "id": "achievement-39",
+        "name": "Fire And Ice",
+        "kind": "trophy",
+        "chapterId": "character-feats",
+        "where": "Firestorm must defeat Captain Cold with the final hit coming from a Meter Burn Molten Trap"
+      },
+      {
+        "id": "achievement-40",
+        "name": "Lovers Quarrel",
+        "kind": "trophy",
+        "chapterId": "character-feats",
+        "where": "Green Arrow must defeat Black Canary with the final hit coming from Target Practice"
+      },
+      {
+        "id": "achievement-41",
+        "name": "I HOPE You Survive",
+        "kind": "trophy",
+        "chapterId": "character-feats",
+        "where": "Green Lantern must defeat Atrocitus with the final hit coming from Mechanized Assault"
+      },
+      {
+        "id": "achievement-42",
+        "name": "I Love You, I Hate You",
+        "kind": "trophy",
+        "chapterId": "character-feats",
+        "where": "Harley must defeat Joker with the final hit coming from Go Night Night"
+      },
+      {
+        "id": "achievement-43",
+        "name": "Why Aren't You Laughing?",
+        "kind": "trophy",
+        "chapterId": "character-feats",
+        "where": "Joker must defeat Batman with the final hit coming from Not So Funny Is It?"
+      },
+      {
+        "id": "achievement-44",
+        "name": "Make A Wish",
+        "kind": "trophy",
+        "chapterId": "character-feats",
+        "where": "Scarecrow must defeat any opponent with the final hit coming from Schizophrenia"
+      },
+      {
+        "id": "achievement-45",
+        "name": "The Last Kryptonian",
+        "kind": "trophy",
+        "chapterId": "character-feats",
+        "where": "Supergirl must defeat Superman after connecting 20 Kryptonian Lasers"
+      },
+      {
+        "id": "achievement-46",
+        "name": "Skill Gap",
+        "kind": "trophy",
+        "chapterId": "character-feats",
+        "where": "Superman must defeat Green Lantern with the final hit coming from Final Flight"
+      },
+      {
+        "id": "achievement-47",
+        "name": "Hippolyta's Blessing",
+        "kind": "trophy",
+        "chapterId": "character-feats",
+        "where": "Wonder Woman must win the match with the final hit coming from a Meter Burn Lasso of Truth"
+      },
+      {
+        "id": "achievement-48",
+        "name": "Amu-Let Me Out",
+        "kind": "trophy",
+        "chapterId": "character-feats",
+        "where": "Doctor Fate must defeat any opponent with the final hit coming from Amulet of Anubis"
+      },
+      {
+        "id": "achievement-49",
+        "name": "Untouchable",
+        "kind": "trophy",
+        "chapterId": "arenas-and-basics",
+        "where": "Go 10 seconds of the match without being hit by your opponent"
+      },
+      {
+        "id": "achievement-50",
+        "name": "Spoiler Alert",
+        "kind": "trophy",
+        "chapterId": "multiverse",
+        "where": "View all character endings in the Battle Simulator"
+      },
+      {
+        "id": "achievement-51",
+        "name": "There's My Pants",
+        "kind": "trophy",
+        "chapterId": "gear-and-levels",
+        "where": "Collect a total of 200 pieces of Common Gear, excluding shaders"
+      },
+      {
+        "id": "achievement-52",
+        "name": "What To Wear?",
+        "kind": "trophy",
+        "chapterId": "gear-and-levels",
+        "where": "Collect a total of 100 pieces of Rare Gear, excluding shaders"
+      },
+      {
+        "id": "achievement-53",
+        "name": "Hipster",
+        "kind": "trophy",
+        "chapterId": "gear-and-levels",
+        "where": "Collect a total of 50 pieces of Epic Gear, excluding shaders"
+      },
+      {
+        "id": "achievement-54",
+        "name": "Garage Sale",
+        "kind": "trophy",
+        "chapterId": "gear-and-levels",
+        "where": "Sell a total of 250 pieces of gear"
+      },
+      {
+        "id": "achievement-55",
+        "name": "Overlord",
+        "kind": "trophy",
+        "chapterId": "multiverse",
+        "where": "Win 5 AI Battle Simulation matches"
+      },
+      {
+        "id": "achievement-56",
+        "name": "Feel The Power",
+        "kind": "trophy",
+        "chapterId": "gear-and-levels",
+        "where": "Reach level 35 in Player XP"
+      },
+      {
+        "id": "achievement-57",
+        "name": "Master Of All Trades",
+        "kind": "trophy",
+        "chapterId": "gear-and-levels",
+        "where": "Reach level 20 with all characters"
+      },
+      {
+        "id": "achievement-58",
+        "name": "Only A Real Master",
+        "kind": "trophy",
+        "chapterId": "online",
+        "where": "Beat an opponent online while they still have 90% health and you have 10% or less health remaining"
+      },
+      {
+        "id": "achievement-59",
+        "name": "Be Pre-Paired",
+        "kind": "trophy",
+        "chapterId": "character-feats",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-60",
+        "name": "Back To Where You Belong",
+        "kind": "trophy",
+        "chapterId": "character-feats",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-61",
+        "name": "Heathens",
+        "kind": "trophy",
+        "chapterId": "character-feats",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-62",
+        "name": "This Is Why I Can't Have Nice Things",
+        "kind": "trophy",
+        "chapterId": "character-feats",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-63",
+        "name": "Stay Free",
+        "kind": "trophy",
+        "chapterId": "dlc-fighters",
+        "where": "Red Hood must defeat any opponent with the final hit coming from Gotham's Outlaw"
+      },
+      {
+        "id": "achievement-64",
+        "name": "Don't Get Caught Up in the Starfire",
+        "kind": "trophy",
+        "chapterId": "dlc-fighters",
+        "where": "Starfire must defeat any opponent with the final hit coming from Starry Night"
+      },
+      {
+        "id": "achievement-65",
+        "name": "Killer Klones",
+        "kind": "trophy",
+        "chapterId": "dlc-fighters",
+        "where": "Sub-Zero must connect 10 Klones during a match"
+      },
+      {
+        "id": "achievement-66",
+        "name": "Deep Fried",
+        "kind": "trophy",
+        "chapterId": "dlc-fighters",
+        "where": "Black Manta must defeat any opponent with the final hit coming from Speared and Seared"
+      },
+      {
+        "id": "achievement-67",
+        "name": "Kidd Thunder",
+        "kind": "trophy",
+        "chapterId": "character-feats",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-68",
+        "name": "Welcome to Hell",
+        "kind": "trophy",
+        "chapterId": "dlc-fighters",
+        "where": "Hellboy must defeat any opponent with the final hit coming from Final Resting Place"
+      },
+      {
+        "id": "achievement-69",
+        "name": "Small but Mighty",
+        "kind": "trophy",
+        "chapterId": "dlc-fighters",
+        "where": "Atom must defeat any opponent with the final hit coming from an Atom Lunge"
+      },
+      {
+        "id": "achievement-70",
+        "name": "Demon Inside",
+        "kind": "trophy",
+        "chapterId": "dlc-fighters",
+        "where": "Enchantress must defeat any opponent with the final hit coming from Out of Body Experience"
+      },
+      {
+        "id": "achievement-71",
+        "name": "Turtle Time",
+        "kind": "trophy",
+        "chapterId": "dlc-fighters",
+        "where": "Win a match with each Teenage Mutant Ninja Turtle"
+      },
+      {
+        "id": "achievement-72",
+        "name": "My Minions",
+        "kind": "trophy",
+        "chapterId": "dlc-fighters",
+        "where": "Darkseid must defeat any opponent after summoning each Parademon at least once"
+      },
+      {
+        "id": "achievement-73",
+        "name": "Push Yourself Harder",
+        "kind": "trophy",
+        "chapterId": "arenas-and-basics",
+        "where": "Complete any 3 categories in Advanced Training or Strategy Training"
+      },
+      {
+        "id": "achievement-74",
+        "name": "Growing Stronger",
+        "kind": "trophy",
+        "chapterId": "gear-and-levels",
+        "where": "Reach level 30 with any character"
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/injustice-2",
+    "Achievement data from Steam (Steam Web API, app 627270)",
+    "StrategyWiki: no usable walkthrough, nothing used — https://strategywiki.org/wiki/Injustice_2",
+    "Fandom (injustice.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://injustice.fandom.com/wiki/Injustice_2"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). The Steam schema for app 627270 is named \"QLOC Test App 2\"; the store list confirms the app as \"Injustice™ 2\". RAWG lists Android and iOS among the platforms; nothing in the Steam or wiki data confirms those, so check before showing platforms. StrategyWiki has a stub page (completion stage 0): only Controls and Table of Contents are written; its Walkthrough and all character pages are linked but not written. Its contents page marks Atom, Black Manta, Darkseid, Enchantress, Hellboy, Raiden, Red Hood, Starfire, Sub-Zero and the Teenage Mutant Ninja Turtles as DLC, which is the only source for the \"Added Fighters\" chapter (page names only). injustice.fandom.com answers the API under \"Injustice 2\" with about 130 linked articles; names only were looked at, nothing copied. 5 of 74 Steam achievements are hidden. In a fighting game they are not story beats: their API names point to King of the Hill (HQ_DETHRONE_A_KING), Batman, every villain, Black Canary and Raiden (RA_SUMMON_KID_THUN), so they sit in the character chapter rather than the story chapter. Most achievements are below 3% on Steam."
+}

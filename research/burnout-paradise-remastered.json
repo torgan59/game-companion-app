@@ -1,0 +1,549 @@
+{
+  "id": "burnout-paradise-remastered",
+  "title": "Burnout Paradise Remastered",
+  "year": 2018,
+  "platforms": [
+    "Nintendo Switch",
+    "PC",
+    "Xbox One",
+    "PlayStation 4"
+  ],
+  "rawgId": 52215,
+  "rawgSlug": "burnout-paradise-remastered",
+  "released": "2018-03-16",
+  "developers": [
+    "Electronic Arts",
+    "Criterion Games",
+    "Stellar Entertainment"
+  ],
+  "playtime": 2,
+  "genres": [
+    "Racing",
+    "Arcade"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Multiplayer",
+    "Full controller support",
+    "Co-op",
+    "Open World",
+    "cooperative",
+    "First-Person",
+    "Third Person",
+    "Online Co-Op",
+    "PvP",
+    "Online PvP"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/cb6/cb63a33e16f90fa6f008cc093239dad3.jpg",
+  "steamAppId": 1238080,
+  "achievements": {
+    "total": 56,
+    "hidden": 0,
+    "examples": [
+      {
+        "name": "Lookin' Good",
+        "percent": 67.9
+      },
+      {
+        "name": "Bottom of the Class",
+        "percent": 54.1
+      },
+      {
+        "name": "Great Start",
+        "percent": 51.8
+      },
+      {
+        "name": "Firestarter",
+        "percent": 1.8
+      },
+      {
+        "name": "Burnout Skills",
+        "percent": 1.8
+      },
+      {
+        "name": "Massive Party Game",
+        "percent": 1.8
+      },
+      {
+        "name": "First Win",
+        "percent": 1.7
+      },
+      {
+        "name": "Block Party",
+        "percent": 1.7
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Burnout_Paradise",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 73,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://burnout.fandom.com/wiki/Burnout_Paradise"
+    }
+  },
+  "game": {
+    "id": "burnout-paradise-remastered",
+    "title": "Burnout Paradise Remastered",
+    "platforms": [
+      "Nintendo Switch",
+      "PC",
+      "Xbox One",
+      "PlayStation 4"
+    ],
+    "blurb": "Open-world arcade racing game, the remaster of 2008's Burnout Paradise, from Criterion Games (RAWG also lists Electronic Arts and Stellar Entertainment), released 2018-03-16. RAWG average playtime: 2 hours. Genres: Racing, Arcade. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#D9601A",
+    "chapters": [
+      {
+        "id": "licences-and-events",
+        "title": "Licences and Events",
+        "summary": "Climbing from the D class licence to the Burnout Elite licence through races, Burning Routes, Marked Man, Road Rage and Stunt Run events.",
+        "steps": []
+      },
+      {
+        "id": "road-rules",
+        "title": "Road Rules and Showtime",
+        "summary": "Setting Time and Showtime Road Rules on every road, and big Showtime multipliers.",
+        "steps": []
+      },
+      {
+        "id": "discoverables",
+        "title": "Billboards, Smashes, Superjumps and Car Parks",
+        "summary": "Finding every billboard, smash, superjump, car park, drive-thru and event in Paradise City.",
+        "steps": []
+      },
+      {
+        "id": "stunts-and-takedowns",
+        "title": "Stunts, Boosts and Takedowns",
+        "summary": "Flatspins, barrel rolls, boost chains, power parking, takedown rampages and repairs.",
+        "steps": []
+      },
+      {
+        "id": "online",
+        "title": "Online Races, Challenges and Party Games",
+        "summary": "Online races and events, rivals, online Freeburn challenges, Party games and Cops and Robbers.",
+        "steps": []
+      },
+      {
+        "id": "big-surf-island",
+        "title": "Big Surf Island",
+        "summary": "The island's smashes, billboards, events, the Crash TV ski jump and its Freeburn challenges.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Lookin' Good",
+        "kind": "trophy",
+        "chapterId": "stunts-and-takedowns",
+        "where": "Repair your first wrecked car"
+      },
+      {
+        "id": "achievement-2",
+        "name": "Watt?",
+        "kind": "trophy",
+        "chapterId": "road-rules",
+        "where": "Set a Time Road Rule on Watt St"
+      },
+      {
+        "id": "achievement-3",
+        "name": "It's Showtime",
+        "kind": "trophy",
+        "chapterId": "road-rules",
+        "where": "Set a Showtime Road Rule on East Crawford Drive"
+      },
+      {
+        "id": "achievement-4",
+        "name": "Great Start",
+        "kind": "trophy",
+        "chapterId": "licences-and-events",
+        "where": "Win a Race"
+      },
+      {
+        "id": "achievement-5",
+        "name": "Misdemeanor",
+        "kind": "trophy",
+        "chapterId": "discoverables",
+        "where": "Collect 5 Billboards"
+      },
+      {
+        "id": "achievement-6",
+        "name": "Off the Beaten Path",
+        "kind": "trophy",
+        "chapterId": "discoverables",
+        "where": "Collect 25 Smashes"
+      },
+      {
+        "id": "achievement-7",
+        "name": "Bottom of the Class",
+        "kind": "trophy",
+        "chapterId": "licences-and-events",
+        "where": "Get your D class license"
+      },
+      {
+        "id": "achievement-8",
+        "name": "Perfect Rage",
+        "kind": "trophy",
+        "chapterId": "licences-and-events",
+        "where": "Get 10 Takedowns in Road Rage without Wrecking"
+      },
+      {
+        "id": "achievement-9",
+        "name": "Rising From the Ashes",
+        "kind": "trophy",
+        "chapterId": "licences-and-events",
+        "where": "Repair your car at critical damage in a Road Rage event"
+      },
+      {
+        "id": "achievement-10",
+        "name": "Spinnin' Around",
+        "kind": "trophy",
+        "chapterId": "stunts-and-takedowns",
+        "where": "Perform a 360 Flatspin in any car"
+      },
+      {
+        "id": "achievement-11",
+        "name": "Underachiever",
+        "kind": "trophy",
+        "chapterId": "licences-and-events",
+        "where": "Get your C Class License"
+      },
+      {
+        "id": "achievement-12",
+        "name": "Learning to Fly",
+        "kind": "trophy",
+        "chapterId": "discoverables",
+        "where": "Successfully land 5 Superjumps"
+      },
+      {
+        "id": "achievement-13",
+        "name": "Duckin' and Weavin'",
+        "kind": "trophy",
+        "chapterId": "licences-and-events",
+        "where": "Win a Marked Man without being taken down"
+      },
+      {
+        "id": "achievement-14",
+        "name": "The Show Must Go On",
+        "kind": "trophy",
+        "chapterId": "road-rules",
+        "where": "Get a x10 multiplier in Showtime"
+      },
+      {
+        "id": "achievement-15",
+        "name": "Rampage!",
+        "kind": "trophy",
+        "chapterId": "stunts-and-takedowns",
+        "where": "Get a Takedown Rampage"
+      },
+      {
+        "id": "achievement-16",
+        "name": "Must Try Harder",
+        "kind": "trophy",
+        "chapterId": "licences-and-events",
+        "where": "Get your B Class License"
+      },
+      {
+        "id": "achievement-17",
+        "name": "Parallel Park",
+        "kind": "trophy",
+        "chapterId": "stunts-and-takedowns",
+        "where": "Power Park with a 100% rating"
+      },
+      {
+        "id": "achievement-18",
+        "name": "Daredevil",
+        "kind": "trophy",
+        "chapterId": "stunts-and-takedowns",
+        "where": "Land a 2 barrel roll jump"
+      },
+      {
+        "id": "achievement-19",
+        "name": "Boosting Around the World",
+        "kind": "trophy",
+        "chapterId": "stunts-and-takedowns",
+        "where": "Get a x20 Boost Chain"
+      },
+      {
+        "id": "achievement-20",
+        "name": "Flying Colours",
+        "kind": "trophy",
+        "chapterId": "licences-and-events",
+        "where": "Get your A Class License"
+      },
+      {
+        "id": "achievement-21",
+        "name": "Millionaires' Club",
+        "kind": "trophy",
+        "chapterId": "licences-and-events",
+        "where": "Score over 1,000,000 in Stunt Run"
+      },
+      {
+        "id": "achievement-22",
+        "name": "Supercharged",
+        "kind": "trophy",
+        "chapterId": "licences-and-events",
+        "where": "Win 25 Burning Routes"
+      },
+      {
+        "id": "achievement-23",
+        "name": "Car in a China Shop",
+        "kind": "trophy",
+        "chapterId": "stunts-and-takedowns",
+        "where": "Get 500 Takedowns (either online or offline)"
+      },
+      {
+        "id": "achievement-24",
+        "name": "Paradise Won",
+        "kind": "trophy",
+        "chapterId": "licences-and-events",
+        "where": "Win your Burnout Driving License"
+      },
+      {
+        "id": "achievement-25",
+        "name": "All Pimped Out",
+        "kind": "trophy",
+        "chapterId": "licences-and-events",
+        "where": "Win all Burning Routes"
+      },
+      {
+        "id": "achievement-26",
+        "name": "Explorer",
+        "kind": "trophy",
+        "chapterId": "discoverables",
+        "where": "Find all Events"
+      },
+      {
+        "id": "achievement-27",
+        "name": "Paid and Displayed",
+        "kind": "trophy",
+        "chapterId": "discoverables",
+        "where": "Find all Carparks"
+      },
+      {
+        "id": "achievement-28",
+        "name": "Bustin' Out",
+        "kind": "trophy",
+        "chapterId": "discoverables",
+        "where": "Collect all Billboards"
+      },
+      {
+        "id": "achievement-29",
+        "name": "Totally Smashed",
+        "kind": "trophy",
+        "chapterId": "discoverables",
+        "where": "Collect all Smashes"
+      },
+      {
+        "id": "achievement-30",
+        "name": "Flying High",
+        "kind": "trophy",
+        "chapterId": "discoverables",
+        "where": "Successfully land all Superjumps"
+      },
+      {
+        "id": "achievement-31",
+        "name": "Speed King",
+        "kind": "trophy",
+        "chapterId": "road-rules",
+        "where": "Set a Time Road Rule on every road"
+      },
+      {
+        "id": "achievement-32",
+        "name": "Crashin' All Over The World",
+        "kind": "trophy",
+        "chapterId": "road-rules",
+        "where": "Set a Showtime Road Rule on every road"
+      },
+      {
+        "id": "achievement-33",
+        "name": "Shopaholic",
+        "kind": "trophy",
+        "chapterId": "discoverables",
+        "where": "Find all Drive Thrus and Car Parks"
+      },
+      {
+        "id": "achievement-34",
+        "name": "Elite",
+        "kind": "trophy",
+        "chapterId": "licences-and-events",
+        "where": "Win your Burnout Elite License"
+      },
+      {
+        "id": "achievement-35",
+        "name": "Criterion Elite",
+        "kind": "trophy",
+        "chapterId": "licences-and-events",
+        "where": "Get your Elite License, win every event, find all discoverables and beat every Road Rule"
+      },
+      {
+        "id": "achievement-36",
+        "name": "Online Racer",
+        "kind": "trophy",
+        "chapterId": "online",
+        "where": "Complete an online race"
+      },
+      {
+        "id": "achievement-37",
+        "name": "First Win",
+        "kind": "trophy",
+        "chapterId": "online",
+        "where": "Win your first 8 player online race"
+      },
+      {
+        "id": "achievement-38",
+        "name": "Online Champion",
+        "kind": "trophy",
+        "chapterId": "online",
+        "where": "Win 10 online Races"
+      },
+      {
+        "id": "achievement-39",
+        "name": "Online and Kicking",
+        "kind": "trophy",
+        "chapterId": "online",
+        "where": "Complete 20 online Events"
+      },
+      {
+        "id": "achievement-40",
+        "name": "Firestarter",
+        "kind": "trophy",
+        "chapterId": "online",
+        "where": "Make 50 online Rivals"
+      },
+      {
+        "id": "achievement-41",
+        "name": "Just for Pics",
+        "kind": "trophy",
+        "chapterId": "online",
+        "where": "Make your first online Rival"
+      },
+      {
+        "id": "achievement-42",
+        "name": "Join the Party",
+        "kind": "trophy",
+        "chapterId": "online",
+        "where": "Complete 1 online Challenge (Timed & Bike challenges do not count)"
+      },
+      {
+        "id": "achievement-43",
+        "name": "Party Crasher",
+        "kind": "trophy",
+        "chapterId": "online",
+        "where": "Complete 25 online Challenges (Timed & Bike challenges do not count)"
+      },
+      {
+        "id": "achievement-44",
+        "name": "Party Animal",
+        "kind": "trophy",
+        "chapterId": "online",
+        "where": "Complete 250 online Challenges (Timed & Bike challenges do not count)"
+      },
+      {
+        "id": "achievement-45",
+        "name": "Block Party",
+        "kind": "trophy",
+        "chapterId": "online",
+        "where": "Complete 2 whole sections of online Challenges (Timed & Bike challenges are not required to be finished)"
+      },
+      {
+        "id": "achievement-46",
+        "name": "Burnout Skills",
+        "kind": "trophy",
+        "chapterId": "online",
+        "where": "In an 8 player online Freeburn lead 6 of the Today's Best Scores (6/11 for Cars) (6/6 for Bikes)"
+      },
+      {
+        "id": "achievement-47",
+        "name": "Perfect Party Game",
+        "kind": "trophy",
+        "chapterId": "online",
+        "where": "Complete a Party game where every player scores in every round"
+      },
+      {
+        "id": "achievement-48",
+        "name": "Massive Party Game",
+        "kind": "trophy",
+        "chapterId": "online",
+        "where": "Complete a party game of 8 rounds with 8 players"
+      },
+      {
+        "id": "achievement-49",
+        "name": "The Right Side of the Law",
+        "kind": "trophy",
+        "chapterId": "online",
+        "where": "Awarded for being on the winning Cops team in a Cops and Robbers game"
+      },
+      {
+        "id": "achievement-50",
+        "name": "The Gang Is Back In Town",
+        "kind": "trophy",
+        "chapterId": "online",
+        "where": "Awarded for being on the winning Robbers team in a Cops and Robbers game"
+      },
+      {
+        "id": "achievement-51",
+        "name": "Golden",
+        "kind": "trophy",
+        "chapterId": "online",
+        "where": "Awarded for delivering the Gold to your team base in a Cops and Robbers game"
+      },
+      {
+        "id": "achievement-52",
+        "name": "Smash n' Grab",
+        "kind": "trophy",
+        "chapterId": "big-surf-island",
+        "where": "Collect 20 Island Smashes"
+      },
+      {
+        "id": "achievement-53",
+        "name": "Surf Boards",
+        "kind": "trophy",
+        "chapterId": "big-surf-island",
+        "where": "Collect 15 Island Billboards"
+      },
+      {
+        "id": "achievement-54",
+        "name": "Island Explorer",
+        "kind": "trophy",
+        "chapterId": "big-surf-island",
+        "where": "Find all 15 Island events"
+      },
+      {
+        "id": "achievement-55",
+        "name": "Crash TV Air Time",
+        "kind": "trophy",
+        "chapterId": "big-surf-island",
+        "where": "Land the Mega Jump from the Crash TV Ski Jump with at least 4.5 seconds of Air Time"
+      },
+      {
+        "id": "achievement-56",
+        "name": "People Person",
+        "kind": "trophy",
+        "chapterId": "big-surf-island",
+        "where": "Awarded when you complete all 10 Island Freeburn Challenges (2 - 8 players)"
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/burnout-paradise-remastered",
+    "Achievement data from Steam (Steam Web API, app 1238080)",
+    "StrategyWiki: no usable walkthrough, nothing used — https://strategywiki.org/wiki/Burnout_Paradise",
+    "Fandom (burnout.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://burnout.fandom.com/wiki/Burnout_Paradise"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). This is the 2018 remaster, with its own Steam app 1238080 (\"Burnout™ Paradise Remastered\"); RAWG lists the 2008 original separately (burnout-paradise). StrategyWiki has only \"Burnout Paradise\" (completion stage 0); only its Controls and Table of Contents subpages are written, and Walkthrough, Gameplay and Achievements and trophies are linked but not written, so nothing was used. burnout.fandom.com has \"Burnout Paradise\" with about 73 linked pages (including \"Big Surf Island (Location)\", used only for the chapter name); names only were looked at, nothing copied. None of the 56 Steam achievements is hidden. The island achievements only say \"Island\" in their descriptions; the Big Surf Island name comes from the Fandom page list. \"Criterion Elite\" (licence plus every event, discoverable and Road Rule) sits with the licences."
+}

@@ -1,0 +1,417 @@
+{
+  "id": "thronebreaker-the-witcher-tales",
+  "title": "Thronebreaker: The Witcher Tales",
+  "year": 2018,
+  "platforms": [
+    "PlayStation 4",
+    "Nintendo Switch",
+    "PC",
+    "Xbox One",
+    "iOS"
+  ],
+  "rawgId": 244722,
+  "rawgSlug": "gwent-thronebreaker",
+  "released": "2018-10-23",
+  "developers": [
+    "CD PROJEKT RED",
+    "CD PROJEKT"
+  ],
+  "playtime": 6,
+  "genres": [
+    "Adventure",
+    "RPG",
+    "Strategy"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Full controller support",
+    "Steam Cloud",
+    "Great Soundtrack",
+    "RPG",
+    "Story Rich",
+    "Female Protagonist",
+    "role-playing",
+    "Isometric",
+    "Card Game"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/157/157001cc7d47ff89ac3082d4bf0373d0.jpg",
+  "steamAppId": 973760,
+  "achievements": {
+    "total": 39,
+    "hidden": 21,
+    "examples": [
+      {
+        "name": "I'll show them!",
+        "percent": 77.4
+      },
+      {
+        "name": "All Present and Accounted For",
+        "percent": 54.0
+      },
+      {
+        "name": "Was that supposed to hurt?",
+        "percent": 45.4
+      },
+      {
+        "name": "I have the power!",
+        "percent": 18.5
+      },
+      {
+        "name": "Cartographer",
+        "percent": 17.2
+      },
+      {
+        "name": "Burn After Reading",
+        "percent": 14.9
+      },
+      {
+        "name": "One Big Happy Family",
+        "percent": 10.9
+      },
+      {
+        "name": "Arms Race",
+        "percent": 6.1
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": false,
+      "pages": 0,
+      "reason": "No page for Thronebreaker: The Witcher Tales (MediaWiki API returned missing; see notes for other titles tried)"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 102,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://witcher.fandom.com/wiki/Thronebreaker:_The_Witcher_Tales"
+    }
+  },
+  "game": {
+    "id": "thronebreaker-the-witcher-tales",
+    "title": "Thronebreaker: The Witcher Tales",
+    "platforms": [
+      "PlayStation 4",
+      "Nintendo Switch",
+      "PC",
+      "Xbox One",
+      "iOS"
+    ],
+    "blurb": "Story-driven RPG with card battles and puzzles, from CD PROJEKT RED, released 2018-10-23. RAWG average playtime: 6 hours. Genres: Adventure, RPG, Strategy. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#7A2E2E",
+    "chapters": [
+      {
+        "id": "story",
+        "title": "Queen Meve's Campaign",
+        "summary": "The tutorial and the story milestones of the campaign. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "battles-and-puzzles",
+        "title": "Battles, Puzzles and Card Tactics",
+        "summary": "Winning battles cleanly, big rounds, mass kills, Loyal abilities and the puzzle battles.",
+        "steps": []
+      },
+      {
+        "id": "army-and-camp",
+        "title": "Army, Camp and Resources",
+        "summary": "Gold, wood, recruiting soldiers, collecting units and upgrading the army camp.",
+        "steps": []
+      },
+      {
+        "id": "exploration",
+        "title": "Treasure, Trinkets and Exploration",
+        "summary": "Treasure maps, trinkets, weapons, shrines and the spymaster letters.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "In Good Company",
+        "kind": "trophy",
+        "chapterId": "battles-and-puzzles",
+        "where": "Play 5 or more characters in one battle."
+      },
+      {
+        "id": "achievement-2",
+        "name": "I'll show them!",
+        "kind": "trophy",
+        "chapterId": "story",
+        "where": "Finish the Thronebreaker tutorial."
+      },
+      {
+        "id": "achievement-3",
+        "name": "Plutocracy",
+        "kind": "trophy",
+        "chapterId": "army-and-camp",
+        "where": "Earn 10,000 or more gold."
+      },
+      {
+        "id": "achievement-4",
+        "name": "Among the Ashes",
+        "kind": "trophy",
+        "chapterId": "story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-5",
+        "name": "One Big Happy Family",
+        "kind": "trophy",
+        "chapterId": "army-and-camp",
+        "where": "Own at least one copy of each non-Reynard, non-Gascon unit."
+      },
+      {
+        "id": "achievement-6",
+        "name": "Witcher to the Rescue",
+        "kind": "trophy",
+        "chapterId": "story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-7",
+        "name": "Arms Race",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Obtain all weapons."
+      },
+      {
+        "id": "achievement-8",
+        "name": "A-ten-hut!",
+        "kind": "trophy",
+        "chapterId": "story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-9",
+        "name": "Out of the sizzlixer into the fire",
+        "kind": "trophy",
+        "chapterId": "story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-10",
+        "name": "Return of the Queen",
+        "kind": "trophy",
+        "chapterId": "story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-11",
+        "name": "Cartographer",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Collect 15 Treasure Maps."
+      },
+      {
+        "id": "achievement-12",
+        "name": "Hoarder",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Obtain 10 trinkets."
+      },
+      {
+        "id": "achievement-13",
+        "name": "Army Camp Tycoon",
+        "kind": "trophy",
+        "chapterId": "army-and-camp",
+        "where": "Fully upgrade your army camp."
+      },
+      {
+        "id": "achievement-14",
+        "name": "Dogs of War",
+        "kind": "trophy",
+        "chapterId": "story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-15",
+        "name": "Lord of the Moulderwood",
+        "kind": "trophy",
+        "chapterId": "story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-16",
+        "name": "For the Good Book states...",
+        "kind": "trophy",
+        "chapterId": "story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-17",
+        "name": "I'll probably need this later...",
+        "kind": "trophy",
+        "chapterId": "army-and-camp",
+        "where": "Gather 5,000 wood throughout the game."
+      },
+      {
+        "id": "achievement-18",
+        "name": "Through the Fourth Wall",
+        "kind": "trophy",
+        "chapterId": "story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-19",
+        "name": "I want YOU for the Lyrian Army",
+        "kind": "trophy",
+        "chapterId": "army-and-camp",
+        "where": "Recruit 200 Soldiers."
+      },
+      {
+        "id": "achievement-20",
+        "name": "Gvaern Ichaer",
+        "kind": "trophy",
+        "chapterId": "story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-21",
+        "name": "Dog Trainer",
+        "kind": "trophy",
+        "chapterId": "story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-22",
+        "name": "Was that supposed to hurt?",
+        "kind": "trophy",
+        "chapterId": "battles-and-puzzles",
+        "where": "Win a non-Puzzle Battle with less than 10 damage taken in total."
+      },
+      {
+        "id": "achievement-23",
+        "name": "1. Do no harm",
+        "kind": "trophy",
+        "chapterId": "story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-24",
+        "name": "Perfectly harmless...",
+        "kind": "trophy",
+        "chapterId": "story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-25",
+        "name": "Revenge is best served cold...",
+        "kind": "trophy",
+        "chapterId": "story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-26",
+        "name": "Never give up, never surrender!",
+        "kind": "trophy",
+        "chapterId": "story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-27",
+        "name": "We have the high ground!",
+        "kind": "trophy",
+        "chapterId": "story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-28",
+        "name": "Distillation of Filth",
+        "kind": "trophy",
+        "chapterId": "story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-29",
+        "name": "All Present and Accounted For",
+        "kind": "trophy",
+        "chapterId": "battles-and-puzzles",
+        "where": "Win a non-Puzzle Battle without any of your units being killed."
+      },
+      {
+        "id": "achievement-30",
+        "name": "At ease, Private!",
+        "kind": "trophy",
+        "chapterId": "story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-31",
+        "name": "Once more! Again!",
+        "kind": "trophy",
+        "chapterId": "battles-and-puzzles",
+        "where": "Use Meve to trigger allies' Loyal abilities 100 times."
+      },
+      {
+        "id": "achievement-32",
+        "name": "Pilgrim",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Pray at 10 Shrines."
+      },
+      {
+        "id": "achievement-33",
+        "name": "Party's over!",
+        "kind": "trophy",
+        "chapterId": "battles-and-puzzles",
+        "where": "Kill 9 enemies simultaneously."
+      },
+      {
+        "id": "achievement-34",
+        "name": "I have the power!",
+        "kind": "trophy",
+        "chapterId": "battles-and-puzzles",
+        "where": "End a round with a score of over 300."
+      },
+      {
+        "id": "achievement-35",
+        "name": "Those gears are turning...",
+        "kind": "trophy",
+        "chapterId": "battles-and-puzzles",
+        "where": "Complete 20 Puzzles."
+      },
+      {
+        "id": "achievement-36",
+        "name": "There's no place like home...",
+        "kind": "trophy",
+        "chapterId": "story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-37",
+        "name": "Tax Collector",
+        "kind": "trophy",
+        "chapterId": "story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-38",
+        "name": "Arf! Arf! Grrr...",
+        "kind": "trophy",
+        "chapterId": "story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-39",
+        "name": "Burn After Reading",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Read all spymaster letters."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/gwent-thronebreaker",
+    "Achievement data from Steam (Steam Web API, app 973760)",
+    "StrategyWiki: no page for this game, nothing used",
+    "Fandom (witcher.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://witcher.fandom.com/wiki/Thronebreaker:_The_Witcher_Tales"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). RAWG files this game under the slug \"gwent-thronebreaker\" (id 244722), which matches the expected slug. StrategyWiki has no page under \"Thronebreaker: The Witcher Tales\" or \"Thronebreaker\". witcher.fandom.com has the page with about 102 linked pages, mostly other Witcher books, games and shows; names only were looked at, nothing copied. 21 of 39 Steam achievements are hidden and sit in the story chapter. Meve is named only because an achievement description names her; the chapter title assumes she leads the campaign."
+}
