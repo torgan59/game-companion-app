@@ -1,0 +1,127 @@
+{
+  "id": "star-wars-the-force-unleashed-ii",
+  "title": "STAR WARS: The Force Unleashed II",
+  "year": 2010,
+  "platforms": [
+    "PlayStation 3",
+    "Xbox One",
+    "Nintendo DS",
+    "Xbox 360",
+    "PC",
+    "Wii"
+  ],
+  "rawgId": 15860,
+  "rawgSlug": "star-wars-the-force-unleashed-2",
+  "released": "2010-10-25",
+  "developers": [
+    "Aspyr Media",
+    "LucasArts Entertainment",
+    "Lucasfilm",
+    "Red Fly Studio"
+  ],
+  "playtime": 3,
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Cloud",
+    "Story Rich",
+    "Third Person",
+    "Sci-fi",
+    "Partial Controller Support",
+    "Fantasy",
+    "Controller",
+    "Hack and Slash",
+    "Short",
+    "Star Wars"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/693/693952316d4b90984a92e7ab0f5c9b81.jpg",
+  "steamAppId": null,
+  "achievements": {
+    "total": 0,
+    "examples": [],
+    "reason": "No Steam list: Steam app 32500 (\"STAR WARS™: The Force Unleashed™ II\") returns an empty achievement schema and a 403 for global percentages. RAWG lists 46 achievements (RAWG's own percentages): finishing on Easy, Medium, Hard and Unleashed, challenge medals, goals tied to Kamino, the Salvation, the Spire and Endor, upgrading Force powers, finding every holocron, and combat feats. These could seed an original checklist."
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Star_Wars:_The_Force_Unleashed_II",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 399,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://starwars.fandom.com/wiki/Star_Wars:_The_Force_Unleashed_II"
+    }
+  },
+  "game": {
+    "id": "star-wars-the-force-unleashed-ii",
+    "title": "STAR WARS: The Force Unleashed II",
+    "platforms": [
+      "PlayStation 3",
+      "Xbox One",
+      "Nintendo DS",
+      "Xbox 360",
+      "PC",
+      "Wii"
+    ],
+    "blurb": "Star Wars action-adventure from Aspyr Media, LucasArts Entertainment, Lucasfilm and Red Fly Studio, published by Disney Interactive and LucasArts Entertainment, released 2010-10-25. RAWG average playtime: 3 hours. Genres: Action, Adventure. Chapters are an estimate drawn from the achievement list on RAWG, grouped by the places it names.",
+    "accent": "#4A6FA5",
+    "chapters": [
+      {
+        "id": "kamino",
+        "title": "Kamino",
+        "summary": "The Kamino goals: the drill-ground turbolasers, the lightning pylons on the dive, the generators and the fans.",
+        "steps": []
+      },
+      {
+        "id": "salvation-spire-gorog",
+        "title": "The Salvation, the Spire and the Gorog",
+        "summary": "Defusing the Terror Spider Bombs and breaking the coolant tanks on the Salvation, climbing the Spire, the Terror Walker, the falling Gorog and the TIE Advanced. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "endor",
+        "title": "Endor",
+        "summary": "Finishing Endor, finishing it without dying and on Unleashed, and drop-kicking Ewoks.",
+        "steps": []
+      },
+      {
+        "id": "difficulty",
+        "title": "Easy to Unleashed",
+        "summary": "Finishing the game on Easy, Medium, Hard and Unleashed difficulty.",
+        "steps": []
+      },
+      {
+        "id": "challenges",
+        "title": "Challenges",
+        "summary": "Bronze, Silver, Gold and Platinum medals in the challenges.",
+        "steps": []
+      },
+      {
+        "id": "force-and-combat",
+        "title": "Force Powers, Combat and Holocrons",
+        "summary": "Upgrading Force powers, Force Fury, every combat move, Mind Trick and Lightning feats, enemies and droids, and finding every holocron.",
+        "steps": []
+      }
+    ],
+    "collectibles": []
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/star-wars-the-force-unleashed-2",
+    "Steam: no achievement list available for this game (see notes)",
+    "StrategyWiki: no usable walkthrough, nothing used — https://strategywiki.org/wiki/Star_Wars:_The_Force_Unleashed_II",
+    "Fandom (starwars.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://starwars.fandom.com/wiki/Star_Wars:_The_Force_Unleashed_II"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). RAWG's first result is the expected entry (star-wars-the-force-unleashed-2, id 15860). Steam app 32500 from the store list; its schema is empty, so steam=None. RAWG's detail says 47 achievements while its list has 46. RAWG lists no additions. \"Endor\" has its own chapter because four achievements name it and fewer players finished it (17.3%) than finished the game on Medium (36.5%); whether it is part of the main story or separate content is not in the data. Which story stage holds the Salvation, the Spire, the Terror Walker, the Gorog and the TIE Advanced was not checked; grouping them is our own choice. StrategyWiki has the guide under \"Star Wars: The Force Unleashed II\" at completion stage 1, but only short pages are written: Enemies (about 1,200 characters), Characters (about 1,100), Walkthrough (about 660) and Table of Contents (about 640); Achievements and trophies, Controls and Gameplay are linked but not written, and no level pages are listed, so it was not used. starwars.fandom.com answers the API under \"Star Wars: The Force Unleashed II\" with about 399 linked articles; names only were looked at, nothing copied."
+}

@@ -1,0 +1,508 @@
+{
+  "id": "vanquish",
+  "title": "Vanquish",
+  "year": 2010,
+  "platforms": [
+    "PC",
+    "PlayStation 3",
+    "Xbox One",
+    "Xbox 360"
+  ],
+  "rawgId": 4206,
+  "rawgSlug": "vanquish",
+  "released": "2010-10-19",
+  "developers": [
+    "Platinum Games",
+    "GreenOrb"
+  ],
+  "playtime": 4,
+  "genres": [
+    "Action",
+    "Shooter",
+    "Adventure",
+    "Indie"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Full controller support",
+    "Steam Cloud",
+    "steam-trading-cards",
+    "Great Soundtrack",
+    "Story Rich",
+    "2D",
+    "Third Person",
+    "Sci-fi",
+    "Fantasy",
+    "Classic"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/88a/88af17cc08783ccdd1608ae63c47eeac.jpg",
+  "steamAppId": 460810,
+  "achievements": {
+    "total": 50,
+    "hidden": 0,
+    "examples": [
+      {
+        "name": "Helloooo, Nurse",
+        "percent": 77.9
+      },
+      {
+        "name": "Fight or Flight",
+        "percent": 70.4
+      },
+      {
+        "name": "Home Run",
+        "percent": 70.0
+      },
+      {
+        "name": "Living Legend",
+        "percent": 2.1
+      },
+      {
+        "name": "The Hand of God",
+        "percent": 1.9
+      },
+      {
+        "name": "Smoke 'em if ya got 'em!",
+        "percent": 1.7
+      },
+      {
+        "name": "The Best of All Possible Worlds",
+        "percent": 1.3
+      },
+      {
+        "name": "Tactical Challenger",
+        "percent": 1.2
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Vanquish",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 14,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://vanquish.fandom.com/wiki/Vanquish"
+    }
+  },
+  "game": {
+    "id": "vanquish",
+    "title": "Vanquish",
+    "platforms": [
+      "PC",
+      "PlayStation 3",
+      "Xbox One",
+      "Xbox 360"
+    ],
+    "blurb": "Third-person shooter from Platinum Games (RAWG also lists GreenOrb), published by SEGA and GreenOrb, released 2010-10-19. RAWG average playtime: 4 hours. Genres: Action, Shooter, Adventure, Indie. Chapters follow the five Acts the Steam achievements name, plus Hard difficulty, challenges and combat feats.",
+    "accent": "#2F7FC1",
+    "chapters": [
+      {
+        "id": "training-acts-1-2",
+        "title": "DARPA Training, Acts 1 and 2",
+        "summary": "The DARPA training exercises, then Acts 1 and 2, including the enemy transport in Act 2-2 and the Argus robots in Act 2-3.",
+        "steps": []
+      },
+      {
+        "id": "act-3",
+        "title": "Act 3",
+        "summary": "Act 3, with its statue defence, cannons, monorail, floating turrets, armour escort and transport goals. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "acts-4-5",
+        "title": "Acts 4 and 5 and the Finish",
+        "summary": "Acts 4 and 5, the elevator stand in Act 4-1, the Buzzard in Act 5-1, and finishing every Act. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "hard-and-no-death",
+        "title": "Hard Difficulty and No-Death Run",
+        "summary": "Each Act and the whole game on Hard or above, and finishing the game without dying.",
+        "steps": []
+      },
+      {
+        "id": "challenges-and-secrets",
+        "title": "Weapons, Challenges and Secrets",
+        "summary": "Scanning every weapon, maxing one out, the Tactical Challenges, the hidden Pangloss statues and the cigarette tricks.",
+        "steps": []
+      },
+      {
+        "id": "combat",
+        "title": "Combat Feats",
+        "summary": "AR Mode, melee, boosting, shooting down missiles, grenades, EMP, the LFE gun, rockets, the Lock-on Laser, Romanovs, Argus and reviving troops.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "One Day at DARPA",
+        "kind": "trophy",
+        "chapterId": "training-acts-1-2",
+        "where": "Complete all DARPA training exercises."
+      },
+      {
+        "id": "achievement-2",
+        "name": "Space Normandy",
+        "kind": "trophy",
+        "chapterId": "training-acts-1-2",
+        "where": "Complete Act 1."
+      },
+      {
+        "id": "achievement-3",
+        "name": "Storming Grand Hill",
+        "kind": "trophy",
+        "chapterId": "training-acts-1-2",
+        "where": "Complete Act 2."
+      },
+      {
+        "id": "achievement-4",
+        "name": "I Don't Speak Kreon!",
+        "kind": "trophy",
+        "chapterId": "act-3",
+        "where": "Complete Act 3."
+      },
+      {
+        "id": "achievement-5",
+        "name": "My Way",
+        "kind": "trophy",
+        "chapterId": "acts-4-5",
+        "where": "Complete Act 4."
+      },
+      {
+        "id": "achievement-6",
+        "name": "End to Major Combat Operations",
+        "kind": "trophy",
+        "chapterId": "acts-4-5",
+        "where": "Complete Act 5."
+      },
+      {
+        "id": "achievement-7",
+        "name": "Survivor",
+        "kind": "trophy",
+        "chapterId": "acts-4-5",
+        "where": "Complete all Acts."
+      },
+      {
+        "id": "achievement-8",
+        "name": "Operation Overlord II",
+        "kind": "trophy",
+        "chapterId": "hard-and-no-death",
+        "where": "Complete Act 1 on Hard difficulty or above."
+      },
+      {
+        "id": "achievement-9",
+        "name": "Ain't Life Grand?",
+        "kind": "trophy",
+        "chapterId": "hard-and-no-death",
+        "where": "Complete Act 2 on Hard difficulty or above."
+      },
+      {
+        "id": "achievement-10",
+        "name": "Cry on, Kreon!",
+        "kind": "trophy",
+        "chapterId": "hard-and-no-death",
+        "where": "Complete Act 3 on Hard difficulty or above."
+      },
+      {
+        "id": "achievement-11",
+        "name": "The High Way",
+        "kind": "trophy",
+        "chapterId": "hard-and-no-death",
+        "where": "Complete Act 4 on Hard difficulty or above."
+      },
+      {
+        "id": "achievement-12",
+        "name": "Mission Accomplished",
+        "kind": "trophy",
+        "chapterId": "hard-and-no-death",
+        "where": "Complete Act 5 on Hard difficulty or above."
+      },
+      {
+        "id": "achievement-13",
+        "name": "ARS Operator",
+        "kind": "trophy",
+        "chapterId": "hard-and-no-death",
+        "where": "Complete all Acts on Hard difficulty or above."
+      },
+      {
+        "id": "achievement-14",
+        "name": "Gun Runner",
+        "kind": "trophy",
+        "chapterId": "challenges-and-secrets",
+        "where": "Scan and acquire all weapons."
+      },
+      {
+        "id": "achievement-15",
+        "name": "King of the Hill",
+        "kind": "trophy",
+        "chapterId": "challenges-and-secrets",
+        "where": "Level a weapon up to maximum operational capability."
+      },
+      {
+        "id": "achievement-16",
+        "name": "Fight or Flight",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Manually trigger AR Mode and destroy an enemy robot."
+      },
+      {
+        "id": "achievement-17",
+        "name": "Adrenaline Rush",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Manually trigger AR Mode and destroy three enemy robots in a row."
+      },
+      {
+        "id": "achievement-18",
+        "name": "Going in for the Kill",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Destroy ten enemy robots with melee attacks."
+      },
+      {
+        "id": "achievement-19",
+        "name": "A Heartbreaker and Lifetaker",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Destroy 100 enemy robots with melee attacks."
+      },
+      {
+        "id": "achievement-20",
+        "name": "Helloooo, Nurse",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Revive a friendly troop."
+      },
+      {
+        "id": "achievement-21",
+        "name": "Knight in Shining White Armor",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Revive 20 friendly troops."
+      },
+      {
+        "id": "achievement-22",
+        "name": "Death Wish",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Destroy three enemy robots while in damage-triggered AR Mode."
+      },
+      {
+        "id": "achievement-23",
+        "name": "40 Yard Dash",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Maintain a Boost dash to the limit of the ARS reactor without overheating."
+      },
+      {
+        "id": "achievement-24",
+        "name": "Home Run",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Destroy an incoming missile or grenade."
+      },
+      {
+        "id": "achievement-25",
+        "name": "Home Run God",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Destroy ten incoming missiles or grenades."
+      },
+      {
+        "id": "achievement-26",
+        "name": "Brutality Bonus",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Destroy a Romanov's arms and legs, then finish it with a melee attack."
+      },
+      {
+        "id": "achievement-27",
+        "name": "Romanov This!",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Destroy a Romanov with a melee attack."
+      },
+      {
+        "id": "achievement-28",
+        "name": "The Hand of God",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Destroy two Romanovs in a row using only melee attacks."
+      },
+      {
+        "id": "achievement-29",
+        "name": "Robots Tend to Blow Up",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Destroy three enemy robots at once with one hand grenade."
+      },
+      {
+        "id": "achievement-30",
+        "name": "Hole-in-One",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Destroy a Chicane with a hand grenade."
+      },
+      {
+        "id": "achievement-31",
+        "name": "Short Circuit",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Destroy ten enemy robots that have been disabled with an EMP emitter."
+      },
+      {
+        "id": "achievement-32",
+        "name": "Two Birds with One Stone",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Destroy two or more enemy robots at once with the LFE gun."
+      },
+      {
+        "id": "achievement-33",
+        "name": "Trick Shot",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Destroy three enemy robots at once with rocket launcher splash damage."
+      },
+      {
+        "id": "achievement-34",
+        "name": "Flash! King of the Impossible",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Destroy four enemies simultaneously with the Lock-on Laser."
+      },
+      {
+        "id": "achievement-35",
+        "name": "Piece by Piece",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Destroy the arms, head, and back of an KNRB-0 Argus robot."
+      },
+      {
+        "id": "achievement-36",
+        "name": "That Ended Up Working Out Nicely",
+        "kind": "trophy",
+        "chapterId": "training-acts-1-2",
+        "where": "After taking control of the enemy transport in Act 2-2, do not let a single enemy escape."
+      },
+      {
+        "id": "achievement-37",
+        "name": "Failure Breeds Success",
+        "kind": "trophy",
+        "chapterId": "training-acts-1-2",
+        "where": "Destroy two Argus robots in Act 2-3 while they are in bipedal mode."
+      },
+      {
+        "id": "achievement-38",
+        "name": "Leibniz Defense Agency",
+        "kind": "trophy",
+        "chapterId": "act-3",
+        "where": "Defend the Pangloss statue in Act 3-2."
+      },
+      {
+        "id": "achievement-39",
+        "name": "Tightrope Walker",
+        "kind": "trophy",
+        "chapterId": "act-3",
+        "where": "Destroy two cannons in Act 3-3 and complete the mission."
+      },
+      {
+        "id": "achievement-40",
+        "name": "Fisher is the Other Sam",
+        "kind": "trophy",
+        "chapterId": "act-3",
+        "where": "Proceed on the monorail in Act 3-4 without being spotted by the enemy troops or searchlights."
+      },
+      {
+        "id": "achievement-41",
+        "name": "Flyswatter",
+        "kind": "trophy",
+        "chapterId": "act-3",
+        "where": "Destroy all the floating turrets in Act 3-4."
+      },
+      {
+        "id": "achievement-42",
+        "name": "Guardian",
+        "kind": "trophy",
+        "chapterId": "act-3",
+        "where": "Do not allow any friendly armor to be destroyed during Act 3-5."
+      },
+      {
+        "id": "achievement-43",
+        "name": "Hurry the #@$% Up!",
+        "kind": "trophy",
+        "chapterId": "act-3",
+        "where": "Destroy five or more enemy transports from atop the Kreon in Act 3-7."
+      },
+      {
+        "id": "achievement-44",
+        "name": "Civil Disobedience",
+        "kind": "trophy",
+        "chapterId": "acts-4-5",
+        "where": "Ignore the elevator start order in Act 4-1. Instead, hold position and destroy all reinforcements."
+      },
+      {
+        "id": "achievement-45",
+        "name": "Buzzard Beater",
+        "kind": "trophy",
+        "chapterId": "acts-4-5",
+        "where": "Destroy the Buzzard without allowing it to reach ground level in Act 5-1."
+      },
+      {
+        "id": "achievement-46",
+        "name": "Smoke 'em if ya got 'em!",
+        "kind": "trophy",
+        "chapterId": "challenges-and-secrets",
+        "where": "Destroy 10 enemies distracted by cigarettes during one mission."
+      },
+      {
+        "id": "achievement-47",
+        "name": "Auld Lang Syne",
+        "kind": "trophy",
+        "chapterId": "challenges-and-secrets",
+        "where": "Destroy two enemy robots who have been distracted by a cigarette."
+      },
+      {
+        "id": "achievement-48",
+        "name": "The Best of All Possible Worlds",
+        "kind": "trophy",
+        "chapterId": "challenges-and-secrets",
+        "where": "Find and fire upon all of the Pangloss statues hidden on the colony."
+      },
+      {
+        "id": "achievement-49",
+        "name": "Tactical Challenger",
+        "kind": "trophy",
+        "chapterId": "challenges-and-secrets",
+        "where": "Complete all of the Tactical Challenges in VANQUISH."
+      },
+      {
+        "id": "achievement-50",
+        "name": "Living Legend",
+        "kind": "trophy",
+        "chapterId": "hard-and-no-death",
+        "where": "Complete the game without dying, regardless of difficulty level."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/vanquish",
+    "Achievement data from Steam (Steam Web API, app 460810)",
+    "StrategyWiki: no usable walkthrough, nothing used — https://strategywiki.org/wiki/Vanquish",
+    "Fandom (vanquish.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://vanquish.fandom.com/wiki/Vanquish"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). RAWG's first result is the expected entry (id 4206). RAWG's Steam store link points to app 460810 (\"Vanquish\"), which is used; its schema is named \"Pineapple\" (an internal codename). The store list also has a separate app 2076820 (\"VANQUISH\") that RAWG does not link; it was not checked or used. None of the 50 Steam achievements is hidden. RAWG's detail says 448 achievements, far more than Steam's 50. The Acts are only numbered in the data, so the chapter titles use numbers; the achievement names (such as \"Space Normandy\" for Act 1) were not treated as Act names. \"Defend the Pangloss statue in Act 3-2\" sits in Act 3, while finding all the hidden Pangloss statues sits with the secrets. RAWG keeps \"Bayonetta & Vanquish 10th Anniversary Bundle\" (2020-02-18) as an addition. StrategyWiki has \"Vanquish\" as a stub (completion stage 0, Category:Stubs); only its Table of Contents (about 350 characters) is written, and Gameplay, Controls, Walkthrough and Achievements and trophies are linked but not written. vanquish.fandom.com answers the API under \"Vanquish\", but with only 14 linked articles, mostly general links (magazines, genres, Platinum Games, Sega); names only were looked at, nothing copied."
+}

@@ -1,0 +1,682 @@
+{
+  "id": "crash-bandicoot-n-sane-trilogy",
+  "title": "Crash Bandicoot N. Sane Trilogy",
+  "year": 2017,
+  "platforms": [
+    "PC",
+    "Nintendo Switch",
+    "PlayStation 4",
+    "Xbox One"
+  ],
+  "rawgId": 34,
+  "rawgSlug": "crash-bandicoot-n-sane-trilogy",
+  "released": "2017-06-30",
+  "developers": [
+    "Activision",
+    "Vicarious Visions",
+    "Toys for Bob",
+    "Iron Galaxy"
+  ],
+  "playtime": 4,
+  "genres": [
+    "Action",
+    "Platformer"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Steam Cloud",
+    "steam-trading-cards",
+    "Great Soundtrack",
+    "Partial Controller Support",
+    "Horror",
+    "Funny",
+    "Difficult",
+    "Classic",
+    "Female Protagonist",
+    "Comedy"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/444/4440f674e2bcb257e249a9ab595d8ab6.jpg",
+  "steamAppId": 731490,
+  "achievements": {
+    "total": 74,
+    "hidden": 21,
+    "examples": [
+      {
+        "name": "C1 | Spin Doctor",
+        "percent": 83.1
+      },
+      {
+        "name": "C1 | That's What Those Do!",
+        "percent": 73.4
+      },
+      {
+        "name": "C1 | Papu Popped",
+        "percent": 61.6
+      },
+      {
+        "name": "C2 | Light the Fires!",
+        "percent": 3.7
+      },
+      {
+        "name": "C1 | Practice Makes Perfect!",
+        "percent": 3.6
+      },
+      {
+        "name": "C3 | Boo-yah, Grandma! Boo-yah!",
+        "percent": 3.5
+      },
+      {
+        "name": "C1 | An Ancient Antiquity",
+        "percent": 3.1
+      },
+      {
+        "name": "C2 | Wumpa-Burner Engaged!",
+        "percent": 2.9
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Crash_Bandicoot_N._Sane_Trilogy",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 174,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://crashbandicoot.fandom.com/wiki/Crash_Bandicoot_N._Sane_Trilogy"
+    }
+  },
+  "game": {
+    "id": "crash-bandicoot-n-sane-trilogy",
+    "title": "Crash Bandicoot N. Sane Trilogy",
+    "platforms": [
+      "PC",
+      "Nintendo Switch",
+      "PlayStation 4",
+      "Xbox One"
+    ],
+    "blurb": "Platformer collection remaking the first three Crash Bandicoot games, from Vicarious Visions, released 2017-06-30. RAWG average playtime: 4 hours. Genres: Action, Platformer. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#D9601A",
+    "chapters": [
+      {
+        "id": "crash-1",
+        "title": "Crash Bandicoot: Levels and Bosses",
+        "summary": "The first game's bosses, bonus rounds, Coco's spin and its hidden achievements. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "crash-1-gems",
+        "title": "Crash Bandicoot: Gems, Relics and Lives",
+        "summary": "Gem paths, 13 and 26 Gems, Relics and 99 lives in the first game.",
+        "steps": []
+      },
+      {
+        "id": "crash-2",
+        "title": "Cortex Strikes Back: Levels and Bosses",
+        "summary": "The second game's bosses, bonus and Death Routes, Coco's leg drop and its hidden achievements. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "crash-2-gems",
+        "title": "Cortex Strikes Back: Gems, Relics and Lives",
+        "summary": "Gem paths, 21 and 42 Gems, Relics and 99 lives in the second game.",
+        "steps": []
+      },
+      {
+        "id": "crash-3",
+        "title": "Warped: Levels and Bosses",
+        "summary": "The third game's bosses, bonus and Death Routes, Coco's hurricane spin and its hidden achievements. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "crash-3-gems",
+        "title": "Warped: Gems, Relics and Lives",
+        "summary": "Gem paths, bonus-level Gems, 21 and 42 Gems, Relics and 99 lives in the third game.",
+        "steps": []
+      },
+      {
+        "id": "extra-levels",
+        "title": "Extra Levels",
+        "summary": "Four achievements listed last in the Steam schema: two for the first game and two for the third, including a UFO in Future Tense.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "C1 | Papu Popped",
+        "kind": "trophy",
+        "chapterId": "crash-1",
+        "where": "Defeat Papu-Papu"
+      },
+      {
+        "id": "achievement-2",
+        "name": "C1 | Ripper Ruined",
+        "kind": "trophy",
+        "chapterId": "crash-1",
+        "where": "Defeat Ripper Roo"
+      },
+      {
+        "id": "achievement-3",
+        "name": "C1 | Spin Doctor",
+        "kind": "trophy",
+        "chapterId": "crash-1",
+        "where": "In a single level, spin an enemy into another enemy twice"
+      },
+      {
+        "id": "achievement-4",
+        "name": "C1 | I Meant To Do That!",
+        "kind": "trophy",
+        "chapterId": "crash-1",
+        "where": "Spin away an Extra Life"
+      },
+      {
+        "id": "achievement-5",
+        "name": "C1 | That's What Those Do!",
+        "kind": "trophy",
+        "chapterId": "crash-1",
+        "where": "Enter a Bonus Round after collecting 3 Character Tokens"
+      },
+      {
+        "id": "achievement-6",
+        "name": "C1 | Catch Me If You Can!",
+        "kind": "trophy",
+        "chapterId": "crash-1-gems",
+        "where": "Earn 5 Relics"
+      },
+      {
+        "id": "achievement-7",
+        "name": "C1 | Feeeed Meeeee!",
+        "kind": "trophy",
+        "chapterId": "crash-1",
+        "where": "Die."
+      },
+      {
+        "id": "achievement-8",
+        "name": "C1 | The Box That Broke the Bandicoot's Back",
+        "kind": "trophy",
+        "chapterId": "crash-1",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-9",
+        "name": "C1 | Koala Konked",
+        "kind": "trophy",
+        "chapterId": "crash-1",
+        "where": "Defeat Koala Kong"
+      },
+      {
+        "id": "achievement-10",
+        "name": "C1 | Pinstripe Patooey",
+        "kind": "trophy",
+        "chapterId": "crash-1",
+        "where": "Defeat Pinstripe Potoroo"
+      },
+      {
+        "id": "achievement-11",
+        "name": "C1 | A Hidden Gem",
+        "kind": "trophy",
+        "chapterId": "crash-1-gems",
+        "where": "Discover a Gem Path after earning a Color Gem"
+      },
+      {
+        "id": "achievement-12",
+        "name": "C1 | Cortex's Crazed Contest",
+        "kind": "trophy",
+        "chapterId": "crash-1",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-13",
+        "name": "C1 | Cortex's Terrifying Trial",
+        "kind": "trophy",
+        "chapterId": "crash-1",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-14",
+        "name": "C1 | Could Go... All... The... Way!",
+        "kind": "trophy",
+        "chapterId": "crash-1-gems",
+        "where": "Earn 10 Relics (gold or better)"
+      },
+      {
+        "id": "achievement-15",
+        "name": "C1 | I See London, I See France",
+        "kind": "trophy",
+        "chapterId": "crash-1",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-16",
+        "name": "C1 | Nitrus Broken",
+        "kind": "trophy",
+        "chapterId": "crash-1",
+        "where": "Defeat N. Brio"
+      },
+      {
+        "id": "achievement-17",
+        "name": "C1 | Cortex N. Capacitated",
+        "kind": "trophy",
+        "chapterId": "crash-1",
+        "where": "Defeat N. Cortex"
+      },
+      {
+        "id": "achievement-18",
+        "name": "C1 | More Gems Are Better Than None",
+        "kind": "trophy",
+        "chapterId": "crash-1-gems",
+        "where": "Earn 13 Gems"
+      },
+      {
+        "id": "achievement-19",
+        "name": "C1 | The Ultimate Gem Path",
+        "kind": "trophy",
+        "chapterId": "crash-1-gems",
+        "where": "Earn 26 Gems"
+      },
+      {
+        "id": "achievement-20",
+        "name": "C1 | Practice Makes Perfect!",
+        "kind": "trophy",
+        "chapterId": "crash-1-gems",
+        "where": "Earn 26 Relics (gold or better)"
+      },
+      {
+        "id": "achievement-21",
+        "name": "C1 | No Holds Barred",
+        "kind": "trophy",
+        "chapterId": "crash-1",
+        "where": "Defeat 5 enemies with Coco's Spin"
+      },
+      {
+        "id": "achievement-22",
+        "name": "C1 | On Cloud 99",
+        "kind": "trophy",
+        "chapterId": "crash-1-gems",
+        "where": "Earn 99 Lives"
+      },
+      {
+        "id": "achievement-23",
+        "name": "C2 | Professor Pulverized",
+        "kind": "trophy",
+        "chapterId": "crash-2",
+        "where": "Defeat Ripper Roo"
+      },
+      {
+        "id": "achievement-24",
+        "name": "C2 | Komodo No Mo",
+        "kind": "trophy",
+        "chapterId": "crash-2",
+        "where": "Defeat the Komodo Brothers"
+      },
+      {
+        "id": "achievement-25",
+        "name": "C2 | A Road Less Traveled",
+        "kind": "trophy",
+        "chapterId": "crash-2",
+        "where": "Discover a \"?\" Bonus Path"
+      },
+      {
+        "id": "achievement-26",
+        "name": "C2 | Kick the Tires!",
+        "kind": "trophy",
+        "chapterId": "crash-2-gems",
+        "where": "Earn 5 Relics"
+      },
+      {
+        "id": "achievement-27",
+        "name": "C2 | A Helping Paw",
+        "kind": "trophy",
+        "chapterId": "crash-2",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-28",
+        "name": "C2 | Buzz Off!",
+        "kind": "trophy",
+        "chapterId": "crash-2",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-29",
+        "name": "C2 | Cortex N. Furiated",
+        "kind": "trophy",
+        "chapterId": "crash-2",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-30",
+        "name": "C2 | Tiny Tricked",
+        "kind": "trophy",
+        "chapterId": "crash-2",
+        "where": "Defeat Tiny Tiger"
+      },
+      {
+        "id": "achievement-31",
+        "name": "C2 | Mech Wrecked",
+        "kind": "trophy",
+        "chapterId": "crash-2",
+        "where": "Defeat N. Gin"
+      },
+      {
+        "id": "achievement-32",
+        "name": "C2 | A Diamond in the Rough",
+        "kind": "trophy",
+        "chapterId": "crash-2-gems",
+        "where": "Discover a Gem Path after earning a Color Gem"
+      },
+      {
+        "id": "achievement-33",
+        "name": "C2 | Cheated Death (For the Time Being)",
+        "kind": "trophy",
+        "chapterId": "crash-2",
+        "where": "Discover a Death Route"
+      },
+      {
+        "id": "achievement-34",
+        "name": "C2 | Jumping the Jetboard",
+        "kind": "trophy",
+        "chapterId": "crash-2",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-35",
+        "name": "C2 | Island Hopping",
+        "kind": "trophy",
+        "chapterId": "crash-2",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-36",
+        "name": "C2 | The Flora Flop",
+        "kind": "trophy",
+        "chapterId": "crash-2",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-37",
+        "name": "C2 | No Bear Left Behind",
+        "kind": "trophy",
+        "chapterId": "crash-2",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-38",
+        "name": "C2 | Hang In There, Maybe!",
+        "kind": "trophy",
+        "chapterId": "crash-2",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-39",
+        "name": "C2 | Light the Fires!",
+        "kind": "trophy",
+        "chapterId": "crash-2-gems",
+        "where": "Earn 10 Relics (gold or better)"
+      },
+      {
+        "id": "achievement-40",
+        "name": "C2 | Crash Cubed",
+        "kind": "trophy",
+        "chapterId": "crash-2",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-41",
+        "name": "C2 | Cortex N. Adequate",
+        "kind": "trophy",
+        "chapterId": "crash-2",
+        "where": "Defeat N. Cortex"
+      },
+      {
+        "id": "achievement-42",
+        "name": "C2 | One Man's Trash",
+        "kind": "trophy",
+        "chapterId": "crash-2-gems",
+        "where": "Earn 21 Gems"
+      },
+      {
+        "id": "achievement-43",
+        "name": "C2 | Laser Powered Vengeance",
+        "kind": "trophy",
+        "chapterId": "crash-2-gems",
+        "where": "Earn 42 Gems"
+      },
+      {
+        "id": "achievement-44",
+        "name": "C2 | Wumpa-Burner Engaged!",
+        "kind": "trophy",
+        "chapterId": "crash-2-gems",
+        "where": "Earn 27 Relics (gold or better)"
+      },
+      {
+        "id": "achievement-45",
+        "name": "C2 | Boom Shakalaka!",
+        "kind": "trophy",
+        "chapterId": "crash-2",
+        "where": "Defeat 5 enemies with Coco's Double Leg Drop"
+      },
+      {
+        "id": "achievement-46",
+        "name": "C2 | 99 Percent Perspiration",
+        "kind": "trophy",
+        "chapterId": "crash-2-gems",
+        "where": "Earn 99 Lives"
+      },
+      {
+        "id": "achievement-47",
+        "name": "C3 | Tiny Trounced",
+        "kind": "trophy",
+        "chapterId": "crash-3",
+        "where": "Defeat Tiny Tiger"
+      },
+      {
+        "id": "achievement-48",
+        "name": "C3 | Penta's Revenge",
+        "kind": "trophy",
+        "chapterId": "crash-3",
+        "where": "Defeat Dingodile"
+      },
+      {
+        "id": "achievement-49",
+        "name": "C3 | Taking the Scenic Route",
+        "kind": "trophy",
+        "chapterId": "crash-3",
+        "where": "Discover a \"?\" Bonus Path"
+      },
+      {
+        "id": "achievement-50",
+        "name": "C3 | Buckle Up, Boys, Buckle Up!",
+        "kind": "trophy",
+        "chapterId": "crash-3-gems",
+        "where": "Earn 5 Relics"
+      },
+      {
+        "id": "achievement-51",
+        "name": "C3 | The Riddle of the Sphynx",
+        "kind": "trophy",
+        "chapterId": "crash-3",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-52",
+        "name": "C3 | Accept No Substitutes",
+        "kind": "trophy",
+        "chapterId": "crash-3",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-53",
+        "name": "C3 | Warts and All",
+        "kind": "trophy",
+        "chapterId": "crash-3",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-54",
+        "name": "C3 | Trigger Clickin' Good",
+        "kind": "trophy",
+        "chapterId": "crash-3",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-55",
+        "name": "C3 | A Nefarious Trophy",
+        "kind": "trophy",
+        "chapterId": "crash-3",
+        "where": "Defeat N. Tropy"
+      },
+      {
+        "id": "achievement-56",
+        "name": "C3 | Mech Wrecked, Again!",
+        "kind": "trophy",
+        "chapterId": "crash-3",
+        "where": "Defeat N. Gin"
+      },
+      {
+        "id": "achievement-57",
+        "name": "C3 | A Cut Above the Rest",
+        "kind": "trophy",
+        "chapterId": "crash-3-gems",
+        "where": "Discover a Gem Path after earning a Color Gem"
+      },
+      {
+        "id": "achievement-58",
+        "name": "C3 | Not a Scratch (Give It Time)",
+        "kind": "trophy",
+        "chapterId": "crash-3",
+        "where": "Discover a Death Route"
+      },
+      {
+        "id": "achievement-59",
+        "name": "C3 | UFO Xing",
+        "kind": "trophy",
+        "chapterId": "crash-3",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-60",
+        "name": "C3 | Getting Carried Away",
+        "kind": "trophy",
+        "chapterId": "crash-3",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-61",
+        "name": "C3 | Giving 102%",
+        "kind": "trophy",
+        "chapterId": "crash-3-gems",
+        "where": "Earn the Gems in the bonus levels"
+      },
+      {
+        "id": "achievement-62",
+        "name": "C3 | Is There a Problem, Granny?!",
+        "kind": "trophy",
+        "chapterId": "crash-3-gems",
+        "where": "Earn 10 Relics (gold or better)"
+      },
+      {
+        "id": "achievement-63",
+        "name": "C3 | Keeping Crash Under Wraps",
+        "kind": "trophy",
+        "chapterId": "crash-3",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-64",
+        "name": "C3 | Your Moment of Zen",
+        "kind": "trophy",
+        "chapterId": "crash-3",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-65",
+        "name": "C3 | Cortex N. Carcerated",
+        "kind": "trophy",
+        "chapterId": "crash-3",
+        "where": "Defeat N. Cortex"
+      },
+      {
+        "id": "achievement-66",
+        "name": "C3 | Leave No Gem Unturned",
+        "kind": "trophy",
+        "chapterId": "crash-3-gems",
+        "where": "Earn 21 Gems"
+      },
+      {
+        "id": "achievement-67",
+        "name": "C3 | Bringing Down the House",
+        "kind": "trophy",
+        "chapterId": "crash-3-gems",
+        "where": "Earn 42 Gems"
+      },
+      {
+        "id": "achievement-68",
+        "name": "C3 | Boo-yah, Grandma! Boo-yah!",
+        "kind": "trophy",
+        "chapterId": "crash-3-gems",
+        "where": "Earn 30 Relics (gold or better)"
+      },
+      {
+        "id": "achievement-69",
+        "name": "C3 | Category Five",
+        "kind": "trophy",
+        "chapterId": "crash-3",
+        "where": "Defeat 5 enemies with Coco's Savage Hurricane Spin"
+      },
+      {
+        "id": "achievement-70",
+        "name": "C3 | A Stitch in Time Save 99",
+        "kind": "trophy",
+        "chapterId": "crash-3-gems",
+        "where": "Earn 99 Lives"
+      },
+      {
+        "id": "achievement-71",
+        "name": "C1 | The Crown Jewel",
+        "kind": "trophy",
+        "chapterId": "extra-levels",
+        "where": "Seek and destroy"
+      },
+      {
+        "id": "achievement-72",
+        "name": "C1 | An Ancient Antiquity",
+        "kind": "trophy",
+        "chapterId": "extra-levels",
+        "where": "Do hard time"
+      },
+      {
+        "id": "achievement-73",
+        "name": "C3 | The Future is Clear",
+        "kind": "trophy",
+        "chapterId": "extra-levels",
+        "where": "Seek and destroy. Again."
+      },
+      {
+        "id": "achievement-74",
+        "name": "C3 | Fruit Fighter",
+        "kind": "trophy",
+        "chapterId": "extra-levels",
+        "where": "Shoot a background UFO in Future Tense."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/crash-bandicoot-n-sane-trilogy",
+    "Achievement data from Steam (Steam Web API, app 731490)",
+    "StrategyWiki: no usable walkthrough, nothing used — https://strategywiki.org/wiki/Crash_Bandicoot_N._Sane_Trilogy",
+    "Fandom (crashbandicoot.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://crashbandicoot.fandom.com/wiki/Crash_Bandicoot_N._Sane_Trilogy"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). A remake of three older games, so this uses the trilogy's own Steam app, 731490; its Steam schema names the app \"CREM\" (an internal codename). Achievement names start with \"C1 |\", \"C2 |\" or \"C3 |\", which is how they were split by game; the game names in the chapter titles come from the StrategyWiki page, which links \"Crash Bandicoot\", \"Crash Bandicoot 2: Cortex Strikes Back\" and \"Crash Bandicoot: Warped\". StrategyWiki's \"Crash Bandicoot N. Sane Trilogy\" page is at completion stage 2 but has no subpages of its own (no Walkthrough or Table of Contents), so nothing was used. crashbandicoot.fandom.com has the page, with about 174 linked pages; names only were looked at, nothing copied. 21 of 74 Steam achievements are hidden; each sits in its own game's levels-and-bosses chapter. The four \"Extra Levels\" achievements describe their goals only loosely (\"Seek and destroy\", \"Do hard time\"), so that chapter title is our own guess at what they cover. RAWG average playtime (4 hours) looks low for three games."
+}

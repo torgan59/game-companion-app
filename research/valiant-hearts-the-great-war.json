@@ -1,0 +1,295 @@
+{
+  "id": "valiant-hearts-the-great-war",
+  "title": "Valiant Hearts: The Great War",
+  "year": 2014,
+  "platforms": [
+    "PlayStation 3",
+    "Xbox 360",
+    "Nintendo Switch",
+    "PC",
+    "iOS",
+    "Android",
+    "Xbox One",
+    "PlayStation 4"
+  ],
+  "rawgId": 1758,
+  "rawgSlug": "valiant-hearts-the-great-war",
+  "released": "2014-06-24",
+  "developers": [
+    "Ubisoft Montpellier"
+  ],
+  "playtime": 6,
+  "genres": [
+    "Adventure",
+    "Puzzle"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Atmospheric",
+    "Great Soundtrack",
+    "RPG",
+    "Story Rich",
+    "2D",
+    "Point & Click",
+    "War",
+    "Historical",
+    "Side Scroller",
+    "Music",
+    "Comic Book"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/39a/39a8aa7798b685f9625e857bc394259d.jpg",
+  "steamAppId": 260230,
+  "achievements": {
+    "total": 20,
+    "hidden": 0,
+    "examples": [
+      {
+        "name": "Forward, March",
+        "percent": 9.4
+      },
+      {
+        "name": "Never forget",
+        "percent": 8.4
+      },
+      {
+        "name": "A new friendship is born",
+        "percent": 8.1
+      },
+      {
+        "name": "Knowledge is power",
+        "percent": 3.9
+      },
+      {
+        "name": "King of the hill 145",
+        "percent": 3.6
+      },
+      {
+        "name": "Brothers' Keeper",
+        "percent": 1.9
+      },
+      {
+        "name": "They'll all be remembered",
+        "percent": 1.3
+      },
+      {
+        "name": "Healing Hero",
+        "percent": 1.1
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": false,
+      "pages": 0,
+      "reason": "No page for Valiant Hearts: The Great War (MediaWiki API returned missing; see notes for other titles tried)"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 7,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://valianthearts.fandom.com/wiki/Valiant_Hearts:_The_Great_War"
+    }
+  },
+  "game": {
+    "id": "valiant-hearts-the-great-war",
+    "title": "Valiant Hearts: The Great War",
+    "platforms": [
+      "PlayStation 3",
+      "Xbox 360",
+      "Nintendo Switch",
+      "PC",
+      "iOS",
+      "Android",
+      "Xbox One",
+      "PlayStation 4"
+    ],
+    "blurb": "Side-scrolling puzzle adventure set in World War I, from Ubisoft Montpellier, published by Ubisoft Entertainment, released 2014-06-24. RAWG average playtime: 6 hours. Genres: Adventure, Puzzle. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#8A5A3C",
+    "chapters": [
+      {
+        "id": "story-opening",
+        "title": "The Story: Training to the Zeppelin",
+        "summary": "Basic training, the tractor, the zeppelin crash and getting Karl out from under it.",
+        "steps": []
+      },
+      {
+        "id": "story-middle",
+        "title": "The Story: Douaumont to the Escape",
+        "summary": "The Douaumont Fort mission, the Baron Von Dorf and escaping with Anna and Karl. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "story-ending",
+        "title": "The Story: The Ending",
+        "summary": "Reaching the end of the game. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "moments",
+        "title": "Battlefield Moments",
+        "summary": "Optional feats along the way: the bell in Ypres, the laundry bags, the Somme, the cannon at Vimy's ridge, the dog, a clean taxi mission and a perfect third rescue of Karl.",
+        "steps": []
+      },
+      {
+        "id": "historical-items",
+        "title": "Historical Items and Facts",
+        "summary": "Finding the historical items and reading the historical facts.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Forward, March",
+        "kind": "trophy",
+        "chapterId": "story-opening",
+        "where": "Raise the flag at the end of the basic training"
+      },
+      {
+        "id": "achievement-2",
+        "name": "A new friendship is born",
+        "kind": "trophy",
+        "chapterId": "story-opening",
+        "where": "Shoot the tractor before it crushes Emile"
+      },
+      {
+        "id": "achievement-3",
+        "name": "It's all fire and death now...",
+        "kind": "trophy",
+        "chapterId": "story-opening",
+        "where": "Witness the zeppelin crash"
+      },
+      {
+        "id": "achievement-4",
+        "name": "A glimmer of hope",
+        "kind": "trophy",
+        "chapterId": "story-opening",
+        "where": "Rescue Karl from underneath the zeppelin"
+      },
+      {
+        "id": "achievement-5",
+        "name": "Cease-fire?",
+        "kind": "trophy",
+        "chapterId": "story-middle",
+        "where": "Finish the Douaumont Fort mission"
+      },
+      {
+        "id": "achievement-6",
+        "name": "Revenge never meant happiness",
+        "kind": "trophy",
+        "chapterId": "story-middle",
+        "where": "Defeat the Baron Von Dorf"
+      },
+      {
+        "id": "achievement-7",
+        "name": "So close yet so far!",
+        "kind": "trophy",
+        "chapterId": "story-middle",
+        "where": "Escape the French army with Anna and Karl"
+      },
+      {
+        "id": "achievement-8",
+        "name": "Some will survive...",
+        "kind": "trophy",
+        "chapterId": "story-ending",
+        "where": "Save Karl"
+      },
+      {
+        "id": "achievement-9",
+        "name": "... Some will not",
+        "kind": "trophy",
+        "chapterId": "story-ending",
+        "where": "Finish the game"
+      },
+      {
+        "id": "achievement-10",
+        "name": "Ypres' wake-up call",
+        "kind": "trophy",
+        "chapterId": "moments",
+        "where": "Ring the bell 3 times in Ypres"
+      },
+      {
+        "id": "achievement-11",
+        "name": "Helpful Laundryman",
+        "kind": "trophy",
+        "chapterId": "moments",
+        "where": "Push all the laundry bags"
+      },
+      {
+        "id": "achievement-12",
+        "name": "Brothers' Keeper",
+        "kind": "trophy",
+        "chapterId": "moments",
+        "where": "Save your entire platoon during the battle of Somme"
+      },
+      {
+        "id": "achievement-13",
+        "name": "King of the hill 145",
+        "kind": "trophy",
+        "chapterId": "moments",
+        "where": "Shoot the German flag with the cannon at Vimy's ridge"
+      },
+      {
+        "id": "achievement-14",
+        "name": "Healing Hero",
+        "kind": "trophy",
+        "chapterId": "moments",
+        "where": "Save Karl for the third time without making any mistakes"
+      },
+      {
+        "id": "achievement-15",
+        "name": "Good doggy",
+        "kind": "trophy",
+        "chapterId": "moments",
+        "where": "Pet the dog"
+      },
+      {
+        "id": "achievement-16",
+        "name": "Taxi Racer",
+        "kind": "trophy",
+        "chapterId": "moments",
+        "where": "Complete 1 taxi mission without damaging the car"
+      },
+      {
+        "id": "achievement-17",
+        "name": "Never forget",
+        "kind": "trophy",
+        "chapterId": "historical-items",
+        "where": "Find 5 historical items"
+      },
+      {
+        "id": "achievement-18",
+        "name": "To those who fell",
+        "kind": "trophy",
+        "chapterId": "historical-items",
+        "where": "Find 50 historical items"
+      },
+      {
+        "id": "achievement-19",
+        "name": "They'll all be remembered",
+        "kind": "trophy",
+        "chapterId": "historical-items",
+        "where": "Find every single historical item"
+      },
+      {
+        "id": "achievement-20",
+        "name": "Knowledge is power",
+        "kind": "trophy",
+        "chapterId": "historical-items",
+        "where": "Read 30 historical facts"
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/valiant-hearts-the-great-war",
+    "Achievement data from Steam (Steam Web API, app 260230)",
+    "StrategyWiki: no page for this game, nothing used",
+    "Fandom (valianthearts.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://valianthearts.fandom.com/wiki/Valiant_Hearts:_The_Great_War"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). RAWG's first result is the expected entry (id 1758). Steam app 260230 (\"Valiant Hearts: The Great War™ / Soldats Inconnus : Mémoires de la Grande Guerre™\") was used. None of the 20 Steam achievements is hidden. The three story chapters follow the Steam list order of VHTGW_Ach_1 to VHTGW_Ach_9, which reads like story order but is not confirmed by the data; the places in the optional feats (Ypres, the Somme, Vimy's ridge) are not placed in order. StrategyWiki has no page under \"Valiant Hearts: The Great War\" or \"Valiant Hearts\". valianthearts.fandom.com answers the API with 7 linked articles (including Achievements, the main character names and \"Valiant Hearts: Dogs of War\"); names only were looked at, nothing copied."
+}

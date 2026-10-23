@@ -1,0 +1,539 @@
+{
+  "id": "bioshock-2-remastered",
+  "title": "BioShock 2 Remastered",
+  "year": 2016,
+  "platforms": [
+    "PlayStation 4",
+    "macOS",
+    "PC",
+    "Xbox One",
+    "Nintendo Switch"
+  ],
+  "rawgId": 11142,
+  "rawgSlug": "bioshock-2-remastered",
+  "released": "2016-09-15",
+  "developers": [
+    "Digital Extremes",
+    "2K Australia",
+    "2K Marin",
+    "Virtuos",
+    "2K China",
+    "Blind Squirrel"
+  ],
+  "playtime": 4,
+  "genres": [
+    "Action",
+    "RPG"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Multiplayer",
+    "Full controller support",
+    "Steam Cloud",
+    "Atmospheric",
+    "RPG",
+    "Story Rich",
+    "First-Person",
+    "Sci-fi",
+    "Horror",
+    "FPS"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/7c4/7c448374df84b607f67ce9182a3a3ca7.jpg",
+  "steamAppId": 409720,
+  "achievements": {
+    "total": 53,
+    "hidden": 23,
+    "examples": [
+      {
+        "name": "Upgraded a Weapon",
+        "percent": 54.9
+      },
+      {
+        "name": "First Research",
+        "percent": 44.5
+      },
+      {
+        "name": "Bought a Slot",
+        "percent": 44.2
+      },
+      {
+        "name": "Litmus Test",
+        "percent": 5.0
+      },
+      {
+        "name": "Acid Test",
+        "percent": 4.3
+      },
+      {
+        "name": "Get a Bigger Bucket",
+        "percent": 4.2
+      },
+      {
+        "name": "Trial by Fire",
+        "percent": 4.1
+      },
+      {
+        "name": "Enemy of the Familiy",
+        "percent": 3.8
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/BioShock_2",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 150,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://bioshock.fandom.com/wiki/BioShock_2"
+    }
+  },
+  "game": {
+    "id": "bioshock-2-remastered",
+    "title": "BioShock 2 Remastered",
+    "platforms": [
+      "PlayStation 4",
+      "macOS",
+      "PC",
+      "Xbox One",
+      "Nintendo Switch"
+    ],
+    "blurb": "First-person shooter with RPG elements, remastered by 2K (RAWG lists Digital Extremes, 2K Australia, 2K Marin, Virtuos, 2K China and Blind Squirrel), released 2016-09-15. RAWG average playtime: 4 hours. Genres: Action, RPG. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#2E6E7E",
+    "chapters": [
+      {
+        "id": "main-story",
+        "title": "The Main Story",
+        "summary": "The journey through Rapture as a Big Daddy, milestone by milestone. All hidden on Steam, so spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "little-sisters",
+        "title": "Little Sisters and Big Daddies",
+        "summary": "Adopting, protecting and dealing with Little Sisters, gathering ADAM and beating Big Daddies.",
+        "steps": []
+      },
+      {
+        "id": "plasmids-and-weapons",
+        "title": "Plasmids, Tonics and Weapons",
+        "summary": "Plasmid and Tonic slots, upgrading Plasmids, weapon upgrades at Power to the People stations, traps and vending machines.",
+        "steps": []
+      },
+      {
+        "id": "hacking-and-research",
+        "title": "Hacking and Research",
+        "summary": "Hacking machines with the Hack Tool and researching enemies with the Research Camera.",
+        "steps": []
+      },
+      {
+        "id": "diaries-and-challenges",
+        "title": "Audio Diaries and Challenge Runs",
+        "summary": "Collecting Audio Diaries, finishing on the hardest difficulty and finishing without Vita-Chambers.",
+        "steps": []
+      },
+      {
+        "id": "minervas-den",
+        "title": "Minerva's Den",
+        "summary": "The Minerva's Den story: its Little Sisters, Vacuum Bots, a Lancer Big Daddy and its hidden milestones.",
+        "steps": []
+      },
+      {
+        "id": "protector-trials",
+        "title": "The Protector Trials",
+        "summary": "Stars, ranks and ADAM collection in the Protector Trials.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Daddy's Home",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-2",
+        "name": "Protector",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-3",
+        "name": "Sinclair's Solution",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-4",
+        "name": "Confronted Grace",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-5",
+        "name": "Defeated the Preacher",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-6",
+        "name": "Nose for News",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-7",
+        "name": "Found Lamb's Hideout",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-8",
+        "name": "Reunion",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-9",
+        "name": "Heading to the Surface",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-10",
+        "name": "Escape",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-11",
+        "name": "Bought a Slot",
+        "kind": "trophy",
+        "chapterId": "plasmids-and-weapons",
+        "where": "Bought one Plasmid Slot or Tonic Slot at a Gatherer's Garden."
+      },
+      {
+        "id": "achievement-12",
+        "name": "Max Plasmid Slots",
+        "kind": "trophy",
+        "chapterId": "plasmids-and-weapons",
+        "where": "Fully upgraded to the maximum number of Plasmid Slots."
+      },
+      {
+        "id": "achievement-13",
+        "name": "Upgraded a Weapon",
+        "kind": "trophy",
+        "chapterId": "plasmids-and-weapons",
+        "where": "Upgraded a weapon at a Power to the People Station."
+      },
+      {
+        "id": "achievement-14",
+        "name": "Fully Upgraded a Weapon",
+        "kind": "trophy",
+        "chapterId": "plasmids-and-weapons",
+        "where": "Installed the third upgrade to a weapon."
+      },
+      {
+        "id": "achievement-15",
+        "name": "Distance Hacker",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-16",
+        "name": "Prolific Hacker",
+        "kind": "trophy",
+        "chapterId": "hacking-and-research",
+        "where": "Hacked one of each kind of machine."
+      },
+      {
+        "id": "achievement-17",
+        "name": "Master Hacker",
+        "kind": "trophy",
+        "chapterId": "hacking-and-research",
+        "where": "Hacked 30 machines at a distance with the Hack Tool."
+      },
+      {
+        "id": "achievement-18",
+        "name": "All Weapon Upgrades",
+        "kind": "trophy",
+        "chapterId": "plasmids-and-weapons",
+        "where": "Found every Power to the People weapon upgrades in the game."
+      },
+      {
+        "id": "achievement-19",
+        "name": "First Research",
+        "kind": "trophy",
+        "chapterId": "hacking-and-research",
+        "where": "Researched a Splicer with the Research Camera."
+      },
+      {
+        "id": "achievement-20",
+        "name": "One Research Track",
+        "kind": "trophy",
+        "chapterId": "hacking-and-research",
+        "where": "Maxed out one Research Track."
+      },
+      {
+        "id": "achievement-21",
+        "name": "Research Master",
+        "kind": "trophy",
+        "chapterId": "hacking-and-research",
+        "where": "Completed all research on every subject in Rapture."
+      },
+      {
+        "id": "achievement-22",
+        "name": "Grand Daddy",
+        "kind": "trophy",
+        "chapterId": "little-sisters",
+        "where": "Defeated 3 Big Daddies without dying during a fight."
+      },
+      {
+        "id": "achievement-23",
+        "name": "Adopted a Little Sister",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-24",
+        "name": "Master Gatherer",
+        "kind": "trophy",
+        "chapterId": "little-sisters",
+        "where": "Gather 600 ADAM with Little Sisters."
+      },
+      {
+        "id": "achievement-25",
+        "name": "Fully Upgraded a Plasmid",
+        "kind": "trophy",
+        "chapterId": "plasmids-and-weapons",
+        "where": "Fully upgraded one Plasmid to the Level 3 version."
+      },
+      {
+        "id": "achievement-26",
+        "name": "All Plasmids",
+        "kind": "trophy",
+        "chapterId": "plasmids-and-weapons",
+        "where": "Found or purchased all 11 basic Plasmid types."
+      },
+      {
+        "id": "achievement-27",
+        "name": "Unbreakable",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-28",
+        "name": "Look at You, Hacker",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-29",
+        "name": "Trap Master",
+        "kind": "trophy",
+        "chapterId": "plasmids-and-weapons",
+        "where": "Killed 30 enemies using only Traps."
+      },
+      {
+        "id": "achievement-30",
+        "name": "Counterattack",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-31",
+        "name": "Master Protector",
+        "kind": "trophy",
+        "chapterId": "little-sisters",
+        "where": "Got through a Gather with no damage and no one getting to the Little Sister."
+      },
+      {
+        "id": "achievement-32",
+        "name": "Big Spender",
+        "kind": "trophy",
+        "chapterId": "plasmids-and-weapons",
+        "where": "Spent 2000 Dollars at Vending Machines."
+      },
+      {
+        "id": "achievement-33",
+        "name": "Dealt with Every Little Sister",
+        "kind": "trophy",
+        "chapterId": "little-sisters",
+        "where": "Dealt with every Little Sister."
+      },
+      {
+        "id": "achievement-34",
+        "name": "Against All Odds",
+        "kind": "trophy",
+        "chapterId": "diaries-and-challenges",
+        "where": "Finished the game on the hardest difficulty level."
+      },
+      {
+        "id": "achievement-35",
+        "name": "Savior",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-36",
+        "name": "Big Brass Balls",
+        "kind": "trophy",
+        "chapterId": "diaries-and-challenges",
+        "where": "Finished the game without using Vita-Chambers."
+      },
+      {
+        "id": "achievement-37",
+        "name": "Rapture Historian",
+        "kind": "trophy",
+        "chapterId": "diaries-and-challenges",
+        "where": "Find 100 Audio Diaries."
+      },
+      {
+        "id": "achievement-38",
+        "name": "9-Irony",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-39",
+        "name": "Litmus Test",
+        "kind": "trophy",
+        "chapterId": "protector-trials",
+        "where": "Earned 6 stars in the Protector Trials"
+      },
+      {
+        "id": "achievement-40",
+        "name": "Acid Test",
+        "kind": "trophy",
+        "chapterId": "protector-trials",
+        "where": "Earned 18 stars in the Protector Trials"
+      },
+      {
+        "id": "achievement-41",
+        "name": "Trial by Fire",
+        "kind": "trophy",
+        "chapterId": "protector-trials",
+        "where": "Earned 36 stars in the Protector Trials"
+      },
+      {
+        "id": "achievement-42",
+        "name": "Enemy of the Familiy",
+        "kind": "trophy",
+        "chapterId": "protector-trials",
+        "where": "Earned an A rank in all Protector Trials"
+      },
+      {
+        "id": "achievement-43",
+        "name": "Guardian Angel",
+        "kind": "trophy",
+        "chapterId": "protector-trials",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-44",
+        "name": "Perfect Protector",
+        "kind": "trophy",
+        "chapterId": "protector-trials",
+        "where": "Collected 100% of the ADAM in a single Protector Trial."
+      },
+      {
+        "id": "achievement-45",
+        "name": "Get a Bigger Bucket",
+        "kind": "trophy",
+        "chapterId": "protector-trials",
+        "where": "Collected 50% of the ADAM available in all Protector Trials."
+      },
+      {
+        "id": "achievement-46",
+        "name": "ADAM Addict",
+        "kind": "trophy",
+        "chapterId": "minervas-den",
+        "where": "Resolved all the Little Sisters in Minerva's Den"
+      },
+      {
+        "id": "achievement-47",
+        "name": "Lancer Killer",
+        "kind": "trophy",
+        "chapterId": "minervas-den",
+        "where": "Kill a Lancer Big Daddy"
+      },
+      {
+        "id": "achievement-48",
+        "name": "Garbage Collection",
+        "kind": "trophy",
+        "chapterId": "minervas-den",
+        "where": "Destroyed all 10 Vacuum Bots in Minerva's Den"
+      },
+      {
+        "id": "achievement-49",
+        "name": "Login",
+        "kind": "trophy",
+        "chapterId": "minervas-den",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-50",
+        "name": "Root Access Granted",
+        "kind": "trophy",
+        "chapterId": "minervas-den",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-51",
+        "name": "SUDO",
+        "kind": "trophy",
+        "chapterId": "minervas-den",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-52",
+        "name": "High Score",
+        "kind": "trophy",
+        "chapterId": "minervas-den",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-53",
+        "name": "Logout",
+        "kind": "trophy",
+        "chapterId": "minervas-den",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/bioshock-2-remastered",
+    "Achievement data from Steam (Steam Web API, app 409720)",
+    "StrategyWiki: no usable walkthrough, nothing used — https://strategywiki.org/wiki/BioShock_2",
+    "Fandom (bioshock.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://bioshock.fandom.com/wiki/BioShock_2"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). Remaster: Steam app 409720 (\"BioShock 2 Remastered\" in the store list; the schema is named \"BeachTree2\", an internal codename) was used, not the 2010 original; RAWG keeps the original (\"bioshock-2\") and \"BioShock 2: Minerva's Den Remastered\" as separate entries. StrategyWiki redirects \"BioShock 2 Remastered\" to \"BioShock 2\" (completion stage 1), but it is not a usable guide: of the nine level pages on its contents list only \"Pauper's Drop\" is written (about 3,900 characters); Achievements and trophies, Controls, Enemies, Plasmids & Tonics and Table of Contents are the other written subpages, and the Walkthrough page itself is not written. So it was not used. bioshock.fandom.com answers the API under \"BioShock 2\", with about 154 linked articles (including \"Minerva's Den (DLC)\" and \"The Protector Trials\"); names only were looked at, nothing copied. 23 of 53 Steam achievements are hidden and have no description. Five hidden ones (Login, Root Access Granted, SUDO, High Score, Logout) and the visible \"Lancer Killer\" sit in the Steam list next to the Minerva's Den achievements, so they were placed there by position; \"Guardian Angel\" sits among the Protector Trials achievements and was placed there. The other 17 hidden ones (Daddy's Home to Escape, plus Distance Hacker, Adopted a Little Sister, Unbreakable, Look at You Hacker, Counterattack, Savior and 9-Irony) sit in the main story chapter as a placeholder; some of those are likely hacking or Little Sister feats and need checking. The Steam schema spells one name \"Enemy of the Familiy\" (typo kept as given)."
+}

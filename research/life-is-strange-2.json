@@ -1,0 +1,472 @@
+{
+  "id": "life-is-strange-2",
+  "title": "Life is Strange 2",
+  "year": 2018,
+  "platforms": [
+    "PlayStation 4",
+    "Linux",
+    "macOS",
+    "PC",
+    "Nintendo Switch",
+    "Xbox One"
+  ],
+  "rawgId": 58952,
+  "rawgSlug": "life-is-strange-2",
+  "released": "2018-09-27",
+  "developers": [
+    "DONTNOD Entertainment"
+  ],
+  "playtime": 6,
+  "genres": [
+    "Adventure"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Full controller support",
+    "Steam Cloud",
+    "Atmospheric",
+    "steam-trading-cards",
+    "Great Soundtrack",
+    "Story Rich",
+    "Third Person",
+    "Action-Adventure",
+    "Point & Click",
+    "Choices Matter"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/883/883bc3050f9a4115d1968ece56bddfc2.jpg",
+  "steamAppId": 532210,
+  "achievements": {
+    "total": 46,
+    "hidden": 11,
+    "examples": [
+      {
+        "name": "Bear Aware",
+        "percent": 43.0
+      },
+      {
+        "name": "Bonus Miles",
+        "percent": 34.7
+      },
+      {
+        "name": "Train Of Thought",
+        "percent": 25.8
+      },
+      {
+        "name": "Dead Man's Bones",
+        "percent": 6.4
+      },
+      {
+        "name": "Lost Boys Chronicles",
+        "percent": 6.1
+      },
+      {
+        "name": "Archivist",
+        "percent": 5.7
+      },
+      {
+        "name": "Remorseful",
+        "percent": 5.2
+      },
+      {
+        "name": "Specks Of Dust",
+        "percent": 4.6
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": false,
+      "pages": 0,
+      "reason": "No page for Life is Strange 2 (MediaWiki API returned missing; see notes for other titles tried)"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 104,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://life-is-strange.fandom.com/wiki/Life_is_Strange_2"
+    }
+  },
+  "game": {
+    "id": "life-is-strange-2",
+    "title": "Life is Strange 2",
+    "platforms": [
+      "PlayStation 4",
+      "Linux",
+      "macOS",
+      "PC",
+      "Nintendo Switch",
+      "Xbox One"
+    ],
+    "blurb": "Episodic story-driven adventure from DONTNOD Entertainment, released 2018-09-27 (first episode). RAWG average playtime: 6 hours. Genre: Adventure. Chapters follow the five episodes named in the Steam achievements.",
+    "accent": "#C0392B",
+    "chapters": [
+      {
+        "id": "episode-1",
+        "title": "Episode 1",
+        "summary": "The first episode: its six optional collectibles and its hidden story moments. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "episode-2",
+        "title": "Episode 2",
+        "summary": "The second episode: six optional collectibles, finishing the episode and a hidden drawing moment. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "episode-3",
+        "title": "Episode 3",
+        "summary": "The third episode: six optional collectibles, finishing the episode and a hidden drawing moment. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "episode-4",
+        "title": "Episode 4",
+        "summary": "The fourth episode: six optional collectibles, finishing the episode and a hidden drawing moment. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "episode-5",
+        "title": "Episode 5",
+        "summary": "The final episode: six optional collectibles, finishing the episode and a hidden drawing moment. Spoiler-guarded.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Wolf Pack",
+        "kind": "trophy",
+        "chapterId": "episode-1",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-2",
+        "name": "A Long Road Ahead",
+        "kind": "trophy",
+        "chapterId": "episode-1",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-3",
+        "name": "Sidetracked",
+        "kind": "trophy",
+        "chapterId": "episode-1",
+        "where": "Find optional collectible #1 in Episode 1"
+      },
+      {
+        "id": "achievement-4",
+        "name": "Bear Aware",
+        "kind": "trophy",
+        "chapterId": "episode-1",
+        "where": "Find optional collectible #2 in Episode 1"
+      },
+      {
+        "id": "achievement-5",
+        "name": "Bonus Miles",
+        "kind": "trophy",
+        "chapterId": "episode-1",
+        "where": "Find optional collectible #3 in Episode 1"
+      },
+      {
+        "id": "achievement-6",
+        "name": "Ranger",
+        "kind": "trophy",
+        "chapterId": "episode-1",
+        "where": "Find optional collectible #4 in Episode 1"
+      },
+      {
+        "id": "achievement-7",
+        "name": "Trail Angel",
+        "kind": "trophy",
+        "chapterId": "episode-1",
+        "where": "Find optional collectible #5 in Episode 1"
+      },
+      {
+        "id": "achievement-8",
+        "name": "Room Service",
+        "kind": "trophy",
+        "chapterId": "episode-1",
+        "where": "Find optional collectible #6 in Episode 1"
+      },
+      {
+        "id": "achievement-9",
+        "name": "Dillydallying",
+        "kind": "trophy",
+        "chapterId": "episode-1",
+        "where": "Find all optional collectibles in Episode 1"
+      },
+      {
+        "id": "achievement-10",
+        "name": "Sketchy",
+        "kind": "trophy",
+        "chapterId": "episode-1",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-11",
+        "name": "Free Spirits",
+        "kind": "trophy",
+        "chapterId": "episode-2",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-12",
+        "name": "Back in Time",
+        "kind": "trophy",
+        "chapterId": "episode-2",
+        "where": "Find optional collectible #1 in Episode 2"
+      },
+      {
+        "id": "achievement-13",
+        "name": "Family Business",
+        "kind": "trophy",
+        "chapterId": "episode-2",
+        "where": "Find optional collectible #2 in Episode 2"
+      },
+      {
+        "id": "achievement-14",
+        "name": "Bad Santa",
+        "kind": "trophy",
+        "chapterId": "episode-2",
+        "where": "Find optional collectible #3 in Episode 2"
+      },
+      {
+        "id": "achievement-15",
+        "name": "Heirloom",
+        "kind": "trophy",
+        "chapterId": "episode-2",
+        "where": "Find optional collectible #4 in Episode 2"
+      },
+      {
+        "id": "achievement-16",
+        "name": "Teenage Angst",
+        "kind": "trophy",
+        "chapterId": "episode-2",
+        "where": "Find optional collectible #5 in Episode 2"
+      },
+      {
+        "id": "achievement-17",
+        "name": "Small Town Blues",
+        "kind": "trophy",
+        "chapterId": "episode-2",
+        "where": "Find optional collectible #6 in Episode 2"
+      },
+      {
+        "id": "achievement-18",
+        "name": "A Private Journey",
+        "kind": "trophy",
+        "chapterId": "episode-2",
+        "where": "Find all optional collectibles in Episode 2"
+      },
+      {
+        "id": "achievement-19",
+        "name": "Draw The Line",
+        "kind": "trophy",
+        "chapterId": "episode-2",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-20",
+        "name": "Adrift",
+        "kind": "trophy",
+        "chapterId": "episode-3",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-21",
+        "name": "The Dharma Bums",
+        "kind": "trophy",
+        "chapterId": "episode-3",
+        "where": "Find optional collectible #1 in Episode 3"
+      },
+      {
+        "id": "achievement-22",
+        "name": "Train Of Thought",
+        "kind": "trophy",
+        "chapterId": "episode-3",
+        "where": "Find optional collectible #2 in Episode 3"
+      },
+      {
+        "id": "achievement-23",
+        "name": "Zero Hugs Given",
+        "kind": "trophy",
+        "chapterId": "episode-3",
+        "where": "Find optional collectible #3 in Episode 3"
+      },
+      {
+        "id": "achievement-24",
+        "name": "Green Thumbs",
+        "kind": "trophy",
+        "chapterId": "episode-3",
+        "where": "Find optional collectible #4 in Episode 3"
+      },
+      {
+        "id": "achievement-25",
+        "name": "Dancing Days",
+        "kind": "trophy",
+        "chapterId": "episode-3",
+        "where": "Find optional collectible #5 in Episode 3"
+      },
+      {
+        "id": "achievement-26",
+        "name": "One Of Us",
+        "kind": "trophy",
+        "chapterId": "episode-3",
+        "where": "Find optional collectible #6 in Episode 3"
+      },
+      {
+        "id": "achievement-27",
+        "name": "Lost Boys Chronicles",
+        "kind": "trophy",
+        "chapterId": "episode-3",
+        "where": "Find all optional collectibles in Episode 3"
+      },
+      {
+        "id": "achievement-28",
+        "name": "American Graffiti",
+        "kind": "trophy",
+        "chapterId": "episode-3",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-29",
+        "name": "Romans 3:23",
+        "kind": "trophy",
+        "chapterId": "episode-4",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-30",
+        "name": "A New Perspective",
+        "kind": "trophy",
+        "chapterId": "episode-4",
+        "where": "Find optional collectible #1 in Episode 4"
+      },
+      {
+        "id": "achievement-31",
+        "name": "Lone Wolf",
+        "kind": "trophy",
+        "chapterId": "episode-4",
+        "where": "Find optional collectible #2 in Episode 4"
+      },
+      {
+        "id": "achievement-32",
+        "name": "Amazing Grace",
+        "kind": "trophy",
+        "chapterId": "episode-4",
+        "where": "Find optional collectible #3 in Episode 4"
+      },
+      {
+        "id": "achievement-33",
+        "name": "Promised Land",
+        "kind": "trophy",
+        "chapterId": "episode-4",
+        "where": "Find optional collectible #4 in Episode 4"
+      },
+      {
+        "id": "achievement-34",
+        "name": "All Sinners",
+        "kind": "trophy",
+        "chapterId": "episode-4",
+        "where": "Find optional collectible #5 in Episode 4"
+      },
+      {
+        "id": "achievement-35",
+        "name": "Heaven & Hell",
+        "kind": "trophy",
+        "chapterId": "episode-4",
+        "where": "Find optional collectible #6 in Episode 4"
+      },
+      {
+        "id": "achievement-36",
+        "name": "Archivist",
+        "kind": "trophy",
+        "chapterId": "episode-4",
+        "where": "Find all optional collectibles in Episode 4"
+      },
+      {
+        "id": "achievement-37",
+        "name": "Chiaroscuro",
+        "kind": "trophy",
+        "chapterId": "episode-4",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-38",
+        "name": "Homeward Bound",
+        "kind": "trophy",
+        "chapterId": "episode-5",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-39",
+        "name": "The Magic Place",
+        "kind": "trophy",
+        "chapterId": "episode-5",
+        "where": "Find optional collectible #1 in Episode 5"
+      },
+      {
+        "id": "achievement-40",
+        "name": "The Age Of Reason",
+        "kind": "trophy",
+        "chapterId": "episode-5",
+        "where": "Find optional collectible #2 in Episode 5"
+      },
+      {
+        "id": "achievement-41",
+        "name": "She Wolf",
+        "kind": "trophy",
+        "chapterId": "episode-5",
+        "where": "Find optional collectible #3 in Episode 5"
+      },
+      {
+        "id": "achievement-42",
+        "name": "Remorseful",
+        "kind": "trophy",
+        "chapterId": "episode-5",
+        "where": "Find optional collectible #4 in Episode 5"
+      },
+      {
+        "id": "achievement-43",
+        "name": "Dead Man's Bones",
+        "kind": "trophy",
+        "chapterId": "episode-5",
+        "where": "Find optional collectible #5 in Episode 5"
+      },
+      {
+        "id": "achievement-44",
+        "name": "Boundaries",
+        "kind": "trophy",
+        "chapterId": "episode-5",
+        "where": "Find optional collectible #6 in Episode 5"
+      },
+      {
+        "id": "achievement-45",
+        "name": "Specks Of Dust",
+        "kind": "trophy",
+        "chapterId": "episode-5",
+        "where": "Find all optional collectibles in Episode 5"
+      },
+      {
+        "id": "achievement-46",
+        "name": "Out Of Ink",
+        "kind": "trophy",
+        "chapterId": "episode-5",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/life-is-strange-2",
+    "Achievement data from Steam (Steam Web API, app 532210)",
+    "StrategyWiki: no page for this game, nothing used",
+    "Fandom (life-is-strange.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://life-is-strange.fandom.com/wiki/Life_is_Strange_2"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). Steam app 532210 was the only app-list match; the Steam schema calls it \"Promenade\" (an internal codename). RAWG's first search result matched the expected slug; RAWG also lists the episodes as separate entries (for example \"Life is Strange 2 - Episode 1\" and \"Episode 2\"), which were not used. 11 of 46 Steam achievements are hidden. They were placed by their Steam API names: ACH_E2_FinishEp and ACH_E2_DrawSequ go to Episode 2, and so on through Episode 5; the three without an episode number (ACH_WolfPack \"Wolf Pack\", ACH_OnTheRoadAgain \"A Long Road Ahead\", ACH_TheSketchyWay \"Sketchy\") sit among the Episode 1 achievements in the Steam list, so they were put with Episode 1, a guess. Each episode has six optional collectibles plus an all-collectibles achievement, the natural checklist. StrategyWiki has no page under \"Life is Strange 2\" or \"Life Is Strange 2\". life-is-strange.fandom.com answers the API under \"Life is Strange 2\" with about 104 linked articles; names only were looked at, nothing copied."
+}

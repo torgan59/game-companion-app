@@ -1,0 +1,482 @@
+{
+  "id": "tekken-8",
+  "title": "Tekken 8",
+  "year": 2024,
+  "platforms": [
+    "PC",
+    "PlayStation 5",
+    "Xbox Series X|S"
+  ],
+  "rawgId": 850705,
+  "rawgSlug": "tekken-8",
+  "released": "2024-01-25",
+  "developers": [
+    "Bandai Namco Entertainment"
+  ],
+  "playtime": 19,
+  "genres": [
+    "Action",
+    "Fighting"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Multiplayer",
+    "Steam Cloud",
+    "Great Soundtrack",
+    "Story Rich",
+    "Partial Controller Support",
+    "Difficult",
+    "Split Screen",
+    "Controller",
+    "Local Multiplayer",
+    "PvP"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/ed3/ed3a5e9fab79022979de9ef420137f73.jpg",
+  "steamAppId": 1778820,
+  "achievements": {
+    "total": 47,
+    "hidden": 10,
+    "examples": [
+      {
+        "name": "What a rush!",
+        "percent": 87.9
+      },
+      {
+        "name": "Let the blistering sands consume you.",
+        "percent": 86.6
+      },
+      {
+        "name": "Your fate is already decided.",
+        "percent": 84.2
+      },
+      {
+        "name": "All is vanity.",
+        "percent": 16.2
+      },
+      {
+        "name": "Please don't tell my father.",
+        "percent": 15.9
+      },
+      {
+        "name": "This should be fun.",
+        "percent": 14.1
+      },
+      {
+        "name": "My moves are way faster than yours.",
+        "percent": 10.0
+      },
+      {
+        "name": "Power isn't everything.",
+        "percent": 9.3
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Tekken_8",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 231,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://tekken.fandom.com/wiki/Tekken_8"
+    }
+  },
+  "game": {
+    "id": "tekken-8",
+    "title": "Tekken 8",
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "Xbox Series X|S"
+    ],
+    "blurb": "3D fighting game from Bandai Namco Entertainment, released 2024-01-25. RAWG average playtime: 19 hours. Genres: Action, Fighting. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#C62828",
+    "chapters": [
+      {
+        "id": "story",
+        "title": "The Dark Awakens",
+        "summary": "The main story mode, chapter by chapter, plus the hidden milestones. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "episodes-and-arcade",
+        "title": "Character Episodes and Arcade Battle",
+        "summary": "Finishing Character Episode stories and Arcade Battle.",
+        "steps": []
+      },
+      {
+        "id": "online",
+        "title": "Online Matches and Ranks",
+        "summary": "Ranked, Player and Group Matches, online battles and rank promotions.",
+        "steps": []
+      },
+      {
+        "id": "ghosts",
+        "title": "Ghost Battles",
+        "summary": "Fighting your own Ghost, beating other players' Ghosts and Super Ghost Battle.",
+        "steps": []
+      },
+      {
+        "id": "techniques",
+        "title": "Fighting Techniques",
+        "summary": "Heat, Rage Arts, Tornados, air combos, wall and floor breaks, stage tricks and Tekken Ball.",
+        "steps": []
+      },
+      {
+        "id": "practice-and-extras",
+        "title": "Practice, Customization and Gold",
+        "summary": "Practice mode, Combo Challenges, Replays & Tips, Character Customization and earning gold.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Just relax. You can do it.",
+        "kind": "trophy",
+        "chapterId": "online",
+        "where": "Won a Ranked Match."
+      },
+      {
+        "id": "achievement-2",
+        "name": "I'll give you a rematch anytime, guv.",
+        "kind": "trophy",
+        "chapterId": "online",
+        "where": "Won a Player Match."
+      },
+      {
+        "id": "achievement-3",
+        "name": "Please don't tell my father.",
+        "kind": "trophy",
+        "chapterId": "online",
+        "where": "Won a Group Match."
+      },
+      {
+        "id": "achievement-4",
+        "name": "Excellent!",
+        "kind": "trophy",
+        "chapterId": "online",
+        "where": "Play a total of 10 online battles of any kind."
+      },
+      {
+        "id": "achievement-5",
+        "name": "That was too easy!",
+        "kind": "trophy",
+        "chapterId": "techniques",
+        "where": "Achieved a perfect victory. (Excluding offline player battles)"
+      },
+      {
+        "id": "achievement-6",
+        "name": "Outstanding!",
+        "kind": "trophy",
+        "chapterId": "techniques",
+        "where": "Achieved a great victory. (Excluding offline player battles)"
+      },
+      {
+        "id": "achievement-7",
+        "name": "Behold, the fruits of my labors.",
+        "kind": "trophy",
+        "chapterId": "techniques",
+        "where": "Dealt 70+ damage in an air combo. (Excluding offline player battles)"
+      },
+      {
+        "id": "achievement-8",
+        "name": "Let the blistering sands consume you.",
+        "kind": "trophy",
+        "chapterId": "techniques",
+        "where": "Triggered 10 Tornados. (Excluding offline player battles)"
+      },
+      {
+        "id": "achievement-9",
+        "name": "(That's how a true champion fights!)",
+        "kind": "trophy",
+        "chapterId": "techniques",
+        "where": "Dealt 20 Rage Arts. (Excluding offline player battles)"
+      },
+      {
+        "id": "achievement-10",
+        "name": "What a rush!",
+        "kind": "trophy",
+        "chapterId": "techniques",
+        "where": "Performed 5 Heat Bursts. (Excluding offline player battles)"
+      },
+      {
+        "id": "achievement-11",
+        "name": "Your fate is already decided.",
+        "kind": "trophy",
+        "chapterId": "techniques",
+        "where": "Activated Heat 5 times with a Heat Engager. (Excluding offline player battles)"
+      },
+      {
+        "id": "achievement-12",
+        "name": "Fear my wrath.",
+        "kind": "trophy",
+        "chapterId": "techniques",
+        "where": "Dealt 20 Heat Smashes. (Excluding offline player battles)"
+      },
+      {
+        "id": "achievement-13",
+        "name": "You think you can stop me?",
+        "kind": "trophy",
+        "chapterId": "techniques",
+        "where": "Performed 10 Heat Dashes. (Excluding offline player battles)"
+      },
+      {
+        "id": "achievement-14",
+        "name": "Under the divine protection of Sirius.",
+        "kind": "trophy",
+        "chapterId": "techniques",
+        "where": "Healed an overall total of 500 damage in recoverable health. (Excluding offline player battles)"
+      },
+      {
+        "id": "achievement-15",
+        "name": "Now it's time to destroy you.",
+        "kind": "trophy",
+        "chapterId": "techniques",
+        "where": "Dealt an overall total of 1000 damage while in rage mode. (Excluding offline player battles)"
+      },
+      {
+        "id": "achievement-16",
+        "name": "Sorry for getting rough back there.",
+        "kind": "trophy",
+        "chapterId": "techniques",
+        "where": "Performed a Wall Bound. (Excluding offline player battles)"
+      },
+      {
+        "id": "achievement-17",
+        "name": "Resuming mission.",
+        "kind": "trophy",
+        "chapterId": "techniques",
+        "where": "Performed a Wall Blast. (Excluding offline player battles)"
+      },
+      {
+        "id": "achievement-18",
+        "name": "Come on, just try and kill me.",
+        "kind": "trophy",
+        "chapterId": "techniques",
+        "where": "Performed a Hard Wall Break. (Excluding offline player battles)"
+      },
+      {
+        "id": "achievement-19",
+        "name": "...",
+        "kind": "trophy",
+        "chapterId": "techniques",
+        "where": "Performed a Hard Floor Break. (Excluding offline player battles)"
+      },
+      {
+        "id": "achievement-20",
+        "name": "(You never learn.)",
+        "kind": "trophy",
+        "chapterId": "techniques",
+        "where": "Performed a Floor Blast. (Excluding offline player battles)"
+      },
+      {
+        "id": "achievement-21",
+        "name": "How do you take your coffee?",
+        "kind": "trophy",
+        "chapterId": "techniques",
+        "where": "Reached the lowest area of the Ortiz Farm stage. (Excluding offline player battles)"
+      },
+      {
+        "id": "achievement-22",
+        "name": "My moves are way faster than yours.",
+        "kind": "trophy",
+        "chapterId": "techniques",
+        "where": "Performed 20 Devilish hits in Tekken Ball. (Excluding offline player battles)"
+      },
+      {
+        "id": "achievement-23",
+        "name": "I aspire to greater heights!",
+        "kind": "trophy",
+        "chapterId": "online",
+        "where": "Got promoted to Brawler."
+      },
+      {
+        "id": "achievement-24",
+        "name": "I'm actually pretty strong.",
+        "kind": "trophy",
+        "chapterId": "online",
+        "where": "Got promoted to Warrior."
+      },
+      {
+        "id": "achievement-25",
+        "name": "There's no way you can stop me.",
+        "kind": "trophy",
+        "chapterId": "online",
+        "where": "Got promoted to Vanquisher."
+      },
+      {
+        "id": "achievement-26",
+        "name": "Come, humanity! Unleash the dogs of war!",
+        "kind": "trophy",
+        "chapterId": "story",
+        "where": "Finished Chapter 1 of The Dark Awakens."
+      },
+      {
+        "id": "achievement-27",
+        "name": "You aren't alone anymore.",
+        "kind": "trophy",
+        "chapterId": "story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-28",
+        "name": "I'll live on, together with my sins.",
+        "kind": "trophy",
+        "chapterId": "story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-29",
+        "name": "Hope",
+        "kind": "trophy",
+        "chapterId": "story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-30",
+        "name": "Despair",
+        "kind": "trophy",
+        "chapterId": "story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-31",
+        "name": "I would do well to follow your example.",
+        "kind": "trophy",
+        "chapterId": "story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-32",
+        "name": "This should be fun.",
+        "kind": "trophy",
+        "chapterId": "episodes-and-arcade",
+        "where": "Finished 5 Character Episode stories."
+      },
+      {
+        "id": "achievement-33",
+        "name": "Power isn't everything.",
+        "kind": "trophy",
+        "chapterId": "episodes-and-arcade",
+        "where": "Finished 10 Character Episode stories."
+      },
+      {
+        "id": "achievement-34",
+        "name": "I'll put an end to this.",
+        "kind": "trophy",
+        "chapterId": "episodes-and-arcade",
+        "where": "Finished Arcade Battle."
+      },
+      {
+        "id": "achievement-35",
+        "name": "Congrats on the victory!",
+        "kind": "trophy",
+        "chapterId": "story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-36",
+        "name": "A new star rising in the world of TEKKEN!",
+        "kind": "trophy",
+        "chapterId": "story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-37",
+        "name": "Get ready for the next battle!",
+        "kind": "trophy",
+        "chapterId": "story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-38",
+        "name": "The fists reveal the fighter.",
+        "kind": "trophy",
+        "chapterId": "ghosts",
+        "where": "Fought against your own Ghost."
+      },
+      {
+        "id": "achievement-39",
+        "name": "All is vanity.",
+        "kind": "trophy",
+        "chapterId": "ghosts",
+        "where": "Defeated a player's Ghost."
+      },
+      {
+        "id": "achievement-40",
+        "name": "(Initiating Analysis)",
+        "kind": "trophy",
+        "chapterId": "ghosts",
+        "where": "Defeated 10 CPU Ghosts in Super Ghost Battle."
+      },
+      {
+        "id": "achievement-41",
+        "name": "Godfather",
+        "kind": "trophy",
+        "chapterId": "story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-42",
+        "name": "No pain, no gain!",
+        "kind": "trophy",
+        "chapterId": "practice-and-extras",
+        "where": "Dealt 2000 damage in Practice mode."
+      },
+      {
+        "id": "achievement-43",
+        "name": "Do you want to learn Marshall Arts?",
+        "kind": "trophy",
+        "chapterId": "practice-and-extras",
+        "where": "Completed 5 Combo Challenges."
+      },
+      {
+        "id": "achievement-44",
+        "name": "(This one's in the bag!)",
+        "kind": "trophy",
+        "chapterId": "practice-and-extras",
+        "where": "Practiced with the tips on in Replays & Tips."
+      },
+      {
+        "id": "achievement-45",
+        "name": "You're in for it now!",
+        "kind": "trophy",
+        "chapterId": "practice-and-extras",
+        "where": "Saved a custom character in Character Customization."
+      },
+      {
+        "id": "achievement-46",
+        "name": "Your money is my money!",
+        "kind": "trophy",
+        "chapterId": "practice-and-extras",
+        "where": "Obtained an overall total of 10,000,000G."
+      },
+      {
+        "id": "achievement-47",
+        "name": "A fight is about survival.",
+        "kind": "trophy",
+        "chapterId": "story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/tekken-8",
+    "Achievement data from Steam (Steam Web API, app 1778820)",
+    "StrategyWiki: no usable walkthrough, nothing used — https://strategywiki.org/wiki/Tekken_8",
+    "Fandom (tekken.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://tekken.fandom.com/wiki/Tekken_8"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). Chapters follow the game modes the achievements name. StrategyWiki has the guide at completion stage 1, but no walkthrough is written: of its subpages only \"Moves\" (about 42,700 characters), \"Achievements and trophies\" (about 7,500) and \"Table of Contents\" exist as real pages, while \"Walkthrough\" and \"Gameplay\" are short redirects to the series pages \"Tekken/Walkthrough\" and \"Tekken/Gameplay\", and \"The Dark Awakens\" and \"Tekken Ball\" subpages are linked but not created. So it was not recorded in sw-structure.json and swUsed is off. tekken.fandom.com answers the API under \"Tekken 8\", with about 233 linked pages (characters, moves, stages such as \"Celebration on the Seine\" and \"Coliseum of Fate\", and modes such as \"Arcade Quest\"); names only were looked at, nothing copied. Steam app 1778820. 10 of 47 Steam achievements are hidden; they sit in The Dark Awakens chapter as a placeholder, though \"Congrats on the victory!\", \"A new star rising in the world of TEKKEN!\" and \"Get ready for the next battle!\" may belong to other modes. The rank promotion achievements (Brawler, Warrior, Vanquisher) do not say whether they need online play; they sit in the online chapter. Most technique achievements exclude offline player battles. Online chapters need a network connection."
+}

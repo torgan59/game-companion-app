@@ -1,0 +1,105 @@
+{
+  "id": "the-last-guardian",
+  "title": "The Last Guardian",
+  "year": 2016,
+  "platforms": [
+    "PlayStation 4"
+  ],
+  "rawgId": 693,
+  "rawgSlug": "the-last-guardian",
+  "released": "2016-10-25",
+  "developers": [
+    "SIE Japan Studio",
+    "Team Ico"
+  ],
+  "playtime": 7,
+  "genres": [
+    "Action",
+    "Puzzle"
+  ],
+  "tags": [
+    "Atmospheric",
+    "Action-Adventure",
+    "exclusive",
+    "Cute",
+    "true exclusive",
+    "3rd-Person Perspective",
+    "Drama"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/276/2769b1982cd132a60c69dc5d574445fa.jpg",
+  "steamAppId": null,
+  "achievements": {
+    "total": 0,
+    "examples": [],
+    "reason": "PlayStation 4 only: no Steam app, so there is no achievement list from our allowed sources. PlayStation trophies are not available through RAWG, Steam or the allowed wikis."
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/The_Last_Guardian",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 281,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://teamico.fandom.com/wiki/The_Last_Guardian"
+    }
+  },
+  "game": {
+    "id": "the-last-guardian",
+    "title": "The Last Guardian",
+    "platforms": [
+      "PlayStation 4"
+    ],
+    "blurb": "Action-adventure puzzle game from SIE Japan Studio and Team Ico, published by Sony Interactive Entertainment, released 2016-10-25 on PlayStation 4. RAWG average playtime: 7 hours. Genres: Action, Puzzle. Chapters are a broad outline drawn from RAWG's description, not from a walkthrough.",
+    "accent": "#7F9A8C",
+    "chapters": [
+      {
+        "id": "the-cell",
+        "title": "Waking in the Cell",
+        "summary": "A boy wakes in a cell in ancient castle ruins beside a huge creature called Trico, and the two start to trust each other.",
+        "steps": []
+      },
+      {
+        "id": "working-together",
+        "title": "Working Together",
+        "summary": "Getting Trico to help you climb, jump and fly past obstacles, and helping it in return.",
+        "steps": []
+      },
+      {
+        "id": "caring-for-trico",
+        "title": "Feeding and Healing Trico",
+        "summary": "Finding food for Trico and tending its wounds so it keeps going.",
+        "steps": []
+      },
+      {
+        "id": "guards-and-escape",
+        "title": "Guards and the Escape",
+        "summary": "Sneaking past and fending off the guards who try to take you both back. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "the-ending",
+        "title": "The End of the Journey",
+        "summary": "The final stretch of the story. Spoiler-guarded.",
+        "steps": []
+      }
+    ],
+    "collectibles": []
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/the-last-guardian",
+    "Steam: no achievement list available for this game (see notes)",
+    "StrategyWiki: no usable walkthrough, nothing used — https://strategywiki.org/wiki/The_Last_Guardian",
+    "Fandom (teamico.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://teamico.fandom.com/wiki/The_Last_Guardian"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). PlayStation 4 only (RAWG lists no other platform and the Steam store list has no matching app), so steam is None and there are no achievements. StrategyWiki has a page at completion stage 0: only its Table of Contents is written, and it links just Gameplay, Controls and Walkthrough, none of them written. No Fandom wiki answers under thelastguardian, lastguardian or ico; teamico.fandom.com answers under \"The Last Guardian\" with about 281 linked articles, but they mix pages for ICO and Shadow of the Colossus, so they were not used for chapters. With no walkthrough or achievement data, the five chapters are a broad outline in our own words based on RAWG's description (escaping the castle ruins with Trico, solving puzzles, feeding and healing it, and fending off guards); they are not the game's real chapter breaks and need checking."
+}

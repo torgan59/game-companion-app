@@ -1,0 +1,2155 @@
+{
+  "id": "sid-meiers-civilization-v",
+  "title": "Sid Meier's Civilization V",
+  "year": 2010,
+  "platforms": [
+    "PC",
+    "macOS",
+    "Linux"
+  ],
+  "rawgId": 13633,
+  "rawgSlug": "civilization-v",
+  "released": "2010-09-21",
+  "developers": [
+    "Aspyr Media",
+    "Firaxis"
+  ],
+  "playtime": 27,
+  "genres": [
+    "Strategy"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Multiplayer",
+    "Steam Cloud",
+    "steam-trading-cards",
+    "Great Soundtrack",
+    "Co-op",
+    "cooperative",
+    "Classic",
+    "Tactical",
+    "Moddable",
+    "Turn-Based"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/55e/55ee6432ac2bf224610fa17e4c652107.jpg",
+  "steamAppId": 8930,
+  "achievements": {
+    "total": 286,
+    "hidden": 0,
+    "examples": [
+      {
+        "name": "Treasure Hunter",
+        "percent": 88.5
+      },
+      {
+        "name": "Moving on Up",
+        "percent": 84.3
+      },
+      {
+        "name": "Second City",
+        "percent": 81.9
+      },
+      {
+        "name": "The Yokes on the Mongols",
+        "percent": 0.5
+      },
+      {
+        "name": "Reconquista Who?",
+        "percent": 0.5
+      },
+      {
+        "name": "Pax Romana Aeternum",
+        "percent": 0.5
+      },
+      {
+        "name": "Praise the Victories",
+        "percent": 0.5
+      },
+      {
+        "name": "Ottoman Carpentry",
+        "percent": 0.5
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Sid_Meier's_Civilization_V",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 205,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://civilization.fandom.com/wiki/Civilization_V"
+    }
+  },
+  "game": {
+    "id": "sid-meiers-civilization-v",
+    "title": "Sid Meier's Civilization V",
+    "platforms": [
+      "PC",
+      "macOS",
+      "Linux"
+    ],
+    "blurb": "Turn-based strategy from Firaxis (RAWG also lists Aspyr Media), published by 2K Games and Aspyr, released 2010-09-21. RAWG average playtime: 27 hours. Genres: Strategy. Chapters are an estimate drawn from Steam achievement themes (victories, leaders, civilization feats, empire building and scenarios), not a story.",
+    "accent": "#B4862E",
+    "chapters": [
+      {
+        "id": "victories",
+        "title": "Victories, Difficulty and Maps",
+        "summary": "Each difficulty level from Settler to Deity, every map size and type, each victory type and ideology victory, a one-city win, a multiplayer win and the long-haul goals.",
+        "steps": []
+      },
+      {
+        "id": "leaders",
+        "title": "Winning With Each Leader",
+        "summary": "Beating the game with each leader, and with every leader.",
+        "steps": []
+      },
+      {
+        "id": "civ-feats",
+        "title": "Civilization Feats",
+        "summary": "One-off feats tied to a particular civilization, leader or unique unit.",
+        "steps": []
+      },
+      {
+        "id": "empire",
+        "title": "Building an Empire",
+        "summary": "Cities, Wonders, units, Social Policies, religion, spies, trade, archaeology, the World Congress, exploration and mods.",
+        "steps": []
+      },
+      {
+        "id": "scenarios",
+        "title": "Scenarios: Mongols, New World, Ancient Wonders and More",
+        "summary": "The Mongol, New World and Wonders of the Ancient World scenarios, and the scenario achievements that do not name their scenario (winning as island peoples, as Normandy, Denmark, Norway or Anglo-Saxon England, or as Korea, Japan, China or Manchu).",
+        "steps": []
+      },
+      {
+        "id": "gk-bnw-scenarios",
+        "title": "Gods & Kings and Brave New World Scenarios",
+        "summary": "Into the Renaissance, Fall of Rome and Empires of the Smoky Skies, then Scramble for Africa and the Civil War scenario.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "First in the Hearts of Your Countrymen",
+        "kind": "trophy",
+        "chapterId": "leaders",
+        "where": "Beat the game on any difficulty setting as Washington."
+      },
+      {
+        "id": "achievement-2",
+        "name": "Video et Taceo",
+        "kind": "trophy",
+        "chapterId": "leaders",
+        "where": "Beat the game on any difficulty setting as Elizabeth."
+      },
+      {
+        "id": "achievement-3",
+        "name": "Vivre La Revolution",
+        "kind": "trophy",
+        "chapterId": "leaders",
+        "where": "Beat the game on any difficulty setting as Napoleon."
+      },
+      {
+        "id": "achievement-4",
+        "name": "Blood and Iron",
+        "kind": "trophy",
+        "chapterId": "leaders",
+        "where": "Beat the game on any difficulty setting as Bismarck."
+      },
+      {
+        "id": "achievement-5",
+        "name": "Star of the North",
+        "kind": "trophy",
+        "chapterId": "leaders",
+        "where": "Beat the game on any difficulty setting as Catherine."
+      },
+      {
+        "id": "achievement-6",
+        "name": "Veni, Vidi, Vici",
+        "kind": "trophy",
+        "chapterId": "leaders",
+        "where": "Beat the game on any difficulty setting as Caesar."
+      },
+      {
+        "id": "achievement-7",
+        "name": "The Man Who Would Be King",
+        "kind": "trophy",
+        "chapterId": "leaders",
+        "where": "Beat the game on any difficulty setting as Alexander."
+      },
+      {
+        "id": "achievement-8",
+        "name": "Amongst the Catacombs of Nephren-Ka",
+        "kind": "trophy",
+        "chapterId": "leaders",
+        "where": "Beat the game on any difficulty setting as Ramesses II."
+      },
+      {
+        "id": "achievement-9",
+        "name": "The African King",
+        "kind": "trophy",
+        "chapterId": "leaders",
+        "where": "Beat the game on any difficulty setting as Askia."
+      },
+      {
+        "id": "achievement-10",
+        "name": "Arabian Knights",
+        "kind": "trophy",
+        "chapterId": "leaders",
+        "where": "Beat the game on any difficulty setting as Harun al-Rashid."
+      },
+      {
+        "id": "achievement-11",
+        "name": "Age of Empire",
+        "kind": "trophy",
+        "chapterId": "leaders",
+        "where": "Beat the game on any difficulty setting as Darius."
+      },
+      {
+        "id": "achievement-12",
+        "name": "Give Peace a Chance",
+        "kind": "trophy",
+        "chapterId": "leaders",
+        "where": "Beat the game on any difficulty setting as Gandhi."
+      },
+      {
+        "id": "achievement-13",
+        "name": "Empire of the East",
+        "kind": "trophy",
+        "chapterId": "leaders",
+        "where": "Beat the game on any difficulty setting as Ramkhamhaeng."
+      },
+      {
+        "id": "achievement-14",
+        "name": "A Woman's Work",
+        "kind": "trophy",
+        "chapterId": "leaders",
+        "where": "Beat the game on any difficulty setting as Wu Zetian."
+      },
+      {
+        "id": "achievement-15",
+        "name": "Rising Sun",
+        "kind": "trophy",
+        "chapterId": "leaders",
+        "where": "Beat the game on any difficulty setting as Oda."
+      },
+      {
+        "id": "achievement-16",
+        "name": "First of the Mohicans",
+        "kind": "trophy",
+        "chapterId": "leaders",
+        "where": "Beat the game on any difficulty setting as Hiawatha."
+      },
+      {
+        "id": "achievement-17",
+        "name": "Montezuma's Revenge…",
+        "kind": "trophy",
+        "chapterId": "leaders",
+        "where": "Beat the game on any difficulty setting as Montezuma."
+      },
+      {
+        "id": "achievement-18",
+        "name": "A Magnificent Victory",
+        "kind": "trophy",
+        "chapterId": "leaders",
+        "where": "Beat the game on any difficulty setting as Suleiman."
+      },
+      {
+        "id": "achievement-19",
+        "name": "Master of the Universe",
+        "kind": "trophy",
+        "chapterId": "leaders",
+        "where": "Beat the game on any difficulty setting with each leader."
+      },
+      {
+        "id": "achievement-20",
+        "name": "Baby Steps",
+        "kind": "trophy",
+        "chapterId": "victories",
+        "where": "Beat the game on the Settler difficulty level."
+      },
+      {
+        "id": "achievement-21",
+        "name": "Taking off the Training Wheels",
+        "kind": "trophy",
+        "chapterId": "victories",
+        "where": "Beat the game on the Chieftain difficulty level."
+      },
+      {
+        "id": "achievement-22",
+        "name": "The Alexman",
+        "kind": "trophy",
+        "chapterId": "victories",
+        "where": "Beat the game on the Warlord difficulty level."
+      },
+      {
+        "id": "achievement-23",
+        "name": "Charming.  Really.",
+        "kind": "trophy",
+        "chapterId": "victories",
+        "where": "Beat the game on the Prince difficulty level."
+      },
+      {
+        "id": "achievement-24",
+        "name": "The Once and Future King",
+        "kind": "trophy",
+        "chapterId": "victories",
+        "where": "Beat the game on the King difficulty level."
+      },
+      {
+        "id": "achievement-25",
+        "name": "The Golden Path",
+        "kind": "trophy",
+        "chapterId": "victories",
+        "where": "Beat the game on the Emperor difficulty level."
+      },
+      {
+        "id": "achievement-26",
+        "name": "The World Is a Mess, and I Just Need to Rule It",
+        "kind": "trophy",
+        "chapterId": "victories",
+        "where": "Beat the game on the Immortal difficulty level."
+      },
+      {
+        "id": "achievement-27",
+        "name": "Flawless Strategy",
+        "kind": "trophy",
+        "chapterId": "victories",
+        "where": "Beat the game on the Deity difficulty level."
+      },
+      {
+        "id": "achievement-28",
+        "name": "It's Just You and Me, Kid",
+        "kind": "trophy",
+        "chapterId": "victories",
+        "where": "Beat the game on a Duel Map."
+      },
+      {
+        "id": "achievement-29",
+        "name": "I Need More Elbow Room",
+        "kind": "trophy",
+        "chapterId": "victories",
+        "where": "Beat the game on a Tiny Map."
+      },
+      {
+        "id": "achievement-30",
+        "name": "Living in Smallville",
+        "kind": "trophy",
+        "chapterId": "victories",
+        "where": "Beat the game on a Small Map."
+      },
+      {
+        "id": "achievement-31",
+        "name": "It's Standard Issue",
+        "kind": "trophy",
+        "chapterId": "victories",
+        "where": "Beat the game on a Standard Map."
+      },
+      {
+        "id": "achievement-32",
+        "name": "Do You Want to Super Size That?",
+        "kind": "trophy",
+        "chapterId": "victories",
+        "where": "Beat the game on a Large Map."
+      },
+      {
+        "id": "achievement-33",
+        "name": "Ruler of the Twelve Colonies",
+        "kind": "trophy",
+        "chapterId": "victories",
+        "where": "Beat the game on a Huge Map."
+      },
+      {
+        "id": "achievement-34",
+        "name": "Plate Tectonics",
+        "kind": "trophy",
+        "chapterId": "victories",
+        "where": "Beat the game on a Continents-type Map."
+      },
+      {
+        "id": "achievement-35",
+        "name": "Going It Old School",
+        "kind": "trophy",
+        "chapterId": "victories",
+        "where": "Beat the game on a Pangaea-type Map."
+      },
+      {
+        "id": "achievement-36",
+        "name": "Island Hopping",
+        "kind": "trophy",
+        "chapterId": "victories",
+        "where": "Beat the game on an Archipelago-type Map."
+      },
+      {
+        "id": "achievement-37",
+        "name": "Battlefield Earth",
+        "kind": "trophy",
+        "chapterId": "victories",
+        "where": "Beat the game on an Earth-type Map."
+      },
+      {
+        "id": "achievement-38",
+        "name": "Gotta Catch 'Em All",
+        "kind": "trophy",
+        "chapterId": "victories",
+        "where": "Beat the game on all standard map types and sizes."
+      },
+      {
+        "id": "achievement-39",
+        "name": "Last Man Standing",
+        "kind": "trophy",
+        "chapterId": "victories",
+        "where": "Win any Multiplayer Match."
+      },
+      {
+        "id": "achievement-40",
+        "name": "Say Hello to My Little Friend",
+        "kind": "trophy",
+        "chapterId": "empire",
+        "where": "Reach Ally Status with a City-State."
+      },
+      {
+        "id": "achievement-41",
+        "name": "Neighborhood Bully",
+        "kind": "trophy",
+        "chapterId": "empire",
+        "where": "Annex a previously puppetted City-State."
+      },
+      {
+        "id": "achievement-42",
+        "name": "Engineer",
+        "kind": "trophy",
+        "chapterId": "empire",
+        "where": "Build a Wonder."
+      },
+      {
+        "id": "achievement-43",
+        "name": "Harder, Better, Faster, Stronger",
+        "kind": "trophy",
+        "chapterId": "empire",
+        "where": "Upgrade a Unit."
+      },
+      {
+        "id": "achievement-44",
+        "name": "Moving on Up",
+        "kind": "trophy",
+        "chapterId": "empire",
+        "where": "Earn a Unit Promotion."
+      },
+      {
+        "id": "achievement-45",
+        "name": "Two Men Enter, One Man Leave",
+        "kind": "trophy",
+        "chapterId": "empire",
+        "where": "Completely defeat another Civ and remove them from the game."
+      },
+      {
+        "id": "achievement-46",
+        "name": "Second City",
+        "kind": "trophy",
+        "chapterId": "empire",
+        "where": "Found a second city."
+      },
+      {
+        "id": "achievement-47",
+        "name": "Treasure Hunter",
+        "kind": "trophy",
+        "chapterId": "empire",
+        "where": "Discover an ancient ruin."
+      },
+      {
+        "id": "achievement-48",
+        "name": "We Have the Technology",
+        "kind": "trophy",
+        "chapterId": "empire",
+        "where": "Fully explore the Tech Tree."
+      },
+      {
+        "id": "achievement-49",
+        "name": "The Wonder Years",
+        "kind": "trophy",
+        "chapterId": "empire",
+        "where": "Build all the Wonders, across any number of playthroughs."
+      },
+      {
+        "id": "achievement-50",
+        "name": "Enlightened Ruler",
+        "kind": "trophy",
+        "chapterId": "empire",
+        "where": "Unlock all Social Policies, across any number of playthroughs."
+      },
+      {
+        "id": "achievement-51",
+        "name": "Model of a Modern Major-General",
+        "kind": "trophy",
+        "chapterId": "empire",
+        "where": "Train all Units, across any number of playthroughs."
+      },
+      {
+        "id": "achievement-52",
+        "name": "Peace and Prosperity",
+        "kind": "trophy",
+        "chapterId": "empire",
+        "where": "Begin a Golden Age."
+      },
+      {
+        "id": "achievement-53",
+        "name": "City of Lights",
+        "kind": "trophy",
+        "chapterId": "empire",
+        "where": "Develop a city to produce more than 100 culture per turn."
+      },
+      {
+        "id": "achievement-54",
+        "name": "City of Science",
+        "kind": "trophy",
+        "chapterId": "empire",
+        "where": "Develop a city to produce more than 100 science per turn."
+      },
+      {
+        "id": "achievement-55",
+        "name": "City of Gold",
+        "kind": "trophy",
+        "chapterId": "empire",
+        "where": "Develop a city to produce more than 100 gold per turn."
+      },
+      {
+        "id": "achievement-56",
+        "name": "Land Baron",
+        "kind": "trophy",
+        "chapterId": "empire",
+        "where": "Purchase 1000 tiles, across any number of playthroughs."
+      },
+      {
+        "id": "achievement-57",
+        "name": "It's Super Effective",
+        "kind": "trophy",
+        "chapterId": "empire",
+        "where": "Destroy an enemy unit in just one hit."
+      },
+      {
+        "id": "achievement-58",
+        "name": "I'm on a Boat!",
+        "kind": "trophy",
+        "chapterId": "empire",
+        "where": "Embark a Unit."
+      },
+      {
+        "id": "achievement-59",
+        "name": "Here Ends the Noble Savage",
+        "kind": "trophy",
+        "chapterId": "empire",
+        "where": "Raze 100 Barbarian camps, across any number of playthroughs."
+      },
+      {
+        "id": "achievement-60",
+        "name": "Seriously?!?",
+        "kind": "trophy",
+        "chapterId": "empire",
+        "where": "Have another Civ beat you to completing a Wonder 10 times."
+      },
+      {
+        "id": "achievement-61",
+        "name": "One to Rule Them All",
+        "kind": "trophy",
+        "chapterId": "victories",
+        "where": "Beat the game on any difficulty setting with only one city."
+      },
+      {
+        "id": "achievement-62",
+        "name": "Go Boldly Where No Man Has Gone Before",
+        "kind": "trophy",
+        "chapterId": "victories",
+        "where": "Win a Space Victory."
+      },
+      {
+        "id": "achievement-63",
+        "name": "The Best State of a Republic",
+        "kind": "trophy",
+        "chapterId": "victories",
+        "where": "Win a Cultural Victory."
+      },
+      {
+        "id": "achievement-64",
+        "name": "The Pen is Mightier",
+        "kind": "trophy",
+        "chapterId": "victories",
+        "where": "Win a Diplomatic Victory."
+      },
+      {
+        "id": "achievement-65",
+        "name": "Exterminate! Exterminate!",
+        "kind": "trophy",
+        "chapterId": "victories",
+        "where": "Win a Domination Victory."
+      },
+      {
+        "id": "achievement-66",
+        "name": "To Stand the Test of Time",
+        "kind": "trophy",
+        "chapterId": "victories",
+        "where": "Beat the game with all victory conditions."
+      },
+      {
+        "id": "achievement-67",
+        "name": "I Can Has Nukes?",
+        "kind": "trophy",
+        "chapterId": "empire",
+        "where": "Drop a Nuke on another Civ."
+      },
+      {
+        "id": "achievement-68",
+        "name": "Experimenter",
+        "kind": "trophy",
+        "chapterId": "empire",
+        "where": "Play a game with a Mod."
+      },
+      {
+        "id": "achievement-69",
+        "name": "Expansionist",
+        "kind": "trophy",
+        "chapterId": "empire",
+        "where": "Download a Mod."
+      },
+      {
+        "id": "achievement-70",
+        "name": "With Liberty and Justice for All",
+        "kind": "trophy",
+        "chapterId": "empire",
+        "where": "Fully Explore the Liberty Policy Track."
+      },
+      {
+        "id": "achievement-71",
+        "name": "Lux Perpetua Luceat Eis",
+        "kind": "trophy",
+        "chapterId": "empire",
+        "where": "Fully Explore the Piety Policy Track."
+      },
+      {
+        "id": "achievement-72",
+        "name": "Diplomacy by Other Means",
+        "kind": "trophy",
+        "chapterId": "empire",
+        "where": "Fully Explore the Autocracy Policy Track."
+      },
+      {
+        "id": "achievement-73",
+        "name": "With an Iron Fist",
+        "kind": "trophy",
+        "chapterId": "empire",
+        "where": "Fully Explore the Order Policy Track."
+      },
+      {
+        "id": "achievement-74",
+        "name": "Master of the House",
+        "kind": "trophy",
+        "chapterId": "empire",
+        "where": "Fully Explore the Tradition Policy Track."
+      },
+      {
+        "id": "achievement-75",
+        "name": "Death Before Shame",
+        "kind": "trophy",
+        "chapterId": "empire",
+        "where": "Fully Explore the Honor Policy Track."
+      },
+      {
+        "id": "achievement-76",
+        "name": "Team Player",
+        "kind": "trophy",
+        "chapterId": "empire",
+        "where": "Fully Explore the Patronage Policy Track."
+      },
+      {
+        "id": "achievement-77",
+        "name": "Money Doesn't Grow on Trees",
+        "kind": "trophy",
+        "chapterId": "empire",
+        "where": "Fully Explore the Commerce Policy Track."
+      },
+      {
+        "id": "achievement-78",
+        "name": "Eighty-Eight Miles per Hour",
+        "kind": "trophy",
+        "chapterId": "empire",
+        "where": "Fully Explore the Rationalism Policy Track."
+      },
+      {
+        "id": "achievement-79",
+        "name": "Freedom Isn't Free",
+        "kind": "trophy",
+        "chapterId": "empire",
+        "where": "Fully Explore the Freedom Policy Track."
+      },
+      {
+        "id": "achievement-80",
+        "name": "The Explorer",
+        "kind": "trophy",
+        "chapterId": "empire",
+        "where": "Discover 100 Natural Wonders."
+      },
+      {
+        "id": "achievement-81",
+        "name": "The Appian Way",
+        "kind": "trophy",
+        "chapterId": "empire",
+        "where": "Build 1000 roads, across any number of playthroughs."
+      },
+      {
+        "id": "achievement-82",
+        "name": "Forty-Niner",
+        "kind": "trophy",
+        "chapterId": "empire",
+        "where": "Build 1000 mines, across any number of playthroughs."
+      },
+      {
+        "id": "achievement-83",
+        "name": "Merchant King",
+        "kind": "trophy",
+        "chapterId": "empire",
+        "where": "Trade 100 resources, across any number of playthroughs."
+      },
+      {
+        "id": "achievement-84",
+        "name": "Marco Polo",
+        "kind": "trophy",
+        "chapterId": "empire",
+        "where": "Be the first to explore and uncover 1000 tiles, across any number of playthroughs."
+      },
+      {
+        "id": "achievement-85",
+        "name": "Magellan",
+        "kind": "trophy",
+        "chapterId": "empire",
+        "where": "Prove that the world is round by uncovering a connected loop of tiles around the circumference of the world."
+      },
+      {
+        "id": "achievement-86",
+        "name": "Paul Bunyan",
+        "kind": "trophy",
+        "chapterId": "empire",
+        "where": "Chop down 1000 forest tiles, across any number of playthroughs."
+      },
+      {
+        "id": "achievement-87",
+        "name": "God Is Great",
+        "kind": "trophy",
+        "chapterId": "empire",
+        "where": "Construct 1000 Temples, across any number of playthroughs."
+      },
+      {
+        "id": "achievement-88",
+        "name": "Flying Fortress",
+        "kind": "trophy",
+        "chapterId": "empire",
+        "where": "Bomb an enemy city with a B-17."
+      },
+      {
+        "id": "achievement-89",
+        "name": "Arab Trader",
+        "kind": "trophy",
+        "chapterId": "civ-feats",
+        "where": "Trade a luxury resource to another Civ that you earned through a city with a Bazaar."
+      },
+      {
+        "id": "achievement-90",
+        "name": "Gardens of Lake Texcoco",
+        "kind": "trophy",
+        "chapterId": "civ-feats",
+        "where": "Build a Floating Garden in a city with a lake tile in its radius."
+      },
+      {
+        "id": "achievement-91",
+        "name": "Riddle of the Sphinx",
+        "kind": "trophy",
+        "chapterId": "civ-feats",
+        "where": "Rush a Wonder as Egypt with a Great Engineer."
+      },
+      {
+        "id": "achievement-92",
+        "name": "Three Musketeers",
+        "kind": "trophy",
+        "chapterId": "civ-feats",
+        "where": "Kill a unit with a French Musketeer when two other Musketeers are providing flanking bonuses."
+      },
+      {
+        "id": "achievement-93",
+        "name": "People of the Longhouse",
+        "kind": "trophy",
+        "chapterId": "civ-feats",
+        "where": "Build a longhouse in a city with at least 4 unchopped forests in its radius."
+      },
+      {
+        "id": "achievement-94",
+        "name": "Bollywood",
+        "kind": "trophy",
+        "chapterId": "civ-feats",
+        "where": "As Gandhi, win a cultural victory with 3 or fewer cities in your empire."
+      },
+      {
+        "id": "achievement-95",
+        "name": "Kamikaze Attack",
+        "kind": "trophy",
+        "chapterId": "civ-feats",
+        "where": "Kill an enemy unit attacking with a Japanese unit with just 1 HP remaining."
+      },
+      {
+        "id": "achievement-96",
+        "name": "From Archaemennid to Safavid",
+        "kind": "trophy",
+        "chapterId": "civ-feats",
+        "where": "As Darius, start 5 Golden Ages in a single game."
+      },
+      {
+        "id": "achievement-97",
+        "name": "All Roads Lead to Rome",
+        "kind": "trophy",
+        "chapterId": "civ-feats",
+        "where": "Build a road with a Roman Legion."
+      },
+      {
+        "id": "achievement-98",
+        "name": "Sun Tzu's Art of War",
+        "kind": "trophy",
+        "chapterId": "civ-feats",
+        "where": "As Wu Zetian, earn a Great General through battle."
+      },
+      {
+        "id": "achievement-99",
+        "name": "Barbarian Warlord",
+        "kind": "trophy",
+        "chapterId": "civ-feats",
+        "where": "As Bismarck, convert the Barbarians from 10 camps to your side."
+      },
+      {
+        "id": "achievement-100",
+        "name": "Barbary Pirate",
+        "kind": "trophy",
+        "chapterId": "civ-feats",
+        "where": "As Suleiman, accumulate a navy with 10 Barbarian naval units."
+      },
+      {
+        "id": "achievement-101",
+        "name": "Tomb Raider",
+        "kind": "trophy",
+        "chapterId": "civ-feats",
+        "where": "Pillage gold from an Egyptian city with a burial tomb in it."
+      },
+      {
+        "id": "achievement-102",
+        "name": "War Canoe Attack",
+        "kind": "trophy",
+        "chapterId": "civ-feats",
+        "where": "As Askia, conquer a city on another continent."
+      },
+      {
+        "id": "achievement-103",
+        "name": "My Little Pony",
+        "kind": "trophy",
+        "chapterId": "civ-feats",
+        "where": "As Catherine, research Horseback Riding before any other Civ."
+      },
+      {
+        "id": "achievement-104",
+        "name": "Ruler of the Seas",
+        "kind": "trophy",
+        "chapterId": "civ-feats",
+        "where": "As Elizabeth, sink and destroy 357 enemy naval units, across any number of playthroughs."
+      },
+      {
+        "id": "achievement-105",
+        "name": "Conquest of the World",
+        "kind": "trophy",
+        "chapterId": "civ-feats",
+        "where": "As Alexander, defeat every known player by 350 BC."
+      },
+      {
+        "id": "achievement-106",
+        "name": "He Threw a Car at My Head!",
+        "kind": "trophy",
+        "chapterId": "empire",
+        "where": "Have any city ransomed by Barbarians."
+      },
+      {
+        "id": "achievement-107",
+        "name": "Panzer \"Shafernator\" General",
+        "kind": "trophy",
+        "chapterId": "victories",
+        "where": "Spawn over 100 Great Generals, build an army of over 100 standing units, and beat the game 100 times."
+      },
+      {
+        "id": "achievement-108",
+        "name": "By the Waters of Babylon",
+        "kind": "trophy",
+        "chapterId": "leaders",
+        "where": "Beat the game on any difficulty setting as Nebuchadnezzar II."
+      },
+      {
+        "id": "achievement-109",
+        "name": "The Golden Horde",
+        "kind": "trophy",
+        "chapterId": "leaders",
+        "where": "Beat the game on any difficulty setting as Genghis Khan."
+      },
+      {
+        "id": "achievement-110",
+        "name": "Khan",
+        "kind": "trophy",
+        "chapterId": "scenarios",
+        "where": "Beat the Mongol scenario on any difficulty."
+      },
+      {
+        "id": "achievement-111",
+        "name": "Great Khan",
+        "kind": "trophy",
+        "chapterId": "scenarios",
+        "where": "Beat the Mongol scenario on the King or harder difficulty level."
+      },
+      {
+        "id": "achievement-112",
+        "name": "Supreme Khan",
+        "kind": "trophy",
+        "chapterId": "scenarios",
+        "where": "Beat the Mongol scenario on the Emperor or harder difficulty level."
+      },
+      {
+        "id": "achievement-113",
+        "name": "Kublai Khan",
+        "kind": "trophy",
+        "chapterId": "scenarios",
+        "where": "Beat the Mongol scenario on the Immortal or harder difficulty level."
+      },
+      {
+        "id": "achievement-114",
+        "name": "Genghis Khan",
+        "kind": "trophy",
+        "chapterId": "scenarios",
+        "where": "Beat the Mongol scenario on the Deity difficulty level."
+      },
+      {
+        "id": "achievement-115",
+        "name": "Khaaan!",
+        "kind": "trophy",
+        "chapterId": "scenarios",
+        "where": "Run out of time to beat the Mongol scenario."
+      },
+      {
+        "id": "achievement-116",
+        "name": "Nobody Expects the Spanish Inquisition",
+        "kind": "trophy",
+        "chapterId": "leaders",
+        "where": "Beat the game on any difficulty setting as Isabella."
+      },
+      {
+        "id": "achievement-117",
+        "name": "King of the Mountain",
+        "kind": "trophy",
+        "chapterId": "leaders",
+        "where": "Beat the game on any difficulty setting as Pachacuti."
+      },
+      {
+        "id": "achievement-118",
+        "name": "Siglo de Oro",
+        "kind": "trophy",
+        "chapterId": "scenarios",
+        "where": "Win the New World Scenario as Spain."
+      },
+      {
+        "id": "achievement-119",
+        "name": "Tout le Monde Francophone?",
+        "kind": "trophy",
+        "chapterId": "scenarios",
+        "where": "Win the New World Scenario as France."
+      },
+      {
+        "id": "achievement-120",
+        "name": "Tea and Crumpets for Everyone",
+        "kind": "trophy",
+        "chapterId": "scenarios",
+        "where": "Win the New World Scenario as England."
+      },
+      {
+        "id": "achievement-121",
+        "name": "Macho Picchu",
+        "kind": "trophy",
+        "chapterId": "scenarios",
+        "where": "Win the New World Scenario as the Incas."
+      },
+      {
+        "id": "achievement-122",
+        "name": "Huitzilopochtli's Arrow",
+        "kind": "trophy",
+        "chapterId": "scenarios",
+        "where": "Win the New World Scenario as the Aztecs."
+      },
+      {
+        "id": "achievement-123",
+        "name": "League of Extraordinary Hoyanehs",
+        "kind": "trophy",
+        "chapterId": "scenarios",
+        "where": "Win the New World Scenario as the Iroquois."
+      },
+      {
+        "id": "achievement-124",
+        "name": "All Aboard the Orient Express",
+        "kind": "trophy",
+        "chapterId": "scenarios",
+        "where": "Discover a route to the Orient."
+      },
+      {
+        "id": "achievement-125",
+        "name": "Dr. Heidegger's Experiment",
+        "kind": "trophy",
+        "chapterId": "scenarios",
+        "where": "Find the Fountain of Youth"
+      },
+      {
+        "id": "achievement-126",
+        "name": "Raleigh's Road to Riches",
+        "kind": "trophy",
+        "chapterId": "scenarios",
+        "where": "Discover El Dorado"
+      },
+      {
+        "id": "achievement-127",
+        "name": "Au in the EU",
+        "kind": "trophy",
+        "chapterId": "scenarios",
+        "where": "Return a Treasure to Europe."
+      },
+      {
+        "id": "achievement-128",
+        "name": "Law of the Splintered Paddle",
+        "kind": "trophy",
+        "chapterId": "leaders",
+        "where": "Beat the game on any difficulty setting as Kamehameha."
+      },
+      {
+        "id": "achievement-129",
+        "name": "Surviving the Marquesas",
+        "kind": "trophy",
+        "chapterId": "scenarios",
+        "where": "Win as Hiva"
+      },
+      {
+        "id": "achievement-130",
+        "name": "Bora! Bora! Bora!",
+        "kind": "trophy",
+        "chapterId": "scenarios",
+        "where": "Win as Tahiti"
+      },
+      {
+        "id": "achievement-131",
+        "name": "Head and Shoulders Above the Rest",
+        "kind": "trophy",
+        "chapterId": "scenarios",
+        "where": "Win as Samoa"
+      },
+      {
+        "id": "achievement-132",
+        "name": "Ngata Chance",
+        "kind": "trophy",
+        "chapterId": "scenarios",
+        "where": "Win as Tonga"
+      },
+      {
+        "id": "achievement-133",
+        "name": "Book 'em Danno!",
+        "kind": "trophy",
+        "chapterId": "empire",
+        "where": "Find Hawaii in a random map game"
+      },
+      {
+        "id": "achievement-134",
+        "name": "Heads Up!",
+        "kind": "trophy",
+        "chapterId": "empire",
+        "where": "Find Easter Island in a random map game"
+      },
+      {
+        "id": "achievement-135",
+        "name": "Do you have a little Captain in you?",
+        "kind": "trophy",
+        "chapterId": "empire",
+        "where": "Encounter Captain Cook"
+      },
+      {
+        "id": "achievement-136",
+        "name": "This isn't Kansas",
+        "kind": "trophy",
+        "chapterId": "empire",
+        "where": "Find Australia in a South Pacific map game"
+      },
+      {
+        "id": "achievement-137",
+        "name": "Searching for the Precious",
+        "kind": "trophy",
+        "chapterId": "empire",
+        "where": "Find New Zealand in a random map game"
+      },
+      {
+        "id": "achievement-138",
+        "name": "Hands Free to Victory!",
+        "kind": "trophy",
+        "chapterId": "leaders",
+        "where": "Beat the game on any difficulty setting as Harald Bluetooth"
+      },
+      {
+        "id": "achievement-139",
+        "name": "Where's the Biathlon?",
+        "kind": "trophy",
+        "chapterId": "civ-feats",
+        "where": "Enter a snow tile with the Norwegian ski infantry"
+      },
+      {
+        "id": "achievement-140",
+        "name": "Pillage, Then Burn",
+        "kind": "trophy",
+        "chapterId": "empire",
+        "where": "Pillage 9 Farms on the same turn"
+      },
+      {
+        "id": "achievement-141",
+        "name": "Time to Stitch a Tapestry",
+        "kind": "trophy",
+        "chapterId": "scenarios",
+        "where": "Win as Normandy (any difficulty)"
+      },
+      {
+        "id": "achievement-142",
+        "name": "Odin's Chosen Warrior",
+        "kind": "trophy",
+        "chapterId": "scenarios",
+        "where": "Win as Denmark (any difficulty)"
+      },
+      {
+        "id": "achievement-143",
+        "name": "Purple People Eaters",
+        "kind": "trophy",
+        "chapterId": "scenarios",
+        "where": "Win as Norway (any difficulty)"
+      },
+      {
+        "id": "achievement-144",
+        "name": "This was their Finest Hour",
+        "kind": "trophy",
+        "chapterId": "scenarios",
+        "where": "Win as Anglo-Saxon England (any difficulty)"
+      },
+      {
+        "id": "achievement-145",
+        "name": "Fetchez la Vache!",
+        "kind": "trophy",
+        "chapterId": "empire",
+        "where": "Build a motte and bailey improvement"
+      },
+      {
+        "id": "achievement-146",
+        "name": "You The Conqueror",
+        "kind": "trophy",
+        "chapterId": "scenarios",
+        "where": "Win scenario on Emperor (any civ)"
+      },
+      {
+        "id": "achievement-147",
+        "name": "Surviving Domesday",
+        "kind": "trophy",
+        "chapterId": "scenarios",
+        "where": "Win scenario on Immortal (any civ)"
+      },
+      {
+        "id": "achievement-148",
+        "name": "Surviving Ragnarok",
+        "kind": "trophy",
+        "chapterId": "scenarios",
+        "where": "Win scenario on Deity (any civ)"
+      },
+      {
+        "id": "achievement-149",
+        "name": "The Choson One",
+        "kind": "trophy",
+        "chapterId": "scenarios",
+        "where": "Win as Korea"
+      },
+      {
+        "id": "achievement-150",
+        "name": "Turtle Power",
+        "kind": "trophy",
+        "chapterId": "civ-feats",
+        "where": "Sink an Ironclad with a Turtle Boat"
+      },
+      {
+        "id": "achievement-151",
+        "name": "Samurai Delicatessen",
+        "kind": "trophy",
+        "chapterId": "scenarios",
+        "where": "Win as Japan"
+      },
+      {
+        "id": "achievement-152",
+        "name": "Fear the Turtle",
+        "kind": "trophy",
+        "chapterId": "scenarios",
+        "where": "Win the Korean Scenario as Korea"
+      },
+      {
+        "id": "achievement-153",
+        "name": "Yow Ming!",
+        "kind": "trophy",
+        "chapterId": "scenarios",
+        "where": "Win as China"
+      },
+      {
+        "id": "achievement-154",
+        "name": "Emperor Fu Manchu",
+        "kind": "trophy",
+        "chapterId": "scenarios",
+        "where": "Win as Manchu"
+      },
+      {
+        "id": "achievement-155",
+        "name": "Taekwon-DOH!",
+        "kind": "trophy",
+        "chapterId": "scenarios",
+        "where": "Lose as Korea"
+      },
+      {
+        "id": "achievement-156",
+        "name": "Dragon Emperor",
+        "kind": "trophy",
+        "chapterId": "scenarios",
+        "where": "Win on Emperor"
+      },
+      {
+        "id": "achievement-157",
+        "name": "A Righteous Victory",
+        "kind": "trophy",
+        "chapterId": "scenarios",
+        "where": "Win on Immortal"
+      },
+      {
+        "id": "achievement-158",
+        "name": "Honoring the Ancestors",
+        "kind": "trophy",
+        "chapterId": "scenarios",
+        "where": "Win on Deity"
+      },
+      {
+        "id": "achievement-159",
+        "name": "Seoul Power",
+        "kind": "trophy",
+        "chapterId": "scenarios",
+        "where": "Win before 100 turns as any power"
+      },
+      {
+        "id": "achievement-160",
+        "name": "Zeupiter",
+        "kind": "trophy",
+        "chapterId": "civ-feats",
+        "where": "As Rome, conquer a city with the Statue of Zeus"
+      },
+      {
+        "id": "achievement-161",
+        "name": "Bolt and Arrow",
+        "kind": "trophy",
+        "chapterId": "empire",
+        "where": "Build Statue of Zeus and Temple of Artemis in the same city"
+      },
+      {
+        "id": "achievement-162",
+        "name": "Rest in Gold Pieces",
+        "kind": "trophy",
+        "chapterId": "empire",
+        "where": "Gain 1000 gold from expended Great People with the Mausoleum of Halicarnassus across any number of playthroughs"
+      },
+      {
+        "id": "achievement-163",
+        "name": "Party in hattUSA",
+        "kind": "trophy",
+        "chapterId": "scenarios",
+        "where": "Win as Muwatallis in the Wonders of the Ancient World scenario."
+      },
+      {
+        "id": "achievement-164",
+        "name": "Grecian Formula",
+        "kind": "trophy",
+        "chapterId": "scenarios",
+        "where": "Win as Alexander in the Wonders of the Ancient World scenario."
+      },
+      {
+        "id": "achievement-165",
+        "name": "Epic Gilgamesh",
+        "kind": "trophy",
+        "chapterId": "scenarios",
+        "where": "Win as Gilgamesh in the Wonders of the Ancient World scenario."
+      },
+      {
+        "id": "achievement-166",
+        "name": "Ra's Mighty Truth",
+        "kind": "trophy",
+        "chapterId": "scenarios",
+        "where": "Win as Ramesses II in the Wonders of the Ancient World scenario."
+      },
+      {
+        "id": "achievement-167",
+        "name": "It satrap!",
+        "kind": "trophy",
+        "chapterId": "scenarios",
+        "where": "Win as Darius I in the Wonders of the Ancient World scenario."
+      },
+      {
+        "id": "achievement-168",
+        "name": "Thoughtful Telemachus",
+        "kind": "trophy",
+        "chapterId": "scenarios",
+        "where": "Win on Prince in the Wonders of the Ancient World scenario."
+      },
+      {
+        "id": "achievement-169",
+        "name": "Odysseus the Great Tactician",
+        "kind": "trophy",
+        "chapterId": "scenarios",
+        "where": "Win on King in the Wonders of the Ancient World scenario."
+      },
+      {
+        "id": "achievement-170",
+        "name": "Far-Shooting Apollo",
+        "kind": "trophy",
+        "chapterId": "scenarios",
+        "where": "Win on Emperor in the Wonders of the Ancient World scenario."
+      },
+      {
+        "id": "achievement-171",
+        "name": "Bright-Eyed Athena",
+        "kind": "trophy",
+        "chapterId": "scenarios",
+        "where": "Win on Immortal in the Wonders of the Ancient World scenario."
+      },
+      {
+        "id": "achievement-172",
+        "name": "All-Achieving Zeus",
+        "kind": "trophy",
+        "chapterId": "scenarios",
+        "where": "Win on Deity in the Wonders of the Ancient World scenario."
+      },
+      {
+        "id": "achievement-173",
+        "name": "Wonderwall",
+        "kind": "trophy",
+        "chapterId": "scenarios",
+        "where": "Build 3 Wonders in the same city in the Wonders of the Ancient World scenario."
+      },
+      {
+        "id": "achievement-174",
+        "name": "Reverse Engineer",
+        "kind": "trophy",
+        "chapterId": "scenarios",
+        "where": "Gain possession of 3 Wonders by conquering cities in a single game in the Wonders of the Ancient World scenario."
+      },
+      {
+        "id": "achievement-175",
+        "name": "Know Thy Enemy",
+        "kind": "trophy",
+        "chapterId": "scenarios",
+        "where": "Consult the Oracle 2 times in a single game in the Wonders of the Ancient World scenario."
+      },
+      {
+        "id": "achievement-176",
+        "name": "Austrian Succession",
+        "kind": "trophy",
+        "chapterId": "leaders",
+        "where": "Beat the game on any difficulty as Maria Theresa."
+      },
+      {
+        "id": "achievement-177",
+        "name": "Dancer, Actress, Empress, Victor",
+        "kind": "trophy",
+        "chapterId": "leaders",
+        "where": "Beat the game on any difficulty as Empress Theodora."
+      },
+      {
+        "id": "achievement-178",
+        "name": "No White Flag Here",
+        "kind": "trophy",
+        "chapterId": "leaders",
+        "where": "Beat the game on any difficulty as Dido."
+      },
+      {
+        "id": "achievement-179",
+        "name": "Celtic Thunder",
+        "kind": "trophy",
+        "chapterId": "leaders",
+        "where": "Beat the game on any difficulty as Boudicca."
+      },
+      {
+        "id": "achievement-180",
+        "name": "Colonize This!",
+        "kind": "trophy",
+        "chapterId": "leaders",
+        "where": "Beat the game on any difficulty as Haile Selassie."
+      },
+      {
+        "id": "achievement-181",
+        "name": "Scourge of Everyone",
+        "kind": "trophy",
+        "chapterId": "leaders",
+        "where": "Beat the game on any difficulty as Attila."
+      },
+      {
+        "id": "achievement-182",
+        "name": "Baktun the Future",
+        "kind": "trophy",
+        "chapterId": "leaders",
+        "where": "Beat the game on any difficulty as Pacal."
+      },
+      {
+        "id": "achievement-183",
+        "name": "Silent No More",
+        "kind": "trophy",
+        "chapterId": "leaders",
+        "where": "Beat the game on any difficulty as William of Orange."
+      },
+      {
+        "id": "achievement-184",
+        "name": "Defender of the Faith",
+        "kind": "trophy",
+        "chapterId": "leaders",
+        "where": "Beat the game on any difficulty as Gustavus Adolphus."
+      },
+      {
+        "id": "achievement-185",
+        "name": "Gad Zeus!",
+        "kind": "trophy",
+        "chapterId": "empire",
+        "where": "Found a Pantheon."
+      },
+      {
+        "id": "achievement-186",
+        "name": "Propheteering",
+        "kind": "trophy",
+        "chapterId": "empire",
+        "where": "Found a Religion."
+      },
+      {
+        "id": "achievement-187",
+        "name": "Sticky Fingers",
+        "kind": "trophy",
+        "chapterId": "empire",
+        "where": "Use a Spy to steal Technology from a competitor."
+      },
+      {
+        "id": "achievement-188",
+        "name": "Junta for Red October",
+        "kind": "trophy",
+        "chapterId": "empire",
+        "where": "Use a Spy to successfully stage a City-State coup."
+      },
+      {
+        "id": "achievement-189",
+        "name": "Smooth Talking",
+        "kind": "trophy",
+        "chapterId": "empire",
+        "where": "Use a Spy to gain influence with a City-State."
+      },
+      {
+        "id": "achievement-190",
+        "name": "Whack a Mole",
+        "kind": "trophy",
+        "chapterId": "empire",
+        "where": "Find and kill an enemy Spy."
+      },
+      {
+        "id": "achievement-191",
+        "name": "Access Denied",
+        "kind": "trophy",
+        "chapterId": "empire",
+        "where": "Construct the Great Firewall Wonder."
+      },
+      {
+        "id": "achievement-192",
+        "name": "Missionary Man",
+        "kind": "trophy",
+        "chapterId": "empire",
+        "where": "Spread your Religion to an opponent with a Missionary."
+      },
+      {
+        "id": "achievement-193",
+        "name": "Holier Than Thou",
+        "kind": "trophy",
+        "chapterId": "empire",
+        "where": "Become the dominant Religion in an opponent’s Holy City."
+      },
+      {
+        "id": "achievement-194",
+        "name": "We are Family",
+        "kind": "trophy",
+        "chapterId": "empire",
+        "where": "Become the dominant Religion in every Capital city on a standard-size or larger map."
+      },
+      {
+        "id": "achievement-195",
+        "name": "Indoctrinated!",
+        "kind": "trophy",
+        "chapterId": "empire",
+        "where": "Lose dominant status in your Holy City to an opponent’s Religion."
+      },
+      {
+        "id": "achievement-196",
+        "name": "Renaissance Man",
+        "kind": "trophy",
+        "chapterId": "gk-bnw-scenarios",
+        "where": "Win the Into the Renaissance scenario."
+      },
+      {
+        "id": "achievement-197",
+        "name": "Et tu, Brute",
+        "kind": "trophy",
+        "chapterId": "gk-bnw-scenarios",
+        "where": "Win the Fall of Rome scenario."
+      },
+      {
+        "id": "achievement-198",
+        "name": "Modern Major-General",
+        "kind": "trophy",
+        "chapterId": "gk-bnw-scenarios",
+        "where": "Win the Empires of the Smoky Skies scenario."
+      },
+      {
+        "id": "achievement-199",
+        "name": "From Russia with Love",
+        "kind": "trophy",
+        "chapterId": "civ-feats",
+        "where": "As Russia, kill an English Spy."
+      },
+      {
+        "id": "achievement-200",
+        "name": "The Last Crusade",
+        "kind": "trophy",
+        "chapterId": "civ-feats",
+        "where": "Capture the city that built Petra using a Landship."
+      },
+      {
+        "id": "achievement-201",
+        "name": "Holy Father",
+        "kind": "trophy",
+        "chapterId": "empire",
+        "where": "Select the Papal Primacy Belief and Ally with 12 City-States."
+      },
+      {
+        "id": "achievement-202",
+        "name": "Capture of Brielle",
+        "kind": "trophy",
+        "chapterId": "civ-feats",
+        "where": "Capture a Spanish Coastal City with a Dutch Sea Beggar."
+      },
+      {
+        "id": "achievement-203",
+        "name": "Hannibal’s Crossing",
+        "kind": "trophy",
+        "chapterId": "civ-feats",
+        "where": "As Carthage, attack a Roman Unit with an African Forest Elephant from a mountain tile."
+      },
+      {
+        "id": "achievement-204",
+        "name": "RAM Usage",
+        "kind": "trophy",
+        "chapterId": "civ-feats",
+        "where": "Research Satellites while playing as Attila on a huge map."
+      },
+      {
+        "id": "achievement-205",
+        "name": "Lion of the North",
+        "kind": "trophy",
+        "chapterId": "civ-feats",
+        "where": "As Sweden, start a turn with your Great General stacked with a Hakkapelitta."
+      },
+      {
+        "id": "achievement-206",
+        "name": "Rastafari Messiah",
+        "kind": "trophy",
+        "chapterId": "civ-feats",
+        "where": "As Ethiopia, earn 5 Great Prophets."
+      },
+      {
+        "id": "achievement-207",
+        "name": "Greek Fire",
+        "kind": "trophy",
+        "chapterId": "civ-feats",
+        "where": "As Byzantines, sink 10 Greek ships with a Dromon."
+      },
+      {
+        "id": "achievement-208",
+        "name": "Longest. Name. Ever.",
+        "kind": "trophy",
+        "chapterId": "civ-feats",
+        "where": "Have the city of Llanfairpwllgwyngyll in your empire."
+      },
+      {
+        "id": "achievement-209",
+        "name": "Yoink!",
+        "kind": "trophy",
+        "chapterId": "civ-feats",
+        "where": "As Austria, acquire a City-State with 15 or more units through Diplomatic Marriage."
+      },
+      {
+        "id": "achievement-210",
+        "name": "Apocalypse Now",
+        "kind": "trophy",
+        "chapterId": "civ-feats",
+        "where": "As the Maya, nuke a city in the year 2012."
+      },
+      {
+        "id": "achievement-211",
+        "name": "Intelligence Network",
+        "kind": "trophy",
+        "chapterId": "empire",
+        "where": "Share intrigue with a player who previously shared intrigue with you."
+      },
+      {
+        "id": "achievement-212",
+        "name": "Gimme Your Lunch Money!",
+        "kind": "trophy",
+        "chapterId": "empire",
+        "where": "Bully 3000 gold from City-States across any number of playthroughs."
+      },
+      {
+        "id": "achievement-213",
+        "name": "Richard the Lionheart",
+        "kind": "trophy",
+        "chapterId": "gk-bnw-scenarios",
+        "where": "As England, conquer Jerusalem on Emperor or above in the Into the Renaissance scenario."
+      },
+      {
+        "id": "achievement-214",
+        "name": "Mehmet the Conqueror",
+        "kind": "trophy",
+        "chapterId": "gk-bnw-scenarios",
+        "where": "As the Turks, conquer Istanbul on Deity in the Into the Renaissance scenario."
+      },
+      {
+        "id": "achievement-215",
+        "name": "Never take our freedom!",
+        "kind": "trophy",
+        "chapterId": "gk-bnw-scenarios",
+        "where": "Win as the Celts on Emperor or above in the Into the Renaissance scenario."
+      },
+      {
+        "id": "achievement-216",
+        "name": "The Yokes on the Mongols",
+        "kind": "trophy",
+        "chapterId": "gk-bnw-scenarios",
+        "where": "Win as Russia on Emperor or above in the Into the Renaissance scenario."
+      },
+      {
+        "id": "achievement-217",
+        "name": "Reconquista Who?",
+        "kind": "trophy",
+        "chapterId": "gk-bnw-scenarios",
+        "where": "Win as the Almohads on Emperor or above in the Into the Renaissance scenario."
+      },
+      {
+        "id": "achievement-218",
+        "name": "Quite Accomplished",
+        "kind": "trophy",
+        "chapterId": "gk-bnw-scenarios",
+        "where": "Retain control of the same honourable title for the entire length of the game it is available in the Empires of the Smoky Skies scenario."
+      },
+      {
+        "id": "achievement-219",
+        "name": "Gentlemen's Agreement",
+        "kind": "trophy",
+        "chapterId": "gk-bnw-scenarios",
+        "where": "Share intrigue with another player in the Empires of the Smoky Skies scenario."
+      },
+      {
+        "id": "achievement-220",
+        "name": "Sky Admiral",
+        "kind": "trophy",
+        "chapterId": "gk-bnw-scenarios",
+        "where": "Destroy an enemy unit with a Flyer based at a Sky Fortress in the Empires of the Smoky Skies scenario."
+      },
+      {
+        "id": "achievement-221",
+        "name": "Turks Shmurks!",
+        "kind": "trophy",
+        "chapterId": "gk-bnw-scenarios",
+        "where": "Capture Constantinople as any enemy power in the Fall of Rome scenario."
+      },
+      {
+        "id": "achievement-222",
+        "name": "Double KO",
+        "kind": "trophy",
+        "chapterId": "gk-bnw-scenarios",
+        "where": "Capture both Rome and Constantinople in the same game in the Fall of Rome scenario."
+      },
+      {
+        "id": "achievement-223",
+        "name": "Pax Romana Aeternum",
+        "kind": "trophy",
+        "chapterId": "gk-bnw-scenarios",
+        "where": "Win the game as Eastern or Western Rome on Deity and have all your original cities under your control in the Fall of Rome scenario."
+      },
+      {
+        "id": "achievement-224",
+        "name": "I Missed That Day in History Class",
+        "kind": "trophy",
+        "chapterId": "gk-bnw-scenarios",
+        "where": "Capture any Sassanid city as the Celts in the Fall of Rome scenario."
+      },
+      {
+        "id": "achievement-225",
+        "name": "I Sunk Your Imperial Capital!",
+        "kind": "trophy",
+        "chapterId": "gk-bnw-scenarios",
+        "where": "Capture Rome as the Vandals using a boat in the Fall of Rome scenario."
+      },
+      {
+        "id": "achievement-226",
+        "name": "Nobody expects...",
+        "kind": "trophy",
+        "chapterId": "civ-feats",
+        "where": "As Spain, use an Inquisitor to remove another Religion."
+      },
+      {
+        "id": "achievement-227",
+        "name": "Tablet Tech Pioneer",
+        "kind": "trophy",
+        "chapterId": "leaders",
+        "where": "Beat the game on any difficulty as Ashurbanipal."
+      },
+      {
+        "id": "achievement-228",
+        "name": "Pedro's Party People",
+        "kind": "trophy",
+        "chapterId": "leaders",
+        "where": "Beat the game on any difficulty as Pedro II."
+      },
+      {
+        "id": "achievement-229",
+        "name": "The Java Script",
+        "kind": "trophy",
+        "chapterId": "leaders",
+        "where": "Beat the game on any difficulty as Gajah Mada."
+      },
+      {
+        "id": "achievement-230",
+        "name": "This Desert Life",
+        "kind": "trophy",
+        "chapterId": "leaders",
+        "where": "Beat the game on any difficulty as Ahmad Al ’Mansur."
+      },
+      {
+        "id": "achievement-231",
+        "name": "King of the Wisent",
+        "kind": "trophy",
+        "chapterId": "leaders",
+        "where": "Beat the game on any difficulty as Casimir."
+      },
+      {
+        "id": "achievement-232",
+        "name": "In Hoc Signo Vinces",
+        "kind": "trophy",
+        "chapterId": "leaders",
+        "where": "Beat the game on any difficulty as Maria I."
+      },
+      {
+        "id": "achievement-233",
+        "name": "The Great Spirit",
+        "kind": "trophy",
+        "chapterId": "leaders",
+        "where": "Beat the game on any difficulty as Pocatello."
+      },
+      {
+        "id": "achievement-234",
+        "name": "Queen of the Adriatic",
+        "kind": "trophy",
+        "chapterId": "leaders",
+        "where": "Beat the game on any difficulty as Enrico Dandolo."
+      },
+      {
+        "id": "achievement-235",
+        "name": "Wanna Be the King of the Zulus",
+        "kind": "trophy",
+        "chapterId": "leaders",
+        "where": "Beat the game on any difficulty as Shaka."
+      },
+      {
+        "id": "achievement-236",
+        "name": "One Small Step",
+        "kind": "trophy",
+        "chapterId": "victories",
+        "where": "Win a Space Victory using the Freedom Ideology."
+      },
+      {
+        "id": "achievement-237",
+        "name": "Yuri-ka!",
+        "kind": "trophy",
+        "chapterId": "victories",
+        "where": "Win a Space Victory using the Order Ideology."
+      },
+      {
+        "id": "achievement-238",
+        "name": "Rocking in the Free World",
+        "kind": "trophy",
+        "chapterId": "victories",
+        "where": "Win a Cultural Victory using the Freedom Ideology."
+      },
+      {
+        "id": "achievement-239",
+        "name": "Workers of the World - Unite!",
+        "kind": "trophy",
+        "chapterId": "victories",
+        "where": "Win a Cultural Victory using the Order Ideology."
+      },
+      {
+        "id": "achievement-240",
+        "name": "Strength Through Joy",
+        "kind": "trophy",
+        "chapterId": "victories",
+        "where": "Win a Cultural Victory using the Autocracy Ideology."
+      },
+      {
+        "id": "achievement-241",
+        "name": "Games Without Frontiers",
+        "kind": "trophy",
+        "chapterId": "victories",
+        "where": "Win a Diplomatic Victory using the Freedom Ideology."
+      },
+      {
+        "id": "achievement-242",
+        "name": "Axis Powered",
+        "kind": "trophy",
+        "chapterId": "victories",
+        "where": "Win a Diplomatic Victory using the Autocracy Ideology."
+      },
+      {
+        "id": "achievement-243",
+        "name": "Better Red Than Dead",
+        "kind": "trophy",
+        "chapterId": "victories",
+        "where": "Win a Conquest Victory using the Order Ideology."
+      },
+      {
+        "id": "achievement-244",
+        "name": "Everybody Wants to Rule the World",
+        "kind": "trophy",
+        "chapterId": "victories",
+        "where": "Win a Conquest Victory using the Autocracy Ideology."
+      },
+      {
+        "id": "achievement-245",
+        "name": "Knowledge is Power",
+        "kind": "trophy",
+        "chapterId": "civ-feats",
+        "where": "As Assyria, use a Royal Library filled with a Great Work to train a unit that begins with a promotion."
+      },
+      {
+        "id": "achievement-246",
+        "name": "Vote for Pedro",
+        "kind": "trophy",
+        "chapterId": "civ-feats",
+        "where": "As Brazil, win a Diplomatic Victory."
+      },
+      {
+        "id": "achievement-247",
+        "name": "Enemy Blade No More",
+        "kind": "trophy",
+        "chapterId": "civ-feats",
+        "where": "As Indonesia, capture an enemy capital with a Kris Swordsman with the Enemy Blade promotion."
+      },
+      {
+        "id": "achievement-248",
+        "name": "Here's Looking at You, Kid",
+        "kind": "trophy",
+        "chapterId": "civ-feats",
+        "where": "As Morocco, airlift a civilian unit from Casablanca to Portugal's original capital."
+      },
+      {
+        "id": "achievement-249",
+        "name": "Poland Can into Space",
+        "kind": "trophy",
+        "chapterId": "civ-feats",
+        "where": "As Poland, win a Space Victory."
+      },
+      {
+        "id": "achievement-250",
+        "name": "What's Yours is Mine",
+        "kind": "trophy",
+        "chapterId": "civ-feats",
+        "where": "As Portugal, construct a Feitoria in a City-State that is allied to another civilization."
+      },
+      {
+        "id": "achievement-251",
+        "name": "Sacagawea's Legacy",
+        "kind": "trophy",
+        "chapterId": "civ-feats",
+        "where": "As the Shoshone, discover 5 ancient ruins with the same Shoshone Pathfinder."
+      },
+      {
+        "id": "achievement-252",
+        "name": "The Great Betrayal",
+        "kind": "trophy",
+        "chapterId": "civ-feats",
+        "where": "As Venice, capture the Holy City of the religion that the city of Venice follows."
+      },
+      {
+        "id": "achievement-253",
+        "name": "Run 50 Miles and Fight a Battle",
+        "kind": "trophy",
+        "chapterId": "civ-feats",
+        "where": "As Zulu, have an Impi earn all of the special promotions."
+      },
+      {
+        "id": "achievement-254",
+        "name": "Highway Robbery",
+        "kind": "trophy",
+        "chapterId": "empire",
+        "where": "Plunder a Caravan Trade Route."
+      },
+      {
+        "id": "achievement-255",
+        "name": "Silk Road",
+        "kind": "trophy",
+        "chapterId": "empire",
+        "where": "Connect to the Arabs, China, India, the Mongols, and Persia at the same time using Caravans."
+      },
+      {
+        "id": "achievement-256",
+        "name": "Greed is Good",
+        "kind": "trophy",
+        "chapterId": "empire",
+        "where": "Have a city with the Colossus, Petra, a Caravansary, and a Harbor."
+      },
+      {
+        "id": "achievement-257",
+        "name": "Built in (Almost) a Day",
+        "kind": "trophy",
+        "chapterId": "empire",
+        "where": "Complete a Wonder in a city with three Trade Routes supplying production to it."
+      },
+      {
+        "id": "achievement-258",
+        "name": "Merchant Prince",
+        "kind": "trophy",
+        "chapterId": "empire",
+        "where": "Generate 200 gold per turn via Trade Routes."
+      },
+      {
+        "id": "achievement-259",
+        "name": "Raiders of the Lost Ark",
+        "kind": "trophy",
+        "chapterId": "civ-feats",
+        "where": "Have your American Archaeologist extract an Artifact from Egypt with a German Archaeologist within 2 tiles."
+      },
+      {
+        "id": "achievement-260",
+        "name": "Losing My Marbles",
+        "kind": "trophy",
+        "chapterId": "empire",
+        "where": "Extract 5 Artifacts from the territory of another major civilization."
+      },
+      {
+        "id": "achievement-261",
+        "name": "It Belongs in a Museum",
+        "kind": "trophy",
+        "chapterId": "empire",
+        "where": "Have Artifacts from 10 different City-States in the Museums and Wonders in your civilization."
+      },
+      {
+        "id": "achievement-262",
+        "name": "British Invasion",
+        "kind": "trophy",
+        "chapterId": "civ-feats",
+        "where": "Perform a Concert Tour with an English Great Musician in American territory."
+      },
+      {
+        "id": "achievement-263",
+        "name": "Rock the Kasbah",
+        "kind": "trophy",
+        "chapterId": "civ-feats",
+        "where": "Perform a Concert Tour with a Great Musician on a Moroccan Kasbah improvement."
+      },
+      {
+        "id": "achievement-264",
+        "name": "Radio Free Europe",
+        "kind": "trophy",
+        "chapterId": "empire",
+        "where": "Adopt the Freedom Ideology and fill 10 Broadcast Towers with Great Works."
+      },
+      {
+        "id": "achievement-265",
+        "name": "Tear Down this Wall!",
+        "kind": "trophy",
+        "chapterId": "empire",
+        "where": "Force an AI player with the Order Ideology to switch to Freedom."
+      },
+      {
+        "id": "achievement-266",
+        "name": "Pyramid Scheme",
+        "kind": "trophy",
+        "chapterId": "civ-feats",
+        "where": "Playing as France, get the Louvre to the maximum theming bonus of 16."
+      },
+      {
+        "id": "achievement-267",
+        "name": "Lingua Franca",
+        "kind": "trophy",
+        "chapterId": "empire",
+        "where": "Found the World Congress and remain its host for the entire game."
+      },
+      {
+        "id": "achievement-268",
+        "name": "Flip-Flop",
+        "kind": "trophy",
+        "chapterId": "empire",
+        "where": "Propose to repeal an active Resolution which you had originally proposed to enact."
+      },
+      {
+        "id": "achievement-269",
+        "name": "Dark Horse",
+        "kind": "trophy",
+        "chapterId": "victories",
+        "where": "Win a Diplomatic Victory without ever being the host of the World Congress."
+      },
+      {
+        "id": "achievement-270",
+        "name": "Herculean Effort",
+        "kind": "trophy",
+        "chapterId": "empire",
+        "where": "Complete all International Projects in a single game as the highest contributor."
+      },
+      {
+        "id": "achievement-271",
+        "name": "Soma Tablets for Everyone",
+        "kind": "trophy",
+        "chapterId": "empire",
+        "where": "Reach a Happiness level of over 100 for your civ."
+      },
+      {
+        "id": "achievement-272",
+        "name": "That's XCOM baby!",
+        "kind": "trophy",
+        "chapterId": "empire",
+        "where": "Have your XCOM Squad go from 100 health to 0 in a single AI turn."
+      },
+      {
+        "id": "achievement-273",
+        "name": "Legends of the Hidden Temple",
+        "kind": "trophy",
+        "chapterId": "empire",
+        "where": "Fully explore the Exploration Policy track."
+      },
+      {
+        "id": "achievement-274",
+        "name": "Artistic License",
+        "kind": "trophy",
+        "chapterId": "empire",
+        "where": "Fully explore the Aesthetics Policy track."
+      },
+      {
+        "id": "achievement-275",
+        "name": "I Prefer my Africa Scrambled",
+        "kind": "trophy",
+        "chapterId": "gk-bnw-scenarios",
+        "where": "Win the Scramble for Africa scenario as any civ on any difficulty."
+      },
+      {
+        "id": "achievement-276",
+        "name": "Praise the Victories",
+        "kind": "trophy",
+        "chapterId": "gk-bnw-scenarios",
+        "where": "Win the Scramble for Africa playing as the Boers on Deity."
+      },
+      {
+        "id": "achievement-277",
+        "name": "Ottoman Carpentry",
+        "kind": "trophy",
+        "chapterId": "gk-bnw-scenarios",
+        "where": "Win the Scramble for Africa playing as the Ottomans on Deity."
+      },
+      {
+        "id": "achievement-278",
+        "name": "Dr Livingstone I presume?",
+        "kind": "trophy",
+        "chapterId": "gk-bnw-scenarios",
+        "where": "Playing as Belgium, move your Stanley Explorer to within a tile of England’s Livingstone Explorer."
+      },
+      {
+        "id": "achievement-279",
+        "name": "The Rhodes Colossus",
+        "kind": "trophy",
+        "chapterId": "gk-bnw-scenarios",
+        "where": "Playing as England in Scramble for Africa, complete a railroad from Cairo to Capetown."
+      },
+      {
+        "id": "achievement-280",
+        "name": "Nigerian Bank Account",
+        "kind": "trophy",
+        "chapterId": "gk-bnw-scenarios",
+        "where": "In Scramble for Africa, marry Sokoto or Bornu."
+      },
+      {
+        "id": "achievement-281",
+        "name": "Discoverer",
+        "kind": "trophy",
+        "chapterId": "gk-bnw-scenarios",
+        "where": "Playing as Italy in Scramble for Africa, earn the VP for finding two Natural Wonders."
+      },
+      {
+        "id": "achievement-282",
+        "name": "Glory, glory, hallelujah!",
+        "kind": "trophy",
+        "chapterId": "gk-bnw-scenarios",
+        "where": "Win the Civil War scenario playing as the Union."
+      },
+      {
+        "id": "achievement-283",
+        "name": "Standing like a Stone Wall",
+        "kind": "trophy",
+        "chapterId": "gk-bnw-scenarios",
+        "where": "Win the Civil War scenario playing as the Confederates."
+      },
+      {
+        "id": "achievement-284",
+        "name": "Red Badge of Courage",
+        "kind": "trophy",
+        "chapterId": "gk-bnw-scenarios",
+        "where": "Win the Civil War scenario on Deity."
+      },
+      {
+        "id": "achievement-285",
+        "name": "Pickett's Recharge",
+        "kind": "trophy",
+        "chapterId": "gk-bnw-scenarios",
+        "where": "Capture Gettysburg with a Confederate Infantry unit possessing the George Pickett promotion."
+      },
+      {
+        "id": "achievement-286",
+        "name": "Sheridan's Valley Campaign",
+        "kind": "trophy",
+        "chapterId": "gk-bnw-scenarios",
+        "where": "As Union, control Winchester, Front Royal, Harrisonburg, Staunton, and Lynchburg."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/civilization-v",
+    "Achievement data from Steam (Steam Web API, app 8930)",
+    "StrategyWiki: no usable walkthrough, nothing used — https://strategywiki.org/wiki/Sid_Meier's_Civilization_V",
+    "Fandom (civilization.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://civilization.fandom.com/wiki/Civilization_V"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). RAWG's first result is the expected entry (civilization-v, id 13633). Steam app 8930 (\"Sid Meier's Civilization® V\") from the store list; its schema is named \"ValveTestApp8930\" (a placeholder name). None of the 286 Steam achievements is hidden. StrategyWiki has the guide at completion stage 1 but no walkthrough: Walkthrough is linked but not written. Written reference pages include Achievements (about 39,300 characters), Social Policies (about 36,500), Units (about 33,400), Wonders of the Ancient World (about 20,800), Wonders, Conquest of the New World, Terrain and Resources, Civilizations, Gameplay, 1066: Year of Viking Destiny and short pages for each base-game civilization; Buildings, City States, Combat, Controls, Difficulties, Diplomacy, Downloadable Content and the Paradise Found, Rise of the Mongols and Samurai Invasion of Korea scenario pages are linked but not written. So it was not recorded in sw-structure.json. The contents page also links pages under \"Sid Meier's Civilization V: Gods & Kings\" (including Fall of Rome, Into the Renaissance and \"Empire of Smoky Skies\") and \"Sid Meier's Civilization V: Brave New World\" (including American Civil War, Scramble for Africa and Conquest of the New World DX); the last chapter's name comes from those page names. The scenario achievements that do not name their scenario were grouped by their place in the Steam list; which scenario each belongs to was not checked. Three \"Win on Emperor/Immortal/Deity\" and \"Win before 100 turns as any power\" sit next to the Korea, Japan, China and Manchu wins in the Steam list and were put with the scenarios as a guess. Exploration goals such as finding Hawaii or Easter Island in a random map game, \"Pillage 9 Farms\" and the motte and bailey were left in the empire chapter. civilization.fandom.com redirects \"Sid Meier's Civilization V\" to \"Civilization V\", with about 205 linked articles; names only were looked at, nothing copied."
+}

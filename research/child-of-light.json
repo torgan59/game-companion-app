@@ -1,0 +1,122 @@
+{
+  "id": "child-of-light",
+  "title": "Child of Light",
+  "year": 2014,
+  "platforms": [
+    "PlayStation 3",
+    "PlayStation 4",
+    "PS Vita",
+    "Wii U",
+    "Xbox 360",
+    "Xbox One",
+    "PC",
+    "Nintendo Switch"
+  ],
+  "rawgId": 3647,
+  "rawgSlug": "child-of-light",
+  "released": "2014-04-29",
+  "developers": [
+    "Ubisoft",
+    "Ubisoft Montreal"
+  ],
+  "playtime": 3,
+  "genres": [
+    "RPG",
+    "Indie"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Atmospheric",
+    "Great Soundtrack",
+    "RPG",
+    "Story Rich",
+    "2D",
+    "Partial Controller Support",
+    "Fantasy",
+    "Female Protagonist",
+    "Split Screen",
+    "Local Co-Op",
+    "role-playing"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/c47/c4796c4c49e7e06ad328e07aa8944cdd.jpg",
+  "steamAppId": null,
+  "achievements": {
+    "total": 0,
+    "examples": [],
+    "reason": "No Steam list: Steam app 256290 (\"Child of Light\") returns an empty achievement schema and no percentages. RAWG lists 24 achievements (party members joining, Lemurian Requests, battle feats, Confessions, Stardust, coffers and Oculi, plus a time-limited May 2014 battle event), which could seed the checklist. childoflight.fandom.com has a Trophies page (names only)."
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": false,
+      "pages": 0,
+      "reason": "No page for Child of Light (MediaWiki API returned missing; see notes for other titles tried)"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 20,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://childoflight.fandom.com/wiki/Child_of_Light"
+    }
+  },
+  "game": {
+    "id": "child-of-light",
+    "title": "Child of Light",
+    "platforms": [
+      "PlayStation 3",
+      "PlayStation 4",
+      "PS Vita",
+      "Wii U",
+      "Xbox 360",
+      "Xbox One",
+      "PC",
+      "Nintendo Switch"
+    ],
+    "blurb": "Fairy-tale role-playing game set in the land of Lemuria, from Ubisoft Montreal (RAWG also lists Ubisoft), published by Ubisoft Entertainment, released 2014-04-29. RAWG average playtime: 3 hours. Genres: RPG, Indie. Chapters are an estimate drawn from the achievement themes RAWG lists.",
+    "accent": "#C9A54B",
+    "chapters": [
+      {
+        "id": "main-story",
+        "title": "The Main Story",
+        "summary": "Aurora's journey through Lemuria to find her way home. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "companions",
+        "title": "Companions",
+        "summary": "Meeting Igniculus and the friends who join Aurora's party: Rubella, Finn, Norah, Robert, Tristis, Óengus and Gen.",
+        "steps": []
+      },
+      {
+        "id": "lemurian-requests",
+        "title": "Lemurian Requests",
+        "summary": "The optional requests, including Free Trade and Achilles's Odyssey.",
+        "steps": []
+      },
+      {
+        "id": "combat",
+        "title": "Battles",
+        "summary": "Interrupts, Surprise Strikes, devastating foes, flawless fights and battles without Aurora.",
+        "steps": []
+      },
+      {
+        "id": "collectibles-and-crafting",
+        "title": "Collectibles, Oculi and Growth",
+        "summary": "Confessions, Stardust, coffers, crafting and sending Oculi, levelling up and maxing a skill.",
+        "steps": []
+      }
+    ],
+    "collectibles": []
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/child-of-light",
+    "Steam: no achievement list available for this game (see notes)",
+    "StrategyWiki: no page for this game, nothing used",
+    "Fandom (childoflight.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://childoflight.fandom.com/wiki/Child_of_Light"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). RAWG's first result is the expected entry (id 3647). Steam app 256290 (\"Child of Light\", from the store list and RAWG's store links) returns an empty achievement schema, so steam=None. The chapters come from the 24 achievements RAWG lists (RAWG's percentages, not Steam's); RAWG's list has no story-ending achievements, and the order of the story is not in the data, so the story is one chapter. StrategyWiki has no page under \"Child of Light\" or \"Child of Light (video game)\". childoflight.fandom.com answers the API under \"Child of Light\" with 20 linked articles (including Walkthrough, Lemuria and character names); names only were looked at, nothing copied. One RAWG achievement, \"Champion of Lemuria\", needed battles won between May 5 and May 31, 2014, so it may no longer be possible."
+}

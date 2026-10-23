@@ -1,0 +1,664 @@
+{
+  "id": "fallout-76",
+  "title": "Fallout 76",
+  "year": 2018,
+  "platforms": [
+    "PlayStation 4",
+    "Xbox One",
+    "PC"
+  ],
+  "rawgId": 58585,
+  "rawgSlug": "fallout-76",
+  "released": "2018-11-14",
+  "developers": [
+    "Bethesda Game Studios"
+  ],
+  "playtime": 7,
+  "genres": [
+    "Action",
+    "Adventure",
+    "RPG"
+  ],
+  "tags": [
+    "Steam Achievements",
+    "Multiplayer",
+    "Atmospheric",
+    "RPG",
+    "Co-op",
+    "Open World",
+    "cooperative",
+    "First-Person",
+    "Partial Controller Support",
+    "Horror",
+    "Online Co-Op",
+    "Funny"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/151/151e79f397328419c64aabe93d9d5a31.jpg",
+  "steamAppId": 1151340,
+  "achievements": {
+    "total": 72,
+    "hidden": 0,
+    "examples": [
+      {
+        "name": "Tested Mettle",
+        "percent": 86.5
+      },
+      {
+        "name": "Reclamation Day!",
+        "percent": 83.6
+      },
+      {
+        "name": "Junker Funk",
+        "percent": 72.4
+      },
+      {
+        "name": "Good Grief!",
+        "percent": 2.1
+      },
+      {
+        "name": "Seeking Refuge",
+        "percent": 1.7
+      },
+      {
+        "name": "The House Always Wins",
+        "percent": 1.7
+      },
+      {
+        "name": "Troglodiced",
+        "percent": 0.7
+      },
+      {
+        "name": "Rip and Tear",
+        "percent": 0.7
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Fallout_76",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 500,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://fallout.fandom.com/wiki/Fallout_76"
+    }
+  },
+  "game": {
+    "id": "fallout-76",
+    "title": "Fallout 76",
+    "platforms": [
+      "PlayStation 4",
+      "Xbox One",
+      "PC"
+    ],
+    "blurb": "Online open-world post-apocalyptic role-playing game from Bethesda Game Studios, released 2018-11-14. RAWG average playtime: 7 hours. Genres: Action, Adventure, RPG. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#3E7CB1",
+    "chapters": [
+      {
+        "id": "main-quests",
+        "title": "Leaving Vault 76 and the Main Quests",
+        "summary": "Leaving the vault and the run of named quests from \"First Contact\" to \"Officer on Deck\" and \"I Am Become Death\".",
+        "steps": []
+      },
+      {
+        "id": "side-quests-and-events",
+        "title": "Side Quests and Events",
+        "summary": "\"Mistress of Mystery\", \"Personal Matters\", \"Queen of the Hunt\" and the Monster Mash, Scorched Earth and Breach and Clear events.",
+        "steps": []
+      },
+      {
+        "id": "overseer-and-factions",
+        "title": "The Overseer, Foundation and Crater",
+        "summary": "Finding the Overseer, Sofia's and Beckett's stories, the treasure quests, allying with Foundation or Crater, and gold bullion.",
+        "steps": []
+      },
+      {
+        "id": "later-content",
+        "title": "Daily Ops, The Pitt and Later Quests",
+        "summary": "\"The Catalyst\", Daily Ops, legendary mods, The Pitt, the Whitespring Refuge, \"Tax Evasion\", \"Sins of the Father\" and the newer enemy and CAMP goals.",
+        "steps": []
+      },
+      {
+        "id": "camp-and-crafting",
+        "title": "C.A.M.P. and Crafting",
+        "summary": "Building a C.A.M.P. and its items, crafting armour and weapons, modding weapons and gathering junk.",
+        "steps": []
+      },
+      {
+        "id": "levels-and-exploration",
+        "title": "Levels, Perks and Exploration",
+        "summary": "Levels 10 to 100, perks, challenges, locations, locks, terminals, magazines, bobbleheads, photos, caps, holotape games and ground zero of a nuke.",
+        "steps": []
+      },
+      {
+        "id": "combat-and-teams",
+        "title": "Combat, Teams and PvP",
+        "summary": "Joining teams, reviving players, giant creatures and creature kills, and fighting other players.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Reclamation Day!",
+        "kind": "trophy",
+        "chapterId": "main-quests",
+        "where": "Leave Vault 76"
+      },
+      {
+        "id": "achievement-2",
+        "name": "First Contact",
+        "kind": "trophy",
+        "chapterId": "main-quests",
+        "where": "Complete \"First Contact\""
+      },
+      {
+        "id": "achievement-3",
+        "name": "Final Departure",
+        "kind": "trophy",
+        "chapterId": "main-quests",
+        "where": "Complete \"Final Departure\""
+      },
+      {
+        "id": "achievement-4",
+        "name": "Second Helpings",
+        "kind": "trophy",
+        "chapterId": "main-quests",
+        "where": "Complete \"Second Helpings\""
+      },
+      {
+        "id": "achievement-5",
+        "name": "Into the Fire",
+        "kind": "trophy",
+        "chapterId": "main-quests",
+        "where": "Complete \"Into the Fire\""
+      },
+      {
+        "id": "achievement-6",
+        "name": "Recruitment Blues",
+        "kind": "trophy",
+        "chapterId": "main-quests",
+        "where": "Complete \"Recruitment Blues\""
+      },
+      {
+        "id": "achievement-7",
+        "name": "Heart of the Enemy",
+        "kind": "trophy",
+        "chapterId": "main-quests",
+        "where": "Complete \"Heart of the Enemy\""
+      },
+      {
+        "id": "achievement-8",
+        "name": "Key to the Past",
+        "kind": "trophy",
+        "chapterId": "main-quests",
+        "where": "Complete \"Key to the Past\""
+      },
+      {
+        "id": "achievement-9",
+        "name": "Coming to Fruition",
+        "kind": "trophy",
+        "chapterId": "main-quests",
+        "where": "Complete \"Coming to Fruition\""
+      },
+      {
+        "id": "achievement-10",
+        "name": "Bunker Buster",
+        "kind": "trophy",
+        "chapterId": "main-quests",
+        "where": "Complete \"Bunker Buster\""
+      },
+      {
+        "id": "achievement-11",
+        "name": "One of Us",
+        "kind": "trophy",
+        "chapterId": "main-quests",
+        "where": "Complete \"One of Us\""
+      },
+      {
+        "id": "achievement-12",
+        "name": "Officer on Deck",
+        "kind": "trophy",
+        "chapterId": "main-quests",
+        "where": "Complete \"Officer on Deck\""
+      },
+      {
+        "id": "achievement-13",
+        "name": "Happy C.A.M.P.er",
+        "kind": "trophy",
+        "chapterId": "camp-and-crafting",
+        "where": "Build a C.A.M.P."
+      },
+      {
+        "id": "achievement-14",
+        "name": "We Must Rebuild",
+        "kind": "trophy",
+        "chapterId": "camp-and-crafting",
+        "where": "Build 20 C.A.M.P. Items"
+      },
+      {
+        "id": "achievement-15",
+        "name": "Appalachian HOA",
+        "kind": "trophy",
+        "chapterId": "camp-and-crafting",
+        "where": "Build 100 C.A.M.P. Items"
+      },
+      {
+        "id": "achievement-16",
+        "name": "Mistress of Mystery",
+        "kind": "trophy",
+        "chapterId": "side-quests-and-events",
+        "where": "Complete \"Mistress of Mystery\""
+      },
+      {
+        "id": "achievement-17",
+        "name": "Personal Matters",
+        "kind": "trophy",
+        "chapterId": "side-quests-and-events",
+        "where": "Complete \"Personal Matters\""
+      },
+      {
+        "id": "achievement-18",
+        "name": "Queen of the Hunt",
+        "kind": "trophy",
+        "chapterId": "side-quests-and-events",
+        "where": "Complete \"Queen of the Hunt\""
+      },
+      {
+        "id": "achievement-19",
+        "name": "Monster Mash",
+        "kind": "trophy",
+        "chapterId": "side-quests-and-events",
+        "where": "Complete the \"Monster Mash\" Event"
+      },
+      {
+        "id": "achievement-20",
+        "name": "Scorched Earth",
+        "kind": "trophy",
+        "chapterId": "side-quests-and-events",
+        "where": "Win the \"Scorched Earth' Event"
+      },
+      {
+        "id": "achievement-21",
+        "name": "Breach and Clear",
+        "kind": "trophy",
+        "chapterId": "side-quests-and-events",
+        "where": "Win the \"Breach and Clear\" Event"
+      },
+      {
+        "id": "achievement-22",
+        "name": "Never Go it Alone!",
+        "kind": "trophy",
+        "chapterId": "combat-and-teams",
+        "where": "Join 20 Teams"
+      },
+      {
+        "id": "achievement-23",
+        "name": "Second Skin",
+        "kind": "trophy",
+        "chapterId": "camp-and-crafting",
+        "where": "Craft 5 Pieces of Armor"
+      },
+      {
+        "id": "achievement-24",
+        "name": "A Fighting Chance",
+        "kind": "trophy",
+        "chapterId": "camp-and-crafting",
+        "where": "Craft a Weapon"
+      },
+      {
+        "id": "achievement-25",
+        "name": "Fallout Forever",
+        "kind": "trophy",
+        "chapterId": "levels-and-exploration",
+        "where": "Reach Level 100"
+      },
+      {
+        "id": "achievement-26",
+        "name": "LITerally",
+        "kind": "trophy",
+        "chapterId": "levels-and-exploration",
+        "where": "Read 20 Magazines"
+      },
+      {
+        "id": "achievement-27",
+        "name": "Ground Zero",
+        "kind": "trophy",
+        "chapterId": "levels-and-exploration",
+        "where": "Be at Ground Zero of a Nuclear Blast"
+      },
+      {
+        "id": "achievement-28",
+        "name": "Perked Up",
+        "kind": "trophy",
+        "chapterId": "levels-and-exploration",
+        "where": "Fully Rank Up one Perk"
+      },
+      {
+        "id": "achievement-29",
+        "name": "Gimme Gimme!",
+        "kind": "trophy",
+        "chapterId": "levels-and-exploration",
+        "where": "Pick 50 Locks"
+      },
+      {
+        "id": "achievement-30",
+        "name": "Code Cruncher",
+        "kind": "trophy",
+        "chapterId": "levels-and-exploration",
+        "where": "Hack 50 Terminals"
+      },
+      {
+        "id": "achievement-31",
+        "name": "Monet of Murder",
+        "kind": "trophy",
+        "chapterId": "camp-and-crafting",
+        "where": "Mod 50 Weapons"
+      },
+      {
+        "id": "achievement-32",
+        "name": "Tested Mettle",
+        "kind": "trophy",
+        "chapterId": "levels-and-exploration",
+        "where": "Complete 5 Challenges"
+      },
+      {
+        "id": "achievement-33",
+        "name": "A Real Challenger",
+        "kind": "trophy",
+        "chapterId": "levels-and-exploration",
+        "where": "Complete 20 Challenges"
+      },
+      {
+        "id": "achievement-34",
+        "name": "Field Medic",
+        "kind": "trophy",
+        "chapterId": "combat-and-teams",
+        "where": "Revive 20 Fallen Players"
+      },
+      {
+        "id": "achievement-35",
+        "name": "Moneybags",
+        "kind": "trophy",
+        "chapterId": "levels-and-exploration",
+        "where": "Possess 10,000 Caps"
+      },
+      {
+        "id": "achievement-36",
+        "name": "Retro Now",
+        "kind": "trophy",
+        "chapterId": "levels-and-exploration",
+        "where": "Play a Holotape Game"
+      },
+      {
+        "id": "achievement-37",
+        "name": "Giant Slayer",
+        "kind": "trophy",
+        "chapterId": "combat-and-teams",
+        "where": "Kill 5 Giant Creatures"
+      },
+      {
+        "id": "achievement-38",
+        "name": "Pioneer Scout",
+        "kind": "trophy",
+        "chapterId": "levels-and-exploration",
+        "where": "Discover 100 Locations"
+      },
+      {
+        "id": "achievement-39",
+        "name": "Bounty Hunter",
+        "kind": "trophy",
+        "chapterId": "combat-and-teams",
+        "where": "Kill a Wanted Player"
+      },
+      {
+        "id": "achievement-40",
+        "name": "Kill or Be Killed",
+        "kind": "trophy",
+        "chapterId": "combat-and-teams",
+        "where": "Kill Another Player"
+      },
+      {
+        "id": "achievement-41",
+        "name": "Good Grief!",
+        "kind": "trophy",
+        "chapterId": "combat-and-teams",
+        "where": "Kill 20 Players"
+      },
+      {
+        "id": "achievement-42",
+        "name": "Pest Control",
+        "kind": "trophy",
+        "chapterId": "combat-and-teams",
+        "where": "Kill 300 Creatures"
+      },
+      {
+        "id": "achievement-43",
+        "name": "Junker Funk",
+        "kind": "trophy",
+        "chapterId": "camp-and-crafting",
+        "where": "Gather 200 Pieces of Junk"
+      },
+      {
+        "id": "achievement-44",
+        "name": "Photo Bomber",
+        "kind": "trophy",
+        "chapterId": "levels-and-exploration",
+        "where": "Take 20 Photos"
+      },
+      {
+        "id": "achievement-45",
+        "name": "Ain't He the Cutest?",
+        "kind": "trophy",
+        "chapterId": "levels-and-exploration",
+        "where": "Collect a Bobblehead"
+      },
+      {
+        "id": "achievement-46",
+        "name": "Shwag",
+        "kind": "trophy",
+        "chapterId": "levels-and-exploration",
+        "where": "Collect 10 Bobbleheads"
+      },
+      {
+        "id": "achievement-47",
+        "name": "Wild West Virginian",
+        "kind": "trophy",
+        "chapterId": "levels-and-exploration",
+        "where": "Reach Level 10"
+      },
+      {
+        "id": "achievement-48",
+        "name": "Appalachian Trailblazer",
+        "kind": "trophy",
+        "chapterId": "levels-and-exploration",
+        "where": "Reach Level 25"
+      },
+      {
+        "id": "achievement-49",
+        "name": "American Hero",
+        "kind": "trophy",
+        "chapterId": "levels-and-exploration",
+        "where": "Reach Level 50"
+      },
+      {
+        "id": "achievement-50",
+        "name": "I Am Become Death",
+        "kind": "trophy",
+        "chapterId": "main-quests",
+        "where": "Complete \"I Am Become Death\""
+      },
+      {
+        "id": "achievement-51",
+        "name": "Wayward Child",
+        "kind": "trophy",
+        "chapterId": "overseer-and-factions",
+        "where": "Complete \"The Elusive Crane\""
+      },
+      {
+        "id": "achievement-52",
+        "name": "Overdue Reunions",
+        "kind": "trophy",
+        "chapterId": "overseer-and-factions",
+        "where": "Find the Overseer"
+      },
+      {
+        "id": "achievement-53",
+        "name": "Go for the Gold",
+        "kind": "trophy",
+        "chapterId": "overseer-and-factions",
+        "where": "Complete \"Buried Treasure\""
+      },
+      {
+        "id": "achievement-54",
+        "name": "A Golden Future",
+        "kind": "trophy",
+        "chapterId": "overseer-and-factions",
+        "where": "Complete \"All That Glitters\""
+      },
+      {
+        "id": "achievement-55",
+        "name": "Wish Upon A Star",
+        "kind": "trophy",
+        "chapterId": "overseer-and-factions",
+        "where": "Complete Sofia's story"
+      },
+      {
+        "id": "achievement-56",
+        "name": "Behind the Curtain",
+        "kind": "trophy",
+        "chapterId": "overseer-and-factions",
+        "where": "Complete Beckett's story"
+      },
+      {
+        "id": "achievement-57",
+        "name": "A Solid Foundation",
+        "kind": "trophy",
+        "chapterId": "overseer-and-factions",
+        "where": "Become allies with Foundation"
+      },
+      {
+        "id": "achievement-58",
+        "name": "Friends in Low Places",
+        "kind": "trophy",
+        "chapterId": "overseer-and-factions",
+        "where": "Become allies with Crater"
+      },
+      {
+        "id": "achievement-59",
+        "name": "Gold Rush",
+        "kind": "trophy",
+        "chapterId": "overseer-and-factions",
+        "where": "Gain 300 gold bullion"
+      },
+      {
+        "id": "achievement-60",
+        "name": "The New Fort Knox",
+        "kind": "trophy",
+        "chapterId": "overseer-and-factions",
+        "where": "Gain 1500 gold bullion"
+      },
+      {
+        "id": "achievement-61",
+        "name": "Steel Brethren",
+        "kind": "trophy",
+        "chapterId": "later-content",
+        "where": "Complete “The Catalyst”"
+      },
+      {
+        "id": "achievement-62",
+        "name": "Smooth Operator",
+        "kind": "trophy",
+        "chapterId": "later-content",
+        "where": "Earn Elder Rewards from a Daily Op"
+      },
+      {
+        "id": "achievement-63",
+        "name": "Gold Star Crafter",
+        "kind": "trophy",
+        "chapterId": "later-content",
+        "where": "Craft a 1 star legendary mod, a 2 star legendary mod, and a 3 star legendary mod"
+      },
+      {
+        "id": "achievement-64",
+        "name": "Welcome To The Pitt",
+        "kind": "trophy",
+        "chapterId": "later-content",
+        "where": "Lead and complete \"Union Dues\" and \"From Ashes to Fire\""
+      },
+      {
+        "id": "achievement-65",
+        "name": "Seeking Refuge",
+        "kind": "trophy",
+        "chapterId": "later-content",
+        "where": "Complete 10 Favors for people in The Whitespring Refuge"
+      },
+      {
+        "id": "achievement-66",
+        "name": "Troglodiced",
+        "kind": "trophy",
+        "chapterId": "later-content",
+        "where": "Kill 100 Trogs with an Auto Axe"
+      },
+      {
+        "id": "achievement-67",
+        "name": "America’s Playground",
+        "kind": "trophy",
+        "chapterId": "later-content",
+        "where": "Lead and complete “Tax Evasion” and “The Most Sensational Game”"
+      },
+      {
+        "id": "achievement-68",
+        "name": "Rip and Tear",
+        "kind": "trophy",
+        "chapterId": "later-content",
+        "where": "Kill 10 Lesser Devils with a melee weapon"
+      },
+      {
+        "id": "achievement-69",
+        "name": "The House Always Wins",
+        "kind": "trophy",
+        "chapterId": "later-content",
+        "where": "Build 5 casino games in your CAMP"
+      },
+      {
+        "id": "achievement-70",
+        "name": "Community Service",
+        "kind": "trophy",
+        "chapterId": "later-content",
+        "where": "Lead and Complete \"The Human Condition\""
+      },
+      {
+        "id": "achievement-71",
+        "name": "Devil's Bargain",
+        "kind": "trophy",
+        "chapterId": "later-content",
+        "where": "Complete \"Sins of the Father\""
+      },
+      {
+        "id": "achievement-72",
+        "name": "Weed Killer",
+        "kind": "trophy",
+        "chapterId": "later-content",
+        "where": "Kill 100 Overgrown with fire"
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/fallout-76",
+    "Achievement data from Steam (Steam Web API, app 1151340)",
+    "StrategyWiki: no usable walkthrough, nothing used — https://strategywiki.org/wiki/Fallout_76",
+    "Fandom (fallout.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://fallout.fandom.com/wiki/Fallout_76"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). Steam app 1151340 was the only app-list match; the Steam schema calls it \"Eagle\" (an internal codename). RAWG's first search result matched the expected slug; RAWG describes it as multiplayer-only. None of the 72 Steam achievements is hidden. RAWG also lists \"Fallout 76: Wastelanders\" (2020) as a separate entry; which achievements came with it is not stated in the data. The Overseer, Foundation and Crater chapter holds achievements 51 to 60 in the Steam list, which name the Overseer, Sofia, Beckett, Foundation, Crater and gold bullion; the later-content chapter holds 61 to 72 (The Catalyst, Daily Ops, The Pitt, the Whitespring Refuge and others), which have low unlock rates (0.7% to 13.3%) like post-launch additions. Both groupings are by list position and names, and \"Overdue Reunions\" (Find the Overseer) and \"Wayward Child\" (The Elusive Crane) were put with the factions chapter as a guess. Several later goals need leading a team (\"Lead and complete\"). StrategyWiki has \"Fallout 76\" at completion stage 0; its Gameplay, Walkthrough, Table of Contents and Custom Nav subpages are linked but not written, so nothing was used. fallout.fandom.com answers the API under \"Fallout 76\" with 500 linked articles (the query limit, so possibly more); names only were looked at, nothing copied."
+}

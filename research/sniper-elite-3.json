@@ -1,0 +1,712 @@
+{
+  "id": "sniper-elite-3",
+  "title": "Sniper Elite 3",
+  "year": 2014,
+  "platforms": [
+    "PlayStation 3",
+    "PlayStation 4",
+    "Xbox 360",
+    "Nintendo Switch",
+    "Xbox One",
+    "PC"
+  ],
+  "rawgId": 3651,
+  "rawgSlug": "sniper-elite-3",
+  "released": "2014-06-26",
+  "developers": [
+    "505 Games",
+    "Rebellion"
+  ],
+  "playtime": 5,
+  "genres": [
+    "Action",
+    "Shooter",
+    "Adventure"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Multiplayer",
+    "Full controller support",
+    "Steam Cloud",
+    "Atmospheric",
+    "steam-trading-cards",
+    "Co-op",
+    "Open World",
+    "cooperative",
+    "Third Person",
+    "FPS"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/fe6/fe68940746007261e34da4d9cce81423.jpg",
+  "steamAppId": 238090,
+  "achievements": {
+    "total": 77,
+    "hidden": 0,
+    "examples": [
+      {
+        "name": "The Gazala Gallop",
+        "percent": 84.1
+      },
+      {
+        "name": "Wonderwall",
+        "percent": 60.2
+      },
+      {
+        "name": "Indestructible",
+        "percent": 50.8
+      },
+      {
+        "name": "Living in the shadows",
+        "percent": 1.8
+      },
+      {
+        "name": "The Everyman",
+        "percent": 1.7
+      },
+      {
+        "name": "You may fire when ready...",
+        "percent": 1.7
+      },
+      {
+        "name": "Highly decorated",
+        "percent": 1.6
+      },
+      {
+        "name": "Bring it Down",
+        "percent": 1.6
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Sniper_Elite_III",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 107,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://sniperelite.fandom.com/wiki/Sniper_Elite_III"
+    }
+  },
+  "game": {
+    "id": "sniper-elite-3",
+    "title": "Sniper Elite 3",
+    "platforms": [
+      "PlayStation 3",
+      "PlayStation 4",
+      "Xbox 360",
+      "Nintendo Switch",
+      "Xbox One",
+      "PC"
+    ],
+    "blurb": "Stealth sniping shooter set in North Africa in World War II, from Rebellion (RAWG also lists 505 Games), published by 505 Games and Rebellion, released 2014-06-26. RAWG average playtime: 5 hours. Genres: Action, Shooter, Adventure. Chapters follow the campaign missions named in the Steam achievements.",
+    "accent": "#B08A4A",
+    "chapters": [
+      {
+        "id": "missions-1-4",
+        "title": "Missions 1 to 4",
+        "summary": "The first four campaign missions, including the mountain pass, the wells in Gaberoun, the visiting General and reaching the informant unseen.",
+        "steps": []
+      },
+      {
+        "id": "missions-5-8",
+        "title": "Missions 5 to 8",
+        "summary": "The last four campaign missions, including the officer's \"accident\", Kasserine Pass, the bomb dumps and the bridges. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "collectibles",
+        "title": "Collectibles and 100%",
+        "summary": "War diaries, collectible cards, sniper nests, long shots, optional objectives and 100% of the campaign.",
+        "steps": []
+      },
+      {
+        "id": "difficulty",
+        "title": "Difficulty",
+        "summary": "Finishing the game on Cadet, Marksman, Sniper Elite and Authentic difficulty.",
+        "steps": []
+      },
+      {
+        "id": "co-op-and-multiplayer",
+        "title": "Co-op, Challenges and Multiplayer",
+        "summary": "The co-op campaign, the challenge missions, competitive multiplayer matches and ribbons, and trying every mode.",
+        "steps": []
+      },
+      {
+        "id": "added-missions",
+        "title": "Added Missions",
+        "summary": "The extra missions the achievements name: In Shadows, Belly of the beast and Confrontation.",
+        "steps": []
+      },
+      {
+        "id": "target-and-range",
+        "title": "Target, Tower and Shooting Range",
+        "summary": "The extra target mission with its many ways to kill, the far tower and AA gun feats, and the Shooting Range.",
+        "steps": []
+      },
+      {
+        "id": "sniping-and-combat",
+        "title": "Sniping and Combat",
+        "summary": "Relocating, tagging, explosives and chain reactions, flint distractions, long-distance sniping, holding your breath, rank levels, loadouts and rifle customising.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "The Gazala Gallop",
+        "kind": "trophy",
+        "chapterId": "missions-1-4",
+        "where": "Complete Mission 1"
+      },
+      {
+        "id": "achievement-2",
+        "name": "Wonderwall",
+        "kind": "trophy",
+        "chapterId": "missions-1-4",
+        "where": "Complete Mission 2"
+      },
+      {
+        "id": "achievement-3",
+        "name": "Through the fire…",
+        "kind": "trophy",
+        "chapterId": "missions-1-4",
+        "where": "Complete Mission 3"
+      },
+      {
+        "id": "achievement-4",
+        "name": "No refuge",
+        "kind": "trophy",
+        "chapterId": "missions-1-4",
+        "where": "Complete Mission 4"
+      },
+      {
+        "id": "achievement-5",
+        "name": "In the nick of time",
+        "kind": "trophy",
+        "chapterId": "missions-5-8",
+        "where": "Complete Mission 5"
+      },
+      {
+        "id": "achievement-6",
+        "name": "Crouching Tiger, Hidden Ratte",
+        "kind": "trophy",
+        "chapterId": "missions-5-8",
+        "where": "Complete Mission 6"
+      },
+      {
+        "id": "achievement-7",
+        "name": "Demolition Man",
+        "kind": "trophy",
+        "chapterId": "missions-5-8",
+        "where": "Complete Mission 7"
+      },
+      {
+        "id": "achievement-8",
+        "name": "Pest Control Specialist",
+        "kind": "trophy",
+        "chapterId": "missions-5-8",
+        "where": "Complete Mission 8"
+      },
+      {
+        "id": "achievement-9",
+        "name": "Oscar Mike",
+        "kind": "trophy",
+        "chapterId": "sniping-and-combat",
+        "where": "Relocate 100 times"
+      },
+      {
+        "id": "achievement-10",
+        "name": "Make it go boom",
+        "kind": "trophy",
+        "chapterId": "sniping-and-combat",
+        "where": "Kill 20 enemies by shooting explosives"
+      },
+      {
+        "id": "achievement-11",
+        "name": "Sniping with friends",
+        "kind": "trophy",
+        "chapterId": "co-op-and-multiplayer",
+        "where": "Complete the campaign in co-op"
+      },
+      {
+        "id": "achievement-12",
+        "name": "Time to reload",
+        "kind": "trophy",
+        "chapterId": "difficulty",
+        "where": "Complete the game on Cadet difficulty"
+      },
+      {
+        "id": "achievement-13",
+        "name": "Regular soldier",
+        "kind": "trophy",
+        "chapterId": "difficulty",
+        "where": "Complete the game on Marksman difficulty"
+      },
+      {
+        "id": "achievement-14",
+        "name": "Hard as nails",
+        "kind": "trophy",
+        "chapterId": "difficulty",
+        "where": "Complete the game on Sniper Elite difficulty"
+      },
+      {
+        "id": "achievement-15",
+        "name": "True sniper",
+        "kind": "trophy",
+        "chapterId": "difficulty",
+        "where": "Complete the game on Authentic difficulty"
+      },
+      {
+        "id": "achievement-16",
+        "name": "Casual Reader",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Find half of the war diaries"
+      },
+      {
+        "id": "achievement-17",
+        "name": "Archivist",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Find all the war diaries"
+      },
+      {
+        "id": "achievement-18",
+        "name": "The gathering",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Find all the collectible cards"
+      },
+      {
+        "id": "achievement-19",
+        "name": "Nesting instinct",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Find all the Sniper nests"
+      },
+      {
+        "id": "achievement-20",
+        "name": "A shot in the dark",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Complete all the long shots"
+      },
+      {
+        "id": "achievement-21",
+        "name": "Nothing is optional",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Complete all the optional objectives"
+      },
+      {
+        "id": "achievement-22",
+        "name": "Dedicated soldier",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Complete 100% of the campaign on any difficulty"
+      },
+      {
+        "id": "achievement-23",
+        "name": "You'll try anything once",
+        "kind": "trophy",
+        "chapterId": "co-op-and-multiplayer",
+        "where": "Play 1 mission in each mode (campaign, challenges, competitive multiplayer)"
+      },
+      {
+        "id": "achievement-24",
+        "name": "Ghost of Tobruk",
+        "kind": "trophy",
+        "chapterId": "missions-1-4",
+        "where": "Clear the mountain pass without alerting the enemy (Mission 1)"
+      },
+      {
+        "id": "achievement-25",
+        "name": "Well, well, well",
+        "kind": "trophy",
+        "chapterId": "missions-1-4",
+        "where": "Hide a body in each of the wells in Gaberoun (Mission 2)"
+      },
+      {
+        "id": "achievement-26",
+        "name": "End of the 'lein'",
+        "kind": "trophy",
+        "chapterId": "missions-1-4",
+        "where": "Find and kill the visiting General (Mission 3)"
+      },
+      {
+        "id": "achievement-27",
+        "name": "I Fort this would be difficult",
+        "kind": "trophy",
+        "chapterId": "missions-1-4",
+        "where": "Get to the informant without being spotted (Mission 4)"
+      },
+      {
+        "id": "achievement-28",
+        "name": "I Siwa you did there",
+        "kind": "trophy",
+        "chapterId": "missions-5-8",
+        "where": "Make the target officer's death look like an accident (Mission 5)"
+      },
+      {
+        "id": "achievement-29",
+        "name": "Double tap",
+        "kind": "trophy",
+        "chapterId": "missions-5-8",
+        "where": "Incapacitate 2 vehicles in Kasserine Pass within 5 seconds (Mission 6)"
+      },
+      {
+        "id": "achievement-30",
+        "name": "Three birds, one stone",
+        "kind": "trophy",
+        "chapterId": "missions-5-8",
+        "where": "Destroy all 3 bomb dumps at the same time (Mission 7)"
+      },
+      {
+        "id": "achievement-31",
+        "name": "Long way down",
+        "kind": "trophy",
+        "chapterId": "missions-5-8",
+        "where": "Throw an enemy off one of the bridges (Mission 8)"
+      },
+      {
+        "id": "achievement-32",
+        "name": "Advantage: Sniper",
+        "kind": "trophy",
+        "chapterId": "sniping-and-combat",
+        "where": "Get 30 kills from sniper nests"
+      },
+      {
+        "id": "achievement-33",
+        "name": "Definitely no \"90-day wonder\"",
+        "kind": "trophy",
+        "chapterId": "sniping-and-combat",
+        "where": "Attain a rank of Sergeant (level 11)"
+      },
+      {
+        "id": "achievement-34",
+        "name": "Officer material",
+        "kind": "trophy",
+        "chapterId": "sniping-and-combat",
+        "where": "Attain a rank of Second Lieutenant (level 31)"
+      },
+      {
+        "id": "achievement-35",
+        "name": "Through the looking glass",
+        "kind": "trophy",
+        "chapterId": "sniping-and-combat",
+        "where": "Kill 10 snipers before they see/shoot you"
+      },
+      {
+        "id": "achievement-36",
+        "name": "Hidden and dangerous",
+        "kind": "trophy",
+        "chapterId": "sniping-and-combat",
+        "where": "Complete a campaign mission without being seen (excluding Tobruk)"
+      },
+      {
+        "id": "achievement-37",
+        "name": "Competitive streak",
+        "kind": "trophy",
+        "chapterId": "co-op-and-multiplayer",
+        "where": "Play 10 competitive multiplayer matches"
+      },
+      {
+        "id": "achievement-38",
+        "name": "An ode to Rube Goldberg",
+        "kind": "trophy",
+        "chapterId": "sniping-and-combat",
+        "where": "Get 20 chain reaction explosive kills"
+      },
+      {
+        "id": "achievement-39",
+        "name": "Tagged",
+        "kind": "trophy",
+        "chapterId": "sniping-and-combat",
+        "where": "Tag 100 enemies or vehicles"
+      },
+      {
+        "id": "achievement-40",
+        "name": "This is my rifle…",
+        "kind": "trophy",
+        "chapterId": "sniping-and-combat",
+        "where": "Customize 1 rifle"
+      },
+      {
+        "id": "achievement-41",
+        "name": "Prepared for any eventuality",
+        "kind": "trophy",
+        "chapterId": "sniping-and-combat",
+        "where": "Create and save 4 loadouts"
+      },
+      {
+        "id": "achievement-42",
+        "name": "A few of my favourite things",
+        "kind": "trophy",
+        "chapterId": "sniping-and-combat",
+        "where": "Get a kill with each offensive item"
+      },
+      {
+        "id": "achievement-43",
+        "name": "Tactical distractor",
+        "kind": "trophy",
+        "chapterId": "sniping-and-combat",
+        "where": "Distract 20 enemies with flint or rocks"
+      },
+      {
+        "id": "achievement-44",
+        "name": "Wait for it…",
+        "kind": "trophy",
+        "chapterId": "sniping-and-combat",
+        "where": "Kill 10 enemies with flint-triggered detonations"
+      },
+      {
+        "id": "achievement-45",
+        "name": "Double the distance",
+        "kind": "trophy",
+        "chapterId": "sniping-and-combat",
+        "where": "Snipe enemies over a cumulative distance of a double marathon"
+      },
+      {
+        "id": "achievement-46",
+        "name": "Conserving oxygen",
+        "kind": "trophy",
+        "chapterId": "sniping-and-combat",
+        "where": "Hold breath for one hour"
+      },
+      {
+        "id": "achievement-47",
+        "name": "The Everyman",
+        "kind": "trophy",
+        "chapterId": "co-op-and-multiplayer",
+        "where": "Complete all the challenge missions"
+      },
+      {
+        "id": "achievement-48",
+        "name": "Highly decorated",
+        "kind": "trophy",
+        "chapterId": "co-op-and-multiplayer",
+        "where": "Earn 1 of every ribbon in competitive multiplayer"
+      },
+      {
+        "id": "achievement-49",
+        "name": "Indestructible",
+        "kind": "trophy",
+        "chapterId": "sniping-and-combat",
+        "where": "Complete a mission after losing over 500 units of health"
+      },
+      {
+        "id": "achievement-50",
+        "name": "Charlie's Challenge",
+        "kind": "trophy",
+        "chapterId": "sniping-and-combat",
+        "where": "Get a testicle-shot from over 100m away"
+      },
+      {
+        "id": "achievement-51",
+        "name": "Elite fan",
+        "kind": "trophy",
+        "chapterId": "sniping-and-combat",
+        "where": "Own Sniper Elite, Sniper Elite V2 and Sniper Elite 3"
+      },
+      {
+        "id": "achievement-52",
+        "name": "Threat assessment",
+        "kind": "trophy",
+        "chapterId": "target-and-range",
+        "where": "Observe the target and correctly choose to leave or kill"
+      },
+      {
+        "id": "achievement-53",
+        "name": "Sweating bullets",
+        "kind": "trophy",
+        "chapterId": "target-and-range",
+        "where": "Shoot and kill the target"
+      },
+      {
+        "id": "achievement-54",
+        "name": "In the middle",
+        "kind": "trophy",
+        "chapterId": "target-and-range",
+        "where": "Kill the target with a chain reaction"
+      },
+      {
+        "id": "achievement-55",
+        "name": "Convenience is key",
+        "kind": "trophy",
+        "chapterId": "target-and-range",
+        "where": "Kill the target by shooting nearby explosive barrels"
+      },
+      {
+        "id": "achievement-56",
+        "name": "Saved by the bell",
+        "kind": "trophy",
+        "chapterId": "target-and-range",
+        "where": "Crush the target with a bell"
+      },
+      {
+        "id": "achievement-57",
+        "name": "No escape",
+        "kind": "trophy",
+        "chapterId": "target-and-range",
+        "where": "Kill the target in the vehicle by shooting its weakspot"
+      },
+      {
+        "id": "achievement-58",
+        "name": "Grenadier",
+        "kind": "trophy",
+        "chapterId": "target-and-range",
+        "where": "Kill the target with a grenade"
+      },
+      {
+        "id": "achievement-59",
+        "name": "Fast-moving target",
+        "kind": "trophy",
+        "chapterId": "target-and-range",
+        "where": "Shoot the target in his car"
+      },
+      {
+        "id": "achievement-60",
+        "name": "… And stay dead!",
+        "kind": "trophy",
+        "chapterId": "target-and-range",
+        "where": "Kill the target in 7 different ways"
+      },
+      {
+        "id": "achievement-61",
+        "name": "Herr Charles",
+        "kind": "trophy",
+        "chapterId": "target-and-range",
+        "where": "Kill the officer at the meeting with a testicle shot"
+      },
+      {
+        "id": "achievement-62",
+        "name": "Surprise, surprise",
+        "kind": "trophy",
+        "chapterId": "added-missions",
+        "where": "Complete 'In Shadows'"
+      },
+      {
+        "id": "achievement-63",
+        "name": "Living in the shadows",
+        "kind": "trophy",
+        "chapterId": "added-missions",
+        "where": "Get to the command tent unseen and without killing"
+      },
+      {
+        "id": "achievement-64",
+        "name": "Nothing to lose",
+        "kind": "trophy",
+        "chapterId": "added-missions",
+        "where": "Complete the mission without using any healing items"
+      },
+      {
+        "id": "achievement-65",
+        "name": "Meltdown",
+        "kind": "trophy",
+        "chapterId": "added-missions",
+        "where": "Complete 'Belly of the beast'."
+      },
+      {
+        "id": "achievement-66",
+        "name": "Shoot to thrill",
+        "kind": "trophy",
+        "chapterId": "added-missions",
+        "where": "Hit all the targets on the shooting range."
+      },
+      {
+        "id": "achievement-67",
+        "name": "T.N.T.",
+        "kind": "trophy",
+        "chapterId": "added-missions",
+        "where": "Destroy all the Teufelsfeuer shipments in the truck depot."
+      },
+      {
+        "id": "achievement-68",
+        "name": "Dry bone valley",
+        "kind": "trophy",
+        "chapterId": "added-missions",
+        "where": "Complete 'Confrontation'."
+      },
+      {
+        "id": "achievement-69",
+        "name": "Feast your eyes",
+        "kind": "trophy",
+        "chapterId": "added-missions",
+        "where": "Spot and destroy 4 enemy traps without triggering them."
+      },
+      {
+        "id": "achievement-70",
+        "name": "Blood and thunder",
+        "kind": "trophy",
+        "chapterId": "added-missions",
+        "where": "Kill the Teufelsfeuer soldiers in the coliseum."
+      },
+      {
+        "id": "achievement-71",
+        "name": "The Hunter",
+        "kind": "trophy",
+        "chapterId": "added-missions",
+        "where": "Eliminate a sniper with a stealth takedown."
+      },
+      {
+        "id": "achievement-72",
+        "name": "Coast to Coast",
+        "kind": "trophy",
+        "chapterId": "target-and-range",
+        "where": "Snipe the soldier in the tower far, far away."
+      },
+      {
+        "id": "achievement-73",
+        "name": "You may fire when ready...",
+        "kind": "trophy",
+        "chapterId": "target-and-range",
+        "where": "Blow up the soldier in the distant tower using heavy artillery."
+      },
+      {
+        "id": "achievement-74",
+        "name": "Bring it Down",
+        "kind": "trophy",
+        "chapterId": "target-and-range",
+        "where": "Take out two of the AA gun crews with special explosive events."
+      },
+      {
+        "id": "achievement-75",
+        "name": "1200 Rounds of Awesome!",
+        "kind": "trophy",
+        "chapterId": "target-and-range",
+        "where": "Find and set up the MG42."
+      },
+      {
+        "id": "achievement-76",
+        "name": "Explosive Hunter",
+        "kind": "trophy",
+        "chapterId": "target-and-range",
+        "where": "Find and shoot the 10 hidden explosives (Shooting Range)."
+      },
+      {
+        "id": "achievement-77",
+        "name": "Specialist",
+        "kind": "trophy",
+        "chapterId": "target-and-range",
+        "where": "Earn Gold on all ranges (Shooting Range)."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/sniper-elite-3",
+    "Achievement data from Steam (Steam Web API, app 238090)",
+    "StrategyWiki: no usable walkthrough, nothing used — https://strategywiki.org/wiki/Sniper_Elite_III",
+    "Fandom (sniperelite.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://sniperelite.fandom.com/wiki/Sniper_Elite_III"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). RAWG's first result is the expected entry (id 3651). Steam app 238090 (\"Sniper Elite 3\") was used. StrategyWiki redirects \"Sniper Elite 3\" to \"Sniper Elite III\", a stub (completion stage 0, marked as a perfect stub): Gameplay, Walkthrough and Table of Contents are linked but not written. sniperelite.fandom.com redirects \"Sniper Elite 3\" to \"Sniper Elite III\", with about 107 linked articles (including place names such as Gaberoun, Halfaya Pass, Fort Rifugio, Siwa Oasis and Kasserine Pass, and \"Hunt the Grey Wolf\", \"In Shadows\", \"Belly of the Beast\" and \"Confrontation\"); names only were looked at, nothing copied, and the mission order is not in the Fandom data, so missions are grouped by number. None of the 77 Steam achievements is hidden. The added content is split by API name: DLC02 to DLC04 name their missions (\"In Shadows\", \"Belly of the beast\", \"Confrontation\"); DLC01 (a target mission, 10 achievements), OW03 (a tower and AA guns, 4) and DLC05 (Shooting Range, 2) do not name their mission, so they share a chapter. \"Elite fan\" (owning the earlier games) sits in the combat chapter by default."
+}

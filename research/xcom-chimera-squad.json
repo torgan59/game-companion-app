@@ -1,0 +1,423 @@
+{
+  "id": "xcom-chimera-squad",
+  "title": "XCOM: Chimera Squad",
+  "year": 2020,
+  "platforms": [
+    "PC"
+  ],
+  "rawgId": 428555,
+  "rawgSlug": "xcom-chimera-squad",
+  "released": "2020-04-23",
+  "developers": [
+    "Firaxis"
+  ],
+  "playtime": 4,
+  "genres": [
+    "Strategy"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Sci-fi",
+    "Steam Workshop",
+    "Turn-Based",
+    "Futuristic",
+    "Aliens",
+    "Turn-Based Strategy",
+    "Turn-Based Tactics"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/172/172dd929a1f2fcca13c3da3d83605f06.jpeg",
+  "steamAppId": 882100,
+  "achievements": {
+    "total": 40,
+    "hidden": 0,
+    "examples": [
+      {
+        "name": "City on Fire",
+        "percent": 89.7
+      },
+      {
+        "name": "All Hands On Deck",
+        "percent": 44.2
+      },
+      {
+        "name": "Superior Firepower",
+        "percent": 44.0
+      },
+      {
+        "name": "Daisy Chain",
+        "percent": 2.5
+      },
+      {
+        "name": "Impossible Dream",
+        "percent": 2.3
+      },
+      {
+        "name": "Need a Lift",
+        "percent": 2.3
+      },
+      {
+        "name": "Up Close and Personal",
+        "percent": 1.9
+      },
+      {
+        "name": "Every Timeline",
+        "percent": 1.2
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": false,
+      "pages": 0,
+      "reason": "No page for XCOM: Chimera Squad (MediaWiki API returned missing; see notes for other titles tried)"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 19,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://xcom.fandom.com/wiki/XCOM:_Chimera_Squad"
+    }
+  },
+  "game": {
+    "id": "xcom-chimera-squad",
+    "title": "XCOM: Chimera Squad",
+    "platforms": [
+      "PC"
+    ],
+    "blurb": "Turn-based squad tactics game set in City 31, from Firaxis (published by 2K Games), released 2020-04-23. RAWG average playtime: 4 hours. Genre: Strategy. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#2E9C94",
+    "chapters": [
+      {
+        "id": "campaign",
+        "title": "The Campaign",
+        "summary": "The tutorial and winning the campaign.",
+        "steps": []
+      },
+      {
+        "id": "investigations",
+        "title": "The Three Investigations",
+        "summary": "The Gray Phoenix, Sacred Coil and Progeny investigations, and every version of each faction's Takedown mission.",
+        "steps": []
+      },
+      {
+        "id": "impossible",
+        "title": "Impossible Difficulty",
+        "summary": "Winning the campaign on Impossible.",
+        "steps": []
+      },
+      {
+        "id": "agents",
+        "title": "Agents and Androids",
+        "summary": "Each agent's signature move (Godmother, Terminal, Verge, Claymore, Blueblood, Patchwork, Shelter, Zephyr, Torque and Axiom), class training, ranks, a full squad and Androids.",
+        "steps": []
+      },
+      {
+        "id": "city-and-hq",
+        "title": "City 31 and Headquarters",
+        "summary": "Field Teams in all nine districts, Assembly Projects, the Scavenger Market, Spec Ops, Epic Weapons and Field Abilities.",
+        "steps": []
+      },
+      {
+        "id": "tactics",
+        "title": "Breaches and Tactics",
+        "summary": "Breach points, clearing rooms on the Breach turn, capturing enemies, melee-only and no-kill missions, and Kinetic Armor.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Heroes of City 31",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Win the campaign."
+      },
+      {
+        "id": "achievement-2",
+        "name": "Impossible Dream",
+        "kind": "trophy",
+        "chapterId": "impossible",
+        "where": "Win the campaign on Impossible difficulty."
+      },
+      {
+        "id": "achievement-3",
+        "name": "Phoenix Down",
+        "kind": "trophy",
+        "chapterId": "investigations",
+        "where": "Complete the Gray Phoenix Investigation."
+      },
+      {
+        "id": "achievement-4",
+        "name": "Sacred Foiled",
+        "kind": "trophy",
+        "chapterId": "investigations",
+        "where": "Complete the Sacred Coil Investigation."
+      },
+      {
+        "id": "achievement-5",
+        "name": "Child’s Play",
+        "kind": "trophy",
+        "chapterId": "investigations",
+        "where": "Complete the Progeny Investigation."
+      },
+      {
+        "id": "achievement-6",
+        "name": "Reinforced Steel",
+        "kind": "trophy",
+        "chapterId": "agents",
+        "where": "Replace an Agent mid-mission with an Android."
+      },
+      {
+        "id": "achievement-7",
+        "name": "A New Look",
+        "kind": "trophy",
+        "chapterId": "agents",
+        "where": "Launch a mission with no human agents in the squad."
+      },
+      {
+        "id": "achievement-8",
+        "name": "City on Fire",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Complete the tutorial."
+      },
+      {
+        "id": "achievement-9",
+        "name": "…and Clear",
+        "kind": "trophy",
+        "chapterId": "tactics",
+        "where": "Clear an entire encounter during the Breach turn."
+      },
+      {
+        "id": "achievement-10",
+        "name": "Use the Large Cuffs",
+        "kind": "trophy",
+        "chapterId": "tactics",
+        "where": "Capture a Praetorian."
+      },
+      {
+        "id": "achievement-11",
+        "name": "Caged Sword",
+        "kind": "trophy",
+        "chapterId": "tactics",
+        "where": "Capture a Ronin."
+      },
+      {
+        "id": "achievement-12",
+        "name": "Bottled Lightning",
+        "kind": "trophy",
+        "chapterId": "tactics",
+        "where": "Capture a Sorcerer."
+      },
+      {
+        "id": "achievement-13",
+        "name": "Chimera Unleashed",
+        "kind": "trophy",
+        "chapterId": "agents",
+        "where": "Use every Agent in at least one mission."
+      },
+      {
+        "id": "achievement-14",
+        "name": "Field Commander",
+        "kind": "trophy",
+        "chapterId": "city-and-hq",
+        "where": "Unlock all Field Abilities."
+      },
+      {
+        "id": "achievement-15",
+        "name": "Superior Firepower",
+        "kind": "trophy",
+        "chapterId": "city-and-hq",
+        "where": "Equip an Epic Weapon."
+      },
+      {
+        "id": "achievement-16",
+        "name": "Hammer And Tongs",
+        "kind": "trophy",
+        "chapterId": "city-and-hq",
+        "where": "Complete 20 Assembly Projects in a single campaign."
+      },
+      {
+        "id": "achievement-17",
+        "name": "Machine Learning",
+        "kind": "trophy",
+        "chapterId": "agents",
+        "where": "Fully upgrade an Android."
+      },
+      {
+        "id": "achievement-18",
+        "name": "Friendly Neighborhood XCOM",
+        "kind": "trophy",
+        "chapterId": "city-and-hq",
+        "where": "Have Rank 3 Field Teams in all nine districts."
+      },
+      {
+        "id": "achievement-19",
+        "name": "All Hands On Deck",
+        "kind": "trophy",
+        "chapterId": "agents",
+        "where": "Have 8 Agents in the squad in a single campaign."
+      },
+      {
+        "id": "achievement-20",
+        "name": "Thank You For Your Business",
+        "kind": "trophy",
+        "chapterId": "city-and-hq",
+        "where": "Buy 20 unique Scavenger Market items in a single campaign."
+      },
+      {
+        "id": "achievement-21",
+        "name": "Overqualified",
+        "kind": "trophy",
+        "chapterId": "agents",
+        "where": "Reach max rank with all Agents in a single campaign."
+      },
+      {
+        "id": "achievement-22",
+        "name": "Book Smart",
+        "kind": "trophy",
+        "chapterId": "agents",
+        "where": "Complete all of one Agent’s class training."
+      },
+      {
+        "id": "achievement-23",
+        "name": "Every Timeline",
+        "kind": "trophy",
+        "chapterId": "investigations",
+        "where": "Complete all versions of each Faction’s Takedown mission over multiple campaigns."
+      },
+      {
+        "id": "achievement-24",
+        "name": "No Stone Left Unturned",
+        "kind": "trophy",
+        "chapterId": "city-and-hq",
+        "where": "Complete every Spec Op at least once in a single campaign."
+      },
+      {
+        "id": "achievement-25",
+        "name": "I’ll Let Myself In",
+        "kind": "trophy",
+        "chapterId": "tactics",
+        "where": "Use every type of Breach point."
+      },
+      {
+        "id": "achievement-26",
+        "name": "Extra Hours",
+        "kind": "trophy",
+        "chapterId": "agents",
+        "where": "As Godmother, activate Overtime and down an enemy on both turns."
+      },
+      {
+        "id": "achievement-27",
+        "name": "…Makes the Dream Work",
+        "kind": "trophy",
+        "chapterId": "agents",
+        "where": "Complete an objective with an action from Terminal’s Cooperation."
+      },
+      {
+        "id": "achievement-28",
+        "name": "Impregnable",
+        "kind": "trophy",
+        "chapterId": "tactics",
+        "where": "Have Kinetic Armor on all 4 squad members at once."
+      },
+      {
+        "id": "achievement-29",
+        "name": "Mind Nuke",
+        "kind": "trophy",
+        "chapterId": "agents",
+        "where": "Use Verge to do 10 or more damage with one Mindflay."
+      },
+      {
+        "id": "achievement-30",
+        "name": "Chain Reaction",
+        "kind": "trophy",
+        "chapterId": "agents",
+        "where": "Use Claymore to detonate a Shrapnel Bomb with another explosive."
+      },
+      {
+        "id": "achievement-31",
+        "name": "Ducks in a Row",
+        "kind": "trophy",
+        "chapterId": "agents",
+        "where": "Use Blueblood to hit 3 or more enemies with one Phase Lance shot."
+      },
+      {
+        "id": "achievement-32",
+        "name": "Kill Switch",
+        "kind": "trophy",
+        "chapterId": "agents",
+        "where": "Hack an enemy Android with Patchwork and trigger Self-Destruct."
+      },
+      {
+        "id": "achievement-33",
+        "name": "Daisy Chain",
+        "kind": "trophy",
+        "chapterId": "agents",
+        "where": "Relocate the same unit with Shelter and his ghost in one turn."
+      },
+      {
+        "id": "achievement-34",
+        "name": "Brawler",
+        "kind": "trophy",
+        "chapterId": "agents",
+        "where": "Use Zephyr to hit 3 or more enemies with one use of Crowd Control."
+      },
+      {
+        "id": "achievement-35",
+        "name": "Watch your Step",
+        "kind": "trophy",
+        "chapterId": "agents",
+        "where": "Use Torque to Tongue Pull an enemy into poison."
+      },
+      {
+        "id": "achievement-36",
+        "name": "Anger Management",
+        "kind": "trophy",
+        "chapterId": "agents",
+        "where": "Kill an enemy with Axiom while Berserk."
+      },
+      {
+        "id": "achievement-37",
+        "name": "Army of One",
+        "kind": "trophy",
+        "chapterId": "agents",
+        "where": "Complete a mission with only one Agent left standing."
+      },
+      {
+        "id": "achievement-38",
+        "name": "Pacifist Route",
+        "kind": "trophy",
+        "chapterId": "tactics",
+        "where": "Complete a mission without killing a single enemy."
+      },
+      {
+        "id": "achievement-39",
+        "name": "Up Close and Personal",
+        "kind": "trophy",
+        "chapterId": "tactics",
+        "where": "Complete an encounter by only dealing damage with melee attacks."
+      },
+      {
+        "id": "achievement-40",
+        "name": "Need a Lift",
+        "kind": "trophy",
+        "chapterId": "agents",
+        "where": "Move a VIP with Shelter’s Relocate and Torque’s Tongue Pull."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/xcom-chimera-squad",
+    "Achievement data from Steam (Steam Web API, app 882100)",
+    "StrategyWiki: no page for this game, nothing used",
+    "Fandom (xcom.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://xcom.fandom.com/wiki/XCOM:_Chimera_Squad"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). StrategyWiki has no page under \"XCOM: Chimera Squad\" or \"XCOM Chimera Squad\". xcom.fandom.com answers the API under \"XCOM: Chimera Squad\" with about 19 linked pages (City 31, the agent pages and a few others); names only were looked at, nothing copied. None of the 40 Steam achievements is hidden. The Steam schema gives no game name for app 882100; the store list confirms it as \"XCOM®: Chimera Squad\". Steam API names are just NEW_ACHIEVEMENT_0 to _39. \"Army of One\" (one Agent left standing) and \"Need a Lift\" (Shelter and Torque) land in the agents chapter because they name agents. Investigation order in the chapter follows the Steam list, not necessarily play order (the order may vary per campaign; not checked). RAWG's playtime of 4 hours looks low."
+}

@@ -1,0 +1,489 @@
+{
+  "id": "assassins-creed-rogue",
+  "title": "Assassin's Creed Rogue",
+  "year": 2014,
+  "platforms": [
+    "Xbox 360",
+    "PlayStation 3",
+    "Nintendo Switch",
+    "Xbox One",
+    "PlayStation 4",
+    "PC"
+  ],
+  "rawgId": 17545,
+  "rawgSlug": "assassins-creed-rogue-2",
+  "released": "2014-11-11",
+  "developers": [
+    "Ubisoft",
+    "Ubisoft Kiev",
+    "Ubisoft Sofia"
+  ],
+  "playtime": 12,
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Atmospheric",
+    "Story Rich",
+    "Open World",
+    "Third Person",
+    "Partial Controller Support",
+    "Sandbox",
+    "Stealth",
+    "Action-Adventure",
+    "Cinematic",
+    "Historical",
+    "Parkour"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/3c4/3c4a44ed99c87c56e0cdcfaaaf5c3628.jpg",
+  "steamAppId": 311560,
+  "achievements": {
+    "total": 46,
+    "hidden": 0,
+    "examples": [
+      {
+        "name": "Did I do that?",
+        "percent": 24.5
+      },
+      {
+        "name": "Halcyon days",
+        "percent": 19.4
+      },
+      {
+        "name": "Defence First",
+        "percent": 17.3
+      },
+      {
+        "name": "Hunt the hunted",
+        "percent": 1.8
+      },
+      {
+        "name": "I ENDURE",
+        "percent": 1.8
+      },
+      {
+        "name": "Denied",
+        "percent": 1.7
+      },
+      {
+        "name": "What's yours is mine",
+        "percent": 1.5
+      },
+      {
+        "name": "Supplier",
+        "percent": 1.5
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Assassin's_Creed:_Rogue",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 500,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://assassinscreed.fandom.com/wiki/Assassin's_Creed:_Rogue"
+    }
+  },
+  "game": {
+    "id": "assassins-creed-rogue",
+    "title": "Assassin's Creed Rogue",
+    "platforms": [
+      "Xbox 360",
+      "PlayStation 3",
+      "Nintendo Switch",
+      "Xbox One",
+      "PlayStation 4",
+      "PC"
+    ],
+    "blurb": "Open-world action-adventure from Ubisoft (RAWG also lists Ubisoft Sofia and Ubisoft Kiev), published by Ubisoft Entertainment, released 2014-11-11. RAWG average playtime: 12 hours. Genres: Action, Adventure. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#4F7A94",
+    "chapters": [
+      {
+        "id": "main-story",
+        "title": "The Main Story",
+        "summary": "Sequences 1 to 6, the final glitched memory, finishing the game and full synchronization in every main mission.",
+        "steps": []
+      },
+      {
+        "id": "present-day",
+        "title": "Present Day at Abstergo",
+        "summary": "The Present 1 to 4 sections and repairing every computer in Abstergo Entertainment.",
+        "steps": []
+      },
+      {
+        "id": "naval",
+        "title": "The Morrigan and the North Atlantic",
+        "summary": "Upgrading the Morrigan, the Naval Campaign, legendary battles, convoys, icebergs and ice sheets, narwhals and reverse-boarding.",
+        "steps": []
+      },
+      {
+        "id": "conquest",
+        "title": "Forts, Gangs and Side Activities",
+        "summary": "Forts, settlements, Gang HQs, supply camps, outposts, assassin interceptions, freeing prisoners of war, renovations and Abstergo Challenges.",
+        "steps": []
+      },
+      {
+        "id": "exploration",
+        "title": "Exploration and Collectibles",
+        "summary": "Animus fragments, every location, Native hills and Ice Caves, the Native and Templar armour, and finishing every activity in one location.",
+        "steps": []
+      },
+      {
+        "id": "cheats",
+        "title": "Cheat Challenges",
+        "summary": "Feats done with only the HUNTED, ENDURANCE or VETERANS cheat active.",
+        "steps": []
+      },
+      {
+        "id": "combat",
+        "title": "Combat",
+        "summary": "Stalkers, smoke bombs, air surprise attacks and the berserk and sleep grenades.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Halcyon days",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Complete sequence 1"
+      },
+      {
+        "id": "achievement-2",
+        "name": "The end of youth",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Complete sequence 2"
+      },
+      {
+        "id": "achievement-3",
+        "name": "Making new friends",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Complete sequence 3"
+      },
+      {
+        "id": "achievement-4",
+        "name": "Picking teams",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Complete sequence 4"
+      },
+      {
+        "id": "achievement-5",
+        "name": "One legend dies, and one is born",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Complete sequence 5"
+      },
+      {
+        "id": "achievement-6",
+        "name": "Brotherhood broken",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Complete sequence 6"
+      },
+      {
+        "id": "achievement-7",
+        "name": "No page unturned",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Complete the final glitched memory."
+      },
+      {
+        "id": "achievement-8",
+        "name": "Templar then; Templar now",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Complete the game"
+      },
+      {
+        "id": "achievement-9",
+        "name": "Did I do that?",
+        "kind": "trophy",
+        "chapterId": "present-day",
+        "where": "Complete Present 1"
+      },
+      {
+        "id": "achievement-10",
+        "name": "He's not dead, is he?",
+        "kind": "trophy",
+        "chapterId": "present-day",
+        "where": "Complete Present 2"
+      },
+      {
+        "id": "achievement-11",
+        "name": "A worthy cause",
+        "kind": "trophy",
+        "chapterId": "present-day",
+        "where": "Complete Present 3"
+      },
+      {
+        "id": "achievement-12",
+        "name": "Sending a message",
+        "kind": "trophy",
+        "chapterId": "present-day",
+        "where": "Complete Present 4"
+      },
+      {
+        "id": "achievement-13",
+        "name": "Achieve full synchronization",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Achieve 100% synchronization in all main missions"
+      },
+      {
+        "id": "achievement-14",
+        "name": "Capture all Gang HQs",
+        "kind": "trophy",
+        "chapterId": "conquest",
+        "where": "Capture All Gang HQs"
+      },
+      {
+        "id": "achievement-15",
+        "name": "Stalker killer",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Counter-Kill [30] Stalkers"
+      },
+      {
+        "id": "achievement-16",
+        "name": "Property Tycoon",
+        "kind": "trophy",
+        "chapterId": "conquest",
+        "where": "Complete all renovations"
+      },
+      {
+        "id": "achievement-17",
+        "name": "Dedicated Employee",
+        "kind": "trophy",
+        "chapterId": "conquest",
+        "where": "Complete [35] Abstergo Challenges"
+      },
+      {
+        "id": "achievement-18",
+        "name": "Phantom Queen",
+        "kind": "trophy",
+        "chapterId": "naval",
+        "where": "Fully Upgrade the Morrigan"
+      },
+      {
+        "id": "achievement-19",
+        "name": "Camper",
+        "kind": "trophy",
+        "chapterId": "conquest",
+        "where": "Loot [20] supply camps"
+      },
+      {
+        "id": "achievement-20",
+        "name": "What's yours is mine",
+        "kind": "trophy",
+        "chapterId": "naval",
+        "where": "Loot [20] ship convoys"
+      },
+      {
+        "id": "achievement-21",
+        "name": "Do not want",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Counter [20] smoke bombs successfully using a gas mask"
+      },
+      {
+        "id": "achievement-22",
+        "name": "Repairman",
+        "kind": "trophy",
+        "chapterId": "present-day",
+        "where": "Repair all computers in Abstergo Entertainment"
+      },
+      {
+        "id": "achievement-23",
+        "name": "Cartographer",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Visit every location in the game"
+      },
+      {
+        "id": "achievement-24",
+        "name": "Ancient Hero",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Get the Native Armor"
+      },
+      {
+        "id": "achievement-25",
+        "name": "Knight of Yore",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Get the Templar Armor"
+      },
+      {
+        "id": "achievement-26",
+        "name": "Globe Trotter",
+        "kind": "trophy",
+        "chapterId": "naval",
+        "where": "Complete 17 story missions in the Naval Campaign"
+      },
+      {
+        "id": "achievement-27",
+        "name": "Memory collector",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Collect all Animus fragments"
+      },
+      {
+        "id": "achievement-28",
+        "name": "Owned",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Complete every activity in a single location."
+      },
+      {
+        "id": "achievement-29",
+        "name": "For the Empire!",
+        "kind": "trophy",
+        "chapterId": "conquest",
+        "where": "Capture all Forts"
+      },
+      {
+        "id": "achievement-30",
+        "name": "I'll take that",
+        "kind": "trophy",
+        "chapterId": "conquest",
+        "where": "Capture all settlements"
+      },
+      {
+        "id": "achievement-31",
+        "name": "Master of the North Atlantic",
+        "kind": "trophy",
+        "chapterId": "naval",
+        "where": "All legendary Battles Completed"
+      },
+      {
+        "id": "achievement-32",
+        "name": "Smashing",
+        "kind": "trophy",
+        "chapterId": "naval",
+        "where": "Destroy 100 Ice Bergs"
+      },
+      {
+        "id": "achievement-33",
+        "name": "Ice Breaker",
+        "kind": "trophy",
+        "chapterId": "naval",
+        "where": "Break through 500 meters of Ice Sheets"
+      },
+      {
+        "id": "achievement-34",
+        "name": "Freedom Fighter",
+        "kind": "trophy",
+        "chapterId": "conquest",
+        "where": "Free 300 British PoW's"
+      },
+      {
+        "id": "achievement-35",
+        "name": "Unicorn Slayer",
+        "kind": "trophy",
+        "chapterId": "naval",
+        "where": "Harpoon a Narwhal"
+      },
+      {
+        "id": "achievement-36",
+        "name": "Defence First",
+        "kind": "trophy",
+        "chapterId": "naval",
+        "where": "Survive a Reverse-Boarding"
+      },
+      {
+        "id": "achievement-37",
+        "name": "Denied",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Counter [15] air surprise attacks"
+      },
+      {
+        "id": "achievement-38",
+        "name": "King of the Hill",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Complete all Native hills and Ice Caves"
+      },
+      {
+        "id": "achievement-39",
+        "name": "Ninja",
+        "kind": "trophy",
+        "chapterId": "conquest",
+        "where": "Complete an Outpost without getting detected"
+      },
+      {
+        "id": "achievement-40",
+        "name": "Instant Vikings",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Hit 5 enemies with the berserk grenade (at the same time)"
+      },
+      {
+        "id": "achievement-41",
+        "name": "Nap Time",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Put 5 enemies to sleep with the sleep grenade (at the same time)"
+      },
+      {
+        "id": "achievement-42",
+        "name": "This war of mine",
+        "kind": "trophy",
+        "chapterId": "conquest",
+        "where": "Complete all assassin interceptions"
+      },
+      {
+        "id": "achievement-43",
+        "name": "Hunt the hunted",
+        "kind": "trophy",
+        "chapterId": "cheats",
+        "where": "Sink 10 ships in North Atlantic without dying while only the HUNTED cheat is active."
+      },
+      {
+        "id": "achievement-44",
+        "name": "I ENDURE",
+        "kind": "trophy",
+        "chapterId": "cheats",
+        "where": "Sink 10 ships in North Atlantic without dying while only the ENDURANCE cheat is active."
+      },
+      {
+        "id": "achievement-45",
+        "name": "Supplier",
+        "kind": "trophy",
+        "chapterId": "cheats",
+        "where": "Take over 10 large supply camps while only the VETERANS cheat is active."
+      },
+      {
+        "id": "achievement-46",
+        "name": "Killing machine",
+        "kind": "trophy",
+        "chapterId": "cheats",
+        "where": "Kill 30 guards without dying while only the ENDURANCE cheat is active."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/assassins-creed-rogue-2",
+    "Achievement data from Steam (Steam Web API, app 311560)",
+    "StrategyWiki: no usable walkthrough, nothing used — https://strategywiki.org/wiki/Assassin's_Creed:_Rogue",
+    "Fandom (assassinscreed.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://assassinscreed.fandom.com/wiki/Assassin's_Creed:_Rogue"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). RAWG's first result is the expected entry \"assassins-creed-rogue-2\" (id 17545); RAWG keeps \"Assassin's Creed Rogue Remastered\" separately, and the Steam store list has only app 311560, \"Assassin's Creed® Rogue\", which was used. StrategyWiki redirects \"Assassin's Creed Rogue\" to \"Assassin's Creed: Rogue\", a stub (completion stage 0, in Category:Stubs): only the Table of Contents is written; Gameplay, Controls and Walkthrough are linked but not written. assassinscreed.fandom.com redirects the title to \"Assassin's Creed: Rogue\", with 500 linked articles (the query limit, so possibly more); names only were looked at, nothing copied. None of the 46 Steam achievements is hidden, and the sequences are named by number only. \"Dedicated Employee\" (35 Abstergo Challenges) was put with the side activities, not the present-day chapter, because the data does not say where those challenges are done. \"Denied\" (counter air surprise attacks) sits in combat as a guess."
+}

@@ -1,0 +1,521 @@
+{
+  "id": "resident-evil-revelations",
+  "title": "Resident Evil Revelations",
+  "year": 2012,
+  "platforms": [
+    "Xbox One",
+    "Xbox 360",
+    "Nintendo 3DS",
+    "Wii U",
+    "PlayStation 3",
+    "Nintendo Switch",
+    "PlayStation 4",
+    "PC"
+  ],
+  "rawgId": 4012,
+  "rawgSlug": "resident-evil-revelations-biohazard-revelations",
+  "released": "2012-02-07",
+  "developers": [
+    "Capcom",
+    "Capcom U.S.A",
+    "Tose"
+  ],
+  "playtime": 8,
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Multiplayer",
+    "Full controller support",
+    "Steam Cloud",
+    "Atmospheric",
+    "steam-trading-cards",
+    "Great Soundtrack",
+    "Co-op",
+    "cooperative",
+    "Third Person",
+    "Sci-fi"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/89a/89ac2742fcfeba3b95ac94457af766ef.jpg",
+  "steamAppId": 222480,
+  "achievements": {
+    "total": 50,
+    "hidden": 0,
+    "examples": [
+      {
+        "name": "Researcher",
+        "percent": 76.9
+      },
+      {
+        "name": "First Victim",
+        "percent": 62.4
+      },
+      {
+        "name": "B.O.W. Hunter",
+        "percent": 49.2
+      },
+      {
+        "name": "Seventh Circle Traveler",
+        "percent": 3.3
+      },
+      {
+        "name": "Seventh Circle Overseer",
+        "percent": 2.9
+      },
+      {
+        "name": "Top of My Game",
+        "percent": 2.9
+      },
+      {
+        "name": "One for Each Minnesota Lake",
+        "percent": 2.9
+      },
+      {
+        "name": "Bonus Demi-god",
+        "percent": 2.8
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Resident_Evil:_Revelations",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 140,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://residentevil.fandom.com/wiki/Resident_Evil:_Revelations"
+    }
+  },
+  "game": {
+    "id": "resident-evil-revelations",
+    "title": "Resident Evil Revelations",
+    "platforms": [
+      "Xbox One",
+      "Xbox 360",
+      "Nintendo 3DS",
+      "Wii U",
+      "PlayStation 3",
+      "Nintendo Switch",
+      "PlayStation 4",
+      "PC"
+    ],
+    "blurb": "Survival horror game set aboard the cruise ship Queen Zenobia, from Capcom (RAWG also lists Capcom U.S.A and Tose), published by Capcom, released 2012-02-07. RAWG average playtime: 8 hours. Genres: Action, Adventure. Chapters follow the campaign episodes and Raid Mode named in the Steam achievements.",
+    "accent": "#2E5E7E",
+    "chapters": [
+      {
+        "id": "episodes-1-6",
+        "title": "Episodes 1 to 6",
+        "summary": "Clearing Episodes 1 to 3, then 4 to 6.",
+        "steps": []
+      },
+      {
+        "id": "episodes-7-12",
+        "title": "Episodes 7 to 12",
+        "summary": "Clearing Episodes 7 to 9, then 10 to 12, the end of the campaign. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "difficulty",
+        "title": "Difficulty Runs",
+        "summary": "Clearing the campaign on Casual, Normal and Infernal, and a Normal-or-higher run without dying.",
+        "steps": []
+      },
+      {
+        "id": "scans-and-handprints",
+        "title": "Hand Prints and Enemy Scans",
+        "summary": "Scanning hidden hand prints (1, 15 and 30) and every enemy type.",
+        "steps": []
+      },
+      {
+        "id": "campaign-feats",
+        "title": "Campaign Combat and Feats",
+        "summary": "Enemy kill counts, knife parries, dodges, charged attacks, boss tricks and swimming in the Solarium.",
+        "steps": []
+      },
+      {
+        "id": "raid-stages",
+        "title": "Raid Mode Stages",
+        "summary": "Clearing every stage on Chasm, Trench and Abyss, with S ranks, and the bonus stage The Ghost Ship.",
+        "steps": []
+      },
+      {
+        "id": "raid-progress",
+        "title": "Raid Mode Levels, Weapons and Bonuses",
+        "summary": "Player levels 5 to 50, super rare weapons, store spending, damage, partner attacks and stage bonuses.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "We'll Find You, Jill",
+        "kind": "trophy",
+        "chapterId": "episodes-1-6",
+        "where": "【CAMPAIGN】Clear Episodes 1 - 3."
+      },
+      {
+        "id": "achievement-2",
+        "name": "Get Us Out of Here!",
+        "kind": "trophy",
+        "chapterId": "episodes-1-6",
+        "where": "【CAMPAIGN】Clear Episodes 4 - 6."
+      },
+      {
+        "id": "achievement-3",
+        "name": "The Queen Zenobia",
+        "kind": "trophy",
+        "chapterId": "episodes-7-12",
+        "where": "【CAMPAIGN】Clear Episodes 7 - 9."
+      },
+      {
+        "id": "achievement-4",
+        "name": "The Storm is Gone",
+        "kind": "trophy",
+        "chapterId": "episodes-7-12",
+        "where": "【CAMPAIGN】Clear Episodes 10 - 12."
+      },
+      {
+        "id": "achievement-5",
+        "name": "The Dark Forest",
+        "kind": "trophy",
+        "chapterId": "difficulty",
+        "where": "【CAMPAIGN】Clear Casual difficulty or higher."
+      },
+      {
+        "id": "achievement-6",
+        "name": "The Shores of Purgatory",
+        "kind": "trophy",
+        "chapterId": "difficulty",
+        "where": "【CAMPAIGN】Clear Normal difficulty or higher."
+      },
+      {
+        "id": "achievement-7",
+        "name": "The Vestibule of Hell",
+        "kind": "trophy",
+        "chapterId": "difficulty",
+        "where": "【CAMPAIGN】Clear Infernal difficulty."
+      },
+      {
+        "id": "achievement-8",
+        "name": "Surviving Deep Darkness",
+        "kind": "trophy",
+        "chapterId": "difficulty",
+        "where": "【CAMPAIGN】Clear the game in Normal difficulty or above without dying once."
+      },
+      {
+        "id": "achievement-9",
+        "name": "First Victim",
+        "kind": "trophy",
+        "chapterId": "scans-and-handprints",
+        "where": "【CAMPAIGN】Scan 1 hidden hand print."
+      },
+      {
+        "id": "achievement-10",
+        "name": "Traces of Tragedy",
+        "kind": "trophy",
+        "chapterId": "scans-and-handprints",
+        "where": "【CAMPAIGN】Scan 15 hidden hand prints."
+      },
+      {
+        "id": "achievement-11",
+        "name": "Last Victim",
+        "kind": "trophy",
+        "chapterId": "scans-and-handprints",
+        "where": "【CAMPAIGN】Scan 30 hidden hand prints."
+      },
+      {
+        "id": "achievement-12",
+        "name": "Researcher",
+        "kind": "trophy",
+        "chapterId": "scans-and-handprints",
+        "where": "【CAMPAIGN】Scan an enemy for the first time."
+      },
+      {
+        "id": "achievement-13",
+        "name": "Research Complete",
+        "kind": "trophy",
+        "chapterId": "scans-and-handprints",
+        "where": "【CAMPAIGN】Scan all enemy types."
+      },
+      {
+        "id": "achievement-14",
+        "name": "B.O.W. Hunter",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "【CAMPAIGN】Defeat 150 enemies."
+      },
+      {
+        "id": "achievement-15",
+        "name": "Living on the Edge",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "【CAMPAIGN】Stop an enemy bullet with your knife."
+      },
+      {
+        "id": "achievement-16",
+        "name": "By the Crosshairs",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "【CAMPAIGN】Defeat Rachael before she gets to the cafeteria."
+      },
+      {
+        "id": "achievement-17",
+        "name": "Bamboozle the Oozes",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "【CAMPAIGN】Defeat 10 Oozes with headshots."
+      },
+      {
+        "id": "achievement-18",
+        "name": "Die Another Day",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "【CAMPAIGN】Evade a Scagdead's instant-death attack."
+      },
+      {
+        "id": "achievement-19",
+        "name": "Triple Play",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "【CAMPAIGN】Defeat 3 enemies with one shock grenade."
+      },
+      {
+        "id": "achievement-20",
+        "name": "A Packaged Deal",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "【CAMPAIGN】Defeat a Scarmiglione as a whole without killing both parts of its body separately."
+      },
+      {
+        "id": "achievement-21",
+        "name": "Rockets are for Losers",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "【CAMPAIGN】Defeat a Malacoda without using a rocket launcher."
+      },
+      {
+        "id": "achievement-22",
+        "name": "The Pool Is Open",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "【CAMPAIGN】Swim in the Solarium."
+      },
+      {
+        "id": "achievement-23",
+        "name": "Dodge Master",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "【CAMPAIGN】Dodge 20 times."
+      },
+      {
+        "id": "achievement-24",
+        "name": "Angry Fist",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "【CAMPAIGN】Land 10 fully charged physical attacks."
+      },
+      {
+        "id": "achievement-25",
+        "name": "First Circle Traveler",
+        "kind": "trophy",
+        "chapterId": "raid-stages",
+        "where": "【RAID MODE】Clear all stages in Raid mode on Chasm."
+      },
+      {
+        "id": "achievement-26",
+        "name": "Midland Traveler",
+        "kind": "trophy",
+        "chapterId": "raid-stages",
+        "where": "【RAID MODE】Clear all stages in Raid mode on Trench."
+      },
+      {
+        "id": "achievement-27",
+        "name": "Seventh Circle Traveler",
+        "kind": "trophy",
+        "chapterId": "raid-stages",
+        "where": "【RAID MODE】Clear all stages in Raid mode on Abyss."
+      },
+      {
+        "id": "achievement-28",
+        "name": "First Circle Overseer",
+        "kind": "trophy",
+        "chapterId": "raid-stages",
+        "where": "【RAID MODE】Clear all stages in Raid mode on Chasm with an S rank."
+      },
+      {
+        "id": "achievement-29",
+        "name": "Midland Overseer",
+        "kind": "trophy",
+        "chapterId": "raid-stages",
+        "where": "【RAID MODE】Clear all stages in Raid mode on Trench with an S rank."
+      },
+      {
+        "id": "achievement-30",
+        "name": "Seventh Circle Overseer",
+        "kind": "trophy",
+        "chapterId": "raid-stages",
+        "where": "【RAID MODE】Clear all stages in Raid mode on Abyss with an S rank."
+      },
+      {
+        "id": "achievement-31",
+        "name": "Beyond the Veil",
+        "kind": "trophy",
+        "chapterId": "raid-stages",
+        "where": "【RAID MODE】Clear the bonus stage, The Ghost Ship."
+      },
+      {
+        "id": "achievement-32",
+        "name": "On Your Way",
+        "kind": "trophy",
+        "chapterId": "raid-progress",
+        "where": "【RAID MODE】Reach player level 5."
+      },
+      {
+        "id": "achievement-33",
+        "name": "Moving on Up",
+        "kind": "trophy",
+        "chapterId": "raid-progress",
+        "where": "【RAID MODE】Reach player level 10."
+      },
+      {
+        "id": "achievement-34",
+        "name": "Reaching Higher",
+        "kind": "trophy",
+        "chapterId": "raid-progress",
+        "where": "【RAID MODE】Reach player level 20."
+      },
+      {
+        "id": "achievement-35",
+        "name": "Raising the Bar",
+        "kind": "trophy",
+        "chapterId": "raid-progress",
+        "where": "【RAID MODE】Reach player level 30."
+      },
+      {
+        "id": "achievement-36",
+        "name": "Meteoric Rise",
+        "kind": "trophy",
+        "chapterId": "raid-progress",
+        "where": "【RAID MODE】Reach player level 40."
+      },
+      {
+        "id": "achievement-37",
+        "name": "Top of My Game",
+        "kind": "trophy",
+        "chapterId": "raid-progress",
+        "where": "【RAID MODE】Reach player level 50."
+      },
+      {
+        "id": "achievement-38",
+        "name": "One for Each Minnesota Lake",
+        "kind": "trophy",
+        "chapterId": "raid-progress",
+        "where": "【RAID MODE】Defeat 10,000 enemies."
+      },
+      {
+        "id": "achievement-39",
+        "name": "That'll Leave a Mark",
+        "kind": "trophy",
+        "chapterId": "raid-progress",
+        "where": "【RAID MODE】Inflict 100,000 points of damage to an enemy in one hit."
+      },
+      {
+        "id": "achievement-40",
+        "name": "Dynamic Duo",
+        "kind": "trophy",
+        "chapterId": "raid-progress",
+        "where": "【RAID MODE】Land a fully charged physical attack on an enemy at the same time as your partner."
+      },
+      {
+        "id": "achievement-41",
+        "name": "Legendary Find",
+        "kind": "trophy",
+        "chapterId": "raid-progress",
+        "where": "【RAID MODE】Obtain a super rare weapon."
+      },
+      {
+        "id": "achievement-42",
+        "name": "Legends Are Made, Not Born",
+        "kind": "trophy",
+        "chapterId": "raid-progress",
+        "where": "【RAID MODE】Obtain all super rare weapons."
+      },
+      {
+        "id": "achievement-43",
+        "name": "Shop 'til Ya Drop",
+        "kind": "trophy",
+        "chapterId": "raid-progress",
+        "where": "【RAID MODE】Spend 1,000,000 BP in the store."
+      },
+      {
+        "id": "achievement-44",
+        "name": "The Unbroken Thread",
+        "kind": "trophy",
+        "chapterId": "raid-progress",
+        "where": "【RAID MODE】Acquire No Damage Bonus for the first time."
+      },
+      {
+        "id": "achievement-45",
+        "name": "Gutsy",
+        "kind": "trophy",
+        "chapterId": "raid-progress",
+        "where": "【RAID MODE】Clear a stage at 5 levels lower than the recommended level."
+      },
+      {
+        "id": "achievement-46",
+        "name": "Three is the Magic Number",
+        "kind": "trophy",
+        "chapterId": "raid-progress",
+        "where": "【RAID MODE】Acquire Trinity Bonus for the first time."
+      },
+      {
+        "id": "achievement-47",
+        "name": "Bonus Enthusiast",
+        "kind": "trophy",
+        "chapterId": "raid-progress",
+        "where": "【RAID MODE】Acquire 10 bonuses."
+      },
+      {
+        "id": "achievement-48",
+        "name": "Bonus Ace",
+        "kind": "trophy",
+        "chapterId": "raid-progress",
+        "where": "【RAID MODE】Acquire 50 bonuses."
+      },
+      {
+        "id": "achievement-49",
+        "name": "Bonus Legend",
+        "kind": "trophy",
+        "chapterId": "raid-progress",
+        "where": "【RAID MODE】Acquire 100 bonuses."
+      },
+      {
+        "id": "achievement-50",
+        "name": "Bonus Demi-god",
+        "kind": "trophy",
+        "chapterId": "raid-progress",
+        "where": "【RAID MODE】Acquire 150 bonuses."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/resident-evil-revelations-biohazard-revelations",
+    "Achievement data from Steam (Steam Web API, app 222480)",
+    "StrategyWiki: no usable walkthrough, nothing used — https://strategywiki.org/wiki/Resident_Evil:_Revelations",
+    "Fandom (residentevil.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://residentevil.fandom.com/wiki/Resident_Evil:_Revelations"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). RAWG's first result is the expected entry \"resident-evil-revelations-biohazard-revelations\" (id 4012); it lists platforms from Nintendo 3DS to PlayStation 4 and Switch under one entry, and RAWG's own store link points to Steam app 222480 (\"Resident Evil Revelations\"), the only matching app in the store list, so that app was used (its schema is named \"ValveTestApp222480\", a placeholder name). StrategyWiki has the guide under \"Resident Evil: Revelations\" at completion stage 1, but only Episode 1 (about 2,800 characters), Enemies (about 5,200), Controls (about 800) and Table of Contents are written; Episodes 2 to 12, Walkthrough, Handprints, Missions, Raid Mode, Weapons and upgrades, Characters, Gameplay and Achievements and trophies are linked but not written, so it was not used. Its contents list Episodes 1 to 12, matching the episode ranges in the achievements. residentevil.fandom.com answers the API under \"Resident Evil: Revelations\" with about 140 linked articles (mostly cast and staff names); names only were looked at, nothing copied. None of the 50 Steam achievements is hidden. Every description starts with a 【CAMPAIGN】 or 【RAID MODE】 tag, which the rules use. Pairing the episode ranges into two chapters is our own choice. \"By the Crosshairs\" (Rachael before the cafeteria), \"A Packaged Deal\" (Scarmiglione) and \"Rockets are for Losers\" (Malacoda) are boss or encounter feats that do not name an episode, so they sit in the campaign feats chapter."
+}

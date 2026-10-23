@@ -1,0 +1,1384 @@
+{
+  "id": "age-of-empires-iv",
+  "title": "Age of Empires IV",
+  "year": 2021,
+  "platforms": [
+    "PC"
+  ],
+  "rawgId": 58618,
+  "rawgSlug": "age-of-empires-iv",
+  "released": "2021-10-28",
+  "developers": [
+    "Relic Entertainment",
+    "World's Edge"
+  ],
+  "playtime": 4,
+  "genres": [
+    "Strategy"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Multiplayer",
+    "Co-op",
+    "cooperative",
+    "PvP",
+    "War",
+    "3D",
+    "Historical",
+    "Isometric",
+    "Medieval",
+    "RTS",
+    "Base Building"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/23e/23e45acbf29bd241913ddcf5cf4053d5.jpg",
+  "steamAppId": 1466860,
+  "achievements": {
+    "total": 175,
+    "hidden": 0,
+    "examples": [
+      {
+        "name": "Empires Will Rise",
+        "percent": 94.4
+      },
+      {
+        "name": "Kingdoms Will Fall",
+        "percent": 93.9
+      },
+      {
+        "name": "Quick Study",
+        "percent": 65.2
+      },
+      {
+        "name": "Let’s Goooooooooo!",
+        "percent": 0.1
+      },
+      {
+        "name": "Master Negotiator",
+        "percent": 0.1
+      },
+      {
+        "name": "Conqueror of History",
+        "percent": 0.0
+      },
+      {
+        "name": "Daimyo Dance-Off",
+        "percent": 0.0
+      },
+      {
+        "name": "Master of the Jin Dynasty",
+        "percent": 0.0
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": false,
+      "pages": 0,
+      "reason": "No page for Age of Empires IV (MediaWiki API returned missing; see notes for other titles tried)"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 135,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://ageofempires.fandom.com/wiki/Age_of_Empires_IV"
+    }
+  },
+  "game": {
+    "id": "age-of-empires-iv",
+    "title": "Age of Empires IV",
+    "platforms": [
+      "PC"
+    ],
+    "blurb": "Historical real-time strategy game, from Relic Entertainment and World's Edge, released 2021-10-28. RAWG average playtime: 4 hours. Genre: Strategy. Chapters follow the modes the Steam achievements show.",
+    "accent": "#1F4E8C",
+    "chapters": [
+      {
+        "id": "campaigns",
+        "title": "The Four Original Campaigns",
+        "summary": "The Normans, The Hundred Years War, The Mongol Empire and The Rise of Moscow, with a feat for many missions.",
+        "steps": []
+      },
+      {
+        "id": "sultans-ascend",
+        "title": "The Sultans Ascend Campaign",
+        "summary": "The Sultans Ascend campaign and its mission feats, such as the Red Sea, Egypt, Mansurah and Cyprus.",
+        "steps": []
+      },
+      {
+        "id": "historical-battles",
+        "title": "Historical Battles",
+        "summary": "Agincourt, Safed, Montgisard, Towton, the Combat of the Thirty and Conqueror Mode.",
+        "steps": []
+      },
+      {
+        "id": "yue-fei",
+        "title": "The Yue Fei Campaign",
+        "summary": "The Yue Fei campaign and its mission feats.",
+        "steps": []
+      },
+      {
+        "id": "mastery-and-challenges",
+        "title": "Tutorials, Masteries and Challenges",
+        "summary": "The tutorial, Training and Civilization Masteries, Art of War challenges and the Crucible.",
+        "steps": []
+      },
+      {
+        "id": "skirmish-and-victories",
+        "title": "Skirmish, Victories and Customisation",
+        "summary": "Beating the AI, Landmark, Sacred and Wonder victories, replays, portraits, monuments and your coat of arms.",
+        "steps": []
+      },
+      {
+        "id": "civilizations",
+        "title": "Civilization Feats: English, French, Rus, Mongols and More",
+        "summary": "Feats for the English, French, Holy Roman Empire, Rus, Mongols, Chinese, Abbasid Dynasty and Delhi Sultanate, plus naval, conversion and other match feats.",
+        "steps": []
+      },
+      {
+        "id": "later-civilizations",
+        "title": "Civilization Feats: Ottomans, Malians, Byzantines, Japanese and More",
+        "summary": "Feats further down the Steam list, for the Ottomans, Malians, Byzantines, Japanese, Knights Templar, House of Lancaster, Tughlaq Dynasty, Macedonian Dynasty, Sengoku Daimyo, Golden Horde and others.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Empires Will Rise",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-victories",
+        "where": "Construct your first Landmark."
+      },
+      {
+        "id": "achievement-2",
+        "name": "Kingdoms Will Fall",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-victories",
+        "where": "Defeat 20 enemy units."
+      },
+      {
+        "id": "achievement-3",
+        "name": "A New Age Is Upon Us",
+        "kind": "trophy",
+        "chapterId": "mastery-and-challenges",
+        "where": "Complete the Introductory Tutorial."
+      },
+      {
+        "id": "achievement-4",
+        "name": "The Normans",
+        "kind": "trophy",
+        "chapterId": "campaigns",
+        "where": "Complete The Normans campaign."
+      },
+      {
+        "id": "achievement-5",
+        "name": "The Hundred Years War",
+        "kind": "trophy",
+        "chapterId": "campaigns",
+        "where": "Complete The Hundred Years War campaign."
+      },
+      {
+        "id": "achievement-6",
+        "name": "The Mongol Empire",
+        "kind": "trophy",
+        "chapterId": "campaigns",
+        "where": "Complete The Mongol Empire campaign."
+      },
+      {
+        "id": "achievement-7",
+        "name": "The Rise of Moscow",
+        "kind": "trophy",
+        "chapterId": "campaigns",
+        "where": "Complete The Rise of Moscow campaign."
+      },
+      {
+        "id": "achievement-8",
+        "name": "Age of Empires IV Campaign",
+        "kind": "trophy",
+        "chapterId": "campaigns",
+        "where": "Complete the Age of Empires IV campaigns"
+      },
+      {
+        "id": "achievement-9",
+        "name": "Counter-Raider",
+        "kind": "trophy",
+        "chapterId": "campaigns",
+        "where": "Loot the Danish war camp during the North to York mission."
+      },
+      {
+        "id": "achievement-10",
+        "name": "Chivalry",
+        "kind": "trophy",
+        "chapterId": "campaigns",
+        "where": "Enlist the aid of 45 Knights during the Battle of Tinchebray."
+      },
+      {
+        "id": "achievement-11",
+        "name": "Siegebreaker",
+        "kind": "trophy",
+        "chapterId": "campaigns",
+        "where": "Defeat the siege before the Keep takes damage during the First Battle of Lincoln."
+      },
+      {
+        "id": "achievement-12",
+        "name": "Quit Touching Me!",
+        "kind": "trophy",
+        "chapterId": "campaigns",
+        "where": "Stop any of the city's walls being destroyed during the Siege of Wallingford."
+      },
+      {
+        "id": "achievement-13",
+        "name": "Fill the Coffers",
+        "kind": "trophy",
+        "chapterId": "campaigns",
+        "where": "Collect every treasure chest during the Battle of Patay."
+      },
+      {
+        "id": "achievement-14",
+        "name": "Battle Royal",
+        "kind": "trophy",
+        "chapterId": "campaigns",
+        "where": "Field a Royal siege unit with all the brothers' bonuses during Retake Normandy."
+      },
+      {
+        "id": "achievement-15",
+        "name": "Careful Cannons",
+        "kind": "trophy",
+        "chapterId": "campaigns",
+        "where": "Win the Battle of Formigny without losing any cannons."
+      },
+      {
+        "id": "achievement-16",
+        "name": "Twinkle Hooves",
+        "kind": "trophy",
+        "chapterId": "campaigns",
+        "where": "Don't lose any Mangudai during the Battle of the Kalka River."
+      },
+      {
+        "id": "achievement-17",
+        "name": "Yeah, Well, You Should See the Other Guy",
+        "kind": "trophy",
+        "chapterId": "campaigns",
+        "where": "Lose a unit to the Front Gate of Zhangjiakou during the Great Wall mission."
+      },
+      {
+        "id": "achievement-18",
+        "name": "Forgot a Batu",
+        "kind": "trophy",
+        "chapterId": "campaigns",
+        "where": "Kill double the enemies as Batu when assaulting the bridge in the Battle of Mohi."
+      },
+      {
+        "id": "achievement-19",
+        "name": "Boom Boom Pao",
+        "kind": "trophy",
+        "chapterId": "campaigns",
+        "where": "Don't lose any Huihui Pao during the Fall of Xiangyang."
+      },
+      {
+        "id": "achievement-20",
+        "name": "Keep the Change",
+        "kind": "trophy",
+        "chapterId": "campaigns",
+        "where": "Pay off the Mongols within 3 minutes during the Tribute mission."
+      },
+      {
+        "id": "achievement-21",
+        "name": "Get Off My Bailey!",
+        "kind": "trophy",
+        "chapterId": "campaigns",
+        "where": "Stop the Mongols from entering the outer city during Hold Against the Horde."
+      },
+      {
+        "id": "achievement-22",
+        "name": "Ancient Tower Defense",
+        "kind": "trophy",
+        "chapterId": "campaigns",
+        "where": "Kill 50 enemies with Wooden Fortresses during the Great Stand on the Ugra River."
+      },
+      {
+        "id": "achievement-23",
+        "name": "Classic Conquest",
+        "kind": "trophy",
+        "chapterId": "campaigns",
+        "where": "Destroy all enemy units and production buildings during the Siege of Kazan."
+      },
+      {
+        "id": "achievement-24",
+        "name": "The Fundamentals",
+        "kind": "trophy",
+        "chapterId": "mastery-and-challenges",
+        "where": "Complete the Training Mastery."
+      },
+      {
+        "id": "achievement-25",
+        "name": "Quick Study",
+        "kind": "trophy",
+        "chapterId": "mastery-and-challenges",
+        "where": "Complete your first Civilization Mastery task."
+      },
+      {
+        "id": "achievement-26",
+        "name": "Master of the French",
+        "kind": "trophy",
+        "chapterId": "mastery-and-challenges",
+        "where": "Complete the French Mastery."
+      },
+      {
+        "id": "achievement-27",
+        "name": "Master of the Holy Roman Empire",
+        "kind": "trophy",
+        "chapterId": "mastery-and-challenges",
+        "where": "Complete the Holy Roman Empire Mastery."
+      },
+      {
+        "id": "achievement-28",
+        "name": "Master of the Delhi Sultanate",
+        "kind": "trophy",
+        "chapterId": "mastery-and-challenges",
+        "where": "Complete the Delhi Sultanate Mastery."
+      },
+      {
+        "id": "achievement-29",
+        "name": "Master of the Chinese",
+        "kind": "trophy",
+        "chapterId": "mastery-and-challenges",
+        "where": "Complete the Chinese Mastery."
+      },
+      {
+        "id": "achievement-30",
+        "name": "Master of the Abbasid Dynasty",
+        "kind": "trophy",
+        "chapterId": "mastery-and-challenges",
+        "where": "Complete the Abbasid Dynasty Mastery."
+      },
+      {
+        "id": "achievement-31",
+        "name": "Recorded History",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-victories",
+        "where": "View a replay."
+      },
+      {
+        "id": "achievement-32",
+        "name": "By Force",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-victories",
+        "where": "Achieve a Landmarks Victory."
+      },
+      {
+        "id": "achievement-33",
+        "name": "By Faith",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-victories",
+        "where": "Achieve a Sacred Victory."
+      },
+      {
+        "id": "achievement-34",
+        "name": "By Fortune",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-victories",
+        "where": "Achieve a Wonder Victory."
+      },
+      {
+        "id": "achievement-35",
+        "name": "Make It Quick",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-victories",
+        "where": "Achieve a Landmarks Victory in the Dark Age (I)."
+      },
+      {
+        "id": "achievement-36",
+        "name": "Walk the Earth",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-victories",
+        "where": "Achieve a Sacred Victory without losing a religious unit."
+      },
+      {
+        "id": "achievement-37",
+        "name": "Wonderstruck",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-victories",
+        "where": "Achieve a Wonder Victory without constructing walls."
+      },
+      {
+        "id": "achievement-38",
+        "name": "Precious Medals",
+        "kind": "trophy",
+        "chapterId": "mastery-and-challenges",
+        "where": "Earn a Medal in 3 Art of War challenges."
+      },
+      {
+        "id": "achievement-39",
+        "name": "Challenge Taker",
+        "kind": "trophy",
+        "chapterId": "mastery-and-challenges",
+        "where": "Earn your first Gold Medal in an Art of War challenge."
+      },
+      {
+        "id": "achievement-40",
+        "name": "Record Breaker",
+        "kind": "trophy",
+        "chapterId": "mastery-and-challenges",
+        "where": "Earn a Gold Medal in 5 Art of War challenges."
+      },
+      {
+        "id": "achievement-41",
+        "name": "Sub-Human Subduer",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-victories",
+        "where": "Win a 1v1 match against the Easy A.I."
+      },
+      {
+        "id": "achievement-42",
+        "name": "Par-Human Potentate",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-victories",
+        "where": "Win a 1v1 match against the Intermediate A.I."
+      },
+      {
+        "id": "achievement-43",
+        "name": "High-Human Hero",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-victories",
+        "where": "Win a 1v1 match against the Hard A.I."
+      },
+      {
+        "id": "achievement-44",
+        "name": "Super-Human Subjugator",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-victories",
+        "where": "Win a 1v1 match against the Hardest A.I."
+      },
+      {
+        "id": "achievement-45",
+        "name": "The Faithful",
+        "kind": "trophy",
+        "chapterId": "civilizations",
+        "where": "Convert 30 enemies without holding a Relic as the Abbasid Dynasty."
+      },
+      {
+        "id": "achievement-46",
+        "name": "All the World's Knowledge",
+        "kind": "trophy",
+        "chapterId": "civilizations",
+        "where": "During a match, research everything in the wings of the Abbasid House of Wisdom."
+      },
+      {
+        "id": "achievement-47",
+        "name": "Shifting Winds",
+        "kind": "trophy",
+        "chapterId": "civilizations",
+        "where": "Defeat 1,000 enemy cavalry units with your Camel Riders as the Abbasid Dynasty."
+      },
+      {
+        "id": "achievement-48",
+        "name": "A Golden Age",
+        "kind": "trophy",
+        "chapterId": "civilizations",
+        "where": "Achieve the third tier of the Golden Age as the Abbasid Dynasty."
+      },
+      {
+        "id": "achievement-49",
+        "name": "Dread Fort",
+        "kind": "trophy",
+        "chapterId": "civilizations",
+        "where": "Kill 100 enemies with Keeps as the English."
+      },
+      {
+        "id": "achievement-50",
+        "name": "Pass the Marshmallows",
+        "kind": "trophy",
+        "chapterId": "civilizations",
+        "where": "Use the Setup Camp ability 20 times as the English."
+      },
+      {
+        "id": "achievement-51",
+        "name": "Lancerlot",
+        "kind": "trophy",
+        "chapterId": "civilizations",
+        "where": "Charge an enemy with 50 Royal Knights simultaneously as the French."
+      },
+      {
+        "id": "achievement-52",
+        "name": "Who Needs Infantry?",
+        "kind": "trophy",
+        "chapterId": "civilizations",
+        "where": "Win a match without producing infantry as the French."
+      },
+      {
+        "id": "achievement-53",
+        "name": "Big Shot",
+        "kind": "trophy",
+        "chapterId": "civilizations",
+        "where": "Destroy 1,000 enemy units with gunpowder siege engines as the French."
+      },
+      {
+        "id": "achievement-54",
+        "name": "Do You Deliver?",
+        "kind": "trophy",
+        "chapterId": "civilizations",
+        "where": "Accrue 1,000 Food from Traders in a single match as the French."
+      },
+      {
+        "id": "achievement-55",
+        "name": "Wild's Bounty",
+        "kind": "trophy",
+        "chapterId": "civilizations",
+        "where": "Accrue 2,000 Gold with Hunting Cabins in a single match as the Rus."
+      },
+      {
+        "id": "achievement-56",
+        "name": "Big Game Hunter",
+        "kind": "trophy",
+        "chapterId": "civilizations",
+        "where": "Earn 500 Gold from bounties in a match as the Rus."
+      },
+      {
+        "id": "achievement-57",
+        "name": "Deforestation",
+        "kind": "trophy",
+        "chapterId": "civilizations",
+        "where": "Gather Wood 1,000 times as the Rus."
+      },
+      {
+        "id": "achievement-58",
+        "name": "In Memory of Kulikovo",
+        "kind": "trophy",
+        "chapterId": "civilizations",
+        "where": "Enhance 10 units with a single Saint's Blessing strike as the Rus."
+      },
+      {
+        "id": "achievement-59",
+        "name": "Raiding Party",
+        "kind": "trophy",
+        "chapterId": "civilizations",
+        "where": "Raid an enemy building in the Dark Age (I) as the Mongols."
+      },
+      {
+        "id": "achievement-60",
+        "name": "Jagutu-iin Darga",
+        "kind": "trophy",
+        "chapterId": "civilizations",
+        "where": "Enhance 100 units with a single Khan Signal Arrow as the Mongols."
+      },
+      {
+        "id": "achievement-61",
+        "name": "Long Live the Khan",
+        "kind": "trophy",
+        "chapterId": "civilizations",
+        "where": "Win a match without your Khan being killed as the Mongols."
+      },
+      {
+        "id": "achievement-62",
+        "name": "Explore, Expand, Exploit",
+        "kind": "trophy",
+        "chapterId": "civilizations",
+        "where": "Accrue 10,000 Stone in a single match as the Mongols."
+      },
+      {
+        "id": "achievement-63",
+        "name": "Who Needs Cavalry?",
+        "kind": "trophy",
+        "chapterId": "civilizations",
+        "where": "Win a match without producing cavalry as the Holy Roman Empire."
+      },
+      {
+        "id": "achievement-64",
+        "name": "Inspired Economics",
+        "kind": "trophy",
+        "chapterId": "civilizations",
+        "where": "Have at least 60 simultaneously inspired Villagers as the Holy Roman Empire."
+      },
+      {
+        "id": "achievement-65",
+        "name": "Servants of the Land",
+        "kind": "trophy",
+        "chapterId": "civilizations",
+        "where": "Kill 10,000 enemies with Landsknechte."
+      },
+      {
+        "id": "achievement-66",
+        "name": "Swift Site",
+        "kind": "trophy",
+        "chapterId": "civilizations",
+        "where": "Begin capturing a Sacred Site immediately upon entering Age III as the Holy Roman Empire."
+      },
+      {
+        "id": "achievement-67",
+        "name": "Herd You Like Elephants",
+        "kind": "trophy",
+        "chapterId": "civilizations",
+        "where": "Destroy 100 enemy buildings with your elephants as the Delhi Sultanate."
+      },
+      {
+        "id": "achievement-68",
+        "name": "Field Construction",
+        "kind": "trophy",
+        "chapterId": "civilizations",
+        "where": "Build a Stone Wall, Gate, and Tower using infantry as the Delhi Sultanate."
+      },
+      {
+        "id": "achievement-69",
+        "name": "Higher Education",
+        "kind": "trophy",
+        "chapterId": "civilizations",
+        "where": "Have 20 Scholars garrisoned in a Madrasa as the Delhi Sultanate."
+      },
+      {
+        "id": "achievement-70",
+        "name": "Pantomath",
+        "kind": "trophy",
+        "chapterId": "civilizations",
+        "where": "Research all technologies in a match as the Delhi Sultanate."
+      },
+      {
+        "id": "achievement-71",
+        "name": "Be Subtle",
+        "kind": "trophy",
+        "chapterId": "civilizations",
+        "where": "Reveal 300 Villagers with a single use of Imperial Spies as the Chinese."
+      },
+      {
+        "id": "achievement-72",
+        "name": "Great Walls",
+        "kind": "trophy",
+        "chapterId": "civilizations",
+        "where": "Construct 1,000 Stone Walls as the Chinese."
+      },
+      {
+        "id": "achievement-73",
+        "name": "Move Like Wind, Attack Like Fire",
+        "kind": "trophy",
+        "chapterId": "civilizations",
+        "where": "Defeat 1,000 enemy units with the Nest of Bees as the Chinese."
+      },
+      {
+        "id": "achievement-74",
+        "name": "Four Histories",
+        "kind": "trophy",
+        "chapterId": "civilizations",
+        "where": "Establish all of the Dynasties in a single match as the Chinese."
+      },
+      {
+        "id": "achievement-75",
+        "name": "Wololottery",
+        "kind": "trophy",
+        "chapterId": "civilizations",
+        "where": "Assume control of 25 units in a single conversion."
+      },
+      {
+        "id": "achievement-76",
+        "name": "Having a Blast",
+        "kind": "trophy",
+        "chapterId": "civilizations",
+        "where": "Destroy 5 enemies with a single Demolition Ship detonation."
+      },
+      {
+        "id": "achievement-77",
+        "name": "All Creek, No Paddle",
+        "kind": "trophy",
+        "chapterId": "civilizations",
+        "where": "Sink an enemy Transport Ship that is garrisoned to max capacity."
+      },
+      {
+        "id": "achievement-78",
+        "name": "Through the Ages",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-victories",
+        "where": "Advance to the next Age 500 times."
+      },
+      {
+        "id": "achievement-79",
+        "name": "Coast Is Clear",
+        "kind": "trophy",
+        "chapterId": "civilizations",
+        "where": "Win a match during which fishing was your only source of gathered Food."
+      },
+      {
+        "id": "achievement-80",
+        "name": "Accurate Likeness",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-victories",
+        "where": "Equip your first portrait."
+      },
+      {
+        "id": "achievement-81",
+        "name": "To Remind, To Advise, To Warn",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-victories",
+        "where": "Equip your first monument."
+      },
+      {
+        "id": "achievement-82",
+        "name": "A Heraldic Achievement",
+        "kind": "trophy",
+        "chapterId": "skirmish-and-victories",
+        "where": "Customize your coat of arms."
+      },
+      {
+        "id": "achievement-83",
+        "name": "Du Bois Are Back in Town",
+        "kind": "trophy",
+        "chapterId": "historical-battles",
+        "where": "Win in the arena without losing more than 10 units during the Combat of the Thirty."
+      },
+      {
+        "id": "achievement-84",
+        "name": "We Charge Extra for That",
+        "kind": "trophy",
+        "chapterId": "civilizations",
+        "where": "Shutdown a Cavalry Charge with Palings as the English."
+      },
+      {
+        "id": "achievement-85",
+        "name": "Hope Is Kindled",
+        "kind": "trophy",
+        "chapterId": "civilizations",
+        "where": "Extend the Network of Castles alarm across 12 buildings simultaneously as the English."
+      },
+      {
+        "id": "achievement-86",
+        "name": "Master of the English",
+        "kind": "trophy",
+        "chapterId": "mastery-and-challenges",
+        "where": "Complete the English Mastery."
+      },
+      {
+        "id": "achievement-87",
+        "name": "Master of the Mongols",
+        "kind": "trophy",
+        "chapterId": "mastery-and-challenges",
+        "where": "Complete the Mongol Mastery."
+      },
+      {
+        "id": "achievement-88",
+        "name": "Master of the Rus",
+        "kind": "trophy",
+        "chapterId": "mastery-and-challenges",
+        "where": "Complete the Rus Mastery."
+      },
+      {
+        "id": "achievement-89",
+        "name": "Master of the Ages",
+        "kind": "trophy",
+        "chapterId": "mastery-and-challenges",
+        "where": "Complete all Civilization Masteries."
+      },
+      {
+        "id": "achievement-90",
+        "name": "Ottoman Expansion",
+        "kind": "trophy",
+        "chapterId": "later-civilizations",
+        "where": "Win a match as the Ottomans."
+      },
+      {
+        "id": "achievement-91",
+        "name": "Transcontinental Empire",
+        "kind": "trophy",
+        "chapterId": "later-civilizations",
+        "where": "Win 20 matches as the Ottomans."
+      },
+      {
+        "id": "achievement-92",
+        "name": "Regimented Training",
+        "kind": "trophy",
+        "chapterId": "later-civilizations",
+        "where": "Have 5 Military Schools active at the same time as the Ottomans."
+      },
+      {
+        "id": "achievement-93",
+        "name": "Mobile Strikes",
+        "kind": "trophy",
+        "chapterId": "later-civilizations",
+        "where": "Defeat 100 ranged units with a Sipahi unit as the Ottomans."
+      },
+      {
+        "id": "achievement-94",
+        "name": "A Wonderful Cannon",
+        "kind": "trophy",
+        "chapterId": "later-civilizations",
+        "where": "Destroy a Wonder with a Great Bombard as the Ottomans."
+      },
+      {
+        "id": "achievement-95",
+        "name": "Sound Advice",
+        "kind": "trophy",
+        "chapterId": "later-civilizations",
+        "where": "Unlock 7 Imperial Council upgrades in a single match as the Ottomans."
+      },
+      {
+        "id": "achievement-96",
+        "name": "Hell of a Beat",
+        "kind": "trophy",
+        "chapterId": "later-civilizations",
+        "where": "Defeat 500 enemies with units affected by Mehteran as the Ottomans."
+      },
+      {
+        "id": "achievement-97",
+        "name": "Trojan Horses",
+        "kind": "trophy",
+        "chapterId": "later-civilizations",
+        "where": "Garrison units into 3 Trebuchets as the Ottomans."
+      },
+      {
+        "id": "achievement-98",
+        "name": "Malian Rise",
+        "kind": "trophy",
+        "chapterId": "later-civilizations",
+        "where": "Win a match as the Malians."
+      },
+      {
+        "id": "achievement-99",
+        "name": "Trans-Saharan Empire",
+        "kind": "trophy",
+        "chapterId": "later-civilizations",
+        "where": "Win 20 matches as the Malians."
+      },
+      {
+        "id": "achievement-100",
+        "name": "Tax Collector",
+        "kind": "trophy",
+        "chapterId": "later-civilizations",
+        "where": "Generate tax from 5 Toll Outposts on a single trip as the Malians."
+      },
+      {
+        "id": "achievement-101",
+        "name": "From the Shadows",
+        "kind": "trophy",
+        "chapterId": "later-civilizations",
+        "where": "Attack 100 enemies with invisible Musofadi Warriors or Gunners in a single match as the Malians."
+      },
+      {
+        "id": "achievement-102",
+        "name": "Just a Prick",
+        "kind": "trophy",
+        "chapterId": "later-civilizations",
+        "where": "Defeat a Heavy Cavalry unit with a Poisoned Arrow as the Malians."
+      },
+      {
+        "id": "achievement-103",
+        "name": "All Mine",
+        "kind": "trophy",
+        "chapterId": "later-civilizations",
+        "where": "Gather Gold 1,000 times from Open Pit Mines as the Malians."
+      },
+      {
+        "id": "achievement-104",
+        "name": "Aerial Poisoned Attacks",
+        "kind": "trophy",
+        "chapterId": "later-civilizations",
+        "where": "Defeat 500 units with Poisoned Arrow as the Malians."
+      },
+      {
+        "id": "achievement-105",
+        "name": "All in the Ranch",
+        "kind": "trophy",
+        "chapterId": "later-civilizations",
+        "where": "Garrison 20 Cattle in Ranches at the same time as the Malians."
+      },
+      {
+        "id": "achievement-106",
+        "name": "Master of the Ottomans",
+        "kind": "trophy",
+        "chapterId": "mastery-and-challenges",
+        "where": "Complete the Ottoman Mastery."
+      },
+      {
+        "id": "achievement-107",
+        "name": "Master of the Malians",
+        "kind": "trophy",
+        "chapterId": "mastery-and-challenges",
+        "where": "Complete the Malian Mastery."
+      },
+      {
+        "id": "achievement-108",
+        "name": "The Ottoman Arts",
+        "kind": "trophy",
+        "chapterId": "mastery-and-challenges",
+        "where": "Earn a gold medal in the Ottoman Art of War challenge."
+      },
+      {
+        "id": "achievement-109",
+        "name": "The Malian Arts",
+        "kind": "trophy",
+        "chapterId": "mastery-and-challenges",
+        "where": "Earn a gold medal in the Malian Art of War challenge."
+      },
+      {
+        "id": "achievement-110",
+        "name": "Win for the Empire",
+        "kind": "trophy",
+        "chapterId": "later-civilizations",
+        "where": "Win a match as the Byzantines."
+      },
+      {
+        "id": "achievement-111",
+        "name": "Protecting Constantinople",
+        "kind": "trophy",
+        "chapterId": "later-civilizations",
+        "where": "Win 20 matches as the Byzantines."
+      },
+      {
+        "id": "achievement-112",
+        "name": "Unsinkable",
+        "kind": "trophy",
+        "chapterId": "later-civilizations",
+        "where": "Construct a Transport Ship with a Varangian Guard and garrison it to maximum capacity as the Byzantines."
+      },
+      {
+        "id": "achievement-113",
+        "name": "Getting Some Help",
+        "kind": "trophy",
+        "chapterId": "later-civilizations",
+        "where": "Recruit 60 mercenaries from a Mercenary House in a single match as the Byzantines."
+      },
+      {
+        "id": "achievement-114",
+        "name": "Bulwark",
+        "kind": "trophy",
+        "chapterId": "later-civilizations",
+        "where": "Defeat 200 enemies with Limitanei while Shield Wall is active as the Byzantines."
+      },
+      {
+        "id": "achievement-115",
+        "name": "Let There Be Fire",
+        "kind": "trophy",
+        "chapterId": "later-civilizations",
+        "where": "Destroy 50 buildings with Cheirosiphons as the Byzantines."
+      },
+      {
+        "id": "achievement-116",
+        "name": "Overflow",
+        "kind": "trophy",
+        "chapterId": "later-civilizations",
+        "where": "Build 10 Cisterns in a single match as the Byzantines."
+      },
+      {
+        "id": "achievement-117",
+        "name": "Let It Flow",
+        "kind": "trophy",
+        "chapterId": "later-civilizations",
+        "where": "Accrue 2,000 Olive Oil in a single match as the Byzantines."
+      },
+      {
+        "id": "achievement-118",
+        "name": "A First for the Emperor",
+        "kind": "trophy",
+        "chapterId": "later-civilizations",
+        "where": "Win a match as the Japanese."
+      },
+      {
+        "id": "achievement-119",
+        "name": "Established Lands",
+        "kind": "trophy",
+        "chapterId": "later-civilizations",
+        "where": "Win 20 matches as the Japanese."
+      },
+      {
+        "id": "achievement-120",
+        "name": "Protecting Us",
+        "kind": "trophy",
+        "chapterId": "later-civilizations",
+        "where": "Heal 20 units using Shinto Priest units in a single match as the Japanese."
+      },
+      {
+        "id": "achievement-121",
+        "name": "Daimyo Mastery",
+        "kind": "trophy",
+        "chapterId": "later-civilizations",
+        "where": "Spend Stone to research all Town Center upgrades as the Japanese."
+      },
+      {
+        "id": "achievement-122",
+        "name": "Exchange Rates",
+        "kind": "trophy",
+        "chapterId": "later-civilizations",
+        "where": "Convert Stone to Gold at a Forge 250 times in a single match as the Japanese."
+      },
+      {
+        "id": "achievement-123",
+        "name": "Shinobi Mastermind",
+        "kind": "trophy",
+        "chapterId": "later-civilizations",
+        "where": "Use Sabotage to disable 50 buildings with Shinobi units as the Japanese."
+      },
+      {
+        "id": "achievement-124",
+        "name": "Gunpowder Mastery",
+        "kind": "trophy",
+        "chapterId": "later-civilizations",
+        "where": "Defeat 50 siege units using Ozutsu units as the Japanese."
+      },
+      {
+        "id": "achievement-125",
+        "name": "Successful Gatherer",
+        "kind": "trophy",
+        "chapterId": "later-civilizations",
+        "where": "Enhance 10 resource drop-off buildings by depositing a Yorishiro as the Japanese."
+      },
+      {
+        "id": "achievement-126",
+        "name": "The Sultans",
+        "kind": "trophy",
+        "chapterId": "sultans-ascend",
+        "where": "Complete The Sultans Ascend campaign."
+      },
+      {
+        "id": "achievement-127",
+        "name": "Master Naval Trader",
+        "kind": "trophy",
+        "chapterId": "sultans-ascend",
+        "where": "Have 20 Trade Ships trading simultaneously during the Raiders of the Red Sea."
+      },
+      {
+        "id": "achievement-128",
+        "name": "In the Lead by a Quarter Nile",
+        "kind": "trophy",
+        "chapterId": "sultans-ascend",
+        "where": "Capture all Control Points during Into Egypt."
+      },
+      {
+        "id": "achievement-129",
+        "name": "Saving the Day Early",
+        "kind": "trophy",
+        "chapterId": "sultans-ascend",
+        "where": "Eliminate all 3 enemy leaders within 30 seconds of each other during the Battle of Mansurah."
+      },
+      {
+        "id": "achievement-130",
+        "name": "Rescue",
+        "kind": "trophy",
+        "chapterId": "sultans-ascend",
+        "where": "Rescue all the prisoners during the Invasion of Cyprus."
+      },
+      {
+        "id": "achievement-131",
+        "name": "Victory Through Cross and Sword",
+        "kind": "trophy",
+        "chapterId": "later-civilizations",
+        "where": "Win a Multiplayer or Skirmish match with Knights Templar."
+      },
+      {
+        "id": "achievement-132",
+        "name": "Journey to the Sacred Land",
+        "kind": "trophy",
+        "chapterId": "later-civilizations",
+        "where": "Have 50 Knights Templar Pilgrims reach a sacred site."
+      },
+      {
+        "id": "achievement-133",
+        "name": "Castle Crasher",
+        "kind": "trophy",
+        "chapterId": "later-civilizations",
+        "where": "Destroy an enemy building with the Trebuchet Emplacement."
+      },
+      {
+        "id": "achievement-134",
+        "name": "'Tis But a Scratch",
+        "kind": "trophy",
+        "chapterId": "later-civilizations",
+        "where": "Heal allied units by 500 health with the Hospitaller Knight."
+      },
+      {
+        "id": "achievement-135",
+        "name": "Feeding the Rich",
+        "kind": "trophy",
+        "chapterId": "later-civilizations",
+        "where": "Generate 2000 Gold with the Pilgrim Loan at the market."
+      },
+      {
+        "id": "achievement-136",
+        "name": "The Red Rose Flourishes",
+        "kind": "trophy",
+        "chapterId": "later-civilizations",
+        "where": "Win a Multiplayer or Skirmish match with the House of Lancaster."
+      },
+      {
+        "id": "achievement-137",
+        "name": "Blot out the Sun",
+        "kind": "trophy",
+        "chapterId": "later-civilizations",
+        "where": "As the House of Lancaster, hit 500 times using the Yeoman's Synchronized Shot."
+      },
+      {
+        "id": "achievement-138",
+        "name": "My House is Richer Than Yours",
+        "kind": "trophy",
+        "chapterId": "later-civilizations",
+        "where": "Generate 4000 Gold with Manors in one match."
+      },
+      {
+        "id": "achievement-139",
+        "name": "Lead the Charge",
+        "kind": "trophy",
+        "chapterId": "later-civilizations",
+        "where": "Empower at least 30 units with all 4 Lords of Lancaster at once."
+      },
+      {
+        "id": "achievement-140",
+        "name": "Knife to Meet You",
+        "kind": "trophy",
+        "chapterId": "later-civilizations",
+        "where": "Kill 50 units with Earl's Guards after researching Throwing Dagger Drills."
+      },
+      {
+        "id": "achievement-141",
+        "name": "Against All Odds",
+        "kind": "trophy",
+        "chapterId": "historical-battles",
+        "where": "Defeat the French army at Agincourt."
+      },
+      {
+        "id": "achievement-142",
+        "name": "Get Off My Lawn",
+        "kind": "trophy",
+        "chapterId": "historical-battles",
+        "where": "Destroy the army besieging Safed."
+      },
+      {
+        "id": "achievement-143",
+        "name": "Jerusalem Has Come",
+        "kind": "trophy",
+        "chapterId": "historical-battles",
+        "where": "Capture all Sacred Sites and drive the Ayyubids out of Montgisard."
+      },
+      {
+        "id": "achievement-144",
+        "name": "A Rose for the Fallen",
+        "kind": "trophy",
+        "chapterId": "historical-battles",
+        "where": "Survive the Aftermath of Towton."
+      },
+      {
+        "id": "achievement-145",
+        "name": "Conqueror of History",
+        "kind": "trophy",
+        "chapterId": "historical-battles",
+        "where": "Complete all Historical Battles in Conqueror Mode."
+      },
+      {
+        "id": "achievement-146",
+        "name": "The Greatest Khan",
+        "kind": "trophy",
+        "chapterId": "mastery-and-challenges",
+        "where": "Earn a Gold Medal on Watch Your Steppe in the Crucible."
+      },
+      {
+        "id": "achievement-147",
+        "name": "Lords of the Forest",
+        "kind": "trophy",
+        "chapterId": "mastery-and-challenges",
+        "where": "Earn a Gold Medal on Forest Lords in the Crucible."
+      },
+      {
+        "id": "achievement-148",
+        "name": "Uncontested",
+        "kind": "trophy",
+        "chapterId": "mastery-and-challenges",
+        "where": "Earn a Gold Medal on Contested Coastline in the Crucible."
+      },
+      {
+        "id": "achievement-149",
+        "name": "Gingko’s Grandeur",
+        "kind": "trophy",
+        "chapterId": "mastery-and-challenges",
+        "where": "Earn a Gold Medal on Daimyo Dynamics in the Crucible."
+      },
+      {
+        "id": "achievement-150",
+        "name": "No Luck Needed",
+        "kind": "trophy",
+        "chapterId": "later-civilizations",
+        "where": "Win a Multiplayer or Skirmish match with Tughlaq Dynasty."
+      },
+      {
+        "id": "achievement-151",
+        "name": "Toomai's Dance",
+        "kind": "trophy",
+        "chapterId": "later-civilizations",
+        "where": "Gain Worker Elephant bonus resources 1000 times in a match."
+      },
+      {
+        "id": "achievement-152",
+        "name": "Elevated Theology",
+        "kind": "trophy",
+        "chapterId": "later-civilizations",
+        "where": "Have Healer Elephants heal 100 melee infantry units in a single match."
+      },
+      {
+        "id": "achievement-153",
+        "name": "Thunder and Trumpets",
+        "kind": "trophy",
+        "chapterId": "later-civilizations",
+        "where": "Trample with 25 Raider Elephants at the same time."
+      },
+      {
+        "id": "achievement-154",
+        "name": "Great Things",
+        "kind": "trophy",
+        "chapterId": "later-civilizations",
+        "where": "Win a Multiplayer or Skirmish match with Macedonian Dynasty."
+      },
+      {
+        "id": "achievement-155",
+        "name": "Ready, Aim, Fire!",
+        "kind": "trophy",
+        "chapterId": "later-civilizations",
+        "where": "Kill 50 enemy units with flaming Springald bolts in a single match."
+      },
+      {
+        "id": "achievement-156",
+        "name": "By Odin's Beard",
+        "kind": "trophy",
+        "chapterId": "later-civilizations",
+        "where": "Gain 500 free units from the Varangian Warcamp."
+      },
+      {
+        "id": "achievement-157",
+        "name": "Var-Aegean",
+        "kind": "trophy",
+        "chapterId": "later-civilizations",
+        "where": "Research 15 technologies from the Varangian Arsenal in a single match."
+      },
+      {
+        "id": "achievement-158",
+        "name": "The Great Unifier",
+        "kind": "trophy",
+        "chapterId": "later-civilizations",
+        "where": "Win a Multiplayer or Skirmish match with Sengoku Daimyo."
+      },
+      {
+        "id": "achievement-159",
+        "name": "Itadakimasu!",
+        "kind": "trophy",
+        "chapterId": "later-civilizations",
+        "where": "Completely fill a Matsuri festival with Yatai carts."
+      },
+      {
+        "id": "achievement-160",
+        "name": "Daimyo Dance-Off",
+        "kind": "trophy",
+        "chapterId": "later-civilizations",
+        "where": "Defeat 50 Elephants with Kanabo Samurai."
+      },
+      {
+        "id": "achievement-161",
+        "name": "Bombard Barrage",
+        "kind": "trophy",
+        "chapterId": "later-civilizations",
+        "where": "Destroy 150 buildings with Early Ozutsu."
+      },
+      {
+        "id": "achievement-162",
+        "name": "Just Like Batu Khan",
+        "kind": "trophy",
+        "chapterId": "later-civilizations",
+        "where": "Win a Multiplayer or Skirmish match with Golden Horde."
+      },
+      {
+        "id": "achievement-163",
+        "name": "Well Stocked",
+        "kind": "trophy",
+        "chapterId": "later-civilizations",
+        "where": "Produce 10,000 food from Stockyards in a single match."
+      },
+      {
+        "id": "achievement-164",
+        "name": "Let’s Goooooooooo!",
+        "kind": "trophy",
+        "chapterId": "later-civilizations",
+        "where": "Gain 250 free Kharash from the Kharash Golden Tent Edict."
+      },
+      {
+        "id": "achievement-165",
+        "name": "More Cuman than Cuman",
+        "kind": "trophy",
+        "chapterId": "later-civilizations",
+        "where": "Have 50 Torguud die in place of a Khan."
+      },
+      {
+        "id": "achievement-166",
+        "name": "Giddy Up!",
+        "kind": "trophy",
+        "chapterId": "later-civilizations",
+        "where": "Field 50 units using Grassland horses."
+      },
+      {
+        "id": "achievement-167",
+        "name": "Ready and Waiting",
+        "kind": "trophy",
+        "chapterId": "later-civilizations",
+        "where": "Defeat 50 enemies using Meng’an Mouke Defenders."
+      },
+      {
+        "id": "achievement-168",
+        "name": "Master of the Jin Dynasty",
+        "kind": "trophy",
+        "chapterId": "mastery-and-challenges",
+        "where": "Complete the Jin Dynasty Mastery."
+      },
+      {
+        "id": "achievement-169",
+        "name": "Good Karma",
+        "kind": "trophy",
+        "chapterId": "later-civilizations",
+        "where": "Achieve the Mountain Gate’s blessing 3 times in a single match."
+      },
+      {
+        "id": "achievement-170",
+        "name": "An Offer They Couldn’t Refuse",
+        "kind": "trophy",
+        "chapterId": "later-civilizations",
+        "where": "Bribe 10 enemies in a single match."
+      },
+      {
+        "id": "achievement-171",
+        "name": "Serve the Country with Perfect Loyalty",
+        "kind": "trophy",
+        "chapterId": "yue-fei",
+        "where": "Complete the Yue Fei campaign."
+      },
+      {
+        "id": "achievement-172",
+        "name": "There is no Escape",
+        "kind": "trophy",
+        "chapterId": "yue-fei",
+        "where": "Do not let a single Jin ship escape during the Battle of Huangtiandang."
+      },
+      {
+        "id": "achievement-173",
+        "name": "Master Negotiator",
+        "kind": "trophy",
+        "chapterId": "yue-fei",
+        "where": "Subdue Zhang Yong without breaching his walls in the Southern Rebels mission."
+      },
+      {
+        "id": "achievement-174",
+        "name": "Under Cover of Night",
+        "kind": "trophy",
+        "chapterId": "yue-fei",
+        "where": "Destroy an enemy siege camp during the night in the Siege of De’an."
+      },
+      {
+        "id": "achievement-175",
+        "name": "Resourceful Raider",
+        "kind": "trophy",
+        "chapterId": "yue-fei",
+        "where": "Complete the Central Plains mission without your supplies falling below 50%."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/age-of-empires-iv",
+    "Achievement data from Steam (Steam Web API, app 1466860)",
+    "StrategyWiki: no page for this game, nothing used",
+    "Fandom (ageofempires.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://ageofempires.fandom.com/wiki/Age_of_Empires_IV"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). Steam app 1466860 is now named \"Age of Empires IV: Anniversary Edition\"; it is the base game's store app. No StrategyWiki page under \"Age of Empires IV\" or \"Age of Empires 4\". ageofempires.fandom.com answers the API under \"Age of Empires IV\", with about 137 linked pages, including the campaign pages \"The Normans\", \"The Hundred Years War\", \"The Mongol Empire\", \"The Rise of Moscow\", \"The Sultans Ascend (campaign)\" and \"Yue Fei's Legacy (campaign)\", and civilization pages; names only were looked at, nothing copied. None of the 175 Steam achievements is hidden. Strategy game, so chapters follow modes. Civilization feats are split in two by their place in the Steam list: achievements 45 to 85 cover the English, French, Holy Roman Empire, Rus, Mongols, Chinese, Abbasid Dynasty and Delhi Sultanate; achievements 90 onward cover the Ottomans, Malians, Byzantines, Japanese and later civilizations and variants (sorted by list position; masteries, campaign, battle and Crucible ones in that range stay in their own chapters). The Combat of the Thirty achievement does not say which mode it belongs to; it was put with the Historical Battles as a guess. Fandom links several Age of Empires IV expansion pages (\"The Sultans Ascend\", \"Knights of Cross and Rose\", \"Dynasties of the East\", \"Yue Fei's Legacy\"), but the data does not say which civilizations or battles each one adds."
+}

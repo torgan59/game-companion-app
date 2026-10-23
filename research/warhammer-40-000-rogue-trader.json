@@ -1,0 +1,1096 @@
+{
+  "id": "warhammer-40-000-rogue-trader",
+  "title": "Warhammer 40,000: Rogue Trader",
+  "year": 2023,
+  "platforms": [
+    "PC",
+    "macOS"
+  ],
+  "rawgId": 801842,
+  "rawgSlug": "warhammer-40000-rogue-trader",
+  "released": "2023-12-06",
+  "developers": [
+    "Owlcat Games"
+  ],
+  "playtime": 9,
+  "genres": [
+    "Adventure",
+    "RPG",
+    "Strategy",
+    "Indie"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Multiplayer",
+    "Full controller support",
+    "Steam Cloud",
+    "RPG",
+    "Co-op",
+    "Story Rich",
+    "Open World",
+    "Online Co-Op",
+    "Exploration",
+    "Female Protagonist"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/edf/edf3bd3ffa486f5d6a84bda020765839.jpg",
+  "steamAppId": 2186680,
+  "achievements": {
+    "total": 133,
+    "hidden": 32,
+    "examples": [
+      {
+        "name": "Conspiracy",
+        "percent": 74.1
+      },
+      {
+        "name": "A Spark",
+        "percent": 49.8
+      },
+      {
+        "name": "Stolen Star",
+        "percent": 48.5
+      },
+      {
+        "name": "Help Is Not Coming",
+        "percent": 0.4
+      },
+      {
+        "name": "Weed Killer",
+        "percent": 0.2
+      },
+      {
+        "name": "Emergency Defrost",
+        "percent": 0.1
+      },
+      {
+        "name": "Atonement for the One",
+        "percent": 0.1
+      },
+      {
+        "name": "Full Force",
+        "percent": 0.0
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Warhammer_40,000:_Rogue_Trader",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 34,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://warhammer40k.fandom.com/wiki/Warhammer_40,000:_Rogue_Trader"
+    }
+  },
+  "game": {
+    "id": "warhammer-40-000-rogue-trader",
+    "title": "Warhammer 40,000: Rogue Trader",
+    "platforms": [
+      "PC",
+      "macOS"
+    ],
+    "blurb": "Turn-based role-playing game in the Koronus Expanse, from Owlcat Games, released 2023-12-06. RAWG average playtime: 9 hours. Genres: Adventure, RPG, Strategy, Indie. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#8C1C13",
+    "chapters": [
+      {
+        "id": "prologue-and-chapter-1",
+        "title": "Prologue and Chapter 1",
+        "summary": "The prologue, the first chapter and the fate of Janus, Kiava Gamma and Dargonus.",
+        "steps": []
+      },
+      {
+        "id": "chapters-2-and-3",
+        "title": "Chapters 2 and 3",
+        "summary": "The middle of the story, including the Commorragh arena.",
+        "steps": []
+      },
+      {
+        "id": "chapter-4-and-finale",
+        "title": "Chapter 4 and the Finale",
+        "summary": "The last chapters and the end of the game. Hidden achievements sit here too. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "daring-and-convictions",
+        "title": "Daring Difficulty and Convictions",
+        "summary": "Finishing as each kind of Votary or Zealot, Grim Darkness mode, and feats that need Daring difficulty.",
+        "steps": []
+      },
+      {
+        "id": "companions-and-choices",
+        "title": "Companions and Choices",
+        "summary": "Romance, secret companions, the Bloodspun Web, mysteries and choices along the way.",
+        "steps": []
+      },
+      {
+        "id": "combat",
+        "title": "Combat and Archetypes",
+        "summary": "Critical hits, dodges, big kills, tanks and second and third-tier archetypes.",
+        "steps": []
+      },
+      {
+        "id": "voidship-and-colonies",
+        "title": "Void Battles, Colonies and Exploration",
+        "summary": "Void combat, colonies, contracts, warp routes, systems and optional locations.",
+        "steps": []
+      },
+      {
+        "id": "museion-and-zarkov",
+        "title": "The Museion, Sector Bionica and Zarkov",
+        "summary": "Trazyn's Museion, the Sector Bionica and the Zarkov colony, which sit at the end of the Steam list.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Conspiracy",
+        "kind": "trophy",
+        "chapterId": "prologue-and-chapter-1",
+        "where": "You completed the Prologue."
+      },
+      {
+        "id": "achievement-2",
+        "name": "Stolen Star",
+        "kind": "trophy",
+        "chapterId": "prologue-and-chapter-1",
+        "where": "You completed Chapter 1."
+      },
+      {
+        "id": "achievement-3",
+        "name": "Trade Empire",
+        "kind": "trophy",
+        "chapterId": "chapters-2-and-3",
+        "where": "You completed Chapter 2."
+      },
+      {
+        "id": "achievement-4",
+        "name": "Commorragh Survivors",
+        "kind": "trophy",
+        "chapterId": "chapters-2-and-3",
+        "where": "You completed Chapter 3."
+      },
+      {
+        "id": "achievement-5",
+        "name": "Expanse Calamity",
+        "kind": "trophy",
+        "chapterId": "chapter-4-and-finale",
+        "where": "You completed Chapter 4."
+      },
+      {
+        "id": "achievement-6",
+        "name": "Grand Finale",
+        "kind": "trophy",
+        "chapterId": "chapter-4-and-finale",
+        "where": "You finished the game."
+      },
+      {
+        "id": "achievement-7",
+        "name": "The Emperor's Servant",
+        "kind": "trophy",
+        "chapterId": "daring-and-convictions",
+        "where": "You became a Votary (Dogmatic) and completed the game on Daring difficulty or above."
+      },
+      {
+        "id": "achievement-8",
+        "name": "Merciful Soul",
+        "kind": "trophy",
+        "chapterId": "daring-and-convictions",
+        "where": "You became a Votary (Iconoclast) and completed the game on Daring difficulty or above."
+      },
+      {
+        "id": "achievement-9",
+        "name": "Chaos Incarnate",
+        "kind": "trophy",
+        "chapterId": "daring-and-convictions",
+        "where": "You became a Votary (Heretical) and completed the game on Daring difficulty or above."
+      },
+      {
+        "id": "achievement-10",
+        "name": "Overcome and Overpower",
+        "kind": "trophy",
+        "chapterId": "daring-and-convictions",
+        "where": "You completed the game on Daring difficulty or above."
+      },
+      {
+        "id": "achievement-11",
+        "name": "Too Fast to Die",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "You dodged 500 enemy attacks with your party members."
+      },
+      {
+        "id": "achievement-12",
+        "name": "Doom Trader",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "You performed 500 critical hits with your party members."
+      },
+      {
+        "id": "achievement-13",
+        "name": "Fear Not Obliteration",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "You killed an enemy with 100 damage dealt by one attack."
+      },
+      {
+        "id": "achievement-14",
+        "name": "Pentakill",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "You killed 5 enemies with one attack."
+      },
+      {
+        "id": "achievement-15",
+        "name": "The Rise",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "You gained a second-tier archetype."
+      },
+      {
+        "id": "achievement-16",
+        "name": "Exemplar",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "You gained a third-tier archetype."
+      },
+      {
+        "id": "achievement-17",
+        "name": "Rookie Skipper",
+        "kind": "trophy",
+        "chapterId": "voidship-and-colonies",
+        "where": "You won your first void combat."
+      },
+      {
+        "id": "achievement-18",
+        "name": "Void Wolf",
+        "kind": "trophy",
+        "chapterId": "voidship-and-colonies",
+        "where": "You won 10 void combats."
+      },
+      {
+        "id": "achievement-19",
+        "name": "Purge the Unclean",
+        "kind": "trophy",
+        "chapterId": "voidship-and-colonies",
+        "where": "You destroyed at least one ship of every enemy fleet (pirates, Chaos, Asuryani, Drukhari, Necrons)."
+      },
+      {
+        "id": "achievement-20",
+        "name": "Precise Defence",
+        "kind": "trophy",
+        "chapterId": "voidship-and-colonies",
+        "where": "You destroyed 30 torpedoes."
+      },
+      {
+        "id": "achievement-21",
+        "name": "Perfect Timing",
+        "kind": "trophy",
+        "chapterId": "voidship-and-colonies",
+        "where": "You restarted the shields on your flagship and received no damage to the hull while doing so."
+      },
+      {
+        "id": "achievement-22",
+        "name": "The Dynasty Restored",
+        "kind": "trophy",
+        "chapterId": "voidship-and-colonies",
+        "where": "You reclaimed 5 colonies of the von Valancius dynasty."
+      },
+      {
+        "id": "achievement-23",
+        "name": "Highrise",
+        "kind": "trophy",
+        "chapterId": "voidship-and-colonies",
+        "where": "You completed a colony project of the highest tier."
+      },
+      {
+        "id": "achievement-24",
+        "name": "The Dynasty Prospers",
+        "kind": "trophy",
+        "chapterId": "voidship-and-colonies",
+        "where": "You completed the highest-tier colony project on 5 of your colonies."
+      },
+      {
+        "id": "achievement-25",
+        "name": "Master of Trade",
+        "kind": "trophy",
+        "chapterId": "voidship-and-colonies",
+        "where": "You completed 20 contracts."
+      },
+      {
+        "id": "achievement-26",
+        "name": "Uncover the Ice",
+        "kind": "trophy",
+        "chapterId": "voidship-and-colonies",
+        "where": "You melted the ice planet."
+      },
+      {
+        "id": "achievement-27",
+        "name": "Light of the Astronomican",
+        "kind": "trophy",
+        "chapterId": "voidship-and-colonies",
+        "where": "You charted a new path through the warp from one system to another."
+      },
+      {
+        "id": "achievement-28",
+        "name": "No Stone Unturned",
+        "kind": "trophy",
+        "chapterId": "voidship-and-colonies",
+        "where": "You visited all the systems in the Koronus Expanse."
+      },
+      {
+        "id": "achievement-29",
+        "name": "Greatest Exploration",
+        "kind": "trophy",
+        "chapterId": "voidship-and-colonies",
+        "where": "You scanned all available worlds."
+      },
+      {
+        "id": "achievement-30",
+        "name": "Don't Touch This",
+        "kind": "trophy",
+        "chapterId": "prologue-and-chapter-1",
+        "where": "Playing on Daring difficulty or above, you did not let the Chaos Spawn consume any cultists at the end of the Prologue."
+      },
+      {
+        "id": "achievement-31",
+        "name": "Aviation Saviour",
+        "kind": "trophy",
+        "chapterId": "prologue-and-chapter-1",
+        "where": "Playing on Daring difficulty or above, you did not let any shuttles be destroyed at the end of Chapter 1."
+      },
+      {
+        "id": "achievement-32",
+        "name": "Cleаning Out the Tzeentch",
+        "kind": "trophy",
+        "chapterId": "companions-and-choices",
+        "where": "You killed the Daemon of Tzeentch in the sewers under the Upperway."
+      },
+      {
+        "id": "achievement-33",
+        "name": "Curiosity Is Not a Vice",
+        "kind": "trophy",
+        "chapterId": "voidship-and-colonies",
+        "where": "You visited half of the optional locations."
+      },
+      {
+        "id": "achievement-34",
+        "name": "Don't Stop the Exploration",
+        "kind": "trophy",
+        "chapterId": "voidship-and-colonies",
+        "where": "You visited all optional locations."
+      },
+      {
+        "id": "achievement-35",
+        "name": "Adventurous Archaeologist",
+        "kind": "trophy",
+        "chapterId": "companions-and-choices",
+        "where": "You solved all the puzzles at the unidentified ruins."
+      },
+      {
+        "id": "achievement-36",
+        "name": "Silver-Tongued Diplomat",
+        "kind": "trophy",
+        "chapterId": "companions-and-choices",
+        "where": "You prevented 7 combats through dialogue."
+      },
+      {
+        "id": "achievement-37",
+        "name": "Those Who Are About to Die Salute You",
+        "kind": "trophy",
+        "chapterId": "chapters-2-and-3",
+        "where": "You let the Khymerae tear apart all the gladiators in the first battle in the Commorragh arena."
+      },
+      {
+        "id": "achievement-38",
+        "name": "Fully Prepared",
+        "kind": "trophy",
+        "chapterId": "companions-and-choices",
+        "where": "You used stimms to remove all debuffs from the Rogue Trader before meeting Malice."
+      },
+      {
+        "id": "achievement-39",
+        "name": "Preserve the Architecture",
+        "kind": "trophy",
+        "chapterId": "companions-and-choices",
+        "where": "You killed a defiler without destroying any of the 4 plasma batteries strengthening it."
+      },
+      {
+        "id": "achievement-40",
+        "name": "Jungle Heat",
+        "kind": "trophy",
+        "chapterId": "prologue-and-chapter-1",
+        "where": "You resolved the crisis on Janus."
+      },
+      {
+        "id": "achievement-41",
+        "name": "Iron Judgement",
+        "kind": "trophy",
+        "chapterId": "prologue-and-chapter-1",
+        "where": "You decided the fate of Kiava Gamma."
+      },
+      {
+        "id": "achievement-42",
+        "name": "No Place Like Home",
+        "kind": "trophy",
+        "chapterId": "prologue-and-chapter-1",
+        "where": "You secured Dargonus."
+      },
+      {
+        "id": "achievement-43",
+        "name": "Work of the Holy Ordos",
+        "kind": "trophy",
+        "chapterId": "companions-and-choices",
+        "where": "You handed over Idira, Yrliet, and Marazhai to the Inquisition."
+      },
+      {
+        "id": "achievement-44",
+        "name": "Polyglot",
+        "kind": "trophy",
+        "chapterId": "companions-and-choices",
+        "where": "You learned the Necron language."
+      },
+      {
+        "id": "achievement-45",
+        "name": "A Spark",
+        "kind": "trophy",
+        "chapterId": "companions-and-choices",
+        "where": "You started a romance."
+      },
+      {
+        "id": "achievement-46",
+        "name": "A Flame",
+        "kind": "trophy",
+        "chapterId": "companions-and-choices",
+        "where": "You found your true love."
+      },
+      {
+        "id": "achievement-47",
+        "name": "Unexpected Company",
+        "kind": "trophy",
+        "chapterId": "companions-and-choices",
+        "where": "You recruited a secret companion."
+      },
+      {
+        "id": "achievement-48",
+        "name": "How Did It All End?",
+        "kind": "trophy",
+        "chapterId": "companions-and-choices",
+        "where": "You raised your own abomination."
+      },
+      {
+        "id": "achievement-49",
+        "name": "Whodunit?",
+        "kind": "trophy",
+        "chapterId": "companions-and-choices",
+        "where": "You discovered the truth about Theodora's death."
+      },
+      {
+        "id": "achievement-50",
+        "name": "Amends to the Dead",
+        "kind": "trophy",
+        "chapterId": "companions-and-choices",
+        "where": "You wore the Halo Device."
+      },
+      {
+        "id": "achievement-51",
+        "name": "Frog Trader",
+        "kind": "trophy",
+        "chapterId": "chapter-4-and-finale",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-52",
+        "name": "Enraged Dragon",
+        "kind": "trophy",
+        "chapterId": "chapter-4-and-finale",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-53",
+        "name": "This Is a Job for the Lord Captain!",
+        "kind": "trophy",
+        "chapterId": "chapter-4-and-finale",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-54",
+        "name": "Returning the Boots",
+        "kind": "trophy",
+        "chapterId": "chapter-4-and-finale",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-55",
+        "name": "Thorough Investigation",
+        "kind": "trophy",
+        "chapterId": "chapter-4-and-finale",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-56",
+        "name": "Burning Inheritance",
+        "kind": "trophy",
+        "chapterId": "chapter-4-and-finale",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-57",
+        "name": "Knee-Deep in Chaos",
+        "kind": "trophy",
+        "chapterId": "chapter-4-and-finale",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-58",
+        "name": "The Possessed Ship",
+        "kind": "trophy",
+        "chapterId": "chapter-4-and-finale",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-59",
+        "name": "The Not-So-Bottomless Pit",
+        "kind": "trophy",
+        "chapterId": "chapter-4-and-finale",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-60",
+        "name": "Sweet Perdition",
+        "kind": "trophy",
+        "chapterId": "chapter-4-and-finale",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-61",
+        "name": "Invisible Bureaucracy",
+        "kind": "trophy",
+        "chapterId": "chapter-4-and-finale",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-62",
+        "name": "Thank You for Waiting",
+        "kind": "trophy",
+        "chapterId": "chapter-4-and-finale",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-63",
+        "name": "Oath to the Stars",
+        "kind": "trophy",
+        "chapterId": "chapter-4-and-finale",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-64",
+        "name": "Imperial Route",
+        "kind": "trophy",
+        "chapterId": "chapter-4-and-finale",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-65",
+        "name": "Deepest Conviction",
+        "kind": "trophy",
+        "chapterId": "daring-and-convictions",
+        "where": "You completed the game with any Conviction: Zealot on Daring difficulty or above."
+      },
+      {
+        "id": "achievement-66",
+        "name": "This Is My Throne!",
+        "kind": "trophy",
+        "chapterId": "chapter-4-and-finale",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-67",
+        "name": "Death Has Whispered Your Name",
+        "kind": "trophy",
+        "chapterId": "chapter-4-and-finale",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-68",
+        "name": "Void Shadows",
+        "kind": "trophy",
+        "chapterId": "voidship-and-colonies",
+        "where": "You dispelled the shadows in the void."
+      },
+      {
+        "id": "achievement-69",
+        "name": "This Is Fine",
+        "kind": "trophy",
+        "chapterId": "companions-and-choices",
+        "where": "You defeated the ship's confessor without letting the Rogue Trader suffer any damage."
+      },
+      {
+        "id": "achievement-70",
+        "name": "Death Waltz",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "You killed 3 enemies in one turn using the Death Waltz ability."
+      },
+      {
+        "id": "achievement-71",
+        "name": "Stay Away From My Psykers!",
+        "kind": "trophy",
+        "chapterId": "companions-and-choices",
+        "where": "You saved all Astropaths during the telepathic ritual."
+      },
+      {
+        "id": "achievement-72",
+        "name": "Malum Se Ipsum Devorat",
+        "kind": "trophy",
+        "chapterId": "companions-and-choices",
+        "where": "You forced the Magus to kill himself with his own attack."
+      },
+      {
+        "id": "achievement-73",
+        "name": "Trolley Problem",
+        "kind": "trophy",
+        "chapterId": "companions-and-choices",
+        "where": "You saved Captain Klein on the freight line."
+      },
+      {
+        "id": "achievement-74",
+        "name": "It Itches!",
+        "kind": "trophy",
+        "chapterId": "companions-and-choices",
+        "where": "You caught a suspicious rash on the freight line and did not cure it by the end of the game."
+      },
+      {
+        "id": "achievement-75",
+        "name": "At Home Among the Poor",
+        "kind": "trophy",
+        "chapterId": "companions-and-choices",
+        "where": "You successfully mingled with people of much lower rank."
+      },
+      {
+        "id": "achievement-76",
+        "name": "Best Pilots in the Sector",
+        "kind": "trophy",
+        "chapterId": "voidship-and-colonies",
+        "where": "You destroyed 4 ships using attack crafts."
+      },
+      {
+        "id": "achievement-77",
+        "name": "Tactician on a Galactic Scale",
+        "kind": "trophy",
+        "chapterId": "voidship-and-colonies",
+        "where": "You made effective use of every special zone in void battles at least once."
+      },
+      {
+        "id": "achievement-78",
+        "name": "Mysteries of the Ecclesiarchy",
+        "kind": "trophy",
+        "chapterId": "chapter-4-and-finale",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-79",
+        "name": "You Were Warned",
+        "kind": "trophy",
+        "chapterId": "companions-and-choices",
+        "where": "You performed the telepathic ritual with Idira as your assistant."
+      },
+      {
+        "id": "achievement-80",
+        "name": "This Task Is for the Lord Captain Only",
+        "kind": "trophy",
+        "chapterId": "companions-and-choices",
+        "where": "You were self-sufficient when dealing with the blood bath mystery."
+      },
+      {
+        "id": "achievement-81",
+        "name": "To Become the Flagship's Blood",
+        "kind": "trophy",
+        "chapterId": "companions-and-choices",
+        "where": "You became a spinner of the Bloodspun Web."
+      },
+      {
+        "id": "achievement-82",
+        "name": "Mind Your Head",
+        "kind": "trophy",
+        "chapterId": "companions-and-choices",
+        "where": "You were less than precise with heavy machinery."
+      },
+      {
+        "id": "achievement-83",
+        "name": "Slumdog Overlord",
+        "kind": "trophy",
+        "chapterId": "companions-and-choices",
+        "where": "You decided the fate of the freight line of your voidship."
+      },
+      {
+        "id": "achievement-84",
+        "name": "Well-Deserved Rest",
+        "kind": "trophy",
+        "chapterId": "companions-and-choices",
+        "where": "You took a bath with every available companion."
+      },
+      {
+        "id": "achievement-85",
+        "name": "Fool Me Once",
+        "kind": "trophy",
+        "chapterId": "chapter-4-and-finale",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-86",
+        "name": "\"There Is Only War...\"",
+        "kind": "trophy",
+        "chapterId": "daring-and-convictions",
+        "where": "You completed the game in Grim Darkness mode."
+      },
+      {
+        "id": "achievement-87",
+        "name": "Lex Imperialis",
+        "kind": "trophy",
+        "chapterId": "companions-and-choices",
+        "where": "You experienced the full force of the Lex Imperialis and survived."
+      },
+      {
+        "id": "achievement-88",
+        "name": "Thrill of the Game",
+        "kind": "trophy",
+        "chapterId": "companions-and-choices",
+        "where": "You found all the impostors."
+      },
+      {
+        "id": "achievement-89",
+        "name": "Of Course I Know What I'm Doing!",
+        "kind": "trophy",
+        "chapterId": "chapter-4-and-finale",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-90",
+        "name": "Pack Animal",
+        "kind": "trophy",
+        "chapterId": "chapter-4-and-finale",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-91",
+        "name": "Rogue Trader, One Item",
+        "kind": "trophy",
+        "chapterId": "companions-and-choices",
+        "where": "You received a complete inventory of the Rogue Trader."
+      },
+      {
+        "id": "achievement-92",
+        "name": "Release the Hound!",
+        "kind": "trophy",
+        "chapterId": "daring-and-convictions",
+        "where": "On Daring difficulty or above, the Cyber-Mastiff bit at least 7 different enemies in one turn."
+      },
+      {
+        "id": "achievement-93",
+        "name": "Pet the Dog",
+        "kind": "trophy",
+        "chapterId": "companions-and-choices",
+        "where": "You successfully petted Glaito."
+      },
+      {
+        "id": "achievement-94",
+        "name": "Family Secret",
+        "kind": "trophy",
+        "chapterId": "chapter-4-and-finale",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-95",
+        "name": "Tank You!",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "You hit at least 7 enemies with a single shot from a tank."
+      },
+      {
+        "id": "achievement-96",
+        "name": "Royal Feast",
+        "kind": "trophy",
+        "chapterId": "companions-and-choices",
+        "where": "You successfully ate all three dishes on Thassera."
+      },
+      {
+        "id": "achievement-97",
+        "name": "Thorough Audit",
+        "kind": "trophy",
+        "chapterId": "companions-and-choices",
+        "where": "You poked your nose into all the available containers on Leethus."
+      },
+      {
+        "id": "achievement-98",
+        "name": "Not a Scratch",
+        "kind": "trophy",
+        "chapterId": "voidship-and-colonies",
+        "where": "You boarded the Heartless without destroying any of its compartments."
+      },
+      {
+        "id": "achievement-99",
+        "name": "One Step Ahead",
+        "kind": "trophy",
+        "chapterId": "chapter-4-and-finale",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-100",
+        "name": "I'm the Captain Here!",
+        "kind": "trophy",
+        "chapterId": "voidship-and-colonies",
+        "where": "You defeated the captain of the Heartless."
+      },
+      {
+        "id": "achievement-101",
+        "name": "Valuable Player",
+        "kind": "trophy",
+        "chapterId": "daring-and-convictions",
+        "where": "On Daring difficulty or above, you used Obstruct Vision to kill at least 3 enemies in one fight."
+      },
+      {
+        "id": "achievement-102",
+        "name": "A Little Too Crowded",
+        "kind": "trophy",
+        "chapterId": "daring-and-convictions",
+        "where": "On Daring difficulty or above, you had at least 15 creatures at once in the Extrapolation area."
+      },
+      {
+        "id": "achievement-103",
+        "name": "Friendly Warp-Fire",
+        "kind": "trophy",
+        "chapterId": "daring-and-convictions",
+        "where": "On Daring difficulty or above, you \"accidentally\" knocked out a companion in the Warp Relay area."
+      },
+      {
+        "id": "achievement-104",
+        "name": "The Defence Rests",
+        "kind": "trophy",
+        "chapterId": "chapter-4-and-finale",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-105",
+        "name": "Collateral Damage",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "You knocked out your companion with a tank shot."
+      },
+      {
+        "id": "achievement-106",
+        "name": "A Slight Sting",
+        "kind": "trophy",
+        "chapterId": "chapter-4-and-finale",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-107",
+        "name": "Infinite Museion",
+        "kind": "trophy",
+        "chapterId": "museion-and-zarkov",
+        "where": "You survived the machinations of Trazyn the Infinite."
+      },
+      {
+        "id": "achievement-108",
+        "name": "Blood Feud",
+        "kind": "trophy",
+        "chapterId": "chapter-4-and-finale",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-109",
+        "name": "Family Ties",
+        "kind": "trophy",
+        "chapterId": "chapter-4-and-finale",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-110",
+        "name": "Ancestral Traces",
+        "kind": "trophy",
+        "chapterId": "chapter-4-and-finale",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-111",
+        "name": "Deal of the Century",
+        "kind": "trophy",
+        "chapterId": "chapter-4-and-finale",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-112",
+        "name": "Main Exhibit",
+        "kind": "trophy",
+        "chapterId": "chapter-4-and-finale",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-113",
+        "name": "Do Not Press",
+        "kind": "trophy",
+        "chapterId": "museion-and-zarkov",
+        "where": "You activated the xenodevice in the hardlight lab."
+      },
+      {
+        "id": "achievement-114",
+        "name": "Full Force",
+        "kind": "trophy",
+        "chapterId": "museion-and-zarkov",
+        "where": "You used galvanisation on augments in every slot."
+      },
+      {
+        "id": "achievement-115",
+        "name": "The Ones We Left Behind",
+        "kind": "trophy",
+        "chapterId": "chapter-4-and-finale",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-116",
+        "name": "United Front",
+        "kind": "trophy",
+        "chapterId": "museion-and-zarkov",
+        "where": "You earned the respect of both Vedka and Izdrig at the same time."
+      },
+      {
+        "id": "achievement-117",
+        "name": "Frontier Conqueror",
+        "kind": "trophy",
+        "chapterId": "museion-and-zarkov",
+        "where": "You completed Zarkov's colony chronicle."
+      },
+      {
+        "id": "achievement-118",
+        "name": "Weed Killer",
+        "kind": "trophy",
+        "chapterId": "museion-and-zarkov",
+        "where": "On Daring difficulty or above, you killed the Drover without destroying its shoots."
+      },
+      {
+        "id": "achievement-119",
+        "name": "Déjà Vu",
+        "kind": "trophy",
+        "chapterId": "museion-and-zarkov",
+        "where": "You tried to approach the Chronomancer 3 times in 1 round."
+      },
+      {
+        "id": "achievement-120",
+        "name": "Full Work-Up",
+        "kind": "trophy",
+        "chapterId": "museion-and-zarkov",
+        "where": "You upgraded the Implantation Throne in the Sector Bionica to the maximum level."
+      },
+      {
+        "id": "achievement-121",
+        "name": "History Buff",
+        "kind": "trophy",
+        "chapterId": "chapter-4-and-finale",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-122",
+        "name": "Hero of Zarkov",
+        "kind": "trophy",
+        "chapterId": "chapter-4-and-finale",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-123",
+        "name": "Not in the Spirit!",
+        "kind": "trophy",
+        "chapterId": "museion-and-zarkov",
+        "where": "On Daring difficulty or above, you broke the Chronomancer's obelisk before its first activation."
+      },
+      {
+        "id": "achievement-124",
+        "name": "Emergency Defrost",
+        "kind": "trophy",
+        "chapterId": "museion-and-zarkov",
+        "where": "On Daring difficulty or above, you smashed the ice blocks on Amsanct using only generator overload."
+      },
+      {
+        "id": "achievement-125",
+        "name": "Praise the Omnissiah",
+        "kind": "trophy",
+        "chapterId": "museion-and-zarkov",
+        "where": "You used every augmentation slot on your character."
+      },
+      {
+        "id": "achievement-126",
+        "name": "Atonement for the One",
+        "kind": "trophy",
+        "chapterId": "museion-and-zarkov",
+        "where": "You sent Batoshski or Dunawski on a doomed mission."
+      },
+      {
+        "id": "achievement-127",
+        "name": "Clear Vision",
+        "kind": "trophy",
+        "chapterId": "museion-and-zarkov",
+        "where": "You did not deviate in your management of the Sector Bionica."
+      },
+      {
+        "id": "achievement-128",
+        "name": "Historical Excavation",
+        "kind": "trophy",
+        "chapterId": "museion-and-zarkov",
+        "where": "You solved the puzzle in the lost tomb on Zarkov."
+      },
+      {
+        "id": "achievement-129",
+        "name": "Promethium Master",
+        "kind": "trophy",
+        "chapterId": "museion-and-zarkov",
+        "where": "You solved the puzzle on Tirkuaz-4."
+      },
+      {
+        "id": "achievement-130",
+        "name": "Vandal",
+        "kind": "trophy",
+        "chapterId": "museion-and-zarkov",
+        "where": "You solved the puzzle in the Museion."
+      },
+      {
+        "id": "achievement-131",
+        "name": "Breathe Deep",
+        "kind": "trophy",
+        "chapterId": "museion-and-zarkov",
+        "where": "On Daring difficulty or above, you took no damage from gas when fighting the soldiers of Krieg."
+      },
+      {
+        "id": "achievement-132",
+        "name": "Kill the Xenos!",
+        "kind": "trophy",
+        "chapterId": "museion-and-zarkov",
+        "where": "On Daring difficulty or above, you destroyed the Aeldari ship in Zarkov's orbit."
+      },
+      {
+        "id": "achievement-133",
+        "name": "Help Is Not Coming",
+        "kind": "trophy",
+        "chapterId": "museion-and-zarkov",
+        "where": "On Daring difficulty or above, you killed the Tech-Priests before they could reinforce the Defiler."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/warhammer-40000-rogue-trader",
+    "Achievement data from Steam (Steam Web API, app 2186680)",
+    "StrategyWiki: no usable walkthrough, nothing used — https://strategywiki.org/wiki/Warhammer_40,000:_Rogue_Trader",
+    "Fandom (warhammer40k.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://warhammer40k.fandom.com/wiki/Warhammer_40,000:_Rogue_Trader"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). StrategyWiki has a stub page (completion stage 0, marked \"Perfect stub article\"); it links Gameplay, Walkthrough and Table of Contents subpages, but none of them exists, so nothing was used. warhammer40k.fandom.com answers the API with about 34 linked articles (lore pages such as \"Koronus Expanse\", \"House von Valancius\", \"Theodora von Valancius\" and \"Calixis Sector\"); names only were looked at, nothing copied. Steam app 2186680 is the base game. 32 of 133 Steam achievements are hidden; they sit in the finale chapter as a placeholder, though many are probably side quests or companion events from any chapter. The Steam list names a Prologue and Chapters 1 to 4, so the story chapters follow them. About 20 achievements near the end of the Steam list (Trazyn and the Museion, the Sector Bionica, Zarkov, the Chronomancer, the soldiers of Krieg) have very low unlock rates (0.1 to 3%) and are grouped together; the data does not say they come from add-on content. \"Preserve the Architecture\" (a defiler fight, 2.9%) sits earlier in the list and is left with the choices chapter. Achievements that need Daring difficulty in those places are put with them rather than with the difficulty chapter. \"Void Shadows\" (dispelling the shadows in the void) sits with void battles."
+}

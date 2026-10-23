@@ -1,0 +1,685 @@
+{
+  "id": "lords-of-the-fallen-2023",
+  "title": "Lords of the Fallen",
+  "year": 2023,
+  "platforms": [
+    "PlayStation 4",
+    "Xbox One",
+    "Xbox Series X|S",
+    "PlayStation 5",
+    "PC"
+  ],
+  "rawgId": 840776,
+  "rawgSlug": "lords-of-the-fallen-2",
+  "released": "2023-10-13",
+  "developers": [
+    "City Interactive",
+    "HEXWORKS",
+    "Hexaworks"
+  ],
+  "playtime": null,
+  "genres": [
+    "Action",
+    "RPG"
+  ],
+  "tags": [],
+  "coverUrl": "https://media.rawg.io/media/games/12c/12c2fd04262732cb5e2e6ff378e1cc2d.jpg",
+  "steamAppId": 1501750,
+  "achievements": {
+    "total": 77,
+    "hidden": 34,
+    "examples": [
+      {
+        "name": "A Veil Lifted",
+        "percent": 75.2
+      },
+      {
+        "name": "Lost and Found",
+        "percent": 68.7
+      },
+      {
+        "name": "Thriving in Darkness",
+        "percent": 63.1
+      },
+      {
+        "name": "Inefficient Medicine",
+        "percent": 1.1
+      },
+      {
+        "name": "A Gruelling Journey",
+        "percent": 1.1
+      },
+      {
+        "name": "Lord of Slaughter",
+        "percent": 1.1
+      },
+      {
+        "name": "Indomitable",
+        "percent": 1.1
+      },
+      {
+        "name": "Lord of The Fallen",
+        "percent": 0.9
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Lords_of_the_Fallen_(2023)",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 12,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://lordsofthefallen.fandom.com/wiki/Lords_of_the_Fallen_(2023)"
+    }
+  },
+  "game": {
+    "id": "lords-of-the-fallen-2023",
+    "title": "Lords of the Fallen",
+    "platforms": [
+      "PlayStation 4",
+      "Xbox One",
+      "Xbox Series X|S",
+      "PlayStation 5",
+      "PC"
+    ],
+    "blurb": "Dark-fantasy action RPG where you cross between the living world of Axiom and the Umbral realm of the dead, from Hexworks, released 2023-10-13. RAWG has no playtime yet. Genres: Action, RPG. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#C8A24A",
+    "chapters": [
+      {
+        "id": "main-story",
+        "title": "The Journey and the Bosses",
+        "summary": "The journey across Mournestead, its bosses and its endings, from the first trip to Skyrest Bridge onward. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "umbral-and-basics",
+        "title": "Axiom, Umbral and First Steps",
+        "summary": "Dying and coming back, Vestige Seeds, Umbral finishers, the Umbral lamp and its Umbral Eyes, stigmas and offerings.",
+        "steps": []
+      },
+      {
+        "id": "gear-and-upgrades",
+        "title": "Gear, Runes and Levels",
+        "summary": "Upgrading weapons and the Sanguinarix, socketing runes, applying tincts and reaching level 100.",
+        "steps": []
+      },
+      {
+        "id": "collections",
+        "title": "Full Collections",
+        "summary": "Every area, weapon, armour piece, ring, spell, throwable, ammo type and gesture, and every achievement.",
+        "steps": []
+      },
+      {
+        "id": "online",
+        "title": "Co-op and PvP",
+        "summary": "Beckoning a co-op partner, beating bosses together, avenging other lampbearers and player-versus-player fights. Needs online play.",
+        "steps": []
+      },
+      {
+        "id": "modifiers",
+        "title": "New Game Modifiers",
+        "summary": "Starting new games with modifiers and reaching an ending with pairs of them switched on.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Wayfarer",
+        "kind": "trophy",
+        "chapterId": "collections",
+        "where": "Visited all of the areas in the game."
+      },
+      {
+        "id": "achievement-2",
+        "name": "A Veil Lifted",
+        "kind": "trophy",
+        "chapterId": "umbral-and-basics",
+        "where": "Died in Axiom for the first time."
+      },
+      {
+        "id": "achievement-3",
+        "name": "Lost and Found",
+        "kind": "trophy",
+        "chapterId": "umbral-and-basics",
+        "where": "Retrieved vigor lost upon death."
+      },
+      {
+        "id": "achievement-4",
+        "name": "Weapon Collector",
+        "kind": "trophy",
+        "chapterId": "collections",
+        "where": "Collected all weapons."
+      },
+      {
+        "id": "achievement-5",
+        "name": "Ironclad",
+        "kind": "trophy",
+        "chapterId": "collections",
+        "where": "Collected all armour pieces."
+      },
+      {
+        "id": "achievement-6",
+        "name": "What Sights Contained Within",
+        "kind": "trophy",
+        "chapterId": "collections",
+        "where": "Collected all Umbral Eyes."
+      },
+      {
+        "id": "achievement-7",
+        "name": "Trinket Collector",
+        "kind": "trophy",
+        "chapterId": "collections",
+        "where": "Collected all rings and pendants."
+      },
+      {
+        "id": "achievement-8",
+        "name": "Ammunition Collector",
+        "kind": "trophy",
+        "chapterId": "collections",
+        "where": "Collected all ammo types."
+      },
+      {
+        "id": "achievement-9",
+        "name": "Inferno Adept",
+        "kind": "trophy",
+        "chapterId": "collections",
+        "where": "Collected all Inferno spells."
+      },
+      {
+        "id": "achievement-10",
+        "name": "Radiant Adept",
+        "kind": "trophy",
+        "chapterId": "collections",
+        "where": "Collected all Radiance spells."
+      },
+      {
+        "id": "achievement-11",
+        "name": "Umbral Adept",
+        "kind": "trophy",
+        "chapterId": "collections",
+        "where": "Collected all Umbral spells."
+      },
+      {
+        "id": "achievement-12",
+        "name": "Throwable Collector",
+        "kind": "trophy",
+        "chapterId": "collections",
+        "where": "Collected all throwables."
+      },
+      {
+        "id": "achievement-13",
+        "name": "Gesture Collector",
+        "kind": "trophy",
+        "chapterId": "collections",
+        "where": "Collected all gestures."
+      },
+      {
+        "id": "achievement-14",
+        "name": "Salvation in Blood",
+        "kind": "trophy",
+        "chapterId": "gear-and-upgrades",
+        "where": "Fully upgraded the Sanguinarix."
+      },
+      {
+        "id": "achievement-15",
+        "name": "Honed to Perfection",
+        "kind": "trophy",
+        "chapterId": "gear-and-upgrades",
+        "where": "Fully upgraded a weapon."
+      },
+      {
+        "id": "achievement-16",
+        "name": "Rune Novice",
+        "kind": "trophy",
+        "chapterId": "gear-and-upgrades",
+        "where": "Placed a rune in a socket for the first time."
+      },
+      {
+        "id": "achievement-17",
+        "name": "Rune Master",
+        "kind": "trophy",
+        "chapterId": "gear-and-upgrades",
+        "where": "Fully socketed a 3-rune weapon or shield."
+      },
+      {
+        "id": "achievement-18",
+        "name": "Carving Out Victory",
+        "kind": "trophy",
+        "chapterId": "umbral-and-basics",
+        "where": "Fully upgraded the Umbral lamp."
+      },
+      {
+        "id": "achievement-19",
+        "name": "Utmost Insight",
+        "kind": "trophy",
+        "chapterId": "umbral-and-basics",
+        "where": "Fully socketed the Umbral lamp with Umbral Eyes."
+      },
+      {
+        "id": "achievement-20",
+        "name": "Comrades",
+        "kind": "trophy",
+        "chapterId": "online",
+        "where": "Beckoned a co-op partner."
+      },
+      {
+        "id": "achievement-21",
+        "name": "Shared Triumph",
+        "kind": "trophy",
+        "chapterId": "online",
+        "where": "Defeated a boss alongside a co-op partner."
+      },
+      {
+        "id": "achievement-22",
+        "name": "Vengeance for the Fallen",
+        "kind": "trophy",
+        "chapterId": "online",
+        "where": "Avenged a fallen lampbearer."
+      },
+      {
+        "id": "achievement-23",
+        "name": "No Mercy",
+        "kind": "trophy",
+        "chapterId": "online",
+        "where": "Defeated another player in PVP."
+      },
+      {
+        "id": "achievement-24",
+        "name": "Infernal Offerings",
+        "kind": "trophy",
+        "chapterId": "umbral-and-basics",
+        "where": "Donated a total of 10 Severed Hands."
+      },
+      {
+        "id": "achievement-25",
+        "name": "Radiant Offerings",
+        "kind": "trophy",
+        "chapterId": "umbral-and-basics",
+        "where": "Donated a total of 10 Pilfered Coins."
+      },
+      {
+        "id": "achievement-26",
+        "name": "Umbral Offerings",
+        "kind": "trophy",
+        "chapterId": "umbral-and-basics",
+        "where": "Donated a total of 10 Plucked Eyeballs."
+      },
+      {
+        "id": "achievement-27",
+        "name": "Shades of Violence",
+        "kind": "trophy",
+        "chapterId": "gear-and-upgrades",
+        "where": "Applied a tinct to a piece of gear."
+      },
+      {
+        "id": "achievement-28",
+        "name": "Rise and Fall",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-29",
+        "name": "Together in Death",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-30",
+        "name": "Burying the Past",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-31",
+        "name": "Unwanted",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-32",
+        "name": "Unbroken to the End",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-33",
+        "name": "Wings of Grief",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-34",
+        "name": "Twin Faces of Sin",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-35",
+        "name": "Judgement",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-36",
+        "name": "Hunt's End",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-37",
+        "name": "The King is Dead",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-38",
+        "name": "A Hunger Sated",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-39",
+        "name": "Fallen",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-40",
+        "name": "None Shall be Spared",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-41",
+        "name": "The Price of Knowledge",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-42",
+        "name": "Part of the Divine",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-43",
+        "name": "Travels Resumed",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-44",
+        "name": "Moving On",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-45",
+        "name": "Hero Worship",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-46",
+        "name": "Antanas' Legacy",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-47",
+        "name": "Faithful",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-48",
+        "name": "Without Purpose",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-49",
+        "name": "A Queen's Rest",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-50",
+        "name": "The Last Step",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-51",
+        "name": "Vengeful Reflection",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-52",
+        "name": "Lord of the Risen",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-53",
+        "name": "In Light we Walk",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-54",
+        "name": "Back to the Void",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-55",
+        "name": "A Shadow Dispelled",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-56",
+        "name": "Essence of Death",
+        "kind": "trophy",
+        "chapterId": "umbral-and-basics",
+        "where": "Defeated an enemy with an Umbral finisher."
+      },
+      {
+        "id": "achievement-57",
+        "name": "Thriving in Darkness",
+        "kind": "trophy",
+        "chapterId": "umbral-and-basics",
+        "where": "Used a Vestige Seed."
+      },
+      {
+        "id": "achievement-58",
+        "name": "Seasoned",
+        "kind": "trophy",
+        "chapterId": "gear-and-upgrades",
+        "where": "Reached Level 100."
+      },
+      {
+        "id": "achievement-59",
+        "name": "Lord of The Fallen",
+        "kind": "trophy",
+        "chapterId": "collections",
+        "where": "Earned all achievements."
+      },
+      {
+        "id": "achievement-60",
+        "name": "The Past Shapes the Present",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Offered Molhu the Bowl of Revelations."
+      },
+      {
+        "id": "achievement-61",
+        "name": "Lingering Moments",
+        "kind": "trophy",
+        "chapterId": "umbral-and-basics",
+        "where": "Viewed all Umbral stigmas."
+      },
+      {
+        "id": "achievement-62",
+        "name": "A Rest Among the Dead",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Reached the Skyrest Bridge interior."
+      },
+      {
+        "id": "achievement-63",
+        "name": "A Trace of Venom",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-64",
+        "name": "Fickle Fortune",
+        "kind": "trophy",
+        "chapterId": "modifiers",
+        "where": "Reached an ending with the Pre-upgraded Weapons and Random Loot modifiers enabled."
+      },
+      {
+        "id": "achievement-65",
+        "name": "Inefficient Medicine",
+        "kind": "trophy",
+        "chapterId": "modifiers",
+        "where": "Reached an ending with the Ironman and Withered Health modifiers enabled."
+      },
+      {
+        "id": "achievement-66",
+        "name": "Trail of the Dead",
+        "kind": "trophy",
+        "chapterId": "modifiers",
+        "where": "Reached an ending with the Random Enemies and Withered Health modifiers enabled."
+      },
+      {
+        "id": "achievement-67",
+        "name": "Making Do",
+        "kind": "trophy",
+        "chapterId": "modifiers",
+        "where": "Reached an ending with the Withered Health and the Random Loot modifiers enabled."
+      },
+      {
+        "id": "achievement-68",
+        "name": "Come What May",
+        "kind": "trophy",
+        "chapterId": "modifiers",
+        "where": "Reached an ending with the Random Loot and Random Enemies modifiers enabled."
+      },
+      {
+        "id": "achievement-69",
+        "name": "A Gruelling Journey",
+        "kind": "trophy",
+        "chapterId": "modifiers",
+        "where": "Reached an ending with the Tremendous Vestige Decay and Ironman modifiers enabled"
+      },
+      {
+        "id": "achievement-70",
+        "name": "Lord of Slaughter",
+        "kind": "trophy",
+        "chapterId": "modifiers",
+        "where": "Reached an ending with the Ironman and Enemy Density modifiers enabled."
+      },
+      {
+        "id": "achievement-71",
+        "name": "Indomitable",
+        "kind": "trophy",
+        "chapterId": "modifiers",
+        "where": "Reached an ending with Random Enemies and Loot, Enemy Density, Tremendous Vestige Decay modifiers on."
+      },
+      {
+        "id": "achievement-72",
+        "name": "Altered Prospects",
+        "kind": "trophy",
+        "chapterId": "modifiers",
+        "where": "Started a new game with a modifier enabled."
+      },
+      {
+        "id": "achievement-73",
+        "name": "The Worm Stirs",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-74",
+        "name": "Promise Kept",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-75",
+        "name": "Brought Low",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-76",
+        "name": "Adyr's Chosen",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-77",
+        "name": "Conqueror of Hardships",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/lords-of-the-fallen-2",
+    "Achievement data from Steam (Steam Web API, app 1501750)",
+    "StrategyWiki: no usable walkthrough, nothing used — https://strategywiki.org/wiki/Lords_of_the_Fallen_(2023)",
+    "Fandom (lordsofthefallen.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://lordsofthefallen.fandom.com/wiki/Lords_of_the_Fallen_(2023)"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). This is the 2023 game (RAWG \"lords-of-the-fallen-2\", id 840776), not the 2014 one; Steam app 1501750 is \"Lords of the Fallen\" (app 265300 is the 2014 game). StrategyWiki has the guide under \"Lords of the Fallen (2023)\" as a stub (completion stage 0, marked \"Perfect stub article\"); it links Walkthrough, Gameplay, Controls and Achievements subpages, but only \"Achievements and trophies\" and \"Table of Contents\" exist, so nothing was used. lordsofthefallen.fandom.com answers under \"Lords of the Fallen (2023)\", with about 12 linked articles (such as \"Adyr\", \"Axiom\", \"Mournestead\", \"Umbral\"); names only were looked at, nothing copied. The Steam schema calls the app \"The Lords of the Fallen\". 34 of 77 Steam achievements are hidden; they sit in the journey chapter, though the last few (very low unlock rates, such as \"Adyr's Chosen\" at 0.8%) are probably endings or late optional bosses. \"The Past Shapes the Present\" (offering Molhu the Bowl of Revelations) and \"A Rest Among the Dead\" (reaching the Skyrest Bridge interior) are put with the journey. The eight modifier-ending achievements have their own chapter."
+}

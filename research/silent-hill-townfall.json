@@ -1,0 +1,381 @@
+{
+  "id": "silent-hill-townfall",
+  "title": "Silent Hill: Townfall",
+  "year": 2026,
+  "platforms": [
+    "PlayStation 5",
+    "PC"
+  ],
+  "rawgId": 1018062,
+  "rawgSlug": "silent-hill-townfall-2",
+  "released": "2026-09-23",
+  "developers": [
+    "Screen Burn"
+  ],
+  "playtime": null,
+  "genres": [
+    "Adventure"
+  ],
+  "tags": [
+    "First-Person",
+    "Horror",
+    "Survival",
+    "action ",
+    "adventure "
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/8ff/8ff55788736c59fcb7b814d862c2ae6f.jpeg",
+  "steamAppId": 1636440,
+  "achievements": {
+    "total": 36,
+    "hidden": 28,
+    "examples": [
+      {
+        "name": "Observation",
+        "percent": 47.6
+      },
+      {
+        "name": "From Scratch",
+        "percent": 44.6
+      },
+      {
+        "name": "Sweeping Signals",
+        "percent": 13.2
+      },
+      {
+        "name": "Reliving A Nightmare",
+        "percent": 4.9
+      },
+      {
+        "name": "Resourceful",
+        "percent": 4.5
+      },
+      {
+        "name": "Fleeting Visit",
+        "percent": 3.3
+      },
+      {
+        "name": "Thorough Inspection",
+        "percent": 3.3
+      },
+      {
+        "name": "Cold Calling",
+        "percent": 3.0
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": false,
+      "pages": 0,
+      "reason": "No page for Silent Hill: Townfall (MediaWiki API returned missing; see notes for other titles tried)"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 68,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://silenthill.fandom.com/wiki/Silent_Hill:_Townfall"
+    }
+  },
+  "game": {
+    "id": "silent-hill-townfall",
+    "title": "Silent Hill: Townfall",
+    "platforms": [
+      "PlayStation 5",
+      "PC"
+    ],
+    "blurb": "First-person psychological horror game set on the island of St. Amelia, from Screen Burn, released 2026-09-23. RAWG has no playtime yet. Genres: Adventure. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#6E7B7F",
+    "chapters": [
+      {
+        "id": "main-story",
+        "title": "The Main Story",
+        "summary": "Simon Ordell returns to St. Amelia and works through the fog to the end. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "documents-and-signals",
+        "title": "Documents, Phone Numbers and Signals",
+        "summary": "Collecting documents, calling every phone number, and tuning into every CRTV signal.",
+        "steps": []
+      },
+      {
+        "id": "crafting-and-resources",
+        "title": "Crafting and Resources",
+        "summary": "Combining items into new ones and opening every resource container.",
+        "steps": []
+      },
+      {
+        "id": "replays",
+        "title": "New Game Plus and Speed Run",
+        "summary": "New Game Plus on any difficulty, and finishing in under four hours.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Welcome To St. Amelia",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-2",
+        "name": "Resignation",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-3",
+        "name": "A Long Night Ahead",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-4",
+        "name": "The Patient",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-5",
+        "name": "Many Into One",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-6",
+        "name": "Key To The Castle",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-7",
+        "name": "Find Yourself",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-8",
+        "name": "Can't Change Things",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-9",
+        "name": "Eraser",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-10",
+        "name": "Reliving A Nightmare",
+        "kind": "trophy",
+        "chapterId": "replays",
+        "where": "Complete New Game Plus (any difficulty)."
+      },
+      {
+        "id": "achievement-11",
+        "name": "For St. Amelia",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-12",
+        "name": "Here To Stay",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-13",
+        "name": "Just Making Things Worse",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-14",
+        "name": "Let's Talk This Out",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-15",
+        "name": "Sci-fi-lent Hill",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-16",
+        "name": "Fleeting Visit",
+        "kind": "trophy",
+        "chapterId": "replays",
+        "where": "Finish the game in under 4 hours."
+      },
+      {
+        "id": "achievement-17",
+        "name": "Cold Calling",
+        "kind": "trophy",
+        "chapterId": "documents-and-signals",
+        "where": "Call all the phone numbers found in St. Amelia."
+      },
+      {
+        "id": "achievement-18",
+        "name": "Observation",
+        "kind": "trophy",
+        "chapterId": "documents-and-signals",
+        "where": "Collect 50% of all documents."
+      },
+      {
+        "id": "achievement-19",
+        "name": "Thorough Inspection",
+        "kind": "trophy",
+        "chapterId": "documents-and-signals",
+        "where": "Collect all of the documents."
+      },
+      {
+        "id": "achievement-20",
+        "name": "Blur Your Eyes",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-21",
+        "name": "Sweeping Signals",
+        "kind": "trophy",
+        "chapterId": "documents-and-signals",
+        "where": "Tune into all signals on the CRTV."
+      },
+      {
+        "id": "achievement-22",
+        "name": "Future Hardware",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-23",
+        "name": "Here's Simon!",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-24",
+        "name": "From Scratch",
+        "kind": "trophy",
+        "chapterId": "crafting-and-resources",
+        "where": "Create 20 new items by combining others."
+      },
+      {
+        "id": "achievement-25",
+        "name": "Creative Process",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-26",
+        "name": "Long-Range Masonry",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-27",
+        "name": "Pinpoint Inaccuracy",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-28",
+        "name": "Missing The Point Entirely",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-29",
+        "name": "Pull!",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-30",
+        "name": "Isolating Experience",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-31",
+        "name": "Static Distractions",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-32",
+        "name": "Lured Off Track",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-33",
+        "name": "Alarmingly Effective",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-34",
+        "name": "Reject The Help",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-35",
+        "name": "Resourceful",
+        "kind": "trophy",
+        "chapterId": "crafting-and-resources",
+        "where": "Unlock all resource containers."
+      },
+      {
+        "id": "achievement-36",
+        "name": "Save It For The Patients",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/silent-hill-townfall-2",
+    "Achievement data from Steam (Steam Web API, app 1636440)",
+    "StrategyWiki: no page for this game, nothing used",
+    "Fandom (silenthill.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://silenthill.fandom.com/wiki/Silent_Hill:_Townfall"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). RAWG's first result, \"silent-hill-townfall-2\" (id 1018062, released 2026-09-23, Screen Burn, published by Konami and Annapurna Interactive), matches the expected slug. No StrategyWiki page under \"Silent Hill: Townfall\" or \"Silent Hill Townfall\". silenthill.fandom.com answers the API under \"Silent Hill: Townfall\", with about 71 linked pages, including \"St. Amelia\", \"Simon Ordell\", \"Zoe Ellis\" and \"CRTV\"; names only were looked at, nothing copied. The Steam schema calls the app \"Cannula\" (an internal codename); the store list confirms app 1636440 as \"SILENT HILL: Townfall\". 28 of 36 Steam achievements are hidden, the highest share in this batch; they all sit in the main story chapter as a placeholder. Nine fall from 90% (\"Welcome To St. Amelia\") to 38% (\"Eraser\") and look like story steps; many others sit near 3 to 5% and may be endings or optional feats, but their conditions are secret, so the story chapter holds far more than story alone. Only 8 achievements are visible, so there are only four chapters."
+}

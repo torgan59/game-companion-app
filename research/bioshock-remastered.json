@@ -1,0 +1,630 @@
+{
+  "id": "bioshock-remastered",
+  "title": "BioShock Remastered",
+  "year": 2016,
+  "platforms": [
+    "PlayStation 4",
+    "Nintendo Switch",
+    "macOS",
+    "PC",
+    "Xbox One"
+  ],
+  "rawgId": 10754,
+  "rawgSlug": "bioshock-remastered",
+  "released": "2016-09-15",
+  "developers": [
+    "Feral Interactive",
+    "Digital Extremes",
+    "2K Australia",
+    "2K Marin",
+    "Virtuos",
+    "2K China",
+    "Blind Squirrel",
+    "2K Boston"
+  ],
+  "playtime": 4,
+  "genres": [
+    "Shooter"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Full controller support",
+    "Steam Cloud",
+    "Atmospheric",
+    "Great Soundtrack",
+    "RPG",
+    "Story Rich",
+    "First-Person",
+    "Sci-fi",
+    "Horror",
+    "FPS"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/be0/be01c3d7d8795a45615da139322ca080.jpg",
+  "steamAppId": 409710,
+  "achievements": {
+    "total": 65,
+    "hidden": 13,
+    "examples": [
+      {
+        "name": "Toaster in the Tub",
+        "percent": 78.1
+      },
+      {
+        "name": "Completed Welcome to Rapture",
+        "percent": 74.9
+      },
+      {
+        "name": "One Successful Hack",
+        "percent": 74.0
+      },
+      {
+        "name": "“A Shocking Turn of Events” – Collector",
+        "percent": 2.4
+      },
+      {
+        "name": "“A Shocking Turn of Events” – Master Electrician",
+        "percent": 2.4
+      },
+      {
+        "name": "“Worlds of Hurt” – Collector",
+        "percent": 2.2
+      },
+      {
+        "name": "“Worlds of Hurt” – Tough Guy",
+        "percent": 2.2
+      },
+      {
+        "name": "“Worlds of Hurt” – Expert",
+        "percent": 2.1
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/BioShock",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 142,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://bioshock.fandom.com/wiki/BioShock:_The_Collection"
+    }
+  },
+  "game": {
+    "id": "bioshock-remastered",
+    "title": "BioShock Remastered",
+    "platforms": [
+      "PlayStation 4",
+      "Nintendo Switch",
+      "macOS",
+      "PC",
+      "Xbox One"
+    ],
+    "blurb": "Remaster of the 2007 first-person shooter BioShock, set in the underwater city of Rapture; RAWG lists Feral Interactive, Digital Extremes, 2K Australia, 2K Marin, Virtuos, 2K China, Blind Squirrel and 2K Boston, and 2K Games as publisher. Released 2016-09-15. RAWG average playtime: 4 hours. Genre: Shooter. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#B08D3C",
+    "chapters": [
+      {
+        "id": "main-story",
+        "title": "The Story of Rapture",
+        "summary": "From Welcome to Rapture through the hidden story milestones, the bosses and the endings. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "little-sisters",
+        "title": "Little Sisters",
+        "summary": "Dealing with every Little Sister and finishing without harvesting any.",
+        "steps": []
+      },
+      {
+        "id": "research",
+        "title": "Research Camera",
+        "summary": "Research photos of Splicers, the Bouncer, Rosie and Little Sisters, up to maxing all research.",
+        "steps": []
+      },
+      {
+        "id": "hacking",
+        "title": "Hacking",
+        "summary": "Hacking security bots, turrets, cameras, vending machines and safes.",
+        "steps": []
+      },
+      {
+        "id": "weapons-and-inventing",
+        "title": "Weapon Upgrades and Inventing",
+        "summary": "Upgrading weapons, inventing items and every ammo type.",
+        "steps": []
+      },
+      {
+        "id": "plasmids-and-tonics",
+        "title": "Plasmids and Tonics",
+        "summary": "Buying Plasmid and Tonic slots, maxing the tracks and collecting Tonics.",
+        "steps": []
+      },
+      {
+        "id": "challenge-rooms",
+        "title": "Challenge Rooms",
+        "summary": "The three Little Sister rescue rooms named in the achievements: \"The 'I' in Team\", \"A Shocking Turn of Events\" and \"Worlds of Hurt\", with time, collectable Rose and style goals.",
+        "steps": []
+      },
+      {
+        "id": "audio-and-feats",
+        "title": "Audio Diaries and Other Feats",
+        "summary": "Every audio diary, the slot machine jackpot, shocking enemies in water and the hardest difficulty.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Completed Welcome to Rapture",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Successfully complete the Welcome To Rapture Level"
+      },
+      {
+        "id": "achievement-2",
+        "name": "Defeated Dr. Steinman",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-3",
+        "name": "Defeated Peach Wilkins",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-4",
+        "name": "Defeated Atlas",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-5",
+        "name": "Restored the Forest",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-6",
+        "name": "Completed Cohen's Masterpiece",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-7",
+        "name": "Defeated Andrew Ryan",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-8",
+        "name": "Weapon Specialist",
+        "kind": "trophy",
+        "chapterId": "weapons-and-inventing",
+        "where": "Acquire all upgrades for all weapons"
+      },
+      {
+        "id": "achievement-9",
+        "name": "Upgraded a Weapon",
+        "kind": "trophy",
+        "chapterId": "weapons-and-inventing",
+        "where": "Acquire at least one weapon upgrade"
+      },
+      {
+        "id": "achievement-10",
+        "name": "Fully Researched a Bouncer",
+        "kind": "trophy",
+        "chapterId": "research",
+        "where": "Fully research the Bouncer"
+      },
+      {
+        "id": "achievement-11",
+        "name": "Prolific Photographer",
+        "kind": "trophy",
+        "chapterId": "research",
+        "where": "Take at least one photo in every research group"
+      },
+      {
+        "id": "achievement-12",
+        "name": "One Successful Hack",
+        "kind": "trophy",
+        "chapterId": "hacking",
+        "where": "Perform at least one successful hack"
+      },
+      {
+        "id": "achievement-13",
+        "name": "Fully Researched a Thuggish Splicer",
+        "kind": "trophy",
+        "chapterId": "research",
+        "where": "Fully research the Thuggish Splicer"
+      },
+      {
+        "id": "achievement-14",
+        "name": "Fully Researched a Spider Splicer",
+        "kind": "trophy",
+        "chapterId": "research",
+        "where": "Fully research the Spider Splicer"
+      },
+      {
+        "id": "achievement-15",
+        "name": "Fully Researched a Houdini Splicer",
+        "kind": "trophy",
+        "chapterId": "research",
+        "where": "Fully research the Houdini Splicer"
+      },
+      {
+        "id": "achievement-16",
+        "name": "Fully Researched a Leadhead Splicer",
+        "kind": "trophy",
+        "chapterId": "research",
+        "where": "Fully research the Leadhead Splicer"
+      },
+      {
+        "id": "achievement-17",
+        "name": "Fully Researched a Nitro Splicer",
+        "kind": "trophy",
+        "chapterId": "research",
+        "where": "Fully research the Nitro Splicer"
+      },
+      {
+        "id": "achievement-18",
+        "name": "Fully Researched a Rosie",
+        "kind": "trophy",
+        "chapterId": "research",
+        "where": "Fully research the Rosie"
+      },
+      {
+        "id": "achievement-19",
+        "name": "Fully Researched a Little Sister",
+        "kind": "trophy",
+        "chapterId": "research",
+        "where": "Fully research the Little Sister"
+      },
+      {
+        "id": "achievement-20",
+        "name": "Quality Research Photo",
+        "kind": "trophy",
+        "chapterId": "research",
+        "where": "Take a Research Photo of the highest grade"
+      },
+      {
+        "id": "achievement-21",
+        "name": "Hacked a Security Bot",
+        "kind": "trophy",
+        "chapterId": "hacking",
+        "where": "Successfully hack a security bot"
+      },
+      {
+        "id": "achievement-22",
+        "name": "Hacked a Turret",
+        "kind": "trophy",
+        "chapterId": "hacking",
+        "where": "Successfully hack a Turret"
+      },
+      {
+        "id": "achievement-23",
+        "name": "Hacked a Security Camera",
+        "kind": "trophy",
+        "chapterId": "hacking",
+        "where": "Successfully hack a Security Camera"
+      },
+      {
+        "id": "achievement-24",
+        "name": "Hacked a Vending Machine",
+        "kind": "trophy",
+        "chapterId": "hacking",
+        "where": "Successfully hack a Vending Machine"
+      },
+      {
+        "id": "achievement-25",
+        "name": "Hacked a Safe",
+        "kind": "trophy",
+        "chapterId": "hacking",
+        "where": "Successfully hack a safe"
+      },
+      {
+        "id": "achievement-26",
+        "name": "Ammo Inventor",
+        "kind": "trophy",
+        "chapterId": "weapons-and-inventing",
+        "where": "Invent all possible ammunication types"
+      },
+      {
+        "id": "achievement-27",
+        "name": "Seriously Good at This",
+        "kind": "trophy",
+        "chapterId": "audio-and-feats",
+        "where": "Complete the game on the hardest difficulty setting"
+      },
+      {
+        "id": "achievement-28",
+        "name": "Basic Inventer",
+        "kind": "trophy",
+        "chapterId": "weapons-and-inventing",
+        "where": "Invent at least one item"
+      },
+      {
+        "id": "achievement-29",
+        "name": "Broke Fontaine's Mind Control",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-30",
+        "name": "Bought One Slot",
+        "kind": "trophy",
+        "chapterId": "plasmids-and-tonics",
+        "where": "Purchase a Plasmid Slot or Tonic Slot in any track"
+      },
+      {
+        "id": "achievement-31",
+        "name": "Researched a Splicer",
+        "kind": "trophy",
+        "chapterId": "research",
+        "where": "Take at least one Research Photo of a Splicer"
+      },
+      {
+        "id": "achievement-32",
+        "name": "Dealt with every Little Sister",
+        "kind": "trophy",
+        "chapterId": "little-sisters",
+        "where": "Either Harvest or Rescue every Little Sister in the game"
+      },
+      {
+        "id": "achievement-33",
+        "name": "Maxed One Track",
+        "kind": "trophy",
+        "chapterId": "plasmids-and-tonics",
+        "where": "Purchased every slot in one of the Plasmid or Tonic tracks"
+      },
+      {
+        "id": "achievement-34",
+        "name": "Maxed All Tracks",
+        "kind": "trophy",
+        "chapterId": "plasmids-and-tonics",
+        "where": "Purchase every slot in all four Plasmid and Tonic tracks"
+      },
+      {
+        "id": "achievement-35",
+        "name": "One Fully Upgraded Weapon",
+        "kind": "trophy",
+        "chapterId": "weapons-and-inventing",
+        "where": "Fully upgrade one weapon"
+      },
+      {
+        "id": "achievement-36",
+        "name": "Two Fully Upgraded Weapons",
+        "kind": "trophy",
+        "chapterId": "weapons-and-inventing",
+        "where": "Fully upgrade two weapons"
+      },
+      {
+        "id": "achievement-37",
+        "name": "Three Fully Upgraded Weapons",
+        "kind": "trophy",
+        "chapterId": "weapons-and-inventing",
+        "where": "Fully upgrade three weapons"
+      },
+      {
+        "id": "achievement-38",
+        "name": "Four Fully Upgraded Weapons",
+        "kind": "trophy",
+        "chapterId": "weapons-and-inventing",
+        "where": "Fully upgrade four weapons"
+      },
+      {
+        "id": "achievement-39",
+        "name": "Five Fully Upgraded Weapons",
+        "kind": "trophy",
+        "chapterId": "weapons-and-inventing",
+        "where": "Fully upgrade five weapons"
+      },
+      {
+        "id": "achievement-40",
+        "name": "Became a Big Daddy",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-41",
+        "name": "Lucky Winner",
+        "kind": "trophy",
+        "chapterId": "audio-and-feats",
+        "where": "Hit the jackpot at a slot machine"
+      },
+      {
+        "id": "achievement-42",
+        "name": "Irony",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-43",
+        "name": "Found Cohen's Room",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-44",
+        "name": "Toaster in the Tub",
+        "kind": "trophy",
+        "chapterId": "audio-and-feats",
+        "where": "Shock an enemy in the water"
+      },
+      {
+        "id": "achievement-45",
+        "name": "Historian",
+        "kind": "trophy",
+        "chapterId": "audio-and-feats",
+        "where": "Find every audio diary"
+      },
+      {
+        "id": "achievement-46",
+        "name": "Skilled Hacker",
+        "kind": "trophy",
+        "chapterId": "hacking",
+        "where": "Successfully complete 50 hacks"
+      },
+      {
+        "id": "achievement-47",
+        "name": "Little Sister Savior",
+        "kind": "trophy",
+        "chapterId": "little-sisters",
+        "where": "Complete the game without harvesting any Little Sisters"
+      },
+      {
+        "id": "achievement-48",
+        "name": "Avid Inventor",
+        "kind": "trophy",
+        "chapterId": "weapons-and-inventing",
+        "where": "Successfully invent at least 100 items"
+      },
+      {
+        "id": "achievement-49",
+        "name": "Tonic Collector",
+        "kind": "trophy",
+        "chapterId": "plasmids-and-tonics",
+        "where": "Collect or Invent 53 Tonics in the Physical, Engineering and Combat tracks"
+      },
+      {
+        "id": "achievement-50",
+        "name": "Research PhD",
+        "kind": "trophy",
+        "chapterId": "research",
+        "where": "Max out all possible research"
+      },
+      {
+        "id": "achievement-51",
+        "name": "Brass Balls",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-52",
+        "name": "I Chose the Impossible",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-53",
+        "name": "“The ‘I’ in Team” - Rescuer",
+        "kind": "trophy",
+        "chapterId": "challenge-rooms",
+        "where": "Rescued the Little Sister in “The ‘I’ in Team”"
+      },
+      {
+        "id": "achievement-54",
+        "name": "“The ‘I’ in Team” – Expert",
+        "kind": "trophy",
+        "chapterId": "challenge-rooms",
+        "where": "Rescued the Little Sister in “The ‘I’ in Team” in under 3:00"
+      },
+      {
+        "id": "achievement-55",
+        "name": "“The ‘I’ in Team” – Collector",
+        "kind": "trophy",
+        "chapterId": "challenge-rooms",
+        "where": "Found all collectable Roses in “The ‘I’ in Team”"
+      },
+      {
+        "id": "achievement-56",
+        "name": "“The ‘I’ in Team” – Pacifist",
+        "kind": "trophy",
+        "chapterId": "challenge-rooms",
+        "where": "Rescued the Little Sister in “The ‘I’ in Team” without destroying any Machine Gun Turrets"
+      },
+      {
+        "id": "achievement-57",
+        "name": "\"A Shocking Turn of Events\" - Rescuer",
+        "kind": "trophy",
+        "chapterId": "challenge-rooms",
+        "where": "Rescued the Little Sister in “A Shocking Turn of Events”"
+      },
+      {
+        "id": "achievement-58",
+        "name": "“A Shocking Turn of Events” – Expert",
+        "kind": "trophy",
+        "chapterId": "challenge-rooms",
+        "where": "The player has rescued the Little Sister in “A Shocking Turn of Events” in under 4:00"
+      },
+      {
+        "id": "achievement-59",
+        "name": "“A Shocking Turn of Events” – Collector",
+        "kind": "trophy",
+        "chapterId": "challenge-rooms",
+        "where": "Found all collectable Roses in “A Shocking Turn of Events”"
+      },
+      {
+        "id": "achievement-60",
+        "name": "“A Shocking Turn of Events” – Master Electrician",
+        "kind": "trophy",
+        "chapterId": "challenge-rooms",
+        "where": "Charged up the Ferris Wheel 9 different times in “A Shocking Turn of Events”"
+      },
+      {
+        "id": "achievement-61",
+        "name": "“Worlds of Hurt” - Rescuer",
+        "kind": "trophy",
+        "chapterId": "challenge-rooms",
+        "where": "Rescued the Little Sister in “Worlds of Hurt”"
+      },
+      {
+        "id": "achievement-62",
+        "name": "“Worlds of Hurt” – Expert",
+        "kind": "trophy",
+        "chapterId": "challenge-rooms",
+        "where": "Rescued the Little Sister in “Worlds of Hurt” in under 15:00, on Medium or higher difficulty"
+      },
+      {
+        "id": "achievement-63",
+        "name": "“Worlds of Hurt” – Collector",
+        "kind": "trophy",
+        "chapterId": "challenge-rooms",
+        "where": "Found all collectable Roses in “Worlds of Hurt”"
+      },
+      {
+        "id": "achievement-64",
+        "name": "“Worlds of Hurt” – Tough Guy",
+        "kind": "trophy",
+        "chapterId": "challenge-rooms",
+        "where": "Rescued the Little Sister in “Worlds of Hurt” using only plasmids, tonics, the wrench, and the research camera, on Medium or higher difficulty"
+      },
+      {
+        "id": "achievement-65",
+        "name": "A Man Chooses",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/bioshock-remastered",
+    "Achievement data from Steam (Steam Web API, app 409710)",
+    "StrategyWiki: no usable walkthrough, nothing used — https://strategywiki.org/wiki/BioShock",
+    "Fandom (bioshock.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://bioshock.fandom.com/wiki/BioShock:_The_Collection"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). Steam app 409710 is the remaster itself (\"BioShock™ Remastered\" in the store list); the original 2007 app (7670, \"BioShock™\") was not used. Its Steam schema is named \"BeachTree\" (an internal codename). RAWG's first result is the right game (slug bioshock-remastered); RAWG keeps BioShock 2 Remastered and BioShock: The Collection separately. 13 of 65 Steam achievements are hidden; most are named for story bosses or milestones and sit in the story chapter. The 12 Challenge Rooms achievements are all below 5%. The chapter name \"Challenge Rooms\" is a page name on bioshock.fandom.com; the three room names come from the achievement text and also appear on StrategyWiki's contents list. StrategyWiki redirects \"BioShock Remastered\" to \"BioShock\" (completion stage 2), but its walkthrough is mostly unwritten: only Welcome to Rapture and Medical Pavilion of its 13 level pages are written, plus Controls, Enemies, Plasmids and Tonics, Power to the People and Achievements and trophies, so it was not used. bioshock.fandom.com redirects \"BioShock Remastered\" to \"BioShock: The Collection\", with about 142 linked articles; names only were looked at, nothing copied."
+}

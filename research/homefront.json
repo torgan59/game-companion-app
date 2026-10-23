@@ -1,0 +1,480 @@
+{
+  "id": "homefront",
+  "title": "Homefront",
+  "year": 2011,
+  "platforms": [
+    "PlayStation 3",
+    "PC",
+    "Xbox 360"
+  ],
+  "rawgId": 19365,
+  "rawgSlug": "homefront",
+  "released": "2011-03-15",
+  "developers": [
+    "Digital Extremes",
+    "THQ",
+    "Kaos Studios"
+  ],
+  "playtime": 2,
+  "genres": [
+    "Shooter"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Multiplayer",
+    "Steam Cloud",
+    "Atmospheric",
+    "cooperative",
+    "First-Person",
+    "Partial Controller Support",
+    "FPS",
+    "Short",
+    "Valve Anti-Cheat enabled"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/657/657574cd437df9102f511b3be095b0ea.jpg",
+  "steamAppId": 55100,
+  "achievements": {
+    "total": 47,
+    "hidden": 2,
+    "examples": [
+      {
+        "name": "Chronicler",
+        "percent": 68.0
+      },
+      {
+        "name": "Why We Fight",
+        "percent": 65.3
+      },
+      {
+        "name": "Freedom",
+        "percent": 51.9
+      },
+      {
+        "name": "Iron Man - Golden Gate",
+        "percent": 3.5
+      },
+      {
+        "name": "Historian",
+        "percent": 3.4
+      },
+      {
+        "name": "Vehicle Expert",
+        "percent": 3.4
+      },
+      {
+        "name": "Action Hero",
+        "percent": 3.3
+      },
+      {
+        "name": "Expert Of War",
+        "percent": 3.1
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": false,
+      "pages": 0,
+      "reason": "No page for Homefront (MediaWiki API returned missing; see notes for other titles tried)"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 91,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://homefront.fandom.com/wiki/Homefront"
+    }
+  },
+  "game": {
+    "id": "homefront",
+    "title": "Homefront",
+    "platforms": [
+      "PlayStation 3",
+      "PC",
+      "Xbox 360"
+    ],
+    "blurb": "First-person shooter from Kaos Studios, Digital Extremes and THQ, published by THQ and Deep Silver, released 2011-03-15. RAWG average playtime: 2 hours. Genre: Shooter. Chapters follow the seven campaign chapters named in the Steam achievements, plus difficulty, collectibles and multiplayer.",
+    "accent": "#5B6B3A",
+    "chapters": [
+      {
+        "id": "chapters-1-3",
+        "title": "Chapters 1 to 3",
+        "summary": "Why We Fight, Freedom and Fire Sale, with their chapter feats.",
+        "steps": []
+      },
+      {
+        "id": "chapters-4-7",
+        "title": "Chapters 4 to 7",
+        "summary": "The Wall, Heartland, Overwatch and Golden Gate, with their chapter feats. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "guerrilla",
+        "title": "Guerrilla Difficulty",
+        "summary": "Finishing each of the seven chapters on the hardest difficulty.",
+        "steps": []
+      },
+      {
+        "id": "iron-man",
+        "title": "Iron Man Runs",
+        "summary": "Finishing each chapter without dying or restarting a checkpoint.",
+        "steps": []
+      },
+      {
+        "id": "news-pickups",
+        "title": "News Pickups",
+        "summary": "Finding the first, 30 and all 61 News Pickups in the campaign.",
+        "steps": []
+      },
+      {
+        "id": "multiplayer",
+        "title": "Multiplayer and Battle Commander",
+        "summary": "Expert challenges for weapons, drones and vehicles, level 50, Battle Commander threat stars and helicopter feats.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Why We Fight",
+        "kind": "trophy",
+        "chapterId": "chapters-1-3",
+        "where": "Complete chapter 1 in the Single Player Campaign"
+      },
+      {
+        "id": "achievement-2",
+        "name": "Freedom",
+        "kind": "trophy",
+        "chapterId": "chapters-1-3",
+        "where": "Complete chapter 2 in the Single Player Campaign"
+      },
+      {
+        "id": "achievement-3",
+        "name": "Fire Sale",
+        "kind": "trophy",
+        "chapterId": "chapters-1-3",
+        "where": "Complete chapter 3 in the Single Player Campaign"
+      },
+      {
+        "id": "achievement-4",
+        "name": "The Wall",
+        "kind": "trophy",
+        "chapterId": "chapters-4-7",
+        "where": "Complete chapter 4 in the Single Player Campaign"
+      },
+      {
+        "id": "achievement-5",
+        "name": "Heartland",
+        "kind": "trophy",
+        "chapterId": "chapters-4-7",
+        "where": "Complete chapter 5 in the Single Player Campaign"
+      },
+      {
+        "id": "achievement-6",
+        "name": "Overwatch",
+        "kind": "trophy",
+        "chapterId": "chapters-4-7",
+        "where": "Complete chapter 6 in the Single Player Campaign"
+      },
+      {
+        "id": "achievement-7",
+        "name": "Golden Gate",
+        "kind": "trophy",
+        "chapterId": "chapters-4-7",
+        "where": "Complete chapter 7 in the Single Player Campaign"
+      },
+      {
+        "id": "achievement-8",
+        "name": "Why We Fight - Guerrilla",
+        "kind": "trophy",
+        "chapterId": "guerrilla",
+        "where": "Complete chapter 1 on the Hardest Difficulty in the Single Player Campaign"
+      },
+      {
+        "id": "achievement-9",
+        "name": "Freedom - Guerrilla",
+        "kind": "trophy",
+        "chapterId": "guerrilla",
+        "where": "Complete chapter 2 on the Hardest Difficulty in the Single Player Campaign"
+      },
+      {
+        "id": "achievement-10",
+        "name": "Fire Sale - Guerrilla",
+        "kind": "trophy",
+        "chapterId": "guerrilla",
+        "where": "Complete chapter 3 on the Hardest Difficulty in the Single Player Campaign"
+      },
+      {
+        "id": "achievement-11",
+        "name": "The Wall - Guerrilla",
+        "kind": "trophy",
+        "chapterId": "guerrilla",
+        "where": "Complete chapter 4 on the Hardest Difficulty in the Single Player Campaign"
+      },
+      {
+        "id": "achievement-12",
+        "name": "Heartland - Guerrilla",
+        "kind": "trophy",
+        "chapterId": "guerrilla",
+        "where": "Complete chapter 5 on the Hardest Difficulty in the Single Player Campaign"
+      },
+      {
+        "id": "achievement-13",
+        "name": "Overwatch - Guerrilla",
+        "kind": "trophy",
+        "chapterId": "guerrilla",
+        "where": "Complete chapter 6 on the Hardest Difficulty in the Single Player Campaign"
+      },
+      {
+        "id": "achievement-14",
+        "name": "Golden Gate - Guerrilla",
+        "kind": "trophy",
+        "chapterId": "guerrilla",
+        "where": "Complete chapter 7 on the Hardest Difficulty in the Single Player Campaign"
+      },
+      {
+        "id": "achievement-15",
+        "name": "Iron Man - Why We Fight",
+        "kind": "trophy",
+        "chapterId": "iron-man",
+        "where": "Complete chapter 1 in the Single Player Campaign without dying or restarting a checkpoint"
+      },
+      {
+        "id": "achievement-16",
+        "name": "Iron Man - Freedom",
+        "kind": "trophy",
+        "chapterId": "iron-man",
+        "where": "Complete chapter 2 in the Single Player Campaign without dying or restarting a checkpoint"
+      },
+      {
+        "id": "achievement-17",
+        "name": "Iron Man - Fire Sale",
+        "kind": "trophy",
+        "chapterId": "iron-man",
+        "where": "Complete chapter 3 in the Single Player Campaign without dying or restarting a checkpoint"
+      },
+      {
+        "id": "achievement-18",
+        "name": "Iron Man - The Wall",
+        "kind": "trophy",
+        "chapterId": "iron-man",
+        "where": "Complete chapter 4 in the Single Player Campaign without dying or restarting a checkpoint"
+      },
+      {
+        "id": "achievement-19",
+        "name": "Iron Man - Heartland",
+        "kind": "trophy",
+        "chapterId": "iron-man",
+        "where": "Complete chapter 5 in the Single Player Campaign without dying or restarting a checkpoint"
+      },
+      {
+        "id": "achievement-20",
+        "name": "Iron Man - Overwatch",
+        "kind": "trophy",
+        "chapterId": "iron-man",
+        "where": "Complete chapter 6 in the Single Player Campaign without dying or restarting a checkpoint"
+      },
+      {
+        "id": "achievement-21",
+        "name": "Iron Man - Golden Gate",
+        "kind": "trophy",
+        "chapterId": "iron-man",
+        "where": "Complete chapter 7 in the Single Player Campaign without dying or restarting a checkpoint"
+      },
+      {
+        "id": "achievement-22",
+        "name": "Archivist",
+        "kind": "trophy",
+        "chapterId": "news-pickups",
+        "where": "Find 30 of 61 News Pickups in the Single Player Campaign"
+      },
+      {
+        "id": "achievement-23",
+        "name": "Historian",
+        "kind": "trophy",
+        "chapterId": "news-pickups",
+        "where": "Find all 61 News Pickups in the Single Player Campaign"
+      },
+      {
+        "id": "achievement-24",
+        "name": "Pistol Whipped",
+        "kind": "trophy",
+        "chapterId": "chapters-1-3",
+        "where": "Kill 25 enemies with a pistol in Chapter 1: Why We Fight"
+      },
+      {
+        "id": "achievement-25",
+        "name": "Give Him the Stick",
+        "kind": "trophy",
+        "chapterId": "chapters-1-3",
+        "where": "Kill 25 enemies with melee attacks in Chapter 1: Why We Fight"
+      },
+      {
+        "id": "achievement-26",
+        "name": "Welcome to Freedom",
+        "kind": "trophy",
+        "chapterId": "chapters-1-3",
+        "where": "Talk at least once to each inhabitant of Oasis in Chapter 2: Freedom"
+      },
+      {
+        "id": "achievement-27",
+        "name": "Good Use of Cover",
+        "kind": "trophy",
+        "chapterId": "chapters-1-3",
+        "where": "Destroy the first sentry without taking any damage in Chapter 2: Freedom"
+      },
+      {
+        "id": "achievement-28",
+        "name": "Mercy",
+        "kind": "trophy",
+        "chapterId": "chapters-1-3",
+        "where": "Kill 5 enemies while they are on fire in Chapter 3: Fire Sale"
+      },
+      {
+        "id": "achievement-29",
+        "name": "Let 'em Burn",
+        "kind": "trophy",
+        "chapterId": "chapters-1-3",
+        "where": "Don't kill any of the enemies that are on fire in Chapter 3: Fire Sale"
+      },
+      {
+        "id": "achievement-30",
+        "name": "David Rejected",
+        "kind": "trophy",
+        "chapterId": "chapters-4-7",
+        "where": "Complete the street section without Goliath taking any damage in Chapter 4: The Wall"
+      },
+      {
+        "id": "achievement-31",
+        "name": "Fatal and Tragic",
+        "kind": "trophy",
+        "chapterId": "chapters-4-7",
+        "where": "Jump off the Golden Gate Bridge in Chapter 7: Golden Gate"
+      },
+      {
+        "id": "achievement-32",
+        "name": "Chronicler",
+        "kind": "trophy",
+        "chapterId": "news-pickups",
+        "where": "Find the first of 61 news pickups"
+      },
+      {
+        "id": "achievement-33",
+        "name": "Stairway to Heaven",
+        "kind": "trophy",
+        "chapterId": "chapters-4-7",
+        "where": "From the front door of the church, make it to the crow’s nest in 240 seconds in Chapter 5: Heartland"
+      },
+      {
+        "id": "achievement-34",
+        "name": "Speed Demon",
+        "kind": "trophy",
+        "chapterId": "chapters-4-7",
+        "where": "Hijack the tankers in less than 8 minutes in one life in Chapter 6: Overwatch"
+      },
+      {
+        "id": "achievement-35",
+        "name": "Safer Skies",
+        "kind": "trophy",
+        "chapterId": "chapters-4-7",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-36",
+        "name": "Wilhelm's Nightmare",
+        "kind": "trophy",
+        "chapterId": "chapters-4-7",
+        "where": "Knock 10 enemies off of the scaffolding during the helicopter fly-in in Chapter 7: Golden Gate"
+      },
+      {
+        "id": "achievement-37",
+        "name": "Soft Targets",
+        "kind": "trophy",
+        "chapterId": "chapters-4-7",
+        "where": "Destroy all vehicles using the UAV in Chapter 7: Golden Gate"
+      },
+      {
+        "id": "achievement-38",
+        "name": "Weapon Expert",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "Complete an expert challenge for any weapon in Multiplayer"
+      },
+      {
+        "id": "achievement-39",
+        "name": "Drone Expert",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "Complete an expert challenge for any drone in Multiplayer"
+      },
+      {
+        "id": "achievement-40",
+        "name": "Vehicle Expert",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "Complete an expert challenge for any vehicle in Multiplayer"
+      },
+      {
+        "id": "achievement-41",
+        "name": "Expert Of War",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "Complete all challenges for weapons, drones, vehicles, and modes in Multiplayer"
+      },
+      {
+        "id": "achievement-42",
+        "name": "Over the Hill",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "Reach experience level 50 in Multiplayer"
+      },
+      {
+        "id": "achievement-43",
+        "name": "3-Star Threat",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "Become a 3-Star threat in a Battle Commander public match"
+      },
+      {
+        "id": "achievement-44",
+        "name": "5-Star Threat",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "Become a 5-Star threat in a Battle Commander public match"
+      },
+      {
+        "id": "achievement-45",
+        "name": "Tea Party",
+        "kind": "trophy",
+        "chapterId": "chapters-4-7",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-46",
+        "name": "Destructive Duo",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "Killed 5 enemies from the second seat of the Apache in one run."
+      },
+      {
+        "id": "achievement-47",
+        "name": "Action Hero",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "Bailed out of a helicopter, killing an enemy with the falling wreckage."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/homefront",
+    "Achievement data from Steam (Steam Web API, app 55100)",
+    "StrategyWiki: no page for this game, nothing used",
+    "Fandom (homefront.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://homefront.fandom.com/wiki/Homefront"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). RAWG's first result is the expected entry (id 19365). The Steam store list has app 55100 (\"Homefront\"); its schema is named \"ValveTestApp55100\" (a placeholder name). 2 of 47 Steam achievements are hidden: \"Safer Skies\" (34.8%), which RAWG describes as destroying the SAM trucks in Chapter 6: Overwatch, so it sits in Chapters 4 to 7; and \"Tea Party\" (3.2%), which RAWG also leaves blank, so it sits in Chapters 4 to 7 as a placeholder. \"Destructive Duo\" (second seat of the Apache) and \"Action Hero\" (bailing out of a helicopter) do not say which mode they belong to; they were put in multiplayer as a guess because their API numbers (51, 52) follow the multiplayer ones. StrategyWiki has no page under \"Homefront\" or \"Homefront (2011)\". homefront.fandom.com answers the API under \"Homefront\" with about 91 linked articles; names only were looked at, nothing copied. Splitting the seven chapters 3 and 4 is our own choice."
+}

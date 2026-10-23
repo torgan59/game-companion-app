@@ -1,0 +1,528 @@
+{
+  "id": "battlefield-6",
+  "title": "Battlefield 6",
+  "year": 2025,
+  "platforms": [
+    "PC",
+    "PlayStation 5",
+    "Xbox Series X|S"
+  ],
+  "rawgId": 1007483,
+  "rawgSlug": "battlefield-6-2",
+  "released": "2025-10-10",
+  "developers": [
+    "Battlefield Studios"
+  ],
+  "playtime": 8,
+  "genres": [
+    "Action",
+    "Shooter"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Multiplayer",
+    "Full controller support",
+    "Steam Cloud",
+    "Atmospheric",
+    "Co-op",
+    "Story Rich",
+    "cooperative",
+    "FPS",
+    "Sandbox",
+    "Violent"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/dcc/dcc38d78ab1f1a90fdc4ba1bea3a73ff.jpg",
+  "steamAppId": 2807960,
+  "achievements": {
+    "total": 53,
+    "hidden": 20,
+    "examples": [
+      {
+        "name": "Private First Class Montes",
+        "percent": 44.2
+      },
+      {
+        "name": "Punished",
+        "percent": 42.3
+      },
+      {
+        "name": "Lance Corporal Matkovic",
+        "percent": 40.9
+      },
+      {
+        "name": "Hounds of War",
+        "percent": 2.5
+      },
+      {
+        "name": "Wolves of War",
+        "percent": 1.9
+      },
+      {
+        "name": "A Joyful Nurse",
+        "percent": 1.8
+      },
+      {
+        "name": "First Blood 2",
+        "percent": 1.8
+      },
+      {
+        "name": "Pack Leader",
+        "percent": 1.6
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": false,
+      "pages": 0,
+      "reason": "No page for Battlefield 6 (MediaWiki API returned missing; see notes for other titles tried)"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 411,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://battlefield.fandom.com/wiki/Battlefield_6"
+    }
+  },
+  "game": {
+    "id": "battlefield-6",
+    "title": "Battlefield 6",
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "Xbox Series X|S"
+    ],
+    "blurb": "Modern military first-person shooter with a single-player campaign and all-out multiplayer, from Battlefield Studios, released 2025-10-10. RAWG average playtime: 8 hours. Genres: Action, Shooter. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#E07A1F",
+    "chapters": [
+      {
+        "id": "campaign-opening",
+        "title": "Campaign: Opening Missions",
+        "summary": "Always Faithful, The Rock, Operation Gladius and Night Raid.",
+        "steps": []
+      },
+      {
+        "id": "campaign-later",
+        "title": "Campaign: Later Missions and Finale",
+        "summary": "No Sleep, Moving Mountains, Nile Guard, Operation Ember Strike and the end of the campaign. Hidden achievements sit here too.",
+        "steps": []
+      },
+      {
+        "id": "campaign-collectibles",
+        "title": "Campaign Collectibles",
+        "summary": "Picking up the collectibles hidden through the campaign missions.",
+        "steps": []
+      },
+      {
+        "id": "campaign-combat",
+        "title": "Campaign Difficulty and Combat",
+        "summary": "The hardest difficulty, headshots, grenades and vehicle kills in single player.",
+        "steps": []
+      },
+      {
+        "id": "mp-ranks",
+        "title": "Multiplayer Ranks",
+        "summary": "Climbing the multiplayer rank ladder.",
+        "steps": []
+      },
+      {
+        "id": "mp-modes",
+        "title": "Multiplayer Modes",
+        "summary": "Conquest objectives, Breakthrough sectors and M-COM charges.",
+        "steps": []
+      },
+      {
+        "id": "mp-combat",
+        "title": "Multiplayer Classes and Combat",
+        "summary": "Assault, Recon and Support goals, vehicles, sidearms, LMGs, takedowns and acts of valor.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Stand Alone",
+        "kind": "trophy",
+        "chapterId": "campaign-opening",
+        "where": "Complete Always Faithful"
+      },
+      {
+        "id": "achievement-2",
+        "name": "Rock of Gibraltar",
+        "kind": "trophy",
+        "chapterId": "campaign-opening",
+        "where": "Complete The Rock and Operation Gladius"
+      },
+      {
+        "id": "achievement-3",
+        "name": "Devil in the Dark",
+        "kind": "trophy",
+        "chapterId": "campaign-opening",
+        "where": "Complete Night Raid"
+      },
+      {
+        "id": "achievement-4",
+        "name": "Secret Service",
+        "kind": "trophy",
+        "chapterId": "campaign-later",
+        "where": "Complete No Sleep and Moving Mountains"
+      },
+      {
+        "id": "achievement-5",
+        "name": "High Roller",
+        "kind": "trophy",
+        "chapterId": "campaign-later",
+        "where": "Complete Nile Guard"
+      },
+      {
+        "id": "achievement-6",
+        "name": "Damned If You Do",
+        "kind": "trophy",
+        "chapterId": "campaign-later",
+        "where": "Complete Operation Ember Strike"
+      },
+      {
+        "id": "achievement-7",
+        "name": "Cloak and Dagger",
+        "kind": "trophy",
+        "chapterId": "campaign-later",
+        "where": "Complete the Battlefield 6 Campaign"
+      },
+      {
+        "id": "achievement-8",
+        "name": "In Memoriam",
+        "kind": "trophy",
+        "chapterId": "campaign-collectibles",
+        "where": "Pick up a Campaign collectible"
+      },
+      {
+        "id": "achievement-9",
+        "name": "Dogs of War",
+        "kind": "trophy",
+        "chapterId": "campaign-collectibles",
+        "where": "Pick up 5 Campaign collectibles"
+      },
+      {
+        "id": "achievement-10",
+        "name": "Hounds of War",
+        "kind": "trophy",
+        "chapterId": "campaign-collectibles",
+        "where": "Pick up 10 Campaign collectibles"
+      },
+      {
+        "id": "achievement-11",
+        "name": "Wolves of War",
+        "kind": "trophy",
+        "chapterId": "campaign-collectibles",
+        "where": "Pick up 20 Campaign collectibles"
+      },
+      {
+        "id": "achievement-12",
+        "name": "Pack Leader",
+        "kind": "trophy",
+        "chapterId": "campaign-collectibles",
+        "where": "Pick up all Campaign collectibles"
+      },
+      {
+        "id": "achievement-13",
+        "name": "Peak Performance",
+        "kind": "trophy",
+        "chapterId": "campaign-combat",
+        "where": "Complete a Single Player mission on the hardest difficulty"
+      },
+      {
+        "id": "achievement-14",
+        "name": "Liquidator",
+        "kind": "trophy",
+        "chapterId": "campaign-combat",
+        "where": "Headshot kill 50 Enemies in the Campaign."
+      },
+      {
+        "id": "achievement-15",
+        "name": "One Stone",
+        "kind": "trophy",
+        "chapterId": "campaign-combat",
+        "where": "Eliminate 3 enemies with a single grenade in Single Player"
+      },
+      {
+        "id": "achievement-16",
+        "name": "Armor Annihilation",
+        "kind": "trophy",
+        "chapterId": "campaign-combat",
+        "where": "Destroy 10 enemy vehicles in Single Player"
+      },
+      {
+        "id": "achievement-17",
+        "name": "End of an Era",
+        "kind": "trophy",
+        "chapterId": "campaign-later",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-18",
+        "name": "Efficiency",
+        "kind": "trophy",
+        "chapterId": "campaign-later",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-19",
+        "name": "Deep-Six",
+        "kind": "trophy",
+        "chapterId": "campaign-later",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-20",
+        "name": "Sidearm Savant",
+        "kind": "trophy",
+        "chapterId": "campaign-later",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-21",
+        "name": "Looks Like A Nail",
+        "kind": "trophy",
+        "chapterId": "campaign-later",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-22",
+        "name": "Bullseye Blitz",
+        "kind": "trophy",
+        "chapterId": "campaign-later",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-23",
+        "name": "Roadside Assistance",
+        "kind": "trophy",
+        "chapterId": "campaign-later",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-24",
+        "name": "Being Watched",
+        "kind": "trophy",
+        "chapterId": "campaign-later",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-25",
+        "name": "No Reinforcements",
+        "kind": "trophy",
+        "chapterId": "campaign-later",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-26",
+        "name": "Private First Class Montes",
+        "kind": "trophy",
+        "chapterId": "mp-ranks",
+        "where": "Reach Rank 9"
+      },
+      {
+        "id": "achievement-27",
+        "name": "Lance Corporal Matkovic",
+        "kind": "trophy",
+        "chapterId": "mp-ranks",
+        "where": "Reach Rank 14"
+      },
+      {
+        "id": "achievement-28",
+        "name": "Sergeant Redford",
+        "kind": "trophy",
+        "chapterId": "mp-ranks",
+        "where": "Reach Rank 25"
+      },
+      {
+        "id": "achievement-29",
+        "name": "Command and Conquest 2",
+        "kind": "trophy",
+        "chapterId": "mp-modes",
+        "where": "Capture 128 objectives in Conquest"
+      },
+      {
+        "id": "achievement-30",
+        "name": "Front line",
+        "kind": "trophy",
+        "chapterId": "mp-modes",
+        "where": "Take or Defend 41 sectors in Breakthrough"
+      },
+      {
+        "id": "achievement-31",
+        "name": "Super Bomb man",
+        "kind": "trophy",
+        "chapterId": "mp-modes",
+        "where": "Arm or disarm 5 M-COM explosives in a Multiplayer match"
+      },
+      {
+        "id": "achievement-32",
+        "name": "Five by Five",
+        "kind": "trophy",
+        "chapterId": "mp-combat",
+        "where": "Get 5 multi-kills as Assault in Multiplayer"
+      },
+      {
+        "id": "achievement-33",
+        "name": "Wrench Monkey",
+        "kind": "trophy",
+        "chapterId": "mp-combat",
+        "where": "Repair vehicles for 2042 damage in Multiplayer"
+      },
+      {
+        "id": "achievement-34",
+        "name": "Stolz der Nation",
+        "kind": "trophy",
+        "chapterId": "mp-combat",
+        "where": "Get 250 sniper rifle kills as Recon in Multiplayer"
+      },
+      {
+        "id": "achievement-35",
+        "name": "A Joyful Nurse",
+        "kind": "trophy",
+        "chapterId": "mp-combat",
+        "where": "Revive 1996 players as Support in Multiplayer"
+      },
+      {
+        "id": "achievement-36",
+        "name": "Medal of Honor",
+        "kind": "trophy",
+        "chapterId": "mp-combat",
+        "where": "Commit 414 acts of valor in Multiplayer"
+      },
+      {
+        "id": "achievement-37",
+        "name": "Heavy Weaponry",
+        "kind": "trophy",
+        "chapterId": "mp-combat",
+        "where": "Get 5 kills with LMGs without reloading in Multiplayer"
+      },
+      {
+        "id": "achievement-38",
+        "name": "1200",
+        "kind": "trophy",
+        "chapterId": "mp-combat",
+        "where": "Get 6 sidearm headshot kills in a Multiplayer match"
+      },
+      {
+        "id": "achievement-39",
+        "name": "Road Rash",
+        "kind": "trophy",
+        "chapterId": "mp-combat",
+        "where": "Get a Roadkill with vehicles in Multiplayer"
+      },
+      {
+        "id": "achievement-40",
+        "name": "A Little C-4 Knocking on Your Door",
+        "kind": "trophy",
+        "chapterId": "mp-combat",
+        "where": "Deal 2000 damage to enemy vehicles with the Demolition Charge"
+      },
+      {
+        "id": "achievement-41",
+        "name": "First Blood 2",
+        "kind": "trophy",
+        "chapterId": "mp-combat",
+        "where": "Perform 10 takedowns in a Multiplayer match"
+      },
+      {
+        "id": "achievement-42",
+        "name": "Punished",
+        "kind": "trophy",
+        "chapterId": "mp-combat",
+        "where": "Get 129 kills in Multiplayer."
+      },
+      {
+        "id": "achievement-43",
+        "name": "May the Odds Forever Be in Your Favor",
+        "kind": "trophy",
+        "chapterId": "campaign-later",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-44",
+        "name": "Here's Your Birthday Present",
+        "kind": "trophy",
+        "chapterId": "campaign-later",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-45",
+        "name": "Collector",
+        "kind": "trophy",
+        "chapterId": "campaign-later",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-46",
+        "name": "Stone Cold",
+        "kind": "trophy",
+        "chapterId": "campaign-later",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-47",
+        "name": "Rise from Your Grave",
+        "kind": "trophy",
+        "chapterId": "campaign-later",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-48",
+        "name": "Army of Two",
+        "kind": "trophy",
+        "chapterId": "campaign-later",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-49",
+        "name": "Never-Ending Game",
+        "kind": "trophy",
+        "chapterId": "campaign-later",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-50",
+        "name": "Everybody Fights, Nobody Quits",
+        "kind": "trophy",
+        "chapterId": "campaign-later",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-51",
+        "name": "Mission Accepted",
+        "kind": "trophy",
+        "chapterId": "campaign-later",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-52",
+        "name": "Dog of War",
+        "kind": "trophy",
+        "chapterId": "campaign-later",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-53",
+        "name": "Mozambique Here!",
+        "kind": "trophy",
+        "chapterId": "campaign-later",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/battlefield-6-2",
+    "Achievement data from Steam (Steam Web API, app 2807960)",
+    "StrategyWiki: no page for this game, nothing used",
+    "Fandom (battlefield.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://battlefield.fandom.com/wiki/Battlefield_6"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). RAWG's first result is \"battlefield-6-2\" (id 1007483), the 2025 game; RAWG's plain \"battlefield-6\" slug is Battlefield 2042. No StrategyWiki page under \"Battlefield 6\" or \"Battlefield VI\". battlefield.fandom.com answers the API with about 411 linked articles (weapons, vehicles, characters and maps such as \"Always Faithful\" and \"Always Forward\"); names only were looked at, nothing copied. The Steam schema calls the app \"Glacier\" (an internal codename); the store list confirms app 2807960 as \"Battlefield™ 6\". 20 of 53 Steam achievements are hidden; they sit in the later campaign chapter as a placeholder, but some (for example \"Collector\" at 33%, and \"Army of Two\" or \"Never-Ending Game\") may well be multiplayer goals. The campaign is split at the mission order of the Steam list and its falling unlock rates. \"A Little C-4 Knocking on Your Door\" (Demolition Charge damage) does not say which mode it belongs to; it sits in the multiplayer combat chapter. Multiplayer chapters need online play."
+}

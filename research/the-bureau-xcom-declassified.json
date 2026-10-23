@@ -1,0 +1,435 @@
+{
+  "id": "the-bureau-xcom-declassified",
+  "title": "The Bureau: XCOM Declassified",
+  "year": 2013,
+  "platforms": [
+    "Xbox 360",
+    "PC",
+    "PlayStation 3",
+    "macOS"
+  ],
+  "rawgId": 3932,
+  "rawgSlug": "the-bureau-xcom-declassified",
+  "released": "2013-08-20",
+  "developers": [
+    "2K",
+    "2K Marin"
+  ],
+  "playtime": 3,
+  "genres": [
+    "Action",
+    "Shooter"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Full controller support",
+    "Steam Cloud",
+    "Atmospheric",
+    "steam-trading-cards",
+    "RPG",
+    "Story Rich",
+    "Open World",
+    "cooperative",
+    "Third Person",
+    "Sci-fi"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/5cc/5cc765484c6df567ed9207c1781b88cb.jpg",
+  "steamAppId": 65930,
+  "achievements": {
+    "total": 41,
+    "hidden": 13,
+    "examples": [
+      {
+        "name": "Dead Head",
+        "percent": 47.7
+      },
+      {
+        "name": "The Last Suit You'll Ever Wear",
+        "percent": 34.2
+      },
+      {
+        "name": "Away Team",
+        "percent": 29.9
+      },
+      {
+        "name": "They Won't Know What Hit Them",
+        "percent": 2.9
+      },
+      {
+        "name": "Mind Blown",
+        "percent": 2.7
+      },
+      {
+        "name": "Conscientious Objector",
+        "percent": 2.6
+      },
+      {
+        "name": "Know Your Groceries",
+        "percent": 2.6
+      },
+      {
+        "name": "Only a Man",
+        "percent": 2.6
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": false,
+      "pages": 0,
+      "reason": "No page for The Bureau: XCOM Declassified (MediaWiki API returned missing; see notes for other titles tried)"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 11,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://xcom.fandom.com/wiki/The_Bureau:_XCOM_Declassified"
+    }
+  },
+  "game": {
+    "id": "the-bureau-xcom-declassified",
+    "title": "The Bureau: XCOM Declassified",
+    "platforms": [
+      "Xbox 360",
+      "PC",
+      "PlayStation 3",
+      "macOS"
+    ],
+    "blurb": "Squad-based third-person shooter from 2K Marin (RAWG also lists 2K), published by 2K Games, released 2013-08-20. RAWG average playtime: 3 hours. Genres: Action, Shooter. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#3E5C3A",
+    "chapters": [
+      {
+        "id": "main-story",
+        "title": "The Main Story",
+        "summary": "The campaign's story milestones, hidden on Steam. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "squad-and-operations",
+        "title": "Agents, Dispatch and Operations",
+        "summary": "Agent classes and ranks, customising agents, Dispatch Missions, Minor Operations and base Investigations.",
+        "steps": []
+      },
+      {
+        "id": "challenges",
+        "title": "Difficulty and Challenge Runs",
+        "summary": "Commander difficulty, no agent bleeding out, an Operation without firing, and clearing the Outsiders before the Skyranger escape.",
+        "steps": []
+      },
+      {
+        "id": "combat",
+        "title": "Combat and Abilities",
+        "summary": "Headshots, sticky grenades, melee, scans, laser guns against shields, Battle Focus commands, Mutons, flanking and mind control.",
+        "steps": []
+      },
+      {
+        "id": "hangar-6",
+        "title": "Hangar 6 R&D",
+        "summary": "The Hangar 6 R&D campaign and DaSilva's demo charges and perk tree, plus three rare hidden achievements next to them in the list.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Not Playing Favorites",
+        "kind": "trophy",
+        "chapterId": "squad-and-operations",
+        "where": "Take an agent of every class into the field within a single campaign"
+      },
+      {
+        "id": "achievement-2",
+        "name": "Top. Men.",
+        "kind": "trophy",
+        "chapterId": "squad-and-operations",
+        "where": "Get an agent of each class to Rank 5 within a single campaign"
+      },
+      {
+        "id": "achievement-3",
+        "name": "Glad My Trust Wasn't Misplaced",
+        "kind": "trophy",
+        "chapterId": "squad-and-operations",
+        "where": "Complete your first Dispatch Mission"
+      },
+      {
+        "id": "achievement-4",
+        "name": "Away Team",
+        "kind": "trophy",
+        "chapterId": "squad-and-operations",
+        "where": "Complete your first Minor Operation"
+      },
+      {
+        "id": "achievement-5",
+        "name": "Spring Cleaning",
+        "kind": "trophy",
+        "chapterId": "squad-and-operations",
+        "where": "Complete all Investigations in the base within a single campaign"
+      },
+      {
+        "id": "achievement-6",
+        "name": "No One Left Behind",
+        "kind": "trophy",
+        "chapterId": "challenges",
+        "where": "Complete the game without a single agent bleeding out"
+      },
+      {
+        "id": "achievement-7",
+        "name": "Can't be Everywhere at Once",
+        "kind": "trophy",
+        "chapterId": "squad-and-operations",
+        "where": "Complete 6 Dispatch Missions within a single campaign"
+      },
+      {
+        "id": "achievement-8",
+        "name": "See the World, They Said...",
+        "kind": "trophy",
+        "chapterId": "squad-and-operations",
+        "where": "Complete 6 Minor Operations within a single campaign"
+      },
+      {
+        "id": "achievement-9",
+        "name": "Bringing down Goliath",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-10",
+        "name": "Is He Old Enough to Drive?",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-11",
+        "name": "A Dish Best Served Cold",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-12",
+        "name": "Let the Boys Have Their Fun",
+        "kind": "trophy",
+        "chapterId": "challenges",
+        "where": "Complete an entire Operation without the player firing a weapon or using a grenade"
+      },
+      {
+        "id": "achievement-13",
+        "name": "Vigilo Confido",
+        "kind": "trophy",
+        "chapterId": "challenges",
+        "where": "Beat the game on Commander difficulty without ever changing it"
+      },
+      {
+        "id": "achievement-14",
+        "name": "Don't Run, You'll Just Die Tired",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Attach 10 Sticky Grenades onto Outsider enemies within a single campaign"
+      },
+      {
+        "id": "achievement-15",
+        "name": "Dead Head",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Get 20 Headshot kills with any gun within a single campaign"
+      },
+      {
+        "id": "achievement-16",
+        "name": "Exorcised the Demon",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-17",
+        "name": "... And the Body Dies",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-18",
+        "name": "A Story of Axis and Allies",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-19",
+        "name": "The Fat Lady Has Sung",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-20",
+        "name": "All That Remains",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-21",
+        "name": "The Devil's Tower",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-22",
+        "name": "So Just Let Me Introduce Myself",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-23",
+        "name": "Welcome to Earth",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Finish off 20 aliens using melee attacks within a single campaign"
+      },
+      {
+        "id": "achievement-24",
+        "name": "Ready for Anything",
+        "kind": "trophy",
+        "chapterId": "squad-and-operations",
+        "where": "Reach Rank 10"
+      },
+      {
+        "id": "achievement-25",
+        "name": "I've Seen Better, But Not Many",
+        "kind": "trophy",
+        "chapterId": "squad-and-operations",
+        "where": "Reach Rank 5"
+      },
+      {
+        "id": "achievement-26",
+        "name": "They Won't Know What Hit Them",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Use all of the agent and player abilities in the field within a single campaign"
+      },
+      {
+        "id": "achievement-27",
+        "name": "Sight Beyond Sight",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Perform 15 unique scans within a single campaign"
+      },
+      {
+        "id": "achievement-28",
+        "name": "Bursting the Bubble",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Take down 20 Outsider Shields using laser-based guns within a single campaign"
+      },
+      {
+        "id": "achievement-29",
+        "name": "Leader of Men",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Give 150 commands to agents while in Battle Focus within a single campaign"
+      },
+      {
+        "id": "achievement-30",
+        "name": "What Are You Without Your Armor?",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Strip all of the armor off of 5 Mutons before killing them within a single campaign"
+      },
+      {
+        "id": "achievement-31",
+        "name": "We Will Fight Like Lions!",
+        "kind": "trophy",
+        "chapterId": "challenges",
+        "where": "Defeat all the Outsiders before escaping on the Skyranger"
+      },
+      {
+        "id": "achievement-32",
+        "name": "The Last Suit You'll Ever Wear",
+        "kind": "trophy",
+        "chapterId": "squad-and-operations",
+        "where": "Customize an agent"
+      },
+      {
+        "id": "achievement-33",
+        "name": "Enemy Within",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Have Mind Controlled enemies get a total of 15 kills within a single campaign"
+      },
+      {
+        "id": "achievement-34",
+        "name": "Clever Girl",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Get 40 kills on Flanked enemies within a single campaign"
+      },
+      {
+        "id": "achievement-35",
+        "name": "Conduit Connection",
+        "kind": "trophy",
+        "chapterId": "hangar-6",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-36",
+        "name": "Drive Through",
+        "kind": "trophy",
+        "chapterId": "hangar-6",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-37",
+        "name": "It's In The Air",
+        "kind": "trophy",
+        "chapterId": "hangar-6",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-38",
+        "name": "Mind Blown",
+        "kind": "trophy",
+        "chapterId": "hangar-6",
+        "where": "Destroy 60 enemies with DaSilva's Demo Charges within a single Hangar 6 R&D campaign"
+      },
+      {
+        "id": "achievement-39",
+        "name": "Conscientious Objector",
+        "kind": "trophy",
+        "chapterId": "hangar-6",
+        "where": "Beat Hangar 6 R&D without firing any alien weapons"
+      },
+      {
+        "id": "achievement-40",
+        "name": "Know Your Groceries",
+        "kind": "trophy",
+        "chapterId": "hangar-6",
+        "where": "Take a level 5 agent of every class into the field within a single Hangar 6 R&D campaign"
+      },
+      {
+        "id": "achievement-41",
+        "name": "Only a Man",
+        "kind": "trophy",
+        "chapterId": "hangar-6",
+        "where": "Complete DaSilva's perk tree without choosing Lift, Drone, or Mind Control"
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/the-bureau-xcom-declassified",
+    "Achievement data from Steam (Steam Web API, app 65930)",
+    "StrategyWiki: no page for this game, nothing used",
+    "Fandom (xcom.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://xcom.fandom.com/wiki/The_Bureau:_XCOM_Declassified"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). RAWG's first result is the expected entry (id 3932). Steam app 65930 is \"The Bureau: XCOM Declassified\" in the store list; its achievement schema calls it \"ValveTestApp65930\" (a placeholder name). 13 of 41 Steam achievements are hidden. Ten of them (Achievement_9 to 11 and 16 to 22, 16% to 54%) look like story milestones and sit in the main story chapter. The other three (Achievement_35 to 37: \"Conduit Connection\", \"Drive Through\", \"It's In The Air\", 3.1% to 4.0%) sit just before the four Hangar 6 R&D achievements (2.6% to 2.7%) in the Steam list and are about as rare, so they were put in the Hangar 6 R&D chapter, a reasoned guess; the data does not say what they need. RAWG lists no additions for this game. StrategyWiki has no page under \"The Bureau: XCOM Declassified\" or \"The Bureau\". xcom.fandom.com answers the API under \"The Bureau: XCOM Declassified\" with about 11 linked articles; names only were looked at, nothing copied."
+}

@@ -1,0 +1,402 @@
+{
+  "id": "call-of-duty-black-ops-ii",
+  "title": "Call of Duty: Black Ops II",
+  "year": 2012,
+  "platforms": [
+    "Wii U",
+    "Xbox One",
+    "Xbox 360",
+    "PlayStation 3",
+    "PC"
+  ],
+  "rawgId": 14446,
+  "rawgSlug": "cod-black-ops-ii",
+  "released": "2012-11-13",
+  "developers": [
+    "Treyarch"
+  ],
+  "playtime": 5,
+  "genres": [
+    "Action",
+    "Shooter"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Multiplayer",
+    "Full controller support",
+    "Steam Cloud",
+    "Atmospheric",
+    "steam-trading-cards",
+    "Great Soundtrack",
+    "Co-op",
+    "cooperative",
+    "First-Person",
+    "Sci-fi"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/8ee/8eed88e297441ef9202b5d1d35d7d86f.jpg",
+  "steamAppId": 202970,
+  "achievements": {
+    "total": 35,
+    "hidden": 0,
+    "examples": [
+      {
+        "name": "Just Gettin' Started",
+        "percent": 53.3
+      },
+      {
+        "name": "No Man Left Behind",
+        "percent": 52.7
+      },
+      {
+        "name": "Gathering Storm",
+        "percent": 46.0
+      },
+      {
+        "name": "Old Fashioned",
+        "percent": 3.7
+      },
+      {
+        "name": "Futurist",
+        "percent": 3.4
+      },
+      {
+        "name": "High IQ",
+        "percent": 2.2
+      },
+      {
+        "name": "Mission Complete",
+        "percent": 2.1
+      },
+      {
+        "name": "Giant Accomplishment",
+        "percent": 1.8
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Call_of_Duty:_Black_Ops_II",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 500,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://callofduty.fandom.com/wiki/Call_of_Duty:_Black_Ops_II"
+    }
+  },
+  "game": {
+    "id": "call-of-duty-black-ops-ii",
+    "title": "Call of Duty: Black Ops II",
+    "platforms": [
+      "Wii U",
+      "Xbox One",
+      "Xbox 360",
+      "PlayStation 3",
+      "PC"
+    ],
+    "blurb": "First-person shooter from Treyarch, published by Activision, released 2012-11-13. RAWG average playtime: 5 hours. Genres: Action, Shooter. Chapters follow the campaign missions in the Steam achievements.",
+    "accent": "#D98C1F",
+    "chapters": [
+      {
+        "id": "campaign-part-1",
+        "title": "Campaign, Part One",
+        "summary": "The first six story missions in the achievement list, from rescuing Woods to finding the Karma weapon.",
+        "steps": []
+      },
+      {
+        "id": "campaign-part-2",
+        "title": "Campaign, Part Two",
+        "summary": "The last five story missions in the achievement list. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "strike-force",
+        "title": "Strike Force Missions",
+        "summary": "The optional missions: Keppel Terminal, the VIP escort, defending FOB Spectre, the assassination and the HVI rescue.",
+        "steps": []
+      },
+      {
+        "id": "story-choices",
+        "title": "Story Choices",
+        "summary": "Achievements for choices and outcomes along the story. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "difficulty-and-challenges",
+        "title": "Veteran, Challenges and Scores",
+        "summary": "Hardened and Veteran runs, the per-level challenges and a 10k score in every mission.",
+        "steps": []
+      },
+      {
+        "id": "intel-and-loadouts",
+        "title": "Intel and Loadouts",
+        "summary": "Collecting all intel, customised loadouts and future weapons in the past.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "No Man Left Behind",
+        "kind": "trophy",
+        "chapterId": "campaign-part-1",
+        "where": "Rescue Woods."
+      },
+      {
+        "id": "achievement-2",
+        "name": "Gathering Storm",
+        "kind": "trophy",
+        "chapterId": "campaign-part-1",
+        "where": "Investigate the jungle facility."
+      },
+      {
+        "id": "achievement-3",
+        "name": "Shifting Sands",
+        "kind": "trophy",
+        "chapterId": "campaign-part-1",
+        "where": "Gather intel on Raul Menendez from Mullah Rahmaan."
+      },
+      {
+        "id": "achievement-4",
+        "name": "Driven by Rage",
+        "kind": "trophy",
+        "chapterId": "campaign-part-1",
+        "where": "Take down Menendez and his operation."
+      },
+      {
+        "id": "achievement-5",
+        "name": "Waterlogged",
+        "kind": "trophy",
+        "chapterId": "campaign-part-1",
+        "where": "Gather information on Raul Menendez' suspected terrorist plot."
+      },
+      {
+        "id": "achievement-6",
+        "name": "What Happens in Colossus...",
+        "kind": "trophy",
+        "chapterId": "campaign-part-1",
+        "where": "Find the Karma weapon."
+      },
+      {
+        "id": "achievement-7",
+        "name": "False Profit",
+        "kind": "trophy",
+        "chapterId": "campaign-part-2",
+        "where": "Capture Manuel Noriega and bring him to justice."
+      },
+      {
+        "id": "achievement-8",
+        "name": "Deep Cover",
+        "kind": "trophy",
+        "chapterId": "campaign-part-2",
+        "where": "Capture Menendez."
+      },
+      {
+        "id": "achievement-9",
+        "name": "Sinking Star",
+        "kind": "trophy",
+        "chapterId": "campaign-part-2",
+        "where": "Interrogate Menendez."
+      },
+      {
+        "id": "achievement-10",
+        "name": "Late for the Prom",
+        "kind": "trophy",
+        "chapterId": "campaign-part-2",
+        "where": "Escort the president to the secure location in downtown LA."
+      },
+      {
+        "id": "achievement-11",
+        "name": "Death from Above",
+        "kind": "trophy",
+        "chapterId": "campaign-part-2",
+        "where": "Stop Menendez once and for all."
+      },
+      {
+        "id": "achievement-12",
+        "name": "Old Fashioned",
+        "kind": "trophy",
+        "chapterId": "difficulty-and-challenges",
+        "where": "Complete \"Pyrrhic Victory\", \"Old Wounds\", \"Time And Fate\", and \"Suffer With Me\" in Veteran."
+      },
+      {
+        "id": "achievement-13",
+        "name": "Futurist",
+        "kind": "trophy",
+        "chapterId": "difficulty-and-challenges",
+        "where": "Complete all future levels in veteran."
+      },
+      {
+        "id": "achievement-14",
+        "name": "Giant Accomplishment",
+        "kind": "trophy",
+        "chapterId": "difficulty-and-challenges",
+        "where": "Complete all challenges in Black Ops II."
+      },
+      {
+        "id": "achievement-15",
+        "name": "Mission Complete",
+        "kind": "trophy",
+        "chapterId": "difficulty-and-challenges",
+        "where": "Complete all challenges in a level."
+      },
+      {
+        "id": "achievement-16",
+        "name": "Just Gettin' Started",
+        "kind": "trophy",
+        "chapterId": "difficulty-and-challenges",
+        "where": "Complete 1 challenge in any level."
+      },
+      {
+        "id": "achievement-17",
+        "name": "Singapore Sling",
+        "kind": "trophy",
+        "chapterId": "strike-force",
+        "where": "Successfully neutralize the SDC freighter at Keppel Terminal."
+      },
+      {
+        "id": "achievement-18",
+        "name": "Desert Storm",
+        "kind": "trophy",
+        "chapterId": "strike-force",
+        "where": "Successfully escort the VIPs to safety."
+      },
+      {
+        "id": "achievement-19",
+        "name": "Defender",
+        "kind": "trophy",
+        "chapterId": "strike-force",
+        "where": "Successfully defend FOB Spectre from incursion."
+      },
+      {
+        "id": "achievement-20",
+        "name": "Black Ops II Master",
+        "kind": "trophy",
+        "chapterId": "difficulty-and-challenges",
+        "where": "Complete the campaign on Hardened or Veteran difficulty."
+      },
+      {
+        "id": "achievement-21",
+        "name": "Art of War",
+        "kind": "trophy",
+        "chapterId": "strike-force",
+        "where": "Successfully assassinate SDC Chairman Tian Zhao."
+      },
+      {
+        "id": "achievement-22",
+        "name": "Blind Date",
+        "kind": "trophy",
+        "chapterId": "strike-force",
+        "where": "Successfully rescue HVI."
+      },
+      {
+        "id": "achievement-23",
+        "name": "Family Reunion",
+        "kind": "trophy",
+        "chapterId": "story-choices",
+        "where": "There are two futures."
+      },
+      {
+        "id": "achievement-24",
+        "name": "Hey Good Looking",
+        "kind": "trophy",
+        "chapterId": "story-choices",
+        "where": "Plastic surgery avoided."
+      },
+      {
+        "id": "achievement-25",
+        "name": "Showdown",
+        "kind": "trophy",
+        "chapterId": "story-choices",
+        "where": "A duel between rivals."
+      },
+      {
+        "id": "achievement-26",
+        "name": "Dirty Business",
+        "kind": "trophy",
+        "chapterId": "story-choices",
+        "where": "Listen and think before you shoot."
+      },
+      {
+        "id": "achievement-27",
+        "name": "Ship Shape",
+        "kind": "trophy",
+        "chapterId": "story-choices",
+        "where": "Reinforcements on the way."
+      },
+      {
+        "id": "achievement-28",
+        "name": "Dead or Alive",
+        "kind": "trophy",
+        "chapterId": "story-choices",
+        "where": "Jailor or executioner."
+      },
+      {
+        "id": "achievement-29",
+        "name": "Ultimate Sacrifice",
+        "kind": "trophy",
+        "chapterId": "story-choices",
+        "where": "Only one can survive."
+      },
+      {
+        "id": "achievement-30",
+        "name": "Good Karma",
+        "kind": "trophy",
+        "chapterId": "story-choices",
+        "where": "Crack the celerium worm."
+      },
+      {
+        "id": "achievement-31",
+        "name": "High IQ",
+        "kind": "trophy",
+        "chapterId": "intel-and-loadouts",
+        "where": "Collect all intel."
+      },
+      {
+        "id": "achievement-32",
+        "name": "Back in Time",
+        "kind": "trophy",
+        "chapterId": "intel-and-loadouts",
+        "where": "Use a future weapon in the past."
+      },
+      {
+        "id": "achievement-33",
+        "name": "Man of the People",
+        "kind": "trophy",
+        "chapterId": "story-choices",
+        "where": "Stop the brutality inflicted by the PDF."
+      },
+      {
+        "id": "achievement-34",
+        "name": "Gun Nut",
+        "kind": "trophy",
+        "chapterId": "intel-and-loadouts",
+        "where": "Complete a level with customized loadout."
+      },
+      {
+        "id": "achievement-35",
+        "name": "Ten K",
+        "kind": "trophy",
+        "chapterId": "difficulty-and-challenges",
+        "where": "Minimum score of 10k in every mission."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/cod-black-ops-ii",
+    "Achievement data from Steam (Steam Web API, app 202970)",
+    "StrategyWiki: no usable walkthrough, nothing used — https://strategywiki.org/wiki/Call_of_Duty:_Black_Ops_II",
+    "Fandom (callofduty.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://callofduty.fandom.com/wiki/Call_of_Duty:_Black_Ops_II"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). RAWG's first result is the expected entry \"cod-black-ops-ii\" (id 14446). Steam app 202970 \"Call of Duty®: Black Ops II\" (schema name is the placeholder \"ValveTestApp202970\"); none of its 35 achievements are hidden, and none are for multiplayer or Zombies. The eleven mission achievements have API names SP_COMPLETE_ANGOLA, MONSOON, AFGHANISTAN, NICARAGUA, PAKISTAN, KARMA, PANAMA, YEMEN, BLACKOUT, LA and HAITI; their unlock percentages fall steadily in that order (52.7% to 26.7%), so that order is taken as the play order, a reasoned guess; the split into six and five is our own. Six SP_RTS achievements are the Strike Force missions (StrategyWiki has a \"Strikeforce\" page name and an \"FOB Spectre\" page); SP_RTS_CARRIER is actually \"complete the campaign on Hardened or Veteran\" and sits with difficulty. Nine SP_STORY achievements with cryptic descriptions form the story choices chapter (StrategyWiki also lists a \"Decisions\" page). StrategyWiki has the guide at completion stage 1 but in Category:Stubs: only Controls, Prestige, Pyrrhic Victory (about 3,000 characters), FOB Spectre (about 1,900), a very short Origins page and Table of Contents are written; the other missions, Strike Force, Zombies maps and Walkthrough are linked but not written, so it was not used. callofduty.fandom.com answers the API under \"Call of Duty: Black Ops II\" with 500 linked pages (the query limit, so possibly more); names only were looked at, nothing copied."
+}

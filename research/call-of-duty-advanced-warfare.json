@@ -1,0 +1,467 @@
+{
+  "id": "call-of-duty-advanced-warfare",
+  "title": "Call of Duty: Advanced Warfare",
+  "year": 2014,
+  "platforms": [
+    "PlayStation 4",
+    "Xbox One",
+    "PC",
+    "PlayStation 3",
+    "Xbox 360"
+  ],
+  "rawgId": 842,
+  "rawgSlug": "call-of-duty-advanced-warfare",
+  "released": "2014-11-03",
+  "developers": [
+    "Raven Software",
+    "Sledgehammer Games",
+    "High Moon Studios"
+  ],
+  "playtime": 8,
+  "genres": [
+    "Action",
+    "Shooter"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Multiplayer",
+    "Sci-fi",
+    "Post-apocalyptic",
+    "Conspiracy"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/e05/e053aae547e0978ad90280a1a3d8f177.jpg",
+  "steamAppId": 209650,
+  "achievements": {
+    "total": 45,
+    "hidden": 13,
+    "examples": [
+      {
+        "name": "Advanced Soldier",
+        "percent": 72.3
+      },
+      {
+        "name": "Threat Detected",
+        "percent": 60.4
+      },
+      {
+        "name": "Not On My Watch",
+        "percent": 59.7
+      },
+      {
+        "name": "Man Overboard!",
+        "percent": 4.1
+      },
+      {
+        "name": "Power Changes Everything",
+        "percent": 3.9
+      },
+      {
+        "name": "Party Crasher",
+        "percent": 3.1
+      },
+      {
+        "name": "Ferrum Absconsum",
+        "percent": 3.0
+      },
+      {
+        "name": "Flying Ace",
+        "percent": 2.4
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Call_of_Duty:_Advanced_Warfare",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 500,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://callofduty.fandom.com/wiki/Call_of_Duty:_Advanced_Warfare"
+    }
+  },
+  "game": {
+    "id": "call-of-duty-advanced-warfare",
+    "title": "Call of Duty: Advanced Warfare",
+    "platforms": [
+      "PlayStation 4",
+      "Xbox One",
+      "PC",
+      "PlayStation 3",
+      "Xbox 360"
+    ],
+    "blurb": "Near-future first-person shooter from Sledgehammer Games (RAWG also lists Raven Software and High Moon Studios), published by Activision Blizzard, released 2014-11-03. RAWG average playtime: 8 hours. Genres: Action, Shooter. Chapters follow the campaign missions named in the Steam achievements.",
+    "accent": "#2F6F8F",
+    "chapters": [
+      {
+        "id": "missions-1-5",
+        "title": "Induction to Aftermath",
+        "summary": "The first five numbered missions: Induction, Atlas (with its shooting and grenade ranges), Traffic, Fission and Aftermath with its hoverbike drive.",
+        "steps": []
+      },
+      {
+        "id": "missions-6-10",
+        "title": "Manhunt to Bio Lab",
+        "summary": "Missions six to ten, including Manhunt, Sentinel and Bio Lab with the hovertank. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "missions-11-14",
+        "title": "Armada to Captured",
+        "summary": "The last missions numbered in the achievements: Armada, Throttle and Captured. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "campaign-and-difficulty",
+        "title": "Finishing the Campaign",
+        "summary": "Completing the campaign on any difficulty, then on Hardened and Veteran.",
+        "steps": []
+      },
+      {
+        "id": "intel",
+        "title": "Intel",
+        "summary": "Collecting over half, then all, of the intel.",
+        "steps": []
+      },
+      {
+        "id": "exo-and-combat",
+        "title": "Exo Upgrades and Combat",
+        "summary": "Spending Exo upgrade points, grenade types, drones, Overdrive, boost-jump stomps and other combat feats.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Carma",
+        "kind": "trophy",
+        "chapterId": "exo-and-combat",
+        "where": "Kill an enemy by throwing a car door at them."
+      },
+      {
+        "id": "achievement-2",
+        "name": "A New Era",
+        "kind": "trophy",
+        "chapterId": "campaign-and-difficulty",
+        "where": "Complete the campaign on any difficulty."
+      },
+      {
+        "id": "achievement-3",
+        "name": "Hard Hitter",
+        "kind": "trophy",
+        "chapterId": "campaign-and-difficulty",
+        "where": "Complete the campaign on Hardened difficulty."
+      },
+      {
+        "id": "achievement-4",
+        "name": "SP Prestige",
+        "kind": "trophy",
+        "chapterId": "campaign-and-difficulty",
+        "where": "Complete the campaign on Veteran difficulty."
+      },
+      {
+        "id": "achievement-5",
+        "name": "Never Saw it Coming",
+        "kind": "trophy",
+        "chapterId": "exo-and-combat",
+        "where": "Boost jump, dash forward, then air stomp on an enemy."
+      },
+      {
+        "id": "achievement-6",
+        "name": "Escape Artist",
+        "kind": "trophy",
+        "chapterId": "exo-and-combat",
+        "where": "Avoid 20 grenades by dodging with your Exo."
+      },
+      {
+        "id": "achievement-7",
+        "name": "Loud Enough For You?",
+        "kind": "trophy",
+        "chapterId": "exo-and-combat",
+        "where": "Kill 10 enemies or drones while affected by a sonic blast."
+      },
+      {
+        "id": "achievement-8",
+        "name": "Maximum Overdrive",
+        "kind": "trophy",
+        "chapterId": "exo-and-combat",
+        "where": "Kill 50 enemies while using Overdrive."
+      },
+      {
+        "id": "achievement-9",
+        "name": "Genius",
+        "kind": "trophy",
+        "chapterId": "exo-and-combat",
+        "where": "Kill 4 enemies with a single smart grenade."
+      },
+      {
+        "id": "achievement-10",
+        "name": "Threat Detected",
+        "kind": "trophy",
+        "chapterId": "exo-and-combat",
+        "where": "Paint 10 enemies with a single threat grenade."
+      },
+      {
+        "id": "achievement-11",
+        "name": "Fly Swatter",
+        "kind": "trophy",
+        "chapterId": "exo-and-combat",
+        "where": "Knock 25 Drones out of the sky with EMP Grenades."
+      },
+      {
+        "id": "achievement-12",
+        "name": "Where Are You Going?",
+        "kind": "trophy",
+        "chapterId": "exo-and-combat",
+        "where": "Stop an AST with an EMP Grenade."
+      },
+      {
+        "id": "achievement-13",
+        "name": "History in the Making",
+        "kind": "trophy",
+        "chapterId": "intel",
+        "where": "Collect over half of the intel."
+      },
+      {
+        "id": "achievement-14",
+        "name": "Ferrum Absconsum",
+        "kind": "trophy",
+        "chapterId": "intel",
+        "where": "Collect all the intel."
+      },
+      {
+        "id": "achievement-15",
+        "name": "Riot Control",
+        "kind": "trophy",
+        "chapterId": "exo-and-combat",
+        "where": "Kill 20 enemies while linked to the Mobile Cover Drone."
+      },
+      {
+        "id": "achievement-16",
+        "name": "Advanced Soldier",
+        "kind": "trophy",
+        "chapterId": "exo-and-combat",
+        "where": "Spend your first Exo upgrade point."
+      },
+      {
+        "id": "achievement-17",
+        "name": "Second Skin",
+        "kind": "trophy",
+        "chapterId": "exo-and-combat",
+        "where": "Spend 10 Exo upgrade points."
+      },
+      {
+        "id": "achievement-18",
+        "name": "We Have the Technology",
+        "kind": "trophy",
+        "chapterId": "exo-and-combat",
+        "where": "Spend 20 Exo upgrade points."
+      },
+      {
+        "id": "achievement-19",
+        "name": "Power Changes Everything",
+        "kind": "trophy",
+        "chapterId": "exo-and-combat",
+        "where": "Completely upgrade your Exo."
+      },
+      {
+        "id": "achievement-20",
+        "name": "Seoul Mates",
+        "kind": "trophy",
+        "chapterId": "missions-1-5",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-21",
+        "name": "Not On My Watch",
+        "kind": "trophy",
+        "chapterId": "missions-1-5",
+        "where": "Prevent the walking tank from being destroyed by the Drone Swarm in \"Induction.\""
+      },
+      {
+        "id": "achievement-22",
+        "name": "Deadeye",
+        "kind": "trophy",
+        "chapterId": "missions-1-5",
+        "where": "Score \"Excellent\" in the shooting range in \"Atlas.\""
+      },
+      {
+        "id": "achievement-23",
+        "name": "Grenadier",
+        "kind": "trophy",
+        "chapterId": "missions-1-5",
+        "where": "Score \"Excellent\" in the grenade range in \"Atlas.\""
+      },
+      {
+        "id": "achievement-24",
+        "name": "Welcome to Atlas",
+        "kind": "trophy",
+        "chapterId": "missions-1-5",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-25",
+        "name": "Look Both Ways",
+        "kind": "trophy",
+        "chapterId": "missions-1-5",
+        "where": "Kill all the KVA in the traffic section without damaging a civilian vehicle in \"Traffic.\""
+      },
+      {
+        "id": "achievement-26",
+        "name": "Life in the Fast Lane",
+        "kind": "trophy",
+        "chapterId": "missions-1-5",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-27",
+        "name": "Fire and Forget",
+        "kind": "trophy",
+        "chapterId": "missions-1-5",
+        "where": "Kill 10 enemies with the Mobile Turret missiles in \"Fission\""
+      },
+      {
+        "id": "achievement-28",
+        "name": "Radioactive",
+        "kind": "trophy",
+        "chapterId": "missions-1-5",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-29",
+        "name": "Motor City",
+        "kind": "trophy",
+        "chapterId": "missions-1-5",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-30",
+        "name": "Wheelman",
+        "kind": "trophy",
+        "chapterId": "missions-1-5",
+        "where": "Finish the hoverbike drive hitting no walls or obstacles and taking no damage in \"Aftermath.\""
+      },
+      {
+        "id": "achievement-31",
+        "name": "Sitting Ducks",
+        "kind": "trophy",
+        "chapterId": "missions-6-10",
+        "where": "Kill 3 enemies with one shot of the Sniper Drone in \"Manhunt.\""
+      },
+      {
+        "id": "achievement-32",
+        "name": "Born to Die",
+        "kind": "trophy",
+        "chapterId": "missions-6-10",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-33",
+        "name": "Betrayal",
+        "kind": "trophy",
+        "chapterId": "missions-6-10",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-34",
+        "name": "Party Crasher",
+        "kind": "trophy",
+        "chapterId": "missions-6-10",
+        "where": "Kill 20 enemies with the Grappling Hook in \"Sentinel.\""
+      },
+      {
+        "id": "achievement-35",
+        "name": "Crates on a Plane",
+        "kind": "trophy",
+        "chapterId": "missions-6-10",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-36",
+        "name": "The Destroyer Returns",
+        "kind": "trophy",
+        "chapterId": "missions-6-10",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-37",
+        "name": "Restricted Airspace",
+        "kind": "trophy",
+        "chapterId": "missions-6-10",
+        "where": "EMP 10 enemy aircraft out of the sky with the hovertank in \"Bio Lab.\""
+      },
+      {
+        "id": "achievement-38",
+        "name": "Irons in the Fire",
+        "kind": "trophy",
+        "chapterId": "missions-6-10",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-39",
+        "name": "GG",
+        "kind": "trophy",
+        "chapterId": "missions-11-14",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-40",
+        "name": "Man Overboard!",
+        "kind": "trophy",
+        "chapterId": "missions-11-14",
+        "where": "Melee an enemy so they fly off the side of the ship in \"Armada.\""
+      },
+      {
+        "id": "achievement-41",
+        "name": "Wrath of Atlas",
+        "kind": "trophy",
+        "chapterId": "missions-11-14",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-42",
+        "name": "Flying Ace",
+        "kind": "trophy",
+        "chapterId": "missions-11-14",
+        "where": "Shoot down 10 enemies with machine guns in \"Throttle.\""
+      },
+      {
+        "id": "achievement-43",
+        "name": "Manticore Unleashed",
+        "kind": "trophy",
+        "chapterId": "missions-11-14",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-44",
+        "name": "Heavy Handed",
+        "kind": "trophy",
+        "chapterId": "missions-11-14",
+        "where": "Go through 20 gun drops in one-armed combat in \"Captured.\""
+      },
+      {
+        "id": "achievement-45",
+        "name": "The Wheat from the Chaff",
+        "kind": "trophy",
+        "chapterId": "missions-11-14",
+        "where": "Complete \"Captured.\""
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/call-of-duty-advanced-warfare",
+    "Achievement data from Steam (Steam Web API, app 209650)",
+    "StrategyWiki: no usable walkthrough, nothing used — https://strategywiki.org/wiki/Call_of_Duty:_Advanced_Warfare",
+    "Fandom (callofduty.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://callofduty.fandom.com/wiki/Call_of_Duty:_Advanced_Warfare"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). RAWG's first result is the expected entry (id 842). The only Steam app in the store list is 209650, \"Call of Duty®: Advanced Warfare - Gold Edition\" (its schema is named \"Call of Duty: Advanced Warfare\"), so that edition was used; RAWG keeps the Gold Edition and the \"Havoc\" and \"Ascendance\" entries separately, and no achievement names them. StrategyWiki has a stub page (completion stage 0, in Category:Stubs): only Controls and Table of Contents are written; Gameplay and Walkthrough are linked but not written. callofduty.fandom.com answers the API under \"Call of Duty: Advanced Warfare\" with 500 linked articles (the query limit, so possibly more); names only were looked at, nothing copied. 13 of 45 Steam achievements are hidden: API names LEVEL_1 to LEVEL_13, one per numbered level. Each was placed with the visible LEVEL_nA achievement of the same number, whose description names the mission (\"Induction\" is 1A, \"Atlas\" 2A and 2B, \"Captured\" 14A and 14), so the hidden ones sit in the mission chapters by API number, a reasoned guess. Missions 7, 9 and 11 have no visible achievement, so their names are not in the data. The mission groupings of five, five and four are our own choice. There are no multiplayer or co-op achievements on this app."
+}

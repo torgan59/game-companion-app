@@ -1,0 +1,542 @@
+{
+  "id": "far-cry-primal",
+  "title": "Far Cry Primal",
+  "year": 2016,
+  "platforms": [
+    "Xbox One",
+    "PC",
+    "PlayStation 4"
+  ],
+  "rawgId": 2767,
+  "rawgSlug": "far-cry-primal",
+  "released": "2016-02-23",
+  "developers": [
+    "Ubisoft"
+  ],
+  "playtime": 9,
+  "genres": [
+    "Action",
+    "Shooter"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Atmospheric",
+    "steam-trading-cards",
+    "RPG",
+    "Co-op",
+    "Open World",
+    "cooperative",
+    "First-Person",
+    "Partial Controller Support",
+    "FPS",
+    "Online Co-Op",
+    "Exploration"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/119/119bb59e64c7956171a33df0d35aee6b.jpg",
+  "steamAppId": 371660,
+  "achievements": {
+    "total": 55,
+    "hidden": 0,
+    "examples": [
+      {
+        "name": "This Way To Oros",
+        "percent": 38.3
+      },
+      {
+        "name": "Spiritual Advisor",
+        "percent": 26.6
+      },
+      {
+        "name": "Home Improvement",
+        "percent": 24.8
+      },
+      {
+        "name": "Apex Predator",
+        "percent": 0.8
+      },
+      {
+        "name": "TOP OF THE FOOD CHAIN",
+        "percent": 0.6
+      },
+      {
+        "name": "TOP OF THE FOOD CHAIN (2ND CHANCE)",
+        "percent": 0.4
+      },
+      {
+        "name": "TOP OF THE FOOD CHAIN (PERMADEATH)",
+        "percent": 0.3
+      },
+      {
+        "name": "SURVIVAL OF THE FITTEST",
+        "percent": 0.3
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": false,
+      "pages": 0,
+      "reason": "No page for Far Cry Primal (MediaWiki API returned missing; see notes for other titles tried)"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 172,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://farcry.fandom.com/wiki/Far_Cry_Primal"
+    }
+  },
+  "game": {
+    "id": "far-cry-primal",
+    "title": "Far Cry Primal",
+    "platforms": [
+      "Xbox One",
+      "PC",
+      "PlayStation 4"
+    ],
+    "blurb": "Open-world first-person action game set in the Stone Age land of Oros, from Ubisoft, released 2016-02-23. RAWG average playtime: 9 hours. Genres: Action, Shooter. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#8A5A2B",
+    "chapters": [
+      {
+        "id": "main-story",
+        "title": "The Main Story",
+        "summary": "From the mammoth hunt and reaching Oros to facing the Udam and the Izila, the fall of Batari and the hunt for Ull.",
+        "steps": []
+      },
+      {
+        "id": "specialists",
+        "title": "The Wenja Specialists",
+        "summary": "Bringing Karoosh, Tensay, Wogah and Jayma to the village and their specialist missions.",
+        "steps": []
+      },
+      {
+        "id": "beasts",
+        "title": "Taming Beasts",
+        "summary": "Taming the great beasts, rare beasts and a full menagerie, and healing and fighting alongside them.",
+        "steps": []
+      },
+      {
+        "id": "village",
+        "title": "Building the Village",
+        "summary": "Building and upgrading huts and growing the Wenja tribe.",
+        "steps": []
+      },
+      {
+        "id": "exploration",
+        "title": "Outposts, Quests and Exploration",
+        "summary": "Outposts and forts, Help Wenja, Tribal Clash and Beast Kill quests, hidden locations, collectibles and Pardaku Lookout.",
+        "steps": []
+      },
+      {
+        "id": "combat",
+        "title": "Hunting and Combat",
+        "summary": "Kills with clubs, spears, bows, slings, fire, poison, bees, shards, traps and your owl, and learning every skill.",
+        "steps": []
+      },
+      {
+        "id": "survivor-mode",
+        "title": "Survivor Mode",
+        "summary": "Finishing the game in Survivor mode, with Second Chance, Permadeath and on Expert.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "This Way To Oros",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Survive the mammoth hunt."
+      },
+      {
+        "id": "achievement-2",
+        "name": "Spearproof",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Repel the Udam attack."
+      },
+      {
+        "id": "achievement-3",
+        "name": "Liberator",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Rescue a Wenja captive from the Izila."
+      },
+      {
+        "id": "achievement-4",
+        "name": "Uncaged",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Escape the Udam caverns."
+      },
+      {
+        "id": "achievement-5",
+        "name": "Krati, Krati, Krati!",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Steal the Izila mask of Krati."
+      },
+      {
+        "id": "achievement-6",
+        "name": "Deadeye",
+        "kind": "trophy",
+        "chapterId": "specialists",
+        "where": "Karoosh joins the Wenja village."
+      },
+      {
+        "id": "achievement-7",
+        "name": "Spiritual Advisor",
+        "kind": "trophy",
+        "chapterId": "specialists",
+        "where": "Tensay joins the Wenja village."
+      },
+      {
+        "id": "achievement-8",
+        "name": "Mister Fix-It",
+        "kind": "trophy",
+        "chapterId": "specialists",
+        "where": "Wogah joins the Wenja village."
+      },
+      {
+        "id": "achievement-9",
+        "name": "Gray Huntress",
+        "kind": "trophy",
+        "chapterId": "specialists",
+        "where": "Jayma joins the Wenja village."
+      },
+      {
+        "id": "achievement-10",
+        "name": "Twelve Labors",
+        "kind": "trophy",
+        "chapterId": "specialists",
+        "where": "Complete any 12 specialist missions."
+      },
+      {
+        "id": "achievement-11",
+        "name": "To Ash",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Complete the mission, The Fall of Batari."
+      },
+      {
+        "id": "achievement-12",
+        "name": "Evolution in Action",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Complete the mission, The Hunt for Ull."
+      },
+      {
+        "id": "achievement-13",
+        "name": "Here Kitty",
+        "kind": "trophy",
+        "chapterId": "beasts",
+        "where": "Tame the bloodfang sabretooth."
+      },
+      {
+        "id": "achievement-14",
+        "name": "Big Teddy",
+        "kind": "trophy",
+        "chapterId": "beasts",
+        "where": "Tame the great scar bear."
+      },
+      {
+        "id": "achievement-15",
+        "name": "Endangered",
+        "kind": "trophy",
+        "chapterId": "beasts",
+        "where": "Fight the bloodtusk mammoth."
+      },
+      {
+        "id": "achievement-16",
+        "name": "Good Boy",
+        "kind": "trophy",
+        "chapterId": "beasts",
+        "where": "Tame the snowblood wolf."
+      },
+      {
+        "id": "achievement-17",
+        "name": "Home Improvement",
+        "kind": "trophy",
+        "chapterId": "village",
+        "where": "Build or upgrade any 2 village huts."
+      },
+      {
+        "id": "achievement-18",
+        "name": "Subdivisions",
+        "kind": "trophy",
+        "chapterId": "village",
+        "where": "Your Wenja tribe reaches a population of 20."
+      },
+      {
+        "id": "achievement-19",
+        "name": "Tears of Shame",
+        "kind": "trophy",
+        "chapterId": "beasts",
+        "where": "Kill and skin 1 tamed beast."
+      },
+      {
+        "id": "achievement-20",
+        "name": "Real Estate Baron",
+        "kind": "trophy",
+        "chapterId": "village",
+        "where": "Complete all hut upgrades."
+      },
+      {
+        "id": "achievement-21",
+        "name": "Killer's Belief",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Eliminate 25 enemies using any takedown."
+      },
+      {
+        "id": "achievement-22",
+        "name": "And Stay Down",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Eliminate 100 enemies using a club."
+      },
+      {
+        "id": "achievement-23",
+        "name": "Skewered",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Eliminate 100 enemies using a spear."
+      },
+      {
+        "id": "achievement-24",
+        "name": "Sharpshooter",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Eliminate 100 enemies using a bow."
+      },
+      {
+        "id": "achievement-25",
+        "name": "Inflammable",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Eliminate 50 enemies with fire."
+      },
+      {
+        "id": "achievement-26",
+        "name": "David And Goliath",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Eliminate 10 enemies using a sling."
+      },
+      {
+        "id": "achievement-27",
+        "name": "Outta My Way",
+        "kind": "trophy",
+        "chapterId": "beasts",
+        "where": "Eliminate 25 enemies while riding any beast."
+      },
+      {
+        "id": "achievement-28",
+        "name": "Bad Trip",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Influence 25 enemies using poison."
+      },
+      {
+        "id": "achievement-29",
+        "name": "BEES!",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Eliminate 10 enemies using sting bombs."
+      },
+      {
+        "id": "achievement-30",
+        "name": "Quickdraw",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Eliminate 15 enemies using throwing shards."
+      },
+      {
+        "id": "achievement-31",
+        "name": "Right On Target",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Kill a target 50 feet away or more using a spear."
+      },
+      {
+        "id": "achievement-32",
+        "name": "Bullseye",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Kill a target 70 feet away or more using an arrow."
+      },
+      {
+        "id": "achievement-33",
+        "name": "Gotcha",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Eliminate 10 enemies using hunting traps."
+      },
+      {
+        "id": "achievement-34",
+        "name": "Sic 'Em",
+        "kind": "trophy",
+        "chapterId": "beasts",
+        "where": "Eliminate 50 hostile targets using a tamed beast."
+      },
+      {
+        "id": "achievement-35",
+        "name": "Feathered Friend",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Eliminate 15 enemies using your owl."
+      },
+      {
+        "id": "achievement-36",
+        "name": "Expert Wenja",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Learn all skills."
+      },
+      {
+        "id": "achievement-37",
+        "name": "Armorer",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Use the crafting ability 100 times to craft weapons or arrows."
+      },
+      {
+        "id": "achievement-38",
+        "name": "Kanda Of Faith",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Climb to the peak of Pardaku Lookout and leap off."
+      },
+      {
+        "id": "achievement-39",
+        "name": "Skirmish",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Capture 10 outposts."
+      },
+      {
+        "id": "achievement-40",
+        "name": "Expansion",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Capture all outposts."
+      },
+      {
+        "id": "achievement-41",
+        "name": "Conquest",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Capture all forts."
+      },
+      {
+        "id": "achievement-42",
+        "name": "Menagerie",
+        "kind": "trophy",
+        "chapterId": "beasts",
+        "where": "Tame 7 beasts."
+      },
+      {
+        "id": "achievement-43",
+        "name": "Fancy Friend",
+        "kind": "trophy",
+        "chapterId": "beasts",
+        "where": "Tame 1 rare beast."
+      },
+      {
+        "id": "achievement-44",
+        "name": "Veterinarian",
+        "kind": "trophy",
+        "chapterId": "beasts",
+        "where": "Heal a tamed beast 25 times."
+      },
+      {
+        "id": "achievement-45",
+        "name": "Cave Hoarder",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Pickup 80 collectibles."
+      },
+      {
+        "id": "achievement-46",
+        "name": "Good Neighbor",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Complete 15 \"Help Wenja\" quests."
+      },
+      {
+        "id": "achievement-47",
+        "name": "Mapmaker",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Discover 15 hidden locations."
+      },
+      {
+        "id": "achievement-48",
+        "name": "Crush Your Enemies",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Complete 10 \"Tribal Clash\" quests."
+      },
+      {
+        "id": "achievement-49",
+        "name": "Master Tracker",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Complete 5 \"Beast Kill\" quests."
+      },
+      {
+        "id": "achievement-50",
+        "name": "Mark 4 Wenja",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Discover the future past."
+      },
+      {
+        "id": "achievement-51",
+        "name": "Apex Predator",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Obtain all the Achievements."
+      },
+      {
+        "id": "achievement-52",
+        "name": "TOP OF THE FOOD CHAIN",
+        "kind": "trophy",
+        "chapterId": "survivor-mode",
+        "where": "Finish the game in Survivor mode (Any difficulty)."
+      },
+      {
+        "id": "achievement-53",
+        "name": "TOP OF THE FOOD CHAIN (2ND CHANCE)",
+        "kind": "trophy",
+        "chapterId": "survivor-mode",
+        "where": "Finish the game in Survivor mode (Any difficulty) and the Second chance option activated."
+      },
+      {
+        "id": "achievement-54",
+        "name": "TOP OF THE FOOD CHAIN (PERMADEATH)",
+        "kind": "trophy",
+        "chapterId": "survivor-mode",
+        "where": "Finish the game in Survivor mode (Any difficulty) and the Permadeath option activated."
+      },
+      {
+        "id": "achievement-55",
+        "name": "SURVIVAL OF THE FITTEST",
+        "kind": "trophy",
+        "chapterId": "survivor-mode",
+        "where": "Finish the game in Survivor mode (Expert difficulty) and the Permadeath option activated... Forget it... No-one will ever achieve it."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/far-cry-primal",
+    "Achievement data from Steam (Steam Web API, app 371660)",
+    "StrategyWiki: no page for this game, nothing used",
+    "Fandom (farcry.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://farcry.fandom.com/wiki/Far_Cry_Primal"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). Steam app 371660 (\"Far Cry® Primal\" in the store list, \"Far Cry Primal\" in the schema). None of the 55 Steam achievements is hidden. \"Mark 4 Wenja\" (\"Discover the future past\") is unclear from its text and was put in the exploration chapter with the all-achievements prize; \"Tears of Shame\" (skinning a tamed beast) sits with the beasts. The four Survivor mode achievements are all below 1%. StrategyWiki has no page under \"Far Cry Primal\" or \"Far Cry: Primal\". farcry.fandom.com answers the API under \"Far Cry Primal\" with about 172 linked articles, including a \"Far Cry Primal downloadable content\" page; no Steam achievement names any added content, so there is no DLC chapter. Names only were looked at, nothing copied."
+}

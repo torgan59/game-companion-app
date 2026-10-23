@@ -1,0 +1,415 @@
+{
+  "id": "unknown-9-awakening",
+  "title": "Unknown 9: Awakening",
+  "year": 2024,
+  "platforms": [
+    "PC",
+    "PlayStation 5",
+    "Xbox Series X|S",
+    "PlayStation 4",
+    "Xbox One"
+  ],
+  "rawgId": 485219,
+  "rawgSlug": "unknown-9",
+  "released": "2024-10-17",
+  "developers": [
+    "Reflector Entertainment"
+  ],
+  "playtime": 3,
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Full controller support",
+    "Steam Cloud",
+    "Story Rich",
+    "Third Person",
+    "Horror",
+    "Female Protagonist",
+    "Stealth",
+    "Action-Adventure",
+    "Mystery",
+    "3D"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/f1a/f1aa0e2ce14294b842ac90e63078bc01.jpg",
+  "steamAppId": 1477940,
+  "achievements": {
+    "total": 38,
+    "hidden": 14,
+    "examples": [
+      {
+        "name": "Self-Inflicted",
+        "percent": 45.6
+      },
+      {
+        "name": "Untouchable",
+        "percent": 27.0
+      },
+      {
+        "name": "Killer Instinct",
+        "percent": 25.5
+      },
+      {
+        "name": "Tracing The Path",
+        "percent": 2.0
+      },
+      {
+        "name": "Eagle Eyes",
+        "percent": 1.9
+      },
+      {
+        "name": "Wisdom of the Ages",
+        "percent": 1.8
+      },
+      {
+        "name": "Master Collector",
+        "percent": 1.7
+      },
+      {
+        "name": "True Quaestor",
+        "percent": 1.3
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": false,
+      "pages": 0,
+      "reason": "No page for Unknown 9: Awakening (MediaWiki API returned missing; see notes for other titles tried)"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 3,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://unknown9.fandom.com/wiki/Unknown_9:_Awakening"
+    }
+  },
+  "game": {
+    "id": "unknown-9-awakening",
+    "title": "Unknown 9: Awakening",
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "Xbox Series X|S",
+      "PlayStation 4",
+      "Xbox One"
+    ],
+    "blurb": "Third-person action-adventure with stealth and the supernatural power of Stepping, from Reflector Entertainment, released 2024-10-17. RAWG average playtime: 3 hours. Genres: Action, Adventure. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#7B3FA0",
+    "chapters": [
+      {
+        "id": "main-story",
+        "title": "The Main Story",
+        "summary": "The story from start to finish, with its hidden milestones. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "stepping",
+        "title": "Stepping",
+        "summary": "Unlocking Stepping and using it to control enemies and turn them on each other.",
+        "steps": []
+      },
+      {
+        "id": "umbric-and-shroud",
+        "title": "Umbric Powers and the Shroud",
+        "summary": "The Umbric Abilities branch, Umbric attacks, Burst Attacks and fighting while Shrouded.",
+        "steps": []
+      },
+      {
+        "id": "combat-and-stealth",
+        "title": "Combat and Stealth",
+        "summary": "Melee fights, Gearheads, Pull Strikes, takedowns, cliffs and machines.",
+        "steps": []
+      },
+      {
+        "id": "collectibles",
+        "title": "Collectibles",
+        "summary": "The Collection menu, Extractors, Scribings and Sahin Tiles.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "On Your Own Now",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-2",
+        "name": "Weaving The Pattern",
+        "kind": "trophy",
+        "chapterId": "stepping",
+        "where": "Unlock all 3 levels of Stepping."
+      },
+      {
+        "id": "achievement-3",
+        "name": "State of Mind",
+        "kind": "trophy",
+        "chapterId": "umbric-and-shroud",
+        "where": "Complete the Umbric Abilities Branch of the skill tree."
+      },
+      {
+        "id": "achievement-4",
+        "name": "An Orphan Reborn",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-5",
+        "name": "Skilled Collector",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Find 50% of items in the Collection menu, excluding the Extractors."
+      },
+      {
+        "id": "achievement-6",
+        "name": "Master Collector",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Complete the Collection Menu, excluding the Extractors."
+      },
+      {
+        "id": "achievement-7",
+        "name": "Fall Out",
+        "kind": "trophy",
+        "chapterId": "combat-and-stealth",
+        "where": "Push or Pull 5 enemies off a cliff."
+      },
+      {
+        "id": "achievement-8",
+        "name": "True Quaestor",
+        "kind": "trophy",
+        "chapterId": "combat-and-stealth",
+        "where": "Unlock all the achievements."
+      },
+      {
+        "id": "achievement-9",
+        "name": "Chess Moves",
+        "kind": "trophy",
+        "chapterId": "stepping",
+        "where": "Defeat 3 enemies simultaneously with a single Stepped-in enemy."
+      },
+      {
+        "id": "achievement-10",
+        "name": "Untouchable",
+        "kind": "trophy",
+        "chapterId": "combat-and-stealth",
+        "where": "In the same encounter, defeat 3 enemies in melee combat without taking damage and without Stepping."
+      },
+      {
+        "id": "achievement-11",
+        "name": "Enemy Within",
+        "kind": "trophy",
+        "chapterId": "stepping",
+        "where": "Cause 30 enemies to defeat their own allies with the Stepping Ability."
+      },
+      {
+        "id": "achievement-12",
+        "name": "Heavy Metal",
+        "kind": "trophy",
+        "chapterId": "combat-and-stealth",
+        "where": "Defeat a Gearhead."
+      },
+      {
+        "id": "achievement-13",
+        "name": "Pulling Your Punches",
+        "kind": "trophy",
+        "chapterId": "combat-and-stealth",
+        "where": "Perform a Perfect Pull Strike on 10 enemies."
+      },
+      {
+        "id": "achievement-14",
+        "name": "Out of Body",
+        "kind": "trophy",
+        "chapterId": "umbric-and-shroud",
+        "where": "Faze 5 enemies using Umbric attacks."
+      },
+      {
+        "id": "achievement-15",
+        "name": "Fury Unleashed",
+        "kind": "trophy",
+        "chapterId": "umbric-and-shroud",
+        "where": "Execute 20 Burst Attacks."
+      },
+      {
+        "id": "achievement-16",
+        "name": "Silent Assassin",
+        "kind": "trophy",
+        "chapterId": "combat-and-stealth",
+        "where": "Execute 10 Elite takedowns."
+      },
+      {
+        "id": "achievement-17",
+        "name": "Puppeteer",
+        "kind": "trophy",
+        "chapterId": "stepping",
+        "where": "Step into 15 enemies without being detected."
+      },
+      {
+        "id": "achievement-18",
+        "name": "Killer Instinct",
+        "kind": "trophy",
+        "chapterId": "stepping",
+        "where": "Step into an enemy then perform a takedown on them right away."
+      },
+      {
+        "id": "achievement-19",
+        "name": "Pyrotechnics",
+        "kind": "trophy",
+        "chapterId": "umbric-and-shroud",
+        "where": "Push an enemy into a fuel canister while Shrouded."
+      },
+      {
+        "id": "achievement-20",
+        "name": "Instill Fear",
+        "kind": "trophy",
+        "chapterId": "umbric-and-shroud",
+        "where": "Defeat 10 enemies while Shrouded with Tenacious Shroud."
+      },
+      {
+        "id": "achievement-21",
+        "name": "Better Part of Valor",
+        "kind": "trophy",
+        "chapterId": "umbric-and-shroud",
+        "where": "Retreat from 5 different combat events while Shrouded."
+      },
+      {
+        "id": "achievement-22",
+        "name": "Shutdown",
+        "kind": "trophy",
+        "chapterId": "combat-and-stealth",
+        "where": "Deactivate 10 machines."
+      },
+      {
+        "id": "achievement-23",
+        "name": "Wisdom of the Ages",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Find all Scribings: Tree of Life and The Three Bodies."
+      },
+      {
+        "id": "achievement-24",
+        "name": "Eagle Eyes",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Destroy all Extractors."
+      },
+      {
+        "id": "achievement-25",
+        "name": "Tracing The Path",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Find all Sahin Tiles."
+      },
+      {
+        "id": "achievement-26",
+        "name": "The Yankee’s Prize",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-27",
+        "name": "Going Dark",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-28",
+        "name": "Out of Time",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-29",
+        "name": "Ascension Eclipsed",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-30",
+        "name": "Great Escape",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-31",
+        "name": "A Score To Settle",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-32",
+        "name": "The Audacity",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-33",
+        "name": "Young and Reckless",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-34",
+        "name": "Revelation",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-35",
+        "name": "Self-Inflicted",
+        "kind": "trophy",
+        "chapterId": "combat-and-stealth",
+        "where": "Take damage from enemy environmental objects."
+      },
+      {
+        "id": "achievement-36",
+        "name": "You Got Folded",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-37",
+        "name": "Crack the Code",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-38",
+        "name": "Fallen Warrior",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/unknown-9",
+    "Achievement data from Steam (Steam Web API, app 1477940)",
+    "StrategyWiki: no page for this game, nothing used",
+    "Fandom (unknown9.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://unknown9.fandom.com/wiki/Unknown_9:_Awakening"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). No StrategyWiki page under \"Unknown 9: Awakening\" or \"Unknown 9\". unknown9.fandom.com redirects \"Unknown 9: Awakening\" to a short \"Awakening\" page that links only 3 articles (\"Reflector Entertainment\", \"Bandai Namco Entertainment Europe\", \"Unknown 9 Universe\"), so it gave no structure; names only were looked at, nothing copied. The Steam schema calls the app \"Jacket\" (an internal codename); the store list confirms app 1477940. 14 of 38 Steam achievements are hidden; they sit in the story chapter. Their names (\"On Your Own Now\", \"An Orphan Reborn\", \"The Yankee's Prize\", \"Going Dark\" and so on) read like story chapters, but the data gives no order beyond the Steam list. \"Killer Instinct\" and \"Puppeteer\" mention stepping into enemies, so they sit in the Stepping chapter rather than with stealth."
+}

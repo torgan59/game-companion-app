@@ -1,0 +1,819 @@
+{
+  "id": "granblue-fantasy-relink",
+  "title": "Granblue Fantasy: Relink",
+  "year": 2024,
+  "platforms": [
+    "PlayStation 5",
+    "PlayStation 4",
+    "PC"
+  ],
+  "rawgId": 357246,
+  "rawgSlug": "granblue-fantasy-relink",
+  "released": "2024-02-01",
+  "developers": [
+    "Cygames"
+  ],
+  "playtime": null,
+  "genres": [
+    "Action",
+    "Adventure",
+    "RPG"
+  ],
+  "tags": [
+    "RPG",
+    "Action-Adventure",
+    "Anime",
+    "exclusive",
+    "JRPG"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/5bc/5bc67f772f5086976cf3af2dd967dd68.jpg",
+  "steamAppId": 881020,
+  "achievements": {
+    "total": 96,
+    "hidden": 38,
+    "examples": [
+      {
+        "name": "On the Road to Mastery",
+        "percent": 85.5
+      },
+      {
+        "name": "In Perfect Sync",
+        "percent": 84.9
+      },
+      {
+        "name": "About to Full Burst",
+        "percent": 84.0
+      },
+      {
+        "name": "Points Expert",
+        "percent": 4.3
+      },
+      {
+        "name": "Nothing Is Impossible!",
+        "percent": 4.0
+      },
+      {
+        "name": "More... More!",
+        "percent": 2.2
+      },
+      {
+        "name": "Platinum Sky",
+        "percent": 2.1
+      },
+      {
+        "name": "Chaos Kid",
+        "percent": 1.5
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Granblue_Fantasy:_Relink",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 0,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://granblue.fandom.com/wiki/Granblue_Fantasy:_Relink"
+    }
+  },
+  "game": {
+    "id": "granblue-fantasy-relink",
+    "title": "Granblue Fantasy: Relink",
+    "platforms": [
+      "PlayStation 5",
+      "PlayStation 4",
+      "PC"
+    ],
+    "blurb": "Anime action RPG from Cygames, released 2024-02-01. RAWG has no playtime yet. Genres: Action, Adventure, RPG. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#3A7BD5",
+    "chapters": [
+      {
+        "id": "main-story",
+        "title": "The Main Story",
+        "summary": "The story chapters and the big hidden battles. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "crew-and-fates",
+        "title": "The Crew and Fate Episodes",
+        "summary": "Unlocking characters, their fate episodes and epilogues, and raising them to level 100.",
+        "steps": []
+      },
+      {
+        "id": "side-quests-and-exploration",
+        "title": "Side Quests and Exploration",
+        "summary": "Side quests, Field Notes in Lyria's Journal, wee pincers, archive entries and treasure chests.",
+        "steps": []
+      },
+      {
+        "id": "combat",
+        "title": "Battle Skills",
+        "summary": "Full bursts, chain bursts, link time, Skybound Arts, skills, Break, primal beasts and top quest ratings.",
+        "steps": []
+      },
+      {
+        "id": "weapons-and-sigils",
+        "title": "Weapons, Sigils and Masteries",
+        "summary": "Ascension weapons, uncapping, sigils, Masteries, trades and appraisals, and rupies.",
+        "steps": []
+      },
+      {
+        "id": "endless-ragnarok",
+        "title": "Endless Ragnarok: Chaos and the Conflux",
+        "summary": "Chaos difficulties, Conflux Cycles and surveys, the Ways, master levels, transcending weapons and the hidden endgame fights.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Platinum Sky",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Earn all achievements"
+      },
+      {
+        "id": "achievement-2",
+        "name": "Wings of Destruction",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-3",
+        "name": "The Ultimate",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-4",
+        "name": "Id",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-5",
+        "name": "Skybound Heart",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-6",
+        "name": "Nothing Is Impossible!",
+        "kind": "trophy",
+        "chapterId": "side-quests-and-exploration",
+        "where": "Complete all side quests (excluding add-on content)"
+      },
+      {
+        "id": "achievement-7",
+        "name": "Squad's All Here",
+        "kind": "trophy",
+        "chapterId": "crew-and-fates",
+        "where": "Unlock all characters (excluding add-on content)"
+      },
+      {
+        "id": "achievement-8",
+        "name": "Fate Can't Wait",
+        "kind": "trophy",
+        "chapterId": "crew-and-fates",
+        "where": "Complete all characters' fate episodes, including their epilogues (excluding add-on content)"
+      },
+      {
+        "id": "achievement-9",
+        "name": "Reminiscence",
+        "kind": "trophy",
+        "chapterId": "side-quests-and-exploration",
+        "where": "Fill in every Field Notes entry in Lyria's Journal (excluding add-on content)"
+      },
+      {
+        "id": "achievement-10",
+        "name": "True Potential",
+        "kind": "trophy",
+        "chapterId": "weapons-and-sigils",
+        "where": "Unlock the power of an Ascension weapon for the first time"
+      },
+      {
+        "id": "achievement-11",
+        "name": "The Forgotten Sky",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-12",
+        "name": "The Western Frontier",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-13",
+        "name": "Tempest on the Horizon",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-14",
+        "name": "Creation of the Stars",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-15",
+        "name": "Skies Forever Blue",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-16",
+        "name": "Shadows in the Snowscape",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-17",
+        "name": "In Search of Hope",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-18",
+        "name": "Warning Signs",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-19",
+        "name": "Relink",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-20",
+        "name": "Opposing Wills",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-21",
+        "name": "Leave It to Me",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Achieve an S++ quest evaluation for the first time"
+      },
+      {
+        "id": "achievement-22",
+        "name": "It's All About Communication",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Use an emote"
+      },
+      {
+        "id": "achievement-23",
+        "name": "Primal Beast Punisher",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Defeat primal beasts 100 times"
+      },
+      {
+        "id": "achievement-24",
+        "name": "I Try to Help",
+        "kind": "trophy",
+        "chapterId": "side-quests-and-exploration",
+        "where": "Complete a side quest for the first time"
+      },
+      {
+        "id": "achievement-25",
+        "name": "Sharpshooter",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-26",
+        "name": "Cannon Crusher",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-27",
+        "name": "Child of Darkness and Flames",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-28",
+        "name": "Primeval Dragon",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-29",
+        "name": "About to Full Burst",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Trigger a full burst in battle (excluding certain battles)"
+      },
+      {
+        "id": "achievement-30",
+        "name": "Don't Think It Goes Higher Than That",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Deal more than 999,999 damage with a chain burst in battle"
+      },
+      {
+        "id": "achievement-31",
+        "name": "In Perfect Sync",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Enter link time in battle (excluding Training)"
+      },
+      {
+        "id": "achievement-32",
+        "name": "Chain Burst Champion",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Activate chain bursts 100 times in battles (excluding certain battles)"
+      },
+      {
+        "id": "achievement-33",
+        "name": "No Holding Back",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Unleash Skybound Arts 10 times in battles (excluding certain battles)"
+      },
+      {
+        "id": "achievement-34",
+        "name": "Field Medic",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Revive allies 5 times"
+      },
+      {
+        "id": "achievement-35",
+        "name": "It's Called Skill",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Use skills 50 times in battles"
+      },
+      {
+        "id": "achievement-36",
+        "name": "Buff Buffet",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Use buffing skills to grant status effects to allies 20 times in battles"
+      },
+      {
+        "id": "achievement-37",
+        "name": "Debuff Deluge",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Use debuffing skills to inflict status ailments on foes 20 times in battle"
+      },
+      {
+        "id": "achievement-38",
+        "name": "I Will Survive",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Use 50 potions"
+      },
+      {
+        "id": "achievement-39",
+        "name": "Give Me Something to Break",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Put foes into Break 5 times in battles (excluding certain battles)"
+      },
+      {
+        "id": "achievement-40",
+        "name": "A Fateful Encounter",
+        "kind": "trophy",
+        "chapterId": "crew-and-fates",
+        "where": "Complete a fate episode prologue for the first time"
+      },
+      {
+        "id": "achievement-41",
+        "name": "A Fateful Farewell",
+        "kind": "trophy",
+        "chapterId": "crew-and-fates",
+        "where": "Complete a fate episode epilogue"
+      },
+      {
+        "id": "achievement-42",
+        "name": "Push It to the Limit",
+        "kind": "trophy",
+        "chapterId": "crew-and-fates",
+        "where": "Raise a character to level 100"
+      },
+      {
+        "id": "achievement-43",
+        "name": "I Like It When Numbers Go Up",
+        "kind": "trophy",
+        "chapterId": "weapons-and-sigils",
+        "where": "Acquire a total of 100,000 rupies"
+      },
+      {
+        "id": "achievement-44",
+        "name": "Crabs Are Neat",
+        "kind": "trophy",
+        "chapterId": "side-quests-and-exploration",
+        "where": "Find 20 wee pincers"
+      },
+      {
+        "id": "achievement-45",
+        "name": "Closer to the Truth",
+        "kind": "trophy",
+        "chapterId": "side-quests-and-exploration",
+        "where": "Find 30 archive entries"
+      },
+      {
+        "id": "achievement-46",
+        "name": "Treasure Hunter",
+        "kind": "trophy",
+        "chapterId": "side-quests-and-exploration",
+        "where": "Open 50 treasure chests (excluding town chests)"
+      },
+      {
+        "id": "achievement-47",
+        "name": "Unlocked and Unloaded",
+        "kind": "trophy",
+        "chapterId": "side-quests-and-exploration",
+        "where": "Open all locked treasure chests"
+      },
+      {
+        "id": "achievement-48",
+        "name": "Practice Makes Perfect",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Get some practice in with Sir Barrold"
+      },
+      {
+        "id": "achievement-49",
+        "name": "No Cap",
+        "kind": "trophy",
+        "chapterId": "weapons-and-sigils",
+        "where": "Uncap a weapon at the blacksmith"
+      },
+      {
+        "id": "achievement-50",
+        "name": "Knickknack Shack Regular",
+        "kind": "trophy",
+        "chapterId": "weapons-and-sigils",
+        "where": "Use Siero's Treasure Trade to complete 10 trades"
+      },
+      {
+        "id": "achievement-51",
+        "name": "On the Road to Mastery",
+        "kind": "trophy",
+        "chapterId": "weapons-and-sigils",
+        "where": "Unlock a character action node from Masteries for the first time"
+      },
+      {
+        "id": "achievement-52",
+        "name": "Making Ends Meet",
+        "kind": "trophy",
+        "chapterId": "weapons-and-sigils",
+        "where": "Sell 10 sigils"
+      },
+      {
+        "id": "achievement-53",
+        "name": "Welcome to the Crew",
+        "kind": "trophy",
+        "chapterId": "crew-and-fates",
+        "where": "Unlock a new character"
+      },
+      {
+        "id": "achievement-54",
+        "name": "On the House",
+        "kind": "trophy",
+        "chapterId": "weapons-and-sigils",
+        "where": "Get an appraisal from Zathba"
+      },
+      {
+        "id": "achievement-55",
+        "name": "Endless Ragnarok",
+        "kind": "trophy",
+        "chapterId": "endless-ragnarok",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-56",
+        "name": "Wings that Subjugated Chaos",
+        "kind": "trophy",
+        "chapterId": "endless-ragnarok",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-57",
+        "name": "Broke the Laws of Nature",
+        "kind": "trophy",
+        "chapterId": "endless-ragnarok",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-58",
+        "name": "Wings Beyond the Grand Finale",
+        "kind": "trophy",
+        "chapterId": "endless-ragnarok",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-59",
+        "name": "Destroyer of the Immortal",
+        "kind": "trophy",
+        "chapterId": "endless-ragnarok",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-60",
+        "name": "Above and Beyond",
+        "kind": "trophy",
+        "chapterId": "endless-ragnarok",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-61",
+        "name": "A Perfect World Realized",
+        "kind": "trophy",
+        "chapterId": "endless-ragnarok",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-62",
+        "name": "The Eternals Got Nothing On Me",
+        "kind": "trophy",
+        "chapterId": "endless-ragnarok",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-63",
+        "name": "Extremely Excellent Execution",
+        "kind": "trophy",
+        "chapterId": "endless-ragnarok",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-64",
+        "name": "On the Edge of Chaos",
+        "kind": "trophy",
+        "chapterId": "endless-ragnarok",
+        "where": "Unlock Chaos++ quest difficulty"
+      },
+      {
+        "id": "achievement-65",
+        "name": "Can't Beat My High Score",
+        "kind": "trophy",
+        "chapterId": "endless-ragnarok",
+        "where": "Achieve a Conflux score of 10,000,000 or more"
+      },
+      {
+        "id": "achievement-66",
+        "name": "I'll Make This Quick!",
+        "kind": "trophy",
+        "chapterId": "endless-ragnarok",
+        "where": "Clear the final Warlord's Way of Conflux Cycle 3, 4, or 5 within 90 seconds"
+      },
+      {
+        "id": "achievement-67",
+        "name": "Memento Mori",
+        "kind": "trophy",
+        "chapterId": "endless-ragnarok",
+        "where": "Complete Conflux Cycle 3, 4, or 5 without going into critical condition"
+      },
+      {
+        "id": "achievement-68",
+        "name": "Whoa-Whoa Yeaaah!",
+        "kind": "trophy",
+        "chapterId": "endless-ragnarok",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-69",
+        "name": "Chaos Kid",
+        "kind": "trophy",
+        "chapterId": "endless-ragnarok",
+        "where": "Complete 50 surveys in the Conflux (excludes retreats)"
+      },
+      {
+        "id": "achievement-70",
+        "name": "13 Uncaps",
+        "kind": "trophy",
+        "chapterId": "endless-ragnarok",
+        "where": "Fully transcend a weapon"
+      },
+      {
+        "id": "achievement-71",
+        "name": "Level Overflow",
+        "kind": "trophy",
+        "chapterId": "endless-ragnarok",
+        "where": "Raise a character to master level 50"
+      },
+      {
+        "id": "achievement-72",
+        "name": "It's Peak",
+        "kind": "trophy",
+        "chapterId": "endless-ragnarok",
+        "where": "Break the master level until it can no longer be broken"
+      },
+      {
+        "id": "achievement-73",
+        "name": "Life Is Shell",
+        "kind": "trophy",
+        "chapterId": "endless-ragnarok",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-74",
+        "name": "Ragnalia Slayer",
+        "kind": "trophy",
+        "chapterId": "endless-ragnarok",
+        "where": "Unlock Chaos+ quest difficulty"
+      },
+      {
+        "id": "achievement-75",
+        "name": "Welcome to the Club",
+        "kind": "trophy",
+        "chapterId": "endless-ragnarok",
+        "where": "Unlock Chaos quest difficulty"
+      },
+      {
+        "id": "achievement-76",
+        "name": "Entropy Explorer",
+        "kind": "trophy",
+        "chapterId": "endless-ragnarok",
+        "where": "Complete Conflux Cycle 4: Illusion"
+      },
+      {
+        "id": "achievement-77",
+        "name": "Interdimensional Inquisitor",
+        "kind": "trophy",
+        "chapterId": "endless-ragnarok",
+        "where": "Complete Conflux Cycle 3: Procession"
+      },
+      {
+        "id": "achievement-78",
+        "name": "Frequent Confluxer",
+        "kind": "trophy",
+        "chapterId": "endless-ragnarok",
+        "where": "Clear any combination of Strife's Way, Warlord's Way, or Dexterity's Way 100 times"
+      },
+      {
+        "id": "achievement-79",
+        "name": "Ike Ike Danchou!",
+        "kind": "trophy",
+        "chapterId": "endless-ragnarok",
+        "where": "Clear any Dexterity's Way for the first time"
+      },
+      {
+        "id": "achievement-80",
+        "name": "Ganbare Ganbare Danchou!",
+        "kind": "trophy",
+        "chapterId": "endless-ragnarok",
+        "where": "Clear 4 types of Dexterity's Way"
+      },
+      {
+        "id": "achievement-81",
+        "name": "This Thing's Rigged!",
+        "kind": "trophy",
+        "chapterId": "endless-ragnarok",
+        "where": "Get 3 consecutive spins on the roulette wheel"
+      },
+      {
+        "id": "achievement-82",
+        "name": "Go! Go! Pow! Pow!",
+        "kind": "trophy",
+        "chapterId": "endless-ragnarok",
+        "where": "Acquire 18 auras during a single Conflux survey"
+      },
+      {
+        "id": "achievement-83",
+        "name": "More... More!",
+        "kind": "trophy",
+        "chapterId": "endless-ragnarok",
+        "where": "Acquire 4 calamity auras within a single Conflux survey"
+      },
+      {
+        "id": "achievement-84",
+        "name": "Points Expert",
+        "kind": "trophy",
+        "chapterId": "endless-ragnarok",
+        "where": "Spend a total of 30,000 RP on Resonance nodes"
+      },
+      {
+        "id": "achievement-85",
+        "name": "Wings of Fate",
+        "kind": "trophy",
+        "chapterId": "endless-ragnarok",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-86",
+        "name": "Mission Is a Go",
+        "kind": "trophy",
+        "chapterId": "endless-ragnarok",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-87",
+        "name": "Enemies Yesterday, Friends Today",
+        "kind": "trophy",
+        "chapterId": "endless-ragnarok",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-88",
+        "name": "Strong and Beautiful",
+        "kind": "trophy",
+        "chapterId": "endless-ragnarok",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-89",
+        "name": "The Black of the Six Dragons",
+        "kind": "trophy",
+        "chapterId": "endless-ragnarok",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-90",
+        "name": "Overhaul!",
+        "kind": "trophy",
+        "chapterId": "endless-ragnarok",
+        "where": "Transcend a weapon for the first time at the Knickknack Shack"
+      },
+      {
+        "id": "achievement-91",
+        "name": "To Be a Master",
+        "kind": "trophy",
+        "chapterId": "endless-ragnarok",
+        "where": "Unlock a character's master level"
+      },
+      {
+        "id": "achievement-92",
+        "name": "My Evil Eye Approves!",
+        "kind": "trophy",
+        "chapterId": "endless-ragnarok",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-93",
+        "name": "Get On My Level, Newcomers",
+        "kind": "trophy",
+        "chapterId": "endless-ragnarok",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-94",
+        "name": "Where the Wee Pincers Are",
+        "kind": "trophy",
+        "chapterId": "endless-ragnarok",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-95",
+        "name": "The Crabs in Black Do Exist!",
+        "kind": "trophy",
+        "chapterId": "endless-ragnarok",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-96",
+        "name": "All-Purpose Ether",
+        "kind": "trophy",
+        "chapterId": "endless-ragnarok",
+        "where": "Activate an ether turret for the first time"
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/granblue-fantasy-relink",
+    "Achievement data from Steam (Steam Web API, app 881020)",
+    "StrategyWiki: no usable walkthrough, nothing used — https://strategywiki.org/wiki/Granblue_Fantasy:_Relink",
+    "Fandom (granblue.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://granblue.fandom.com/wiki/Granblue_Fantasy:_Relink"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). StrategyWiki has a stub page (completion stage 0, marked \"Perfect stub article\"); of its Walkthrough, Gameplay, Controls and Achievements subpages only \"Controls\" (about 1,600 characters) and \"Table of Contents\" exist, so nothing was used. Its categories list 2024 and 2026 and Nintendo Switch 2, and it links a separate page \"Granblue Fantasy: Relink - Endless Ragnarok\". granblue.fandom.com has a page under this title but it links no articles (granbluefantasy.fandom.com gave the same page), so Fandom gave no structure. RAWG's first result, granblue-fantasy-relink (id 357246), matches; RAWG also has a second entry, granblue-fantasy-relink-2. 38 of 96 Steam achievements are hidden. Twenty of them, from \"Endless Ragnarok\" onward in the Steam list, sit among the Chaos and Conflux achievements with low unlock rates (1 to 17%), so they are grouped with that endgame chapter by list position and by the \"Endless Ragnarok\" name; the data does not say they belong to an add-on. The other 18 hidden ones sit in the main story chapter; some (\"The Ultimate\" at 4%, \"Cannon Crusher\", \"Primeval Dragon\" at 5%) are probably optional bosses rather than story steps. Several achievements say \"excluding add-on content\"."
+}

@@ -1,0 +1,509 @@
+{
+  "id": "titanfall-2",
+  "title": "Titanfall 2",
+  "year": 2016,
+  "platforms": [
+    "Xbox One",
+    "PlayStation 4",
+    "PC"
+  ],
+  "rawgId": 923,
+  "rawgSlug": "titanfall-2",
+  "released": "2016-10-28",
+  "developers": [
+    "Respawn Entertainment"
+  ],
+  "playtime": 5,
+  "genres": [
+    "Action",
+    "Shooter"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Multiplayer",
+    "Full controller support",
+    "Atmospheric",
+    "First-Person",
+    "Sci-fi",
+    "FPS",
+    "Gore",
+    "Exploration",
+    "Violent",
+    "Action-Adventure"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/569/56978b5a77f13aa2ec5d09ec81d01cad.jpg",
+  "steamAppId": 1237970,
+  "achievements": {
+    "total": 50,
+    "hidden": 21,
+    "examples": [
+      {
+        "name": "Excessive Force",
+        "percent": 65.6
+      },
+      {
+        "name": "Fire Everything!",
+        "percent": 50.3
+      },
+      {
+        "name": "Aim Bot",
+        "percent": 45.3
+      },
+      {
+        "name": "Legendary Pilot",
+        "percent": 4.0
+      },
+      {
+        "name": "It Was Coming Right For Us",
+        "percent": 3.8
+      },
+      {
+        "name": "...Becomes the Master",
+        "percent": 2.9
+      },
+      {
+        "name": "Every Nook and Cranny",
+        "percent": 2.3
+      },
+      {
+        "name": "Annihilation",
+        "percent": 1.9
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Titanfall_2",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 189,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://titanfall.fandom.com/wiki/Titanfall_2"
+    }
+  },
+  "game": {
+    "id": "titanfall-2",
+    "title": "Titanfall 2",
+    "platforms": [
+      "Xbox One",
+      "PlayStation 4",
+      "PC"
+    ],
+    "blurb": "First-person shooter from Respawn Entertainment, published by Electronic Arts, released 2016-10-28. RAWG average playtime: 5 hours. Genres: Action, Shooter. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#E8792B",
+    "chapters": [
+      {
+        "id": "campaign",
+        "title": "The Campaign",
+        "summary": "The story missions with BT, all hidden on Steam. StrategyWiki lists mission pages such as Blood and Rust, Into the Abyss, Effect and Cause, The Beacon, Trial By Fire, The Ark and The Fold Weapon. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "gauntlet",
+        "title": "The Pilot's Gauntlet",
+        "summary": "Beating the ghost recorder time and climbing the Gauntlet scoreboard.",
+        "steps": []
+      },
+      {
+        "id": "titan-combat",
+        "title": "Titan Combat",
+        "summary": "Destroying Titans with each Core ability, executions, multi-kills and collecting all of BT's loadouts.",
+        "steps": []
+      },
+      {
+        "id": "pilot-combat",
+        "title": "Pilot Combat",
+        "summary": "Wallrunning and sliding kills, rodeo attacks, cloaked takedowns, Stalkers and downing Titans on foot.",
+        "steps": []
+      },
+      {
+        "id": "collectibles",
+        "title": "Collectibles",
+        "summary": "Finding 10, 25 and then all of the campaign collectibles.",
+        "steps": []
+      },
+      {
+        "id": "difficulty",
+        "title": "Difficulty",
+        "summary": "Finishing the campaign on Regular, Hard and Master.",
+        "steps": []
+      },
+      {
+        "id": "multiplayer",
+        "title": "Multiplayer",
+        "summary": "Winning a match, customising a loadout and joining a network.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "The Student...",
+        "kind": "trophy",
+        "chapterId": "gauntlet",
+        "where": "Beat Pilot Anderson's Gauntlet ghost recorder time"
+      },
+      {
+        "id": "achievement-2",
+        "name": "...Becomes the Master",
+        "kind": "trophy",
+        "chapterId": "gauntlet",
+        "where": "Place in the top 3 on the Gauntlet scoreboard"
+      },
+      {
+        "id": "achievement-3",
+        "name": "The Graduate",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-4",
+        "name": "BT Prime",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-5",
+        "name": "Hot Mess",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-6",
+        "name": "Close Shave",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-7",
+        "name": "Some Shortcut!",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-8",
+        "name": "Incepted",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-9",
+        "name": "I'm Not Locked in Here With You",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-10",
+        "name": "Dust to Dust",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-11",
+        "name": "It Was Coming Right For Us",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Kill a Caged Prowler in the Wildlife Research Labs"
+      },
+      {
+        "id": "achievement-12",
+        "name": "Following the Footsteps",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-13",
+        "name": "Secret Plans",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-14",
+        "name": "Unlicensed Nuclear Accelerator",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-15",
+        "name": "Calling CQ",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-16",
+        "name": "4 Bars",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-17",
+        "name": "See You at the Party",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-18",
+        "name": "Pied Piper",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-19",
+        "name": "Precious Cargo",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-20",
+        "name": "Defanged",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-21",
+        "name": "The Ark",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-22",
+        "name": "Titanfall!",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-23",
+        "name": "The Real Pilot's Gauntlet",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-24",
+        "name": "No Salvage",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-25",
+        "name": "Excessive Force",
+        "kind": "trophy",
+        "chapterId": "titan-combat",
+        "where": "Destroy a Titan with your Burst Core in the Campaign"
+      },
+      {
+        "id": "achievement-26",
+        "name": "Angel of Death",
+        "kind": "trophy",
+        "chapterId": "titan-combat",
+        "where": "Destroy a Titan with your Flight Core in the Campaign"
+      },
+      {
+        "id": "achievement-27",
+        "name": "Fire Everything!",
+        "kind": "trophy",
+        "chapterId": "titan-combat",
+        "where": "Destroy a Titan with your Salvo Core in the Campaign"
+      },
+      {
+        "id": "achievement-28",
+        "name": "I have the Power!",
+        "kind": "trophy",
+        "chapterId": "titan-combat",
+        "where": "Destroy a Titan with your Sword Core in the Campaign"
+      },
+      {
+        "id": "achievement-29",
+        "name": "Face Melter",
+        "kind": "trophy",
+        "chapterId": "titan-combat",
+        "where": "Destroy a Titan with your Laser Core in the Campaign"
+      },
+      {
+        "id": "achievement-30",
+        "name": "Aim Bot",
+        "kind": "trophy",
+        "chapterId": "titan-combat",
+        "where": "Destroy a Titan with your Smart Core in the Campaign"
+      },
+      {
+        "id": "achievement-31",
+        "name": "Flame On!",
+        "kind": "trophy",
+        "chapterId": "titan-combat",
+        "where": "Destroy a Titan with your Flame Core in the Campaign"
+      },
+      {
+        "id": "achievement-32",
+        "name": "Coup de Grace",
+        "kind": "trophy",
+        "chapterId": "titan-combat",
+        "where": "Destroy a Mercenary Titan with a melee execution in the Campaign"
+      },
+      {
+        "id": "achievement-33",
+        "name": "Hat Trick",
+        "kind": "trophy",
+        "chapterId": "titan-combat",
+        "where": "Destroy 3 enemy Titans with 1 Core ability in the Campaign"
+      },
+      {
+        "id": "achievement-34",
+        "name": "Annihilation",
+        "kind": "trophy",
+        "chapterId": "titan-combat",
+        "where": "Kill 25 infantry in 2 seconds as a Titan in the Campaign"
+      },
+      {
+        "id": "achievement-35",
+        "name": "You can be my Wingman anytime",
+        "kind": "trophy",
+        "chapterId": "pilot-combat",
+        "where": "Destroy an enemy Titan as a Pilot in the Campaign"
+      },
+      {
+        "id": "achievement-36",
+        "name": "I know Kung Fu",
+        "kind": "trophy",
+        "chapterId": "pilot-combat",
+        "where": "Shoot and kill 3 enemies in a row while wallrunning as a Pilot in the Campaign"
+      },
+      {
+        "id": "achievement-37",
+        "name": "Power Slide",
+        "kind": "trophy",
+        "chapterId": "pilot-combat",
+        "where": "Shoot and kill 3 enemies in a row while sliding as a Pilot in the Campaign"
+      },
+      {
+        "id": "achievement-38",
+        "name": "Cowboy Up",
+        "kind": "trophy",
+        "chapterId": "pilot-combat",
+        "where": "Rodeo an enemy Titan in the Campaign"
+      },
+      {
+        "id": "achievement-39",
+        "name": "Apex Predator",
+        "kind": "trophy",
+        "chapterId": "pilot-combat",
+        "where": "Perform a melee takedown while cloaked in the Campaign"
+      },
+      {
+        "id": "achievement-40",
+        "name": "Robot Army",
+        "kind": "trophy",
+        "chapterId": "pilot-combat",
+        "where": "Acquire 6 or more friendly Stalkers at the same time in the Campaign"
+      },
+      {
+        "id": "achievement-41",
+        "name": "Certified Pilot",
+        "kind": "trophy",
+        "chapterId": "difficulty",
+        "where": "Complete the Campaign on Regular"
+      },
+      {
+        "id": "achievement-42",
+        "name": "Renowned Pilot",
+        "kind": "trophy",
+        "chapterId": "difficulty",
+        "where": "Complete the Campaign on Hard"
+      },
+      {
+        "id": "achievement-43",
+        "name": "Legendary Pilot",
+        "kind": "trophy",
+        "chapterId": "difficulty",
+        "where": "Complete the Campaign on Master"
+      },
+      {
+        "id": "achievement-44",
+        "name": "Jack of All Trades",
+        "kind": "trophy",
+        "chapterId": "titan-combat",
+        "where": "Collect all of BT's loadouts in the Campaign"
+      },
+      {
+        "id": "achievement-45",
+        "name": "Off the Beaten Path",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Find 10 Collectibles"
+      },
+      {
+        "id": "achievement-46",
+        "name": "Collector",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Find 25 Collectibles"
+      },
+      {
+        "id": "achievement-47",
+        "name": "Every Nook and Cranny",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Find All Collectibles"
+      },
+      {
+        "id": "achievement-48",
+        "name": "So It Begins...",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "Win a multiplayer match"
+      },
+      {
+        "id": "achievement-49",
+        "name": "Lock and Load",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "Customize a multiplayer loadout"
+      },
+      {
+        "id": "achievement-50",
+        "name": "Free Association",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "Join a multiplayer network"
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/titanfall-2",
+    "Achievement data from Steam (Steam Web API, app 1237970)",
+    "StrategyWiki: no usable walkthrough, nothing used — https://strategywiki.org/wiki/Titanfall_2",
+    "Fandom (titanfall.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://titanfall.fandom.com/wiki/Titanfall_2"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). Steam app 1237970 (\"Titanfall® 2\" in the store list and schema) was the only match. StrategyWiki has \"Titanfall 2\" at completion stage 0. Written subpages: Walkthrough (about 2,500 characters), BT-7274, Blood and Rust, The Pilot's Gauntlet, Gameplay, Weapons, Controls, Pilot Helmets and Achievements and trophies. The mission pages Into the Abyss, Effect and Cause, The Beacon, Trial By Fire, The Ark and The Fold Weapon are linked but not written, and Enemies and Titan Loadouts are not written either, so it was not used; the campaign summary names the mission pages (names only, listed in no particular order because the order was not checked). titanfall.fandom.com answers the API under \"Titanfall 2\" with about 189 linked articles; names only were looked at, nothing copied. 21 of 50 Steam achievements are hidden and sit in the campaign chapter; one is named \"The Ark\", like a StrategyWiki mission page, and two (\"The Graduate\", \"The Real Pilot's Gauntlet\") may belong with the Gauntlet. Only 3 achievements are multiplayer."
+}

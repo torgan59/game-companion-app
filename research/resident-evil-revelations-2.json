@@ -1,0 +1,469 @@
+{
+  "id": "resident-evil-revelations-2",
+  "title": "Resident Evil Revelations 2",
+  "year": 2015,
+  "platforms": [
+    "PC",
+    "Nintendo Switch",
+    "Xbox One",
+    "Xbox 360",
+    "PlayStation 3",
+    "PlayStation 4",
+    "PS Vita"
+  ],
+  "rawgId": 17174,
+  "rawgSlug": "re-revelations-2",
+  "released": "2015-02-24",
+  "developers": [
+    "Capcom",
+    "Sony Computer Entertainment America"
+  ],
+  "playtime": 4,
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Multiplayer",
+    "Full controller support",
+    "Steam Cloud",
+    "Atmospheric",
+    "steam-trading-cards",
+    "Co-op",
+    "Story Rich",
+    "cooperative",
+    "Third Person",
+    "Horror"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/ea3/ea3228b5c6c749019a9ed42e90a4e7c6.jpg",
+  "steamAppId": 287290,
+  "achievements": {
+    "total": 43,
+    "hidden": 0,
+    "examples": [
+      {
+        "name": "Now That's Teamwork!",
+        "percent": 46.7
+      },
+      {
+        "name": "Three Women and a Barry",
+        "percent": 37.3
+      },
+      {
+        "name": "Cure for the Afflicted",
+        "percent": 27.1
+      },
+      {
+        "name": "\"There's Something in Here\"",
+        "percent": 2.7
+      },
+      {
+        "name": "Disarmed",
+        "percent": 2.6
+      },
+      {
+        "name": "There's a Medal for That",
+        "percent": 2.6
+      },
+      {
+        "name": "Sweet, Golden Medal",
+        "percent": 2.6
+      },
+      {
+        "name": "I'm Not Leaving Without My Medal",
+        "percent": 2.6
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Resident_Evil:_Revelations_2",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 171,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://residentevil.fandom.com/wiki/Resident_Evil:_Revelations_2"
+    }
+  },
+  "game": {
+    "id": "resident-evil-revelations-2",
+    "title": "Resident Evil Revelations 2",
+    "platforms": [
+      "PC",
+      "Nintendo Switch",
+      "Xbox One",
+      "Xbox 360",
+      "PlayStation 3",
+      "PlayStation 4",
+      "PS Vita"
+    ],
+    "blurb": "Episodic survival horror game from Capcom, released 2015-02-24. RAWG average playtime: 4 hours. Genres: Action, Adventure. Chapters follow the four episodes named in the Steam achievements, plus the extra modes.",
+    "accent": "#4A5D23",
+    "chapters": [
+      {
+        "id": "episode-1",
+        "title": "Episode 1: Penal Colony",
+        "summary": "Clearing Episode One and its one-off feats, such as escaping the detention center without the flame-thrower.",
+        "steps": []
+      },
+      {
+        "id": "episode-2",
+        "title": "Episode 2: Contemplation",
+        "summary": "Clearing Episode Two and defeating Mutant Pedro. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "episode-3",
+        "title": "Episode 3: Judgment",
+        "summary": "Clearing Episode Three, Moira's fight with Neil and the item beyond the sewer gate. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "episode-4",
+        "title": "Episode 4: Metamorphosis",
+        "summary": "Clearing Episode Four, the Glasps in the monument and both landfill routes. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "challenge-runs",
+        "title": "Countdown, Invisible and Medals",
+        "summary": "Each episode in Countdown Mode and Invisible Mode, all medals per episode, and the knife-only run.",
+        "steps": []
+      },
+      {
+        "id": "combat",
+        "title": "Combat and Teamwork",
+        "summary": "Kill counts in the main campaign, partner teamwork, stealth attacks and BP totals.",
+        "steps": []
+      },
+      {
+        "id": "raid-mode",
+        "title": "Raid Mode",
+        "summary": "Missions, Gauntlets and item evaluation in Raid Mode.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Three Women and a Barry",
+        "kind": "trophy",
+        "chapterId": "episode-1",
+        "where": "Clear Episode One."
+      },
+      {
+        "id": "achievement-2",
+        "name": "\"Less Talking, More Walking\"",
+        "kind": "trophy",
+        "chapterId": "challenge-runs",
+        "where": "Clear Episode One in Countdown Mode."
+      },
+      {
+        "id": "achievement-3",
+        "name": "\"Not Even Close to Easy\"",
+        "kind": "trophy",
+        "chapterId": "challenge-runs",
+        "where": "Clear Episode One in Invisible Mode."
+      },
+      {
+        "id": "achievement-4",
+        "name": "Only Good Guys Win Medals",
+        "kind": "trophy",
+        "chapterId": "challenge-runs",
+        "where": "Get all medals in Episode One."
+      },
+      {
+        "id": "achievement-5",
+        "name": "Bounty Hunter",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Get a total of 50,000 BP."
+      },
+      {
+        "id": "achievement-6",
+        "name": "Who Needs Fire?",
+        "kind": "trophy",
+        "chapterId": "episode-1",
+        "where": "Escape from the detention center in Claire's Episode One without using the flame-thrower bust."
+      },
+      {
+        "id": "achievement-7",
+        "name": "Cure for the Afflicted",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Defeat 100 Afflicted in the main campaign."
+      },
+      {
+        "id": "achievement-8",
+        "name": "Revenant Reaper",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Defeat 100 Revenants in the main campaign."
+      },
+      {
+        "id": "achievement-9",
+        "name": "Knifin' Around",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Defeat 100 enemies with the knife in the main campaign."
+      },
+      {
+        "id": "achievement-10",
+        "name": "Fudge Them Up!",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Defeat 50 enemies with physical attacks in the main campaign."
+      },
+      {
+        "id": "achievement-11",
+        "name": "And STAY Down",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Perform 50 follow-ups in the main campaign."
+      },
+      {
+        "id": "achievement-12",
+        "name": "From the Shadows",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Defeat 20 enemies with stealth attacks in the main campaign."
+      },
+      {
+        "id": "achievement-13",
+        "name": "Flashlight Duty",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Use Moira's light to stun 50 enemies in the main campaign."
+      },
+      {
+        "id": "achievement-14",
+        "name": "I Can Do Blunt Weapons",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Use Moira's crowbar to defeat 50 enemies in the main campaign."
+      },
+      {
+        "id": "achievement-15",
+        "name": "Brick Layer",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Defeat 20 enemies with a brick as Natalia in the main campaign."
+      },
+      {
+        "id": "achievement-16",
+        "name": "Cutting Edge",
+        "kind": "trophy",
+        "chapterId": "challenge-runs",
+        "where": "Clear Episode One only using the knife."
+      },
+      {
+        "id": "achievement-17",
+        "name": "Line 'Em Up!",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Defeat two enemies with one shot in the main campaign."
+      },
+      {
+        "id": "achievement-18",
+        "name": "Disarmed",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Destroy 30 Revenants' weapon arms."
+      },
+      {
+        "id": "achievement-19",
+        "name": "Unfriendly Skies",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Shoot down 30 Afflicted in mid-jump in the main campaign."
+      },
+      {
+        "id": "achievement-20",
+        "name": "Now That's Teamwork!",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Have Moira stun an enemy and Claire follow up with a physical attack in the main campaign."
+      },
+      {
+        "id": "achievement-21",
+        "name": "Friend Indeed",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Save your captured partner ten times in the main campaign."
+      },
+      {
+        "id": "achievement-22",
+        "name": "Fish in a Barrel",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Defeat five enemies with one exploding bottle or one firebomb bottle in the main campaign."
+      },
+      {
+        "id": "achievement-23",
+        "name": "Raiders of the Evil",
+        "kind": "trophy",
+        "chapterId": "raid-mode",
+        "where": "Clear one Raid Mode mission."
+      },
+      {
+        "id": "achievement-24",
+        "name": "Jammin'",
+        "kind": "trophy",
+        "chapterId": "raid-mode",
+        "where": "Evaluate an item in Raid Mode."
+      },
+      {
+        "id": "achievement-25",
+        "name": "I Saw, I Conquered",
+        "kind": "trophy",
+        "chapterId": "raid-mode",
+        "where": "Clear one Gauntlet in Raid Mode."
+      },
+      {
+        "id": "achievement-26",
+        "name": "Scared to Death",
+        "kind": "trophy",
+        "chapterId": "episode-2",
+        "where": "Clear Episode Two."
+      },
+      {
+        "id": "achievement-27",
+        "name": "\"Run, Moira. Run!\"",
+        "kind": "trophy",
+        "chapterId": "challenge-runs",
+        "where": "Clear Episode Two in Countdown Mode."
+      },
+      {
+        "id": "achievement-28",
+        "name": "\"That's Gonna Be Fun\"",
+        "kind": "trophy",
+        "chapterId": "challenge-runs",
+        "where": "Clear Episode Two in Invisible Mode."
+      },
+      {
+        "id": "achievement-29",
+        "name": "There's a Medal for That",
+        "kind": "trophy",
+        "chapterId": "challenge-runs",
+        "where": "Get all medals in Episode Two."
+      },
+      {
+        "id": "achievement-30",
+        "name": "Pedro, I'm Sorry...",
+        "kind": "trophy",
+        "chapterId": "episode-2",
+        "where": "Defeat Mutant Pedro in Claire's Episode Two."
+      },
+      {
+        "id": "achievement-31",
+        "name": "\"I Do Not Like Glasps,\" I Gasped",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Defeat 20 Glasps in the main campaign."
+      },
+      {
+        "id": "achievement-32",
+        "name": "Conquered Fear",
+        "kind": "trophy",
+        "chapterId": "episode-3",
+        "where": "Clear Episode Three."
+      },
+      {
+        "id": "achievement-33",
+        "name": "Pedal to the Metal",
+        "kind": "trophy",
+        "chapterId": "challenge-runs",
+        "where": "Clear Episode Three in Countdown Mode."
+      },
+      {
+        "id": "achievement-34",
+        "name": "I Can See Undead People",
+        "kind": "trophy",
+        "chapterId": "challenge-runs",
+        "where": "Clear Episode Three in Invisible Mode."
+      },
+      {
+        "id": "achievement-35",
+        "name": "Sweet, Golden Medal",
+        "kind": "trophy",
+        "chapterId": "challenge-runs",
+        "where": "Get all medals in Episode Three."
+      },
+      {
+        "id": "achievement-36",
+        "name": "Here's My Resignation",
+        "kind": "trophy",
+        "chapterId": "episode-3",
+        "where": "Moira defeats Neil in Claire's Episode Three."
+      },
+      {
+        "id": "achievement-37",
+        "name": "A Ripple in Time",
+        "kind": "trophy",
+        "chapterId": "episode-3",
+        "where": "Obtain the item that lies beyond the gate in the sewers in Barry's Episode Three."
+      },
+      {
+        "id": "achievement-38",
+        "name": "True or False",
+        "kind": "trophy",
+        "chapterId": "episode-4",
+        "where": "Clear Episode Four."
+      },
+      {
+        "id": "achievement-39",
+        "name": "\"You are Authorized to Panic\"",
+        "kind": "trophy",
+        "chapterId": "challenge-runs",
+        "where": "Clear Episode Four in Countdown Mode."
+      },
+      {
+        "id": "achievement-40",
+        "name": "\"There's Something in Here\"",
+        "kind": "trophy",
+        "chapterId": "challenge-runs",
+        "where": "Clear Episode Four in Invisible Mode."
+      },
+      {
+        "id": "achievement-41",
+        "name": "I'm Not Leaving Without My Medal",
+        "kind": "trophy",
+        "chapterId": "challenge-runs",
+        "where": "Get all medals in Episode Four."
+      },
+      {
+        "id": "achievement-42",
+        "name": "What You Can't See Can Kill You",
+        "kind": "trophy",
+        "chapterId": "episode-4",
+        "where": "Defeat six or more Glasps in the monument in Claire's Episode Four, on Normal difficulty or higher."
+      },
+      {
+        "id": "achievement-43",
+        "name": "Routes of Future Past",
+        "kind": "trophy",
+        "chapterId": "episode-4",
+        "where": "Complete both routes through the landfill in Barry's Episode Four."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/re-revelations-2",
+    "Achievement data from Steam (Steam Web API, app 287290)",
+    "StrategyWiki: no usable walkthrough, nothing used — https://strategywiki.org/wiki/Resident_Evil:_Revelations_2",
+    "Fandom (residentevil.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://residentevil.fandom.com/wiki/Resident_Evil:_Revelations_2"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). Steam app 287290 (\"Resident Evil Revelations 2\"; the schema has no game name). RAWG's first result is the full game (\"re-revelations-2\"), as expected; RAWG keeps Episodes 1 to 3 as separate entries named \"Penal Colony\", \"Contemplation\" and \"Judgment\". The Episode 4 name \"Metamorphosis\" comes from StrategyWiki's page names (Claire/ and Barry/ pages for Penal Colony, Contemplation, Judgment and Metamorphosis); that it is the fourth episode is inferred because it is the only other one. StrategyWiki has \"Resident Evil: Revelations 2\" at completion stage 0: of the eight Claire and Barry episode pages only Claire/Penal Colony, Barry/Penal Colony and Claire/Contemplation are written (about 4,300 to 7,200 characters each), plus Skills and Table of Contents, so it was not used. It also lists \"The Struggle\" and \"Little Miss\" pages (not written); there are no Steam achievements for them, so they have no chapter. residentevil.fandom.com answers the API under \"Resident Evil: Revelations 2\", with about 194 linked articles (mostly cast and series pages, plus \"Raid Mode (Revelations 2)\"); names only were looked at, nothing copied. None of the 43 Steam achievements is hidden. \"Bounty Hunter\" (50,000 BP) has the API name ACH_CAMPAINF_PT_MEDIUM, so it sits in the combat chapter rather than Raid Mode; that needs checking."
+}

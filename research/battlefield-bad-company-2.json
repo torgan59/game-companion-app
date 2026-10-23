@@ -1,0 +1,129 @@
+{
+  "id": "battlefield-bad-company-2",
+  "title": "Battlefield: Bad Company 2",
+  "year": 2010,
+  "platforms": [
+    "Xbox 360",
+    "PlayStation 3",
+    "PC",
+    "Xbox One"
+  ],
+  "rawgId": 4388,
+  "rawgSlug": "battlefield-bad-company-2",
+  "released": "2010-03-02",
+  "developers": [
+    "Electronic Arts",
+    "Electronic Arts DICE",
+    "Digital Illusions CE"
+  ],
+  "playtime": 7,
+  "genres": [
+    "Action",
+    "Shooter"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Multiplayer",
+    "Atmospheric",
+    "Co-op",
+    "Open World",
+    "cooperative",
+    "First-Person",
+    "FPS",
+    "Classic",
+    "Sandbox",
+    "Comedy",
+    "Tactical"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/e8f/e8f923180ecb9614ec564a15937cfd9e.jpg",
+  "steamAppId": null,
+  "achievements": {
+    "total": 0,
+    "examples": [],
+    "reason": "No Steam list: Steam app 24960 (taken from RAWG's Steam store link; it is not in the current Steam store list) returns an empty achievement schema and a 403 for global percentages. RAWG lists 72 achievements (RAWG's own percentages) that read as a trophy list (one asks for \"all Campaign and Online trophies\"): finishing 13 named campaign missions and Airborne on Hard, collectable weapons, satellite uplinks and destruction, Onslaught on four maps, online ranks, kits and awards, and 11 Vietnam goals. These could seed an original checklist once checked against the PC edition."
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Battlefield:_Bad_Company_2",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 433,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://battlefield.fandom.com/wiki/Battlefield:_Bad_Company_2"
+    }
+  },
+  "game": {
+    "id": "battlefield-bad-company-2",
+    "title": "Battlefield: Bad Company 2",
+    "platforms": [
+      "Xbox 360",
+      "PlayStation 3",
+      "PC",
+      "Xbox One"
+    ],
+    "blurb": "First-person shooter from Electronic Arts, Electronic Arts DICE and Digital Illusions CE, published by Electronic Arts, released 2010-03-02. RAWG average playtime: 7 hours. Genres: Action, Shooter. Chapters follow the campaign mission names in StrategyWiki's contents order, plus Onslaught, online play and Vietnam chapters from the achievement list on RAWG.",
+    "accent": "#6B7A3A",
+    "chapters": [
+      {
+        "id": "aurora-to-upriver",
+        "title": "Operation Aurora to Upriver",
+        "summary": "Operation Aurora, Cold War, Heart of Darkness and Upriver.",
+        "steps": []
+      },
+      {
+        "id": "crack-the-sky-to-high-value-target",
+        "title": "Crack the Sky to High Value Target",
+        "summary": "Crack the Sky, Snowblind, Heavy Metal and High Value Target. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "sangre-del-toro-to-airborne",
+        "title": "Sangre Del Toro to Airborne",
+        "summary": "Sangre Del Toro, No One Gets Left Behind, Zero Dark Thirty, Force Multiplier and Airborne, including Airborne on Hard. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "campaign-collectibles",
+        "title": "Collectable Weapons, Uplinks and Destruction",
+        "summary": "Collectable weapons, satellite uplinks, demolishing houses, destroying objects, driving, and kills with each weapon type in the campaign.",
+        "steps": []
+      },
+      {
+        "id": "onslaught",
+        "title": "Onslaught",
+        "summary": "The Onslaught mode on Valparaiso, Isla Inocentes, Atacama Desert and Nelson Bay, on any difficulty and on Hardcore.",
+        "steps": []
+      },
+      {
+        "id": "online",
+        "title": "Online Ranks, Kits and Awards",
+        "summary": "Online ranks, unlocks for the Assault, Engineer, Medic and Recon kits, awards and SPECACT awards, squad pins and online feats. Needs a network connection, if the servers still run.",
+        "steps": []
+      },
+      {
+        "id": "vietnam",
+        "title": "Vietnam",
+        "summary": "The Vietnam levels, weapons and vehicles: the Huey, the flamethrower, the tanks, the propaganda speaker and winning on all four Vietnam levels. Online play, if the servers still run.",
+        "steps": []
+      }
+    ],
+    "collectibles": []
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/battlefield-bad-company-2",
+    "Steam: no achievement list available for this game (see notes)",
+    "StrategyWiki: no usable walkthrough, nothing used — https://strategywiki.org/wiki/Battlefield:_Bad_Company_2",
+    "Fandom (battlefield.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://battlefield.fandom.com/wiki/Battlefield:_Bad_Company_2"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). RAWG's first result is the expected entry (id 4388). The Steam store list has no match by name; RAWG's store links give Steam app 24960, whose schema is empty, so steam=None. RAWG lists one addition, \"Battlefield: Bad Company 2 - Vietnam\" (id 40300, released 2010-12-17), which the Vietnam chapter is named after. StrategyWiki has the guide under \"Battlefield: Bad Company 2\" at completion stage 2, but only 2 of its 13 campaign mission pages are written: Operation Aurora (about 7,100 characters) and Cold War (about 9,100); Heart of Darkness, Upriver, Crack the Sky, Snowblind, Heavy Metal, High Value Target, Sangre Del Toro, No One Gets Left Behind, Zero Dark Thirty, Force Multiplier and Airborne are linked but not written. Written reference pages: Insignias and pins (about 41,100), Vehicles (about 40,800), Multiplayer (about 34,500), Specializations, Achievements and trophies, Unlock sequences, Gameplay, Dedicated servers, Walkthrough, Controls, and multiplayer map pages for Arica Harbour, Atacama Desert, Isla Inocentes, Laguna Alta, Panama Canal, Port Valdez, Valparaiso and White Pass; Weapons and six other map pages are not written. So it was not used as a walkthrough, and it was not recorded in sw-structure.json. The campaign chapter order follows its contents page; the split into three groups is our own. Its contents also link \"Battlefield: Bad Company 2: Vietnam\" (Category:Expansion pack, completion stage 0), with five map pages (Cai Son Temple, Hill 137, Operation Hastings, Phu Bai Valley, Vantage Point) that are not written; an achievement says \"all four Vietnam levels\", which does not match five, and this was not checked. RAWG spells one map \"Valpariso\" in two achievements; the chapter uses StrategyWiki's \"Valparaiso\". battlefield.fandom.com answers the API under \"Battlefield: Bad Company 2\" with about 433 linked articles; names only were looked at, nothing copied."
+}

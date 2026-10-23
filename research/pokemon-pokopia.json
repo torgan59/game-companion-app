@@ -1,0 +1,108 @@
+{
+  "id": "pokemon-pokopia",
+  "title": "Pokémon Pokopia",
+  "year": 2026,
+  "platforms": [
+    "Nintendo Switch"
+  ],
+  "rawgId": 1016111,
+  "rawgSlug": "pokemon-pokopia",
+  "released": "2026-03-05",
+  "developers": [
+    "Koei Tecmo",
+    "Game Freak"
+  ],
+  "playtime": null,
+  "genres": [
+    "Simulation"
+  ],
+  "tags": [],
+  "coverUrl": "https://media.rawg.io/media/games/67a/67a161425e620772ba69c3caa8f48a95.jpg",
+  "steamAppId": null,
+  "achievements": {
+    "total": 0,
+    "examples": [],
+    "reason": "Nintendo Switch only: no Steam list, and Nintendo has no achievement system. The Pokédex and habitats are the natural checklists; StrategyWiki lists Pokédex and Habitats pages, but they are not written yet."
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Pokémon_Pokopia",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 434,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://pokemon.fandom.com/wiki/Pokémon_Pokopia"
+    }
+  },
+  "game": {
+    "id": "pokemon-pokopia",
+    "title": "Pokémon Pokopia",
+    "platforms": [
+      "Nintendo Switch"
+    ],
+    "blurb": "Pokémon simulation game from Koei Tecmo and Game Freak, published by Nintendo, released 2026-03-05 on Nintendo Switch. RAWG has no playtime yet. Genres: Simulation. Chapter names follow the area list on the StrategyWiki contents page (page names only).",
+    "accent": "#4C9A52",
+    "chapters": [
+      {
+        "id": "withered-wasteland",
+        "title": "Withered Wasteland",
+        "summary": "The first area on the list. Getting your bearings and starting to bring the land back.",
+        "steps": []
+      },
+      {
+        "id": "bleak-beach",
+        "title": "Bleak Beach",
+        "summary": "The second area on the list, along the shore.",
+        "steps": []
+      },
+      {
+        "id": "rocky-ridges",
+        "title": "Rocky Ridges",
+        "summary": "The third area on the list, up in the high ground.",
+        "steps": []
+      },
+      {
+        "id": "sparkling-skylands",
+        "title": "Sparkling Skylands",
+        "summary": "The fourth area on the list, high above.",
+        "steps": []
+      },
+      {
+        "id": "palette-town",
+        "title": "Palette Town",
+        "summary": "The fifth area on the list.",
+        "steps": []
+      },
+      {
+        "id": "bubbly-basin",
+        "title": "Bubbly Basin",
+        "summary": "The sixth area on the list.",
+        "steps": []
+      },
+      {
+        "id": "habitats-and-pokedex",
+        "title": "Habitats and the Pokédex",
+        "summary": "Building habitats and filling the Pokédex as you go.",
+        "steps": []
+      }
+    ],
+    "collectibles": []
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/pokemon-pokopia",
+    "Steam: no achievement list available for this game (see notes)",
+    "StrategyWiki: mission and page names used to group chapters, CC BY-SA 4.0; no text copied — https://strategywiki.org/wiki/Pokémon_Pokopia",
+    "Fandom (pokemon.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://pokemon.fandom.com/wiki/Pokémon_Pokopia"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). Nintendo Switch only (RAWG lists only Nintendo Switch), so steam=None. StrategyWiki has a stub page (completion stage 0, in Category:Stubs): only its Table of Contents is written. The contents page lists Gameplay, Controls, Walkthrough, six area pages (Withered Wasteland, Bleak Beach, Rocky Ridges, Sparkling Skylands, Palette Town, Bubbly Basin), Pokédex and Habitats, but none of those subpages exists yet. Chapters use those area page names in contents order (swNames); the summaries are only placeholders, because there is no written text to check what each area holds. StrategyWiki categories also mention Nintendo Switch 2 and Omega Force; RAWG names Koei Tecmo and Game Freak as developers. pokemon.fandom.com answers the API under \"Pokémon Pokopia\", with about 434 linked pages; names only were looked at, nothing copied. RAWG has no playtime or tags yet."
+}

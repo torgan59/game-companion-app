@@ -1,0 +1,619 @@
+{
+  "id": "dying-light-2-stay-human",
+  "title": "Dying Light 2 Stay Human",
+  "year": 2022,
+  "platforms": [
+    "PC",
+    "Xbox One",
+    "Xbox Series X|S",
+    "PlayStation 4",
+    "Nintendo Switch",
+    "PlayStation 5"
+  ],
+  "rawgId": 58758,
+  "rawgSlug": "dying-light-2",
+  "released": "2022-02-04",
+  "developers": [
+    "Techland"
+  ],
+  "playtime": 23,
+  "genres": [
+    "Action",
+    "Adventure",
+    "RPG"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Multiplayer",
+    "Full controller support",
+    "Atmospheric",
+    "RPG",
+    "Co-op",
+    "Open World",
+    "cooperative",
+    "First-Person",
+    "Horror",
+    "Gore",
+    "Violent"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/73d/73db43df633477d4604c7248292f34b2.jpg",
+  "steamAppId": 534380,
+  "achievements": {
+    "total": 65,
+    "hidden": 11,
+    "examples": [
+      {
+        "name": "You Never Forget Your First...",
+        "percent": 94.6
+      },
+      {
+        "name": "First Shot",
+        "percent": 90.5
+      },
+      {
+        "name": "Into the Unknown",
+        "percent": 90.4
+      },
+      {
+        "name": "Street Art Aficionado",
+        "percent": 1.7
+      },
+      {
+        "name": "Archivist",
+        "percent": 1.5
+      },
+      {
+        "name": "Audiophile",
+        "percent": 1.5
+      },
+      {
+        "name": "Connoisseur",
+        "percent": 1.3
+      },
+      {
+        "name": "True Champion",
+        "percent": 1.1
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": false,
+      "pages": 0,
+      "reason": "No page for Dying Light 2 Stay Human (MediaWiki API returned missing; see notes for other titles tried)"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 157,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://dyinglight.fandom.com/wiki/Dying_Light_2_Stay_Human"
+    }
+  },
+  "game": {
+    "id": "dying-light-2-stay-human",
+    "title": "Dying Light 2 Stay Human",
+    "platforms": [
+      "PC",
+      "Xbox One",
+      "Xbox Series X|S",
+      "PlayStation 4",
+      "Nintendo Switch",
+      "PlayStation 5"
+    ],
+    "blurb": "Open-world first-person zombie survival action RPG with parkour, set in the city of Villedor, from Techland, released 2022-02-04. RAWG average playtime: 23 hours. Genres: Action, Adventure, RPG. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#D9822B",
+    "chapters": [
+      {
+        "id": "main-story",
+        "title": "The Main Story",
+        "summary": "From reaching Villedor and the Bazaar to any of the endings, with the hidden story milestones. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "city-and-factions",
+        "title": "Reclaiming the City",
+        "summary": "Water Towers, Electrical Substations, Windmills, Metro Stations, Facilities and faction alignment.",
+        "steps": []
+      },
+      {
+        "id": "open-world",
+        "title": "GRE Sites, Camps and Encounters",
+        "summary": "GRE Quarantines and Anomalies, Airdrops, Bandit Camps, Encounters and Nightrunner Trials.",
+        "steps": []
+      },
+      {
+        "id": "collectibles",
+        "title": "Collectible Notes, Recordings and Graffiti",
+        "summary": "Finding every Collectible Note, Recording and Graffiti Tag.",
+        "steps": []
+      },
+      {
+        "id": "survival-and-skills",
+        "title": "Survival, Parkour and Combat",
+        "summary": "Nights, Volatiles, chases, crafting, weapon mods, proficiency, health and stamina, and fighting feats.",
+        "steps": []
+      },
+      {
+        "id": "co-op",
+        "title": "Co-op",
+        "summary": "Joining co-op sessions and fighting alongside other players. Needs online play.",
+        "steps": []
+      },
+      {
+        "id": "carnage-hall",
+        "title": "Carnage Hall",
+        "summary": "Skullface, Carnage Hall, its shows, trials and collectables.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Into the Unknown",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Reach Villedor."
+      },
+      {
+        "id": "achievement-2",
+        "name": "First Shot",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Use an Inhibitor for the first time."
+      },
+      {
+        "id": "achievement-3",
+        "name": "Herzlich Wilkommen!",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Enter the Bazaar."
+      },
+      {
+        "id": "achievement-4",
+        "name": "Under Pressure",
+        "kind": "trophy",
+        "chapterId": "city-and-factions",
+        "where": "Activate your first Water Tower."
+      },
+      {
+        "id": "achievement-5",
+        "name": "On the Trail of the Enemy",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-6",
+        "name": "Light in the Darkness",
+        "kind": "trophy",
+        "chapterId": "city-and-factions",
+        "where": "Activate your first Electrical Substation."
+      },
+      {
+        "id": "achievement-7",
+        "name": "Get Outta My House!",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-8",
+        "name": "Debris and Ashes",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-9",
+        "name": "We Will Be Heard!",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-10",
+        "name": "Known Associate",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-11",
+        "name": "Brush with Death",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-12",
+        "name": "Going Down",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-13",
+        "name": "Family First",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-14",
+        "name": "Your World, Your Rules",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Complete the game with any ending."
+      },
+      {
+        "id": "achievement-15",
+        "name": "Municipal Services",
+        "kind": "trophy",
+        "chapterId": "city-and-factions",
+        "where": "Assign all Facilities."
+      },
+      {
+        "id": "achievement-16",
+        "name": "Tunnel Entrance",
+        "kind": "trophy",
+        "chapterId": "city-and-factions",
+        "where": "Activate your first Metro Station."
+      },
+      {
+        "id": "achievement-17",
+        "name": "Tube Map",
+        "kind": "trophy",
+        "chapterId": "city-and-factions",
+        "where": "Activate all Metro Stations."
+      },
+      {
+        "id": "achievement-18",
+        "name": "Sancho Panza",
+        "kind": "trophy",
+        "chapterId": "city-and-factions",
+        "where": "Activate your first Windmill."
+      },
+      {
+        "id": "achievement-19",
+        "name": "Tickets, Please!",
+        "kind": "trophy",
+        "chapterId": "city-and-factions",
+        "where": "Use a Metro Station to Fast Travel."
+      },
+      {
+        "id": "achievement-20",
+        "name": "Don Quixote",
+        "kind": "trophy",
+        "chapterId": "city-and-factions",
+        "where": "Activate all Windmills."
+      },
+      {
+        "id": "achievement-21",
+        "name": "Can't You Read the Signs?",
+        "kind": "trophy",
+        "chapterId": "open-world",
+        "where": "Collect all Inhibitors hidden in GRE Quarantines."
+      },
+      {
+        "id": "achievement-22",
+        "name": "Find Anything Interesting?",
+        "kind": "trophy",
+        "chapterId": "open-world",
+        "where": "Open all Airdrops."
+      },
+      {
+        "id": "achievement-23",
+        "name": "It Wasn't That Hard, Was It?",
+        "kind": "trophy",
+        "chapterId": "open-world",
+        "where": "Defeat your first GRE Anomaly."
+      },
+      {
+        "id": "achievement-24",
+        "name": "Revenants",
+        "kind": "trophy",
+        "chapterId": "open-world",
+        "where": "Defeat all GRE Anomalies."
+      },
+      {
+        "id": "achievement-25",
+        "name": "Flag Burning",
+        "kind": "trophy",
+        "chapterId": "open-world",
+        "where": "Clear your first Bandit Camp."
+      },
+      {
+        "id": "achievement-26",
+        "name": "Ban Hammer",
+        "kind": "trophy",
+        "chapterId": "open-world",
+        "where": "Clear all Bandit Camps."
+      },
+      {
+        "id": "achievement-27",
+        "name": "You Never Forget Your First...",
+        "kind": "trophy",
+        "chapterId": "survival-and-skills",
+        "where": "Craft your first item."
+      },
+      {
+        "id": "achievement-28",
+        "name": "Oh, So This Is How It Works!",
+        "kind": "trophy",
+        "chapterId": "survival-and-skills",
+        "where": "Modify your weapon for the first time."
+      },
+      {
+        "id": "achievement-29",
+        "name": "A Friend in Need...",
+        "kind": "trophy",
+        "chapterId": "open-world",
+        "where": "Help 50 survivors in Encounters."
+      },
+      {
+        "id": "achievement-30",
+        "name": "Parkour Master",
+        "kind": "trophy",
+        "chapterId": "survival-and-skills",
+        "where": "Achieve maximum Parkour Proficiency."
+      },
+      {
+        "id": "achievement-31",
+        "name": "Combat Master",
+        "kind": "trophy",
+        "chapterId": "survival-and-skills",
+        "where": "Achieve maximum Combat Proficiency."
+      },
+      {
+        "id": "achievement-32",
+        "name": "Boot Licker",
+        "kind": "trophy",
+        "chapterId": "city-and-factions",
+        "where": "Reach City Alignment 7 for any faction."
+      },
+      {
+        "id": "achievement-33",
+        "name": "Who Wants To Be a...",
+        "kind": "trophy",
+        "chapterId": "survival-and-skills",
+        "where": "Collect 1,000,000 in Old World Money."
+      },
+      {
+        "id": "achievement-34",
+        "name": "Man On a Mission",
+        "kind": "trophy",
+        "chapterId": "survival-and-skills",
+        "where": "Meet all your Sparker love interests."
+      },
+      {
+        "id": "achievement-35",
+        "name": "Ultramarathon",
+        "kind": "trophy",
+        "chapterId": "survival-and-skills",
+        "where": "Travel at least 960km."
+      },
+      {
+        "id": "achievement-36",
+        "name": "After the Fall",
+        "kind": "trophy",
+        "chapterId": "survival-and-skills",
+        "where": "Fall from a combined height of at least 10,994 meters."
+      },
+      {
+        "id": "achievement-37",
+        "name": "Good Night & Good Luck",
+        "kind": "trophy",
+        "chapterId": "survival-and-skills",
+        "where": "Survive your first night."
+      },
+      {
+        "id": "achievement-38",
+        "name": "Can't Touch This!",
+        "kind": "trophy",
+        "chapterId": "survival-and-skills",
+        "where": "Kill 20 enemies in a row with melee weapons without taking damage."
+      },
+      {
+        "id": "achievement-39",
+        "name": "Night Hunter",
+        "kind": "trophy",
+        "chapterId": "survival-and-skills",
+        "where": "Kill a Volatile."
+      },
+      {
+        "id": "achievement-40",
+        "name": "Death From Afar",
+        "kind": "trophy",
+        "chapterId": "survival-and-skills",
+        "where": "Kill a Spitter using a ranged weapon."
+      },
+      {
+        "id": "achievement-41",
+        "name": "Tanning Salon",
+        "kind": "trophy",
+        "chapterId": "survival-and-skills",
+        "where": "Use the UV Flashlight to kill a Viral."
+      },
+      {
+        "id": "achievement-42",
+        "name": "Terminal Headache",
+        "kind": "trophy",
+        "chapterId": "survival-and-skills",
+        "where": "Perform 50 headshots with a ranged weapon."
+      },
+      {
+        "id": "achievement-43",
+        "name": "Slowpoke!",
+        "kind": "trophy",
+        "chapterId": "survival-and-skills",
+        "where": "Lose the maximum level of Chase."
+      },
+      {
+        "id": "achievement-44",
+        "name": "Being All Social",
+        "kind": "trophy",
+        "chapterId": "co-op",
+        "where": "Join a co-op session."
+      },
+      {
+        "id": "achievement-45",
+        "name": "That's Teamwork!",
+        "kind": "trophy",
+        "chapterId": "co-op",
+        "where": "Kill 100 enemies while playing with at least 2 other players."
+      },
+      {
+        "id": "achievement-46",
+        "name": "Lightning Reflexes",
+        "kind": "trophy",
+        "chapterId": "survival-and-skills",
+        "where": "Perform a Perfect Block 10 times in a row without taking damage."
+      },
+      {
+        "id": "achievement-47",
+        "name": "Modder",
+        "kind": "trophy",
+        "chapterId": "survival-and-skills",
+        "where": "Modify your weapons at least 50 times."
+      },
+      {
+        "id": "achievement-48",
+        "name": "Fit as a Fiddle",
+        "kind": "trophy",
+        "chapterId": "survival-and-skills",
+        "where": "Max out your Health."
+      },
+      {
+        "id": "achievement-49",
+        "name": "Ironheart",
+        "kind": "trophy",
+        "chapterId": "survival-and-skills",
+        "where": "Max out your Stamina."
+      },
+      {
+        "id": "achievement-50",
+        "name": "You're Going Down!",
+        "kind": "trophy",
+        "chapterId": "survival-and-skills",
+        "where": "Perform 50 takedowns."
+      },
+      {
+        "id": "achievement-51",
+        "name": "Don't Look Up",
+        "kind": "trophy",
+        "chapterId": "survival-and-skills",
+        "where": "Perform Smash on at least 50 enemies."
+      },
+      {
+        "id": "achievement-52",
+        "name": "Get the Point?",
+        "kind": "trophy",
+        "chapterId": "survival-and-skills",
+        "where": "Kill 50 enemies with a Spear."
+      },
+      {
+        "id": "achievement-53",
+        "name": "True Nightrunner",
+        "kind": "trophy",
+        "chapterId": "open-world",
+        "where": "Complete all Nightrunner Trials."
+      },
+      {
+        "id": "achievement-54",
+        "name": "Bing Bang Boom!",
+        "kind": "trophy",
+        "chapterId": "survival-and-skills",
+        "where": "Perform an Air Kick after a Double Wall Run."
+      },
+      {
+        "id": "achievement-55",
+        "name": "Archivist",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Find all Collectible Notes."
+      },
+      {
+        "id": "achievement-56",
+        "name": "Audiophile",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Find all Collectible Recordings."
+      },
+      {
+        "id": "achievement-57",
+        "name": "Street Art Aficionado",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Discover all Graffiti Tag Collectibles."
+      },
+      {
+        "id": "achievement-58",
+        "name": "Nemesis",
+        "kind": "trophy",
+        "chapterId": "carnage-hall",
+        "where": "Meet Skullface"
+      },
+      {
+        "id": "achievement-59",
+        "name": "Enter the Hall",
+        "kind": "trophy",
+        "chapterId": "carnage-hall",
+        "where": "Reach Carnage Hall"
+      },
+      {
+        "id": "achievement-60",
+        "name": "Night of Terrors",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-61",
+        "name": "My Friend, Ciro",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-62",
+        "name": "Skullcrusher",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-63",
+        "name": "The Madman of Villedor",
+        "kind": "trophy",
+        "chapterId": "carnage-hall",
+        "where": "Earn a gold medal in all 'Madmen of Villedor' trials."
+      },
+      {
+        "id": "achievement-64",
+        "name": "True Champion",
+        "kind": "trophy",
+        "chapterId": "carnage-hall",
+        "where": "Earn a gold medal in all Carnage Hall shows."
+      },
+      {
+        "id": "achievement-65",
+        "name": "Connoisseur",
+        "kind": "trophy",
+        "chapterId": "carnage-hall",
+        "where": "Find all Carnage Hall collectables."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/dying-light-2",
+    "Achievement data from Steam (Steam Web API, app 534380)",
+    "StrategyWiki: no page for this game, nothing used",
+    "Fandom (dyinglight.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://dyinglight.fandom.com/wiki/Dying_Light_2_Stay_Human"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). No StrategyWiki page under \"Dying Light 2 Stay Human\" or \"Dying Light 2\". dyinglight.fandom.com answers the API with about 158 linked articles, including \"Aiden Caldwell\", quests such as \"A Place To Call Home\", \"Book Club I\" to \"Book Club X\", and \"Achievement and trophy\"; names only were looked at, nothing copied. The Steam store list names app 534380 \"Dying Light 2 Stay Human: Reloaded Edition\", the edition now on sale; it is the same app as the original release. The Steam schema calls it \"Pinhead\" (an internal codename). 11 of 65 Steam achievements are hidden; they sit in the story chapter, though the last three (\"Night of Terrors\", \"My Friend, Ciro\", \"Skullcrusher\", 10 to 13%) sit between the Carnage Hall achievements and may belong to that content. Carnage Hall and Skullface have their own chapter because the achievements name them; the data does not name the add-on they come from."
+}

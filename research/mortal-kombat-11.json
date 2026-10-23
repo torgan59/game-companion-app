@@ -1,0 +1,575 @@
+{
+  "id": "mortal-kombat-11",
+  "title": "Mortal Kombat 11",
+  "year": 2019,
+  "platforms": [
+    "Nintendo Switch",
+    "Xbox One",
+    "PC",
+    "PlayStation 4",
+    "Xbox Series X|S",
+    "PlayStation 5"
+  ],
+  "rawgId": 274480,
+  "rawgSlug": "mortal-kombat-11",
+  "released": "2019-04-22",
+  "developers": [
+    "NetherRealm Studios",
+    "QLOC",
+    "Shiver Games"
+  ],
+  "playtime": 9,
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fighting"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Multiplayer",
+    "Atmospheric",
+    "Gore",
+    "Violent",
+    "Online multiplayer",
+    "Blood"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/eb5/eb514db62d397c64288160d5bd8fd67a.jpg",
+  "steamAppId": 976310,
+  "achievements": {
+    "total": 58,
+    "hidden": 0,
+    "examples": [
+      {
+        "name": "Thank You For Being A Fan",
+        "percent": 36.5
+      },
+      {
+        "name": "Half Way There",
+        "percent": 32.5
+      },
+      {
+        "name": "Blood In The Water",
+        "percent": 28.9
+      },
+      {
+        "name": "R-E-S-P-E-C-T",
+        "percent": 2.2
+      },
+      {
+        "name": "Master of Time",
+        "percent": 2.2
+      },
+      {
+        "name": "I Want It All",
+        "percent": 1.9
+      },
+      {
+        "name": "Puppet Master",
+        "percent": 1.7
+      },
+      {
+        "name": "Total Disrespect",
+        "percent": 1.5
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Mortal_Kombat_11",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 306,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://mortalkombat.fandom.com/wiki/Mortal_Kombat_11"
+    }
+  },
+  "game": {
+    "id": "mortal-kombat-11",
+    "title": "Mortal Kombat 11",
+    "platforms": [
+      "Nintendo Switch",
+      "Xbox One",
+      "PC",
+      "PlayStation 4",
+      "Xbox Series X|S",
+      "PlayStation 5"
+    ],
+    "blurb": "Fighting game from NetherRealm Studios, with QLOC and Shiver Games (as RAWG lists them), released 2019-04-22. RAWG average playtime: 9 hours. Genres: Action, Adventure, Fighting. Chapters are an estimate drawn from Steam achievement themes, grouped by game mode.",
+    "accent": "#B5121B",
+    "chapters": [
+      {
+        "id": "story-mode",
+        "title": "Story Mode",
+        "summary": "Reaching halfway, finishing Story Mode and reaching the credits.",
+        "steps": []
+      },
+      {
+        "id": "tutorials",
+        "title": "Tutorials",
+        "summary": "The Basics, Advanced and Strategy tutorials.",
+        "steps": []
+      },
+      {
+        "id": "towers",
+        "title": "Towers and AI Battles",
+        "summary": "Klassic Towers, tower counts and the AI Battle Simulator.",
+        "steps": []
+      },
+      {
+        "id": "krypt",
+        "title": "The Krypt",
+        "summary": "Chests, the gong, running, spearing, the warrior shrine and spending koins at the shrine.",
+        "steps": []
+      },
+      {
+        "id": "finishers",
+        "title": "Fatalities, Brutalities and Mercy",
+        "summary": "Performing many different Fatalities, Brutalities and Mercy.",
+        "steps": []
+      },
+      {
+        "id": "fatalities-by-fighter",
+        "title": "Fatalities by Fighter",
+        "summary": "Two different Fatalities with each of 24 named fighters.",
+        "steps": []
+      },
+      {
+        "id": "versus",
+        "title": "Versus and Online",
+        "summary": "Kasual Versus, King of the Hill and Group Battles.",
+        "steps": []
+      },
+      {
+        "id": "feats-and-kustomisation",
+        "title": "Fight Feats and Kustomisation",
+        "summary": "Blood spilled, stance flips, ducking, Bug-Vorah, intros, victory poses and Konsumables.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Hit The Dojo",
+        "kind": "trophy",
+        "chapterId": "tutorials",
+        "where": "Komplete all Basics Tutorials"
+      },
+      {
+        "id": "achievement-2",
+        "name": "Ready To Kompete",
+        "kind": "trophy",
+        "chapterId": "tutorials",
+        "where": "Komplete all Advanced Tutorials"
+      },
+      {
+        "id": "achievement-3",
+        "name": "No Bad Match Ups",
+        "kind": "trophy",
+        "chapterId": "tutorials",
+        "where": "Komplete all Strategy Tutorials"
+      },
+      {
+        "id": "achievement-4",
+        "name": "Blood In The Water",
+        "kind": "trophy",
+        "chapterId": "feats-and-kustomisation",
+        "where": "Spill 10,000 pints of blood"
+      },
+      {
+        "id": "achievement-5",
+        "name": "Deadly Encounter",
+        "kind": "trophy",
+        "chapterId": "finishers",
+        "where": "Perform 15 different FATALITIES"
+      },
+      {
+        "id": "achievement-6",
+        "name": "MURDER!!!",
+        "kind": "trophy",
+        "chapterId": "finishers",
+        "where": "Perform 30 different FATALITIES"
+      },
+      {
+        "id": "achievement-7",
+        "name": "Brutal End",
+        "kind": "trophy",
+        "chapterId": "finishers",
+        "where": "Perform 25 BRUTALITIES"
+      },
+      {
+        "id": "achievement-8",
+        "name": "Psychopath",
+        "kind": "trophy",
+        "chapterId": "finishers",
+        "where": "Perform 100 BRUTALITIES"
+      },
+      {
+        "id": "achievement-9",
+        "name": "Not Dead Yet",
+        "kind": "trophy",
+        "chapterId": "finishers",
+        "where": "Show MERCY 10 times"
+      },
+      {
+        "id": "achievement-10",
+        "name": "Grave Robber",
+        "kind": "trophy",
+        "chapterId": "krypt",
+        "where": "Open 200 Krypt chests"
+      },
+      {
+        "id": "achievement-11",
+        "name": "Kompetitor",
+        "kind": "trophy",
+        "chapterId": "versus",
+        "where": "Play 50 Kasual Versus matches"
+      },
+      {
+        "id": "achievement-12",
+        "name": "Half Way There",
+        "kind": "trophy",
+        "chapterId": "story-mode",
+        "where": "Komplete 50% of Story Mode"
+      },
+      {
+        "id": "achievement-13",
+        "name": "What's Next?",
+        "kind": "trophy",
+        "chapterId": "story-mode",
+        "where": "Komplete Story Mode"
+      },
+      {
+        "id": "achievement-14",
+        "name": "R-E-S-P-E-C-T",
+        "kind": "trophy",
+        "chapterId": "versus",
+        "where": "Pay 100 total respect points in King of the Hill"
+      },
+      {
+        "id": "achievement-15",
+        "name": "Klassic",
+        "kind": "trophy",
+        "chapterId": "towers",
+        "where": "Komplete a Novice, Warrior, or Champion Klassic Tower once"
+      },
+      {
+        "id": "achievement-16",
+        "name": "I Want It All",
+        "kind": "trophy",
+        "chapterId": "towers",
+        "where": "Komplete the Novice, Warrior, or Champion Klassic Towers with 10 different kharacters"
+      },
+      {
+        "id": "achievement-17",
+        "name": "Enough Already",
+        "kind": "trophy",
+        "chapterId": "krypt",
+        "where": "Hit the Gong in the Krypt"
+      },
+      {
+        "id": "achievement-18",
+        "name": "Tower Champion",
+        "kind": "trophy",
+        "chapterId": "towers",
+        "where": "Komplete 125 Towers"
+      },
+      {
+        "id": "achievement-19",
+        "name": "Master of Time",
+        "kind": "trophy",
+        "chapterId": "towers",
+        "where": "Komplete 250 Towers"
+      },
+      {
+        "id": "achievement-20",
+        "name": "Disco's Not Dead",
+        "kind": "trophy",
+        "chapterId": "feats-and-kustomisation",
+        "where": "Flip Stance 50 times during a match"
+      },
+      {
+        "id": "achievement-21",
+        "name": "Teamwork",
+        "kind": "trophy",
+        "chapterId": "versus",
+        "where": "Play a Group Battle with 2 other players"
+      },
+      {
+        "id": "achievement-22",
+        "name": "Thrashed",
+        "kind": "trophy",
+        "chapterId": "fatalities-by-fighter",
+        "where": "Perform 2 different FATALITIES with Baraka"
+      },
+      {
+        "id": "achievement-23",
+        "name": "Family Values",
+        "kind": "trophy",
+        "chapterId": "fatalities-by-fighter",
+        "where": "Perform 2 different FATALITIES with Cassie Cage"
+      },
+      {
+        "id": "achievement-24",
+        "name": "Balanced",
+        "kind": "trophy",
+        "chapterId": "fatalities-by-fighter",
+        "where": "Perform 2 different FATALITIES with Cetrion"
+      },
+      {
+        "id": "achievement-25",
+        "name": "Cyber Initiative",
+        "kind": "trophy",
+        "chapterId": "fatalities-by-fighter",
+        "where": "Perform 2 different FATALITIES with Frost"
+      },
+      {
+        "id": "achievement-26",
+        "name": "Bugging Out",
+        "kind": "trophy",
+        "chapterId": "fatalities-by-fighter",
+        "where": "Perform 2 different FATALITIES with D'Vorah"
+      },
+      {
+        "id": "achievement-27",
+        "name": "Kollecting Bounties",
+        "kind": "trophy",
+        "chapterId": "fatalities-by-fighter",
+        "where": "Perform 2 different FATALITIES with Erron Black"
+      },
+      {
+        "id": "achievement-28",
+        "name": "Pound Town",
+        "kind": "trophy",
+        "chapterId": "fatalities-by-fighter",
+        "where": "Perform 2 different FATALITIES with Jacqui Briggs"
+      },
+      {
+        "id": "achievement-29",
+        "name": "Royal Guard",
+        "kind": "trophy",
+        "chapterId": "fatalities-by-fighter",
+        "where": "Perform 2 different FATALITIES with Jade"
+      },
+      {
+        "id": "achievement-30",
+        "name": "Get Some",
+        "kind": "trophy",
+        "chapterId": "fatalities-by-fighter",
+        "where": "Perform 2 different FATALITIES with Jax"
+      },
+      {
+        "id": "achievement-31",
+        "name": "Caged",
+        "kind": "trophy",
+        "chapterId": "fatalities-by-fighter",
+        "where": "Perform 2 different FATALITIES with Johnny Cage"
+      },
+      {
+        "id": "achievement-32",
+        "name": "Ka-Ballin",
+        "kind": "trophy",
+        "chapterId": "fatalities-by-fighter",
+        "where": "Perform 2 different FATALITIES with Kabal"
+      },
+      {
+        "id": "achievement-33",
+        "name": "Bonzer Bog",
+        "kind": "trophy",
+        "chapterId": "fatalities-by-fighter",
+        "where": "Perform 2 different FATALITIES with Kano"
+      },
+      {
+        "id": "achievement-34",
+        "name": "Princess Power",
+        "kind": "trophy",
+        "chapterId": "fatalities-by-fighter",
+        "where": "Perform 2 different FATALITIES with Kitana"
+      },
+      {
+        "id": "achievement-35",
+        "name": "Kollected",
+        "kind": "trophy",
+        "chapterId": "fatalities-by-fighter",
+        "where": "Perform 2 different FATALITIES with Kollector"
+      },
+      {
+        "id": "achievement-36",
+        "name": "Sacrifice",
+        "kind": "trophy",
+        "chapterId": "fatalities-by-fighter",
+        "where": "Perform 2 different FATALITIES with Kotal Kahn"
+      },
+      {
+        "id": "achievement-37",
+        "name": "Hat Trick",
+        "kind": "trophy",
+        "chapterId": "fatalities-by-fighter",
+        "where": "Perform 2 different FATALITIES with Kung Lao"
+      },
+      {
+        "id": "achievement-38",
+        "name": "No Bag Boy",
+        "kind": "trophy",
+        "chapterId": "fatalities-by-fighter",
+        "where": "Perform 2 different FATALITIES with Liu Kang"
+      },
+      {
+        "id": "achievement-39",
+        "name": "Double Dose Of Deadly",
+        "kind": "trophy",
+        "chapterId": "fatalities-by-fighter",
+        "where": "Perform 2 different FATALITIES with Noob"
+      },
+      {
+        "id": "achievement-40",
+        "name": "Struck Down",
+        "kind": "trophy",
+        "chapterId": "fatalities-by-fighter",
+        "where": "Perform 2 different FATALITIES with Raiden"
+      },
+      {
+        "id": "achievement-41",
+        "name": "Never Ends",
+        "kind": "trophy",
+        "chapterId": "fatalities-by-fighter",
+        "where": "Perform 2 different FATALITIES with Scorpion"
+      },
+      {
+        "id": "achievement-42",
+        "name": "Blood Bath",
+        "kind": "trophy",
+        "chapterId": "fatalities-by-fighter",
+        "where": "Perform 2 different FATALITIES with Skarlet"
+      },
+      {
+        "id": "achievement-43",
+        "name": "Target Eliminated",
+        "kind": "trophy",
+        "chapterId": "fatalities-by-fighter",
+        "where": "Perform 2 different FATALITIES with Sonya"
+      },
+      {
+        "id": "achievement-44",
+        "name": "On Ice",
+        "kind": "trophy",
+        "chapterId": "fatalities-by-fighter",
+        "where": "Perform 2 different FATALITIES with Sub-Zero"
+      },
+      {
+        "id": "achievement-45",
+        "name": "Turn Back Time",
+        "kind": "trophy",
+        "chapterId": "fatalities-by-fighter",
+        "where": "Perform 2 different FATALITIES with Geras"
+      },
+      {
+        "id": "achievement-46",
+        "name": "Total Disrespect",
+        "kind": "trophy",
+        "chapterId": "feats-and-kustomisation",
+        "where": "Defeat an opponent as Bug-Vorah"
+      },
+      {
+        "id": "achievement-47",
+        "name": "Oh My Days",
+        "kind": "trophy",
+        "chapterId": "feats-and-kustomisation",
+        "where": "Duck 100 times during a match"
+      },
+      {
+        "id": "achievement-48",
+        "name": "My AI Can Do It",
+        "kind": "trophy",
+        "chapterId": "towers",
+        "where": "Play 10 AI Battle Simulator sets"
+      },
+      {
+        "id": "achievement-49",
+        "name": "Puppet Master",
+        "kind": "trophy",
+        "chapterId": "towers",
+        "where": "Play 25 AI Battle Simulator sets"
+      },
+      {
+        "id": "achievement-50",
+        "name": "My Magic Shoes",
+        "kind": "trophy",
+        "chapterId": "krypt",
+        "where": "Run 5 miles in the Krypt"
+      },
+      {
+        "id": "achievement-51",
+        "name": "Have We Met",
+        "kind": "trophy",
+        "chapterId": "feats-and-kustomisation",
+        "where": "Equip 5 different character intros"
+      },
+      {
+        "id": "achievement-52",
+        "name": "Victorious",
+        "kind": "trophy",
+        "chapterId": "feats-and-kustomisation",
+        "where": "Equip 5 different character victories"
+      },
+      {
+        "id": "achievement-53",
+        "name": "More Power",
+        "kind": "trophy",
+        "chapterId": "feats-and-kustomisation",
+        "where": "Use 50 Konsumables"
+      },
+      {
+        "id": "achievement-54",
+        "name": "Konsumed",
+        "kind": "trophy",
+        "chapterId": "feats-and-kustomisation",
+        "where": "Use 100 konsumables"
+      },
+      {
+        "id": "achievement-55",
+        "name": "Get Over Here",
+        "kind": "trophy",
+        "chapterId": "krypt",
+        "where": "Spear 50 hanging bodies in the Krypt"
+      },
+      {
+        "id": "achievement-56",
+        "name": "Skull Kabob",
+        "kind": "trophy",
+        "chapterId": "krypt",
+        "where": "Impale a head in the warrior shrine"
+      },
+      {
+        "id": "achievement-57",
+        "name": "Gimme Dat Money",
+        "kind": "trophy",
+        "chapterId": "krypt",
+        "where": "Spend 50,000 koins in the Naknadan shrine"
+      },
+      {
+        "id": "achievement-58",
+        "name": "Thank You For Being A Fan",
+        "kind": "trophy",
+        "chapterId": "story-mode",
+        "where": "Reach The Kredits"
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/mortal-kombat-11",
+    "Achievement data from Steam (Steam Web API, app 976310)",
+    "StrategyWiki: no usable walkthrough, nothing used — https://strategywiki.org/wiki/Mortal_Kombat_11",
+    "Fandom (mortalkombat.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://mortalkombat.fandom.com/wiki/Mortal_Kombat_11"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). None of the 58 Steam achievements is hidden. The Steam store list spells the app \"Mortal Kombat11\" (app 976310); the schema calls it \"Mortal Kombat 11\". StrategyWiki has a page at completion stage 0; only its \"Table of Contents\" subpage exists (about 3,200 characters). It links 17 story chapter pages (\"Chapter 1: Next of Kin\" to \"Chapter 17: Checkmate\"), fighter pages and an \"Achievements and trophies\" page, but none of them is written, so nothing was used and the story is a single chapter here. mortalkombat.fandom.com answers the API, with about 306 linked pages; names only were looked at, nothing copied."
+}

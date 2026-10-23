@@ -1,0 +1,546 @@
+{
+  "id": "doom-2016",
+  "title": "Doom",
+  "year": 2016,
+  "platforms": [
+    "PC",
+    "PlayStation 4",
+    "Nintendo Switch",
+    "Xbox One"
+  ],
+  "rawgId": 2454,
+  "rawgSlug": "doom",
+  "released": "2016-05-12",
+  "developers": [
+    "Bethesda Softworks",
+    "id Software",
+    "Panic Button",
+    "Tango Gameworks",
+    "Escalation Studios",
+    "Certain Affinity",
+    "Digital Domain",
+    "BattleCry Studios"
+  ],
+  "playtime": 10,
+  "genres": [
+    "Action",
+    "Shooter"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Multiplayer",
+    "Atmospheric",
+    "Great Soundtrack",
+    "Co-op",
+    "cooperative",
+    "First-Person",
+    "Sci-fi",
+    "Partial Controller Support",
+    "Horror",
+    "FPS",
+    "Gore"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/587/587588c64afbff80e6f444eb2e46f9da.jpg",
+  "steamAppId": 379720,
+  "achievements": {
+    "total": 54,
+    "hidden": 5,
+    "examples": [
+      {
+        "name": "E1M1",
+        "percent": 82.4
+      },
+      {
+        "name": "Butcher",
+        "percent": 58.4
+      },
+      {
+        "name": "A Gift from Beyond",
+        "percent": 53.9
+      },
+      {
+        "name": "Insult to Injury",
+        "percent": 1.4
+      },
+      {
+        "name": "Computing with Style",
+        "percent": 1.3
+      },
+      {
+        "name": "Eat Your Vitamins",
+        "percent": 1.3
+      },
+      {
+        "name": "Beauty is Pain",
+        "percent": 1.2
+      },
+      {
+        "name": "Filling the Trophy Case",
+        "percent": 1.2
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Doom_(2016)",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 216,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://doom.fandom.com/wiki/Doom_(2016)"
+    }
+  },
+  "game": {
+    "id": "doom-2016",
+    "title": "Doom",
+    "platforms": [
+      "PC",
+      "PlayStation 4",
+      "Nintendo Switch",
+      "Xbox One"
+    ],
+    "blurb": "First-person shooter from id Software (RAWG also lists Panic Button, Tango Gameworks and others), published by Bethesda Softworks, released 2016-05-12. RAWG average playtime: 10 hours. Genres: Action, Shooter. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#B5361C",
+    "chapters": [
+      {
+        "id": "campaign",
+        "title": "The Campaign",
+        "summary": "The first mission, the hidden story milestones and finishing the campaign, plus the Ultra-Nightmare feat. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "upgrades",
+        "title": "Weapon Mods, Runes and the Praetor Suit",
+        "summary": "Weapon mods and their masteries, Argent upgrades, Runes and Praetor Suit upgrades.",
+        "steps": []
+      },
+      {
+        "id": "secrets-and-challenges",
+        "title": "Collectibles, Data Logs and Challenges",
+        "summary": "Finding every collectible and data log, and the mission challenges.",
+        "steps": []
+      },
+      {
+        "id": "combat",
+        "title": "Combat",
+        "summary": "Glory Kills, the chainsaw, explosive barrels and power-ups.",
+        "steps": []
+      },
+      {
+        "id": "arcade",
+        "title": "Arcade Mode",
+        "summary": "Gold ratings, medals and bonus lives or relics in Arcade Mode.",
+        "steps": []
+      },
+      {
+        "id": "multiplayer",
+        "title": "Multiplayer",
+        "summary": "Matches, levels, demons, weapons, armor sets, taunts and runes in multiplayer.",
+        "steps": []
+      },
+      {
+        "id": "snapmap",
+        "title": "SnapMap",
+        "summary": "The SnapMap tutorials, and making and playing community maps.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Shoot it Until it Dies",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-2",
+        "name": "Outnumbered? No Problem",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-3",
+        "name": "Who's Next?",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-4",
+        "name": "E1M1",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Complete the first mission of the campaign"
+      },
+      {
+        "id": "achievement-5",
+        "name": "Into the Unknown",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-6",
+        "name": "Knee-Deep in the Dead",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Complete the campaign on 'I'm Too Young to Die', 'Hurt Me Plenty', 'Ultra Violence', or 'Nightmare'."
+      },
+      {
+        "id": "achievement-7",
+        "name": "A Toe into Madness",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Complete The UAC on Ultra-Nightmare"
+      },
+      {
+        "id": "achievement-8",
+        "name": "Up Close and Personal",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Kill 50 enemies using the Chainsaw"
+      },
+      {
+        "id": "achievement-9",
+        "name": "Specialist",
+        "kind": "trophy",
+        "chapterId": "upgrades",
+        "where": "Earn the Mastery for a weapon mod"
+      },
+      {
+        "id": "achievement-10",
+        "name": "IDKFA",
+        "kind": "trophy",
+        "chapterId": "upgrades",
+        "where": "Earn the Masteries for all weapon mods"
+      },
+      {
+        "id": "achievement-11",
+        "name": "Hot Swapper",
+        "kind": "trophy",
+        "chapterId": "upgrades",
+        "where": "Acquire all weapon mods"
+      },
+      {
+        "id": "achievement-12",
+        "name": "Historian",
+        "kind": "trophy",
+        "chapterId": "secrets-and-challenges",
+        "where": "Find all Data Logs"
+      },
+      {
+        "id": "achievement-13",
+        "name": "Timing is Everything",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Use explosive barrels to kill 100 enemies"
+      },
+      {
+        "id": "achievement-14",
+        "name": "Every Nook and Cranny",
+        "kind": "trophy",
+        "chapterId": "secrets-and-challenges",
+        "where": "Find all Collectibles"
+      },
+      {
+        "id": "achievement-15",
+        "name": "Argent Overload",
+        "kind": "trophy",
+        "chapterId": "upgrades",
+        "where": "Fully upgrade Health, Armor, or Ammo capacity"
+      },
+      {
+        "id": "achievement-16",
+        "name": "Argent Fiend",
+        "kind": "trophy",
+        "chapterId": "upgrades",
+        "where": "Fully upgrade Health, Armor, and Ammo capacity on a single campaign run."
+      },
+      {
+        "id": "achievement-17",
+        "name": "A Gift from Beyond",
+        "kind": "trophy",
+        "chapterId": "upgrades",
+        "where": "Earn a Rune"
+      },
+      {
+        "id": "achievement-18",
+        "name": "The Circle is Complete",
+        "kind": "trophy",
+        "chapterId": "upgrades",
+        "where": "Earn all Runes"
+      },
+      {
+        "id": "achievement-19",
+        "name": "Tinkering",
+        "kind": "trophy",
+        "chapterId": "upgrades",
+        "where": "Fully upgrade a Praetor Suit category."
+      },
+      {
+        "id": "achievement-20",
+        "name": "Overclocked",
+        "kind": "trophy",
+        "chapterId": "upgrades",
+        "where": "Fully upgrade all Praetor Suit categories on a single campaign run."
+      },
+      {
+        "id": "achievement-21",
+        "name": "Thorough Shopper",
+        "kind": "trophy",
+        "chapterId": "secrets-and-challenges",
+        "where": "Complete all Challenges for a single mission."
+      },
+      {
+        "id": "achievement-22",
+        "name": "Butcher",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Perform 200 Glory Kills"
+      },
+      {
+        "id": "achievement-23",
+        "name": "Rip and Tear",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Glory Kill all common enemy types in the campaign."
+      },
+      {
+        "id": "achievement-24",
+        "name": "Juicin' it up",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Kill 150 enemies while using Power Ups"
+      },
+      {
+        "id": "achievement-25",
+        "name": "Momentum Shift",
+        "kind": "trophy",
+        "chapterId": "upgrades",
+        "where": "Upgrade a Rune"
+      },
+      {
+        "id": "achievement-26",
+        "name": "IDDQD",
+        "kind": "trophy",
+        "chapterId": "upgrades",
+        "where": "Upgrade all Runes"
+      },
+      {
+        "id": "achievement-27",
+        "name": "What Else Ya Got?",
+        "kind": "trophy",
+        "chapterId": "secrets-and-challenges",
+        "where": "Complete all Mission Challenges"
+      },
+      {
+        "id": "achievement-28",
+        "name": "IPXSETUP.EXE",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "Win a Multiplayer match"
+      },
+      {
+        "id": "achievement-29",
+        "name": "Combat tested, Doomguy approved",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "Reach Level 5 in Multiplayer"
+      },
+      {
+        "id": "achievement-30",
+        "name": "An Old Friend",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-31",
+        "name": "Shareware",
+        "kind": "trophy",
+        "chapterId": "snapmap",
+        "where": "Create and publish a SnapMap"
+      },
+      {
+        "id": "achievement-32",
+        "name": "No Rest for the Living",
+        "kind": "trophy",
+        "chapterId": "snapmap",
+        "where": "Play 5 published SnapMaps"
+      },
+      {
+        "id": "achievement-33",
+        "name": "Entryway",
+        "kind": "trophy",
+        "chapterId": "snapmap",
+        "where": "Complete the SnapMap Basic and Advanced Tutorials"
+      },
+      {
+        "id": "achievement-34",
+        "name": "Tenderizing the Crops",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "Kill 10 enemies with the Harvester demon in Multiplayer"
+      },
+      {
+        "id": "achievement-35",
+        "name": "Marked for Death",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "Kill 10 enemies with the EMG Mark V Pistol in Multiplayer"
+      },
+      {
+        "id": "achievement-36",
+        "name": "Motion in the Explosion",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "Kill 5 enemies with the Kinetic Mine in Multiplayer"
+      },
+      {
+        "id": "achievement-37",
+        "name": "Sitting Duck",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "Use a taunt from Expansion 1 during a Multiplayer Match"
+      },
+      {
+        "id": "achievement-38",
+        "name": "Computing with Style",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "Play a Multiplayer Match with a piece of Robotic Armor equipped"
+      },
+      {
+        "id": "achievement-39",
+        "name": "Threat Assessment",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "Detect 20 enemies using the Threat Pulse in Multiplayer"
+      },
+      {
+        "id": "achievement-40",
+        "name": "Eat Your Vitamins",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "Kill 10 enemies with the Cacodemon in Multiplayer"
+      },
+      {
+        "id": "achievement-41",
+        "name": "Reaping all the Benefits",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "Kill 10 enemies with the Reaper in Multiplayer"
+      },
+      {
+        "id": "achievement-42",
+        "name": "Beauty is Pain",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "Play a Multiplayer Match with a piece of Cyber-Demonic armor equipped"
+      },
+      {
+        "id": "achievement-43",
+        "name": "Like Nobody is Watching",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "Use a taunt from Expansion 2 during a Multiplayer Match"
+      },
+      {
+        "id": "achievement-44",
+        "name": "Filling the Trophy Case",
+        "kind": "trophy",
+        "chapterId": "arcade",
+        "where": "Earn every medal type in Arcade Mode in one run"
+      },
+      {
+        "id": "achievement-45",
+        "name": "Go for the Gold",
+        "kind": "trophy",
+        "chapterId": "arcade",
+        "where": "Earn a gold rating in Arcade Mode"
+      },
+      {
+        "id": "achievement-46",
+        "name": "Arcade Stockpile",
+        "kind": "trophy",
+        "chapterId": "arcade",
+        "where": "Collect 20 bonus lives or relics in Arcade Mode"
+      },
+      {
+        "id": "achievement-47",
+        "name": "Bowling for Gibs",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "Perform a MultiKill with the Spectre demon in Multiplayer"
+      },
+      {
+        "id": "achievement-48",
+        "name": "Head First",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "Kill 10 enemies with the Spectre demon in Multiplayer"
+      },
+      {
+        "id": "achievement-49",
+        "name": "Successful Launch",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "Kill 10 enemies with the Grenade Launcher in Multiplayer"
+      },
+      {
+        "id": "achievement-50",
+        "name": "Fashion Fanatic",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "Play a Multiplayer Match with a piece of Evil Cultist armor equipped"
+      },
+      {
+        "id": "achievement-51",
+        "name": "Insult to Injury",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "Use a taunt from Expansion 3 during a Multiplayer Match"
+      },
+      {
+        "id": "achievement-52",
+        "name": "On Track",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "Complete a tracked challenge in a Multiplayer Match"
+      },
+      {
+        "id": "achievement-53",
+        "name": "A Memorable Performance",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "Earn a Gold Rating in a Multiplayer Match"
+      },
+      {
+        "id": "achievement-54",
+        "name": "Slotted for Success",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "Unlock all Multiplayer Runes"
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/doom",
+    "Achievement data from Steam (Steam Web API, app 379720)",
+    "StrategyWiki: no usable walkthrough, nothing used — https://strategywiki.org/wiki/Doom_(2016)",
+    "Fandom (doom.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://doom.fandom.com/wiki/Doom_(2016)"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). RAWG's first result is the 2016 game (\"DOOM (2016)\", slug \"doom\"), as expected; RAWG keeps the 1993 game separately. Steam app 379720 is named \"DOOM\" in the schema and store list. StrategyWiki has \"Doom (2016)\" at completion stage 1, but its Walkthrough is not a usable guide: the Walkthrough page itself and the first mission page are not written, and the other 12 mission pages are short stubs (marked as stubs, each about 500 to 1,000 characters) with a mission briefing and the challenge list but no walkthrough text. Its Gameplay, Weapons, Runes, Praetor Suit and Achievements pages are written; Collectibles, Monsters and Arcade Mode are not. So it was not used. doom.fandom.com answers the API under \"Doom (2016)\" with about 216 linked articles; names only were looked at, nothing copied. 5 of 54 Steam achievements are hidden and sit in the campaign chapter. 22 achievements are multiplayer, SnapMap or Arcade Mode, all below 12%; the multiplayer taunts and armor name \"Expansion 1\" to \"Expansion 3\" without titles."
+}

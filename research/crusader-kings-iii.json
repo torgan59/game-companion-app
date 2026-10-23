@@ -1,0 +1,1555 @@
+{
+  "id": "crusader-kings-iii",
+  "title": "Crusader Kings III",
+  "year": 2020,
+  "platforms": [
+    "macOS",
+    "PlayStation 5",
+    "Xbox Series X|S",
+    "PC",
+    "Linux"
+  ],
+  "rawgId": 384567,
+  "rawgSlug": "crusader-kings-iii",
+  "released": "2020-09-01",
+  "developers": [
+    "Paradox Developement Studios"
+  ],
+  "playtime": 12,
+  "genres": [
+    "RPG",
+    "Strategy",
+    "Simulation"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Multiplayer",
+    "RPG",
+    "Online multiplayer",
+    "Historical",
+    "Medieval",
+    "Sexual Content",
+    "Dating Sim",
+    "Grand Strategy"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/77e/77e8a4a7b377a081aabd0dbf688417e1.jpg",
+  "steamAppId": 1158310,
+  "achievements": {
+    "total": 198,
+    "hidden": 0,
+    "examples": [
+      {
+        "name": "You'll Never Take Me Alive!",
+        "percent": 67.3
+      },
+      {
+        "name": "Divine Right",
+        "percent": 65.4
+      },
+      {
+        "name": "Until Death Do Us Part",
+        "percent": 61.3
+      },
+      {
+        "name": "The Two Swords",
+        "percent": 1.2
+      },
+      {
+        "name": "A Perfect Circle",
+        "percent": 1.0
+      },
+      {
+        "name": "Papal Bull",
+        "percent": 0.9
+      },
+      {
+        "name": "Guido's Guiding Light",
+        "percent": 0.7
+      },
+      {
+        "name": "The Father, the Son, and the Holy Grandson",
+        "percent": 0.7
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": false,
+      "pages": 0,
+      "reason": "No page for Crusader Kings III (MediaWiki API returned missing; see notes for other titles tried)"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": false,
+      "reason": "No page under this title on crusaderkings.fandom.com; marked unverified, not retried"
+    }
+  },
+  "game": {
+    "id": "crusader-kings-iii",
+    "title": "Crusader Kings III",
+    "platforms": [
+      "macOS",
+      "PlayStation 5",
+      "Xbox Series X|S",
+      "PC",
+      "Linux"
+    ],
+    "blurb": "Medieval grand strategy and role-playing game from Paradox Development Studio, released 2020-09-01. RAWG average playtime: 12 hours. Genres: RPG, Strategy, Simulation. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#7A2E3A",
+    "chapters": [
+      {
+        "id": "dynasty-and-rule",
+        "title": "Dynasty, Family and Rule",
+        "summary": "Base game goals: marriage, children, lifestyles, dynasty legacies, prestige, piety, dread, stress, schemes, hooks, faiths and holy orders.",
+        "steps": []
+      },
+      {
+        "id": "historic-starts",
+        "title": "Historic Starts and Realm Goals",
+        "summary": "Base game goals tied to a starting ruler, start date, faith or region, such as forming kingdoms, restoring empires and playing until 1453.",
+        "steps": []
+      },
+      {
+        "id": "norse-and-iberia",
+        "title": "Norse Rulers and the Iberian Struggle",
+        "summary": "Asatru and North Germanic goals, rune stones and Varangian adventures, then the Iberian struggle, Basque faith and Valencia.",
+        "steps": []
+      },
+      {
+        "id": "courts-and-culture",
+        "title": "Royal Courts, Artifacts and Culture",
+        "summary": "Court grandeur, artifacts, inspirations, court languages, and hybrid or divergent cultures.",
+        "steps": []
+      },
+      {
+        "id": "travel-and-tournaments",
+        "title": "Travel, Tournaments, Hunts and Weddings",
+        "summary": "Grand tours, pilgrimages, jousts and tournaments, hunts, feasts and grand weddings.",
+        "steps": []
+      },
+      {
+        "id": "persia-and-legends",
+        "title": "The Iranian Struggle, Legends and Epidemics",
+        "summary": "The Iranian Intermezzo struggle, viziers and caliphates, then legends, legitimacy and epidemics such as the plague.",
+        "steps": []
+      },
+      {
+        "id": "adventurers-and-byzantium",
+        "title": "Adventurers, Estates and Byzantium",
+        "summary": "Landless adventurers and camp followers, administrative government, great families, estates and themes in Byzantium.",
+        "steps": []
+      },
+      {
+        "id": "steppe-and-east",
+        "title": "The Steppe, China, Japan and Mandala Realms",
+        "summary": "Nomads, tributaries and confederations on the Steppe, then the Mandate of Heaven, exams and merit in China, Japan and mandala rulers.",
+        "steps": []
+      },
+      {
+        "id": "church-and-papacy",
+        "title": "Popes, Cardinals and the Church",
+        "summary": "Puppet popes, antipopes, cardinals, archbishops, ecumenical councils and relics.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Until Death Do Us Part",
+        "kind": "trophy",
+        "chapterId": "dynasty-and-rule",
+        "where": "Marry another character"
+      },
+      {
+        "id": "achievement-2",
+        "name": "Way of Life",
+        "kind": "trophy",
+        "chapterId": "dynasty-and-rule",
+        "where": "Complete an entire Lifestyle (all three trees)"
+      },
+      {
+        "id": "achievement-3",
+        "name": "A Legacy to Last the Ages",
+        "kind": "trophy",
+        "chapterId": "dynasty-and-rule",
+        "where": "Complete an entire Dynasty Legacy"
+      },
+      {
+        "id": "achievement-4",
+        "name": "A House of My Own",
+        "kind": "trophy",
+        "chapterId": "dynasty-and-rule",
+        "where": "Create a Cadet Branch of your Dynasty"
+      },
+      {
+        "id": "achievement-5",
+        "name": "Dreadful Ruler",
+        "kind": "trophy",
+        "chapterId": "dynasty-and-rule",
+        "where": "Have the maximum amount of dread"
+      },
+      {
+        "id": "achievement-6",
+        "name": "Stressful Situation",
+        "kind": "trophy",
+        "chapterId": "dynasty-and-rule",
+        "where": "Suffer from a Mental Break"
+      },
+      {
+        "id": "achievement-7",
+        "name": "Not So Feudal System",
+        "kind": "trophy",
+        "chapterId": "dynasty-and-rule",
+        "where": "Use the Claim Throne scheme successfully"
+      },
+      {
+        "id": "achievement-8",
+        "name": "The Succession is Safe",
+        "kind": "trophy",
+        "chapterId": "dynasty-and-rule",
+        "where": "Have ten living children"
+      },
+      {
+        "id": "achievement-9",
+        "name": "Álmost There",
+        "kind": "trophy",
+        "chapterId": "historic-starts",
+        "where": "As Álmos Árpád, form Hungary and convert to Christianity"
+      },
+      {
+        "id": "achievement-10",
+        "name": "Last Count, First King",
+        "kind": "trophy",
+        "chapterId": "historic-starts",
+        "where": "Starting as Duke Nuño of Portucale in 1066, form Portugal"
+      },
+      {
+        "id": "achievement-11",
+        "name": "Prolific",
+        "kind": "trophy",
+        "chapterId": "dynasty-and-rule",
+        "where": "Have one hundred living dynasty members"
+      },
+      {
+        "id": "achievement-12",
+        "name": "A Name Known Throughout the World",
+        "kind": "trophy",
+        "chapterId": "dynasty-and-rule",
+        "where": "Have your dynasty reach the highest possible Level of Splendor"
+      },
+      {
+        "id": "achievement-13",
+        "name": "End of an Era",
+        "kind": "trophy",
+        "chapterId": "historic-starts",
+        "where": "Play until 1453"
+      },
+      {
+        "id": "achievement-14",
+        "name": "Turning to Diamonds",
+        "kind": "trophy",
+        "chapterId": "dynasty-and-rule",
+        "where": "Reach the highest possible Stress level"
+      },
+      {
+        "id": "achievement-15",
+        "name": "Reconquista",
+        "kind": "trophy",
+        "chapterId": "historic-starts",
+        "where": "Starting as an Iberian Christian, convert all of Iberia to Christianity"
+      },
+      {
+        "id": "achievement-16",
+        "name": "Seven Holy Cities",
+        "kind": "trophy",
+        "chapterId": "historic-starts",
+        "where": "As a Hindu ruler, hold all seven Hindu Holy Sites at the same time"
+      },
+      {
+        "id": "achievement-17",
+        "name": "Frankokratia",
+        "kind": "trophy",
+        "chapterId": "historic-starts",
+        "where": "As a French Catholic, hold the Kingdom of Thessalonika without being vassalised to Byzantium"
+      },
+      {
+        "id": "achievement-18",
+        "name": "Celebrity",
+        "kind": "trophy",
+        "chapterId": "dynasty-and-rule",
+        "where": "Reach the highest possible Prestige Level"
+      },
+      {
+        "id": "achievement-19",
+        "name": "Saint",
+        "kind": "trophy",
+        "chapterId": "dynasty-and-rule",
+        "where": "Reach the highest possible Piety Level"
+      },
+      {
+        "id": "achievement-20",
+        "name": "Keeping it in the Family",
+        "kind": "trophy",
+        "chapterId": "dynasty-and-rule",
+        "where": "Have a child with the Inbred trait"
+      },
+      {
+        "id": "achievement-21",
+        "name": "Non Nobis Domine",
+        "kind": "trophy",
+        "chapterId": "dynasty-and-rule",
+        "where": "Found a Holy Order"
+      },
+      {
+        "id": "achievement-22",
+        "name": "Trapped in the Web",
+        "kind": "trophy",
+        "chapterId": "dynasty-and-rule",
+        "where": "Have strong hooks on three direct vassals"
+      },
+      {
+        "id": "achievement-23",
+        "name": "Followed by Shadows",
+        "kind": "trophy",
+        "chapterId": "dynasty-and-rule",
+        "where": "Know ten secrets simultaneously"
+      },
+      {
+        "id": "achievement-24",
+        "name": "What Nepotism?",
+        "kind": "trophy",
+        "chapterId": "dynasty-and-rule",
+        "where": "Have your Dynasty rule ten independent realms of at least Kingdom tier simultaneously"
+      },
+      {
+        "id": "achievement-25",
+        "name": "Rise from the Ashes",
+        "kind": "trophy",
+        "chapterId": "historic-starts",
+        "where": "Restore the Roman Empire"
+      },
+      {
+        "id": "achievement-26",
+        "name": "The Emerald Isle",
+        "kind": "trophy",
+        "chapterId": "historic-starts",
+        "where": "Starting as an Irish ruler, hold the Kingdom of Ireland"
+      },
+      {
+        "id": "achievement-27",
+        "name": "From Rags to Riches",
+        "kind": "trophy",
+        "chapterId": "historic-starts",
+        "where": "Starting as a Count, lead your line to rule an Empire"
+      },
+      {
+        "id": "achievement-28",
+        "name": "Give a Dog a Bone",
+        "kind": "trophy",
+        "chapterId": "historic-starts",
+        "where": "Starting as Matilda di Canossa in 1066, rule Italy, have 50 Dynasty members, and found a Holy Order"
+      },
+      {
+        "id": "achievement-29",
+        "name": "Al-Andalus",
+        "kind": "trophy",
+        "chapterId": "historic-starts",
+        "where": "Starting as an Iberian Muslim, control Iberia and take the Avenge the Battle of Tours decision"
+      },
+      {
+        "id": "achievement-30",
+        "name": "Wily as the Fox",
+        "kind": "trophy",
+        "chapterId": "historic-starts",
+        "where": "Starting as Robert the Fox in 1066, rule Sicily, hold a Greek Kingdom, and convert it to Catholicism"
+      },
+      {
+        "id": "achievement-31",
+        "name": "Sibling Rivalry",
+        "kind": "trophy",
+        "chapterId": "historic-starts",
+        "where": "Starting as any of the Jimena siblings in 1066, become Emperor of Spain"
+      },
+      {
+        "id": "achievement-32",
+        "name": "Blood Eagle",
+        "kind": "trophy",
+        "chapterId": "historic-starts",
+        "where": "Starting as any child of Ragnarr Lothbrok, conquer all of the British Isles"
+      },
+      {
+        "id": "achievement-33",
+        "name": "Kings to the Seventh Generation",
+        "kind": "trophy",
+        "chapterId": "historic-starts",
+        "where": "Starting as Count Eudes of Anjou in 867, lead your Dynasty to rule the Kingdom of France"
+      },
+      {
+        "id": "achievement-34",
+        "name": "Norman Yoke",
+        "kind": "trophy",
+        "chapterId": "historic-starts",
+        "where": "Starting as William in 1066, win the Invasion, become English, and have only English vassals"
+      },
+      {
+        "id": "achievement-35",
+        "name": "Royal Dignity",
+        "kind": "trophy",
+        "chapterId": "historic-starts",
+        "where": "Starting as Vratislav Přemyslid in 1066, lead your Dynasty to rule Bohemia and the Holy Roman Empire"
+      },
+      {
+        "id": "achievement-36",
+        "name": "Going Places",
+        "kind": "trophy",
+        "chapterId": "historic-starts",
+        "where": "As Haesteinn of Montaigu in 867, hold any Kingdom tier title"
+      },
+      {
+        "id": "achievement-37",
+        "name": "Land of the Rus",
+        "kind": "trophy",
+        "chapterId": "historic-starts",
+        "where": "Starting as Rurik the Troublemaker in 867, lead your dynasty to rule the Empire of Russia"
+      },
+      {
+        "id": "achievement-38",
+        "name": "Above God",
+        "kind": "trophy",
+        "chapterId": "dynasty-and-rule",
+        "where": "Have a strong hook on your Head of Faith"
+      },
+      {
+        "id": "achievement-39",
+        "name": "Paragon of Virtue",
+        "kind": "trophy",
+        "chapterId": "dynasty-and-rule",
+        "where": "Have three or more virtuous traits"
+      },
+      {
+        "id": "achievement-40",
+        "name": "The Things Love Does for Us",
+        "kind": "trophy",
+        "chapterId": "dynasty-and-rule",
+        "where": "Have a lover save you from a murder attempt"
+      },
+      {
+        "id": "achievement-41",
+        "name": "Fine Print",
+        "kind": "trophy",
+        "chapterId": "dynasty-and-rule",
+        "where": "Use a hook to modify a feudal contract"
+      },
+      {
+        "id": "achievement-42",
+        "name": "Know Your Place",
+        "kind": "trophy",
+        "chapterId": "dynasty-and-rule",
+        "where": "Defeat a faction in a war"
+      },
+      {
+        "id": "achievement-43",
+        "name": "Monumental",
+        "kind": "trophy",
+        "chapterId": "dynasty-and-rule",
+        "where": "Fully upgrade a duchy capital building anywhere in your personal domain"
+      },
+      {
+        "id": "achievement-44",
+        "name": "It's not a Cult!",
+        "kind": "trophy",
+        "chapterId": "dynasty-and-rule",
+        "where": "Create a Faith"
+      },
+      {
+        "id": "achievement-45",
+        "name": "The Things We Do for Love",
+        "kind": "trophy",
+        "chapterId": "dynasty-and-rule",
+        "where": "Murder your lover's spouse"
+      },
+      {
+        "id": "achievement-46",
+        "name": "An Unfortunate Accident",
+        "kind": "trophy",
+        "chapterId": "dynasty-and-rule",
+        "where": "Inherit a title from someone you murdered"
+      },
+      {
+        "id": "achievement-47",
+        "name": "Death Did Us Part",
+        "kind": "trophy",
+        "chapterId": "dynasty-and-rule",
+        "where": "Murder your spouse"
+      },
+      {
+        "id": "achievement-48",
+        "name": "For the Faith!",
+        "kind": "trophy",
+        "chapterId": "dynasty-and-rule",
+        "where": "Take part in a successful Great Holy War, on either side"
+      },
+      {
+        "id": "achievement-49",
+        "name": "Bad Blood",
+        "kind": "trophy",
+        "chapterId": "dynasty-and-rule",
+        "where": "Go to war with one of your siblings over a Claim"
+      },
+      {
+        "id": "achievement-50",
+        "name": "Seductive",
+        "kind": "trophy",
+        "chapterId": "dynasty-and-rule",
+        "where": "As any one character, successfully seduce ten people"
+      },
+      {
+        "id": "achievement-51",
+        "name": "The Emperor's New Clothes",
+        "kind": "trophy",
+        "chapterId": "dynasty-and-rule",
+        "where": "While holding any empire title, be naked"
+      },
+      {
+        "id": "achievement-52",
+        "name": "A Perfect Circle",
+        "kind": "trophy",
+        "chapterId": "dynasty-and-rule",
+        "where": "Have only two distinct parents, grandparents, and great grandparents"
+      },
+      {
+        "id": "achievement-53",
+        "name": "Carolingian Consolidation",
+        "kind": "trophy",
+        "chapterId": "historic-starts",
+        "where": "Starting as a Karling, be the only independent Karling to hold a landed title"
+      },
+      {
+        "id": "achievement-54",
+        "name": "Moving up in the World",
+        "kind": "trophy",
+        "chapterId": "dynasty-and-rule",
+        "where": "Increase your Rank"
+      },
+      {
+        "id": "achievement-55",
+        "name": "Beacon of Progress",
+        "kind": "trophy",
+        "chapterId": "dynasty-and-rule",
+        "where": "Have your culture unlock all innovations, excluding regional and culture-specific innovations"
+      },
+      {
+        "id": "achievement-56",
+        "name": "Mother of us All",
+        "kind": "trophy",
+        "chapterId": "historic-starts",
+        "where": "Starting as Daurama Daura, have your line reform an African faith, and convert all of Africa to it"
+      },
+      {
+        "id": "achievement-57",
+        "name": "Far from Home",
+        "kind": "trophy",
+        "chapterId": "norse-and-iberia",
+        "where": "As a Norse-Asatru ruler, have your capital on any island in the Indian Ocean"
+      },
+      {
+        "id": "achievement-58",
+        "name": "Miklagarðaríki",
+        "kind": "trophy",
+        "chapterId": "norse-and-iberia",
+        "where": "As an Asatru, hold all of the original Thessalonika, and any empire title other than Byzantium"
+      },
+      {
+        "id": "achievement-59",
+        "name": "Canute the Greater",
+        "kind": "trophy",
+        "chapterId": "norse-and-iberia",
+        "where": "As an unreformed tribal, form the North Sea Empire"
+      },
+      {
+        "id": "achievement-60",
+        "name": "King of all the Isles",
+        "kind": "trophy",
+        "chapterId": "norse-and-iberia",
+        "where": "As a North Germanic Asatru, control all islands in the Atlantic and the Mediterranean, whilst keeping your realm size below a certain threshold"
+      },
+      {
+        "id": "achievement-61",
+        "name": "Faster than the Fox",
+        "kind": "trophy",
+        "chapterId": "norse-and-iberia",
+        "where": "As a Norse tribal, control the entirety of Sicily"
+      },
+      {
+        "id": "achievement-62",
+        "name": "Völva",
+        "kind": "trophy",
+        "chapterId": "norse-and-iberia",
+        "where": "Starting and staying as a North Germanic Asatru of any kind, take the Found Witch Coven Decision"
+      },
+      {
+        "id": "achievement-63",
+        "name": "Saga in Stone",
+        "kind": "trophy",
+        "chapterId": "norse-and-iberia",
+        "where": "As any one dynasty, commission a hundred rune stones"
+      },
+      {
+        "id": "achievement-64",
+        "name": "First of the Crusader Kings",
+        "kind": "trophy",
+        "chapterId": "norse-and-iberia",
+        "where": "As a Christian North Germanic, participate in the very first crusade from the start"
+      },
+      {
+        "id": "achievement-65",
+        "name": "Vladimir's Second Choice",
+        "kind": "trophy",
+        "chapterId": "norse-and-iberia",
+        "where": "As a North Germanic or Russian Asatruan of any kind, convert to any Islamic faith & convert all of Russia."
+      },
+      {
+        "id": "achievement-66",
+        "name": "A Dangerous Business",
+        "kind": "trophy",
+        "chapterId": "norse-and-iberia",
+        "where": "As a dwarf, win a Varangian Adventurer war anywhere outside of Europe"
+      },
+      {
+        "id": "achievement-67",
+        "name": "Patronage",
+        "kind": "trophy",
+        "chapterId": "courts-and-culture",
+        "where": "Fund an Inspired character's Project, and receive the end result"
+      },
+      {
+        "id": "achievement-68",
+        "name": "Converging Paths",
+        "kind": "trophy",
+        "chapterId": "courts-and-culture",
+        "where": "Create a Hybrid Culture"
+      },
+      {
+        "id": "achievement-69",
+        "name": "Changing Course",
+        "kind": "trophy",
+        "chapterId": "courts-and-culture",
+        "where": "Create a Divergent Culture"
+      },
+      {
+        "id": "achievement-70",
+        "name": "Hoarder",
+        "kind": "trophy",
+        "chapterId": "courts-and-culture",
+        "where": "Have an artifact in every slot in the Inventory and Court"
+      },
+      {
+        "id": "achievement-71",
+        "name": "Crème de la Crème",
+        "kind": "trophy",
+        "chapterId": "courts-and-culture",
+        "where": "Reach the maximum amount of Court Grandeur"
+      },
+      {
+        "id": "achievement-72",
+        "name": "Polyglot",
+        "kind": "trophy",
+        "chapterId": "courts-and-culture",
+        "where": "Personally know 10 languages"
+      },
+      {
+        "id": "achievement-73",
+        "name": "Inspirational",
+        "kind": "trophy",
+        "chapterId": "courts-and-culture",
+        "where": "Sponsor 30 successful inspirations in one game"
+      },
+      {
+        "id": "achievement-74",
+        "name": "One of a Kind",
+        "kind": "trophy",
+        "chapterId": "courts-and-culture",
+        "where": "Obtain a mythological rarity artifact from an Adventurer Inspiration"
+      },
+      {
+        "id": "achievement-75",
+        "name": "True Tolerance",
+        "kind": "trophy",
+        "chapterId": "courts-and-culture",
+        "where": "Rule a realm containing at least 10 cultures with 95% or more acceptance of your culture"
+      },
+      {
+        "id": "achievement-76",
+        "name": "Delusions of Grandeur",
+        "kind": "trophy",
+        "chapterId": "courts-and-culture",
+        "where": "Be at least 6 levels above your expected Court Grandeur"
+      },
+      {
+        "id": "achievement-77",
+        "name": "Bod Chen Po",
+        "kind": "trophy",
+        "chapterId": "courts-and-culture",
+        "where": "As a member of the Pugyel Dynasty, re-create the Empire of Tibet"
+      },
+      {
+        "id": "achievement-78",
+        "name": "Turkish Eagle",
+        "kind": "trophy",
+        "chapterId": "courts-and-culture",
+        "where": "As the Seljuk Count in Samosata, form Rum and create a Hybrid Culture between Oghuz and Greek"
+      },
+      {
+        "id": "achievement-79",
+        "name": "Rise of the Ghurids",
+        "kind": "trophy",
+        "chapterId": "courts-and-culture",
+        "where": "Starting as the Duke of Ghur in 867 or 1066, conquer the borders of the historical Ghurid Empire"
+      },
+      {
+        "id": "achievement-80",
+        "name": "Brave and Bold",
+        "kind": "trophy",
+        "chapterId": "courts-and-culture",
+        "where": "As the Piasts in 867, rule a Feudal Poland and own a Famed+ regalia, crown, weapon, and armor"
+      },
+      {
+        "id": "achievement-81",
+        "name": "Lingua Franca",
+        "kind": "trophy",
+        "chapterId": "courts-and-culture",
+        "where": "Have every Royal Court speak your Court Language"
+      },
+      {
+        "id": "achievement-82",
+        "name": "Beta Israel",
+        "kind": "trophy",
+        "chapterId": "courts-and-culture",
+        "where": "Starting and staying as a Jewish ruler in East Africa, rule a Kingdom and diverge your culture"
+      },
+      {
+        "id": "achievement-83",
+        "name": "They Belong in a Museum",
+        "kind": "trophy",
+        "chapterId": "courts-and-culture",
+        "where": "Appoint a character with a completed Adventure inspiration as your Antiquarian"
+      },
+      {
+        "id": "achievement-84",
+        "name": "I Made This",
+        "kind": "trophy",
+        "chapterId": "courts-and-culture",
+        "where": "Loot an artifact you do not have a claim on and pass it down to your heir"
+      },
+      {
+        "id": "achievement-85",
+        "name": "Nobody Comes to Fika",
+        "kind": "trophy",
+        "chapterId": "courts-and-culture",
+        "where": "With the County of Fika as your primary title, diverge your culture and spread it to 30 Counties"
+      },
+      {
+        "id": "achievement-86",
+        "name": "The True Royal Court",
+        "kind": "trophy",
+        "chapterId": "courts-and-culture",
+        "where": "As a vassal king to an emperor, have a higher court grandeur than they do"
+      },
+      {
+        "id": "achievement-87",
+        "name": "History's Best Friends",
+        "kind": "trophy",
+        "chapterId": "norse-and-iberia",
+        "where": "Sleep with your best friend while having the \"Ritualized Friendship\" cultural tradition"
+      },
+      {
+        "id": "achievement-88",
+        "name": "Basque In My Glory",
+        "kind": "trophy",
+        "chapterId": "norse-and-iberia",
+        "where": "Embrace the Basque paganism faith during the Iberian struggle"
+      },
+      {
+        "id": "achievement-89",
+        "name": "Friendship Is Magic",
+        "kind": "trophy",
+        "chapterId": "norse-and-iberia",
+        "where": "Use a friendship hook on a different-faith ruler involved in the Iberian struggle"
+      },
+      {
+        "id": "achievement-90",
+        "name": "High Stakes",
+        "kind": "trophy",
+        "chapterId": "norse-and-iberia",
+        "where": "Bet a title on a strategy game match against another ruler"
+      },
+      {
+        "id": "achievement-91",
+        "name": "Iberia or Iberia?",
+        "kind": "trophy",
+        "chapterId": "norse-and-iberia",
+        "where": "As an Iberian culture character, control all of the Caucasian Iberia region"
+      },
+      {
+        "id": "achievement-92",
+        "name": "The Andalusian Inquisition",
+        "kind": "trophy",
+        "chapterId": "norse-and-iberia",
+        "where": "Convert all of Iberia to the Mozarabic faith"
+      },
+      {
+        "id": "achievement-93",
+        "name": "Iberian Hostilities",
+        "kind": "trophy",
+        "chapterId": "norse-and-iberia",
+        "where": "End the Iberian struggle through means of force"
+      },
+      {
+        "id": "achievement-94",
+        "name": "Iberian Conciliation",
+        "kind": "trophy",
+        "chapterId": "norse-and-iberia",
+        "where": "End the Iberian struggle by setting your differences aside"
+      },
+      {
+        "id": "achievement-95",
+        "name": "Iberian Compromise",
+        "kind": "trophy",
+        "chapterId": "norse-and-iberia",
+        "where": "End the Iberian struggle through compromise"
+      },
+      {
+        "id": "achievement-96",
+        "name": "Holidaying in Iberia",
+        "kind": "trophy",
+        "chapterId": "norse-and-iberia",
+        "where": "Start as an uninvolved character, become involved and end the Iberian struggle"
+      },
+      {
+        "id": "achievement-97",
+        "name": "Legacy of The Campeadores",
+        "kind": "trophy",
+        "chapterId": "norse-and-iberia",
+        "where": "Create and rule the kingdom of Valencia as an heir to El Cid"
+      },
+      {
+        "id": "achievement-98",
+        "name": "The Grandest Tour",
+        "kind": "trophy",
+        "chapterId": "travel-and-tournaments",
+        "where": "Visit ten Kingdom Tier Vassals on a Grand Tour"
+      },
+      {
+        "id": "achievement-99",
+        "name": "Your Eternal Reward",
+        "kind": "trophy",
+        "chapterId": "travel-and-tournaments",
+        "where": "As a Regent, sucessfully coup your liege to take their Realm without War or Schemes"
+      },
+      {
+        "id": "achievement-100",
+        "name": "Imperial March",
+        "kind": "trophy",
+        "chapterId": "travel-and-tournaments",
+        "where": "As an Emperor, go on an Intimidation Tour visiting all of your Powerful Vassals"
+      },
+      {
+        "id": "achievement-101",
+        "name": "Black Dinner",
+        "kind": "trophy",
+        "chapterId": "travel-and-tournaments",
+        "where": "Successfully host a Murder Feast or Bloody Wedding"
+      },
+      {
+        "id": "achievement-102",
+        "name": "There and Back Again",
+        "kind": "trophy",
+        "chapterId": "travel-and-tournaments",
+        "where": "Finish both tracks of the Traveler Trait"
+      },
+      {
+        "id": "achievement-103",
+        "name": "The Very Best",
+        "kind": "trophy",
+        "chapterId": "travel-and-tournaments",
+        "where": "Finish any track in the Hastiluder Trait"
+      },
+      {
+        "id": "achievement-104",
+        "name": "Like No One Ever Was",
+        "kind": "trophy",
+        "chapterId": "travel-and-tournaments",
+        "where": "Finish all tracks in the Hastiluder Trait"
+      },
+      {
+        "id": "achievement-105",
+        "name": "A Thousand and One Night",
+        "kind": "trophy",
+        "chapterId": "travel-and-tournaments",
+        "where": "Orchestrate a Grand Wedding where the Spouses become Soulmates"
+      },
+      {
+        "id": "achievement-106",
+        "name": "A Knight's Tale",
+        "kind": "trophy",
+        "chapterId": "travel-and-tournaments",
+        "where": "Have one of your Lowborn Knights win a Grand Tournament Joust, then land them"
+      },
+      {
+        "id": "achievement-107",
+        "name": "Hunting Accident",
+        "kind": "trophy",
+        "chapterId": "travel-and-tournaments",
+        "where": "Succeed with the Murder Intent while on a Hunt"
+      },
+      {
+        "id": "achievement-108",
+        "name": "Lions and Tigers and Bears, Oh My!",
+        "kind": "trophy",
+        "chapterId": "travel-and-tournaments",
+        "where": "Capture a large wild animal while on a Hunt"
+      },
+      {
+        "id": "achievement-109",
+        "name": "Fly, My Pretty!",
+        "kind": "trophy",
+        "chapterId": "travel-and-tournaments",
+        "where": "Finish the Falconer track in the Hunter Trait"
+      },
+      {
+        "id": "achievement-110",
+        "name": "Pathway to Heaven",
+        "kind": "trophy",
+        "chapterId": "travel-and-tournaments",
+        "where": "With one Character, go on Pilgrimages to all of your Holy Sites"
+      },
+      {
+        "id": "achievement-111",
+        "name": "Sir Lance-a-Lot",
+        "kind": "trophy",
+        "chapterId": "travel-and-tournaments",
+        "where": "Participate in a Joust with a maxed out Horse track for the Hastiluder Trait"
+      },
+      {
+        "id": "achievement-112",
+        "name": "I'm in my Element(s)",
+        "kind": "trophy",
+        "chapterId": "travel-and-tournaments",
+        "where": "Pass through every Terrain, including naval, whilst on the same Travel"
+      },
+      {
+        "id": "achievement-113",
+        "name": "Ahab",
+        "kind": "trophy",
+        "chapterId": "travel-and-tournaments",
+        "where": "Succeed at a Legendary Hunt"
+      },
+      {
+        "id": "achievement-114",
+        "name": "Little William Marshal",
+        "kind": "trophy",
+        "chapterId": "travel-and-tournaments",
+        "where": "Win every Contest at a Grand Tournament with at least three Contests"
+      },
+      {
+        "id": "achievement-115",
+        "name": "A True and Perfect Knight",
+        "kind": "trophy",
+        "chapterId": "travel-and-tournaments",
+        "where": "Have a max rank Acclaimed Knight with the Warrior of the Faith Trait"
+      },
+      {
+        "id": "achievement-116",
+        "name": "A.E.I.O.U. and Me",
+        "kind": "trophy",
+        "chapterId": "travel-and-tournaments",
+        "where": "Starting as the Habsburgs, rule the Archduchy of Austria, plan 5+ Grand Weddings and don't wage War"
+      },
+      {
+        "id": "achievement-117",
+        "name": "The Iron and Golden King",
+        "kind": "trophy",
+        "chapterId": "travel-and-tournaments",
+        "where": "Have a capital Barony with 60+ income, a stationed 500+ Heavy Cavalry Regiment and a mine"
+      },
+      {
+        "id": "achievement-118",
+        "name": "Royal Flush",
+        "kind": "trophy",
+        "chapterId": "persia-and-legends",
+        "where": "As a character of a faith with the Fadaeyeen Doctrine, dispose of a Lowborn, a King and an Emperor"
+      },
+      {
+        "id": "achievement-119",
+        "name": "Fiscal Responsibility",
+        "kind": "trophy",
+        "chapterId": "persia-and-legends",
+        "where": "Fill Five Tax Collector slots with excellent Aptitude characters"
+      },
+      {
+        "id": "achievement-120",
+        "name": "Iranian Revival",
+        "kind": "trophy",
+        "chapterId": "persia-and-legends",
+        "where": "Take the Iranian Resurgence ending in the Iranian Intermezzo Struggle"
+      },
+      {
+        "id": "achievement-121",
+        "name": "Abbasid Might",
+        "kind": "trophy",
+        "chapterId": "persia-and-legends",
+        "where": "Take the Renew Caliphate ending in the Iranian Intermezzo Struggle"
+      },
+      {
+        "id": "achievement-122",
+        "name": "Darius' Revenge",
+        "kind": "trophy",
+        "chapterId": "persia-and-legends",
+        "where": "As a character of Iranian Heritage, hold the Empire of Persia, Kingdom of Thessalonika, and Kingdom of Hellas"
+      },
+      {
+        "id": "achievement-123",
+        "name": "Mulct Them Dry",
+        "kind": "trophy",
+        "chapterId": "persia-and-legends",
+        "where": "Loot four Illustrious-Tier Vizier Extravagance Modifiers from your Vizier"
+      },
+      {
+        "id": "achievement-124",
+        "name": "Rich in Diversity",
+        "kind": "trophy",
+        "chapterId": "persia-and-legends",
+        "where": "As a character of a Faith with Jizya or Tax Nonbelievers Doctrines, have ten Vassals of other faiths"
+      },
+      {
+        "id": "achievement-125",
+        "name": "The Ummayad Strikes Back",
+        "kind": "trophy",
+        "chapterId": "persia-and-legends",
+        "where": "Starting as a member of the Umayyad Dynasty, hold the Empire of Arabia and the Sunni Caliphate"
+      },
+      {
+        "id": "achievement-126",
+        "name": "Shia Reborn",
+        "kind": "trophy",
+        "chapterId": "persia-and-legends",
+        "where": "Take the 'Found a New Caliphate' foundation as part of the Abbassid Humiliation ending in the Iranian Intermezzo Struggle"
+      },
+      {
+        "id": "achievement-127",
+        "name": "All Your Caliphate Are Belong To Us",
+        "kind": "trophy",
+        "chapterId": "persia-and-legends",
+        "where": "Take the 'Dominate the Caliph' foundation as part of the Abbasid Humiliation ending in the Iranian Intermezzo Struggle"
+      },
+      {
+        "id": "achievement-128",
+        "name": "Not Today",
+        "kind": "trophy",
+        "chapterId": "persia-and-legends",
+        "where": "Contract, and recover from, the Bubonic Plague"
+      },
+      {
+        "id": "achievement-129",
+        "name": "Divine Right",
+        "kind": "trophy",
+        "chapterId": "persia-and-legends",
+        "where": "Reach the maximum level of Legitimacy"
+      },
+      {
+        "id": "achievement-130",
+        "name": "You'll Never Take Me Alive!",
+        "kind": "trophy",
+        "chapterId": "persia-and-legends",
+        "where": "Travel to a safe holding while your Capital is infected by a Epidemic"
+      },
+      {
+        "id": "achievement-131",
+        "name": "The Pharaoh Islands",
+        "kind": "trophy",
+        "chapterId": "persia-and-legends",
+        "where": "As a Scottish character, complete a Legend claiming your descent from Ancient Egypt"
+      },
+      {
+        "id": "achievement-132",
+        "name": "Canonized",
+        "kind": "trophy",
+        "chapterId": "persia-and-legends",
+        "where": "Manage to make your Legend Protagonist a Saint"
+      },
+      {
+        "id": "achievement-133",
+        "name": "Upward Mobility",
+        "kind": "trophy",
+        "chapterId": "persia-and-legends",
+        "where": "Successfully claim your Liege's title while having a higher Legitimacy Level than them"
+      },
+      {
+        "id": "achievement-134",
+        "name": "Can't Touch This",
+        "kind": "trophy",
+        "chapterId": "persia-and-legends",
+        "where": "Have an infected Barony at the maximum Epidemic Resistance"
+      },
+      {
+        "id": "achievement-135",
+        "name": "Legendary!",
+        "kind": "trophy",
+        "chapterId": "persia-and-legends",
+        "where": "Complete a Legend"
+      },
+      {
+        "id": "achievement-136",
+        "name": "Pay Respects",
+        "kind": "trophy",
+        "chapterId": "persia-and-legends",
+        "where": "Host a Funeral for your Legend Protagonist"
+      },
+      {
+        "id": "achievement-137",
+        "name": "Local Legend",
+        "kind": "trophy",
+        "chapterId": "persia-and-legends",
+        "where": "As a Count, complete a Mythical Legend"
+      },
+      {
+        "id": "achievement-138",
+        "name": "Neverending Story",
+        "kind": "trophy",
+        "chapterId": "persia-and-legends",
+        "where": "Complete your ancestor's Legend after their death"
+      },
+      {
+        "id": "achievement-139",
+        "name": "The old man of the mountain",
+        "kind": "trophy",
+        "chapterId": "adventurers-and-byzantium",
+        "where": "Complete Hassan-i Sabahs unique content by destroying an Empire"
+      },
+      {
+        "id": "achievement-140",
+        "name": "Band of Brothers",
+        "kind": "trophy",
+        "chapterId": "adventurers-and-byzantium",
+        "where": "Have every camp followers temperament be positive and have at least 10 camp followers"
+      },
+      {
+        "id": "achievement-141",
+        "name": "Mio Cid",
+        "kind": "trophy",
+        "chapterId": "adventurers-and-byzantium",
+        "where": "Complete El Cid's unique content with the 'An Honorable Man' ending"
+      },
+      {
+        "id": "achievement-142",
+        "name": "Birthright",
+        "kind": "trophy",
+        "chapterId": "adventurers-and-byzantium",
+        "where": "As a Legitimist Adventurer, win a claim war for a Kingdom or Empire"
+      },
+      {
+        "id": "achievement-143",
+        "name": "Historically Inaccurate",
+        "kind": "trophy",
+        "chapterId": "adventurers-and-byzantium",
+        "where": "Choose to set out on an Adventure as a spawned Historical Character"
+      },
+      {
+        "id": "achievement-144",
+        "name": "Quantum Leap",
+        "kind": "trophy",
+        "chapterId": "adventurers-and-byzantium",
+        "where": "Choose a New Destiny 5 times in the same campaign"
+      },
+      {
+        "id": "achievement-145",
+        "name": "Kingdom of Heaven",
+        "kind": "trophy",
+        "chapterId": "adventurers-and-byzantium",
+        "where": "As Baudouin of Jerusalem in 1178, defeat Saladin in a war"
+      },
+      {
+        "id": "achievement-146",
+        "name": "New Management, same as the Old Management",
+        "kind": "trophy",
+        "chapterId": "adventurers-and-byzantium",
+        "where": "As an Islamic Sultanate of Rum, adopt Administrative Government while owning Constantinople"
+      },
+      {
+        "id": "achievement-147",
+        "name": "Rags to Riches to Rags to Riches",
+        "kind": "trophy",
+        "chapterId": "adventurers-and-byzantium",
+        "where": "Starting as a Count, rule an Empire, become an Adventurer, then rule an Empire again"
+      },
+      {
+        "id": "achievement-148",
+        "name": "Tamar Mepe",
+        "kind": "trophy",
+        "chapterId": "adventurers-and-byzantium",
+        "where": "As Princess Tamar, rule all of Georgia and fully Conquer Armenia and Daylam"
+      },
+      {
+        "id": "achievement-149",
+        "name": "Despoiler of Byzantium",
+        "kind": "trophy",
+        "chapterId": "adventurers-and-byzantium",
+        "where": "Become the Emperor of a newly-formed Latin Empire through a Crusade"
+      },
+      {
+        "id": "achievement-150",
+        "name": "Chaos is a Ladder",
+        "kind": "trophy",
+        "chapterId": "adventurers-and-byzantium",
+        "where": "Become a Dominant Family within Byzantium"
+      },
+      {
+        "id": "achievement-151",
+        "name": "Epic Paperwork",
+        "kind": "trophy",
+        "chapterId": "adventurers-and-byzantium",
+        "where": "Adopt the Administrative Government via Decision"
+      },
+      {
+        "id": "achievement-152",
+        "name": "Against the Odds",
+        "kind": "trophy",
+        "chapterId": "adventurers-and-byzantium",
+        "where": "Starting in 1178, Re-Establish the Theodosian Borders"
+      },
+      {
+        "id": "achievement-153",
+        "name": "In Good Estate",
+        "kind": "trophy",
+        "chapterId": "adventurers-and-byzantium",
+        "where": "Upgrade your Estate with a lvl 5 Villa and fill all external slots"
+      },
+      {
+        "id": "achievement-154",
+        "name": "It's OK, I Got a Permit",
+        "kind": "trophy",
+        "chapterId": "adventurers-and-byzantium",
+        "where": "As a non-Powerful family, buy a Remit and successfully Raid the Estate of a Powerful Family"
+      },
+      {
+        "id": "achievement-155",
+        "name": "Despotic",
+        "kind": "trophy",
+        "chapterId": "adventurers-and-byzantium",
+        "where": "As Co-Emperor, rule a Despotate"
+      },
+      {
+        "id": "achievement-156",
+        "name": "Byzywork",
+        "kind": "trophy",
+        "chapterId": "adventurers-and-byzantium",
+        "where": "Have five simultaneous House members as Theme governors (not including you) while not being the Emperor"
+      },
+      {
+        "id": "achievement-157",
+        "name": "Not Content to Serve",
+        "kind": "trophy",
+        "chapterId": "adventurers-and-byzantium",
+        "where": "In 1178, start as the Palaiologos and become Emperors of Byzantium"
+      },
+      {
+        "id": "achievement-158",
+        "name": "Started from the Bottom now we're ERE",
+        "kind": "trophy",
+        "chapterId": "adventurers-and-byzantium",
+        "where": "As an Adventurer, buy an Estate in Byzantium and lead your line to become Emperors"
+      },
+      {
+        "id": "achievement-159",
+        "name": "The Stallion that Mounts the World",
+        "kind": "trophy",
+        "chapterId": "steppe-and-east",
+        "where": "Starting as Temüjin, conquer the world"
+      },
+      {
+        "id": "achievement-160",
+        "name": "Nobody's Business",
+        "kind": "trophy",
+        "chapterId": "steppe-and-east",
+        "where": "Use Overrun Realm CB and settle your people outside the Steppe"
+      },
+      {
+        "id": "achievement-161",
+        "name": "Tribute Band",
+        "kind": "trophy",
+        "chapterId": "steppe-and-east",
+        "where": "Have 30 Tributaries"
+      },
+      {
+        "id": "achievement-162",
+        "name": "This Chinggis Everything",
+        "kind": "trophy",
+        "chapterId": "steppe-and-east",
+        "where": "Become the Greatest of Khans"
+      },
+      {
+        "id": "achievement-163",
+        "name": "Steppe by Steppe",
+        "kind": "trophy",
+        "chapterId": "steppe-and-east",
+        "where": "Migrate from the eastern Steppe to the western Steppe"
+      },
+      {
+        "id": "achievement-164",
+        "name": "In Xanadu",
+        "kind": "trophy",
+        "chapterId": "steppe-and-east",
+        "where": "Build a Pleasure Dome"
+      },
+      {
+        "id": "achievement-165",
+        "name": "Settling In",
+        "kind": "trophy",
+        "chapterId": "steppe-and-east",
+        "where": "Settle in the Steppe"
+      },
+      {
+        "id": "achievement-166",
+        "name": "Blood of my Blood",
+        "kind": "trophy",
+        "chapterId": "steppe-and-east",
+        "where": "Become Blood Brothers"
+      },
+      {
+        "id": "achievement-167",
+        "name": "Con-fed-up",
+        "kind": "trophy",
+        "chapterId": "steppe-and-east",
+        "where": "Form a Confederation"
+      },
+      {
+        "id": "achievement-168",
+        "name": "Shut Up, Nerge",
+        "kind": "trophy",
+        "chapterId": "steppe-and-east",
+        "where": "Host an Excellent Nerge"
+      },
+      {
+        "id": "achievement-169",
+        "name": "Fishing in China",
+        "kind": "trophy",
+        "chapterId": "steppe-and-east",
+        "where": "Starting as Jarl Hæsteinn in 867, become Hegemon of China"
+      },
+      {
+        "id": "achievement-170",
+        "name": "The Heavenly Kingdom",
+        "kind": "trophy",
+        "chapterId": "steppe-and-east",
+        "where": "Claim the Mandate of Heaven as the Head of Faith of a Christian faith"
+      },
+      {
+        "id": "achievement-171",
+        "name": "Sword of Japan",
+        "kind": "trophy",
+        "chapterId": "steppe-and-east",
+        "where": "Starting as the Chrysanthemum Throne, restore direct imperial rule"
+      },
+      {
+        "id": "achievement-172",
+        "name": "A Living God on Earth",
+        "kind": "trophy",
+        "chapterId": "steppe-and-east",
+        "where": "As a Mandala ruler, have a Godlike level of piety, rule an empire, and have 100 radiance"
+      },
+      {
+        "id": "achievement-173",
+        "name": "Grand Governor",
+        "kind": "trophy",
+        "chapterId": "steppe-and-east",
+        "where": "Starting as landless, work your way up to becoming a Minister in China"
+      },
+      {
+        "id": "achievement-174",
+        "name": "Mandate of Heaven",
+        "kind": "trophy",
+        "chapterId": "steppe-and-east",
+        "where": "Claim the Hegemony of China and choose a name for your new Imperial Dynasty"
+      },
+      {
+        "id": "achievement-175",
+        "name": "Cut off the Head... and the Body will Follow",
+        "kind": "trophy",
+        "chapterId": "steppe-and-east",
+        "where": "Successfully use the Eradicate Casus Belli against a House that you have a Feuding Relation with"
+      },
+      {
+        "id": "achievement-176",
+        "name": "Shōgun",
+        "kind": "trophy",
+        "chapterId": "steppe-and-east",
+        "where": "Become Shōgun, holding the Empire of Japan, as Minamoto no Yoritomo in 1178"
+      },
+      {
+        "id": "achievement-177",
+        "name": "Devaraja",
+        "kind": "trophy",
+        "chapterId": "steppe-and-east",
+        "where": "Max out your mandala Aspect and have a Grand Temple Complex"
+      },
+      {
+        "id": "achievement-178",
+        "name": "Confucian Scholar",
+        "kind": "trophy",
+        "chapterId": "steppe-and-east",
+        "where": "Finish the Confucian Education track and have 5 disciples"
+      },
+      {
+        "id": "achievement-179",
+        "name": "Bloc Politics",
+        "kind": "trophy",
+        "chapterId": "steppe-and-east",
+        "where": "Have max cohesion in your Bloc"
+      },
+      {
+        "id": "achievement-180",
+        "name": "Upper-upper",
+        "kind": "trophy",
+        "chapterId": "steppe-and-east",
+        "where": "Reach the highest level of Merit"
+      },
+      {
+        "id": "achievement-181",
+        "name": "How it's done, done, done",
+        "kind": "trophy",
+        "chapterId": "steppe-and-east",
+        "where": "Take the Unite the Husamguk decision"
+      },
+      {
+        "id": "achievement-182",
+        "name": "Daits How You Do It",
+        "kind": "trophy",
+        "chapterId": "steppe-and-east",
+        "where": "Found the Dai Viet Empire"
+      },
+      {
+        "id": "achievement-183",
+        "name": "Humble Beginnings",
+        "kind": "trophy",
+        "chapterId": "steppe-and-east",
+        "where": "As a Wanua ruler, adopt Mandala government through your Suzerain, and build a Capital Complex"
+      },
+      {
+        "id": "achievement-184",
+        "name": "Flying Colors",
+        "kind": "trophy",
+        "chapterId": "steppe-and-east",
+        "where": "Pass all Exams with one character"
+      },
+      {
+        "id": "achievement-185",
+        "name": "Highway of Ideas",
+        "kind": "trophy",
+        "chapterId": "steppe-and-east",
+        "where": "Starting as a ruler of a culture with no Silk Road Innovations, discover a Silk Road Innovation"
+      },
+      {
+        "id": "achievement-186",
+        "name": "Yes I need, I need my Samurai",
+        "kind": "trophy",
+        "chapterId": "steppe-and-east",
+        "where": "Adopt Sōryō government as a Ritsuryō ruler"
+      },
+      {
+        "id": "achievement-187",
+        "name": "Stamp of Approval",
+        "kind": "trophy",
+        "chapterId": "steppe-and-east",
+        "where": "Starting as a character that has not passed any Exam, pass an Exam in China"
+      },
+      {
+        "id": "achievement-188",
+        "name": "Promised Land",
+        "kind": "trophy",
+        "chapterId": "steppe-and-east",
+        "where": "Permit a group of religious exiles to settle in your realm"
+      },
+      {
+        "id": "achievement-189",
+        "name": "The Two Swords",
+        "kind": "trophy",
+        "chapterId": "church-and-papacy",
+        "where": "Have both the Holy Roman Emperor and the Pope as your Puppets at the same time"
+      },
+      {
+        "id": "achievement-190",
+        "name": "Guido's Guiding Light",
+        "kind": "trophy",
+        "chapterId": "church-and-papacy",
+        "where": "Starting as Archbishop Guido of Milan, become Antipope and make the Ambrosian Rite the mainline rite"
+      },
+      {
+        "id": "achievement-191",
+        "name": "Servus Servorum Dei",
+        "kind": "trophy",
+        "chapterId": "church-and-papacy",
+        "where": "Starting as a Duke-or-lower secular ruler, or a Count-tier cleric, become the Pope"
+      },
+      {
+        "id": "achievement-192",
+        "name": "Papal Bull",
+        "kind": "trophy",
+        "chapterId": "church-and-papacy",
+        "where": "Make your Puppet Pope sleep with your spouse"
+      },
+      {
+        "id": "achievement-193",
+        "name": "The Father, the Son, and the Holy Grandson",
+        "kind": "trophy",
+        "chapterId": "church-and-papacy",
+        "where": "As a Theocrat, establish a Dynasty and hold an Archbishopric for three generations"
+      },
+      {
+        "id": "achievement-194",
+        "name": "Where There's a Will",
+        "kind": "trophy",
+        "chapterId": "church-and-papacy",
+        "where": "Demand Church Succession from another ruler, then murder them and inherit their lands"
+      },
+      {
+        "id": "achievement-195",
+        "name": "Home See Advantage",
+        "kind": "trophy",
+        "chapterId": "church-and-papacy",
+        "where": "As an Archbishop, change a tenet or doctrine at an Ecumenical Council hosted in your own Cathedral"
+      },
+      {
+        "id": "achievement-196",
+        "name": "Cardinal Sin",
+        "kind": "trophy",
+        "chapterId": "church-and-papacy",
+        "where": "Starting as a non-Clergy ruler, have five members of your dynasty as Cardinals at the same time"
+      },
+      {
+        "id": "achievement-197",
+        "name": "Father's best side",
+        "kind": "trophy",
+        "chapterId": "church-and-papacy",
+        "where": "Enshrine a relic taken from a saint of your own family in a Holy Site your Dynasty founded"
+      },
+      {
+        "id": "achievement-198",
+        "name": "Holier Than Thou",
+        "kind": "trophy",
+        "chapterId": "church-and-papacy",
+        "where": "Have three Personal Tenets and 100 Spiritual Fulfillment at the same time"
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/crusader-kings-iii",
+    "Achievement data from Steam (Steam Web API, app 1158310)",
+    "StrategyWiki: no page for this game, nothing used",
+    "Fandom unavailable (no page under this title), marked unverified"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). Strategy game, so chapters follow the content groups the achievements show rather than a story. None of the 198 Steam achievements is hidden. Their Steam API names carry prefixes that look like add-on codenames (fp1, fp2, fp3, ep1 to ep4, ce1, ce3 and mpo, with no prefix for the 56 base-game ones); chapters group achievements by those prefixes by exact name and are titled from what their descriptions talk about, because the add-on names themselves were not in the fetched data. Pairs merged to stay within 9 chapters: fp1 with fp2, fp3 with ce1, mpo with ep4. Base-game achievements are split by description: those that begin \"Starting as\" or \"As ...\" (except \"As any one character\"), plus restoring the Roman Empire and playing until 1453, go to the historic starts chapter. StrategyWiki has no page under \"Crusader Kings III\" or \"Crusader Kings 3\". On Fandom, ck3.fandom.com returns HTTP 404 and crusaderkings.fandom.com answers the API but has no \"Crusader Kings III\" page, so Fandom is marked unverified. RAWG spells the developer \"Paradox Developement Studios\"."
+}

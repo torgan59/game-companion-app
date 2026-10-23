@@ -1,0 +1,443 @@
+{
+  "id": "tekken-7",
+  "title": "TEKKEN 7",
+  "year": 2015,
+  "platforms": [
+    "PlayStation 4",
+    "PC",
+    "Xbox One"
+  ],
+  "rawgId": 36,
+  "rawgSlug": "tekken-7",
+  "released": "2015-03-18",
+  "developers": [
+    "BANDAI NAMCO Entertainment America",
+    "Bandai Namco Entertainment"
+  ],
+  "playtime": 7,
+  "genres": [
+    "Action",
+    "Sports",
+    "Fighting"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Multiplayer",
+    "Full controller support",
+    "Steam Cloud",
+    "Atmospheric",
+    "steam-trading-cards",
+    "Great Soundtrack",
+    "Co-op",
+    "Story Rich",
+    "Third Person",
+    "Difficult"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/62b/62b035add7205737540d66e082b85930.jpg",
+  "steamAppId": 389730,
+  "achievements": {
+    "total": 42,
+    "hidden": 1,
+    "examples": [
+      {
+        "name": "There's Nowhere To Run. Give Up!",
+        "percent": 81.7
+      },
+      {
+        "name": "Elegance At Its Purest",
+        "percent": 75.0
+      },
+      {
+        "name": "Power Is Everything!",
+        "percent": 74.6
+      },
+      {
+        "name": "Wow, I'm Pretty Strong!",
+        "percent": 17.0
+      },
+      {
+        "name": "Just Relax, You Can Do It",
+        "percent": 15.8
+      },
+      {
+        "name": "I Demand To Know The Truth!",
+        "percent": 15.7
+      },
+      {
+        "name": "Lightning Of Fate",
+        "percent": 11.0
+      },
+      {
+        "name": "Okay! I'm Ready!",
+        "percent": 5.8
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Tekken_7",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 211,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://tekken.fandom.com/wiki/Tekken_7"
+    }
+  },
+  "game": {
+    "id": "tekken-7",
+    "title": "TEKKEN 7",
+    "platforms": [
+      "PlayStation 4",
+      "PC",
+      "Xbox One"
+    ],
+    "blurb": "Fighting game from Bandai Namco Entertainment, released 2015-03-18. RAWG average playtime: 7 hours. Genres: Action, Sports, Fighting. Chapters follow the game modes named in the Steam achievements.",
+    "accent": "#B22222",
+    "chapters": [
+      {
+        "id": "story",
+        "title": "Story and Character Episodes",
+        "summary": "The main story from the prologue through Chapters 1, 8 and 13 to the epilogue, plus the Character Episode stories.",
+        "steps": []
+      },
+      {
+        "id": "treasure-and-arcade",
+        "title": "Treasure Battle, Arcade and Fight Money",
+        "summary": "Treasure Battle streaks and special matches, treasure boxes, beating Akuma and Devil Kazumi, and earning G.",
+        "steps": []
+      },
+      {
+        "id": "online",
+        "title": "Online Play",
+        "summary": "Ranked and player matches, online tournaments and online battle counts.",
+        "steps": []
+      },
+      {
+        "id": "ranks",
+        "title": "Ranks and Mastery",
+        "summary": "Promotions from 1st dan to Warrior, beating higher-ranked opponents, and the hidden mastery achievement.",
+        "steps": []
+      },
+      {
+        "id": "techniques",
+        "title": "Techniques and Stages",
+        "summary": "Perfect and great victories, combos, screws, power crushes, Rage Arts and Rage Drives, breaking floors and balconies, and practice.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Yeah! I Did It!",
+        "kind": "trophy",
+        "chapterId": "online",
+        "where": "Won a ranked match online."
+      },
+      {
+        "id": "achievement-2",
+        "name": "Not Bad",
+        "kind": "trophy",
+        "chapterId": "online",
+        "where": "Won a player match online."
+      },
+      {
+        "id": "achievement-3",
+        "name": "Okay! I'm Ready!",
+        "kind": "trophy",
+        "chapterId": "online",
+        "where": "Won a battle in online tournament."
+      },
+      {
+        "id": "achievement-4",
+        "name": "Come And Get Some, I Dare You!",
+        "kind": "trophy",
+        "chapterId": "online",
+        "where": "Fought ten online battles."
+      },
+      {
+        "id": "achievement-5",
+        "name": "Instant Annihilation",
+        "kind": "trophy",
+        "chapterId": "treasure-and-arcade",
+        "where": "Won three times consecutively in Treasure Battle."
+      },
+      {
+        "id": "achievement-6",
+        "name": "Wow, I'm Pretty Strong!",
+        "kind": "trophy",
+        "chapterId": "treasure-and-arcade",
+        "where": "Won three special matches in Treasure Battle."
+      },
+      {
+        "id": "achievement-7",
+        "name": "Cool!",
+        "kind": "trophy",
+        "chapterId": "treasure-and-arcade",
+        "where": "Obtained 20 treasure boxes."
+      },
+      {
+        "id": "achievement-8",
+        "name": "Let's Do This",
+        "kind": "trophy",
+        "chapterId": "story",
+        "where": "Finished Chapter 1 of the main story."
+      },
+      {
+        "id": "achievement-9",
+        "name": "You Think You're Tougher Than Me?",
+        "kind": "trophy",
+        "chapterId": "story",
+        "where": "Finished the prologue of the main story."
+      },
+      {
+        "id": "achievement-10",
+        "name": "You Challenge Me?!",
+        "kind": "trophy",
+        "chapterId": "story",
+        "where": "Finished Chapter 8 of the main story."
+      },
+      {
+        "id": "achievement-11",
+        "name": "I Can't Accept This Fate",
+        "kind": "trophy",
+        "chapterId": "story",
+        "where": "Finished Chapter 13 of the main story."
+      },
+      {
+        "id": "achievement-12",
+        "name": "It's Time For You To Meet Your End!",
+        "kind": "trophy",
+        "chapterId": "story",
+        "where": "Watched the epilogue of the main story."
+      },
+      {
+        "id": "achievement-13",
+        "name": "I Demand To Know The Truth!",
+        "kind": "trophy",
+        "chapterId": "story",
+        "where": "Finished three Character Episode stories."
+      },
+      {
+        "id": "achievement-14",
+        "name": "Lightning Of Fate",
+        "kind": "trophy",
+        "chapterId": "story",
+        "where": "Finished 10 Character Episode stories."
+      },
+      {
+        "id": "achievement-15",
+        "name": "No Pain, No Gain",
+        "kind": "trophy",
+        "chapterId": "techniques",
+        "where": "Dealt 50,000 damage in Practice mode."
+      },
+      {
+        "id": "achievement-16",
+        "name": "I've Finally Found You!",
+        "kind": "trophy",
+        "chapterId": "treasure-and-arcade",
+        "where": "Obtained 50 treasure boxes."
+      },
+      {
+        "id": "achievement-17",
+        "name": "The Prosperous Inevitably Decline",
+        "kind": "trophy",
+        "chapterId": "treasure-and-arcade",
+        "where": "Beat Akuma in an Arcade Battle or a Special Match in Treasure Battle."
+      },
+      {
+        "id": "achievement-18",
+        "name": "Fear My Wrath",
+        "kind": "trophy",
+        "chapterId": "treasure-and-arcade",
+        "where": "Beat Devil Kazumi in an Arcade Battle or a Special Match in Treasure Battle."
+      },
+      {
+        "id": "achievement-19",
+        "name": "Don't Take It Personally",
+        "kind": "trophy",
+        "chapterId": "techniques",
+        "where": "Achieved a perfect victory. (Excluding offline VS Battle)"
+      },
+      {
+        "id": "achievement-20",
+        "name": "You Fought Well",
+        "kind": "trophy",
+        "chapterId": "techniques",
+        "where": "Achieved a great victory. (Excluding offline VS Battle)"
+      },
+      {
+        "id": "achievement-21",
+        "name": "There's Nowhere To Run. Give Up!",
+        "kind": "trophy",
+        "chapterId": "techniques",
+        "where": "Dealt 10 homing attacks. (Excluding offline VS Battle)"
+      },
+      {
+        "id": "achievement-22",
+        "name": "I'll Kick Your Butt To Hell And Back",
+        "kind": "trophy",
+        "chapterId": "techniques",
+        "where": "Dealt 70+ damage in an air combo. (Excluding offline VS Battle)"
+      },
+      {
+        "id": "achievement-23",
+        "name": "Just Relax, You Can Do It",
+        "kind": "trophy",
+        "chapterId": "techniques",
+        "where": "Performed three 10 hit combos. (Excluding offline VS Battle)"
+      },
+      {
+        "id": "achievement-24",
+        "name": "Elegance At Its Purest",
+        "kind": "trophy",
+        "chapterId": "techniques",
+        "where": "Triggered 10 screws. (Excluding offline VS Battle)"
+      },
+      {
+        "id": "achievement-25",
+        "name": "Power Is Everything!",
+        "kind": "trophy",
+        "chapterId": "techniques",
+        "where": "Dealt 10 power crushes. (Excluding offline VS Battle)"
+      },
+      {
+        "id": "achievement-26",
+        "name": "Overdrive!",
+        "kind": "trophy",
+        "chapterId": "techniques",
+        "where": "Dealt 10 Rage Drives. (Excluding offline VS Battle)"
+      },
+      {
+        "id": "achievement-27",
+        "name": "We Settle This Now!",
+        "kind": "trophy",
+        "chapterId": "techniques",
+        "where": "Dealt 20 Rage Arts. (Excluding offline VS Battle)"
+      },
+      {
+        "id": "achievement-28",
+        "name": "Stun Gun!",
+        "kind": "trophy",
+        "chapterId": "techniques",
+        "where": "Snatched victory from the jaws of defeat 5 times with Rage Art. (Excluding offline VS Battle)"
+      },
+      {
+        "id": "achievement-29",
+        "name": "This Should Be Fun",
+        "kind": "trophy",
+        "chapterId": "ranks",
+        "where": "Got promoted to 1st dan."
+      },
+      {
+        "id": "achievement-30",
+        "name": "Your Technique Is Impressive",
+        "kind": "trophy",
+        "chapterId": "ranks",
+        "where": "Got promoted to Initiate."
+      },
+      {
+        "id": "achievement-31",
+        "name": "Roar! (Nice Moves!)",
+        "kind": "trophy",
+        "chapterId": "ranks",
+        "where": "Got promoted to Brawler."
+      },
+      {
+        "id": "achievement-32",
+        "name": "Hot-Blooded Fighter",
+        "kind": "trophy",
+        "chapterId": "ranks",
+        "where": "Got promoted to Warrior."
+      },
+      {
+        "id": "achievement-33",
+        "name": "Anger Of The Beast",
+        "kind": "trophy",
+        "chapterId": "techniques",
+        "where": "Dealt an overall total of 1,000 damage while in rage mode. (Excluding offline VS Battle)"
+      },
+      {
+        "id": "achievement-34",
+        "name": "Sturdy And Indestructible",
+        "kind": "trophy",
+        "chapterId": "techniques",
+        "where": "Blocked 5 Rage Arts. (Excluding offline VS Battle)"
+      },
+      {
+        "id": "achievement-35",
+        "name": "Don't Hold Anything Back",
+        "kind": "trophy",
+        "chapterId": "ranks",
+        "where": "Defeated 20 opponents of a higher rank."
+      },
+      {
+        "id": "achievement-36",
+        "name": "Destructive Drive",
+        "kind": "trophy",
+        "chapterId": "techniques",
+        "where": "Performed a floor-breaking move. (Excluding offline VS Battle)"
+      },
+      {
+        "id": "achievement-37",
+        "name": "Crushing Impact!",
+        "kind": "trophy",
+        "chapterId": "techniques",
+        "where": "Performed a balcony-breaking move. (Excluding offline VS Battle)"
+      },
+      {
+        "id": "achievement-38",
+        "name": "Going Somewhere?",
+        "kind": "trophy",
+        "chapterId": "techniques",
+        "where": "Reached the bottom floor of the Forgotten Realm stage. (Excluding offline VS Battle)"
+      },
+      {
+        "id": "achievement-39",
+        "name": "Please Don't Tell My Father",
+        "kind": "trophy",
+        "chapterId": "techniques",
+        "where": "Reached the deepest part of the Jungle Outpost stage. (Excluding offline VS Battle)"
+      },
+      {
+        "id": "achievement-40",
+        "name": "It's Just Business",
+        "kind": "trophy",
+        "chapterId": "treasure-and-arcade",
+        "where": "Obtained an overall total of 5,000,000G."
+      },
+      {
+        "id": "achievement-41",
+        "name": "Excellent",
+        "kind": "trophy",
+        "chapterId": "treasure-and-arcade",
+        "where": "Obtained an overall total of 10,000,000G."
+      },
+      {
+        "id": "achievement-42",
+        "name": "Master Of Iron Fist",
+        "kind": "trophy",
+        "chapterId": "ranks",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/tekken-7",
+    "Achievement data from Steam (Steam Web API, app 389730)",
+    "StrategyWiki: no usable walkthrough, nothing used — https://strategywiki.org/wiki/Tekken_7",
+    "Fandom (tekken.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://tekken.fandom.com/wiki/Tekken_7"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). Steam app 389730 returns an empty game name in its schema; the store list confirms it as \"TEKKEN 7\". StrategyWiki has \"Tekken 7\" at completion stage 0. Its Moves (about 224,000 characters) and Achievements and trophies pages are written, but Walkthrough and Gameplay are near-empty, and The Mishima Saga and Tekken Bowl pages are linked but not written, so it was not used. tekken.fandom.com answers the API under \"Tekken 7\" with about 211 linked articles; names only were looked at, nothing copied. 1 of 42 Steam achievements is hidden: \"Master Of Iron Fist\" (8.8%), API name TK_ACH_44, the last in the list. In a fighting game it is unlikely to be a story beat, so it sits in the ranks and mastery chapter as a guess. No achievement names an added fighter."
+}

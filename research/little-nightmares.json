@@ -1,0 +1,318 @@
+{
+  "id": "little-nightmares",
+  "title": "Little Nightmares",
+  "year": 2017,
+  "platforms": [
+    "iOS",
+    "PlayStation 4",
+    "PC",
+    "Xbox One",
+    "Nintendo Switch"
+  ],
+  "rawgId": 41,
+  "rawgSlug": "little-nightmares",
+  "released": "2017-04-27",
+  "developers": [
+    "BANDAI NAMCO Entertainment America",
+    "Playdigious",
+    "Tarsier Studios"
+  ],
+  "playtime": 3,
+  "genres": [
+    "Action",
+    "Adventure",
+    "Platformer"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Full controller support",
+    "Steam Cloud",
+    "Atmospheric",
+    "steam-trading-cards",
+    "Great Soundtrack",
+    "Story Rich",
+    "Third Person",
+    "Horror",
+    "Female Protagonist",
+    "Stealth"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/8a0/8a02f84a5916ede2f923b88d5f8217ba.jpg",
+  "steamAppId": 424840,
+  "achievements": {
+    "total": 22,
+    "hidden": 10,
+    "examples": [
+      {
+        "name": "The Prison",
+        "percent": 51.3
+      },
+      {
+        "name": "The Lair",
+        "percent": 36.7
+      },
+      {
+        "name": "The Kitchen",
+        "percent": 32.1
+      },
+      {
+        "name": "End in Sight",
+        "percent": 5.2
+      },
+      {
+        "name": "Little Lost Things",
+        "percent": 2.7
+      },
+      {
+        "name": "Not Alone",
+        "percent": 2.1
+      },
+      {
+        "name": "Is Anybody Out There?",
+        "percent": 2.0
+      },
+      {
+        "name": "Hard to the Core",
+        "percent": 1.6
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": false,
+      "pages": 0,
+      "reason": "No page for Little Nightmares (MediaWiki API returned missing; see notes for other titles tried)"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 47,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://littlenightmares.fandom.com/wiki/Little_Nightmares_(video_game)"
+    }
+  },
+  "game": {
+    "id": "little-nightmares",
+    "title": "Little Nightmares",
+    "platforms": [
+      "iOS",
+      "PlayStation 4",
+      "PC",
+      "Xbox One",
+      "Nintendo Switch"
+    ],
+    "blurb": "Puzzle-platformer horror adventure from Tarsier Studios (RAWG also lists Bandai Namco Entertainment America and Playdigious), released 2017-04-27. RAWG average playtime: 3 hours. Genres: Action, Adventure, Platformer. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#C9A227",
+    "chapters": [
+      {
+        "id": "the-prison",
+        "title": "The Prison",
+        "summary": "The Prison area of the Maw, and its area achievement.",
+        "steps": []
+      },
+      {
+        "id": "the-lair",
+        "title": "The Lair",
+        "summary": "The Lair area of the Maw, and its area achievement.",
+        "steps": []
+      },
+      {
+        "id": "the-kitchen",
+        "title": "The Kitchen",
+        "summary": "The Kitchen and its chefs, and the area achievement.",
+        "steps": []
+      },
+      {
+        "id": "the-guest-area",
+        "title": "The Guest Area",
+        "summary": "The Guest Area, and its area achievement.",
+        "steps": []
+      },
+      {
+        "id": "the-ladys-quarters",
+        "title": "The Lady's Quarters",
+        "summary": "The Lady's Quarters, and its area achievement. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "collectibles",
+        "title": "Collectibles: Lost Things and Lights",
+        "summary": "The two collectible achievements whose hints mention kindness and lights.",
+        "steps": []
+      },
+      {
+        "id": "secrets-and-extras",
+        "title": "Hidden Secrets and Extra Challenges",
+        "summary": "Hidden achievements, and visible ones with cryptic hints and low unlock rates. Spoiler-guarded.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Little Lost Things",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Kindness will be your undoing!"
+      },
+      {
+        "id": "achievement-2",
+        "name": "Kitchen Hand",
+        "kind": "trophy",
+        "chapterId": "secrets-and-extras",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-3",
+        "name": "Highly Sprung",
+        "kind": "trophy",
+        "chapterId": "secrets-and-extras",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-4",
+        "name": "Rascal",
+        "kind": "trophy",
+        "chapterId": "secrets-and-extras",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-5",
+        "name": "Light Up Your Life",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Not all lights can be trusted, but these should be quite safe!"
+      },
+      {
+        "id": "achievement-6",
+        "name": "The Prison",
+        "kind": "trophy",
+        "chapterId": "the-prison",
+        "where": "Look how the canary has flown its cage!"
+      },
+      {
+        "id": "achievement-7",
+        "name": "The Lair",
+        "kind": "trophy",
+        "chapterId": "the-lair",
+        "where": "Little lost things sometimes find their way home."
+      },
+      {
+        "id": "achievement-8",
+        "name": "The Kitchen",
+        "kind": "trophy",
+        "chapterId": "the-kitchen",
+        "where": "The Chefs will miss you!"
+      },
+      {
+        "id": "achievement-9",
+        "name": "The Guest Area",
+        "kind": "trophy",
+        "chapterId": "the-guest-area",
+        "where": "Little fox among hungry wolves!"
+      },
+      {
+        "id": "achievement-10",
+        "name": "The Lady's Quarters",
+        "kind": "trophy",
+        "chapterId": "the-ladys-quarters",
+        "where": "A storm is coming. That coat should come in useful."
+      },
+      {
+        "id": "achievement-11",
+        "name": "Elusive",
+        "kind": "trophy",
+        "chapterId": "secrets-and-extras",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-12",
+        "name": "Six's Song",
+        "kind": "trophy",
+        "chapterId": "secrets-and-extras",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-13",
+        "name": "Hard to the Core",
+        "kind": "trophy",
+        "chapterId": "secrets-and-extras",
+        "where": "What’s different about you? Why are you so brave?"
+      },
+      {
+        "id": "achievement-14",
+        "name": "So Close",
+        "kind": "trophy",
+        "chapterId": "secrets-and-extras",
+        "where": "You'll do better next time."
+      },
+      {
+        "id": "achievement-15",
+        "name": "Not Alone",
+        "kind": "trophy",
+        "chapterId": "secrets-and-extras",
+        "where": "What's new with you?"
+      },
+      {
+        "id": "achievement-16",
+        "name": "Fun & Games Ahead",
+        "kind": "trophy",
+        "chapterId": "secrets-and-extras",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-17",
+        "name": "End in Sight",
+        "kind": "trophy",
+        "chapterId": "secrets-and-extras",
+        "where": "The final stretch will be largely uneventful."
+      },
+      {
+        "id": "achievement-18",
+        "name": "Is Anybody Out There?",
+        "kind": "trophy",
+        "chapterId": "secrets-and-extras",
+        "where": "I wish I could visit you there."
+      },
+      {
+        "id": "achievement-19",
+        "name": "Ashes in The Maw",
+        "kind": "trophy",
+        "chapterId": "secrets-and-extras",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-20",
+        "name": "We'll Meet Again",
+        "kind": "trophy",
+        "chapterId": "secrets-and-extras",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-21",
+        "name": "Ashes to Ashes",
+        "kind": "trophy",
+        "chapterId": "secrets-and-extras",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-22",
+        "name": "I'm Losing You",
+        "kind": "trophy",
+        "chapterId": "secrets-and-extras",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/little-nightmares",
+    "Achievement data from Steam (Steam Web API, app 424840)",
+    "StrategyWiki: no page for this game, nothing used",
+    "Fandom (littlenightmares.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://littlenightmares.fandom.com/wiki/Little_Nightmares_(video_game)"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). The Steam schema calls app 424840 \"ATLAS\" (an internal codename); the store list confirms it as \"Little Nightmares\". Achievement descriptions are cryptic hints rather than plain conditions, so chapters are matched by achievement name: the five area chapters come from five achievements named after areas, and those area names also appear as page names on Fandom. 10 of 22 Steam achievements are hidden. They sit with five visible achievements that have riddle-like hints and unlock rates of 1.6% to 6% (Hard to the Core, So Close, Not Alone, End in Sight, Is Anybody Out There?) in one secrets chapter, because the data does not say where they happen. RAWG lists three related entries (The Depths, The Hideaway, The Residence) and the Fandom page links \"Secrets of the Maw\", but nothing in the Steam data ties achievements to them, so there is no DLC chapter. StrategyWiki has no page under \"Little Nightmares\". On littlenightmares.fandom.com, \"Little Nightmares\" is a franchise page with 19 links; \"Little Nightmares (video game)\" has about 47 linked pages and was used; names only were looked at, nothing copied."
+}

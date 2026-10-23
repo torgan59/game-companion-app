@@ -1,0 +1,613 @@
+{
+  "id": "rage-2",
+  "title": "Rage 2",
+  "year": 2019,
+  "platforms": [
+    "PlayStation 4",
+    "Xbox One",
+    "PC"
+  ],
+  "rawgId": 58385,
+  "rawgSlug": "rage-2",
+  "released": "2019-05-14",
+  "developers": [
+    "id Software",
+    "Avalanche Studios",
+    "Virtuos",
+    "Goodbye Kansas Games",
+    "Passion Republic Games",
+    "Isbit Games"
+  ],
+  "playtime": 11,
+  "genres": [
+    "Action",
+    "Shooter",
+    "Racing"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Multiplayer",
+    "Atmospheric",
+    "Open World",
+    "cooperative",
+    "First-Person",
+    "Sci-fi",
+    "FPS",
+    "Gore",
+    "Exploration",
+    "Survival",
+    "Violent"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/662/66261db966238da20c306c4b78ae4603.jpg",
+  "steamAppId": 548570,
+  "achievements": {
+    "total": 64,
+    "hidden": 8,
+    "examples": [
+      {
+        "name": "The Enemy Of My Enemy",
+        "percent": 81.2
+      },
+      {
+        "name": "Over 9000",
+        "percent": 76.0
+      },
+      {
+        "name": "Unloaded",
+        "percent": 71.6
+      },
+      {
+        "name": "Off With Their Heads",
+        "percent": 2.4
+      },
+      {
+        "name": "Zipper",
+        "percent": 2.1
+      },
+      {
+        "name": "I am Death Incarnate!",
+        "percent": 1.9
+      },
+      {
+        "name": "Flying Skulls",
+        "percent": 1.8
+      },
+      {
+        "name": "Heavy Boots",
+        "percent": 1.6
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/RⒶGE_2",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 45,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://rage.fandom.com/wiki/RAGE_2"
+    }
+  },
+  "game": {
+    "id": "rage-2",
+    "title": "Rage 2",
+    "platforms": [
+      "PlayStation 4",
+      "Xbox One",
+      "PC"
+    ],
+    "blurb": "Open-world post-apocalyptic first-person shooter from Avalanche Studios and id Software (with Virtuos and others, as RAWG lists them), released 2019-05-14. RAWG average playtime: 11 hours. Genres: Action, Shooter, Racing. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#E0408A",
+    "chapters": [
+      {
+        "id": "main-story",
+        "title": "The Main Story",
+        "summary": "Story milestones across the wasteland, all hidden on Steam. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "wasteland",
+        "title": "Arks, EcoPods and the Wasteland",
+        "summary": "Arks, the EcoPods of the Dune Sea, Broken Tract, Wetlands and Wilds, Trade Coalition settlements, balloons and spy drones.",
+        "steps": []
+      },
+      {
+        "id": "weapons-and-powers",
+        "title": "Weapons, Abilities and Enemies",
+        "summary": "Weapon tricks, Overdrive, Dash Strike, Slam, Defibrillation, the Wingstick, drones and kill counts against tougher enemies.",
+        "steps": []
+      },
+      {
+        "id": "vehicles",
+        "title": "Vehicles, Convoys and Races",
+        "summary": "The Phoenix, the Raptor, jumps and distance, convoy leaders, the Torn Plains race, the Dumper Truck and the Booma tank.",
+        "steps": []
+      },
+      {
+        "id": "difficulty",
+        "title": "Nightmare, Ultra Nightmare and Ironman",
+        "summary": "Finishing the game on the hardest settings and in Ironman Mode.",
+        "steps": []
+      },
+      {
+        "id": "overgrown-city",
+        "title": "Overgrown City Missions",
+        "summary": "Four named missions, the Overgrown City EcoPod, two Ark locations, a rebuild project, air drops and Ghost Sanctuaries.",
+        "steps": []
+      },
+      {
+        "id": "bonetowers",
+        "title": "Bonetowers and the Skeletal Army",
+        "summary": "The five Bonetowers, returning the NECRODISC, and skeleton kills with the Sword of Transitus.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Efficiency",
+        "kind": "trophy",
+        "chapterId": "weapons-and-powers",
+        "where": "Use the Assault Rifle to kill 5 enemies in a row without reloading"
+      },
+      {
+        "id": "achievement-2",
+        "name": "Unloaded",
+        "kind": "trophy",
+        "chapterId": "weapons-and-powers",
+        "where": "Shoot 70 bullets within 16 seconds using the Assault Rifle"
+      },
+      {
+        "id": "achievement-3",
+        "name": "Skeet Shooting",
+        "kind": "trophy",
+        "chapterId": "weapons-and-powers",
+        "where": "Hit an airborne enemy with the Shotgun's Slug Shot"
+      },
+      {
+        "id": "achievement-4",
+        "name": "Hyper-Express",
+        "kind": "trophy",
+        "chapterId": "weapons-and-powers",
+        "where": "Kill 2 enemies with the same shot using the Hyper-Cannon"
+      },
+      {
+        "id": "achievement-5",
+        "name": "Postmodern Picasso",
+        "kind": "trophy",
+        "chapterId": "weapons-and-powers",
+        "where": "Rupture a total of 200 enemies using the Rocket Launcher"
+      },
+      {
+        "id": "achievement-6",
+        "name": "Overly driven",
+        "kind": "trophy",
+        "chapterId": "weapons-and-powers",
+        "where": "Reach an Overdrive multiplier of 10"
+      },
+      {
+        "id": "achievement-7",
+        "name": "THIS IS RAGE",
+        "kind": "trophy",
+        "chapterId": "weapons-and-powers",
+        "where": "Use Dash Strike kick to kill 10 enemies"
+      },
+      {
+        "id": "achievement-8",
+        "name": "Come on and Slam!",
+        "kind": "trophy",
+        "chapterId": "weapons-and-powers",
+        "where": "Crush 50 enemies using Slam"
+      },
+      {
+        "id": "achievement-9",
+        "name": "Pseudo Post-Mortem",
+        "kind": "trophy",
+        "chapterId": "weapons-and-powers",
+        "where": "Kill 3 enemies within 10 seconds after restoring all health with the Defibrillation"
+      },
+      {
+        "id": "achievement-10",
+        "name": "Off With Their Heads",
+        "kind": "trophy",
+        "chapterId": "weapons-and-powers",
+        "where": "Headshot a total of 100 enemies using the Wingstick"
+      },
+      {
+        "id": "achievement-11",
+        "name": "Explosive Ending",
+        "kind": "trophy",
+        "chapterId": "weapons-and-powers",
+        "where": "Kill an enemy with a Turret Drone explosion"
+      },
+      {
+        "id": "achievement-12",
+        "name": "Zipper",
+        "kind": "trophy",
+        "chapterId": "weapons-and-powers",
+        "where": "Kill 13 enemies while riding ziplines"
+      },
+      {
+        "id": "achievement-13",
+        "name": "The Bigger They Are...",
+        "kind": "trophy",
+        "chapterId": "weapons-and-powers",
+        "where": "Kill 7 Abadon Mutant Crushers"
+      },
+      {
+        "id": "achievement-14",
+        "name": "Hot Potato",
+        "kind": "trophy",
+        "chapterId": "weapons-and-powers",
+        "where": "Reflect an enemy's grenade"
+      },
+      {
+        "id": "achievement-15",
+        "name": "Goon De-leet",
+        "kind": "trophy",
+        "chapterId": "weapons-and-powers",
+        "where": "Kill 1337 Goons"
+      },
+      {
+        "id": "achievement-16",
+        "name": "Peek-a-boo",
+        "kind": "trophy",
+        "chapterId": "weapons-and-powers",
+        "where": "Kill a cloaked Shrouded enemy"
+      },
+      {
+        "id": "achievement-17",
+        "name": "The Enemy Of My Enemy",
+        "kind": "trophy",
+        "chapterId": "weapons-and-powers",
+        "where": "Kill an enemy that is trying to kill an enemy"
+      },
+      {
+        "id": "achievement-18",
+        "name": "Bytesize Takedown",
+        "kind": "trophy",
+        "chapterId": "vehicles",
+        "where": "Destroy 128 Vehicles while driving the Phoenix"
+      },
+      {
+        "id": "achievement-19",
+        "name": "Gonevoy",
+        "kind": "trophy",
+        "chapterId": "vehicles",
+        "where": "Take down 1 Convoy Leader"
+      },
+      {
+        "id": "achievement-20",
+        "name": "Crushed",
+        "kind": "trophy",
+        "chapterId": "vehicles",
+        "where": "Kill an Abadon Mutant Crusher with the Phoenix"
+      },
+      {
+        "id": "achievement-21",
+        "name": "On The Limit",
+        "kind": "trophy",
+        "chapterId": "vehicles",
+        "where": "Maintain top speed for 10 seconds with the Raptor"
+      },
+      {
+        "id": "achievement-22",
+        "name": "Over 9000",
+        "kind": "trophy",
+        "chapterId": "vehicles",
+        "where": "Drive over 9000 meters"
+      },
+      {
+        "id": "achievement-23",
+        "name": "Hangtime",
+        "kind": "trophy",
+        "chapterId": "vehicles",
+        "where": "Jump over 100 meters with a ground vehicle"
+      },
+      {
+        "id": "achievement-24",
+        "name": "Acid House",
+        "kind": "trophy",
+        "chapterId": "vehicles",
+        "where": "Complete the Torn Plains Race under 3:03"
+      },
+      {
+        "id": "achievement-25",
+        "name": "Off Balance",
+        "kind": "trophy",
+        "chapterId": "vehicles",
+        "where": "Knock 19 bikers off their bikes with the Phoenix's \"Dodge\""
+      },
+      {
+        "id": "achievement-26",
+        "name": "Dozing",
+        "kind": "trophy",
+        "chapterId": "vehicles",
+        "where": "Scoop up an enemy with the Dumper Truck"
+      },
+      {
+        "id": "achievement-27",
+        "name": "Goon Fire",
+        "kind": "trophy",
+        "chapterId": "vehicles",
+        "where": "Blow up a Goon with the Goon tank \"Booma\""
+      },
+      {
+        "id": "achievement-28",
+        "name": "The Ranger",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-29",
+        "name": "Blackout",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-30",
+        "name": "The Signal",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-31",
+        "name": "Wasteland Celebrity",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-32",
+        "name": "Beneath the Surface",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-33",
+        "name": "Ground Control",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-34",
+        "name": "Double Cross",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-35",
+        "name": "Project Dagger",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-36",
+        "name": "A Noah Lot",
+        "kind": "trophy",
+        "chapterId": "wasteland",
+        "where": "Complete 5 Arks"
+      },
+      {
+        "id": "achievement-37",
+        "name": "Can't Stop Pop",
+        "kind": "trophy",
+        "chapterId": "wasteland",
+        "where": "Pop 17 Balloons"
+      },
+      {
+        "id": "achievement-38",
+        "name": "Mata Hari Manners",
+        "kind": "trophy",
+        "chapterId": "wasteland",
+        "where": "Destroy 30 Spy Drones"
+      },
+      {
+        "id": "achievement-39",
+        "name": "The Bowels of a Rust Giant",
+        "kind": "trophy",
+        "chapterId": "wasteland",
+        "where": "Venture inside the Dune Sea EcoPod"
+      },
+      {
+        "id": "achievement-40",
+        "name": "Forlorn Watcher",
+        "kind": "trophy",
+        "chapterId": "wasteland",
+        "where": "Travel to the summit of the Broken Tract EcoPod"
+      },
+      {
+        "id": "achievement-41",
+        "name": "Sunken Hope",
+        "kind": "trophy",
+        "chapterId": "wasteland",
+        "where": "Visit the Wetlands EcoPod"
+      },
+      {
+        "id": "achievement-42",
+        "name": "Reaching out to the Past",
+        "kind": "trophy",
+        "chapterId": "wasteland",
+        "where": "Traverse the bridge to the EcoPod in the Wilds"
+      },
+      {
+        "id": "achievement-43",
+        "name": "Wasteland Vagabond",
+        "kind": "trophy",
+        "chapterId": "wasteland",
+        "where": "Visit every Trade Coalition settlement"
+      },
+      {
+        "id": "achievement-44",
+        "name": "Nightmare",
+        "kind": "trophy",
+        "chapterId": "difficulty",
+        "where": "Complete the game on Nightmare Difficulty"
+      },
+      {
+        "id": "achievement-45",
+        "name": "I am Death Incarnate!",
+        "kind": "trophy",
+        "chapterId": "difficulty",
+        "where": "Complete the game on Ultra Nightmare Difficulty"
+      },
+      {
+        "id": "achievement-46",
+        "name": "Heavy Boots",
+        "kind": "trophy",
+        "chapterId": "difficulty",
+        "where": "Complete the game in Ironman Mode"
+      },
+      {
+        "id": "achievement-47",
+        "name": "Captive",
+        "kind": "trophy",
+        "chapterId": "overgrown-city",
+        "where": "Complete mission: Captive"
+      },
+      {
+        "id": "achievement-48",
+        "name": "Within the Walls",
+        "kind": "trophy",
+        "chapterId": "overgrown-city",
+        "where": "Complete mission: Within the Walls"
+      },
+      {
+        "id": "achievement-49",
+        "name": "Slaughter to the Lamb",
+        "kind": "trophy",
+        "chapterId": "overgrown-city",
+        "where": "Complete mission: Slaughter to the Lamb"
+      },
+      {
+        "id": "achievement-50",
+        "name": "Means to an End",
+        "kind": "trophy",
+        "chapterId": "overgrown-city",
+        "where": "Complete mission: Means to an End"
+      },
+      {
+        "id": "achievement-51",
+        "name": "EcoLocation",
+        "kind": "trophy",
+        "chapterId": "overgrown-city",
+        "where": "Visit the Overgrown City EcoPod"
+      },
+      {
+        "id": "achievement-52",
+        "name": "Recondite",
+        "kind": "trophy",
+        "chapterId": "overgrown-city",
+        "where": "Complete the Recondite Ark location"
+      },
+      {
+        "id": "achievement-53",
+        "name": "Ringbender",
+        "kind": "trophy",
+        "chapterId": "overgrown-city",
+        "where": "Complete the Bendring Ark location"
+      },
+      {
+        "id": "achievement-54",
+        "name": "Friend of Ford",
+        "kind": "trophy",
+        "chapterId": "overgrown-city",
+        "where": "Complete the Reclaim & Rebuild Project"
+      },
+      {
+        "id": "achievement-55",
+        "name": "Air Drop Down",
+        "kind": "trophy",
+        "chapterId": "overgrown-city",
+        "where": "Activate all Air Drops in Overgrown City"
+      },
+      {
+        "id": "achievement-56",
+        "name": "Questionable Sanctity",
+        "kind": "trophy",
+        "chapterId": "overgrown-city",
+        "where": "Complete all Ghost Sanctuaries in Overgrown City"
+      },
+      {
+        "id": "achievement-57",
+        "name": "Hellspring Bonetower",
+        "kind": "trophy",
+        "chapterId": "bonetowers",
+        "where": "Complete Bonetower: Hellspring"
+      },
+      {
+        "id": "achievement-58",
+        "name": "Sensus Bonetower",
+        "kind": "trophy",
+        "chapterId": "bonetowers",
+        "where": "Complete Bonetower: Sensus"
+      },
+      {
+        "id": "achievement-59",
+        "name": "Veritas Bonetower",
+        "kind": "trophy",
+        "chapterId": "bonetowers",
+        "where": "Complete Bonetower: Veritas"
+      },
+      {
+        "id": "achievement-60",
+        "name": "Tristitia Bonetower",
+        "kind": "trophy",
+        "chapterId": "bonetowers",
+        "where": "Complete Bonetower: Tristitia"
+      },
+      {
+        "id": "achievement-61",
+        "name": "Furorem Bonetower",
+        "kind": "trophy",
+        "chapterId": "bonetowers",
+        "where": "Complete Bonetower: Furorem"
+      },
+      {
+        "id": "achievement-62",
+        "name": "TerrorMania",
+        "kind": "trophy",
+        "chapterId": "bonetowers",
+        "where": "Return the NECRODISC and stop the Skeletal Army"
+      },
+      {
+        "id": "achievement-63",
+        "name": "Striking Skulls",
+        "kind": "trophy",
+        "chapterId": "bonetowers",
+        "where": "Kill 100 Skeletons with the Sword Transitus"
+      },
+      {
+        "id": "achievement-64",
+        "name": "Flying Skulls",
+        "kind": "trophy",
+        "chapterId": "bonetowers",
+        "where": "Kill 25 airborne Skeletons with the Sword of Transitus"
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/rage-2",
+    "Achievement data from Steam (Steam Web API, app 548570)",
+    "StrategyWiki: no usable walkthrough, nothing used — https://strategywiki.org/wiki/RⒶGE_2",
+    "Fandom (rage.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://rage.fandom.com/wiki/RAGE_2"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). StrategyWiki redirects \"Rage 2\" to \"RⒶGE 2\" (completion stage 0); its Gameplay, Controls, Walkthrough and Achievements and trophies subpages are linked but not written, and only a \"Table of Contents\" subpage exists, so nothing was used. On rage.fandom.com, \"Rage 2\" redirects to \"RAGE 2\", with about 45 linked articles; names only were looked at, nothing copied. The Steam schema gives no game name for app 548570; the store list confirms it. 8 of 64 Steam achievements are hidden, all with high unlock rates (30% to 86%), and sit in the story chapter. The Overgrown City chapter is a guess from Steam list order: achievements 090 to 099 (four \"Complete mission\" ones, the Overgrown City EcoPod and air drops, two Ark locations and the Reclaim & Rebuild Project) sit together with unlock rates of about 4% to 14%, like add-on content, but no add-on name is in the fetched data. The Bonetower achievements (100 to 107) are grouped the same way. Steam API numbers skip many values (for example 006, 007, 010), so some achievements may have been removed."
+}

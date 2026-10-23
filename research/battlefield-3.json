@@ -1,0 +1,430 @@
+{
+  "id": "battlefield-3",
+  "title": "Battlefield 3",
+  "year": 2011,
+  "platforms": [
+    "PlayStation 3",
+    "Xbox One",
+    "PC",
+    "Xbox 360"
+  ],
+  "rawgId": 4397,
+  "rawgSlug": "battlefield-3",
+  "released": "2011-10-25",
+  "developers": [
+    "Electronic Arts DICE"
+  ],
+  "playtime": 4,
+  "genres": [
+    "Action",
+    "Shooter"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Multiplayer",
+    "Full controller support",
+    "Atmospheric",
+    "First-Person",
+    "FPS",
+    "Violent",
+    "Tactical",
+    "PvP",
+    "War",
+    "Team-Based",
+    "Military"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/8bd/8bda6d876f3e241c6024022299553efd.jpg",
+  "steamAppId": 1238820,
+  "achievements": {
+    "total": 34,
+    "hidden": 1,
+    "examples": [
+      {
+        "name": "M.I.A",
+        "percent": 9.6
+      },
+      {
+        "name": "It's better than nothing!",
+        "percent": 6.2
+      },
+      {
+        "name": "1st Loser",
+        "percent": 5.9
+      },
+      {
+        "name": "Destroyer",
+        "percent": 1.6
+      },
+      {
+        "name": "Gunslinger",
+        "percent": 1.6
+      },
+      {
+        "name": "Decorated",
+        "percent": 1.6
+      },
+      {
+        "name": "Transport Pilot",
+        "percent": 1.6
+      },
+      {
+        "name": "Complete Warrior",
+        "percent": 1.5
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 16,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Battlefield_3",
+      "completionStage": 2,
+      "writtenSubpages": [
+        "Achievements and trophies",
+        "Comrades",
+        "Controls",
+        "Fear No Evil",
+        "Going Hunting",
+        "Kaffarov",
+        "Night Shift",
+        "Operation Guillotine",
+        "Operation Swordbreaker",
+        "Rock and a Hard Place",
+        "Semper Fidelis",
+        "Table of Contents",
+        "The Great Destroyer",
+        "Thunder Run",
+        "Uprising",
+        "Walkthrough"
+      ],
+      "reason": "Real walkthrough structure; chapter order taken from its Table of Contents"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 500,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://battlefield.fandom.com/wiki/Battlefield_3"
+    }
+  },
+  "game": {
+    "id": "battlefield-3",
+    "title": "Battlefield 3",
+    "platforms": [
+      "PlayStation 3",
+      "Xbox One",
+      "PC",
+      "Xbox 360"
+    ],
+    "blurb": "Military first-person shooter from Electronic Arts DICE, published by Electronic Arts, released 2011-10-25. RAWG average playtime: 4 hours. Genres: Action, Shooter. Chapter order follows the StrategyWiki walkthrough (CC BY-SA 4.0) for the campaign and co-op, plus chapters drawn from Steam achievement themes for multiplayer and the expansions.",
+    "accent": "#D9822B",
+    "chapters": [
+      {
+        "id": "campaign-1-6",
+        "title": "Campaign: Semper Fidelis to Comrades",
+        "summary": "Campaign missions 1 to 6 on the contents page: Semper Fidelis, Operation Swordbreaker, Uprising, Going Hunting, Operation Guillotine and Comrades.",
+        "steps": []
+      },
+      {
+        "id": "campaign-7-12",
+        "title": "Campaign: Thunder Run to The Great Destroyer",
+        "summary": "Campaign missions 7 to 12: Thunder Run, Fear No Evil, Night Shift, Rock and a Hard Place, Kaffarov and The Great Destroyer. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "co-op",
+        "title": "Co-op Missions",
+        "summary": "The six co-op missions on the contents page: Operation Exodus, Fire from the Sky, Exfiltration, Hit and Run, Drop 'Em Like Liquid and The Eleventh Hour.",
+        "steps": []
+      },
+      {
+        "id": "multiplayer",
+        "title": "Multiplayer: Ribbons, MVP and Rank",
+        "summary": "Ribbons for weapon, support and vehicle efficiency, MVP places, the first Dog Tag and Colonel rank.",
+        "steps": []
+      },
+      {
+        "id": "back-to-karkand",
+        "title": "Back to Karkand",
+        "summary": "The first expansion's achievements: its ten weapons, the BTR-90, DPV and F-35, the skid loader and the Oman Hotel pool.",
+        "steps": []
+      },
+      {
+        "id": "close-quarters",
+        "title": "Close Quarters",
+        "summary": "Gun Master, Conquest Domination, the ten CQ weapons and a hidden achievement (matched by API name and release order).",
+        "steps": []
+      },
+      {
+        "id": "armored-kill",
+        "title": "Armored Kill",
+        "summary": "Tank Superiority, tank destroyers and mobile artillery, the Quad bike and the Gunship (matched by API name and release order).",
+        "steps": []
+      },
+      {
+        "id": "aftermath",
+        "title": "Aftermath",
+        "summary": "The xbow and its parts, Scavenger mode and the secret reptile (matched by API name and release order).",
+        "steps": []
+      },
+      {
+        "id": "end-game",
+        "title": "End Game",
+        "summary": "Capture the Flag, motorcycles, AA jeeps and paradropped vehicles (matched by API name and release order).",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Like a Boss",
+        "kind": "trophy",
+        "chapterId": "back-to-karkand",
+        "where": "Got a kill with the skid loader"
+      },
+      {
+        "id": "achievement-2",
+        "name": "Superiority",
+        "kind": "trophy",
+        "chapterId": "armored-kill",
+        "where": "Won one round of Tank Superiority"
+      },
+      {
+        "id": "achievement-3",
+        "name": "Most Valuable Player",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "MVP in a ranked match"
+      },
+      {
+        "id": "achievement-4",
+        "name": "Destroyer",
+        "kind": "trophy",
+        "chapterId": "armored-kill",
+        "where": "Got 10 kills each with Tank destroyers and Mobile Artilleries"
+      },
+      {
+        "id": "achievement-5",
+        "name": "Gunslinger",
+        "kind": "trophy",
+        "chapterId": "back-to-karkand",
+        "where": "Got 10 kills with each of the ten Back to Karkand weapons"
+      },
+      {
+        "id": "achievement-6",
+        "name": "Decorated",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "Received one of each ribbon in the game"
+      },
+      {
+        "id": "achievement-7",
+        "name": "Home made javelin",
+        "kind": "trophy",
+        "chapterId": "aftermath",
+        "where": "Destroyed an enemy vehicle using the xbow"
+      },
+      {
+        "id": "achievement-8",
+        "name": "Its no sidecar",
+        "kind": "trophy",
+        "chapterId": "end-game",
+        "where": "Got a kill from the passenger position on a motorcycle"
+      },
+      {
+        "id": "achievement-9",
+        "name": "Vehicle Warfare",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "Received all 3 vehicle warfare ribbons"
+      },
+      {
+        "id": "achievement-10",
+        "name": "Bite your finger",
+        "kind": "trophy",
+        "chapterId": "aftermath",
+        "where": "Found the secret reptile"
+      },
+      {
+        "id": "achievement-11",
+        "name": "M.I.A",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "Took your first enemy Dog Tag"
+      },
+      {
+        "id": "achievement-12",
+        "name": "Pocket full of death",
+        "kind": "trophy",
+        "chapterId": "aftermath",
+        "where": "Without dying, got a kill with xbow, primary weapon, and hand grenade"
+      },
+      {
+        "id": "achievement-13",
+        "name": "Third Tour",
+        "kind": "trophy",
+        "chapterId": "back-to-karkand",
+        "where": "Got a kill with each of the following vehicles: the BTR-90, DPV and F-35."
+      },
+      {
+        "id": "achievement-14",
+        "name": "Man of Calibre",
+        "kind": "trophy",
+        "chapterId": "close-quarters",
+        "where": "Completed a round of Gun Master"
+      },
+      {
+        "id": "achievement-15",
+        "name": "It's better than nothing!",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "3rd MVP in a ranked match"
+      },
+      {
+        "id": "achievement-16",
+        "name": "Offroad",
+        "kind": "trophy",
+        "chapterId": "armored-kill",
+        "where": "Got one kill with the Quad bike"
+      },
+      {
+        "id": "achievement-17",
+        "name": "Dropship",
+        "kind": "trophy",
+        "chapterId": "armored-kill",
+        "where": "Destroyed the Gunship"
+      },
+      {
+        "id": "achievement-18",
+        "name": "Complete Warrior",
+        "kind": "trophy",
+        "chapterId": "back-to-karkand",
+        "where": "Got a kill with the following weapons in a single life: Assault Rifle, Jet, Tank"
+      },
+      {
+        "id": "achievement-19",
+        "name": "Support Efficiency",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "Received all 4 support efficiency ribbons"
+      },
+      {
+        "id": "achievement-20",
+        "name": "Grinding the Crack",
+        "kind": "trophy",
+        "chapterId": "close-quarters",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-21",
+        "name": "Handyman",
+        "kind": "trophy",
+        "chapterId": "aftermath",
+        "where": "Unlocked all xbow parts"
+      },
+      {
+        "id": "achievement-22",
+        "name": "Extreme Hoarder",
+        "kind": "trophy",
+        "chapterId": "aftermath",
+        "where": "Picked up 50 weapons in Scavenger mode"
+      },
+      {
+        "id": "achievement-23",
+        "name": "Colonel",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "Rank 45 achieved!"
+      },
+      {
+        "id": "achievement-24",
+        "name": "Jaws",
+        "kind": "trophy",
+        "chapterId": "back-to-karkand",
+        "where": "Took a swim in the Oman Hotel swimming pool"
+      },
+      {
+        "id": "achievement-25",
+        "name": "Dominator",
+        "kind": "trophy",
+        "chapterId": "close-quarters",
+        "where": "Won a round in Conquest Domination"
+      },
+      {
+        "id": "achievement-26",
+        "name": "Show of Force",
+        "kind": "trophy",
+        "chapterId": "close-quarters",
+        "where": "Got 10 kills with all ten CQ weapons"
+      },
+      {
+        "id": "achievement-27",
+        "name": "Death from above",
+        "kind": "trophy",
+        "chapterId": "armored-kill",
+        "where": "Got one kill with the Gunship"
+      },
+      {
+        "id": "achievement-28",
+        "name": "Infantry Efficiency",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "Received all 4 weapon efficiency ribbons"
+      },
+      {
+        "id": "achievement-29",
+        "name": "Heavy Lifter",
+        "kind": "trophy",
+        "chapterId": "end-game",
+        "where": "Killed an enemy after successfully paradropping a vehicle"
+      },
+      {
+        "id": "achievement-30",
+        "name": "Deadly tools",
+        "kind": "trophy",
+        "chapterId": "close-quarters",
+        "where": "Without dying, got a kill with a Carbine, Pistol and Rocket Launcher"
+      },
+      {
+        "id": "achievement-31",
+        "name": "AAs revenge",
+        "kind": "trophy",
+        "chapterId": "end-game",
+        "where": "Destroyed an air vehicle using the AA jeeps"
+      },
+      {
+        "id": "achievement-32",
+        "name": "Capture The Flag",
+        "kind": "trophy",
+        "chapterId": "end-game",
+        "where": "Captured one flag while playing CTF"
+      },
+      {
+        "id": "achievement-33",
+        "name": "1st Loser",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "2nd MVP in a ranked match"
+      },
+      {
+        "id": "achievement-34",
+        "name": "Transport Pilot",
+        "kind": "trophy",
+        "chapterId": "end-game",
+        "where": "Transported a flag carrier in an air vehicle in CTF"
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/battlefield-3",
+    "Achievement data from Steam (Steam Web API, app 1238820)",
+    "Wiki structure from StrategyWiki under CC BY-SA 4.0 (chapter order from its walkthrough contents; titles reworded, no text copied) — https://strategywiki.org/wiki/Battlefield_3",
+    "Fandom (battlefield.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://battlefield.fandom.com/wiki/Battlefield_3"
+  ],
+  "route": "cc-by-sa",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). Route cc-by-sa: StrategyWiki has \"Battlefield 3\" at completion stage 2. Its contents list Gameplay, Controls, Achievements and trophies, a Walkthrough with 12 campaign missions (Semper Fidelis to The Great Destroyer), a Co-Op section with 6 missions and a Multiplayer section with 29 map pages. All 12 campaign mission pages are written (about 1,100 to 5,300 characters each), as are Walkthrough, Controls, Achievements and trophies and Table of Contents (16 written subpages in all); Gameplay, Co-Op, Multiplayer, the 6 co-op missions and every map page are linked but not written. 12 of the 18 campaign and co-op pages are written, so the campaign chapters follow its order; titles are our own and no text was copied. RAWG's first result is the expected entry (id 4397). The Steam store list has one match, app 1238820 (\"Battlefield 3™\"); its schema has only 34 achievements, all for multiplayer and the expansions, so the campaign and co-op chapters have no achievements. One is hidden (\"Grinding the Crack\", XP2 API name). RAWG lists five additions: Back to Karkand (2011-12-06), Close Quarters (2012-06-04), Armored Kill (2012-09-18), Aftermath (2012-12-11) and End Game (2013-03-05). The achievement API names have prefixes XPACH, XP2ACH, XP3ACH, XP4ACH and XP5ACH; only Back to Karkand is named in a description (\"Back to Karkand weapons\", on an XPACH achievement), and \"CQ weapons\" sits on an XP2 one. Matching XP2 to XP5 with the other four in RAWG release order is our own guess. \"Like a Boss\" (skid loader) and \"Jaws\" (Oman Hotel pool) carry XPACH names and sit with Back to Karkand on that basis. battlefield.fandom.com answers the API under \"Battlefield 3\" with at least 500 linked articles (the API limit), mostly weapons, vehicles and maps; names only were looked at, nothing copied."
+}

@@ -1,0 +1,560 @@
+{
+  "id": "prey-2017",
+  "title": "Prey",
+  "year": 2017,
+  "platforms": [
+    "Xbox One",
+    "PC",
+    "PlayStation 4"
+  ],
+  "rawgId": 39,
+  "rawgSlug": "prey",
+  "released": "2017-05-05",
+  "developers": [
+    "Arkane Studios"
+  ],
+  "playtime": 10,
+  "genres": [
+    "Action",
+    "Shooter",
+    "RPG"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Full controller support",
+    "Steam Cloud",
+    "Atmospheric",
+    "steam-trading-cards",
+    "Great Soundtrack",
+    "RPG",
+    "Story Rich",
+    "Open World",
+    "First-Person",
+    "Sci-fi"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/e6d/e6de699bd788497f4b52e2f41f9698f2.jpg",
+  "steamAppId": 480490,
+  "achievements": {
+    "total": 58,
+    "hidden": 23,
+    "examples": [
+      {
+        "name": "Know Thy Self",
+        "percent": 82.1
+      },
+      {
+        "name": "Know Thine Enemy",
+        "percent": 40.3
+      },
+      {
+        "name": "Engineer",
+        "percent": 34.7
+      },
+      {
+        "name": "Split Affinity",
+        "percent": 1.7
+      },
+      {
+        "name": "I’m Your Biggest Fan",
+        "percent": 1.6
+      },
+      {
+        "name": "I and It",
+        "percent": 1.4
+      },
+      {
+        "name": "Three-Body Problem",
+        "percent": 1.4
+      },
+      {
+        "name": "Galaxy Brain",
+        "percent": 1.2
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Prey_(2017)",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 19,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://prey.fandom.com/wiki/Prey_(2017)"
+    }
+  },
+  "game": {
+    "id": "prey-2017",
+    "title": "Prey",
+    "platforms": [
+      "Xbox One",
+      "PC",
+      "PlayStation 4"
+    ],
+    "blurb": "First-person immersive sim and shooter aboard the Talos I space station, from Arkane Studios, released 2017-05-05. RAWG average playtime: 10 hours. Genres: Action, Shooter, RPG. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#2E6E8E",
+    "chapters": [
+      {
+        "id": "main-story",
+        "title": "Talos I: The Main Story",
+        "summary": "The story milestones and side tasks across the station. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "neuromods",
+        "title": "Typhon Powers and Human Abilities",
+        "summary": "Acquiring powers and abilities, mimicking objects, Phantom powers, Mindjack, Lift, Psychoshock and Electrostatic Burst.",
+        "steps": []
+      },
+      {
+        "id": "playstyle-runs",
+        "title": "Playstyle Runs",
+        "summary": "Finishing without neuromods, without killing humans, with only one kind of power, or killing every human.",
+        "steps": []
+      },
+      {
+        "id": "exploration",
+        "title": "Exploring Talos I",
+        "summary": "Finding every employee, reading every e-mail, every TranScribe recording and every kind of food and drink.",
+        "steps": []
+      },
+      {
+        "id": "combat-and-gear",
+        "title": "Combat, Repairs and Hacking",
+        "summary": "Mimic fights, Combat Focus, weapon upgrades, recycling, repairs and hacking.",
+        "steps": []
+      },
+      {
+        "id": "mooncrash",
+        "title": "Mooncrash",
+        "summary": "The Mooncrash expansion: characters, story objectives, KASMA orders, escapes and its enemies.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Engineer",
+        "kind": "trophy",
+        "chapterId": "combat-and-gear",
+        "where": "You repaired (20) objects on and around Talos I."
+      },
+      {
+        "id": "achievement-2",
+        "name": "I and Thou",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-3",
+        "name": "I and It",
+        "kind": "trophy",
+        "chapterId": "playstyle-runs",
+        "where": "You killed every Human on and around Talos I."
+      },
+      {
+        "id": "achievement-4",
+        "name": "No Needles",
+        "kind": "trophy",
+        "chapterId": "playstyle-runs",
+        "where": "You completed the game without ever acquiring any Typhon power or Human ability."
+      },
+      {
+        "id": "achievement-5",
+        "name": "Do No Harm",
+        "kind": "trophy",
+        "chapterId": "playstyle-runs",
+        "where": "You completed the game without killing any Humans."
+      },
+      {
+        "id": "achievement-6",
+        "name": "Mimic Massacre",
+        "kind": "trophy",
+        "chapterId": "combat-and-gear",
+        "where": "You killed (5) Mimics in 5 seconds."
+      },
+      {
+        "id": "achievement-7",
+        "name": "Dead Calm",
+        "kind": "trophy",
+        "chapterId": "combat-and-gear",
+        "where": "You killed an enemy while using Combat Focus."
+      },
+      {
+        "id": "achievement-8",
+        "name": "Mimesis",
+        "kind": "trophy",
+        "chapterId": "neuromods",
+        "where": "You mimicked a Mimic."
+      },
+      {
+        "id": "achievement-9",
+        "name": "Shapeshifter",
+        "kind": "trophy",
+        "chapterId": "neuromods",
+        "where": "You mimicked (20) or more unique objects."
+      },
+      {
+        "id": "achievement-10",
+        "name": "Know Thine Enemy",
+        "kind": "trophy",
+        "chapterId": "neuromods",
+        "where": "You acquired a Typhon power."
+      },
+      {
+        "id": "achievement-11",
+        "name": "Know Thy Self",
+        "kind": "trophy",
+        "chapterId": "neuromods",
+        "where": "You acquired a Human ability."
+      },
+      {
+        "id": "achievement-12",
+        "name": "Split Affinity",
+        "kind": "trophy",
+        "chapterId": "playstyle-runs",
+        "where": "You completed the game once acquiring only Typhon Powers and again acquiring only Human abilities."
+      },
+      {
+        "id": "achievement-13",
+        "name": "Operator",
+        "kind": "trophy",
+        "chapterId": "combat-and-gear",
+        "where": "You hacked at least (20) hackable objects on and around Talos I."
+      },
+      {
+        "id": "achievement-14",
+        "name": "A Different Side of Yu",
+        "kind": "trophy",
+        "chapterId": "neuromods",
+        "where": "You scanned your Phantom Shift duplicate with the Psychoscope."
+      },
+      {
+        "id": "achievement-15",
+        "name": "Deprogramming",
+        "kind": "trophy",
+        "chapterId": "neuromods",
+        "where": "You used Mindjack to free a mind-controlled Human."
+      },
+      {
+        "id": "achievement-16",
+        "name": "Tee One Up",
+        "kind": "trophy",
+        "chapterId": "neuromods",
+        "where": "You killed an enemy while they were Lifted."
+      },
+      {
+        "id": "achievement-17",
+        "name": "Escape Velocity",
+        "kind": "trophy",
+        "chapterId": "neuromods",
+        "where": "You blasted yourself as an object for at least 20 meters while in normal gravity."
+      },
+      {
+        "id": "achievement-18",
+        "name": "It's Alive!",
+        "kind": "trophy",
+        "chapterId": "neuromods",
+        "where": "You created a Phantom using Phantom Genesis."
+      },
+      {
+        "id": "achievement-19",
+        "name": "Thoughts Can Kill",
+        "kind": "trophy",
+        "chapterId": "neuromods",
+        "where": "You used Psychoshock on a Human."
+      },
+      {
+        "id": "achievement-20",
+        "name": "Ball Lightning",
+        "kind": "trophy",
+        "chapterId": "neuromods",
+        "where": "You used Electrostatic Burst to drop two or more Operators at once."
+      },
+      {
+        "id": "achievement-21",
+        "name": "TranStar Gourmand",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "You consumed one of every type of food and drink on Talos I."
+      },
+      {
+        "id": "achievement-22",
+        "name": "Cold Dead Hands",
+        "kind": "trophy",
+        "chapterId": "combat-and-gear",
+        "where": "You fully upgraded a weapon."
+      },
+      {
+        "id": "achievement-23",
+        "name": "Reduce, Reuse, Recycle",
+        "kind": "trophy",
+        "chapterId": "combat-and-gear",
+        "where": "You used a single Recycler Charge to recycle at least 20 objects."
+      },
+      {
+        "id": "achievement-24",
+        "name": "Intrinsic Value",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-25",
+        "name": "Missing Persons",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "You located all employees on Talos I."
+      },
+      {
+        "id": "achievement-26",
+        "name": "Press Sneak",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "You read all the e-mails on Talos I."
+      },
+      {
+        "id": "achievement-27",
+        "name": "Psychometry",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "You found and listened to all TranScribe recordings."
+      },
+      {
+        "id": "achievement-28",
+        "name": "No Show",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-29",
+        "name": "Awkward Ride Home",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-30",
+        "name": "Push the Fat Guy",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-31",
+        "name": "Abandon Ship",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-32",
+        "name": "Self-Incriminating",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-33",
+        "name": "Brain Trust",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-34",
+        "name": "Dear Future Self",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-35",
+        "name": "Best Served Cold",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-36",
+        "name": "Suicide by Proxy",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-37",
+        "name": "Open Says She",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-38",
+        "name": "This Never Happened",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-39",
+        "name": "Facsimile",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-40",
+        "name": "A Friend in Need",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-41",
+        "name": "Prism Master",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-42",
+        "name": "The Gates of Hell",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-43",
+        "name": "Adrift",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-44",
+        "name": "Black Market",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-45",
+        "name": "You Rang?",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-46",
+        "name": "Makeup Exam",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-47",
+        "name": "Coffee Break",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-48",
+        "name": "Gift to the World",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-49",
+        "name": "Galaxy Brain",
+        "kind": "trophy",
+        "chapterId": "mooncrash",
+        "where": "In Mooncrash, install every neuromod power for every character."
+      },
+      {
+        "id": "achievement-50",
+        "name": "Squad Goals",
+        "kind": "trophy",
+        "chapterId": "mooncrash",
+        "where": "In Mooncrash, unlock all 5 playable characters."
+      },
+      {
+        "id": "achievement-51",
+        "name": "Cryptomancer",
+        "kind": "trophy",
+        "chapterId": "mooncrash",
+        "where": "In Mooncrash, finish the game with a surplus of 50,000 sim points or more."
+      },
+      {
+        "id": "achievement-52",
+        "name": "Psychostatic Efficiency",
+        "kind": "trophy",
+        "chapterId": "mooncrash",
+        "where": "In Mooncrash, damage 3 enemies with a single Psychostatic Cutter projectile."
+      },
+      {
+        "id": "achievement-53",
+        "name": "Quantum Leap",
+        "kind": "trophy",
+        "chapterId": "mooncrash",
+        "where": "In Mooncrash, complete all Story Objectives."
+      },
+      {
+        "id": "achievement-54",
+        "name": "I’m Your Biggest Fan",
+        "kind": "trophy",
+        "chapterId": "mooncrash",
+        "where": "In Mooncrash, you read all of the second Starbender series and still no regrets."
+      },
+      {
+        "id": "achievement-55",
+        "name": "Apex Predator",
+        "kind": "trophy",
+        "chapterId": "mooncrash",
+        "where": "In Mooncrash, defeat a Moon Shark."
+      },
+      {
+        "id": "achievement-56",
+        "name": "Three-Body Problem",
+        "kind": "trophy",
+        "chapterId": "mooncrash",
+        "where": "In Mooncrash, GLOO 3 enemies with a single GLOO charge."
+      },
+      {
+        "id": "achievement-57",
+        "name": "Contract Fulfilled",
+        "kind": "trophy",
+        "chapterId": "mooncrash",
+        "where": "In Mooncrash, complete all KASMA Orders."
+      },
+      {
+        "id": "achievement-58",
+        "name": "No One Left Behind",
+        "kind": "trophy",
+        "chapterId": "mooncrash",
+        "where": "In Mooncrash, escape the simulation with all five playable characters in a single run."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/prey",
+    "Achievement data from Steam (Steam Web API, app 480490)",
+    "StrategyWiki: no usable walkthrough, nothing used — https://strategywiki.org/wiki/Prey_(2017)",
+    "Fandom (prey.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://prey.fandom.com/wiki/Prey_(2017)"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). RAWG's \"prey\" entry (id 39) is the 2017 Arkane game; the 2006 game is a separate entry (\"prey-2006\"). Steam app 480490 is used; \"Prey: Typhon Hunter\" (app 741820) was not. StrategyWiki has \"Prey (2017)\" as a stub (completion stage 0); only its Table of Contents subpage is written, so nothing was used. prey.fandom.com has \"Prey (2017)\" with about 19 linked pages; names only were looked at, nothing copied. 23 of 58 Steam achievements are hidden and sit in the main story chapter, including some low-percentage ones such as \"Awkward Ride Home\" (1.4%), \"Makeup Exam\" (2.5%) and \"Black Market\" (6.8%), which may be optional tasks. The 10 Mooncrash achievements all name Mooncrash in their descriptions."
+}

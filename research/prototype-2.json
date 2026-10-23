@@ -1,0 +1,464 @@
+{
+  "id": "prototype-2",
+  "title": "Prototype 2",
+  "year": 2012,
+  "platforms": [
+    "Xbox One",
+    "PC",
+    "Xbox 360",
+    "PlayStation 3",
+    "PlayStation 4"
+  ],
+  "rawgId": 3226,
+  "rawgSlug": "prototype-2",
+  "released": "2012-04-24",
+  "developers": [
+    "Activision",
+    "Radical Entertainment",
+    "Radical"
+  ],
+  "playtime": 6,
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Multiplayer",
+    "Steam Cloud",
+    "Atmospheric",
+    "RPG",
+    "Co-op",
+    "Story Rich",
+    "Open World",
+    "Third Person",
+    "Sci-fi",
+    "Horror"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/445/44507fdd60a8ec02b1c3c64a293ca754.jpg",
+  "steamAppId": 115320,
+  "achievements": {
+    "total": 43,
+    "hidden": 0,
+    "examples": [
+      {
+        "name": "It's an Epidemic",
+        "percent": 82.3
+      },
+      {
+        "name": "I Want Some More",
+        "percent": 80.9
+      },
+      {
+        "name": "Religious Experience",
+        "percent": 79.0
+      },
+      {
+        "name": "Master Prototype",
+        "percent": 10.3
+      },
+      {
+        "name": "So Above It All",
+        "percent": 10.1
+      },
+      {
+        "name": "The Floor is Lava",
+        "percent": 9.7
+      },
+      {
+        "name": "Road Rage",
+        "percent": 9.5
+      },
+      {
+        "name": "All Growed Up",
+        "percent": 9.0
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": false,
+      "pages": 0,
+      "reason": "No page for Prototype 2 (MediaWiki API returned missing; see notes for other titles tried)"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 37,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://prototype.fandom.com/wiki/Prototype_2"
+    }
+  },
+  "game": {
+    "id": "prototype-2",
+    "title": "Prototype 2",
+    "platforms": [
+      "Xbox One",
+      "PC",
+      "Xbox 360",
+      "PlayStation 3",
+      "PlayStation 4"
+    ],
+    "blurb": "Open-world science-fiction action game from Radical Entertainment (RAWG also lists Activision and Radical), published by Activision Blizzard, released 2012-04-24. RAWG average playtime: 6 hours. Genres: Action, Adventure. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#B3261E",
+    "chapters": [
+      {
+        "id": "main-story",
+        "title": "The Story Missions",
+        "summary": "The missions named in the achievements, in order of unlock rate: MEET YOUR MAKER, RESURRECTION, meeting Father Guerra, NATURAL SELECTION, FALL FROM GRACE and LABOR OF LOVE, then finishing the game. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "hard-difficulty",
+        "title": "HARD Difficulty",
+        "summary": "Finishing the game on HARD.",
+        "steps": []
+      },
+      {
+        "id": "blacknet-and-field-ops",
+        "title": "//BLACKNET and Field Ops",
+        "summary": "//BLACKNET operations, targets and dossiers, and the Field Ops teams.",
+        "steps": []
+      },
+      {
+        "id": "lairs-and-blackboxes",
+        "title": "Lairs, BlackBoxes and the Highest Point",
+        "summary": "Destroying Lairs, finding every BlackBox and reaching the highest point in the world.",
+        "steps": []
+      },
+      {
+        "id": "powers-and-upgrades",
+        "title": "Powers, Mutations and Upgrades",
+        "summary": "Prototype Powers, Mutations in each category, upgrades through Consumes and fully upgrading Heller.",
+        "steps": []
+      },
+      {
+        "id": "vehicles-and-movement",
+        "title": "Vehicles, Helicopters and Movement",
+        "summary": "Hijacking and weaponizing tanks and APCs, taking on helicopters, and long runs, glides and air time.",
+        "steps": []
+      },
+      {
+        "id": "combat",
+        "title": "Combat",
+        "summary": "Consumes, Brawlers, Black Hole, Hammerfist, Bio-Bomb, Shield, stealth consumes, Strike Teams and alerts.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "It's an Epidemic",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Complete MEET YOUR MAKER."
+      },
+      {
+        "id": "achievement-2",
+        "name": "I Want Some More",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Complete RESURRECTION."
+      },
+      {
+        "id": "achievement-3",
+        "name": "Religious Experience",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Meet Father Guerra."
+      },
+      {
+        "id": "achievement-4",
+        "name": "This is a Knife",
+        "kind": "trophy",
+        "chapterId": "powers-and-upgrades",
+        "where": "Acquire a Prototype Power."
+      },
+      {
+        "id": "achievement-5",
+        "name": "Project Closed",
+        "kind": "trophy",
+        "chapterId": "blacknet-and-field-ops",
+        "where": "Complete a //BLACKNET operation."
+      },
+      {
+        "id": "achievement-6",
+        "name": "The Mad Scientist",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Complete NATURAL SELECTION."
+      },
+      {
+        "id": "achievement-7",
+        "name": "Something to Live For",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Complete FALL FROM GRACE."
+      },
+      {
+        "id": "achievement-8",
+        "name": "What a Bitch",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Complete LABOR OF LOVE."
+      },
+      {
+        "id": "achievement-9",
+        "name": "Murder your Maker?",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Complete the game."
+      },
+      {
+        "id": "achievement-10",
+        "name": "Follow Your Nose",
+        "kind": "trophy",
+        "chapterId": "lairs-and-blackboxes",
+        "where": "Find all BlackBoxes."
+      },
+      {
+        "id": "achievement-11",
+        "name": "Up to No Good",
+        "kind": "trophy",
+        "chapterId": "blacknet-and-field-ops",
+        "where": "Defeat all Field Ops teams."
+      },
+      {
+        "id": "achievement-12",
+        "name": "Strike, You're Out.",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Destroy a Strike Team in 15 seconds or less."
+      },
+      {
+        "id": "achievement-13",
+        "name": "Compulsive Eater",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "5 consumes in 10 seconds or less."
+      },
+      {
+        "id": "achievement-14",
+        "name": "Do the Evolution",
+        "kind": "trophy",
+        "chapterId": "powers-and-upgrades",
+        "where": "Acquire 5 Mutations."
+      },
+      {
+        "id": "achievement-15",
+        "name": "Just a Flesh Wound",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Dismember a Brawler."
+      },
+      {
+        "id": "achievement-16",
+        "name": "All Together Now",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "10 or more kills with a single Black Hole attack."
+      },
+      {
+        "id": "achievement-17",
+        "name": "Back Atcha!",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Deflect 5 missiles at enemies using Shield Block."
+      },
+      {
+        "id": "achievement-18",
+        "name": "Two for the Price of One",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Simultaneously kill 2 Brawlers using a single Devastator."
+      },
+      {
+        "id": "achievement-19",
+        "name": "Lair to Rest",
+        "kind": "trophy",
+        "chapterId": "lairs-and-blackboxes",
+        "where": "Destroy a single Lair."
+      },
+      {
+        "id": "achievement-20",
+        "name": "Hijack Be Nimble",
+        "kind": "trophy",
+        "chapterId": "vehicles-and-movement",
+        "where": "Stealth hijack 5 tanks or APCs."
+      },
+      {
+        "id": "achievement-21",
+        "name": "Road Rage",
+        "kind": "trophy",
+        "chapterId": "vehicles-and-movement",
+        "where": "Destroy 10 Blackwatch tanks, APCs or helicopters using a single hijacked tank or APC."
+      },
+      {
+        "id": "achievement-22",
+        "name": "Who Watches the Watchers?",
+        "kind": "trophy",
+        "chapterId": "blacknet-and-field-ops",
+        "where": "Consume 10 //BLACKNET targets."
+      },
+      {
+        "id": "achievement-23",
+        "name": "Hard to Please",
+        "kind": "trophy",
+        "chapterId": "powers-and-upgrades",
+        "where": "Acquire a Mutation in each of the 5 categories."
+      },
+      {
+        "id": "achievement-24",
+        "name": "The Floor is Lava",
+        "kind": "trophy",
+        "chapterId": "vehicles-and-movement",
+        "where": "Travel a half mile using only Wall Run, Glide, Jump and Air Dash."
+      },
+      {
+        "id": "achievement-25",
+        "name": "Cannonball!",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "20 or more kills with a single Hammerfist dive attack."
+      },
+      {
+        "id": "achievement-26",
+        "name": "You're the Bomb",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "10 or more kills using a single Bio-Bomb."
+      },
+      {
+        "id": "achievement-27",
+        "name": "Sic 'em!",
+        "kind": "trophy",
+        "chapterId": "vehicles-and-movement",
+        "where": "Destroy 5 helicopters using Pack Leader."
+      },
+      {
+        "id": "achievement-28",
+        "name": "Over-Equipped",
+        "kind": "trophy",
+        "chapterId": "vehicles-and-movement",
+        "where": "Weaponize 10 vehicles."
+      },
+      {
+        "id": "achievement-29",
+        "name": "The Best Offense",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Counter enemy attacks 20 times using Shield."
+      },
+      {
+        "id": "achievement-30",
+        "name": "Arcade Action",
+        "kind": "trophy",
+        "chapterId": "vehicles-and-movement",
+        "where": "Karate kick a helicopter."
+      },
+      {
+        "id": "achievement-31",
+        "name": "I Caught a Big One!",
+        "kind": "trophy",
+        "chapterId": "vehicles-and-movement",
+        "where": "Mount a helicopter using Whipfist."
+      },
+      {
+        "id": "achievement-32",
+        "name": "Anger Management",
+        "kind": "trophy",
+        "chapterId": "vehicles-and-movement",
+        "where": "Destroy 5 vehicles using a Finisher."
+      },
+      {
+        "id": "achievement-33",
+        "name": "So Above It All",
+        "kind": "trophy",
+        "chapterId": "vehicles-and-movement",
+        "where": "Spend at least 25 consecutive seconds in the air (helicopters don't count)."
+      },
+      {
+        "id": "achievement-34",
+        "name": "Vitamin B-rains",
+        "kind": "trophy",
+        "chapterId": "powers-and-upgrades",
+        "where": "Acquire 10 upgrades through Consumes."
+      },
+      {
+        "id": "achievement-35",
+        "name": "Eating Your Way to the Top",
+        "kind": "trophy",
+        "chapterId": "powers-and-upgrades",
+        "where": "Acquire 30 upgrades through Consumes."
+      },
+      {
+        "id": "achievement-36",
+        "name": "Finally Full",
+        "kind": "trophy",
+        "chapterId": "powers-and-upgrades",
+        "where": "Acquire all 46 upgrades through Consumes."
+      },
+      {
+        "id": "achievement-37",
+        "name": "Icarus",
+        "kind": "trophy",
+        "chapterId": "lairs-and-blackboxes",
+        "where": "Reach the highest point in the world."
+      },
+      {
+        "id": "achievement-38",
+        "name": "Spindler's Search",
+        "kind": "trophy",
+        "chapterId": "lairs-and-blackboxes",
+        "where": "Destroy all Lairs."
+      },
+      {
+        "id": "achievement-39",
+        "name": "//BLACKNET Hacker",
+        "kind": "trophy",
+        "chapterId": "blacknet-and-field-ops",
+        "where": "Complete all //BLACKNET dossiers."
+      },
+      {
+        "id": "achievement-40",
+        "name": "One by One",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Stealth Consume 50 Blackwatch troopers."
+      },
+      {
+        "id": "achievement-41",
+        "name": "Wanted Man",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Trigger 50 alerts."
+      },
+      {
+        "id": "achievement-42",
+        "name": "All Growed Up",
+        "kind": "trophy",
+        "chapterId": "powers-and-upgrades",
+        "where": "Fully upgrade Heller."
+      },
+      {
+        "id": "achievement-43",
+        "name": "Master Prototype",
+        "kind": "trophy",
+        "chapterId": "hard-difficulty",
+        "where": "Complete the game on HARD difficulty."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/prototype-2",
+    "Achievement data from Steam (Steam Web API, app 115320)",
+    "StrategyWiki: no page for this game, nothing used",
+    "Fandom (prototype.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://prototype.fandom.com/wiki/Prototype_2"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). RAWG's first result is the expected entry (id 3226); RAWG also has unrelated entries named \"Prototype-2\", \"Prototype 2: You\" and \"Prototype 2 - Maria\". The Steam store list has one matching app, 115320 (\"Prototype 2\"); its schema is named \"ValveTestApp115320\" (a placeholder name). StrategyWiki has no page under \"Prototype 2\" or \"Prototype II\". prototype.fandom.com answers the API under \"Prototype 2\" with about 37 linked articles; names only were looked at, nothing copied. None of the 43 Steam achievements is hidden. The story order is our own reading of the unlock rates (82.3% for MEET YOUR MAKER down to 36.8% for finishing the game); the achievements do not number the missions. \"Strike, You're Out.\" (destroy a Strike Team quickly) sits in combat because the data does not tie Strike Teams to Field Ops. \"Anger Management\" (destroy vehicles with a Finisher) and \"Sic 'em!\" (helicopters with Pack Leader) sit with vehicles."
+}

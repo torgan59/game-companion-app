@@ -1,0 +1,386 @@
+{
+  "id": "call-of-duty-wwii",
+  "title": "Call of Duty: WWII",
+  "year": 2017,
+  "platforms": [
+    "PlayStation 4",
+    "Xbox One",
+    "PC"
+  ],
+  "rawgId": 21924,
+  "rawgSlug": "call-of-duty-wwii",
+  "released": "2017-11-03",
+  "developers": [
+    "Sledgehammer Games"
+  ],
+  "playtime": 6,
+  "genres": [
+    "Action",
+    "Shooter"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Multiplayer",
+    "Full controller support",
+    "Steam Cloud",
+    "steam-trading-cards",
+    "Co-op",
+    "Story Rich",
+    "cooperative",
+    "First-Person",
+    "Horror",
+    "FPS"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/1e5/1e5e33b88be978f451196a751424a72e.jpg",
+  "steamAppId": 476600,
+  "achievements": {
+    "total": 35,
+    "hidden": 10,
+    "examples": [
+      {
+        "name": "Slow and Steady",
+        "percent": 51.6
+      },
+      {
+        "name": "To the End",
+        "percent": 47.8
+      },
+      {
+        "name": "Potato Masher",
+        "percent": 35.2
+      },
+      {
+        "name": "Sunday Driver",
+        "percent": 3.0
+      },
+      {
+        "name": "One of the Lucky Few",
+        "percent": 2.8
+      },
+      {
+        "name": "Pieces of History",
+        "percent": 2.3
+      },
+      {
+        "name": "Gasoline Cowboy",
+        "percent": 1.6
+      },
+      {
+        "name": "Defender",
+        "percent": 1.4
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Call_of_Duty:_WWII",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 500,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://callofduty.fandom.com/wiki/Call_of_Duty:_WWII"
+    }
+  },
+  "game": {
+    "id": "call-of-duty-wwii",
+    "title": "Call of Duty: WWII",
+    "platforms": [
+      "PlayStation 4",
+      "Xbox One",
+      "PC"
+    ],
+    "blurb": "First-person shooter from Sledgehammer Games, released 2017-11-03. RAWG average playtime: 6 hours. Genres: Action, Shooter. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#6B6A3A",
+    "chapters": [
+      {
+        "id": "campaign",
+        "title": "The Campaign",
+        "summary": "The hidden mission milestones and finishing the campaign. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "mission-challenges",
+        "title": "Mission Challenges",
+        "summary": "One-off goals inside named missions, such as the seawall, Operation Cobra, Stronghold, S.O.E., Liberation, Death Factory, Hill 493, Ambush and The Rhine.",
+        "steps": []
+      },
+      {
+        "id": "squad-and-combat",
+        "title": "Squad and Combat",
+        "summary": "Asking each squad mate for supplies, saving and dragging allies, grenades, smoke and taking surrenders.",
+        "steps": []
+      },
+      {
+        "id": "collectibles-and-veteran",
+        "title": "Mementos, Focus and Veteran",
+        "summary": "All 33 mementos, time spent in Focus, and finishing on Veteran.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Friend in Need",
+        "kind": "trophy",
+        "chapterId": "squad-and-combat",
+        "where": "Request Zussman to toss you First Aid Kits 30 times."
+      },
+      {
+        "id": "achievement-2",
+        "name": "I See Movement",
+        "kind": "trophy",
+        "chapterId": "squad-and-combat",
+        "where": "Request Pierson to spot enemies 25 times."
+      },
+      {
+        "id": "achievement-3",
+        "name": "Praise and Pass",
+        "kind": "trophy",
+        "chapterId": "squad-and-combat",
+        "where": "Request Turner to toss you ammo 20 times."
+      },
+      {
+        "id": "achievement-4",
+        "name": "School of Hard Knocks",
+        "kind": "trophy",
+        "chapterId": "squad-and-combat",
+        "where": "Request Stiles to toss you grenades 15 times"
+      },
+      {
+        "id": "achievement-5",
+        "name": "Who needs a pendant?",
+        "kind": "trophy",
+        "chapterId": "squad-and-combat",
+        "where": "Request Aiello to toss you signal smoke and call in mortar strikes 10 times"
+      },
+      {
+        "id": "achievement-6",
+        "name": "Potato Masher",
+        "kind": "trophy",
+        "chapterId": "squad-and-combat",
+        "where": "Save 5 allies by throwing away a live enemy grenade."
+      },
+      {
+        "id": "achievement-7",
+        "name": "Chain Smoker",
+        "kind": "trophy",
+        "chapterId": "squad-and-combat",
+        "where": "Disable 50 enemies using smoke grenades."
+      },
+      {
+        "id": "achievement-8",
+        "name": "I've got you!",
+        "kind": "trophy",
+        "chapterId": "squad-and-combat",
+        "where": "Drag 10 allies to safety."
+      },
+      {
+        "id": "achievement-9",
+        "name": "Quarter Given",
+        "kind": "trophy",
+        "chapterId": "squad-and-combat",
+        "where": "Get 6 groups of enemies to surrender."
+      },
+      {
+        "id": "achievement-10",
+        "name": "Rescuer",
+        "kind": "trophy",
+        "chapterId": "squad-and-combat",
+        "where": "Save 8 allies locked in struggle."
+      },
+      {
+        "id": "achievement-11",
+        "name": "Pieces of History",
+        "kind": "trophy",
+        "chapterId": "collectibles-and-veteran",
+        "where": "Collect all 33 mementos."
+      },
+      {
+        "id": "achievement-12",
+        "name": "Slow and Steady",
+        "kind": "trophy",
+        "chapterId": "collectibles-and-veteran",
+        "where": "Spend 3 minutes using Focus in the campaign."
+      },
+      {
+        "id": "achievement-13",
+        "name": "Distinguished Service",
+        "kind": "trophy",
+        "chapterId": "collectibles-and-veteran",
+        "where": "Complete the game on Veteran difficulty."
+      },
+      {
+        "id": "achievement-14",
+        "name": "Long Way from Texas",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-15",
+        "name": "One of the Lucky Few",
+        "kind": "trophy",
+        "chapterId": "mission-challenges",
+        "where": "Breach the seawall in under two minutes without taking MG fire."
+      },
+      {
+        "id": "achievement-16",
+        "name": "The Paddle",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-17",
+        "name": "Ack Ack",
+        "kind": "trophy",
+        "chapterId": "mission-challenges",
+        "where": "Protect your tanks by shooting down all planes in Operation Cobra."
+      },
+      {
+        "id": "achievement-18",
+        "name": "No Sanctuary",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-19",
+        "name": "Marksman",
+        "kind": "trophy",
+        "chapterId": "mission-challenges",
+        "where": "Cover Zussman from the church without missing a shot in Stronghold."
+      },
+      {
+        "id": "achievement-20",
+        "name": "Last Stop",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-21",
+        "name": "Sunday Driver",
+        "kind": "trophy",
+        "chapterId": "mission-challenges",
+        "where": "Complete the driving portion of S.O.E. without hitting any obstacles."
+      },
+      {
+        "id": "achievement-22",
+        "name": "Champagne and Caviar",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-23",
+        "name": "Silent Night",
+        "kind": "trophy",
+        "chapterId": "mission-challenges",
+        "where": "Sneak through the courtyard undetected in Liberation."
+      },
+      {
+        "id": "achievement-24",
+        "name": "Human Cost",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-25",
+        "name": "Gasoline Cowboy",
+        "kind": "trophy",
+        "chapterId": "mission-challenges",
+        "where": "Rescue your allies with the Sherman while keeping your armor above 80%."
+      },
+      {
+        "id": "achievement-26",
+        "name": "Death Factory",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-27",
+        "name": "Fog of War",
+        "kind": "trophy",
+        "chapterId": "mission-challenges",
+        "where": "Sneak through the Dragon's Teeth undetected in Death Factory."
+      },
+      {
+        "id": "achievement-28",
+        "name": "Our Men",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-29",
+        "name": "Suppressive Fire!",
+        "kind": "trophy",
+        "chapterId": "mission-challenges",
+        "where": "Successfully escort the pole charge engineer to the pillbox in Hill 493."
+      },
+      {
+        "id": "achievement-30",
+        "name": "Worst Christmas Ever",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-31",
+        "name": "Flyboy",
+        "kind": "trophy",
+        "chapterId": "mission-challenges",
+        "where": "Protect the bombers by personally shooting down 12 enemy planes."
+      },
+      {
+        "id": "achievement-32",
+        "name": "No Sacrifice Too Great",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-33",
+        "name": "Infiltrated",
+        "kind": "trophy",
+        "chapterId": "mission-challenges",
+        "where": "Reach the sniper perch without being detected in Ambush."
+      },
+      {
+        "id": "achievement-34",
+        "name": "To the End",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Complete the campaign."
+      },
+      {
+        "id": "achievement-35",
+        "name": "Defender",
+        "kind": "trophy",
+        "chapterId": "mission-challenges",
+        "where": "Protect the convoy by shooting down all the planes in The Rhine."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/call-of-duty-wwii",
+    "Achievement data from Steam (Steam Web API, app 476600)",
+    "StrategyWiki: no usable walkthrough, nothing used — https://strategywiki.org/wiki/Call_of_Duty:_WWII",
+    "Fandom (callofduty.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://callofduty.fandom.com/wiki/Call_of_Duty:_WWII"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). Steam app 476600. StrategyWiki has a stub page (completion stage 0) that links Walkthrough, Gameplay and Table of Contents subpages, but none of them is written, so nothing was used. callofduty.fandom.com has the page, with 500 linked pages returned (the API limit, so likely more); names only were looked at, nothing copied. 10 of 35 Steam achievements are hidden; their names read like mission names and they sit in the campaign chapter. All 35 achievements are for the campaign: none covers multiplayer or any other mode, so there is no chapter for those. \"Flyboy\" (protect the bombers) does not name its mission; it sits with the mission challenges."
+}

@@ -1,0 +1,400 @@
+{
+  "id": "dead-island-riptide",
+  "title": "Dead Island Riptide",
+  "year": 2013,
+  "platforms": [
+    "PC",
+    "Xbox 360",
+    "PlayStation 3"
+  ],
+  "rawgId": 4031,
+  "rawgSlug": "dead-island-riptide",
+  "released": "2013-04-22",
+  "developers": [
+    "Deep Silver",
+    "Techland"
+  ],
+  "playtime": 5,
+  "genres": [
+    "Action",
+    "Shooter",
+    "Adventure"
+  ],
+  "tags": [
+    "Horror",
+    "Zombies",
+    "character",
+    "island",
+    "ship",
+    "Solo",
+    "pack",
+    "bugs"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/569/5695d8534579129ad6b40fefa2ef360c.jpg",
+  "steamAppId": 383180,
+  "achievements": {
+    "total": 35,
+    "hidden": 13,
+    "examples": [
+      {
+        "name": "BrainLess",
+        "percent": 34.2
+      },
+      {
+        "name": "Siege Hammer",
+        "percent": 13.8
+      },
+      {
+        "name": "Obtain level 50",
+        "percent": 13.7
+      },
+      {
+        "name": "Better than the arm",
+        "percent": 3.5
+      },
+      {
+        "name": "Hunter-Seeker",
+        "percent": 2.4
+      },
+      {
+        "name": "Jetboat",
+        "percent": 2.2
+      },
+      {
+        "name": "Juggernaut",
+        "percent": 2.0
+      },
+      {
+        "name": "It's an Order",
+        "percent": 2.0
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": false,
+      "pages": 0,
+      "reason": "No page for Dead Island Riptide (MediaWiki API returned missing; see notes for other titles tried)"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 82,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://deadisland.fandom.com/wiki/Dead_Island:_Riptide"
+    }
+  },
+  "game": {
+    "id": "dead-island-riptide",
+    "title": "Dead Island Riptide",
+    "platforms": [
+      "PC",
+      "Xbox 360",
+      "PlayStation 3"
+    ],
+    "blurb": "First-person zombie survival action game from Techland, published by Deep Silver, released 2013-04-22. RAWG average playtime: 5 hours. Genres: Action, Shooter, Adventure. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#2E7356",
+    "chapters": [
+      {
+        "id": "story-early",
+        "title": "The Story: From the Storm to the Military Base",
+        "summary": "The first five story achievements, from the storm to the military base. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "story-late",
+        "title": "The Story: From the Roof to the Docks",
+        "summary": "The later story achievements, from the rooftop fight to the docks, plus the other secret ones. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "quests-and-hub",
+        "title": "Quests and Hub Defense",
+        "summary": "Finishing every quest, barricades in hub defense and rescuing grabbed survivors.",
+        "steps": []
+      },
+      {
+        "id": "co-op",
+        "title": "Co-Op",
+        "summary": "Main quests with partners and marking enemies for your co-op team.",
+        "steps": []
+      },
+      {
+        "id": "collectibles",
+        "title": "Collectibles",
+        "summary": "Secret files, guide book pages, the volunteer's voice recordings and other collectibles.",
+        "steps": []
+      },
+      {
+        "id": "levels-and-hunts",
+        "title": "Levels and Special Enemies",
+        "summary": "Reaching levels 50 and 70, the Twins, every special enemy type and the monstrosities in dead zones.",
+        "steps": []
+      },
+      {
+        "id": "combat",
+        "title": "Combat",
+        "summary": "Mines, thrown weapons, kicks, head kills, charge attacks, chainsaws and the boat boost.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "The Storm",
+        "kind": "trophy",
+        "chapterId": "story-early",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-2",
+        "name": "Heart of Darkness",
+        "kind": "trophy",
+        "chapterId": "story-early",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-3",
+        "name": "Breaching the Tunnels",
+        "kind": "trophy",
+        "chapterId": "story-early",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-4",
+        "name": "The Cinema",
+        "kind": "trophy",
+        "chapterId": "story-early",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-5",
+        "name": "Military Base",
+        "kind": "trophy",
+        "chapterId": "story-early",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-6",
+        "name": "Combat on the roof",
+        "kind": "trophy",
+        "chapterId": "story-late",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-7",
+        "name": "Henderson Town",
+        "kind": "trophy",
+        "chapterId": "story-late",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-8",
+        "name": "Meeting Serpo",
+        "kind": "trophy",
+        "chapterId": "story-late",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-9",
+        "name": "The Docks",
+        "kind": "trophy",
+        "chapterId": "story-late",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-10",
+        "name": "You've tricked me once",
+        "kind": "trophy",
+        "chapterId": "story-late",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-11",
+        "name": "Achiever",
+        "kind": "trophy",
+        "chapterId": "quests-and-hub",
+        "where": "Finish all quests in the game"
+      },
+      {
+        "id": "achievement-12",
+        "name": "Mystery solved",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Find all the secret files"
+      },
+      {
+        "id": "achievement-13",
+        "name": "Obtain level 50",
+        "kind": "trophy",
+        "chapterId": "levels-and-hunts",
+        "where": "Obtain level 50"
+      },
+      {
+        "id": "achievement-14",
+        "name": "Obtain level 70",
+        "kind": "trophy",
+        "chapterId": "levels-and-hunts",
+        "where": "Obtain level 70"
+      },
+      {
+        "id": "achievement-15",
+        "name": "Siege Hammer",
+        "kind": "trophy",
+        "chapterId": "quests-and-hub",
+        "where": "Install a total of 5 barricades during hub defense"
+      },
+      {
+        "id": "achievement-16",
+        "name": "Dream Team",
+        "kind": "trophy",
+        "chapterId": "co-op",
+        "where": "Complete all the main quests cooperatively with any number of partners"
+      },
+      {
+        "id": "achievement-17",
+        "name": "The Collector",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Find 50% of collectibles"
+      },
+      {
+        "id": "achievement-18",
+        "name": "The Hoarder",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Find all collectibles"
+      },
+      {
+        "id": "achievement-19",
+        "name": "Professional Tourist",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Find all pages from the guide book"
+      },
+      {
+        "id": "achievement-20",
+        "name": "Twins",
+        "kind": "trophy",
+        "chapterId": "levels-and-hunts",
+        "where": "Kill the Twins"
+      },
+      {
+        "id": "achievement-21",
+        "name": "News junkie",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Find all the volunteer's voice recordings"
+      },
+      {
+        "id": "achievement-22",
+        "name": "At Your Service",
+        "kind": "trophy",
+        "chapterId": "quests-and-hub",
+        "where": "Rescue 20 NPCs that have been grabbed by monsters"
+      },
+      {
+        "id": "achievement-23",
+        "name": "The Hurt Mine Locker",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Kill 10 monsters with one mine"
+      },
+      {
+        "id": "achievement-24",
+        "name": "Hurler",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Kill 100 monsters with thrown melee weapons"
+      },
+      {
+        "id": "achievement-25",
+        "name": "BrainLess",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Kill 50 monsters by smashing, decapitating or shooting them in the head"
+      },
+      {
+        "id": "achievement-26",
+        "name": "Bully",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Kill 100 monsters with a kick"
+      },
+      {
+        "id": "achievement-27",
+        "name": "Jetboat",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Kill 100 monsters using the boat's speed boost"
+      },
+      {
+        "id": "achievement-28",
+        "name": "Juggernaut",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Kill 100 enemies using charge attacks"
+      },
+      {
+        "id": "achievement-29",
+        "name": "Better than the arm",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Kill 25 monsters with a chainsaw"
+      },
+      {
+        "id": "achievement-30",
+        "name": "Serving Science",
+        "kind": "trophy",
+        "chapterId": "story-late",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-31",
+        "name": "First Do No Harm",
+        "kind": "trophy",
+        "chapterId": "story-late",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-32",
+        "name": "Defeat Harlow",
+        "kind": "trophy",
+        "chapterId": "story-late",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-33",
+        "name": "It's an Order",
+        "kind": "trophy",
+        "chapterId": "co-op",
+        "where": "Mark 100 opponents which were then killed by your co-op partners"
+      },
+      {
+        "id": "achievement-34",
+        "name": "King among Kings",
+        "kind": "trophy",
+        "chapterId": "levels-and-hunts",
+        "where": "Kill special enemies: Grenadier, Thug, Wrestler, Infected, Suicider, Screamer, Butcher, Floater."
+      },
+      {
+        "id": "achievement-35",
+        "name": "Hunter-Seeker",
+        "kind": "trophy",
+        "chapterId": "levels-and-hunts",
+        "where": "Find and kill all the most dangerous monstrosities located in dead zones"
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/dead-island-riptide",
+    "Achievement data from Steam (Steam Web API, app 383180)",
+    "StrategyWiki: no page for this game, nothing used",
+    "Fandom (deadisland.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://deadisland.fandom.com/wiki/Dead_Island:_Riptide"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). RAWG's first result is the expected entry (id 4031); RAWG keeps \"Dead Island: Riptide Definitive Edition\" separately (id 10301). RAWG lists no Steam store link for this entry, and the only Riptide app in the Steam store list is 383180, \"Dead Island: Riptide Definitive Edition\", so that edition's achievements were used; its schema is named \"ValveTestApp216250\". 13 of 35 Steam achievements are hidden. ACH_1 to ACH_10 are hidden and named after places and story beats with falling unlock rates, so they were split five and five across two story chapters by API order (our own choice); ACH_30 to ACH_32 (\"Serving Science\", \"First Do No Harm\", \"Defeat Harlow\") are also hidden and were put in the later story chapter as a placeholder. StrategyWiki has no page under \"Dead Island Riptide\" or \"Dead Island: Riptide\". deadisland.fandom.com has no page under \"Dead Island Riptide\" but answers under \"Dead Island: Riptide\", with about 82 linked articles; names only were looked at, nothing copied."
+}

@@ -1,0 +1,119 @@
+{
+  "id": "halo-reach",
+  "title": "Halo: Reach",
+  "year": 2010,
+  "platforms": [
+    "Xbox 360",
+    "Xbox One",
+    "PC"
+  ],
+  "rawgId": 28613,
+  "rawgSlug": "halo-reach",
+  "released": "2010-09-14",
+  "developers": [
+    "Bungie"
+  ],
+  "playtime": 11,
+  "genres": [
+    "Shooter"
+  ],
+  "tags": [
+    "exclusive"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/045/0457f748c9492261ccb46147edf9c761.jpg",
+  "steamAppId": null,
+  "achievements": {
+    "total": 0,
+    "examples": [],
+    "reason": "No Steam list: RAWG's Steam store link points to app 1064220 (\"Halo: Reach\"), but that app is not in the Steam store app list used here, its achievement schema is empty, and the global percentages call returned HTTP 403. RAWG lists 69 achievements (with RAWG's own percentages) that read as the Xbox list: finishing missions 2 to 10 on Normal or harder, the campaign on Normal, Heroic and Legendary, every mission alone on Legendary, mission feats given by mission number, Firefight scores, Invasion, ranks and Armory purchases, daily and weekly challenges, File Share, and matchmade goals labelled \"Noble 1\", \"Defiant\" and \"Anniversary\". These could seed an original checklist once checked against the PC release."
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Halo:_Reach",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 421,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://halo.fandom.com/wiki/Halo:_Reach"
+    }
+  },
+  "game": {
+    "id": "halo-reach",
+    "title": "Halo: Reach",
+    "platforms": [
+      "Xbox 360",
+      "Xbox One",
+      "PC"
+    ],
+    "blurb": "First-person shooter from Bungie, published by Microsoft Studios, released 2010-09-14. RAWG average playtime: 11 hours. Genre: Shooter. Chapters use the mission, multiplayer and Firefight map names on StrategyWiki's contents page, plus chapters for the difficulty and matchmaking goals RAWG's achievement list names.",
+    "accent": "#5E7A4A",
+    "chapters": [
+      {
+        "id": "noble-actual-to-sword-base",
+        "title": "Noble Actual to ONI: Sword Base",
+        "summary": "Noble Actual, Winter Contigency and ONI: Sword Base (the spelling of the second is StrategyWiki's). Placeholder summary built from the page names.",
+        "steps": []
+      },
+      {
+        "id": "nightfall-to-long-night",
+        "title": "Nightfall to Long Night of Solace",
+        "summary": "Nightfall, Tip of the Spear and Long Night of Solace. Placeholder summary built from the page names. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "exodus-to-the-package",
+        "title": "Exodus to The Package",
+        "summary": "Exodus, New Alexandria and The Package. Placeholder summary built from the page names. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "pillar-and-lone-wolf",
+        "title": "The Pillar of Autumn and Lone Wolf",
+        "summary": "The Pillar of Autumn and Lone Wolf. Placeholder summary built from the page names. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "campaign-difficulty",
+        "title": "Heroic, Legendary and Solo Runs",
+        "summary": "The campaign on Normal, Heroic and Legendary, every mission alone on Legendary, and the mission feats RAWG's list gives by mission number.",
+        "steps": []
+      },
+      {
+        "id": "firefight",
+        "title": "Firefight",
+        "summary": "The Firefight maps on the contents page (Beachhead, Corvette, Courtyard, Glacier, Holdout, Outpost, Overlook and Waterfront), score goals and a Legendary set without dying.",
+        "steps": []
+      },
+      {
+        "id": "multiplayer",
+        "title": "Multiplayer and Matchmaking",
+        "summary": "The multiplayer maps on the contents page (Boardwalk, Boneyard, Countdown, Forge World, Powerhouse, Reflection, Spire, Sword Base and Zealot), Invasion, ranks, the Armory, daily and weekly challenges and File Share. Needs a network connection, if the servers still run.",
+        "steps": []
+      },
+      {
+        "id": "map-packs",
+        "title": "Noble Map Pack, Defiant and Anniversary",
+        "summary": "The Noble Map Pack maps on the contents page (Anchor 9, Breakpoint and Tempest) and the matchmade goals RAWG labels \"Noble 1\", \"Defiant\" and \"Anniversary\". Needs a network connection, if the servers still run.",
+        "steps": []
+      }
+    ],
+    "collectibles": []
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/halo-reach",
+    "Steam: no achievement list available for this game (see notes)",
+    "StrategyWiki: mission and page names used to group chapters, CC BY-SA 4.0; no text copied — https://strategywiki.org/wiki/Halo:_Reach",
+    "Fandom (halo.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://halo.fandom.com/wiki/Halo:_Reach"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). RAWG's first result is the expected entry (id 28613; Xbox 360, Xbox One and PC). The Steam store-list search found only \"Halo: Reach Mod Tools – MCC\" (app 1695793), a tool, not the game. RAWG links Steam app 1064220 (\"Halo: Reach\"), which returned no achievements (see the collectible note); \"Halo: The Master Chief Collection\" (app 976730) is in the store list but is a collection with its own list, so it was not used, and steam=None. The chapters come from StrategyWiki page names (swNames). StrategyWiki has \"Halo: Reach\" at completion stage 1, also in Category:Stubs. Written subpages: Achievements (about 7,700 characters), Characters (about 2,100), Table of Contents (about 1,900), New Alexandria (about 1,200), Corvette (about 1,200), Noble Actual (about 940), Noble Map Pack (about 420) and Walkthrough (about 180); only 2 of its 11 mission pages are written, and Gameplay, Controls, Vehicles, Weapons, Organizations, Species, Multiplayer, Firefight and the other mission and map pages are linked but not written, so it was not used as a walkthrough. The mission chapters use its 11 mission names in contents order, from \"Noble Actual\" to \"Lone Wolf\" (\"Winter Contigency\" is spelled that way on the wiki); grouping them is our own choice and the summaries are placeholders. RAWG's achievements number the missions (2nd to 10th) instead of naming them, so which numbered goal belongs to which named mission was not matched. \"Defiant\" and \"Anniversary\" appear only as labels in RAWG's achievement descriptions; halo.fandom.com links pages named \"Anniversary map pack\" and \"Noble Map Pack\" is a StrategyWiki page, but what each holds was not checked. halo.fandom.com answers the API under \"Halo: Reach\" with about 420 linked articles; names only were looked at, nothing copied."
+}

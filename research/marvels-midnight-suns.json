@@ -1,0 +1,672 @@
+{
+  "id": "marvels-midnight-suns",
+  "title": "Marvel's Midnight Suns",
+  "year": 2022,
+  "platforms": [
+    "PlayStation 5",
+    "Xbox Series X|S",
+    "PlayStation 4",
+    "PC",
+    "Xbox One"
+  ],
+  "rawgId": 650604,
+  "rawgSlug": "marvels-midnight-suns",
+  "released": "2022-12-02",
+  "developers": [
+    "Firaxis"
+  ],
+  "playtime": 8,
+  "genres": [
+    "RPG",
+    "Strategy"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Full controller support",
+    "RPG",
+    "Turn-Based Strategy",
+    "Superhero",
+    "Card Game",
+    "Tactical RPG",
+    "Strategy RPG",
+    "Card Battler",
+    "marvel"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/d47/d471344cc698b2dc660ab09880e1e884.jpg",
+  "steamAppId": 368260,
+  "achievements": {
+    "total": 72,
+    "hidden": 5,
+    "examples": [
+      {
+        "name": "Are You On Superlink?",
+        "percent": 55.1
+      },
+      {
+        "name": "Might Need Pockets",
+        "percent": 52.3
+      },
+      {
+        "name": "Speed Kills",
+        "percent": 43.7
+      },
+      {
+        "name": "Bond of Blood",
+        "percent": 4.8
+      },
+      {
+        "name": "It's All Connected",
+        "percent": 3.7
+      },
+      {
+        "name": "Big Game Hunter",
+        "percent": 3.6
+      },
+      {
+        "name": "T.H.R.E.A.T. Eliminated",
+        "percent": 2.4
+      },
+      {
+        "name": "Shocking Development",
+        "percent": 1.8
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Marvel's_Midnight_Suns",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 500,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://marvel.fandom.com/wiki/Marvel's_Midnight_Suns"
+    }
+  },
+  "game": {
+    "id": "marvels-midnight-suns",
+    "title": "Marvel's Midnight Suns",
+    "platforms": [
+      "PlayStation 5",
+      "Xbox Series X|S",
+      "PlayStation 4",
+      "PC",
+      "Xbox One"
+    ],
+    "blurb": "Tactical card-battle RPG with a home base at the Abbey, from Firaxis, released 2022-12-02. RAWG average playtime: 8 hours. Genres: RPG, Strategy. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#5B2C83",
+    "chapters": [
+      {
+        "id": "main-story",
+        "title": "The Main Story",
+        "summary": "The campaign told as hidden milestones, plus the Dracula Tomb mission. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "abbey",
+        "title": "Life at the Abbey",
+        "summary": "Friendships, the Hunter's Quarters and look, crafting at the Item Bench, Forge and Cauldron, clubs, sparring, pets, the THREAT Room and Light or Dark Balance.",
+        "steps": []
+      },
+      {
+        "id": "abbey-grounds",
+        "title": "Exploring the Abbey Grounds",
+        "summary": "Havens, Words of Power, Arcane Chests, Reagents and the mysteries of the grounds.",
+        "steps": []
+      },
+      {
+        "id": "combat",
+        "title": "Missions and Combat",
+        "summary": "Mission Challenges, hero-led missions, environmentals, knockbacks, Heroism, combos and other battle feats.",
+        "steps": []
+      },
+      {
+        "id": "dlc-deadpool",
+        "title": "The Good, the Bad, and the Undead",
+        "summary": "Deadpool's story missions, research and Midnight Sun Challenge.",
+        "steps": []
+      },
+      {
+        "id": "dlc-venom",
+        "title": "Redemption",
+        "summary": "Venom's story missions, research and Midnight Sun Challenge.",
+        "steps": []
+      },
+      {
+        "id": "dlc-morbius",
+        "title": "The Hunger",
+        "summary": "Morbius' story missions, research and Midnight Sun Challenge.",
+        "steps": []
+      },
+      {
+        "id": "dlc-storm",
+        "title": "Blood Storm",
+        "summary": "Storm's story missions, research and Midnight Sun Challenge.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Lilith Returns",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-2",
+        "name": "Oshtur's Gift",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-3",
+        "name": "A Light Extinguished",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-4",
+        "name": "Big Mad",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-5",
+        "name": "Family is Forever",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-6",
+        "name": "Are You On Superlink?",
+        "kind": "trophy",
+        "chapterId": "abbey",
+        "where": "Gain a Friendship Level with any hero."
+      },
+      {
+        "id": "achievement-7",
+        "name": "Did We Just Become Best Friends?",
+        "kind": "trophy",
+        "chapterId": "abbey",
+        "where": "Reach the maximum Friendship Level with any hero."
+      },
+      {
+        "id": "achievement-8",
+        "name": "Friendship is Magic",
+        "kind": "trophy",
+        "chapterId": "abbey",
+        "where": "Reach the maximum Team Friendship Level in the Abbey."
+      },
+      {
+        "id": "achievement-9",
+        "name": "Hunter the Explorer",
+        "kind": "trophy",
+        "chapterId": "abbey-grounds",
+        "where": "Find every Haven on the Abbey Grounds in a single campaign."
+      },
+      {
+        "id": "achievement-10",
+        "name": "Cape of Many Colors",
+        "kind": "trophy",
+        "chapterId": "abbey",
+        "where": "Apply a Suit palette to every Hero in a single campaign."
+      },
+      {
+        "id": "achievement-11",
+        "name": "And Look Good Doing It",
+        "kind": "trophy",
+        "chapterId": "abbey",
+        "where": "Spend 1500 Gloss on cosmetic options for the Hunter."
+      },
+      {
+        "id": "achievement-12",
+        "name": "Make a House a Home",
+        "kind": "trophy",
+        "chapterId": "abbey",
+        "where": "Purchase 10 different upgrades for the Hunter's Quarters."
+      },
+      {
+        "id": "achievement-13",
+        "name": "Might Need Pockets",
+        "kind": "trophy",
+        "chapterId": "abbey",
+        "where": "Craft a combat item at the Item Bench."
+      },
+      {
+        "id": "achievement-14",
+        "name": "Fire Burn and Cauldron Bubble",
+        "kind": "trophy",
+        "chapterId": "abbey",
+        "where": "Use Agatha's Cauldron to complete a Recipe."
+      },
+      {
+        "id": "achievement-15",
+        "name": "With a Box of Scraps",
+        "kind": "trophy",
+        "chapterId": "abbey",
+        "where": "Craft a hero ability card in the Forge."
+      },
+      {
+        "id": "achievement-16",
+        "name": "You Absolute Legend",
+        "kind": "trophy",
+        "chapterId": "abbey",
+        "where": "Complete a Midnight Sun Challenge in the Forge."
+      },
+      {
+        "id": "achievement-17",
+        "name": "Fully Operational",
+        "kind": "trophy",
+        "chapterId": "abbey",
+        "where": "Build every Abbey upgrade in a single campaign."
+      },
+      {
+        "id": "achievement-18",
+        "name": "The Best Girl",
+        "kind": "trophy",
+        "chapterId": "abbey",
+        "where": "Pet Charlie 15 days in a row."
+      },
+      {
+        "id": "achievement-19",
+        "name": "Unrequited Love",
+        "kind": "trophy",
+        "chapterId": "abbey",
+        "where": "Pet Ebony on 4 different days."
+      },
+      {
+        "id": "achievement-20",
+        "name": "Extracurricular Activities",
+        "kind": "trophy",
+        "chapterId": "abbey",
+        "where": "Attend all Abbey Club meetings in a single campaign."
+      },
+      {
+        "id": "achievement-21",
+        "name": "Spread the Pain",
+        "kind": "trophy",
+        "chapterId": "abbey",
+        "where": "Complete a Daily Sparring session with every hero."
+      },
+      {
+        "id": "achievement-22",
+        "name": "Some Minor Adjustments",
+        "kind": "trophy",
+        "chapterId": "abbey",
+        "where": "Apply mods to 10 different hero abilities."
+      },
+      {
+        "id": "achievement-23",
+        "name": "T.H.R.E.A.T. Eliminated",
+        "kind": "trophy",
+        "chapterId": "abbey",
+        "where": "Survive 3 turns in the THREAT Room with every hero."
+      },
+      {
+        "id": "achievement-24",
+        "name": "Elemental, My Dear Agatha",
+        "kind": "trophy",
+        "chapterId": "abbey-grounds",
+        "where": "Solve the mystery of Agatha's Altar."
+      },
+      {
+        "id": "achievement-25",
+        "name": "Atum's Call",
+        "kind": "trophy",
+        "chapterId": "abbey-grounds",
+        "where": "Acquire the \"Reveal\" Word of Power."
+      },
+      {
+        "id": "achievement-26",
+        "name": "Hyppus' Aid",
+        "kind": "trophy",
+        "chapterId": "abbey-grounds",
+        "where": "Acquire the \"Purify\" Word of Power."
+      },
+      {
+        "id": "achievement-27",
+        "name": "Set's Favor",
+        "kind": "trophy",
+        "chapterId": "abbey-grounds",
+        "where": "Acquire the \"Break\" Word of Power."
+      },
+      {
+        "id": "achievement-28",
+        "name": "The Keymaster",
+        "kind": "trophy",
+        "chapterId": "abbey-grounds",
+        "where": "Open 25 Arcane Chests."
+      },
+      {
+        "id": "achievement-29",
+        "name": "Wisdom of the Woods",
+        "kind": "trophy",
+        "chapterId": "abbey-grounds",
+        "where": "Collect 10 of every Reagent."
+      },
+      {
+        "id": "achievement-30",
+        "name": "A Coven Restored",
+        "kind": "trophy",
+        "chapterId": "abbey-grounds",
+        "where": "Solve the mystery of Hiram Shaw's church."
+      },
+      {
+        "id": "achievement-31",
+        "name": "A Mother's Gift",
+        "kind": "trophy",
+        "chapterId": "abbey-grounds",
+        "where": "Solve the mystery of Lilith's Garden."
+      },
+      {
+        "id": "achievement-32",
+        "name": "A Shining Light",
+        "kind": "trophy",
+        "chapterId": "abbey",
+        "where": "Reach maximum Light Balance."
+      },
+      {
+        "id": "achievement-33",
+        "name": "A Growing Darkness",
+        "kind": "trophy",
+        "chapterId": "abbey",
+        "where": "Reach maximum Dark Balance."
+      },
+      {
+        "id": "achievement-34",
+        "name": "Fully Armed",
+        "kind": "trophy",
+        "chapterId": "abbey",
+        "where": "Acquire every Hunter ability."
+      },
+      {
+        "id": "achievement-35",
+        "name": "Challenge Accepted",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Complete 10 Mission Challenges."
+      },
+      {
+        "id": "achievement-36",
+        "name": "You Have the Lead",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Complete a general mission led by every hero."
+      },
+      {
+        "id": "achievement-37",
+        "name": "Back in Time for Lunch",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Complete a general mission in 2 turns or less."
+      },
+      {
+        "id": "achievement-38",
+        "name": "We Have Ways",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Interrogate 5 enemies."
+      },
+      {
+        "id": "achievement-39",
+        "name": "KKRRAKATHOOM",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Spend 10 Heroism with a single ability."
+      },
+      {
+        "id": "achievement-40",
+        "name": "Quantity is Quality",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Use 8 hero abilities in a single turn."
+      },
+      {
+        "id": "achievement-41",
+        "name": "Collateral Damage",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "KO 4 enemies with a single environmental."
+      },
+      {
+        "id": "achievement-42",
+        "name": "Dream Team",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "KO a villain with a Hero Combo."
+      },
+      {
+        "id": "achievement-43",
+        "name": "Speed Kills",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "KO a villain with a Quick ability."
+      },
+      {
+        "id": "achievement-44",
+        "name": "Kitchen Sink",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Use 5 environmentals in a single turn."
+      },
+      {
+        "id": "achievement-45",
+        "name": "Wilhelm Scream",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Knockback 2 enemies into Drops in a single turn."
+      },
+      {
+        "id": "achievement-46",
+        "name": "Not a Scratch",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Complete a general mission where no hero takes Health damage."
+      },
+      {
+        "id": "achievement-47",
+        "name": "Pinball Wizard",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "KO multiple enemies with a single Knockback 25 times."
+      },
+      {
+        "id": "achievement-48",
+        "name": "Needful Things",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Use 25 combat items."
+      },
+      {
+        "id": "achievement-49",
+        "name": "Trading Up",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Redraw 75 cards."
+      },
+      {
+        "id": "achievement-50",
+        "name": "Big Guns",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Use 3 different Legendary hero abilities in a single mission."
+      },
+      {
+        "id": "achievement-51",
+        "name": "Big Game Hunter",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Obtain all other Midnight Suns Achievements"
+      },
+      {
+        "id": "achievement-52",
+        "name": "The Good, the Bad, and the Undead",
+        "kind": "trophy",
+        "chapterId": "dlc-deadpool",
+        "where": "Complete all Deadpool story missions."
+      },
+      {
+        "id": "achievement-53",
+        "name": "Dr. Deadpool, MD, PhD, JD, RN, CPA",
+        "kind": "trophy",
+        "chapterId": "dlc-deadpool",
+        "where": "Complete all Deadpool research."
+      },
+      {
+        "id": "achievement-54",
+        "name": "That Special Feeling",
+        "kind": "trophy",
+        "chapterId": "dlc-deadpool",
+        "where": "Complete Deadpool's Midnight Sun Challenge mission."
+      },
+      {
+        "id": "achievement-55",
+        "name": "Time to Make the Chimichangas!",
+        "kind": "trophy",
+        "chapterId": "dlc-deadpool",
+        "where": "Reach maximum En Fuego with Deadpool."
+      },
+      {
+        "id": "achievement-56",
+        "name": "Hemophobic",
+        "kind": "trophy",
+        "chapterId": "dlc-deadpool",
+        "where": "Complete a Vampyre mission without any hero gaining Bleed from a Vampyre Bite."
+      },
+      {
+        "id": "achievement-57",
+        "name": "Redemption",
+        "kind": "trophy",
+        "chapterId": "dlc-venom",
+        "where": "Complete all Venom story missions."
+      },
+      {
+        "id": "achievement-58",
+        "name": "Comeback King",
+        "kind": "trophy",
+        "chapterId": "dlc-venom",
+        "where": "Complete all Venom research."
+      },
+      {
+        "id": "achievement-59",
+        "name": "Lethal Protector",
+        "kind": "trophy",
+        "chapterId": "dlc-venom",
+        "where": "Complete Venom's Midnight Sun Challenge mission."
+      },
+      {
+        "id": "achievement-60",
+        "name": "Never Been Satisfied",
+        "kind": "trophy",
+        "chapterId": "dlc-venom",
+        "where": "Completely spend and then refill Venom's Ravenous meter in a single encounter."
+      },
+      {
+        "id": "achievement-61",
+        "name": "It's All Connected",
+        "kind": "trophy",
+        "chapterId": "dlc-venom",
+        "where": "Modify 5 general missions using the Whisper Web."
+      },
+      {
+        "id": "achievement-62",
+        "name": "The Hunger",
+        "kind": "trophy",
+        "chapterId": "dlc-morbius",
+        "where": "Complete all Morbius story missions."
+      },
+      {
+        "id": "achievement-63",
+        "name": "Beyond Biochemistry",
+        "kind": "trophy",
+        "chapterId": "dlc-morbius",
+        "where": "Complete all Morbius Research."
+      },
+      {
+        "id": "achievement-64",
+        "name": "Bond of Blood",
+        "kind": "trophy",
+        "chapterId": "dlc-morbius",
+        "where": "Complete Morbius' Midnight Sun Challenge mission."
+      },
+      {
+        "id": "achievement-65",
+        "name": "Living Vampire",
+        "kind": "trophy",
+        "chapterId": "dlc-morbius",
+        "where": "Use Morbius' \"Bloodlust\" on the first turn, then retain Bloodlust for the rest of the mission."
+      },
+      {
+        "id": "achievement-66",
+        "name": "What's In This, Anyway?",
+        "kind": "trophy",
+        "chapterId": "dlc-morbius",
+        "where": "Apply stat modifications to 5 different heroes using the Laboratory."
+      },
+      {
+        "id": "achievement-67",
+        "name": "Blood Storm",
+        "kind": "trophy",
+        "chapterId": "dlc-storm",
+        "where": "Complete all Storm story missions."
+      },
+      {
+        "id": "achievement-68",
+        "name": "Elemental Teachings",
+        "kind": "trophy",
+        "chapterId": "dlc-storm",
+        "where": "Complete all Storm Research."
+      },
+      {
+        "id": "achievement-69",
+        "name": "Blessings of the Goddess",
+        "kind": "trophy",
+        "chapterId": "dlc-storm",
+        "where": "Complete Storm's Midnight Sun Challenge mission."
+      },
+      {
+        "id": "achievement-70",
+        "name": "Patience, Young One",
+        "kind": "trophy",
+        "chapterId": "dlc-storm",
+        "where": "Play 3 Storm abilities with activated Next Turn bonuses on the same turn."
+      },
+      {
+        "id": "achievement-71",
+        "name": "Shocking Development",
+        "kind": "trophy",
+        "chapterId": "dlc-storm",
+        "where": "Stun 4 enemies with Storm abilities in a single turn."
+      },
+      {
+        "id": "achievement-72",
+        "name": "Dracula's Tomb",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Complete the Dracula Tomb's mission."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/marvels-midnight-suns",
+    "Achievement data from Steam (Steam Web API, app 368260)",
+    "StrategyWiki: no usable walkthrough, nothing used — https://strategywiki.org/wiki/Marvel's_Midnight_Suns",
+    "Fandom (marvel.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://marvel.fandom.com/wiki/Marvel's_Midnight_Suns"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). StrategyWiki has a stub page (completion stage 0); its Walkthrough, Gameplay and Table of Contents subpages are linked but none is written (the subpage list is empty), so nothing was used. marvel.fandom.com answers the API under \"Marvel's Midnight Suns\", with 500 linked articles (the most the API returns in one call), mostly characters marked Earth-22145; names only were looked at, nothing copied. Only 5 of 72 Steam achievements are hidden; they sit in the main story chapter. The four add-on chapters take their names from RAWG, which lists \"The Good, the Bad, and the Undead\", \"Redemption\", \"The Hunger\" and \"Blood Storm\" as their own entries; the achievements name Deadpool, Venom, Morbius and Storm. Each hero has five achievements in a block on the Steam list, so \"Hemophobic\" (Vampyre missions), \"It's All Connected\" (Whisper Web) and \"What's In This, Anyway?\" (Laboratory) were put with the hero block they sit in; these are guesses from position and need checking. \"Dracula's Tomb\" sits last on the list and was put in the main story chapter; \"Big Game Hunter\" (all other achievements) was put there too."
+}

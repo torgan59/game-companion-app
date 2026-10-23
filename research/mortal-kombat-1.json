@@ -1,0 +1,512 @@
+{
+  "id": "mortal-kombat-1",
+  "title": "Mortal Kombat 1",
+  "year": 2023,
+  "platforms": [
+    "PC",
+    "PlayStation 5",
+    "Xbox Series X|S",
+    "Nintendo Switch"
+  ],
+  "rawgId": 960873,
+  "rawgSlug": "mortal-kombat-1-2023",
+  "released": "2023-09-19",
+  "developers": [
+    "NetherRealm Studios",
+    "QLOC"
+  ],
+  "playtime": 10,
+  "genres": [
+    "Action",
+    "Fighting"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Multiplayer",
+    "Full controller support",
+    "Steam Cloud",
+    "Atmospheric",
+    "Story Rich",
+    "Horror",
+    "Gore",
+    "Violent",
+    "Split Screen",
+    "PvP"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/155/155087d7b9c1225cda0ab9e586b6374d.jpg",
+  "steamAppId": 1971870,
+  "achievements": {
+    "total": 50,
+    "hidden": 0,
+    "examples": [
+      {
+        "name": "Titan",
+        "percent": 61.0
+      },
+      {
+        "name": "Beaten And Broken",
+        "percent": 42.9
+      },
+      {
+        "name": "A New Timeline",
+        "percent": 40.8
+      },
+      {
+        "name": "Annihilation",
+        "percent": 5.3
+      },
+      {
+        "name": "Who Was That???",
+        "percent": 5.0
+      },
+      {
+        "name": "High Score, Is That Good?",
+        "percent": 4.9
+      },
+      {
+        "name": "Happy Endings",
+        "percent": 3.9
+      },
+      {
+        "name": "Rollin' With My Krew",
+        "percent": 2.3
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Mortal_Kombat_1",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 306,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://mortalkombat.fandom.com/wiki/Mortal_Kombat_1"
+    }
+  },
+  "game": {
+    "id": "mortal-kombat-1",
+    "title": "Mortal Kombat 1",
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "Xbox Series X|S",
+      "Nintendo Switch"
+    ],
+    "blurb": "Fighting game with Story Mode, Invasions and Towers, from NetherRealm Studios, released 2023-09-19. RAWG average playtime: 10 hours. Genres: Action, Fighting. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#C8A23C",
+    "chapters": [
+      {
+        "id": "story-mode",
+        "title": "Story Mode",
+        "summary": "Story Mode Part 1, Chapter 15 and the end credits.",
+        "steps": []
+      },
+      {
+        "id": "tutorials",
+        "title": "Tutorials and Practice",
+        "summary": "The Basic Tutorial, the Cage Mansion Tutorial and time in Practice.",
+        "steps": []
+      },
+      {
+        "id": "invasions",
+        "title": "Invasions",
+        "summary": "Invasions levels, encounters, bosses, shops, Titan battles, keys, secret fights and ambushes.",
+        "steps": []
+      },
+      {
+        "id": "talismans-and-relics",
+        "title": "Talismans, Relics and Konsumables",
+        "summary": "Using, forging and recharging Talismans, equipping Relics and using Konsumables.",
+        "steps": []
+      },
+      {
+        "id": "towers",
+        "title": "Klassic Towers and Towers of Time",
+        "summary": "Klassic Towers with different fighters, Tower Endings and Towers of Time scores.",
+        "steps": []
+      },
+      {
+        "id": "online",
+        "title": "Online: Kombat League and Matches",
+        "summary": "Kombat League sets and taunting in online matches. Needs a network connection.",
+        "steps": []
+      },
+      {
+        "id": "kombat",
+        "title": "Fatalities, Kameos and Progress",
+        "summary": "Damage and blood totals, Fatalities, Brutalities, Kameo fighters, the Shrine, quests, Seasonal Kredits and your Kombat Kard.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Become A Ninja In No Time",
+        "kind": "trophy",
+        "chapterId": "tutorials",
+        "where": "Komplete The Basic Tutorial"
+      },
+      {
+        "id": "achievement-2",
+        "name": "Eye Of The TaiGore",
+        "kind": "trophy",
+        "chapterId": "tutorials",
+        "where": "Spend A Total Of 1 Hour In Practice"
+      },
+      {
+        "id": "achievement-3",
+        "name": "A New Timeline",
+        "kind": "trophy",
+        "chapterId": "story-mode",
+        "where": "Komplete 50% Of Story Mode Part 1"
+      },
+      {
+        "id": "achievement-4",
+        "name": "What Just Happened??",
+        "kind": "trophy",
+        "chapterId": "story-mode",
+        "where": "Komplete 100% Of Story Mode Part 1"
+      },
+      {
+        "id": "achievement-5",
+        "name": "Who Was That???",
+        "kind": "trophy",
+        "chapterId": "story-mode",
+        "where": "Komplete Chapter 15 Twice"
+      },
+      {
+        "id": "achievement-6",
+        "name": "Titan",
+        "kind": "trophy",
+        "chapterId": "kombat",
+        "where": "Deal 10,000 Damage To Opponents"
+      },
+      {
+        "id": "achievement-7",
+        "name": "Beaten And Broken",
+        "kind": "trophy",
+        "chapterId": "kombat",
+        "where": "Spill 5,000 Pints Of Blood"
+      },
+      {
+        "id": "achievement-8",
+        "name": "It Has Begun!!!",
+        "kind": "trophy",
+        "chapterId": "tutorials",
+        "where": "Komplete Cage Mansion Tutorial"
+      },
+      {
+        "id": "achievement-9",
+        "name": "Kontender",
+        "kind": "trophy",
+        "chapterId": "online",
+        "where": "Play 5 Kombat League Sets"
+      },
+      {
+        "id": "achievement-10",
+        "name": "Deadly Assassin",
+        "kind": "trophy",
+        "chapterId": "kombat",
+        "where": "Perform 20 Different Fatalities"
+      },
+      {
+        "id": "achievement-11",
+        "name": "Karnage",
+        "kind": "trophy",
+        "chapterId": "kombat",
+        "where": "Perform 10 Different Brutalities"
+      },
+      {
+        "id": "achievement-12",
+        "name": "Annihilation",
+        "kind": "trophy",
+        "chapterId": "kombat",
+        "where": "Perform 10 Different Kameo Fatalities"
+      },
+      {
+        "id": "achievement-13",
+        "name": "Making Friends Is Easy",
+        "kind": "trophy",
+        "chapterId": "kombat",
+        "where": "Use 10 Different Kameo Characters"
+      },
+      {
+        "id": "achievement-14",
+        "name": "Puppet Master",
+        "kind": "trophy",
+        "chapterId": "towers",
+        "where": "Komplete A Klassic Tower With 5 Different Characters"
+      },
+      {
+        "id": "achievement-15",
+        "name": "Give A Koin",
+        "kind": "trophy",
+        "chapterId": "kombat",
+        "where": "Spend 10,000 Koins On The Shrine"
+      },
+      {
+        "id": "achievement-16",
+        "name": "Test Your Might",
+        "kind": "trophy",
+        "chapterId": "invasions",
+        "where": "Komplete 5 Unique Test Your Might Encounters"
+      },
+      {
+        "id": "achievement-17",
+        "name": "So I Just Kill Stuff??",
+        "kind": "trophy",
+        "chapterId": "invasions",
+        "where": "Komplete 5 Unique Encounters"
+      },
+      {
+        "id": "achievement-18",
+        "name": "Adventure Time",
+        "kind": "trophy",
+        "chapterId": "invasions",
+        "where": "Komplete 25 Unique Encounters"
+      },
+      {
+        "id": "achievement-19",
+        "name": "King Slayer",
+        "kind": "trophy",
+        "chapterId": "invasions",
+        "where": "Dethrone A King"
+      },
+      {
+        "id": "achievement-20",
+        "name": "Buddy System",
+        "kind": "trophy",
+        "chapterId": "kombat",
+        "where": "Komplete Mastery With 1 Kameo Character"
+      },
+      {
+        "id": "achievement-21",
+        "name": "Rollin' With My Krew",
+        "kind": "trophy",
+        "chapterId": "kombat",
+        "where": "Komplete Mastery With 5 Kameo Characters"
+      },
+      {
+        "id": "achievement-22",
+        "name": "Where's Blanche",
+        "kind": "trophy",
+        "chapterId": "invasions",
+        "where": "Trade For An Item From An Outworld Shop"
+      },
+      {
+        "id": "achievement-23",
+        "name": "Take And Deny",
+        "kind": "trophy",
+        "chapterId": "invasions",
+        "where": "Trade For An Item From An Earthrealm Shop"
+      },
+      {
+        "id": "achievement-24",
+        "name": "Ultimate Power",
+        "kind": "trophy",
+        "chapterId": "talismans-and-relics",
+        "where": "Use A Talisman"
+      },
+      {
+        "id": "achievement-25",
+        "name": "Talis-Mania",
+        "kind": "trophy",
+        "chapterId": "talismans-and-relics",
+        "where": "Use A Talisman 10 Times"
+      },
+      {
+        "id": "achievement-26",
+        "name": "Running On Empty",
+        "kind": "trophy",
+        "chapterId": "talismans-and-relics",
+        "where": "Recharge A Talisman"
+      },
+      {
+        "id": "achievement-27",
+        "name": "So Krafty",
+        "kind": "trophy",
+        "chapterId": "talismans-and-relics",
+        "where": "Forge A Talisman"
+      },
+      {
+        "id": "achievement-28",
+        "name": "Feeling Stronger",
+        "kind": "trophy",
+        "chapterId": "invasions",
+        "where": "Reach Invasions Level 5"
+      },
+      {
+        "id": "achievement-29",
+        "name": "Unstoppable",
+        "kind": "trophy",
+        "chapterId": "invasions",
+        "where": "Reach Invasions Level 10"
+      },
+      {
+        "id": "achievement-30",
+        "name": "Juggernaut",
+        "kind": "trophy",
+        "chapterId": "invasions",
+        "where": "Reach Invasions Level 20"
+      },
+      {
+        "id": "achievement-31",
+        "name": "Not So Big Now, Are You??",
+        "kind": "trophy",
+        "chapterId": "invasions",
+        "where": "Defeat A Mini Boss In Invasions"
+      },
+      {
+        "id": "achievement-32",
+        "name": "Who Da Boss??",
+        "kind": "trophy",
+        "chapterId": "invasions",
+        "where": "Defeat A Major Boss In Invasions"
+      },
+      {
+        "id": "achievement-33",
+        "name": "Vanquished",
+        "kind": "trophy",
+        "chapterId": "invasions",
+        "where": "Defeat The Final Boss Of An Invasions Season"
+      },
+      {
+        "id": "achievement-34",
+        "name": "Always Accessorize",
+        "kind": "trophy",
+        "chapterId": "talismans-and-relics",
+        "where": "Equip A Relic"
+      },
+      {
+        "id": "achievement-35",
+        "name": "Kollector",
+        "kind": "trophy",
+        "chapterId": "talismans-and-relics",
+        "where": "Equip 3 Different Relics"
+      },
+      {
+        "id": "achievement-36",
+        "name": "The Mighty Have Fallen",
+        "kind": "trophy",
+        "chapterId": "invasions",
+        "where": "Komplete A Titan Battle"
+      },
+      {
+        "id": "achievement-37",
+        "name": "ABACABB",
+        "kind": "trophy",
+        "chapterId": "invasions",
+        "where": "Use A Key"
+      },
+      {
+        "id": "achievement-38",
+        "name": "Made It Out Alive",
+        "kind": "trophy",
+        "chapterId": "invasions",
+        "where": "Komplete A Survival Encounter"
+      },
+      {
+        "id": "achievement-39",
+        "name": "Make Way, I'm Koming Through",
+        "kind": "trophy",
+        "chapterId": "invasions",
+        "where": "Klear An Obstruction In Invasions"
+      },
+      {
+        "id": "achievement-40",
+        "name": "Found You",
+        "kind": "trophy",
+        "chapterId": "invasions",
+        "where": "Unlock A Secret Fight"
+      },
+      {
+        "id": "achievement-41",
+        "name": "Stop Hiding",
+        "kind": "trophy",
+        "chapterId": "invasions",
+        "where": "Survive An Ambush"
+      },
+      {
+        "id": "achievement-42",
+        "name": "Quest Master",
+        "kind": "trophy",
+        "chapterId": "kombat",
+        "where": "Komplete 3 Daily Quests"
+      },
+      {
+        "id": "achievement-43",
+        "name": "Working Overtime",
+        "kind": "trophy",
+        "chapterId": "kombat",
+        "where": "Komplete A Weekly Quest"
+      },
+      {
+        "id": "achievement-44",
+        "name": "High Score, Is That Good?",
+        "kind": "trophy",
+        "chapterId": "towers",
+        "where": "Obtain A Total Score Of 5,000,000 In Towers Of Time"
+      },
+      {
+        "id": "achievement-45",
+        "name": "There Is No Knowledge That Is Not Power",
+        "kind": "trophy",
+        "chapterId": "talismans-and-relics",
+        "where": "Use 10 Konsumables"
+      },
+      {
+        "id": "achievement-46",
+        "name": "Happy Endings",
+        "kind": "trophy",
+        "chapterId": "towers",
+        "where": "Unlock 10 Tower Endings"
+      },
+      {
+        "id": "achievement-47",
+        "name": "Big Spender",
+        "kind": "trophy",
+        "chapterId": "kombat",
+        "where": "Spend 10,000 Seasonal Kredits"
+      },
+      {
+        "id": "achievement-48",
+        "name": "Total Disrespect",
+        "kind": "trophy",
+        "chapterId": "online",
+        "where": "Perform A Taunt Without Being Interrupted During An Online Match"
+      },
+      {
+        "id": "achievement-49",
+        "name": "Thank You For Being A Fan!!!",
+        "kind": "trophy",
+        "chapterId": "story-mode",
+        "where": "Watch The Kredits"
+      },
+      {
+        "id": "achievement-50",
+        "name": "Witness Me!!!",
+        "kind": "trophy",
+        "chapterId": "kombat",
+        "where": "Change Your Kombat Kard Player Module"
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/mortal-kombat-1-2023",
+    "Achievement data from Steam (Steam Web API, app 1971870)",
+    "StrategyWiki: no usable walkthrough, nothing used — https://strategywiki.org/wiki/Mortal_Kombat_1",
+    "Fandom (mortalkombat.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://mortalkombat.fandom.com/wiki/Mortal_Kombat_1"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). RAWG's plain \"mortal-kombat-1\" slug is the 1992 game; the 2023 game is \"mortal-kombat-1-2023\" (id 960873), which was the first search result. StrategyWiki has a page for the 2023 game (completion stage 0); it links Chapter 1: A New Era to Chapter 20: Shadow Play, a Walkthrough and character pages, but the only written subpage is \"Table of Contents\", so nothing was used. mortalkombat.fandom.com answers the API with about 306 linked articles, including \"Mortal Kombat 1's Story Mode\", \"Invasion\", \"Towers of Time\", \"Kameo Fighters\" and \"Titans\"; names only were looked at, nothing copied. Steam app 1971870 is \"Mortal Kombat 1\". None of its 50 Steam achievements is hidden. The Talisman, Relic and Konsumable achievements do not name a mode; they have their own chapter. Kombat League and online matches need a network connection."
+}

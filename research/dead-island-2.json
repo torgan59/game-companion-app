@@ -1,0 +1,574 @@
+{
+  "id": "dead-island-2",
+  "title": "Dead Island 2",
+  "year": 2023,
+  "platforms": [
+    "PC",
+    "Xbox Series X|S",
+    "PlayStation 4",
+    "PlayStation 5",
+    "Xbox One"
+  ],
+  "rawgId": 42857,
+  "rawgSlug": "dead-island-2",
+  "released": "2023-04-21",
+  "developers": [
+    "Dambuster Studios"
+  ],
+  "playtime": 11,
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Multiplayer",
+    "Full controller support",
+    "Steam Cloud",
+    "Atmospheric",
+    "Co-op",
+    "cooperative",
+    "First-Person",
+    "Horror",
+    "FPS",
+    "Online Co-Op"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/9cd/9cd22ae5aebd922f96f2bc50efab83df.jpg",
+  "steamAppId": 934700,
+  "achievements": {
+    "total": 59,
+    "hidden": 27,
+    "examples": [
+      {
+        "name": "Break A Leg",
+        "percent": 65.0
+      },
+      {
+        "name": "Hazardous Materials",
+        "percent": 53.1
+      },
+      {
+        "name": "Coup de Grâce",
+        "percent": 51.1
+      },
+      {
+        "name": "The Direct Approach",
+        "percent": 4.1
+      },
+      {
+        "name": "Rip 'n' Tear",
+        "percent": 3.0
+      },
+      {
+        "name": "Bucket List",
+        "percent": 2.4
+      },
+      {
+        "name": "Wilhelm",
+        "percent": 2.3
+      },
+      {
+        "name": "Groundhog Slay",
+        "percent": 1.9
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": false,
+      "pages": 0,
+      "reason": "No page for Dead Island 2 (MediaWiki API returned missing; see notes for other titles tried)"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 271,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://deadisland.fandom.com/wiki/Dead_Island_2"
+    }
+  },
+  "game": {
+    "id": "dead-island-2",
+    "title": "Dead Island 2",
+    "platforms": [
+      "PC",
+      "Xbox Series X|S",
+      "PlayStation 4",
+      "PlayStation 5",
+      "Xbox One"
+    ],
+    "blurb": "First-person zombie action RPG set in Los Angeles, with online co-op, from Dambuster Studios, released 2023-04-21. RAWG average playtime: 11 hours. Genres: Action, Adventure. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#E8562A",
+    "chapters": [
+      {
+        "id": "main-story",
+        "title": "The Main Story",
+        "summary": "The story quests across Hell-A and their hidden milestones. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "side-quests",
+        "title": "Side Quests and Lost & Found",
+        "summary": "Non-story quests and the Lost & Found weapon and missing person quests.",
+        "steps": []
+      },
+      {
+        "id": "challenges",
+        "title": "Challenges and the Zompedia",
+        "summary": "Zombie, Weapon, Combat, Survivor, Exploration and Blueprint Challenges, and every zombie type.",
+        "steps": []
+      },
+      {
+        "id": "loot-and-progress",
+        "title": "Loot, Collectibles and Levels",
+        "summary": "Legendary weapons, Zombie Lockboxes, Journals, Skill Cards, upgrading weapons and reaching level 30.",
+        "steps": []
+      },
+      {
+        "id": "combat",
+        "title": "Combat Feats",
+        "summary": "Fury Attacks, elemental damage, maiming, finishers, defensive moves and other ways to slay.",
+        "steps": []
+      },
+      {
+        "id": "co-op",
+        "title": "Co-op",
+        "summary": "Quests and revives with other Slayers online.",
+        "steps": []
+      },
+      {
+        "id": "new-game-plus",
+        "title": "New Game+",
+        "summary": "Finishing every story quest again in NG+.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Welcome To Hell-A",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-2",
+        "name": "Hotel California",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-3",
+        "name": "Personal Assistant Personally Assisted",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-4",
+        "name": "Git Gutte!",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-5",
+        "name": "Friends Like These",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-6",
+        "name": "Dr. Reed, I Presume?",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-7",
+        "name": "But Doctor, I Am Butcho",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-8",
+        "name": "Can't Handle the Truth",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-9",
+        "name": "Like Riding a Bike",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-10",
+        "name": "A Patton Emerges",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-11",
+        "name": "Our True Nature",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-12",
+        "name": "Go, Bobcats!",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-13",
+        "name": "Make it So",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-14",
+        "name": "Gore Horse",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-15",
+        "name": "Internet Famous",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-16",
+        "name": "Making Your Mark",
+        "kind": "trophy",
+        "chapterId": "side-quests",
+        "where": "Complete 10 non-Story Quests."
+      },
+      {
+        "id": "achievement-17",
+        "name": "Rising Star",
+        "kind": "trophy",
+        "chapterId": "side-quests",
+        "where": "Complete 20 non-Story Quests."
+      },
+      {
+        "id": "achievement-18",
+        "name": "LA Influential",
+        "kind": "trophy",
+        "chapterId": "side-quests",
+        "where": "Complete 40 non-Story Quests."
+      },
+      {
+        "id": "achievement-19",
+        "name": "Ooh, Shiny!",
+        "kind": "trophy",
+        "chapterId": "loot-and-progress",
+        "where": "Find your first Legendary Weapon."
+      },
+      {
+        "id": "achievement-20",
+        "name": "Zombologist",
+        "kind": "trophy",
+        "chapterId": "challenges",
+        "where": "Unlock every zombie type in the Zompedia."
+      },
+      {
+        "id": "achievement-21",
+        "name": "On Safari",
+        "kind": "trophy",
+        "chapterId": "challenges",
+        "where": "Complete the first tier of every Zombie Challenge."
+      },
+      {
+        "id": "achievement-22",
+        "name": "Variety is the Spice of Death",
+        "kind": "trophy",
+        "chapterId": "challenges",
+        "where": "Complete the first tier of every Weapon Challenge."
+      },
+      {
+        "id": "achievement-23",
+        "name": "Bucket List",
+        "kind": "trophy",
+        "chapterId": "challenges",
+        "where": "Complete the first tier of every Combat Challenge."
+      },
+      {
+        "id": "achievement-24",
+        "name": "Survival Skills",
+        "kind": "trophy",
+        "chapterId": "challenges",
+        "where": "Complete the first tier of every Survivor Challenge."
+      },
+      {
+        "id": "achievement-25",
+        "name": "Smorgasbord",
+        "kind": "trophy",
+        "chapterId": "challenges",
+        "where": "Complete the first tier of every Exploration Challenge."
+      },
+      {
+        "id": "achievement-26",
+        "name": "Sharpest Tool in the Box",
+        "kind": "trophy",
+        "chapterId": "side-quests",
+        "where": "Complete 5 Lost & Found Weapon Quests."
+      },
+      {
+        "id": "achievement-27",
+        "name": "Sole Survivor",
+        "kind": "trophy",
+        "chapterId": "side-quests",
+        "where": "Complete all Lost & Found Missing Person Quests."
+      },
+      {
+        "id": "achievement-28",
+        "name": "Jumbo Keyring",
+        "kind": "trophy",
+        "chapterId": "loot-and-progress",
+        "where": "Unlock 10 Zombie Lockboxes."
+      },
+      {
+        "id": "achievement-29",
+        "name": "Bookworm",
+        "kind": "trophy",
+        "chapterId": "loot-and-progress",
+        "where": "Collect 50 Journals."
+      },
+      {
+        "id": "achievement-30",
+        "name": "Stacking the Deck",
+        "kind": "trophy",
+        "chapterId": "loot-and-progress",
+        "where": "Collect 30 Skill Cards."
+      },
+      {
+        "id": "achievement-31",
+        "name": "Humanity Distilled",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-32",
+        "name": "Max Headroom",
+        "kind": "trophy",
+        "chapterId": "loot-and-progress",
+        "where": "Reach level 30."
+      },
+      {
+        "id": "achievement-33",
+        "name": "Down with the Sickness",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-34",
+        "name": "Anger Management",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Slay 50 zombies with Fury Attacks."
+      },
+      {
+        "id": "achievement-35",
+        "name": "This is My Weapon",
+        "kind": "trophy",
+        "chapterId": "loot-and-progress",
+        "where": "Fully upgrade a Superior weapon and customize it with a mod or perk in every slot."
+      },
+      {
+        "id": "achievement-36",
+        "name": "Not Even My Final Form",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-37",
+        "name": "Hazardous Materials",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Slay 100 Zombies using Caustic, Fire, or Shock damage."
+      },
+      {
+        "id": "achievement-38",
+        "name": "Break A Leg",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Maim 100 limbs."
+      },
+      {
+        "id": "achievement-39",
+        "name": "Slayer Squad",
+        "kind": "trophy",
+        "chapterId": "co-op",
+        "where": "Complete any 5 quests in co-op."
+      },
+      {
+        "id": "achievement-40",
+        "name": "I Am the Resurrection",
+        "kind": "trophy",
+        "chapterId": "co-op",
+        "where": "Revive other Slayers 5 times."
+      },
+      {
+        "id": "achievement-41",
+        "name": "Coup de Grâce",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Slay 25 zombies using finishing moves."
+      },
+      {
+        "id": "achievement-42",
+        "name": "Perks of the Job",
+        "kind": "trophy",
+        "chapterId": "challenges",
+        "where": "Complete 5 Blueprint Challenges."
+      },
+      {
+        "id": "achievement-43",
+        "name": "Donk!",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Throw a melee weapon and hit a zombie 35+ meters away."
+      },
+      {
+        "id": "achievement-44",
+        "name": "Apex Predator",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Knock down 10 Apex Variants."
+      },
+      {
+        "id": "achievement-45",
+        "name": "I Got a Zombie Army and You Can't Harm Me",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Perform 25 perfect defensive moves."
+      },
+      {
+        "id": "achievement-46",
+        "name": "One of Us",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-47",
+        "name": "Pork Chopped",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-48",
+        "name": "Whatever It Takes",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-49",
+        "name": "Wilhelm",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Send 15 zombies to their doom in the bottomless pits."
+      },
+      {
+        "id": "achievement-50",
+        "name": "Top That, Tisha!",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Get five headshots with the Crossbow in quick succession."
+      },
+      {
+        "id": "achievement-51",
+        "name": "Lawn and Order",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-52",
+        "name": "Drop The Beat",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-53",
+        "name": "No Encores",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-54",
+        "name": "Three's a Crowd",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-55",
+        "name": "The Direct Approach",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Ram into 5 zombies in a single charge"
+      },
+      {
+        "id": "achievement-56",
+        "name": "Rip 'n' Tear",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Slay 5 zombies with a supercharged Ripper, and bisect 5 more with a Sawblade Launcher"
+      },
+      {
+        "id": "achievement-57",
+        "name": "Festival Clean Up Simulator",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-58",
+        "name": "Groundhog Slay",
+        "kind": "trophy",
+        "chapterId": "new-game-plus",
+        "where": "Complete all Story Quests in NG+. No actual groundhogs were harmed in the completion of this."
+      },
+      {
+        "id": "achievement-59",
+        "name": "Shoulda Stayed Dead",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/dead-island-2",
+    "Achievement data from Steam (Steam Web API, app 934700)",
+    "StrategyWiki: no page for this game, nothing used",
+    "Fandom (deadisland.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://deadisland.fandom.com/wiki/Dead_Island_2"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). No StrategyWiki page under \"Dead Island 2\" or \"Dead Island II\". deadisland.fandom.com answers the API with about 271 linked articles, mostly weapons and characters, plus places such as \"Halperin Hotel\", \"Venice Beach\", \"Ocean Park\" and \"Hollywood Boulevard\" and the add-on pages \"Haus (DLC)\" and \"SoLA (DLC)\"; names only were looked at, nothing copied. The Steam schema calls the app \"Project Phoenix\" (an internal codename); the store list confirms app 934700. 27 of 59 Steam achievements are hidden; all sit in the main story chapter. The first 15 fall steadily in unlock rate and read like story quests; the hidden ones further down the list, such as \"Lawn and Order\" (2%), \"Drop The Beat\", \"No Encores\", \"Three's a Crowd\", \"Festival Clean Up Simulator\" and \"Shoulda Stayed Dead\" (2%), have low rates and may belong to the Haus or SoLA add-ons (which RAWG lists as separate entries), but the data does not say. The co-op chapter needs online play."
+}

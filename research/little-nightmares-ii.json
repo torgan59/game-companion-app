@@ -1,0 +1,415 @@
+{
+  "id": "little-nightmares-ii",
+  "title": "Little Nightmares II",
+  "year": 2021,
+  "platforms": [
+    "PlayStation 5",
+    "Xbox Series X|S",
+    "PlayStation 4",
+    "Nintendo Switch",
+    "PC",
+    "Xbox One"
+  ],
+  "rawgId": 366881,
+  "rawgSlug": "little-nightmares-ii",
+  "released": "2021-02-10",
+  "developers": [
+    "Tarsier Studios"
+  ],
+  "playtime": 6,
+  "genres": [
+    "Action",
+    "Adventure",
+    "Platformer"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Full controller support",
+    "Steam Cloud",
+    "Atmospheric",
+    "Story Rich",
+    "Horror",
+    "Stealth",
+    "Action-Adventure",
+    "Dark",
+    "Steam Trading Cards",
+    "Thriller"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/c2a/c2a7dc4540eb79aaff7099ae691105d3.jpg",
+  "steamAppId": 860510,
+  "achievements": {
+    "total": 35,
+    "hidden": 17,
+    "examples": [
+      {
+        "name": "Mono Tones",
+        "percent": 24.4
+      },
+      {
+        "name": "Half hat",
+        "percent": 16.7
+      },
+      {
+        "name": "Evasive prey",
+        "percent": 16.6
+      },
+      {
+        "name": "Fly Free",
+        "percent": 6.3
+      },
+      {
+        "name": "Far Ahead",
+        "percent": 5.9
+      },
+      {
+        "name": "Popcorn",
+        "percent": 5.4
+      },
+      {
+        "name": "No More Remains",
+        "percent": 5.3
+      },
+      {
+        "name": "Primetime Content Consumer",
+        "percent": 3.9
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": false,
+      "pages": 0,
+      "reason": "No page for Little Nightmares II (MediaWiki API returned missing; see notes for other titles tried)"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 57,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://littlenightmares.fandom.com/wiki/Little_Nightmares_II_(video_game)"
+    }
+  },
+  "game": {
+    "id": "little-nightmares-ii",
+    "title": "Little Nightmares II",
+    "platforms": [
+      "PlayStation 5",
+      "Xbox Series X|S",
+      "PlayStation 4",
+      "Nintendo Switch",
+      "PC",
+      "Xbox One"
+    ],
+    "blurb": "Horror puzzle-platform adventure from Tarsier Studios, released 2021-02-10. RAWG average playtime: 6 hours. Genres: Action, Adventure, Platformer. Chapters are an estimate drawn from Steam achievement themes and Fandom location names.",
+    "accent": "#B8892B",
+    "chapters": [
+      {
+        "id": "the-wilderness",
+        "title": "The Wilderness",
+        "summary": "The opening area, and its hidden milestones.",
+        "steps": []
+      },
+      {
+        "id": "the-school",
+        "title": "The School",
+        "summary": "The school and the hidden milestones tied to it.",
+        "steps": []
+      },
+      {
+        "id": "the-hospital",
+        "title": "The Hospital",
+        "summary": "The hospital and the hidden milestones tied to it.",
+        "steps": []
+      },
+      {
+        "id": "the-pale-city",
+        "title": "The Pale City",
+        "summary": "The city and the hidden milestones tied to it.",
+        "steps": []
+      },
+      {
+        "id": "the-signal",
+        "title": "The Signal",
+        "summary": "The last stretch of the journey. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "story-moments",
+        "title": "Hidden Story Moments",
+        "summary": "Other hidden achievements whose conditions are secret. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "hats-and-remains",
+        "title": "Hats and Remains",
+        "summary": "Finding every hat and every set of remains.",
+        "steps": []
+      },
+      {
+        "id": "feats-and-secrets",
+        "title": "Feats and Secrets",
+        "summary": "One-off tricks, songs, toys and creative ways past enemies.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Primetime Content Consumer",
+        "kind": "trophy",
+        "chapterId": "feats-and-secrets",
+        "where": "Your life is now free of challenges. Congratulations"
+      },
+      {
+        "id": "achievement-2",
+        "name": "Foraged",
+        "kind": "trophy",
+        "chapterId": "the-wilderness",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-3",
+        "name": "Schooled",
+        "kind": "trophy",
+        "chapterId": "the-school",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-4",
+        "name": "Hospitalised",
+        "kind": "trophy",
+        "chapterId": "the-hospital",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-5",
+        "name": "Paled",
+        "kind": "trophy",
+        "chapterId": "the-pale-city",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-6",
+        "name": "Signal interruption",
+        "kind": "trophy",
+        "chapterId": "the-signal",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-7",
+        "name": "No More Remains",
+        "kind": "trophy",
+        "chapterId": "hats-and-remains",
+        "where": "Nothing of us remains anywhere. Bravo!"
+      },
+      {
+        "id": "achievement-8",
+        "name": "Far Ahead",
+        "kind": "trophy",
+        "chapterId": "hats-and-remains",
+        "where": "Hats are very important to some people"
+      },
+      {
+        "id": "achievement-9",
+        "name": "Evasive prey",
+        "kind": "trophy",
+        "chapterId": "feats-and-secrets",
+        "where": "Not today!"
+      },
+      {
+        "id": "achievement-10",
+        "name": "Half hat",
+        "kind": "trophy",
+        "chapterId": "hats-and-remains",
+        "where": "It would be cliché to collect them all"
+      },
+      {
+        "id": "achievement-11",
+        "name": "How Do I Look?",
+        "kind": "trophy",
+        "chapterId": "story-moments",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-12",
+        "name": "In The Palm Of My Hand",
+        "kind": "trophy",
+        "chapterId": "feats-and-secrets",
+        "where": "Hold tight and we'll be just fine"
+      },
+      {
+        "id": "achievement-13",
+        "name": "Toys Are For Kids",
+        "kind": "trophy",
+        "chapterId": "feats-and-secrets",
+        "where": "There, you'll be much warmer now"
+      },
+      {
+        "id": "achievement-14",
+        "name": "Popcorn",
+        "kind": "trophy",
+        "chapterId": "feats-and-secrets",
+        "where": "Movie night on the ward - all taken care of!"
+      },
+      {
+        "id": "achievement-15",
+        "name": "Hunger",
+        "kind": "trophy",
+        "chapterId": "feats-and-secrets",
+        "where": "Plenty of snacks for a growing boy"
+      },
+      {
+        "id": "achievement-16",
+        "name": "X Best Friends",
+        "kind": "trophy",
+        "chapterId": "feats-and-secrets",
+        "where": "I see through you..."
+      },
+      {
+        "id": "achievement-17",
+        "name": "...And Stay Dead!",
+        "kind": "trophy",
+        "chapterId": "story-moments",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-18",
+        "name": "Objection",
+        "kind": "trophy",
+        "chapterId": "feats-and-secrets",
+        "where": "Some holes are more picky than others"
+      },
+      {
+        "id": "achievement-19",
+        "name": "First do no harm",
+        "kind": "trophy",
+        "chapterId": "story-moments",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-20",
+        "name": "Sick Kids",
+        "kind": "trophy",
+        "chapterId": "the-hospital",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-21",
+        "name": "Post Industrial",
+        "kind": "trophy",
+        "chapterId": "feats-and-secrets",
+        "where": "You punctuated someone's day. Maybe they'll notice!"
+      },
+      {
+        "id": "achievement-22",
+        "name": "Unladylike",
+        "kind": "trophy",
+        "chapterId": "story-moments",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-23",
+        "name": "Pale Kids",
+        "kind": "trophy",
+        "chapterId": "the-pale-city",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-24",
+        "name": "Referee!",
+        "kind": "trophy",
+        "chapterId": "feats-and-secrets",
+        "where": "Unorthodox, but they all count!"
+      },
+      {
+        "id": "achievement-25",
+        "name": "Mono Tones",
+        "kind": "trophy",
+        "chapterId": "feats-and-secrets",
+        "where": "My, what a curious song you play!"
+      },
+      {
+        "id": "achievement-26",
+        "name": "Bully of Bullies",
+        "kind": "trophy",
+        "chapterId": "feats-and-secrets",
+        "where": "Creative, efficient, brutal. Top of the class!"
+      },
+      {
+        "id": "achievement-27",
+        "name": "Fly Free",
+        "kind": "trophy",
+        "chapterId": "feats-and-secrets",
+        "where": "Rebellion at its finest!"
+      },
+      {
+        "id": "achievement-28",
+        "name": "True Colours",
+        "kind": "trophy",
+        "chapterId": "story-moments",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-29",
+        "name": "School Kids",
+        "kind": "trophy",
+        "chapterId": "the-school",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-30",
+        "name": "Fair Prey",
+        "kind": "trophy",
+        "chapterId": "story-moments",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-31",
+        "name": "Wild Kids",
+        "kind": "trophy",
+        "chapterId": "the-wilderness",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-32",
+        "name": "Twenty-Six",
+        "kind": "trophy",
+        "chapterId": "story-moments",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-33",
+        "name": "Medicine ball",
+        "kind": "trophy",
+        "chapterId": "feats-and-secrets",
+        "where": "Any other last requests?"
+      },
+      {
+        "id": "achievement-34",
+        "name": "What's in the box?!",
+        "kind": "trophy",
+        "chapterId": "story-moments",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-35",
+        "name": "Merciful feat",
+        "kind": "trophy",
+        "chapterId": "feats-and-secrets",
+        "where": "Tempting, so tempting..."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/little-nightmares-ii",
+    "Achievement data from Steam (Steam Web API, app 860510)",
+    "StrategyWiki: no page for this game, nothing used",
+    "Fandom (littlenightmares.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://littlenightmares.fandom.com/wiki/Little_Nightmares_II_(video_game)"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). No StrategyWiki page under \"Little Nightmares II\" or \"Little Nightmares 2\". On littlenightmares.fandom.com \"Little Nightmares II\" is missing, but \"Little Nightmares 2\" redirects to \"Little Nightmares II (video game)\", which answers the API with about 58 linked pages, including \"The Wilderness\", \"The School\", \"The Hospital\", \"The Pale City (location)\", \"The Transmission\", \"Glitching Remains\" and \"Wearables\"; names only were looked at, nothing copied. The Steam schema calls the app \"Helios\" (an internal codename); app 860510 is \"Little Nightmares II\". 17 of 35 Steam achievements are hidden. Five hidden ones (\"Foraged\", \"Schooled\", \"Hospitalised\", \"Paled\", \"Signal interruption\") have falling unlock rates (72.8% down to 37.6%) and read like area completions, so each starts a location chapter; \"Wild Kids\", \"School Kids\", \"Sick Kids\" and \"Pale Kids\" were put with the matching location by name only. Both are guesses and need checking. The last chapter is named after the \"Signal interruption\" achievement because the data does not name that area for certain. The other 8 hidden ones sit in Hidden Story Moments. Visible achievements about hats and remains form the collectibles chapter; the rest are one-off feats."
+}

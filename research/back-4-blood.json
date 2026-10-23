@@ -1,0 +1,820 @@
+{
+  "id": "back-4-blood",
+  "title": "Back 4 Blood",
+  "year": 2021,
+  "platforms": [
+    "Xbox Series X|S",
+    "Xbox One",
+    "PlayStation 4",
+    "PlayStation 5",
+    "PC"
+  ],
+  "rawgId": 397473,
+  "rawgSlug": "back-4-blood",
+  "released": "2021-10-07",
+  "developers": [
+    "Turtle Rock Studios"
+  ],
+  "playtime": 6,
+  "genres": [
+    "Action",
+    "Shooter"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Multiplayer",
+    "Full controller support",
+    "Co-op",
+    "cooperative",
+    "First-Person",
+    "Horror",
+    "FPS",
+    "Online Co-Op",
+    "Gore",
+    "Survival",
+    "Violent"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/4fe/4feffcec6315c5f5a96442a8444431ca.jpg",
+  "steamAppId": 924970,
+  "achievements": {
+    "total": 93,
+    "hidden": 0,
+    "examples": [
+      {
+        "name": "Welcome to the Apocalypse",
+        "percent": 93.4
+      },
+      {
+        "name": "Dead Quiet",
+        "percent": 79.5
+      },
+      {
+        "name": "Cleanup Crew",
+        "percent": 79.4
+      },
+      {
+        "name": "Left Fork Dead End",
+        "percent": 1.9
+      },
+      {
+        "name": "Hard-Boiled",
+        "percent": 1.8
+      },
+      {
+        "name": "The Path To Glory",
+        "percent": 1.7
+      },
+      {
+        "name": "Act 5 Ace",
+        "percent": 1.6
+      },
+      {
+        "name": "Act 6 Ace",
+        "percent": 1.5
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Back_4_Blood",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 54,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://back4blood.fandom.com/wiki/Back_4_Blood"
+    }
+  },
+  "game": {
+    "id": "back-4-blood",
+    "title": "Back 4 Blood",
+    "platforms": [
+      "Xbox Series X|S",
+      "Xbox One",
+      "PlayStation 4",
+      "PlayStation 5",
+      "PC"
+    ],
+    "blurb": "Co-op zombie first-person shooter played in Acts, from Turtle Rock Studios, released 2021-10-07. RAWG average playtime: 6 hours. Genres: Action, Shooter. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#8B1A1A",
+    "chapters": [
+      {
+        "id": "act-1",
+        "title": "Act 1",
+        "summary": "The Devil's Return, Search & Rescue, The Dark Before the Dawn and Blue Dog Hollow, their secrets, and Act 1 on each difficulty.",
+        "steps": []
+      },
+      {
+        "id": "act-2",
+        "title": "Act 2",
+        "summary": "The Armory, Plan B and Job 10:22, their secrets, and Act 2 on each difficulty.",
+        "steps": []
+      },
+      {
+        "id": "acts-3-and-4",
+        "title": "Acts 3 and 4",
+        "summary": "Dr. Rogers' Neighborhood and Remnants, their secrets, The Abomination, and Acts 3 and 4 on each difficulty. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "ridden-hives",
+        "title": "Ridden Hives",
+        "summary": "Clearing every Ridden Hive, their secrets, Skull Totems, Legendary Weapons and the Warped Ridden.",
+        "steps": []
+      },
+      {
+        "id": "act-5",
+        "title": "Act 5",
+        "summary": "Act 5 on each difficulty up to No Hope, and its secret.",
+        "steps": []
+      },
+      {
+        "id": "act-6",
+        "title": "Act 6",
+        "summary": "Act 6 on each difficulty up to No Hope, its secret, and The Harbinger.",
+        "steps": []
+      },
+      {
+        "id": "modes",
+        "title": "Swarm and Trial of the Worm",
+        "summary": "Winning in Swarm Mode and scoring in Trial of the Worm.",
+        "steps": []
+      },
+      {
+        "id": "combat-and-teamwork",
+        "title": "Combat and Teamwork",
+        "summary": "Reviving and healing teammates, sharing ammo, cards, Mutations, special weapons and other feats.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Welcome to the Apocalypse",
+        "kind": "trophy",
+        "chapterId": "combat-and-teamwork",
+        "where": "Good luck out there, you're gunna need it."
+      },
+      {
+        "id": "achievement-2",
+        "name": "Paid the Toll",
+        "kind": "trophy",
+        "chapterId": "act-1",
+        "where": "Complete The Devil's Return."
+      },
+      {
+        "id": "achievement-3",
+        "name": "This Round's On Me",
+        "kind": "trophy",
+        "chapterId": "act-1",
+        "where": "Complete Search & Rescue."
+      },
+      {
+        "id": "achievement-4",
+        "name": "Breakfast Can Wait",
+        "kind": "trophy",
+        "chapterId": "act-1",
+        "where": "Complete The Dark Before The Dawn."
+      },
+      {
+        "id": "achievement-5",
+        "name": "Enemy of Mine",
+        "kind": "trophy",
+        "chapterId": "act-1",
+        "where": "Complete Blue Dog Hollow."
+      },
+      {
+        "id": "achievement-6",
+        "name": "Act 1 Recruit",
+        "kind": "trophy",
+        "chapterId": "act-1",
+        "where": "Complete all Act 1 maps on Recruit difficulty or higher."
+      },
+      {
+        "id": "achievement-7",
+        "name": "Act 1 Veteran",
+        "kind": "trophy",
+        "chapterId": "act-1",
+        "where": "Complete all Act 1 maps on Veteran difficulty or higher."
+      },
+      {
+        "id": "achievement-8",
+        "name": "Act 1 Cleaner",
+        "kind": "trophy",
+        "chapterId": "act-1",
+        "where": "Complete all Act 1 maps on Nightmare difficulty."
+      },
+      {
+        "id": "achievement-9",
+        "name": "Bob's Your Uncle",
+        "kind": "trophy",
+        "chapterId": "act-2",
+        "where": "Complete The Armory."
+      },
+      {
+        "id": "achievement-10",
+        "name": "Down the Drain",
+        "kind": "trophy",
+        "chapterId": "act-2",
+        "where": "Complete Plan B."
+      },
+      {
+        "id": "achievement-11",
+        "name": "Of Biblical Proportions",
+        "kind": "trophy",
+        "chapterId": "act-2",
+        "where": "Complete Job 10:22."
+      },
+      {
+        "id": "achievement-12",
+        "name": "Act 2 Recruit",
+        "kind": "trophy",
+        "chapterId": "act-2",
+        "where": "Complete all Act 2 maps on Recruit difficulty or higher."
+      },
+      {
+        "id": "achievement-13",
+        "name": "Act 2 Veteran",
+        "kind": "trophy",
+        "chapterId": "act-2",
+        "where": "Complete all Act 2 maps on Veteran difficulty or higher."
+      },
+      {
+        "id": "achievement-14",
+        "name": "Act 2 Cleaner",
+        "kind": "trophy",
+        "chapterId": "act-2",
+        "where": "Complete all Act 2 maps on Nightmare difficulty."
+      },
+      {
+        "id": "achievement-15",
+        "name": "Don't You Eat My Neighbor",
+        "kind": "trophy",
+        "chapterId": "acts-3-and-4",
+        "where": "Complete Dr. Rogers' Neighborhood."
+      },
+      {
+        "id": "achievement-16",
+        "name": "Paved With Good Intestines",
+        "kind": "trophy",
+        "chapterId": "acts-3-and-4",
+        "where": "Complete Remnants."
+      },
+      {
+        "id": "achievement-17",
+        "name": "Act 3 Recruit",
+        "kind": "trophy",
+        "chapterId": "acts-3-and-4",
+        "where": "Complete all Act 3 maps on Recruit difficulty or higher."
+      },
+      {
+        "id": "achievement-18",
+        "name": "Act 3 Veteran",
+        "kind": "trophy",
+        "chapterId": "acts-3-and-4",
+        "where": "Complete all Act 3 maps on Veteran difficulty or higher."
+      },
+      {
+        "id": "achievement-19",
+        "name": "Act 3 Cleaner",
+        "kind": "trophy",
+        "chapterId": "acts-3-and-4",
+        "where": "Complete all Act 3 maps on Nightmare difficulty."
+      },
+      {
+        "id": "achievement-20",
+        "name": "Act 4 Recruit",
+        "kind": "trophy",
+        "chapterId": "acts-3-and-4",
+        "where": "Complete Act 4 on Recruit difficulty or higher."
+      },
+      {
+        "id": "achievement-21",
+        "name": "Act 4 Veteran",
+        "kind": "trophy",
+        "chapterId": "acts-3-and-4",
+        "where": "Complete Act 4 on Veteran difficulty or higher."
+      },
+      {
+        "id": "achievement-22",
+        "name": "Act 4 Cleaner",
+        "kind": "trophy",
+        "chapterId": "acts-3-and-4",
+        "where": "Complete Act 4 on Nightmare difficulty."
+      },
+      {
+        "id": "achievement-23",
+        "name": "Good Riddence!",
+        "kind": "trophy",
+        "chapterId": "combat-and-teamwork",
+        "where": "Kill 53,600 Ridden over your career."
+      },
+      {
+        "id": "achievement-24",
+        "name": "Snitches Get Stitches",
+        "kind": "trophy",
+        "chapterId": "combat-and-teamwork",
+        "where": "Kill a Snitch without it alerting the horde."
+      },
+      {
+        "id": "achievement-25",
+        "name": "Breakfest",
+        "kind": "trophy",
+        "chapterId": "combat-and-teamwork",
+        "where": "Kill a Monstrous Breaker after removing all of its armor."
+      },
+      {
+        "id": "achievement-26",
+        "name": "Jugger-not",
+        "kind": "trophy",
+        "chapterId": "combat-and-teamwork",
+        "where": "Make a Breaker hurt itself."
+      },
+      {
+        "id": "achievement-27",
+        "name": "Brute Force",
+        "kind": "trophy",
+        "chapterId": "combat-and-teamwork",
+        "where": "Kill an Ogre with the Howitzer."
+      },
+      {
+        "id": "achievement-28",
+        "name": "No Time for a Nap",
+        "kind": "trophy",
+        "chapterId": "combat-and-teamwork",
+        "where": "Revive a fallen teammate."
+      },
+      {
+        "id": "achievement-29",
+        "name": "Hippocrates Would be Proud",
+        "kind": "trophy",
+        "chapterId": "combat-and-teamwork",
+        "where": "Heal a teammate."
+      },
+      {
+        "id": "achievement-30",
+        "name": "Share the Load",
+        "kind": "trophy",
+        "chapterId": "combat-and-teamwork",
+        "where": "Drop some ammo for a teammate."
+      },
+      {
+        "id": "achievement-31",
+        "name": "Don't Ask…",
+        "kind": "trophy",
+        "chapterId": "combat-and-teamwork",
+        "where": "Rescue a teammate from a cocoon."
+      },
+      {
+        "id": "achievement-32",
+        "name": "Cleanup Crew",
+        "kind": "trophy",
+        "chapterId": "combat-and-teamwork",
+        "where": "Complete a mission without any players being incapacitated or killed."
+      },
+      {
+        "id": "achievement-33",
+        "name": "Expanding the Arsenal",
+        "kind": "trophy",
+        "chapterId": "combat-and-teamwork",
+        "where": "Spend your first Supply Point."
+      },
+      {
+        "id": "achievement-34",
+        "name": "Grateful Eight",
+        "kind": "trophy",
+        "chapterId": "combat-and-teamwork",
+        "where": "Complete a mission with each of the original Cleaners."
+      },
+      {
+        "id": "achievement-35",
+        "name": "Squad Up",
+        "kind": "trophy",
+        "chapterId": "combat-and-teamwork",
+        "where": "Form a party in Fort Hope."
+      },
+      {
+        "id": "achievement-36",
+        "name": "Apocalypse Pacifist",
+        "kind": "trophy",
+        "chapterId": "combat-and-teamwork",
+        "where": "Complete a map without any players on the team killing a single Ridden."
+      },
+      {
+        "id": "achievement-37",
+        "name": "Dead Quiet",
+        "kind": "trophy",
+        "chapterId": "combat-and-teamwork",
+        "where": "Complete a map without ever triggering a horde from Reekers, Birds, Snitches, or alarms."
+      },
+      {
+        "id": "achievement-38",
+        "name": "Stacked Deck",
+        "kind": "trophy",
+        "chapterId": "combat-and-teamwork",
+        "where": "Play 25 cards in a single match."
+      },
+      {
+        "id": "achievement-39",
+        "name": "Jukebox Hero",
+        "kind": "trophy",
+        "chapterId": "act-1",
+        "where": "Defend the jukebox in Bar Room Blitz without it breaking."
+      },
+      {
+        "id": "achievement-40",
+        "name": "Nemesis",
+        "kind": "trophy",
+        "chapterId": "act-1",
+        "where": "Safely descend the ladder in the construction zone in Resurgence."
+      },
+      {
+        "id": "achievement-41",
+        "name": "Down, But Not Out",
+        "kind": "trophy",
+        "chapterId": "combat-and-teamwork",
+        "where": "Kill 15 enemies while downed."
+      },
+      {
+        "id": "achievement-42",
+        "name": "Brought a Knife to a Gunfight",
+        "kind": "trophy",
+        "chapterId": "combat-and-teamwork",
+        "where": "Complete a level while getting at least 50 kills with melee weapons."
+      },
+      {
+        "id": "achievement-43",
+        "name": "Smörgåsbord",
+        "kind": "trophy",
+        "chapterId": "combat-and-teamwork",
+        "where": "Kill at least one of each non-boss Mutation."
+      },
+      {
+        "id": "achievement-44",
+        "name": "A Humerus Weapon",
+        "kind": "trophy",
+        "chapterId": "combat-and-teamwork",
+        "where": "Kill 10 Ridden with Bob's Arm."
+      },
+      {
+        "id": "achievement-45",
+        "name": "Swarmed",
+        "kind": "trophy",
+        "chapterId": "modes",
+        "where": "Win a game in Swarm Mode."
+      },
+      {
+        "id": "achievement-46",
+        "name": "Port Man Toe?",
+        "kind": "trophy",
+        "chapterId": "act-1",
+        "where": "Find the secret in The Devil's Return."
+      },
+      {
+        "id": "achievement-47",
+        "name": "Bell Hop",
+        "kind": "trophy",
+        "chapterId": "act-1",
+        "where": "Find the secret in Search & Rescue."
+      },
+      {
+        "id": "achievement-48",
+        "name": "Pallet Cleanser",
+        "kind": "trophy",
+        "chapterId": "act-1",
+        "where": "Find the secret in The Dark Before the Dawn."
+      },
+      {
+        "id": "achievement-49",
+        "name": "Easily Mist",
+        "kind": "trophy",
+        "chapterId": "act-1",
+        "where": "Find the secret in Blue Dog Hollow."
+      },
+      {
+        "id": "achievement-50",
+        "name": "Cooped Up",
+        "kind": "trophy",
+        "chapterId": "act-2",
+        "where": "Find the secret in The Armory."
+      },
+      {
+        "id": "achievement-51",
+        "name": "Dangerous To Go Alone",
+        "kind": "trophy",
+        "chapterId": "act-2",
+        "where": "Find the secret in Plan B."
+      },
+      {
+        "id": "achievement-52",
+        "name": "Cryptozoologist",
+        "kind": "trophy",
+        "chapterId": "act-2",
+        "where": "Find the secret in Job 10:22."
+      },
+      {
+        "id": "achievement-53",
+        "name": "Night of the Living Hedge",
+        "kind": "trophy",
+        "chapterId": "acts-3-and-4",
+        "where": "Find the secret in Dr. Rogers' Neighborhood."
+      },
+      {
+        "id": "achievement-54",
+        "name": "Extra Credit",
+        "kind": "trophy",
+        "chapterId": "acts-3-and-4",
+        "where": "Find the secret in Remnants."
+      },
+      {
+        "id": "achievement-55",
+        "name": "Mind Your Step",
+        "kind": "trophy",
+        "chapterId": "acts-3-and-4",
+        "where": "Find the secret in The Abomination."
+      },
+      {
+        "id": "achievement-56",
+        "name": "Master Spelunker",
+        "kind": "trophy",
+        "chapterId": "ridden-hives",
+        "where": "Complete All Ridden Hives."
+      },
+      {
+        "id": "achievement-57",
+        "name": "Overwhelming Power",
+        "kind": "trophy",
+        "chapterId": "ridden-hives",
+        "where": "Get a kill with a Legendary Weapon."
+      },
+      {
+        "id": "achievement-58",
+        "name": "Totem Toter",
+        "kind": "trophy",
+        "chapterId": "ridden-hives",
+        "where": "Earn some Skull Totems."
+      },
+      {
+        "id": "achievement-59",
+        "name": "Using Your Noggin",
+        "kind": "trophy",
+        "chapterId": "ridden-hives",
+        "where": "Kill 10 Ridden with a Skull Totem."
+      },
+      {
+        "id": "achievement-60",
+        "name": "Unnatural Selection",
+        "kind": "trophy",
+        "chapterId": "ridden-hives",
+        "where": "Kill each of the Warped Ridden."
+      },
+      {
+        "id": "achievement-61",
+        "name": "Left Ventricle",
+        "kind": "trophy",
+        "chapterId": "ridden-hives",
+        "where": "Find the Secret in The Nursery."
+      },
+      {
+        "id": "achievement-62",
+        "name": "Nook, or Cranny?",
+        "kind": "trophy",
+        "chapterId": "ridden-hives",
+        "where": "Find the Secret in Sunken Passages."
+      },
+      {
+        "id": "achievement-63",
+        "name": "Unholy Grail",
+        "kind": "trophy",
+        "chapterId": "ridden-hives",
+        "where": "Find the Secret in The Cut."
+      },
+      {
+        "id": "achievement-64",
+        "name": "Precarious Perch",
+        "kind": "trophy",
+        "chapterId": "ridden-hives",
+        "where": "Find the Secret in Brood Lair."
+      },
+      {
+        "id": "achievement-65",
+        "name": "Backtrack",
+        "kind": "trophy",
+        "chapterId": "ridden-hives",
+        "where": "Find the Secret in 300 Below."
+      },
+      {
+        "id": "achievement-66",
+        "name": "Round the Riverbend",
+        "kind": "trophy",
+        "chapterId": "ridden-hives",
+        "where": "Find the Secret in Blood Stream."
+      },
+      {
+        "id": "achievement-67",
+        "name": "Pipe Dream",
+        "kind": "trophy",
+        "chapterId": "ridden-hives",
+        "where": "Find the Secret in Caustic Cesspool."
+      },
+      {
+        "id": "achievement-68",
+        "name": "Act 5 Recruit",
+        "kind": "trophy",
+        "chapterId": "act-5",
+        "where": "Complete all Act 5 maps on Recruit difficulty or higher."
+      },
+      {
+        "id": "achievement-69",
+        "name": "Act 5 Veteran",
+        "kind": "trophy",
+        "chapterId": "act-5",
+        "where": "Complete all Act 5 maps on Veteran difficulty or higher."
+      },
+      {
+        "id": "achievement-70",
+        "name": "Act 5 Cleaner",
+        "kind": "trophy",
+        "chapterId": "act-5",
+        "where": "Complete all Act 5 maps on Nightmare difficulty or higher."
+      },
+      {
+        "id": "achievement-71",
+        "name": "Act 5 Ace",
+        "kind": "trophy",
+        "chapterId": "act-5",
+        "where": "Complete all Act 5 maps on No Hope difficulty."
+      },
+      {
+        "id": "achievement-72",
+        "name": "Left Fork Dead End",
+        "kind": "trophy",
+        "chapterId": "act-5",
+        "where": "Find the Secret in Act 5."
+      },
+      {
+        "id": "achievement-73",
+        "name": "Jar Jar Bonks",
+        "kind": "trophy",
+        "chapterId": "combat-and-teamwork",
+        "where": "Hit a Pusflinger with a Bait Jar."
+      },
+      {
+        "id": "achievement-74",
+        "name": "Force Majeure Claws",
+        "kind": "trophy",
+        "chapterId": "combat-and-teamwork",
+        "where": "Kill a Slasher with Iron Claws."
+      },
+      {
+        "id": "achievement-75",
+        "name": "Who Snipes The Snipers?",
+        "kind": "trophy",
+        "chapterId": "combat-and-teamwork",
+        "where": "Kill a Sniper with a Sniper Rifle."
+      },
+      {
+        "id": "achievement-76",
+        "name": "Take A Bow",
+        "kind": "trophy",
+        "chapterId": "combat-and-teamwork",
+        "where": "Kill a Crone with the Bow."
+      },
+      {
+        "id": "achievement-77",
+        "name": "Smoke And Mirrors, But Without The Mirrors",
+        "kind": "trophy",
+        "chapterId": "combat-and-teamwork",
+        "where": "Use a Smoke Grenade to become hidden while at Critical Health."
+      },
+      {
+        "id": "achievement-78",
+        "name": "Barely Made It",
+        "kind": "trophy",
+        "chapterId": "combat-and-teamwork",
+        "where": "Jump over a Cultist Bear Trap without triggering it."
+      },
+      {
+        "id": "achievement-79",
+        "name": "Duffel Brothers",
+        "kind": "trophy",
+        "chapterId": "combat-and-teamwork",
+        "where": "Bring 11 Duffel Bags to Saferooms."
+      },
+      {
+        "id": "achievement-80",
+        "name": "Balanced Meal",
+        "kind": "trophy",
+        "chapterId": "combat-and-teamwork",
+        "where": "Have at least five different Food Buffs active at one time."
+      },
+      {
+        "id": "achievement-81",
+        "name": "Act 6 Recruit",
+        "kind": "trophy",
+        "chapterId": "act-6",
+        "where": "Complete all Act 6 maps on Recruit difficulty or higher."
+      },
+      {
+        "id": "achievement-82",
+        "name": "Act 6 Veteran",
+        "kind": "trophy",
+        "chapterId": "act-6",
+        "where": "Complete all Act 6 maps on Veteran difficulty or higher."
+      },
+      {
+        "id": "achievement-83",
+        "name": "Act 6 Cleaner",
+        "kind": "trophy",
+        "chapterId": "act-6",
+        "where": "Complete all Act 6 maps on Nightmare difficulty or higher."
+      },
+      {
+        "id": "achievement-84",
+        "name": "Act 6 Ace",
+        "kind": "trophy",
+        "chapterId": "act-6",
+        "where": "Complete all Act 6 maps on No Hope difficulty."
+      },
+      {
+        "id": "achievement-85",
+        "name": "TR's Secret Stash",
+        "kind": "trophy",
+        "chapterId": "act-6",
+        "where": "Find the Secret in Act 6."
+      },
+      {
+        "id": "achievement-86",
+        "name": "And The LAW Won",
+        "kind": "trophy",
+        "chapterId": "combat-and-teamwork",
+        "where": "Land a final blow on a Boss Mutation with the LAW."
+      },
+      {
+        "id": "achievement-87",
+        "name": "This Is Fine",
+        "kind": "trophy",
+        "chapterId": "combat-and-teamwork",
+        "where": "Set an enemy on fire with the Flamethrower, while also being on fire."
+      },
+      {
+        "id": "achievement-88",
+        "name": "A Can Of Worms",
+        "kind": "trophy",
+        "chapterId": "modes",
+        "where": "Play Trial of the Worm for the first time."
+      },
+      {
+        "id": "achievement-89",
+        "name": "Going For Broke",
+        "kind": "trophy",
+        "chapterId": "modes",
+        "where": "Earn a score of at least 100,000 in Trial of the Worm."
+      },
+      {
+        "id": "achievement-90",
+        "name": "The Path To Glory",
+        "kind": "trophy",
+        "chapterId": "modes",
+        "where": "Complete a map in Trial of the Worm with a total modifier of at least x20."
+      },
+      {
+        "id": "achievement-91",
+        "name": "Constant Vigilance",
+        "kind": "trophy",
+        "chapterId": "combat-and-teamwork",
+        "where": "Kill all variants of the Sentinel."
+      },
+      {
+        "id": "achievement-92",
+        "name": "Hard-Boiled",
+        "kind": "trophy",
+        "chapterId": "act-6",
+        "where": "Defeat The Harbinger without using the LAW."
+      },
+      {
+        "id": "achievement-93",
+        "name": "LAW and Hors D'oeuvres",
+        "kind": "trophy",
+        "chapterId": "combat-and-teamwork",
+        "where": "Blow up a Food Item with the LAW."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/back-4-blood",
+    "Achievement data from Steam (Steam Web API, app 924970)",
+    "StrategyWiki: no usable walkthrough, nothing used — https://strategywiki.org/wiki/Back_4_Blood",
+    "Fandom (back4blood.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://back4blood.fandom.com/wiki/Back_4_Blood"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). StrategyWiki has a page at completion stage 1, but only its Cleaners, Controls and Table of Contents subpages are written. The contents page lists Swarm Mode, Achievements and about 33 map pages (from Resurgence to The Abomination), none written, so it was not used and was not added to sw-structure.json. back4blood.fandom.com answers the API with about 54 linked articles, including \"Campaign\", \"Ridden Hives\", \"Tunnels of Terror\", \"Swarm\", \"Trial of the Worm\", \"Children of the Worm\" and \"River of Blood\"; names only were looked at, nothing copied. The Steam schema calls the app \"Gobi\" (an internal codename); the store list confirms app 924970 as \"Back 4 Blood\". None of its 93 achievements is hidden. The Act names in chapter summaries are the ones the achievements name. \"Nemesis\" (Resurgence) and \"Jukebox Hero\" (Bar Room Blitz) were put in Act 1 because those maps come early in the StrategyWiki contents order; \"Mind Your Step\" (The Abomination) was put with Acts 3 and 4 because that map is last in the contents; the secrets in The Nursery, Sunken Passages, The Cut, Brood Lair, 300 Below, Blood Stream and Caustic Cesspool were put with Ridden Hives because they sit right after \"Complete All Ridden Hives\" on the list; and \"Hard-Boiled\" (The Harbinger) was put in Act 6 by position. All of these are guesses and need checking. The data does not say which Acts the Fandom pages \"Children of the Worm\" and \"River of Blood\" cover."
+}

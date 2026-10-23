@@ -1,0 +1,753 @@
+{
+  "id": "hitman-3",
+  "title": "Hitman 3",
+  "year": 2021,
+  "platforms": [
+    "PC",
+    "Xbox One",
+    "PlayStation 4",
+    "Xbox Series X|S",
+    "PlayStation 5",
+    "Nintendo Switch"
+  ],
+  "rawgId": 452645,
+  "rawgSlug": "hitman-3",
+  "released": "2021-01-20",
+  "developers": [
+    "IO Interactive"
+  ],
+  "playtime": 6,
+  "genres": [
+    "Action",
+    "Shooter",
+    "Adventure"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Full controller support",
+    "Steam Cloud",
+    "Third Person",
+    "Funny",
+    "Gore",
+    "Difficult",
+    "Sandbox",
+    "Violent",
+    "Stealth",
+    "Tactical"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/126/126fbd5ceacddc6ad16fc96e50b1265b.jpg",
+  "steamAppId": 1659040,
+  "achievements": {
+    "total": 83,
+    "hidden": 12,
+    "examples": [
+      {
+        "name": "The Result of Previous Training",
+        "percent": 60.2
+      },
+      {
+        "name": "Unseen Assassin",
+        "percent": 60.1
+      },
+      {
+        "name": "Cleared for Field Duty",
+        "percent": 57.7
+      },
+      {
+        "name": "Never Knew What Hit Them",
+        "percent": 1.6
+      },
+      {
+        "name": "Seven Figures",
+        "percent": 1.4
+      },
+      {
+        "name": "Pure Poetry",
+        "percent": 1.4
+      },
+      {
+        "name": "In a League of Their Own",
+        "percent": 1.4
+      },
+      {
+        "name": "Capital Punishment",
+        "percent": 1.3
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/HITMAN_3",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 78,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://hitman.fandom.com/wiki/Hitman_3"
+    }
+  },
+  "game": {
+    "id": "hitman-3",
+    "title": "Hitman 3",
+    "platforms": [
+      "PC",
+      "Xbox One",
+      "PlayStation 4",
+      "Xbox Series X|S",
+      "PlayStation 5",
+      "Nintendo Switch"
+    ],
+    "blurb": "Stealth assassination game set in sandbox missions around the world, from IO Interactive, released 2021-01-20. RAWG average playtime: 6 hours. Genres: Action, Shooter, Adventure. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#B3121B",
+    "chapters": [
+      {
+        "id": "prologue",
+        "title": "Prologue and Training",
+        "summary": "Freeform Training, The Final Test and the Contract Creation Tutorial.",
+        "steps": []
+      },
+      {
+        "id": "dubai-dartmoor",
+        "title": "Dubai and Dartmoor",
+        "summary": "On Top Of The World and Death In The Family: mission stories, hidden areas, mastery and hidden feats.",
+        "steps": []
+      },
+      {
+        "id": "berlin-chongqing",
+        "title": "Berlin and Chongqing",
+        "summary": "Apex Predator and End Of An Era: mission stories, hidden areas, the club, mastery and hidden feats.",
+        "steps": []
+      },
+      {
+        "id": "mendoza-carpathian",
+        "title": "Mendoza and the Carpathian Mountains",
+        "summary": "The Farewell and Untouchable: mission stories, challenges, mastery and the hidden ending feats. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "more-locations",
+        "title": "New York, Haven Island and More",
+        "summary": "Golden Handshake, The Last Resort, Nightcall, The Finish Line, Three-Headed Serpent, Chasing a Ghost, Another Life and The Ark Society, with mastery for each place.",
+        "steps": []
+      },
+      {
+        "id": "classic-locations",
+        "title": "Paris, Sapienza and More",
+        "summary": "The Showstopper, World of Tomorrow, A Gilded Cage, Club 27, Freedom Fighters and Situs Inversus, with mastery and the Perfectionist challenge.",
+        "steps": []
+      },
+      {
+        "id": "score-missions",
+        "title": "Score and Sniper Missions",
+        "summary": "The Pen and the Sword, Crime and Punishment and The Last Yardbird: high scores, Silent Assassin and challenges.",
+        "steps": []
+      },
+      {
+        "id": "contracts-and-skills",
+        "title": "Contracts and Assassin Skills",
+        "summary": "Escalations, Featured Contracts, leaderboards, shortcuts, playstyles and kills without being seen.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "The Result of Previous Training",
+        "kind": "trophy",
+        "chapterId": "prologue",
+        "where": "Complete Freeform Training in the Prologue."
+      },
+      {
+        "id": "achievement-2",
+        "name": "Cleared for Field Duty",
+        "kind": "trophy",
+        "chapterId": "prologue",
+        "where": "Complete The Final Test in the Prologue."
+      },
+      {
+        "id": "achievement-3",
+        "name": "Seizing the Opportunity",
+        "kind": "trophy",
+        "chapterId": "prologue",
+        "where": "Complete any Mission Story in The Final Test."
+      },
+      {
+        "id": "achievement-4",
+        "name": "The Creative Assassin",
+        "kind": "trophy",
+        "chapterId": "prologue",
+        "where": "Complete the Contract Creation Tutorial."
+      },
+      {
+        "id": "achievement-5",
+        "name": "Silent Assassin",
+        "kind": "trophy",
+        "chapterId": "prologue",
+        "where": "Complete The Final Test unspotted. Kill only Jasper Knight, ensuring his body is not found."
+      },
+      {
+        "id": "achievement-6",
+        "name": "Training Escalated",
+        "kind": "trophy",
+        "chapterId": "contracts-and-skills",
+        "where": "Complete Level 5 of an Escalation Contract set in the ICA Facility."
+      },
+      {
+        "id": "achievement-7",
+        "name": "Top of the Class",
+        "kind": "trophy",
+        "chapterId": "contracts-and-skills",
+        "where": "Beat the highest leaderboard score on a Contract."
+      },
+      {
+        "id": "achievement-8",
+        "name": "A New Profile",
+        "kind": "trophy",
+        "chapterId": "contracts-and-skills",
+        "where": "Complete a Featured Contract."
+      },
+      {
+        "id": "achievement-9",
+        "name": "Tools of the Trade",
+        "kind": "trophy",
+        "chapterId": "contracts-and-skills",
+        "where": "Assassinate Targets with Ballistic, Accident and Explosion Kills."
+      },
+      {
+        "id": "achievement-10",
+        "name": "Unseen Assassin",
+        "kind": "trophy",
+        "chapterId": "contracts-and-skills",
+        "where": "Assassinate a Target without getting spotted."
+      },
+      {
+        "id": "achievement-11",
+        "name": "Shortcut Killer",
+        "kind": "trophy",
+        "chapterId": "contracts-and-skills",
+        "where": "Find and unlock 15 Shortcuts."
+      },
+      {
+        "id": "achievement-12",
+        "name": "Stylish Assassin",
+        "kind": "trophy",
+        "chapterId": "contracts-and-skills",
+        "where": "Get 10 different Playstyles."
+      },
+      {
+        "id": "achievement-13",
+        "name": "Death From Above",
+        "kind": "trophy",
+        "chapterId": "dubai-dartmoor",
+        "where": "Complete On Top Of The World."
+      },
+      {
+        "id": "achievement-14",
+        "name": "Dune Raider",
+        "kind": "trophy",
+        "chapterId": "dubai-dartmoor",
+        "where": "Reveal all undiscovered areas in Dubai."
+      },
+      {
+        "id": "achievement-15",
+        "name": "Treacherous Architecture",
+        "kind": "trophy",
+        "chapterId": "dubai-dartmoor",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-16",
+        "name": "Keep Your Eyes Peeled",
+        "kind": "trophy",
+        "chapterId": "dubai-dartmoor",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-17",
+        "name": "Rise Up",
+        "kind": "trophy",
+        "chapterId": "dubai-dartmoor",
+        "where": "Complete all Mission Stories in On Top Of The World."
+      },
+      {
+        "id": "achievement-18",
+        "name": "Stair Master",
+        "kind": "trophy",
+        "chapterId": "dubai-dartmoor",
+        "where": "Reach Dubai Mastery Level 20."
+      },
+      {
+        "id": "achievement-19",
+        "name": "Master of the Household",
+        "kind": "trophy",
+        "chapterId": "dubai-dartmoor",
+        "where": "Complete Death In The Family."
+      },
+      {
+        "id": "achievement-20",
+        "name": "No Stone Unturned",
+        "kind": "trophy",
+        "chapterId": "dubai-dartmoor",
+        "where": "Reveal all undiscovered areas in Dartmoor."
+      },
+      {
+        "id": "achievement-21",
+        "name": "Upstairs, Downstairs",
+        "kind": "trophy",
+        "chapterId": "dubai-dartmoor",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-22",
+        "name": "Family Feud",
+        "kind": "trophy",
+        "chapterId": "dubai-dartmoor",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-23",
+        "name": "Full House",
+        "kind": "trophy",
+        "chapterId": "dubai-dartmoor",
+        "where": "Complete all Mission Stories in Death In The Family."
+      },
+      {
+        "id": "achievement-24",
+        "name": "The Great Outdoors",
+        "kind": "trophy",
+        "chapterId": "dubai-dartmoor",
+        "where": "Reach Dartmoor Mastery Level 20."
+      },
+      {
+        "id": "achievement-25",
+        "name": "Death of the Party",
+        "kind": "trophy",
+        "chapterId": "berlin-chongqing",
+        "where": "Complete Apex Predator."
+      },
+      {
+        "id": "achievement-26",
+        "name": "Followed the Trails",
+        "kind": "trophy",
+        "chapterId": "berlin-chongqing",
+        "where": "Reveal all undiscovered areas in Berlin."
+      },
+      {
+        "id": "achievement-27",
+        "name": "Partied Out",
+        "kind": "trophy",
+        "chapterId": "berlin-chongqing",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-28",
+        "name": "Bird Art",
+        "kind": "trophy",
+        "chapterId": "berlin-chongqing",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-29",
+        "name": "Last Call",
+        "kind": "trophy",
+        "chapterId": "berlin-chongqing",
+        "where": "Become the club owner, and have a sit down with the ICA."
+      },
+      {
+        "id": "achievement-30",
+        "name": "Warehouse Veteran",
+        "kind": "trophy",
+        "chapterId": "berlin-chongqing",
+        "where": "Reach Berlin Mastery Level 20."
+      },
+      {
+        "id": "achievement-31",
+        "name": "NEXUS-47",
+        "kind": "trophy",
+        "chapterId": "berlin-chongqing",
+        "where": "Complete End Of An Era."
+      },
+      {
+        "id": "achievement-32",
+        "name": "Surveillance Master",
+        "kind": "trophy",
+        "chapterId": "berlin-chongqing",
+        "where": "Reveal all undiscovered areas in Chongqing."
+      },
+      {
+        "id": "achievement-33",
+        "name": "Future Shock",
+        "kind": "trophy",
+        "chapterId": "berlin-chongqing",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-34",
+        "name": "Console Cowboy",
+        "kind": "trophy",
+        "chapterId": "berlin-chongqing",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-35",
+        "name": "Icebreaker",
+        "kind": "trophy",
+        "chapterId": "berlin-chongqing",
+        "where": "Complete all Mission Stories in End Of An Era."
+      },
+      {
+        "id": "achievement-36",
+        "name": "Hack the Planet",
+        "kind": "trophy",
+        "chapterId": "berlin-chongqing",
+        "where": "Reach Chongqing Mastery Level 20."
+      },
+      {
+        "id": "achievement-37",
+        "name": "The Last Tango",
+        "kind": "trophy",
+        "chapterId": "mendoza-carpathian",
+        "where": "Complete The Farewell."
+      },
+      {
+        "id": "achievement-38",
+        "name": "Master the Terroir",
+        "kind": "trophy",
+        "chapterId": "mendoza-carpathian",
+        "where": "Reveal all undiscovered areas in Mendoza."
+      },
+      {
+        "id": "achievement-39",
+        "name": "Ripe for the Picking",
+        "kind": "trophy",
+        "chapterId": "mendoza-carpathian",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-40",
+        "name": "Evil Wine Club",
+        "kind": "trophy",
+        "chapterId": "mendoza-carpathian",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-41",
+        "name": "Rich Harvest",
+        "kind": "trophy",
+        "chapterId": "mendoza-carpathian",
+        "where": "Complete all Mission Stories in The Farewell."
+      },
+      {
+        "id": "achievement-42",
+        "name": "Vineyard Virtuoso",
+        "kind": "trophy",
+        "chapterId": "mendoza-carpathian",
+        "where": "Reach Mendoza Mastery Level 20."
+      },
+      {
+        "id": "achievement-43",
+        "name": "Nightmare Fuel",
+        "kind": "trophy",
+        "chapterId": "mendoza-carpathian",
+        "where": "Complete Untouchable."
+      },
+      {
+        "id": "achievement-44",
+        "name": "Bullet Train",
+        "kind": "trophy",
+        "chapterId": "mendoza-carpathian",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-45",
+        "name": "Count Down From 47",
+        "kind": "trophy",
+        "chapterId": "mendoza-carpathian",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-46",
+        "name": "Train Surfing",
+        "kind": "trophy",
+        "chapterId": "mendoza-carpathian",
+        "where": "Complete all Untouchable Challenges."
+      },
+      {
+        "id": "achievement-47",
+        "name": "Last Stop",
+        "kind": "trophy",
+        "chapterId": "mendoza-carpathian",
+        "where": "Reach Carpathian Mountains Mastery Level 5."
+      },
+      {
+        "id": "achievement-48",
+        "name": "Seven Figures",
+        "kind": "trophy",
+        "chapterId": "score-missions",
+        "where": "Get a score above 1,000,000 points on The Pen and the Sword."
+      },
+      {
+        "id": "achievement-49",
+        "name": "Hawkeye",
+        "kind": "trophy",
+        "chapterId": "score-missions",
+        "where": "Complete The Pen and the Sword as Silent Assassin."
+      },
+      {
+        "id": "achievement-50",
+        "name": "Pure Poetry",
+        "kind": "trophy",
+        "chapterId": "score-missions",
+        "where": "Complete all The Pen and the Sword Challenges."
+      },
+      {
+        "id": "achievement-51",
+        "name": "Break the Bank",
+        "kind": "trophy",
+        "chapterId": "more-locations",
+        "where": "Complete Golden Handshake."
+      },
+      {
+        "id": "achievement-52",
+        "name": "Top of the Heap",
+        "kind": "trophy",
+        "chapterId": "more-locations",
+        "where": "Reach New York Mastery Level 20."
+      },
+      {
+        "id": "achievement-53",
+        "name": "In a League of Their Own",
+        "kind": "trophy",
+        "chapterId": "score-missions",
+        "where": "Get a score above 1,000,000 points on Crime and Punishment."
+      },
+      {
+        "id": "achievement-54",
+        "name": "Never Knew What Hit Them",
+        "kind": "trophy",
+        "chapterId": "score-missions",
+        "where": "Complete Crime and Punishment as Silent Assassin."
+      },
+      {
+        "id": "achievement-55",
+        "name": "Capital Punishment",
+        "kind": "trophy",
+        "chapterId": "score-missions",
+        "where": "Complete all Crime and Punishment Challenges."
+      },
+      {
+        "id": "achievement-56",
+        "name": "Island and Chill",
+        "kind": "trophy",
+        "chapterId": "more-locations",
+        "where": "Complete The Last Resort."
+      },
+      {
+        "id": "achievement-57",
+        "name": "Null and Void",
+        "kind": "trophy",
+        "chapterId": "more-locations",
+        "where": "Reach Haven Island Mastery Level 20."
+      },
+      {
+        "id": "achievement-58",
+        "name": "Infiltrator",
+        "kind": "trophy",
+        "chapterId": "more-locations",
+        "where": "Complete Nightcall."
+      },
+      {
+        "id": "achievement-59",
+        "name": "Local Knowledge",
+        "kind": "trophy",
+        "chapterId": "more-locations",
+        "where": "Reach Hawke's Bay Mastery Level 5."
+      },
+      {
+        "id": "achievement-60",
+        "name": "Damage Control",
+        "kind": "trophy",
+        "chapterId": "more-locations",
+        "where": "Complete The Finish Line."
+      },
+      {
+        "id": "achievement-61",
+        "name": "Miami Wise",
+        "kind": "trophy",
+        "chapterId": "more-locations",
+        "where": "Reach Miami Mastery Level 20."
+      },
+      {
+        "id": "achievement-62",
+        "name": "Tactical Strike",
+        "kind": "trophy",
+        "chapterId": "more-locations",
+        "where": "Complete Three-Headed Serpent."
+      },
+      {
+        "id": "achievement-63",
+        "name": "Dark Tourist",
+        "kind": "trophy",
+        "chapterId": "more-locations",
+        "where": "Reach Santa Fortuna Mastery Level 20."
+      },
+      {
+        "id": "achievement-64",
+        "name": "Pirate Hunter",
+        "kind": "trophy",
+        "chapterId": "more-locations",
+        "where": "Complete Chasing a Ghost."
+      },
+      {
+        "id": "achievement-65",
+        "name": "Keys to the City",
+        "kind": "trophy",
+        "chapterId": "more-locations",
+        "where": "Reach Mumbai Mastery Level 20."
+      },
+      {
+        "id": "achievement-66",
+        "name": "Long Shot",
+        "kind": "trophy",
+        "chapterId": "more-locations",
+        "where": "Complete Another Life."
+      },
+      {
+        "id": "achievement-67",
+        "name": "Pillar of the Community",
+        "kind": "trophy",
+        "chapterId": "more-locations",
+        "where": "Reach Whittleton Creek Mastery Level 20."
+      },
+      {
+        "id": "achievement-68",
+        "name": "This is Maintenance",
+        "kind": "trophy",
+        "chapterId": "more-locations",
+        "where": "Complete The Ark Society."
+      },
+      {
+        "id": "achievement-69",
+        "name": "Honorary Member",
+        "kind": "trophy",
+        "chapterId": "more-locations",
+        "where": "Reach Isle of Sgàil Mastery Level 20."
+      },
+      {
+        "id": "achievement-70",
+        "name": "Silent Sniper",
+        "kind": "trophy",
+        "chapterId": "score-missions",
+        "where": "Complete The Last Yardbird as Silent Assassin."
+      },
+      {
+        "id": "achievement-71",
+        "name": "When No One Else Dares",
+        "kind": "trophy",
+        "chapterId": "classic-locations",
+        "where": "Complete The Showstopper."
+      },
+      {
+        "id": "achievement-72",
+        "name": "City of Light",
+        "kind": "trophy",
+        "chapterId": "classic-locations",
+        "where": "Reach Paris Mastery Level 20."
+      },
+      {
+        "id": "achievement-73",
+        "name": "Die By the Sword",
+        "kind": "trophy",
+        "chapterId": "classic-locations",
+        "where": "Complete World of Tomorrow."
+      },
+      {
+        "id": "achievement-74",
+        "name": "Amalfi Pearl",
+        "kind": "trophy",
+        "chapterId": "classic-locations",
+        "where": "Reach Sapienza Mastery Level 20."
+      },
+      {
+        "id": "achievement-75",
+        "name": "Too Big to Fail",
+        "kind": "trophy",
+        "chapterId": "classic-locations",
+        "where": "Complete A Gilded Cage."
+      },
+      {
+        "id": "achievement-76",
+        "name": "Ancient Marrakesh",
+        "kind": "trophy",
+        "chapterId": "classic-locations",
+        "where": "Reach Marrakesh Mastery Level 20."
+      },
+      {
+        "id": "achievement-77",
+        "name": "Perfectionist",
+        "kind": "trophy",
+        "chapterId": "classic-locations",
+        "where": "Complete Suit Only and Silent Assassin Challenges on The Icon, A House Built on Sand or Landslide."
+      },
+      {
+        "id": "achievement-78",
+        "name": "Shining Bright",
+        "kind": "trophy",
+        "chapterId": "classic-locations",
+        "where": "Complete Club 27."
+      },
+      {
+        "id": "achievement-79",
+        "name": "One Night in Bangkok",
+        "kind": "trophy",
+        "chapterId": "classic-locations",
+        "where": "Reach Bangkok Mastery Level 20."
+      },
+      {
+        "id": "achievement-80",
+        "name": "Guerrilla Warfare",
+        "kind": "trophy",
+        "chapterId": "classic-locations",
+        "where": "Complete Freedom Fighters."
+      },
+      {
+        "id": "achievement-81",
+        "name": "Mission Complete",
+        "kind": "trophy",
+        "chapterId": "classic-locations",
+        "where": "Reach Colorado Mastery Level 20."
+      },
+      {
+        "id": "achievement-82",
+        "name": "A Long Time Coming",
+        "kind": "trophy",
+        "chapterId": "classic-locations",
+        "where": "Complete Situs Inversus."
+      },
+      {
+        "id": "achievement-83",
+        "name": "Sayōnara",
+        "kind": "trophy",
+        "chapterId": "classic-locations",
+        "where": "Reach Hokkaido Mastery Level 20."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/hitman-3",
+    "Achievement data from Steam (Steam Web API, app 1659040)",
+    "StrategyWiki: no usable walkthrough, nothing used — https://strategywiki.org/wiki/HITMAN_3",
+    "Fandom (hitman.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://hitman.fandom.com/wiki/Hitman_3"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). The Steam app list has no app named \"Hitman 3\"; the store app is 1659040, now named \"HITMAN World of Assassination\", and its achievement schema still calls the game \"HITMAN 3\". Its 83 achievements cover the Hitman 3 locations plus many older locations (Paris, Sapienza, New York, Miami and others), so the extra chapters reflect what the World of Assassination app contains. StrategyWiki has no page under \"Hitman 3\" or \"Hitman III\"; \"HITMAN 3\" exists as a stub (completion stage 0) whose only subpage is an 80-character Table of Contents, so nothing was used. hitman.fandom.com answers the API under \"Hitman 3\", with about 78 linked pages, mostly series titles, places and characters; names only were looked at, nothing copied. 12 of 83 Steam achievements are hidden; they come in pairs right after each Hitman 3 location's \"Reveal all undiscovered areas\" achievement, so each pair was put with that location by position. That is a guess and needs checking. RAWG lists \"HITMAN 3 Access Pass: HITMAN 2 Gold\" as a separate entry."
+}

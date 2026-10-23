@@ -1,0 +1,557 @@
+{
+  "id": "deathloop",
+  "title": "Deathloop",
+  "year": 2021,
+  "platforms": [
+    "PlayStation 5",
+    "PC",
+    "Xbox Series X|S"
+  ],
+  "rawgId": 326251,
+  "rawgSlug": "deathloop-2",
+  "released": "2021-09-14",
+  "developers": [
+    "Arkane Studios"
+  ],
+  "playtime": 6,
+  "genres": [
+    "Action",
+    "RPG"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Multiplayer",
+    "Full controller support",
+    "Story Rich",
+    "First-Person",
+    "FPS",
+    "Gore",
+    "Violent",
+    "Stealth",
+    "Action-Adventure",
+    "Tactical"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/018/01857c5ff9579c48fa8bd76b4d83a946.jpg",
+  "steamAppId": 1252330,
+  "achievements": {
+    "total": 58,
+    "hidden": 19,
+    "examples": [
+      {
+        "name": "Nowhere To Run To",
+        "percent": 58.0
+      },
+      {
+        "name": "All The Live-Long Day",
+        "percent": 56.9
+      },
+      {
+        "name": "Pieces Of Eight",
+        "percent": 52.2
+      },
+      {
+        "name": "You Only Die Once",
+        "percent": 2.7
+      },
+      {
+        "name": "Clean-ish Hands",
+        "percent": 2.4
+      },
+      {
+        "name": "Deathday Suit",
+        "percent": 2.4
+      },
+      {
+        "name": "A Charlie Montague Game",
+        "percent": 2.3
+      },
+      {
+        "name": "The Spice Of Life",
+        "percent": 1.9
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": false,
+      "pages": 0,
+      "reason": "No page for Deathloop (MediaWiki API returned missing; see notes for other titles tried)"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 14,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://deathloop.fandom.com/wiki/Deathloop"
+    }
+  },
+  "game": {
+    "id": "deathloop",
+    "title": "Deathloop",
+    "platforms": [
+      "PlayStation 5",
+      "PC",
+      "Xbox Series X|S"
+    ],
+    "blurb": "First-person action game about breaking a time loop on Blackreef, from Arkane Studios, released 2021-09-14. RAWG average playtime: 6 hours. Genres: Action, RPG. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#C2461E",
+    "chapters": [
+      {
+        "id": "the-loop",
+        "title": "Breaking the Loop",
+        "summary": "The story of Blackreef, told as hidden milestones. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "visionaries",
+        "title": "Visionaries and Perfect Loops",
+        "summary": "Killing every Visionary, surviving all four time periods, AEON dossiers and challenge runs with limits.",
+        "steps": []
+      },
+      {
+        "id": "invasions",
+        "title": "Invasions: Colt and Julianna",
+        "summary": "Fighting off an invading Julianna as Colt, and hunting Colt as Julianna.",
+        "steps": []
+      },
+      {
+        "id": "powers",
+        "title": "Slabs and Powers",
+        "summary": "Infusing and upgrading Slabs, and feats with Havoc, Shift, Nexus, Karnesis, Aether and Masquerade.",
+        "steps": []
+      },
+      {
+        "id": "loadout",
+        "title": "Weapons, Trinkets and Residuum",
+        "summary": "Infusing weapons, carrying Trinkets, loadout value and absorbing Residuum.",
+        "steps": []
+      },
+      {
+        "id": "blackreef-secrets",
+        "title": "Blackreef Secrets and Stunts",
+        "summary": "Hidden targets, prototypes, Charlie's games, gas, candy, falls, the machete and other tricks.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Nowhere To Run To",
+        "kind": "trophy",
+        "chapterId": "invasions",
+        "where": "Take out an invading Julianna while playing as Colt."
+      },
+      {
+        "id": "achievement-2",
+        "name": "Nowhere To Hide",
+        "kind": "trophy",
+        "chapterId": "invasions",
+        "where": "While playing as Julianna, cross Colt off your kill list."
+      },
+      {
+        "id": "achievement-3",
+        "name": "One Perfect Day",
+        "kind": "trophy",
+        "chapterId": "the-loop",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-4",
+        "name": "Welcome To Blackreef",
+        "kind": "trophy",
+        "chapterId": "the-loop",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-5",
+        "name": "Baby, You're a Firework",
+        "kind": "trophy",
+        "chapterId": "the-loop",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-6",
+        "name": "Egoraphobia",
+        "kind": "trophy",
+        "chapterId": "the-loop",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-7",
+        "name": "Dangerous Liaison",
+        "kind": "trophy",
+        "chapterId": "the-loop",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-8",
+        "name": "An Offer She Can't Refuse",
+        "kind": "trophy",
+        "chapterId": "the-loop",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-9",
+        "name": "Beyond The Horizon",
+        "kind": "trophy",
+        "chapterId": "the-loop",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-10",
+        "name": "Gooooood Morning, Blackreef!",
+        "kind": "trophy",
+        "chapterId": "the-loop",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-11",
+        "name": "All The Live-Long Day",
+        "kind": "trophy",
+        "chapterId": "visionaries",
+        "where": "Survive all 4 time periods in one day."
+      },
+      {
+        "id": "achievement-12",
+        "name": "Die, Die, And Die Again",
+        "kind": "trophy",
+        "chapterId": "the-loop",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-13",
+        "name": "Dead Drop",
+        "kind": "trophy",
+        "chapterId": "loadout",
+        "where": "Absorb Residuum from a body - like some kind of temporal sponge."
+      },
+      {
+        "id": "achievement-14",
+        "name": "Pieces Of Eight",
+        "kind": "trophy",
+        "chapterId": "visionaries",
+        "where": "While playing as Colt, kill Frank. Or Charlie. Or Fia. Or Wenjie. Or Aleksis. Or Harriet. Egor will do as well."
+      },
+      {
+        "id": "achievement-15",
+        "name": "Ensemble Tragedy",
+        "kind": "trophy",
+        "chapterId": "visionaries",
+        "where": "Kill each Visionary at least once."
+      },
+      {
+        "id": "achievement-16",
+        "name": "Alpha Burger",
+        "kind": "trophy",
+        "chapterId": "the-loop",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-17",
+        "name": "Power Chord",
+        "kind": "trophy",
+        "chapterId": "the-loop",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-18",
+        "name": "Judgement Day",
+        "kind": "trophy",
+        "chapterId": "the-loop",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-19",
+        "name": "Game Over",
+        "kind": "trophy",
+        "chapterId": "the-loop",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-20",
+        "name": "Quantum Solution",
+        "kind": "trophy",
+        "chapterId": "the-loop",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-21",
+        "name": "Not-So-Invisible Man",
+        "kind": "trophy",
+        "chapterId": "the-loop",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-22",
+        "name": "Didn't See It Coming",
+        "kind": "trophy",
+        "chapterId": "the-loop",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-23",
+        "name": "Violent Delights",
+        "kind": "trophy",
+        "chapterId": "the-loop",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-24",
+        "name": "Ghost At The Feast",
+        "kind": "trophy",
+        "chapterId": "the-loop",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-25",
+        "name": "Forever Yours",
+        "kind": "trophy",
+        "chapterId": "powers",
+        "where": "Infuse a Slab."
+      },
+      {
+        "id": "achievement-26",
+        "name": "Spare No Expense",
+        "kind": "trophy",
+        "chapterId": "powers",
+        "where": "While playing as Colt, own all upgrades for a Slab."
+      },
+      {
+        "id": "achievement-27",
+        "name": "Rip And Tear",
+        "kind": "trophy",
+        "chapterId": "powers",
+        "where": "As Colt, inflict a truckload of damage to Eternalists during a single use of Havoc."
+      },
+      {
+        "id": "achievement-28",
+        "name": "Blink Of An Eye",
+        "kind": "trophy",
+        "chapterId": "powers",
+        "where": "As Colt, transport an enemy onto a mine using Shift."
+      },
+      {
+        "id": "achievement-29",
+        "name": "Fwd: Fwd: Fwd: PAIN",
+        "kind": "trophy",
+        "chapterId": "powers",
+        "where": "As Colt, transmit damage over more than 20 meters using Nexus."
+      },
+      {
+        "id": "achievement-30",
+        "name": "Death Is In The Air",
+        "kind": "trophy",
+        "chapterId": "powers",
+        "where": "As Colt, achieve 3 airborne headshots on enemies you've launched using Karnesis."
+      },
+      {
+        "id": "achievement-31",
+        "name": "Don't Mind Me",
+        "kind": "trophy",
+        "chapterId": "powers",
+        "where": "While using Aether as Colt, kill 3 enemies without alerting nearby enemies."
+      },
+      {
+        "id": "achievement-32",
+        "name": "Dressing Down",
+        "kind": "trophy",
+        "chapterId": "invasions",
+        "where": "As Julianna, disguise yourself as Colt using Masquerade."
+      },
+      {
+        "id": "achievement-33",
+        "name": "For Every Occasion",
+        "kind": "trophy",
+        "chapterId": "loadout",
+        "where": "Take 36 different Trinkets into the field with you while playing as Colt."
+      },
+      {
+        "id": "achievement-34",
+        "name": "Spoiled for Choice",
+        "kind": "trophy",
+        "chapterId": "loadout",
+        "where": "Infuse one of each type of weapon."
+      },
+      {
+        "id": "achievement-35",
+        "name": "The Spice Of Life",
+        "kind": "trophy",
+        "chapterId": "blackreef-secrets",
+        "where": "Die every which way as Colt: Drown. Fall. Choke on poison gas. Succumb to fatal depressurization. Get blown up. Shot. Stabbed. Ground up. Fried by a rocket. Oh, and obliterated by a reactor. Fun, right?"
+      },
+      {
+        "id": "achievement-36",
+        "name": "Bling Bling Bang Bang",
+        "kind": "trophy",
+        "chapterId": "loadout",
+        "where": "Equip a loadout worth more than 45100 Residuum."
+      },
+      {
+        "id": "achievement-37",
+        "name": "Full Deck",
+        "kind": "trophy",
+        "chapterId": "visionaries",
+        "where": "Kill a Visionary using a full loadout, without any empty slots or sockets, and escape the map."
+      },
+      {
+        "id": "achievement-38",
+        "name": "Know Your Enemy",
+        "kind": "trophy",
+        "chapterId": "visionaries",
+        "where": "Complete one AEON dossier."
+      },
+      {
+        "id": "achievement-39",
+        "name": "The G.O.D. of O.S.P.",
+        "kind": "trophy",
+        "chapterId": "visionaries",
+        "where": "Enter a map with an empty loadout and kill all Visionaries present. Leave the map. Wash your hands."
+      },
+      {
+        "id": "achievement-40",
+        "name": "Mightier Than The Gun",
+        "kind": "trophy",
+        "chapterId": "visionaries",
+        "where": "Kill all Visionaries in a map - and make it to the exit - without using a gun."
+      },
+      {
+        "id": "achievement-41",
+        "name": "Silent Disco",
+        "kind": "trophy",
+        "chapterId": "visionaries",
+        "where": "Get in and out of a map without being spotted - and kill all Visionaries present."
+      },
+      {
+        "id": "achievement-42",
+        "name": "Only The Guilty",
+        "kind": "trophy",
+        "chapterId": "visionaries",
+        "where": "Kill all Visionaries present in a map and escape without killing any Eternalists."
+      },
+      {
+        "id": "achievement-43",
+        "name": "Clean Sweep",
+        "kind": "trophy",
+        "chapterId": "visionaries",
+        "where": "Kill everyone in a time period and escape."
+      },
+      {
+        "id": "achievement-44",
+        "name": "You Only Die Once",
+        "kind": "trophy",
+        "chapterId": "visionaries",
+        "where": "Finish an entire loop while wearing a ClassPass."
+      },
+      {
+        "id": "achievement-45",
+        "name": "Play It Again, Colt",
+        "kind": "trophy",
+        "chapterId": "visionaries",
+        "where": "After finishing the game once, kill all Visionaries in a map and escape."
+      },
+      {
+        "id": "achievement-46",
+        "name": "Clean-ish Hands",
+        "kind": "trophy",
+        "chapterId": "visionaries",
+        "where": "Kill all Visionaries - and no Eternalists - in a single loop."
+      },
+      {
+        "id": "achievement-47",
+        "name": "A Charlie Montague Game",
+        "kind": "trophy",
+        "chapterId": "blackreef-secrets",
+        "where": "Prove you're a real gamer by winning Charlie's Wake Up Challenge, Reward Scheme, the Moxie, Haul-A-Quinn, and the Yerhva."
+      },
+      {
+        "id": "achievement-48",
+        "name": "Cooking With Gas",
+        "kind": "trophy",
+        "chapterId": "blackreef-secrets",
+        "where": "While playing as Colt, ignite a gas cloud while someone is inside it."
+      },
+      {
+        "id": "achievement-49",
+        "name": "Sugar Crash",
+        "kind": "trophy",
+        "chapterId": "blackreef-secrets",
+        "where": "While playing as Colt, use candy to gain a tactical advantage."
+      },
+      {
+        "id": "achievement-50",
+        "name": "Residual Earnings",
+        "kind": "trophy",
+        "chapterId": "loadout",
+        "where": "Absorb more than 20000 Residuum in a map."
+      },
+      {
+        "id": "achievement-51",
+        "name": "Chop Chop",
+        "kind": "trophy",
+        "chapterId": "blackreef-secrets",
+        "where": "Kill 3 enemies with the machete in 10 seconds."
+      },
+      {
+        "id": "achievement-52",
+        "name": "Old Habits Die Hard",
+        "kind": "trophy",
+        "chapterId": "the-loop",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-53",
+        "name": "Deathday Suit",
+        "kind": "trophy",
+        "chapterId": "blackreef-secrets",
+        "where": "Kill the (mostly) naked character in each map."
+      },
+      {
+        "id": "achievement-54",
+        "name": "Oops",
+        "kind": "trophy",
+        "chapterId": "blackreef-secrets",
+        "where": "While playing as Colt, cause someone to fall to their death."
+      },
+      {
+        "id": "achievement-55",
+        "name": "Garbage Day!",
+        "kind": "trophy",
+        "chapterId": "blackreef-secrets",
+        "where": "Kill the Garbage Collector and acquire the Fugue slab."
+      },
+      {
+        "id": "achievement-56",
+        "name": "Out Like a Light",
+        "kind": "trophy",
+        "chapterId": "blackreef-secrets",
+        "where": "Acquire the HALPS Prototype and disintegrate a Visionary."
+      },
+      {
+        "id": "achievement-57",
+        "name": "Best of Both Worlds",
+        "kind": "trophy",
+        "chapterId": "blackreef-secrets",
+        "where": "Use the experimental machine in Karl's Bay to craft a doubly-powerful trinket."
+      },
+      {
+        "id": "achievement-58",
+        "name": "Postmodern Abstractionism",
+        "kind": "trophy",
+        "chapterId": "blackreef-secrets",
+        "where": "Kill an Eternalist with a Paint Bomb."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/deathloop-2",
+    "Achievement data from Steam (Steam Web API, app 1252330)",
+    "StrategyWiki: no page for this game, nothing used",
+    "Fandom (deathloop.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://deathloop.fandom.com/wiki/Deathloop"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). No StrategyWiki page under \"Deathloop\" or \"DEATHLOOP\". deathloop.fandom.com answers the API under \"Deathloop\", with only 14 linked articles, including \"Blackreef\", \"Colt Vahn\", \"Julianna Blake\", \"Trinkets\" and \"Weapons\"; names only were looked at, nothing copied. Steam app 1252330 is \"DEATHLOOP\". 19 of 58 Steam achievements are hidden; they sit in the story chapter, though some with low unlock rates (2 to 9%) may be side secrets. \"Masquerade\" is Julianna's, so \"Dressing Down\" sits with invasions. The achievement data does not say whether Julianna invasions are online, so the chapter does not claim it."
+}

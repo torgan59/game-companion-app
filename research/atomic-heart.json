@@ -1,0 +1,739 @@
+{
+  "id": "atomic-heart",
+  "title": "Atomic Heart",
+  "year": 2023,
+  "platforms": [
+    "PlayStation 5",
+    "Xbox Series X|S",
+    "PC",
+    "PlayStation 4",
+    "Xbox One"
+  ],
+  "rawgId": 50576,
+  "rawgSlug": "atomic-heart",
+  "released": "2023-02-21",
+  "developers": [
+    "Mundfish"
+  ],
+  "playtime": 12,
+  "genres": [
+    "Action",
+    "Shooter",
+    "Adventure"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Partial Controller Support",
+    "Horror",
+    "Immersive Sim",
+    "soviet-union",
+    "ussr",
+    "retrofuturism"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/6ee/6ee5cbe30c6b6c299a3288337d40a0f3.jpg",
+  "steamAppId": 668580,
+  "achievements": {
+    "total": 82,
+    "hidden": 1,
+    "examples": [
+      {
+        "name": "Happy Polymerization Day!",
+        "percent": 92.0
+      },
+      {
+        "name": "Artisan",
+        "percent": 68.9
+      },
+      {
+        "name": "Polymerization",
+        "percent": 68.5
+      },
+      {
+        "name": "Slashing Through the Limbo Waves",
+        "percent": 1.1
+      },
+      {
+        "name": "Conqueror of Chomolungma",
+        "percent": 1.1
+      },
+      {
+        "name": "Don't Mess With the Major",
+        "percent": 1.1
+      },
+      {
+        "name": "Moby Dick",
+        "percent": 1.1
+      },
+      {
+        "name": "Crystal Platinum",
+        "percent": 1.0
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Atomic_Heart",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 109,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://atomicheart.fandom.com/wiki/Atomic_Heart"
+    }
+  },
+  "game": {
+    "id": "atomic-heart",
+    "title": "Atomic Heart",
+    "platforms": [
+      "PlayStation 5",
+      "Xbox Series X|S",
+      "PC",
+      "PlayStation 4",
+      "Xbox One"
+    ],
+    "blurb": "First-person shooter set in a retro-futurist Soviet research facility, from Mundfish, released 2023-02-21. RAWG average playtime: 12 hours. Genres: Action, Shooter, Adventure. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#C8102E",
+    "chapters": [
+      {
+        "id": "campaign",
+        "title": "The Campaign",
+        "summary": "From Chelomey through Vavilov, the train, VDNH, the theater, the hospital and Pavlov to the secret at the heart of it all, plus the Armageddon difficulty.",
+        "steps": []
+      },
+      {
+        "id": "bosses",
+        "title": "Boss Fights",
+        "summary": "Belyash, Hedgie, Plyusch, Natasha, Dewdrop and the Twins.",
+        "steps": []
+      },
+      {
+        "id": "crafting-and-skills",
+        "title": "Crafting and Upgrades",
+        "summary": "Crafting weapons and consumables, polymer jelly, weapon upgrades and skill trees.",
+        "steps": []
+      },
+      {
+        "id": "exploration",
+        "title": "Exploration and Secrets",
+        "summary": "Phone booths, talking dead, Chirpers, Lootyagins, testing grounds, scanning and Limbo apples.",
+        "steps": []
+      },
+      {
+        "id": "combat",
+        "title": "Combat Feats",
+        "summary": "Elemental kills, headshots, telekinesis, vodka, railguns, cars and stopping sprouts.",
+        "steps": []
+      },
+      {
+        "id": "annihilation-instinct",
+        "title": "Annihilation Instinct DLC",
+        "summary": "The Annihilation Instinct DLC, its BEA-Ds and NORA, the Strekoza and its new weapons and feats.",
+        "steps": []
+      },
+      {
+        "id": "trapped-in-limbo",
+        "title": "Trapped in Limbo DLC",
+        "summary": "The Trapped in Limbo DLC: apples, gold coins, the casino and the no-death runs.",
+        "steps": []
+      },
+      {
+        "id": "later-story-dlc",
+        "title": "The Later Story DLCs",
+        "summary": "The two later story add-ons the achievements call \"the story DLC\": underwater areas, secret rooms, CHAR-les and the figurines.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "The Motherland Does Not Forget its Heroes",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Unlock all achievements"
+      },
+      {
+        "id": "achievement-2",
+        "name": "Strike",
+        "kind": "trophy",
+        "chapterId": "bosses",
+        "where": "Kill Hedgie without making a single shot / destroy all statues"
+      },
+      {
+        "id": "achievement-3",
+        "name": "Medium Rare",
+        "kind": "trophy",
+        "chapterId": "bosses",
+        "where": "Kill Belyash"
+      },
+      {
+        "id": "achievement-4",
+        "name": "Make It Go Round",
+        "kind": "trophy",
+        "chapterId": "bosses",
+        "where": "Kill Hedgie"
+      },
+      {
+        "id": "achievement-5",
+        "name": "Plyusch Rush",
+        "kind": "trophy",
+        "chapterId": "bosses",
+        "where": "Kill Plyusch"
+      },
+      {
+        "id": "achievement-6",
+        "name": "Show's Over",
+        "kind": "trophy",
+        "chapterId": "bosses",
+        "where": "Kill Natasha"
+      },
+      {
+        "id": "achievement-7",
+        "name": "Dew Point",
+        "kind": "trophy",
+        "chapterId": "bosses",
+        "where": "Kill Dewdrop"
+      },
+      {
+        "id": "achievement-8",
+        "name": "Murderous Beauty",
+        "kind": "trophy",
+        "chapterId": "bosses",
+        "where": "Kill Twins"
+      },
+      {
+        "id": "achievement-9",
+        "name": "Chop Chop Chop",
+        "kind": "trophy",
+        "chapterId": "bosses",
+        "where": "Kill Belyash with a melee weapon"
+      },
+      {
+        "id": "achievement-10",
+        "name": "Happy Polymerization Day!",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Fly out of Chelomey"
+      },
+      {
+        "id": "achievement-11",
+        "name": "Pistils and Stamens",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Get out of Vavilov"
+      },
+      {
+        "id": "achievement-12",
+        "name": "Tickets, Please!",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Take a train at the Lesnaya Maglev train station"
+      },
+      {
+        "id": "achievement-13",
+        "name": "Quite an Achievement",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Clear the VDNH complex"
+      },
+      {
+        "id": "achievement-14",
+        "name": "Curtain",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Finish a theater performance"
+      },
+      {
+        "id": "achievement-15",
+        "name": "Medical Checkup",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Get to a hospital"
+      },
+      {
+        "id": "achievement-16",
+        "name": "Freedom Reflex",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Explore Pavlov"
+      },
+      {
+        "id": "achievement-17",
+        "name": "Kommunism 2.0",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Find out the AoC's secret"
+      },
+      {
+        "id": "achievement-18",
+        "name": "Atomic Heart",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Complete the game on Armageddon"
+      },
+      {
+        "id": "achievement-19",
+        "name": "Artisan",
+        "kind": "trophy",
+        "chapterId": "crafting-and-skills",
+        "where": "Create a weapon in a crafting machine"
+      },
+      {
+        "id": "achievement-20",
+        "name": "Weapon Master",
+        "kind": "trophy",
+        "chapterId": "crafting-and-skills",
+        "where": "Create five types of weapons"
+      },
+      {
+        "id": "achievement-21",
+        "name": "Lord of War",
+        "kind": "trophy",
+        "chapterId": "crafting-and-skills",
+        "where": "Collect all weapons"
+      },
+      {
+        "id": "achievement-22",
+        "name": "Chemist",
+        "kind": "trophy",
+        "chapterId": "crafting-and-skills",
+        "where": "Craft consumables of all types"
+      },
+      {
+        "id": "achievement-23",
+        "name": "Polymerization",
+        "kind": "trophy",
+        "chapterId": "crafting-and-skills",
+        "where": "Collect 100 jelly"
+      },
+      {
+        "id": "achievement-24",
+        "name": "Apple Pie",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Pick all apples in Limbo"
+      },
+      {
+        "id": "achievement-25",
+        "name": "The Great Inventor",
+        "kind": "trophy",
+        "chapterId": "crafting-and-skills",
+        "where": "Upgrade a weapon to the maximum level"
+      },
+      {
+        "id": "achievement-26",
+        "name": "Lefthand Mastery",
+        "kind": "trophy",
+        "chapterId": "crafting-and-skills",
+        "where": "Fully upgrade one skill tree"
+      },
+      {
+        "id": "achievement-27",
+        "name": "How Can I Help You?",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Use a phone booth at Chelomey"
+      },
+      {
+        "id": "achievement-28",
+        "name": "Beast Friend",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Find all talking dead animals"
+      },
+      {
+        "id": "achievement-29",
+        "name": "The Necromancer",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Talk to every dead"
+      },
+      {
+        "id": "achievement-30",
+        "name": "Burning Ears",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Find all Chirpers"
+      },
+      {
+        "id": "achievement-31",
+        "name": "More Than Profit",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Find all Lootyagins"
+      },
+      {
+        "id": "achievement-32",
+        "name": "Explorer",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Find a testing ground"
+      },
+      {
+        "id": "achievement-33",
+        "name": "Clean-up",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Complete all testing grounds"
+      },
+      {
+        "id": "achievement-34",
+        "name": "Scanner",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Scan all mobs"
+      },
+      {
+        "id": "achievement-35",
+        "name": "Avatar",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Kill 10 burning enemies, 10 electrified enemies, and 10 frozen enemies"
+      },
+      {
+        "id": "achievement-36",
+        "name": "Hothead",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Get 25 kills with headshots using the PM"
+      },
+      {
+        "id": "achievement-37",
+        "name": "Below Zero",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Freeze a Vova mid-air"
+      },
+      {
+        "id": "achievement-38",
+        "name": "Assimilation Procedure Interrupted",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Don't let a sprout grow into a mutant"
+      },
+      {
+        "id": "achievement-39",
+        "name": "Bull's Eye!",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Use Telekinesis to throw an object and knock down an Owl"
+      },
+      {
+        "id": "achievement-40",
+        "name": "Alcoholics Anonymous",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Get drunk with vodka and kill 5 enemies"
+      },
+      {
+        "id": "achievement-41",
+        "name": "Triple Penetration",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Kill 3 or more enemies with a single Railgun shot"
+      },
+      {
+        "id": "achievement-42",
+        "name": "Hands on the Hood",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Hit 20 enemies by a car"
+      },
+      {
+        "id": "achievement-43",
+        "name": "Weird Science",
+        "kind": "trophy",
+        "chapterId": "annihilation-instinct",
+        "where": "Get into the ORB lab"
+      },
+      {
+        "id": "achievement-44",
+        "name": "Lord of the Flies",
+        "kind": "trophy",
+        "chapterId": "annihilation-instinct",
+        "where": "Use a Strekoza for the first time"
+      },
+      {
+        "id": "achievement-45",
+        "name": "A Girl's Best Friend",
+        "kind": "trophy",
+        "chapterId": "annihilation-instinct",
+        "where": "Send all BEA-Ds to NORA's brain"
+      },
+      {
+        "id": "achievement-46",
+        "name": "Return to Utopia",
+        "kind": "trophy",
+        "chapterId": "annihilation-instinct",
+        "where": "Complete the Annihilation Instinct DLC"
+      },
+      {
+        "id": "achievement-47",
+        "name": "Divide et Impera",
+        "kind": "trophy",
+        "chapterId": "annihilation-instinct",
+        "where": "Separate several combined BEA-Ds with one shot from the Secateur"
+      },
+      {
+        "id": "achievement-48",
+        "name": "Time in a Bottle",
+        "kind": "trophy",
+        "chapterId": "annihilation-instinct",
+        "where": "Kill 3 enemies while using technostasis"
+      },
+      {
+        "id": "achievement-49",
+        "name": "John Silver's Crew",
+        "kind": "trophy",
+        "chapterId": "annihilation-instinct",
+        "where": "Kill 3 M4D-5 robots in a row while they're hopping on one foot"
+      },
+      {
+        "id": "achievement-50",
+        "name": "Ultimate Storm",
+        "kind": "trophy",
+        "chapterId": "annihilation-instinct",
+        "where": "Destroy 15 enemies using the neuropolymeric launch module"
+      },
+      {
+        "id": "achievement-51",
+        "name": "Maximum Strength",
+        "kind": "trophy",
+        "chapterId": "annihilation-instinct",
+        "where": "Upgrade the Klusha and Secateur to max"
+      },
+      {
+        "id": "achievement-52",
+        "name": "Apple Pie 3826",
+        "kind": "trophy",
+        "chapterId": "trapped-in-limbo",
+        "where": "Collect 3,826 apples in the Trapped in Limbo DLC"
+      },
+      {
+        "id": "achievement-53",
+        "name": "Conservationist",
+        "kind": "trophy",
+        "chapterId": "trapped-in-limbo",
+        "where": "Get a gold coin without shooting the Pchela"
+      },
+      {
+        "id": "achievement-54",
+        "name": "The Casino Isn't Always in the Black",
+        "kind": "trophy",
+        "chapterId": "trapped-in-limbo",
+        "where": "Get ALL items from the slot machine"
+      },
+      {
+        "id": "achievement-55",
+        "name": "Slashing Through the Limbo Waves",
+        "kind": "trophy",
+        "chapterId": "trapped-in-limbo",
+        "where": "Complete the Plateau of Responsibility without dying"
+      },
+      {
+        "id": "achievement-56",
+        "name": "Conqueror of Annapurna",
+        "kind": "trophy",
+        "chapterId": "trapped-in-limbo",
+        "where": "Complete the Tower of Memory without dying"
+      },
+      {
+        "id": "achievement-57",
+        "name": "Conqueror of Chomolungma",
+        "kind": "trophy",
+        "chapterId": "trapped-in-limbo",
+        "where": "Complete the Cliff of Perseverance without dying"
+      },
+      {
+        "id": "achievement-58",
+        "name": "Daring as a Bullet is Sharp",
+        "kind": "trophy",
+        "chapterId": "trapped-in-limbo",
+        "where": "Complete the Avenue of Speed without dying"
+      },
+      {
+        "id": "achievement-59",
+        "name": "Don't Mess With the Major",
+        "kind": "trophy",
+        "chapterId": "trapped-in-limbo",
+        "where": "Complete the Trapped in Limbo DLC without dying"
+      },
+      {
+        "id": "achievement-60",
+        "name": "Gold Rush",
+        "kind": "trophy",
+        "chapterId": "trapped-in-limbo",
+        "where": "Collect 76 gold coins"
+      },
+      {
+        "id": "achievement-61",
+        "name": "Overkill",
+        "kind": "trophy",
+        "chapterId": "trapped-in-limbo",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-62",
+        "name": "Moby Dick",
+        "kind": "trophy",
+        "chapterId": "later-story-dlc",
+        "where": "While standing by the window, listen to a chirper narrating the story of the mysterious tune"
+      },
+      {
+        "id": "achievement-63",
+        "name": "Master of Survival",
+        "kind": "trophy",
+        "chapterId": "later-story-dlc",
+        "where": "Find all the Hunter's stashes"
+      },
+      {
+        "id": "achievement-64",
+        "name": "Demonstration of Violence",
+        "kind": "trophy",
+        "chapterId": "later-story-dlc",
+        "where": "Destroy the Robogirl at Chelomey"
+      },
+      {
+        "id": "achievement-65",
+        "name": "And now—CHAR-les",
+        "kind": "trophy",
+        "chapterId": "later-story-dlc",
+        "where": "Complete the story DLC"
+      },
+      {
+        "id": "achievement-66",
+        "name": "Water Sports",
+        "kind": "trophy",
+        "chapterId": "later-story-dlc",
+        "where": "Toss the ball back and forth with the dolphin three times"
+      },
+      {
+        "id": "achievement-67",
+        "name": "You've Read the Manual!",
+        "kind": "trophy",
+        "chapterId": "later-story-dlc",
+        "where": "Pull yourself close to your enemy with the Whip"
+      },
+      {
+        "id": "achievement-68",
+        "name": "I'm here if you need to talk",
+        "kind": "trophy",
+        "chapterId": "later-story-dlc",
+        "where": "Talk to Terentiy"
+      },
+      {
+        "id": "achievement-69",
+        "name": "Hic Sunt Dracones",
+        "kind": "trophy",
+        "chapterId": "later-story-dlc",
+        "where": "Swim beyond the underwater world's borders, ignoring warnings"
+      },
+      {
+        "id": "achievement-70",
+        "name": "Marco... Polo!",
+        "kind": "trophy",
+        "chapterId": "later-story-dlc",
+        "where": "Fall in the water at Wave and get killed by Morays"
+      },
+      {
+        "id": "achievement-71",
+        "name": "Final Burn-down",
+        "kind": "trophy",
+        "chapterId": "later-story-dlc",
+        "where": "Destroy all of the infected plants on the submarine"
+      },
+      {
+        "id": "achievement-72",
+        "name": "Let's Shake on It!",
+        "kind": "trophy",
+        "chapterId": "later-story-dlc",
+        "where": "Exterminate the RACCOON boss"
+      },
+      {
+        "id": "achievement-73",
+        "name": "Validol's Our Bro",
+        "kind": "trophy",
+        "chapterId": "later-story-dlc",
+        "where": "Complete Validol's mission peacefully"
+      },
+      {
+        "id": "achievement-74",
+        "name": "Fluffy Easter Egg",
+        "kind": "trophy",
+        "chapterId": "later-story-dlc",
+        "where": "Find the secret room with the fluffball"
+      },
+      {
+        "id": "achievement-75",
+        "name": "Better Late Than Never",
+        "kind": "trophy",
+        "chapterId": "later-story-dlc",
+        "where": "Find the dolphin figurine in the secret room"
+      },
+      {
+        "id": "achievement-76",
+        "name": "Secret Meeting",
+        "kind": "trophy",
+        "chapterId": "later-story-dlc",
+        "where": "Open the secret room with observers"
+      },
+      {
+        "id": "achievement-77",
+        "name": "Terminator's Death",
+        "kind": "trophy",
+        "chapterId": "later-story-dlc",
+        "where": "Use an industrial press to destroy robots"
+      },
+      {
+        "id": "achievement-78",
+        "name": "Clean in Two",
+        "kind": "trophy",
+        "chapterId": "later-story-dlc",
+        "where": "Defeat the Second Twin"
+      },
+      {
+        "id": "achievement-79",
+        "name": "For Chief's a Jolly Good Fellow",
+        "kind": "trophy",
+        "chapterId": "later-story-dlc",
+        "where": "Save Sechenov"
+      },
+      {
+        "id": "achievement-80",
+        "name": "Farewell, Old Friend",
+        "kind": "trophy",
+        "chapterId": "later-story-dlc",
+        "where": "Beat CHAR-les"
+      },
+      {
+        "id": "achievement-81",
+        "name": "This Is the End",
+        "kind": "trophy",
+        "chapterId": "later-story-dlc",
+        "where": "Complete the story DLC"
+      },
+      {
+        "id": "achievement-82",
+        "name": "Crystal Platinum",
+        "kind": "trophy",
+        "chapterId": "later-story-dlc",
+        "where": "Collect all of the figurines hidden in the complex"
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/atomic-heart",
+    "Achievement data from Steam (Steam Web API, app 668580)",
+    "StrategyWiki: no usable walkthrough, nothing used — https://strategywiki.org/wiki/Atomic_Heart",
+    "Fandom (atomicheart.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://atomicheart.fandom.com/wiki/Atomic_Heart"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). StrategyWiki has a stub page (completion stage 0, marked \"Perfect stub article\"); it links Gameplay, Walkthrough and Table of Contents subpages, but none of them exists, so nothing was used. atomicheart.fandom.com answers the API with about 109 linked articles, including \"Annihilation Instinct\", \"Enchantment Under the Sea\", \"CHAR-les\", \"Chelomey Complex\", \"Vavilov Complex\", \"Pavlov Complex\", \"VDNH\" and \"Facility 3826\"; names only were looked at, nothing copied. Steam app 668580 is the base game (the other match is \"Atomic Heart 2\"). Only 1 of 82 Steam achievements is hidden (\"Overkill\", 1.1%); it sits in the Trapped in Limbo chapter because it falls inside that block of the Steam list. RAWG lists the add-ons \"Atomic Heart: Annihilation Instinct\", \"Atomic Heart: Trapped in Limbo\" and \"Atomic Heart: Blood on Crystal\" (2026) as separate entries. The Annihilation Instinct and Trapped in Limbo achievements are named in the descriptions; the ones with no add-on named (\"Weird Science\" to \"Maximum Strength\", and \"Moby Dick\", \"Master of Survival\" and \"Demonstration of Violence\") are grouped by their place in the Steam list and their low unlock rates. Two achievements say \"Complete the story DLC\" (\"And now—CHAR-les\" and \"This Is the End\"), so the later story add-ons share one chapter; the data does not say which achievement belongs to which add-on. \"Apple Pie\" (pick all apples in Limbo) sits in the base-game part of the list, so it stays in exploration."
+}

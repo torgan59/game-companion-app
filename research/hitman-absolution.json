@@ -1,0 +1,484 @@
+{
+  "id": "hitman-absolution",
+  "title": "Hitman: Absolution",
+  "year": 2012,
+  "platforms": [
+    "PlayStation 3",
+    "macOS",
+    "PC",
+    "Nintendo Switch",
+    "Xbox 360",
+    "Xbox One",
+    "PlayStation 4"
+  ],
+  "rawgId": 5583,
+  "rawgSlug": "hitman-absolution",
+  "released": "2012-11-19",
+  "developers": [
+    "IO Interactive"
+  ],
+  "playtime": 7,
+  "genres": [
+    "Action",
+    "Shooter"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Multiplayer",
+    "Atmospheric",
+    "Story Rich",
+    "Third Person",
+    "Partial Controller Support",
+    "Difficult",
+    "Stealth",
+    "Controller",
+    "Tactical",
+    "Third-Person Shooter",
+    "Replay Value"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/d46/d46373f39458670305704ef089387520.jpg",
+  "steamAppId": 203140,
+  "achievements": {
+    "total": 47,
+    "hidden": 20,
+    "examples": [
+      {
+        "name": "Damage Control",
+        "percent": 77.1
+      },
+      {
+        "name": "True Potential",
+        "percent": 75.8
+      },
+      {
+        "name": "One of the Guys",
+        "percent": 75.8
+      },
+      {
+        "name": "Partners in Crime",
+        "percent": 3.8
+      },
+      {
+        "name": "Competitive Spirit",
+        "percent": 3.5
+      },
+      {
+        "name": "Contender",
+        "percent": 2.8
+      },
+      {
+        "name": "Information is Power",
+        "percent": 2.5
+      },
+      {
+        "name": "Jack of All Trades",
+        "percent": 2.3
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Hitman:_Absolution",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 245,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://hitman.fandom.com/wiki/Hitman:_Absolution"
+    }
+  },
+  "game": {
+    "id": "hitman-absolution",
+    "title": "Hitman: Absolution",
+    "platforms": [
+      "PlayStation 3",
+      "macOS",
+      "PC",
+      "Nintendo Switch",
+      "Xbox 360",
+      "Xbox One",
+      "PlayStation 4"
+    ],
+    "blurb": "Stealth action game from IO Interactive, published by Square Enix, released 2012-11-19. RAWG average playtime: 7 hours. Genres: Action, Shooter. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#B3131B",
+    "chapters": [
+      {
+        "id": "main-story-1",
+        "title": "The Main Story, Part 1",
+        "summary": "The first ten story achievements, all hidden on Steam. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "main-story-2",
+        "title": "The Main Story, Part 2",
+        "summary": "The last ten story achievements, all hidden on Steam. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "challenges-and-mastery",
+        "title": "Challenges, Evidence and Professional",
+        "summary": "Completing 10, 50 and 100 challenges, all 20 play styles, all evidence and finishing the game as a professional.",
+        "steps": []
+      },
+      {
+        "id": "contracts",
+        "title": "Contracts Mode",
+        "summary": "The Contracts tutorials, playing, liking and creating contracts, contract competitions and Contracts dollars.",
+        "steps": []
+      },
+      {
+        "id": "techniques",
+        "title": "Stealth and Techniques",
+        "summary": "Silent Assassin, blending in, hiding bodies, accidents, point shooting, lethal throws, sniper headshots, weapon upgrades and the benchmark.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Grand Master",
+        "kind": "trophy",
+        "chapterId": "challenges-and-mastery",
+        "where": "You completed 100 challenges"
+      },
+      {
+        "id": "achievement-2",
+        "name": "Reach for the Stars",
+        "kind": "trophy",
+        "chapterId": "challenges-and-mastery",
+        "where": "You completed 50 challenges"
+      },
+      {
+        "id": "achievement-3",
+        "name": "The Russian Hare",
+        "kind": "trophy",
+        "chapterId": "techniques",
+        "where": "You performed 47 headshots using a sniper rifle"
+      },
+      {
+        "id": "achievement-4",
+        "name": "A Taste for the Game",
+        "kind": "trophy",
+        "chapterId": "challenges-and-mastery",
+        "where": "You completed 10 challenges"
+      },
+      {
+        "id": "achievement-5",
+        "name": "Heavy Burden",
+        "kind": "trophy",
+        "chapterId": "main-story-1",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-6",
+        "name": "Kingslayer",
+        "kind": "trophy",
+        "chapterId": "main-story-1",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-7",
+        "name": "Chamber of Secrets",
+        "kind": "trophy",
+        "chapterId": "main-story-1",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-8",
+        "name": "Catch a Ride",
+        "kind": "trophy",
+        "chapterId": "main-story-1",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-9",
+        "name": "Forepost",
+        "kind": "trophy",
+        "chapterId": "main-story-1",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-10",
+        "name": "All Bark and no Bite",
+        "kind": "trophy",
+        "chapterId": "main-story-1",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-11",
+        "name": "The Bartender Always Knows",
+        "kind": "trophy",
+        "chapterId": "main-story-1",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-12",
+        "name": "Signature Weapons",
+        "kind": "trophy",
+        "chapterId": "main-story-1",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-13",
+        "name": "Like Stealing Candy From a Baby",
+        "kind": "trophy",
+        "chapterId": "main-story-1",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-14",
+        "name": "Not Worth It",
+        "kind": "trophy",
+        "chapterId": "main-story-1",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-15",
+        "name": "Step Into the Light",
+        "kind": "trophy",
+        "chapterId": "main-story-2",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-16",
+        "name": "A Heavy Blow",
+        "kind": "trophy",
+        "chapterId": "main-story-2",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-17",
+        "name": "Faith Can Move Mountains",
+        "kind": "trophy",
+        "chapterId": "main-story-2",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-18",
+        "name": "The Killing Fields",
+        "kind": "trophy",
+        "chapterId": "main-story-2",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-19",
+        "name": "Jailbird",
+        "kind": "trophy",
+        "chapterId": "main-story-2",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-20",
+        "name": "Hour of Reckoning",
+        "kind": "trophy",
+        "chapterId": "main-story-2",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-21",
+        "name": "True Form",
+        "kind": "trophy",
+        "chapterId": "main-story-2",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-22",
+        "name": "Destroying Something Beautiful",
+        "kind": "trophy",
+        "chapterId": "main-story-2",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-23",
+        "name": "The Final Countdown",
+        "kind": "trophy",
+        "chapterId": "main-story-2",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-24",
+        "name": "A Personal Contract",
+        "kind": "trophy",
+        "chapterId": "main-story-2",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-25",
+        "name": "Absolution",
+        "kind": "trophy",
+        "chapterId": "challenges-and-mastery",
+        "where": "You completed Hitman: Absolution™ as a professional"
+      },
+      {
+        "id": "achievement-26",
+        "name": "Jack of All Trades",
+        "kind": "trophy",
+        "chapterId": "challenges-and-mastery",
+        "where": "You collected all 20 play styles"
+      },
+      {
+        "id": "achievement-27",
+        "name": "It's All in the Wrist",
+        "kind": "trophy",
+        "chapterId": "techniques",
+        "where": "You successfully performed a lethal throw"
+      },
+      {
+        "id": "achievement-28",
+        "name": "Information is Power",
+        "kind": "trophy",
+        "chapterId": "challenges-and-mastery",
+        "where": "You collected all evidence"
+      },
+      {
+        "id": "achievement-29",
+        "name": "Thumbs Up",
+        "kind": "trophy",
+        "chapterId": "contracts",
+        "where": "You liked a contract"
+      },
+      {
+        "id": "achievement-30",
+        "name": "Damage Control",
+        "kind": "trophy",
+        "chapterId": "techniques",
+        "where": "You contained a situation gone bad"
+      },
+      {
+        "id": "achievement-31",
+        "name": "Set for Life",
+        "kind": "trophy",
+        "chapterId": "contracts",
+        "where": "You earned 1 million contracts dollars"
+      },
+      {
+        "id": "achievement-32",
+        "name": "Self-improvement",
+        "kind": "trophy",
+        "chapterId": "techniques",
+        "where": "You bought an upgrade for a weapon"
+      },
+      {
+        "id": "achievement-33",
+        "name": "First Contract",
+        "kind": "trophy",
+        "chapterId": "contracts",
+        "where": "You completed the Creating Contracts Tutorial"
+      },
+      {
+        "id": "achievement-34",
+        "name": "Blood Money",
+        "kind": "trophy",
+        "chapterId": "contracts",
+        "where": "You completed the Contract Basics Tutorial"
+      },
+      {
+        "id": "achievement-35",
+        "name": "True Potential",
+        "kind": "trophy",
+        "chapterId": "techniques",
+        "where": "You unlocked a technique"
+      },
+      {
+        "id": "achievement-36",
+        "name": "Partners in Crime",
+        "kind": "trophy",
+        "chapterId": "contracts",
+        "where": "You played a contract made by a friend"
+      },
+      {
+        "id": "achievement-37",
+        "name": "Competitive Spirit",
+        "kind": "trophy",
+        "chapterId": "contracts",
+        "where": "You created a contract competition"
+      },
+      {
+        "id": "achievement-38",
+        "name": "Contender",
+        "kind": "trophy",
+        "chapterId": "contracts",
+        "where": "You participated in a contract competition"
+      },
+      {
+        "id": "achievement-39",
+        "name": "One With the Shadows",
+        "kind": "trophy",
+        "chapterId": "techniques",
+        "where": "You escaped the attention of an enemy"
+      },
+      {
+        "id": "achievement-40",
+        "name": "Silent Assassin",
+        "kind": "trophy",
+        "chapterId": "techniques",
+        "where": "You achieved Silent Assassin"
+      },
+      {
+        "id": "achievement-41",
+        "name": "Inconspicuous",
+        "kind": "trophy",
+        "chapterId": "techniques",
+        "where": "You remained undetected throughout a checkpoint"
+      },
+      {
+        "id": "achievement-42",
+        "name": "Whoops",
+        "kind": "trophy",
+        "chapterId": "techniques",
+        "where": "You made a kill look like an accident"
+      },
+      {
+        "id": "achievement-43",
+        "name": "One of the Guys",
+        "kind": "trophy",
+        "chapterId": "techniques",
+        "where": "You blended in and fooled someone"
+      },
+      {
+        "id": "achievement-44",
+        "name": "Rocksteady",
+        "kind": "trophy",
+        "chapterId": "techniques",
+        "where": "You executed a point shooting with at least 3 kills"
+      },
+      {
+        "id": "achievement-45",
+        "name": "Under Wraps",
+        "kind": "trophy",
+        "chapterId": "techniques",
+        "where": "You hid a body"
+      },
+      {
+        "id": "achievement-46",
+        "name": "Sandman",
+        "kind": "trophy",
+        "chapterId": "techniques",
+        "where": "You subdued a person"
+      },
+      {
+        "id": "achievement-47",
+        "name": "Take me to the geek",
+        "kind": "trophy",
+        "chapterId": "techniques",
+        "where": "You ran the benchmark mode to see how well your hardware performs"
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/hitman-absolution",
+    "Achievement data from Steam (Steam Web API, app 203140)",
+    "StrategyWiki: no usable walkthrough, nothing used — https://strategywiki.org/wiki/Hitman:_Absolution",
+    "Fandom (hitman.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://hitman.fandom.com/wiki/Hitman:_Absolution"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). RAWG's first result is the expected entry (id 5583); RAWG keeps \"Hitman: Absolution - Elite Edition\", \"Hitman: Sniper Challenge\" and \"Hitman HD Enhanced Collection\" as separate additions. Steam app 203140 (\"Hitman: Absolution™\" in the store list; its schema is named \"ValveTestApp203140\", a placeholder) was used. StrategyWiki has \"Hitman: Absolution\" as a stub at completion stage 0 (in Category:Stubs): only the Table of Contents is written; Controls, Gameplay and Walkthrough are linked but not written. hitman.fandom.com answers the API under \"Hitman: Absolution\" with about 245 linked articles; names only were looked at, nothing copied. 20 of 47 Steam achievements are hidden: NEW_ACHIEVEMENT_3_4 to 3_23 in an unbroken run, falling mostly steadily from 84.8% to 32.7%, so they look like story milestones; they are split ten and ten by API number, our own choice. Two are much rarer than their neighbours, \"Not Worth It\" (14.4%) and \"Faith Can Move Mountains\" (22.6%), and may be optional feats rather than plain story beats. \"Self-improvement\" (bought a weapon upgrade) sits next to the Contracts dollars achievement in the list, but the data does not tie it to Contracts, so it is in techniques."
+}

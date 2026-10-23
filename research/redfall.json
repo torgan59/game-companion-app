@@ -1,0 +1,611 @@
+{
+  "id": "redfall",
+  "title": "Redfall",
+  "year": 2023,
+  "platforms": [
+    "PC",
+    "Xbox Series X|S"
+  ],
+  "rawgId": 617209,
+  "rawgSlug": "redfall",
+  "released": "2023-05-01",
+  "developers": [
+    "Arkane Studios",
+    "Arkane Austin"
+  ],
+  "playtime": 3,
+  "genres": [
+    "Action",
+    "Shooter",
+    "Adventure"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Multiplayer",
+    "Full controller support",
+    "Steam Cloud",
+    "Co-op",
+    "Story Rich",
+    "Open World",
+    "cooperative",
+    "First-Person",
+    "FPS",
+    "Online Co-Op"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/683/6834c702c73e28ef2b3b003bb2c54567.jpg",
+  "steamAppId": 1294810,
+  "achievements": {
+    "total": 66,
+    "hidden": 6,
+    "examples": [
+      {
+        "name": "I Like My Stakes Rare!",
+        "percent": 85.4
+      },
+      {
+        "name": "Home Is Where the Heart Is",
+        "percent": 68.0
+      },
+      {
+        "name": "Wounded Whispers",
+        "percent": 66.5
+      },
+      {
+        "name": "A Cry in the Dark",
+        "percent": 2.8
+      },
+      {
+        "name": "Faith Healer",
+        "percent": 2.6
+      },
+      {
+        "name": "Rum Runner",
+        "percent": 2.2
+      },
+      {
+        "name": "Eagle Eyes",
+        "percent": 1.9
+      },
+      {
+        "name": "Sepsis",
+        "percent": 1.8
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": false,
+      "pages": 0,
+      "reason": "No page for Redfall (MediaWiki API returned missing; see notes for other titles tried)"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": false,
+      "reason": "No page under this title on redfall.fandom.com; marked unverified, not retried"
+    }
+  },
+  "game": {
+    "id": "redfall",
+    "title": "Redfall",
+    "platforms": [
+      "PC",
+      "Xbox Series X|S"
+    ],
+    "blurb": "Open-world vampire-hunting first-person shooter, solo or in co-op, from Arkane Austin, released 2023-05-01 (RAWG date). RAWG average playtime: 3 hours. Genres: Action, Shooter, Adventure. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#B22222",
+    "chapters": [
+      {
+        "id": "redfall-commons",
+        "title": "Redfall Commons",
+        "summary": "The main missions of the first region, its first safehouse, neighborhoods and the Hollow Man. Hidden achievements sit here too.",
+        "steps": []
+      },
+      {
+        "id": "burial-point",
+        "title": "Burial Point",
+        "summary": "The main missions of the second region, its neighborhoods and the vampire gods Bloody Tom, Miss Whisper and The Black Sun.",
+        "steps": []
+      },
+      {
+        "id": "mission-feats",
+        "title": "Mission Feats",
+        "summary": "Optional ways to finish named missions, such as One of Us, Fall Like Lightning and the Psychic Woods.",
+        "steps": []
+      },
+      {
+        "id": "side-missions",
+        "title": "Side Missions and Secrets",
+        "summary": "Optional and side missions, grave locks, family secrets and odd discoveries around the island.",
+        "steps": []
+      },
+      {
+        "id": "vampires-and-nests",
+        "title": "Vampires and Nests",
+        "summary": "Staking vampires, every vampire type, nest doors and nest hearts.",
+        "steps": []
+      },
+      {
+        "id": "heroes-and-loot",
+        "title": "Heroes, Trust and Loot",
+        "summary": "Trust with Layla, Devinder, Jacob and Remi, blood remnants, unrivaled items and tripwires.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Neighborhood Revitalization",
+        "kind": "trophy",
+        "chapterId": "redfall-commons",
+        "where": "Complete all of the required main missions in Redfall Commons."
+      },
+      {
+        "id": "achievement-2",
+        "name": "Revelations",
+        "kind": "trophy",
+        "chapterId": "redfall-commons",
+        "where": "Listen to the Pastor's thrall recording."
+      },
+      {
+        "id": "achievement-3",
+        "name": "Home Is Where the Heart Is",
+        "kind": "trophy",
+        "chapterId": "redfall-commons",
+        "where": "Unlock your first safehouse."
+      },
+      {
+        "id": "achievement-4",
+        "name": "Enter of Your Own Free Will",
+        "kind": "trophy",
+        "chapterId": "vampires-and-nests",
+        "where": "Enter your first nest door."
+      },
+      {
+        "id": "achievement-5",
+        "name": "Contingency Plans",
+        "kind": "trophy",
+        "chapterId": "side-missions",
+        "where": "Complete all optional campaign missions."
+      },
+      {
+        "id": "achievement-6",
+        "name": "Deforestation",
+        "kind": "trophy",
+        "chapterId": "redfall-commons",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-7",
+        "name": "Blood Will Have Blood",
+        "kind": "trophy",
+        "chapterId": "heroes-and-loot",
+        "where": "Loot your first blood remnant."
+      },
+      {
+        "id": "achievement-8",
+        "name": "Ne Plus Ultra",
+        "kind": "trophy",
+        "chapterId": "heroes-and-loot",
+        "where": "Loot your first unrivaled item."
+      },
+      {
+        "id": "achievement-9",
+        "name": "Welcome to the Neighborhood",
+        "kind": "trophy",
+        "chapterId": "redfall-commons",
+        "where": "Complete your first neighborhood."
+      },
+      {
+        "id": "achievement-10",
+        "name": "Block Party",
+        "kind": "trophy",
+        "chapterId": "redfall-commons",
+        "where": "Complete all neighborhoods in Redfall Commons."
+      },
+      {
+        "id": "achievement-11",
+        "name": "Neighborhood Watch",
+        "kind": "trophy",
+        "chapterId": "burial-point",
+        "where": "Complete all neighborhoods in Burial Point."
+      },
+      {
+        "id": "achievement-12",
+        "name": "Scream Team",
+        "kind": "trophy",
+        "chapterId": "heroes-and-loot",
+        "where": "Gain Layla's complete trust and confidence."
+      },
+      {
+        "id": "achievement-13",
+        "name": "Monster Hunters Club",
+        "kind": "trophy",
+        "chapterId": "heroes-and-loot",
+        "where": "Gain Devinder's complete trust and confidence."
+      },
+      {
+        "id": "achievement-14",
+        "name": "Blood Brother",
+        "kind": "trophy",
+        "chapterId": "heroes-and-loot",
+        "where": "Gain Jacob’s complete trust and confidence."
+      },
+      {
+        "id": "achievement-15",
+        "name": "Friendgineering",
+        "kind": "trophy",
+        "chapterId": "heroes-and-loot",
+        "where": "Gain Remi’s complete trust and confidence."
+      },
+      {
+        "id": "achievement-16",
+        "name": "Bad Wiring",
+        "kind": "trophy",
+        "chapterId": "heroes-and-loot",
+        "where": "Disable a tripwire using a rewire kit."
+      },
+      {
+        "id": "achievement-17",
+        "name": "Spit Take",
+        "kind": "trophy",
+        "chapterId": "redfall-commons",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-18",
+        "name": "I Like My Stakes Rare!",
+        "kind": "trophy",
+        "chapterId": "vampires-and-nests",
+        "where": "Stake your first vampire."
+      },
+      {
+        "id": "achievement-19",
+        "name": "Sic Transit Umbra",
+        "kind": "trophy",
+        "chapterId": "burial-point",
+        "where": "Complete all of the required main missions in Burial Point."
+      },
+      {
+        "id": "achievement-20",
+        "name": "Radio Silence",
+        "kind": "trophy",
+        "chapterId": "redfall-commons",
+        "where": "Destroy the Hollow Man."
+      },
+      {
+        "id": "achievement-21",
+        "name": "Bell-ringer",
+        "kind": "trophy",
+        "chapterId": "burial-point",
+        "where": "Destroy Bloody Tom."
+      },
+      {
+        "id": "achievement-22",
+        "name": "Silence Is Golden",
+        "kind": "trophy",
+        "chapterId": "burial-point",
+        "where": "Destroy Miss Whisper."
+      },
+      {
+        "id": "achievement-23",
+        "name": "Good Morning",
+        "kind": "trophy",
+        "chapterId": "burial-point",
+        "where": "Destroy The Black Sun."
+      },
+      {
+        "id": "achievement-24",
+        "name": "Grounded",
+        "kind": "trophy",
+        "chapterId": "vampires-and-nests",
+        "where": "Destroy your first Rook."
+      },
+      {
+        "id": "achievement-25",
+        "name": "Fly Fisher",
+        "kind": "trophy",
+        "chapterId": "vampires-and-nests",
+        "where": "Destroy your first Angler."
+      },
+      {
+        "id": "achievement-26",
+        "name": "Peek-a-boo",
+        "kind": "trophy",
+        "chapterId": "vampires-and-nests",
+        "where": "Destroy your first Shroud."
+      },
+      {
+        "id": "achievement-27",
+        "name": "You Clean It Up",
+        "kind": "trophy",
+        "chapterId": "vampires-and-nests",
+        "where": "Destroy a Blood Bag without triggering it to explode."
+      },
+      {
+        "id": "achievement-28",
+        "name": "Throw The First Stone",
+        "kind": "trophy",
+        "chapterId": "vampires-and-nests",
+        "where": "Destroy your first Sin-Eater."
+      },
+      {
+        "id": "achievement-29",
+        "name": "ICU",
+        "kind": "trophy",
+        "chapterId": "vampires-and-nests",
+        "where": "Destroy your first Watcher."
+      },
+      {
+        "id": "achievement-30",
+        "name": "Sucks To Be You",
+        "kind": "trophy",
+        "chapterId": "vampires-and-nests",
+        "where": "Destroy your first Siphon."
+      },
+      {
+        "id": "achievement-31",
+        "name": "Faith Healer",
+        "kind": "trophy",
+        "chapterId": "side-missions",
+        "where": "Collect all grave locks."
+      },
+      {
+        "id": "achievement-32",
+        "name": "Wounded Whispers",
+        "kind": "trophy",
+        "chapterId": "side-missions",
+        "where": "Collect your first grave lock."
+      },
+      {
+        "id": "achievement-33",
+        "name": "Catch and Release",
+        "kind": "trophy",
+        "chapterId": "heroes-and-loot",
+        "where": "Rescue a civilian hostage."
+      },
+      {
+        "id": "achievement-34",
+        "name": "From the Shadows",
+        "kind": "trophy",
+        "chapterId": "mission-feats",
+        "where": "Destroy Gloria during The Key to Wellness."
+      },
+      {
+        "id": "achievement-35",
+        "name": "A Cry in the Dark",
+        "kind": "trophy",
+        "chapterId": "side-missions",
+        "where": "Destroy the Wailing Shadow."
+      },
+      {
+        "id": "achievement-36",
+        "name": "Sisterhood",
+        "kind": "trophy",
+        "chapterId": "side-missions",
+        "where": "Discover the fate of the Blackwood sisters and collect their heirloom."
+      },
+      {
+        "id": "achievement-37",
+        "name": "What Lies Below",
+        "kind": "trophy",
+        "chapterId": "side-missions",
+        "where": "Uncover the Irving family mausoleum."
+      },
+      {
+        "id": "achievement-38",
+        "name": "Check, Please!",
+        "kind": "trophy",
+        "chapterId": "side-missions",
+        "where": "Loot the table 12 remnant."
+      },
+      {
+        "id": "achievement-39",
+        "name": "Heart Attack",
+        "kind": "trophy",
+        "chapterId": "vampires-and-nests",
+        "where": "Destroy your first nest heart."
+      },
+      {
+        "id": "achievement-40",
+        "name": "Empty Nest Syndrome",
+        "kind": "trophy",
+        "chapterId": "vampires-and-nests",
+        "where": "Destroy a nest heart without waking or killing any vampires."
+      },
+      {
+        "id": "achievement-41",
+        "name": "Starve the Beast",
+        "kind": "trophy",
+        "chapterId": "mission-feats",
+        "where": "Complete Metamorphosis without the vampire being nourished."
+      },
+      {
+        "id": "achievement-42",
+        "name": "Someplace to Be",
+        "kind": "trophy",
+        "chapterId": "mission-feats",
+        "where": "Reach a landing site before the supplies land."
+      },
+      {
+        "id": "achievement-43",
+        "name": "Skin of Their Teeth",
+        "kind": "trophy",
+        "chapterId": "mission-feats",
+        "where": "Complete A Voice in the Dark with all hostages alive."
+      },
+      {
+        "id": "achievement-44",
+        "name": "Ask Not For Whom The Horns Blow",
+        "kind": "trophy",
+        "chapterId": "mission-feats",
+        "where": "Disable foghorns before going to the Tempestas during Fall Like Lightning."
+      },
+      {
+        "id": "achievement-45",
+        "name": "Bloody Initiate",
+        "kind": "trophy",
+        "chapterId": "mission-feats",
+        "where": "Reach the end of the infiltration mission path during One of Us."
+      },
+      {
+        "id": "achievement-46",
+        "name": "Sepsis",
+        "kind": "trophy",
+        "chapterId": "mission-feats",
+        "where": "Poison the Bellkeeper’s blood offering during One of Us."
+      },
+      {
+        "id": "achievement-47",
+        "name": "So Anyway I Started Blasting",
+        "kind": "trophy",
+        "chapterId": "mission-feats",
+        "where": "Break infiltration during One of Us by shooting a friendly cultist at the Campgrounds."
+      },
+      {
+        "id": "achievement-48",
+        "name": "Right This Way",
+        "kind": "trophy",
+        "chapterId": "mission-feats",
+        "where": "Navigate the Psychic Woods without going through the wrong door."
+      },
+      {
+        "id": "achievement-49",
+        "name": "Nice Try",
+        "kind": "trophy",
+        "chapterId": "mission-feats",
+        "where": "Go through the wrong door at least three times in the Psychic Woods."
+      },
+      {
+        "id": "achievement-50",
+        "name": "Harvest’s End",
+        "kind": "trophy",
+        "chapterId": "mission-feats",
+        "where": "Kill The Harvestman during “The Festival.”"
+      },
+      {
+        "id": "achievement-51",
+        "name": "Blacklight Down",
+        "kind": "trophy",
+        "chapterId": "mission-feats",
+        "where": "Turn off Bellwether's defensive UV lights and leave them off."
+      },
+      {
+        "id": "achievement-52",
+        "name": "Rum Runner",
+        "kind": "trophy",
+        "chapterId": "mission-feats",
+        "where": "Enter Bellwether's stronghold via the bootlegger tunnel in the mission What Does Bellwether Know."
+      },
+      {
+        "id": "achievement-53",
+        "name": "Under a Bushel",
+        "kind": "trophy",
+        "chapterId": "mission-feats",
+        "where": "Get the lamp without encountering The Keeper."
+      },
+      {
+        "id": "achievement-54",
+        "name": "Enemy of My Enemy",
+        "kind": "trophy",
+        "chapterId": "mission-feats",
+        "where": "Free Trevor Ash from the UV lights."
+      },
+      {
+        "id": "achievement-55",
+        "name": "Dexterity Save",
+        "kind": "trophy",
+        "chapterId": "mission-feats",
+        "where": "Take the survival tips without triggering the tripwires."
+      },
+      {
+        "id": "achievement-56",
+        "name": "Saw That Coming",
+        "kind": "trophy",
+        "chapterId": "redfall-commons",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-57",
+        "name": "Bob’s Final Hour",
+        "kind": "trophy",
+        "chapterId": "mission-feats",
+        "where": "Kill Bob the Radio Host during Lost in the Fog after playing the PSA in Taking Back the Airwaves."
+      },
+      {
+        "id": "achievement-58",
+        "name": "Lights Out",
+        "kind": "trophy",
+        "chapterId": "redfall-commons",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-59",
+        "name": "Helping Hand",
+        "kind": "trophy",
+        "chapterId": "redfall-commons",
+        "where": "Complete all side missions in Redfall Commons."
+      },
+      {
+        "id": "achievement-60",
+        "name": "Good Samaritan",
+        "kind": "trophy",
+        "chapterId": "burial-point",
+        "where": "Complete all side missions in Burial Point."
+      },
+      {
+        "id": "achievement-61",
+        "name": "Curious Finch",
+        "kind": "trophy",
+        "chapterId": "side-missions",
+        "where": "Read Nurse Tran’s mother’s dedication in his birdwatching book."
+      },
+      {
+        "id": "achievement-62",
+        "name": "Say Goodbye, Joe",
+        "kind": "trophy",
+        "chapterId": "redfall-commons",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-63",
+        "name": "Eagle Eyes",
+        "kind": "trophy",
+        "chapterId": "mission-feats",
+        "where": "Complete The Lost Unit without triggering any Bellwether tripwires."
+      },
+      {
+        "id": "achievement-64",
+        "name": "Friends 'Til The End",
+        "kind": "trophy",
+        "chapterId": "heroes-and-loot",
+        "where": "Reach highest tier of trust with three other heroes at once."
+      },
+      {
+        "id": "achievement-65",
+        "name": "Avenging the Good Doctor",
+        "kind": "trophy",
+        "chapterId": "redfall-commons",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-66",
+        "name": "I Spit On Your Grave",
+        "kind": "trophy",
+        "chapterId": "side-missions",
+        "where": "Steal Dr. Hunt’s father’s pocket watch."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/redfall",
+    "Achievement data from Steam (Steam Web API, app 1294810)",
+    "StrategyWiki: no page for this game, nothing used",
+    "Fandom unavailable (no page under this title), marked unverified"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). No StrategyWiki page under \"Redfall\" or \"Redfall (video game)\". redfall.fandom.com answers the API but has no \"Redfall\" page, so Fandom is unverified. RAWG gives 2023-05-01 as the release date. Steam app 1294810 is \"Redfall\". Only 6 of 66 Steam achievements are hidden; they sit in the Redfall Commons chapter as a placeholder, though some (\"Avenging the Good Doctor\", \"Say Goodbye, Joe\") may come later. The region chapters follow the two regions the achievements name; \"Mission Feats\" holds achievements tied to a named mission, which the data does not place in a region. \"From the Shadows\" (Gloria during The Key to Wellness) and \"Harvest's End\" (The Harvestman during The Festival) are mission feats too."
+}

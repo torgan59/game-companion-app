@@ -1,0 +1,117 @@
+{
+  "id": "medal-of-honor-2010",
+  "title": "Medal of Honor (2010)",
+  "year": 2010,
+  "platforms": [
+    "PC",
+    "PlayStation 3",
+    "Xbox 360"
+  ],
+  "rawgId": 5342,
+  "rawgSlug": "medal-of-honor",
+  "released": "2010-10-12",
+  "developers": [
+    "Electronic Arts DICE",
+    "Danger Close Games"
+  ],
+  "playtime": 2,
+  "genres": [
+    "Shooter"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Multiplayer",
+    "Co-op",
+    "cooperative",
+    "First-Person",
+    "FPS",
+    "Stealth",
+    "Controller",
+    "War",
+    "Realistic",
+    "Mature",
+    "Military"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/106/1069e754e7e6012b0cf42b4b04704792.jpg",
+  "steamAppId": null,
+  "achievements": {
+    "total": 0,
+    "examples": [],
+    "reason": "No Steam list: Steam app 47790 (\"Medal of Honor™\") returns an empty achievement schema and a 403 for global percentages. RAWG lists 51 achievements (RAWG's own percentages) that read as a trophy list (one asks for \"all Campaign and Online trophies\"): completing ten named missions and three soldiers' mission sets, finishing on Easy, Normal or Hard and on Hard, Tier 1 Mode par times, ten mission feats, campaign weapon goals, and 21 multiplayer goals. These could seed an original checklist once checked against the PC edition."
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": false,
+      "pages": 0,
+      "reason": "No page for Medal of Honor (2010) (MediaWiki API returned missing; see notes for other titles tried)"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 97,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://medalofhonor.fandom.com/wiki/Medal_of_Honor_(2010)"
+    }
+  },
+  "game": {
+    "id": "medal-of-honor-2010",
+    "title": "Medal of Honor (2010)",
+    "platforms": [
+      "PC",
+      "PlayStation 3",
+      "Xbox 360"
+    ],
+    "blurb": "First-person shooter from Electronic Arts DICE and Danger Close Games, published by Electronic Arts, released 2010-10-12. RAWG average playtime: 2 hours. Genres: Shooter. Chapters are an estimate drawn from the achievement list on RAWG, with the campaign missions ordered by how many players finished each one.",
+    "accent": "#8A6A3B",
+    "chapters": [
+      {
+        "id": "first-in-to-running-with-wolves",
+        "title": "First In to Running with Wolves",
+        "summary": "The opening missions the achievements name: First In, Breaking Bagram and Running with Wolves.",
+        "steps": []
+      },
+      {
+        "id": "dorothy-to-gunfighters",
+        "title": "The Middle Missions, to Gunfighters",
+        "summary": "The middle missions the achievements name, from the Dorothy mission through Belly of the Beast to Gunfighters. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "friends-from-afar-to-rescue",
+        "title": "Friends From Afar to Rescue the Rescuers",
+        "summary": "The later missions the achievements name: Friends From Afar, Compromised, Neptune's Net and Rescue the Rescuers, then finishing Dante's, Rabbit's and Deuce's missions and the game. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "mission-feats",
+        "title": "Mission Feats and Combat",
+        "summary": "Feats tied to a named mission (the AC-130 run, a stealth stretch, destroying buildings, chopping trees with the Minigun, the DShK, the M60, the laser-guided bomb, the hostage-taker headshot, the ATV jump) and campaign-wide knife, pistol, grenade and headshot goals.",
+        "steps": []
+      },
+      {
+        "id": "hard-and-tier-1",
+        "title": "Hard Difficulty and Tier 1 Mode",
+        "summary": "Finishing the game on Hard, and beating every level in Tier 1 Mode under par time.",
+        "steps": []
+      },
+      {
+        "id": "multiplayer",
+        "title": "Multiplayer",
+        "summary": "Playing Combat Mission, Objective Raid, Sector Control and Team Assault, class levels, support actions and scoreboard goals. Needs a network connection, if the servers still run.",
+        "steps": []
+      }
+    ],
+    "collectibles": []
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/medal-of-honor",
+    "Steam: no achievement list available for this game (see notes)",
+    "StrategyWiki: no page for this game, nothing used",
+    "Fandom (medalofhonor.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://medalofhonor.fandom.com/wiki/Medal_of_Honor_(2010)"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). RAWG's first result is the expected entry (medal-of-honor, id 5342, released 2010-10-12); the older and newer games of the same name (Underground 2000, Frontline 2002, Vanguard 2007, Warfighter 2012) appear lower in the results and were not used. Steam app 47790 (\"Medal of Honor™\") from the store list; its schema is empty, so steam=None. RAWG's detail says 101 achievements while its list has 51. The mission order is our own guess from RAWG's finish percentages (First In 92.4% down to Rescue the Rescuers 67.3%), and the three-way split is our own choice; it was not checked. StrategyWiki has no page under \"Medal of Honor (2010)\"; its \"Medal of Honor\" page is the 1999 PlayStation game (Category:1999, completion stage 0), so nothing was used. medalofhonor.fandom.com answers the API under \"Medal of Honor (2010)\" with about 97 linked articles; its page names include the same mission names (it spells one \"Friends from Afar\") plus \"Finding Faraz\" and \"Clean Sweep\", which no achievement names, so they have no chapter. Names only were looked at, nothing copied."
+}

@@ -1,0 +1,103 @@
+{
+  "id": "astros-playroom",
+  "title": "Astro's Playroom",
+  "year": 2020,
+  "platforms": [
+    "PlayStation 5"
+  ],
+  "rawgId": 452646,
+  "rawgSlug": "astros-playroom",
+  "released": "2020-11-12",
+  "developers": [
+    "Japan Studio"
+  ],
+  "playtime": null,
+  "genres": [
+    "Action",
+    "Platformer"
+  ],
+  "tags": [
+    "exclusive",
+    "true exclusive"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/bfe/bfe7780b7d4342540be2e5273d49e54c.jpg",
+  "steamAppId": null,
+  "achievements": {
+    "total": 0,
+    "examples": [],
+    "reason": "PlayStation 5 only (RAWG lists only PlayStation 5), so there is no Steam list, and none of the allowed sources gives an achievement list for it."
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": false,
+      "pages": 0,
+      "reason": "No page for Astro's Playroom (MediaWiki API returned missing; see notes for other titles tried)"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 48,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://playstation.fandom.com/wiki/Astro's_Playroom"
+    }
+  },
+  "game": {
+    "id": "astros-playroom",
+    "title": "Astro's Playroom",
+    "platforms": [
+      "PlayStation 5"
+    ],
+    "blurb": "3D platformer that comes installed on the PlayStation 5, from Japan Studio (published by Sony Interactive Entertainment), released 2020-11-12. RAWG has no playtime yet. Genres: Action, Platformer. Chapters are a rough outline from RAWG's description (four worlds), as there is no Steam achievement list.",
+    "accent": "#2F6FDB",
+    "chapters": [
+      {
+        "id": "getting-started",
+        "title": "Getting Started",
+        "summary": "Learning the controls and the DualSense controller features the game shows off.",
+        "steps": []
+      },
+      {
+        "id": "world-1",
+        "title": "The First World",
+        "summary": "The first of the four worlds. Spoiler-light.",
+        "steps": []
+      },
+      {
+        "id": "world-2",
+        "title": "The Second World",
+        "summary": "The second of the four worlds. Spoiler-light.",
+        "steps": []
+      },
+      {
+        "id": "world-3",
+        "title": "The Third World",
+        "summary": "The third of the four worlds. Spoiler-light.",
+        "steps": []
+      },
+      {
+        "id": "world-4",
+        "title": "The Fourth World",
+        "summary": "The last of the four worlds. Spoiler-light.",
+        "steps": []
+      },
+      {
+        "id": "collectibles-and-extras",
+        "title": "Collectibles and Extras",
+        "summary": "Things to find and replay once the worlds are done.",
+        "steps": []
+      }
+    ],
+    "collectibles": []
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/astros-playroom",
+    "Steam: no achievement list available for this game (see notes)",
+    "StrategyWiki: no page for this game, nothing used",
+    "Fandom (playstation.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://playstation.fandom.com/wiki/Astro's_Playroom"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). PlayStation 5 only (RAWG platforms), so steam=None. StrategyWiki has no page under \"Astro's Playroom\" (the only obvious spelling; nothing was found under the prefix either). astrobot.fandom.com answers the API but has no page under \"Astro's Playroom\", \"Astro’s Playroom\" (curly apostrophe) or \"ASTRO's PLAYROOM\"; astro-bot.fandom.com returned HTTP 404. playstation.fandom.com answers the API under \"Astro's Playroom\" with about 48 linked pages, but they are general PlayStation pages (ratings boards, controllers, \"Astro Bot\", \"Team Asobi\", \"Japan Studio\", \"DualSense\"), with no world or level names; names only were looked at, nothing copied. RAWG's description says there are four worlds but does not name them, so the world chapters are plain numbers and the first and last chapters are placeholders with no names from the data. This game needs a better source before its chapters can be trusted."
+}

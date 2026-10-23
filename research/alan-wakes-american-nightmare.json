@@ -1,0 +1,223 @@
+{
+  "id": "alan-wakes-american-nightmare",
+  "title": "Alan Wake's American Nightmare",
+  "year": 2012,
+  "platforms": [
+    "Xbox 360",
+    "PC",
+    "Xbox One"
+  ],
+  "rawgId": 18336,
+  "rawgSlug": "alan-wakes-american-nightmare",
+  "released": "2012-02-22",
+  "developers": [
+    "Remedy Entertainment"
+  ],
+  "playtime": 3,
+  "genres": [
+    "Action",
+    "Shooter"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Full controller support",
+    "Atmospheric",
+    "Story Rich",
+    "Third Person",
+    "Horror",
+    "Survival",
+    "Controller",
+    "Third-Person Shooter",
+    "Survival Horror",
+    "controller support",
+    "Mystery"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/0b3/0b34647c42271600399b93d19b10f1aa.jpg",
+  "steamAppId": 202750,
+  "achievements": {
+    "total": 12,
+    "hidden": 0,
+    "examples": [
+      {
+        "name": "Escape the Taken to the motel.",
+        "percent": 78.2
+      },
+      {
+        "name": "Rewrite reality for the first time.",
+        "percent": 67.7
+      },
+      {
+        "name": "Make sure Dr. Meadows can take another look at the skies.",
+        "percent": 43.8
+      },
+      {
+        "name": "Survive an Arcade level using nothing but the flashlight and handheld flares.",
+        "percent": 7.9
+      },
+      {
+        "name": "Get a six-minute survivor streak and over 100,000 points in an Arcade level.",
+        "percent": 6.3
+      },
+      {
+        "name": "Unlock all of the Nightmare Arcade Mode levels.",
+        "percent": 6.2
+      },
+      {
+        "name": "Get 70,000 points in any Nightmare Arcade level.",
+        "percent": 6.1
+      },
+      {
+        "name": "Defeat 2,000 Taken.",
+        "percent": 6.1
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": false,
+      "pages": 0,
+      "reason": "No page for Alan Wake's American Nightmare (MediaWiki API returned missing; see notes for other titles tried)"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 52,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://alanwake.fandom.com/wiki/Alan_Wake's_American_Nightmare"
+    }
+  },
+  "game": {
+    "id": "alan-wakes-american-nightmare",
+    "title": "Alan Wake's American Nightmare",
+    "platforms": [
+      "Xbox 360",
+      "PC",
+      "Xbox One"
+    ],
+    "blurb": "Supernatural third-person shooter from Remedy Entertainment, released 2012-02-22. RAWG average playtime: 3 hours. Genres: Action, Shooter. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#C1440E",
+    "chapters": [
+      {
+        "id": "main-story",
+        "title": "The Main Story",
+        "summary": "Reaching the motel, rewriting reality, the observatory and the final trap. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "arcade",
+        "title": "Arcade Mode",
+        "summary": "Surviving until dawn, survivor streaks, high scores, Nightmare levels and the flashlight-and-flares challenge.",
+        "steps": []
+      },
+      {
+        "id": "manuscripts",
+        "title": "Manuscript Pages",
+        "summary": "Finding every manuscript page.",
+        "steps": []
+      },
+      {
+        "id": "combat",
+        "title": "Fighting the Taken",
+        "summary": "Splitter spawns and defeating 2,000 Taken.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Escape the Taken to the motel.",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "You reached the relative safety of the motel."
+      },
+      {
+        "id": "achievement-2",
+        "name": "Rewrite reality for the first time.",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "You rewrote reality and brought down the satellite."
+      },
+      {
+        "id": "achievement-3",
+        "name": "Make sure Dr. Meadows can take another look at the skies.",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "You secured the coolant tanks at the observatory."
+      },
+      {
+        "id": "achievement-4",
+        "name": "Rewrite reality for the last time.",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "You used Mr. Scratch’s own trap to destroy him."
+      },
+      {
+        "id": "achievement-5",
+        "name": "Survive until dawn in any Arcade Mode level.",
+        "kind": "trophy",
+        "chapterId": "arcade",
+        "where": "You made it through the night and enjoyed a nice sunrise in one of the Arcade levels."
+      },
+      {
+        "id": "achievement-6",
+        "name": "Get a six-minute survivor streak and over 100,000 points in an Arcade level.",
+        "kind": "trophy",
+        "chapterId": "arcade",
+        "where": "You got a six-minute survivor streak and over 100,000 points in an Arcade level."
+      },
+      {
+        "id": "achievement-7",
+        "name": "Unlock all of the Nightmare Arcade Mode levels.",
+        "kind": "trophy",
+        "chapterId": "arcade",
+        "where": "You have unlocked all of the Nightmare Arcade Mode levels."
+      },
+      {
+        "id": "achievement-8",
+        "name": "Survive an Arcade level using nothing but the flashlight and handheld flares.",
+        "kind": "trophy",
+        "chapterId": "arcade",
+        "where": "You survived an Arcade level using nothing but the flashlight and handheld flares."
+      },
+      {
+        "id": "achievement-9",
+        "name": "Get 70,000 points in any Nightmare Arcade level.",
+        "kind": "trophy",
+        "chapterId": "arcade",
+        "where": "You got 70,000 points in a Nightmare Arcade level."
+      },
+      {
+        "id": "achievement-10",
+        "name": "Take out two Splitter spawns with a single shot.",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "You took out two Splitter spawns with a single shot."
+      },
+      {
+        "id": "achievement-11",
+        "name": "Find all of the manuscript pages.",
+        "kind": "trophy",
+        "chapterId": "manuscripts",
+        "where": "You got every manuscript page in the game."
+      },
+      {
+        "id": "achievement-12",
+        "name": "Defeat 2,000 Taken.",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "You have defeated 2,000 Taken."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/alan-wakes-american-nightmare",
+    "Achievement data from Steam (Steam Web API, app 202750)",
+    "StrategyWiki: no page for this game, nothing used",
+    "Fandom (alanwake.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://alanwake.fandom.com/wiki/Alan_Wake's_American_Nightmare"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). RAWG's first result is the expected entry (id 18336). The only Steam store match is app 202750 (schema name is the placeholder \"ValveTestApp202750\"). It has only 12 achievements, none hidden; their display names are full sentences and the descriptions repeat them in the past tense. Four story achievements give the story chapter; the rest are Arcade Mode, manuscript pages and combat. StrategyWiki has no page for \"Alan Wake's American Nightmare\"; \"Alan Wake: American Nightmare\" was also tried and is missing too. alanwake.fandom.com answers the API with about 52 linked pages; names only were looked at, nothing copied."
+}

@@ -1,0 +1,508 @@
+{
+  "id": "dead-rising-2",
+  "title": "Dead Rising 2",
+  "year": 2010,
+  "platforms": [
+    "Xbox One",
+    "PC",
+    "Xbox 360",
+    "PlayStation 3",
+    "PlayStation 4"
+  ],
+  "rawgId": 1322,
+  "rawgSlug": "dead-rising-2",
+  "released": "2010-08-31",
+  "developers": [
+    "Capcom U.S.A",
+    "Capcom Vancouver",
+    "Blue Castle Games"
+  ],
+  "playtime": 5,
+  "genres": [
+    "Action"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Multiplayer",
+    "Steam Cloud",
+    "steam-trading-cards",
+    "RPG",
+    "Co-op",
+    "Open World",
+    "cooperative",
+    "Third Person",
+    "Partial Controller Support",
+    "Horror"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/7e7/7e79e3296a7f64e7535c9e5bb5aa4b53.jpg",
+  "steamAppId": 45740,
+  "achievements": {
+    "total": 50,
+    "hidden": 1,
+    "examples": [
+      {
+        "name": "Needs More Chainsaw",
+        "percent": 48.5
+      },
+      {
+        "name": "Zombie Slaughter",
+        "percent": 32.3
+      },
+      {
+        "name": "Fashion Aficionado",
+        "percent": 25.6
+      },
+      {
+        "name": "Chuck Greene: Cross-Dresser?",
+        "percent": 1.7
+      },
+      {
+        "name": "Head Trauma",
+        "percent": 1.6
+      },
+      {
+        "name": "Rising Star",
+        "percent": 1.6
+      },
+      {
+        "name": "Win Big!",
+        "percent": 1.6
+      },
+      {
+        "name": "TK's Favorite",
+        "percent": 1.5
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Dead_Rising_2",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 126,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://deadrising.fandom.com/wiki/Dead_Rising_2"
+    }
+  },
+  "game": {
+    "id": "dead-rising-2",
+    "title": "Dead Rising 2",
+    "platforms": [
+      "Xbox One",
+      "PC",
+      "Xbox 360",
+      "PlayStation 3",
+      "PlayStation 4"
+    ],
+    "blurb": "Open-world zombie action game from Capcom U.S.A, Capcom Vancouver and Blue Castle Games, published by Capcom, released 2010-08-31. RAWG average playtime: 5 hours. Genres: Action. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#B23A2E",
+    "chapters": [
+      {
+        "id": "story",
+        "title": "The Facts and Overtime",
+        "summary": "The main story, case by case (StrategyWiki lists Case 1 to Case 7 and Overtime), finishing The Facts and then Overtime Mode. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "survivors-and-psychopaths",
+        "title": "Survivors, Psychopaths and Katey",
+        "summary": "Saving and escorting survivors, defeating psychopaths, gifts for Katey and taming Snowflake.",
+        "steps": []
+      },
+      {
+        "id": "combo-weapons-and-cards",
+        "title": "Combo Weapons and Combo Cards",
+        "summary": "Creating combo weapons and collecting the combo cards hidden around Fortune City or earned from survivors and psychopaths.",
+        "steps": []
+      },
+      {
+        "id": "fortune-city",
+        "title": "Life in Fortune City",
+        "summary": "Clothes, mixed drinks, food, every store, spending money, the Zombrex posters, zombie masks, a custom bike and the notebook.",
+        "steps": []
+      },
+      {
+        "id": "zombie-slaying",
+        "title": "Zombie Slaying and Levels",
+        "summary": "Zombie kill counts, kills barehanded, on a motorcycle and with every weapon type, gas zombies, the Smash move and reaching levels 25 and 50.",
+        "steps": []
+      },
+      {
+        "id": "co-op-and-tir",
+        "title": "Co-op and Terror Is Reality",
+        "summary": "Solving case files in co-op, reviving a partner, and winning TIR events and episodes. Online or with a second player.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Zombie Slaughter",
+        "kind": "trophy",
+        "chapterId": "zombie-slaying",
+        "where": "Killed 500 zombies. Not a bad start."
+      },
+      {
+        "id": "achievement-2",
+        "name": "Zombie Destruction",
+        "kind": "trophy",
+        "chapterId": "zombie-slaying",
+        "where": "Killed 5,000 zombies. Is that all you've got?"
+      },
+      {
+        "id": "achievement-3",
+        "name": "Z-Genocider 2: Genocide Harder",
+        "kind": "trophy",
+        "chapterId": "zombie-slaying",
+        "where": "Killed 53,596 zombies. You left them all for dead!"
+      },
+      {
+        "id": "achievement-4",
+        "name": "Zombie Genocide Master",
+        "kind": "trophy",
+        "chapterId": "zombie-slaying",
+        "where": "Killed 72,000 zombies. King of carnage!"
+      },
+      {
+        "id": "achievement-5",
+        "name": "Vigilante Justice",
+        "kind": "trophy",
+        "chapterId": "survivors-and-psychopaths",
+        "where": "Defeated 5 psychopaths. There's a new sheriff in town!"
+      },
+      {
+        "id": "achievement-6",
+        "name": "Judge, Jury and Executioner",
+        "kind": "trophy",
+        "chapterId": "survivors-and-psychopaths",
+        "where": "Defeated 10 psychopaths. The world is a safer place."
+      },
+      {
+        "id": "achievement-7",
+        "name": "Zombie Fu",
+        "kind": "trophy",
+        "chapterId": "zombie-slaying",
+        "where": "Killed 1,000 zombies barehanded. Those were some killer moves!"
+      },
+      {
+        "id": "achievement-8",
+        "name": "Wrong Kind of \"Chopper\"",
+        "kind": "trophy",
+        "chapterId": "zombie-slaying",
+        "where": "Killed 1,000 zombies while riding a motorcycle. Chainsaws on the side make it easier."
+      },
+      {
+        "id": "achievement-9",
+        "name": "He Hasn't Covered Wars...",
+        "kind": "trophy",
+        "chapterId": "zombie-slaying",
+        "where": "Used every type of firearm on a zombie. Bang!"
+      },
+      {
+        "id": "achievement-10",
+        "name": "Head Trauma",
+        "kind": "trophy",
+        "chapterId": "zombie-slaying",
+        "where": "Used every type of melee weapon on a zombie. Anything is deadly in the right hands."
+      },
+      {
+        "id": "achievement-11",
+        "name": "Death From Afar",
+        "kind": "trophy",
+        "chapterId": "zombie-slaying",
+        "where": "Used every type of ranged weapon on a zombie. They can't bite you if they're already dead."
+      },
+      {
+        "id": "achievement-12",
+        "name": "Explosive Temper",
+        "kind": "trophy",
+        "chapterId": "zombie-slaying",
+        "where": "Used every type of explosive on a zombie. Kaboom!"
+      },
+      {
+        "id": "achievement-13",
+        "name": "Slaughter - S = Laughter!",
+        "kind": "trophy",
+        "chapterId": "zombie-slaying",
+        "where": "Used every type of novelty weapon on a zombie. Lighten up a bit!"
+      },
+      {
+        "id": "achievement-14",
+        "name": "Come on! Follow Me!",
+        "kind": "trophy",
+        "chapterId": "survivors-and-psychopaths",
+        "where": "Escorted 8 survivors at once. It's a party, everyone is invited!"
+      },
+      {
+        "id": "achievement-15",
+        "name": "Saving the Day",
+        "kind": "trophy",
+        "chapterId": "survivors-and-psychopaths",
+        "where": "Saved 10 survivors. But more are still out there..."
+      },
+      {
+        "id": "achievement-16",
+        "name": "Hero of Fortune City",
+        "kind": "trophy",
+        "chapterId": "survivors-and-psychopaths",
+        "where": "Saved 50 survivors. What a great guy!"
+      },
+      {
+        "id": "achievement-17",
+        "name": "Needs More Chainsaw",
+        "kind": "trophy",
+        "chapterId": "combo-weapons-and-cards",
+        "where": "Created a combo weapon. Introduce it to the nearest zombie!"
+      },
+      {
+        "id": "achievement-18",
+        "name": "Duct Tape FTW",
+        "kind": "trophy",
+        "chapterId": "combo-weapons-and-cards",
+        "where": "Created all combo weapons. Now put them to use!"
+      },
+      {
+        "id": "achievement-19",
+        "name": "Apprentice Rising",
+        "kind": "trophy",
+        "chapterId": "zombie-slaying",
+        "where": "Reached level 25. Halfway there!"
+      },
+      {
+        "id": "achievement-20",
+        "name": "Professional Rising",
+        "kind": "trophy",
+        "chapterId": "zombie-slaying",
+        "where": "Reached level 50. You're a machine!"
+      },
+      {
+        "id": "achievement-21",
+        "name": "Fashion Aficionado",
+        "kind": "trophy",
+        "chapterId": "fortune-city",
+        "where": "Changed into 10 different pieces of clothing. Looking dapper, chap!"
+      },
+      {
+        "id": "achievement-22",
+        "name": "Chuck Greene: Cross-Dresser?",
+        "kind": "trophy",
+        "chapterId": "fortune-city",
+        "where": "Changed into all the clothes in the game. Zombie invasion is no excuse for poor style."
+      },
+      {
+        "id": "achievement-23",
+        "name": "Clean Record",
+        "kind": "trophy",
+        "chapterId": "story",
+        "where": "Completed The Facts. The End... or is it?"
+      },
+      {
+        "id": "achievement-24",
+        "name": "Bartender",
+        "kind": "trophy",
+        "chapterId": "fortune-city",
+        "where": "Mixed a drink. Tasty stuff!"
+      },
+      {
+        "id": "achievement-25",
+        "name": "Look at All That Juice!",
+        "kind": "trophy",
+        "chapterId": "fortune-city",
+        "where": "Created and consumed all mixed drinks in the game. Just like Mom used to make."
+      },
+      {
+        "id": "achievement-26",
+        "name": "Finally Full",
+        "kind": "trophy",
+        "chapterId": "fortune-city",
+        "where": "Ate all types of food in the game. That can't be healthy."
+      },
+      {
+        "id": "achievement-27",
+        "name": "Having a Gas",
+        "kind": "trophy",
+        "chapterId": "zombie-slaying",
+        "where": "Killed 1,000 gas zombies. As if zombies weren't bad enough..."
+      },
+      {
+        "id": "achievement-28",
+        "name": "Father of the Month",
+        "kind": "trophy",
+        "chapterId": "survivors-and-psychopaths",
+        "where": "Gave Katey a gift. It's good to spoil her sometimes."
+      },
+      {
+        "id": "achievement-29",
+        "name": "Father of the Year",
+        "kind": "trophy",
+        "chapterId": "survivors-and-psychopaths",
+        "where": "Gave Katey every possible gift. Bribery is the fastest way to earn a child's love!"
+      },
+      {
+        "id": "achievement-30",
+        "name": "Justice Served",
+        "kind": "trophy",
+        "chapterId": "story",
+        "where": "Completed Overtime Mode. TK got what he deserved."
+      },
+      {
+        "id": "achievement-31",
+        "name": "Better With a Friend",
+        "kind": "trophy",
+        "chapterId": "co-op-and-tir",
+        "where": "Solved all case files in Co-op. You're a great friend!"
+      },
+      {
+        "id": "achievement-32",
+        "name": "Don't You Die on Me!",
+        "kind": "trophy",
+        "chapterId": "co-op-and-tir",
+        "where": "Revived another player in Co-op. He owes you one."
+      },
+      {
+        "id": "achievement-33",
+        "name": "Big Spender",
+        "kind": "trophy",
+        "chapterId": "fortune-city",
+        "where": "Spent $6,000,000 total in Fortune City. Where did you get all that money?"
+      },
+      {
+        "id": "achievement-34",
+        "name": "Window Shopper",
+        "kind": "trophy",
+        "chapterId": "fortune-city",
+        "where": "Entered all the stores in the game. Did you buy anything?"
+      },
+      {
+        "id": "achievement-35",
+        "name": "Masquerade",
+        "kind": "trophy",
+        "chapterId": "fortune-city",
+        "where": "Had 10 zombies with masks on at once. You showed them who's boss!"
+      },
+      {
+        "id": "achievement-36",
+        "name": "Improper Behavior",
+        "kind": "trophy",
+        "chapterId": "fortune-city",
+        "where": "Spray-painted all Zombrex posters. They didn't do much good in the first place."
+      },
+      {
+        "id": "achievement-37",
+        "name": "TK's Favorite",
+        "kind": "trophy",
+        "chapterId": "co-op-and-tir",
+        "where": "Played and won in all 9 TIR events. A true American hero!"
+      },
+      {
+        "id": "achievement-38",
+        "name": "Rising Star",
+        "kind": "trophy",
+        "chapterId": "co-op-and-tir",
+        "where": "Came in first place in a single TIR event. Victory tastes sweet!"
+      },
+      {
+        "id": "achievement-39",
+        "name": "Win Big!",
+        "kind": "trophy",
+        "chapterId": "co-op-and-tir",
+        "where": "Finished in first place in a TIR episode. Don and Paul love watching you go!"
+      },
+      {
+        "id": "achievement-40",
+        "name": "Custom Finish",
+        "kind": "trophy",
+        "chapterId": "fortune-city",
+        "where": "Gave your bike a custom paint job. Sweet ride!"
+      },
+      {
+        "id": "achievement-41",
+        "name": "Curiously Inventive",
+        "kind": "trophy",
+        "chapterId": "combo-weapons-and-cards",
+        "where": "Collected all combo cards hidden in Fortune City. Inspiration is all around you."
+      },
+      {
+        "id": "achievement-42",
+        "name": "Life Saver",
+        "kind": "trophy",
+        "chapterId": "combo-weapons-and-cards",
+        "where": "Collected all combo cards from survivors. The gift of zombie killing!"
+      },
+      {
+        "id": "achievement-43",
+        "name": "Tough Guy",
+        "kind": "trophy",
+        "chapterId": "combo-weapons-and-cards",
+        "where": "Collected all combo cards from psychopaths. Pried from their cold, dead fingers."
+      },
+      {
+        "id": "achievement-44",
+        "name": "Half Deck",
+        "kind": "trophy",
+        "chapterId": "combo-weapons-and-cards",
+        "where": "Collected 25 combo cards. So many combinations, so little time."
+      },
+      {
+        "id": "achievement-45",
+        "name": "Full Deck",
+        "kind": "trophy",
+        "chapterId": "combo-weapons-and-cards",
+        "where": "Collected all combo cards. All 49. Seems odd, doesn't it?"
+      },
+      {
+        "id": "achievement-46",
+        "name": "Data Miner",
+        "kind": "trophy",
+        "chapterId": "fortune-city",
+        "where": "Filled all entries in the notebook and made some friends along the way."
+      },
+      {
+        "id": "achievement-47",
+        "name": "Smashy",
+        "kind": "trophy",
+        "chapterId": "zombie-slaying",
+        "where": "Smashed 100 zombies using the Smash skill move. Brains everywhere!"
+      },
+      {
+        "id": "achievement-48",
+        "name": "Stick 'em up",
+        "kind": "trophy",
+        "chapterId": "zombie-slaying",
+        "where": "Covered a zombie in objects. That sure was funny!"
+      },
+      {
+        "id": "achievement-49",
+        "name": "The Skill to Survive",
+        "kind": "trophy",
+        "chapterId": "survivors-and-psychopaths",
+        "where": "Tamed Snowflake. Keep some steak handy, just in case."
+      },
+      {
+        "id": "achievement-50",
+        "name": "Tape It or DIE!",
+        "kind": "trophy",
+        "chapterId": "story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/dead-rising-2",
+    "Achievement data from Steam (Steam Web API, app 45740)",
+    "StrategyWiki: no usable walkthrough, nothing used — https://strategywiki.org/wiki/Dead_Rising_2",
+    "Fandom (deadrising.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://deadrising.fandom.com/wiki/Dead_Rising_2"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). RAWG's first result is the expected entry (id 1322). Steam app 45740 (\"Dead Rising® 2\") from the store list; its schema has no game name. 1 of 50 Steam achievements is hidden (\"Tape It or DIE!\", no description); it sits in the story chapter as a placeholder, though deadrising.fandom.com has pages named \"Tape It or Die 1\" and \"Tape It or Die 2\", so it may belong elsewhere. RAWG's detail says 400 achievements, far more than Steam's 50. RAWG lists two additions, \"Dead Rising 2: CASE ZERO\" (2010-08-12) and \"DEAD RISING 2: CASE WEST\" (2010-12-26); \"Dead Rising 2: Off the Record\" (app 45770) is a separate RAWG entry and Steam app, and none of these has a chapter here. StrategyWiki has the guide under \"Dead Rising 2\" at completion stage 0: only Achievements and trophies (about 7,700 characters), Timeline (about 6,100), Table of Contents (about 2,600), Controls (about 2,000) and Achievements (Case Zero) (about 2,000) are written; Gameplay, Tips, Walkthrough, Intro, Case 1 to Case 7, Overtime, the area pages, Survivors and Combo cards are linked but not written, so it was not used. The case list in the story summary comes from those page names. \"Terror Is Reality\" is a deadrising.fandom.com page name; the achievements say \"TIR\". deadrising.fandom.com answers the API under \"Dead Rising 2\" with about 126 linked articles; names only were looked at, nothing copied."
+}

@@ -1,0 +1,516 @@
+{
+  "id": "battlefield-1",
+  "title": "Battlefield 1",
+  "year": 2016,
+  "platforms": [
+    "Xbox One",
+    "PC",
+    "PlayStation 4"
+  ],
+  "rawgId": 998,
+  "rawgSlug": "battlefield-1",
+  "released": "2016-10-21",
+  "developers": [
+    "Electronic Arts",
+    "Electronic Arts DICE"
+  ],
+  "playtime": 6,
+  "genres": [
+    "Action",
+    "Shooter"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Multiplayer",
+    "Full controller support",
+    "Atmospheric",
+    "Great Soundtrack",
+    "Open World",
+    "First-Person",
+    "FPS",
+    "Gore",
+    "Violent",
+    "PvP"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/998/9980c4296f311d8bcc5b451ca51e4fe1.jpg",
+  "steamAppId": 1238840,
+  "achievements": {
+    "total": 50,
+    "hidden": 0,
+    "examples": [
+      {
+        "name": "Counter-sniper",
+        "percent": 52.7
+      },
+      {
+        "name": "Up to the challenge",
+        "percent": 50.6
+      },
+      {
+        "name": "Warbonds",
+        "percent": 46.6
+      },
+      {
+        "name": "Master of adaptation",
+        "percent": 0.9
+      },
+      {
+        "name": "Modern Technology",
+        "percent": 0.9
+      },
+      {
+        "name": "Filled the Stockpile",
+        "percent": 0.7
+      },
+      {
+        "name": "Naval Weapons Collection",
+        "percent": 0.7
+      },
+      {
+        "name": "Weapons of the Apocalypse",
+        "percent": 0.7
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Battlefield_1",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 500,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://battlefield.fandom.com/wiki/Battlefield_1"
+    }
+  },
+  "game": {
+    "id": "battlefield-1",
+    "title": "Battlefield 1",
+    "platforms": [
+      "Xbox One",
+      "PC",
+      "PlayStation 4"
+    ],
+    "blurb": "First World War first-person shooter from EA DICE, published by Electronic Arts, released 2016-10-21. RAWG average playtime: 6 hours. Genres: Action, Shooter. Chapters follow the War Stories named in the Steam achievements, plus campaign extras, multiplayer and the expansions named in the achievements.",
+    "accent": "#8C6B3E",
+    "chapters": [
+      {
+        "id": "friends-in-high-places",
+        "title": "Friends in High Places",
+        "summary": "Finishing this War Story and finding all of its Codex entries.",
+        "steps": []
+      },
+      {
+        "id": "nothing-is-written",
+        "title": "Nothing is Written",
+        "summary": "Finishing this War Story and finding all of its Codex entries.",
+        "steps": []
+      },
+      {
+        "id": "through-mud-and-blood",
+        "title": "Through Mud and Blood",
+        "summary": "Finishing this War Story and finding all of its Codex entries.",
+        "steps": []
+      },
+      {
+        "id": "avanti-savoia",
+        "title": "Avanti Savoia!",
+        "summary": "Finishing this War Story and finding all of its Codex entries.",
+        "steps": []
+      },
+      {
+        "id": "the-runner",
+        "title": "The Runner",
+        "summary": "Finishing this War Story and finding all of its Codex entries.",
+        "steps": []
+      },
+      {
+        "id": "campaign-extras",
+        "title": "Campaign Challenges and Difficulty",
+        "summary": "Field Manuals, campaign challenges, melee and dynamite kills, the hidden Cavalry Sword, and finishing on Normal and Hard.",
+        "steps": []
+      },
+      {
+        "id": "multiplayer",
+        "title": "Multiplayer",
+        "summary": "Operations, Squad Orders, Warbonds, ranks and classes, Elite Classes, vehicles and Service Assignments.",
+        "steps": []
+      },
+      {
+        "id": "expansions",
+        "title": "Expansion Weapons and Maps",
+        "summary": "The achievements that name \"In the Name of the Tsar\", \"Turning Tides\" and \"Apocalypse\": their operations, maps and weapon variants.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Operations",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "Win 1 round of Operations in multiplayer"
+      },
+      {
+        "id": "achievement-2",
+        "name": "Counter-sniper",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "Using a bolt action rifle, kill an enemy Scout in multiplayer"
+      },
+      {
+        "id": "achievement-3",
+        "name": "Play the Objective",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "Complete 25 Squad Orders in multiplayer"
+      },
+      {
+        "id": "achievement-4",
+        "name": "Warbonds",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "Earn 450 Warbonds in multiplayer"
+      },
+      {
+        "id": "achievement-5",
+        "name": "Corporal",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "Reach Rank 10 in multiplayer"
+      },
+      {
+        "id": "achievement-6",
+        "name": "Assault Enlistment",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "Reach Assault Rank 2 in multiplayer"
+      },
+      {
+        "id": "achievement-7",
+        "name": "Medic Enlistment",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "Reach Medic Rank 2 in multiplayer"
+      },
+      {
+        "id": "achievement-8",
+        "name": "Scout Enlistment",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "Reach Scout Rank 2 in multiplayer"
+      },
+      {
+        "id": "achievement-9",
+        "name": "Support Enlistment",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "Reach Support Rank 2 in multiplayer"
+      },
+      {
+        "id": "achievement-10",
+        "name": "Decorated",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "Reach Rank 1 with all 4 Infantry classes in multiplayer"
+      },
+      {
+        "id": "achievement-11",
+        "name": "Friends in High Places",
+        "kind": "trophy",
+        "chapterId": "friends-in-high-places",
+        "where": "Complete Friends in High Places"
+      },
+      {
+        "id": "achievement-12",
+        "name": "Nothing is Written",
+        "kind": "trophy",
+        "chapterId": "nothing-is-written",
+        "where": "Complete Nothing is Written"
+      },
+      {
+        "id": "achievement-13",
+        "name": "Through Mud and Blood",
+        "kind": "trophy",
+        "chapterId": "through-mud-and-blood",
+        "where": "Complete Through Mud and Blood"
+      },
+      {
+        "id": "achievement-14",
+        "name": "Avanti Savoia!",
+        "kind": "trophy",
+        "chapterId": "avanti-savoia",
+        "where": "Complete Avanti Savoia!"
+      },
+      {
+        "id": "achievement-15",
+        "name": "The Runner",
+        "kind": "trophy",
+        "chapterId": "the-runner",
+        "where": "Complete The Runner"
+      },
+      {
+        "id": "achievement-16",
+        "name": "Taking down giants",
+        "kind": "trophy",
+        "chapterId": "friends-in-high-places",
+        "where": "Unlock all Codex Entries in Friends in High Places"
+      },
+      {
+        "id": "achievement-17",
+        "name": "All men dream",
+        "kind": "trophy",
+        "chapterId": "nothing-is-written",
+        "where": "Unlock all Codex Entries in Nothing is Written"
+      },
+      {
+        "id": "achievement-18",
+        "name": "Sound of thunder",
+        "kind": "trophy",
+        "chapterId": "through-mud-and-blood",
+        "where": "Unlock all Codex Entries in Through Mud and Blood"
+      },
+      {
+        "id": "achievement-19",
+        "name": "Conquering the mountains",
+        "kind": "trophy",
+        "chapterId": "avanti-savoia",
+        "where": "Unlock all Codex Entries in Avanti Savoia!"
+      },
+      {
+        "id": "achievement-20",
+        "name": "The hills of Gallipoli",
+        "kind": "trophy",
+        "chapterId": "the-runner",
+        "where": "Unlock all Codex Entries in The Runner"
+      },
+      {
+        "id": "achievement-21",
+        "name": "Up close and personal",
+        "kind": "trophy",
+        "chapterId": "campaign-extras",
+        "where": "Perform a melee kill on 10 enemies anywhere in the campaign"
+      },
+      {
+        "id": "achievement-22",
+        "name": "Mightier than the shovel",
+        "kind": "trophy",
+        "chapterId": "campaign-extras",
+        "where": "Find the hidden Cavalry Sword and take down an enemy on the French countryside in the campaign"
+      },
+      {
+        "id": "achievement-23",
+        "name": "Shock Wave",
+        "kind": "trophy",
+        "chapterId": "campaign-extras",
+        "where": "Kill 5 enemies by using dynamite in the campaign"
+      },
+      {
+        "id": "achievement-24",
+        "name": "Triple Boluk-Bashi",
+        "kind": "trophy",
+        "chapterId": "campaign-extras",
+        "where": "Kill all 3 Ottoman officers in Young Men's Work with melee kills in the campaign"
+      },
+      {
+        "id": "achievement-25",
+        "name": "The Great War",
+        "kind": "trophy",
+        "chapterId": "campaign-extras",
+        "where": "Complete the campaign on Normal difficulty"
+      },
+      {
+        "id": "achievement-26",
+        "name": "The War to End All Wars",
+        "kind": "trophy",
+        "chapterId": "campaign-extras",
+        "where": "Complete the campaign on Hard difficulty"
+      },
+      {
+        "id": "achievement-27",
+        "name": "Catching up on some reading",
+        "kind": "trophy",
+        "chapterId": "campaign-extras",
+        "where": "Collect one Field Manual in the campaign"
+      },
+      {
+        "id": "achievement-28",
+        "name": "Enough for a library",
+        "kind": "trophy",
+        "chapterId": "campaign-extras",
+        "where": "Collect all Field Manuals in the campaign"
+      },
+      {
+        "id": "achievement-29",
+        "name": "Up to the challenge",
+        "kind": "trophy",
+        "chapterId": "campaign-extras",
+        "where": "Complete one challenge in the campaign"
+      },
+      {
+        "id": "achievement-30",
+        "name": "Putting in the effort",
+        "kind": "trophy",
+        "chapterId": "campaign-extras",
+        "where": "Complete 10 challenges in the campaign"
+      },
+      {
+        "id": "achievement-31",
+        "name": "Master of adaptation",
+        "kind": "trophy",
+        "chapterId": "campaign-extras",
+        "where": "Complete all challenges in the campaign"
+      },
+      {
+        "id": "achievement-32",
+        "name": "French War Hero",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "Spend 30 minutes in-game as French Republic Medic"
+      },
+      {
+        "id": "achievement-33",
+        "name": "Drei Vier Grenadier",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "Kill 4 enemies with the Trench Raider Elite Class"
+      },
+      {
+        "id": "achievement-34",
+        "name": "Saint Chamond Operator",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "Kill 25 enemies with the St Chamond Heavy Tank"
+      },
+      {
+        "id": "achievement-35",
+        "name": "Maître d'Armes",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "Perform one kill with each of the 5 primary Weapon Assignments weapons"
+      },
+      {
+        "id": "achievement-36",
+        "name": "The Revolution is Coming",
+        "kind": "trophy",
+        "chapterId": "expansions",
+        "where": "Play all \"In the Name of the Tsar\" operations"
+      },
+      {
+        "id": "achievement-37",
+        "name": "Charged into Battle",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "Kill 25 enemies with the Lance as Cavalry"
+      },
+      {
+        "id": "achievement-38",
+        "name": "Secured the Resources",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "Win 5 games of Supply Drop"
+      },
+      {
+        "id": "achievement-39",
+        "name": "Endured the Winter",
+        "kind": "trophy",
+        "chapterId": "expansions",
+        "where": "Play a round on all \"In the Name of the Tsar\" maps"
+      },
+      {
+        "id": "achievement-40",
+        "name": "Filled the Stockpile",
+        "kind": "trophy",
+        "chapterId": "expansions",
+        "where": "Perform a kill with all \"In the Name of the Tsar\" weapon variants"
+      },
+      {
+        "id": "achievement-41",
+        "name": "Rough Seas",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "Perform a roadkill in a Sea Vehicle"
+      },
+      {
+        "id": "achievement-42",
+        "name": "Serve With Honor",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "Complete 1 Service Assignment"
+      },
+      {
+        "id": "achievement-43",
+        "name": "Become Operational",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "Complete the Gallipoli Operation"
+      },
+      {
+        "id": "achievement-44",
+        "name": "The Power in These Waters",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "Kill 15 enemies with the L-Class Destroyer"
+      },
+      {
+        "id": "achievement-45",
+        "name": "Naval Weapons Collection",
+        "kind": "trophy",
+        "chapterId": "expansions",
+        "where": "Perform a kill with all \"Turning Tides\" weapon variants"
+      },
+      {
+        "id": "achievement-46",
+        "name": "Firefighter",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "Perform a melee kill on a Flametrooper Elite"
+      },
+      {
+        "id": "achievement-47",
+        "name": "Advanced Studies",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "Perform 1 kill with the Livens Projector"
+      },
+      {
+        "id": "achievement-48",
+        "name": "Modern Technology",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "Perform 1 kill with the Broken Bottle"
+      },
+      {
+        "id": "achievement-49",
+        "name": "Flyswatter",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "Destroy 5 airplanes while in the Behemoth Airship L30"
+      },
+      {
+        "id": "achievement-50",
+        "name": "Weapons of the Apocalypse",
+        "kind": "trophy",
+        "chapterId": "expansions",
+        "where": "Perform a kill with all \"Apocalypse\" weapon variants"
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/battlefield-1",
+    "Achievement data from Steam (Steam Web API, app 1238840)",
+    "StrategyWiki: no usable walkthrough, nothing used — https://strategywiki.org/wiki/Battlefield_1",
+    "Fandom (battlefield.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://battlefield.fandom.com/wiki/Battlefield_1"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). Steam app 1238840 (\"Battlefield™ 1\") was the only match. StrategyWiki has \"Battlefield 1\" as a stub (completion stage 0); only a short Table of Contents subpage exists, and its Walkthrough, Gameplay and Controls are linked but not written. battlefield.fandom.com answers the API under \"Battlefield 1\" with 500 linked articles (the query limit, so possibly more); names only were looked at, nothing copied. None of the 50 Steam achievements is hidden. Five War Stories are named in the achievement descriptions, each with a completion and an all-Codex achievement, so each has its own small chapter; \"Young Men's Work\" is named once without saying which War Story it belongs to, so it sits in the campaign extras. Only five achievements name an expansion (three for \"In the Name of the Tsar\", one each for \"Turning Tides\" and \"Apocalypse\"); RAWG lists those three as separate entries. Achievements 32 to 50 look like later additions (Elite Classes, the Gallipoli Operation, the L-Class Destroyer, the Airship L30, Supply Drop and others), but the data does not say which expansion each belongs to, so they stay in the multiplayer chapter."
+}

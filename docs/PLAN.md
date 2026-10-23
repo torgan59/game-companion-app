@@ -44,7 +44,7 @@ Excluded on purpose: Resident Evil Requiem (2026's best seller, but survival hor
 
 ## 2. Backlog by release year
 
-After the 20 above, the routine works **by release year, newest first: 2026, then 2025, 2024 … down to 2010.** Same filter: big-budget AAA only, five genres only, no indie or low-budget titles.
+After the 20 above, the routine works **by release year, newest first: 2026, then 2025, 2024 … down to 2010.** Same filter: big-budget AAA only, no indie or low-budget titles. **Update 2026-10-23:** Tim widened this to all AAA games in any genre (horror, shooters, roguelikes and so on). Online-only multiplayer games and annual sports titles stay out, because they have nothing to walk through.
 
 ### Ordering rule
 1. Year descending. A game's year is its first full release (remasters count in the remaster's year).

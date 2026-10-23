@@ -1,0 +1,509 @@
+{
+  "id": "spec-ops-the-line",
+  "title": "Spec Ops: The Line",
+  "year": 2012,
+  "platforms": [
+    "Xbox 360",
+    "PlayStation 3",
+    "Xbox One",
+    "PC"
+  ],
+  "rawgId": 4332,
+  "rawgSlug": "spec-ops-the-line",
+  "released": "2012-06-26",
+  "developers": [
+    "Yager"
+  ],
+  "playtime": 5,
+  "genres": [
+    "Action",
+    "Shooter"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Multiplayer",
+    "Full controller support",
+    "Steam Cloud",
+    "Atmospheric",
+    "Great Soundtrack",
+    "Co-op",
+    "Story Rich",
+    "Third Person",
+    "Horror",
+    "Steam Leaderboards"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/b49/b4912b5dbfc7ed8927b65f05b8507f6c.jpg",
+  "steamAppId": 50300,
+  "achievements": {
+    "total": 50,
+    "hidden": 0,
+    "examples": [
+      {
+        "name": "They Live",
+        "percent": 82.7
+      },
+      {
+        "name": "Spotter",
+        "percent": 77.2
+      },
+      {
+        "name": "Treacherous Ground",
+        "percent": 73.7
+      },
+      {
+        "name": "The Devil's Disciple",
+        "percent": 10.3
+      },
+      {
+        "name": "Deer Hunter",
+        "percent": 10.2
+      },
+      {
+        "name": "Intel Operative",
+        "percent": 5.0
+      },
+      {
+        "name": "All You Can Be",
+        "percent": 4.8
+      },
+      {
+        "name": "MFWIC",
+        "percent": 3.6
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": false,
+      "pages": 0,
+      "reason": "No page for Spec Ops: The Line (MediaWiki API returned missing; see notes for other titles tried)"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 70,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://specops.fandom.com/wiki/Spec_Ops:_The_Line"
+    }
+  },
+  "game": {
+    "id": "spec-ops-the-line",
+    "title": "Spec Ops: The Line",
+    "platforms": [
+      "Xbox 360",
+      "PlayStation 3",
+      "Xbox One",
+      "PC"
+    ],
+    "blurb": "Third-person squad shooter set in a sand-buried Dubai, from Yager, published by 2K Games, released 2012-06-26. RAWG average playtime: 5 hours. Genres: Action, Shooter. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#C2A060",
+    "chapters": [
+      {
+        "id": "story-1",
+        "title": "Story Milestones, Part 1",
+        "summary": "The first four story achievements as Captain Martin Walker heads into Dubai.",
+        "steps": []
+      },
+      {
+        "id": "story-2",
+        "title": "Story Milestones, Part 2",
+        "summary": "The next four story achievements. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "choices",
+        "title": "Story Choices",
+        "summary": "Achievements for how you handle key moments: following or bucking orders, mercy or vengeance, restraint, and how you play. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "difficulty",
+        "title": "Difficulty",
+        "summary": "Finishing the game on Walk on the Beach, Combat Op, Suicide Mission and FUBAR.",
+        "steps": []
+      },
+      {
+        "id": "intel",
+        "title": "Intel Items",
+        "summary": "Recovering one, twelve and then all Intel Items.",
+        "steps": []
+      },
+      {
+        "id": "weapons",
+        "title": "Weapon Kill Counts",
+        "summary": "Kill totals with rifles, pistols and SMGs, shotguns, sniper rifles, heavy weapons and grenades, and 250 headshots.",
+        "steps": []
+      },
+      {
+        "id": "combat",
+        "title": "Combat and Squad Feats",
+        "summary": "Squad attack commands, sand traps, sticky grenades, blind fire, melee, vault kicks and clean, accurate runs through chapters.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "They Live",
+        "kind": "trophy",
+        "chapterId": "story-1",
+        "where": "What's lost is found."
+      },
+      {
+        "id": "achievement-2",
+        "name": "Treacherous Ground",
+        "kind": "trophy",
+        "chapterId": "story-1",
+        "where": "Look out below."
+      },
+      {
+        "id": "achievement-3",
+        "name": "The Lost Battalion",
+        "kind": "trophy",
+        "chapterId": "story-1",
+        "where": "We have contact."
+      },
+      {
+        "id": "achievement-4",
+        "name": "Desert Storm",
+        "kind": "trophy",
+        "chapterId": "story-1",
+        "where": "Engineer an exit strategy."
+      },
+      {
+        "id": "achievement-5",
+        "name": "The Horror",
+        "kind": "trophy",
+        "chapterId": "story-2",
+        "where": "Face the horrors of war."
+      },
+      {
+        "id": "achievement-6",
+        "name": "Three Kings",
+        "kind": "trophy",
+        "chapterId": "story-2",
+        "where": "Stand united."
+      },
+      {
+        "id": "achievement-7",
+        "name": "The Great Escape",
+        "kind": "trophy",
+        "chapterId": "story-2",
+        "where": "Get out of here!"
+      },
+      {
+        "id": "achievement-8",
+        "name": "A Bridge Too Far",
+        "kind": "trophy",
+        "chapterId": "story-2",
+        "where": "The end of the line."
+      },
+      {
+        "id": "achievement-9",
+        "name": "A Man of Action",
+        "kind": "trophy",
+        "chapterId": "choices",
+        "where": "Play it loose."
+      },
+      {
+        "id": "achievement-10",
+        "name": "A Man of Patience",
+        "kind": "trophy",
+        "chapterId": "choices",
+        "where": "Play it smart."
+      },
+      {
+        "id": "achievement-11",
+        "name": "Damned if You Do",
+        "kind": "trophy",
+        "chapterId": "choices",
+        "where": "Follow your orders."
+      },
+      {
+        "id": "achievement-12",
+        "name": "Damned if You Don't",
+        "kind": "trophy",
+        "chapterId": "choices",
+        "where": "Buck the chain of command."
+      },
+      {
+        "id": "achievement-13",
+        "name": "Friendly Fire",
+        "kind": "trophy",
+        "chapterId": "choices",
+        "where": "Show mercy."
+      },
+      {
+        "id": "achievement-14",
+        "name": "Unfriendly Fire",
+        "kind": "trophy",
+        "chapterId": "choices",
+        "where": "Save a bullet."
+      },
+      {
+        "id": "achievement-15",
+        "name": "A Line, Crossed",
+        "kind": "trophy",
+        "chapterId": "choices",
+        "where": "Choose vengeance."
+      },
+      {
+        "id": "achievement-16",
+        "name": "A Line, Held",
+        "kind": "trophy",
+        "chapterId": "choices",
+        "where": "Choose restraint."
+      },
+      {
+        "id": "achievement-17",
+        "name": "Boot",
+        "kind": "trophy",
+        "chapterId": "difficulty",
+        "where": "Complete game on \"Walk on the Beach\" difficulty."
+      },
+      {
+        "id": "achievement-18",
+        "name": "We Were Soldiers",
+        "kind": "trophy",
+        "chapterId": "difficulty",
+        "where": "Complete game on \"Combat Op\" difficulty."
+      },
+      {
+        "id": "achievement-19",
+        "name": "The Devil's Disciple",
+        "kind": "trophy",
+        "chapterId": "difficulty",
+        "where": "Complete game on \"Suicide Mission\" difficulty."
+      },
+      {
+        "id": "achievement-20",
+        "name": "Marksman - Rifle",
+        "kind": "trophy",
+        "chapterId": "weapons",
+        "where": "Kill 350 enemies with any rifle. (campaign only)"
+      },
+      {
+        "id": "achievement-21",
+        "name": "Marksman - Small Arms",
+        "kind": "trophy",
+        "chapterId": "weapons",
+        "where": "Kill 100 enemies with any pistol or SMG. (campaign only)"
+      },
+      {
+        "id": "achievement-22",
+        "name": "Marksman - Shotgun",
+        "kind": "trophy",
+        "chapterId": "weapons",
+        "where": "Kill 75 enemies with any shotgun. (campaign only)"
+      },
+      {
+        "id": "achievement-23",
+        "name": "Marksman - Sniper",
+        "kind": "trophy",
+        "chapterId": "weapons",
+        "where": "Kill 50 enemies with any sniper rifle. (campaign only)"
+      },
+      {
+        "id": "achievement-24",
+        "name": "Marksman - Grenade",
+        "kind": "trophy",
+        "chapterId": "weapons",
+        "where": "Kill 50 enemies with grenades. (campaign only)"
+      },
+      {
+        "id": "achievement-25",
+        "name": "Aim High",
+        "kind": "trophy",
+        "chapterId": "weapons",
+        "where": "Kill 250 enemies with headshots. (campaign only)"
+      },
+      {
+        "id": "achievement-26",
+        "name": "Blind Luck",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Kill 5 enemies using blind fire. (campaign only)"
+      },
+      {
+        "id": "achievement-27",
+        "name": "Good Training",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Sprint into cover 10 times while under fire. (campaign only)"
+      },
+      {
+        "id": "achievement-28",
+        "name": "Army of One",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Kill 3 enemies with a single grenade. (campaign only)"
+      },
+      {
+        "id": "achievement-29",
+        "name": "All You Can Be",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Complete any chapter with 60%+ accuracy without dying or reloading a checkpoint."
+      },
+      {
+        "id": "achievement-30",
+        "name": "Sierra Hotel",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Complete three chapters in a row without being killed or reloading a checkpoint."
+      },
+      {
+        "id": "achievement-31",
+        "name": "Close Combat Carnage",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Kill 4 enemies with a shotgun in 10 seconds or less. (campaign only)"
+      },
+      {
+        "id": "achievement-32",
+        "name": "Battle Management",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Kill 50 enemies using only the Attack Command. (campaign only)"
+      },
+      {
+        "id": "achievement-33",
+        "name": "Spotter",
+        "kind": "trophy",
+        "chapterId": "intel",
+        "where": "Recover one Intel Item."
+      },
+      {
+        "id": "achievement-34",
+        "name": "Recon",
+        "kind": "trophy",
+        "chapterId": "intel",
+        "where": "Recover 12 Intel Items."
+      },
+      {
+        "id": "achievement-35",
+        "name": "Intel Operative",
+        "kind": "trophy",
+        "chapterId": "intel",
+        "where": "Recover all Intel Items."
+      },
+      {
+        "id": "achievement-36",
+        "name": "The Human Factor",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Kill an enemy by tagging him with a sticky grenade. (campaign only)"
+      },
+      {
+        "id": "achievement-37",
+        "name": "MFWIC",
+        "kind": "trophy",
+        "chapterId": "difficulty",
+        "where": "Complete game on \"FUBAR\" difficulty."
+      },
+      {
+        "id": "achievement-38",
+        "name": "Marksman - Heavy Arms",
+        "kind": "trophy",
+        "chapterId": "weapons",
+        "where": "Kill 150 enemies with any heavy weapon. (campaign only)"
+      },
+      {
+        "id": "achievement-39",
+        "name": "Damn Close",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Kill an Edged Weapon Expert while he is up to 5 meters away. (campaign only)"
+      },
+      {
+        "id": "achievement-40",
+        "name": "Preventive Diplomacy",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Kill an enemy just as they are throwing a grenade. (campaign only)"
+      },
+      {
+        "id": "achievement-41",
+        "name": "Deer Hunter",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Kill an oryx. (campaign only)"
+      },
+      {
+        "id": "achievement-42",
+        "name": "Airspace Control",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Kill 10 enemies while they use zip lines or are rappelling. (campaign only)"
+      },
+      {
+        "id": "achievement-43",
+        "name": "Applied Force",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Hit 10 enemies with your melee attack. (campaign only)"
+      },
+      {
+        "id": "achievement-44",
+        "name": "Situational Awareness",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Stun an enemy by dumping sand on their head. (campaign only)"
+      },
+      {
+        "id": "achievement-45",
+        "name": "In Your Face",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Kick an enemy by vaulting over a cover. (campaign only)"
+      },
+      {
+        "id": "achievement-46",
+        "name": "A Farewell To Arms",
+        "kind": "trophy",
+        "chapterId": "choices",
+        "where": "You are relieved."
+      },
+      {
+        "id": "achievement-47",
+        "name": "Too Late The Hero",
+        "kind": "trophy",
+        "chapterId": "choices",
+        "where": "Carry on, soldier."
+      },
+      {
+        "id": "achievement-48",
+        "name": "The Road Back",
+        "kind": "trophy",
+        "chapterId": "choices",
+        "where": "Live and let live."
+      },
+      {
+        "id": "achievement-49",
+        "name": "The Road To Glory",
+        "kind": "trophy",
+        "chapterId": "choices",
+        "where": "Live and let die."
+      },
+      {
+        "id": "achievement-50",
+        "name": "Adapt and Overcome",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Blow up 10 explosive objects, killing at least one enemy each time. (campaign only)"
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/spec-ops-the-line",
+    "Achievement data from Steam (Steam Web API, app 50300)",
+    "StrategyWiki: no page for this game, nothing used",
+    "Fandom (specops.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://specops.fandom.com/wiki/Spec_Ops:_The_Line"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). RAWG's first result is the expected entry (id 4332). The game is not in the fetched Steam store app list (searches for \"Spec Ops\" and \"The Line\" find other games), so it looks delisted. RAWG's store links give Steam app 50300, and the Steam Web API still returns its schema (named \"ValveTestApp50300\", a placeholder) with 50 achievements and global percentages, so it was used. StrategyWiki has no page under \"Spec Ops: The Line\" or \"Spec Ops The Line\". specops.fandom.com answers the API under \"Spec Ops: The Line\" with about 70 linked articles; names only were looked at, nothing copied. None of the 50 achievements is hidden, but the 20 story ones (API names Achievement_YEA_STORY_01 to 20) have short cryptic descriptions and name no chapter, so they were placed by display name. STORY_01 to 08 fall steadily from 82.7% to 40.8% and look like progress milestones, split four and four by our own choice. STORY_09 to 20 come in pairs (\"Damned if You Do\" and \"Damned if You Don't\", \"A Line, Crossed\" and \"A Line, Held\", \"The Road Back\" and \"The Road To Glory\") and look like choices; they sit in one choices chapter. RAWG says the game has multiplayer and a two-player co-op mode, but no Steam achievement names either, so there is no chapter for them."
+}

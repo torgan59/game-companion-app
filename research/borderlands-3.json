@@ -1,0 +1,741 @@
+{
+  "id": "borderlands-3",
+  "title": "Borderlands 3",
+  "year": 2019,
+  "platforms": [
+    "Nintendo Switch",
+    "PC",
+    "Xbox One",
+    "PlayStation 4",
+    "PlayStation 5",
+    "Xbox Series X|S"
+  ],
+  "rawgId": 58617,
+  "rawgSlug": "borderlands-3",
+  "released": "2019-09-13",
+  "developers": [
+    "2K",
+    "Gearbox Software"
+  ],
+  "playtime": 11,
+  "genres": [
+    "Action",
+    "Shooter",
+    "Adventure",
+    "RPG"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Multiplayer",
+    "Full controller support",
+    "Steam Cloud",
+    "Atmospheric",
+    "Great Soundtrack",
+    "RPG",
+    "Co-op",
+    "Open World",
+    "cooperative",
+    "First-Person"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/9f1/9f1891779cb20f44de93cef33b067e50.jpg",
+  "steamAppId": 397540,
+  "achievements": {
+    "total": 81,
+    "hidden": 31,
+    "examples": [
+      {
+        "name": "You Got Skills",
+        "percent": 94.1
+      },
+      {
+        "name": "Barreled Right Over Them",
+        "percent": 81.0
+      },
+      {
+        "name": "Star Bound",
+        "percent": 69.1
+      },
+      {
+        "name": "I'm Floudering Up Here",
+        "percent": 2.5
+      },
+      {
+        "name": "Whispers On The Wind",
+        "percent": 2.0
+      },
+      {
+        "name": "Ultimate Vault Hunter",
+        "percent": 1.7
+      },
+      {
+        "name": "Treat Yo Self",
+        "percent": 1.7
+      },
+      {
+        "name": "Might Beyond Sight",
+        "percent": 1.7
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Borderlands_3",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 148,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://borderlands.fandom.com/wiki/Borderlands_3"
+    }
+  },
+  "game": {
+    "id": "borderlands-3",
+    "title": "Borderlands 3",
+    "platforms": [
+      "Nintendo Switch",
+      "PC",
+      "Xbox One",
+      "PlayStation 4",
+      "PlayStation 5",
+      "Xbox Series X|S"
+    ],
+    "blurb": "Co-op looter shooter with RPG growth, from Gearbox Software (RAWG also lists 2K), released 2019-09-13. RAWG average playtime: 11 hours. Genres: Action, Shooter, Adventure, RPG. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#E0A800",
+    "chapters": [
+      {
+        "id": "main-story",
+        "title": "The Main Story",
+        "summary": "Fifteen hidden achievements from the base game, mostly story milestones. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "side-activities",
+        "title": "Side Missions and Challenges",
+        "summary": "Side missions, the Circles of Slaughter, the Eridian Proving Grounds, Hammerlock's hunts, Zer0's targets, Eridian Slabs, named locations and the Firing Range.",
+        "steps": []
+      },
+      {
+        "id": "levels-gear-combat",
+        "title": "Levels, Gear and Combat",
+        "summary": "Levelling to 50, gear, skins and vehicle parts, combat feats, loyalty packages and unlocking every achievement.",
+        "steps": []
+      },
+      {
+        "id": "co-op-and-social",
+        "title": "Co-op and Social",
+        "summary": "Duels, reviving another player, sending items to friends, tipping Moxxi and the slot machine.",
+        "steps": []
+      },
+      {
+        "id": "add-on-46-52",
+        "title": "Add-on Set: Achievements 46 to 52",
+        "summary": "The \"All Bets Off\" mission, Ember's statues, the Mayor's outfit, Mr. Torgue's hot sauces, blackjack, the Clapstructor and the wandering Debt Collector.",
+        "steps": []
+      },
+      {
+        "id": "add-on-xylourgos",
+        "title": "Add-on Set: Xylourgos (53 to 60)",
+        "summary": "Finding the party, marrying your friends, the Wendigo, Xylourgos crew challenges and ECHO logs, rare spawns and fish jokes.",
+        "steps": []
+      },
+      {
+        "id": "add-on-hidden",
+        "title": "Add-on Set: Hidden (61 to 75)",
+        "summary": "Fifteen hidden achievements numbered 61 to 75 in the Steam list. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "add-on-arms-race",
+        "title": "Add-on Set: Arms Race and Stormblind (76 to 81)",
+        "summary": "Arms Race rounds and gear, the Stormblind Complex, Ava's podcast mysteries, Hemovorous and the Eridium piles.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "You Got Skills",
+        "kind": "trophy",
+        "chapterId": "levels-gear-combat",
+        "where": "Reach level 2."
+      },
+      {
+        "id": "achievement-2",
+        "name": "Star Bound",
+        "kind": "trophy",
+        "chapterId": "levels-gear-combat",
+        "where": "Reach level 10."
+      },
+      {
+        "id": "achievement-3",
+        "name": "Vaulting Your Way To The Top",
+        "kind": "trophy",
+        "chapterId": "levels-gear-combat",
+        "where": "Reach level 25."
+      },
+      {
+        "id": "achievement-4",
+        "name": "Biggest Badass In The Borderlands",
+        "kind": "trophy",
+        "chapterId": "levels-gear-combat",
+        "where": "Reach level 50."
+      },
+      {
+        "id": "achievement-5",
+        "name": "Bolt-Ons",
+        "kind": "trophy",
+        "chapterId": "levels-gear-combat",
+        "where": "Unlock 10 Character Heads or Skins."
+      },
+      {
+        "id": "achievement-6",
+        "name": "Mechani-Cool",
+        "kind": "trophy",
+        "chapterId": "levels-gear-combat",
+        "where": "Unlock 10 Vehicle Parts via hijacking."
+      },
+      {
+        "id": "achievement-7",
+        "name": "Tips Appreciated",
+        "kind": "trophy",
+        "chapterId": "co-op-and-social",
+        "where": "Tip Moxxi."
+      },
+      {
+        "id": "achievement-8",
+        "name": "I Hope You Didn't Tea-bag",
+        "kind": "trophy",
+        "chapterId": "co-op-and-social",
+        "where": "Win a duel."
+      },
+      {
+        "id": "achievement-9",
+        "name": "Stay Away From The Light",
+        "kind": "trophy",
+        "chapterId": "co-op-and-social",
+        "where": "Revive another player."
+      },
+      {
+        "id": "achievement-10",
+        "name": "Gun Pals!",
+        "kind": "trophy",
+        "chapterId": "co-op-and-social",
+        "where": "Send an item to a friend."
+      },
+      {
+        "id": "achievement-11",
+        "name": "Dropping Loads",
+        "kind": "trophy",
+        "chapterId": "co-op-and-social",
+        "where": "Win a live grenade at a Slot Machine."
+      },
+      {
+        "id": "achievement-12",
+        "name": "Good Against Remotes Is One Thing",
+        "kind": "trophy",
+        "chapterId": "side-activities",
+        "where": "Get a perfect score at the Firing Range on any difficulty."
+      },
+      {
+        "id": "achievement-13",
+        "name": "My Name Is Earl",
+        "kind": "trophy",
+        "chapterId": "levels-gear-combat",
+        "where": "Buy 20 cosmetic items from Crazy Earl."
+      },
+      {
+        "id": "achievement-14",
+        "name": "Tales From The Eridian Slab",
+        "kind": "trophy",
+        "chapterId": "side-activities",
+        "where": "Decipher all of the Eridian Slabs."
+      },
+      {
+        "id": "achievement-15",
+        "name": "Slaughterhouse 3",
+        "kind": "trophy",
+        "chapterId": "side-activities",
+        "where": "Complete all the Circles of Slaughter."
+      },
+      {
+        "id": "achievement-16",
+        "name": "A Hundred Names For Sand",
+        "kind": "trophy",
+        "chapterId": "side-activities",
+        "where": "Discover all named locations on Pandora."
+      },
+      {
+        "id": "achievement-17",
+        "name": "Swamped",
+        "kind": "trophy",
+        "chapterId": "side-activities",
+        "where": "Discover all named locations on Eden-6."
+      },
+      {
+        "id": "achievement-18",
+        "name": "City Slicker",
+        "kind": "trophy",
+        "chapterId": "side-activities",
+        "where": "Discover all named locations on Promethea."
+      },
+      {
+        "id": "achievement-19",
+        "name": "Exoarchaeolo—You Get The Gist",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-20",
+        "name": "Master Of All You Survey",
+        "kind": "trophy",
+        "chapterId": "side-activities",
+        "where": "Discover all named locations."
+      },
+      {
+        "id": "achievement-21",
+        "name": "À La Carte",
+        "kind": "trophy",
+        "chapterId": "side-activities",
+        "where": "Complete 20 Side Missions."
+      },
+      {
+        "id": "achievement-22",
+        "name": "Getting A Little On The Side",
+        "kind": "trophy",
+        "chapterId": "side-activities",
+        "where": "Complete all Side Missions."
+      },
+      {
+        "id": "achievement-23",
+        "name": "100-Proof",
+        "kind": "trophy",
+        "chapterId": "side-activities",
+        "where": "Clear all the Eridian Proving Grounds."
+      },
+      {
+        "id": "achievement-24",
+        "name": "Got Big Game",
+        "kind": "trophy",
+        "chapterId": "side-activities",
+        "where": "Defeat all of Hammerlock's Legendary Hunts."
+      },
+      {
+        "id": "achievement-25",
+        "name": "Zer0ed In",
+        "kind": "trophy",
+        "chapterId": "side-activities",
+        "where": "Defeat all of Zer0's Targets of Opportunity."
+      },
+      {
+        "id": "achievement-26",
+        "name": "Barreled Right Over Them",
+        "kind": "trophy",
+        "chapterId": "levels-gear-combat",
+        "where": "Kill an enemy with an exploding barrel."
+      },
+      {
+        "id": "achievement-27",
+        "name": "Feelin' A Little Stabby",
+        "kind": "trophy",
+        "chapterId": "levels-gear-combat",
+        "where": "Kill an enemy, knifing them with a gun blade."
+      },
+      {
+        "id": "achievement-28",
+        "name": "Stick It To 'Em",
+        "kind": "trophy",
+        "chapterId": "levels-gear-combat",
+        "where": "Kill two or more enemies with a single sticky grenade."
+      },
+      {
+        "id": "achievement-29",
+        "name": "On Fleek",
+        "kind": "trophy",
+        "chapterId": "levels-gear-combat",
+        "where": "Equip purple-rated gear or better in every slot."
+      },
+      {
+        "id": "achievement-30",
+        "name": "Rewards Card",
+        "kind": "trophy",
+        "chapterId": "levels-gear-combat",
+        "where": "Earn a Loyalty Package from each weapon manufacturer."
+      },
+      {
+        "id": "achievement-31",
+        "name": "Welcome To The Crimson Raiders",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-32",
+        "name": "So Long, Pandora!",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-33",
+        "name": "NOG It Off",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-34",
+        "name": "I Mustache You A Question",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-35",
+        "name": "Gone From My Sight",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-36",
+        "name": "That Was Cold",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-37",
+        "name": "Heir To An Empty Castle",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-38",
+        "name": "Cross The Streamers",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-39",
+        "name": "Apocalypso!",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-40",
+        "name": "I Am A Goddess, A Glorious Female Warrior",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-41",
+        "name": "Bye, Felicia!",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-42",
+        "name": "Florida Man",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-43",
+        "name": "Stay Golden",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-44",
+        "name": "Damn, Gina",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-45",
+        "name": "Ultimate Vault Hunter",
+        "kind": "trophy",
+        "chapterId": "levels-gear-combat",
+        "where": "Unlock all Borderlands® 3 Achievements!"
+      },
+      {
+        "id": "achievement-46",
+        "name": "A Proper Hand-Off",
+        "kind": "trophy",
+        "chapterId": "add-on-46-52",
+        "where": "Complete mission “All Bets Off”."
+      },
+      {
+        "id": "achievement-47",
+        "name": "Firebug",
+        "kind": "trophy",
+        "chapterId": "add-on-46-52",
+        "where": "Sabotage all statues for Ember."
+      },
+      {
+        "id": "achievement-48",
+        "name": "Killer Look",
+        "kind": "trophy",
+        "chapterId": "add-on-46-52",
+        "where": "Complete the Mayor's outfit."
+      },
+      {
+        "id": "achievement-49",
+        "name": "Scovillain",
+        "kind": "trophy",
+        "chapterId": "add-on-46-52",
+        "where": "Destroy all of Mr. Torgue's hot sauces."
+      },
+      {
+        "id": "achievement-50",
+        "name": "Shoe Money Tonight",
+        "kind": "trophy",
+        "chapterId": "add-on-46-52",
+        "where": "Get a 21 in the blackjack minigame."
+      },
+      {
+        "id": "achievement-51",
+        "name": "Don't Be A Stranger",
+        "kind": "trophy",
+        "chapterId": "add-on-46-52",
+        "where": "Return for a chat with the Clapstructor."
+      },
+      {
+        "id": "achievement-52",
+        "name": "Who Collects The Collector?",
+        "kind": "trophy",
+        "chapterId": "add-on-46-52",
+        "where": "Defeat the wandering Debt Collector."
+      },
+      {
+        "id": "achievement-53",
+        "name": "Good One, Babe",
+        "kind": "trophy",
+        "chapterId": "add-on-xylourgos",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-54",
+        "name": "Industrious In The Face Of Cosmic Terror",
+        "kind": "trophy",
+        "chapterId": "add-on-xylourgos",
+        "where": "Complete all Crew Challenges and Side Missions on Xylourgos."
+      },
+      {
+        "id": "achievement-55",
+        "name": "Whispers On The Wind",
+        "kind": "trophy",
+        "chapterId": "add-on-xylourgos",
+        "where": "Collect all ECHO logs on Xylourgos."
+      },
+      {
+        "id": "achievement-56",
+        "name": "A Hunter, Through And Through",
+        "kind": "trophy",
+        "chapterId": "add-on-xylourgos",
+        "where": "Find and kill all four rare spawns."
+      },
+      {
+        "id": "achievement-57",
+        "name": "I'm Floudering Up Here",
+        "kind": "trophy",
+        "chapterId": "add-on-xylourgos",
+        "where": "Listen to 25 fish jokes."
+      },
+      {
+        "id": "achievement-58",
+        "name": "Party's Still On!",
+        "kind": "trophy",
+        "chapterId": "add-on-xylourgos",
+        "where": "Find the party."
+      },
+      {
+        "id": "achievement-59",
+        "name": "Love Is The Fifth Dimension",
+        "kind": "trophy",
+        "chapterId": "add-on-xylourgos",
+        "where": "Marry your friends."
+      },
+      {
+        "id": "achievement-60",
+        "name": "Older Than The Trees",
+        "kind": "trophy",
+        "chapterId": "add-on-xylourgos",
+        "where": "Kill the Wendigo."
+      },
+      {
+        "id": "achievement-61",
+        "name": "How The West Was Done",
+        "kind": "trophy",
+        "chapterId": "add-on-hidden",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-62",
+        "name": "That's Quite Challenging",
+        "kind": "trophy",
+        "chapterId": "add-on-hidden",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-63",
+        "name": "Helpful Hunter",
+        "kind": "trophy",
+        "chapterId": "add-on-hidden",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-64",
+        "name": "Stone Cold Killer",
+        "kind": "trophy",
+        "chapterId": "add-on-hidden",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-65",
+        "name": "It's A Wash",
+        "kind": "trophy",
+        "chapterId": "add-on-hidden",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-66",
+        "name": "Getting Off Track",
+        "kind": "trophy",
+        "chapterId": "add-on-hidden",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-67",
+        "name": "Ruin On The Horizon",
+        "kind": "trophy",
+        "chapterId": "add-on-hidden",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-68",
+        "name": "Bounty: Hunted",
+        "kind": "trophy",
+        "chapterId": "add-on-hidden",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-69",
+        "name": "Meat and Greet",
+        "kind": "trophy",
+        "chapterId": "add-on-hidden",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-70",
+        "name": "The Blast and the Furious",
+        "kind": "trophy",
+        "chapterId": "add-on-hidden",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-71",
+        "name": "Brain Pain Train Slain",
+        "kind": "trophy",
+        "chapterId": "add-on-hidden",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-72",
+        "name": "Trauma Center",
+        "kind": "trophy",
+        "chapterId": "add-on-hidden",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-73",
+        "name": "Red Wrath and Beyond",
+        "kind": "trophy",
+        "chapterId": "add-on-hidden",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-74",
+        "name": "Ye Who Enter",
+        "kind": "trophy",
+        "chapterId": "add-on-hidden",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-75",
+        "name": "Fustercluck Off",
+        "kind": "trophy",
+        "chapterId": "add-on-hidden",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-76",
+        "name": "In the Eye of a Murdercane",
+        "kind": "trophy",
+        "chapterId": "add-on-arms-race",
+        "where": "Win a round of Arms Race."
+      },
+      {
+        "id": "achievement-77",
+        "name": "Treat Yo Self",
+        "kind": "trophy",
+        "chapterId": "add-on-arms-race",
+        "where": "Extract 100 pieces of gear from Arms Race."
+      },
+      {
+        "id": "achievement-78",
+        "name": "Complex Made Simple",
+        "kind": "trophy",
+        "chapterId": "add-on-arms-race",
+        "where": "Explore the entire Stormblind Complex."
+      },
+      {
+        "id": "achievement-79",
+        "name": "Demysteriouslierified",
+        "kind": "trophy",
+        "chapterId": "add-on-arms-race",
+        "where": "Solve all murder mysteries for Ava's podcast."
+      },
+      {
+        "id": "achievement-80",
+        "name": "Blood Sucking Freak",
+        "kind": "trophy",
+        "chapterId": "add-on-arms-race",
+        "where": "Defeat Hemovorous the Invincible."
+      },
+      {
+        "id": "achievement-81",
+        "name": "Might Beyond Sight",
+        "kind": "trophy",
+        "chapterId": "add-on-arms-race",
+        "where": "Destroy 50 mysterious Eridium piles."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/borderlands-3",
+    "Achievement data from Steam (Steam Web API, app 397540)",
+    "StrategyWiki: no usable walkthrough, nothing used — https://strategywiki.org/wiki/Borderlands_3",
+    "Fandom (borderlands.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://borderlands.fandom.com/wiki/Borderlands_3"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). The Steam schema calls the app \"Oak\" (an internal codename); the store list confirms app 397540. 31 of 81 Steam achievements are hidden. Achievements 46 onwards look like later add-ons, but the data does not name them, so the add-on chapters are grouped by Steam API number and described with the places and tasks their descriptions name; which add-on each set belongs to was not checked. \"Good One, Babe\" (hidden, number 56) was put with the 53 to 60 set by number only. Achievements 61 to 75 are all hidden, so their set has no description. \"Exoarchaeolo—You Get The Gist\" (number 19) is hidden and sits with the base-game story. StrategyWiki has a stub page (completion stage 0, marked as a stub); only its \"Table of Contents\" subpage exists (about 250 characters), and Walkthrough, Controls and Gameplay are linked but not created, so nothing was used. borderlands.fandom.com answers the API, with about 148 linked pages; names only were looked at, nothing copied."
+}

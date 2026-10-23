@@ -1,0 +1,93 @@
+{
+  "id": "saros",
+  "title": "Saros",
+  "year": 2026,
+  "platforms": [
+    "PlayStation 5"
+  ],
+  "rawgId": 997551,
+  "rawgSlug": "saros",
+  "released": "2026-04-30",
+  "developers": [
+    "Housemarque"
+  ],
+  "playtime": null,
+  "genres": [
+    "Action"
+  ],
+  "tags": [],
+  "coverUrl": "https://media.rawg.io/media/games/be8/be86ee5cf3a427c784efec1661f9b194.jpg",
+  "steamAppId": null,
+  "achievements": {
+    "total": 0,
+    "examples": [],
+    "reason": "No Steam app for this game in the Steam app list (the only fuzzy match was an unrelated online game), so there is no Steam achievement list. RAWG lists PlayStation 5 only. The Fandom wiki links \"Weapons\", \"Category:Enemies\" and \"Category:Characters\" pages, whose names could guide an original checklist."
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": false,
+      "pages": 0,
+      "reason": "No page for Saros (MediaWiki API returned missing; see notes for other titles tried)"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 6,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://saros.fandom.com/wiki/SAROS"
+    }
+  },
+  "game": {
+    "id": "saros",
+    "title": "Saros",
+    "platforms": [
+      "PlayStation 5"
+    ],
+    "blurb": "Action game about a lost off-world colony on Carcosa under an eclipse, from Housemarque, released 2026-04-30. RAWG has no playtime yet. Genres: Action. Chapters are an estimate drawn from the page names on the game's Fandom wiki (no Steam achievement list).",
+    "accent": "#C8752A",
+    "chapters": [
+      {
+        "id": "arrival",
+        "title": "Arriving on Carcosa",
+        "summary": "Arjun Devraj, a Soltari Enforcer, lands on the lost colony and learns the basics.",
+        "steps": []
+      },
+      {
+        "id": "the-eclipse",
+        "title": "Under the Eclipse",
+        "summary": "The main story under the eclipse, step by step. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "places",
+        "title": "Places: Passage and Echelon IV",
+        "summary": "The areas the wiki names, and how to find your way through them.",
+        "steps": []
+      },
+      {
+        "id": "weapons",
+        "title": "Weapons",
+        "summary": "The weapons you find and how to use them well.",
+        "steps": []
+      },
+      {
+        "id": "enemies",
+        "title": "Enemies",
+        "summary": "The enemies of Carcosa and how to deal with them.",
+        "steps": []
+      }
+    ],
+    "collectibles": []
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/saros",
+    "Steam: no achievement list available for this game (see notes)",
+    "StrategyWiki: no page for this game, nothing used",
+    "Fandom (saros.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://saros.fandom.com/wiki/SAROS"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). RAWG's first result, \"saros\" (id 997551, released 2026-04-30, Housemarque, published by Sony Interactive Entertainment), is the right game. No StrategyWiki page under \"Saros\" or \"SAROS\". saros.fandom.com answers the API under \"SAROS\" (redirected from \"Saros\"), with only 8 linked pages: \"Arjun Devraj\", \"Carcosa\", \"Echelon IV\", \"Eclipse\", \"Passage\", \"Weapons\", \"Category:Characters\" and \"Category:Enemies\"; names only were looked at, nothing copied, and the chapters follow those names plus RAWG's short description (a Soltari Enforcer on a lost colony under an eclipse). What \"Passage\" and \"Echelon IV\" are is not stated in the data; they are treated as place names only as a guess. No Steam app, so steam is None and there are no achievements; PlayStation trophies were not available from the allowed sources. The chapter list is thin and should be revisited once the wiki grows."
+}

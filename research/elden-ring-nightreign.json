@@ -1,0 +1,408 @@
+{
+  "id": "elden-ring-nightreign",
+  "title": "Elden Ring Nightreign",
+  "year": 2025,
+  "platforms": [
+    "PC",
+    "Xbox One",
+    "PlayStation 4",
+    "Xbox Series X|S",
+    "PlayStation 5"
+  ],
+  "rawgId": 997548,
+  "rawgSlug": "elden-ring-nightreign",
+  "released": "2025-05-30",
+  "developers": [
+    "FromSoftware"
+  ],
+  "playtime": 19,
+  "genres": [
+    "Action",
+    "RPG"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Multiplayer",
+    "Steam Cloud",
+    "RPG",
+    "Co-op",
+    "Story Rich",
+    "Open World",
+    "cooperative",
+    "Third Person",
+    "Online Co-Op",
+    "Survival",
+    "Violent"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/a14/a143ef815d323a3000840fc774d834c7.jpg",
+  "steamAppId": 2622380,
+  "achievements": {
+    "total": 37,
+    "hidden": 28,
+    "examples": [
+      {
+        "name": "The Shrouded Roundtable Hold",
+        "percent": 97.2
+      },
+      {
+        "name": "Relic",
+        "percent": 86.4
+      },
+      {
+        "name": "Legendary Armament",
+        "percent": 76.3
+      },
+      {
+        "name": "Dresser",
+        "percent": 56.1
+      },
+      {
+        "name": "Nightlord Conqueror",
+        "percent": 49.3
+      },
+      {
+        "name": "Shifting Earth",
+        "percent": 37.5
+      },
+      {
+        "name": "Obtained Vessels",
+        "percent": 29.4
+      },
+      {
+        "name": "Nightreign",
+        "percent": 15.9
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": false,
+      "pages": 0,
+      "reason": "No page for Elden Ring Nightreign (MediaWiki API returned missing; see notes for other titles tried)"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 123,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://eldenring.fandom.com/wiki/Elden_Ring_Nightreign"
+    }
+  },
+  "game": {
+    "id": "elden-ring-nightreign",
+    "title": "Elden Ring Nightreign",
+    "platforms": [
+      "PC",
+      "Xbox One",
+      "PlayStation 4",
+      "Xbox Series X|S",
+      "PlayStation 5"
+    ],
+    "blurb": "Co-op action RPG from FromSoftware, published by Bandai Namco Entertainment, released 2025-05-30. RAWG average playtime: 19 hours. Genres: Action, RPG. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#3A3F6B",
+    "chapters": [
+      {
+        "id": "roundtable",
+        "title": "The Roundtable Hold and Garb",
+        "summary": "Reaching the Shrouded Roundtable Hold and changing garb at the dresser.",
+        "steps": []
+      },
+      {
+        "id": "relics-and-armaments",
+        "title": "Relics, Vessels and Armaments",
+        "summary": "Invoking relics, new vessels and relic rites, collecting many vessels and legendary armaments.",
+        "steps": []
+      },
+      {
+        "id": "expeditions",
+        "title": "Expeditions and Nightlords",
+        "summary": "The hidden goals of the expeditions, new characters and the foes you face. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "shifting-earth",
+        "title": "Shifting Earth",
+        "summary": "Finding the secrets of every Shifting Earth location.",
+        "steps": []
+      },
+      {
+        "id": "conquest",
+        "title": "Conquering the Night",
+        "summary": "Defeating all Nightlords and earning every achievement.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Nightreign",
+        "kind": "trophy",
+        "chapterId": "conquest",
+        "where": "Earned all achievements"
+      },
+      {
+        "id": "achievement-2",
+        "name": "The Shrouded Roundtable Hold",
+        "kind": "trophy",
+        "chapterId": "roundtable",
+        "where": "Reached the Shrouded Roundtable Hold"
+      },
+      {
+        "id": "achievement-3",
+        "name": "The Nightlords",
+        "kind": "trophy",
+        "chapterId": "expeditions",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-4",
+        "name": "Night Begins",
+        "kind": "trophy",
+        "chapterId": "expeditions",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-5",
+        "name": "The Duchess Joins the Fray",
+        "kind": "trophy",
+        "chapterId": "expeditions",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-6",
+        "name": "The Revenant Joins the Fray",
+        "kind": "trophy",
+        "chapterId": "expeditions",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-7",
+        "name": "Dawn",
+        "kind": "trophy",
+        "chapterId": "expeditions",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-8",
+        "name": "Tricephalos",
+        "kind": "trophy",
+        "chapterId": "expeditions",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-9",
+        "name": "Gaping Jaw",
+        "kind": "trophy",
+        "chapterId": "expeditions",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-10",
+        "name": "Sentient Pest",
+        "kind": "trophy",
+        "chapterId": "expeditions",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-11",
+        "name": "Augur",
+        "kind": "trophy",
+        "chapterId": "expeditions",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-12",
+        "name": "Equilibrious Beast",
+        "kind": "trophy",
+        "chapterId": "expeditions",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-13",
+        "name": "Darkdrift Knight",
+        "kind": "trophy",
+        "chapterId": "expeditions",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-14",
+        "name": "Fissure in the Fog",
+        "kind": "trophy",
+        "chapterId": "expeditions",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-15",
+        "name": "Night Aspect",
+        "kind": "trophy",
+        "chapterId": "expeditions",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-16",
+        "name": "Nightlord Conqueror",
+        "kind": "trophy",
+        "chapterId": "conquest",
+        "where": "Defeated all Nightlords"
+      },
+      {
+        "id": "achievement-17",
+        "name": "Relic",
+        "kind": "trophy",
+        "chapterId": "relics-and-armaments",
+        "where": "Invoked the power of a relic for the first time"
+      },
+      {
+        "id": "achievement-18",
+        "name": "Dresser",
+        "kind": "trophy",
+        "chapterId": "roundtable",
+        "where": "Changed garb via dresser for the first time"
+      },
+      {
+        "id": "achievement-19",
+        "name": "Vessel",
+        "kind": "trophy",
+        "chapterId": "relics-and-armaments",
+        "where": "Acquired a new vessel and conducted a different relic rite for the first time"
+      },
+      {
+        "id": "achievement-20",
+        "name": "Legendary Armament",
+        "kind": "trophy",
+        "chapterId": "relics-and-armaments",
+        "where": "Acquired a legendary armament for the first time"
+      },
+      {
+        "id": "achievement-21",
+        "name": "Mountaintop",
+        "kind": "trophy",
+        "chapterId": "shifting-earth",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-22",
+        "name": "The Crater",
+        "kind": "trophy",
+        "chapterId": "shifting-earth",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-23",
+        "name": "Rotted Woods",
+        "kind": "trophy",
+        "chapterId": "shifting-earth",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-24",
+        "name": "Noklateo, the Shrouded City",
+        "kind": "trophy",
+        "chapterId": "shifting-earth",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-25",
+        "name": "Shifting Earth",
+        "kind": "trophy",
+        "chapterId": "shifting-earth",
+        "where": "Found the secrets of all Shifting Earth locations"
+      },
+      {
+        "id": "achievement-26",
+        "name": "Obtained Vessels",
+        "kind": "trophy",
+        "chapterId": "relics-and-armaments",
+        "where": "Acquired a great many vessels"
+      },
+      {
+        "id": "achievement-27",
+        "name": "A Champion's Path",
+        "kind": "trophy",
+        "chapterId": "expeditions",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-28",
+        "name": "Mastery",
+        "kind": "trophy",
+        "chapterId": "expeditions",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-29",
+        "name": "Replenished Sacred Flasks",
+        "kind": "trophy",
+        "chapterId": "expeditions",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-30",
+        "name": "Untold Power",
+        "kind": "trophy",
+        "chapterId": "expeditions",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-31",
+        "name": "Old Gaol",
+        "kind": "trophy",
+        "chapterId": "expeditions",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-32",
+        "name": "Set and Steadfast",
+        "kind": "trophy",
+        "chapterId": "expeditions",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-33",
+        "name": "Fell Omen",
+        "kind": "trophy",
+        "chapterId": "expeditions",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-34",
+        "name": "Plague of Locusts",
+        "kind": "trophy",
+        "chapterId": "expeditions",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-35",
+        "name": "Typhoon",
+        "kind": "trophy",
+        "chapterId": "expeditions",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-36",
+        "name": "True Arbiter",
+        "kind": "trophy",
+        "chapterId": "expeditions",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-37",
+        "name": "Nightlord Slayer",
+        "kind": "trophy",
+        "chapterId": "expeditions",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/elden-ring-nightreign",
+    "Achievement data from Steam (Steam Web API, app 2622380)",
+    "StrategyWiki: no page for this game, nothing used",
+    "Fandom (eldenring.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://eldenring.fandom.com/wiki/Elden_Ring_Nightreign"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). No StrategyWiki page under \"Elden Ring Nightreign\" or \"Elden Ring: Nightreign\". eldenring.fandom.com answers the API under \"Elden Ring Nightreign\" (not under \"Elden Ring: Nightreign\"), with about 123 linked pages, including \"Nightlords\", \"Shifting Earth\", \"Mountaintop\", \"Rotted Woods\", \"Expeditions\", \"Nightfarers\" and \"Elden Ring Nightreign: The Forsaken Hollows\"; names only were looked at, nothing copied. The Steam schema calls the app \"CL\" (an internal codename); the store list confirms app 2622380 as \"ELDEN RING NIGHTREIGN\". 28 of 37 Steam achievements are hidden. Four hidden ones (\"Mountaintop\", \"The Crater\", \"Rotted Woods\", \"Noklateo, the Shrouded City\") sit right before the visible Shifting Earth achievement in the Steam list, and Fandom links \"Mountaintop\" and \"Rotted Woods\" from the game page, so they go to the Shifting Earth chapter; that is an inference. The other 24 hidden ones sit in Expeditions and Nightlords. Some of the later hidden ones have lower unlock rates (18% to 53%) and may come from an update or expansion, but nothing in the data says which."
+}

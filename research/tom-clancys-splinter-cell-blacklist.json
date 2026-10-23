@@ -1,0 +1,341 @@
+{
+  "id": "tom-clancys-splinter-cell-blacklist",
+  "title": "Tom Clancy's Splinter Cell Blacklist",
+  "year": 2013,
+  "platforms": [
+    "PC",
+    "Wii U",
+    "Xbox 360",
+    "PlayStation 3",
+    "Xbox One"
+  ],
+  "rawgId": 3933,
+  "rawgSlug": "tom-clancys-splinter-cell-blacklist",
+  "released": "2013-08-20",
+  "developers": [
+    "Ubisoft Toronto"
+  ],
+  "playtime": 10,
+  "genres": [
+    "Action"
+  ],
+  "tags": [
+    "cooperative"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/de9/de93cd3e51d2c57e33bbf7dade34f25a.jpg",
+  "steamAppId": 235600,
+  "achievements": {
+    "total": 28,
+    "hidden": 0,
+    "examples": [
+      {
+        "name": "Distraction Tactician",
+        "percent": 10.2
+      },
+      {
+        "name": "Asset Retrieval",
+        "percent": 10.1
+      },
+      {
+        "name": "Ambush Escaped",
+        "percent": 8.0
+      },
+      {
+        "name": "Tactical Style: Panther",
+        "percent": 0.8
+      },
+      {
+        "name": "4th Echelon Officer",
+        "percent": 0.7
+      },
+      {
+        "name": "Tactical Style: Assault",
+        "percent": 0.5
+      },
+      {
+        "name": "No Kill Option Engaged",
+        "percent": 0.5
+      },
+      {
+        "name": "Enhanced Lethality Demonstrated",
+        "percent": 0.3
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Tom_Clancy's_Splinter_Cell:_Blacklist",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 244,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://splintercell.fandom.com/wiki/Tom_Clancy's_Splinter_Cell:_Blacklist"
+    }
+  },
+  "game": {
+    "id": "tom-clancys-splinter-cell-blacklist",
+    "title": "Tom Clancy's Splinter Cell Blacklist",
+    "platforms": [
+      "PC",
+      "Wii U",
+      "Xbox 360",
+      "PlayStation 3",
+      "Xbox One"
+    ],
+    "blurb": "Stealth action game from Ubisoft Toronto, published by Ubisoft Entertainment, released 2013-08-20. RAWG average playtime: 10 hours. Genre: Action. Chapters follow the campaign missions named in the Steam achievements, plus the side missions, difficulty and play-style goals.",
+    "accent": "#3A7D44",
+    "chapters": [
+      {
+        "id": "missions-safehouse-to-mill",
+        "title": "Safehouse to Abandoned Mill",
+        "summary": "The first five missions named in the achievements: Safehouse, Insurgent Stronghold, American Consumption, Private Estate and Abandoned Mill.",
+        "steps": []
+      },
+      {
+        "id": "missions-hq-to-lng",
+        "title": "Special Missions HQ to LNG Terminal",
+        "summary": "Special Missions HQ, Transit Yards (and its hostages), Detention Facility, the attack on Paladin and LNG Terminal, then finishing the campaign. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "difficulty-and-no-kill",
+        "title": "Realistic, Perfectionist and No-Kill Runs",
+        "summary": "Every mission on Realistic and on Perfectionist, and the whole campaign without killing anyone as Sam Fisher.",
+        "steps": []
+      },
+      {
+        "id": "fourth-echelon-missions",
+        "title": "4th Echelon Missions",
+        "summary": "The full sets of 4th Echelon Missions from Andriy Kobin, Anna Grímsdóttir and Charlie Cole.",
+        "steps": []
+      },
+      {
+        "id": "headquarters-and-playstyles",
+        "title": "Headquarters and Play Styles",
+        "summary": "Fully upgrading your headquarters and mastering the Ghost, Panther and Assault play styles on seven missions each.",
+        "steps": []
+      },
+      {
+        "id": "stealth-and-gadgets",
+        "title": "Stealth, Takedowns and Gadgets",
+        "summary": "Undetected missions, distractions, hiding bodies, Mark & Execute, the Tri-Rotor and taking a shield from a Shielded Infantryman.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Asset Retrieval",
+        "kind": "trophy",
+        "chapterId": "missions-safehouse-to-mill",
+        "where": "Complete Safehouse on any difficulty"
+      },
+      {
+        "id": "achievement-2",
+        "name": "Ambush Escaped",
+        "kind": "trophy",
+        "chapterId": "missions-safehouse-to-mill",
+        "where": "Complete Insurgent Stronghold on any difficulty"
+      },
+      {
+        "id": "achievement-3",
+        "name": "American Consumption Prevented",
+        "kind": "trophy",
+        "chapterId": "missions-safehouse-to-mill",
+        "where": "Complete American Consumption on any difficulty"
+      },
+      {
+        "id": "achievement-4",
+        "name": "Terrorist Factor Turned",
+        "kind": "trophy",
+        "chapterId": "missions-safehouse-to-mill",
+        "where": "Complete Private Estate on any difficulty"
+      },
+      {
+        "id": "achievement-5",
+        "name": "Tracker Placed",
+        "kind": "trophy",
+        "chapterId": "missions-safehouse-to-mill",
+        "where": "Complete Abandoned Mill on any difficulty"
+      },
+      {
+        "id": "achievement-6",
+        "name": "Iranian Intel Retrieved",
+        "kind": "trophy",
+        "chapterId": "missions-hq-to-lng",
+        "where": "Complete Special Missions HQ on any difficulty"
+      },
+      {
+        "id": "achievement-7",
+        "name": "American Freedom Averted",
+        "kind": "trophy",
+        "chapterId": "missions-hq-to-lng",
+        "where": "Complete Transit Yards on any difficulty"
+      },
+      {
+        "id": "achievement-8",
+        "name": "Infiltration/Interrogation",
+        "kind": "trophy",
+        "chapterId": "missions-hq-to-lng",
+        "where": "Complete Detention Facility on any difficulty"
+      },
+      {
+        "id": "achievement-9",
+        "name": "Paladin Restored",
+        "kind": "trophy",
+        "chapterId": "missions-hq-to-lng",
+        "where": "Survive the attack on Paladin"
+      },
+      {
+        "id": "achievement-10",
+        "name": "American Fuel Engaged",
+        "kind": "trophy",
+        "chapterId": "missions-hq-to-lng",
+        "where": "Complete LNG Terminal on any difficulty"
+      },
+      {
+        "id": "achievement-11",
+        "name": "4th Echelon Status Confirmed",
+        "kind": "trophy",
+        "chapterId": "missions-hq-to-lng",
+        "where": "Complete the single player campaign"
+      },
+      {
+        "id": "achievement-12",
+        "name": "4th Echelon Commendation",
+        "kind": "trophy",
+        "chapterId": "difficulty-and-no-kill",
+        "where": "Complete every single player mission on Realistic difficulty"
+      },
+      {
+        "id": "achievement-13",
+        "name": "4th Echelon Officer",
+        "kind": "trophy",
+        "chapterId": "difficulty-and-no-kill",
+        "where": "Complete every single player mission on Perfectionist difficulty"
+      },
+      {
+        "id": "achievement-14",
+        "name": "C&C Optimized",
+        "kind": "trophy",
+        "chapterId": "headquarters-and-playstyles",
+        "where": "Fully upgrade your headquarters"
+      },
+      {
+        "id": "achievement-15",
+        "name": "Tactical Style: Ghost",
+        "kind": "trophy",
+        "chapterId": "headquarters-and-playstyles",
+        "where": "Master Ghost playstyle on 7 missions"
+      },
+      {
+        "id": "achievement-16",
+        "name": "Tactical Style: Panther",
+        "kind": "trophy",
+        "chapterId": "headquarters-and-playstyles",
+        "where": "Master Panther playstyle on 7 missions"
+      },
+      {
+        "id": "achievement-17",
+        "name": "Tactical Style: Assault",
+        "kind": "trophy",
+        "chapterId": "headquarters-and-playstyles",
+        "where": "Master Assault playstyle on 7 missions"
+      },
+      {
+        "id": "achievement-18",
+        "name": "Evidence Concealed",
+        "kind": "trophy",
+        "chapterId": "stealth-and-gadgets",
+        "where": "Hide 5 bodies in containers"
+      },
+      {
+        "id": "achievement-19",
+        "name": "No Kill Option Engaged",
+        "kind": "trophy",
+        "chapterId": "difficulty-and-no-kill",
+        "where": "Complete the single player campaign without killing anyone as Sam Fisher"
+      },
+      {
+        "id": "achievement-20",
+        "name": "Distraction Tactician",
+        "kind": "trophy",
+        "chapterId": "stealth-and-gadgets",
+        "where": "Call an enemy over, then take them down undetected when they investigate"
+      },
+      {
+        "id": "achievement-21",
+        "name": "Tri-Rotor Functionality",
+        "kind": "trophy",
+        "chapterId": "stealth-and-gadgets",
+        "where": "Disable a security device using the Tri-Rotor"
+      },
+      {
+        "id": "achievement-22",
+        "name": "Enhanced Lethality Demonstrated",
+        "kind": "trophy",
+        "chapterId": "stealth-and-gadgets",
+        "where": "Using Mark & Execute, take down 6 enemies in under 14 seconds"
+      },
+      {
+        "id": "achievement-23",
+        "name": "Hostile Shield Secured",
+        "kind": "trophy",
+        "chapterId": "stealth-and-gadgets",
+        "where": "Take down a Shielded Infantryman hand to hand and take his shield"
+      },
+      {
+        "id": "achievement-24",
+        "name": "Hostages Secured",
+        "kind": "trophy",
+        "chapterId": "missions-hq-to-lng",
+        "where": "Save the hostages in the Transit Yards"
+      },
+      {
+        "id": "achievement-25",
+        "name": "Mission Footprint Zero",
+        "kind": "trophy",
+        "chapterId": "stealth-and-gadgets",
+        "where": "Complete a single player mission without being detected during gameplay"
+      },
+      {
+        "id": "achievement-26",
+        "name": "Hunter Operator",
+        "kind": "trophy",
+        "chapterId": "fourth-echelon-missions",
+        "where": "Complete all 4th Echelon Missions from Andriy Kobin"
+      },
+      {
+        "id": "achievement-27",
+        "name": "Infiltration Operator",
+        "kind": "trophy",
+        "chapterId": "fourth-echelon-missions",
+        "where": "Complete all 4th Echelon Missions from Anna Grímsdóttir"
+      },
+      {
+        "id": "achievement-28",
+        "name": "Extraction Operator",
+        "kind": "trophy",
+        "chapterId": "fourth-echelon-missions",
+        "where": "Complete all 4th Echelon Missions from Charlie Cole"
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/tom-clancys-splinter-cell-blacklist",
+    "Achievement data from Steam (Steam Web API, app 235600)",
+    "StrategyWiki: no usable walkthrough, nothing used — https://strategywiki.org/wiki/Tom_Clancy's_Splinter_Cell:_Blacklist",
+    "Fandom (splintercell.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://splintercell.fandom.com/wiki/Tom_Clancy's_Splinter_Cell:_Blacklist"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). RAWG's first result is the expected entry (id 3933); RAWG lists no additions for it. Steam app 235600 (\"Tom Clancy’s Splinter Cell Blacklist\" in the store list and in its schema) was used. StrategyWiki has no page under \"Tom Clancy's Splinter Cell: Blacklist\" or \"Tom Clancy's Splinter Cell Blacklist\". splintercell.fandom.com answers the API under \"Tom Clancy's Splinter Cell: Blacklist\" with about 244 linked articles; names only were looked at, nothing copied. None of the 28 Steam achievements is hidden (API numbers skip 14 to 17 and 30). The ten mission names come from the achievement descriptions; their order follows the API numbers, which also fall steadily in unlock rate (10.1% to 4.6%), and the split after Abandoned Mill is our own choice. \"Survive the attack on Paladin\" is counted with the missions because it sits among them in the list. The three 4th Echelon Missions sets are named by who gives them; the data does not say whether they are solo or co-op."
+}

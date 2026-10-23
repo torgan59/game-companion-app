@@ -1,0 +1,1696 @@
+{
+  "id": "stellaris",
+  "title": "Stellaris",
+  "year": 2016,
+  "platforms": [
+    "PC",
+    "macOS",
+    "Linux"
+  ],
+  "rawgId": 10040,
+  "rawgSlug": "stellaris",
+  "released": "2016-05-08",
+  "developers": [
+    "Paradox Development Studio"
+  ],
+  "playtime": 10,
+  "genres": [
+    "Strategy",
+    "Simulation"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Multiplayer",
+    "Steam Cloud",
+    "Atmospheric",
+    "Great Soundtrack",
+    "Story Rich",
+    "Open World",
+    "Sci-fi",
+    "Exploration",
+    "Sandbox",
+    "Steam Workshop"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/92b/92bbf8a451e2742ab812a580546e593a.jpg",
+  "steamAppId": 281990,
+  "achievements": {
+    "total": 219,
+    "hidden": 0,
+    "examples": [
+      {
+        "name": "Energetic",
+        "percent": 40.8
+      },
+      {
+        "name": "Power Overwhelming",
+        "percent": 36.6
+      },
+      {
+        "name": "Brave New World",
+        "percent": 36.4
+      },
+      {
+        "name": "Khan of Khans",
+        "percent": 0.0
+      },
+      {
+        "name": "Forever is a Long Time",
+        "percent": 0.0
+      },
+      {
+        "name": "So Long, and Thanks for All the Fish",
+        "percent": 0.0
+      },
+      {
+        "name": "It's Full of Stars",
+        "percent": 0.0
+      },
+      {
+        "name": "Defenders of the Galaxy",
+        "percent": 0.0
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": false,
+      "pages": 0,
+      "reason": "No page for Stellaris (MediaWiki API returned missing; see notes for other titles tried)"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 1,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://stellaris.fandom.com/wiki/Stellaris"
+    }
+  },
+  "game": {
+    "id": "stellaris",
+    "title": "Stellaris",
+    "platforms": [
+      "PC",
+      "macOS",
+      "Linux"
+    ],
+    "blurb": "4X space strategy game from Paradox Development Studio, published by Paradox Interactive, released 2016-05-08. RAWG average playtime: 10 hours. Genres: Strategy, Simulation. A 4X game has no story chapters, so these chapters are built from Steam achievement themes: empire building, war, diplomacy, megastructures, galaxy encounters, relics, empire types and origins, and victories and crises.",
+    "accent": "#3C8DBC",
+    "chapters": [
+      {
+        "id": "empire",
+        "title": "Building Your Empire",
+        "summary": "Colonising, mining and energy income, pops, robots, terraforming, genetics, trade and traditions.",
+        "steps": []
+      },
+      {
+        "id": "war",
+        "title": "Fleets and War",
+        "summary": "Fleet power, wars, conquest, starbases, Titans, Colossi, Juggernauts and planetary defences.",
+        "steps": []
+      },
+      {
+        "id": "diplomacy",
+        "title": "Diplomacy, Federations and Espionage",
+        "summary": "Federations, vassals and subjects, the Galactic Community, first contact, espionage and the council.",
+        "steps": []
+      },
+      {
+        "id": "megastructures",
+        "title": "Megastructures",
+        "summary": "Dyson Spheres, Ring Worlds, the Science Nexus, Gateways, habitats, Hyper Relays and the other great constructions.",
+        "steps": []
+      },
+      {
+        "id": "encounters",
+        "title": "Galaxy Encounters",
+        "summary": "Space creatures, Fallen Empires, enclaves, Patrons and Covenants, Astral Rifts, the Shroud and other strange finds.",
+        "steps": []
+      },
+      {
+        "id": "relics",
+        "title": "Precursors, Relics and Archaeology",
+        "summary": "Archaeological sites, Minor Artifacts, Relics (including the Ancient Relics Story Pack), precursor chains and the Galatron.",
+        "steps": []
+      },
+      {
+        "id": "origins",
+        "title": "Empire Types, Ethics and Origins",
+        "summary": "Goals for playing a particular kind of empire, ethic, civic or origin.",
+        "steps": []
+      },
+      {
+        "id": "victory-and-crises",
+        "title": "Victories and Crises",
+        "summary": "Winning, defeating the end-game crises and invaders, and the galaxy-ending choices.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Brave New World",
+        "kind": "trophy",
+        "chapterId": "empire",
+        "where": "Colonize a planet"
+      },
+      {
+        "id": "achievement-2",
+        "name": "Digging Deep",
+        "kind": "trophy",
+        "chapterId": "empire",
+        "where": "Earn a total Mineral income each month above 250"
+      },
+      {
+        "id": "achievement-3",
+        "name": "The Industrial Re-Revolution",
+        "kind": "trophy",
+        "chapterId": "empire",
+        "where": "Earn a total Mineral income each month above 1000"
+      },
+      {
+        "id": "achievement-4",
+        "name": "Energetic",
+        "kind": "trophy",
+        "chapterId": "empire",
+        "where": "Store/have 1000 EC"
+      },
+      {
+        "id": "achievement-5",
+        "name": "Power Overwhelming",
+        "kind": "trophy",
+        "chapterId": "empire",
+        "where": "Store/have 5000 EC"
+      },
+      {
+        "id": "achievement-6",
+        "name": "Birth of a Federation",
+        "kind": "trophy",
+        "chapterId": "diplomacy",
+        "where": "Establish a Federation"
+      },
+      {
+        "id": "achievement-7",
+        "name": "New Shining Star",
+        "kind": "trophy",
+        "chapterId": "empire",
+        "where": "Upgrade your capital to an Imperial Complex"
+      },
+      {
+        "id": "achievement-8",
+        "name": "Battle Thralls",
+        "kind": "trophy",
+        "chapterId": "diplomacy",
+        "where": "Have 3 other Empires as vassals"
+      },
+      {
+        "id": "achievement-9",
+        "name": "Explorer",
+        "kind": "trophy",
+        "chapterId": "empire",
+        "where": "Survey one of each basic planet class"
+      },
+      {
+        "id": "achievement-10",
+        "name": "Grand Admiral",
+        "kind": "trophy",
+        "chapterId": "war",
+        "where": "Have an Empire total fleet power of 100,000+"
+      },
+      {
+        "id": "achievement-11",
+        "name": "Building Better Worlds",
+        "kind": "trophy",
+        "chapterId": "empire",
+        "where": "Terraform a planet"
+      },
+      {
+        "id": "achievement-12",
+        "name": "Domo Arigato",
+        "kind": "trophy",
+        "chapterId": "empire",
+        "where": "Build a Robot Pop"
+      },
+      {
+        "id": "achievement-13",
+        "name": "Clever Girl",
+        "kind": "trophy",
+        "chapterId": "empire",
+        "where": "Uplift a species"
+      },
+      {
+        "id": "achievement-14",
+        "name": "Faster, Stronger, Better",
+        "kind": "trophy",
+        "chapterId": "empire",
+        "where": "Genetically alter a species (not uplift)"
+      },
+      {
+        "id": "achievement-15",
+        "name": "The Grand Fleet",
+        "kind": "trophy",
+        "chapterId": "war",
+        "where": "Build a fleet with a total fleet size above 500"
+      },
+      {
+        "id": "achievement-16",
+        "name": "A Home Away From Home",
+        "kind": "trophy",
+        "chapterId": "war",
+        "where": "Conquer another species' homeworld"
+      },
+      {
+        "id": "achievement-17",
+        "name": "Break On Through...",
+        "kind": "trophy",
+        "chapterId": "empire",
+        "where": "Research a Rare technology"
+      },
+      {
+        "id": "achievement-18",
+        "name": "... To the Other Side",
+        "kind": "trophy",
+        "chapterId": "empire",
+        "where": "Research 15 Rare technologies in a single game"
+      },
+      {
+        "id": "achievement-19",
+        "name": "Mutual Understanding",
+        "kind": "trophy",
+        "chapterId": "diplomacy",
+        "where": "Successfully negotiate a trade deal"
+      },
+      {
+        "id": "achievement-20",
+        "name": "Supremacy",
+        "kind": "trophy",
+        "chapterId": "war",
+        "where": "Win a War against another Empire"
+      },
+      {
+        "id": "achievement-21",
+        "name": "Queening",
+        "kind": "trophy",
+        "chapterId": "encounters",
+        "where": "Successfully capture an extragalactic matriarch"
+      },
+      {
+        "id": "achievement-22",
+        "name": "Rift Sealed",
+        "kind": "trophy",
+        "chapterId": "victory-and-crises",
+        "where": "Destroy the portals employed by the invaders from another time and space"
+      },
+      {
+        "id": "achievement-23",
+        "name": "Voight-Kampff",
+        "kind": "trophy",
+        "chapterId": "victory-and-crises",
+        "where": "Develop the means to prevent nefarious infiltration"
+      },
+      {
+        "id": "achievement-24",
+        "name": "Victorious",
+        "kind": "trophy",
+        "chapterId": "victory-and-crises",
+        "where": "Win the game through any victory condition in Ironman Mode"
+      },
+      {
+        "id": "achievement-25",
+        "name": "Hear Me Roar",
+        "kind": "trophy",
+        "chapterId": "encounters",
+        "where": "Hatch the egg"
+      },
+      {
+        "id": "achievement-26",
+        "name": "Infinite Creation",
+        "kind": "trophy",
+        "chapterId": "encounters",
+        "where": "Birth a new universe"
+      },
+      {
+        "id": "achievement-27",
+        "name": "Whence It Came",
+        "kind": "trophy",
+        "chapterId": "victory-and-crises",
+        "where": "Defeat a horrifying invader"
+      },
+      {
+        "id": "achievement-28",
+        "name": "Dreadnought",
+        "kind": "trophy",
+        "chapterId": "encounters",
+        "where": "Restore an ancient warship"
+      },
+      {
+        "id": "achievement-29",
+        "name": "Stellar Performance",
+        "kind": "trophy",
+        "chapterId": "encounters",
+        "where": "Take a trophy from a stellar being"
+      },
+      {
+        "id": "achievement-30",
+        "name": "Warrior of Light",
+        "kind": "trophy",
+        "chapterId": "encounters",
+        "where": "Destroy a wraith"
+      },
+      {
+        "id": "achievement-31",
+        "name": "Unravelling Enigma",
+        "kind": "trophy",
+        "chapterId": "encounters",
+        "where": "Uncover the secrets of an ancient fortress"
+      },
+      {
+        "id": "achievement-32",
+        "name": "Patron",
+        "kind": "trophy",
+        "chapterId": "encounters",
+        "where": "Support the Artisan Troupe for 10 years"
+      },
+      {
+        "id": "achievement-33",
+        "name": "Mad Genius",
+        "kind": "trophy",
+        "chapterId": "encounters",
+        "where": "Recruit a scientist from the Curators"
+      },
+      {
+        "id": "achievement-34",
+        "name": "The Good Stuff",
+        "kind": "trophy",
+        "chapterId": "encounters",
+        "where": "Purchase a rare resource from the Traders"
+      },
+      {
+        "id": "achievement-35",
+        "name": "Return to Dust",
+        "kind": "trophy",
+        "chapterId": "encounters",
+        "where": "Destroy an Enclave"
+      },
+      {
+        "id": "achievement-36",
+        "name": "Last, Best Hope",
+        "kind": "trophy",
+        "chapterId": "victory-and-crises",
+        "where": "Lead the non-aligned powers to victory against an Awakened Empire"
+      },
+      {
+        "id": "achievement-37",
+        "name": "Put A Ring On It",
+        "kind": "trophy",
+        "chapterId": "megastructures",
+        "where": "Have a ringworld section as your capital"
+      },
+      {
+        "id": "achievement-38",
+        "name": "Slave to the Systems",
+        "kind": "trophy",
+        "chapterId": "origins",
+        "where": "As an Authoritarian Empire with at least 50,000 Pops, have at least 20,000 enslaved Pops."
+      },
+      {
+        "id": "achievement-39",
+        "name": "Suffer not the Alien",
+        "kind": "trophy",
+        "chapterId": "origins",
+        "where": "As a xenophobic Empire, purge all other sentient species from the galaxy"
+      },
+      {
+        "id": "achievement-40",
+        "name": "Tourist Trap",
+        "kind": "trophy",
+        "chapterId": "empire",
+        "where": "Own a planet with at least 10 different species on it"
+      },
+      {
+        "id": "achievement-41",
+        "name": "Planned Obsolescence",
+        "kind": "trophy",
+        "chapterId": "origins",
+        "where": "As a Materialist empire, with at least 20,000 pops, have at least 75% of them be robots."
+      },
+      {
+        "id": "achievement-42",
+        "name": "Peacekeeper",
+        "kind": "trophy",
+        "chapterId": "origins",
+        "where": "As a pacifist Empire, be at peace for 200 consecutive years (crises do not count as wars)"
+      },
+      {
+        "id": "achievement-43",
+        "name": "Very Open Borders",
+        "kind": "trophy",
+        "chapterId": "origins",
+        "where": "As a xenophile Empire, have migration treaties with at least 10 other Empires"
+      },
+      {
+        "id": "achievement-44",
+        "name": "Deus Vult",
+        "kind": "trophy",
+        "chapterId": "origins",
+        "where": "As a spiritualist Empire, own 4 holy worlds"
+      },
+      {
+        "id": "achievement-45",
+        "name": "Omnicultural",
+        "kind": "trophy",
+        "chapterId": "empire",
+        "where": "Have your ruler be of a different species class than your founding species"
+      },
+      {
+        "id": "achievement-46",
+        "name": "Old Friends",
+        "kind": "trophy",
+        "chapterId": "encounters",
+        "where": "Receive a gift from a Fallen Empire"
+      },
+      {
+        "id": "achievement-47",
+        "name": "Unboxing",
+        "kind": "trophy",
+        "chapterId": "encounters",
+        "where": "Open up a shielded world"
+      },
+      {
+        "id": "achievement-48",
+        "name": "Enlightened Times",
+        "kind": "trophy",
+        "chapterId": "encounters",
+        "where": "Enlighten a Bronze or Stone Age civilization"
+      },
+      {
+        "id": "achievement-49",
+        "name": "Payback",
+        "kind": "trophy",
+        "chapterId": "origins",
+        "where": "As a humanoid species, infiltrate the homeworld of pre-FTL reptilians"
+      },
+      {
+        "id": "achievement-50",
+        "name": "Paradise Found",
+        "kind": "trophy",
+        "chapterId": "empire",
+        "where": "Terraform a planet into a gaia world"
+      },
+      {
+        "id": "achievement-51",
+        "name": "What Came Before",
+        "kind": "trophy",
+        "chapterId": "relics",
+        "where": "Find the home system of a Precursor Empire"
+      },
+      {
+        "id": "achievement-52",
+        "name": "Outside Context",
+        "kind": "trophy",
+        "chapterId": "war",
+        "where": "Invade pre-FTL Earth while it is in the midst of a world war"
+      },
+      {
+        "id": "achievement-53",
+        "name": "Then Virgil, Now Beatrice",
+        "kind": "trophy",
+        "chapterId": "encounters",
+        "where": "Return a long-dead species to life"
+      },
+      {
+        "id": "achievement-54",
+        "name": "What Was Will Be",
+        "kind": "trophy",
+        "chapterId": "encounters",
+        "where": "Close the loop, or don't"
+      },
+      {
+        "id": "achievement-55",
+        "name": "Resourceful",
+        "kind": "trophy",
+        "chapterId": "empire",
+        "where": "Have access to ten different Strategic Resources"
+      },
+      {
+        "id": "achievement-56",
+        "name": "Captive Star",
+        "kind": "trophy",
+        "chapterId": "megastructures",
+        "where": "Construct a complete Dyson Sphere"
+      },
+      {
+        "id": "achievement-57",
+        "name": "Ringworld Engineers",
+        "kind": "trophy",
+        "chapterId": "megastructures",
+        "where": "Construct a complete Ring World"
+      },
+      {
+        "id": "achievement-58",
+        "name": "I Can See Forever",
+        "kind": "trophy",
+        "chapterId": "megastructures",
+        "where": "Construct a complete Sentry Array"
+      },
+      {
+        "id": "achievement-59",
+        "name": "Think Tank",
+        "kind": "trophy",
+        "chapterId": "megastructures",
+        "where": "Construct a complete Science Nexus"
+      },
+      {
+        "id": "achievement-60",
+        "name": "Beyond the Veil",
+        "kind": "trophy",
+        "chapterId": "encounters",
+        "where": "Breach the Shroud"
+      },
+      {
+        "id": "achievement-61",
+        "name": "Like Tears in Rain",
+        "kind": "trophy",
+        "chapterId": "empire",
+        "where": "Evolve into perfect, immortal machines"
+      },
+      {
+        "id": "achievement-62",
+        "name": "Controlled Evolution",
+        "kind": "trophy",
+        "chapterId": "empire",
+        "where": "Genetically modify a species to possess traits worth 7 points"
+      },
+      {
+        "id": "achievement-63",
+        "name": "View from the End of the World",
+        "kind": "trophy",
+        "chapterId": "megastructures",
+        "where": "Own a Habitat station in a Black Hole system"
+      },
+      {
+        "id": "achievement-64",
+        "name": "Towards Utopia",
+        "kind": "trophy",
+        "chapterId": "origins",
+        "where": "As an Egalitarian empire, have at least 50,000 pops living under Utopian living conditions."
+      },
+      {
+        "id": "achievement-65",
+        "name": "Xenophage",
+        "kind": "trophy",
+        "chapterId": "empire",
+        "where": "Keep at least 5 different species as livestock in your Empire"
+      },
+      {
+        "id": "achievement-66",
+        "name": "Rise of the Machines",
+        "kind": "trophy",
+        "chapterId": "origins",
+        "where": "As a Determined Exterminator, conquer or eliminate all biological Empires in the galaxy."
+      },
+      {
+        "id": "achievement-67",
+        "name": "Distinctiveness Added",
+        "kind": "trophy",
+        "chapterId": "origins",
+        "where": "As a Driven Assimilator, own cyborg Pops of at least 5 different species."
+      },
+      {
+        "id": "achievement-68",
+        "name": "Retirement Home",
+        "kind": "trophy",
+        "chapterId": "origins",
+        "where": "As a Rogue Servitor, own at least 1,000 Pops from Fallen Empires."
+      },
+      {
+        "id": "achievement-69",
+        "name": "Does Not Compute",
+        "kind": "trophy",
+        "chapterId": "victory-and-crises",
+        "where": "Shut down the Contingency plan."
+      },
+      {
+        "id": "achievement-70",
+        "name": "Planet of the Mechs",
+        "kind": "trophy",
+        "chapterId": "empire",
+        "where": "Terraform a planet into a Machine World."
+      },
+      {
+        "id": "achievement-71",
+        "name": "Exterminatus",
+        "kind": "trophy",
+        "chapterId": "war",
+        "where": "Use a World Cracker to destroy another Empire's capital planet"
+      },
+      {
+        "id": "achievement-72",
+        "name": "Clash of the Titans",
+        "kind": "trophy",
+        "chapterId": "war",
+        "where": "Defeat a Fallen Empire's Titan fleet with a Titan of your own"
+      },
+      {
+        "id": "achievement-73",
+        "name": "Stay on Target",
+        "kind": "trophy",
+        "chapterId": "war",
+        "where": "Destroy another Empire's Colossus while it is in the process of firing on a planet"
+      },
+      {
+        "id": "achievement-74",
+        "name": "Star Struck",
+        "kind": "trophy",
+        "chapterId": "war",
+        "where": "Own 200 Starbases (Outposts are counted)"
+      },
+      {
+        "id": "achievement-75",
+        "name": "Pandora's World",
+        "kind": "trophy",
+        "chapterId": "empire",
+        "where": "Use a Global Pacifier to shield a planet belonging to Fanatic Purifiers, Ravenous Swarms, or Determined Exterminators"
+      },
+      {
+        "id": "achievement-76",
+        "name": "Imperial Highway",
+        "kind": "trophy",
+        "chapterId": "megastructures",
+        "where": "Own 4 active Gateways"
+      },
+      {
+        "id": "achievement-77",
+        "name": "Citadel of Death",
+        "kind": "trophy",
+        "chapterId": "war",
+        "where": "Own a Citadel with 40k fleet power"
+      },
+      {
+        "id": "achievement-78",
+        "name": "Tradition is Everything",
+        "kind": "trophy",
+        "chapterId": "empire",
+        "where": "Unlock all 42 Traditions"
+      },
+      {
+        "id": "achievement-79",
+        "name": "Emissary",
+        "kind": "trophy",
+        "chapterId": "encounters",
+        "where": "Explore a Natural Wormhole"
+      },
+      {
+        "id": "achievement-80",
+        "name": "No Khan Do",
+        "kind": "trophy",
+        "chapterId": "victory-and-crises",
+        "where": "Kill the Great Khan in battle"
+      },
+      {
+        "id": "achievement-81",
+        "name": "Who Scraps the Scrapper",
+        "kind": "trophy",
+        "chapterId": "encounters",
+        "where": "Destroy the Scrapper Bot"
+      },
+      {
+        "id": "achievement-82",
+        "name": "1999 A.D.",
+        "kind": "trophy",
+        "chapterId": "victory-and-crises",
+        "where": "Slaughter the Voidspawn"
+      },
+      {
+        "id": "achievement-83",
+        "name": "A Hump Like a Snow-Hill",
+        "kind": "trophy",
+        "chapterId": "encounters",
+        "where": "Hunt the Tiyanki Matriarch"
+      },
+      {
+        "id": "achievement-84",
+        "name": "It Followed Me Home",
+        "kind": "trophy",
+        "chapterId": "encounters",
+        "where": "Befriend a Space Amoeba"
+      },
+      {
+        "id": "achievement-85",
+        "name": "...and Hope?",
+        "kind": "trophy",
+        "chapterId": "encounters",
+        "where": "Unseal the path to the L-Cluster"
+      },
+      {
+        "id": "achievement-86",
+        "name": "Franchising",
+        "kind": "trophy",
+        "chapterId": "origins",
+        "where": "As a Corporate empire, have a branch office on 5 different empires' capitals"
+      },
+      {
+        "id": "achievement-87",
+        "name": "Inscrutable Power",
+        "kind": "trophy",
+        "chapterId": "relics",
+        "where": "I won the Galatron and all I got was this lousy achievement"
+      },
+      {
+        "id": "achievement-88",
+        "name": "Megapolis",
+        "kind": "trophy",
+        "chapterId": "empire",
+        "where": "Have a planet with at least 10,000 Pops."
+      },
+      {
+        "id": "achievement-89",
+        "name": "Obscure Tastes",
+        "kind": "trophy",
+        "chapterId": "megastructures",
+        "where": "Build a Mega-Art Installation in a nebula system"
+      },
+      {
+        "id": "achievement-90",
+        "name": "Black Hole Mining",
+        "kind": "trophy",
+        "chapterId": "megastructures",
+        "where": "Build a Matter Decompressor"
+      },
+      {
+        "id": "achievement-91",
+        "name": "Strategic Initiative",
+        "kind": "trophy",
+        "chapterId": "megastructures",
+        "where": "Build a Strategic Coordination Center"
+      },
+      {
+        "id": "achievement-92",
+        "name": "Center of Trade",
+        "kind": "trophy",
+        "chapterId": "empire",
+        "where": "Earn at least 1000 Trade per month"
+      },
+      {
+        "id": "achievement-93",
+        "name": "Giga-Engineering",
+        "kind": "trophy",
+        "chapterId": "megastructures",
+        "where": "Have at least 4 fully operational Megastructures within your borders (Habitats, Ring Worlds and Gateways do not count)"
+      },
+      {
+        "id": "achievement-94",
+        "name": "We Are Legion",
+        "kind": "trophy",
+        "chapterId": "empire",
+        "where": "Be a biological Hive Mind with at least 100,000 drone Pops."
+      },
+      {
+        "id": "achievement-95",
+        "name": "United Space",
+        "kind": "trophy",
+        "chapterId": "megastructures",
+        "where": "Build an Interstellar Assembly"
+      },
+      {
+        "id": "achievement-96",
+        "name": "Artificer",
+        "kind": "trophy",
+        "chapterId": "relics",
+        "where": "Have 100 Minor Artifacts"
+      },
+      {
+        "id": "achievement-97",
+        "name": "It belongs in a museum!",
+        "kind": "trophy",
+        "chapterId": "relics",
+        "where": "Find a Relic"
+      },
+      {
+        "id": "achievement-98",
+        "name": "Relic Hunter",
+        "kind": "trophy",
+        "chapterId": "relics",
+        "where": "In one game, find 5 Relics from Ancient Relics Story Pack"
+      },
+      {
+        "id": "achievement-99",
+        "name": "Archaeologist",
+        "kind": "trophy",
+        "chapterId": "relics",
+        "where": "Successfully investigate an archaeological site"
+      },
+      {
+        "id": "achievement-100",
+        "name": "Green Thumb",
+        "kind": "trophy",
+        "chapterId": "relics",
+        "where": "Complete the Baol Precursor chain"
+      },
+      {
+        "id": "achievement-101",
+        "name": "Dust Off",
+        "kind": "trophy",
+        "chapterId": "relics",
+        "where": "Complete the Zroni Precursor chain"
+      },
+      {
+        "id": "achievement-102",
+        "name": "Raiders of the Lost Galatron",
+        "kind": "trophy",
+        "chapterId": "relics",
+        "where": "Capture the Galatron from another empire"
+      },
+      {
+        "id": "achievement-103",
+        "name": "Arcana",
+        "kind": "trophy",
+        "chapterId": "relics",
+        "where": "Study Minor Artifacts and discover a random technology"
+      },
+      {
+        "id": "achievement-104",
+        "name": "Unlimited Power!",
+        "kind": "trophy",
+        "chapterId": "relics",
+        "where": "Use the active effect of a Relic"
+      },
+      {
+        "id": "achievement-105",
+        "name": "League of Nations",
+        "kind": "trophy",
+        "chapterId": "diplomacy",
+        "where": "Be a founding member of the Galactic Community"
+      },
+      {
+        "id": "achievement-106",
+        "name": "Let Us Go Forward Together",
+        "kind": "trophy",
+        "chapterId": "diplomacy",
+        "where": "Level up your Federation"
+      },
+      {
+        "id": "achievement-107",
+        "name": "We're Number One",
+        "kind": "trophy",
+        "chapterId": "diplomacy",
+        "where": "Be the leader of a max level Federation"
+      },
+      {
+        "id": "achievement-108",
+        "name": "Unstoppable Force",
+        "kind": "trophy",
+        "chapterId": "war",
+        "where": "Build a Juggernaut"
+      },
+      {
+        "id": "achievement-109",
+        "name": "Our Fleets will Blot Out the Stars",
+        "kind": "trophy",
+        "chapterId": "megastructures",
+        "where": "Construct a complete Mega-Shipyard"
+      },
+      {
+        "id": "achievement-110",
+        "name": "Whatever it is, I'm against it",
+        "kind": "trophy",
+        "chapterId": "diplomacy",
+        "where": "Refuse to belong to any club that would have you as a member"
+      },
+      {
+        "id": "achievement-111",
+        "name": "Throw Your Weight Around",
+        "kind": "trophy",
+        "chapterId": "diplomacy",
+        "where": "Have a Diplomatic Weight of over 9000"
+      },
+      {
+        "id": "achievement-112",
+        "name": "Opposites Attract",
+        "kind": "trophy",
+        "chapterId": "diplomacy",
+        "where": "Have all eight ethics represented within your Federation"
+      },
+      {
+        "id": "achievement-113",
+        "name": "Humble Pie",
+        "kind": "trophy",
+        "chapterId": "diplomacy",
+        "where": "Humiliate an Empire that is in the Supremacy Diplomatic Stance, forcing them out of it"
+      },
+      {
+        "id": "achievement-114",
+        "name": "You've Been Served",
+        "kind": "trophy",
+        "chapterId": "diplomacy",
+        "where": "Denounce an Empire that is not actually in breach of galactic law while all major sanctions have been passed"
+      },
+      {
+        "id": "achievement-115",
+        "name": "Big Red Button",
+        "kind": "trophy",
+        "chapterId": "victory-and-crises",
+        "where": "Destroy the Galaxy"
+      },
+      {
+        "id": "achievement-116",
+        "name": "With Thunderous Applause",
+        "kind": "trophy",
+        "chapterId": "diplomacy",
+        "where": "Become the Galactic Emperor"
+      },
+      {
+        "id": "achievement-117",
+        "name": "Sic Semper Tyrannis",
+        "kind": "trophy",
+        "chapterId": "diplomacy",
+        "where": "Lead a rebellion that successfully deposes the Galactic Emperor"
+      },
+      {
+        "id": "achievement-118",
+        "name": "Modern Cincinnatus",
+        "kind": "trophy",
+        "chapterId": "origins",
+        "where": "As Galactic Custodian, defeat the end-game Crisis and then end the title rather than finishing your term"
+      },
+      {
+        "id": "achievement-119",
+        "name": "We Come In Peace",
+        "kind": "trophy",
+        "chapterId": "diplomacy",
+        "where": "Complete a mutually friendly First Contact with an empire with no negative incidents"
+      },
+      {
+        "id": "achievement-120",
+        "name": "They Come In Pieces",
+        "kind": "trophy",
+        "chapterId": "encounters",
+        "where": "Vivisect an alien"
+      },
+      {
+        "id": "achievement-121",
+        "name": "Shoot To Kill",
+        "kind": "trophy",
+        "chapterId": "diplomacy",
+        "where": "Start a full fledged first contact war before communications have been fully established"
+      },
+      {
+        "id": "achievement-122",
+        "name": "Burn Notice",
+        "kind": "trophy",
+        "chapterId": "diplomacy",
+        "where": "Disavow all knowledge of an Asset during an Operation"
+      },
+      {
+        "id": "achievement-123",
+        "name": "All-Seeing Eye",
+        "kind": "trophy",
+        "chapterId": "diplomacy",
+        "where": "Have an Intel Level of 100 on five different empires simultaneously"
+      },
+      {
+        "id": "achievement-124",
+        "name": "Tinker, Tailor, Soldier, Blorg",
+        "kind": "trophy",
+        "chapterId": "diplomacy",
+        "where": "Complete at least ten distinct operations during a game"
+      },
+      {
+        "id": "achievement-125",
+        "name": "Surfing the Web",
+        "kind": "trophy",
+        "chapterId": "megastructures",
+        "where": "Have a network of at least 30 Hyper Relays, in systems you own, connected to your capital."
+      },
+      {
+        "id": "achievement-126",
+        "name": "Yeet the Fleet",
+        "kind": "trophy",
+        "chapterId": "war",
+        "where": "Catapult a military fleet directly into the capital system of an enemy empire you are at war with."
+      },
+      {
+        "id": "achievement-127",
+        "name": "None Shall Pass",
+        "kind": "trophy",
+        "chapterId": "war",
+        "where": "Have a Fortress World with a Planetary Defense Shield, protected by a fully upgraded orbital ring, filled with defensive modules, with a fleet power of at least 10,000"
+      },
+      {
+        "id": "achievement-128",
+        "name": "Gotta Subjugate Them All",
+        "kind": "trophy",
+        "chapterId": "diplomacy",
+        "where": "Have a tier 3 subject of each Specialist type simultaneously."
+      },
+      {
+        "id": "achievement-129",
+        "name": "Fine Print",
+        "kind": "trophy",
+        "chapterId": "diplomacy",
+        "where": "Modify a vassalization contract."
+      },
+      {
+        "id": "achievement-130",
+        "name": "Maximally Effective",
+        "kind": "trophy",
+        "chapterId": "war",
+        "where": "Be the patron of three maximum sized Mercenary Enclaves."
+      },
+      {
+        "id": "achievement-131",
+        "name": "You Monster",
+        "kind": "trophy",
+        "chapterId": "empire",
+        "where": "Reduce, reuse, recycle."
+      },
+      {
+        "id": "achievement-132",
+        "name": "Meet the New Boss",
+        "kind": "trophy",
+        "chapterId": "empire",
+        "where": "Same as the old boss."
+      },
+      {
+        "id": "achievement-133",
+        "name": "Underlord",
+        "kind": "trophy",
+        "chapterId": "origins",
+        "where": "As a Subterranean empire, dig too deep, but prove yourself worthy."
+      },
+      {
+        "id": "achievement-134",
+        "name": "Into the Unknown",
+        "kind": "trophy",
+        "chapterId": "origins",
+        "where": "As a Slingshot to the Stars empire, send 10 crewed science ships into the unknown with Quantum Catapults."
+      },
+      {
+        "id": "achievement-135",
+        "name": "Non-Prophet Organization",
+        "kind": "trophy",
+        "chapterId": "origins",
+        "where": "As a Teachers of the Shroud empire, prove that the Shroudwalkers made a terrible mistake."
+      },
+      {
+        "id": "achievement-136",
+        "name": "Fixer Upper",
+        "kind": "trophy",
+        "chapterId": "origins",
+        "where": "As an Idyllic Bloom empire, convert the junk worlds of the Ketling Star Pack into Gaia Worlds."
+      },
+      {
+        "id": "achievement-137",
+        "name": "Growing Like Weeds",
+        "kind": "trophy",
+        "chapterId": "origins",
+        "where": "As a Budding species, have 25,000 Budding pops on your Capital."
+      },
+      {
+        "id": "achievement-138",
+        "name": "Tend the Garden",
+        "kind": "trophy",
+        "chapterId": "origins",
+        "where": "As custodian of Wenkwort Artem, make it a resort world with a Ranger Lodge and original blockers."
+      },
+      {
+        "id": "achievement-139",
+        "name": "Machine Supremacy",
+        "kind": "trophy",
+        "chapterId": "victory-and-crises",
+        "where": "Win the game as a machine uprising."
+      },
+      {
+        "id": "achievement-140",
+        "name": "Strange Mood",
+        "kind": "trophy",
+        "chapterId": "origins",
+        "where": "As a Master Crafter empire, fully construct a megastructure while you have a Covenant."
+      },
+      {
+        "id": "achievement-141",
+        "name": "Directive 67",
+        "kind": "trophy",
+        "chapterId": "origins",
+        "where": "As a Clone Army empire, denounce the Spiritualist fallen empire then destroy them."
+      },
+      {
+        "id": "achievement-142",
+        "name": "Destroy the People of Earth!",
+        "kind": "trophy",
+        "chapterId": "origins",
+        "where": "As the Commonwealth of Man, destroy the United Nations of Earth while ruled by symbiotic brainslugs."
+      },
+      {
+        "id": "achievement-143",
+        "name": "Room for Desert",
+        "kind": "trophy",
+        "chapterId": "empire",
+        "where": "Consume another empire’s desert homeworld."
+      },
+      {
+        "id": "achievement-144",
+        "name": "Can you Smell What the Lithoids are Cooking?",
+        "kind": "trophy",
+        "chapterId": "origins",
+        "where": "As a Lithoid empire, keep another Lithoid pop as Livestock or Process them."
+      },
+      {
+        "id": "achievement-145",
+        "name": "Rock Beats Paper",
+        "kind": "trophy",
+        "chapterId": "origins",
+        "where": "As a Lithoid empire, show the Galactic Community what you think of that strongly worded letter."
+      },
+      {
+        "id": "achievement-146",
+        "name": "There’s a Zombie on my Lawn",
+        "kind": "trophy",
+        "chapterId": "origins",
+        "where": "As a Necroid empire destroy a Plantoid empire, or vice-versa, without blowing up their final planet."
+      },
+      {
+        "id": "achievement-147",
+        "name": "With Great Power",
+        "kind": "trophy",
+        "chapterId": "origins",
+        "where": "As Necrophages do not invade any pre-ftls and defeat the crisis OR have 10 observation stations"
+      },
+      {
+        "id": "achievement-148",
+        "name": "Recent History",
+        "kind": "trophy",
+        "chapterId": "origins",
+        "where": "As a Memorialist empire have Galactic Memorials on 5 tomb worlds created during the game"
+      },
+      {
+        "id": "achievement-149",
+        "name": "Holy Water",
+        "kind": "trophy",
+        "chapterId": "encounters",
+        "where": "Drench a Fallen Empire’s holy world."
+      },
+      {
+        "id": "achievement-150",
+        "name": "Fishing for Trouble",
+        "kind": "trophy",
+        "chapterId": "origins",
+        "where": "As an angler empire, provoke a Fallen Empire into declaring war on you and win."
+      },
+      {
+        "id": "achievement-151",
+        "name": "There be Dragons",
+        "kind": "trophy",
+        "chapterId": "encounters",
+        "where": "Own 13 dragons and have them in your capital system."
+      },
+      {
+        "id": "achievement-152",
+        "name": "Quest Complete",
+        "kind": "trophy",
+        "chapterId": "encounters",
+        "where": "Find the true ending of The Order’s noble quest."
+      },
+      {
+        "id": "achievement-153",
+        "name": "Toxic Workplace",
+        "kind": "trophy",
+        "chapterId": "origins",
+        "where": "As a Toxoid Galactic Custodian or Emperor, insult all other members of the Community. (Min 3)"
+      },
+      {
+        "id": "achievement-154",
+        "name": "Could be Worse",
+        "kind": "trophy",
+        "chapterId": "empire",
+        "where": "Colonize a planet that started the game as a Toxic world, then turn it into a Tomb World."
+      },
+      {
+        "id": "achievement-155",
+        "name": "With Interest",
+        "kind": "trophy",
+        "chapterId": "origins",
+        "where": "As a Payback empire, finish what you started. Gain victory over MSI using the special Payback CB."
+      },
+      {
+        "id": "achievement-156",
+        "name": "Unshackled",
+        "kind": "trophy",
+        "chapterId": "origins",
+        "where": "As a Broken Shackles empire, eradicate slavery in the galaxy, including on Pre-FTL worlds."
+      },
+      {
+        "id": "achievement-157",
+        "name": "Dark Forest",
+        "kind": "trophy",
+        "chapterId": "origins",
+        "where": "Convert to a Fanatic Purifier as a FotD empire and eliminate all regular empires, fallen empires and enclaves."
+      },
+      {
+        "id": "achievement-158",
+        "name": "Back with Your X",
+        "kind": "trophy",
+        "chapterId": "encounters",
+        "where": "Get the “good ending” to the Solarpunk quest chain, with Sol as your capital system."
+      },
+      {
+        "id": "achievement-159",
+        "name": "Insightful",
+        "kind": "trophy",
+        "chapterId": "encounters",
+        "where": "Research 12 pre-FTL Insight Technologies."
+      },
+      {
+        "id": "achievement-160",
+        "name": "No Good Deed…",
+        "kind": "trophy",
+        "chapterId": "encounters",
+        "where": "Intervene to save a Pre-FTL experiment from catastrophic failure, even though it puts you in breach of Galactic Law."
+      },
+      {
+        "id": "achievement-161",
+        "name": "The Path Not Taken",
+        "kind": "trophy",
+        "chapterId": "empire",
+        "where": "Have 10 colonies without ever discovering Hyperdrives."
+      },
+      {
+        "id": "achievement-162",
+        "name": "Nothing to See Here",
+        "kind": "trophy",
+        "chapterId": "war",
+        "where": "Declare a war with a cloaked military fleet already in the primary target’s capital system."
+      },
+      {
+        "id": "achievement-163",
+        "name": "We’ll Make Great Pets",
+        "kind": "trophy",
+        "chapterId": "encounters",
+        "where": "Have at least 1,000 pops of your primary species on display in Alien Zoos within your empire."
+      },
+      {
+        "id": "achievement-164",
+        "name": "A Tad Too Late",
+        "kind": "trophy",
+        "chapterId": "origins",
+        "where": "Discover Keides' Origin."
+      },
+      {
+        "id": "achievement-165",
+        "name": "Dawn Of A Million Souls",
+        "kind": "trophy",
+        "chapterId": "encounters",
+        "where": "Terraform 3 planets with Azaryn."
+      },
+      {
+        "id": "achievement-166",
+        "name": "Ethical Dilemmas",
+        "kind": "trophy",
+        "chapterId": "diplomacy",
+        "where": "Have 6 different Ethics on the Council."
+      },
+      {
+        "id": "achievement-167",
+        "name": "Council of Elders",
+        "kind": "trophy",
+        "chapterId": "diplomacy",
+        "where": "Requires 5 Council members that are at at least 100 years old."
+      },
+      {
+        "id": "achievement-168",
+        "name": "Equality! Democracy! Freedom!",
+        "kind": "trophy",
+        "chapterId": "origins",
+        "where": "Overthrow the Ruler in a Civil War during the Under One Rule Origin."
+      },
+      {
+        "id": "achievement-169",
+        "name": "We Bring Peace",
+        "kind": "trophy",
+        "chapterId": "origins",
+        "where": "Liberate 3 different empires while having Crusader Spirit Civic."
+      },
+      {
+        "id": "achievement-170",
+        "name": "Breaching the Planes",
+        "kind": "trophy",
+        "chapterId": "encounters",
+        "where": "Explore an Astral Rift."
+      },
+      {
+        "id": "achievement-171",
+        "name": "Growing Planes",
+        "kind": "trophy",
+        "chapterId": "encounters",
+        "where": "Explore 5 Astral Rifts in one game."
+      },
+      {
+        "id": "achievement-172",
+        "name": "Put a Cork in It",
+        "kind": "trophy",
+        "chapterId": "encounters",
+        "where": "Construct a Dimensional Lock."
+      },
+      {
+        "id": "achievement-173",
+        "name": "My name is Ozymandias",
+        "kind": "trophy",
+        "chapterId": "encounters",
+        "where": "Claim the Eternal Throne."
+      },
+      {
+        "id": "achievement-174",
+        "name": "Returned to Form",
+        "kind": "trophy",
+        "chapterId": "empire",
+        "where": "make friends..."
+      },
+      {
+        "id": "achievement-175",
+        "name": "A Universe of Paperclips",
+        "kind": "trophy",
+        "chapterId": "encounters",
+        "where": "Create a perfect universe while meeting every quota as an Obsessional Directive empire."
+      },
+      {
+        "id": "achievement-176",
+        "name": "Virtual Reality",
+        "kind": "trophy",
+        "chapterId": "empire",
+        "where": "Fully embrace the virtual world and leave no pop behind."
+      },
+      {
+        "id": "achievement-177",
+        "name": "Burning Brightly",
+        "kind": "trophy",
+        "chapterId": "megastructures",
+        "where": "Complete an Arc Furnace and a Dyson Swarm in the same system."
+      },
+      {
+        "id": "achievement-178",
+        "name": "Past the Expiration Date",
+        "kind": "trophy",
+        "chapterId": "origins",
+        "where": "As a nanite machine empire, consume a Fallen Empire's homeworld."
+      },
+      {
+        "id": "achievement-179",
+        "name": "Mother Knows Best",
+        "kind": "trophy",
+        "chapterId": "encounters",
+        "where": "Submit to all of Cetana's demands."
+      },
+      {
+        "id": "achievement-180",
+        "name": "Footsteps of the Prophet",
+        "kind": "trophy",
+        "chapterId": "origins",
+        "where": "As a Cybernetic Creed empire, defeat Cetana."
+      },
+      {
+        "id": "achievement-181",
+        "name": "Mediocre!",
+        "kind": "trophy",
+        "chapterId": "encounters",
+        "where": "Complete the Succumb to Tempest Challenge."
+      },
+      {
+        "id": "achievement-182",
+        "name": "Humility before the Fall",
+        "kind": "trophy",
+        "chapterId": "relics",
+        "where": "Complete the Inetian Traders’ Precursor chain."
+      },
+      {
+        "id": "achievement-183",
+        "name": "Unpopularity Contest",
+        "kind": "trophy",
+        "chapterId": "relics",
+        "where": "Use the Tempest Invocator Relic to Summon a storm."
+      },
+      {
+        "id": "achievement-184",
+        "name": "But at what cost...",
+        "kind": "trophy",
+        "chapterId": "encounters",
+        "where": "Kill Gurr."
+      },
+      {
+        "id": "achievement-185",
+        "name": "It Belongs in a... oh right",
+        "kind": "trophy",
+        "chapterId": "encounters",
+        "where": "Fill any Collection category with active Exhibits."
+      },
+      {
+        "id": "achievement-186",
+        "name": "Void Charmer",
+        "kind": "trophy",
+        "chapterId": "encounters",
+        "where": "Build each type of Voidlure in one game, and attract each type of eligible Space Fauna."
+      },
+      {
+        "id": "achievement-187",
+        "name": "Animal Farm",
+        "kind": "trophy",
+        "chapterId": "encounters",
+        "where": "Reach 50 Vivarium capacity."
+      },
+      {
+        "id": "achievement-188",
+        "name": "Wormageddon",
+        "kind": "trophy",
+        "chapterId": "encounters",
+        "where": "Destroy a Voidworm nest."
+      },
+      {
+        "id": "achievement-189",
+        "name": "That's No Asteroid",
+        "kind": "trophy",
+        "chapterId": "encounters",
+        "where": "Capture a Cutholoid with a Gravity Snare."
+      },
+      {
+        "id": "achievement-190",
+        "name": "X Marks the Spot",
+        "kind": "trophy",
+        "chapterId": "encounters",
+        "where": "Discover Captain Ness's Treasure Hoard."
+      },
+      {
+        "id": "achievement-191",
+        "name": "Beastmaster",
+        "kind": "trophy",
+        "chapterId": "victory-and-crises",
+        "where": "Defeat the endgame crisis without building a single artificial military ship."
+      },
+      {
+        "id": "achievement-192",
+        "name": "King of Monsters",
+        "kind": "trophy",
+        "chapterId": "origins",
+        "where": "As a Behemoth Fury empire, become the undisputed apex predator of the galaxy."
+      },
+      {
+        "id": "achievement-193",
+        "name": "Born to be Wild",
+        "kind": "trophy",
+        "chapterId": "origins",
+        "where": "As a Wilderness empire, restore all of the Hive Fallen Empire's worlds to your natural state."
+      },
+      {
+        "id": "achievement-194",
+        "name": "Smörgåsblorg",
+        "kind": "trophy",
+        "chapterId": "origins",
+        "where": "As an Evolutionary Predators empire, eat six different phenotypes in one game."
+      },
+      {
+        "id": "achievement-195",
+        "name": "I am the Invader Now",
+        "kind": "trophy",
+        "chapterId": "origins",
+        "where": "As a Starlit Citadel empire, control at least 5 systems connected to the Strange Portal network."
+      },
+      {
+        "id": "achievement-196",
+        "name": "Smugglers of Hope",
+        "kind": "trophy",
+        "chapterId": "empire",
+        "where": "Smuggle pops of your primary species out from an empire where they were enslaved or being purged."
+      },
+      {
+        "id": "achievement-197",
+        "name": "Flesh Adapts",
+        "kind": "trophy",
+        "chapterId": "victory-and-crises",
+        "where": "Defeat the Prethoryn Scourge while using biological ships."
+      },
+      {
+        "id": "achievement-198",
+        "name": "Made a Friend Today",
+        "kind": "trophy",
+        "chapterId": "encounters",
+        "where": "Form a Covenant with any Patron"
+      },
+      {
+        "id": "achievement-199",
+        "name": "Mildly Possessed",
+        "kind": "trophy",
+        "chapterId": "encounters",
+        "where": "Discover every available minor and major Patron in a single game"
+      },
+      {
+        "id": "achievement-200",
+        "name": "The End",
+        "kind": "trophy",
+        "chapterId": "victory-and-crises",
+        "where": "Destroy the galaxy with the Aura of the End"
+      },
+      {
+        "id": "achievement-201",
+        "name": "Master of the Shroud",
+        "kind": "trophy",
+        "chapterId": "encounters",
+        "where": "Gain a Covenant Power from each Patron when forging your own path"
+      },
+      {
+        "id": "achievement-202",
+        "name": "Mind Over Metal",
+        "kind": "trophy",
+        "chapterId": "encounters",
+        "where": "Unlock every Psionic Ship Component"
+      },
+      {
+        "id": "achievement-203",
+        "name": "Master of Puppets",
+        "kind": "trophy",
+        "chapterId": "origins",
+        "where": "While playing with the Secret Societies Civic, have 5 or more empires in a Proxy War simultaneously"
+      },
+      {
+        "id": "achievement-204",
+        "name": "This Is the Part Where We Kill You",
+        "kind": "trophy",
+        "chapterId": "empire",
+        "where": "Lose >999 Pops when completing the Experimental Testing Situation"
+      },
+      {
+        "id": "achievement-205",
+        "name": "Cosmic Confetti",
+        "kind": "trophy",
+        "chapterId": "victory-and-crises",
+        "where": "Watch your Red Giant home star blow up"
+      },
+      {
+        "id": "achievement-206",
+        "name": "Galactic Firestorm",
+        "kind": "trophy",
+        "chapterId": "victory-and-crises",
+        "where": "Win the game through the Hyperthermia Crisis Path"
+      },
+      {
+        "id": "achievement-207",
+        "name": "Blazing Domain",
+        "kind": "trophy",
+        "chapterId": "victory-and-crises",
+        "where": "Terraform 100 stars to Red Giants (Before Galactic Firestorm victory)"
+      },
+      {
+        "id": "achievement-208",
+        "name": "Volcanic Empire",
+        "kind": "trophy",
+        "chapterId": "victory-and-crises",
+        "where": "Terraform 10 planets to Volcanic world (Before Galactic Firestorm victory)"
+      },
+      {
+        "id": "achievement-209",
+        "name": "From Bad to Worse",
+        "kind": "trophy",
+        "chapterId": "victory-and-crises",
+        "where": "Use 5 Blazing Scourge decisions on a Tomb World"
+      },
+      {
+        "id": "achievement-210",
+        "name": "Summer Vacation",
+        "kind": "trophy",
+        "chapterId": "victory-and-crises",
+        "where": "Create a Volcanic Resort World"
+      },
+      {
+        "id": "achievement-211",
+        "name": "Burning Heaven",
+        "kind": "trophy",
+        "chapterId": "victory-and-crises",
+        "where": "Create a Volcanic Holy World"
+      },
+      {
+        "id": "achievement-212",
+        "name": "Khan of Khans",
+        "kind": "trophy",
+        "chapterId": "origins",
+        "where": "As Heirs of the Khan, seize back your throne and have at least 5 Satrapy Vassals"
+      },
+      {
+        "id": "achievement-213",
+        "name": "Forever is a Long Time",
+        "kind": "trophy",
+        "chapterId": "origins",
+        "where": "As Forever Cruise, survive for at least 200 years and reach the End Game Crisis"
+      },
+      {
+        "id": "achievement-214",
+        "name": "The Long Way Round",
+        "kind": "trophy",
+        "chapterId": "origins",
+        "where": "As Sacred Path, complete the pilgrimage to all seven Sacred Sites"
+      },
+      {
+        "id": "achievement-215",
+        "name": "Take My Energy ༼ つ ◕_◕ ༽つ",
+        "kind": "trophy",
+        "chapterId": "megastructures",
+        "where": "Cook a homeworld with a Stellar Cannon"
+      },
+      {
+        "id": "achievement-216",
+        "name": "So Long, and Thanks for All the Fish",
+        "kind": "trophy",
+        "chapterId": "empire",
+        "where": "Embark when your homeworld is at 70% devastation"
+      },
+      {
+        "id": "achievement-217",
+        "name": "I Win Longest Road!",
+        "kind": "trophy",
+        "chapterId": "megastructures",
+        "where": "Connect 2 Capital Planets with a Wayline that is at least 20 Waystations long"
+      },
+      {
+        "id": "achievement-218",
+        "name": "It's Full of Stars",
+        "kind": "trophy",
+        "chapterId": "origins",
+        "where": "As a Nomadic empire, settle on Europa as your Empire's Capital"
+      },
+      {
+        "id": "achievement-219",
+        "name": "Defenders of the Galaxy",
+        "kind": "trophy",
+        "chapterId": "victory-and-crises",
+        "where": "Defeat all End Game Crises before abdicating as DotG without ever having any non-Arkship colonies"
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/stellaris",
+    "Achievement data from Steam (Steam Web API, app 281990)",
+    "StrategyWiki: no page for this game, nothing used",
+    "Fandom (stellaris.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://stellaris.fandom.com/wiki/Stellaris"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). Steam app 281990 (\"Stellaris\" in the store list); its schema returns an empty game name but a full list of 219 achievements, none hidden, most below 10%. The only add-ons named in the achievements are the \"Ancient Relics Story Pack\" and the \"Ketling Star Pack\"; many origin and empire-type goals likely come from add-ons too, but the data does not say which. Four achievements about red giant stars, volcanic worlds and Blazing Scourge decisions sit with the victories and crises because they come right after the Hyperthermia Crisis Path achievement in the Steam list and two of them mention the Galactic Firestorm victory. RAWG also lists \"Stellaris: Console Edition\" and \"Stellaris: Galaxy Command\" separately; this entry is the PC game. No StrategyWiki page under \"Stellaris\". stellaris.fandom.com answers the API under \"Stellaris\", but the page links to only one article (\"Empire\"), so it adds almost nothing; names only were looked at, nothing copied."
+}

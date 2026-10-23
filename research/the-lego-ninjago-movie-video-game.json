@@ -1,0 +1,508 @@
+{
+  "id": "the-lego-ninjago-movie-video-game",
+  "title": "The LEGO Ninjago Movie Video Game",
+  "year": 2017,
+  "platforms": [
+    "PC",
+    "PlayStation 4",
+    "Nintendo Switch",
+    "Xbox One"
+  ],
+  "rawgId": 45970,
+  "rawgSlug": "the-lego-ninjago-movie-video-game",
+  "released": "2017-09-22",
+  "developers": [
+    "Warner Bros. Interactive",
+    "Traveller's Tales",
+    "TT Games"
+  ],
+  "playtime": 1,
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Full controller support",
+    "cooperative",
+    "Local Co-Op",
+    "Local Multiplayer",
+    "LEGO"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/f60/f607e3212c540e3d25c2418c2edb6306.jpg",
+  "steamAppId": 640590,
+  "achievements": {
+    "total": 50,
+    "hidden": 0,
+    "examples": [
+      {
+        "name": "Student of Upgrades",
+        "percent": 75.8
+      },
+      {
+        "name": "Master of Poultry",
+        "percent": 73.2
+      },
+      {
+        "name": "Novice of Collection",
+        "percent": 69.5
+      },
+      {
+        "name": "Master of Disguise",
+        "percent": 7.4
+      },
+      {
+        "name": "Grand Master of The Golden Art",
+        "percent": 7.4
+      },
+      {
+        "name": "Master of Speed",
+        "percent": 7.1
+      },
+      {
+        "name": "Master of Completion",
+        "percent": 7.0
+      },
+      {
+        "name": "Master of Human Resources",
+        "percent": 6.3
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/The_LEGO_Ninjago_Movie_Videogame",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 66,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://lego.fandom.com/wiki/The_LEGO_Ninjago_Movie_Video_Game"
+    }
+  },
+  "game": {
+    "id": "the-lego-ninjago-movie-video-game",
+    "title": "The LEGO Ninjago Movie Video Game",
+    "platforms": [
+      "PC",
+      "PlayStation 4",
+      "Nintendo Switch",
+      "Xbox One"
+    ],
+    "blurb": "LEGO action-adventure from TT Games and Traveller's Tales, released 2017-09-22. RAWG average playtime: 1 hour. Genres: Action, Adventure. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#B5121B",
+    "chapters": [
+      {
+        "id": "ninjago-city",
+        "title": "Ninjago City",
+        "summary": "The Training Dojo and the first three locations: North, Beach and Docks.",
+        "steps": []
+      },
+      {
+        "id": "beyond-the-city",
+        "title": "Into the Wilds and Back",
+        "summary": "Locations 4 to 8, from the jungle and ravine to the mountain and downtown, then finishing every story location.",
+        "steps": []
+      },
+      {
+        "id": "dojo-masters",
+        "title": "Dojo Masters and Challenge Dojos",
+        "summary": "Beating each Dojo Master and getting gold on every Challenge Dojo.",
+        "steps": []
+      },
+      {
+        "id": "collectibles",
+        "title": "Collectibles and 100%",
+        "summary": "Character Tokens, Ancient Scrolls, Gold Bricks, Ninjanuity Tokens, True Ninja Rank and full completion.",
+        "steps": []
+      },
+      {
+        "id": "side-activities",
+        "title": "Races, Side Quests and Builds",
+        "summary": "Races, side quests and Tornado of Creation builds.",
+        "steps": []
+      },
+      {
+        "id": "battle-arena",
+        "title": "Ninjago Battle Arenas",
+        "summary": "Playing the Battle Arena modes and using every powerup.",
+        "steps": []
+      },
+      {
+        "id": "ninja-skills",
+        "title": "Ninja Skills and Fun",
+        "summary": "Elemental Powers, combos, the Skyward Dragon, custom characters and party tricks.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Master of Poultry",
+        "kind": "trophy",
+        "chapterId": "ninjago-city",
+        "where": "Complete Training Dojo"
+      },
+      {
+        "id": "achievement-2",
+        "name": "Master of Missiles",
+        "kind": "trophy",
+        "chapterId": "ninjago-city",
+        "where": "Complete Location 1 - Ninjago City North"
+      },
+      {
+        "id": "achievement-3",
+        "name": "Master of Regret",
+        "kind": "trophy",
+        "chapterId": "ninjago-city",
+        "where": "Complete Location 2 - Ninjago City Beach"
+      },
+      {
+        "id": "achievement-4",
+        "name": "Master of Forgiveness",
+        "kind": "trophy",
+        "chapterId": "ninjago-city",
+        "where": "Complete Location 3 - Ninjago City Docks"
+      },
+      {
+        "id": "achievement-5",
+        "name": "Master of the Fallen",
+        "kind": "trophy",
+        "chapterId": "beyond-the-city",
+        "where": "Complete Location 4 - The Uncrossable Jungle"
+      },
+      {
+        "id": "achievement-6",
+        "name": "Master of Shortcuts",
+        "kind": "trophy",
+        "chapterId": "beyond-the-city",
+        "where": "Complete Location 5 - The Dark Ravine"
+      },
+      {
+        "id": "achievement-7",
+        "name": "Master of Dance",
+        "kind": "trophy",
+        "chapterId": "beyond-the-city",
+        "where": "Complete Location 6 - The Lost City of Generals"
+      },
+      {
+        "id": "achievement-8",
+        "name": "Master of Stairs",
+        "kind": "trophy",
+        "chapterId": "beyond-the-city",
+        "where": "Complete Location 7 - The Unclimbable Mountain"
+      },
+      {
+        "id": "achievement-9",
+        "name": "Master of Beasts",
+        "kind": "trophy",
+        "chapterId": "beyond-the-city",
+        "where": "Complete Location 8 - Ninjago City Downtown"
+      },
+      {
+        "id": "achievement-10",
+        "name": "Master of Ninjago",
+        "kind": "trophy",
+        "chapterId": "beyond-the-city",
+        "where": "Complete All Story Locations"
+      },
+      {
+        "id": "achievement-11",
+        "name": "Master of Destruction",
+        "kind": "trophy",
+        "chapterId": "beyond-the-city",
+        "where": "Destroy Ninjago City"
+      },
+      {
+        "id": "achievement-12",
+        "name": "Master of Subordinates",
+        "kind": "trophy",
+        "chapterId": "dojo-masters",
+        "where": "Defeat Dojo Master - General #1"
+      },
+      {
+        "id": "achievement-13",
+        "name": "Master of Machines",
+        "kind": "trophy",
+        "chapterId": "dojo-masters",
+        "where": "Defeat Dojo Master - General Cryptor"
+      },
+      {
+        "id": "achievement-14",
+        "name": "Master of Mystery",
+        "kind": "trophy",
+        "chapterId": "dojo-masters",
+        "where": "Defeat Dojo Master - Morro"
+      },
+      {
+        "id": "achievement-15",
+        "name": "Master of Serpents",
+        "kind": "trophy",
+        "chapterId": "dojo-masters",
+        "where": "Defeat Dojo Master - Pythor P. Chumsworth"
+      },
+      {
+        "id": "achievement-16",
+        "name": "Master of Time",
+        "kind": "trophy",
+        "chapterId": "dojo-masters",
+        "where": "Defeat Dojo Masters - Acronix and Krux"
+      },
+      {
+        "id": "achievement-17",
+        "name": "Master of Noodles",
+        "kind": "trophy",
+        "chapterId": "dojo-masters",
+        "where": "Defeat Dojo Master - Master Chen"
+      },
+      {
+        "id": "achievement-18",
+        "name": "Master of the Sky",
+        "kind": "trophy",
+        "chapterId": "dojo-masters",
+        "where": "Defeat Dojo Master - Nadakhan"
+      },
+      {
+        "id": "achievement-19",
+        "name": "Master of Stone",
+        "kind": "trophy",
+        "chapterId": "dojo-masters",
+        "where": "Defeat Dojo Master - General Kozu"
+      },
+      {
+        "id": "achievement-20",
+        "name": "Master of Challenges",
+        "kind": "trophy",
+        "chapterId": "dojo-masters",
+        "where": "Achieve Gold Medal status on each Challenge Dojo"
+      },
+      {
+        "id": "achievement-21",
+        "name": "Master of the Elements",
+        "kind": "trophy",
+        "chapterId": "ninja-skills",
+        "where": "Master your first Elemental Power"
+      },
+      {
+        "id": "achievement-22",
+        "name": "Student of Disguise",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Collect a Character Token"
+      },
+      {
+        "id": "achievement-23",
+        "name": "Master of Disguise",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Collect all Character Tokens"
+      },
+      {
+        "id": "achievement-24",
+        "name": "Student of Speed",
+        "kind": "trophy",
+        "chapterId": "side-activities",
+        "where": "Complete a Race"
+      },
+      {
+        "id": "achievement-25",
+        "name": "Student of Exploration",
+        "kind": "trophy",
+        "chapterId": "side-activities",
+        "where": "Complete a Side Quest"
+      },
+      {
+        "id": "achievement-26",
+        "name": "Master of Exploration",
+        "kind": "trophy",
+        "chapterId": "side-activities",
+        "where": "Complete all Side Quests"
+      },
+      {
+        "id": "achievement-27",
+        "name": "Student of Creation",
+        "kind": "trophy",
+        "chapterId": "side-activities",
+        "where": "Complete a Tornado of Creation Build"
+      },
+      {
+        "id": "achievement-28",
+        "name": "Master of Creation",
+        "kind": "trophy",
+        "chapterId": "side-activities",
+        "where": "Complete all Tornado of Creation Builds"
+      },
+      {
+        "id": "achievement-29",
+        "name": "Student of the Red Arts",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Collect an Ancient Scroll"
+      },
+      {
+        "id": "achievement-30",
+        "name": "Master of the Red Arts",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Collect all Ancient Scrolls"
+      },
+      {
+        "id": "achievement-31",
+        "name": "Novice of The Golden Art",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Collect 5 Gold Bricks"
+      },
+      {
+        "id": "achievement-32",
+        "name": "Student of The Golden Art",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Collect 50 Gold Bricks"
+      },
+      {
+        "id": "achievement-33",
+        "name": "Apprentice of The Golden Art",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Collect 100 Gold Bricks"
+      },
+      {
+        "id": "achievement-34",
+        "name": "Master of The Golden Art",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Collect 150 Gold Bricks"
+      },
+      {
+        "id": "achievement-35",
+        "name": "Grand Master of The Golden Art",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Collect 200 Gold Bricks"
+      },
+      {
+        "id": "achievement-36",
+        "name": "Master of Completion",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Achieve 100% Completion"
+      },
+      {
+        "id": "achievement-37",
+        "name": "Master of Customisation",
+        "kind": "trophy",
+        "chapterId": "ninja-skills",
+        "where": "Create a Custom Character"
+      },
+      {
+        "id": "achievement-38",
+        "name": "Novice of Collection",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Attain True Ninja Rank 1"
+      },
+      {
+        "id": "achievement-39",
+        "name": "Student of Collection",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Attain True Ninja Rank 10"
+      },
+      {
+        "id": "achievement-40",
+        "name": "Master of Collection",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Attain True Ninja Rank 20"
+      },
+      {
+        "id": "achievement-41",
+        "name": "Student of Upgrades",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Spend a Ninjanuity Token to purchase a Combat Upgrade"
+      },
+      {
+        "id": "achievement-42",
+        "name": "Master of Upgrades",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Collect all Ninjanuity Tokens"
+      },
+      {
+        "id": "achievement-43",
+        "name": "Master of the Skyward Dragon",
+        "kind": "trophy",
+        "chapterId": "ninja-skills",
+        "where": "Use The Art of The Skyward Dragon 20 Times"
+      },
+      {
+        "id": "achievement-44",
+        "name": "Master of Triple Digits",
+        "kind": "trophy",
+        "chapterId": "ninja-skills",
+        "where": "Reach a x100 Combo chain"
+      },
+      {
+        "id": "achievement-45",
+        "name": "Master of the Arena",
+        "kind": "trophy",
+        "chapterId": "battle-arena",
+        "where": "Play your first Ninjago Battle Arena match"
+      },
+      {
+        "id": "achievement-46",
+        "name": "Master of Modes",
+        "kind": "trophy",
+        "chapterId": "battle-arena",
+        "where": "Play each game mode in the Ninjago Battle Arenas"
+      },
+      {
+        "id": "achievement-47",
+        "name": "Master of Power",
+        "kind": "trophy",
+        "chapterId": "battle-arena",
+        "where": "Use every powerup in the Ninjago Battle Arenas"
+      },
+      {
+        "id": "achievement-48",
+        "name": "Master of Mirrors",
+        "kind": "trophy",
+        "chapterId": "ninja-skills",
+        "where": "Play as any Ninja and their Classic variant in the same party"
+      },
+      {
+        "id": "achievement-49",
+        "name": "Master of Human Resources",
+        "kind": "trophy",
+        "chapterId": "ninja-skills",
+        "where": "Defeat 20 Shark Army goons as Lord Garmadon in one session"
+      },
+      {
+        "id": "achievement-50",
+        "name": "Master of Speed",
+        "kind": "trophy",
+        "chapterId": "side-activities",
+        "where": "Complete all Races"
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/the-lego-ninjago-movie-video-game",
+    "Achievement data from Steam (Steam Web API, app 640590)",
+    "StrategyWiki: no usable walkthrough, nothing used — https://strategywiki.org/wiki/The_LEGO_Ninjago_Movie_Videogame",
+    "Fandom (lego.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://lego.fandom.com/wiki/The_LEGO_Ninjago_Movie_Video_Game"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). Steam app 640590. StrategyWiki has no page under \"The LEGO Ninjago Movie Video Game\"; the alternative \"The Lego Ninjago Movie Video Game\" redirects to \"The LEGO Ninjago Movie Videogame\", a stub page (completion stage 0) that links Walkthrough, Gameplay and Table of Contents subpages, none of them written, so nothing was used. lego.fandom.com has a \"The LEGO Ninjago Movie Video Game\" page with about 66 linked pages; names only were looked at, nothing copied. None of the 50 Steam achievements is hidden. The story is split into two chapters by the location numbers the achievements give (Location 1 to 8). \"Master of Destruction\" (destroy Ninjago City) sits with the later locations. RAWG average playtime is 1 hour, which looks too low for a full game."
+}

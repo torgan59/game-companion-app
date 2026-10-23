@@ -1,0 +1,103 @@
+{
+  "id": "alan-wake-2",
+  "title": "Alan Wake 2",
+  "year": 2023,
+  "platforms": [
+    "Xbox Series X|S",
+    "PlayStation 5",
+    "PC"
+  ],
+  "rawgId": 580972,
+  "rawgSlug": "alan-wake-2",
+  "released": "2023-10-27",
+  "developers": [
+    "Remedy Entertainment"
+  ],
+  "playtime": null,
+  "genres": [
+    "Action"
+  ],
+  "tags": [],
+  "coverUrl": "https://media.rawg.io/media/games/5b9/5b963d7633cd640fa2dbc4069d1c6377.jpg",
+  "steamAppId": null,
+  "achievements": {
+    "total": 0,
+    "examples": [],
+    "reason": "Not on Steam: RAWG lists PC, PlayStation 5 and Xbox Series X|S, but the Steam app list only has the first Alan Wake (108710) and Alan Wake's American Nightmare (202750), so there is no Steam achievement list."
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": false,
+      "pages": 0,
+      "reason": "No page for Alan Wake 2 (MediaWiki API returned missing; see notes for other titles tried)"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 76,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://alanwake.fandom.com/wiki/Alan_Wake_2"
+    }
+  },
+  "game": {
+    "id": "alan-wake-2",
+    "title": "Alan Wake 2",
+    "platforms": [
+      "Xbox Series X|S",
+      "PlayStation 5",
+      "PC"
+    ],
+    "blurb": "Story-driven action game from Remedy Entertainment, released 2023-10-27. RAWG has no playtime yet. Genre: Action. Chapters are drawn from the chapter page names on Fandom.",
+    "accent": "#B22222",
+    "chapters": [
+      {
+        "id": "prologue",
+        "title": "Prologue: The Cult",
+        "summary": "The opening chapter.",
+        "steps": []
+      },
+      {
+        "id": "return",
+        "title": "The Return Chapters",
+        "summary": "The nine chapters named Return, from Return 1: Invitation onward. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "initiation",
+        "title": "The Initiation Chapters",
+        "summary": "The nine chapters named Initiation, from Initiation 1: Late Night onward. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "final-draft",
+        "title": "The Final Draft",
+        "summary": "The Final Draft, which Fandom lists as a page of its own.",
+        "steps": []
+      },
+      {
+        "id": "night-springs",
+        "title": "Expansion 1: Night Springs",
+        "summary": "The Night Springs expansion.",
+        "steps": []
+      },
+      {
+        "id": "lake-house",
+        "title": "Expansion 2: The Lake House",
+        "summary": "The Lake House expansion and Return Addendum: The Lake House.",
+        "steps": []
+      }
+    ],
+    "collectibles": []
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/alan-wake-2",
+    "Steam: no achievement list available for this game (see notes)",
+    "StrategyWiki: no page for this game, nothing used",
+    "Fandom (alanwake.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://alanwake.fandom.com/wiki/Alan_Wake_2"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). No Steam app, so no achievement list (see the collectibles note). No StrategyWiki page under \"Alan Wake 2\" or \"Alan Wake II\". alanwake.fandom.com answers the API with about 76 linked articles, including \"Prologue: The Cult\", \"Return 1: Invitation\" to \"Return 9: Come Home\", \"Initiation 1: Late Night\" to \"Initiation 9: Gone\", \"The Final Draft\", \"Expansion 1: Night Springs\", \"Expansion 2: The Lake House\" and \"Return Addendum: The Lake House\"; the chapters use those page names only, nothing copied. The data does not give the play order between the Return and Initiation chapters, so they are grouped by name, not by when you play them. RAWG lists Night Springs (2024-06-08) and The Lake House (2024-10-22) as their own entries. RAWG has no playtime yet."
+}

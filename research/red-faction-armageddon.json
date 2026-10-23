@@ -1,0 +1,576 @@
+{
+  "id": "red-faction-armageddon",
+  "title": "Red Faction: Armageddon",
+  "year": 2011,
+  "platforms": [
+    "PlayStation 3",
+    "Xbox 360",
+    "PC"
+  ],
+  "rawgId": 4523,
+  "rawgSlug": "red-faction-armageddon",
+  "released": "2011-06-07",
+  "developers": [
+    "Volition",
+    "THQ"
+  ],
+  "playtime": 2,
+  "genres": [
+    "Action",
+    "Shooter"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Multiplayer",
+    "Steam Cloud",
+    "Co-op",
+    "Open World",
+    "cooperative",
+    "Third Person",
+    "Sci-fi",
+    "Partial Controller Support",
+    "Horror",
+    "FPS"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/395/395ad028483d6cd9076b746a3eec993d.jpg",
+  "steamAppId": 55110,
+  "achievements": {
+    "total": 58,
+    "hidden": 0,
+    "examples": [
+      {
+        "name": "Unto The Breach",
+        "percent": 74.5
+      },
+      {
+        "name": "Secrets Long Buried",
+        "percent": 62.6
+      },
+      {
+        "name": "We're Not Alone",
+        "percent": 57.5
+      },
+      {
+        "name": "Field Surgeon",
+        "percent": 3.0
+      },
+      {
+        "name": "I Need A Nap",
+        "percent": 2.8
+      },
+      {
+        "name": "A Taste of their Own",
+        "percent": 2.7
+      },
+      {
+        "name": "All For One, One For All",
+        "percent": 2.4
+      },
+      {
+        "name": "Bug Hunt",
+        "percent": 2.0
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": false,
+      "pages": 0,
+      "reason": "No page for Red Faction: Armageddon (MediaWiki API returned missing; see notes for other titles tried)"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 95,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://redfaction.fandom.com/wiki/Red_Faction:_Armageddon"
+    }
+  },
+  "game": {
+    "id": "red-faction-armageddon",
+    "title": "Red Faction: Armageddon",
+    "platforms": [
+      "PlayStation 3",
+      "Xbox 360",
+      "PC"
+    ],
+    "blurb": "Third-person shooter set on Mars, from Volition (RAWG also lists THQ), published by THQ and THQ Nordic, released 2011-06-07. RAWG average playtime: 2 hours. Genres: Action, Shooter. Chapters follow the numbered story achievements on Steam, plus chapters drawn from achievement themes.",
+    "accent": "#B5541C",
+    "chapters": [
+      {
+        "id": "story-part-1",
+        "title": "Story: Into the Terraformer to the Surface",
+        "summary": "Story achievements 2 to 10 in the Steam API names: the Terraformer, the Seal, back to civilization, the convoy, the Water Filtration Plant and the surface.",
+        "steps": []
+      },
+      {
+        "id": "story-part-2",
+        "title": "Story: Defending the Red Faction to Escorting Winters",
+        "summary": "Story achievements 11 to 16: defending the Red Faction, the Jamming Devices, the Mantis, the Marauder homelands and escorting Winters. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "story-part-3",
+        "title": "Story: Reaching the Lair to the End",
+        "summary": "Story achievements 17 to 21: finding and reaching the lair, the secret entrance and the end of the story. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "difficulty",
+        "title": "Hard and Insane",
+        "summary": "Finishing the single-player game on Hard and on Insane.",
+        "steps": []
+      },
+      {
+        "id": "path-to-war",
+        "title": "Path to War",
+        "summary": "The ten achievements marked \"Path to War DLC Only\", including the Shard Cannon, the Sharpshooter and Mallus.",
+        "steps": []
+      },
+      {
+        "id": "infestation",
+        "title": "Infestation",
+        "summary": "Waves 10, 20 and 30, every map, revives and a perfect four-player game.",
+        "steps": []
+      },
+      {
+        "id": "vehicles",
+        "title": "Vehicles and Walkers",
+        "summary": "The L.E.O. exoskeleton, the Marauder Scout Walker, the Inferno GX and the Mantis.",
+        "steps": []
+      },
+      {
+        "id": "salvage-and-upgrades",
+        "title": "Salvage, Upgrades and Audio Logs",
+        "summary": "Salvage piles, total salvage, Upgrade rings, every Upgrade, buying a Cheat and 40 Audio Logs.",
+        "steps": []
+      },
+      {
+        "id": "weapons-and-nano",
+        "title": "Weapons, Nano Powers and Combat",
+        "summary": "Impact, Shockwave, Berserk and Shell, the Magnet Gun, the Maul, Creepers, Berserkers and Wraiths.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Unto The Breach",
+        "kind": "trophy",
+        "chapterId": "story-part-1",
+        "where": "Gain entry into the Terraformer."
+      },
+      {
+        "id": "achievement-2",
+        "name": "Secrets Long Buried",
+        "kind": "trophy",
+        "chapterId": "story-part-1",
+        "where": "Remove the Seal."
+      },
+      {
+        "id": "achievement-3",
+        "name": "We're Not Alone",
+        "kind": "trophy",
+        "chapterId": "story-part-1",
+        "where": "Make it back to civilization."
+      },
+      {
+        "id": "achievement-4",
+        "name": "Vanguard",
+        "kind": "trophy",
+        "chapterId": "story-part-1",
+        "where": "Escort the convoy."
+      },
+      {
+        "id": "achievement-5",
+        "name": "Things Fall Apart",
+        "kind": "trophy",
+        "chapterId": "story-part-1",
+        "where": "Destroy the Water Filtration Plant."
+      },
+      {
+        "id": "achievement-6",
+        "name": "Survival Of The Fittest",
+        "kind": "trophy",
+        "chapterId": "story-part-1",
+        "where": "Make it to the surface."
+      },
+      {
+        "id": "achievement-7",
+        "name": "I'm All You've Got",
+        "kind": "trophy",
+        "chapterId": "story-part-2",
+        "where": "Defend the Red Faction."
+      },
+      {
+        "id": "achievement-8",
+        "name": "Weather The Storm",
+        "kind": "trophy",
+        "chapterId": "story-part-2",
+        "where": "Destroy the Jamming Devices."
+      },
+      {
+        "id": "achievement-9",
+        "name": "Family Business",
+        "kind": "trophy",
+        "chapterId": "story-part-2",
+        "where": "Defeat the Mantis."
+      },
+      {
+        "id": "achievement-10",
+        "name": "Must Go Faster",
+        "kind": "trophy",
+        "chapterId": "story-part-2",
+        "where": "Travel to the Marauder homelands."
+      },
+      {
+        "id": "achievement-11",
+        "name": "Old Friends, Older Enemies",
+        "kind": "trophy",
+        "chapterId": "story-part-2",
+        "where": "Safely escort Winters through the depths."
+      },
+      {
+        "id": "achievement-12",
+        "name": "Plan B",
+        "kind": "trophy",
+        "chapterId": "story-part-3",
+        "where": "Find out how to reach the lair."
+      },
+      {
+        "id": "achievement-13",
+        "name": "Knock, Knock",
+        "kind": "trophy",
+        "chapterId": "story-part-3",
+        "where": "Open up the secret entrance."
+      },
+      {
+        "id": "achievement-14",
+        "name": "Losses",
+        "kind": "trophy",
+        "chapterId": "story-part-3",
+        "where": "Make it through to the lair."
+      },
+      {
+        "id": "achievement-15",
+        "name": "One Big, Ugly Motha…",
+        "kind": "trophy",
+        "chapterId": "story-part-3",
+        "where": "Defeat the source of it all."
+      },
+      {
+        "id": "achievement-16",
+        "name": "That Coulda Gone Better",
+        "kind": "trophy",
+        "chapterId": "difficulty",
+        "where": "Finish the Single Player game on Hard Difficulty."
+      },
+      {
+        "id": "achievement-17",
+        "name": "I Need A Nap",
+        "kind": "trophy",
+        "chapterId": "difficulty",
+        "where": "Finish the Single Player game on Insane Difficulty."
+      },
+      {
+        "id": "achievement-18",
+        "name": "Breathe Easy",
+        "kind": "trophy",
+        "chapterId": "story-part-3",
+        "where": "Put an end to the threat, once and for all."
+      },
+      {
+        "id": "achievement-19",
+        "name": "Crusader",
+        "kind": "trophy",
+        "chapterId": "vehicles",
+        "where": "Kill 175 enemies while in the L.E.O. exoskeleton."
+      },
+      {
+        "id": "achievement-20",
+        "name": "Ooooh Yeah!",
+        "kind": "trophy",
+        "chapterId": "vehicles",
+        "where": "Kill 5 enemies with one L.E.O. shoulder bash."
+      },
+      {
+        "id": "achievement-21",
+        "name": "Martian Drive-By",
+        "kind": "trophy",
+        "chapterId": "vehicles",
+        "where": "Kill 100 enemies while in the Marauder Scout Walker."
+      },
+      {
+        "id": "achievement-22",
+        "name": "Hit 'N Run",
+        "kind": "trophy",
+        "chapterId": "vehicles",
+        "where": "Kill an enemy by ramming them with the Inferno GX."
+      },
+      {
+        "id": "achievement-23",
+        "name": "Exterminator",
+        "kind": "trophy",
+        "chapterId": "vehicles",
+        "where": "Destroy 100 Pods while piloting the Mantis."
+      },
+      {
+        "id": "achievement-24",
+        "name": "Chronicler",
+        "kind": "trophy",
+        "chapterId": "salvage-and-upgrades",
+        "where": "Listen to 40 Audio Logs."
+      },
+      {
+        "id": "achievement-25",
+        "name": "Salvager",
+        "kind": "trophy",
+        "chapterId": "salvage-and-upgrades",
+        "where": "Find 200 piles of salvage."
+      },
+      {
+        "id": "achievement-26",
+        "name": "Nanergy!",
+        "kind": "trophy",
+        "chapterId": "salvage-and-upgrades",
+        "where": "Gather 25,000 total salvage."
+      },
+      {
+        "id": "achievement-27",
+        "name": "Money Well Spent",
+        "kind": "trophy",
+        "chapterId": "salvage-and-upgrades",
+        "where": "Buy out any one Upgrade ring."
+      },
+      {
+        "id": "achievement-28",
+        "name": "Martian Can Opener",
+        "kind": "trophy",
+        "chapterId": "salvage-and-upgrades",
+        "where": "Buy every Upgrade."
+      },
+      {
+        "id": "achievement-29",
+        "name": "Cheater!",
+        "kind": "trophy",
+        "chapterId": "salvage-and-upgrades",
+        "where": "Buy a Cheat."
+      },
+      {
+        "id": "achievement-30",
+        "name": "It's All In The Wrist",
+        "kind": "trophy",
+        "chapterId": "weapons-and-nano",
+        "where": "Send an enemy at least 30 meters with Impact."
+      },
+      {
+        "id": "achievement-31",
+        "name": "Haymaker",
+        "kind": "trophy",
+        "chapterId": "weapons-and-nano",
+        "where": "Kill 5 enemies in one shot with Impact."
+      },
+      {
+        "id": "achievement-32",
+        "name": "Zero G War",
+        "kind": "trophy",
+        "chapterId": "weapons-and-nano",
+        "where": "Kill 50 Shockwaved enemies before they hit the ground."
+      },
+      {
+        "id": "achievement-33",
+        "name": "Hold Still",
+        "kind": "trophy",
+        "chapterId": "weapons-and-nano",
+        "where": "Kill 6 enemies in one use of Shockwave."
+      },
+      {
+        "id": "achievement-34",
+        "name": "Lock And Load",
+        "kind": "trophy",
+        "chapterId": "weapons-and-nano",
+        "where": "Keep Berserk active for at least 21 seconds in one use."
+      },
+      {
+        "id": "achievement-35",
+        "name": "Back At Ya!",
+        "kind": "trophy",
+        "chapterId": "weapons-and-nano",
+        "where": "Make an enemy kill themselves while shooting at your Shell."
+      },
+      {
+        "id": "achievement-36",
+        "name": "Liftoff",
+        "kind": "trophy",
+        "chapterId": "weapons-and-nano",
+        "where": "Send an enemy at least 50 meters with the Magnet Gun."
+      },
+      {
+        "id": "achievement-37",
+        "name": "Martian Matchmaker",
+        "kind": "trophy",
+        "chapterId": "weapons-and-nano",
+        "where": "Fire an enemy into another enemy with the Magnet Gun."
+      },
+      {
+        "id": "achievement-38",
+        "name": "Catch!",
+        "kind": "trophy",
+        "chapterId": "weapons-and-nano",
+        "where": "Use the Magnet Gun to fling debris BACK at a Tentacle."
+      },
+      {
+        "id": "achievement-39",
+        "name": "In. The. Face!",
+        "kind": "trophy",
+        "chapterId": "weapons-and-nano",
+        "where": "Kill one of each enemy type with the Maul."
+      },
+      {
+        "id": "achievement-40",
+        "name": "What Is Best In Life?",
+        "kind": "trophy",
+        "chapterId": "weapons-and-nano",
+        "where": "Perform melee finishers on 25 Creepers (single player only)."
+      },
+      {
+        "id": "achievement-41",
+        "name": "Boom Goes The Dynamite",
+        "kind": "trophy",
+        "chapterId": "weapons-and-nano",
+        "where": "Kill 2 other enemies with a single exploding Berserker."
+      },
+      {
+        "id": "achievement-42",
+        "name": "Crack Shot",
+        "kind": "trophy",
+        "chapterId": "weapons-and-nano",
+        "where": "Kill a Wraith before it re-stealths."
+      },
+      {
+        "id": "achievement-43",
+        "name": "Soldier",
+        "kind": "trophy",
+        "chapterId": "infestation",
+        "where": "Finish waves 1 through 10 on any map in Infestation."
+      },
+      {
+        "id": "achievement-44",
+        "name": "Commando",
+        "kind": "trophy",
+        "chapterId": "infestation",
+        "where": "Finish waves 1 through 20 on any map in Infestation."
+      },
+      {
+        "id": "achievement-45",
+        "name": "Honorary Mason",
+        "kind": "trophy",
+        "chapterId": "infestation",
+        "where": "Finish waves 1 through 30 on any map in Infestation."
+      },
+      {
+        "id": "achievement-46",
+        "name": "Bug Hunt",
+        "kind": "trophy",
+        "chapterId": "infestation",
+        "where": "Finish at least one wave on each map in Infestation."
+      },
+      {
+        "id": "achievement-47",
+        "name": "Field Surgeon",
+        "kind": "trophy",
+        "chapterId": "infestation",
+        "where": "Perform Revival 25 times in Infestation."
+      },
+      {
+        "id": "achievement-48",
+        "name": "All For One, One For All",
+        "kind": "trophy",
+        "chapterId": "infestation",
+        "where": "Finish a 4 player Infestation game beyond wave 9 without anyone bleeding out."
+      },
+      {
+        "id": "achievement-49",
+        "name": "Air Superiority",
+        "kind": "trophy",
+        "chapterId": "path-to-war",
+        "where": "Clear a safe path to the Terraformer for Hale. (Path to War DLC Only)."
+      },
+      {
+        "id": "achievement-50",
+        "name": "Bird of Prey",
+        "kind": "trophy",
+        "chapterId": "path-to-war",
+        "where": "Allow no Red Faction to survive your attacks on their mountain base. (Path to War DLC Only)"
+      },
+      {
+        "id": "achievement-51",
+        "name": "Swath of Destruction",
+        "kind": "trophy",
+        "chapterId": "path-to-war",
+        "where": "Reunite Sgt. Winters with the Red Faction. (Path to War DLC Only)"
+      },
+      {
+        "id": "achievement-52",
+        "name": "Armored Cavalry",
+        "kind": "trophy",
+        "chapterId": "path-to-war",
+        "where": "Rescue the pinned-down Red Faction soldiers. (Path to War DLC Only)"
+      },
+      {
+        "id": "achievement-53",
+        "name": "Nuke It from Orbit",
+        "kind": "trophy",
+        "chapterId": "path-to-war",
+        "where": "Wipe out the Cultist military camp. (Path to War DLC Only)"
+      },
+      {
+        "id": "achievement-54",
+        "name": "Wrecking Ball",
+        "kind": "trophy",
+        "chapterId": "path-to-war",
+        "where": "Get 20 kills with the Shard Cannon. (Path to War DLC Only)"
+      },
+      {
+        "id": "achievement-55",
+        "name": "A Taste of their Own",
+        "kind": "trophy",
+        "chapterId": "path-to-war",
+        "where": "Eliminate 10 enemies using one of their own turrets. (Path to War DLC Only)"
+      },
+      {
+        "id": "achievement-56",
+        "name": "Triple Threat",
+        "kind": "trophy",
+        "chapterId": "path-to-war",
+        "where": "End the three-way battle between yourself, the aliens, and the Cultists. (Path to War DLC Only)"
+      },
+      {
+        "id": "achievement-57",
+        "name": "Stick Around",
+        "kind": "trophy",
+        "chapterId": "path-to-war",
+        "where": "Get 20 kills with the Sharpshooter. (Path to War DLC Only)"
+      },
+      {
+        "id": "achievement-58",
+        "name": "Full of Malice",
+        "kind": "trophy",
+        "chapterId": "path-to-war",
+        "where": "Kill Mallus. (Path to War DLC Only)"
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/red-faction-armageddon",
+    "Achievement data from Steam (Steam Web API, app 55110)",
+    "StrategyWiki: no page for this game, nothing used",
+    "Fandom (redfaction.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://redfaction.fandom.com/wiki/Red_Faction:_Armageddon"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). RAWG's first result is the expected entry (id 4523). The Steam store list has one match, app 55110 (\"Red Faction®: Armageddon™\"); its schema is named \"ValveTestApp55110\" (a placeholder name) and has 58 achievements, none hidden. StrategyWiki has no page under \"Red Faction: Armageddon\" or \"Red Faction Armageddon\". redfaction.fandom.com answers the API under \"Red Faction: Armageddon\" with about 95 linked articles; names only were looked at, nothing copied. The story achievements have API names \"Story 2\" to \"Story 23\" (1, 5, 7, 8 and 13 are missing from the list), which give the order; the split into three parts is our own choice. \"Story 22\" and \"Story 23\" are the Hard and Insane runs. RAWG lists one addition, \"Red Faction: Armageddon - Path to War\" (2011-08-02), and ten descriptions say \"(Path to War DLC Only)\". \"Family Business\" (Defeat the Mantis, Story 14) sits in the story, while \"Exterminator\" (pods while piloting the Mantis) sits with vehicles."
+}

@@ -1,0 +1,527 @@
+{
+  "id": "gears-of-war-e-day",
+  "title": "Gears of War: E-Day",
+  "year": 2026,
+  "platforms": [
+    "Xbox Series X|S",
+    "PC"
+  ],
+  "rawgId": 983213,
+  "rawgSlug": "gears-of-war-e-day",
+  "released": "2026-10-06",
+  "developers": [
+    "The Coalition"
+  ],
+  "playtime": null,
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "tags": [],
+  "coverUrl": "https://media.rawg.io/media/games/c85/c85991ad8164824715377e603a2d7693.jpg",
+  "steamAppId": 3010850,
+  "achievements": {
+    "total": 55,
+    "hidden": 22,
+    "examples": [
+      {
+        "name": "Brotector",
+        "percent": 72.3
+      },
+      {
+        "name": "FNG",
+        "percent": 53.2
+      },
+      {
+        "name": "Remember Kalona",
+        "percent": 29.9
+      },
+      {
+        "name": "I WILL MASSACRE YOU",
+        "percent": 0.0
+      },
+      {
+        "name": "Got Your Wings",
+        "percent": 0.0
+      },
+      {
+        "name": "Dead Serious",
+        "percent": 0.0
+      },
+      {
+        "name": "HEY NOW, YOU'RE AN ALL STAR…",
+        "percent": 0.0
+      },
+      {
+        "name": "The Lucky Ones Died on E-Day",
+        "percent": 0.0
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": false,
+      "pages": 0,
+      "reason": "No page for Gears of War: E-Day (MediaWiki API returned missing; see notes for other titles tried)"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 500,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://gearsofwar.fandom.com/wiki/Gears_of_War:_E-Day"
+    }
+  },
+  "game": {
+    "id": "gears-of-war-e-day",
+    "title": "Gears of War: E-Day",
+    "platforms": [
+      "Xbox Series X|S",
+      "PC"
+    ],
+    "blurb": "Third-person shooter set fourteen years before Gears of War, as the Locust Horde emerges, from The Coalition, released 2026-10-06. RAWG has no playtime yet. Genres: Action, Adventure. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#9E1C1C",
+    "chapters": [
+      {
+        "id": "campaign",
+        "title": "The Campaign",
+        "summary": "Boot Camp and the acts of the campaign, from the first emergence to the end. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "coop-and-insane",
+        "title": "Co-op and Insane",
+        "summary": "Finishing every act in co-op and on Insane difficulty.",
+        "steps": []
+      },
+      {
+        "id": "campaign-collectibles",
+        "title": "Campaign Collectibles and Side Objectives",
+        "summary": "Hard Cases, collectibles, Supply Cache items and secondary objectives in the campaign.",
+        "steps": []
+      },
+      {
+        "id": "horde-siege",
+        "title": "Horde Siege",
+        "summary": "Missions, Invasion Events, the Supply Cache, classes, gadgets and weapon mods in Horde Siege.",
+        "steps": []
+      },
+      {
+        "id": "versus",
+        "title": "Versus Multiplayer",
+        "summary": "Kills in Versus, Demolition and Conquest.",
+        "steps": []
+      },
+      {
+        "id": "progression",
+        "title": "Player Level and Re-Up",
+        "summary": "Reaching Player Level 100, re-upping, the combined goal and earning everything.",
+        "steps": []
+      },
+      {
+        "id": "combat",
+        "title": "Combat and Teamwork",
+        "summary": "Revives, saving players from Locust struggles and detached turrets.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Stacks, On Stacks, On Stacks",
+        "kind": "trophy",
+        "chapterId": "horde-siege",
+        "where": "Spend 150,000 Energy at the Supply Cache in Horde Siege (any difficulty)."
+      },
+      {
+        "id": "achievement-2",
+        "name": "Like a Boss",
+        "kind": "trophy",
+        "chapterId": "horde-siege",
+        "where": "Successfully complete 25 Invasion Events in Horde Siege (any difficulty)."
+      },
+      {
+        "id": "achievement-3",
+        "name": "I WILL MASSACRE YOU",
+        "kind": "trophy",
+        "chapterId": "horde-siege",
+        "where": "Kill 50,000 Enemies in Horde Siege (any difficulty)."
+      },
+      {
+        "id": "achievement-4",
+        "name": "Chainsaw Go Brrrrrrrrr",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-5",
+        "name": "Just Let Me Get One More…",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Get 100 Revives."
+      },
+      {
+        "id": "achievement-6",
+        "name": "You're My Brother",
+        "kind": "trophy",
+        "chapterId": "coop-and-insane",
+        "where": "Complete all Acts of the Campaign on Co-Op (any difficulty)."
+      },
+      {
+        "id": "achievement-7",
+        "name": "Emergence Begins",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-8",
+        "name": "We Must Improvise",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-9",
+        "name": "The Bigger They Are…",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-10",
+        "name": "You Want What On the Front of a Gun?!",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-11",
+        "name": "The Scorched Legion",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-12",
+        "name": "Got to the Choppa",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-13",
+        "name": "Get Back You Eight-legged Freak",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-14",
+        "name": "Twice the Pride, Double the Fall",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-15",
+        "name": "…The Harder They Fall",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-16",
+        "name": "End of the Line",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-17",
+        "name": "The Only Good Bug is a Dead Bug",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-18",
+        "name": "For My Boys",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-19",
+        "name": "Nothing Left but the Fight",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-20",
+        "name": "Remember Kalona",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Complete all Acts of the Campaign (any difficulty)."
+      },
+      {
+        "id": "achievement-21",
+        "name": "Today We Are Canceling the Apocalypse",
+        "kind": "trophy",
+        "chapterId": "coop-and-insane",
+        "where": "Complete all Acts of the Campaign on Insane difficulty."
+      },
+      {
+        "id": "achievement-22",
+        "name": "For Whom the Bell Tolls",
+        "kind": "trophy",
+        "chapterId": "coop-and-insane",
+        "where": "Beat the Campaign on Insane difficulty, achieve 100% completion (Any difficulty)"
+      },
+      {
+        "id": "achievement-23",
+        "name": "Relax. I'm the Map.",
+        "kind": "trophy",
+        "chapterId": "campaign-collectibles",
+        "where": "Discover all Hard Cases in the Campaign."
+      },
+      {
+        "id": "achievement-24",
+        "name": "Quartermaster",
+        "kind": "trophy",
+        "chapterId": "campaign-collectibles",
+        "where": "Unlock all Supply Cache items in the Campaign."
+      },
+      {
+        "id": "achievement-25",
+        "name": "Memories From E-Day",
+        "kind": "trophy",
+        "chapterId": "campaign-collectibles",
+        "where": "Find all Collectibles in the Campaign (any difficulty)."
+      },
+      {
+        "id": "achievement-26",
+        "name": "Side Piece",
+        "kind": "trophy",
+        "chapterId": "campaign-collectibles",
+        "where": "Complete all secondary objectives in the Campaign (any difficulty)."
+      },
+      {
+        "id": "achievement-27",
+        "name": "FNG",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Complete Boot Camp."
+      },
+      {
+        "id": "achievement-28",
+        "name": "Explosive Indigestion",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-29",
+        "name": "I'm All Amped Up",
+        "kind": "trophy",
+        "chapterId": "horde-siege",
+        "where": "Maintain 30 seconds of Adrenaline with the Injector in Horde Siege."
+      },
+      {
+        "id": "achievement-30",
+        "name": "Turn It Up to 11",
+        "kind": "trophy",
+        "chapterId": "horde-siege",
+        "where": "Execute 50 enemies Stunned by the Sonic Disruptor in Horde Siege."
+      },
+      {
+        "id": "achievement-31",
+        "name": "Down, but Not Dead",
+        "kind": "trophy",
+        "chapterId": "horde-siege",
+        "where": "Revive 250 squadmates from DBNO with the Stim Vaporizer in Horde Siege."
+      },
+      {
+        "id": "achievement-32",
+        "name": "Spotted and Slotted",
+        "kind": "trophy",
+        "chapterId": "horde-siege",
+        "where": "Pulse 1,000 enemies with the Pulse Drone in Horde Siege."
+      },
+      {
+        "id": "achievement-33",
+        "name": "I Am Heavy Weapons Guy",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Kill 10 enemies in a row using a single detached turret."
+      },
+      {
+        "id": "achievement-34",
+        "name": "Never Fight Alone",
+        "kind": "trophy",
+        "chapterId": "horde-siege",
+        "where": "Extract from Horde Siege with all squadmates alive on Allfather difficulty."
+      },
+      {
+        "id": "achievement-35",
+        "name": "Form-Up!",
+        "kind": "trophy",
+        "chapterId": "horde-siege",
+        "where": "Receive the max reward from a Perk Cache in Horde Siege (any difficulty)."
+      },
+      {
+        "id": "achievement-36",
+        "name": "Field Service",
+        "kind": "trophy",
+        "chapterId": "progression",
+        "where": "Reach Player Level 100 and Re-Up for the first time."
+      },
+      {
+        "id": "achievement-37",
+        "name": "Got Your Wings",
+        "kind": "trophy",
+        "chapterId": "progression",
+        "where": "Re-up for the final time and claim your wings."
+      },
+      {
+        "id": "achievement-38",
+        "name": "Siege Specialist",
+        "kind": "trophy",
+        "chapterId": "horde-siege",
+        "where": "Reach max level with the Assault, Breacher, Marksman, and Medic classes in Horde Siege."
+      },
+      {
+        "id": "achievement-39",
+        "name": "This Is My Rifle",
+        "kind": "trophy",
+        "chapterId": "horde-siege",
+        "where": "Unlock all Weapon Mods in Horde Siege."
+      },
+      {
+        "id": "achievement-40",
+        "name": "Dead Serious",
+        "kind": "trophy",
+        "chapterId": "progression",
+        "where": "100% Campaign on Insane, 25,000 kills in Versus, max Player Level, and max 4 classes."
+      },
+      {
+        "id": "achievement-41",
+        "name": "Lift Outta Hell",
+        "kind": "trophy",
+        "chapterId": "horde-siege",
+        "where": "Complete and Survive 50 Horde Siege Missions (Infantry difficulty or higher)."
+      },
+      {
+        "id": "achievement-42",
+        "name": "Best I Can Do Is a Pizza Party",
+        "kind": "trophy",
+        "chapterId": "horde-siege",
+        "where": "Complete any 100 Secondary Objectives in Horde Siege."
+      },
+      {
+        "id": "achievement-43",
+        "name": "Two Grubs, One Gut-Punch",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-44",
+        "name": "I Didn't Hear No Bell",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-45",
+        "name": "Days Since Last Accident: 0",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-46",
+        "name": "Who Loves Ya, Baby?",
+        "kind": "trophy",
+        "chapterId": "horde-siege",
+        "where": "Revive 20 players from other squads in Horde Siege."
+      },
+      {
+        "id": "achievement-47",
+        "name": "Payback's A Pitch",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-48",
+        "name": "Brotector",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Save another player from a struggle with a Locust."
+      },
+      {
+        "id": "achievement-49",
+        "name": "Okay, Boomer.",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-50",
+        "name": "Right in the Ticker",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-51",
+        "name": "HEY NOW, YOU'RE AN ALL STAR…",
+        "kind": "trophy",
+        "chapterId": "versus",
+        "where": "Get 25,000 kills in Versus."
+      },
+      {
+        "id": "achievement-52",
+        "name": "Somebody Set Up Us the Bomb",
+        "kind": "trophy",
+        "chapterId": "versus",
+        "where": "Plant the bomb in Demolition and have it explode without the enemy defusing it."
+      },
+      {
+        "id": "achievement-53",
+        "name": "It Only Game, Why You Heff to Be Mad?",
+        "kind": "trophy",
+        "chapterId": "versus",
+        "where": "Win a game of Conquest without the enemy team scoring."
+      },
+      {
+        "id": "achievement-54",
+        "name": "The Lucky Ones Died on E-Day",
+        "kind": "trophy",
+        "chapterId": "progression",
+        "where": "Earn all other Achievements."
+      },
+      {
+        "id": "achievement-55",
+        "name": "Crepe du Raven",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/gears-of-war-e-day",
+    "Achievement data from Steam (Steam Web API, app 3010850)",
+    "StrategyWiki: no page for this game, nothing used",
+    "Fandom (gearsofwar.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://gearsofwar.fandom.com/wiki/Gears_of_War:_E-Day"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). RAWG's first result, \"gears-of-war-e-day\" (id 983213, released 2026-10-06, The Coalition, published by Xbox Game Studios), is the right game. No StrategyWiki page under \"Gears of War: E-Day\" or \"Gears of War E-Day\". gearsofwar.fandom.com answers the API under \"Gears of War: E-Day\", with at least 500 linked pages (the API's one-page limit; more remain), including \"Kalona\", \"Emergence Day\", \"Hard Case\", \"Conquest\", \"Demolition\" and \"List of Achievements in Gears of War: E-Day\"; names only were looked at, nothing copied. Steam app 3010850 is \"Gears of War: E-Day\". 22 of 55 Steam achievements are hidden; they sit in the campaign chapter as a placeholder. Thirteen of them fall from 82% (\"Emergence Begins\") to 32% (\"Nothing Left but the Fight\") and look like campaign steps. \"Dead Serious\" (100% Insane campaign, 25,000 Versus kills, max level and classes) is placed in Player Level and Re-Up. Horde Siege and Versus need online play; several goals show 0.0% unlocked, as the game came out on 2026-10-06."
+}

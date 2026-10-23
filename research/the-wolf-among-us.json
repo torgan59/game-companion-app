@@ -1,0 +1,401 @@
+{
+  "id": "the-wolf-among-us",
+  "title": "The Wolf Among Us",
+  "year": 2013,
+  "platforms": [
+    "PS Vita",
+    "PlayStation 4",
+    "Xbox One",
+    "iOS",
+    "PC",
+    "Android",
+    "Xbox 360",
+    "macOS"
+  ],
+  "rawgId": 1682,
+  "rawgSlug": "the-wolf-among-us",
+  "released": "2013-10-10",
+  "developers": [
+    "Telltale Games"
+  ],
+  "playtime": 9,
+  "genres": [
+    "Adventure"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Full controller support",
+    "Atmospheric",
+    "Great Soundtrack",
+    "Story Rich",
+    "Fantasy",
+    "Dark",
+    "Point & Click",
+    "Nudity",
+    "controller support",
+    "Mystery",
+    "Mature"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/be0/be084b850302abe81675bc4ffc08a0d0.jpg",
+  "steamAppId": 250320,
+  "achievements": {
+    "total": 35,
+    "hidden": 0,
+    "examples": [
+      {
+        "name": "Welcome to Fabletown",
+        "percent": 89.6
+      },
+      {
+        "name": "Wolf in Sheriff's Clothing",
+        "percent": 85.6
+      },
+      {
+        "name": "The Long Goodbye",
+        "percent": 84.6
+      },
+      {
+        "name": "Grand Master Librarian",
+        "percent": 31.4
+      },
+      {
+        "name": "Master Librarian",
+        "percent": 14.0
+      },
+      {
+        "name": "Novice Librarian",
+        "percent": 13.7
+      },
+      {
+        "name": "Apprentice Librarian",
+        "percent": 10.8
+      },
+      {
+        "name": "Journeyman Librarian",
+        "percent": 7.7
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/The_Wolf_Among_Us",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 54,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://fables.fandom.com/wiki/The_Wolf_Among_Us"
+    }
+  },
+  "game": {
+    "id": "the-wolf-among-us",
+    "title": "The Wolf Among Us",
+    "platforms": [
+      "PS Vita",
+      "PlayStation 4",
+      "Xbox One",
+      "iOS",
+      "PC",
+      "Android",
+      "Xbox 360",
+      "macOS"
+    ],
+    "blurb": "Episodic story adventure from Telltale Games, released 2013-10-10. RAWG average playtime: 9 hours. Genre: Adventure. Chapters follow the five episodes named in the Steam achievements.",
+    "accent": "#7A3E8C",
+    "chapters": [
+      {
+        "id": "episode-1",
+        "title": "Episode 1: Faith",
+        "summary": "Welcome to Fabletown: the five chapters of the first episode and its Book of Fables entries.",
+        "steps": []
+      },
+      {
+        "id": "episode-2",
+        "title": "Episode 2: Smoke and Mirrors",
+        "summary": "The five chapters of the second episode and its Book of Fables entries. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "episode-3",
+        "title": "Episode 3: A Crooked Mile",
+        "summary": "The five chapters of the third episode and its Book of Fables entries. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "episode-4",
+        "title": "Episode 4: In Sheep's Clothing",
+        "summary": "The five chapters of the fourth episode and its Book of Fables entries. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "episode-5",
+        "title": "Episode 5: Cry Wolf",
+        "summary": "The five chapters of the last episode and its Book of Fables entries. Spoiler-guarded.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Welcome to Fabletown",
+        "kind": "trophy",
+        "chapterId": "episode-1",
+        "where": "Completed Chapter 1 of Episode 1."
+      },
+      {
+        "id": "achievement-2",
+        "name": "Wolf in Sheriff's Clothing",
+        "kind": "trophy",
+        "chapterId": "episode-1",
+        "where": "Completed Chapter 2 of Episode 1."
+      },
+      {
+        "id": "achievement-3",
+        "name": "The Long Goodbye",
+        "kind": "trophy",
+        "chapterId": "episode-1",
+        "where": "Completed Chapter 3 of Episode 1."
+      },
+      {
+        "id": "achievement-4",
+        "name": "The Frog or the Prince?",
+        "kind": "trophy",
+        "chapterId": "episode-1",
+        "where": "Completed Chapter 4 of Episode 1."
+      },
+      {
+        "id": "achievement-5",
+        "name": "Panic in the Parlours",
+        "kind": "trophy",
+        "chapterId": "episode-1",
+        "where": "Completed Chapter 5 of Episode 1."
+      },
+      {
+        "id": "achievement-6",
+        "name": "A Light Snowfall",
+        "kind": "trophy",
+        "chapterId": "episode-1",
+        "where": "Completed Episode 1: \"Faith\""
+      },
+      {
+        "id": "achievement-7",
+        "name": "Novice Librarian",
+        "kind": "trophy",
+        "chapterId": "episode-1",
+        "where": "Unlocked all Book of Fables entries in Episode 1."
+      },
+      {
+        "id": "achievement-8",
+        "name": "Right to an Attorney",
+        "kind": "trophy",
+        "chapterId": "episode-2",
+        "where": "Completed Chapter 1 of Episode 2."
+      },
+      {
+        "id": "achievement-9",
+        "name": "Breaking Point",
+        "kind": "trophy",
+        "chapterId": "episode-2",
+        "where": "Completed Chapter 2 of Episode 2."
+      },
+      {
+        "id": "achievement-10",
+        "name": "Sisters",
+        "kind": "trophy",
+        "chapterId": "episode-2",
+        "where": "Completed Chapter 3 of Episode 2."
+      },
+      {
+        "id": "achievement-11",
+        "name": "Made Them Cry",
+        "kind": "trophy",
+        "chapterId": "episode-2",
+        "where": "Completed Chapter 4 of Episode 2."
+      },
+      {
+        "id": "achievement-12",
+        "name": "Can I Get a Fresh Set of Towels?",
+        "kind": "trophy",
+        "chapterId": "episode-2",
+        "where": "Completed Chapter 5 of Episode 2."
+      },
+      {
+        "id": "achievement-13",
+        "name": "No Respect for the Dead",
+        "kind": "trophy",
+        "chapterId": "episode-2",
+        "where": "Completed Episode 2: \"Smoke and Mirrors\""
+      },
+      {
+        "id": "achievement-14",
+        "name": "Apprentice Librarian",
+        "kind": "trophy",
+        "chapterId": "episode-2",
+        "where": "Unlocked all Book of Fables entries in Episode 2."
+      },
+      {
+        "id": "achievement-15",
+        "name": "Promising Leads",
+        "kind": "trophy",
+        "chapterId": "episode-3",
+        "where": "Completed Chapter 1 of Episode 3."
+      },
+      {
+        "id": "achievement-16",
+        "name": "Belly Full of Stones",
+        "kind": "trophy",
+        "chapterId": "episode-3",
+        "where": "Completed Chapter 2 of Episode 3."
+      },
+      {
+        "id": "achievement-17",
+        "name": "What Big Eyes You Have",
+        "kind": "trophy",
+        "chapterId": "episode-3",
+        "where": "Completed Chapter 3 of Episode 3."
+      },
+      {
+        "id": "achievement-18",
+        "name": "Huff and Puff",
+        "kind": "trophy",
+        "chapterId": "episode-3",
+        "where": "Completed Chapter 4 of Episode 3."
+      },
+      {
+        "id": "achievement-19",
+        "name": "Severe Case of Lycanthropy",
+        "kind": "trophy",
+        "chapterId": "episode-3",
+        "where": "Completed Chapter 5 of Episode 3."
+      },
+      {
+        "id": "achievement-20",
+        "name": "The Enchanted Land of New York City",
+        "kind": "trophy",
+        "chapterId": "episode-3",
+        "where": "Completed Episode 3: \"A Crooked Mile\""
+      },
+      {
+        "id": "achievement-21",
+        "name": "Journeyman Librarian",
+        "kind": "trophy",
+        "chapterId": "episode-3",
+        "where": "Unlocked all Book of Fables entries in Episode 3."
+      },
+      {
+        "id": "achievement-22",
+        "name": "Once Upon a Time",
+        "kind": "trophy",
+        "chapterId": "episode-4",
+        "where": "Completed Chapter 1 of Episode 4."
+      },
+      {
+        "id": "achievement-23",
+        "name": "There Was a Wolf",
+        "kind": "trophy",
+        "chapterId": "episode-4",
+        "where": "Completed Chapter 2 of Episode 4."
+      },
+      {
+        "id": "achievement-24",
+        "name": "Who Ruled The Land",
+        "kind": "trophy",
+        "chapterId": "episode-4",
+        "where": "Completed Chapter 3 of Episode 4."
+      },
+      {
+        "id": "achievement-25",
+        "name": "He Was Much Feared",
+        "kind": "trophy",
+        "chapterId": "episode-4",
+        "where": "Completed Chapter 4 of Episode 4."
+      },
+      {
+        "id": "achievement-26",
+        "name": "But Soon He Mended His Evil Ways",
+        "kind": "trophy",
+        "chapterId": "episode-4",
+        "where": "Completed Chapter 5 of Episode 4."
+      },
+      {
+        "id": "achievement-27",
+        "name": "And All Were Happy",
+        "kind": "trophy",
+        "chapterId": "episode-4",
+        "where": "Completed Episode 4: \"In Sheep's Clothing\""
+      },
+      {
+        "id": "achievement-28",
+        "name": "Master Librarian",
+        "kind": "trophy",
+        "chapterId": "episode-4",
+        "where": "Unlocked all Book of Fables entries in Episode 4."
+      },
+      {
+        "id": "achievement-29",
+        "name": "Beginning of the End",
+        "kind": "trophy",
+        "chapterId": "episode-5",
+        "where": "Completed Chapter 1 of Episode 5."
+      },
+      {
+        "id": "achievement-30",
+        "name": "This House of Straw",
+        "kind": "trophy",
+        "chapterId": "episode-5",
+        "where": "Completed Chapter 2 of Episode 5."
+      },
+      {
+        "id": "achievement-31",
+        "name": "A Silver Bullet",
+        "kind": "trophy",
+        "chapterId": "episode-5",
+        "where": "Completed Chapter 3 of Episode 5."
+      },
+      {
+        "id": "achievement-32",
+        "name": "My Last Cigarette",
+        "kind": "trophy",
+        "chapterId": "episode-5",
+        "where": "Completed Chapter 4 of Episode 5."
+      },
+      {
+        "id": "achievement-33",
+        "name": "The North Wind Blows",
+        "kind": "trophy",
+        "chapterId": "episode-5",
+        "where": "Completed Chapter 5 of Episode 5."
+      },
+      {
+        "id": "achievement-34",
+        "name": "Happily Ever After",
+        "kind": "trophy",
+        "chapterId": "episode-5",
+        "where": "Completed Episode 5: \"Cry Wolf\""
+      },
+      {
+        "id": "achievement-35",
+        "name": "Grand Master Librarian",
+        "kind": "trophy",
+        "chapterId": "episode-5",
+        "where": "Unlocked all Book of Fables entries in Episode 5."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/the-wolf-among-us",
+    "Achievement data from Steam (Steam Web API, app 250320)",
+    "StrategyWiki: no usable walkthrough, nothing used — https://strategywiki.org/wiki/The_Wolf_Among_Us",
+    "Fandom (fables.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://fables.fandom.com/wiki/The_Wolf_Among_Us"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). RAWG's first result is the expected entry (id 1682); RAWG also has a separate \"The Wolf Among Us - Episode 1: Faith\" entry. Steam app 250320 (\"The Wolf Among Us\") was used; the store list also has \"The Wolf Among Us Remastered\" (3884860) and \"The Wolf Among Us 2\" (1884870), which were not used. None of the 35 Steam achievements is hidden: each of the five episodes has five chapter achievements, an episode-complete achievement that gives the episode's name, and a Book of Fables achievement, so each episode is one chapter. StrategyWiki has a page at completion stage 0: Controls, Gameplay and Walkthrough are linked but not written; only its Table of Contents subpage exists, so nothing was used. fables.fandom.com answers the API under \"The Wolf Among Us\" with about 54 linked articles; names only were looked at, nothing copied."
+}

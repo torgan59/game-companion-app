@@ -1,0 +1,1135 @@
+{
+  "id": "total-war-warhammer-iii",
+  "title": "Total War: Warhammer III",
+  "year": 2022,
+  "platforms": [
+    "PC",
+    "macOS",
+    "Linux"
+  ],
+  "rawgId": 552923,
+  "rawgSlug": "total-war-warhammer-iii",
+  "released": "2022-02-17",
+  "developers": [
+    "Creative Assembly"
+  ],
+  "playtime": 17,
+  "genres": [
+    "Action",
+    "Strategy"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Multiplayer",
+    "Atmospheric",
+    "Co-op",
+    "Story Rich",
+    "cooperative",
+    "Online Co-Op",
+    "Fantasy",
+    "Tactical",
+    "PvP",
+    "War"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/0fc/0fcb485572f6074c611521984a033a5c.jpg",
+  "steamAppId": 1142710,
+  "achievements": {
+    "total": 138,
+    "hidden": 0,
+    "examples": [
+      {
+        "name": "Rising Power",
+        "percent": 75.8
+      },
+      {
+        "name": "Talented Amateur",
+        "percent": 74.5
+      },
+      {
+        "name": "White Hat",
+        "percent": 71.9
+      },
+      {
+        "name": "King of Kings",
+        "percent": 2.0
+      },
+      {
+        "name": "Blood-Grounds, Everywhere!",
+        "percent": 1.9
+      },
+      {
+        "name": "Age of the Eternal Oak",
+        "percent": 1.9
+      },
+      {
+        "name": "A Tale will be Told",
+        "percent": 1.8
+      },
+      {
+        "name": "Ultimate Mastermind",
+        "percent": 1.3
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": false,
+      "pages": 0,
+      "reason": "No page for Total War: Warhammer III (MediaWiki API returned missing; see notes for other titles tried)"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 122,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://totalwarwarhammer.fandom.com/wiki/Total_War:_Warhammer_III"
+    }
+  },
+  "game": {
+    "id": "total-war-warhammer-iii",
+    "title": "Total War: Warhammer III",
+    "platforms": [
+      "PC",
+      "macOS",
+      "Linux"
+    ],
+    "blurb": "Fantasy strategy game with turn-based campaigns and real-time battles, set around the Realm of Chaos, from Creative Assembly, released 2022-02-17. RAWG average playtime: 17 hours. Genres: Action, Strategy. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#8B1E2D",
+    "chapters": [
+      {
+        "id": "prologue",
+        "title": "The Prologue",
+        "summary": "The opening campaign: filling Yuri's army, first battles and buildings in the Chaos Wastes, and finishing the Prologue.",
+        "steps": []
+      },
+      {
+        "id": "kislev-cathay-ogres",
+        "title": "Kislev, Cathay and the Ogre Kingdoms",
+        "summary": "Faction goals for Kislev, Cathay and the Ogre Kingdoms: caravans, the Great Bastion, Motherlands, camps and the Great Maw.",
+        "steps": []
+      },
+      {
+        "id": "chaos-factions",
+        "title": "The Chaos Gods and the Daemon Prince",
+        "summary": "Faction goals for Khorne, Nurgle, Slaanesh, Tzeentch and the Daemon Prince: greater daemons, plagues, gifts and paths.",
+        "steps": []
+      },
+      {
+        "id": "realm-of-chaos",
+        "title": "The Realm of Chaos",
+        "summary": "Entering the Realm of Chaos through a Rift and beating the Daemon Prince in each god's realm.",
+        "steps": []
+      },
+      {
+        "id": "empire-building",
+        "title": "Battles, Heroes and Empire Building",
+        "summary": "Winning battles, levelling lords and heroes, special mounts, alliances, trade, income and razing settlements.",
+        "steps": []
+      },
+      {
+        "id": "campaign-victories",
+        "title": "Campaign Victories",
+        "summary": "Winning a singleplayer campaign with each faction.",
+        "steps": []
+      },
+      {
+        "id": "legendary-victories",
+        "title": "Very Hard and Legendary Victories",
+        "summary": "Winning a singleplayer campaign with each faction on Very Hard or Legendary.",
+        "steps": []
+      },
+      {
+        "id": "trials-of-fate",
+        "title": "Trials of Fate",
+        "summary": "Score goals in the Black Fire Pass, Hel Fenn, Fallen Gates, Altar of Ultimate Darkness and Realm of Tzeentch Trials.",
+        "steps": []
+      },
+      {
+        "id": "multiplayer",
+        "title": "Multiplayer",
+        "summary": "Playing a multiplayer battle and a multiplayer campaign. Needs a network connection.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "The Battle for Bokha",
+        "kind": "trophy",
+        "chapterId": "kislev-cathay-ogres",
+        "where": "Playing as Kislev, win the quest battle to free Boris Ursus."
+      },
+      {
+        "id": "achievement-2",
+        "name": "Animated Adversary",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "Play a multiplayer battle."
+      },
+      {
+        "id": "achievement-3",
+        "name": "Obliterate the Odds",
+        "kind": "trophy",
+        "chapterId": "empire-building",
+        "where": "Win a campaign battle in which you are outnumbered 10-to-1."
+      },
+      {
+        "id": "achievement-4",
+        "name": "Quest for Success",
+        "kind": "trophy",
+        "chapterId": "empire-building",
+        "where": "Fight a quest battle."
+      },
+      {
+        "id": "achievement-5",
+        "name": "Talented Amateur",
+        "kind": "trophy",
+        "chapterId": "empire-building",
+        "where": "Win 10 battles during a single campaign."
+      },
+      {
+        "id": "achievement-6",
+        "name": "Professional Tactician",
+        "kind": "trophy",
+        "chapterId": "empire-building",
+        "where": "Win 50 battles during a single campaign."
+      },
+      {
+        "id": "achievement-7",
+        "name": "The Art of Surprise",
+        "kind": "trophy",
+        "chapterId": "empire-building",
+        "where": "Win 5 ambush battles during a single campaign."
+      },
+      {
+        "id": "achievement-8",
+        "name": "Blazing Besieger",
+        "kind": "trophy",
+        "chapterId": "empire-building",
+        "where": "Win 25 siege attack battles during a single campaign."
+      },
+      {
+        "id": "achievement-9",
+        "name": "The Road to Riches",
+        "kind": "trophy",
+        "chapterId": "kislev-cathay-ogres",
+        "where": "Playing as Cathay, complete a Caravan's journey."
+      },
+      {
+        "id": "achievement-10",
+        "name": "Heavens Above",
+        "kind": "trophy",
+        "chapterId": "kislev-cathay-ogres",
+        "where": "Playing as Cathay, construct the Grand Observatory of Xing Po."
+      },
+      {
+        "id": "achievement-11",
+        "name": "Man the Wall",
+        "kind": "trophy",
+        "chapterId": "kislev-cathay-ogres",
+        "where": "Playing as Cathay, occupy the entirety of the Great Bastion."
+      },
+      {
+        "id": "achievement-12",
+        "name": "Celestial City Secured",
+        "kind": "trophy",
+        "chapterId": "kislev-cathay-ogres",
+        "where": "Playing as Cathay, occupy Wei-Jin."
+      },
+      {
+        "id": "achievement-13",
+        "name": "Shoulders of Giants",
+        "kind": "trophy",
+        "chapterId": "kislev-cathay-ogres",
+        "where": "Playing as Cathay, recruit a Terracotta Sentinel to one of your armies."
+      },
+      {
+        "id": "achievement-14",
+        "name": "Sensational Steed",
+        "kind": "trophy",
+        "chapterId": "empire-building",
+        "where": "Have a special mount."
+      },
+      {
+        "id": "achievement-15",
+        "name": "Elevated Excellence",
+        "kind": "trophy",
+        "chapterId": "empire-building",
+        "where": "Have 3 special mounts."
+      },
+      {
+        "id": "achievement-16",
+        "name": "White Hat",
+        "kind": "trophy",
+        "chapterId": "empire-building",
+        "where": "Have 1 level 10 Hero."
+      },
+      {
+        "id": "achievement-17",
+        "name": "Centres of Excellence",
+        "kind": "trophy",
+        "chapterId": "empire-building",
+        "where": "Have 2 level 20 Heroes at the same time."
+      },
+      {
+        "id": "achievement-18",
+        "name": "The Height of Valour",
+        "kind": "trophy",
+        "chapterId": "empire-building",
+        "where": "Have 3 level 30 Heroes at the same time."
+      },
+      {
+        "id": "achievement-19",
+        "name": "Rising Power",
+        "kind": "trophy",
+        "chapterId": "empire-building",
+        "where": "Have a level 10 Lord."
+      },
+      {
+        "id": "achievement-20",
+        "name": "Dominating Force",
+        "kind": "trophy",
+        "chapterId": "empire-building",
+        "where": "Have a level 20 Lord."
+      },
+      {
+        "id": "achievement-21",
+        "name": "Peak Nobility",
+        "kind": "trophy",
+        "chapterId": "empire-building",
+        "where": "Have a level 30 Lord."
+      },
+      {
+        "id": "achievement-22",
+        "name": "The Gatekeeper",
+        "kind": "trophy",
+        "chapterId": "realm-of-chaos",
+        "where": "Defeat the Daemon Prince at the Brass Citadel in the realm of Khorne."
+      },
+      {
+        "id": "achievement-23",
+        "name": "The Gardener",
+        "kind": "trophy",
+        "chapterId": "realm-of-chaos",
+        "where": "Defeat the Daemon Prince at the Mansion of the Plaguelord in the realm of Nurgle."
+      },
+      {
+        "id": "achievement-24",
+        "name": "The Courtesan",
+        "kind": "trophy",
+        "chapterId": "realm-of-chaos",
+        "where": "Defeat the Daemon Prince at the Palace of Slaanesh in the realm of Slaanesh."
+      },
+      {
+        "id": "achievement-25",
+        "name": "The Librarian",
+        "kind": "trophy",
+        "chapterId": "realm-of-chaos",
+        "where": "Defeat the Daemon Prince at the Impossible Fortress in the realm of Tzeentch."
+      },
+      {
+        "id": "achievement-26",
+        "name": "Tear Down the Walls",
+        "kind": "trophy",
+        "chapterId": "empire-building",
+        "where": "Raze 1 settlement."
+      },
+      {
+        "id": "achievement-27",
+        "name": "Burn the World",
+        "kind": "trophy",
+        "chapterId": "empire-building",
+        "where": "Raze 30 settlements during a single campaign."
+      },
+      {
+        "id": "achievement-28",
+        "name": "Forward Position",
+        "kind": "trophy",
+        "chapterId": "empire-building",
+        "where": "Construct an allied outpost in a military ally's settlement."
+      },
+      {
+        "id": "achievement-29",
+        "name": "Most Constant Votary",
+        "kind": "trophy",
+        "chapterId": "chaos-factions",
+        "where": "Playing as the Daemon Prince, ascend to a Chaos God's path."
+      },
+      {
+        "id": "achievement-30",
+        "name": "Godly Might Given",
+        "kind": "trophy",
+        "chapterId": "chaos-factions",
+        "where": "Playing as the Daemon Prince, ascend to the Undivided path."
+      },
+      {
+        "id": "achievement-31",
+        "name": "Benisons of the Capricious",
+        "kind": "trophy",
+        "chapterId": "chaos-factions",
+        "where": "Playing as the Daemon Prince, unlock 15 Daemonic Gifts."
+      },
+      {
+        "id": "achievement-32",
+        "name": "Boons of the Mercurial",
+        "kind": "trophy",
+        "chapterId": "chaos-factions",
+        "where": "Playing as the Daemon Prince, unlock 5 Daemonic Gifts."
+      },
+      {
+        "id": "achievement-33",
+        "name": "Common Cause",
+        "kind": "trophy",
+        "chapterId": "empire-building",
+        "where": "Have a military alliance with 5 other factions at the same time."
+      },
+      {
+        "id": "achievement-34",
+        "name": "League of Nations",
+        "kind": "trophy",
+        "chapterId": "empire-building",
+        "where": "Have a military alliance with 10 other factions at the same time."
+      },
+      {
+        "id": "achievement-35",
+        "name": "Commercial Comforts",
+        "kind": "trophy",
+        "chapterId": "empire-building",
+        "where": "Have a trade agreement with 5 other factions at the same time."
+      },
+      {
+        "id": "achievement-36",
+        "name": "Trading Nation",
+        "kind": "trophy",
+        "chapterId": "empire-building",
+        "where": "Have a trade agreement with 10 other factions at the same time."
+      },
+      {
+        "id": "achievement-37",
+        "name": "A Steady Stream",
+        "kind": "trophy",
+        "chapterId": "empire-building",
+        "where": "Have a gross income of 5,000 per turn."
+      },
+      {
+        "id": "achievement-38",
+        "name": "Well-Heeled",
+        "kind": "trophy",
+        "chapterId": "empire-building",
+        "where": "Have a gross income of 20,000 per turn."
+      },
+      {
+        "id": "achievement-39",
+        "name": "Your Coffers Overfloweth",
+        "kind": "trophy",
+        "chapterId": "empire-building",
+        "where": "Have a gross income of 60,000 per turn."
+      },
+      {
+        "id": "achievement-40",
+        "name": "Into the Aethyr",
+        "kind": "trophy",
+        "chapterId": "realm-of-chaos",
+        "where": "Enter the Realm of Chaos using a Rift."
+      },
+      {
+        "id": "achievement-41",
+        "name": "The Blood Must Flow",
+        "kind": "trophy",
+        "chapterId": "chaos-factions",
+        "where": "Playing as Khorne, reach the highest level of Bloodletting with an army."
+      },
+      {
+        "id": "achievement-42",
+        "name": "The Collector",
+        "kind": "trophy",
+        "chapterId": "chaos-factions",
+        "where": "Playing as Khorne, collect 10,000 Skulls."
+      },
+      {
+        "id": "achievement-43",
+        "name": "Unmaker of Magick",
+        "kind": "trophy",
+        "chapterId": "chaos-factions",
+        "where": "Playing as Khorne, construct the Khadeium Paradox."
+      },
+      {
+        "id": "achievement-44",
+        "name": "The Blood is the Life",
+        "kind": "trophy",
+        "chapterId": "chaos-factions",
+        "where": "Playing as Khorne, recruit a Bloodthirster to one of your armies."
+      },
+      {
+        "id": "achievement-45",
+        "name": "Intravenous Injection",
+        "kind": "trophy",
+        "chapterId": "chaos-factions",
+        "where": "Playing as Khorne, replace a Herald of Khorne with an Exalted Bloodthirster."
+      },
+      {
+        "id": "achievement-46",
+        "name": "Matriarchal Power",
+        "kind": "trophy",
+        "chapterId": "kislev-cathay-ogres",
+        "where": "Playing as Kislev, invoke each type of Motherland in a single campaign."
+      },
+      {
+        "id": "achievement-47",
+        "name": "Reclaim Your Place",
+        "kind": "trophy",
+        "chapterId": "kislev-cathay-ogres",
+        "where": "Playing as Kislev, occupy Kislev, Erengrad and Praag."
+      },
+      {
+        "id": "achievement-48",
+        "name": "Bear With Me",
+        "kind": "trophy",
+        "chapterId": "kislev-cathay-ogres",
+        "where": "Playing as Kislev, recruit an Elemental Bear to one of your armies."
+      },
+      {
+        "id": "achievement-49",
+        "name": "Arms Appropriated",
+        "kind": "trophy",
+        "chapterId": "empire-building",
+        "where": "Borrow an army from a military ally."
+      },
+      {
+        "id": "achievement-50",
+        "name": "Partners in Conquest",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "Play a multiplayer campaign."
+      },
+      {
+        "id": "achievement-51",
+        "name": "Ailment Accumulator",
+        "kind": "trophy",
+        "chapterId": "chaos-factions",
+        "where": "Playing as Nurgle, collect 5000 Infections."
+      },
+      {
+        "id": "achievement-52",
+        "name": "The Fly Master Cometh",
+        "kind": "trophy",
+        "chapterId": "chaos-factions",
+        "where": "Playing as Nurgle, recruit a Great Unclean One to one of your armies."
+      },
+      {
+        "id": "achievement-53",
+        "name": "Pustulent Promotion",
+        "kind": "trophy",
+        "chapterId": "chaos-factions",
+        "where": "Playing as Nurgle, replace a Herald of Nurgle with an Exalted Great Unclean One."
+      },
+      {
+        "id": "achievement-54",
+        "name": "Angel of Disease",
+        "kind": "trophy",
+        "chapterId": "chaos-factions",
+        "where": "Playing as Nurgle, spread a Plague."
+      },
+      {
+        "id": "achievement-55",
+        "name": "Elements of Decay",
+        "kind": "trophy",
+        "chapterId": "chaos-factions",
+        "where": "Playing as Nurgle, use each Plague Symptom at least once."
+      },
+      {
+        "id": "achievement-56",
+        "name": "Volcanic Vehemence",
+        "kind": "trophy",
+        "chapterId": "kislev-cathay-ogres",
+        "where": "Playing as the Ogre Kingdoms, construct the Fire Mouth."
+      },
+      {
+        "id": "achievement-57",
+        "name": "Bilious Builder",
+        "kind": "trophy",
+        "chapterId": "kislev-cathay-ogres",
+        "where": "Playing as the Ogre Kingdoms, deploy 5 camps in a single campaign."
+      },
+      {
+        "id": "achievement-58",
+        "name": "Trader Raider",
+        "kind": "trophy",
+        "chapterId": "kislev-cathay-ogres",
+        "where": "Playing as the Ogre Kingdoms, destroy a Caravan belonging to Cathay."
+      },
+      {
+        "id": "achievement-59",
+        "name": "Votive Victuals",
+        "kind": "trophy",
+        "chapterId": "kislev-cathay-ogres",
+        "where": "Playing as the Ogre Kingdoms, offer a tribute of Meat to the Great Maw."
+      },
+      {
+        "id": "achievement-60",
+        "name": "Royal Ranks Ramped",
+        "kind": "trophy",
+        "chapterId": "prologue",
+        "where": "During the Prologue, fill Yuri's army with units."
+      },
+      {
+        "id": "achievement-61",
+        "name": "A Mortal Wound Inflicted",
+        "kind": "trophy",
+        "chapterId": "prologue",
+        "where": "During the Prologue, win your first battle in the Chaos Wastes."
+      },
+      {
+        "id": "achievement-62",
+        "name": "Establish & Advance",
+        "kind": "trophy",
+        "chapterId": "prologue",
+        "where": "During the Prologue, construct 5 buildings."
+      },
+      {
+        "id": "achievement-63",
+        "name": "The End of the Beginning",
+        "kind": "trophy",
+        "chapterId": "prologue",
+        "where": "Complete the Prologue."
+      },
+      {
+        "id": "achievement-64",
+        "name": "Enchanted Arsenal",
+        "kind": "trophy",
+        "chapterId": "prologue",
+        "where": "During the Prologue, equip Yuri with every type of magic item."
+      },
+      {
+        "id": "achievement-65",
+        "name": "Two Noble Heads",
+        "kind": "trophy",
+        "chapterId": "prologue",
+        "where": "During the Prologue, recruit a second Lord."
+      },
+      {
+        "id": "achievement-66",
+        "name": "Reverser of Ruin",
+        "kind": "trophy",
+        "chapterId": "prologue",
+        "where": "During the Prologue, capture a settlement in the Chaos Wastes."
+      },
+      {
+        "id": "achievement-67",
+        "name": "Spires to the Sky",
+        "kind": "trophy",
+        "chapterId": "prologue",
+        "where": "During the Prologue, fully upgrade a settlement."
+      },
+      {
+        "id": "achievement-68",
+        "name": "Self-Improvement",
+        "kind": "trophy",
+        "chapterId": "prologue",
+        "where": "During the Prologue, spend 10 skill points."
+      },
+      {
+        "id": "achievement-69",
+        "name": "Opus Eternal",
+        "kind": "trophy",
+        "chapterId": "chaos-factions",
+        "where": "Playing as Slaanesh, construct the Pandemournium."
+      },
+      {
+        "id": "achievement-70",
+        "name": "Feaster on Fear",
+        "kind": "trophy",
+        "chapterId": "chaos-factions",
+        "where": "Playing as Slaanesh, recruit a Keeper of Secrets to one of your armies."
+      },
+      {
+        "id": "achievement-71",
+        "name": "Succulence Selected",
+        "kind": "trophy",
+        "chapterId": "chaos-factions",
+        "where": "Playing as Slaanesh, replace a Herald of Slaanesh with an Exalted Keeper of Secrets."
+      },
+      {
+        "id": "achievement-72",
+        "name": "Purveyor of Perversion",
+        "kind": "trophy",
+        "chapterId": "chaos-factions",
+        "where": "Playing as Slaanesh, spread a Gift of Slaanesh."
+      },
+      {
+        "id": "achievement-73",
+        "name": "Temptation's Troops",
+        "kind": "trophy",
+        "chapterId": "chaos-factions",
+        "where": "Playing as Slaanesh, summon a Disciple Army."
+      },
+      {
+        "id": "achievement-74",
+        "name": "Revelry in Riddles",
+        "kind": "trophy",
+        "chapterId": "chaos-factions",
+        "where": "Playing as Tzeentch, construct the Symposium of Change."
+      },
+      {
+        "id": "achievement-75",
+        "name": "Change Up",
+        "kind": "trophy",
+        "chapterId": "chaos-factions",
+        "where": "Playing as Tzeentch, replace a Herald of Tzeentch with an Exalted Lord of Change."
+      },
+      {
+        "id": "achievement-76",
+        "name": "Face the Strange",
+        "kind": "trophy",
+        "chapterId": "chaos-factions",
+        "where": "Playing as Tzeentch, unlock all Changing of the Ways actions."
+      },
+      {
+        "id": "achievement-77",
+        "name": "Eastern Emperor",
+        "kind": "trophy",
+        "chapterId": "campaign-victories",
+        "where": "Playing as Cathay, win a singleplayer campaign."
+      },
+      {
+        "id": "achievement-78",
+        "name": "Dragon Emperor",
+        "kind": "trophy",
+        "chapterId": "legendary-victories",
+        "where": "Playing as Cathay, win a singleplayer campaign on Very Hard or Legendary difficulty."
+      },
+      {
+        "id": "achievement-79",
+        "name": "All Souls Slain",
+        "kind": "trophy",
+        "chapterId": "campaign-victories",
+        "where": "Playing as the Daemon Prince, win a singleplayer campaign."
+      },
+      {
+        "id": "achievement-80",
+        "name": "Dark Master",
+        "kind": "trophy",
+        "chapterId": "legendary-victories",
+        "where": "Playing as the Daemon Prince, win a singleplayer campaign on Very Hard or Legendary difficulty."
+      },
+      {
+        "id": "achievement-81",
+        "name": "Blood God",
+        "kind": "trophy",
+        "chapterId": "campaign-victories",
+        "where": "Playing as Khorne, win a singleplayer campaign."
+      },
+      {
+        "id": "achievement-82",
+        "name": "Blood-Soaked Victor",
+        "kind": "trophy",
+        "chapterId": "legendary-victories",
+        "where": "Playing as Khorne, win a singleplayer campaign on Very Hard or Legendary difficulty."
+      },
+      {
+        "id": "achievement-83",
+        "name": "Northern Nicator",
+        "kind": "trophy",
+        "chapterId": "campaign-victories",
+        "where": "Playing as Kislev, win a singleplayer campaign."
+      },
+      {
+        "id": "achievement-84",
+        "name": "Oblast Overlord",
+        "kind": "trophy",
+        "chapterId": "legendary-victories",
+        "where": "Playing as Kislev, win a singleplayer campaign on Very Hard or Legendary difficulty."
+      },
+      {
+        "id": "achievement-85",
+        "name": "Legendary Strategist",
+        "kind": "trophy",
+        "chapterId": "legendary-victories",
+        "where": "Win a singleplayer campaign on Legendary difficulty."
+      },
+      {
+        "id": "achievement-86",
+        "name": "Lord of Decay",
+        "kind": "trophy",
+        "chapterId": "campaign-victories",
+        "where": "Playing as Nurgle, win a singleplayer campaign."
+      },
+      {
+        "id": "achievement-87",
+        "name": "Decrepit Defeater",
+        "kind": "trophy",
+        "chapterId": "legendary-victories",
+        "where": "Playing as Nurgle, win a singleplayer campaign on Very Hard or Legendary difficulty."
+      },
+      {
+        "id": "achievement-88",
+        "name": "Tyrant Over All",
+        "kind": "trophy",
+        "chapterId": "campaign-victories",
+        "where": "Playing as the Ogre Kingdoms, win a singleplayer campaign."
+      },
+      {
+        "id": "achievement-89",
+        "name": "Odious Overtyrant",
+        "kind": "trophy",
+        "chapterId": "legendary-victories",
+        "where": "Playing as the Ogre Kingdoms, win a singleplayer campaign on Very Hard or Legendary difficulty."
+      },
+      {
+        "id": "achievement-90",
+        "name": "Prince of Excess",
+        "kind": "trophy",
+        "chapterId": "campaign-victories",
+        "where": "Playing as Slaanesh, win a singleplayer campaign."
+      },
+      {
+        "id": "achievement-91",
+        "name": "Twisted Vanquisher",
+        "kind": "trophy",
+        "chapterId": "legendary-victories",
+        "where": "Playing as Slaanesh, win a singleplayer campaign on Very Hard or Legendary difficulty."
+      },
+      {
+        "id": "achievement-92",
+        "name": "Changer of Ways",
+        "kind": "trophy",
+        "chapterId": "campaign-victories",
+        "where": "Playing as Tzeentch, win a singleplayer campaign."
+      },
+      {
+        "id": "achievement-93",
+        "name": "Winged Warlord",
+        "kind": "trophy",
+        "chapterId": "legendary-victories",
+        "where": "Playing as Tzeentch, win a singleplayer campaign on Very Hard or Legendary difficulty."
+      },
+      {
+        "id": "achievement-94",
+        "name": "Terror Transmogrified",
+        "kind": "trophy",
+        "chapterId": "chaos-factions",
+        "where": "Playing as Tzeentch, recruit a Lord of Change to one of your armies."
+      },
+      {
+        "id": "achievement-95",
+        "name": "Municipal Manipulator",
+        "kind": "trophy",
+        "chapterId": "chaos-factions",
+        "where": "Playing as Tzeentch, take control of a settlement via the Changing of the Ways."
+      },
+      {
+        "id": "achievement-96",
+        "name": "Black Fire Schemer",
+        "kind": "trophy",
+        "chapterId": "trials-of-fate",
+        "where": "Achieve a score of 15000 in the Black Fire Pass Trial."
+      },
+      {
+        "id": "achievement-97",
+        "name": "Hel Fenn Schemer",
+        "kind": "trophy",
+        "chapterId": "trials-of-fate",
+        "where": "Achieve a score of 15000 in the Hel Fenn Trial."
+      },
+      {
+        "id": "achievement-98",
+        "name": "Fallen Schemer",
+        "kind": "trophy",
+        "chapterId": "trials-of-fate",
+        "where": "Achieve a score of 15000 in the Fallen Gates Trial."
+      },
+      {
+        "id": "achievement-99",
+        "name": "Dark Schemer",
+        "kind": "trophy",
+        "chapterId": "trials-of-fate",
+        "where": "Achieve a score of 15000 in the Altar of Ultimate Darkness Trial."
+      },
+      {
+        "id": "achievement-100",
+        "name": "Tzeentchian Schemer",
+        "kind": "trophy",
+        "chapterId": "trials-of-fate",
+        "where": "Achieve a score of 15000 in the Realm of Tzeentch Trial."
+      },
+      {
+        "id": "achievement-101",
+        "name": "Black Fire Mastermind",
+        "kind": "trophy",
+        "chapterId": "trials-of-fate",
+        "where": "Achieve a score of 50000 in the Black Fire Pass Trial."
+      },
+      {
+        "id": "achievement-102",
+        "name": "Hel Fenn Mastermind",
+        "kind": "trophy",
+        "chapterId": "trials-of-fate",
+        "where": "Achieve a score of 50000 in the Hel Fenn Trial."
+      },
+      {
+        "id": "achievement-103",
+        "name": "Fallen Mastermind",
+        "kind": "trophy",
+        "chapterId": "trials-of-fate",
+        "where": "Achieve a score of 50000 in the Fallen Gates Trial."
+      },
+      {
+        "id": "achievement-104",
+        "name": "Dark Mastermind",
+        "kind": "trophy",
+        "chapterId": "trials-of-fate",
+        "where": "Achieve a score of 50000 in the Altar of Ultimate Darkness Trial."
+      },
+      {
+        "id": "achievement-105",
+        "name": "Tzeentchian Mastermind",
+        "kind": "trophy",
+        "chapterId": "trials-of-fate",
+        "where": "Achieve a score of 50000 in the Realm of Tzeentch Trial."
+      },
+      {
+        "id": "achievement-106",
+        "name": "Ultimate Mastermind",
+        "kind": "trophy",
+        "chapterId": "trials-of-fate",
+        "where": "Achieve a score of 100000 in all Trials of Fate."
+      },
+      {
+        "id": "achievement-107",
+        "name": "Realm of the Ruinous",
+        "kind": "trophy",
+        "chapterId": "campaign-victories",
+        "where": "Playing as the Beastmen, win a singleplayer campaign."
+      },
+      {
+        "id": "achievement-108",
+        "name": "Blood-Grounds, Everywhere!",
+        "kind": "trophy",
+        "chapterId": "legendary-victories",
+        "where": "Playing as the Beastmen, win a singleplayer campaign on Very Hard or Legendary difficulty."
+      },
+      {
+        "id": "achievement-109",
+        "name": "Heirs of Breton",
+        "kind": "trophy",
+        "chapterId": "campaign-victories",
+        "where": "Playing as Bretonnia, win a singleplayer campaign."
+      },
+      {
+        "id": "achievement-110",
+        "name": "Age of Chivalry",
+        "kind": "trophy",
+        "chapterId": "legendary-victories",
+        "where": "Playing as Bretonnia, win a singleplayer campaign on Very Hard or Legendary difficulty."
+      },
+      {
+        "id": "achievement-111",
+        "name": "Favoured Son of Chaos",
+        "kind": "trophy",
+        "chapterId": "campaign-victories",
+        "where": "Playing as Warriors of Chaos, win a singleplayer campaign."
+      },
+      {
+        "id": "achievement-112",
+        "name": "The End Times Approach",
+        "kind": "trophy",
+        "chapterId": "legendary-victories",
+        "where": "Playing as Warriors of Chaos, win a singleplayer campaign on Very Hard or Legendary difficulty."
+      },
+      {
+        "id": "achievement-113",
+        "name": "Sons of Hashut",
+        "kind": "trophy",
+        "chapterId": "campaign-victories",
+        "where": "Playing as the Chaos Dwarfs, win a singleplayer campaign."
+      },
+      {
+        "id": "achievement-114",
+        "name": "Engines of Ruin",
+        "kind": "trophy",
+        "chapterId": "legendary-victories",
+        "where": "Playing as the Chaos Dwarfs, win a singleplayer campaign on Very Hard or Legendary difficulty."
+      },
+      {
+        "id": "achievement-115",
+        "name": "Dreadlord",
+        "kind": "trophy",
+        "chapterId": "campaign-victories",
+        "where": "Playing as the Dark Elves, win a singleplayer campaign."
+      },
+      {
+        "id": "achievement-116",
+        "name": "Witch King",
+        "kind": "trophy",
+        "chapterId": "legendary-victories",
+        "where": "Playing as the Dark Elves, win a singleplayer campaign on Very Hard or Legendary difficulty."
+      },
+      {
+        "id": "achievement-117",
+        "name": "Dawi Dominance",
+        "kind": "trophy",
+        "chapterId": "campaign-victories",
+        "where": "Playing as Dwarfs, win a singleplayer campaign."
+      },
+      {
+        "id": "achievement-118",
+        "name": "Age of Reckoning",
+        "kind": "trophy",
+        "chapterId": "legendary-victories",
+        "where": "Playing as Dwarfs, win a singleplayer campaign on Very Hard or Legendary difficulty."
+      },
+      {
+        "id": "achievement-119",
+        "name": "Imperials of Excellence",
+        "kind": "trophy",
+        "chapterId": "campaign-victories",
+        "where": "Playing as the Empire, win a singleplayer campaign."
+      },
+      {
+        "id": "achievement-120",
+        "name": "Legends Amongst Men",
+        "kind": "trophy",
+        "chapterId": "legendary-victories",
+        "where": "Playing as the Empire, win a singleplayer campaign on Very Hard or Legendary difficulty."
+      },
+      {
+        "id": "achievement-121",
+        "name": "Da Best Waaagh!",
+        "kind": "trophy",
+        "chapterId": "campaign-victories",
+        "where": "Playing as Greenskins, win a singleplayer campaign."
+      },
+      {
+        "id": "achievement-122",
+        "name": "Da Greatest Waaagh! Ever!",
+        "kind": "trophy",
+        "chapterId": "legendary-victories",
+        "where": "Playing as Greenskins, win a singleplayer campaign on Very Hard or Legendary difficulty."
+      },
+      {
+        "id": "achievement-123",
+        "name": "Asur Prince",
+        "kind": "trophy",
+        "chapterId": "campaign-victories",
+        "where": "Playing as the High Elves, win a singleplayer campaign."
+      },
+      {
+        "id": "achievement-124",
+        "name": "Phoenix King",
+        "kind": "trophy",
+        "chapterId": "legendary-victories",
+        "where": "Playing as the High Elves, win a singleplayer campaign on Very Hard or Legendary difficulty."
+      },
+      {
+        "id": "achievement-125",
+        "name": "Slann Mage-Priest",
+        "kind": "trophy",
+        "chapterId": "campaign-victories",
+        "where": "Playing as the Lizardmen, win a singleplayer campaign."
+      },
+      {
+        "id": "achievement-126",
+        "name": "Old One",
+        "kind": "trophy",
+        "chapterId": "legendary-victories",
+        "where": "Playing as the Lizardmen, win a singleplayer campaign on Very Hard or Legendary difficulty."
+      },
+      {
+        "id": "achievement-127",
+        "name": "The Dark Gods' Playthings",
+        "kind": "trophy",
+        "chapterId": "campaign-victories",
+        "where": "Playing as Norsca, win a singleplayer campaign."
+      },
+      {
+        "id": "achievement-128",
+        "name": "Immortal Marauders",
+        "kind": "trophy",
+        "chapterId": "legendary-victories",
+        "where": "Playing as Norsca, win a singleplayer campaign on Very Hard or Legendary difficulty."
+      },
+      {
+        "id": "achievement-129",
+        "name": "Warlord",
+        "kind": "trophy",
+        "chapterId": "campaign-victories",
+        "where": "Playing as the Skaven, win a singleplayer campaign."
+      },
+      {
+        "id": "achievement-130",
+        "name": "Verminlord",
+        "kind": "trophy",
+        "chapterId": "legendary-victories",
+        "where": "Playing as the Skaven, win a singleplayer campaign on Very Hard or Legendary difficulty."
+      },
+      {
+        "id": "achievement-131",
+        "name": "Walk Like a Nehekharan",
+        "kind": "trophy",
+        "chapterId": "campaign-victories",
+        "where": "Playing as the Tomb Kings, win a singleplayer campaign."
+      },
+      {
+        "id": "achievement-132",
+        "name": "King of Kings",
+        "kind": "trophy",
+        "chapterId": "legendary-victories",
+        "where": "Playing as the Tomb Kings, win a singleplayer campaign on Very Hard or Legendary difficulty."
+      },
+      {
+        "id": "achievement-133",
+        "name": "Master of the Seas",
+        "kind": "trophy",
+        "chapterId": "campaign-victories",
+        "where": "Playing as a Vampire Coast, win a singleplayer campaign."
+      },
+      {
+        "id": "achievement-134",
+        "name": "A Tale will be Told",
+        "kind": "trophy",
+        "chapterId": "legendary-victories",
+        "where": "Playing as a Vampire Coast, win a singleplayer campaign on Very Hard or Legendary difficulty."
+      },
+      {
+        "id": "achievement-135",
+        "name": "Lambs to the Slaughter",
+        "kind": "trophy",
+        "chapterId": "campaign-victories",
+        "where": "Playing as the Vampire Counts, win a singleplayer campaign."
+      },
+      {
+        "id": "achievement-136",
+        "name": "Necromantic Dominance",
+        "kind": "trophy",
+        "chapterId": "legendary-victories",
+        "where": "Playing as the Vampire Counts, win a singleplayer campaign on Very Hard or Legendary difficulty."
+      },
+      {
+        "id": "achievement-137",
+        "name": "Season of Supremacy",
+        "kind": "trophy",
+        "chapterId": "campaign-victories",
+        "where": "Playing as Wood Elves, win a singleplayer campaign."
+      },
+      {
+        "id": "achievement-138",
+        "name": "Age of the Eternal Oak",
+        "kind": "trophy",
+        "chapterId": "legendary-victories",
+        "where": "Playing as Wood Elves, win a singleplayer campaign on Very Hard or Legendary difficulty."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/total-war-warhammer-iii",
+    "Achievement data from Steam (Steam Web API, app 1142710)",
+    "StrategyWiki: no page for this game, nothing used",
+    "Fandom (totalwarwarhammer.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://totalwarwarhammer.fandom.com/wiki/Total_War:_Warhammer_III"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). No StrategyWiki page under \"Total War: Warhammer III\", \"Total War: WARHAMMER III\" or \"Total War: Warhammer 3\". totalwarwarhammer.fandom.com answers the API under \"Total War: Warhammer III\", with about 122 linked articles, mostly factions, lords and DLC names such as \"Shadows of Change\", \"Thrones of Decay\", \"Omens of Destruction\" and \"Immortal Empires\"; names only were looked at, nothing copied. The Steam schema calls the app \"ValveTestApp71340\" (a placeholder name); the store list confirms app 1142710 as \"Total War: WARHAMMER III\". None of its 138 Steam achievements is hidden, so there is no spoiler story chapter. 49 achievements are campaign wins (24 normal, 25 Very Hard or Legendary, counting \"Legendary Strategist\"), split into two chapters. The campaign wins also cover factions such as Beastmen, Bretonnia, Dwarfs, Skaven and Wood Elves; the data does not say which campaign map or DLC each needs. Kislev's quest battle \"The Battle for Bokha\" sits with the Kislev, Cathay and Ogre chapter; the Ogre caravan raid on Cathay also sits there."
+}

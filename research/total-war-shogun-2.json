@@ -1,0 +1,123 @@
+{
+  "id": "total-war-shogun-2",
+  "title": "Total War: SHOGUN 2",
+  "year": 2011,
+  "platforms": [
+    "macOS",
+    "PC",
+    "Linux"
+  ],
+  "rawgId": 10560,
+  "rawgSlug": "total-war-shogun-2",
+  "released": "2011-03-14",
+  "developers": [
+    "Feral Interactive",
+    "Creative Assembly"
+  ],
+  "playtime": 5,
+  "genres": [
+    "Strategy"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Multiplayer",
+    "Steam Cloud",
+    "steam-trading-cards",
+    "Great Soundtrack",
+    "Co-op",
+    "cooperative",
+    "Tactical",
+    "stats",
+    "Moddable",
+    "Turn-Based"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/be9/be9cf02720c9326e11d0fda14518554f.jpg",
+  "steamAppId": null,
+  "achievements": {
+    "total": 0,
+    "examples": [],
+    "reason": "No Steam achievement list. Steam app 201270 (\"Total War: SHOGUN 2\") exists in the store list, but the Steam Web API returned an empty achievement schema for it and the global percentages call returned HTTP 403 (tried twice). RAWG lists 106 achievements with its own percentages; 28 are tagged \"[Fall of the Samurai only]\". They cover clan victories, difficulty, agents, battles, avatar conquest, multiplayer and Fall of the Samurai, which could seed an original checklist."
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": false,
+      "pages": 0,
+      "reason": "No page for Total War: SHOGUN 2 (MediaWiki API returned missing; see notes for other titles tried)"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 115,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://totalwar.fandom.com/wiki/Total_War:_Shogun_2"
+    }
+  },
+  "game": {
+    "id": "total-war-shogun-2",
+    "title": "Total War: SHOGUN 2",
+    "platforms": [
+      "macOS",
+      "PC",
+      "Linux"
+    ],
+    "blurb": "Strategy game from Creative Assembly and Feral Interactive, published by SEGA and Feral Interactive, released 2011-03-14. RAWG average playtime: 5 hours. Genre: Strategy. Chapters follow the modes and themes in the achievements RAWG lists (campaign, difficulty, battles, multiplayer and Fall of the Samurai), since Steam returned no achievement list.",
+    "accent": "#9C2A2A",
+    "chapters": [
+      {
+        "id": "grand-campaign",
+        "title": "Grand Campaign: Clans and Conquest",
+        "summary": "Winning as each clan (Chosokabe, Date, Hojo, Mori, Oda, Shimazu, Takeda, Tokugawa, Uesugi), becoming Shogun, holding Kyushu and Shikoku, and wiping out the Ikko-Ikki and Hattori.",
+        "steps": []
+      },
+      {
+        "id": "difficulty",
+        "title": "Campaign Difficulty",
+        "summary": "Winning a campaign on easy, normal, hard, very hard and legendary.",
+        "steps": []
+      },
+      {
+        "id": "agents-and-realm",
+        "title": "Agents, Arts, Fame and Trade",
+        "summary": "Maximum-level agents, mastering arts first, fame, trade posts and trade ships.",
+        "steps": []
+      },
+      {
+        "id": "battles",
+        "title": "Land, Siege and Naval Battles",
+        "summary": "Siege attacks and defences, rallies, hidden armies, hero armies, heads collected and other battle feats.",
+        "steps": []
+      },
+      {
+        "id": "avatar-conquest",
+        "title": "Avatar Conquest and Clans",
+        "summary": "The multiplayer avatar campaign map, veteran units, skill trees, joining a clan and clan tokens.",
+        "steps": []
+      },
+      {
+        "id": "multiplayer",
+        "title": "Multiplayer Battles and Co-op",
+        "summary": "Matchmade wins, the Shogun Ladder, drop-in battles, head-to-head and co-op campaigns.",
+        "steps": []
+      },
+      {
+        "id": "fall-of-the-samurai",
+        "title": "Fall of the Samurai",
+        "summary": "The achievements marked \"Fall of the Samurai only\": historical battles, the new clans on legendary, ironclads, railways and torpedoes.",
+        "steps": []
+      }
+    ],
+    "collectibles": []
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/total-war-shogun-2",
+    "Steam: no achievement list available for this game (see notes)",
+    "StrategyWiki: no page for this game, nothing used",
+    "Fandom (totalwar.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://totalwar.fandom.com/wiki/Total_War:_Shogun_2"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). RAWG's first result is the expected entry (id 10560); RAWG keeps \"Total War: Shogun 2 - Fall of the Samurai\" (2012-03-22) separately, and the achievements RAWG lists for this entry include those tagged \"[Fall of the Samurai only]\", so they get their own chapter. Steam app 201270 returned no achievements (see the collectible note), so steam=None and the chapters are our own grouping of all 106 RAWG achievements (11 pages read). StrategyWiki has no page under \"Total War: SHOGUN 2\" or \"Total War: Shogun 2\". totalwar.fandom.com has no page under \"Total War: SHOGUN 2\" but answers under \"Total War: Shogun 2\" with about 115 linked articles (clans, agents, clan packs, Fall of the Samurai, Historical Battles and an achievements list page); names only were looked at, nothing copied, and that lookup is the one saved for the build. \"Keeping to Traditions\" and \"Skilled Warrior\" mention Fall of the Samurai without the tag; they still fit that chapter. Splitting the avatar map from other multiplayer is our own choice."
+}

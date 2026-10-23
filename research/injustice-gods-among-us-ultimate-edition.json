@@ -1,0 +1,510 @@
+{
+  "id": "injustice-gods-among-us-ultimate-edition",
+  "title": "Injustice: Gods Among Us Ultimate Edition",
+  "year": 2013,
+  "platforms": [
+    "PlayStation 4",
+    "PS Vita",
+    "PC",
+    "Xbox 360",
+    "PlayStation 3"
+  ],
+  "rawgId": 17540,
+  "rawgSlug": "injustice-gods-among-us-ultimate-edition",
+  "released": "2013-11-12",
+  "developers": [
+    "NetherRealm Studios",
+    "High Voltage Software",
+    "Armature Studio"
+  ],
+  "playtime": 5,
+  "genres": [
+    "Action",
+    "Arcade",
+    "Fighting"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Multiplayer",
+    "Full controller support",
+    "Steam Cloud",
+    "Atmospheric",
+    "steam-trading-cards",
+    "Great Soundtrack",
+    "Story Rich",
+    "2D",
+    "Gore",
+    "Steam Leaderboards"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/234/23410661770ae13eac11066980834367.jpg",
+  "steamAppId": 242700,
+  "achievements": {
+    "total": 50,
+    "hidden": 0,
+    "examples": [
+      {
+        "name": "Unstoppable Force",
+        "percent": 55.0
+      },
+      {
+        "name": "FINISHED",
+        "percent": 53.2
+      },
+      {
+        "name": "Sidekick",
+        "percent": 48.3
+      },
+      {
+        "name": "I Conquered All",
+        "percent": 2.3
+      },
+      {
+        "name": "The Hero We Deserve",
+        "percent": 2.3
+      },
+      {
+        "name": "Feel the Burn!",
+        "percent": 2.3
+      },
+      {
+        "name": "Hoarder",
+        "percent": 2.3
+      },
+      {
+        "name": "World's Finest",
+        "percent": 2.2
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Injustice:_Gods_Among_Us",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 119,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://injustice.fandom.com/wiki/Injustice:_Gods_Among_Us"
+    }
+  },
+  "game": {
+    "id": "injustice-gods-among-us-ultimate-edition",
+    "title": "Injustice: Gods Among Us Ultimate Edition",
+    "platforms": [
+      "PlayStation 4",
+      "PS Vita",
+      "PC",
+      "Xbox 360",
+      "PlayStation 3"
+    ],
+    "blurb": "DC superhero fighting game from NetherRealm Studios (RAWG also lists High Voltage Software and Armature Studio), published by Warner Bros. Interactive, released 2013-11-12. RAWG average playtime: 5 hours. Genres: Action, Arcade, Fighting. Chapters follow the game modes named in the Steam achievements.",
+    "accent": "#B22234",
+    "chapters": [
+      {
+        "id": "story",
+        "title": "Story Mode",
+        "summary": "Completing half, then all, of Story Mode and winning every story minigame.",
+        "steps": []
+      },
+      {
+        "id": "battles",
+        "title": "Battle Mode",
+        "summary": "Classic Battle with any character and with all of them, and finishing Battle Mode.",
+        "steps": []
+      },
+      {
+        "id": "star-labs",
+        "title": "S.T.A.R. Lab Missions",
+        "summary": "Completing missions, earning stars and three-starring every mission.",
+        "steps": []
+      },
+      {
+        "id": "online",
+        "title": "Online and Multiplayer",
+        "summary": "Online, ranked and King of the Hill matches, online practice with a friend, and multiplayer wins with throws, timeouts and interactables.",
+        "steps": []
+      },
+      {
+        "id": "archives-and-hero-card",
+        "title": "Archives, Hero Card and Levels",
+        "summary": "Costumes and everything in the Archives, the Hero Card, backgrounds, icons, portraits and reaching levels 10 and 100.",
+        "steps": []
+      },
+      {
+        "id": "techniques",
+        "title": "Techniques, Characters and Arenas",
+        "summary": "The tutorial and practice, clashes, super moves, special and Meter Burn moves, combos, stage transitions and interactions, and character feats with Batman, Green Arrow and Deathstroke.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Top Rung",
+        "kind": "trophy",
+        "chapterId": "battles",
+        "where": "Complete Classic Battle with all characters"
+      },
+      {
+        "id": "achievement-2",
+        "name": "Rise to the Top",
+        "kind": "trophy",
+        "chapterId": "battles",
+        "where": "Complete Classic Battle with any character"
+      },
+      {
+        "id": "achievement-3",
+        "name": "Ultimate Battler",
+        "kind": "trophy",
+        "chapterId": "battles",
+        "where": "Complete Battle Mode"
+      },
+      {
+        "id": "achievement-4",
+        "name": "Throwdown!",
+        "kind": "trophy",
+        "chapterId": "online",
+        "where": "Perform 8 throws and win in a multiplayer match"
+      },
+      {
+        "id": "achievement-5",
+        "name": "Groundbreaking",
+        "kind": "trophy",
+        "chapterId": "online",
+        "where": "Use every interactable and win in a multiplayer match"
+      },
+      {
+        "id": "achievement-6",
+        "name": "Go Sit in the Corner",
+        "kind": "trophy",
+        "chapterId": "online",
+        "where": "Win a multiplayer match with a timeout"
+      },
+      {
+        "id": "achievement-7",
+        "name": "I Conquered All",
+        "kind": "trophy",
+        "chapterId": "star-labs",
+        "where": "Beat All S.T.A.R. Lab Missions (Excluding DLC)"
+      },
+      {
+        "id": "achievement-8",
+        "name": "Mini-Master",
+        "kind": "trophy",
+        "chapterId": "story",
+        "where": "Win all story mode minigames"
+      },
+      {
+        "id": "achievement-9",
+        "name": "Statistical Advantage",
+        "kind": "trophy",
+        "chapterId": "archives-and-hero-card",
+        "where": "View Your Hero Card"
+      },
+      {
+        "id": "achievement-10",
+        "name": "Sidekick",
+        "kind": "trophy",
+        "chapterId": "archives-and-hero-card",
+        "where": "Reach Level 10"
+      },
+      {
+        "id": "achievement-11",
+        "name": "The Hero We Deserve",
+        "kind": "trophy",
+        "chapterId": "archives-and-hero-card",
+        "where": "Reach Level 100"
+      },
+      {
+        "id": "achievement-12",
+        "name": "Almost There",
+        "kind": "trophy",
+        "chapterId": "story",
+        "where": "Complete 50% of Story Mode"
+      },
+      {
+        "id": "achievement-13",
+        "name": "Justice for All",
+        "kind": "trophy",
+        "chapterId": "story",
+        "where": "Complete 100% of Story Mode"
+      },
+      {
+        "id": "achievement-14",
+        "name": "Beginner's Luck!",
+        "kind": "trophy",
+        "chapterId": "online",
+        "where": "Win a single online match"
+      },
+      {
+        "id": "achievement-15",
+        "name": "Overthrown",
+        "kind": "trophy",
+        "chapterId": "online",
+        "where": "Dethrone the King in an online match"
+      },
+      {
+        "id": "achievement-16",
+        "name": "I Voted!",
+        "kind": "trophy",
+        "chapterId": "online",
+        "where": "Vote Correctly in a KOTH match"
+      },
+      {
+        "id": "achievement-17",
+        "name": "Streak Ender",
+        "kind": "trophy",
+        "chapterId": "online",
+        "where": "Defeat a Survivor"
+      },
+      {
+        "id": "achievement-18",
+        "name": "Breaking Records",
+        "kind": "trophy",
+        "chapterId": "online",
+        "where": "Win 100 complete Online Matches"
+      },
+      {
+        "id": "achievement-19",
+        "name": "Over The Top!",
+        "kind": "trophy",
+        "chapterId": "online",
+        "where": "Play 200 complete Online Matches"
+      },
+      {
+        "id": "achievement-20",
+        "name": "Lucky Break",
+        "kind": "trophy",
+        "chapterId": "online",
+        "where": "Win 1 complete Ranked match"
+      },
+      {
+        "id": "achievement-21",
+        "name": "Holy Knockout Batman!",
+        "kind": "trophy",
+        "chapterId": "online",
+        "where": "Win 10 complete Ranked matches"
+      },
+      {
+        "id": "achievement-22",
+        "name": "Buddy System",
+        "kind": "trophy",
+        "chapterId": "online",
+        "where": "Enter Online Practice with someone on your friends list"
+      },
+      {
+        "id": "achievement-23",
+        "name": "Practice Makes Perfect",
+        "kind": "trophy",
+        "chapterId": "techniques",
+        "where": "Enter Practice Mode"
+      },
+      {
+        "id": "achievement-24",
+        "name": "Learning is Fun",
+        "kind": "trophy",
+        "chapterId": "techniques",
+        "where": "Complete Tutorial"
+      },
+      {
+        "id": "achievement-25",
+        "name": "It Has Begun",
+        "kind": "trophy",
+        "chapterId": "star-labs",
+        "where": "Complete 1 S.T.A.R. Lab Mission"
+      },
+      {
+        "id": "achievement-26",
+        "name": "Overachiever",
+        "kind": "trophy",
+        "chapterId": "star-labs",
+        "where": "Get 3 stars on 1 S.T.A.R. Lab Mission"
+      },
+      {
+        "id": "achievement-27",
+        "name": "All Star",
+        "kind": "trophy",
+        "chapterId": "star-labs",
+        "where": "Get 100 Stars in S.T.A.R. Lab Mode"
+      },
+      {
+        "id": "achievement-28",
+        "name": "World's Finest",
+        "kind": "trophy",
+        "chapterId": "star-labs",
+        "where": "Complete All S.T.A.R. Lab Missions with 3 Stars"
+      },
+      {
+        "id": "achievement-29",
+        "name": "Heavy Hitter",
+        "kind": "trophy",
+        "chapterId": "techniques",
+        "where": "Perform a 10 hit combo with every character"
+      },
+      {
+        "id": "achievement-30",
+        "name": "Unstoppable Force",
+        "kind": "trophy",
+        "chapterId": "techniques",
+        "where": "Win a Clash sequence with any character"
+      },
+      {
+        "id": "achievement-31",
+        "name": "Wrecking Ball",
+        "kind": "trophy",
+        "chapterId": "techniques",
+        "where": "Knock an opponent through a transition"
+      },
+      {
+        "id": "achievement-32",
+        "name": "Around The World",
+        "kind": "trophy",
+        "chapterId": "techniques",
+        "where": "Knock opponent through all transitions across all levels"
+      },
+      {
+        "id": "achievement-33",
+        "name": "FINISHED",
+        "kind": "trophy",
+        "chapterId": "techniques",
+        "where": "Win a match with the super move of any character"
+      },
+      {
+        "id": "achievement-34",
+        "name": "Superhuman!",
+        "kind": "trophy",
+        "chapterId": "techniques",
+        "where": "Perform every character's supermove"
+      },
+      {
+        "id": "achievement-35",
+        "name": "Metahuman",
+        "kind": "trophy",
+        "chapterId": "techniques",
+        "where": "Perform every special move of every character"
+      },
+      {
+        "id": "achievement-36",
+        "name": "Feel the Burn!",
+        "kind": "trophy",
+        "chapterId": "techniques",
+        "where": "Perform every Meter Burn special move of every character"
+      },
+      {
+        "id": "achievement-37",
+        "name": "True Marksman",
+        "kind": "trophy",
+        "chapterId": "techniques",
+        "where": "Win a match with Green Arrow using only arrows"
+      },
+      {
+        "id": "achievement-38",
+        "name": "The Caped Crusader",
+        "kind": "trophy",
+        "chapterId": "techniques",
+        "where": "Win with Batman using every special move and his Supermove"
+      },
+      {
+        "id": "achievement-39",
+        "name": "Around and Around We Go",
+        "kind": "trophy",
+        "chapterId": "techniques",
+        "where": "Perform every level interaction once"
+      },
+      {
+        "id": "achievement-40",
+        "name": "Arkham City Lockdown",
+        "kind": "trophy",
+        "chapterId": "techniques",
+        "where": "Defeat every Villain With Batman"
+      },
+      {
+        "id": "achievement-41",
+        "name": "Only a Real Master",
+        "kind": "trophy",
+        "chapterId": "techniques",
+        "where": "Make a comeback when at low health (10% or less)"
+      },
+      {
+        "id": "achievement-42",
+        "name": "Perfect Aim",
+        "kind": "trophy",
+        "chapterId": "techniques",
+        "where": "Win a match as Deathstroke without missing a shot (minimum 12 shots)"
+      },
+      {
+        "id": "achievement-43",
+        "name": "Tourist",
+        "kind": "trophy",
+        "chapterId": "techniques",
+        "where": "Send an opponent through all three Metropolis transitions in one fight"
+      },
+      {
+        "id": "achievement-44",
+        "name": "Cosplay",
+        "kind": "trophy",
+        "chapterId": "archives-and-hero-card",
+        "where": "Unlock a costume in the Archives"
+      },
+      {
+        "id": "achievement-45",
+        "name": "Gonna Need More Closet Space",
+        "kind": "trophy",
+        "chapterId": "archives-and-hero-card",
+        "where": "Unlock All costumes in the Archives"
+      },
+      {
+        "id": "achievement-46",
+        "name": "Hoarder",
+        "kind": "trophy",
+        "chapterId": "archives-and-hero-card",
+        "where": "Unlock everything in the Archives"
+      },
+      {
+        "id": "achievement-47",
+        "name": "I Can Back it Up",
+        "kind": "trophy",
+        "chapterId": "archives-and-hero-card",
+        "where": "Equip a new Background Image"
+      },
+      {
+        "id": "achievement-48",
+        "name": "Iconic Representation",
+        "kind": "trophy",
+        "chapterId": "archives-and-hero-card",
+        "where": "Equip a new Icon"
+      },
+      {
+        "id": "achievement-49",
+        "name": "Looking Good!",
+        "kind": "trophy",
+        "chapterId": "archives-and-hero-card",
+        "where": "Equip a new Character Portrait"
+      },
+      {
+        "id": "achievement-50",
+        "name": "Bull in a China Shop",
+        "kind": "trophy",
+        "chapterId": "techniques",
+        "where": "Cause maximum damage in all Arenas (does not include Practice mode)"
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/injustice-gods-among-us-ultimate-edition",
+    "Achievement data from Steam (Steam Web API, app 242700)",
+    "StrategyWiki: no usable walkthrough, nothing used — https://strategywiki.org/wiki/Injustice:_Gods_Among_Us",
+    "Fandom (injustice.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://injustice.fandom.com/wiki/Injustice:_Gods_Among_Us"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). RAWG's first result is the expected Ultimate Edition entry (id 17540); RAWG keeps the 2013 \"Injustice: Gods Among Us\" (id 211) separately. Steam app 242700 is the Ultimate Edition itself (\"Injustice: Gods Among Us Ultimate Edition\" in the store list; its schema is named \"Cronus\", an internal codename); no Steam app for the original edition was found in the store list. StrategyWiki has no page under the Ultimate Edition title; \"Injustice: Gods Among Us\" is at completion stage 0. Twelve character pages are written (Aquaman, Ares, Bane, Batgirl, Batman, Black Adam, Catwoman, Cyborg, Deathstroke, Doomsday, Green Arrow, The Flash, about 7,100 to 11,800 characters each), plus Controls and Achievements and trophies; Walkthrough, Gameplay, Characters, Battles, S.T.A.R. Lab Missions, Archives, DLC and the other character pages are linked but not written, so it has no walkthrough to use. injustice.fandom.com answers the API under \"Injustice: Gods Among Us\" with about 119 linked articles; names only were looked at, nothing copied. None of the 50 Steam achievements is hidden. \"I Conquered All\" says it excludes DLC missions; no achievement names an added fighter. \"Defeat a Survivor\" and \"Vote Correctly in a KOTH match\" sit among the online achievements in the Steam list, so they are in the online chapter."
+}

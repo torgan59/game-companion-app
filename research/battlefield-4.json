@@ -1,0 +1,644 @@
+{
+  "id": "battlefield-4",
+  "title": "Battlefield 4",
+  "year": 2013,
+  "platforms": [
+    "PC",
+    "Xbox One",
+    "PlayStation 4",
+    "Xbox 360",
+    "PlayStation 3"
+  ],
+  "rawgId": 3842,
+  "rawgSlug": "battlefield-4",
+  "released": "2013-10-29",
+  "developers": [
+    "Electronic Arts",
+    "Electronic Arts DICE"
+  ],
+  "playtime": 6,
+  "genres": [
+    "Shooter"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Multiplayer",
+    "Full controller support",
+    "First-Person",
+    "FPS",
+    "Violent",
+    "PvP",
+    "Space",
+    "War",
+    "Military",
+    "Online PvP"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/ac7/ac7b8327343da12c971cfc418f390a11.jpg",
+  "steamAppId": 1238860,
+  "achievements": {
+    "total": 67,
+    "hidden": 1,
+    "examples": [
+      {
+        "name": "Fishing in Baku",
+        "percent": 49.0
+      },
+      {
+        "name": "Stumbled over it",
+        "percent": 45.3
+      },
+      {
+        "name": "Dunn's pride",
+        "percent": 43.5
+      },
+      {
+        "name": "Your Titan is Ready",
+        "percent": 1.2
+      },
+      {
+        "name": "Won them all",
+        "percent": 1.1
+      },
+      {
+        "name": "New Superpower",
+        "percent": 1.1
+      },
+      {
+        "name": "Street Fighter",
+        "percent": 1.0
+      },
+      {
+        "name": "King in the North",
+        "percent": 1.0
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Battlefield_4",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 500,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://battlefield.fandom.com/wiki/Battlefield_4"
+    }
+  },
+  "game": {
+    "id": "battlefield-4",
+    "title": "Battlefield 4",
+    "platforms": [
+      "PC",
+      "Xbox One",
+      "PlayStation 4",
+      "Xbox 360",
+      "PlayStation 3"
+    ],
+    "blurb": "Military first-person shooter from Electronic Arts DICE (RAWG also lists Electronic Arts), published by Electronic Arts, released 2013-10-29. RAWG average playtime: 6 hours. Genre: Shooter. Chapters follow the campaign missions and multiplayer content named in the Steam achievements.",
+    "accent": "#C8641E",
+    "chapters": [
+      {
+        "id": "campaign",
+        "title": "Campaign Missions",
+        "summary": "The missions the achievements name: Baku, Shanghai, South China Sea, Singapore, Kunlun Mountains, Tashgar and Suez, with score targets and weapon feats for each.",
+        "steps": []
+      },
+      {
+        "id": "endings",
+        "title": "The Valkyrie and the Endings",
+        "summary": "The choice over the Valkyrie and all three endings. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "collectibles-and-difficulty",
+        "title": "Collectibles, Assignments and Difficulty",
+        "summary": "Finding the 28 campaign collectibles, campaign assignments, and finishing on Easy, Normal and Hard.",
+        "steps": []
+      },
+      {
+        "id": "multiplayer",
+        "title": "Multiplayer",
+        "summary": "Dog tag kills, every game mode, the M1911, Obliteration bombs and reaching rank 25.",
+        "steps": []
+      },
+      {
+        "id": "china-rising",
+        "title": "China Rising",
+        "summary": "China Rising assignments, Air Superiority, the dirtbike, the SUAV and the bomber.",
+        "steps": []
+      },
+      {
+        "id": "metro-caspian-oman",
+        "title": "Operation Metro, Caspian Border and Gulf of Oman",
+        "summary": "Map feats on Operation Metro, Caspian Border and Gulf of Oman, and Capture the Flag.",
+        "steps": []
+      },
+      {
+        "id": "naval-strike",
+        "title": "Naval Strike",
+        "summary": "Carrier Assault, the ACV, the highest point in Naval Strike, the AA Mine and the old cannon.",
+        "steps": []
+      },
+      {
+        "id": "dragons-teeth",
+        "title": "Dragon's Teeth",
+        "summary": "Dragon's Teeth maps and assignments, Chainlink, the Ballistic Shield and the RAWR.",
+        "steps": []
+      },
+      {
+        "id": "final-stand",
+        "title": "Final Stand",
+        "summary": "Final Stand maps and assignments, the Titan Engines, the prototype weapons and one hidden achievement.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Storm bringer",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Obtain 20 000 points in the Singapore mission in the Campaign"
+      },
+      {
+        "id": "achievement-2",
+        "name": "A one-man riot",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Obtain 11 000 points in the Shanghai mission in the Campaign"
+      },
+      {
+        "id": "achievement-3",
+        "name": "Terror of the deep",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Obtain 11 000 points in the South China Sea mission in the Campaign"
+      },
+      {
+        "id": "achievement-4",
+        "name": "Gladiator",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Obtain 12 000 points in the Kunlun Mountains mission in the Campaign"
+      },
+      {
+        "id": "achievement-5",
+        "name": "Above and beyond the call",
+        "kind": "trophy",
+        "chapterId": "collectibles-and-difficulty",
+        "where": "Complete all Assignments in the Campaign"
+      },
+      {
+        "id": "achievement-6",
+        "name": "Demolition man",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Obtain 15 000 points in the Tashgar mission in the Campaign"
+      },
+      {
+        "id": "achievement-7",
+        "name": "Guardian of the fleet",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Obtain 6 000 points in the Suez mission in the Campaign"
+      },
+      {
+        "id": "achievement-8",
+        "name": "Full arsenal",
+        "kind": "trophy",
+        "chapterId": "collectibles-and-difficulty",
+        "where": "Unlock all assignments and collectibles in the Campaign"
+      },
+      {
+        "id": "achievement-9",
+        "name": "Fish",
+        "kind": "trophy",
+        "chapterId": "collectibles-and-difficulty",
+        "where": "Complete the Campaign on Easy"
+      },
+      {
+        "id": "achievement-10",
+        "name": "Dunn's pride",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Obtain 7 000 points in the Baku mission in the Campaign"
+      },
+      {
+        "id": "achievement-11",
+        "name": "Braving the storm",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Complete the Singapore mission in the Campaign"
+      },
+      {
+        "id": "achievement-12",
+        "name": "Wolves in sheep's clothing",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Complete the Shanghai mission in the Campaign"
+      },
+      {
+        "id": "achievement-13",
+        "name": "The fall of a Titan",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Complete the South China Sea mission in the Campaign"
+      },
+      {
+        "id": "achievement-14",
+        "name": "Dead by dawn",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Complete the Kunlun Mountains mission in the Campaign"
+      },
+      {
+        "id": "achievement-15",
+        "name": "Guns at dawn",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Complete the Suez mission in the Campaign"
+      },
+      {
+        "id": "achievement-16",
+        "name": "Fishing in Baku",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Complete the Baku mission in the Campaign"
+      },
+      {
+        "id": "achievement-17",
+        "name": "Antediluvian",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Complete the Tashgar mission in the Campaign"
+      },
+      {
+        "id": "achievement-18",
+        "name": "It was on the way...",
+        "kind": "trophy",
+        "chapterId": "collectibles-and-difficulty",
+        "where": "Find 6 collectibles in the Campaign"
+      },
+      {
+        "id": "achievement-19",
+        "name": "Took a casual look around",
+        "kind": "trophy",
+        "chapterId": "collectibles-and-difficulty",
+        "where": "Find 9 collectibles in the Campaign"
+      },
+      {
+        "id": "achievement-20",
+        "name": "Methodical search",
+        "kind": "trophy",
+        "chapterId": "collectibles-and-difficulty",
+        "where": "Find 15 collectibles in the Campaign"
+      },
+      {
+        "id": "achievement-21",
+        "name": "Done some searching",
+        "kind": "trophy",
+        "chapterId": "collectibles-and-difficulty",
+        "where": "Find 12 collectibles in the Campaign"
+      },
+      {
+        "id": "achievement-22",
+        "name": "No stone left unturned",
+        "kind": "trophy",
+        "chapterId": "collectibles-and-difficulty",
+        "where": "Find 18 collectibles in the Campaign"
+      },
+      {
+        "id": "achievement-23",
+        "name": "Every nook and cranny",
+        "kind": "trophy",
+        "chapterId": "collectibles-and-difficulty",
+        "where": "Find 21 collectibles in the Campaign"
+      },
+      {
+        "id": "achievement-24",
+        "name": "Stumbled over it",
+        "kind": "trophy",
+        "chapterId": "collectibles-and-difficulty",
+        "where": "Find 3 collectibles in the Campaign"
+      },
+      {
+        "id": "achievement-25",
+        "name": "Wolf",
+        "kind": "trophy",
+        "chapterId": "collectibles-and-difficulty",
+        "where": "Complete the Campaign on Normal"
+      },
+      {
+        "id": "achievement-26",
+        "name": "Tombstone",
+        "kind": "trophy",
+        "chapterId": "collectibles-and-difficulty",
+        "where": "Complete the Campaign on Hard"
+      },
+      {
+        "id": "achievement-27",
+        "name": "Recon",
+        "kind": "trophy",
+        "chapterId": "collectibles-and-difficulty",
+        "where": "Find 28 collectibles in the Campaign"
+      },
+      {
+        "id": "achievement-28",
+        "name": "Well placed",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Get 10 kills with C4 in the Baku mission in the Campaign"
+      },
+      {
+        "id": "achievement-29",
+        "name": "Wrecker",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Get 10 multi-kills in the Shanghai mission in the Campaign"
+      },
+      {
+        "id": "achievement-30",
+        "name": "Blood wake",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Get 30 headshots in the South China Sea mission in the Campaign"
+      },
+      {
+        "id": "achievement-31",
+        "name": "War turtle",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Get 15 kills with RPG in the Singapore mission in the Campaign"
+      },
+      {
+        "id": "achievement-32",
+        "name": "Infiltrator",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Get 10 adrenaline kills in the Tashgar mission in the Campaign"
+      },
+      {
+        "id": "achievement-33",
+        "name": "Shawshank",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Get 5 kills with Shank in the Kunlun Mountains mission in the Campaign"
+      },
+      {
+        "id": "achievement-34",
+        "name": "For tombstone",
+        "kind": "trophy",
+        "chapterId": "endings",
+        "where": "Let the Valkyrie be destroyed in the Campaign"
+      },
+      {
+        "id": "achievement-35",
+        "name": "For the people",
+        "kind": "trophy",
+        "chapterId": "endings",
+        "where": "Sacrifice Irish to save the Valkyrie in the Campaign"
+      },
+      {
+        "id": "achievement-36",
+        "name": "For the cause",
+        "kind": "trophy",
+        "chapterId": "endings",
+        "where": "Sacrifice Hannah to save the Valkyrie in the Campaign"
+      },
+      {
+        "id": "achievement-37",
+        "name": "Patience is a virtue",
+        "kind": "trophy",
+        "chapterId": "endings",
+        "where": "Experience all 3 endings in the Campaign"
+      },
+      {
+        "id": "achievement-38",
+        "name": "Turn around...",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "Perform 5 dog tag kills in Multiplayer"
+      },
+      {
+        "id": "achievement-39",
+        "name": "Won them all",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "Win a round of each game mode"
+      },
+      {
+        "id": "achievement-40",
+        "name": ".45 old school",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "Perform 45 kills with the M1911 Handgun in Multiplayer"
+      },
+      {
+        "id": "achievement-41",
+        "name": "Bomb squad",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "Deliver 5 bombs in Obliteration"
+      },
+      {
+        "id": "achievement-42",
+        "name": "Call me \"Sir\"",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "Reach rank 25."
+      },
+      {
+        "id": "achievement-43",
+        "name": "Fledgling",
+        "kind": "trophy",
+        "chapterId": "china-rising",
+        "where": "Play a round of Air Superiority"
+      },
+      {
+        "id": "achievement-44",
+        "name": "2 Wheels",
+        "kind": "trophy",
+        "chapterId": "china-rising",
+        "where": "Get a kill with the Dirtbike"
+      },
+      {
+        "id": "achievement-45",
+        "name": "Mini Kamikaze",
+        "kind": "trophy",
+        "chapterId": "china-rising",
+        "where": "Kill an enemy with the SUAV"
+      },
+      {
+        "id": "achievement-46",
+        "name": "Death From Above",
+        "kind": "trophy",
+        "chapterId": "china-rising",
+        "where": "Get a kill with the bomber"
+      },
+      {
+        "id": "achievement-47",
+        "name": "New Superpower",
+        "kind": "trophy",
+        "chapterId": "china-rising",
+        "where": "Complete all China Rising Assignments"
+      },
+      {
+        "id": "achievement-48",
+        "name": "Falling Down",
+        "kind": "trophy",
+        "chapterId": "metro-caspian-oman",
+        "where": "Kill an enemy with a ceiling collapse in Operation Metro"
+      },
+      {
+        "id": "achievement-49",
+        "name": "Dirty Job",
+        "kind": "trophy",
+        "chapterId": "metro-caspian-oman",
+        "where": "Find the hidden tunnel in Caspian Border"
+      },
+      {
+        "id": "achievement-50",
+        "name": "Torched",
+        "kind": "trophy",
+        "chapterId": "metro-caspian-oman",
+        "where": "Ignite a brush fire using the repair tool in Operation Metro or Caspian Border"
+      },
+      {
+        "id": "achievement-51",
+        "name": "Risky Business",
+        "kind": "trophy",
+        "chapterId": "metro-caspian-oman",
+        "where": "Kill an enemy flag carrier while carrying their flag in CTF"
+      },
+      {
+        "id": "achievement-52",
+        "name": "Blind Bomber",
+        "kind": "trophy",
+        "chapterId": "metro-caspian-oman",
+        "where": "In a round get 5 kills with air vehicles in Gulf of Oman"
+      },
+      {
+        "id": "achievement-53",
+        "name": "The Big Leagues",
+        "kind": "trophy",
+        "chapterId": "naval-strike",
+        "where": "Play a round of Carrier Assault"
+      },
+      {
+        "id": "achievement-54",
+        "name": "Killing Me Softly",
+        "kind": "trophy",
+        "chapterId": "naval-strike",
+        "where": "Get a kill in the ACV"
+      },
+      {
+        "id": "achievement-55",
+        "name": "Spotted",
+        "kind": "trophy",
+        "chapterId": "naval-strike",
+        "where": "Climb the highest point in Naval Strike"
+      },
+      {
+        "id": "achievement-56",
+        "name": "Fly Swatter",
+        "kind": "trophy",
+        "chapterId": "naval-strike",
+        "where": "Kill an enemy with the AA Mine"
+      },
+      {
+        "id": "achievement-57",
+        "name": "No Parley",
+        "kind": "trophy",
+        "chapterId": "naval-strike",
+        "where": "Get a kill with the old cannon"
+      },
+      {
+        "id": "achievement-58",
+        "name": "Link Repeater",
+        "kind": "trophy",
+        "chapterId": "dragons-teeth",
+        "where": "Win 2 rounds of Chainlink"
+      },
+      {
+        "id": "achievement-59",
+        "name": "Bulletproof. Sort Of...",
+        "kind": "trophy",
+        "chapterId": "dragons-teeth",
+        "where": "Spend 5 minutes using the Ballistic Shield"
+      },
+      {
+        "id": "achievement-60",
+        "name": "The Metropolitan",
+        "kind": "trophy",
+        "chapterId": "dragons-teeth",
+        "where": "Play a round on all Dragon's Teeth maps"
+      },
+      {
+        "id": "achievement-61",
+        "name": "RC Assassin",
+        "kind": "trophy",
+        "chapterId": "dragons-teeth",
+        "where": "Get 5 kills in a round with the RAWR"
+      },
+      {
+        "id": "achievement-62",
+        "name": "Street Fighter",
+        "kind": "trophy",
+        "chapterId": "dragons-teeth",
+        "where": "Complete all Dragon's Teeth Assignments"
+      },
+      {
+        "id": "achievement-63",
+        "name": "Snowbound",
+        "kind": "trophy",
+        "chapterId": "final-stand",
+        "where": "Play all Final Stand maps"
+      },
+      {
+        "id": "achievement-64",
+        "name": "Your Titan is Ready",
+        "kind": "trophy",
+        "chapterId": "final-stand",
+        "where": "Get a kill by activating the Titan Engines"
+      },
+      {
+        "id": "achievement-65",
+        "name": "Cold Blooded",
+        "kind": "trophy",
+        "chapterId": "final-stand",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-66",
+        "name": "Has science gone too far?",
+        "kind": "trophy",
+        "chapterId": "final-stand",
+        "where": "Get a kill using the HT-95 Levkov, XD-1 Accipiter, Rorsch Mk-1, and Schipunov 42"
+      },
+      {
+        "id": "achievement-67",
+        "name": "King in the North",
+        "kind": "trophy",
+        "chapterId": "final-stand",
+        "where": "Complete all Final Stand Assignments"
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/battlefield-4",
+    "Achievement data from Steam (Steam Web API, app 1238860)",
+    "StrategyWiki: no usable walkthrough, nothing used — https://strategywiki.org/wiki/Battlefield_4",
+    "Fandom (battlefield.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://battlefield.fandom.com/wiki/Battlefield_4"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). RAWG's first result is the expected entry (id 3842). RAWG lists five additions: China Rising, Second Assault, Naval Strike, Dragon's Teeth and Final Stand. Steam app 1238860 (\"Battlefield 4™\") was used. 1 of 67 Steam achievements is hidden: \"Cold Blooded\" (1.4%), which sits among the Final Stand achievements (GOSCC_63 to 67) in the list, so it was put in that chapter, a reasoned guess. The China Rising, Naval Strike, Dragon's Teeth and Final Stand chapters each hold a block of five achievements, and each block names its pack in at least one achievement or map (\"Naval Strike\" is named as a map). The block GOSCC_48 to 52 names Operation Metro, Caspian Border, Gulf of Oman and CTF but no pack; RAWG's \"Second Assault\" is the one addition not named by any achievement, but the data does not tie the two together, so that chapter is named for the maps. The campaign mission order is not in the data, so missions are listed as the achievements name them. StrategyWiki has a page at completion stage 0 (marked as a stub): Controls, Gameplay and Walkthrough are linked but not written; only its Table of Contents subpage exists, so nothing was used. battlefield.fandom.com answers the API under \"Battlefield 4\" with 500 linked articles (the query limit, so possibly more); names only were looked at, nothing copied."
+}

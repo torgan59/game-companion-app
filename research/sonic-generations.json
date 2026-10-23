@@ -1,0 +1,506 @@
+{
+  "id": "sonic-generations",
+  "title": "Sonic Generations",
+  "year": 2011,
+  "platforms": [
+    "PC",
+    "Nintendo 3DS",
+    "Xbox 360",
+    "PlayStation 3",
+    "PlayStation 4",
+    "Xbox One"
+  ],
+  "rawgId": 4331,
+  "rawgSlug": "sonic-generations",
+  "released": "2011-11-01",
+  "developers": [
+    "SEGA",
+    "Sonic Team",
+    "Devil's Details"
+  ],
+  "playtime": 2,
+  "genres": [
+    "Action",
+    "Arcade",
+    "Family",
+    "Platformer"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Full controller support",
+    "Steam Cloud",
+    "Great Soundtrack",
+    "2D",
+    "Third Person",
+    "Funny",
+    "Steam Leaderboards",
+    "Classic",
+    "Controller",
+    "stats"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/9a1/9a18c226cf379272c698f26d2b79b3da.jpg",
+  "steamAppId": 71340,
+  "achievements": {
+    "total": 49,
+    "hidden": 24,
+    "examples": [
+      {
+        "name": "The Opening Act",
+        "percent": 86.6
+      },
+      {
+        "name": "Bright Star",
+        "percent": 69.0
+      },
+      {
+        "name": "Eradicator",
+        "percent": 58.7
+      },
+      {
+        "name": "Red Ring Collector",
+        "percent": 4.5
+      },
+      {
+        "name": "(Hedge)Hogging It All Up!",
+        "percent": 4.2
+      },
+      {
+        "name": "Mad Skillz",
+        "percent": 4.1
+      },
+      {
+        "name": "Can't Touch This",
+        "percent": 3.1
+      },
+      {
+        "name": "Time Attacker",
+        "percent": 2.8
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Sonic_Generations",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 500,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://sonic.fandom.com/wiki/Sonic_Generations"
+    }
+  },
+  "game": {
+    "id": "sonic-generations",
+    "title": "Sonic Generations",
+    "platforms": [
+      "PC",
+      "Nintendo 3DS",
+      "Xbox 360",
+      "PlayStation 3",
+      "PlayStation 4",
+      "Xbox One"
+    ],
+    "blurb": "Platformer from SEGA, Sonic Team and Devil's Details, published by SEGA, released 2011-11-01. RAWG average playtime: 2 hours. Genres: Action, Arcade, Family, Platformer. Chapters follow the nine stages named in the Steam achievements, in the same order as StrategyWiki's contents page, plus chapters drawn from achievement themes.",
+    "accent": "#1E5BD8",
+    "chapters": [
+      {
+        "id": "stages-1-3",
+        "title": "Green Hill, Chemical Plant and Sky Sanctuary",
+        "summary": "The first three stages, their stage feats, and the boss and rival achievements with API names for Metal Sonic and the Death Egg. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "stages-4-6",
+        "title": "Speed Highway, City Escape and Seaside Hill",
+        "summary": "The middle three stages, their stage feats, and the achievements with API names for Shadow and Perfect Chaos. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "stages-7-9",
+        "title": "Crisis City, Rooftop Run and Planet Wisp",
+        "summary": "The last three stages, their stage feats, the Silver and Dragoon fights, the final boss, the emeralds and clearing the game. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "ranks-and-time",
+        "title": "S Ranks, Time Attack and Rankings",
+        "summary": "S ranks from one act to all of them, Time Attack on every stage, the rankings and the 30 Second Trial.",
+        "steps": []
+      },
+      {
+        "id": "challenges-and-collectibles",
+        "title": "Challenges, Missions and Collectibles",
+        "summary": "Friends' Challenges and chats, half and all missions, Red Star Rings, custom skills and every collectible.",
+        "steps": []
+      },
+      {
+        "id": "skills-and-tricks",
+        "title": "Tricks and Actions",
+        "summary": "Trick combos, defeating 100 enemies and performing all of Sonic's actions.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "The Opening Act",
+        "kind": "trophy",
+        "chapterId": "stages-1-3",
+        "where": "Completed the first stage."
+      },
+      {
+        "id": "achievement-2",
+        "name": "GREEN HILL Restored!",
+        "kind": "trophy",
+        "chapterId": "stages-1-3",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-3",
+        "name": "CHEMICAL PLANT Restored!",
+        "kind": "trophy",
+        "chapterId": "stages-1-3",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-4",
+        "name": "SKY SANCTUARY Restored!",
+        "kind": "trophy",
+        "chapterId": "stages-1-3",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-5",
+        "name": "SPEED HIGHWAY Restored!",
+        "kind": "trophy",
+        "chapterId": "stages-4-6",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-6",
+        "name": "CITY ESCAPE Restored!",
+        "kind": "trophy",
+        "chapterId": "stages-4-6",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-7",
+        "name": "SEASIDE HILL Restored!",
+        "kind": "trophy",
+        "chapterId": "stages-4-6",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-8",
+        "name": "CRISIS CITY Restored!",
+        "kind": "trophy",
+        "chapterId": "stages-7-9",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-9",
+        "name": "ROOFTOP RUN Restored!",
+        "kind": "trophy",
+        "chapterId": "stages-7-9",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-10",
+        "name": "PLANET WISP Restored!",
+        "kind": "trophy",
+        "chapterId": "stages-7-9",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-11",
+        "name": "Sunny side up",
+        "kind": "trophy",
+        "chapterId": "stages-1-3",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-12",
+        "name": "Perfect Punisher",
+        "kind": "trophy",
+        "chapterId": "stages-4-6",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-13",
+        "name": "Boom Boom Dragoon",
+        "kind": "trophy",
+        "chapterId": "stages-7-9",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-14",
+        "name": "Scrap Metal",
+        "kind": "trophy",
+        "chapterId": "stages-1-3",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-15",
+        "name": "Shadow Boxing",
+        "kind": "trophy",
+        "chapterId": "stages-4-6",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-16",
+        "name": "Silver Got Served",
+        "kind": "trophy",
+        "chapterId": "stages-7-9",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-17",
+        "name": "Treasure Hunter",
+        "kind": "trophy",
+        "chapterId": "stages-7-9",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-18",
+        "name": "All Stages Clear!",
+        "kind": "trophy",
+        "chapterId": "stages-7-9",
+        "where": "Cleared Sonic Generations."
+      },
+      {
+        "id": "achievement-19",
+        "name": "Greased Lightning",
+        "kind": "trophy",
+        "chapterId": "stages-1-3",
+        "where": "Cleared Green Hill within one minute."
+      },
+      {
+        "id": "achievement-20",
+        "name": "Bright Star",
+        "kind": "trophy",
+        "chapterId": "ranks-and-time",
+        "where": "Got Rank S in an act."
+      },
+      {
+        "id": "achievement-21",
+        "name": "Shooting Star",
+        "kind": "trophy",
+        "chapterId": "ranks-and-time",
+        "where": "Got Rank S in acts three times."
+      },
+      {
+        "id": "achievement-22",
+        "name": "Blazing Meteor",
+        "kind": "trophy",
+        "chapterId": "ranks-and-time",
+        "where": "Got Rank S in acts seven times."
+      },
+      {
+        "id": "achievement-23",
+        "name": "Blue Comet",
+        "kind": "trophy",
+        "chapterId": "ranks-and-time",
+        "where": "Got Rank S in acts 12 times."
+      },
+      {
+        "id": "achievement-24",
+        "name": "Big Bang",
+        "kind": "trophy",
+        "chapterId": "ranks-and-time",
+        "where": "Got Rank S in all acts."
+      },
+      {
+        "id": "achievement-25",
+        "name": "Trickstar",
+        "kind": "trophy",
+        "chapterId": "skills-and-tricks",
+        "where": "Executed a trick with a seven-step combo or longer."
+      },
+      {
+        "id": "achievement-26",
+        "name": "Eradicator",
+        "kind": "trophy",
+        "chapterId": "skills-and-tricks",
+        "where": "Defeated 100 enemies."
+      },
+      {
+        "id": "achievement-27",
+        "name": "Ring King",
+        "kind": "trophy",
+        "chapterId": "stages-1-3",
+        "where": "Reached the goal without dropping any of the rings you collected in GREEN HILL Act 1."
+      },
+      {
+        "id": "achievement-28",
+        "name": "Action Hero",
+        "kind": "trophy",
+        "chapterId": "skills-and-tricks",
+        "where": "Performed all of Sonic's actions in Act 2."
+      },
+      {
+        "id": "achievement-29",
+        "name": "Can't Touch This",
+        "kind": "trophy",
+        "chapterId": "stages-7-9",
+        "where": "Took no damage while defeating the final boss."
+      },
+      {
+        "id": "achievement-30",
+        "name": "Bonds of Friendship",
+        "kind": "trophy",
+        "chapterId": "challenges-and-collectibles",
+        "where": "Completed all of Sonic's friends' Challenges."
+      },
+      {
+        "id": "achievement-31",
+        "name": "Walkie Talkie",
+        "kind": "trophy",
+        "chapterId": "challenges-and-collectibles",
+        "where": "Chatted with all of Sonic's friends you saved."
+      },
+      {
+        "id": "achievement-32",
+        "name": "Join the Ranks",
+        "kind": "trophy",
+        "chapterId": "ranks-and-time",
+        "where": "Joined the rankings."
+      },
+      {
+        "id": "achievement-33",
+        "name": "A 30-Second Test",
+        "kind": "trophy",
+        "chapterId": "ranks-and-time",
+        "where": "Participated in a 30 Second Trial."
+      },
+      {
+        "id": "achievement-34",
+        "name": "Jump for Joy!",
+        "kind": "trophy",
+        "chapterId": "stages-1-3",
+        "where": "Found the spring hidden in GREEN HILL Act 1 and reached the goal with a Red Star Ring."
+      },
+      {
+        "id": "achievement-35",
+        "name": "Walk on Water",
+        "kind": "trophy",
+        "chapterId": "stages-1-3",
+        "where": "Cleared CHEMICAL PLANT without entering the water."
+      },
+      {
+        "id": "achievement-36",
+        "name": "Walk on Air",
+        "kind": "trophy",
+        "chapterId": "stages-1-3",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-37",
+        "name": "The Byway or the Highway",
+        "kind": "trophy",
+        "chapterId": "stages-4-6",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-38",
+        "name": "Demolition Derby",
+        "kind": "trophy",
+        "chapterId": "stages-4-6",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-39",
+        "name": "Secret Sleuth",
+        "kind": "trophy",
+        "chapterId": "stages-4-6",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-40",
+        "name": "Look Both Ways",
+        "kind": "trophy",
+        "chapterId": "stages-7-9",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-41",
+        "name": "A Quick Breather",
+        "kind": "trophy",
+        "chapterId": "stages-7-9",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-42",
+        "name": "Color Power!",
+        "kind": "trophy",
+        "chapterId": "stages-7-9",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-43",
+        "name": "Supersonic!",
+        "kind": "trophy",
+        "chapterId": "stages-7-9",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-44",
+        "name": "Mad Skillz",
+        "kind": "trophy",
+        "chapterId": "challenges-and-collectibles",
+        "where": "Got all custom skills."
+      },
+      {
+        "id": "achievement-45",
+        "name": "(Hedge)Hogging It All Up!",
+        "kind": "trophy",
+        "chapterId": "challenges-and-collectibles",
+        "where": "Got all collectibles."
+      },
+      {
+        "id": "achievement-46",
+        "name": "Time Attacker",
+        "kind": "trophy",
+        "chapterId": "ranks-and-time",
+        "where": "Played Time Attack on all stages."
+      },
+      {
+        "id": "achievement-47",
+        "name": "Red Ring Collector",
+        "kind": "trophy",
+        "chapterId": "challenges-and-collectibles",
+        "where": "Got all Red Star Rings."
+      },
+      {
+        "id": "achievement-48",
+        "name": "Halfway Point",
+        "kind": "trophy",
+        "chapterId": "challenges-and-collectibles",
+        "where": "Cleared half the missions."
+      },
+      {
+        "id": "achievement-49",
+        "name": "Mission Accomplished!",
+        "kind": "trophy",
+        "chapterId": "challenges-and-collectibles",
+        "where": "Cleared all the missions."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/sonic-generations",
+    "Achievement data from Steam (Steam Web API, app 71340)",
+    "StrategyWiki: no usable walkthrough, nothing used — https://strategywiki.org/wiki/Sonic_Generations",
+    "Fandom (sonic.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://sonic.fandom.com/wiki/Sonic_Generations"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). RAWG's first result is the expected entry (id 4331); RAWG keeps \"Sonic X Shadow Generations\" (2024) separately. The Steam store list has app 71340, titled \"Sonic Generations Collection\" (the only match for this title); its schema is named \"ValveTestApp71340\" (a placeholder name) and has 49 achievements, 24 hidden. SONIC X SHADOW GENERATIONS is a separate app (2513280) and was not used. StrategyWiki has \"Sonic Generations\" at completion stage 2, but only Controls, Achievements and trophies, Metal Sonic, Shadow the Hedgehog, Silver the Hedgehog and Table of Contents are written; Gameplay, Walkthrough, all 18 act pages and the Death Egg Robot, Perfect Chaos, Egg Dragoon and Time Eater pages are linked but not written, so there was no walkthrough to use. Its contents page also carries a Sonic X Shadow Generations section. The order of its stages matches the Steam list (ClearGHZ to ClearPLA). sonic.fandom.com answers the API under \"Sonic Generations\" with at least 500 linked articles (the API limit); names only were looked at, nothing copied. The hidden boss and rival achievements have no descriptions; they are placed by API name: ClearBMS (\"Scrap Metal\", Metal Sonic), ClearBDE (\"Sunny side up\", read as the Death Egg), ClearBSD (\"Shadow Boxing\", Shadow), ClearBPC (\"Perfect Punisher\", Perfect Chaos), ClearBSL (\"Silver Got Served\", Silver) and ClearBNE (\"Boom Boom Dragoon\"). Hidden stage feats are placed by their API prefixes (Ssz, Sph, Cte, Ssh, Csc, Euc, Pla); ClearEUC is \"ROOFTOP RUN Restored!\", so Euc is read as Rooftop Run. \"Treasure Hunter\" (CompEmerald) and \"Supersonic!\" (ClearSuperSonic) sit in the last stage chapter as a guess. Grouping three stages per chapter is our own choice."
+}

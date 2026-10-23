@@ -1,0 +1,577 @@
+{
+  "id": "resident-evil-7-biohazard",
+  "title": "Resident Evil 7: Biohazard",
+  "year": 2017,
+  "platforms": [
+    "macOS",
+    "PlayStation 4",
+    "PC",
+    "Xbox One",
+    "Nintendo Switch"
+  ],
+  "rawgId": 480,
+  "rawgSlug": "resident-evil-7-biohazard",
+  "released": "2017-01-23",
+  "developers": [
+    "Capcom",
+    "Capcom U.S.A"
+  ],
+  "playtime": 10,
+  "genres": [
+    "Action",
+    "Shooter",
+    "Adventure"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Multiplayer",
+    "Full controller support",
+    "Steam Cloud",
+    "Atmospheric",
+    "steam-trading-cards",
+    "Story Rich",
+    "First-Person",
+    "Horror",
+    "FPS",
+    "Gore"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/cee/cee577e2097a59b77193fe2bce94667d.jpg",
+  "steamAppId": 418370,
+  "achievements": {
+    "total": 58,
+    "hidden": 0,
+    "examples": [
+      {
+        "name": "She's Alive",
+        "percent": 96.5
+      },
+      {
+        "name": "A-ha!",
+        "percent": 90.9
+      },
+      {
+        "name": "Welcome to the Family, Son",
+        "percent": 83.5
+      },
+      {
+        "name": "Best Birthday Ever",
+        "percent": 2.5
+      },
+      {
+        "name": "King of the Swamp",
+        "percent": 2.5
+      },
+      {
+        "name": "Miracle Chef",
+        "percent": 2.3
+      },
+      {
+        "name": "The Only Guns You Need",
+        "percent": 2.3
+      },
+      {
+        "name": "Don't Keep the Man Waiting",
+        "percent": 2.2
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Resident_Evil_7:_Biohazard",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 212,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://residentevil.fandom.com/wiki/Resident_Evil_7:_Biohazard"
+    }
+  },
+  "game": {
+    "id": "resident-evil-7-biohazard",
+    "title": "Resident Evil 7: Biohazard",
+    "platforms": [
+      "macOS",
+      "PlayStation 4",
+      "PC",
+      "Xbox One",
+      "Nintendo Switch"
+    ],
+    "blurb": "First-person survival horror game from Capcom, released 2017-01-23. RAWG average playtime: 10 hours. Genres: Action, Shooter, Adventure. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#5B4A2F",
+    "chapters": [
+      {
+        "id": "main-story",
+        "title": "The Main Story",
+        "summary": "From the trip to Louisiana through the guest house, the yard, the old house, the family home and the ship, to both endings.",
+        "steps": []
+      },
+      {
+        "id": "survival-basics",
+        "title": "Survival Basics",
+        "summary": "Doors, guarding, examining items, lock picks, shadow plinths, psychostimulants, bigger bags and Chem Fluid crafting.",
+        "steps": []
+      },
+      {
+        "id": "combat",
+        "title": "Fighting the Family",
+        "summary": "Knife finishes, multi-kills, Remote Bombs, and dealing with Marguerite and Jack.",
+        "steps": []
+      },
+      {
+        "id": "collectibles",
+        "title": "Videotapes, Coins, Files and Statuettes",
+        "summary": "The videotapes and their challenges, Antique Coins, files and the Mr. Everywhere statuettes.",
+        "steps": []
+      },
+      {
+        "id": "difficulty-and-runs",
+        "title": "Difficulty and Challenge Runs",
+        "summary": "Easy, Normal and Madhouse, the under-4-hours run, and runs with few Item Box visits or First Aid Meds.",
+        "steps": []
+      },
+      {
+        "id": "extra-modes",
+        "title": "Extra Modes",
+        "summary": "Nightmare, Night Terror, Bedroom, Ethan Must Die, 21, Daughters and Jack's 55th Birthday.",
+        "steps": []
+      },
+      {
+        "id": "end-of-zoe",
+        "title": "End of Zoe",
+        "summary": "Finishing End of Zoe on each difficulty, the no-weapons run, the Extreme Challenge, fist combos and stealth kills.",
+        "steps": []
+      },
+      {
+        "id": "not-a-hero",
+        "title": "Not a Hero",
+        "summary": "Finishing Not a Hero on Easy or Normal, and on Professional.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "She's Alive",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Travel to Louisiana."
+      },
+      {
+        "id": "achievement-2",
+        "name": "Welcome to the Family, Son",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Escape from the guest house."
+      },
+      {
+        "id": "achievement-3",
+        "name": "You Ain't Gettin' Away",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Escape to the yard."
+      },
+      {
+        "id": "achievement-4",
+        "name": "The Grave Will Out the Truth",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Uncover the secret in the old house."
+      },
+      {
+        "id": "achievement-5",
+        "name": "You Better Start Running",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Escape from the Baker family home."
+      },
+      {
+        "id": "achievement-6",
+        "name": "Into the Depths",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Escape from the ship."
+      },
+      {
+        "id": "achievement-7",
+        "name": "End of the Night",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Get ending 1."
+      },
+      {
+        "id": "achievement-8",
+        "name": "Just A Memory Now",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Get ending 2."
+      },
+      {
+        "id": "achievement-9",
+        "name": "Playing it Safe",
+        "kind": "trophy",
+        "chapterId": "difficulty-and-runs",
+        "where": "Complete the game on Easy."
+      },
+      {
+        "id": "achievement-10",
+        "name": "The Nightmare's Finally Over",
+        "kind": "trophy",
+        "chapterId": "difficulty-and-runs",
+        "where": "Complete the game on Normal."
+      },
+      {
+        "id": "achievement-11",
+        "name": "Who's Your Daddy Now?",
+        "kind": "trophy",
+        "chapterId": "difficulty-and-runs",
+        "where": "Complete the game on Madhouse."
+      },
+      {
+        "id": "achievement-12",
+        "name": "Behind Closed Doors",
+        "kind": "trophy",
+        "chapterId": "survival-basics",
+        "where": "Close an open door by yourself."
+      },
+      {
+        "id": "achievement-13",
+        "name": "Arms in the Air",
+        "kind": "trophy",
+        "chapterId": "survival-basics",
+        "where": "Block an enemy attack by guarding."
+      },
+      {
+        "id": "achievement-14",
+        "name": "A-ha!",
+        "kind": "trophy",
+        "chapterId": "survival-basics",
+        "where": "Obtain something by closely examining an item."
+      },
+      {
+        "id": "achievement-15",
+        "name": "Master of Unlocking",
+        "kind": "trophy",
+        "chapterId": "survival-basics",
+        "where": "Use a lock pick to open something."
+      },
+      {
+        "id": "achievement-16",
+        "name": "Nice Try",
+        "kind": "trophy",
+        "chapterId": "survival-basics",
+        "where": "Put an unrelated object on a shadow plinth."
+      },
+      {
+        "id": "achievement-17",
+        "name": "Open Your Eyes",
+        "kind": "trophy",
+        "chapterId": "survival-basics",
+        "where": "Use psychostimulants."
+      },
+      {
+        "id": "achievement-18",
+        "name": "In the Bag",
+        "kind": "trophy",
+        "chapterId": "survival-basics",
+        "where": "Increase your item slots."
+      },
+      {
+        "id": "achievement-19",
+        "name": "Things Got Personal",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Finish off an enemy with the knife."
+      },
+      {
+        "id": "achievement-20",
+        "name": "Slash Slash, Slashity Slash!",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Clear insects off a door using a knife."
+      },
+      {
+        "id": "achievement-21",
+        "name": "Back Off, Mrs. B!",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Fight off Marguerite while she wanders the old house to make her run away."
+      },
+      {
+        "id": "achievement-22",
+        "name": "Duck If You Love Life",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Avoid Jack's scissor attack by crouching."
+      },
+      {
+        "id": "achievement-23",
+        "name": "Less is More",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Take down two or more enemies with one shot."
+      },
+      {
+        "id": "achievement-24",
+        "name": "Fly Swatter",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Shoot and knock back Marguerite while she's leaping at you."
+      },
+      {
+        "id": "achievement-25",
+        "name": "That's a Spicy Meat-a-ball",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Kill an enemy by attaching a Remote Bomb to them and detonating it."
+      },
+      {
+        "id": "achievement-26",
+        "name": "1st Place at the Science Fair",
+        "kind": "trophy",
+        "chapterId": "survival-basics",
+        "where": "Create all items that contain Chem Fluid and Strong Chem Fluid."
+      },
+      {
+        "id": "achievement-27",
+        "name": "Can't Catch Me",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Complete the \"Mia\" videotape without being spotted by Marguerite."
+      },
+      {
+        "id": "achievement-28",
+        "name": "Out Before Dessert",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Complete the \"Happy Birthday\" videotape within 5 minutes."
+      },
+      {
+        "id": "achievement-29",
+        "name": "Be Kind, Please Rewind",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Watch all the videotapes in a single playthrough."
+      },
+      {
+        "id": "achievement-30",
+        "name": "Pelicans in Your Pocket",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Obtain all of the Antique Coins in Easy or Normal difficulty."
+      },
+      {
+        "id": "achievement-31",
+        "name": "Mad Pelicans",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Obtain all of the Antique Coins in Madhouse difficulty."
+      },
+      {
+        "id": "achievement-32",
+        "name": "The Devil Is in the Details",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Read all of the files in a single playthrough."
+      },
+      {
+        "id": "achievement-33",
+        "name": "He's Here, There, Everywhere!",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Destroy a Mr. Everywhere statuette."
+      },
+      {
+        "id": "achievement-34",
+        "name": "Mr. Nowhere",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Destroy all Mr. Everywhere statuettes."
+      },
+      {
+        "id": "achievement-35",
+        "name": "Just Get Me Outta Here",
+        "kind": "trophy",
+        "chapterId": "difficulty-and-runs",
+        "where": "Complete the game within 4 hours."
+      },
+      {
+        "id": "achievement-36",
+        "name": "Resource Manager",
+        "kind": "trophy",
+        "chapterId": "difficulty-and-runs",
+        "where": "Complete the game without opening the Item Box more than 3 times."
+      },
+      {
+        "id": "achievement-37",
+        "name": "Walk it Off",
+        "kind": "trophy",
+        "chapterId": "difficulty-and-runs",
+        "where": "Complete the game using only 3 First Aid Meds or less."
+      },
+      {
+        "id": "achievement-38",
+        "name": "Dead by Dawn?",
+        "kind": "trophy",
+        "chapterId": "extra-modes",
+        "where": "Complete Nightmare."
+      },
+      {
+        "id": "achievement-39",
+        "name": "Sleepless in Dulvey",
+        "kind": "trophy",
+        "chapterId": "extra-modes",
+        "where": "Complete Night Terror."
+      },
+      {
+        "id": "achievement-40",
+        "name": "Like Mama Used to Make",
+        "kind": "trophy",
+        "chapterId": "extra-modes",
+        "where": "Complete Bedroom."
+      },
+      {
+        "id": "achievement-41",
+        "name": "Ratcatcher",
+        "kind": "trophy",
+        "chapterId": "extra-modes",
+        "where": "Find all the dead rats in Bedroom in a single play."
+      },
+      {
+        "id": "achievement-42",
+        "name": "Ethan Never Dies",
+        "kind": "trophy",
+        "chapterId": "extra-modes",
+        "where": "Complete Ethan Must Die."
+      },
+      {
+        "id": "achievement-43",
+        "name": "Eye in the Sky",
+        "kind": "trophy",
+        "chapterId": "extra-modes",
+        "where": "Complete 21."
+      },
+      {
+        "id": "achievement-44",
+        "name": "Card Shark",
+        "kind": "trophy",
+        "chapterId": "extra-modes",
+        "where": "Complete Survival mode in 21."
+      },
+      {
+        "id": "achievement-45",
+        "name": "You Gotta Know When To Hold 'Em",
+        "kind": "trophy",
+        "chapterId": "extra-modes",
+        "where": "Complete Survival+ mode in 21."
+      },
+      {
+        "id": "achievement-46",
+        "name": "Butterfly Effect",
+        "kind": "trophy",
+        "chapterId": "extra-modes",
+        "where": "Get the bad ending in Daughters."
+      },
+      {
+        "id": "achievement-47",
+        "name": "One Instinct: Survival",
+        "kind": "trophy",
+        "chapterId": "extra-modes",
+        "where": "Get the true ending in Daughters."
+      },
+      {
+        "id": "achievement-48",
+        "name": "Don't Keep the Man Waiting",
+        "kind": "trophy",
+        "chapterId": "extra-modes",
+        "where": "Clear a stage with a 10 minute time bonus or higher in Jack's 55th Birthday."
+      },
+      {
+        "id": "achievement-49",
+        "name": "Miracle Chef",
+        "kind": "trophy",
+        "chapterId": "extra-modes",
+        "where": "Feed Jack every type of food and drink in Jack's 55th Birthday."
+      },
+      {
+        "id": "achievement-50",
+        "name": "Best Birthday Ever",
+        "kind": "trophy",
+        "chapterId": "extra-modes",
+        "where": "Get an S Rank or higher on all stages in Jack's 55th Birthday."
+      },
+      {
+        "id": "achievement-51",
+        "name": "Promise Kept",
+        "kind": "trophy",
+        "chapterId": "end-of-zoe",
+        "where": "Complete End of Zoe on Easy or Normal."
+      },
+      {
+        "id": "achievement-52",
+        "name": "King of the Swamp",
+        "kind": "trophy",
+        "chapterId": "end-of-zoe",
+        "where": "Complete End of Zoe on Joe Must Die."
+      },
+      {
+        "id": "achievement-53",
+        "name": "The Only Guns You Need",
+        "kind": "trophy",
+        "chapterId": "end-of-zoe",
+        "where": "Complete End of Zoe on Normal or Joe Must Die using no weapons."
+      },
+      {
+        "id": "achievement-54",
+        "name": "Fastest Man in the Swamp",
+        "kind": "trophy",
+        "chapterId": "end-of-zoe",
+        "where": "Complete an Extreme Challenge in End of Zoe."
+      },
+      {
+        "id": "achievement-55",
+        "name": "Queensberry Rules",
+        "kind": "trophy",
+        "chapterId": "end-of-zoe",
+        "where": "Perform a 4-hit combo with your bare fists in End of Zoe."
+      },
+      {
+        "id": "achievement-56",
+        "name": "Swamp Warfare",
+        "kind": "trophy",
+        "chapterId": "end-of-zoe",
+        "where": "Stealth kill 5 enemies in End of Zoe."
+      },
+      {
+        "id": "achievement-57",
+        "name": "Mission Accomplished",
+        "kind": "trophy",
+        "chapterId": "not-a-hero",
+        "where": "Complete Not a Hero on Easy or Normal difficulty."
+      },
+      {
+        "id": "achievement-58",
+        "name": "You're the Hero Now",
+        "kind": "trophy",
+        "chapterId": "not-a-hero",
+        "where": "Complete Not a Hero on Professional difficulty."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/resident-evil-7-biohazard",
+    "Achievement data from Steam (Steam Web API, app 418370)",
+    "StrategyWiki: no usable walkthrough, nothing used — https://strategywiki.org/wiki/Resident_Evil_7:_Biohazard",
+    "Fandom (residentevil.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://residentevil.fandom.com/wiki/Resident_Evil_7:_Biohazard"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). Steam app 418370; its schema names the game \"RESIDENT EVIL 7 biohazard / BIOHAZARD 7 resident evil\". RAWG's search also lists \"Resident Evil 7: Biohazard - Not A Hero\" and a teaser as separate entries, which were not used. StrategyWiki has a stub page (completion stage 0); only its \"Table of Contents\" subpage is written, and the Walkthrough, Gameplay and Controls pages it links are not, so nothing was used. residentevil.fandom.com has a \"Resident Evil 7: Biohazard\" page with about 212 linked pages; names only were looked at, nothing copied. None of the 58 Steam achievements is hidden, so no chapter is spoiler-guarded by default; the story chapter names places (the guest house, the old house, the ship) from the achievement text. The extra modes (Nightmare, Bedroom, 21, Daughters and so on), End of Zoe and Not a Hero each have achievements, so they get their own chapters; the data does not say how each one is bought or unlocked."
+}

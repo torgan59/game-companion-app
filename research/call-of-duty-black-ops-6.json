@@ -1,0 +1,466 @@
+{
+  "id": "call-of-duty-black-ops-6",
+  "title": "Call of Duty: Black Ops 6",
+  "year": 2024,
+  "platforms": [
+    "PC",
+    "PlayStation 5",
+    "Xbox Series X|S"
+  ],
+  "rawgId": 983212,
+  "rawgSlug": "call-of-duty-black-ops-6",
+  "released": "2024-10-24",
+  "developers": [
+    "Raven Software",
+    "Treyarch",
+    "Infinity Ward",
+    "Beenox",
+    "Sledgehammer Games",
+    "High Moon Studios",
+    "Activision Shanghai",
+    "Demonware"
+  ],
+  "playtime": null,
+  "genres": [
+    "Action",
+    "Shooter"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Multiplayer",
+    "Full controller support",
+    "Co-op",
+    "Story Rich",
+    "Open World",
+    "cooperative",
+    "First-Person",
+    "FPS",
+    "Online Co-Op",
+    "Gore"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/e89/e89f9a409bce5d36873f65ea9659c36e.jpg",
+  "steamAppId": 4384550,
+  "achievements": {
+    "total": 44,
+    "hidden": 2,
+    "examples": [
+      {
+        "name": "Show Off",
+        "percent": 74.9
+      },
+      {
+        "name": "The Pale Horse Arrives",
+        "percent": 69.9
+      },
+      {
+        "name": "Stylish Kill",
+        "percent": 65.0
+      },
+      {
+        "name": "Case in Point",
+        "percent": 3.3
+      },
+      {
+        "name": "Seek & Destroy",
+        "percent": 3.2
+      },
+      {
+        "name": "Culinary Delight",
+        "percent": 3.1
+      },
+      {
+        "name": "Bulldozed",
+        "percent": 2.7
+      },
+      {
+        "name": "David vs Goliath",
+        "percent": 2.6
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": false,
+      "pages": 0,
+      "reason": "No page for Call of Duty: Black Ops 6 (MediaWiki API returned missing; see notes for other titles tried)"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 500,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://callofduty.fandom.com/wiki/Call_of_Duty:_Black_Ops_6"
+    }
+  },
+  "game": {
+    "id": "call-of-duty-black-ops-6",
+    "title": "Call of Duty: Black Ops 6",
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "Xbox Series X|S"
+    ],
+    "blurb": "First-person shooter with a story campaign, multiplayer and Zombies, from Treyarch and Raven Software, released 2024-10-24. RAWG has no playtime yet. Genres: Action, Shooter. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#D35400",
+    "chapters": [
+      {
+        "id": "campaign-early",
+        "title": "Campaign: Opening Missions",
+        "summary": "Bishop Takes Rook, Blood Feud, Most Wanted, Hunting Season and The Cradle.",
+        "steps": []
+      },
+      {
+        "id": "campaign-late",
+        "title": "Campaign: Later Missions and Finale",
+        "summary": "Emergence, High Rollers, Ground Control, Under the Radar, Separation Anxiety, Checkmate and finishing the campaign. Hidden achievements sit here too.",
+        "steps": []
+      },
+      {
+        "id": "campaign-challenges",
+        "title": "Campaign Challenges and Veteran",
+        "summary": "Veteran difficulty, the special challenge in each mission, and campaign combat feats.",
+        "steps": []
+      },
+      {
+        "id": "safehouse",
+        "title": "The Safehouse",
+        "summary": "Solving every Safehouse puzzle and buying every Safehouse and player upgrade.",
+        "steps": []
+      },
+      {
+        "id": "multiplayer",
+        "title": "Multiplayer and Progression",
+        "summary": "Multiplayer wins and eliminations, Scorestreaks, the Training Course, Prestige, weapon Mastery Badges and camos.",
+        "steps": []
+      },
+      {
+        "id": "zombies",
+        "title": "Zombies",
+        "summary": "Zombies kills, augments, and the secrets of the Terminus and Liberty Falls maps.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Case Closed",
+        "kind": "trophy",
+        "chapterId": "campaign-late",
+        "where": "Complete the Campaign on any difficulty"
+      },
+      {
+        "id": "achievement-2",
+        "name": "To Know Your Enemy...",
+        "kind": "trophy",
+        "chapterId": "zombies",
+        "where": "Get 100 Kills while using Mutant Injections in Zombies"
+      },
+      {
+        "id": "achievement-3",
+        "name": "Case in Point",
+        "kind": "trophy",
+        "chapterId": "campaign-challenges",
+        "where": "Complete the Campaign on Veteran difficulty"
+      },
+      {
+        "id": "achievement-4",
+        "name": "Unexpected Move",
+        "kind": "trophy",
+        "chapterId": "campaign-early",
+        "where": "Complete Bishop Takes Rook in Campaign on any difficulty"
+      },
+      {
+        "id": "achievement-5",
+        "name": "Talent Acquisition",
+        "kind": "trophy",
+        "chapterId": "campaign-early",
+        "where": "Complete Blood Feud in Campaign on any difficulty"
+      },
+      {
+        "id": "achievement-6",
+        "name": "Breaking News",
+        "kind": "trophy",
+        "chapterId": "campaign-early",
+        "where": "Complete Most Wanted in Campaign on any difficulty"
+      },
+      {
+        "id": "achievement-7",
+        "name": "Bunker Busters",
+        "kind": "trophy",
+        "chapterId": "campaign-early",
+        "where": "Complete Hunting Season and The Cradle in Campaign on any difficulty"
+      },
+      {
+        "id": "achievement-8",
+        "name": "Head Games",
+        "kind": "trophy",
+        "chapterId": "campaign-late",
+        "where": "Complete Emergence in Campaign on any difficulty"
+      },
+      {
+        "id": "achievement-9",
+        "name": "Jackpot",
+        "kind": "trophy",
+        "chapterId": "campaign-late",
+        "where": "Complete High Rollers in Campaign on any difficulty"
+      },
+      {
+        "id": "achievement-10",
+        "name": "Grounded",
+        "kind": "trophy",
+        "chapterId": "campaign-late",
+        "where": "Complete Ground Control in Campaign on any difficulty"
+      },
+      {
+        "id": "achievement-11",
+        "name": "Consolation Prize",
+        "kind": "trophy",
+        "chapterId": "campaign-late",
+        "where": "Complete Under the Radar in Campaign on any difficulty"
+      },
+      {
+        "id": "achievement-12",
+        "name": "Capitol Punishment",
+        "kind": "trophy",
+        "chapterId": "campaign-late",
+        "where": "Complete Separation Anxiety in Campaign on any difficulty"
+      },
+      {
+        "id": "achievement-13",
+        "name": "Buried at Sea",
+        "kind": "trophy",
+        "chapterId": "campaign-late",
+        "where": "Complete Checkmate in Campaign on any difficulty"
+      },
+      {
+        "id": "achievement-14",
+        "name": "Covert Agent",
+        "kind": "trophy",
+        "chapterId": "campaign-challenges",
+        "where": "In Blood Feud, reach the Guild meeting without ever breaking stealth"
+      },
+      {
+        "id": "achievement-15",
+        "name": "Party's Over",
+        "kind": "trophy",
+        "chapterId": "campaign-challenges",
+        "where": "In Most Wanted, perform 5 takedowns on guards in the gala without being spotted"
+      },
+      {
+        "id": "achievement-16",
+        "name": "Full Clear",
+        "kind": "trophy",
+        "chapterId": "campaign-challenges",
+        "where": "In Hunting Season, complete every POI on the Tac Map"
+      },
+      {
+        "id": "achievement-17",
+        "name": "Skewer the Winged Beast",
+        "kind": "trophy",
+        "chapterId": "campaign-challenges",
+        "where": "In Under the Radar, have the SAM target itself and the helicopter"
+      },
+      {
+        "id": "achievement-18",
+        "name": "Bulldozed",
+        "kind": "trophy",
+        "chapterId": "campaign-challenges",
+        "where": "In Ground Control, crush 25 enemies while driving the tank"
+      },
+      {
+        "id": "achievement-19",
+        "name": "David vs Goliath",
+        "kind": "trophy",
+        "chapterId": "campaign-challenges",
+        "where": "In Checkmate, destroy the APC using an RC-XD"
+      },
+      {
+        "id": "achievement-20",
+        "name": "Dipped in Gold",
+        "kind": "trophy",
+        "chapterId": "safehouse",
+        "where": "Purchase all Safehouse and Player Upgrades in Campaign"
+      },
+      {
+        "id": "achievement-21",
+        "name": "The Puzzles, Mason",
+        "kind": "trophy",
+        "chapterId": "safehouse",
+        "where": "Complete all Safehouse Puzzles in Campaign"
+      },
+      {
+        "id": "achievement-22",
+        "name": "Seek & Destroy",
+        "kind": "trophy",
+        "chapterId": "campaign-challenges",
+        "where": "Get 2 Kills with a single remote controlled Throwing Knife from at least 50 meters away in Campaign"
+      },
+      {
+        "id": "achievement-23",
+        "name": "Rapid Reflexes",
+        "kind": "trophy",
+        "chapterId": "campaign-challenges",
+        "where": "Get 5 Headshot Kills during a single use of the Adrenaline Stim in Campaign"
+      },
+      {
+        "id": "achievement-24",
+        "name": "Close Combat Specialist",
+        "kind": "trophy",
+        "chapterId": "campaign-challenges",
+        "where": "Perform 10 takedowns in Campaign"
+      },
+      {
+        "id": "achievement-25",
+        "name": "Destructive Wake",
+        "kind": "trophy",
+        "chapterId": "campaign-challenges",
+        "where": "Get 5 or more Kills with a single Scorestreak in Campaign"
+      },
+      {
+        "id": "achievement-26",
+        "name": "Return of the King",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "Enter Prestige 1"
+      },
+      {
+        "id": "achievement-27",
+        "name": "Show Off",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "Earn a Mastery Badge for any weapon"
+      },
+      {
+        "id": "achievement-28",
+        "name": "Camos Are Forever",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "Unlock any Diamond or Opal Camo"
+      },
+      {
+        "id": "achievement-29",
+        "name": "The Pale Horse Arrives",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "Get 500 Eliminations in Multiplayer"
+      },
+      {
+        "id": "achievement-30",
+        "name": "Podium Finish",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "Win 25 Multiplayer Matches"
+      },
+      {
+        "id": "achievement-31",
+        "name": "Rush Hour",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "Get a Double Kill with the RC-XD in Multiplayer"
+      },
+      {
+        "id": "achievement-32",
+        "name": "Red Carpet",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "Get featured in the Best Play 3 times in Multiplayer"
+      },
+      {
+        "id": "achievement-33",
+        "name": "Doing Your Part",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "Complete the Training Course in Multiplayer"
+      },
+      {
+        "id": "achievement-34",
+        "name": "Betrayal",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "Kill an enemy from behind at close range while disguised by the Sleeper Agent"
+      },
+      {
+        "id": "achievement-35",
+        "name": "Heavy Ordinance Specialist",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "Destroy 50 Aerial Scorestreaks with Launchers in Multiplayer"
+      },
+      {
+        "id": "achievement-36",
+        "name": "Stylish Kill",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "Get 75 Eliminations while having an active Combat Speciality Perk in Multiplayer"
+      },
+      {
+        "id": "achievement-37",
+        "name": "No Mo' Modi",
+        "kind": "trophy",
+        "chapterId": "campaign-late",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-38",
+        "name": "Culinary Delight",
+        "kind": "trophy",
+        "chapterId": "zombies",
+        "where": "In Terminus, consume a fish cooked with a special ingredient"
+      },
+      {
+        "id": "achievement-39",
+        "name": "Treasure Hunter",
+        "kind": "trophy",
+        "chapterId": "zombies",
+        "where": "In Terminus, find the final Talisman"
+      },
+      {
+        "id": "achievement-40",
+        "name": "Bye-Bye, Dark Aether",
+        "kind": "trophy",
+        "chapterId": "zombies",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-41",
+        "name": "World Domination",
+        "kind": "trophy",
+        "chapterId": "zombies",
+        "where": "In Liberty Falls, tap into your Supervillain side"
+      },
+      {
+        "id": "achievement-42",
+        "name": "Deadwood",
+        "kind": "trophy",
+        "chapterId": "zombies",
+        "where": "In Liberty Falls, achieve a sporting high score"
+      },
+      {
+        "id": "achievement-43",
+        "name": "Cyberized",
+        "kind": "trophy",
+        "chapterId": "zombies",
+        "where": "Research all Augments for 10 Items in Zombies"
+      },
+      {
+        "id": "achievement-44",
+        "name": "Annihilation",
+        "kind": "trophy",
+        "chapterId": "zombies",
+        "where": "Get 100 Elite Zombie Eliminations in Zombies"
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/call-of-duty-black-ops-6",
+    "Achievement data from Steam (Steam Web API, app 4384550)",
+    "StrategyWiki: no page for this game, nothing used",
+    "Fandom (callofduty.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://callofduty.fandom.com/wiki/Call_of_Duty:_Black_Ops_6"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). No StrategyWiki page under \"Call of Duty: Black Ops 6\" or \"Call of Duty: Black Ops VI\". callofduty.fandom.com answers the API under \"Call of Duty: Black Ops 6\", with 500 or more linked pages (the link list was cut off at 500), including mission pages such as \"Bishop Takes Rook\", \"Blood Feud\" and \"Checkmate (level)\" and Zombies pages such as \"Dark Aether\" and \"Alistair Rhodes (Dark Aether)\"; names only were looked at, nothing copied. The Steam schema calls the app \"Argos\" (an internal codename); the store list confirms app 4384550 as \"Call of Duty®: Black Ops 6\". 2 of 44 Steam achievements are hidden: \"Bye-Bye, Dark Aether\" is placed in Zombies because Fandom files \"Dark Aether\" pages with the Zombies mode, and \"No Mo' Modi\" sits in the later campaign chapter as a placeholder. The campaign is split by the mission order of the Steam list and its falling unlock rates. \"Return of the King\" (Prestige 1), \"Show Off\" (Mastery Badge), \"Camos Are Forever\" and \"Betrayal\" (Sleeper Agent) do not name a mode; they sit in the multiplayer chapter. Multiplayer and Zombies need online play. RAWG lists eight studios as developers; the blurb names only the first two it lists, Raven Software and Treyarch."
+}

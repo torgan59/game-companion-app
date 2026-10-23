@@ -1,0 +1,467 @@
+{
+  "id": "call-of-duty-vanguard",
+  "title": "Call of Duty: Vanguard",
+  "year": 2021,
+  "platforms": [
+    "PC",
+    "Xbox Series X|S",
+    "Xbox One",
+    "PlayStation 5",
+    "PlayStation 4"
+  ],
+  "rawgId": 647552,
+  "rawgSlug": "call-of-duty-vanguard",
+  "released": "2021-11-05",
+  "developers": [
+    "Raven Software",
+    "Treyarch",
+    "Beenox",
+    "Sledgehammer Games",
+    "High Moon Studios",
+    "Demonware"
+  ],
+  "playtime": 9,
+  "genres": [
+    "Shooter"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Multiplayer",
+    "Full controller support",
+    "Co-op",
+    "cooperative",
+    "First-Person",
+    "FPS",
+    "Online Co-Op",
+    "Gore",
+    "Violent",
+    "Tactical"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/fa8/fa870a46d5e3e8cb1fa0a5e4f798ff2a.jpg",
+  "steamAppId": 1985820,
+  "achievements": {
+    "total": 44,
+    "hidden": 3,
+    "examples": [
+      {
+        "name": "Phoenix Extinguished",
+        "percent": 54.9
+      },
+      {
+        "name": "Allies Together, Strong",
+        "percent": 54.5
+      },
+      {
+        "name": "She'll be Right Mate",
+        "percent": 45.9
+      },
+      {
+        "name": "OH YEAH!",
+        "percent": 0.8
+      },
+      {
+        "name": "Shot Caller",
+        "percent": 0.8
+      },
+      {
+        "name": "Pop Goes the Nightingale",
+        "percent": 0.8
+      },
+      {
+        "name": "Heightened Senses",
+        "percent": 0.8
+      },
+      {
+        "name": "Pocket Full of Fun",
+        "percent": 0.8
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": false,
+      "pages": 0,
+      "reason": "No page for Call of Duty: Vanguard (MediaWiki API returned missing; see notes for other titles tried)"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 500,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://callofduty.fandom.com/wiki/Call_of_Duty:_Vanguard"
+    }
+  },
+  "game": {
+    "id": "call-of-duty-vanguard",
+    "title": "Call of Duty: Vanguard",
+    "platforms": [
+      "PC",
+      "Xbox Series X|S",
+      "Xbox One",
+      "PlayStation 5",
+      "PlayStation 4"
+    ],
+    "blurb": "Military first-person shooter from Raven Software, Treyarch, Beenox, Sledgehammer Games and High Moon Studios (as RAWG lists them), released 2021-11-05. RAWG average playtime: 9 hours. Genres: Shooter. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#8A6A3B",
+    "chapters": [
+      {
+        "id": "main-story",
+        "title": "The Campaign",
+        "summary": "Starting and finishing the campaign on any difficulty, plus three hidden milestones. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "campaign-missions",
+        "title": "Campaign Mission Challenges",
+        "summary": "Mission-specific feats in Phoenix, Operation Tonga, Stalingrad, The Battle of Midway, Numa Numa Trail, Lady Nightingale, The Rats of Tobruk, El Alamein and The Fourth Reich.",
+        "steps": []
+      },
+      {
+        "id": "squad-and-skills",
+        "title": "Squad Abilities and Campaign Skills",
+        "summary": "Each squad member's ability (Arthur, Polina, Wade, Lucas), blind fire, scavenging ammo, trying many weapons and smashing through walls.",
+        "steps": []
+      },
+      {
+        "id": "veteran",
+        "title": "Veteran Difficulty",
+        "summary": "Finishing the campaign on Veteran.",
+        "steps": []
+      },
+      {
+        "id": "multiplayer",
+        "title": "Multiplayer",
+        "summary": "Levelling up your rank, an operator and a weapon in Multiplayer.",
+        "steps": []
+      },
+      {
+        "id": "zombies",
+        "title": "Zombies",
+        "summary": "Covenants, Hearts, Demonic Fountains, Artifacts and zombie kill counts, including Der Anfang.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Phoenix Extinguished",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Beat Call of Duty: Vanguard Campaign on any difficulty."
+      },
+      {
+        "id": "achievement-2",
+        "name": "The Tip of the Spear",
+        "kind": "trophy",
+        "chapterId": "veteran",
+        "where": "Beat Call of Duty: Vanguard Campaign on Veteran difficulty."
+      },
+      {
+        "id": "achievement-3",
+        "name": "Did I Get 'Em?",
+        "kind": "trophy",
+        "chapterId": "squad-and-skills",
+        "where": "In Campaign, get 15 kills using Blind Fire."
+      },
+      {
+        "id": "achievement-4",
+        "name": "Munition Magpie",
+        "kind": "trophy",
+        "chapterId": "squad-and-skills",
+        "where": "In Campaign, scavenge ammo from 15 enemy corpses within 3 seconds of killing them."
+      },
+      {
+        "id": "achievement-5",
+        "name": "Gotta Try Them All!",
+        "kind": "trophy",
+        "chapterId": "squad-and-skills",
+        "where": "In Campaign, kill enemies with 15 different weapons throughout the game."
+      },
+      {
+        "id": "achievement-6",
+        "name": "OH YEAH!",
+        "kind": "trophy",
+        "chapterId": "squad-and-skills",
+        "where": "In Campaign, tactical sprint through 5 destructible walls."
+      },
+      {
+        "id": "achievement-7",
+        "name": "F",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-8",
+        "name": "Not Your Fairy Godmother",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-9",
+        "name": "Couldn't Have Done it Without You",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-10",
+        "name": "Shot Caller",
+        "kind": "trophy",
+        "chapterId": "squad-and-skills",
+        "where": "Give 15 different commands to your allies as Arthur."
+      },
+      {
+        "id": "achievement-11",
+        "name": "Pop Goes the Nightingale",
+        "kind": "trophy",
+        "chapterId": "squad-and-skills",
+        "where": "As Polina, kill 15 enemies immediately after emerging from a crawlspace."
+      },
+      {
+        "id": "achievement-12",
+        "name": "Heightened Senses",
+        "kind": "trophy",
+        "chapterId": "squad-and-skills",
+        "where": "As Wade, kill 15 enemies using the focus ability."
+      },
+      {
+        "id": "achievement-13",
+        "name": "Pocket Full of Fun",
+        "kind": "trophy",
+        "chapterId": "squad-and-skills",
+        "where": "As Lucas, use 4 types of lethal equipment, getting 3 kills with each."
+      },
+      {
+        "id": "achievement-14",
+        "name": "Ticket Please",
+        "kind": "trophy",
+        "chapterId": "campaign-missions",
+        "where": "In Phoenix, kill 15 enemies while standing atop a train car roof."
+      },
+      {
+        "id": "achievement-15",
+        "name": "Beware of Trains",
+        "kind": "trophy",
+        "chapterId": "campaign-missions",
+        "where": "In Phoenix, shoot a truck driver transporting a vehicle full of soldiers."
+      },
+      {
+        "id": "achievement-16",
+        "name": "Actions Speak Louder than Words",
+        "kind": "trophy",
+        "chapterId": "campaign-missions",
+        "where": "In Operation Tonga, protect Evans with quick reflexes."
+      },
+      {
+        "id": "achievement-17",
+        "name": "Only You Can Prevent Friendly Casualties",
+        "kind": "trophy",
+        "chapterId": "campaign-missions",
+        "where": "In Operation Tonga, throw smoke from the anti-tank ditch to provide cover for the charge."
+      },
+      {
+        "id": "achievement-18",
+        "name": "Legend in the Making",
+        "kind": "trophy",
+        "chapterId": "campaign-missions",
+        "where": "In Stalingrad, protect the Partisans without missing a shot."
+      },
+      {
+        "id": "achievement-19",
+        "name": "Rain of Fire",
+        "kind": "trophy",
+        "chapterId": "campaign-missions",
+        "where": "In Stalingrad, hit a halftrack with a Molotov Cocktail."
+      },
+      {
+        "id": "achievement-20",
+        "name": "Slow But Deadly",
+        "kind": "trophy",
+        "chapterId": "campaign-missions",
+        "where": "In The Battle of Midway, help 5 threatened Allies during the dogfight."
+      },
+      {
+        "id": "achievement-21",
+        "name": "Duck and Dive",
+        "kind": "trophy",
+        "chapterId": "campaign-missions",
+        "where": "In The Battle of Midway, avoid getting hit by bullets during the first Dive-Bomb."
+      },
+      {
+        "id": "achievement-22",
+        "name": "Untouchable",
+        "kind": "trophy",
+        "chapterId": "campaign-missions",
+        "where": "In Numa Numa Trail, avoid getting hit by the sniper."
+      },
+      {
+        "id": "achievement-23",
+        "name": "Survivalist",
+        "kind": "trophy",
+        "chapterId": "campaign-missions",
+        "where": "In Numa Numa Trail, find Mateo without firing a bullet."
+      },
+      {
+        "id": "achievement-24",
+        "name": "Bird of Prey",
+        "kind": "trophy",
+        "chapterId": "campaign-missions",
+        "where": "In Lady Nightingale, kill 5 snipers across the open field without getting hit by them."
+      },
+      {
+        "id": "achievement-25",
+        "name": "Behind You",
+        "kind": "trophy",
+        "chapterId": "campaign-missions",
+        "where": "In Lady Nightingale, take out all of Steiner's troops in the department store using only takedowns."
+      },
+      {
+        "id": "achievement-26",
+        "name": "That's Definitely Not a Knife",
+        "kind": "trophy",
+        "chapterId": "campaign-missions",
+        "where": "In the Rats of Tobruk, bring down the Stuka with a pistol, grenade or rocket."
+      },
+      {
+        "id": "achievement-27",
+        "name": "Pied Piper",
+        "kind": "trophy",
+        "chapterId": "campaign-missions",
+        "where": "In The Rats of Tobruk, lead the Rats through the desert without getting detected."
+      },
+      {
+        "id": "achievement-28",
+        "name": "Leaving an Impression",
+        "kind": "trophy",
+        "chapterId": "campaign-missions",
+        "where": "In the battle of El Alamein, get run over by a tank. Be more careful next time..."
+      },
+      {
+        "id": "achievement-29",
+        "name": "She'll be Right Mate",
+        "kind": "trophy",
+        "chapterId": "campaign-missions",
+        "where": "In the battle of El Alamein, get twice as many kills as Des during the final defend."
+      },
+      {
+        "id": "achievement-30",
+        "name": "Allies Together, Strong",
+        "kind": "trophy",
+        "chapterId": "campaign-missions",
+        "where": "In The Fourth Reich, use Leadership to help takedown a Jäger Mörder."
+      },
+      {
+        "id": "achievement-31",
+        "name": "Order in Chaos",
+        "kind": "trophy",
+        "chapterId": "campaign-missions",
+        "where": "In The Fourth Reich, go through the level without any instances of friendly fire."
+      },
+      {
+        "id": "achievement-32",
+        "name": "Leet Skills",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "Reach level 55 in Multiplayer."
+      },
+      {
+        "id": "achievement-33",
+        "name": "Top of the Mountain",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "Reach max level with an operator in Multiplayer (base game operators only)."
+      },
+      {
+        "id": "achievement-34",
+        "name": "Bling Pro 2.0",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "Reach max level with a weapon (base game weapons only)."
+      },
+      {
+        "id": "achievement-35",
+        "name": "Hello There",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Start the Campaign."
+      },
+      {
+        "id": "achievement-36",
+        "name": "Deal With the Devil",
+        "kind": "trophy",
+        "chapterId": "zombies",
+        "where": "Equip 3 Covenants."
+      },
+      {
+        "id": "achievement-37",
+        "name": "Baker's Dozen",
+        "kind": "trophy",
+        "chapterId": "zombies",
+        "where": "Sacrifice 13 Hearts."
+      },
+      {
+        "id": "achievement-38",
+        "name": "Thirst Quencher",
+        "kind": "trophy",
+        "chapterId": "zombies",
+        "where": "Drink from all 5 Demonic Fountains in a single session."
+      },
+      {
+        "id": "achievement-39",
+        "name": "As Cold as Ice",
+        "kind": "trophy",
+        "chapterId": "zombies",
+        "where": "Eliminate 10 zombies via melee that have been slowed by the Frost Blast Artifact."
+      },
+      {
+        "id": "achievement-40",
+        "name": "Shocking Behavior",
+        "kind": "trophy",
+        "chapterId": "zombies",
+        "where": "Eliminate 10 zombies that were damaged by the Energy Mine Artifact."
+      },
+      {
+        "id": "achievement-41",
+        "name": "Escape Artist",
+        "kind": "trophy",
+        "chapterId": "zombies",
+        "where": "While using the Aether Shroud Artifact, enter the Aether Shroud 5 times with less than 25% health."
+      },
+      {
+        "id": "achievement-42",
+        "name": "Hot Tempered",
+        "kind": "trophy",
+        "chapterId": "zombies",
+        "where": "Eliminate 10 zombies while your damage is increased by the Ring of Fire Artifact."
+      },
+      {
+        "id": "achievement-43",
+        "name": "Death Dealer",
+        "kind": "trophy",
+        "chapterId": "zombies",
+        "where": "In Der Anfang, eliminate 2500 zombies with a Pack-a-Punch level 3 weapon."
+      },
+      {
+        "id": "achievement-44",
+        "name": "Grim Reaper",
+        "kind": "trophy",
+        "chapterId": "zombies",
+        "where": "Eliminate 10,000 zombies."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/call-of-duty-vanguard",
+    "Achievement data from Steam (Steam Web API, app 1985820)",
+    "StrategyWiki: no page for this game, nothing used",
+    "Fandom (callofduty.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://callofduty.fandom.com/wiki/Call_of_Duty:_Vanguard"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). StrategyWiki has no page under \"Call of Duty: Vanguard\" or \"Call of Duty Vanguard\". callofduty.fandom.com answers the API under \"Call of Duty: Vanguard\" with 500 linked articles (the query limit, so possibly more); names only were looked at, nothing copied. 3 of 44 Steam achievements are hidden (\"F\", \"Not Your Fairy Godmother\" and \"Couldn't Have Done it Without You\") and sit in the campaign chapter as a placeholder. Steam API names start SP_ (campaign), MP_ (multiplayer) and ZM_ (zombies); \"Hello There\" (Start the Campaign) has an MP_ name but was put with the campaign. The mission chapter lists missions by the names the achievement descriptions use, in Steam list order, which may not be play order. Many campaign skill achievements show 0.8% on Steam."
+}

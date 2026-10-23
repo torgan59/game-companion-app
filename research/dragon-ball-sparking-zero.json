@@ -1,0 +1,505 @@
+{
+  "id": "dragon-ball-sparking-zero",
+  "title": "Dragon Ball: Sparking! Zero",
+  "year": 2025,
+  "platforms": [
+    "PlayStation 5",
+    "PC",
+    "Nintendo Switch",
+    "Xbox Series X|S"
+  ],
+  "rawgId": 974379,
+  "rawgSlug": "dragon-ball-sparking-zero",
+  "released": "2025-10-10",
+  "developers": [
+    "Spike Chunsoft"
+  ],
+  "playtime": 13,
+  "genres": [
+    "Action",
+    "Fighting"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Multiplayer",
+    "Full controller support",
+    "Steam Cloud",
+    "Co-op",
+    "Open World",
+    "cooperative",
+    "Third Person",
+    "Split Screen",
+    "Action-Adventure",
+    "Local Multiplayer"
+  ],
+  "coverUrl": "https://media.rawg.io/media/screenshots/64f/64fdee7e7b863fbc22460cb8e38614b9.jpg",
+  "steamAppId": 1790600,
+  "achievements": {
+    "total": 50,
+    "hidden": 21,
+    "examples": [
+      {
+        "name": "Rookie Warrior",
+        "percent": 80.1
+      },
+      {
+        "name": "A Taste of Victory",
+        "percent": 79.4
+      },
+      {
+        "name": "Rookie Title Collector",
+        "percent": 69.9
+      },
+      {
+        "name": "Come forth, Porunga!",
+        "percent": 8.8
+      },
+      {
+        "name": "Ready for Anything",
+        "percent": 8.6
+      },
+      {
+        "name": "Dream Battle",
+        "percent": 4.5
+      },
+      {
+        "name": "A Flair for Fighting",
+        "percent": 3.3
+      },
+      {
+        "name": "Sparking!",
+        "percent": 1.8
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Dragon_Ball:_Sparking!_Zero",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 340,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://dragonball.fandom.com/wiki/Dragon_Ball:_Sparking!_Zero"
+    }
+  },
+  "game": {
+    "id": "dragon-ball-sparking-zero",
+    "title": "Dragon Ball: Sparking! Zero",
+    "platforms": [
+      "PlayStation 5",
+      "PC",
+      "Nintendo Switch",
+      "Xbox Series X|S"
+    ],
+    "blurb": "Anime arena fighting game in the Budokai Tenkaichi line, from Spike Chunsoft, released 2025-10-10 (RAWG date). RAWG average playtime: 13 hours. Genres: Action, Fighting. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#F28C28",
+    "chapters": [
+      {
+        "id": "episode-battles",
+        "title": "Story Sagas",
+        "summary": "Goku's Saga and the other story sagas, with their hidden milestones. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "tournaments",
+        "title": "Tournaments",
+        "summary": "Winning the World Tournament, the Cell Games, the Other World Tournament, the Tournament of Destroyers and the Tournament of Power.",
+        "steps": []
+      },
+      {
+        "id": "battles-and-online",
+        "title": "Matches, Online and Bonus Battles",
+        "summary": "Winning matches, fighting online and clearing Bonus Battles.",
+        "steps": []
+      },
+      {
+        "id": "dragon-balls",
+        "title": "Dragon Balls and Wishes",
+        "summary": "Summoning Shenron, Porunga and Super Shenron and having a wish granted.",
+        "steps": []
+      },
+      {
+        "id": "customization",
+        "title": "Customization, Titles and Scenes",
+        "summary": "Customizing characters, editing your Player Card, earning titles and seeing Banter scenes and Special Finishers.",
+        "steps": []
+      },
+      {
+        "id": "progress",
+        "title": "Progress and Collection",
+        "summary": "Player levels, Zeni, Ability Items, unlocking characters and the full set.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "A Taste of Victory",
+        "kind": "trophy",
+        "chapterId": "battles-and-online",
+        "where": "Won 10 matches."
+      },
+      {
+        "id": "achievement-2",
+        "name": "Winning Streak",
+        "kind": "trophy",
+        "chapterId": "battles-and-online",
+        "where": "Won 100 matches."
+      },
+      {
+        "id": "achievement-3",
+        "name": "Encounter with New Rivals",
+        "kind": "trophy",
+        "chapterId": "battles-and-online",
+        "where": "Fought in 3 Online Battles."
+      },
+      {
+        "id": "achievement-4",
+        "name": "Connected Rivals",
+        "kind": "trophy",
+        "chapterId": "battles-and-online",
+        "where": "Fought in 100 Online Battles."
+      },
+      {
+        "id": "achievement-5",
+        "name": "Prepping For Battle",
+        "kind": "trophy",
+        "chapterId": "customization",
+        "where": "Customized a character."
+      },
+      {
+        "id": "achievement-6",
+        "name": "Fated Confrontation",
+        "kind": "trophy",
+        "chapterId": "customization",
+        "where": "Viewed 20 special Banter scenes."
+      },
+      {
+        "id": "achievement-7",
+        "name": "A Flair for Fighting",
+        "kind": "trophy",
+        "chapterId": "customization",
+        "where": "Viewed 20 Special Finishers."
+      },
+      {
+        "id": "achievement-8",
+        "name": "World Tournament Champion",
+        "kind": "trophy",
+        "chapterId": "tournaments",
+        "where": "Achieved victory in the World Tournament."
+      },
+      {
+        "id": "achievement-9",
+        "name": "Cell Games Champion",
+        "kind": "trophy",
+        "chapterId": "tournaments",
+        "where": "Achieved victory in the Cell Games."
+      },
+      {
+        "id": "achievement-10",
+        "name": "Other World Tournament Master",
+        "kind": "trophy",
+        "chapterId": "tournaments",
+        "where": "Achieved victory in the Other World Tournament."
+      },
+      {
+        "id": "achievement-11",
+        "name": "Tournament of Destroyers Dominator",
+        "kind": "trophy",
+        "chapterId": "tournaments",
+        "where": "Achieved victory in the Tournament of Destroyers."
+      },
+      {
+        "id": "achievement-12",
+        "name": "Tournament of Power Top Dog",
+        "kind": "trophy",
+        "chapterId": "tournaments",
+        "where": "Achieved victory in the Tournament of Power."
+      },
+      {
+        "id": "achievement-13",
+        "name": "I Can Never Get Enough!",
+        "kind": "trophy",
+        "chapterId": "episode-battles",
+        "where": "Completed Goku's Saga."
+      },
+      {
+        "id": "achievement-14",
+        "name": "Side by Side",
+        "kind": "trophy",
+        "chapterId": "episode-battles",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-15",
+        "name": "Pushing the Limit",
+        "kind": "trophy",
+        "chapterId": "episode-battles",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-16",
+        "name": "The Changing Future",
+        "kind": "trophy",
+        "chapterId": "episode-battles",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-17",
+        "name": "Mind Your Own Business...",
+        "kind": "trophy",
+        "chapterId": "episode-battles",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-18",
+        "name": "Parental Bond",
+        "kind": "trophy",
+        "chapterId": "episode-battles",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-19",
+        "name": "Number One Spot",
+        "kind": "trophy",
+        "chapterId": "episode-battles",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-20",
+        "name": "I'm Not a Kid Anymore!",
+        "kind": "trophy",
+        "chapterId": "episode-battles",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-21",
+        "name": "The Strongest Warrior",
+        "kind": "trophy",
+        "chapterId": "episode-battles",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-22",
+        "name": "Sorry to Keep You Waiting...",
+        "kind": "trophy",
+        "chapterId": "episode-battles",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-23",
+        "name": "A Mentor's Guidance",
+        "kind": "trophy",
+        "chapterId": "episode-battles",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-24",
+        "name": "Mortal or God, I Won't Lose!",
+        "kind": "trophy",
+        "chapterId": "episode-battles",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-25",
+        "name": "Shining Hope",
+        "kind": "trophy",
+        "chapterId": "episode-battles",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-26",
+        "name": "Inherited Pride",
+        "kind": "trophy",
+        "chapterId": "episode-battles",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-27",
+        "name": "Embarking toward Tomorrow",
+        "kind": "trophy",
+        "chapterId": "episode-battles",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-28",
+        "name": "The Atrocious Emperor",
+        "kind": "trophy",
+        "chapterId": "episode-battles",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-29",
+        "name": "Frieza Force Joins the Fray",
+        "kind": "trophy",
+        "chapterId": "episode-battles",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-30",
+        "name": "Zero Mortal Plan",
+        "kind": "trophy",
+        "chapterId": "episode-battles",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-31",
+        "name": "Proof of Justice",
+        "kind": "trophy",
+        "chapterId": "episode-battles",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-32",
+        "name": "Strength Is Justice",
+        "kind": "trophy",
+        "chapterId": "episode-battles",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-33",
+        "name": "True Strength",
+        "kind": "trophy",
+        "chapterId": "episode-battles",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-34",
+        "name": "The All-Knowing",
+        "kind": "trophy",
+        "chapterId": "episode-battles",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-35",
+        "name": "Dream Battle",
+        "kind": "trophy",
+        "chapterId": "battles-and-online",
+        "where": "Completed 30 Bonus Battles."
+      },
+      {
+        "id": "achievement-36",
+        "name": "Come forth, Shenron!",
+        "kind": "trophy",
+        "chapterId": "dragon-balls",
+        "where": "Summoned Shenron and had a wish granted."
+      },
+      {
+        "id": "achievement-37",
+        "name": "Come forth, Porunga!",
+        "kind": "trophy",
+        "chapterId": "dragon-balls",
+        "where": "Summoned Porunga and had a wish granted."
+      },
+      {
+        "id": "achievement-38",
+        "name": "Come forth, Super Shenron!",
+        "kind": "trophy",
+        "chapterId": "dragon-balls",
+        "where": "Summoned Super Shenron and had a wish granted."
+      },
+      {
+        "id": "achievement-39",
+        "name": "Rookie Warrior",
+        "kind": "trophy",
+        "chapterId": "progress",
+        "where": "Reached Player Level 5."
+      },
+      {
+        "id": "achievement-40",
+        "name": "Seasoned Warrior",
+        "kind": "trophy",
+        "chapterId": "progress",
+        "where": "Reached Player Level 20."
+      },
+      {
+        "id": "achievement-41",
+        "name": "Zenionnaire",
+        "kind": "trophy",
+        "chapterId": "progress",
+        "where": "Earned a total of 1,000,000 Zeni."
+      },
+      {
+        "id": "achievement-42",
+        "name": "Big Spender",
+        "kind": "trophy",
+        "chapterId": "progress",
+        "where": "Spent a total of 1,000,000 Zeni."
+      },
+      {
+        "id": "achievement-43",
+        "name": "A Little Something",
+        "kind": "trophy",
+        "chapterId": "progress",
+        "where": "Obtained 10 different Ability Items."
+      },
+      {
+        "id": "achievement-44",
+        "name": "Ready for Anything",
+        "kind": "trophy",
+        "chapterId": "progress",
+        "where": "Obtained 50 different Ability Items."
+      },
+      {
+        "id": "achievement-45",
+        "name": "New Challengers",
+        "kind": "trophy",
+        "chapterId": "progress",
+        "where": "Unlocked 10 characters. (Excludes add-on characters)"
+      },
+      {
+        "id": "achievement-46",
+        "name": "A Gathering of Rivals",
+        "kind": "trophy",
+        "chapterId": "progress",
+        "where": "Unlocked 40 characters. (Excludes add-on characters)"
+      },
+      {
+        "id": "achievement-47",
+        "name": "Showing Off",
+        "kind": "trophy",
+        "chapterId": "customization",
+        "where": "Completely edited a Player Card."
+      },
+      {
+        "id": "achievement-48",
+        "name": "Rookie Title Collector",
+        "kind": "trophy",
+        "chapterId": "customization",
+        "where": "Earned a title."
+      },
+      {
+        "id": "achievement-49",
+        "name": "Title Collector",
+        "kind": "trophy",
+        "chapterId": "customization",
+        "where": "Earned 100 titles."
+      },
+      {
+        "id": "achievement-50",
+        "name": "Sparking!",
+        "kind": "trophy",
+        "chapterId": "progress",
+        "where": "Completed all achievements."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/dragon-ball-sparking-zero",
+    "Achievement data from Steam (Steam Web API, app 1790600)",
+    "StrategyWiki: no usable walkthrough, nothing used — https://strategywiki.org/wiki/Dragon_Ball:_Sparking!_Zero",
+    "Fandom (dragonball.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://dragonball.fandom.com/wiki/Dragon_Ball:_Sparking!_Zero"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). StrategyWiki has a stub page (completion stage 0, marked \"Perfect stub article\"); of its subpages only \"Achievements and trophies\" and \"Table of Contents\" exist (Walkthrough, Gameplay and Controls are not written), so nothing was used. Its categories list both 2024 and 2025, while RAWG gives 2025-10-10 as the release date; the year here follows RAWG. dragonball.fandom.com answers the API with about 340 linked articles, mostly characters and places; names only were looked at, nothing copied. The Steam schema calls the app \"zero\" (an internal codename); the store list confirms app 1790600. 21 of 50 Steam achievements are hidden; they sit in the story sagas chapter, since only \"Completed Goku's Saga\" is visible. \"A Taste of Victory\" and \"Winning Streak\" (match wins) do not say which mode counts. Online battles need a network connection."
+}

@@ -1,0 +1,787 @@
+{
+  "id": "xcom-2",
+  "title": "XCOM 2",
+  "year": 2016,
+  "platforms": [
+    "Nintendo Switch",
+    "macOS",
+    "PC",
+    "PlayStation 4",
+    "Linux"
+  ],
+  "rawgId": 1256,
+  "rawgSlug": "xcom-2",
+  "released": "2016-02-04",
+  "developers": [
+    "Feral Interactive",
+    "2K",
+    "Firaxis"
+  ],
+  "playtime": 15,
+  "genres": [
+    "RPG",
+    "Strategy"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Multiplayer",
+    "Steam Cloud",
+    "Atmospheric",
+    "steam-trading-cards",
+    "Great Soundtrack",
+    "RPG",
+    "Co-op",
+    "cooperative",
+    "Sci-fi",
+    "Horror"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/9bf/9bfac18ff678f41a4674250fa0e04a52.jpg",
+  "steamAppId": 268500,
+  "achievements": {
+    "total": 88,
+    "hidden": 10,
+    "examples": [
+      {
+        "name": "First Blood",
+        "percent": 80.2
+      },
+      {
+        "name": "Like Clockwork",
+        "percent": 77.3
+      },
+      {
+        "name": "Rumor Hunter",
+        "percent": 75.1
+      },
+      {
+        "name": "Bug Fisherman",
+        "percent": 1.3
+      },
+      {
+        "name": "The Few and the Proud",
+        "percent": 1.2
+      },
+      {
+        "name": "Who Needs Tygan?",
+        "percent": 1.0
+      },
+      {
+        "name": "Exquisite Timing",
+        "percent": 0.9
+      },
+      {
+        "name": "Campaign Microcosm",
+        "percent": 0.9
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/XCOM_2",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 21,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://xcom.fandom.com/wiki/XCOM_2"
+    }
+  },
+  "game": {
+    "id": "xcom-2",
+    "title": "XCOM 2",
+    "platforms": [
+      "Nintendo Switch",
+      "macOS",
+      "PC",
+      "PlayStation 4",
+      "Linux"
+    ],
+    "blurb": "Turn-based tactics game from Firaxis (RAWG also lists 2K and Feral Interactive), released 2016-02-04. RAWG average playtime: 15 hours. Genres: RPG, Strategy. A tactics game has no fixed story chapters, so these chapters are built from Steam achievement themes: the campaign, difficulty challenges, the Avenger, combat, and the extra content the achievements name.",
+    "accent": "#3A7CA5",
+    "chapters": [
+      {
+        "id": "campaign",
+        "title": "The Campaign",
+        "summary": "The tutorial, contacting regions, rumors, sabotaging alien facilities and the hidden story milestones. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "difficulty",
+        "title": "Winning and Difficulty Challenges",
+        "summary": "Overthrowing the aliens, Commander and Legend difficulty, Ironman, and the special restrictions such as Rookie-only or conventional gear.",
+        "steps": []
+      },
+      {
+        "id": "avenger",
+        "title": "The Avenger and the Resistance",
+        "summary": "Facilities, the Proving Grounds, weapon and PCS upgrades, the Black Market, radio relays and continent bonuses.",
+        "steps": []
+      },
+      {
+        "id": "tactical-combat",
+        "title": "Tactical Combat",
+        "summary": "Ambushes, hacking, skulljacking, rescues, retaliation missions and special kills.",
+        "steps": []
+      },
+      {
+        "id": "alien-rulers",
+        "title": "Alien Rulers and Hunter Weapons",
+        "summary": "Killing the Viper, Berserker and Archon Rulers, ruler armor abilities and the final tier Hunter Weapons.",
+        "steps": []
+      },
+      {
+        "id": "spark",
+        "title": "SPARK Units and the Lost Towers",
+        "summary": "Building and promoting SPARK units, their feats, Derelict MECs and the Lost Towers mission.",
+        "steps": []
+      },
+      {
+        "id": "chosen-and-factions",
+        "title": "The Chosen and the Resistance Factions",
+        "summary": "The Chosen, the Lost, Reapers, Templars and Skirmishers, soldier bonds, tired soldiers and faction influence.",
+        "steps": []
+      },
+      {
+        "id": "legacy-and-modes",
+        "title": "Tactical Legacy Pack, Skirmish and Multiplayer",
+        "summary": "The legacy operations, Skirmish and Challenge missions, Tactical Legacy Pack content and multiplayer.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Earth Avenged",
+        "kind": "trophy",
+        "chapterId": "difficulty",
+        "where": "Overthrow the aliens at any difficulty level"
+      },
+      {
+        "id": "achievement-2",
+        "name": "Defender of Humanity",
+        "kind": "trophy",
+        "chapterId": "difficulty",
+        "where": "Overthrow the aliens on Commander difficulty"
+      },
+      {
+        "id": "achievement-3",
+        "name": "Immortal Commander",
+        "kind": "trophy",
+        "chapterId": "difficulty",
+        "where": "Overthrow the aliens on Legend difficulty"
+      },
+      {
+        "id": "achievement-4",
+        "name": "Tinker",
+        "kind": "trophy",
+        "chapterId": "avenger",
+        "where": "Build an experimental item in the Proving Grounds"
+      },
+      {
+        "id": "achievement-5",
+        "name": "Rise of the Resistance",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Make contact with a region"
+      },
+      {
+        "id": "achievement-6",
+        "name": "First Blood",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Complete the tactical tutorial"
+      },
+      {
+        "id": "achievement-7",
+        "name": "Rebel Radio",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-8",
+        "name": "Codebreaker",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-9",
+        "name": "Room to Grow",
+        "kind": "trophy",
+        "chapterId": "avenger",
+        "where": "Upgrade a facility"
+      },
+      {
+        "id": "achievement-10",
+        "name": "Shadow Broker",
+        "kind": "trophy",
+        "chapterId": "avenger",
+        "where": "Sell goods worth 1000 supplies to the Black Market (Can span multiple games)"
+      },
+      {
+        "id": "achievement-11",
+        "name": "Rumor Hunter",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Complete a Rumor"
+      },
+      {
+        "id": "achievement-12",
+        "name": "A Horrible Truth",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-13",
+        "name": "A Grim Key",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-14",
+        "name": "A Dark Doorway",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-15",
+        "name": "A Line Crossed",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-16",
+        "name": "A God Falls",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-17",
+        "name": "Meat Over Metal",
+        "kind": "trophy",
+        "chapterId": "tactical-combat",
+        "where": "Kill a Sectopod on the same turn you encounter it"
+      },
+      {
+        "id": "achievement-18",
+        "name": "Like Clockwork",
+        "kind": "trophy",
+        "chapterId": "tactical-combat",
+        "where": "Complete a successful ambush"
+      },
+      {
+        "id": "achievement-19",
+        "name": "Mechlord",
+        "kind": "trophy",
+        "chapterId": "tactical-combat",
+        "where": "Hack and take control of a Sectopod"
+      },
+      {
+        "id": "achievement-20",
+        "name": "Nick of Time",
+        "kind": "trophy",
+        "chapterId": "tactical-combat",
+        "where": "Evacuate a soldier whose bleed-out timer is still running"
+      },
+      {
+        "id": "achievement-21",
+        "name": "Locked and Loaded",
+        "kind": "trophy",
+        "chapterId": "avenger",
+        "where": "Upgrade a weapon"
+      },
+      {
+        "id": "achievement-22",
+        "name": "Excalibur",
+        "kind": "trophy",
+        "chapterId": "avenger",
+        "where": "Completely upgrade a beam weapon with superior grade weapon upgrades"
+      },
+      {
+        "id": "achievement-23",
+        "name": "David and Goliath",
+        "kind": "trophy",
+        "chapterId": "tactical-combat",
+        "where": "Kill a Berserker in melee combat"
+      },
+      {
+        "id": "achievement-24",
+        "name": "Breathing Room",
+        "kind": "trophy",
+        "chapterId": "tactical-combat",
+        "where": "Kill a Viper who is strangling a squadmate"
+      },
+      {
+        "id": "achievement-25",
+        "name": "Come Back To Me",
+        "kind": "trophy",
+        "chapterId": "tactical-combat",
+        "where": "Kill a Sectoid who is currently mind controlling a squadmate"
+      },
+      {
+        "id": "achievement-26",
+        "name": "Stop Hitting Yourself",
+        "kind": "trophy",
+        "chapterId": "tactical-combat",
+        "where": "Kill an enemy with a hacked turret"
+      },
+      {
+        "id": "achievement-27",
+        "name": "Shen's Legacy",
+        "kind": "trophy",
+        "chapterId": "avenger",
+        "where": "Build a facility in every Avenger slot"
+      },
+      {
+        "id": "achievement-28",
+        "name": "Bring It Down",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Sabotage an alien facility"
+      },
+      {
+        "id": "achievement-29",
+        "name": "Have a Nice Trip",
+        "kind": "trophy",
+        "chapterId": "tactical-combat",
+        "where": "Cause an enemy to fall to its death"
+      },
+      {
+        "id": "achievement-30",
+        "name": "Car Wrecked",
+        "kind": "trophy",
+        "chapterId": "tactical-combat",
+        "where": "Cause an enemy to die in a vehicle explosion"
+      },
+      {
+        "id": "achievement-31",
+        "name": "Exquisite Timing",
+        "kind": "trophy",
+        "chapterId": "difficulty",
+        "where": "Beat the game on Commander+ difficulty by July 1st (July 15th for War of the Chosen)"
+      },
+      {
+        "id": "achievement-32",
+        "name": "Who Needs Tygan?",
+        "kind": "trophy",
+        "chapterId": "difficulty",
+        "where": "Beat the final mission using only conventional gear"
+      },
+      {
+        "id": "achievement-33",
+        "name": "The Few and the Proud",
+        "kind": "trophy",
+        "chapterId": "difficulty",
+        "where": "Beat the game on Commander+ difficulty without buying a Squad Size upgrade"
+      },
+      {
+        "id": "achievement-34",
+        "name": "The Untouchables",
+        "kind": "trophy",
+        "chapterId": "difficulty",
+        "where": "Beat the game on Commander+ without losing a soldier"
+      },
+      {
+        "id": "achievement-35",
+        "name": "Pile 'Em Up",
+        "kind": "trophy",
+        "chapterId": "tactical-combat",
+        "where": "Kill 500 aliens. (does not have to be in same game)"
+      },
+      {
+        "id": "achievement-36",
+        "name": "The Most Dangerous Game",
+        "kind": "trophy",
+        "chapterId": "legacy-and-modes",
+        "where": "Win a multiplayer match."
+      },
+      {
+        "id": "achievement-37",
+        "name": "Overpowered",
+        "kind": "trophy",
+        "chapterId": "difficulty",
+        "where": "Beat a mission on Commander+ with a squad composed entirely of soldiers of the same class (but not Rookie)"
+      },
+      {
+        "id": "achievement-38",
+        "name": "Heroes of the Resistance",
+        "kind": "trophy",
+        "chapterId": "tactical-combat",
+        "where": "Beat a Retaliation mission with no more than 3 civilian deaths"
+      },
+      {
+        "id": "achievement-39",
+        "name": "Cyberlord",
+        "kind": "trophy",
+        "chapterId": "tactical-combat",
+        "where": "Earn a second tier hack reward"
+      },
+      {
+        "id": "achievement-40",
+        "name": "Heavy Metal",
+        "kind": "trophy",
+        "chapterId": "tactical-combat",
+        "where": "Kill an enemy with every heavy weapon in the game (Doesn't have to be in the same game)"
+      },
+      {
+        "id": "achievement-41",
+        "name": "The Sun Never Sets",
+        "kind": "trophy",
+        "chapterId": "avenger",
+        "where": "Build a radio relay on every continent"
+      },
+      {
+        "id": "achievement-42",
+        "name": "Global Resistance",
+        "kind": "trophy",
+        "chapterId": "avenger",
+        "where": "Get all of the continent bonuses available in a single campaign"
+      },
+      {
+        "id": "achievement-43",
+        "name": "Beginner's Luck",
+        "kind": "trophy",
+        "chapterId": "difficulty",
+        "where": "Beat a mission in June or later using only Rookies"
+      },
+      {
+        "id": "achievement-44",
+        "name": "Brutal Collection",
+        "kind": "trophy",
+        "chapterId": "tactical-combat",
+        "where": "Skulljack each different type of ADVENT soldier (does not have to be in same game)"
+      },
+      {
+        "id": "achievement-45",
+        "name": "With Extreme Prejudice",
+        "kind": "trophy",
+        "chapterId": "tactical-combat",
+        "where": "Skulljack an ADVENT Officer"
+      },
+      {
+        "id": "achievement-46",
+        "name": "A Better Human Being",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-47",
+        "name": "A Final Stand",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-48",
+        "name": "Harder, Better, Faster, Stronger",
+        "kind": "trophy",
+        "chapterId": "avenger",
+        "where": "Apply a PCS upgrade to a soldier"
+      },
+      {
+        "id": "achievement-49",
+        "name": "Now Am I Become Death",
+        "kind": "trophy",
+        "chapterId": "tactical-combat",
+        "where": "Kill 3 enemies in a single turn, with a single soldier, without explosives"
+      },
+      {
+        "id": "achievement-50",
+        "name": "Valhalla",
+        "kind": "trophy",
+        "chapterId": "difficulty",
+        "where": "Beat the game on Commander+ difficulty in Ironman mode"
+      },
+      {
+        "id": "achievement-51",
+        "name": "A Forbidden Experiment",
+        "kind": "trophy",
+        "chapterId": "campaign",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-52",
+        "name": "Viper Vanquisher",
+        "kind": "trophy",
+        "chapterId": "alien-rulers",
+        "where": "Kill the Viper Ruler"
+      },
+      {
+        "id": "achievement-53",
+        "name": "Berserker Breaker",
+        "kind": "trophy",
+        "chapterId": "alien-rulers",
+        "where": "Kill the Berserker Ruler"
+      },
+      {
+        "id": "achievement-54",
+        "name": "Archon Annihilator",
+        "kind": "trophy",
+        "chapterId": "alien-rulers",
+        "where": "Kill the Archon Ruler"
+      },
+      {
+        "id": "achievement-55",
+        "name": "Kingslayer",
+        "kind": "trophy",
+        "chapterId": "alien-rulers",
+        "where": "Kill all alien rulers in a single game"
+      },
+      {
+        "id": "achievement-56",
+        "name": "Deadly Arsenal",
+        "kind": "trophy",
+        "chapterId": "alien-rulers",
+        "where": "Purchase all of the final tier Hunter Weapons"
+      },
+      {
+        "id": "achievement-57",
+        "name": "Now I Am The Master",
+        "kind": "trophy",
+        "chapterId": "alien-rulers",
+        "where": "Use all ruler armor abilities in a single mission"
+      },
+      {
+        "id": "achievement-58",
+        "name": "Enemy Adopted",
+        "kind": "trophy",
+        "chapterId": "alien-rulers",
+        "where": "Use a ruler armor ability against an alien ruler"
+      },
+      {
+        "id": "achievement-59",
+        "name": "Regicide",
+        "kind": "trophy",
+        "chapterId": "alien-rulers",
+        "where": "Kill an alien ruler the first time you encounter it"
+      },
+      {
+        "id": "achievement-60",
+        "name": "Not Throwing Away My Shot",
+        "kind": "trophy",
+        "chapterId": "alien-rulers",
+        "where": "Kill an alien ruler while it attempts to escape"
+      },
+      {
+        "id": "achievement-61",
+        "name": "A Torch Passed",
+        "kind": "trophy",
+        "chapterId": "spark",
+        "where": "Beat the Lost Towers mission"
+      },
+      {
+        "id": "achievement-62",
+        "name": "Our New Overlords",
+        "kind": "trophy",
+        "chapterId": "spark",
+        "where": "Promote a SPARK unit to Champion rank"
+      },
+      {
+        "id": "achievement-63",
+        "name": "Rise of the Robots",
+        "kind": "trophy",
+        "chapterId": "spark",
+        "where": "Complete a mission with three or more SPARK units in the squad"
+      },
+      {
+        "id": "achievement-64",
+        "name": "Matter Over Mind",
+        "kind": "trophy",
+        "chapterId": "spark",
+        "where": "Defeat an Avatar with a SPARK unit"
+      },
+      {
+        "id": "achievement-65",
+        "name": "Running on Fumes",
+        "kind": "trophy",
+        "chapterId": "spark",
+        "where": "A SPARK unit survives a mission it started with less than half health"
+      },
+      {
+        "id": "achievement-66",
+        "name": "Bells and Whistles",
+        "kind": "trophy",
+        "chapterId": "spark",
+        "where": "Outfit a SPARK unit with the highest tier weaponry and armor"
+      },
+      {
+        "id": "achievement-67",
+        "name": "Always be Shooting",
+        "kind": "trophy",
+        "chapterId": "spark",
+        "where": "Hit three shots on a single turn with a SPARK unit after using its Overdrive ability"
+      },
+      {
+        "id": "achievement-68",
+        "name": "Axles to Axles, Bolts to Bolts",
+        "kind": "trophy",
+        "chapterId": "spark",
+        "where": "Defeat a robotic enemy with a SPARK unit"
+      },
+      {
+        "id": "achievement-69",
+        "name": "Just Like Dad Used To Make",
+        "kind": "trophy",
+        "chapterId": "spark",
+        "where": "Build a SPARK unit"
+      },
+      {
+        "id": "achievement-70",
+        "name": "Make ‘em go Boom",
+        "kind": "trophy",
+        "chapterId": "spark",
+        "where": "Kill an enemy primed Derelict MEC before it can self-destruct"
+      },
+      {
+        "id": "achievement-71",
+        "name": "A New Alliance",
+        "kind": "trophy",
+        "chapterId": "chosen-and-factions",
+        "where": "Complete the Lost and Abandoned mission"
+      },
+      {
+        "id": "achievement-72",
+        "name": "A Rival Silenced",
+        "kind": "trophy",
+        "chapterId": "chosen-and-factions",
+        "where": "Permanently defeat one of the Chosen"
+      },
+      {
+        "id": "achievement-73",
+        "name": "Zombies in a Barrel",
+        "kind": "trophy",
+        "chapterId": "chosen-and-factions",
+        "where": "Get 15 Headshots against Lost in a single turn"
+      },
+      {
+        "id": "achievement-74",
+        "name": "Born in the Darkness",
+        "kind": "trophy",
+        "chapterId": "chosen-and-factions",
+        "where": "Get four kills from Shadow mode with a Reaper in a single mission"
+      },
+      {
+        "id": "achievement-75",
+        "name": "Circle of Psi",
+        "kind": "trophy",
+        "chapterId": "chosen-and-factions",
+        "where": "Raise a Templar to maximum Focus level, spend it all, and reach the max again in a single mission"
+      },
+      {
+        "id": "achievement-76",
+        "name": "Can't Stop the Fighting",
+        "kind": "trophy",
+        "chapterId": "chosen-and-factions",
+        "where": "Perform three offensive actions against the same target with a Skirmisher in a single turn"
+      },
+      {
+        "id": "achievement-77",
+        "name": "It Takes Two",
+        "kind": "trophy",
+        "chapterId": "chosen-and-factions",
+        "where": "Form a level 3 bond between two soldiers"
+      },
+      {
+        "id": "achievement-78",
+        "name": "Weary Warriors",
+        "kind": "trophy",
+        "chapterId": "chosen-and-factions",
+        "where": "Complete a mission with all Tired soldiers and no casualties"
+      },
+      {
+        "id": "achievement-79",
+        "name": "Fully Operational Resistance",
+        "kind": "trophy",
+        "chapterId": "chosen-and-factions",
+        "where": "Raise XCOM's influence with all three factions to High in a single game"
+      },
+      {
+        "id": "achievement-80",
+        "name": "No One Left Behind",
+        "kind": "trophy",
+        "chapterId": "chosen-and-factions",
+        "where": "Rescue a soldier who was captured by the Chosen"
+      },
+      {
+        "id": "achievement-81",
+        "name": "Deja Vu All Over Again",
+        "kind": "trophy",
+        "chapterId": "legacy-and-modes",
+        "where": "Complete the 'Blast From the Past' legacy operation with a gold medal"
+      },
+      {
+        "id": "achievement-82",
+        "name": "Bug Fisherman",
+        "kind": "trophy",
+        "chapterId": "legacy-and-modes",
+        "where": "Complete the 'It Came From the Sea' legacy operation with a gold medal"
+      },
+      {
+        "id": "achievement-83",
+        "name": "Fully Operational Battlestation",
+        "kind": "trophy",
+        "chapterId": "legacy-and-modes",
+        "where": "Complete the 'Avenger Assemble' legacy operation with a gold medal"
+      },
+      {
+        "id": "achievement-84",
+        "name": "The Gang's All Here",
+        "kind": "trophy",
+        "chapterId": "legacy-and-modes",
+        "where": "Complete 'The Lazarus Project' legacy operation with a gold medal"
+      },
+      {
+        "id": "achievement-85",
+        "name": "Campaign Microcosm",
+        "kind": "trophy",
+        "chapterId": "legacy-and-modes",
+        "where": "Complete a random legacy operation"
+      },
+      {
+        "id": "achievement-86",
+        "name": "Honorary Level Designer",
+        "kind": "trophy",
+        "chapterId": "legacy-and-modes",
+        "where": "Complete a Skirmish Mission"
+      },
+      {
+        "id": "achievement-87",
+        "name": "Playing For Score",
+        "kind": "trophy",
+        "chapterId": "legacy-and-modes",
+        "where": "Complete a Local Challenge"
+      },
+      {
+        "id": "achievement-88",
+        "name": "There's A Future In The Past",
+        "kind": "trophy",
+        "chapterId": "legacy-and-modes",
+        "where": "Complete a single player campaign with Tactical Legacy Pack content"
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/xcom-2",
+    "Achievement data from Steam (Steam Web API, app 268500)",
+    "StrategyWiki: no usable walkthrough, nothing used — https://strategywiki.org/wiki/XCOM_2",
+    "Fandom (xcom.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://xcom.fandom.com/wiki/XCOM_2"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). Steam app 268500 (\"XCOM® 2\"); its schema is named \"Lazarus\" (an internal codename). The app's 88 achievements include content RAWG lists separately, such as \"XCOM 2: War of the Chosen\" (named once in an achievement description). xcom.fandom.com answers the API under \"XCOM 2\" with 21 linked articles, among them \"Alien Hunters\", \"Shen's Last Gift\", \"XCOM 2: War of the Chosen\" and \"XCOM 2: War of the Chosen – Tactical Legacy Pack\"; names only were looked at, nothing copied. The ruler, SPARK and Chosen chapters are titled from words in the achievement descriptions, because the data does not tie each achievement to one of those Fandom page names. StrategyWiki has \"XCOM 2\" at completion stage 0: 20 subpages are written (enemy pages such as ADVENT Trooper and Sectoid, Facilities, Research, Aim Bonuses, Guerrilla Tactics School, Ranger, Controls and others) but it has no walkthrough, so it was not used. 10 of 88 Steam achievements are hidden and sit in the campaign chapter; their names (\"A Horrible Truth\", \"A Grim Key\", \"A God Falls\" and so on) read like story milestones. Achievement_17 is missing from the schema (the list jumps from 16 to 18)."
+}

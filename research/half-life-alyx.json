@@ -1,0 +1,438 @@
+{
+  "id": "half-life-alyx",
+  "title": "Half-Life: Alyx",
+  "year": 2020,
+  "platforms": [
+    "PC"
+  ],
+  "rawgId": 392019,
+  "rawgSlug": "half-life-alyx",
+  "released": "2020-03-23",
+  "developers": [
+    "Valve Software"
+  ],
+  "playtime": 5,
+  "genres": [
+    "Action",
+    "Shooter",
+    "Adventure"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Atmospheric",
+    "Great Soundtrack",
+    "Story Rich",
+    "First-Person",
+    "Sci-fi",
+    "Horror",
+    "FPS",
+    "Female Protagonist",
+    "Steam Workshop",
+    "Zombies"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/855/8552c056d729f34c951c30f3cfef9da8.jpg",
+  "steamAppId": 546560,
+  "achievements": {
+    "total": 42,
+    "hidden": 25,
+    "examples": [
+      {
+        "name": "Gnome Alone",
+        "percent": 86.5
+      },
+      {
+        "name": "Dead Giveaway",
+        "percent": 82.0
+      },
+      {
+        "name": "Smash and Grab",
+        "percent": 67.8
+      },
+      {
+        "name": "Combine Harvester",
+        "percent": 15.0
+      },
+      {
+        "name": "Indirect Approach",
+        "percent": 13.8
+      },
+      {
+        "name": "Deadliest Catch",
+        "percent": 10.9
+      },
+      {
+        "name": "Freshly Squeezed",
+        "percent": 3.7
+      },
+      {
+        "name": "On a Roll",
+        "percent": 3.4
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Half-Life:_Alyx",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 126,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://half-life.fandom.com/wiki/Half-Life:_Alyx"
+    }
+  },
+  "game": {
+    "id": "half-life-alyx",
+    "title": "Half-Life: Alyx",
+    "platforms": [
+      "PC"
+    ],
+    "blurb": "Sci-fi VR first-person shooter from Valve Software, released 2020-03-23. RAWG average playtime: 5 hours. Genres: Action, Shooter, Adventure. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#D9822B",
+    "chapters": [
+      {
+        "id": "opening",
+        "title": "The Opening Stretch",
+        "summary": "The start of the story through the quarantine zone and the train yard, including the shotgun. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "middle",
+        "title": "The Hotel, the Plant and the Distillery",
+        "summary": "The middle of the story: the station street, the hotel, the processing plant and the distillery, including the SMG. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "finale",
+        "title": "The Zoo, the Water Tower and the Vault",
+        "summary": "The last stretch: the zoo, the tanker yard, the water tower, the parking garage, the vault and the ending. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "gloves-and-combat",
+        "title": "Gravity Gloves, Multitool and Combat",
+        "summary": "Looting, smashing crates, weapon upgrades, gravity-glove tricks, hacking a tripmine and tougher kills.",
+        "steps": []
+      },
+      {
+        "id": "side-secrets",
+        "title": "Side Secrets and Easter Eggs",
+        "summary": "Bottles, the snark, the playground, the gnome and other optional moments, many of them hidden.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Hit and Run",
+        "kind": "trophy",
+        "chapterId": "opening",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-2",
+        "name": "Quaranta Giorni",
+        "kind": "trophy",
+        "chapterId": "opening",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-3",
+        "name": "Mazel Tov",
+        "kind": "trophy",
+        "chapterId": "side-secrets",
+        "where": "Pick up and smash 50 glass bottles."
+      },
+      {
+        "id": "achievement-4",
+        "name": "Good Grub",
+        "kind": "trophy",
+        "chapterId": "side-secrets",
+        "where": "Feed the snark."
+      },
+      {
+        "id": "achievement-5",
+        "name": "On a Roll",
+        "kind": "trophy",
+        "chapterId": "side-secrets",
+        "where": "Interact with the playground somehow."
+      },
+      {
+        "id": "achievement-6",
+        "name": "Little Slugger",
+        "kind": "trophy",
+        "chapterId": "side-secrets",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-7",
+        "name": "Eye of the Geiger",
+        "kind": "trophy",
+        "chapterId": "side-secrets",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-8",
+        "name": "Mag-Snagger",
+        "kind": "trophy",
+        "chapterId": "side-secrets",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-9",
+        "name": "Sustenance",
+        "kind": "trophy",
+        "chapterId": "opening",
+        "where": "Receive a tasty treat."
+      },
+      {
+        "id": "achievement-10",
+        "name": "Freshly Squeezed",
+        "kind": "trophy",
+        "chapterId": "side-secrets",
+        "where": "Test your grip on a headcrab heart."
+      },
+      {
+        "id": "achievement-11",
+        "name": "Zombie with a Shotgun",
+        "kind": "trophy",
+        "chapterId": "opening",
+        "where": "Collect the shotgun."
+      },
+      {
+        "id": "achievement-12",
+        "name": "Xen Garden",
+        "kind": "trophy",
+        "chapterId": "opening",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-13",
+        "name": "Off the Rails",
+        "kind": "trophy",
+        "chapterId": "opening",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-14",
+        "name": "Checking In",
+        "kind": "trophy",
+        "chapterId": "middle",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-15",
+        "name": "Heart-Breaker Hotel",
+        "kind": "trophy",
+        "chapterId": "middle",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-16",
+        "name": "Surface Tension",
+        "kind": "trophy",
+        "chapterId": "middle",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-17",
+        "name": "Unbonded",
+        "kind": "trophy",
+        "chapterId": "middle",
+        "where": "Collect the SMG."
+      },
+      {
+        "id": "achievement-18",
+        "name": "Cord-Cutter",
+        "kind": "trophy",
+        "chapterId": "middle",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-19",
+        "name": "Blast From the Past",
+        "kind": "trophy",
+        "chapterId": "middle",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-20",
+        "name": "Sound Strategy",
+        "kind": "trophy",
+        "chapterId": "middle",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-21",
+        "name": "Flat Note",
+        "kind": "trophy",
+        "chapterId": "middle",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-22",
+        "name": "Crustacean Frustration",
+        "kind": "trophy",
+        "chapterId": "side-secrets",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-23",
+        "name": "Hold Your Liquor",
+        "kind": "trophy",
+        "chapterId": "side-secrets",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-24",
+        "name": "Sea Level",
+        "kind": "trophy",
+        "chapterId": "finale",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-25",
+        "name": "Triple Bypass",
+        "kind": "trophy",
+        "chapterId": "finale",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-26",
+        "name": "High Water March",
+        "kind": "trophy",
+        "chapterId": "finale",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-27",
+        "name": "Textbook Jinxing",
+        "kind": "trophy",
+        "chapterId": "finale",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-28",
+        "name": "Point Extraction",
+        "kind": "trophy",
+        "chapterId": "finale",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-29",
+        "name": "Consequences",
+        "kind": "trophy",
+        "chapterId": "finale",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-30",
+        "name": "Dead Giveaway",
+        "kind": "trophy",
+        "chapterId": "gloves-and-combat",
+        "where": "Loot a corpse."
+      },
+      {
+        "id": "achievement-31",
+        "name": "Smash and Grab",
+        "kind": "trophy",
+        "chapterId": "gloves-and-combat",
+        "where": "Break open a supply crate with your hands."
+      },
+      {
+        "id": "achievement-32",
+        "name": "Up in Arms",
+        "kind": "trophy",
+        "chapterId": "gloves-and-combat",
+        "where": "Install your first pistol upgrade."
+      },
+      {
+        "id": "achievement-33",
+        "name": "Pro-Pain",
+        "kind": "trophy",
+        "chapterId": "gloves-and-combat",
+        "where": "Kill a grunt by shooting their gas tank."
+      },
+      {
+        "id": "achievement-34",
+        "name": "Indirect Approach",
+        "kind": "trophy",
+        "chapterId": "gloves-and-combat",
+        "where": "Kill a Combine Heavy while their shield is up."
+      },
+      {
+        "id": "achievement-35",
+        "name": "Combine Harvester",
+        "kind": "trophy",
+        "chapterId": "gloves-and-combat",
+        "where": "Use the gravity gloves to loot an item off a living Combine soldier."
+      },
+      {
+        "id": "achievement-36",
+        "name": "Xen Lootism",
+        "kind": "trophy",
+        "chapterId": "gloves-and-combat",
+        "where": "Snatch a Xen grenade from its resting place."
+      },
+      {
+        "id": "achievement-37",
+        "name": "Safe Trip",
+        "kind": "trophy",
+        "chapterId": "gloves-and-combat",
+        "where": "Use the multitool to hack a tripmine."
+      },
+      {
+        "id": "achievement-38",
+        "name": "Deadliest Catch",
+        "kind": "trophy",
+        "chapterId": "gloves-and-combat",
+        "where": "Use the gravity gloves to intercept an incoming enemy grenade in mid-flight."
+      },
+      {
+        "id": "achievement-39",
+        "name": "Near-Jeff Experience",
+        "kind": "trophy",
+        "chapterId": "side-secrets",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-40",
+        "name": "Team Spirit",
+        "kind": "trophy",
+        "chapterId": "side-secrets",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-41",
+        "name": "Gnome Vault of My Own",
+        "kind": "trophy",
+        "chapterId": "side-secrets",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-42",
+        "name": "Gnome Alone",
+        "kind": "trophy",
+        "chapterId": "side-secrets",
+        "where": "Launch Half-Life: Alyx after Gabe Newell launched a garden gnome into space."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/half-life-alyx",
+    "Achievement data from Steam (Steam Web API, app 546560)",
+    "StrategyWiki: no usable walkthrough, nothing used — https://strategywiki.org/wiki/Half-Life:_Alyx",
+    "Fandom (half-life.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://half-life.fandom.com/wiki/Half-Life:_Alyx"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). StrategyWiki has a stub page \"Half-Life: Alyx\" (completion stage 0, marked \"Perfect stub article\"); it links Gameplay, Walkthrough and Table of Contents subpages but none is written, so nothing was used. half-life.fandom.com answers the API under \"Half-Life: Alyx\" with about 126 linked articles; names only were looked at, nothing copied. The Steam schema gives no game name for app 546560; the store list confirms it. 25 of 42 Steam achievements are hidden. Steam API names group them: TRACK_A1 to TRACK_A5 with place codes (for example A2_QUARANTINE_ENTRANCE, A3_HOTEL_LOBBY_BASEMENT, A4_C17_ZOO, A5_VAULT, A5_ENDING), so the three story chapters follow those codes (A1 and A2, A3, A4 and A5) and the summaries name places from them; TRAINING and SKILL names went to the gloves and combat chapter; SIDE, HIDDEN and GLOBAL names went to side secrets, except \"Safe Trip\" (hack a tripmine with the multitool), which was put with the gloves and multitool. RAWG lists PC as the only platform."
+}

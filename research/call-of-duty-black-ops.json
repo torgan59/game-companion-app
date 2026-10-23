@@ -1,0 +1,647 @@
+{
+  "id": "call-of-duty-black-ops",
+  "title": "Call of Duty: Black Ops",
+  "year": 2010,
+  "platforms": [
+    "macOS",
+    "PC",
+    "iOS",
+    "Nintendo DS",
+    "PlayStation 3",
+    "Xbox One",
+    "Wii",
+    "Xbox 360"
+  ],
+  "rawgId": 865,
+  "rawgSlug": "call-of-duty-black-ops",
+  "released": "2010-11-09",
+  "developers": [
+    "Raven Software",
+    "Treyarch",
+    "n-Space"
+  ],
+  "playtime": 9,
+  "genres": [
+    "Action",
+    "Shooter"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Multiplayer",
+    "Co-op",
+    "Story Rich",
+    "cooperative",
+    "First-Person",
+    "Partial Controller Support",
+    "Horror",
+    "FPS",
+    "Online Co-Op",
+    "Gore"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/410/41033a495ce8f7fd4b0934bdb975f12a.jpg",
+  "steamAppId": 42700,
+  "achievements": {
+    "total": 68,
+    "hidden": 3,
+    "examples": [
+      {
+        "name": "Sacrifice",
+        "percent": 65.9
+      },
+      {
+        "name": "Death to Dictators",
+        "percent": 63.2
+      },
+      {
+        "name": "Give me liberty, or give me death",
+        "percent": 60.6
+      },
+      {
+        "name": "Shooting on Location",
+        "percent": 1.2
+      },
+      {
+        "name": "Time Travel Will Tell",
+        "percent": 1.2
+      },
+      {
+        "name": "One Giant Leap",
+        "percent": 1.2
+      },
+      {
+        "name": "Perks in Spaaaaace!",
+        "percent": 1.2
+      },
+      {
+        "name": "Ground Control",
+        "percent": 1.2
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Call_of_Duty:_Black_Ops",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 500,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://callofduty.fandom.com/wiki/Call_of_Duty:_Black_Ops"
+    }
+  },
+  "game": {
+    "id": "call-of-duty-black-ops",
+    "title": "Call of Duty: Black Ops",
+    "platforms": [
+      "macOS",
+      "PC",
+      "iOS",
+      "Nintendo DS",
+      "PlayStation 3",
+      "Xbox One",
+      "Wii",
+      "Xbox 360"
+    ],
+    "blurb": "First-person shooter from Treyarch (RAWG also lists Raven Software and n-Space), published by Activision Blizzard (RAWG also lists Square Enix), released 2010-11-09. RAWG average playtime: 9 hours. Genres: Action, Shooter. Chapters follow the campaign places named in the Steam achievements, plus Veteran runs and Zombies.",
+    "accent": "#B5562A",
+    "chapters": [
+      {
+        "id": "cuba-and-vorkuta",
+        "title": "Cuba and Vorkuta",
+        "summary": "Castro, getting the squad out of Cuba, the prison break and escaping Vorkuta.",
+        "steps": []
+      },
+      {
+        "id": "space-khe-sanh-hue",
+        "title": "Lancer, Khe Sanh and Hue City",
+        "summary": "Orders from Lancer, sabotaging the Soviet space program, the siege of Khe Sanh and the defector in Hue City. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "kowloon-and-laos",
+        "title": "Kowloon, the River and Laos",
+        "summary": "Escaping Kowloon, the river run, the Soviet connection in Laos, the outpost, the relay station and the POW compound. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "ship-and-rebirth",
+        "title": "The Ship and Rebirth Island",
+        "summary": "Escaping the past, the Rebirth labs and the NOVA 6 gas, cracking the code and the ship. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "campaign-veteran",
+        "title": "Campaign Completion, Veteran and Intel",
+        "summary": "Finishing the campaign, Hardened or Veteran runs by mission group, all hidden intel and campaign-wide combat feats.",
+        "steps": []
+      },
+      {
+        "id": "zombies",
+        "title": "Zombies and Dead Ops Arcade",
+        "summary": "Zombies goals that do not name a map, the Pentagon thief, Dead Ops Arcade and three hidden achievements.",
+        "steps": []
+      },
+      {
+        "id": "zombies-maps",
+        "title": "Ascension, Call of the Dead, Shangri-La and Moon",
+        "summary": "The achievements for the four named Zombies maps, including co-op ones.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Death to Dictators",
+        "kind": "trophy",
+        "chapterId": "cuba-and-vorkuta",
+        "where": "Take down Castro with a headshot."
+      },
+      {
+        "id": "achievement-2",
+        "name": "Sacrifice",
+        "kind": "trophy",
+        "chapterId": "cuba-and-vorkuta",
+        "where": "Ensure your squad escapes safely from Cuba."
+      },
+      {
+        "id": "achievement-3",
+        "name": "Vehicular Slaughter",
+        "kind": "trophy",
+        "chapterId": "cuba-and-vorkuta",
+        "where": "Destroy all enemies on vehicles during the prison break."
+      },
+      {
+        "id": "achievement-4",
+        "name": "Give me liberty, or give me death",
+        "kind": "trophy",
+        "chapterId": "cuba-and-vorkuta",
+        "where": "Escape Vorkuta."
+      },
+      {
+        "id": "achievement-5",
+        "name": "Slingshot Kid",
+        "kind": "trophy",
+        "chapterId": "cuba-and-vorkuta",
+        "where": "Destroy all slingshot targets in 3 attempts."
+      },
+      {
+        "id": "achievement-6",
+        "name": "VIP",
+        "kind": "trophy",
+        "chapterId": "space-khe-sanh-hue",
+        "where": "Receive orders from Lancer."
+      },
+      {
+        "id": "achievement-7",
+        "name": "A safer place",
+        "kind": "trophy",
+        "chapterId": "space-khe-sanh-hue",
+        "where": "Sabotage the Soviet space program."
+      },
+      {
+        "id": "achievement-8",
+        "name": "Tough Economy",
+        "kind": "trophy",
+        "chapterId": "space-khe-sanh-hue",
+        "where": "Use no more than 6 TOW guided missiles to destroy the tanks in the defense of Khe Sanh."
+      },
+      {
+        "id": "achievement-9",
+        "name": "Looks don't count",
+        "kind": "trophy",
+        "chapterId": "space-khe-sanh-hue",
+        "where": "Break the siege in the battle of Khe Sanh."
+      },
+      {
+        "id": "achievement-10",
+        "name": "SOG Rules",
+        "kind": "trophy",
+        "chapterId": "space-khe-sanh-hue",
+        "where": "Retrieve the dossier and the defector from Hue City."
+      },
+      {
+        "id": "achievement-11",
+        "name": "Raining Pain",
+        "kind": "trophy",
+        "chapterId": "space-khe-sanh-hue",
+        "where": "Rack up a body count of 20 NVA using air support in Hue City."
+      },
+      {
+        "id": "achievement-12",
+        "name": "The Dragon Within",
+        "kind": "trophy",
+        "chapterId": "space-khe-sanh-hue",
+        "where": "Kill 10 NVA with Dragon's Breath rounds."
+      },
+      {
+        "id": "achievement-13",
+        "name": "Heavy Hand",
+        "kind": "trophy",
+        "chapterId": "space-khe-sanh-hue",
+        "where": "Use the Grim Reaper to destroy the MG emplacement."
+      },
+      {
+        "id": "achievement-14",
+        "name": "Up close and personal",
+        "kind": "trophy",
+        "chapterId": "space-khe-sanh-hue",
+        "where": "Silently take out 3 VC."
+      },
+      {
+        "id": "achievement-15",
+        "name": "Double Trouble",
+        "kind": "trophy",
+        "chapterId": "kowloon-and-laos",
+        "where": "Use only dual wield weapons to escape Kowloon."
+      },
+      {
+        "id": "achievement-16",
+        "name": "Broken English",
+        "kind": "trophy",
+        "chapterId": "kowloon-and-laos",
+        "where": "Escape Kowloon."
+      },
+      {
+        "id": "achievement-17",
+        "name": "Lord Nelson",
+        "kind": "trophy",
+        "chapterId": "kowloon-and-laos",
+        "where": "Destroy all targets and structures while making your way up the river."
+      },
+      {
+        "id": "achievement-18",
+        "name": "Never get off the boat",
+        "kind": "trophy",
+        "chapterId": "kowloon-and-laos",
+        "where": "Find the Soviet connection in Laos."
+      },
+      {
+        "id": "achievement-19",
+        "name": "Pathfinder",
+        "kind": "trophy",
+        "chapterId": "kowloon-and-laos",
+        "where": "Guide the squad through the Soviet outpost without them getting killed."
+      },
+      {
+        "id": "achievement-20",
+        "name": "Mr. Black OP",
+        "kind": "trophy",
+        "chapterId": "kowloon-and-laos",
+        "where": "Enter the Soviet relay station undetected."
+      },
+      {
+        "id": "achievement-21",
+        "name": "With extreme prejudice",
+        "kind": "trophy",
+        "chapterId": "kowloon-and-laos",
+        "where": "Get to the POW compound in the Hind using only rockets."
+      },
+      {
+        "id": "achievement-22",
+        "name": "Russian bar-b-q",
+        "kind": "trophy",
+        "chapterId": "kowloon-and-laos",
+        "where": "Incinerate 10 enemies with the flamethrower attachment in the POW compound."
+      },
+      {
+        "id": "achievement-23",
+        "name": "Light Foot",
+        "kind": "trophy",
+        "chapterId": "ship-and-rebirth",
+        "where": "Escape the ship with 2:15 left on the timer in Veteran."
+      },
+      {
+        "id": "achievement-24",
+        "name": "Some wounds never heal",
+        "kind": "trophy",
+        "chapterId": "ship-and-rebirth",
+        "where": "Escape the past."
+      },
+      {
+        "id": "achievement-25",
+        "name": "I hate monkeys",
+        "kind": "trophy",
+        "chapterId": "ship-and-rebirth",
+        "where": "Kill 7 monkeys in under 10 seconds in the Rebirth labs."
+      },
+      {
+        "id": "achievement-26",
+        "name": "No Leaks",
+        "kind": "trophy",
+        "chapterId": "ship-and-rebirth",
+        "where": "Make it through the NOVA 6 gas without dying on Rebirth Island."
+      },
+      {
+        "id": "achievement-27",
+        "name": "Clarity",
+        "kind": "trophy",
+        "chapterId": "ship-and-rebirth",
+        "where": "Crack the code."
+      },
+      {
+        "id": "achievement-28",
+        "name": "Double Whammy",
+        "kind": "trophy",
+        "chapterId": "ship-and-rebirth",
+        "where": "Destroy both helicopters with one Valkyrie missile from the deck of the ship."
+      },
+      {
+        "id": "achievement-29",
+        "name": "BLACK OP MASTER",
+        "kind": "trophy",
+        "chapterId": "campaign-veteran",
+        "where": "Complete the campaign on Hardened or Veteran difficulty."
+      },
+      {
+        "id": "achievement-30",
+        "name": "Stand Down",
+        "kind": "trophy",
+        "chapterId": "campaign-veteran",
+        "where": "Complete the campaign on any difficulty."
+      },
+      {
+        "id": "achievement-31",
+        "name": "Frag Master",
+        "kind": "trophy",
+        "chapterId": "campaign-veteran",
+        "where": "Kill 5 enemies with a single frag grenade in the campaign."
+      },
+      {
+        "id": "achievement-32",
+        "name": "Sally Likes Blood",
+        "kind": "trophy",
+        "chapterId": "campaign-veteran",
+        "where": "Demonstrate killer economic sensibilities by taking down 3 enemies with a single bullet"
+      },
+      {
+        "id": "achievement-33",
+        "name": "Unconventional Warfare",
+        "kind": "trophy",
+        "chapterId": "campaign-veteran",
+        "where": "Use the explosive bolts to kill 30 enemies in the campaign."
+      },
+      {
+        "id": "achievement-34",
+        "name": "Cold Warrior",
+        "kind": "trophy",
+        "chapterId": "campaign-veteran",
+        "where": "Complete \"Operation 40,\" \"Vorkuta,\" and \"Executive Order\" on Veteran difficulty."
+      },
+      {
+        "id": "achievement-35",
+        "name": "Down and Dirty",
+        "kind": "trophy",
+        "chapterId": "campaign-veteran",
+        "where": "Complete \"SOG\" and \"The Defector\" on Veteran difficulty."
+      },
+      {
+        "id": "achievement-36",
+        "name": "It's your funeral",
+        "kind": "trophy",
+        "chapterId": "campaign-veteran",
+        "where": "Complete \"Numbers,\" \"Project Nova,\" and \"Victor Charlie\" on Veteran difficulty."
+      },
+      {
+        "id": "achievement-37",
+        "name": "Not Today",
+        "kind": "trophy",
+        "chapterId": "campaign-veteran",
+        "where": "Complete \"Crash Site,\" \"WMD,\" and \"Payback\" on Veteran difficulty."
+      },
+      {
+        "id": "achievement-38",
+        "name": "Burn Notice",
+        "kind": "trophy",
+        "chapterId": "campaign-veteran",
+        "where": "Complete \"Rebirth\" and \"Redemption\" on Veteran difficulty."
+      },
+      {
+        "id": "achievement-39",
+        "name": "Closer Analysis",
+        "kind": "trophy",
+        "chapterId": "campaign-veteran",
+        "where": "Find all the hidden intel."
+      },
+      {
+        "id": "achievement-40",
+        "name": "The Collector",
+        "kind": "trophy",
+        "chapterId": "zombies",
+        "where": "Buy every weapon off the walls in a single Zombies game."
+      },
+      {
+        "id": "achievement-41",
+        "name": "See Me, Stab Me, Heal Me",
+        "kind": "trophy",
+        "chapterId": "zombies",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-42",
+        "name": "Hands Off the Merchandise",
+        "kind": "trophy",
+        "chapterId": "zombies",
+        "where": "Kill the Pentagon thief before it can steal your load-out."
+      },
+      {
+        "id": "achievement-43",
+        "name": "Sacrificial Lamb",
+        "kind": "trophy",
+        "chapterId": "zombies",
+        "where": "Kill 6 zombies after getting shot by a Pack-a-Punched Crossbow bolt."
+      },
+      {
+        "id": "achievement-44",
+        "name": "\"Insert Coin\"",
+        "kind": "trophy",
+        "chapterId": "zombies",
+        "where": "Access the terminal and battle the forces of the Cosmic Silverback in Dead Ops Arcade."
+      },
+      {
+        "id": "achievement-45",
+        "name": "Easy Rhino",
+        "kind": "trophy",
+        "chapterId": "zombies",
+        "where": "In Dead Ops Arcade, use a Speed Boost to blast through 20 or more enemies at one time."
+      },
+      {
+        "id": "achievement-46",
+        "name": "Just ask me nicely",
+        "kind": "trophy",
+        "chapterId": "zombies",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-47",
+        "name": "Eaten by a Grue",
+        "kind": "trophy",
+        "chapterId": "zombies",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-48",
+        "name": "The eagle has landers",
+        "kind": "trophy",
+        "chapterId": "zombies-maps",
+        "where": "In Ascension, escape on all 3 lunar landers."
+      },
+      {
+        "id": "achievement-49",
+        "name": "They are going THROUGH!",
+        "kind": "trophy",
+        "chapterId": "zombies-maps",
+        "where": "In Ascension, kill at least 5 zombies with 1 Gersh Device."
+      },
+      {
+        "id": "achievement-50",
+        "name": "Space Race",
+        "kind": "trophy",
+        "chapterId": "zombies-maps",
+        "where": "In Ascension, Pack-a-Punch a weapon by round 8."
+      },
+      {
+        "id": "achievement-51",
+        "name": "Chimp on the barbie",
+        "kind": "trophy",
+        "chapterId": "zombies-maps",
+        "where": "In Ascension, kill a space monkey with a fire trap."
+      },
+      {
+        "id": "achievement-52",
+        "name": "Stand-in",
+        "kind": "trophy",
+        "chapterId": "zombies-maps",
+        "where": "In Call of the Dead, send the crew to Paradise in solo or co-op."
+      },
+      {
+        "id": "achievement-53",
+        "name": "Ensemble Cast",
+        "kind": "trophy",
+        "chapterId": "zombies-maps",
+        "where": "In Call of the Dead, send the crew to Paradise in co-op"
+      },
+      {
+        "id": "achievement-54",
+        "name": "Stuntman",
+        "kind": "trophy",
+        "chapterId": "zombies-maps",
+        "where": "In Call of the Dead, make a zombie explode using the V-R11"
+      },
+      {
+        "id": "achievement-55",
+        "name": "Shooting on Location",
+        "kind": "trophy",
+        "chapterId": "zombies-maps",
+        "where": "In Call of the Dead, kill 10 zombies with one Scavenger shot from over 100 feet away"
+      },
+      {
+        "id": "achievement-56",
+        "name": "Quiet on the Set",
+        "kind": "trophy",
+        "chapterId": "zombies-maps",
+        "where": "In Call of the Dead, cut the lights on the Director"
+      },
+      {
+        "id": "achievement-57",
+        "name": "Time Travel Will Tell",
+        "kind": "trophy",
+        "chapterId": "zombies-maps",
+        "where": "In Shangri-La, acquire the focusing stone."
+      },
+      {
+        "id": "achievement-58",
+        "name": "Blinded By the Fright",
+        "kind": "trophy",
+        "chapterId": "zombies-maps",
+        "where": "In Shangri-La, kill a Shrieker zombie while blinded by it."
+      },
+      {
+        "id": "achievement-59",
+        "name": "Zomb Disposal",
+        "kind": "trophy",
+        "chapterId": "zombies-maps",
+        "where": "In Shangri-La, dispose of a Napalm zombie without it harming any players."
+      },
+      {
+        "id": "achievement-60",
+        "name": "Monkey See, Monkey Don't",
+        "kind": "trophy",
+        "chapterId": "zombies-maps",
+        "where": "In Shangri-La, get something from the monkeys."
+      },
+      {
+        "id": "achievement-61",
+        "name": "Small Consolation",
+        "kind": "trophy",
+        "chapterId": "zombies-maps",
+        "where": "In Shangri-La, use the 31-79 JGb215 on each type of zombie."
+      },
+      {
+        "id": "achievement-62",
+        "name": "Cryogenic Slumber Party",
+        "kind": "trophy",
+        "chapterId": "zombies-maps",
+        "where": "In Moon, complete Richtofen's grand scheme."
+      },
+      {
+        "id": "achievement-63",
+        "name": "One Small Hack for a Man...",
+        "kind": "trophy",
+        "chapterId": "zombies-maps",
+        "where": "In Moon, hack something."
+      },
+      {
+        "id": "achievement-64",
+        "name": "One Giant Leap",
+        "kind": "trophy",
+        "chapterId": "zombies-maps",
+        "where": "In Moon, become trapped in the Receiving Area and free yourself through resurrection in co-op."
+      },
+      {
+        "id": "achievement-65",
+        "name": "Perks in Spaaaaace!",
+        "kind": "trophy",
+        "chapterId": "zombies-maps",
+        "where": "In Moon, purchase every perk in one game."
+      },
+      {
+        "id": "achievement-66",
+        "name": "Fully Armed and Operational",
+        "kind": "trophy",
+        "chapterId": "zombies-maps",
+        "where": "In Moon, acquire 3 pack-a-punched weapons at the same time."
+      },
+      {
+        "id": "achievement-67",
+        "name": "Ground Control",
+        "kind": "trophy",
+        "chapterId": "zombies-maps",
+        "where": "In Moon, prevent each excavator from breaching the base in one game."
+      },
+      {
+        "id": "achievement-68",
+        "name": "Big Bang Theory",
+        "kind": "trophy",
+        "chapterId": "zombies-maps",
+        "where": "In Moon, gain sweet, sweet, revenge."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/call-of-duty-black-ops",
+    "Achievement data from Steam (Steam Web API, app 42700)",
+    "StrategyWiki: no usable walkthrough, nothing used — https://strategywiki.org/wiki/Call_of_Duty:_Black_Ops",
+    "Fandom (callofduty.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://callofduty.fandom.com/wiki/Call_of_Duty:_Black_Ops"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). RAWG's first result is the expected entry (id 865). Steam app 42700 (\"Call of Duty®: Black Ops\") from the store list; its schema is named \"ValveTestApp42700\" (a placeholder name). 3 of 68 Steam achievements are hidden; they sit among the Zombies achievements in the Steam list and were put in the Zombies chapter as a guess. RAWG's detail says 209 achievements, far more than Steam's 68. No Steam achievement mentions competitive multiplayer, so there is no multiplayer chapter. The campaign chapters group the places the achievements name, in Steam list order; which mission each place belongs to was not checked, and the slingshot, Dragon's Breath, Grim Reaper and \"3 VC\" feats were placed by their position in the list. The Veteran achievements name mission groups (\"Operation 40,\" \"Vorkuta,\" and \"Executive Order\"; \"SOG\" and \"The Defector\"; \"Numbers,\" \"Project Nova,\" and \"Victor Charlie\"; \"Crash Site,\" \"WMD,\" and \"Payback\"; \"Rebirth\" and \"Redemption\"). StrategyWiki has the guide at completion stage 2, but only 2 of its 15 mission pages are written: Operation 40 (about 2,100 characters) and Vorkuta (about 2,700); U.S.D.D., Executive Order, S.O.G., The Defector, Project Nova, Victor Charlie, Crash Site, WMD, Payback, Rebirth, Revelations, Redemption and First Strike are linked but not written, as are Items and Weapons. Achievements and trophies (about 8,800), Plot, Gameplay, Multiplayer, Characters, Controls and Walkthrough are written. Its contents do not list \"Numbers\", which a Steam achievement names. So it was not used. callofduty.fandom.com answers the API under \"Call of Duty: Black Ops\" with 500 or more linked articles (the API limit); names only were looked at, nothing copied."
+}

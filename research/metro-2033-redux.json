@@ -1,0 +1,504 @@
+{
+  "id": "metro-2033-redux",
+  "title": "Metro 2033 Redux",
+  "year": 2014,
+  "platforms": [
+    "PlayStation 4",
+    "Xbox One",
+    "Nintendo Switch",
+    "PC",
+    "macOS",
+    "Linux"
+  ],
+  "rawgId": 3603,
+  "rawgSlug": "metro-redux",
+  "released": "2014-08-25",
+  "developers": [
+    "Deep Silver",
+    "4A Games",
+    "Fishlabs Entertainment"
+  ],
+  "playtime": 6,
+  "genres": [
+    "Action",
+    "Shooter"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Multiplayer",
+    "Full controller support",
+    "Steam Cloud",
+    "Atmospheric",
+    "steam-trading-cards",
+    "Story Rich",
+    "Open World",
+    "First-Person",
+    "Horror",
+    "FPS"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/4fb/4fb548e4816c84d1d70f1a228fb167cc.jpg",
+  "steamAppId": 286690,
+  "achievements": {
+    "total": 49,
+    "hidden": 1,
+    "examples": [
+      {
+        "name": "Tank",
+        "percent": 47.2
+      },
+      {
+        "name": "Demolitionist",
+        "percent": 46.7
+      },
+      {
+        "name": "Warrior",
+        "percent": 43.3
+      },
+      {
+        "name": "Ranger",
+        "percent": 3.9
+      },
+      {
+        "name": "Blogger",
+        "percent": 3.8
+      },
+      {
+        "name": "Fire!",
+        "percent": 3.7
+      },
+      {
+        "name": "Weaponsmith",
+        "percent": 3.3
+      },
+      {
+        "name": "Wheeler-Dealer",
+        "percent": 3.3
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Metro_2033",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 116,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://metrovideogame.fandom.com/wiki/Metro_2033_(Video_Game)"
+    }
+  },
+  "game": {
+    "id": "metro-2033-redux",
+    "title": "Metro 2033 Redux",
+    "platforms": [
+      "PlayStation 4",
+      "Xbox One",
+      "Nintendo Switch",
+      "PC",
+      "macOS",
+      "Linux"
+    ],
+    "blurb": "Post-apocalyptic first-person shooter from 4A Games (RAWG also lists Deep Silver and Fishlabs Entertainment), released 2014-08-25. RAWG average playtime: 6 hours. Genres: Action, Shooter. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#5A6B3F",
+    "chapters": [
+      {
+        "id": "main-story",
+        "title": "The Main Story",
+        "summary": "Finding the truth, becoming a true ranger, and one hidden achievement. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "places-and-deeds",
+        "title": "Places and Good Deeds",
+        "summary": "Feats on the named levels: CURSED STATION, OUTPOST, FRONTLINE, BLACK STATION, HUNTER and DEPOT, plus rescuing the Reds and helping the poor.",
+        "steps": []
+      },
+      {
+        "id": "collectibles-and-trade",
+        "title": "Diary Pages, Stashes and Trade",
+        "summary": "Artyom's 51 hidden diary pages, the Ranger stashes in Dead City, locked safe boxes, weapon shop deals and saving military-grade rounds.",
+        "steps": []
+      },
+      {
+        "id": "mutants",
+        "title": "Mutants",
+        "summary": "Hunting lurkers, nosalises, watchmen, demons, amoebas, spiders and librarians.",
+        "steps": []
+      },
+      {
+        "id": "difficulty",
+        "title": "Survival and Spartan Modes",
+        "summary": "Finishing the game in Survival Mode and in Spartan Mode.",
+        "steps": []
+      },
+      {
+        "id": "combat-and-gear",
+        "title": "Combat, Stealth and Gear",
+        "summary": "Weapon kill counts, headshots, stealth and close combat, traps, medkits, the gas mask and radiation.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Air Bender",
+        "kind": "trophy",
+        "chapterId": "combat-and-gear",
+        "where": "Kill 50 humans with pneumatic weapons."
+      },
+      {
+        "id": "achievement-2",
+        "name": "Cowboy",
+        "kind": "trophy",
+        "chapterId": "combat-and-gear",
+        "where": "Kill 100 enemies using revolvers."
+      },
+      {
+        "id": "achievement-3",
+        "name": "Demolitionist",
+        "kind": "trophy",
+        "chapterId": "places-and-deeds",
+        "where": "Blow up the tunnel and airlock at CURSED STATION."
+      },
+      {
+        "id": "achievement-4",
+        "name": "DJ Artyom",
+        "kind": "trophy",
+        "chapterId": "places-and-deeds",
+        "where": "On the level OUTPOST reach the radio tower and broadcast the commander's message."
+      },
+      {
+        "id": "achievement-5",
+        "name": "Enlightened",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Find the truth."
+      },
+      {
+        "id": "achievement-6",
+        "name": "Fire in the hole",
+        "kind": "trophy",
+        "chapterId": "mutants",
+        "where": "Kill 20 lurkers."
+      },
+      {
+        "id": "achievement-7",
+        "name": "Fire!",
+        "kind": "trophy",
+        "chapterId": "combat-and-gear",
+        "where": "Kill 30 enemies with flame grenades."
+      },
+      {
+        "id": "achievement-8",
+        "name": "Generous",
+        "kind": "trophy",
+        "chapterId": "places-and-deeds",
+        "where": "Help the poor, a coin for the kid, medicine for the sick. You help everyone you see."
+      },
+      {
+        "id": "achievement-9",
+        "name": "Gunman",
+        "kind": "trophy",
+        "chapterId": "combat-and-gear",
+        "where": "Kill 100 enemies with shotguns."
+      },
+      {
+        "id": "achievement-10",
+        "name": "Heavy Reader",
+        "kind": "trophy",
+        "chapterId": "mutants",
+        "where": "Kill a librarian."
+      },
+      {
+        "id": "achievement-11",
+        "name": "Hedge-hopper",
+        "kind": "trophy",
+        "chapterId": "places-and-deeds",
+        "where": "On the level FRONTLINE kill all of the enemy Red Army and Fascist Soldiers."
+      },
+      {
+        "id": "achievement-12",
+        "name": "Hunter",
+        "kind": "trophy",
+        "chapterId": "mutants",
+        "where": "Kill 200 Mutants."
+      },
+      {
+        "id": "achievement-13",
+        "name": "Inquisitor",
+        "kind": "trophy",
+        "chapterId": "mutants",
+        "where": "Kill 2 demons."
+      },
+      {
+        "id": "achievement-14",
+        "name": "Invisible man",
+        "kind": "trophy",
+        "chapterId": "places-and-deeds",
+        "where": "Complete FRONTLINE level without killing anyone."
+      },
+      {
+        "id": "achievement-15",
+        "name": "Ka-Boom!",
+        "kind": "trophy",
+        "chapterId": "combat-and-gear",
+        "where": "Explode 30 enemies."
+      },
+      {
+        "id": "achievement-16",
+        "name": "Manhattan Project",
+        "kind": "trophy",
+        "chapterId": "combat-and-gear",
+        "where": "Spend 60 seconds in a Radiation Hotspot."
+      },
+      {
+        "id": "achievement-17",
+        "name": "Trigger Happy",
+        "kind": "trophy",
+        "chapterId": "combat-and-gear",
+        "where": "Kill 100 enemies with assault rifles."
+      },
+      {
+        "id": "achievement-18",
+        "name": "Toast!",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-19",
+        "name": "Merciful",
+        "kind": "trophy",
+        "chapterId": "places-and-deeds",
+        "where": "Complete the level BLACK STATION without killing or knocking out any enemies."
+      },
+      {
+        "id": "achievement-20",
+        "name": "Metro Trader",
+        "kind": "trophy",
+        "chapterId": "collectibles-and-trade",
+        "where": "Make 30 deals in weapon shops."
+      },
+      {
+        "id": "achievement-21",
+        "name": "Snake",
+        "kind": "trophy",
+        "chapterId": "combat-and-gear",
+        "where": "Stealthily kill 15 Enemies."
+      },
+      {
+        "id": "achievement-22",
+        "name": "Ninja",
+        "kind": "trophy",
+        "chapterId": "combat-and-gear",
+        "where": "Kill 30 enemies with throwing knives."
+      },
+      {
+        "id": "achievement-23",
+        "name": "Nosalis hunter",
+        "kind": "trophy",
+        "chapterId": "mutants",
+        "where": "Kill 100 nosalises."
+      },
+      {
+        "id": "achievement-24",
+        "name": "Pathoanatomist",
+        "kind": "trophy",
+        "chapterId": "mutants",
+        "where": "Kill 5 amoebas."
+      },
+      {
+        "id": "achievement-25",
+        "name": "Blogger",
+        "kind": "trophy",
+        "chapterId": "collectibles-and-trade",
+        "where": "Complete all 51 of Artyom's hidden Diary pages."
+      },
+      {
+        "id": "achievement-26",
+        "name": "Pyro",
+        "kind": "trophy",
+        "chapterId": "combat-and-gear",
+        "where": "Kill 30 enemies with a flamethrower."
+      },
+      {
+        "id": "achievement-27",
+        "name": "Quick Draw",
+        "kind": "trophy",
+        "chapterId": "places-and-deeds",
+        "where": "On the level HUNTER kill the nosalises before they break through the ventilation grilles."
+      },
+      {
+        "id": "achievement-28",
+        "name": "Raider",
+        "kind": "trophy",
+        "chapterId": "places-and-deeds",
+        "where": "On the level DEPOT silently kill the first guard and break into the Fascist station unnoticed."
+      },
+      {
+        "id": "achievement-29",
+        "name": "Ranger",
+        "kind": "trophy",
+        "chapterId": "collectibles-and-trade",
+        "where": "Find all Ranger stashes in Dead City."
+      },
+      {
+        "id": "achievement-30",
+        "name": "Rescue Ranger",
+        "kind": "trophy",
+        "chapterId": "places-and-deeds",
+        "where": "Save a group of Reds from Fascist captivity."
+      },
+      {
+        "id": "achievement-31",
+        "name": "Thief",
+        "kind": "trophy",
+        "chapterId": "collectibles-and-trade",
+        "where": "Open 15 locked safe boxes."
+      },
+      {
+        "id": "achievement-32",
+        "name": "Scrooge",
+        "kind": "trophy",
+        "chapterId": "collectibles-and-trade",
+        "where": "Save 1000 military-grade rounds."
+      },
+      {
+        "id": "achievement-33",
+        "name": "Shocking",
+        "kind": "trophy",
+        "chapterId": "combat-and-gear",
+        "where": "Get 30 kills with Hellbreath."
+      },
+      {
+        "id": "achievement-34",
+        "name": "Slice & Dice",
+        "kind": "trophy",
+        "chapterId": "combat-and-gear",
+        "where": "Kill 30 human enemies in close combat."
+      },
+      {
+        "id": "achievement-35",
+        "name": "Sniper",
+        "kind": "trophy",
+        "chapterId": "combat-and-gear",
+        "where": "Kill 30 human enemies with headshots."
+      },
+      {
+        "id": "achievement-36",
+        "name": "Marksman",
+        "kind": "trophy",
+        "chapterId": "combat-and-gear",
+        "where": "Kill 15 human enemies with Headshots from at least 30 meters' distance."
+      },
+      {
+        "id": "achievement-37",
+        "name": "Soft Touch",
+        "kind": "trophy",
+        "chapterId": "combat-and-gear",
+        "where": "Disarm 15 wire traps."
+      },
+      {
+        "id": "achievement-38",
+        "name": "Spartan 2033",
+        "kind": "trophy",
+        "chapterId": "difficulty",
+        "where": "Complete the game in Spartan Mode."
+      },
+      {
+        "id": "achievement-39",
+        "name": "Spider hunter",
+        "kind": "trophy",
+        "chapterId": "mutants",
+        "where": "Kill 10 Spiders."
+      },
+      {
+        "id": "achievement-40",
+        "name": "Stunning",
+        "kind": "trophy",
+        "chapterId": "combat-and-gear",
+        "where": "Knock 30 human enemies out in close combat."
+      },
+      {
+        "id": "achievement-41",
+        "name": "Survivor 2033",
+        "kind": "trophy",
+        "chapterId": "difficulty",
+        "where": "Complete the game in Survival Mode."
+      },
+      {
+        "id": "achievement-42",
+        "name": "Tank",
+        "kind": "trophy",
+        "chapterId": "combat-and-gear",
+        "where": "Kill 10 Enemies in a row without taking any damage."
+      },
+      {
+        "id": "achievement-43",
+        "name": "Tonic Man",
+        "kind": "trophy",
+        "chapterId": "combat-and-gear",
+        "where": "Use a Medkit 75 times."
+      },
+      {
+        "id": "achievement-44",
+        "name": "If it's hostile, you kill it.",
+        "kind": "trophy",
+        "chapterId": "main-story",
+        "where": "Become a true ranger."
+      },
+      {
+        "id": "achievement-45",
+        "name": "Warrior",
+        "kind": "trophy",
+        "chapterId": "combat-and-gear",
+        "where": "Kill 100 Human Enemies."
+      },
+      {
+        "id": "achievement-46",
+        "name": "Watchman hunter",
+        "kind": "trophy",
+        "chapterId": "mutants",
+        "where": "Kill 50 Watchmen."
+      },
+      {
+        "id": "achievement-47",
+        "name": "Weaponsmith",
+        "kind": "trophy",
+        "chapterId": "combat-and-gear",
+        "where": "Kill at least one enemy with each weapon available in the game"
+      },
+      {
+        "id": "achievement-48",
+        "name": "Wheeler-Dealer",
+        "kind": "trophy",
+        "chapterId": "collectibles-and-trade",
+        "where": "Exchange 500 Military-Grade 5.45 rounds at Exchange kiosks."
+      },
+      {
+        "id": "achievement-49",
+        "name": "Who goes there?",
+        "kind": "trophy",
+        "chapterId": "combat-and-gear",
+        "where": "Wipe your Gas Mask 20 times."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/metro-redux",
+    "Achievement data from Steam (Steam Web API, app 286690)",
+    "StrategyWiki: no usable walkthrough, nothing used — https://strategywiki.org/wiki/Metro_2033",
+    "Fandom (metrovideogame.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://metrovideogame.fandom.com/wiki/Metro_2033_(Video_Game)"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). RAWG's first result is the expected entry: slug \"metro-redux\", named \"Metro 2033 Redux\" (id 3603); RAWG keeps the 2010 \"Metro 2033\" separately (id 29028). Steam app 286690 is the Redux itself: its schema is named \"Project Redux\" (an internal codename) and the store list confirms \"Metro 2033 Redux\"; no app for the original 2010 release was found in the store list. StrategyWiki has nothing under \"Metro 2033 Redux\" or \"Metro Redux\"; the guide is under \"Metro 2033\", which covers the original 2010 release (its categories are 2010, Windows and Xbox 360). It is at completion stage 0: Prologue and Chapter 1 \"Let the Journey Begin\" to Chapter 7 \"Tower\" are written (about 1,600 to 12,000 characters each), as are Achievements and Table of Contents, but the Walkthrough index, Gameplay, Controls, Enemies, Equipment, Weapons and Cheats pages are linked but not written. Because it is stage 0 and covers the original release, it was not used. metrovideogame.fandom.com redirects \"Metro 2033\" to a disambiguation page; \"Metro 2033 (Video Game)\" was used instead (about 116 linked articles); \"Metro 2033 Redux\" also exists there but is short (7 links). Names only were looked at, nothing copied. 1 of 49 Steam achievements is hidden (\"Toast!\") and sits in the main story chapter. The named levels come from the achievement descriptions; which StrategyWiki chapter each level belongs to is not in the data, so level feats are grouped together."
+}

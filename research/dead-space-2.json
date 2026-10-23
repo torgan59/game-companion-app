@@ -1,0 +1,128 @@
+{
+  "id": "dead-space-2",
+  "title": "Dead Space 2",
+  "year": 2011,
+  "platforms": [
+    "Xbox 360",
+    "PC",
+    "Xbox One",
+    "PlayStation 3"
+  ],
+  "rawgId": 4550,
+  "rawgSlug": "dead-space-2",
+  "released": "2011-01-25",
+  "developers": [
+    "Electronic Arts",
+    "Visceral Games"
+  ],
+  "playtime": 5,
+  "genres": [
+    "Action",
+    "Shooter"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Multiplayer",
+    "Atmospheric",
+    "Co-op",
+    "Story Rich",
+    "cooperative",
+    "Third Person",
+    "Sci-fi",
+    "Partial Controller Support",
+    "Horror",
+    "Gore",
+    "Survival"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/ae1/ae1518c3dc1e847344661905fd2a8d16.jpg",
+  "steamAppId": null,
+  "achievements": {
+    "total": 0,
+    "examples": [],
+    "reason": "No Steam achievement list. Steam app 47780 (\"Dead Space™ 2\") exists in the store list, but the Steam Web API returned an empty achievement schema for it and the global percentages call returned HTTP 403 (tried twice). RAWG lists 41 achievements with its own percentages, including \"The Final Frontier: Earn all Trophies\", so it looks like a PlayStation trophy list. Six are marked \"Severed:\". They cover finishing the game, Zealot and Hard Core, logs, Semiconductors, Schematics, Peng, upgrades and weapon feats, which could seed an original checklist."
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Dead_Space_2",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 105,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://deadspace.fandom.com/wiki/Dead_Space_2"
+    }
+  },
+  "game": {
+    "id": "dead-space-2",
+    "title": "Dead Space 2",
+    "platforms": [
+      "Xbox 360",
+      "PC",
+      "Xbox One",
+      "PlayStation 3"
+    ],
+    "blurb": "Science-fiction survival horror shooter from Visceral Games and Electronic Arts, published by Electronic Arts, released 2011-01-25. RAWG average playtime: 5 hours. Genres: Action, Shooter. Chapter names come from the Fandom page list for the 15 campaign chapters; the other chapters are an estimate drawn from the achievement themes RAWG lists, since Steam returned no achievement list.",
+    "accent": "#B5541C",
+    "chapters": [
+      {
+        "id": "chapters-1-5",
+        "title": "Campaign Chapters 1 to 5",
+        "summary": "From \"Where Am I?\" to \"Cold and Cryptic\": waking up and getting out. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "chapters-6-10",
+        "title": "Campaign Chapters 6 to 10",
+        "summary": "From \"I Need Some Transportation\" to \"Déjà Vu on the Ishimura\". Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "chapters-11-15",
+        "title": "Campaign Chapters 11 to 15",
+        "summary": "From \"Down in the Mines\" to \"It Ends Here\", the end of the campaign. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "difficulty",
+        "title": "Zealot and Hard Core",
+        "summary": "Finishing the game on Zealot and on Hard Core.",
+        "steps": []
+      },
+      {
+        "id": "collectibles-and-upgrades",
+        "title": "Logs, Peng and Upgrades",
+        "summary": "Logs, Semiconductors, Schematics, the Peng treasure, the Advanced Suit, and fully upgrading weapons, the RIG and Stasis.",
+        "steps": []
+      },
+      {
+        "id": "combat",
+        "title": "Combat and Weapons",
+        "summary": "Dismemberment, Kinesis, Stasis, Stomp, decompression and kills with every weapon.",
+        "steps": []
+      },
+      {
+        "id": "severed",
+        "title": "Severed",
+        "summary": "The Severed episode: the grinder room, the quarry platform, the last stand, its Peng treasure and Zealot difficulty.",
+        "steps": []
+      }
+    ],
+    "collectibles": []
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/dead-space-2",
+    "Steam: no achievement list available for this game (see notes)",
+    "StrategyWiki: no usable walkthrough, nothing used — https://strategywiki.org/wiki/Dead_Space_2",
+    "Fandom (deadspace.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://deadspace.fandom.com/wiki/Dead_Space_2"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). RAWG's first result is the expected entry (id 4550); RAWG keeps \"Dead Space 2: Severed\" (2011-03-01) separately, and six of the 41 achievements RAWG lists for this entry start with \"Severed:\", so it gets its own chapter. Steam app 47780 returned no achievements (see the collectible note), so steam=None. StrategyWiki has \"Dead Space 2\" at completion stage 0: only Achievements and trophies (about 8,200 characters), Gameplay (about 140) and Table of Contents are written; Chapter 1 to Chapter 15, Walkthrough, Controls, Weapons, Armor, Severed, Hazard Pack, Martial Law Pack and Supernova Pack are linked but not written. deadspace.fandom.com answers the API under \"Dead Space 2\" with about 105 linked articles, including the 15 chapter pages from \"Chapter 1: Where Am I?\" to \"Chapter 15: It Ends Here\" (two of them appear twice with different capitalisation) and pages for Severed, Dead Space 2 Multiplayer and two packs; names only were looked at, nothing copied. The campaign chapter groups use those page names; grouping them in fives is our own choice. RAWG's list has no multiplayer achievements, but several say \"(single player only)\"."
+}

@@ -1,0 +1,110 @@
+{
+  "id": "need-for-speed-rivals",
+  "title": "Need for Speed Rivals",
+  "year": 2013,
+  "platforms": [
+    "PlayStation 4",
+    "PlayStation 3",
+    "Xbox 360",
+    "PC",
+    "Xbox One"
+  ],
+  "rawgId": 3838,
+  "rawgSlug": "need-for-speed-rivals",
+  "released": "2013-11-15",
+  "developers": [
+    "Criterion Games",
+    "Ghost Games"
+  ],
+  "playtime": 2,
+  "genres": [
+    "Racing",
+    "Arcade"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Multiplayer",
+    "Full controller support",
+    "Atmospheric",
+    "Co-op",
+    "Open World",
+    "cooperative",
+    "First-Person",
+    "Third Person",
+    "FPS",
+    "Online Co-Op",
+    "Split Screen"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/1fa/1fa75f0895240b12fc65cc98ae9649fd.jpg",
+  "steamAppId": null,
+  "achievements": {
+    "total": 0,
+    "examples": [],
+    "reason": "The Steam app (1262600, \"Need for Speed™ Rivals\") returns an empty achievement schema and a 403 for global percentages, so there is no Steam list. RAWG lists 26 trophies (RAWG's own percentages): Racer and Cop Ranks 5, 10, 20, 40 and 60; banking scores, a x10 multiplier and Heat 10; busting Racers (50 busts, at Heat 5 and Heat 8, 10 in a Mustang); buying 10 Racer cars and maxing Cop Pursuit Tech; beating and busting a friend; 100 Gold medals; two Ford trophies; and the Platinum. These could seed an original checklist."
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": false,
+      "pages": 0,
+      "reason": "No page for Need for Speed Rivals (MediaWiki API returned missing; see notes for other titles tried)"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 140,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://needforspeed.fandom.com/wiki/Need_for_Speed:_Rivals"
+    }
+  },
+  "game": {
+    "id": "need-for-speed-rivals",
+    "title": "Need for Speed Rivals",
+    "platforms": [
+      "PlayStation 4",
+      "PlayStation 3",
+      "Xbox 360",
+      "PC",
+      "Xbox One"
+    ],
+    "blurb": "Open-world cops-and-racers driving game from Ghost Games and Criterion Games, published by Electronic Arts, released 2013-11-15. RAWG average playtime: 2 hours. Genres: Racing, Arcade. Chapters are an estimate drawn from the trophy themes RAWG lists.",
+    "accent": "#1F5FA8",
+    "chapters": [
+      {
+        "id": "racer-career",
+        "title": "Racer Career",
+        "summary": "Racer Ranks 5 to 60, Heat levels, multipliers, banking your score and buying Racer cars.",
+        "steps": []
+      },
+      {
+        "id": "cop-career",
+        "title": "Cop Career",
+        "summary": "Cop Ranks 5 to 60, busting Racers at high Heat and maxing Pursuit Tech.",
+        "steps": []
+      },
+      {
+        "id": "friends",
+        "title": "Racing and Busting Friends",
+        "summary": "Winning a race against a friend and busting one.",
+        "steps": []
+      },
+      {
+        "id": "medals-and-cars",
+        "title": "Gold Medals and Ford Cars",
+        "summary": "Gold medals across both factions, the Ford car trophies and the full trophy set.",
+        "steps": []
+      }
+    ],
+    "collectibles": []
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/need-for-speed-rivals",
+    "Steam: no achievement list available for this game (see notes)",
+    "StrategyWiki: no page for this game, nothing used",
+    "Fandom (needforspeed.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://needforspeed.fandom.com/wiki/Need_for_Speed:_Rivals"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). RAWG's first result is the expected entry (id 3838). Steam app 1262600 was tried but its schema is empty (steam=None); chapters use RAWG's trophy list instead. StrategyWiki has no page under \"Need for Speed Rivals\" or \"Need for Speed: Rivals\". nfs.fandom.com had no page under \"Need for Speed Rivals\"; needforspeed.fandom.com answers under \"Need for Speed: Rivals\" with about 140 linked articles; names only were looked at, nothing copied."
+}
