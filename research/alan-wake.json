@@ -1,0 +1,629 @@
+{
+  "id": "alan-wake",
+  "title": "Alan Wake",
+  "year": 2010,
+  "platforms": [
+    "Xbox 360",
+    "Xbox One",
+    "PC"
+  ],
+  "rawgId": 19487,
+  "rawgSlug": "alan-wake",
+  "released": "2010-05-14",
+  "developers": [
+    "Remedy Entertainment"
+  ],
+  "playtime": 5,
+  "genres": [
+    "Action",
+    "Shooter",
+    "Adventure"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Full controller support",
+    "Steam Cloud",
+    "Atmospheric",
+    "steam-trading-cards",
+    "Great Soundtrack",
+    "Story Rich",
+    "Open World",
+    "Third Person",
+    "Horror",
+    "Survival"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/5c0/5c0dd63002cb23f804aab327d40ef119.jpg",
+  "steamAppId": 108710,
+  "achievements": {
+    "total": 67,
+    "hidden": 0,
+    "examples": [
+      {
+        "name": "Follow the Light",
+        "percent": 82.8
+      },
+      {
+        "name": "Let There Be Light",
+        "percent": 70.0
+      },
+      {
+        "name": "Float Like a Butterfly",
+        "percent": 65.0
+      },
+      {
+        "name": "Bright Falls Aficionado",
+        "percent": 2.7
+      },
+      {
+        "name": "Licensed Properties",
+        "percent": 2.7
+      },
+      {
+        "name": "Collector's Edition",
+        "percent": 2.6
+      },
+      {
+        "name": "Run-On Sentence",
+        "percent": 2.6
+      },
+      {
+        "name": "No Punctuation",
+        "percent": 2.4
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Alan_Wake",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 225,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://alanwake.fandom.com/wiki/Alan_Wake"
+    }
+  },
+  "game": {
+    "id": "alan-wake",
+    "title": "Alan Wake",
+    "platforms": [
+      "Xbox 360",
+      "Xbox One",
+      "PC"
+    ],
+    "blurb": "Story-driven action thriller and shooter from Remedy Entertainment, published by Microsoft Studios (RAWG also lists THQ Nordic and Remedy Entertainment), released 2010-05-14. RAWG average playtime: 5 hours. Genres: Action, Shooter, Adventure. Chapters are an estimate drawn from Steam achievement themes, with episode names from the Fandom page list.",
+    "accent": "#C79A2E",
+    "chapters": [
+      {
+        "id": "episodes-1-3",
+        "title": "Episodes 1 to 3",
+        "summary": "The first half of the story: Nightmare, Taken and Ransom (episode names from Fandom page titles). Story achievements placed here by Steam order.",
+        "steps": []
+      },
+      {
+        "id": "episodes-4-6",
+        "title": "Episodes 4 to 6",
+        "summary": "The second half: The Truth, The Clicker and Departure (episode names from Fandom page titles). Story achievements placed here by Steam order. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "difficulty",
+        "title": "Normal, Hard and Nightmare",
+        "summary": "Finishing the game on Normal, Hard and Nightmare difficulty.",
+        "steps": []
+      },
+      {
+        "id": "collectibles",
+        "title": "Manuscripts, Thermoses and Bright Falls",
+        "summary": "Manuscript pages, hidden chests, coffee thermoses, radio shows, TV shows, can pyramids and local history and culture.",
+        "steps": []
+      },
+      {
+        "id": "combat",
+        "title": "Combat and Challenge Runs",
+        "summary": "Defeating Taken with each weapon, flares, flashbangs and dodges, batteries, generators, driving, and the timed or no-shot runs in named story sections.",
+        "steps": []
+      },
+      {
+        "id": "special-1",
+        "title": "Special 1",
+        "summary": "The first special episode: finding help, following the signal, the furnaces, alarm clocks, cardboard standees and speed and no-reload runs. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "special-2",
+        "title": "Special 2",
+        "summary": "The second special episode: the elevator ride, the lighthouse approach, the tornado, Night Springs video games, the secret area and the final obstacle. Spoiler-guarded.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Follow the Light",
+        "kind": "trophy",
+        "chapterId": "episodes-1-3",
+        "where": "Take a night course of light education."
+      },
+      {
+        "id": "achievement-2",
+        "name": "Nordic Walking",
+        "kind": "trophy",
+        "chapterId": "episodes-1-3",
+        "where": "Take a walk through the logging area, meet one of the quirky locals."
+      },
+      {
+        "id": "achievement-3",
+        "name": "Bright Falls' Finest",
+        "kind": "trophy",
+        "chapterId": "episodes-1-3",
+        "where": "Call for help."
+      },
+      {
+        "id": "achievement-4",
+        "name": "Boob Tube",
+        "kind": "trophy",
+        "chapterId": "episodes-1-3",
+        "where": "See what's on TV."
+      },
+      {
+        "id": "achievement-5",
+        "name": "Under a Thin Layer of Skin",
+        "kind": "trophy",
+        "chapterId": "episodes-1-3",
+        "where": "Defy the park ranger."
+      },
+      {
+        "id": "achievement-6",
+        "name": "Park Ranger",
+        "kind": "trophy",
+        "chapterId": "episodes-1-3",
+        "where": "Enjoy the sounds and sights of Elderwood National Park."
+      },
+      {
+        "id": "achievement-7",
+        "name": "Heavy Metal",
+        "kind": "trophy",
+        "chapterId": "episodes-1-3",
+        "where": "Survive the bulldozer attack."
+      },
+      {
+        "id": "achievement-8",
+        "name": "Iron Horse",
+        "kind": "trophy",
+        "chapterId": "episodes-1-3",
+        "where": "Encounter a steam engine."
+      },
+      {
+        "id": "achievement-9",
+        "name": "Wheels Within Wheels",
+        "kind": "trophy",
+        "chapterId": "episodes-4-6",
+        "where": "Meet the kidnapper."
+      },
+      {
+        "id": "achievement-10",
+        "name": "Medical Opinions",
+        "kind": "trophy",
+        "chapterId": "episodes-4-6",
+        "where": "Listen to Hartman's recordings."
+      },
+      {
+        "id": "achievement-11",
+        "name": "Child of the Elder God",
+        "kind": "trophy",
+        "chapterId": "episodes-4-6",
+        "where": "Have a rock'n'roll moment without dropping to a low health state."
+      },
+      {
+        "id": "achievement-12",
+        "name": "Perchance to Dream",
+        "kind": "trophy",
+        "chapterId": "episodes-4-6",
+        "where": "Take a moment to reflect on past events."
+      },
+      {
+        "id": "achievement-13",
+        "name": "Drink 'Em Both Up",
+        "kind": "trophy",
+        "chapterId": "episodes-4-6",
+        "where": "Put de lime in de coconut twice."
+      },
+      {
+        "id": "achievement-14",
+        "name": "Gatekeeper",
+        "kind": "trophy",
+        "chapterId": "episodes-4-6",
+        "where": "Cut the power to the transformer yard."
+      },
+      {
+        "id": "achievement-15",
+        "name": "The Lady of the Light",
+        "kind": "trophy",
+        "chapterId": "episodes-4-6",
+        "where": "Discover the secret she guards."
+      },
+      {
+        "id": "achievement-16",
+        "name": "Tornado Wrangler",
+        "kind": "trophy",
+        "chapterId": "episodes-4-6",
+        "where": "Defeat the tornado."
+      },
+      {
+        "id": "achievement-17",
+        "name": "Departure",
+        "kind": "trophy",
+        "chapterId": "difficulty",
+        "where": "Complete the game on Normal difficulty."
+      },
+      {
+        "id": "achievement-18",
+        "name": "Hardboiled Writer",
+        "kind": "trophy",
+        "chapterId": "difficulty",
+        "where": "Complete the game on Hard difficulty."
+      },
+      {
+        "id": "achievement-19",
+        "name": "Alan, Wake Up",
+        "kind": "trophy",
+        "chapterId": "difficulty",
+        "where": "Complete the game on Nightmare difficulty."
+      },
+      {
+        "id": "achievement-20",
+        "name": "If It Flies, It Burns",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Burn 1,000 birds."
+      },
+      {
+        "id": "achievement-21",
+        "name": "They're Heeeeeere!",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Inanimate objects shouldn't move of their own accord. Put a stop to this affront, oh, say, 20 times."
+      },
+      {
+        "id": "achievement-22",
+        "name": "The Six-Gun Scribe",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Defeat 100 Taken with the revolver."
+      },
+      {
+        "id": "achievement-23",
+        "name": "Taken Season",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Defeat 50 Taken with the hunting rifle."
+      },
+      {
+        "id": "achievement-24",
+        "name": "It's Not Just a Typewriter Brand",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Defeat 50 Taken with a shotgun."
+      },
+      {
+        "id": "achievement-25",
+        "name": "What Light Through Yonder Window",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Defeat 50 Taken with the flaregun, the way Shakespeare intended."
+      },
+      {
+        "id": "achievement-26",
+        "name": "Thunder and Lightning",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Defeat 50 Taken with flashbang grenades."
+      },
+      {
+        "id": "achievement-27",
+        "name": "Collateral Carnage",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Defeat 20 Taken with indirect means."
+      },
+      {
+        "id": "achievement-28",
+        "name": "Come One, Come All",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Kill four Taken with a single shot from the flaregun."
+      },
+      {
+        "id": "achievement-29",
+        "name": "Sound and Fury",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Kill four Taken with a single flashbang."
+      },
+      {
+        "id": "achievement-30",
+        "name": "Two For the Price of One",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Kill two Taken with a single shotgun blast."
+      },
+      {
+        "id": "achievement-31",
+        "name": "Back! Back, I Say!",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Save yourself with a flare."
+      },
+      {
+        "id": "achievement-32",
+        "name": "Float Like a Butterfly",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Perform a cinematic dodge."
+      },
+      {
+        "id": "achievement-33",
+        "name": "Missed by a Mile",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Perform a cinematic dodge 20 times."
+      },
+      {
+        "id": "achievement-34",
+        "name": "Energized!",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Use 100 batteries."
+      },
+      {
+        "id": "achievement-35",
+        "name": "Let There Be Light",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Get a generator running."
+      },
+      {
+        "id": "achievement-36",
+        "name": "Carny",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Knock over five can pyramids."
+      },
+      {
+        "id": "achievement-37",
+        "name": "Meet the Deadline",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "In ''Mirror Peak,'' make it from the Coal Mine Museum to Cauldron Lake in 30 minutes."
+      },
+      {
+        "id": "achievement-38",
+        "name": "An Idyllic Small Town",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Make it through ''Night Life in Bright Falls'' in one go without dying or restarting even once."
+      },
+      {
+        "id": "achievement-39",
+        "name": "Gunless Wonder",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Make it to Cauldron Lake without firing a single shot in ''On the Road to Cauldron Lake.''"
+      },
+      {
+        "id": "achievement-40",
+        "name": "Right of Way",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Drive over 15 Taken."
+      },
+      {
+        "id": "achievement-41",
+        "name": "Finders Keepers",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Discover 5 hidden chests."
+      },
+      {
+        "id": "achievement-42",
+        "name": "Every Nook and Cranny",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Discover all of the hidden chests."
+      },
+      {
+        "id": "achievement-43",
+        "name": "Paging Mr. Wake",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Find 25 manuscript pages."
+      },
+      {
+        "id": "achievement-44",
+        "name": "Picking Up After Yourself",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Find all of the manuscript pages in Normal mode."
+      },
+      {
+        "id": "achievement-45",
+        "name": "Collector's Edition",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Find all of the manuscript pages in the game, including the ones in Nightmare mode."
+      },
+      {
+        "id": "achievement-46",
+        "name": "Damn Good Cup of Coffee",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Discover 25 coffee thermoses."
+      },
+      {
+        "id": "achievement-47",
+        "name": "Hypercaffeinated",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Discover all coffee thermoses."
+      },
+      {
+        "id": "achievement-48",
+        "name": "KBF-FM",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Listen to all of the radio shows."
+      },
+      {
+        "id": "achievement-49",
+        "name": "Couch Potato",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Watch every single TV show."
+      },
+      {
+        "id": "achievement-50",
+        "name": "Bright Falls Aficionado",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Absorb every bit of local history and culture."
+      },
+      {
+        "id": "achievement-51",
+        "name": "A Friend in Need",
+        "kind": "trophy",
+        "chapterId": "special-1",
+        "where": "Special 1: Find someone to help you."
+      },
+      {
+        "id": "achievement-52",
+        "name": "A Friend Indeed",
+        "kind": "trophy",
+        "chapterId": "special-1",
+        "where": "Special 1: Follow the signal to its conclusion."
+      },
+      {
+        "id": "achievement-53",
+        "name": "Fast and Furious",
+        "kind": "trophy",
+        "chapterId": "special-1",
+        "where": "Special 1: Make it through the final battle in less than 1 minute and 30 seconds."
+      },
+      {
+        "id": "achievement-54",
+        "name": "Words Will Never Harm You",
+        "kind": "trophy",
+        "chapterId": "special-1",
+        "where": "Special 1: Trigger all of the furnaces in the basement."
+      },
+      {
+        "id": "achievement-55",
+        "name": "Run-On Sentence",
+        "kind": "trophy",
+        "chapterId": "special-1",
+        "where": "Special 1: Complete the episode without reloading the game or restarting a checkpoint."
+      },
+      {
+        "id": "achievement-56",
+        "name": "License Revoked",
+        "kind": "trophy",
+        "chapterId": "special-1",
+        "where": "Special 1: Complete the episode without using a single vehicle."
+      },
+      {
+        "id": "achievement-57",
+        "name": "Tick Tock",
+        "kind": "trophy",
+        "chapterId": "special-1",
+        "where": "Special 1: Discover 10 hidden alarm clocks."
+      },
+      {
+        "id": "achievement-58",
+        "name": "Cardboard Companions",
+        "kind": "trophy",
+        "chapterId": "special-1",
+        "where": "Special 1: Discover all of the cardboard standees."
+      },
+      {
+        "id": "achievement-59",
+        "name": "Ding!",
+        "kind": "trophy",
+        "chapterId": "special-2",
+        "where": "Special 2: Complete the elevator ride."
+      },
+      {
+        "id": "achievement-60",
+        "name": "Kill Your Darlings",
+        "kind": "trophy",
+        "chapterId": "special-2",
+        "where": "Special 2: Defeat the final obstacle between you and your goal."
+      },
+      {
+        "id": "achievement-61",
+        "name": "Go Gentle Into That Good Light",
+        "kind": "trophy",
+        "chapterId": "special-2",
+        "where": "Special 2: Make it through the approach to the lighthouse without firing a weapon."
+      },
+      {
+        "id": "achievement-62",
+        "name": "No Punctuation",
+        "kind": "trophy",
+        "chapterId": "special-2",
+        "where": "Special 2: Complete the episode without reloading the game or restarting a checkpoint."
+      },
+      {
+        "id": "achievement-63",
+        "name": "Iron Will",
+        "kind": "trophy",
+        "chapterId": "special-2",
+        "where": "Special 2: Survive the final encounter without being seriously hurt."
+      },
+      {
+        "id": "achievement-64",
+        "name": "Whirlwind",
+        "kind": "trophy",
+        "chapterId": "special-2",
+        "where": "Special 2: Make your way past the tornado in under 60 seconds."
+      },
+      {
+        "id": "achievement-65",
+        "name": "Licensed Properties",
+        "kind": "trophy",
+        "chapterId": "special-2",
+        "where": "Special 2: Discover 10 Night Springs video games."
+      },
+      {
+        "id": "achievement-66",
+        "name": "Creative Space",
+        "kind": "trophy",
+        "chapterId": "special-2",
+        "where": "Special 2: Discover the secret area."
+      },
+      {
+        "id": "achievement-67",
+        "name": "Heartbreaker",
+        "kind": "trophy",
+        "chapterId": "special-2",
+        "where": "Special 2: Have some poison poured in your ear."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/alan-wake",
+    "Achievement data from Steam (Steam Web API, app 108710)",
+    "StrategyWiki: no usable walkthrough, nothing used — https://strategywiki.org/wiki/Alan_Wake",
+    "Fandom (alanwake.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://alanwake.fandom.com/wiki/Alan_Wake"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). RAWG's first result is the expected entry (id 19487). Steam app 108710 (\"Alan Wake\") from the store list; its schema is named \"ValveTestApp108710\" (a placeholder name). None of the 67 Steam achievements is hidden. Sixteen story achievements come first in the Steam list; the first eight were put in Episodes 1 to 3 and the next eight in Episodes 4 to 6, which is our own guess from that order, not checked. The episode names come from alanwake.fandom.com page titles (\"Episode 1: Nightmare (Alan Wake)\" to \"Episode 6: Departure (Alan Wake)\"); the Steam achievement \"Departure\" (finish on Normal) shares the last name. Fandom also has pages \"Special 1: The Signal (Alan Wake)\" and \"Special 2: The Writer (Alan Wake)\", and RAWG has separate entries \"Alan Wake: The Signal\" and \"Alan Wake: The Writer\"; the Steam achievements say only \"Special 1\" and \"Special 2\", so the chapters use those words. \"Mirror Peak\", \"Night Life in Bright Falls\" and \"On the Road to Cauldron Lake\" are story sections named in challenge achievements, which sit in the combat chapter because the data does not say which episode holds them. StrategyWiki has \"Alan Wake\" as a stub (completion stage 0, Category:Stubs) with no subpages written. alanwake.fandom.com answers the API under \"Alan Wake\" with about 225 linked articles; names only were looked at, nothing copied."
+}

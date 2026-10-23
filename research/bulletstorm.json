@@ -1,0 +1,592 @@
+{
+  "id": "bulletstorm",
+  "title": "Bulletstorm",
+  "year": 2011,
+  "platforms": [
+    "PlayStation 3",
+    "Xbox 360",
+    "Xbox One",
+    "PC"
+  ],
+  "rawgId": 4602,
+  "rawgSlug": "bulletstorm",
+  "released": "2011-02-22",
+  "developers": [
+    "Epic Games",
+    "People Can Fly"
+  ],
+  "playtime": 4,
+  "genres": [
+    "Action",
+    "Shooter"
+  ],
+  "tags": [
+    "Multiplayer",
+    "FPS",
+    "Dark",
+    "combat",
+    "Epic",
+    "fun",
+    "destroy",
+    "hunt",
+    "planet",
+    "humor",
+    "murder",
+    "fly"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/b42/b42b05096de6668833bbab38f6099c6a.jpg",
+  "steamAppId": 501590,
+  "achievements": {
+    "total": 60,
+    "hidden": 0,
+    "examples": [
+      {
+        "name": "Fits Like a Glove",
+        "percent": 79.6
+      },
+      {
+        "name": "Patched Up",
+        "percent": 73.1
+      },
+      {
+        "name": "Wannabe",
+        "percent": 65.2
+      },
+      {
+        "name": "Environment Master",
+        "percent": 1.5
+      },
+      {
+        "name": "Heart Attack",
+        "percent": 1.5
+      },
+      {
+        "name": "Extinguisher",
+        "percent": 1.5
+      },
+      {
+        "name": "Beat 'em down",
+        "percent": 1.5
+      },
+      {
+        "name": "Anarchy Master",
+        "percent": 1.4
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": false,
+      "pages": 0,
+      "reason": "No page for Bulletstorm (MediaWiki API returned missing; see notes for other titles tried)"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 16,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://bulletstorm.fandom.com/wiki/Bulletstorm"
+    }
+  },
+  "game": {
+    "id": "bulletstorm",
+    "title": "Bulletstorm",
+    "platforms": [
+      "PlayStation 3",
+      "Xbox 360",
+      "Xbox One",
+      "PC"
+    ],
+    "blurb": "First-person shooter built around Skillshots, from People Can Fly and Epic Games, published by Electronic Arts, released 2011-02-22. RAWG average playtime: 4 hours. Genres: Action, Shooter. Chapters are an estimate drawn from Steam achievement themes (Full Clip Edition app).",
+    "accent": "#D4A017",
+    "chapters": [
+      {
+        "id": "campaign-early",
+        "title": "The Campaign: Early Story",
+        "summary": "The first story beats in the achievements, from meeting your new best friend to rescuing the princess.",
+        "steps": []
+      },
+      {
+        "id": "campaign-late",
+        "title": "The Campaign: Later Story",
+        "summary": "Later story beats, from major destruction and the back yard to catching a ride. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "campaign-feats",
+        "title": "Campaign Set-Piece Feats",
+        "summary": "The dance floor, the helicopter in the park, the rooftop barrels, the collapsed building, the jumpship sprint, the escape capsule, flytraps and early headshots.",
+        "steps": []
+      },
+      {
+        "id": "collectibles",
+        "title": "Newsbots, Electroflies and Nom Juice",
+        "summary": "Destroying Newsbots and Electroflies, and drinking or destroying bottles of Nom Juice.",
+        "steps": []
+      },
+      {
+        "id": "difficulty",
+        "title": "Difficulty Runs",
+        "summary": "Finishing the campaign on Very Easy or Easy, Normal, Hard and Very Hard.",
+        "steps": []
+      },
+      {
+        "id": "skillshots",
+        "title": "Skillshots",
+        "summary": "Performing 10 different Skillshots up to every Single Player Skillshot, and 2000 points at once.",
+        "steps": []
+      },
+      {
+        "id": "echoes",
+        "title": "Echoes Mode",
+        "summary": "Stars, scores and Skillshot feats in Echoes.",
+        "steps": []
+      },
+      {
+        "id": "anarchy",
+        "title": "Anarchy Mode",
+        "summary": "Minibosses, team score, team challenges, level 30 and environmental Skillshots.",
+        "steps": []
+      },
+      {
+        "id": "map-challenges",
+        "title": "Map Challenges",
+        "summary": "Ten feats tied to named maps, from Guns of Stygia and Crash Site to Hotel Elysium, Villa, Sewer, Mean Street, Monorail Factory, Rock Quarry, Ulysses and Mini City.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Destructive Beat",
+        "kind": "trophy",
+        "chapterId": "difficulty",
+        "where": "Complete the Campaign on Very Easy or Easy Difficulty"
+      },
+      {
+        "id": "achievement-2",
+        "name": "Violent Melody",
+        "kind": "trophy",
+        "chapterId": "difficulty",
+        "where": "Complete the Campaign on Normal Difficulty"
+      },
+      {
+        "id": "achievement-3",
+        "name": "Brutal Chorus",
+        "kind": "trophy",
+        "chapterId": "difficulty",
+        "where": "Complete the Campaign on Hard Difficulty"
+      },
+      {
+        "id": "achievement-4",
+        "name": "Blood Symphony",
+        "kind": "trophy",
+        "chapterId": "difficulty",
+        "where": "Complete the Campaign on Very Hard Difficulty"
+      },
+      {
+        "id": "achievement-5",
+        "name": "Major Malfunction",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Destroy 50% of the Newsbots in the Single Player Campaign"
+      },
+      {
+        "id": "achievement-6",
+        "name": "Total Malfunction",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Destroy all Newsbots in the Single Player Campaign"
+      },
+      {
+        "id": "achievement-7",
+        "name": "Insecticide",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Destroy 50% of the Electroflies in the Single Player Campaign"
+      },
+      {
+        "id": "achievement-8",
+        "name": "Pest Control",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Destroy all Electroflies in the Single Player Campaign"
+      },
+      {
+        "id": "achievement-9",
+        "name": "Space Pirate",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Drink at least 20 bottles of Nom Juice in the Single Player Campaign"
+      },
+      {
+        "id": "achievement-10",
+        "name": "Straight Edge",
+        "kind": "trophy",
+        "chapterId": "collectibles",
+        "where": "Destroy at least 20 bottles of Nom Juice in the Single Player Campaign"
+      },
+      {
+        "id": "achievement-11",
+        "name": "Fits Like a Glove",
+        "kind": "trophy",
+        "chapterId": "campaign-early",
+        "where": "Meet your new best friend"
+      },
+      {
+        "id": "achievement-12",
+        "name": "Patched Up",
+        "kind": "trophy",
+        "chapterId": "campaign-early",
+        "where": "Receive a software update for your leash"
+      },
+      {
+        "id": "achievement-13",
+        "name": "All Bow To Heavy Metal",
+        "kind": "trophy",
+        "chapterId": "campaign-early",
+        "where": "Big head, big headache"
+      },
+      {
+        "id": "achievement-14",
+        "name": "Size Matters",
+        "kind": "trophy",
+        "chapterId": "campaign-early",
+        "where": "Use your biggest weapon"
+      },
+      {
+        "id": "achievement-15",
+        "name": "Damsel in Distress",
+        "kind": "trophy",
+        "chapterId": "campaign-early",
+        "where": "Rescue the princess"
+      },
+      {
+        "id": "achievement-16",
+        "name": "Destroyer of Worlds",
+        "kind": "trophy",
+        "chapterId": "campaign-late",
+        "where": "Cause major destruction"
+      },
+      {
+        "id": "achievement-17",
+        "name": "Weed Killer",
+        "kind": "trophy",
+        "chapterId": "campaign-late",
+        "where": "Tidy up the back yard"
+      },
+      {
+        "id": "achievement-18",
+        "name": "Minced Meat",
+        "kind": "trophy",
+        "chapterId": "campaign-late",
+        "where": "Take out the Mall's biggest customer"
+      },
+      {
+        "id": "achievement-19",
+        "name": "Grilled Meat",
+        "kind": "trophy",
+        "chapterId": "campaign-late",
+        "where": "Prepare a big meal using an improvised electric stove"
+      },
+      {
+        "id": "achievement-20",
+        "name": "Armed and dangerous",
+        "kind": "trophy",
+        "chapterId": "campaign-late",
+        "where": "Grow as a person, experience betrayal. Again."
+      },
+      {
+        "id": "achievement-21",
+        "name": "Stowaway",
+        "kind": "trophy",
+        "chapterId": "campaign-late",
+        "where": "Catch a ride"
+      },
+      {
+        "id": "achievement-22",
+        "name": "Pointless",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "Execute at least 10 Headshots before you find the first DropKit"
+      },
+      {
+        "id": "achievement-23",
+        "name": "Disco Inferno",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "Kill all enemies without leaving the dance floor in the city outskirts"
+      },
+      {
+        "id": "achievement-24",
+        "name": "Chop-Chopper",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "Kill the enemy inside the airborne helicopter in the park"
+      },
+      {
+        "id": "achievement-25",
+        "name": "Red Barrels",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "Explode all the red barrels on the rooftop while in a helicopter"
+      },
+      {
+        "id": "achievement-26",
+        "name": "No Man Left Behind",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "Kill all enemies while escaping from the collapsed building"
+      },
+      {
+        "id": "achievement-27",
+        "name": "I might be late",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "Kill all enemies during the sprint to the jumpship"
+      },
+      {
+        "id": "achievement-28",
+        "name": "Just one last thing",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "Kill all enemies before you reach the escape capsule"
+      },
+      {
+        "id": "achievement-29",
+        "name": "Om Nom Nom!",
+        "kind": "trophy",
+        "chapterId": "campaign-feats",
+        "where": "Feed a flytrap with a Nom parasite"
+      },
+      {
+        "id": "achievement-30",
+        "name": "Wannabe",
+        "kind": "trophy",
+        "chapterId": "skillshots",
+        "where": "Perform 10 different Single Player Skillshots"
+      },
+      {
+        "id": "achievement-31",
+        "name": "Somebody",
+        "kind": "trophy",
+        "chapterId": "skillshots",
+        "where": "Perform 25% of the Single Player Skillshots"
+      },
+      {
+        "id": "achievement-32",
+        "name": "Big Cheese",
+        "kind": "trophy",
+        "chapterId": "skillshots",
+        "where": "Perform 50% of the Single Player Skillshots"
+      },
+      {
+        "id": "achievement-33",
+        "name": "Celebrity",
+        "kind": "trophy",
+        "chapterId": "skillshots",
+        "where": "Perform 75% of the Single Player Skillshots"
+      },
+      {
+        "id": "achievement-34",
+        "name": "Golden Idol",
+        "kind": "trophy",
+        "chapterId": "skillshots",
+        "where": "Perform every Single Player Skillshot in the game"
+      },
+      {
+        "id": "achievement-35",
+        "name": "Master of Disaster",
+        "kind": "trophy",
+        "chapterId": "skillshots",
+        "where": "Earn 2000 points or more at once"
+      },
+      {
+        "id": "achievement-36",
+        "name": "Remembrance",
+        "kind": "trophy",
+        "chapterId": "echoes",
+        "where": "Play three different Echoes"
+      },
+      {
+        "id": "achievement-37",
+        "name": "Shooting Star",
+        "kind": "trophy",
+        "chapterId": "echoes",
+        "where": "Get at least 1 star on each Echo"
+      },
+      {
+        "id": "achievement-38",
+        "name": "Supernova",
+        "kind": "trophy",
+        "chapterId": "echoes",
+        "where": "Get 3 Stars on 20 different Echoes"
+      },
+      {
+        "id": "achievement-39",
+        "name": "Bounty Hunter",
+        "kind": "trophy",
+        "chapterId": "echoes",
+        "where": "Have a total of at least 125,000 points in Echoes Mode's total high score"
+      },
+      {
+        "id": "achievement-40",
+        "name": "Guerrilla Tactics",
+        "kind": "trophy",
+        "chapterId": "echoes",
+        "where": "Execute at least 25 different Skillshots in one Echo round"
+      },
+      {
+        "id": "achievement-41",
+        "name": "Halfway There",
+        "kind": "trophy",
+        "chapterId": "echoes",
+        "where": "Get at least 45 stars in Echoes Mode"
+      },
+      {
+        "id": "achievement-42",
+        "name": "Old School",
+        "kind": "trophy",
+        "chapterId": "echoes",
+        "where": "Finish an Echo round without executing a single Skillshot"
+      },
+      {
+        "id": "achievement-43",
+        "name": "Enforcer",
+        "kind": "trophy",
+        "chapterId": "echoes",
+        "where": "Get at least 15,000 points in one Echo round"
+      },
+      {
+        "id": "achievement-44",
+        "name": "Star struck",
+        "kind": "trophy",
+        "chapterId": "echoes",
+        "where": "Get 3 Stars on 10 different Echoes"
+      },
+      {
+        "id": "achievement-45",
+        "name": "Hoarder",
+        "kind": "trophy",
+        "chapterId": "echoes",
+        "where": "Have a total of at least 250,000 points in Echoes Mode's total high score"
+      },
+      {
+        "id": "achievement-46",
+        "name": "Like A Boss",
+        "kind": "trophy",
+        "chapterId": "anarchy",
+        "where": "Defeat a miniboss in Anarchy mode"
+      },
+      {
+        "id": "achievement-47",
+        "name": "Anarchy Master",
+        "kind": "trophy",
+        "chapterId": "anarchy",
+        "where": "Achieve a score of at least 40,000 as a team in Anarchy mode"
+      },
+      {
+        "id": "achievement-48",
+        "name": "Team Player",
+        "kind": "trophy",
+        "chapterId": "anarchy",
+        "where": "Complete 50 team challenges in your career in Anarchy mode"
+      },
+      {
+        "id": "achievement-49",
+        "name": "Veteran",
+        "kind": "trophy",
+        "chapterId": "anarchy",
+        "where": "Achieve level 30 in Anarchy mode"
+      },
+      {
+        "id": "achievement-50",
+        "name": "Environment Master",
+        "kind": "trophy",
+        "chapterId": "anarchy",
+        "where": "Perform every Anarchy environmental Skillshot"
+      },
+      {
+        "id": "achievement-51",
+        "name": "Last Blood",
+        "kind": "trophy",
+        "chapterId": "map-challenges",
+        "where": "At the end of Guns of Stygia, kill all the enemies on the walkways before the explosions do"
+      },
+      {
+        "id": "achievement-52",
+        "name": "Hell Razor",
+        "kind": "trophy",
+        "chapterId": "map-challenges",
+        "where": "Kill a Burnout using the helicopter that arrives in Crash Site"
+      },
+      {
+        "id": "achievement-53",
+        "name": "Heart Attack",
+        "kind": "trophy",
+        "chapterId": "map-challenges",
+        "where": "Kill a Boss using the Hot Dog cart in the Hotel Elysium map"
+      },
+      {
+        "id": "achievement-54",
+        "name": "Bell End",
+        "kind": "trophy",
+        "chapterId": "map-challenges",
+        "where": "Kill 5 enemies at the same time using \"Dung\" in the Villa map"
+      },
+      {
+        "id": "achievement-55",
+        "name": "Extinguisher",
+        "kind": "trophy",
+        "chapterId": "map-challenges",
+        "where": "In the Sewer map Kill 5 enemies in 1 wave by setting them on fire then extinguishing them"
+      },
+      {
+        "id": "achievement-56",
+        "name": "Fast Track",
+        "kind": "trophy",
+        "chapterId": "map-challenges",
+        "where": "On Mean Street, kill all the snipers on the rooftop before the DNA bomb explodes"
+      },
+      {
+        "id": "achievement-57",
+        "name": "Up-Lifting",
+        "kind": "trophy",
+        "chapterId": "map-challenges",
+        "where": "On Monorail Factory, kill all enemies whilst riding the lift"
+      },
+      {
+        "id": "achievement-58",
+        "name": "Environmentalist",
+        "kind": "trophy",
+        "chapterId": "map-challenges",
+        "where": "In the Rock Quarry map kill an enemy using a Mine Cart, Oven, Fan, Smasher and Lava Cart in one wave"
+      },
+      {
+        "id": "achievement-59",
+        "name": "Beat 'em down",
+        "kind": "trophy",
+        "chapterId": "map-challenges",
+        "where": "Kill every enemy in a wave using only the Teleportation in the Ulysses map"
+      },
+      {
+        "id": "achievement-60",
+        "name": "Barber",
+        "kind": "trophy",
+        "chapterId": "map-challenges",
+        "where": "Kill an enemy by thumping them into a helicopter in the Mini City map"
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/bulletstorm",
+    "Achievement data from Steam (Steam Web API, app 501590)",
+    "StrategyWiki: no page for this game, nothing used",
+    "Fandom (bulletstorm.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://bulletstorm.fandom.com/wiki/Bulletstorm"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). RAWG's first result is the expected 2011 entry \"bulletstorm\" (id 4602); RAWG keeps \"Bulletstorm: Full Clip Edition\" (id 9659, 2017-04-07) separately and lists it as this game's only addition. The Steam store list has no app for the 2011 release; it has \"Bulletstorm: Full Clip Edition\" (501590) and \"Bulletstorm VR\" (2451320). The Full Clip Edition is the edition on sale, so its achievements were used (60, none hidden); it may differ from the 2011 release. StrategyWiki has no page under \"Bulletstorm\" or \"Bulletstorm: Full Clip Edition\". bulletstorm.fandom.com answers the API under \"Bulletstorm\" but with only 16 linked articles, so it says little; names only were looked at, nothing copied. The eleven story achievements do not name acts; they are ordered by unlock rate (79.6% for \"Fits Like a Glove\" down to 32.0% for \"Stowaway\") and split into two halves, our own choice. The ten map achievements (Last_Blood to Barber in the list, about 1.5% each) name maps but not a mode; they are kept in their own chapter rather than guessed into Anarchy or Echoes."
+}

@@ -1,0 +1,585 @@
+{
+  "id": "warhammer-40-000-space-marine",
+  "title": "Warhammer 40,000: Space Marine",
+  "year": 2011,
+  "platforms": [
+    "PC",
+    "PlayStation 3",
+    "Xbox 360"
+  ],
+  "rawgId": 12756,
+  "rawgSlug": "warhammer-40000-space-marine",
+  "released": "2011-09-05",
+  "developers": [
+    "Relic Entertainment"
+  ],
+  "playtime": 5,
+  "genres": [
+    "Action",
+    "Shooter"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Multiplayer",
+    "Full controller support",
+    "Atmospheric",
+    "Great Soundtrack",
+    "Co-op",
+    "Story Rich",
+    "cooperative",
+    "Third Person",
+    "Sci-fi",
+    "Online Co-Op"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/ac2/ac25b5cef220bf5b8d052e0978451cab.jpg",
+  "steamAppId": 55150,
+  "achievements": {
+    "total": 60,
+    "hidden": 9,
+    "examples": [
+      {
+        "name": "The Might of the Righteous",
+        "percent": 81.5
+      },
+      {
+        "name": "Blast Radius",
+        "percent": 69.9
+      },
+      {
+        "name": "Death from Above",
+        "percent": 59.1
+      },
+      {
+        "name": "Chain of Death",
+        "percent": 2.0
+      },
+      {
+        "name": "True Son of the Emperor",
+        "percent": 2.0
+      },
+      {
+        "name": "Let the Heavens Bleed",
+        "percent": 1.8
+      },
+      {
+        "name": "Heretic",
+        "percent": 1.7
+      },
+      {
+        "name": "Keeper of the Armory",
+        "percent": 1.6
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Warhammer_40,000:_Space_Marine",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 138,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://warhammer40k.fandom.com/wiki/Space_Marine_(Game)"
+    }
+  },
+  "game": {
+    "id": "warhammer-40-000-space-marine",
+    "title": "Warhammer 40,000: Space Marine",
+    "platforms": [
+      "PC",
+      "PlayStation 3",
+      "Xbox 360"
+    ],
+    "blurb": "Third-person shooter from Relic Entertainment, published by SEGA and THQ, released 2011-09-05. RAWG average playtime: 5 hours. Genres: Action, Shooter. Chapters are an estimate drawn from Steam achievement themes.",
+    "accent": "#2A4B8D",
+    "chapters": [
+      {
+        "id": "campaign-first-half",
+        "title": "The Campaign: First Half",
+        "summary": "The first four hidden campaign milestones: regrouping with the Command Squad, getting into the breach, silencing the cannon and carrying the power source. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "campaign-second-half",
+        "title": "The Campaign: Second Half",
+        "summary": "The last four hidden milestones, up to the end of the campaign. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "hard-difficulty",
+        "title": "Hard Difficulty",
+        "summary": "Part 1 on Hard in one sitting without dying, and the whole game on Hard.",
+        "steps": []
+      },
+      {
+        "id": "loadout-challenges",
+        "title": "Restricted Loadout Chapters",
+        "summary": "Clearing a campaign chapter with only one pair of weapons, four times over.",
+        "steps": []
+      },
+      {
+        "id": "servo-skulls",
+        "title": "Servo Skulls",
+        "summary": "Collecting 10 Servo Skulls, then all of them.",
+        "steps": []
+      },
+      {
+        "id": "combat",
+        "title": "Campaign Combat",
+        "summary": "Kill counts, executions, headshots, Fury, Ground Pound, Charge, multi-kills, Ork Nobs and 'Ard Boyz.",
+        "steps": []
+      },
+      {
+        "id": "multiplayer",
+        "title": "Multiplayer",
+        "summary": "Character levels, classes, weapon and armor challenges, Seize Ground, Annihilation and customising both sides.",
+        "steps": []
+      },
+      {
+        "id": "co-op-arenas",
+        "title": "Exterminatus and Chaos Invasion Co-op",
+        "summary": "The Exterminatus arenas and the Chaos Invasion co-op mission with its three arenas, bonus wave and team challenges.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "The Might of the Righteous",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Kill 100 enemies."
+      },
+      {
+        "id": "achievement-2",
+        "name": "Success is Measured in Blood",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Kill 500 enemies using Melee weapons."
+      },
+      {
+        "id": "achievement-3",
+        "name": "Angel of Death",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Kill 500 enemies using Ranged weapons."
+      },
+      {
+        "id": "achievement-4",
+        "name": "Visible, Violent Death",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Kill 2500 enemies."
+      },
+      {
+        "id": "achievement-5",
+        "name": "Firepower",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Kill 250 enemies using Exotic weapons."
+      },
+      {
+        "id": "achievement-6",
+        "name": "The Bigger They Are...",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Kill 25 Ork Nobs."
+      },
+      {
+        "id": "achievement-7",
+        "name": "Not So Tough",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Kill 10 'Ard Boyz."
+      },
+      {
+        "id": "achievement-8",
+        "name": "Die, Heretics",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-9",
+        "name": "Glorious Slaughter",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Kill 75 enemies using Executions."
+      },
+      {
+        "id": "achievement-10",
+        "name": "Into the Breach",
+        "kind": "trophy",
+        "chapterId": "campaign-first-half",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-11",
+        "name": "Put Them Down",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Get 100 Headshots."
+      },
+      {
+        "id": "achievement-12",
+        "name": "Master of the Clean Kill",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Get 250 Headshots."
+      },
+      {
+        "id": "achievement-13",
+        "name": "Shock & Awe",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Kill 150 enemies using the Charge attack."
+      },
+      {
+        "id": "achievement-14",
+        "name": "Death from Above",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Kill 25 enemies with Ground Pound."
+      },
+      {
+        "id": "achievement-15",
+        "name": "The Emperor's Marksman",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Kill 10 enemies in a row in a single Ranged Fury activation."
+      },
+      {
+        "id": "achievement-16",
+        "name": "Feel My Wrath",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Kill 250 enemies using Melee Fury attacks."
+      },
+      {
+        "id": "achievement-17",
+        "name": "The Emperor Protects",
+        "kind": "trophy",
+        "chapterId": "hard-difficulty",
+        "where": "Complete Part 1 of the game on Hard difficulty in a single session without dying or restarting."
+      },
+      {
+        "id": "achievement-18",
+        "name": "None Can Stand Before You",
+        "kind": "trophy",
+        "chapterId": "hard-difficulty",
+        "where": "Complete the entire game on Hard difficulty."
+      },
+      {
+        "id": "achievement-19",
+        "name": "Nob Down",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Win 10 struggles against the Ork Nob."
+      },
+      {
+        "id": "achievement-20",
+        "name": "Armored in Glory",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "Complete 10 armor challenges."
+      },
+      {
+        "id": "achievement-21",
+        "name": "Blast Radius",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Multi-kill -- 5 enemies with 1 Frag grenade."
+      },
+      {
+        "id": "achievement-22",
+        "name": "Precision Killer",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Multi-kill -- 2 enemies with 1 Stalker-Pattern bolter shot."
+      },
+      {
+        "id": "achievement-23",
+        "name": "Chain of Death",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Multi-kill -- Detonate a chain of 5 consecutive Vengeance Launcher rounds, killing 10 enemies."
+      },
+      {
+        "id": "achievement-24",
+        "name": "Master of Sword and Gun",
+        "kind": "trophy",
+        "chapterId": "loadout-challenges",
+        "where": "Complete a Chapter of the single-player campaign using only the Bolt Pistol and Chainsword."
+      },
+      {
+        "id": "achievement-25",
+        "name": "Burn Them All",
+        "kind": "trophy",
+        "chapterId": "loadout-challenges",
+        "where": "Complete a Chapter of the single-player campaign using only Plasma weapons."
+      },
+      {
+        "id": "achievement-26",
+        "name": "Brute Force...Unleashed",
+        "kind": "trophy",
+        "chapterId": "loadout-challenges",
+        "where": "Complete a Chapter of the single-player game using only the Vengeance Launcher and Power Axe."
+      },
+      {
+        "id": "achievement-27",
+        "name": "Finesse and Fury",
+        "kind": "trophy",
+        "chapterId": "loadout-challenges",
+        "where": "Complete a Chapter of the single-player game using only Stalker-Pattern Bolter and Chainsword."
+      },
+      {
+        "id": "achievement-28",
+        "name": "Command Squad",
+        "kind": "trophy",
+        "chapterId": "campaign-first-half",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-29",
+        "name": "Silence the Cannon",
+        "kind": "trophy",
+        "chapterId": "campaign-first-half",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-30",
+        "name": "You Must Carry It",
+        "kind": "trophy",
+        "chapterId": "campaign-first-half",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-31",
+        "name": "We Take Our Chances",
+        "kind": "trophy",
+        "chapterId": "campaign-second-half",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-32",
+        "name": "But I Am Finished With You",
+        "kind": "trophy",
+        "chapterId": "campaign-second-half",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-33",
+        "name": "Hammer of the Imperium",
+        "kind": "trophy",
+        "chapterId": "campaign-second-half",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-34",
+        "name": "Here, At the End of All Things",
+        "kind": "trophy",
+        "chapterId": "campaign-second-half",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-35",
+        "name": "Lexicanum",
+        "kind": "trophy",
+        "chapterId": "servo-skulls",
+        "where": "Collect 10 Servo Skulls."
+      },
+      {
+        "id": "achievement-36",
+        "name": "Librarian of Macragge",
+        "kind": "trophy",
+        "chapterId": "servo-skulls",
+        "where": "Collect all Servo Skulls."
+      },
+      {
+        "id": "achievement-37",
+        "name": "Battle Brother",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "Get a Multiplayer character to Lvl 10."
+      },
+      {
+        "id": "achievement-38",
+        "name": "Veteran",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "Get a Multiplayer character to Lvl 20."
+      },
+      {
+        "id": "achievement-39",
+        "name": "Captain",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "Get a Multiplayer character to Lvl 30."
+      },
+      {
+        "id": "achievement-40",
+        "name": "Chapter Master",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "Get a Multiplayer character to Lvl 40."
+      },
+      {
+        "id": "achievement-41",
+        "name": "Warrior of Darkness and Light",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "Play 10 Multiplayer games as Space Marine and 10 Multiplayer games as Chaos Marine."
+      },
+      {
+        "id": "achievement-42",
+        "name": "Shapeshifter",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "Play each class in Multiplayer."
+      },
+      {
+        "id": "achievement-43",
+        "name": "Jack of All Trades",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "Play 10 Multiplayer games using each class."
+      },
+      {
+        "id": "achievement-44",
+        "name": "Master of Arms",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "Complete 5 weapon challenges."
+      },
+      {
+        "id": "achievement-45",
+        "name": "Keeper of the Armory",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "Complete all the weapon challenges."
+      },
+      {
+        "id": "achievement-46",
+        "name": "Defender",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "Kill 25 opponents who are capturing your Control Point in Seize Ground."
+      },
+      {
+        "id": "achievement-47",
+        "name": "Devastation!",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "Have 10 times more kills than deaths in a single game of Annihilation."
+      },
+      {
+        "id": "achievement-48",
+        "name": "Master Crafted",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "Fully customize a Space Marine and a Chaos Space Marine character."
+      },
+      {
+        "id": "achievement-49",
+        "name": "Down to Earth",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "Kill 50 Assault Marines/Raptors in mid-air."
+      },
+      {
+        "id": "achievement-50",
+        "name": "True Son of the Emperor",
+        "kind": "trophy",
+        "chapterId": "multiplayer",
+        "where": "Kill 40,000 enemies in the game (all game modes combined)."
+      },
+      {
+        "id": "achievement-51",
+        "name": "Death to the False Emperor",
+        "kind": "trophy",
+        "chapterId": "co-op-arenas",
+        "where": "Complete Chaos Invasion Arena 1."
+      },
+      {
+        "id": "achievement-52",
+        "name": "Blood for the Blood God",
+        "kind": "trophy",
+        "chapterId": "co-op-arenas",
+        "where": "Complete Chaos Invasion Arena 2."
+      },
+      {
+        "id": "achievement-53",
+        "name": "Skulls for the Skull Throne",
+        "kind": "trophy",
+        "chapterId": "co-op-arenas",
+        "where": "Complete Chaos Invasion Arena 3."
+      },
+      {
+        "id": "achievement-54",
+        "name": "Let the Galaxy Burn",
+        "kind": "trophy",
+        "chapterId": "co-op-arenas",
+        "where": "Complete the Chaos Invasion mission."
+      },
+      {
+        "id": "achievement-55",
+        "name": "Let the Heavens Bleed",
+        "kind": "trophy",
+        "chapterId": "co-op-arenas",
+        "where": "Defeat the Chaos Invasion bonus wave."
+      },
+      {
+        "id": "achievement-56",
+        "name": "Frugal Spenders",
+        "kind": "trophy",
+        "chapterId": "co-op-arenas",
+        "where": "Complete a Chaos Invasion Arena without your team using any lives."
+      },
+      {
+        "id": "achievement-57",
+        "name": "Kill, for the Sake of Killing",
+        "kind": "trophy",
+        "chapterId": "co-op-arenas",
+        "where": "Complete 3 challenges in one Chaos Invasion Arena."
+      },
+      {
+        "id": "achievement-58",
+        "name": "Glory to the Dark Gods!",
+        "kind": "trophy",
+        "chapterId": "co-op-arenas",
+        "where": "Achieve a team score of higher than 270,000 in the Chaos Invasion mission."
+      },
+      {
+        "id": "achievement-59",
+        "name": "Heretic",
+        "kind": "trophy",
+        "chapterId": "co-op-arenas",
+        "where": "Complete a public Co-op game in the Chaos Invasion mission."
+      },
+      {
+        "id": "achievement-60",
+        "name": "Sector Cleared",
+        "kind": "trophy",
+        "chapterId": "co-op-arenas",
+        "where": "Successfully complete a Space Marine Exterminatus Arena (Kalkys Facility Escape or Hab Center Assault)."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/warhammer-40000-space-marine",
+    "Achievement data from Steam (Steam Web API, app 55150)",
+    "StrategyWiki: no usable walkthrough, nothing used — https://strategywiki.org/wiki/Warhammer_40,000:_Space_Marine",
+    "Fandom (warhammer40k.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://warhammer40k.fandom.com/wiki/Space_Marine_(Game)"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). RAWG's first result is the expected entry (id 12756); RAWG keeps \"Warhammer 40,000: Space Marine - Master Crafted Edition\" (2025-06-10) and Space Marine 2 separately. The Steam store list has the original as app 55150, now titled \"Warhammer 40,000: Space Marine - Anniversary Edition\", and the Master Crafted Edition as a separate app 3169520; 55150 was used because it matches the 2011 RAWG entry. Its schema is named \"ValveTestApp55150\" (a placeholder name) and has 60 achievements, 9 hidden. StrategyWiki has \"Warhammer 40,000: Space Marine\" at completion stage 0 (marked as a perfect stub article): only its Table of Contents (about 2,400 characters) is written. Its contents list Gameplay, Controls, Weapons, Achievements and trophies, Enemies, Walkthrough and 18 campaign chapters (Chapter 1: Planetfall to Chapter 18: Epilogue), none of them written, so it was not used; no other title was tried because the page exists. warhammer40k.fandom.com answers the API, redirecting to \"Space Marine (Game)\", with about 138 linked articles (mostly lore names); names only were looked at, nothing copied. Eight hidden achievements have API names starting SP_PROGRESS (campaign milestones); they are split into two halves by unlock rate (76.7% for Command Squad down to 31.9% for \"Here, At the End of All Things\"), our own choice. The hidden \"Die, Heretics\" (SP_COMBAT_SKILL_CHAOS_SPACE_MARINE_KILL) is a kill count, so it sits in combat. \"Armored in Glory\" (armor challenges) and \"True Son of the Emperor\" (40,000 kills across all modes) have MP_ API names and sit in multiplayer. Ten achievements have DLC API names: nine ACH_DLC_60_CHAOS_INVASION and one ACH_DLC_2_STEAM_WINTER naming the Exterminatus arenas Kalkys Facility Escape and Hab Center Assault; RAWG lists no additions for this game, so the chapter is named after the modes in the descriptions."
+}

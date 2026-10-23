@@ -1,0 +1,559 @@
+{
+  "id": "dead-island",
+  "title": "Dead Island",
+  "year": 2011,
+  "platforms": [
+    "PlayStation 3",
+    "Xbox 360",
+    "PC"
+  ],
+  "rawgId": 28492,
+  "rawgSlug": "dead-island",
+  "released": "2011-09-06",
+  "developers": [
+    "Techland"
+  ],
+  "playtime": 7,
+  "genres": [
+    "Action",
+    "Shooter",
+    "RPG"
+  ],
+  "tags": [
+    "Zombies",
+    "character",
+    "friends",
+    "island",
+    "police",
+    "room"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/56e/56ed40948bebaf1968234aa6e3c74771.jpg",
+  "steamAppId": 383150,
+  "achievements": {
+    "total": 57,
+    "hidden": 0,
+    "examples": [
+      {
+        "name": "Warranty Void if Used",
+        "percent": 44.5
+      },
+      {
+        "name": "A taste of everything",
+        "percent": 43.8
+      },
+      {
+        "name": "Knock, knock",
+        "percent": 43.5
+      },
+      {
+        "name": "Fancy",
+        "percent": 1.7
+      },
+      {
+        "name": "Right 4 Life",
+        "percent": 1.6
+      },
+      {
+        "name": "People Person",
+        "percent": 1.6
+      },
+      {
+        "name": "Stick it to the enemy",
+        "percent": 1.5
+      },
+      {
+        "name": "Gladiator school",
+        "percent": 1.5
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Dead_Island",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 95,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://deadisland.fandom.com/wiki/Dead_Island"
+    }
+  },
+  "game": {
+    "id": "dead-island",
+    "title": "Dead Island",
+    "platforms": [
+      "PlayStation 3",
+      "Xbox 360",
+      "PC"
+    ],
+    "blurb": "Open-world zombie action RPG from Techland, published by Deep Silver, released 2011-09-06. RAWG average playtime: 7 hours. Genres: Action, Shooter, RPG. Chapters are an estimate drawn from Steam achievement themes (Definitive Edition list), following the four acts it names.",
+    "accent": "#2E7D4F",
+    "chapters": [
+      {
+        "id": "acts-1-2",
+        "title": "Acts 1 and 2",
+        "summary": "Finishing act 1 and act 2, and act 1 with all four characters.",
+        "steps": []
+      },
+      {
+        "id": "acts-3-4",
+        "title": "Acts 3 and 4",
+        "summary": "Finishing act 3 and act 4, the end of the story. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "quests-and-levels",
+        "title": "Quests, Survivors and Levels",
+        "summary": "Finishing quests, saving besieged survivors, levels 10, 25 and 50, and coming back after 28 days.",
+        "steps": []
+      },
+      {
+        "id": "exploration",
+        "title": "Exploring Banoi and Collectibles",
+        "summary": "Exploring the whole island, driving and walking long distances, and finding 60 and 120 collectibles.",
+        "steps": []
+      },
+      {
+        "id": "weapons-and-crafting",
+        "title": "Weapon Mods and Loot",
+        "summary": "Customising weapons, fire and thunder mods, modified-weapon kills and Exceptional Weapons.",
+        "steps": []
+      },
+      {
+        "id": "combat",
+        "title": "Combat and Special Infected",
+        "summary": "Melee and firearm kill counts, headshots, fire, grenades, Fury attacks, limbs, medkits and the Ram, Butcher and Suicider.",
+        "steps": []
+      },
+      {
+        "id": "co-op",
+        "title": "Co-op",
+        "summary": "Joining other players, playing with four characters and finishing quests with partners.",
+        "steps": []
+      },
+      {
+        "id": "arenas",
+        "title": "The Arenas",
+        "summary": "Surviving waves in each of the four Arenas, alone and in co-op.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "I want one of those",
+        "kind": "trophy",
+        "chapterId": "weapons-and-crafting",
+        "where": "Customize 25 weapons."
+      },
+      {
+        "id": "achievement-2",
+        "name": "One is all I need",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Kill 5 Infected in a row with a single blow."
+      },
+      {
+        "id": "achievement-3",
+        "name": "Can't touch this",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Use a hammer to kill a series of 15 zombies without taking damage."
+      },
+      {
+        "id": "achievement-4",
+        "name": "Humanitarian",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Kill 50 human enemies."
+      },
+      {
+        "id": "achievement-5",
+        "name": "Light my fire",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Set 10 zombies on fire simultaneously."
+      },
+      {
+        "id": "achievement-6",
+        "name": "10 heads are better than 1",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Kill 10 zombies in a row with headshots."
+      },
+      {
+        "id": "achievement-7",
+        "name": "A taste of everything",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Kill a zombie with 10 different melee weapons."
+      },
+      {
+        "id": "achievement-8",
+        "name": "To put it bluntly",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Kill 250 zombies using blunt melee weapons."
+      },
+      {
+        "id": "achievement-9",
+        "name": "Hack & slash",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Kill 250 zombies using edged melee weapons."
+      },
+      {
+        "id": "achievement-10",
+        "name": "Guns don't kill but they help",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Kill 250 zombies using firearms."
+      },
+      {
+        "id": "achievement-11",
+        "name": "Tae Kwon Leap",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Kill 25 zombies with your bare fists."
+      },
+      {
+        "id": "achievement-12",
+        "name": "Karma-geddon",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Kill 50 zombies using a vehicle."
+      },
+      {
+        "id": "achievement-13",
+        "name": "Catch!",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Kill an Infected with a grenade blast."
+      },
+      {
+        "id": "achievement-14",
+        "name": "Road Trip",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Drive a total distance of 10 kilometers."
+      },
+      {
+        "id": "achievement-15",
+        "name": "Cardio",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Travel a distance of 20 kilometers on foot."
+      },
+      {
+        "id": "achievement-16",
+        "name": "Tis but a flesh wound!",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Sever 100 limbs."
+      },
+      {
+        "id": "achievement-17",
+        "name": "There and back again",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Explore the entire island."
+      },
+      {
+        "id": "achievement-18",
+        "name": "Gesundheit!",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Heal yourself with a medkit 100 times."
+      },
+      {
+        "id": "achievement-19",
+        "name": "Everybody lies",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Use a large medkit to heal an injury of 5% or less."
+      },
+      {
+        "id": "achievement-20",
+        "name": "Hell in paradise",
+        "kind": "trophy",
+        "chapterId": "acts-1-2",
+        "where": "Complete act 1."
+      },
+      {
+        "id": "achievement-21",
+        "name": "No raccoons in here",
+        "kind": "trophy",
+        "chapterId": "acts-1-2",
+        "where": "Complete act 2."
+      },
+      {
+        "id": "achievement-22",
+        "name": "King of the jungle",
+        "kind": "trophy",
+        "chapterId": "acts-3-4",
+        "where": "Complete act 3."
+      },
+      {
+        "id": "achievement-23",
+        "name": "Banoi Redemption",
+        "kind": "trophy",
+        "chapterId": "acts-3-4",
+        "where": "Complete act 4."
+      },
+      {
+        "id": "achievement-24",
+        "name": "Right 4 Life",
+        "kind": "trophy",
+        "chapterId": "acts-1-2",
+        "where": "Complete act 1 with 4 different characters."
+      },
+      {
+        "id": "achievement-25",
+        "name": "How many days exactly?",
+        "kind": "trophy",
+        "chapterId": "quests-and-levels",
+        "where": "Play Dead Island - Definitive Edition at least 28 days after starting it for the first time."
+      },
+      {
+        "id": "achievement-26",
+        "name": "Busy, busy, busy",
+        "kind": "trophy",
+        "chapterId": "quests-and-levels",
+        "where": "Finish 75 quests cumulatively."
+      },
+      {
+        "id": "achievement-27",
+        "name": "Learning the ropes",
+        "kind": "trophy",
+        "chapterId": "quests-and-levels",
+        "where": "Reach level 10."
+      },
+      {
+        "id": "achievement-28",
+        "name": "Dedicated student",
+        "kind": "trophy",
+        "chapterId": "quests-and-levels",
+        "where": "Reach level 25."
+      },
+      {
+        "id": "achievement-29",
+        "name": "School of hard knocks",
+        "kind": "trophy",
+        "chapterId": "quests-and-levels",
+        "where": "Reach level 50."
+      },
+      {
+        "id": "achievement-30",
+        "name": "Knock, knock",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Breach a locked door with the first blow."
+      },
+      {
+        "id": "achievement-31",
+        "name": "Gotta find'em all",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Find 60 collectibles."
+      },
+      {
+        "id": "achievement-32",
+        "name": "Nearly there",
+        "kind": "trophy",
+        "chapterId": "exploration",
+        "where": "Find 120 collectibles."
+      },
+      {
+        "id": "achievement-33",
+        "name": "Savior",
+        "kind": "trophy",
+        "chapterId": "quests-and-levels",
+        "where": "Save 5 people besieged by zombies."
+      },
+      {
+        "id": "achievement-34",
+        "name": "Need a hand?",
+        "kind": "trophy",
+        "chapterId": "co-op",
+        "where": "Join another player's game."
+      },
+      {
+        "id": "achievement-35",
+        "name": "People Person",
+        "kind": "trophy",
+        "chapterId": "co-op",
+        "where": "Play with 10 different co-op partners for at least 15 minutes each."
+      },
+      {
+        "id": "achievement-36",
+        "name": "Originality",
+        "kind": "trophy",
+        "chapterId": "co-op",
+        "where": "Play in a co-op team of 4 different playable characters."
+      },
+      {
+        "id": "achievement-37",
+        "name": "Together in the light",
+        "kind": "trophy",
+        "chapterId": "co-op",
+        "where": "Complete 5 quests in a single co-op game with the same partners."
+      },
+      {
+        "id": "achievement-38",
+        "name": "Going steady",
+        "kind": "trophy",
+        "chapterId": "co-op",
+        "where": "Complete 25 quests while playing with at least one co-op partner."
+      },
+      {
+        "id": "achievement-39",
+        "name": "Ménage à trois",
+        "kind": "trophy",
+        "chapterId": "co-op",
+        "where": "Complete 5 quests with 3 co-op partners."
+      },
+      {
+        "id": "achievement-40",
+        "name": "Rageman",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Kill 100 enemies with Fury attacks."
+      },
+      {
+        "id": "achievement-41",
+        "name": "Warranty Void if Used",
+        "kind": "trophy",
+        "chapterId": "weapons-and-crafting",
+        "where": "Create a customized weapon."
+      },
+      {
+        "id": "achievement-42",
+        "name": "Steam Punk",
+        "kind": "trophy",
+        "chapterId": "weapons-and-crafting",
+        "where": "Create weapons to rival the gods of fire or thunder."
+      },
+      {
+        "id": "achievement-43",
+        "name": "First!",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Kill a Suicider with a grenade."
+      },
+      {
+        "id": "achievement-44",
+        "name": "A very special day",
+        "kind": "trophy",
+        "chapterId": "weapons-and-crafting",
+        "where": "Kill 250 zombies with modified weapons."
+      },
+      {
+        "id": "achievement-45",
+        "name": "Oh, no you don't",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Kill a Ram using tackle skill."
+      },
+      {
+        "id": "achievement-46",
+        "name": "Ah! Spoiled meat!",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Kill a Butcher using an axe."
+      },
+      {
+        "id": "achievement-47",
+        "name": "Rootin' Tootin' Lootin'",
+        "kind": "trophy",
+        "chapterId": "weapons-and-crafting",
+        "where": "Loot 5 Exceptional Weapons."
+      },
+      {
+        "id": "achievement-48",
+        "name": "Wave and Smile",
+        "kind": "trophy",
+        "chapterId": "arenas",
+        "where": "Play any Arena in co-op."
+      },
+      {
+        "id": "achievement-49",
+        "name": "Extreme Firefighting",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Set 5 enemies on fire and then kill them with explosives."
+      },
+      {
+        "id": "achievement-50",
+        "name": "Out of honey? Chew bees!",
+        "kind": "trophy",
+        "chapterId": "arenas",
+        "where": "Survive 5 waves using only your fists and legs."
+      },
+      {
+        "id": "achievement-51",
+        "name": "Complete a set",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "During a single round kill an Infected, Suicider, Ram, Butcher, Floater, Walker."
+      },
+      {
+        "id": "achievement-52",
+        "name": "Looking for trouble",
+        "kind": "trophy",
+        "chapterId": "arenas",
+        "where": "Survive 5 waves in each of the 4 Arenas."
+      },
+      {
+        "id": "achievement-53",
+        "name": "Stick it to the enemy",
+        "kind": "trophy",
+        "chapterId": "arenas",
+        "where": "Survive 15 consecutive waves using the analog combat controls."
+      },
+      {
+        "id": "achievement-54",
+        "name": "Gladiator school",
+        "kind": "trophy",
+        "chapterId": "arenas",
+        "where": "Survive 15 consecutive waves with each of the 4 characters."
+      },
+      {
+        "id": "achievement-55",
+        "name": "Fancy",
+        "kind": "trophy",
+        "chapterId": "arenas",
+        "where": "Survive 10 consecutive waves using only custom weapons."
+      },
+      {
+        "id": "achievement-56",
+        "name": "Morituri te salutant",
+        "kind": "trophy",
+        "chapterId": "arenas",
+        "where": "Survive 30 consecutive waves with at least one co-op player."
+      },
+      {
+        "id": "achievement-57",
+        "name": "Death Incarnate",
+        "kind": "trophy",
+        "chapterId": "arenas",
+        "where": "Survive wave 30."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/dead-island",
+    "Achievement data from Steam (Steam Web API, app 383150)",
+    "StrategyWiki: no usable walkthrough, nothing used — https://strategywiki.org/wiki/Dead_Island",
+    "Fandom (deadisland.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://deadisland.fandom.com/wiki/Dead_Island"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). RAWG's first result is the expected entry (id 28492); RAWG keeps \"Dead Island Definitive Edition\" (2016-05-31) separately. The Steam store list has no plain \"Dead Island\" app; it has \"Dead Island Definitive Edition\" (383150), the edition on sale, so that app was used. Its schema is named \"ValveTestApp91310\" (a placeholder name with a different number) and one achievement description names \"Dead Island - Definitive Edition\", so the list is the Definitive Edition one. None of the 57 Steam achievements is hidden. StrategyWiki has \"Dead Island\" at completion stage 0 (marked as a stub): only Achievements and trophies (about 9,500 characters) and Table of Contents are written; Gameplay, Controls and Walkthrough are linked but not written. deadisland.fandom.com answers the API under \"Dead Island\" with about 95 linked articles; names only were looked at, nothing copied. Splitting the four acts into two chapters is our own choice. \"Right 4 Life\" (act 1 with 4 characters) sits with Acts 1 and 2. \"Fancy\" (waves with custom weapons) sits in the Arenas chapter because it counts waves."
+}

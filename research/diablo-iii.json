@@ -1,0 +1,119 @@
+{
+  "id": "diablo-iii",
+  "title": "Diablo III",
+  "year": 2012,
+  "platforms": [
+    "Xbox Series X|S",
+    "Xbox One",
+    "PC",
+    "macOS",
+    "Nintendo Switch",
+    "Xbox 360",
+    "PlayStation 3",
+    "PlayStation 4",
+    "PlayStation 5"
+  ],
+  "rawgId": 23600,
+  "rawgSlug": "diablo-3",
+  "released": "2012-05-15",
+  "developers": [],
+  "playtime": 58,
+  "genres": [
+    "Action",
+    "RPG"
+  ],
+  "tags": [
+    "Fantasy",
+    "Local Co-Op"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/a27/a275556fab1a6acaded4cedad0f9dc80.jpg",
+  "steamAppId": null,
+  "achievements": {
+    "total": 0,
+    "examples": [],
+    "reason": "No Steam achievement list: the Steam store list has no Diablo III app (only Diablo IV and Diablo II: Resurrected). RAWG lists 46 achievements with its own percentages, including a \"Diablo III Platinum Trophy\", so it looks like a PlayStation trophy list. They cover the four acts, the six bosses on Normal, Nightmare, Hell and Inferno, Hardcore, triumph and conversation challenges, artisans, followers, gold and gear, which could seed an original checklist."
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Diablo_III",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 222,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://diablo.fandom.com/wiki/Diablo_III"
+    }
+  },
+  "game": {
+    "id": "diablo-iii",
+    "title": "Diablo III",
+    "platforms": [
+      "Xbox Series X|S",
+      "Xbox One",
+      "PC",
+      "macOS",
+      "Nintendo Switch",
+      "Xbox 360",
+      "PlayStation 3",
+      "PlayStation 4",
+      "PlayStation 5"
+    ],
+    "blurb": "Action RPG published by Blizzard Entertainment (RAWG lists no developer), released 2012-05-15. RAWG average playtime: 58 hours. Genres: Action, RPG. Chapters are an estimate drawn from the achievement themes RAWG lists, since there is no Steam app for this game.",
+    "accent": "#7A1212",
+    "chapters": [
+      {
+        "id": "acts-on-normal",
+        "title": "The Four Acts on Normal",
+        "summary": "Completing all quests in Acts I to IV, and the Normal-mode kills of the Skeleton King, the Butcher, Maghda, Belial, Azmodan and Diablo. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "harder-modes",
+        "title": "Nightmare, Hell, Inferno and Hardcore",
+        "summary": "Killing the same bosses again in Nightmare, Hell and Inferno, and reaching level 30 in Hardcore mode.",
+        "steps": []
+      },
+      {
+        "id": "challenges",
+        "title": "Triumphs, Conversations and Rare Foes",
+        "summary": "The Butcher, Belial, Azmodan and Diablo triumph challenges, the conversation challenges and the Never Seen That Before unique enemies.",
+        "steps": []
+      },
+      {
+        "id": "heroes-and-followers",
+        "title": "Levels, Followers and Gear",
+        "summary": "Hero levels 10, 30 and 60, recruiting and equipping the Templar, Scoundrel and Enchantress, and rare, legendary and high-level gear.",
+        "steps": []
+      },
+      {
+        "id": "artisans",
+        "title": "Artisans and Crafting",
+        "summary": "Raising the Blacksmith and Jeweler, crafting items and combining gems.",
+        "steps": []
+      },
+      {
+        "id": "gold-and-loot",
+        "title": "Gold, Merchants and Treasure Goblins",
+        "summary": "Picking up gold, buying from merchants, repairs, stash upgrades, Treasure Goblins and elite kills.",
+        "steps": []
+      }
+    ],
+    "collectibles": []
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/diablo-3",
+    "Steam: no achievement list available for this game (see notes)",
+    "StrategyWiki: no usable walkthrough, nothing used — https://strategywiki.org/wiki/Diablo_III",
+    "Fandom (diablo.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://diablo.fandom.com/wiki/Diablo_III"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). RAWG's first result is the expected entry \"diablo-3\" (id 23600); RAWG keeps \"Diablo III: Reaper of Souls\" (2014) and \"Diablo III: Eternal Collection\" (2017) separately. RAWG lists no developer for this entry, only the publisher Blizzard Entertainment. There is no Diablo III app in the Steam store list, so steam=None and the chapters are our own grouping of all 46 achievements RAWG lists (5 pages read). StrategyWiki has \"Diablo III\" at completion stage 2, but its walkthrough is mostly unwritten: Act I (about 11,100 characters), Walkthrough (about 340), Gameplay, Experience, Followers, Barbarian, Witch Doctor and Wizard skills and two patch-note pages are written, while Act II, Act III, Act IV, Achievements, Classes, Controls, Crafting, Demon Hunter skills, Monk skills, Equipment, Items and NPCs are linked but not written. Only 1 of 4 act pages is written, so it was not used. diablo.fandom.com answers the API under \"Diablo III\" with about 222 linked articles, including pages for Acts I to V; names only were looked at, nothing copied. The chapters do not tie bosses to acts because the data does not say which boss belongs to which act; the boss order given is RAWG's unlock rates (Skeleton King 91.1% down to Diablo 52.6%). No hidden flags exist in RAWG's data."
+}

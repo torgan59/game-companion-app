@@ -1,0 +1,595 @@
+{
+  "id": "rage-2011",
+  "title": "Rage (2011)",
+  "year": 2011,
+  "platforms": [
+    "PlayStation 3",
+    "PC",
+    "Xbox 360",
+    "Xbox One"
+  ],
+  "rawgId": 5636,
+  "rawgSlug": "rage",
+  "released": "2011-10-03",
+  "developers": [
+    "Aspyr Media",
+    "id Software",
+    "Escalation Studios"
+  ],
+  "playtime": 5,
+  "genres": [
+    "Action",
+    "Shooter"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Multiplayer",
+    "Atmospheric",
+    "RPG",
+    "Co-op",
+    "Open World",
+    "cooperative",
+    "First-Person",
+    "Sci-fi",
+    "Partial Controller Support",
+    "Horror"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/8a7/8a75028028592f9323d1e6e86668bb91.jpg",
+  "steamAppId": 9200,
+  "achievements": {
+    "total": 60,
+    "hidden": 0,
+    "examples": [
+      {
+        "name": "Ghost Buster",
+        "percent": 82.8
+      },
+      {
+        "name": "Waste Management",
+        "percent": 66.5
+      },
+      {
+        "name": "Lead Foot",
+        "percent": 58.9
+      },
+      {
+        "name": "Foursome",
+        "percent": 2.2
+      },
+      {
+        "name": "Gotta Have 'Em All",
+        "percent": 2.1
+      },
+      {
+        "name": "Wall Hack",
+        "percent": 2.1
+      },
+      {
+        "name": "Obsessive Compulsive",
+        "percent": 1.7
+      },
+      {
+        "name": "Night Terrors",
+        "percent": 1.6
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Rage",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 44,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://rage.fandom.com/wiki/RAGE"
+    }
+  },
+  "game": {
+    "id": "rage-2011",
+    "title": "Rage (2011)",
+    "platforms": [
+      "PlayStation 3",
+      "PC",
+      "Xbox 360",
+      "Xbox One"
+    ],
+    "blurb": "Post-apocalyptic first-person shooter with vehicle combat, from id Software (RAWG also lists Aspyr Media and Escalation Studios), published by Bethesda Softworks, released 2011-10-03. RAWG average playtime: 5 hours. Genres: Action, Shooter. Chapters follow the campaign locations named in the Steam achievements, plus chapters drawn from achievement themes.",
+    "accent": "#C1440E",
+    "chapters": [
+      {
+        "id": "wasteland-first-half",
+        "title": "Campaign: Ghost Hideout to Shrouded Bunker",
+        "summary": "The first six campaign locations in the achievement list: Ghost Hideout, Wasted Garage, Mutant Bash TV, Dead City, The Well and Shrouded Bunker, plus a big night on Bash TV.",
+        "steps": []
+      },
+      {
+        "id": "wasteland-second-half",
+        "title": "Campaign: Dead City Reverse to Blue Line Station",
+        "summary": "The next six: Dead City Reverse, Authority Prison, Gearhead Vault, Power Plant, Jackal Canyon and Blue Line Station, then finishing the campaign. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "scorchers",
+        "title": "The Scorchers Job Path",
+        "summary": "Wellspring Tunnels, Hagar Caves, Refinery, Bash Canyon and Scorcher Base.",
+        "steps": []
+      },
+      {
+        "id": "difficulty",
+        "title": "Difficulty Runs",
+        "summary": "Finishing the campaign on Normal, Hard, Nightmare and Ultra Nightmare.",
+        "steps": []
+      },
+      {
+        "id": "races-and-vehicles",
+        "title": "Races and Vehicles",
+        "summary": "Campaign races and the Rage Cup, vehicle jumps, ATV field goals, destroying enemy cars and running over mutants.",
+        "steps": []
+      },
+      {
+        "id": "minigames",
+        "title": "Minigames",
+        "summary": "Teague's decks, Tombstones, 5 Finger Filet, Strum, Roly-Poly, Video Poker and winning every minigame.",
+        "steps": []
+      },
+      {
+        "id": "collectibles-and-jobs",
+        "title": "Collectibles, Jobs and 100%",
+        "summary": "Playing Cards, Recipes and Schematics, Job Board quests, the Developer Graffiti Room and 100% completion.",
+        "steps": []
+      },
+      {
+        "id": "engineering-and-combat",
+        "title": "Engineering and Combat",
+        "summary": "Engineering items, Sentry Bots and Turrets, RC Bomb Cars, Wingsticks, the crossbow, mind control, the Railgun and Rebar ammo.",
+        "steps": []
+      },
+      {
+        "id": "co-op-and-online",
+        "title": "Legends of the Wasteland and Road RAGE",
+        "summary": "The Legends of the Wasteland co-op missions and public Road RAGE matches.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Arts and Crafts",
+        "kind": "trophy",
+        "chapterId": "engineering-and-combat",
+        "where": "Construct 10 Engineering Items"
+      },
+      {
+        "id": "achievement-2",
+        "name": "Tinkerer",
+        "kind": "trophy",
+        "chapterId": "engineering-and-combat",
+        "where": "Construct 50 Engineering Items"
+      },
+      {
+        "id": "achievement-3",
+        "name": "Passive Aggressive",
+        "kind": "trophy",
+        "chapterId": "engineering-and-combat",
+        "where": "Get 3 kills with a single Sentry Bot"
+      },
+      {
+        "id": "achievement-4",
+        "name": "Three Birds, One Bomb Car",
+        "kind": "trophy",
+        "chapterId": "engineering-and-combat",
+        "where": "Kill 3 Enemies with one RC Bomb Car"
+      },
+      {
+        "id": "achievement-5",
+        "name": "Keep 'Em Coming",
+        "kind": "trophy",
+        "chapterId": "engineering-and-combat",
+        "where": "Get 5 kills with one deployed Sentry Turret"
+      },
+      {
+        "id": "achievement-6",
+        "name": "Mechanocide",
+        "kind": "trophy",
+        "chapterId": "engineering-and-combat",
+        "where": "Kill 100 Enemies with Sentry Bots, Sentry Turrets, or RC Bomb Cars"
+      },
+      {
+        "id": "achievement-7",
+        "name": "Jetpacker",
+        "kind": "trophy",
+        "chapterId": "engineering-and-combat",
+        "where": "Kill an Authority Enforcer during Jetpack descent"
+      },
+      {
+        "id": "achievement-8",
+        "name": "Silent But Deadly",
+        "kind": "trophy",
+        "chapterId": "engineering-and-combat",
+        "where": "Stealth kill 10 Enemies with the Striker Crossbow"
+      },
+      {
+        "id": "achievement-9",
+        "name": "Hat Trick",
+        "kind": "trophy",
+        "chapterId": "engineering-and-combat",
+        "where": "Kill at least 3 Enemies with a single Mind Controlled Enemy"
+      },
+      {
+        "id": "achievement-10",
+        "name": "Decapathon",
+        "kind": "trophy",
+        "chapterId": "engineering-and-combat",
+        "where": "Get 10 Headshot kills with the Wingstick"
+      },
+      {
+        "id": "achievement-11",
+        "name": "Open Minded",
+        "kind": "trophy",
+        "chapterId": "engineering-and-combat",
+        "where": "Get 10 Headshot kills with the Sniper Rifle"
+      },
+      {
+        "id": "achievement-12",
+        "name": "Jumper",
+        "kind": "trophy",
+        "chapterId": "races-and-vehicles",
+        "where": "Perform all 18 Vehicle Jumps"
+      },
+      {
+        "id": "achievement-13",
+        "name": "Gotta Have 'Em All",
+        "kind": "trophy",
+        "chapterId": "collectibles-and-jobs",
+        "where": "Collect all Playing Cards on one play-through"
+      },
+      {
+        "id": "achievement-14",
+        "name": "Master Chef",
+        "kind": "trophy",
+        "chapterId": "collectibles-and-jobs",
+        "where": "Collect all Recipes and Schematics in one play-through"
+      },
+      {
+        "id": "achievement-15",
+        "name": "Hardest Deck",
+        "kind": "trophy",
+        "chapterId": "minigames",
+        "where": "Beat Teague's hardest Deck"
+      },
+      {
+        "id": "achievement-16",
+        "name": "JACKPOT!",
+        "kind": "trophy",
+        "chapterId": "minigames",
+        "where": "Roll 4 Targets in the first round of Tombstones"
+      },
+      {
+        "id": "achievement-17",
+        "name": "Just a Flesh Wound",
+        "kind": "trophy",
+        "chapterId": "minigames",
+        "where": "Complete the final round of 5 Finger Filet"
+      },
+      {
+        "id": "achievement-18",
+        "name": "Deliverance",
+        "kind": "trophy",
+        "chapterId": "minigames",
+        "where": "Complete the final round of Strum"
+      },
+      {
+        "id": "achievement-19",
+        "name": "Minigamer",
+        "kind": "trophy",
+        "chapterId": "minigames",
+        "where": "Win all Minigames"
+      },
+      {
+        "id": "achievement-20",
+        "name": "Lead Foot",
+        "kind": "trophy",
+        "chapterId": "races-and-vehicles",
+        "where": "Win a Race in the Campaign"
+      },
+      {
+        "id": "achievement-21",
+        "name": "Rage Cup",
+        "kind": "trophy",
+        "chapterId": "races-and-vehicles",
+        "where": "Win all Races in the Campaign"
+      },
+      {
+        "id": "achievement-22",
+        "name": "Demolition Man",
+        "kind": "trophy",
+        "chapterId": "races-and-vehicles",
+        "where": "Destroy 100 Enemy Cars"
+      },
+      {
+        "id": "achievement-23",
+        "name": "It's Good!",
+        "kind": "trophy",
+        "chapterId": "races-and-vehicles",
+        "where": "Score each of the 3 Field Goals from the ATV"
+      },
+      {
+        "id": "achievement-24",
+        "name": "Roadkill",
+        "kind": "trophy",
+        "chapterId": "races-and-vehicles",
+        "where": "Run over 10 Mutants"
+      },
+      {
+        "id": "achievement-25",
+        "name": "Ghost Buster",
+        "kind": "trophy",
+        "chapterId": "wasteland-first-half",
+        "where": "Complete Ghost Hideout in the Campaign"
+      },
+      {
+        "id": "achievement-26",
+        "name": "Waste Management",
+        "kind": "trophy",
+        "chapterId": "wasteland-first-half",
+        "where": "Complete Wasted Garage in the Campaign"
+      },
+      {
+        "id": "achievement-27",
+        "name": "Gladiator",
+        "kind": "trophy",
+        "chapterId": "wasteland-first-half",
+        "where": "Complete Mutant Bash TV in the Campaign"
+      },
+      {
+        "id": "achievement-28",
+        "name": "It's Alive!",
+        "kind": "trophy",
+        "chapterId": "wasteland-first-half",
+        "where": "Complete Dead City in the Campaign"
+      },
+      {
+        "id": "achievement-29",
+        "name": "Wellness Plan",
+        "kind": "trophy",
+        "chapterId": "wasteland-first-half",
+        "where": "Complete The Well in the Campaign"
+      },
+      {
+        "id": "achievement-30",
+        "name": "Debunked",
+        "kind": "trophy",
+        "chapterId": "wasteland-first-half",
+        "where": "Complete Shrouded Bunker in the Campaign"
+      },
+      {
+        "id": "achievement-31",
+        "name": "ytiC daeD",
+        "kind": "trophy",
+        "chapterId": "wasteland-second-half",
+        "where": "Complete Dead City Reverse in the Campaign"
+      },
+      {
+        "id": "achievement-32",
+        "name": "Jail Break",
+        "kind": "trophy",
+        "chapterId": "wasteland-second-half",
+        "where": "Complete Authority Prison in the Campaign"
+      },
+      {
+        "id": "achievement-33",
+        "name": "Vault Assault",
+        "kind": "trophy",
+        "chapterId": "wasteland-second-half",
+        "where": "Complete Gearhead Vault in the Campaign"
+      },
+      {
+        "id": "achievement-34",
+        "name": "Power Struggle",
+        "kind": "trophy",
+        "chapterId": "wasteland-second-half",
+        "where": "Complete Power Plant in the Campaign"
+      },
+      {
+        "id": "achievement-35",
+        "name": "Decrypted",
+        "kind": "trophy",
+        "chapterId": "wasteland-second-half",
+        "where": "Complete Jackal Canyon in the Campaign"
+      },
+      {
+        "id": "achievement-36",
+        "name": "Mutie Blues",
+        "kind": "trophy",
+        "chapterId": "wasteland-second-half",
+        "where": "Complete Blue Line Station in the Campaign"
+      },
+      {
+        "id": "achievement-37",
+        "name": "Bringin' Home the Bacon",
+        "kind": "trophy",
+        "chapterId": "wasteland-first-half",
+        "where": "Earn 750 Dollars in one episode of Bash TV in the Campaign"
+      },
+      {
+        "id": "achievement-38",
+        "name": "Mr. Oddjob",
+        "kind": "trophy",
+        "chapterId": "collectibles-and-jobs",
+        "where": "Complete 5 Job Board Quests in one play-through"
+      },
+      {
+        "id": "achievement-39",
+        "name": "Dev Graffiti",
+        "kind": "trophy",
+        "chapterId": "collectibles-and-jobs",
+        "where": "Find the secret Developer Graffiti Room"
+      },
+      {
+        "id": "achievement-40",
+        "name": "Hey, not too rough",
+        "kind": "trophy",
+        "chapterId": "wasteland-second-half",
+        "where": "Finish the Campaign on any difficulty"
+      },
+      {
+        "id": "achievement-41",
+        "name": "Hurt me plenty",
+        "kind": "trophy",
+        "chapterId": "difficulty",
+        "where": "Finish the Campaign on at least Normal difficulty"
+      },
+      {
+        "id": "achievement-42",
+        "name": "Ultra-violence",
+        "kind": "trophy",
+        "chapterId": "difficulty",
+        "where": "Finish the Campaign on at least Hard difficulty"
+      },
+      {
+        "id": "achievement-43",
+        "name": "RAGE Nightmare",
+        "kind": "trophy",
+        "chapterId": "difficulty",
+        "where": "Finish the Campaign on Nightmare difficulty"
+      },
+      {
+        "id": "achievement-44",
+        "name": "Obsessive Compulsive",
+        "kind": "trophy",
+        "chapterId": "collectibles-and-jobs",
+        "where": "Reach 100% Completion in the Campaign"
+      },
+      {
+        "id": "achievement-45",
+        "name": "The Legend Begins...",
+        "kind": "trophy",
+        "chapterId": "co-op-and-online",
+        "where": "Complete a Legend of the Wasteland"
+      },
+      {
+        "id": "achievement-46",
+        "name": "Anthology",
+        "kind": "trophy",
+        "chapterId": "co-op-and-online",
+        "where": "Complete all Legends of the Wasteland"
+      },
+      {
+        "id": "achievement-47",
+        "name": "A True Legend",
+        "kind": "trophy",
+        "chapterId": "co-op-and-online",
+        "where": "Complete a Legend of the Wasteland on Nightmare difficulty"
+      },
+      {
+        "id": "achievement-48",
+        "name": "No Room for Sidekicks",
+        "kind": "trophy",
+        "chapterId": "co-op-and-online",
+        "where": "Complete a Legend of the Wasteland without any player(s) becoming incapacitated"
+      },
+      {
+        "id": "achievement-49",
+        "name": "Fresh Meat",
+        "kind": "trophy",
+        "chapterId": "co-op-and-online",
+        "where": "Complete a public Road RAGE match"
+      },
+      {
+        "id": "achievement-50",
+        "name": "MVP",
+        "kind": "trophy",
+        "chapterId": "co-op-and-online",
+        "where": "Get first place in a public Road RAGE match"
+      },
+      {
+        "id": "achievement-51",
+        "name": "Night Terrors",
+        "kind": "trophy",
+        "chapterId": "difficulty",
+        "where": "Finish the Campaign on Ultra Nightmare difficulty"
+      },
+      {
+        "id": "achievement-52",
+        "name": "Cavernous Stumble",
+        "kind": "trophy",
+        "chapterId": "scorchers",
+        "where": "Complete Hagar Caves in The Scorchers job path"
+      },
+      {
+        "id": "achievement-53",
+        "name": "Plans Refined",
+        "kind": "trophy",
+        "chapterId": "scorchers",
+        "where": "Complete Refinery in The Scorchers job path"
+      },
+      {
+        "id": "achievement-54",
+        "name": "Thrash Canyon",
+        "kind": "trophy",
+        "chapterId": "scorchers",
+        "where": "Complete Bash Canyon in The Scorchers job path"
+      },
+      {
+        "id": "achievement-55",
+        "name": "Fired Up!",
+        "kind": "trophy",
+        "chapterId": "scorchers",
+        "where": "Complete Scorcher Base in the The Scorchers job path"
+      },
+      {
+        "id": "achievement-56",
+        "name": "Lucky  Charms",
+        "kind": "trophy",
+        "chapterId": "minigames",
+        "where": "Bet and win on Green in the Roly-Poly minigame"
+      },
+      {
+        "id": "achievement-57",
+        "name": "Foursome",
+        "kind": "trophy",
+        "chapterId": "minigames",
+        "where": "Win with a Four of a Kind in the Video Poker minigame"
+      },
+      {
+        "id": "achievement-58",
+        "name": "Wall Hack",
+        "kind": "trophy",
+        "chapterId": "engineering-and-combat",
+        "where": "Kill 2 enemies with one Railgun Slug shot through a wall"
+      },
+      {
+        "id": "achievement-59",
+        "name": "Rebar Pie",
+        "kind": "trophy",
+        "chapterId": "engineering-and-combat",
+        "where": "Pin an enemy to a surface with a Rebar ammo shot"
+      },
+      {
+        "id": "achievement-60",
+        "name": "Rite of Passage",
+        "kind": "trophy",
+        "chapterId": "scorchers",
+        "where": "Complete Wellspring Tunnels in The Scorchers job path"
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/rage",
+    "Achievement data from Steam (Steam Web API, app 9200)",
+    "StrategyWiki: no usable walkthrough, nothing used — https://strategywiki.org/wiki/Rage",
+    "Fandom (rage.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://rage.fandom.com/wiki/RAGE"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). RAWG's first search result is the expected 2011 entry \"rage\" (id 5636, released 2011-10-03), not Rage 2. The Steam store list has app 9200 (\"RAGE\"); its schema is named \"ValveTestApp9200\" (a placeholder name) and has 60 achievements, none hidden. StrategyWiki has \"Rage\" at completion stage 0 (marked as a perfect stub article); Gameplay, Walkthrough and Table of Contents are linked but no subpage is written, so it was not used. rage.fandom.com answers the API, redirecting to \"RAGE\", with about 44 linked articles; names only were looked at, nothing copied. The twelve campaign-location achievements are split into two halves of six in Steam list order (ach_25 to ach_36); unlock rates mostly fall in that order (82.8% for Ghost Hideout to 31.4% for Jackal Canyon), though Blue Line Station (36.1%) is higher than the three before it, so the exact order is not certain. The Scorchers job path achievements (ach_52 to ach_55 and ach_60) are a separate set; RAWG lists no additions for this game, so the chapter is named after the job path the descriptions name. \"Bringin' Home the Bacon\" (750 Dollars in one Bash TV episode) sits with Mutant Bash TV as a guess."
+}

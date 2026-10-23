@@ -1,0 +1,601 @@
+{
+  "id": "duke-nukem-forever",
+  "title": "Duke Nukem Forever",
+  "year": 2011,
+  "platforms": [
+    "Xbox 360",
+    "PlayStation 3",
+    "Xbox One",
+    "PC",
+    "macOS"
+  ],
+  "rawgId": 4483,
+  "rawgSlug": "duke-nukem-forever",
+  "released": "2011-06-09",
+  "developers": [
+    "Gearbox Software",
+    "3D Realms",
+    "Piranha Games",
+    "Triptych Games",
+    "triptych"
+  ],
+  "playtime": 3,
+  "genres": [
+    "Action",
+    "Shooter"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Multiplayer",
+    "Steam Cloud",
+    "Atmospheric",
+    "First-Person",
+    "Sci-fi",
+    "Partial Controller Support",
+    "FPS",
+    "Funny",
+    "Gore",
+    "Steam Leaderboards"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/08a/08aa92e004f13ad2d41127327314c3f9.jpg",
+  "steamAppId": 57900,
+  "achievements": {
+    "total": 62,
+    "hidden": 12,
+    "examples": [
+      {
+        "name": "One-Eyed Freak",
+        "percent": 89.1
+      },
+      {
+        "name": "Drawrings",
+        "percent": 86.8
+      },
+      {
+        "name": "Flagon of Chuckles",
+        "percent": 79.1
+      },
+      {
+        "name": "I Am All That Is Man",
+        "percent": 2.6
+      },
+      {
+        "name": "Bucket Head",
+        "percent": 2.5
+      },
+      {
+        "name": "Call Waiting",
+        "percent": 2.2
+      },
+      {
+        "name": "Pescaphobe",
+        "percent": 2.2
+      },
+      {
+        "name": "Damn, I'm Good",
+        "percent": 2.0
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Duke_Nukem_Forever",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 165,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://dukenukem.fandom.com/wiki/Duke_Nukem_Forever"
+    }
+  },
+  "game": {
+    "id": "duke-nukem-forever",
+    "title": "Duke Nukem Forever",
+    "platforms": [
+      "Xbox 360",
+      "PlayStation 3",
+      "Xbox One",
+      "PC",
+      "macOS"
+    ],
+    "blurb": "First-person shooter from Gearbox Software and 3D Realms (RAWG also lists Piranha Games and Triptych Games), published by 2K Games and Aspyr, released 2011-06-09. RAWG average playtime: 3 hours. Genres: Action, Shooter. Chapters follow the campaign bosses and places named in the Steam achievements, plus chapters drawn from achievement themes.",
+    "accent": "#C8102E",
+    "chapters": [
+      {
+        "id": "campaign-bosses",
+        "title": "The Campaign and its Bosses",
+        "summary": "The bosses named in the achievements, in order of unlock rate: the Cycloid, the Battlelord in Las Vegas, the Alien Queen, the Battlelord on the Hoover Dam, the Octaking and the Energy Leech, then the credits. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "set-pieces",
+        "title": "Strip Club, Stadium and Other Set Pieces",
+        "summary": "Air hockey, beers and Alien Abortion in the strip club, the blimp above the stadium, the talk show, the Forkstop secret closet and the catfish in the underwater level.",
+        "steps": []
+      },
+      {
+        "id": "secrets-and-ego",
+        "title": "Ego Boosts and Secrets",
+        "summary": "Ego cap rewards, the three helmets, phone messages, the gold pistol, the calendar, the whiteboard, pinball and other things to find.",
+        "steps": []
+      },
+      {
+        "id": "difficulty",
+        "title": "Difficulty Runs",
+        "summary": "Finishing the campaign on Easy, Normal, Hard and Insane.",
+        "steps": []
+      },
+      {
+        "id": "vehicles-and-gadgets",
+        "title": "Vehicles, Gadgets and Power-ups",
+        "summary": "The monster truck, the forklift, Trip Mines, the Holoduke, alien fighters and gunships, beer, steroids and food.",
+        "steps": []
+      },
+      {
+        "id": "combat",
+        "title": "Combat",
+        "summary": "Kill counts, stomps, executions, headshots, frozen aliens, explosives, thrown objects and taking hits.",
+        "steps": []
+      },
+      {
+        "id": "dlc",
+        "title": "Downloadable Content",
+        "summary": "Twelve hidden achievements whose API names point to extra content, such as a moon buggy, a science pinball score, Dr. Proton and a second set of difficulty clears. Spoiler-guarded.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Extermination",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Kill 50 aliens"
+      },
+      {
+        "id": "achievement-2",
+        "name": "Annihilation",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Kill 100 aliens"
+      },
+      {
+        "id": "achievement-3",
+        "name": "Nuclear Devastation",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Kill 250 aliens"
+      },
+      {
+        "id": "achievement-4",
+        "name": "Hippy-Stomper",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Foot stomp 12 aliens"
+      },
+      {
+        "id": "achievement-5",
+        "name": "Judge, Jury, Executioner",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Execute 20 aliens"
+      },
+      {
+        "id": "achievement-6",
+        "name": "Trapper",
+        "kind": "trophy",
+        "chapterId": "vehicles-and-gadgets",
+        "where": "Kill 10 aliens with Trip Mines"
+      },
+      {
+        "id": "achievement-7",
+        "name": "Freeze Well!",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Kill 15 frozen aliens"
+      },
+      {
+        "id": "achievement-8",
+        "name": "Road Rage",
+        "kind": "trophy",
+        "chapterId": "vehicles-and-gadgets",
+        "where": "Kill 15 aliens with the monster truck"
+      },
+      {
+        "id": "achievement-9",
+        "name": "Fork the Pork",
+        "kind": "trophy",
+        "chapterId": "vehicles-and-gadgets",
+        "where": "Kill 6 aliens with the forklift"
+      },
+      {
+        "id": "achievement-10",
+        "name": "Dead Useful",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Kill 10 aliens with environmental explosives"
+      },
+      {
+        "id": "achievement-11",
+        "name": "Tosser... in the Literal Sense",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Kill 10 aliens with tossed objects"
+      },
+      {
+        "id": "achievement-12",
+        "name": "Duke Angry, Duke Smash!",
+        "kind": "trophy",
+        "chapterId": "vehicles-and-gadgets",
+        "where": "Kill 15 aliens with melee attacks while on steroids"
+      },
+      {
+        "id": "achievement-13",
+        "name": "Noms",
+        "kind": "trophy",
+        "chapterId": "vehicles-and-gadgets",
+        "where": "Eat 10 pieces of food during the SP campaign"
+      },
+      {
+        "id": "achievement-14",
+        "name": "On the Noggin'",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Kill 30 aliens with headshots"
+      },
+      {
+        "id": "achievement-15",
+        "name": "Substance Abuser",
+        "kind": "trophy",
+        "chapterId": "vehicles-and-gadgets",
+        "where": "Drink beer while on steroids or vice-versa in SP"
+      },
+      {
+        "id": "achievement-16",
+        "name": "Natural Disaster 3x",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Kill 3 aliens at once"
+      },
+      {
+        "id": "achievement-17",
+        "name": "Full Body Tourettes",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Get knocked down 10 times"
+      },
+      {
+        "id": "achievement-18",
+        "name": "Turd Burglar",
+        "kind": "trophy",
+        "chapterId": "secrets-and-ego",
+        "where": "Find and steal a piece of poo"
+      },
+      {
+        "id": "achievement-19",
+        "name": "I Need a Towel",
+        "kind": "trophy",
+        "chapterId": "combat",
+        "where": "Get hit by 10 Pregnator bombs"
+      },
+      {
+        "id": "achievement-20",
+        "name": "Baron von Nukem",
+        "kind": "trophy",
+        "chapterId": "vehicles-and-gadgets",
+        "where": "Shoot down 20 alien fighters"
+      },
+      {
+        "id": "achievement-21",
+        "name": "I Need a Date",
+        "kind": "trophy",
+        "chapterId": "secrets-and-ego",
+        "where": "Look at every page of a calendar in SP"
+      },
+      {
+        "id": "achievement-22",
+        "name": "Sticky Bomb Like You!",
+        "kind": "trophy",
+        "chapterId": "vehicles-and-gadgets",
+        "where": "Put a Trip Mine on a live alien"
+      },
+      {
+        "id": "achievement-23",
+        "name": "Big Guns, Big Ships",
+        "kind": "trophy",
+        "chapterId": "vehicles-and-gadgets",
+        "where": "Blow up 5 enemy gunships or dropships"
+      },
+      {
+        "id": "achievement-24",
+        "name": "Air-Duke",
+        "kind": "trophy",
+        "chapterId": "set-pieces",
+        "where": "Win air hockey with a score of 7-0 in the strip club"
+      },
+      {
+        "id": "achievement-25",
+        "name": "Balls of Steel",
+        "kind": "trophy",
+        "chapterId": "secrets-and-ego",
+        "where": "Earn a 1,000,000 pinball score in SP"
+      },
+      {
+        "id": "achievement-26",
+        "name": "Flagon of Chuckles",
+        "kind": "trophy",
+        "chapterId": "vehicles-and-gadgets",
+        "where": "Drink a beer in SP"
+      },
+      {
+        "id": "achievement-27",
+        "name": "Juiced",
+        "kind": "trophy",
+        "chapterId": "vehicles-and-gadgets",
+        "where": "Take steroids in SP"
+      },
+      {
+        "id": "achievement-28",
+        "name": "He's Got a Hologram!",
+        "kind": "trophy",
+        "chapterId": "vehicles-and-gadgets",
+        "where": "Use a Holoduke in SP"
+      },
+      {
+        "id": "achievement-29",
+        "name": "Drawrings",
+        "kind": "trophy",
+        "chapterId": "secrets-and-ego",
+        "where": "Doodle something on the whiteboard in SP"
+      },
+      {
+        "id": "achievement-30",
+        "name": "I Am All That Is Man",
+        "kind": "trophy",
+        "chapterId": "secrets-and-ego",
+        "where": "Discover all ego cap rewards"
+      },
+      {
+        "id": "achievement-31",
+        "name": "Gunslinger",
+        "kind": "trophy",
+        "chapterId": "secrets-and-ego",
+        "where": "Carry the gold pistol through the whole SP campaign"
+      },
+      {
+        "id": "achievement-32",
+        "name": "Piece of Cake",
+        "kind": "trophy",
+        "chapterId": "difficulty",
+        "where": "Complete the SP campaign on Easy Difficulty"
+      },
+      {
+        "id": "achievement-33",
+        "name": "Let's Rock",
+        "kind": "trophy",
+        "chapterId": "difficulty",
+        "where": "Complete the SP campaign on Normal Difficulty"
+      },
+      {
+        "id": "achievement-34",
+        "name": "Come Get Some",
+        "kind": "trophy",
+        "chapterId": "difficulty",
+        "where": "Complete the SP campaign on Hard Difficulty"
+      },
+      {
+        "id": "achievement-35",
+        "name": "Damn, I'm Good",
+        "kind": "trophy",
+        "chapterId": "difficulty",
+        "where": "Complete the SP campaign on Insane Difficulty"
+      },
+      {
+        "id": "achievement-36",
+        "name": "Special Thanks",
+        "kind": "trophy",
+        "chapterId": "campaign-bosses",
+        "where": "Watch the credits all the way through"
+      },
+      {
+        "id": "achievement-37",
+        "name": "Bucket Head",
+        "kind": "trophy",
+        "chapterId": "secrets-and-ego",
+        "where": "Find all 3 helmets in the SP campaign"
+      },
+      {
+        "id": "achievement-38",
+        "name": "Call Waiting",
+        "kind": "trophy",
+        "chapterId": "secrets-and-ego",
+        "where": "Listen to all phone messages"
+      },
+      {
+        "id": "achievement-39",
+        "name": "Party Animal",
+        "kind": "trophy",
+        "chapterId": "set-pieces",
+        "where": "Drink all of the beers in the strip club"
+      },
+      {
+        "id": "achievement-40",
+        "name": "Pescaphobe",
+        "kind": "trophy",
+        "chapterId": "set-pieces",
+        "where": "Kill all of the catfish in the underwater level"
+      },
+      {
+        "id": "achievement-41",
+        "name": "Sunday, Black Sunday",
+        "kind": "trophy",
+        "chapterId": "set-pieces",
+        "where": "Shoot down the blimp above the stadium"
+      },
+      {
+        "id": "achievement-42",
+        "name": "Nobody Likes a Whiner",
+        "kind": "trophy",
+        "chapterId": "set-pieces",
+        "where": "Knock out the talent at the talk show"
+      },
+      {
+        "id": "achievement-43",
+        "name": "Lots of Whacking",
+        "kind": "trophy",
+        "chapterId": "set-pieces",
+        "where": "Win a game of Alien Abortion in the strip club"
+      },
+      {
+        "id": "achievement-44",
+        "name": "Companion Barrel",
+        "kind": "trophy",
+        "chapterId": "set-pieces",
+        "where": "Unlock the secret closet at the end of the Forkstop"
+      },
+      {
+        "id": "achievement-45",
+        "name": "One-Eyed Freak",
+        "kind": "trophy",
+        "chapterId": "campaign-bosses",
+        "where": "Defeat the Cycloid"
+      },
+      {
+        "id": "achievement-46",
+        "name": "Pit Champion",
+        "kind": "trophy",
+        "chapterId": "campaign-bosses",
+        "where": "Defeat the Battlelord in Las Vegas"
+      },
+      {
+        "id": "achievement-47",
+        "name": "Not Bad for a Human",
+        "kind": "trophy",
+        "chapterId": "campaign-bosses",
+        "where": "Defeat the Alien Queen"
+      },
+      {
+        "id": "achievement-48",
+        "name": "A Good Dam Fight",
+        "kind": "trophy",
+        "chapterId": "campaign-bosses",
+        "where": "Defeat the Battlelord on the Hoover Dam"
+      },
+      {
+        "id": "achievement-49",
+        "name": "Octacide",
+        "kind": "trophy",
+        "chapterId": "campaign-bosses",
+        "where": "Defeat the Octaking"
+      },
+      {
+        "id": "achievement-50",
+        "name": "Beating the One-Eyed Worm",
+        "kind": "trophy",
+        "chapterId": "campaign-bosses",
+        "where": "Defeat the Energy Leech"
+      },
+      {
+        "id": "achievement-51",
+        "name": "Bubble Buster",
+        "kind": "trophy",
+        "chapterId": "dlc",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-52",
+        "name": "Threesome",
+        "kind": "trophy",
+        "chapterId": "dlc",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-53",
+        "name": "Passive Aggressive",
+        "kind": "trophy",
+        "chapterId": "dlc",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-54",
+        "name": "Bloody Red Rover",
+        "kind": "trophy",
+        "chapterId": "dlc",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-55",
+        "name": "Scientits",
+        "kind": "trophy",
+        "chapterId": "dlc",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-56",
+        "name": "Heart to Heart",
+        "kind": "trophy",
+        "chapterId": "dlc",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-57",
+        "name": "Another Piece of Cake",
+        "kind": "trophy",
+        "chapterId": "dlc",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-58",
+        "name": "Let's Rock Out",
+        "kind": "trophy",
+        "chapterId": "dlc",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-59",
+        "name": "Come Get a Little More",
+        "kind": "trophy",
+        "chapterId": "dlc",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-60",
+        "name": "Damn, I'm REALLY Good",
+        "kind": "trophy",
+        "chapterId": "dlc",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-61",
+        "name": "I Am All That Is Man - Again!",
+        "kind": "trophy",
+        "chapterId": "dlc",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      },
+      {
+        "id": "achievement-62",
+        "name": "Hedonist, not Misogynist",
+        "kind": "trophy",
+        "chapterId": "dlc",
+        "where": "Hidden on Steam: the unlock condition is secret. Most likely tied to story progress, so it is spoiler-guarded."
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/duke-nukem-forever",
+    "Achievement data from Steam (Steam Web API, app 57900)",
+    "StrategyWiki: no usable walkthrough, nothing used — https://strategywiki.org/wiki/Duke_Nukem_Forever",
+    "Fandom (dukenukem.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://dukenukem.fandom.com/wiki/Duke_Nukem_Forever"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). RAWG's first result is the expected entry (id 4483). The Steam store list has one matching app, 57900 (\"Duke Nukem Forever\"); its schema is named \"Untitled Piranha Game\" (an internal placeholder name). StrategyWiki has \"Duke Nukem Forever\" at completion stage 1, but of its many subpages only Achievements and trophies (about 8,200 characters), Controls (about 2,800), Weapons (about 1,700), Enemies (about 1,400), Cheats (about 1,200), the first level \"Duke Lives\" (about 2,100) and Table of Contents are written; Walkthrough, Gameplay, Ego Boosts, Voicemails and the other level pages from \"Damn! It's Late\" to \"Duke Side of the Moon\" are linked but not written, so it was not used. dukenukem.fandom.com answers the API under \"Duke Nukem Forever\" with about 165 linked articles (levels, weapons, enemies and versions); names only were looked at, nothing copied. 12 of 62 Steam achievements are hidden, all at the end of the schema. Their API names include ACH_MoonBuggyKills, ACH_SciencePinballScore, ACH_DefeatDrProton and ACH_EasyCompletedDLC03 to ACH_ExpertCompletedDLC03, so they get a DLC chapter instead of the story chapter. RAWG keeps one DLC entry, \"Duke Nukem Forever: The Doctor Who Cloned Me\" (2011-12-13), and StrategyWiki and Fandom both have a page of that name; that these hidden achievements belong to it is a guess, so the chapter title stays neutral. The boss order is our own reading of the unlock rates (89.1% for the Cycloid down to 23.1% for the Energy Leech). No Steam achievement covers multiplayer, so there is no multiplayer chapter."
+}

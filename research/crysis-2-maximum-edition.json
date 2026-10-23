@@ -1,0 +1,120 @@
+{
+  "id": "crysis-2-maximum-edition",
+  "title": "Crysis 2 - Maximum Edition",
+  "year": 2011,
+  "platforms": [
+    "PC"
+  ],
+  "rawgId": 19647,
+  "rawgSlug": "crysis-2-maximum-edition",
+  "released": "2011-03-22",
+  "developers": [
+    "Crytek"
+  ],
+  "playtime": 2,
+  "genres": [
+    "Action"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Multiplayer",
+    "Atmospheric",
+    "Great Soundtrack",
+    "RPG",
+    "Story Rich",
+    "Open World",
+    "First-Person",
+    "Sci-fi",
+    "Partial Controller Support",
+    "FPS",
+    "Survival"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/1ed/1edaaa9e24e0072772244633d01642f4.jpg",
+  "steamAppId": null,
+  "achievements": {
+    "total": 0,
+    "examples": [],
+    "reason": "No Steam list: Steam app 108800 (\"Crysis 2 - Maximum Edition\") returns an empty achievement schema and a 403 for global percentages, and RAWG's Maximum Edition entry lists no achievements. RAWG's separate \"Crysis 2\" entry (id 4489, released the same day, PC, Xbox 360 and PlayStation 3) lists 51 achievements that read as the PlayStation trophy list (it includes a Platinum and \"PlayStation®Network matches\"): 14 campaign steps, level feats, Veteran and Supersoldier runs, New York Souvenirs, dog tags, the library books and multiplayer goals. These could seed an original checklist once checked against the PC edition."
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 0,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Crysis_2",
+      "reason": "Page exists but has no usable walkthrough structure; see notes for its completion stage and which subpages are written"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 84,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://crysis.fandom.com/wiki/Crysis_2"
+    }
+  },
+  "game": {
+    "id": "crysis-2-maximum-edition",
+    "title": "Crysis 2 - Maximum Edition",
+    "platforms": [
+      "PC"
+    ],
+    "blurb": "First-person shooter from Crytek, published by Electronic Arts, released 2011-03-22. RAWG average playtime: 2 hours. Genres: Action. Chapters are an estimate drawn from the trophy list on RAWG's separate Crysis 2 entry, with the campaign ordered by how many players unlocked each step.",
+    "accent": "#3C8D5A",
+    "chapters": [
+      {
+        "id": "deep-end-to-wall-street",
+        "title": "In at the Deep End to Wall Street",
+        "summary": "The opening, In at the Deep End, then the Battery Park evacuation centre, the crash site, finding Nathan Gould and getting into the CELL facility at Wall Street.",
+        "steps": []
+      },
+      {
+        "id": "hive-to-central-station",
+        "title": "The Hive to Central Station",
+        "summary": "Into the alien hive, helping the Marines in Madison Square, the Hargreave-Rasch building, the Bryant Park evacuation and defending Central Station. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "times-square-to-central-park",
+        "title": "Times Square to Central Park",
+        "summary": "The Times Square evacuation, locating Jacob Hargreave, reaching Central Park and finishing the campaign. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "level-feats",
+        "title": "Level Feats and Combat",
+        "summary": "Named-level challenges (Dark Heart, Eye of the Storm, Semper Fi or Die, Lower Manhattan) and combat feats such as stealth kills, headshots, grenades, sliding and grab-and-throw.",
+        "steps": []
+      },
+      {
+        "id": "collectibles",
+        "title": "Souvenirs, Dog Tags and Books",
+        "summary": "New York Souvenirs, dog tags and dog tag displays, and the books in the public library.",
+        "steps": []
+      },
+      {
+        "id": "difficulty",
+        "title": "Veteran and Supersoldier",
+        "summary": "Levels and the full campaign on Veteran and Supersoldier difficulty.",
+        "steps": []
+      },
+      {
+        "id": "multiplayer",
+        "title": "Multiplayer",
+        "summary": "Online rank, weapon and Nanosuit unlocks, custom classes, every map and mode, and squad play. Needs a network connection, if the servers still run.",
+        "steps": []
+      }
+    ],
+    "collectibles": []
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/crysis-2-maximum-edition",
+    "Steam: no achievement list available for this game (see notes)",
+    "StrategyWiki: no usable walkthrough, nothing used — https://strategywiki.org/wiki/Crysis_2",
+    "Fandom (crysis.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://crysis.fandom.com/wiki/Crysis_2"
+  ],
+  "route": "original",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). RAWG's first result is the expected entry (id 19647, PC only, Steam store only). The Steam store list has one matching app, 108800 (\"Crysis 2 - Maximum Edition\"), which is used as the edition; its schema is empty, so steam=None. \"Crysis 2 Remastered\" (app 2096600) is a different product and was not used. The chapters come from the 51-item list on RAWG's \"Crysis 2\" entry (id 4489), not from the Maximum Edition itself; ordering the campaign steps by RAWG's unlock percentages (98.7% for In at the Deep End down to 41.3% for finishing) is our own guess, and the three-way split is our own choice. Whether the PC edition has the same goals was not checked. StrategyWiki has \"Crysis 2\" at completion stage 0: only the main page and a short Table of Contents (about 230 characters, listing Gameplay, Controls and Walkthrough) exist; none of those three is written, and no mission names are listed. \"Crysis 2 Maximum Edition\" and \"Crysis 2: Maximum Edition\" have no StrategyWiki page. crysis.fandom.com answers the API under \"Crysis 2\" with about 84 linked articles; names only were looked at, nothing copied."
+}

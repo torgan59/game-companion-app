@@ -1,0 +1,547 @@
+{
+  "id": "portal-2",
+  "title": "Portal 2",
+  "year": 2011,
+  "platforms": [
+    "PlayStation 3",
+    "PC",
+    "Xbox 360",
+    "Linux",
+    "macOS",
+    "Xbox One"
+  ],
+  "rawgId": 4200,
+  "rawgSlug": "portal-2",
+  "released": "2011-04-18",
+  "developers": [
+    "Valve Software"
+  ],
+  "playtime": 11,
+  "genres": [
+    "Shooter",
+    "Puzzle"
+  ],
+  "tags": [
+    "Singleplayer",
+    "Steam Achievements",
+    "Multiplayer",
+    "Full controller support",
+    "Steam Cloud",
+    "Atmospheric",
+    "steam-trading-cards",
+    "Co-op",
+    "Story Rich",
+    "cooperative",
+    "First-Person",
+    "Sci-fi"
+  ],
+  "coverUrl": "https://media.rawg.io/media/games/2ba/2bac0e87cf45e5b508f227d281c9252a.jpg",
+  "steamAppId": 620,
+  "achievements": {
+    "total": 51,
+    "hidden": 0,
+    "examples": [
+      {
+        "name": "Wake Up Call",
+        "percent": 74.0
+      },
+      {
+        "name": "You Monster",
+        "percent": 64.7
+      },
+      {
+        "name": "Undiscouraged",
+        "percent": 62.6
+      },
+      {
+        "name": "Party of Three",
+        "percent": 3.5
+      },
+      {
+        "name": "Triple Crown",
+        "percent": 3.0
+      },
+      {
+        "name": "Portal Conservation Society",
+        "percent": 2.8
+      },
+      {
+        "name": "Talent Show",
+        "percent": 2.7
+      },
+      {
+        "name": "Still Alive",
+        "percent": 2.4
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": true,
+      "pages": 22,
+      "licence": "CC BY-SA 4.0",
+      "url": "https://strategywiki.org/wiki/Portal_2",
+      "completionStage": 2,
+      "writtenSubpages": [
+        "Achievements and trophies",
+        "Art Therapy",
+        "Calibration Course",
+        "Chapter 1: The Courtesy Call",
+        "Chapter 2: The Cold Boot",
+        "Chapter 3: The Return",
+        "Chapter 4: The Surprise",
+        "Chapter 5: The Escape",
+        "Chapter 6: The Fall",
+        "Chapter 7: The Reunion",
+        "Chapter 8: The Itch",
+        "Chapter 9: The Part Where He Kills You",
+        "Co-op campaign",
+        "Controls",
+        "Excursion Funnels",
+        "Gameplay",
+        "Hard-Light Surfaces",
+        "Mass and Velocity",
+        "Mobility Gels",
+        "Table of Contents",
+        "Team Building",
+        "Walkthrough"
+      ],
+      "reason": "Real walkthrough structure; chapter order taken from its Table of Contents"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "Not applicable (not an Elder Scrolls game)"
+    },
+    "fandom": {
+      "available": true,
+      "linkedPages": 99,
+      "licence": "CC BY-SA (per site rightsinfo)",
+      "url": "https://half-life.fandom.com/wiki/Portal_2"
+    }
+  },
+  "game": {
+    "id": "portal-2",
+    "title": "Portal 2",
+    "platforms": [
+      "PlayStation 3",
+      "PC",
+      "Xbox 360",
+      "Linux",
+      "macOS",
+      "Xbox One"
+    ],
+    "blurb": "First-person puzzle game from Valve Software, published by Electronic Arts and Valve, released 2011-04-18. RAWG average playtime: 11 hours. Genres: Shooter, Puzzle. Chapter order follows the StrategyWiki walkthrough (CC BY-SA 4.0): nine single-player chapters and the co-op courses.",
+    "accent": "#1F6FB2",
+    "chapters": [
+      {
+        "id": "chapters-1-3",
+        "title": "Chapters 1 to 3",
+        "summary": "The Courtesy Call, The Cold Boot and The Return: waking up, the first tests and the early test chambers.",
+        "steps": []
+      },
+      {
+        "id": "chapters-4-6",
+        "title": "Chapters 4 to 6",
+        "summary": "The Surprise, The Escape and The Fall: breaking out and the gel tests. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "chapters-7-9",
+        "title": "Chapters 7 to 9",
+        "summary": "The Reunion, The Itch and The Part Where He Kills You, to the end of the story. Spoiler-guarded.",
+        "steps": []
+      },
+      {
+        "id": "single-player-secrets",
+        "title": "Single-Player Secrets and Challenges",
+        "summary": "Hidden signals and portraits, chamber doors, monitors, speed runs and rule-breaking in the test chambers.",
+        "steps": []
+      },
+      {
+        "id": "coop-early-courses",
+        "title": "Co-op: Calibration to Mass and Velocity",
+        "summary": "The Calibration Course, Team Building and Mass and Velocity co-op courses, with their challenges.",
+        "steps": []
+      },
+      {
+        "id": "coop-later-courses",
+        "title": "Co-op: Hard-Light Surfaces to Art Therapy",
+        "summary": "Hard-Light Surfaces, Excursion Funnels, Mobility Gels and Art Therapy, and finishing every course.",
+        "steps": []
+      },
+      {
+        "id": "coop-play",
+        "title": "Co-op Gestures and Teamwork",
+        "summary": "Gestures, taunts, hugs, rock-paper-scissors and teaching a new partner.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "Wake Up Call",
+        "kind": "trophy",
+        "chapterId": "chapters-1-3",
+        "where": "Survive the manual override"
+      },
+      {
+        "id": "achievement-2",
+        "name": "You Monster",
+        "kind": "trophy",
+        "chapterId": "chapters-1-3",
+        "where": "Reunite with GLaDOS"
+      },
+      {
+        "id": "achievement-3",
+        "name": "Undiscouraged",
+        "kind": "trophy",
+        "chapterId": "chapters-1-3",
+        "where": "Complete the first Thermal Discouragement Beam test"
+      },
+      {
+        "id": "achievement-4",
+        "name": "Bridge Over Troubling Water",
+        "kind": "trophy",
+        "chapterId": "chapters-1-3",
+        "where": "Complete the first Hard Light Bridge test"
+      },
+      {
+        "id": "achievement-5",
+        "name": "SaBOTour",
+        "kind": "trophy",
+        "chapterId": "chapters-4-6",
+        "where": "Make a break for it"
+      },
+      {
+        "id": "achievement-6",
+        "name": "Stalemate Associate",
+        "kind": "trophy",
+        "chapterId": "chapters-4-6",
+        "where": "Press the button!"
+      },
+      {
+        "id": "achievement-7",
+        "name": "Tater Tote",
+        "kind": "trophy",
+        "chapterId": "chapters-4-6",
+        "where": "Carry science forward"
+      },
+      {
+        "id": "achievement-8",
+        "name": "Vertically Unchallenged",
+        "kind": "trophy",
+        "chapterId": "chapters-4-6",
+        "where": "Master the Repulsion Gel"
+      },
+      {
+        "id": "achievement-9",
+        "name": "Stranger Than Friction",
+        "kind": "trophy",
+        "chapterId": "chapters-4-6",
+        "where": "Master the Propulsion Gel"
+      },
+      {
+        "id": "achievement-10",
+        "name": "White Out",
+        "kind": "trophy",
+        "chapterId": "chapters-4-6",
+        "where": "Complete the first Conversion Gel test"
+      },
+      {
+        "id": "achievement-11",
+        "name": "Tunnel of Funnel",
+        "kind": "trophy",
+        "chapterId": "chapters-7-9",
+        "where": "Master the Excursion Funnel"
+      },
+      {
+        "id": "achievement-12",
+        "name": "Dual Pit Experiment",
+        "kind": "trophy",
+        "chapterId": "chapters-7-9",
+        "where": "Do the same test twice"
+      },
+      {
+        "id": "achievement-13",
+        "name": "The Part Where He Kills You",
+        "kind": "trophy",
+        "chapterId": "chapters-7-9",
+        "where": "This is that part"
+      },
+      {
+        "id": "achievement-14",
+        "name": "Lunacy",
+        "kind": "trophy",
+        "chapterId": "chapters-7-9",
+        "where": "That just happened"
+      },
+      {
+        "id": "achievement-15",
+        "name": "Drop Box",
+        "kind": "trophy",
+        "chapterId": "single-player-secrets",
+        "where": "Place a cube on a button without touching the cube"
+      },
+      {
+        "id": "achievement-16",
+        "name": "Overclocker",
+        "kind": "trophy",
+        "chapterId": "single-player-secrets",
+        "where": "Complete Test Chamber 10 in 70 seconds"
+      },
+      {
+        "id": "achievement-17",
+        "name": "Pit Boss",
+        "kind": "trophy",
+        "chapterId": "single-player-secrets",
+        "where": "Show that pit who's boss"
+      },
+      {
+        "id": "achievement-18",
+        "name": "Preservation of Mass",
+        "kind": "trophy",
+        "chapterId": "single-player-secrets",
+        "where": "Break the rules in Test Chamber 07"
+      },
+      {
+        "id": "achievement-19",
+        "name": "Pturretdactyl",
+        "kind": "trophy",
+        "chapterId": "single-player-secrets",
+        "where": "Use an Aerial Faith Plate to launch a turret"
+      },
+      {
+        "id": "achievement-20",
+        "name": "Final Transmission",
+        "kind": "trophy",
+        "chapterId": "single-player-secrets",
+        "where": "Find the hidden signal in one of the Rat Man's dens"
+      },
+      {
+        "id": "achievement-21",
+        "name": "Good Listener",
+        "kind": "trophy",
+        "chapterId": "single-player-secrets",
+        "where": "Take GLaDOS' escape advice"
+      },
+      {
+        "id": "achievement-22",
+        "name": "Scanned Alone",
+        "kind": "trophy",
+        "chapterId": "single-player-secrets",
+        "where": "Stand in a defective turret detector"
+      },
+      {
+        "id": "achievement-23",
+        "name": "No Hard Feelings",
+        "kind": "trophy",
+        "chapterId": "single-player-secrets",
+        "where": "Save a turret from redemption"
+      },
+      {
+        "id": "achievement-24",
+        "name": "Schrodinger's Catch",
+        "kind": "trophy",
+        "chapterId": "single-player-secrets",
+        "where": "Catch a blue-painted box before it touches the ground"
+      },
+      {
+        "id": "achievement-25",
+        "name": "Ship Overboard",
+        "kind": "trophy",
+        "chapterId": "single-player-secrets",
+        "where": "Discover the missing experiment"
+      },
+      {
+        "id": "achievement-26",
+        "name": "Door Prize",
+        "kind": "trophy",
+        "chapterId": "single-player-secrets",
+        "where": "Examine all the vitrified test chamber doors"
+      },
+      {
+        "id": "achievement-27",
+        "name": "Portrait of a Lady",
+        "kind": "trophy",
+        "chapterId": "single-player-secrets",
+        "where": "Find a hidden portrait"
+      },
+      {
+        "id": "achievement-28",
+        "name": "You Made Your Point",
+        "kind": "trophy",
+        "chapterId": "chapters-7-9",
+        "where": "Refuse to solve the first test in Chapter 8"
+      },
+      {
+        "id": "achievement-29",
+        "name": "Smash TV",
+        "kind": "trophy",
+        "chapterId": "single-player-secrets",
+        "where": "Break 11 test chamber monitors"
+      },
+      {
+        "id": "achievement-30",
+        "name": "High Five",
+        "kind": "trophy",
+        "chapterId": "coop-early-courses",
+        "where": "Celebrate your cooperative calibration success"
+      },
+      {
+        "id": "achievement-31",
+        "name": "Team Building",
+        "kind": "trophy",
+        "chapterId": "coop-early-courses",
+        "where": "Complete all test chambers in the Team Building co-op course"
+      },
+      {
+        "id": "achievement-32",
+        "name": "Confidence Building",
+        "kind": "trophy",
+        "chapterId": "coop-early-courses",
+        "where": "Complete all test chambers in the Mass and Velocity co-op course"
+      },
+      {
+        "id": "achievement-33",
+        "name": "Bridge Building",
+        "kind": "trophy",
+        "chapterId": "coop-later-courses",
+        "where": "Complete all test chambers in the Hard-Light Surfaces co-op course"
+      },
+      {
+        "id": "achievement-34",
+        "name": "Obstacle Building",
+        "kind": "trophy",
+        "chapterId": "coop-later-courses",
+        "where": "Complete all test chambers in the Excursion Funnels co-op course"
+      },
+      {
+        "id": "achievement-35",
+        "name": "You Saved Science",
+        "kind": "trophy",
+        "chapterId": "coop-later-courses",
+        "where": "Complete all test chambers in all courses of co-op"
+      },
+      {
+        "id": "achievement-36",
+        "name": "Iron Grip",
+        "kind": "trophy",
+        "chapterId": "coop-early-courses",
+        "where": "Never lose a cube in Chamber 6 of the Mass and Velocity co-op course"
+      },
+      {
+        "id": "achievement-37",
+        "name": "Gesticul-8",
+        "kind": "trophy",
+        "chapterId": "coop-play",
+        "where": "Perform all 8 gestures of your own volition in co-op"
+      },
+      {
+        "id": "achievement-38",
+        "name": "Can't Touch This",
+        "kind": "trophy",
+        "chapterId": "coop-play",
+        "where": "Dance in front of a turret blocked by a hard light bridge in co-op"
+      },
+      {
+        "id": "achievement-39",
+        "name": "Empty Gesture",
+        "kind": "trophy",
+        "chapterId": "coop-play",
+        "where": "Drop your co-op partner in goo while they are gesturing by removing the bridge under them"
+      },
+      {
+        "id": "achievement-40",
+        "name": "Party of Three",
+        "kind": "trophy",
+        "chapterId": "coop-play",
+        "where": "Find the hidden companion cube in co-op test chamber"
+      },
+      {
+        "id": "achievement-41",
+        "name": "Narbacular Drop",
+        "kind": "trophy",
+        "chapterId": "coop-play",
+        "where": "Place a portal under your co-op partner while they are gesturing"
+      },
+      {
+        "id": "achievement-42",
+        "name": "Professor Portal",
+        "kind": "trophy",
+        "chapterId": "coop-play",
+        "where": "After completing co-op, complete Calibration Course online with a friend who hasn’t played before"
+      },
+      {
+        "id": "achievement-43",
+        "name": "Air Show",
+        "kind": "trophy",
+        "chapterId": "coop-play",
+        "where": "Perform 2 aerial gestures before touching the ground in co-op"
+      },
+      {
+        "id": "achievement-44",
+        "name": "Portal Conservation Society",
+        "kind": "trophy",
+        "chapterId": "coop-later-courses",
+        "where": "Complete Chamber 3 in the Hard-Light Surfaces co-op course using only 5 total portal placements"
+      },
+      {
+        "id": "achievement-45",
+        "name": "Four Ring Circus",
+        "kind": "trophy",
+        "chapterId": "coop-play",
+        "where": "Enter 4 different portals without touching the ground in co-op"
+      },
+      {
+        "id": "achievement-46",
+        "name": "Triple Crown",
+        "kind": "trophy",
+        "chapterId": "coop-early-courses",
+        "where": "Solve 3 co-op chambers in the Mass and Velocity course in under 60 seconds each"
+      },
+      {
+        "id": "achievement-47",
+        "name": "Still Alive",
+        "kind": "trophy",
+        "chapterId": "coop-later-courses",
+        "where": "Complete Course 4 with neither you nor your co-op partner dying"
+      },
+      {
+        "id": "achievement-48",
+        "name": "Asking for Trouble",
+        "kind": "trophy",
+        "chapterId": "coop-play",
+        "where": "Taunt GLaDOS in front of a camera in each of the five co-op courses"
+      },
+      {
+        "id": "achievement-49",
+        "name": "Rock Portal Scissors",
+        "kind": "trophy",
+        "chapterId": "coop-play",
+        "where": "Win 3 co-op games of rock-paper-scissors in a row"
+      },
+      {
+        "id": "achievement-50",
+        "name": "Friends List With Benefits",
+        "kind": "trophy",
+        "chapterId": "coop-play",
+        "where": "While playing co-op, hug 3 different people on your friends list"
+      },
+      {
+        "id": "achievement-51",
+        "name": "Talent Show",
+        "kind": "trophy",
+        "chapterId": "coop-later-courses",
+        "where": "Never lose a cube in Chamber 6 of the Mobility Gels co-op course"
+      }
+    ]
+  },
+  "attribution": [
+    "Data from [RAWG](https://rawg.io) — https://rawg.io/games/portal-2",
+    "Achievement data from Steam (Steam Web API, app 620)",
+    "Wiki structure from StrategyWiki under CC BY-SA 4.0 (chapter order from its walkthrough contents; titles reworded, no text copied) — https://strategywiki.org/wiki/Portal_2",
+    "Fandom (half-life.fandom.com, CC BY-SA): page names only were checked to confirm structure; no text copied — https://half-life.fandom.com/wiki/Portal_2"
+  ],
+  "route": "cc-by-sa",
+  "notes": "Backlog game, all-AAA pass: picked from RAWG's most-added list for its year across all genres (docs/PLAN.md section 2, genre filter widened 2026-10-23). Route cc-by-sa: StrategyWiki (CC BY-SA 4.0) has \"Portal 2\" at completion stage 2, and all nine single-player chapter pages are written (Chapter 1: The Courtesy Call about 12,100 characters down to Chapter 9: The Part Where He Kills You about 660; Chapters 5, 7 and 9 are short), plus Co-op campaign and all seven co-op course pages (Calibration Course, Team Building, Mass and Velocity, Hard-Light Surfaces, Excursion Funnels, Mobility Gels, Art Therapy), Gameplay, Controls, Achievements and trophies and Walkthrough. Level Editor is linked but not written. Chapter order follows its contents page; titles are reworded and no text was copied. RAWG's first result is the expected entry (id 4200). The Steam store list has app 620 (\"Portal 2\"), whose schema returned 51 achievements, none hidden. Only two achievements tie to a chapter in the data: \"The Part Where He Kills You\" shares Chapter 9's name and \"You Made Your Point\" names Chapter 8. The other 14 story achievements were split across the three chapter groups by unlock rate (74.0% down to 34.1%), which is our own guess. Test chamber feats (Test Chamber 07 and 10) do not name a chapter and sit in the secrets chapter. \"Still Alive\" names \"Course 4\" and was put with the later courses as a guess. half-life.fandom.com answers the API under \"Portal 2\" with about 99 linked articles; names only were looked at, nothing copied."
+}
