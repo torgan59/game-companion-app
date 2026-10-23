@@ -5,6 +5,43 @@ Tracks the 20-game research queue in `research/state.json` and files landing in 
 
 ---
 
+## 2026-10-23 05:11 UTC
+
+**Year / queue:** currentYear = 2026 on `main`. state.json on `main` (updated 2026-10-20T21:33:06Z, unchanged): 233 games, 212 done, 0 in-progress, 4 queued, 17 skipped, 0 errors. On the PR #9 branch, state.json now reads currentYear = 2010 (the batch session finished walking the years downward): 497 games, **479 done, 0 in-progress, 4 queued, 14 skipped, 0 errors**. The 4 queued games are the unreleased titles (`phantom-blade-zero` 2026-10-29, `grand-theft-auto-vi` 2026-11-19, `path-of-exile-2` 2026-12-11, `prince-of-persia-the-sands-of-time-remake` 2026-12-31). `yearsCompleted` is still empty on both (cosmetic).
+
+**Progress:** 212/233 games done on `main`, no change since 04:10. On PR #9: **479/497 done, every released game in the queue is researched.** Up from 380 an hour ago (99 new files in batches 21 to 24). The original 20-game target was met on 2026-10-20; once PR #9 merges the project will stand at 479 researched games.
+
+**Latest commits (origin/main):**
+- `d944765` Coordinator log: 04:10 check, PR #9 at 380/497 after six research batches, all 168 new files pass checks (coordinator, 04:11 UTC)
+- `38cce95` Coordinator log: 03:10 check, PR #9 widens filter and queues 264 games, researcher ran idle (coordinator, 03:12 UTC)
+- `3969714` Coordinator log: 02:10 check, no change, researcher idle until 2026-10-29 (coordinator, 02:11 UTC)
+- `086f7e0` Coordinator log: 01:11 check, no change, researcher idle until 2026-10-29 (coordinator, 01:12 UTC)
+- `4497dd7` Coordinator log: 00:11 check, no change, researcher idle until 2026-10-29 (coordinator, 00:13 UTC)
+
+No new research commits on `main` this hour. Last research commit on `main` is still `b72f263` (2026-10-20 21:33 UTC). All research activity is on the PR #9 branch (below).
+
+**Latest commits (PR #9 branch `claude/festive-turing-ek24ds`, 12 commits, tip `d6c4558`):**
+- `d6c4558` Research batch 24: last 15 released AAA games from 2010 (04:34 UTC)
+- `9fca917` Research batch 23: 28 AAA games from 2010-2012; claim batch 24 (04:28 UTC)
+- `9c06b43` Research batch 22: 28 AAA games from 2012-2013; claim batch 23 (04:18 UTC)
+- `2ef56b7` Research batch 21: 28 AAA games from 2013-2014; claim batch 22 (04:11 UTC)
+
+The batch session has stopped: the last push was 04:34 UTC, the PR title and body were rewritten to say "Research: complete", and no claims are left `in-progress`. The merge caveat from the last two hours no longer applies.
+
+**Researcher:** the daily `game-researcher-routine` last ran at 03:08 UTC (20 s, succeeded, pushed nothing, as expected). Next run 2026-10-24 03:07 UTC. One thing for Tim to check: the routine's stored prompt still spells out the old genre filter ("AAA only; open world, RPG, action-adventure, soulslike, open-world racing; no indie, horror, roguelikes, low-budget"), while PR #9 widens the filter in `.claude/agents/game-researcher.md` to all AAA genres. The prompt also says to follow the agent file exactly, so the two will disagree after the merge. Updating the scheduled task's prompt to drop the old genre line (or to defer to the agent file) would remove the ambiguity. Until a queued game releases on 2026-10-29 the routine has nothing to pick either way.
+
+**Open PR #9** "All-AAA expansion: widen the genre filter and research every released AAA game, 2010–2026" (torgan59, opened 02:45 UTC, last push 04:34 UTC): **ready to merge.** 270 files changed, +146682/-20, 12 commits, mergeable state clean, no conflicts, no CI checks, no review or issue comments. Base is `main` at `3969714`, three coordinator commits behind the tip; those only touch this log, so no conflict. Not stale (40 minutes since the last push), but it is now waiting only on Tim. The PR body lists three follow-ups to decide later: swear words left as-is in some official achievement and mission names (Prototype 2, Just Cause 2, The Darkness II), about 20 console-only or delisted games with no Steam checklist, and Hitman (2016) using the old 2016 achievement list.
+
+**Research files:** `research/` on `main` holds `state.json` plus 212 game files, one per `done` entry (no missing, no extras, no naming issues). On the PR #9 branch: `state.json` plus 479 game files, exactly one per `done` entry (479 done, 479 files, no mismatches either way). All 267 filenames new relative to `main` are lowercase slug-style, and every `id` matches its filename. No stray or non-JSON files. `packs/` still does not exist (placeholder `packPath` values, expected). Four leftover `claude/*` branches remain on origin (`festive-turing-ek24ds` is PR #9's head; the three `research-*` branches are harmless leftovers from merged PRs).
+
+**Quality check (all 267 files PR #9 adds relative to `main`, including the 99 new since 04:10):** all parse as JSON and have `id` (matching the filename), `title`, `platforms`, and a `game` object with `chapters` and `collectibles` lists. 0 failures. Every file has at least one chapter. Routes: 256 original, 11 cc-by-sa among the new files (24 cc-by-sa across the whole branch, per the PR body). Spot checks: `resident-evil-0-biohazard-0-hd-remaster.json` (6 platforms, 9 chapters, 47 collectibles), `assassins-creed-rogue.json` (6 platforms, 7 chapters, 46 collectibles), `the-surge-2.json` (3 platforms, 5 chapters, 57 collectibles), `lego-harry-potter-years-1-4.json` (9 platforms, 5 chapters, 0 collectibles). Across the whole branch 63 of 479 files have an empty `collectibles` list; these are the console-only, Nintendo-only, PlayStation-only or delisted games with no Steam achievements (Bloodborne, Astro Bot, Breath of the Wild, Super Mario Odyssey, Ghost of Yōtei, the LEGO and inFamous games and so on). The lists are present but empty, which matches the PR body's note that their checklists will need to be written from the RAWG trophy lists later. Flagging it as a content gap, not a format failure.
+
+**Blockers / errors / stale PRs:** no errors. `errors` is empty on both `main` and the PR branch. No stale PRs. PR #9 is complete and waits on Tim's merge. This run fired at 05:11 UTC (scheduled 05:09, two minutes late, within normal scheduler delay). The local checkout's old shallow `main` ref diverged from `origin/main` again (a stale clone artefact, nothing rewritten on the remote); this run worked from `origin/main` directly.
+
+**Next game in queue:** on `main` and on PR #9 alike, nothing is eligible until `phantom-blade-zero` (Phantom Blade Zero, 2026) releases on 2026-10-29. After PR #9 merges, the next decisions are content ones: whether to backfill checklists for the 63 games with empty collectibles, and whether to re-queue any of the 14 skipped titles (`clair-obscur-expedition-33`, `uncharted-4-a-thiefs-end`, `mass-effect-2`, `the-last-of-us`, `persona-5` and nine more).
+
+---
+
 ## 2026-10-23 04:10 UTC
 
 **Year / queue:** currentYear = 2026 on `main`. state.json on `main` (updated 2026-10-20T21:33:06Z, unchanged): 233 games, 212 done, 0 in-progress, 4 queued, 17 skipped, 0 errors. The 4 queued games on `main` are all unreleased (`phantom-blade-zero` 2026-10-29, `grand-theft-auto-vi` 2026-11-19, `path-of-exile-2` 2026-12-11, `prince-of-persia-the-sands-of-time-remake` 2026-12-31). On the PR #9 branch, state.json now reads currentYear = 2014 (the batch session walks years downward): 497 games, **380 done, 28 in-progress, 75 queued, 14 skipped, 0 errors**.
