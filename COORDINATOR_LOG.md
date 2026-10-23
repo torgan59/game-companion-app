@@ -5,6 +5,38 @@ Tracks the 20-game research queue in `research/state.json` and files landing in 
 
 ---
 
+## 2026-10-23 21:11 UTC
+
+**PR #9 merged.** Tim merged "All-AAA expansion: widen the genre filter and research every released AAA game, 2010–2026" at 20:46 UTC (merge commit `8cc9c98`, 270 files). `main` now carries everything the PR branch held.
+
+**Year / queue:** currentYear = 2010 on `main` (the researcher worked backwards from 2026 and reached the last year). state.json: 497 games, 479 done, 0 in-progress, 4 queued, 14 skipped, 0 errors. The 4 queued games are the unreleased titles (`phantom-blade-zero` 2026-10-29, `grand-theft-auto-vi` 2026-11-19, `path-of-exile-2` 2026-12-11, `prince-of-persia-the-sands-of-time-remake` 2026-12-31). `yearsCompleted` is still empty (cosmetic).
+
+**Progress:** 479/497 games done on `main`, up from 212/233 at the 18:10 check. Every released AAA game in the queue is researched. The original 20-game target was met on 2026-10-20; the widened all-AAA queue is now complete except for the four unreleased titles.
+
+**Latest commits (origin/main):**
+- `8cc9c98` Merge pull request #9 from torgan59/claude/festive-turing-ek24ds (Tim, 20:46 UTC)
+- `b07b34c` Coordinator log: 18:10 check, no change, PR #9 still waiting on merge at 479/497 (coordinator, 18:11 UTC)
+- `9febd8c` Coordinator log: 17:10 check (coordinator, 17:11 UTC)
+- `c07aae0` Coordinator log: 16:13 check (coordinator, 16:14 UTC)
+- `889b65b` Coordinator log: 15:12 check (coordinator, 15:14 UTC)
+
+The merge brought 12 research commits (batches 13–24, `Claude` author, 2026-10-23 02:45–04:34 UTC) onto `main`, plus the widened genre filter in `.claude/agents/game-researcher.md` and a one-line `docs/PLAN.md` update.
+
+**Researcher:** the daily `game-researcher-routine` last ran at 03:08 UTC today (20 s, succeeded, pushed nothing, as expected). Next run 2026-10-24 03:07 UTC. **Its stored prompt still carries the old five-genre filter** ("open world, RPG, action-adventure, soulslike, open-world racing; no indie, horror, roguelikes, low-budget") while the merged agent file now says "AAA games only, in any genre". The agent file wins on the queue already built, but the prompt should be edited to match so a future queue-building run does not re-narrow the filter. This is Tim's change to make (the coordinator does not edit other scheduled tasks).
+
+**Research files:** `research/` on `main` holds `state.json` plus 479 game files, one per `done` entry. Cross-check: 0 done games without a file, 0 files without a done entry, 0 files for skipped games, 0 duplicate slugs, all filenames lowercase-hyphen slugs. `packs/` still does not exist (placeholder `packPath` values, expected). All four `claude/*` branches on origin are now merged leftovers (`festive-turing-ek24ds`, `research-crimson-desert`, `research-cyberpunk-2077`, `research-forza-horizon-6`) and can be deleted whenever convenient.
+
+**Quality check:** 267 research files are new on `main` from the merge. Full check of all 479 files: every one parses, has `id` matching its filename, `title`, non-empty `platforms`, and a `game` object with `chapters` and `collectibles` lists. 0 failures, 0 empty chapter lists. 63 of 479 have an empty `collectibles` list (42 of them among the new files), which is the known console-only / no-Steam-achievements case, not a defect. Random spot-check of 5 new files (Dead Space 2, Borderlands 2, LEGO Harry Potter: Years 1-4, Crusader Kings II, Unknown 9: Awakening): all have route `original`, 4 attribution entries, 5–9 chapters.
+
+**Blockers / errors / stale PRs:**
+- No open PRs. No errors in state.json. No failed routine runs.
+- Researcher prompt vs. agent file filter mismatch (see above). Not blocking; nothing is eligible to research until 2026-10-29.
+- This run fired at 21:11 UTC (scheduled 21:09). Working tree was clean; local checkout was detached at the previous `main` and was reset to `origin/main` before the check.
+
+**Next game in queue:** none eligible until 2026-10-29. First to become eligible is `phantom-blade-zero` — Phantom Blade Zero (releases 2026-10-29), then `grand-theft-auto-vi` — Grand Theft Auto VI (2026-11-19). With PR #9 merged, the researcher will now pick from the complete state.json on `main`, so the branch-divergence risk noted in earlier entries is gone.
+
+---
+
 ## 2026-10-23 18:10 UTC
 
 **Year / queue:** currentYear = 2026 on `main`. state.json on `main` (updated 2026-10-20T21:33:06Z, unchanged): 233 games, 212 done, 0 in-progress, 4 queued, 17 skipped, 0 errors. On the PR #9 branch (unchanged, head still `d6c4558`): currentYear = 2010, 497 games, 479 done, 0 in-progress, 4 queued, 14 skipped, 0 errors. The 4 queued games are the unreleased titles (`phantom-blade-zero` 2026-10-29, `grand-theft-auto-vi` 2026-11-19, `path-of-exile-2` 2026-12-11, `prince-of-persia-the-sands-of-time-remake` 2026-12-31). `yearsCompleted` is still empty on both (cosmetic).
