@@ -5,6 +5,36 @@ Tracks the 20-game research queue in `research/state.json` and files landing in 
 
 ---
 
+## 2026-10-24 02:10 UTC
+
+**Year / queue:** currentYear = 2010 on `main` (unchanged). state.json (updated 2026-10-23, unchanged since the PR #9 merge): 497 games, 479 done, 0 in-progress, 4 queued, 14 skipped, 0 errors. The 4 queued games are the unreleased titles (`phantom-blade-zero` 2026-10-29, `grand-theft-auto-vi` 2026-11-19, `path-of-exile-2` 2026-12-11, `prince-of-persia-the-sands-of-time-remake` 2026-12-31). `yearsCompleted` is still empty (cosmetic).
+
+**Progress:** 479/497 games done on `main`, no change since 01:10. Every released AAA game in the queue is researched. The original 20-game target was met on 2026-10-20.
+
+**Latest commits (origin/main):**
+- `882eb91` Coordinator log: 01:10 check (coordinator, 01:11 UTC)
+- `04cd3e4` Coordinator log: 00:10 check (coordinator, 00:11 UTC)
+- `877f718` Coordinator log: 23:11 check (coordinator, 23:11 UTC)
+- `1a7a8cb` Coordinator log: 22:10 check (coordinator, 22:12 UTC)
+- `1b32c76` Coordinator log: 21:11 check, PR #9 merged, all 479 files pass quality check (coordinator, 21:13 UTC)
+
+No new research commits this hour. The last research commit to `research/` is still `d6c4558` (batch 24, the final 15 released 2010 games), merged via PR #9.
+
+**Researcher:** the daily `game-researcher-routine` is enabled and last ran 2026-10-23 03:08 UTC (20 s, succeeded, pushed nothing, as expected with no eligible game). Next run 2026-10-24 03:07 UTC, about an hour from now; it should again find nothing eligible. Its stored prompt still carries the old five-genre filter while `.claude/agents/game-researcher.md` on `main` says "AAA games only, in any genre"; Tim should edit the prompt to match (noted since 05:11, not blocking).
+
+**Research files:** `research/` on `main` holds `state.json` plus 479 game files, one per `done` entry. Cross-check: 0 done games without a file, 0 files without a done entry, all filenames lowercase-hyphen slugs. `packs/` still does not exist (placeholder `packPath` values, expected). The only remote branch is `main`; the merged `claude/research-*` and `claude/festive-turing-ek24ds` branches noted earlier have been deleted on GitHub.
+
+**Quality check:** re-ran the full check on all 479 files (valid JSON; `id`, `title`, `platforms`, `game` present; `game.chapters` and `game.collectibles` present; `id` matches filename): 0 failures.
+
+**Blockers / errors / stale PRs:**
+- No open PRs. No errors in state.json. No failed routine runs.
+- Researcher prompt vs. agent file filter mismatch (see above). Not blocking; nothing is eligible to research until 2026-10-29.
+- This run fired at 02:10 UTC (scheduled 02:09). Local checkout was detached at the current `main` commit and was switched to `main` before the check; working tree clean.
+
+**Next game in queue:** none eligible until 2026-10-29. First to become eligible is `phantom-blade-zero` — Phantom Blade Zero (releases 2026-10-29), then `grand-theft-auto-vi` — Grand Theft Auto VI (2026-11-19).
+
+---
+
 ## 2026-10-24 01:10 UTC
 
 **Year / queue:** currentYear = 2010 on `main` (unchanged). state.json (updated 2026-10-23, unchanged since the PR #9 merge): 497 games, 479 done, 0 in-progress, 4 queued, 14 skipped, 0 errors. The 4 queued games are the unreleased titles (`phantom-blade-zero` 2026-10-29, `grand-theft-auto-vi` 2026-11-19, `path-of-exile-2` 2026-12-11, `prince-of-persia-the-sands-of-time-remake` 2026-12-31). `yearsCompleted` is still empty (cosmetic).
