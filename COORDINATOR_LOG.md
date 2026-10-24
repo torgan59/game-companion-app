@@ -5,6 +5,40 @@ Tracks the 20-game research queue in `research/state.json` and files landing in 
 
 ---
 
+## 2026-10-24 03:10 UTC
+
+**Year / queue:** currentYear = 2010 on `main` (unchanged). state.json on `main` (updated 2026-10-23): 497 games, 479 done, 0 in-progress, 4 queued, 14 skipped, 0 errors. The 4 queued games are the unreleased titles (`phantom-blade-zero` 2026-10-29, `grand-theft-auto-vi` 2026-11-19, `path-of-exile-2` 2026-12-11, `prince-of-persia-the-sands-of-time-remake` 2026-12-31). `yearsCompleted` is still empty (cosmetic).
+
+**Progress:** 479/497 games done on `main`, no change since 02:10. **PR #10 would make it 480/497, but it should not be merged as-is (see blockers).**
+
+**Latest commits (origin/main):**
+- `dfd5890` Coordinator log: 02:10 check (coordinator, 02:11 UTC)
+- `882eb91` Coordinator log: 01:10 check (coordinator, 01:11 UTC)
+- `04cd3e4` Coordinator log: 00:10 check (coordinator, 00:11 UTC)
+- `877f718` Coordinator log: 23:11 check (coordinator, 23:11 UTC)
+- `1a7a8cb` Coordinator log: 22:10 check (coordinator, 22:12 UTC)
+
+No new research commits on `main`. New research commits on branch `claude/research-grand-theft-auto-vi` (PR #10): `a0abb9c` Claim grand-theft-auto-vi for research, `0676d23` Research: Grand Theft Auto VI metadata, achievements, wiki structure.
+
+**Researcher:** the daily `game-researcher-routine` ran at 03:07 UTC as scheduled and, unlike the previous two days, **did push work: PR #10 for Grand Theft Auto VI**, which does not release until 2026-11-19. The run followed `.claude/agents/game-researcher.md` to the letter: the pick rule (first `queued` item for `currentYear`, walking years down) has no release-date check, and the `note: "Not released yet; eligible only after release."` in state.json is just a note, not something the agent reads. The stored routine prompt still carries the old five-genre filter versus "AAA games only, in any genre" in the agent file (noted since 2026-10-23 05:11).
+
+**Research files:** `research/` on `main` holds `state.json` plus 479 game files, one per `done` entry. Cross-check: 0 done games without a file, 0 files without a done entry, all filenames lowercase-hyphen slugs. `packs/` still does not exist (expected). Remote branches: `main`, plus `claude/research-grand-theft-auto-vi` (PR #10, new) and the already-merged `claude/festive-turing-ek24ds`, `claude/research-crimson-desert`, `claude/research-cyberpunk-2077`, `claude/research-forza-horizon-6`. Correction to the 02:10 entry: those four merged branches have **not** been deleted on GitHub; they are still safe to delete whenever convenient.
+
+**Quality check (research/grand-theft-auto-vi.json, from PR #10):** structurally PASS, substantively a placeholder.
+- Required fields present: `id` = grand-theft-auto-vi (matches filename), `title` = Grand Theft Auto VI, `platforms` = PS5, Xbox Series X|S, `game` object with `chapters` and `collectibles`.
+- But `game.chapters` is a single stub titled "TBD after release" with no steps, `game.collectibles` is empty, `steamAppId` is null, achievements total 0, StrategyWiki page missing. The file's own `notes` say "Unreleased as of 2026-10-24 ... Revisit chapters/collectibles after launch."
+- state.json on the branch flips `grand-theft-auto-vi` from `queued` to `done` and adds `packPath`. Once merged, rule 5 of the pick rule ("never pick a game already marked done") means the researcher will **never revisit it after release**, so the real research would have to be triggered by hand.
+
+**Blockers / errors / stale PRs:**
+- **PR #10 (open, mergeable, 2 files): recommend Tim does not merge as-is.** Options: (a) close it unmerged and delete the branch, so GTA VI stays `queued` and is picked up after launch; or (b) edit the branch so state.json keeps `status: "queued"` and keep the stub file as a placeholder. Option (a) is simpler.
+- **Root cause to fix before the next daily run (2026-10-25 03:07 UTC):** add a rule to `.claude/agents/game-researcher.md` saying a queued game whose `releaseDate` is after today is not eligible (skip it, leave it `queued`, do not claim it). Without that rule the next run will do the same thing to `phantom-blade-zero` (2026-10-29), `path-of-exile-2` and `prince-of-persia-the-sands-of-time-remake`. I did not edit the agent file myself; that is Tim's call.
+- No errors in state.json on `main`. No failed routine runs.
+- This run fired at 03:10 UTC (scheduled 03:09). Local checkout was detached at the current `main` commit and was switched to `main` before the check; working tree clean.
+
+**Next game in queue:** none legitimately eligible until 2026-10-29 (`phantom-blade-zero` — Phantom Blade Zero). `grand-theft-auto-vi` — Grand Theft Auto VI (2026-11-19) is currently claimed by PR #10 and should return to `queued` if PR #10 is closed.
+
+---
+
 ## 2026-10-24 02:10 UTC
 
 **Year / queue:** currentYear = 2010 on `main` (unchanged). state.json (updated 2026-10-23, unchanged since the PR #9 merge): 497 games, 479 done, 0 in-progress, 4 queued, 14 skipped, 0 errors. The 4 queued games are the unreleased titles (`phantom-blade-zero` 2026-10-29, `grand-theft-auto-vi` 2026-11-19, `path-of-exile-2` 2026-12-11, `prince-of-persia-the-sands-of-time-remake` 2026-12-31). `yearsCompleted` is still empty (cosmetic).
