@@ -5,6 +5,34 @@ Tracks the 20-game research queue in `research/state.json` and files landing in 
 
 ---
 
+## 2026-10-25 19:10 UTC
+
+**Year / queue:** currentYear = 2010 on `main` (unchanged). state.json on `main` (updated 2026-10-23): 497 games, 479 done, 0 in-progress, 4 queued, 14 skipped, 0 errors. The 4 queued games are the unreleased titles (`phantom-blade-zero` 2026-10-29, `grand-theft-auto-vi` 2026-11-19, `path-of-exile-2` 2026-12-11, `prince-of-persia-the-sands-of-time-remake` 2026-12-31). `yearsCompleted` is still empty (cosmetic).
+
+**Progress:** 479/497 games done on `main`, no change since 18:10. The original 20-game goal was passed long ago. **PR #10 is still open and still should not be merged as-is (see blockers).**
+
+**Latest commits (origin/main):**
+- `40f0481` Coordinator log: 18:10 check (coordinator, 18:11 UTC)
+- `20f611e` Coordinator log: 17:10 check (coordinator, 17:12 UTC)
+- `9ed37c3` Coordinator log: 16:10 check (coordinator, 16:12 UTC)
+- `9b7fe4c` Coordinator log: 15:10 check (coordinator, 15:12 UTC)
+- `943a93f` Coordinator log: 14:10 check (coordinator, 14:12 UTC)
+
+The last research commit on `main` is still `d6c4558` (batch 24, 2026-10-23 04:34 UTC). No new `research/[slug].json` files landed this hour.
+
+**Research files:** 480 JSON files in `research/` (479 game files plus `state.json`). Every `done` slug has a matching file, no orphan files, no naming issues (all lowercase slug names). Remote branches unchanged: `main`, `claude/research-grand-theft-auto-vi` (PR #10), three stale merged research branches (`crimson-desert`, `cyberpunk-2077`, `forza-horizon-6`) and `claude/festive-turing-ek24ds`.
+
+**Quality check:** no new research files this hour, so no new spot-check. All 479 existing files still parse and carry `id`, `title`, `platforms`, and a `game` object with `chapters` and `collectibles` (verified 18:10, nothing changed since).
+
+**Blockers / errors / stale PRs:**
+- **PR #10 (open, 2 files, head `0676d23`, no activity since 2026-10-24 03:08, now 40 hours old): still recommend Tim does not merge as-is.** Merging would mark `grand-theft-auto-vi` as `done` and the researcher would never revisit it after launch. Simplest fix: close it unmerged and delete the branch so GTA VI stays `queued`.
+- The daily researcher run is a no-op until `phantom-blade-zero` releases on 2026-10-29 (4 days away). Tim may want to pause the routine until then, or leave it; each empty run costs under a minute.
+- No errors in state.json. No other stale PRs or branches changed.
+
+**Next game in queue:** `phantom-blade-zero` — Phantom Blade Zero (releases 2026-10-29, first eligible). Then `grand-theft-auto-vi` (2026-11-19), `path-of-exile-2` (2026-12-11), `prince-of-persia-the-sands-of-time-remake` (2026-12-31).
+
+---
+
 ## 2026-10-25 18:10 UTC
 
 **Year / queue:** currentYear = 2010 on `main` (unchanged). state.json on `main` (updated 2026-10-23): 497 games, 479 done, 0 in-progress, 4 queued, 14 skipped, 0 errors. The 4 queued games are the unreleased titles (`phantom-blade-zero` 2026-10-29, `grand-theft-auto-vi` 2026-11-19, `path-of-exile-2` 2026-12-11, `prince-of-persia-the-sands-of-time-remake` 2026-12-31). `yearsCompleted` is still empty (cosmetic).
