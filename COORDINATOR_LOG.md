@@ -5,6 +5,39 @@ Tracks the 20-game research queue in `research/state.json` and files landing in 
 
 ---
 
+## 2026-10-27 12:23 UTC
+
+**Year / queue:** currentYear = 2010 on `main` (unchanged). state.json on `main` (updated 2026-10-23): 497 games, 479 done, 0 in-progress, 4 queued, 14 skipped, 0 errors. The 4 queued games are the unreleased titles (`phantom-blade-zero` 2026-10-29, `grand-theft-auto-vi` 2026-11-19, `path-of-exile-2` 2026-12-11, `prince-of-persia-the-sands-of-time-remake` 2026-12-31). `yearsCompleted` is still empty (cosmetic).
+
+**Progress:** 479/497 games done on `main`, no change since 09:11. The original 20-game goal was passed long ago. **PR #10 is still open and still should not be merged as-is (see blockers).**
+
+**Latest commits (origin/main):**
+- `1eab6f6` Coordinator log: 09:11 check (coordinator, 09:11 UTC)
+- `64edeb8` Coordinator log: 08:14 check (coordinator, 08:16 UTC)
+- `f5e6e05` Coordinator log: 07:17 check (coordinator, 07:18 UTC)
+- `5678557` Coordinator log: 06:12 check (coordinator, 06:14 UTC)
+- `5d9a359` Coordinator log: 05:10 check (coordinator, 05:13 UTC)
+
+No new research commits on `main` since 09:11 UTC (the only commit in that window is the previous coordinator entry). No new commits or comments on PR #10 (head still `0676d23`, created and last updated 2026-10-24 03:08 UTC, 0 comments). PR #10 is the only open PR. Remote branches unchanged: `main`, `claude/research-grand-theft-auto-vi` (PR #10), plus the stale `claude/research-crimson-desert`, `claude/research-cyberpunk-2077`, `claude/research-forza-horizon-6` and `claude/festive-turing-ek24ds` branches from already-merged work. The container started on `main` at `6affa30` this run; fetched and fast-forwarded to `1eab6f6` with no conflicts.
+
+**Researcher:** `game-researcher-routine` is enabled. Last run today 03:08 UTC: succeeded in 59 seconds as a no-op (no new branch, PR, research file or commit on `main`, expected while every queued game is unreleased). Next run 2026-10-28 03:07 UTC, which will again find nothing eligible. The stored prompt still carries the old five-genre filter versus "AAA games only, in any genre" in the agent file (noted since 2026-10-23 05:11).
+
+**Coordinator gap:** this run fired 14 minutes late (scheduled 12:09, fired 12:23:07). There is no log entry or commit for the 10:09 or 11:09 UTC runs, so two hourly coordinator runs did not produce output. The scheduled task itself is still enabled and its next run is 13:09 UTC. Nothing in the research pipeline changed during the gap, so nothing was missed; noting it in case the gap repeats.
+
+**Research files:** `research/` on `main` holds `state.json` plus 479 game files, one per `done` entry. Cross-check this run: 0 done games without a file, 0 files without a done entry, 0 files for non-done entries, all filenames lowercase-hyphen slugs, no naming issues, no subdirectories, no non-JSON files. `packs/` still does not exist (expected; every `packPath` in state.json is a placeholder).
+
+**Quality check:** no new research files this hour, so no new spot-check. Sanity pass repeated: all 479 existing files parse as valid JSON, each has `id`, `title`, `platforms`, and a `game` object containing `chapters` and `collectibles`, and each file's `id` matches its filename. 0 failures.
+
+**Blockers / errors / stale PRs:**
+- **PR #10 (open, 2 files, head `0676d23`, no activity since 2026-10-24 03:08, now 81 hours old): still recommend Tim does not merge as-is.** Merging would mark `grand-theft-auto-vi` as `done` and the researcher would never revisit it after launch. Simplest fix: close it unmerged and delete the branch so GTA VI stays `queued`.
+- Researcher stored prompt still has the old genre filter (see above). Low priority while no game is eligible.
+- Two coordinator runs (10:09, 11:09 UTC) produced no output (see above). Self-recovered this run.
+- No errors in state.json.
+
+**Next game in queue:** `phantom-blade-zero` — Phantom Blade Zero (2026, evidence 1, route original), eligible from its 2026-10-29 release date. The researcher's 2026-10-29 03:07 UTC run is the first that can pick it up. Nothing is eligible before then.
+
+---
+
 ## 2026-10-27 09:11 UTC
 
 **Year / queue:** currentYear = 2010 on `main` (unchanged). state.json on `main` (updated 2026-10-23): 497 games, 479 done, 0 in-progress, 4 queued, 14 skipped, 0 errors. The 4 queued games are the unreleased titles (`phantom-blade-zero` 2026-10-29, `grand-theft-auto-vi` 2026-11-19, `path-of-exile-2` 2026-12-11, `prince-of-persia-the-sands-of-time-remake` 2026-12-31). `yearsCompleted` is still empty (cosmetic).
