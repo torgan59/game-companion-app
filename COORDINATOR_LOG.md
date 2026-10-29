@@ -4,6 +4,41 @@ Hourly status from the `game-companion-coordinator` scheduled task. Newest entry
 Tracks the 20-game research queue in `research/state.json` and files landing in `research/`.
 
 ---
+## 2026-10-29 03:10 UTC
+
+**Year / queue:** currentYear = 2010 on `main` (unchanged). state.json on `main` (updated 2026-10-24): 497 games, **480 done**, 0 in-progress, **3 queued**, 14 skipped, 0 errors. **PR #11** (open, see below) moves `phantom-blade-zero` to `done`, which would make `main` 481 done / 2 queued once merged. The 2 remaining queued games are still unreleased (`path-of-exile-2` 2026-12-11, `prince-of-persia-the-sands-of-time-remake` 2026-12-31). `yearsCompleted` is still empty (cosmetic).
+
+**Progress:** 480/497 games done on `main` (481/497 pending PR #11). The original 20-game goal was passed long ago.
+
+**Latest commits (origin/main):**
+- `f383cfa` Coordinator log: 02:10 check (coordinator, 02:11 UTC)
+- `380b69d` Coordinator log: 01:10 check (coordinator, 01:12 UTC)
+- `10b36e7` Coordinator log: 00:11 check, PR #10 merged, GTA VI marked done before release (coordinator, 00:12 UTC)
+- `ad57d06` Merge pull request #10 from torgan59/claude/research-grand-theft-auto-vi (torgan59, 2026-10-28 23:59 UTC)
+- `b0f1c41` Coordinator log: 23:10 check (coordinator, 2026-10-28 23:11 UTC)
+
+**Researcher ran this hour.** `game-researcher-routine` fired 03:08:20 UTC and finished 03:10:06 UTC (SUCCEEDED, about 1 min 46 s). It pushed a new branch `claude/research-phantom-blade-zero` with two commits (`f254a35` Claim: Phantom Blade Zero in-progress, `cc17f64` Research: Phantom Blade Zero metadata, achievements, wiki structure) and opened **PR #11** at 03:09:59 UTC: https://github.com/torgan59/game-companion-app/pull/11. 2 files changed (+339 / -3): new `research/phantom-blade-zero.json` (336 lines) and a 6-line `research/state.json` update (`updated` 2026-10-29, status queued to done, `note` replaced by `packPath`). No merge conflicts against `main`. Next researcher run 2026-10-30 03:07 UTC; nothing else is eligible until 2026-12-11.
+
+**Coordinator timing:** this run fired about 1 minute late (scheduled 03:09, fired 03:09:47), 2 minutes after the researcher started, but the researcher had already finished and opened its PR by the time this check read GitHub. Next run 04:09 UTC. No runs skipped.
+
+**Research files:** `research/` on `main` holds `state.json` plus 480 game files, one per `done` entry. Cross-check this run: 0 done games without a file, 0 files without a done entry, all filenames lowercase-hyphen slugs, no subdirectories, no non-JSON files. PR #11 adds `research/phantom-blade-zero.json`, filename matches the slug. `packs/` still does not exist (expected; every `packPath` is a placeholder). Remote branches: `main`, the new `claude/research-phantom-blade-zero`, plus the five already-merged `claude/*` branches (deletable).
+
+**Quality check (research/phantom-blade-zero.json, from PR #11):** PASS on required fields.
+- `id` = phantom-blade-zero, `title` = Phantom Blade Zero, `platforms` = PC, PS5, `year` 2026, `releaseDate` 2026-10-29.
+- `game` object present with `chapters` (1) and `collectibles` (35) arrays, plus `blurb` and `accent`.
+- RAWG id 961205 with cover, genres action/adventure. Steam app 4115450, 66 achievements (31 hidden); the 35 visible ones are mapped to collectibles of kind `trophy`. Attribution lists RAWG, Steam Web API and the Phantom Blade Fandom wiki (CC BY-SA, 272 pages, series-wide). Route `original`.
+- Caveats: the single chapter is a `TBD after release` placeholder with 0 steps, all 35 collectibles point at it, and no StrategyWiki page exists, so real chapters need original guide writing. The researcher's own note says developer S-Game is mid-size and AAA status is borderline, and evidence is 1 (RAWG players only), so **Tim should confirm the game belongs in the catalogue before anyone builds a pack**. Sanity pass over all 480 existing files on `main`: 0 failures.
+
+**Blockers / errors / stale PRs:**
+- **PR #11 is open and waiting for Tim to review and merge.** Opened 03:09:59 UTC, no conflicts, 2 files. Not stale yet. Until it merges, `main` still lists `phantom-blade-zero` as queued; the researcher will not re-pick it before 2026-10-30 03:07 UTC, so there is a full day to merge.
+- **GTA VI marked `done` before release (carried over, unchanged).** `grand-theft-auto-vi` is `done` in state.json while the game does not launch until 2026-11-19. Fix for Tim: set it back to `"status": "queued"`, remove its `packPath`, and delete `research/grand-theft-auto-vi.json`. Tim was notified 2026-10-29 00:12 UTC.
+- Researcher stored prompt still has the old five-genre filter versus "AAA games only, in any genre" in the agent file. Low priority.
+- Five merged `claude/*` branches linger on the remote. Cosmetic.
+- No errors in state.json.
+
+**Next game in queue:** after PR #11 merges, `path-of-exile-2` — Path of Exile 2 (2026, releases 2026-12-11). Nothing is eligible for the researcher until then.
+
+---
 ## 2026-10-29 02:10 UTC
 
 **Year / queue:** currentYear = 2010 on `main` (unchanged). state.json on `main` (updated 2026-10-24): 497 games, **480 done**, 0 in-progress, **3 queued**, 14 skipped, 0 errors. The 3 queued games are the unreleased titles (`phantom-blade-zero` 2026-10-29, `path-of-exile-2` 2026-12-11, `prince-of-persia-the-sands-of-time-remake` 2026-12-31). `yearsCompleted` is still empty (cosmetic).
