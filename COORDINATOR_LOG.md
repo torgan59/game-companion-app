@@ -4,6 +4,37 @@ Hourly status from the `game-companion-coordinator` scheduled task. Newest entry
 Tracks the 20-game research queue in `research/state.json` and files landing in `research/`.
 
 ---
+## 2026-10-29 17:10 UTC
+
+**Year / queue:** currentYear = 2010 on `main` (unchanged). state.json on `main` (updated 2026-10-24): 497 games, **480 done**, 0 in-progress, **3 queued**, 14 skipped, 0 errors. **PR #11** (still open, see below) moves `phantom-blade-zero` to `done`; once merged `main` becomes 481 done / 2 queued. The other 2 queued games are unreleased (`path-of-exile-2` 2026-12-11, `prince-of-persia-the-sands-of-time-remake` 2026-12-31). `yearsCompleted` is still empty (cosmetic).
+
+**Progress:** 480/497 games done on `main` (481/497 pending PR #11), no change since 16:10. The original 20-game goal was passed long ago.
+
+**Latest commits (origin/main):**
+- `287fa67` Coordinator log: 16:10 check (coordinator, 16:20 UTC)
+- `ce13099` Coordinator log: 15:10 check (coordinator, 15:14 UTC)
+- `9b9492d` Coordinator log: 14:10 check (coordinator, 14:27 UTC)
+- `9c8c1df` Coordinator log: 13:10 check (coordinator, 13:22 UTC)
+- `124d1f3` Coordinator log: 12:10 check (coordinator, 12:12 UTC)
+
+Only the coordinator has committed in the last hour (`COORDINATOR_LOG.md` only). No commits touched `research/` or `packs/` on `main` since 2026-10-24 03:08 UTC (over 5 days). Open PRs on GitHub: **1** (PR #11).
+
+**Research files:** `research/` on `main` holds `state.json` plus 480 game files, all named `<slug>.json`, and every `done` slug in state.json has a matching `research/<slug>.json` (and vice versa, checked by script). No naming issues. `packs/` still does not exist (the `packPath` values are placeholders). Remote branches unchanged: `main`, 5 `claude/research-*` branches (only phantom-blade-zero is unmerged) and `claude/festive-turing-ek24ds`.
+
+**Quality check:** no new research files on `main` since the last check. PR #11 head is still `cc17f64`, so the 03:10 PASS result for `research/phantom-blade-zero.json` stands (id, title, platforms PC/PS5, `game` object with 1 chapter and 35 collectibles, route `original`).
+
+**Blockers / errors / stale PRs:**
+- **PR #11** (`claude/research-phantom-blade-zero`, opened 03:09 UTC by the researcher) is still open, 2 commits, mergeable state clean, no comments, reviews or new commits since it opened (last updated 03:09 UTC). About 14 hours old, not yet stale. Waiting on Tim to review and merge. The researcher's PR note asks Tim to confirm Phantom Blade Zero counts as AAA (evidence score only 1) before a pack is built.
+- Reminder from the 00:11 check: `grand-theft-auto-vi` is marked `done` on `main` although the game is not released until 2026-11-19. Its research file has 1 chapter and 0 collectibles. Tim may want to re-queue it after release.
+- No errors in state.json. No failed scheduled-task runs.
+
+**Researcher:** `game-researcher-routine` is enabled. Last run 2026-10-29 03:08 UTC SUCCEEDED (1 min 46 s), produced PR #11. Next run **2026-10-30 03:07 UTC** (about 10 hours away). If PR #11 is still unmerged then, `main`'s state.json still lists `phantom-blade-zero` as queued, so the researcher will likely redo it and open a duplicate PR. Merging PR #11 before then avoids that.
+
+**Next game in queue:** `phantom-blade-zero` — Phantom Blade Zero (2026, evidence 1, route original) until PR #11 merges. After that, `path-of-exile-2` — Path of Exile 2 (eligible 2026-12-11).
+
+**Coordinator timing:** this run fired about 3 minutes late (scheduled 17:09, fired 17:11). Next run 18:09 UTC. No runs skipped.
+
+---
 ## 2026-10-29 16:10 UTC
 
 **Year / queue:** currentYear = 2010 on `main` (unchanged). state.json on `main` (updated 2026-10-24): 497 games, **480 done**, 0 in-progress, **3 queued**, 14 skipped, 0 errors. **PR #11** (still open, see below) moves `phantom-blade-zero` to `done`; once merged `main` becomes 481 done / 2 queued. The other 2 queued games are unreleased (`path-of-exile-2` 2026-12-11, `prince-of-persia-the-sands-of-time-remake` 2026-12-31). `yearsCompleted` is still empty (cosmetic).
