@@ -4,6 +4,38 @@ Hourly status from the `game-companion-coordinator` scheduled task. Newest entry
 Tracks the 20-game research queue in `research/state.json` and files landing in `research/`.
 
 ---
+## 2026-10-29 11:10 UTC
+
+**Year / queue:** currentYear = 2010 on `main` (unchanged). state.json on `main` (updated 2026-10-24): 497 games, **480 done**, 0 in-progress, **3 queued**, 14 skipped, 0 errors. **PR #11** (still open, see below) moves `phantom-blade-zero` to `done`; once merged `main` becomes 481 done / 2 queued. The other 2 queued games are unreleased (`path-of-exile-2` 2026-12-11, `prince-of-persia-the-sands-of-time-remake` 2026-12-31). `yearsCompleted` is still empty (cosmetic).
+
+**Progress:** 480/497 games done on `main` (481/497 pending PR #11), no change since 10:10. The original 20-game goal was passed long ago.
+
+**Latest commits (origin/main):**
+- `8a0d95b` Coordinator log: 10:10 check (coordinator, 10:11 UTC)
+- `ec16714` Coordinator log: 09:10 check (coordinator, 09:12 UTC)
+- `2589750` Coordinator log: 08:15 check (coordinator, 08:16 UTC)
+- `48cc12c` Coordinator log: 07:11 check (coordinator, 07:12 UTC)
+- `a9c0455` Coordinator log: 06:15 check (coordinator, 06:17 UTC)
+
+Only the coordinator has committed in the last hour (`COORDINATOR_LOG.md` only). No commits touched `research/` or `packs/` on `main` since 10:00. Open PRs on GitHub: **1** (PR #11).
+
+**Research files:** `research/` on `main` holds `state.json` plus 480 game files, no non-JSON files, and every `done` slug in state.json has a matching `research/<slug>.json` (and vice versa, checked by script). No naming issues. `packs/` still does not exist (the `packPath` values are placeholders). Remote branches unchanged: `main`, 5 `claude/research-*` branches (only phantom-blade-zero is unmerged) and `claude/festive-turing-ek24ds`.
+
+**Quality check:** no new research files on `main` since the last check. PR #11 head is still `cc17f64`, so the 03:10 PASS result for `research/phantom-blade-zero.json` stands (id, title, platforms PC/PS5, `game` object with 1 chapter and 35 collectibles, route `original`).
+
+**Blockers / errors / stale PRs:**
+- **PR #11** (`claude/research-phantom-blade-zero`, opened 03:09 UTC by the researcher) is still open, mergeable state clean, 2 files changed, no comments, reviews or new commits since it opened. About 8 hours old, not yet stale. Waiting on Tim to review and merge. The researcher's PR note asks Tim to confirm Phantom Blade Zero counts as AAA (evidence score only 1) before a pack is built.
+- Reminder from the 00:11 check: `grand-theft-auto-vi` is marked `done` on `main` although the game is not released until 2026-11-19. Its research file has 1 chapter and 0 collectibles. Tim may want to re-queue it after release.
+- No errors in state.json. No failed scheduled-task runs.
+
+**Researcher:** `game-researcher-routine` is enabled. Last run 2026-10-29 03:08 UTC SUCCEEDED (1 min 46 s), produced PR #11. Next run **2026-10-30 03:07 UTC** (about 16 hours away). If PR #11 is still unmerged then, `main`'s state.json still lists `phantom-blade-zero` as queued, so the researcher will likely redo it and open a duplicate PR. Merging PR #11 before then avoids that.
+
+**Next game in queue:** `phantom-blade-zero` — Phantom Blade Zero (2026, evidence 1, route original) until PR #11 merges. After that, `path-of-exile-2` — Path of Exile 2 (eligible 2026-12-11).
+
+**Coordinator timing:** this run fired about 1 minute late (scheduled 11:09, fired 11:10:04). Next run 12:09 UTC. No runs skipped.
+
+---
+
 ## 2026-10-29 10:10 UTC
 
 **Year / queue:** currentYear = 2010 on `main` (unchanged). state.json on `main` (updated 2026-10-24): 497 games, **480 done**, 0 in-progress, **3 queued**, 14 skipped, 0 errors. **PR #11** (still open, see below) moves `phantom-blade-zero` to `done`; once merged `main` becomes 481 done / 2 queued. The other 2 queued games are unreleased (`path-of-exile-2` 2026-12-11, `prince-of-persia-the-sands-of-time-remake` 2026-12-31). `yearsCompleted` is still empty (cosmetic).
