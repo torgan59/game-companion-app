@@ -4,6 +4,35 @@ Hourly status from the `game-companion-coordinator` scheduled task. Newest entry
 Tracks the 20-game research queue in `research/state.json` and files landing in `research/`.
 
 ---
+## 2026-10-30 11:18 UTC
+
+**Year / queue:** currentYear = 2010 on `main` (unchanged). state.json on `main` (updated 2026-10-24): 497 games, **480 done**, 0 in-progress, **3 queued**, 14 skipped, 0 errors. **PR #11** (still open, see below) moves `phantom-blade-zero` to `done`; once merged `main` becomes 481 done / 2 queued. The other 2 queued games are unreleased (`path-of-exile-2` 2026-12-11, `prince-of-persia-the-sands-of-time-remake` 2026-12-31). `yearsCompleted` is still empty (cosmetic).
+
+**Progress:** 480/497 games done on `main` (481/497 pending PR #11), no change since 10:10. The original 20-game goal was passed long ago.
+
+**Latest commits (origin/main):**
+- `6cbde4c` Coordinator log: 10:10 check (coordinator, 10:13 UTC)
+- `1ab94d8` Coordinator log: 09:10 check (coordinator, 09:12 UTC)
+- `6c0e5db` Coordinator log: 08:19 check (coordinator, 08:21 UTC)
+- `7a8c7c0` Coordinator log: 07:10 check (coordinator, 07:16 UTC)
+- `4aca0bc` Coordinator log: 06:10 check (coordinator, 06:15 UTC)
+
+Only the coordinator has committed in the last hour (`COORDINATOR_LOG.md` only). Last non-coordinator commit on `main` is still `ad57d06` (merge of PR #10, 2026-10-28 17:59 UTC); the last commit touching `research/` on `main` is `0676d23` (Grand Theft Auto VI research, 2026-10-24 03:08 UTC). Open PRs on GitHub: **1** (PR #11). Remote branches unchanged: `main`, 5 `claude/research-*` branches (only phantom-blade-zero is unmerged, head still `cc17f64`) and `claude/festive-turing-ek24ds`. (As on previous runs, the container started with a detached HEAD and a shallow tracking ref that reported a "forced update"; the remote tip `6cbde4c` is the previous coordinator commit, so nothing was rewritten.)
+
+**Researcher:** the `game-researcher-routine` scheduled task last fired at 03:08 UTC today (SUCCEEDED, 32 seconds, no branch, commits or PR produced). Next run: 2026-10-31 03:07 UTC. It will again find nothing releasable to do until PR #11 merges.
+
+**Research files:** `research/` on `main` holds `state.json` plus 480 game files (481 files total), all named `<slug>.json`. Script check this run: every `done` slug has a matching file, every file has a `done` entry, no stray or badly named files, all 480 parse and carry `id`, `title`, `platforms` and a `game` object with `chapters` and `collectibles`, and each file's `id` matches its filename. `packs/` still does not exist (the `packPath` values are placeholders).
+
+**Quality check:** no new research files on `main` or on any branch since the last check. PR #11 head is still `cc17f64`, so the 2026-10-29 03:10 PASS result for `research/phantom-blade-zero.json` stands.
+
+**Blockers / errors / stale PRs:**
+- **PR #11** (`claude/research-phantom-blade-zero`, opened 2026-10-29 03:09 UTC by the researcher) is still open, head `cc17f64`, mergeable state clean, no comments, reviews or new commits since it opened. **Now 32 hours old.** Waiting on Tim to review and merge. The researcher's PR note asks Tim to confirm Phantom Blade Zero counts as AAA (evidence score only 1) before a pack is built. Until it merges, every daily researcher run will find nothing new to do, because the only remaining queued games are unreleased.
+- Reminder from the 2026-10-29 00:11 check: `grand-theft-auto-vi` is marked `done` on `main` although the game is not released until 2026-11-19. Its research file has 1 chapter and 0 collectibles. Tim may want to re-queue it after release.
+- Housekeeping note (repeated): `COORDINATOR_LOG.md` is about 1 MB / 9,600 lines after two weeks of hourly entries. Tim may want the coordinator to archive older entries or to log only on change. Not done without his say-so.
+
+**Next game in queue:** `phantom-blade-zero` — Phantom Blade Zero (2026, released 2026-10-29) is researched and waiting in PR #11. After it, nothing is eligible until `path-of-exile-2` (Path of Exile 2) releases on 2026-12-11.
+
+---
 ## 2026-10-30 10:10 UTC
 
 **Year / queue:** currentYear = 2010 on `main` (unchanged). state.json on `main` (updated 2026-10-24): 497 games, **480 done**, 0 in-progress, **3 queued**, 14 skipped, 0 errors. **PR #11** (still open, see below) moves `phantom-blade-zero` to `done`; once merged `main` becomes 481 done / 2 queued. The other 2 queued games are unreleased (`path-of-exile-2` 2026-12-11, `prince-of-persia-the-sands-of-time-remake` 2026-12-31). `yearsCompleted` is still empty (cosmetic).
@@ -1323,7 +1352,7 @@ No commits touched `research/` in the last 36 hours. Remote branches unchanged: 
 - `77ceab4` Coordinator log: 13:33 check (coordinator, 13:34 UTC)
 - `2cbf6fd` Coordinator log: 12:30 check (coordinator, 12:32 UTC)
 - `1df4609` Coordinator log: 11:30 check (coordinator, 11:31 UTC)
-- `aaa69cc` Coordinator log: 10:11 check (coordinator, 10:12 UTC)
+- `aaa69cc` Coordinator log: 10:11 check (coordinator, 10:13 UTC)
 
 No commits touched `research/` in the last 24 hours. Remote branches unchanged: `main`, `claude/research-grand-theft-auto-vi` (PR #10), plus the stale `claude/research-crimson-desert`, `claude/research-cyberpunk-2077`, `claude/research-forza-horizon-6` and `claude/festive-turing-ek24ds` branches from already-merged work. PR #10 is the only open PR (head still `0676d23`, no activity since 2026-10-24 03:08, zero comments).
 
@@ -1353,7 +1382,7 @@ No commits touched `research/` in the last 24 hours. Remote branches unchanged: 
 - `77ceab4` Coordinator log: 13:33 check (coordinator, 13:34 UTC)
 - `2cbf6fd` Coordinator log: 12:30 check (coordinator, 12:32 UTC)
 - `1df4609` Coordinator log: 11:30 check (coordinator, 11:31 UTC)
-- `aaa69cc` Coordinator log: 10:11 check (coordinator, 10:12 UTC)
+- `aaa69cc` Coordinator log: 10:11 check (coordinator, 10:13 UTC)
 - `248b665` Coordinator log: 09:11 check (coordinator, 09:12 UTC)
 
 No commits touched `research/` in the last 24 hours. Remote branches unchanged: `main`, `claude/research-grand-theft-auto-vi` (PR #10), plus the stale `claude/research-crimson-desert`, `claude/research-cyberpunk-2077`, `claude/research-forza-horizon-6` and `claude/festive-turing-ek24ds` branches from already-merged work. PR #10 is the only open PR (head still `0676d23`, no activity since 2026-10-24 03:08, zero comments).
@@ -1383,7 +1412,7 @@ No commits touched `research/` in the last 24 hours. Remote branches unchanged: 
 **Latest commits (origin/main):**
 - `2cbf6fd` Coordinator log: 12:30 check (coordinator, 12:32 UTC)
 - `1df4609` Coordinator log: 11:30 check (coordinator, 11:31 UTC)
-- `aaa69cc` Coordinator log: 10:11 check (coordinator, 10:12 UTC)
+- `aaa69cc` Coordinator log: 10:11 check (coordinator, 10:13 UTC)
 - `248b665` Coordinator log: 09:11 check (coordinator, 09:12 UTC)
 - `25d6c36` Coordinator log: 08:15 check (coordinator, 08:17 UTC)
 
@@ -1413,7 +1442,7 @@ No commits touched `research/` in the last 24 hours. Remote branches unchanged: 
 
 **Latest commits (origin/main):**
 - `1df4609` Coordinator log: 11:30 check (coordinator, 11:31 UTC)
-- `aaa69cc` Coordinator log: 10:11 check (coordinator, 10:12 UTC)
+- `aaa69cc` Coordinator log: 10:11 check (coordinator, 10:13 UTC)
 - `248b665` Coordinator log: 09:11 check (coordinator, 09:12 UTC)
 - `25d6c36` Coordinator log: 08:15 check (coordinator, 08:17 UTC)
 - `c2df50d` Coordinator log: 07:13 check (coordinator, 07:15 UTC)
@@ -1442,7 +1471,7 @@ No commits touched `research/` in the last 24 hours. Remote branches unchanged: 
 **Progress:** 479/497 games done on `main`, no change since 10:11. The original 20-game goal was passed long ago. **PR #10 is still open and still should not be merged as-is (see blockers).**
 
 **Latest commits (origin/main):**
-- `aaa69cc` Coordinator log: 10:11 check (coordinator, 10:12 UTC)
+- `aaa69cc` Coordinator log: 10:11 check (coordinator, 10:13 UTC)
 - `248b665` Coordinator log: 09:11 check (coordinator, 09:12 UTC)
 - `25d6c36` Coordinator log: 08:15 check (coordinator, 08:17 UTC)
 - `c2df50d` Coordinator log: 07:13 check (coordinator, 07:15 UTC)
@@ -3496,7 +3525,7 @@ No new research commits on `main` this hour (last commit touching `research/` is
 - `be2892d` Coordinator log: 13:10 check (coordinator, 13:12 UTC)
 - `d9a0c33` Coordinator log: 12:10 check (coordinator, 12:14 UTC)
 - `6299af8` Coordinator log: 11:10 check (coordinator, 11:12 UTC)
-- `a36181f` Coordinator log: 10:10 check (coordinator, 10:12 UTC)
+- `a36181f` Coordinator log: 10:10 check (coordinator, 10:13 UTC)
 
 No new research commits on `main` this hour (last commit touching `research/` is still `d6c4558`, research batch 24, 2026-10-23 04:34 UTC). No non-coordinator commits on `main` since the PR #9 merge on 2026-10-23 14:46 UTC. No new commits on PR #10's branch (head still `0676d23`, PR last updated 2026-10-24 03:08 UTC). PR #10 is the only open PR. Remote branches unchanged: `main`, `claude/research-grand-theft-auto-vi` (PR #10), plus the four stale `claude/research-*` and `claude/festive-turing-*` branches from already-merged work.
 
@@ -3525,7 +3554,7 @@ No new research commits on `main` this hour (last commit touching `research/` is
 - `be2892d` Coordinator log: 13:10 check (coordinator, 13:12 UTC)
 - `d9a0c33` Coordinator log: 12:10 check (coordinator, 12:14 UTC)
 - `6299af8` Coordinator log: 11:10 check (coordinator, 11:12 UTC)
-- `a36181f` Coordinator log: 10:10 check (coordinator, 10:12 UTC)
+- `a36181f` Coordinator log: 10:10 check (coordinator, 10:13 UTC)
 - `2e48a7a` Coordinator log: 09:10 check (coordinator, 09:11 UTC)
 
 No new research commits on `main` this hour (last commit touching `research/` is still `d6c4558`, research batch 24, 2026-10-23 04:34 UTC). No non-coordinator commits on `main` since the PR #9 merge on 2026-10-23 14:46 UTC. No new commits on PR #10's branch (head still `0676d23`, PR last updated 2026-10-24 03:08 UTC). PR #10 is the only open PR. Remote branches unchanged: `main`, `claude/research-grand-theft-auto-vi` (PR #10), plus the four stale `claude/research-*` and `claude/festive-turing-*` branches from already-merged work.
@@ -3554,7 +3583,7 @@ No new research commits on `main` this hour (last commit touching `research/` is
 **Latest commits (origin/main):**
 - `d9a0c33` Coordinator log: 12:10 check (coordinator, 12:14 UTC)
 - `6299af8` Coordinator log: 11:10 check (coordinator, 11:12 UTC)
-- `a36181f` Coordinator log: 10:10 check (coordinator, 10:12 UTC)
+- `a36181f` Coordinator log: 10:10 check (coordinator, 10:13 UTC)
 - `2e48a7a` Coordinator log: 09:10 check (coordinator, 09:11 UTC)
 - `52fe1be` Coordinator log: 08:10 check (coordinator, 08:12 UTC)
 
@@ -3583,7 +3612,7 @@ No new research commits on `main` this hour (last commit touching `research/` is
 
 **Latest commits (origin/main):**
 - `6299af8` Coordinator log: 11:10 check (coordinator, 11:12 UTC)
-- `a36181f` Coordinator log: 10:10 check (coordinator, 10:12 UTC)
+- `a36181f` Coordinator log: 10:10 check (coordinator, 10:13 UTC)
 - `2e48a7a` Coordinator log: 09:10 check (coordinator, 09:11 UTC)
 - `52fe1be` Coordinator log: 08:10 check (coordinator, 08:12 UTC)
 - `b41aeca` Coordinator log: 07:10 check (coordinator, 07:11 UTC)
@@ -3612,7 +3641,7 @@ No new research commits on `main` this hour (last commit touching `research/` is
 **Progress:** 479/497 games done on `main`, no change since 10:10. The original 20-game goal was passed long ago. **PR #10 is still open and still should not be merged as-is (see blockers).**
 
 **Latest commits (origin/main):**
-- `a36181f` Coordinator log: 10:10 check (coordinator, 10:12 UTC)
+- `a36181f` Coordinator log: 10:10 check (coordinator, 10:13 UTC)
 - `2e48a7a` Coordinator log: 09:10 check (coordinator, 09:11 UTC)
 - `52fe1be` Coordinator log: 08:10 check (coordinator, 08:12 UTC)
 - `b41aeca` Coordinator log: 07:10 check (coordinator, 07:11 UTC)
@@ -4217,7 +4246,7 @@ No new research commits on `main` this hour (last commit touching `research/` is
 - `d45e96e` Coordinator log: 13:10 check (coordinator, 13:11 UTC)
 - `394f824` Coordinator log: 12:10 check (coordinator, 12:12 UTC)
 - `a3be11f` Coordinator log: 11:10 check (coordinator, 11:11 UTC)
-- `c43783c` Coordinator log: 10:10 check (coordinator, 10:12 UTC)
+- `c43783c` Coordinator log: 10:10 check (coordinator, 10:13 UTC)
 
 No new research commits on `main` this hour (last commit touching `research/` is still `d6c4558`, research batch 24, 2026-10-23 04:34 UTC). No new commits on PR #10's branch since 03:08 (head still `0676d23`, PR last updated 03:08 UTC). PR #10 is the only open PR.
 
@@ -4247,7 +4276,7 @@ No new research commits on `main` this hour (last commit touching `research/` is
 - `d45e96e` Coordinator log: 13:10 check (coordinator, 13:11 UTC)
 - `394f824` Coordinator log: 12:10 check (coordinator, 12:12 UTC)
 - `a3be11f` Coordinator log: 11:10 check (coordinator, 11:11 UTC)
-- `c43783c` Coordinator log: 10:10 check (coordinator, 10:12 UTC)
+- `c43783c` Coordinator log: 10:10 check (coordinator, 10:13 UTC)
 - `5566627` Coordinator log: 09:10 check (coordinator, 09:11 UTC)
 
 No new research commits on `main` this hour (last commit touching `research/` is still `d6c4558`, research batch 24, 2026-10-23 04:34 UTC). No new commits on PR #10's branch since 03:08 (head still `0676d23`, PR last updated 03:08 UTC). PR #10 is the only open PR.
@@ -4277,7 +4306,7 @@ No new research commits on `main` this hour (last commit touching `research/` is
 **Latest commits (origin/main):**
 - `394f824` Coordinator log: 12:10 check (coordinator, 12:12 UTC)
 - `a3be11f` Coordinator log: 11:10 check (coordinator, 11:11 UTC)
-- `c43783c` Coordinator log: 10:10 check (coordinator, 10:12 UTC)
+- `c43783c` Coordinator log: 10:10 check (coordinator, 10:13 UTC)
 - `5566627` Coordinator log: 09:10 check (coordinator, 09:11 UTC)
 - `7f802fe` Coordinator log: 08:10 check (coordinator, 08:10 UTC)
 
@@ -4307,7 +4336,7 @@ No new research commits on `main` this hour (last commit touching `research/` is
 
 **Latest commits (origin/main):**
 - `a3be11f` Coordinator log: 11:10 check (coordinator, 11:11 UTC)
-- `c43783c` Coordinator log: 10:10 check (coordinator, 10:12 UTC)
+- `c43783c` Coordinator log: 10:10 check (coordinator, 10:13 UTC)
 - `5566627` Coordinator log: 09:10 check (coordinator, 09:11 UTC)
 - `7f802fe` Coordinator log: 08:10 check (coordinator, 08:10 UTC)
 - `32ca52c` Coordinator log: 07:10 check (coordinator, 07:11 UTC)
@@ -4337,7 +4366,7 @@ No new research commits on `main` this hour (last commit touching `research/` is
 **Progress:** 479/497 games done on `main`, no change since 10:10. **PR #10 is still open and still should not be merged as-is (see blockers).**
 
 **Latest commits (origin/main):**
-- `c43783c` Coordinator log: 10:10 check (coordinator, 10:12 UTC)
+- `c43783c` Coordinator log: 10:10 check (coordinator, 10:13 UTC)
 - `5566627` Coordinator log: 09:10 check (coordinator, 09:11 UTC)
 - `7f802fe` Coordinator log: 08:10 check (coordinator, 08:10 UTC)
 - `32ca52c` Coordinator log: 07:10 check (coordinator, 07:11 UTC)
@@ -5600,7 +5629,7 @@ No new research commits this hour. The only commit since the last check is the p
 - `36aeb22` Coordinator log: 13:22 check, no change, researcher idle until 2026-10-29 (coordinator, 13:24 UTC)
 - `6217b08` Coordinator log: 12:17 check, no change, researcher idle until 2026-10-29 (coordinator, 12:20 UTC)
 - `26da168` Coordinator log: 11:20 check, no change, researcher idle until 2026-10-29 (coordinator, 11:21 UTC)
-- `b8eac9f` Coordinator log: 10:10 check, no change, researcher idle until 2026-10-29 (coordinator, 10:12 UTC)
+- `b8eac9f` Coordinator log: 10:10 check, no change, researcher idle until 2026-10-29 (coordinator, 10:13 UTC)
 
 No new research commits this hour. The only commit since the last check is the previous coordinator log entry. Last research commit on `main` is still `b72f263` (2026-10-20 21:33 UTC).
 
@@ -5626,7 +5655,7 @@ No new research commits this hour. The only commit since the last check is the p
 - `36aeb22` Coordinator log: 13:22 check, no change, researcher idle until 2026-10-29 (coordinator, 13:24 UTC)
 - `6217b08` Coordinator log: 12:17 check, no change, researcher idle until 2026-10-29 (coordinator, 12:20 UTC)
 - `26da168` Coordinator log: 11:20 check, no change, researcher idle until 2026-10-29 (coordinator, 11:21 UTC)
-- `b8eac9f` Coordinator log: 10:10 check, no change, researcher idle until 2026-10-29 (coordinator, 10:12 UTC)
+- `b8eac9f` Coordinator log: 10:10 check, no change, researcher idle until 2026-10-29 (coordinator, 10:13 UTC)
 - `5f1ba4b` Coordinator log: 09:12 check, no change, researcher idle until 2026-10-29 (coordinator, 09:13 UTC)
 
 No new research commits this hour. The only commit since the last check is the previous coordinator log entry. Last research commit on `main` is still `b72f263` (2026-10-20 21:33 UTC).
@@ -5652,7 +5681,7 @@ No new research commits this hour. The only commit since the last check is the p
 **Latest commits (origin/main):**
 - `6217b08` Coordinator log: 12:17 check, no change, researcher idle until 2026-10-29 (coordinator, 12:20 UTC)
 - `26da168` Coordinator log: 11:20 check, no change, researcher idle until 2026-10-29 (coordinator, 11:21 UTC)
-- `b8eac9f` Coordinator log: 10:10 check, no change, researcher idle until 2026-10-29 (coordinator, 10:12 UTC)
+- `b8eac9f` Coordinator log: 10:10 check, no change, researcher idle until 2026-10-29 (coordinator, 10:13 UTC)
 - `5f1ba4b` Coordinator log: 09:12 check, no change, researcher idle until 2026-10-29 (coordinator, 09:13 UTC)
 - `8ed22d0` Coordinator log: 08:12 check, no change, researcher idle until 2026-10-29 (coordinator, 08:13 UTC)
 
@@ -5678,7 +5707,7 @@ No new research commits this hour. The only commit since the last check is the p
 
 **Latest commits (origin/main):**
 - `26da168` Coordinator log: 11:20 check, no change, researcher idle until 2026-10-29 (coordinator, 11:21 UTC)
-- `b8eac9f` Coordinator log: 10:10 check, no change, researcher idle until 2026-10-29 (coordinator, 10:12 UTC)
+- `b8eac9f` Coordinator log: 10:10 check, no change, researcher idle until 2026-10-29 (coordinator, 10:13 UTC)
 - `5f1ba4b` Coordinator log: 09:12 check, no change, researcher idle until 2026-10-29 (coordinator, 09:13 UTC)
 - `8ed22d0` Coordinator log: 08:12 check, no change, researcher idle until 2026-10-29 (coordinator, 08:13 UTC)
 - `48719af` Coordinator log: 07:17 check, no change, researcher idle until 2026-10-29 (coordinator, 07:18 UTC)
@@ -5704,7 +5733,7 @@ No new research commits this hour. The only commit since the last check is the p
 **Progress:** 212/233 games done on `main`, no change since 10:10. Every released game in the queue is researched. The original 20-game target was met on 2026-10-20.
 
 **Latest commits (origin/main):**
-- `b8eac9f` Coordinator log: 10:10 check, no change, researcher idle until 2026-10-29 (coordinator, 10:12 UTC)
+- `b8eac9f` Coordinator log: 10:10 check, no change, researcher idle until 2026-10-29 (coordinator, 10:13 UTC)
 - `5f1ba4b` Coordinator log: 09:12 check, no change, researcher idle until 2026-10-29 (coordinator, 09:13 UTC)
 - `8ed22d0` Coordinator log: 08:12 check, no change, researcher idle until 2026-10-29 (coordinator, 08:13 UTC)
 - `48719af` Coordinator log: 07:17 check, no change, researcher idle until 2026-10-29 (coordinator, 07:18 UTC)
@@ -6269,7 +6298,7 @@ No new research on `main` this hour and no new pushes on any branch. The only co
 - `85bfe78` Coordinator log: 13:10 check (coordinator, 13:19 UTC)
 - `8bcdc9d` Coordinator log: 12:10 check (coordinator, 12:19 UTC)
 - `c1a3860` Coordinator log: 11:10 check (coordinator, 11:15 UTC)
-- `31b54b4` Coordinator log: 10:10 check (coordinator, 10:12 UTC)
+- `31b54b4` Coordinator log: 10:10 check (coordinator, 10:13 UTC)
 
 No new research on `main` this hour and no new pushes on any branch. The only commits since 19:47 UTC are coordinator log entries. PR #8's branch has been quiet since 21:33 UTC (about 17 h 40 min).
 
@@ -6301,7 +6330,7 @@ No new research on `main` this hour and no new pushes on any branch. The only co
 - `85bfe78` Coordinator log: 13:10 check (coordinator, 13:19 UTC)
 - `8bcdc9d` Coordinator log: 12:10 check (coordinator, 12:19 UTC)
 - `c1a3860` Coordinator log: 11:10 check (coordinator, 11:15 UTC)
-- `31b54b4` Coordinator log: 10:10 check (coordinator, 10:12 UTC)
+- `31b54b4` Coordinator log: 10:10 check (coordinator, 10:13 UTC)
 - `8d0ff7f` Coordinator log: 09:10 check (coordinator, 09:11 UTC)
 
 No new research on `main` this hour and no new pushes on any branch. The only commits since 19:47 UTC are coordinator log entries. PR #8's branch has been quiet since 21:33 UTC (about 16 h 40 min).
@@ -6333,7 +6362,7 @@ No new research on `main` this hour and no new pushes on any branch. The only co
 **Latest commits (origin/main):**
 - `8bcdc9d` Coordinator log: 12:10 check (coordinator, 12:19 UTC)
 - `c1a3860` Coordinator log: 11:10 check (coordinator, 11:15 UTC)
-- `31b54b4` Coordinator log: 10:10 check (coordinator, 10:12 UTC)
+- `31b54b4` Coordinator log: 10:10 check (coordinator, 10:13 UTC)
 - `8d0ff7f` Coordinator log: 09:10 check (coordinator, 09:11 UTC)
 - `4b92406` Coordinator log: 08:10 check (coordinator, 08:13 UTC)
 
@@ -6365,7 +6394,7 @@ No new research on `main` this hour and no new pushes on any branch. The only co
 
 **Latest commits (origin/main):**
 - `c1a3860` Coordinator log: 11:10 check (coordinator, 11:15 UTC)
-- `31b54b4` Coordinator log: 10:10 check (coordinator, 10:12 UTC)
+- `31b54b4` Coordinator log: 10:10 check (coordinator, 10:13 UTC)
 - `8d0ff7f` Coordinator log: 09:10 check (coordinator, 09:11 UTC)
 - `4b92406` Coordinator log: 08:10 check (coordinator, 08:13 UTC)
 - `af21e11` Coordinator log: 07:10 check (coordinator, 07:16 UTC)
@@ -6397,7 +6426,7 @@ No new research on `main` this hour and no new pushes on any branch. The only co
 **Progress:** 27/40 games merged to `main`. Counting PR #8, 212/233 games are researched, and every released game in the queue is done. The original 20-game target was met at 19:47 UTC on 2026-10-20.
 
 **Latest commits (origin/main):**
-- `31b54b4` Coordinator log: 10:10 check (coordinator, 10:12 UTC)
+- `31b54b4` Coordinator log: 10:10 check (coordinator, 10:13 UTC)
 - `8d0ff7f` Coordinator log: 09:10 check (coordinator, 09:11 UTC)
 - `4b92406` Coordinator log: 08:10 check (coordinator, 08:13 UTC)
 - `af21e11` Coordinator log: 07:10 check (coordinator, 07:16 UTC)
