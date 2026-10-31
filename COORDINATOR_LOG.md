@@ -4,6 +4,36 @@ Hourly status from the `game-companion-coordinator` scheduled task. Newest entry
 Tracks the 20-game research queue in `research/state.json` and files landing in `research/`.
 
 ---
+## 2026-10-31 09:11 UTC
+
+**Year / queue:** currentYear = 2010 on `main` (unchanged). state.json on `main` (updated 2026-10-24): 497 games, **480 done**, 0 in-progress, **3 queued**, 14 skipped, 0 errors. **PR #11** (still open, see below) moves `phantom-blade-zero` to `done`; once merged `main` becomes 481 done / 2 queued. The other 2 queued games are unreleased (`path-of-exile-2` 2026-12-11, `prince-of-persia-the-sands-of-time-remake` 2026-12-31). `yearsCompleted` is still empty (cosmetic).
+
+**Progress:** 480/497 games done on `main` (481/497 pending PR #11), no change since 08:10. The original 20-game goal was passed long ago.
+
+**Latest commits (origin/main):**
+- `8ca4c85` Coordinator log: 08:10 check (coordinator, 08:11 UTC)
+- `0c442f8` Coordinator log: 07:10 check (coordinator, 07:11 UTC)
+- `3d56481` Coordinator log: 06:10 check (coordinator, 06:13 UTC)
+- `65d7343` Coordinator log: 05:10 check (coordinator, 05:11 UTC)
+- `3585cde` Coordinator log: 04:10 check (coordinator, 04:11 UTC)
+
+Only the coordinator has committed in the last hour (`COORDINATOR_LOG.md` only). No commits touching `research/` or `packs/` on `main` since 2026-10-29. Open PRs on GitHub: **1** (PR #11). Remote branches unchanged: `main`, 5 `claude/research-*` branches (only phantom-blade-zero is unmerged, head still `cc17f64`) and `claude/festive-turing-ek24ds`. (The container again started with a detached HEAD at `1a956f1`; local `main` was fast-forwarded to `origin/main` at `8ca4c85`, nothing rewritten.)
+
+**Researcher:** the `game-researcher-routine` scheduled task (enabled, daily at 03:07 UTC) last fired today at 03:08 UTC (SUCCEEDED, 29 seconds, no branch, commit or PR produced, as expected while PR #11 is unmerged). Next run: 2026-11-01 03:07 UTC.
+
+**Research files:** `research/` on `main` holds `state.json` plus 480 game files (481 files total), all named `<slug>.json`. Script check this run: every `done` slug has a matching file (480/480), no files outside the queue, no stray or badly named files (all lower-case, hyphenated, all `.json`). `packs/` still does not exist (the 480 `packPath` values are placeholders).
+
+**Quality check:** no new research files on `main` or on any branch since the last check. PR #11 head is still `cc17f64`, so the 2026-10-29 03:10 PASS result for `research/phantom-blade-zero.json` stands.
+
+**Blockers / errors / stale PRs:**
+- **PR #11** (`claude/research-phantom-blade-zero`, opened 2026-10-29 03:09 UTC by the researcher) is still open, head `cc17f64`, 2 files, no comments, reviews or new commits since it opened (updated_at unchanged). **Now 54 hours old.** Waiting on Tim to review and merge. The researcher's PR note asks Tim to confirm Phantom Blade Zero counts as AAA (evidence score only 1) before a pack is built. Until it merges, every daily researcher run will find nothing new to do, because the only remaining queued games are unreleased.
+- Reminder from the 2026-10-29 00:11 check: `grand-theft-auto-vi` is marked `done` on `main` although the game is not released until 2026-11-19. Its research file has 1 chapter and 0 collectibles. Tim may want to re-queue it after release.
+- Housekeeping note (repeated): `COORDINATOR_LOG.md` is about 1.1 MB after two weeks of hourly entries. Tim may want the coordinator to archive older entries or to log only on change. Not done without his say-so.
+- No notification sent this run: nothing changed since 03:11, when Tim was last notified about PR #11.
+
+**Next game in queue:** `phantom-blade-zero` (Phantom Blade Zero, released 2026-10-29) is researched on PR #11 and only needs the merge. After that, nothing is eligible until `path-of-exile-2` (Path of Exile 2) releases on 2026-12-11.
+
+---
 ## 2026-10-31 08:10 UTC
 
 **Year / queue:** currentYear = 2010 on `main` (unchanged). state.json on `main` (updated 2026-10-24): 497 games, **480 done**, 0 in-progress, **3 queued**, 14 skipped, 0 errors. **PR #11** (still open, see below) moves `phantom-blade-zero` to `done`; once merged `main` becomes 481 done / 2 queued. The other 2 queued games are unreleased (`path-of-exile-2` 2026-12-11, `prince-of-persia-the-sands-of-time-remake` 2026-12-31). `yearsCompleted` is still empty (cosmetic).
