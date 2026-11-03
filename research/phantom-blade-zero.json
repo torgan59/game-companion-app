@@ -1,0 +1,336 @@
+{
+  "id": "phantom-blade-zero",
+  "title": "Phantom Blade Zero",
+  "year": 2026,
+  "releaseDate": "2026-10-29",
+  "platforms": [
+    "PC",
+    "PS5"
+  ],
+  "rawgId": 961205,
+  "rawgSlug": "phantom-blade-zero",
+  "playtime": 0,
+  "genres": [
+    "action",
+    "adventure"
+  ],
+  "tags": [],
+  "coverUrl": "https://media.rawg.io/media/games/25f/25f536a977488f12ef8a6d013e50fda1.jpg",
+  "steamAppId": 4115450,
+  "achievements": {
+    "total": 66,
+    "hidden": 31,
+    "examples": [
+      {
+        "name": "The Heart's Journey",
+        "percent": 91.3
+      },
+      {
+        "name": "Way of the Phantom",
+        "percent": 52.0
+      },
+      {
+        "name": "Listen to Every Flower",
+        "percent": 42.0
+      },
+      {
+        "name": "Way of the Blade",
+        "percent": 35.7
+      },
+      {
+        "name": "Overwhelming Force",
+        "percent": 28.4
+      }
+    ]
+  },
+  "wikiStructure": {
+    "strategywiki": {
+      "available": false,
+      "reason": "page missing"
+    },
+    "uesp": {
+      "available": false,
+      "reason": "not an Elder Scrolls game"
+    },
+    "fandom": {
+      "available": true,
+      "wiki": "phantom-blade.fandom.com",
+      "pages": 272,
+      "licence": "CC BY-SA",
+      "url": "https://phantom-blade.fandom.com/wiki/Phantom_Blade_Zero",
+      "note": "Wiki covers the whole Phantom Blade series; Zero-specific categories are small (Bosses 4, Characters 4, Documents 2, Gameplay 2). No chapter list yet."
+    }
+  },
+  "game": {
+    "id": "phantom-blade-zero",
+    "title": "Phantom Blade Zero",
+    "platforms": [
+      "PC",
+      "PS5"
+    ],
+    "blurb": "Martial-arts action-adventure from S-Game, released 29 October 2026. RAWG has no playtime figure yet.",
+    "accent": "#B3262D",
+    "chapters": [
+      {
+        "id": "chapter-1",
+        "title": "TBD after release",
+        "summary": "Game just released; chapter structure unknown. Do not invent chapters.",
+        "steps": []
+      }
+    ],
+    "collectibles": [
+      {
+        "id": "achievement-1",
+        "name": "The Heart's Journey",
+        "kind": "trophy",
+        "chapterId": "chapter-1",
+        "where": "Escape the Pursuers on the Main Road"
+      },
+      {
+        "id": "achievement-32",
+        "name": "Forbidden Arts Beneath the Lake",
+        "kind": "trophy",
+        "chapterId": "chapter-1",
+        "where": "Complete [Secrets at the Heart of the Lake]"
+      },
+      {
+        "id": "achievement-33",
+        "name": "Phantom and Blade",
+        "kind": "trophy",
+        "chapterId": "chapter-1",
+        "where": "Complete [Bloodline Awakening]"
+      },
+      {
+        "id": "achievement-34",
+        "name": "The Last of Baishan",
+        "kind": "trophy",
+        "chapterId": "chapter-1",
+        "where": "Complete [Secrets of the Baishan Sect]"
+      },
+      {
+        "id": "achievement-35",
+        "name": "Together Till the End",
+        "kind": "trophy",
+        "chapterId": "chapter-1",
+        "where": "Complete [The Journey Home]"
+      },
+      {
+        "id": "achievement-36",
+        "name": "A Wanderer's Honor",
+        "kind": "trophy",
+        "chapterId": "chapter-1",
+        "where": "Complete [Young Master Lan]"
+      },
+      {
+        "id": "achievement-37",
+        "name": "Spectral Blade",
+        "kind": "trophy",
+        "chapterId": "chapter-1",
+        "where": "Complete [A Severed Mindseal]"
+      },
+      {
+        "id": "achievement-38",
+        "name": "The Healer’s Legacy",
+        "kind": "trophy",
+        "chapterId": "chapter-1",
+        "where": "Complete [Flesh Lily], [Apprentice Healer], and [A Healer’s Mercy]"
+      },
+      {
+        "id": "achievement-39",
+        "name": "Lost and Found",
+        "kind": "trophy",
+        "chapterId": "chapter-1",
+        "where": "Complete All [Quick Hand’s Requests]"
+      },
+      {
+        "id": "achievement-40",
+        "name": "Even Trees Know Sorrow",
+        "kind": "trophy",
+        "chapterId": "chapter-1",
+        "where": "Complete [Heart of the Banyan]"
+      },
+      {
+        "id": "achievement-41",
+        "name": "A Tempered Ten",
+        "kind": "trophy",
+        "chapterId": "chapter-1",
+        "where": "Perform Tempering on 10 weapons"
+      },
+      {
+        "id": "achievement-42",
+        "name": "Overwhelming Force",
+        "kind": "trophy",
+        "chapterId": "chapter-1",
+        "where": "Upgrade a weapon to Level 30"
+      },
+      {
+        "id": "achievement-43",
+        "name": "Complete Mastery",
+        "kind": "trophy",
+        "chapterId": "chapter-1",
+        "where": "Collect 10 Sha-Chi Ambers"
+      },
+      {
+        "id": "achievement-44",
+        "name": "Listen to Every Flower",
+        "kind": "trophy",
+        "chapterId": "chapter-1",
+        "where": "Collect 10 Memory Flowers"
+      },
+      {
+        "id": "achievement-45",
+        "name": "Leave No Stone Unturned",
+        "kind": "trophy",
+        "chapterId": "chapter-1",
+        "where": "Collect 10 Blackstones"
+      },
+      {
+        "id": "achievement-46",
+        "name": "Collector’s Notes",
+        "kind": "trophy",
+        "chapterId": "chapter-1",
+        "where": "Collect 30 Accessories"
+      },
+      {
+        "id": "achievement-47",
+        "name": "Phantom Arsenal",
+        "kind": "trophy",
+        "chapterId": "chapter-1",
+        "where": "Perform Tempering on 10 Phantom Edges"
+      },
+      {
+        "id": "achievement-48",
+        "name": "Skill Over Strength",
+        "kind": "trophy",
+        "chapterId": "chapter-1",
+        "where": "Upgrade a Phantom Edge to Level 30"
+      },
+      {
+        "id": "achievement-49",
+        "name": "Way of the Phantom",
+        "kind": "trophy",
+        "chapterId": "chapter-1",
+        "where": "Perform a Chain Assassination"
+      },
+      {
+        "id": "achievement-50",
+        "name": "Way of the Blade",
+        "kind": "trophy",
+        "chapterId": "chapter-1",
+        "where": "Perform a Chain Execution"
+      },
+      {
+        "id": "achievement-51",
+        "name": "The Rusted Blade",
+        "kind": "trophy",
+        "chapterId": "chapter-1",
+        "where": "Inflict Blood Loss with Jagged Steel"
+      },
+      {
+        "id": "achievement-52",
+        "name": "A Drunken Dream",
+        "kind": "trophy",
+        "chapterId": "chapter-1",
+        "where": "Use Fanatic's Broken Blade to enter the [Drunk] State"
+      },
+      {
+        "id": "achievement-53",
+        "name": "Bloodless Victory",
+        "kind": "trophy",
+        "chapterId": "chapter-1",
+        "where": "Use Soft Snake Sword's [Serpentine Reversal] to deflect an enemy attack"
+      },
+      {
+        "id": "achievement-54",
+        "name": "The Flame Within",
+        "kind": "trophy",
+        "chapterId": "chapter-1",
+        "where": "Use Infernal Rouge to unleash [Phantom Blade]"
+      },
+      {
+        "id": "achievement-55",
+        "name": "The Blade's Thirst",
+        "kind": "trophy",
+        "chapterId": "chapter-1",
+        "where": "Use Outlaw's Warblade to unleash [Bloodthirst Frenzy]"
+      },
+      {
+        "id": "achievement-56",
+        "name": "Snow and Frost",
+        "kind": "trophy",
+        "chapterId": "chapter-1",
+        "where": "Use Whiteshadow to freeze an enemy"
+      },
+      {
+        "id": "achievement-57",
+        "name": "Cleave in Two",
+        "kind": "trophy",
+        "chapterId": "chapter-1",
+        "where": "Use Crescent Blade's [Qinglong Cleave] to instantly kill an enemy"
+      },
+      {
+        "id": "achievement-58",
+        "name": "Delayed Blast",
+        "kind": "trophy",
+        "chapterId": "chapter-1",
+        "where": "Use Fiend Saws to trigger [Fiend-Aura Erosion]"
+      },
+      {
+        "id": "achievement-59",
+        "name": "Perfectly Linked",
+        "kind": "trophy",
+        "chapterId": "chapter-1",
+        "where": "Use Seamless Death to land consecutive Flying Rings on a locked-on enemy"
+      },
+      {
+        "id": "achievement-60",
+        "name": "Baishan Tempest",
+        "kind": "trophy",
+        "chapterId": "chapter-1",
+        "where": "Use Baishan Stormsword to unleash [Lightning Storm]"
+      },
+      {
+        "id": "achievement-61",
+        "name": "Heavenfall Strike",
+        "kind": "trophy",
+        "chapterId": "chapter-1",
+        "where": "Use Bashpole to land an aerial slam on an enemy"
+      },
+      {
+        "id": "achievement-63",
+        "name": "Fists of Fury",
+        "kind": "trophy",
+        "chapterId": "chapter-1",
+        "where": "Use Iron Gauntlets to perform [Masterstroke Fist]"
+      },
+      {
+        "id": "achievement-64",
+        "name": "Lightning Fast",
+        "kind": "trophy",
+        "chapterId": "chapter-1",
+        "where": "Use Thunder Spear to paralyze an enemy"
+      },
+      {
+        "id": "achievement-65",
+        "name": "A Friend from Thin Air",
+        "kind": "trophy",
+        "chapterId": "chapter-1",
+        "where": "Use any Summon-type Phantom Edge to summon an ally"
+      },
+      {
+        "id": "achievement-66",
+        "name": "Defy Destiny",
+        "kind": "trophy",
+        "chapterId": "chapter-1",
+        "where": "Unlock all other achievements"
+      }
+    ]
+  },
+  "attribution": [
+    "RAWG: Game metadata, cover art, platforms, release date — https://rawg.io/games/phantom-blade-zero",
+    "Steam Web API: Achievement names, descriptions and global unlock percentages (app 4115450)",
+    "Wiki structure from Phantom Blade Wiki (Fandom) under CC BY-SA — https://phantom-blade.fandom.com/wiki/Phantom_Blade_Zero"
+  ],
+  "route": "original",
+  "notes": "Released 2026-10-29 (today); all queue siblings are unreleased. Evidence 1 only (RAWG players). Developer S-Game is a mid-size studio, so AAA status is borderline; Tim should confirm before building a pack. 66 Steam achievements (31 hidden, listed as hidden). No StrategyWiki page. Write guide content originally."
+}
