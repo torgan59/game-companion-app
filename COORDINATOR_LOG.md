@@ -4,6 +4,38 @@ Hourly status from the `game-companion-coordinator` scheduled task. Newest entry
 Tracks the 20-game research queue in `research/state.json` and files landing in `research/`.
 
 ---
+## 2026-11-03 13:12 UTC
+
+**Coordinator outage:** this is the first coordinator run since the 2026-11-01 08:10 UTC check, a gap of about 53 hours (roughly 52 hourly firings with no log entry and no commit). The scheduler shows the coordinator still enabled (hourly at :09) and the `game-researcher-routine` still enabled (daily 03:07 UTC), but the researcher's 2026-11-03 03:07 run **FAILED with `USAGE_LIMIT_REACHED`** after 7 seconds. The account usage limit is the likely cause of the missing coordinator runs as well. No routine run history is visible for the 11-02 03:07 researcher firing; it left no branch, commit or PR.
+
+**Year / queue:** currentYear = 2010 on `main` (unchanged). state.json on `main` (updated 2026-10-24): 497 games, **480 done**, 0 in-progress, **3 queued**, 14 skipped, 0 errors. **PR #11** (still open, see below) moves `phantom-blade-zero` to `done`; once merged `main` becomes 481 done / 2 queued. The other 2 queued games are unreleased (`path-of-exile-2` 2026-12-11, `prince-of-persia-the-sands-of-time-remake` 2026-12-31). `yearsCompleted` is still empty (cosmetic).
+
+**Progress:** 480/497 games done on `main` (481/497 pending PR #11), no change since 2026-11-01 08:10. The original 20-game goal was passed long ago.
+
+**Latest commits (origin/main):**
+- `4e62a07` Coordinator log: 08:10 check (coordinator, 11-01 08:11 UTC)
+- `0c1de9b` Coordinator log: 07:10 check (coordinator, 11-01 07:10 UTC)
+- `1c7ebb4` Coordinator log: 06:10 check (coordinator, 11-01 06:10 UTC)
+- `a5e86a7` Coordinator log: 05:10 check (coordinator, 11-01 05:10 UTC)
+- `657605f` Coordinator log: 04:10 check (coordinator, 11-01 04:10 UTC)
+
+No commit on `main` since 11-01 08:11. No commit in the last 7 days touches `research/`. Open PRs on GitHub: **1** (PR #11). Remote branches unchanged: `main`, 5 `claude/research-*` branches (only phantom-blade-zero is unmerged, head still `cc17f64`) and `claude/festive-turing-ek24ds`.
+
+**Researcher:** `game-researcher-routine` (enabled, daily 03:07 UTC) last fired 2026-11-03 03:07:55 UTC and **failed at 03:08:02 with reason `USAGE_LIMIT_REACHED`**. Next run: 2026-11-04 03:07 UTC. Even once the limit clears, it has nothing to do until PR #11 merges and a queued game is released.
+
+**Research files:** `research/` on `main` holds `state.json` plus 480 game files (481 files total), all named `<slug>.json`. Script check this run: every `done` slug has a matching file (480/480), no files outside the queue, no non-done slug has a file, no stray, non-JSON or badly named files, no file modified in the last 72 hours. `packs/` still does not exist (the 480 `packPath` values are placeholders).
+
+**Quality check:** no new research files on `main` or on any branch since the last check. PR #11 head is still `cc17f64`, so the 2026-10-29 03:10 PASS result for `research/phantom-blade-zero.json` stands.
+
+**Blockers / errors / stale PRs:**
+- **Usage limit reached.** The researcher's 11-03 run failed on the account usage limit and the coordinator itself missed about 52 hourly runs. If the limit is still in force, future runs of both routines will keep failing until it resets or Tim raises it. Nothing was lost: no research work was in flight.
+- **PR #11** (`claude/research-phantom-blade-zero`, opened 2026-10-29 03:09 UTC by the researcher) is still open, head `cc17f64`, no comments, reviews or new commits since it opened. **Now 130 hours (5.4 days) old.** Waiting on Tim to review and merge. The researcher's PR note asks Tim to confirm Phantom Blade Zero counts as AAA (evidence score only 1) before a pack is built.
+- Reminder from the 2026-10-29 00:11 check: `grand-theft-auto-vi` is marked `done` on `main` although the game is not released until 2026-11-19. Its research file has 1 chapter and 0 collectibles. Tim may want to re-queue it after release.
+
+**Next game in queue:** `phantom-blade-zero` — Phantom Blade Zero (2026, evidence 1) is claimed by PR #11 and only needs the merge. After that, `path-of-exile-2` — Path of Exile 2 (2026-12-11) and `prince-of-persia-the-sands-of-time-remake` — Prince of Persia: The Sands of Time Remake (2026-12-31), both unreleased, so the researcher should skip them until December.
+
+---
+
 ## 2026-11-01 08:10 UTC
 
 **Year / queue:** currentYear = 2010 on `main` (unchanged). state.json on `main` (updated 2026-10-24): 497 games, **480 done**, 0 in-progress, **3 queued**, 14 skipped, 0 errors. **PR #11** (still open, see below) moves `phantom-blade-zero` to `done`; once merged `main` becomes 481 done / 2 queued. The other 2 queued games are unreleased (`path-of-exile-2` 2026-12-11, `prince-of-persia-the-sands-of-time-remake` 2026-12-31). `yearsCompleted` is still empty (cosmetic).
