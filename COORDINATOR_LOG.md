@@ -34,7 +34,6 @@ Only coordinator log commits on `main` since 11-01 08:11. No commit since 2026-1
 **Next game in queue:** `phantom-blade-zero` — Phantom Blade Zero (2026, evidence 1) is claimed by PR #11 and only needs the merge. After that, `path-of-exile-2` — Path of Exile 2 (2026-12-11) and `prince-of-persia-the-sands-of-time-remake` — Prince of Persia: The Sands of Time Remake (2026-12-31), both unreleased, so the researcher should skip them until December.
 
 ---
----
 ## 2026-11-03 20:11 UTC
 
 **Status:** no change since the 19:12 UTC check. Eighth consecutive completed coordinator run since the 53-hour outage. The researcher still has not run since its failed 03:07 UTC firing (`USAGE_LIMIT_REACHED`); next run 2026-11-04 03:07 UTC.
