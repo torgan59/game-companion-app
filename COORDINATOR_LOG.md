@@ -3,6 +3,37 @@
 Hourly status from the `game-companion-coordinator` scheduled task. Newest entry first.
 Tracks the 20-game research queue in `research/state.json` and files landing in `research/`.
 
+## 2026-11-05 03:01 UTC
+
+**Status:** catch-up check after a planned pause. Tim asked at 2026-11-04 03:12 UTC to pause the coordinator until tomorrow night, so the hourly `game-companion-coordinator` scheduled task was disabled and no checks ran between 03:10 UTC on 11-04 and this one (23 skipped hours). A one-shot reminder fired at 03:00 UTC to turn it back on, but the re-enable was **refused**: an agent may only disable a scheduled task Tim created, not re-enable it. **The coordinator is still disabled** and needs Tim to switch it on at https://claude.ai/code/routines/trig_013bPHY5EAge8b7RLDHbDUyh. Nothing else changed during the pause.
+
+**Year / queue:** currentYear = 2010 on `main` (unchanged). state.json on `main` (updated 2026-10-24): 497 games, **480 done**, 0 in-progress, **3 queued**, 14 skipped, 0 errors. **PR #11** (still open) moves `phantom-blade-zero` to `done`; once merged `main` becomes 481 done / 2 queued. The other 2 queued games are unreleased (`path-of-exile-2` 2026-12-11, `prince-of-persia-the-sands-of-time-remake` 2026-12-31). `yearsCompleted` is still empty (cosmetic).
+
+**Progress:** 480/497 games done on `main` (481/497 pending PR #11), no change since 2026-11-01 08:10. The original 20-game goal was passed long ago.
+
+**Latest commits (origin/main):**
+- `d38cc39` Coordinator log: 03:10 check, researcher ran OK (coordinator, 11-04 03:11 UTC)
+- `e13adbd` Coordinator log: 02:10 check (coordinator, 11-04 02:10 UTC)
+- `eada711` Coordinator log: 01:10 check (coordinator, 11-04 01:10 UTC)
+- `f647a3d` Coordinator log: 00:10 check (coordinator, 11-04 00:11 UTC)
+- `ec5b85e` Coordinator log: 23:10 check (coordinator, 11-03 23:11 UTC)
+
+No commits on `main` during the pause. No commit since 2026-10-30 touches `research/`. Open PRs on GitHub: **1** (PR #11, head still `cc17f64`, updated 2026-10-29 03:09 UTC). Remote branches unchanged (5 `claude/research-*` plus `claude/festive-turing-ek24ds`).
+
+**Researcher:** `game-researcher-routine` (enabled, daily 03:07 UTC) last fired 2026-11-04 03:07:38 UTC and succeeded with nothing to do. Next run: 2026-11-05 03:07 UTC (6 minutes after this check). It was not paused. It will keep finding nothing to do until PR #11 merges and a queued game is released.
+
+**Research files:** `research/` on `main` holds `state.json` plus 480 game files, all named `<slug>.json`. Script check this run: every `done` slug has a matching file (480/480), no files outside the queue, no badly named files. `packs/` still does not exist (the 480 `packPath` values are placeholders).
+
+**Quality check:** no new research files on `main` or on any branch since the last check. PR #11 head unchanged at `cc17f64`, so the 2026-10-29 03:10 PASS result for `research/phantom-blade-zero.json` stands.
+
+**Blockers / errors / stale PRs:**
+- **Coordinator disabled.** The hourly check will not run again until Tim re-enables `game-companion-coordinator` himself (link above). The agent cannot do it.
+- **PR #11** (`claude/research-phantom-blade-zero`, opened 2026-10-29 03:09 UTC by the researcher) is still open, no comments, reviews or new commits. **Now 168 hours (7.0 days) old.** Waiting on Tim to review and merge. The researcher's PR note asks Tim to confirm Phantom Blade Zero counts as AAA (evidence score only 1) before a pack is built.
+- Reminder from the 2026-10-29 00:11 check: `grand-theft-auto-vi` is marked `done` on `main` although the game is not released until 2026-11-19. Its research file has 1 chapter and 0 collectibles. Tim may want to re-queue it after release.
+
+**Next game in queue:** `phantom-blade-zero` — Phantom Blade Zero (2026, evidence 1) is claimed by PR #11 and only needs the merge. After that, `path-of-exile-2` — Path of Exile 2 (2026-12-11) and `prince-of-persia-the-sands-of-time-remake` — Prince of Persia: The Sands of Time Remake (2026-12-31), both unreleased, so the researcher should skip them until December.
+
+---
 ## 2026-11-04 03:10 UTC
 
 **Status:** the researcher ran on schedule for the first time since the 2026-11-03 usage-limit failure. `game-researcher-routine` fired 2026-11-04 03:07:38 UTC and **SUCCEEDED** in 30 seconds (session `cse_01Bzx7VYnxgipMuAuxaACDax`, about 2,000 output tokens, cost about $0.21). It pushed no branch, no commit and no PR, which is the expected outcome: the only released queued game (`phantom-blade-zero`) is already claimed by PR #11 and the other two queued games are unreleased. Fifteenth consecutive completed coordinator run since the 53-hour outage. The usage limit has now cleared for both scheduled tasks.
